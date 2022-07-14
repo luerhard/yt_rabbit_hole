@@ -1,4 +1,4 @@
-Creator "igraph version 1.3.1 Thu Jul 14 09:45:03 2022"
+Creator "igraph version 1.3.1 Thu Jul 14 11:01:17 2022"
 Version 1
 graph
 [
@@ -9,7 +9,7 @@ graph
     label "pyUQP-R48yg"
     step 0
     date "2022-07-08T19:14:03Z"
-    title "The Great Replacement Theory E tongue sticking out lained"
+    title "The Great Replacement Theory Explained"
     description "Mr. Beat explains the Great Replacement Theory and how manipulative propaganda fools us into believing white nationalist talking points.&#10;&#10;Produced by Matt Beat. All images and video by Matt Beat, used under fair use guidelines, or found in the public domain. Animations by Rob Bellon. Illustrations by Omar K. Music by @Electric Needle Room (Mr. Beat's band), @bad snacks, and @TrackTribe. A special thanks to Define American for support with this video and Shauna Siggelkow, Beth Goldberg, and Brian Hughes.&#10;&#10;Sources/further reading:&#10;https://www.scientificamerican.com/article/race-is-a-social-construct-scientists-argue/ &#10;https://www.science.org/content/article/how-europeans-evolved-white-skin &#10;https://www.pewresearch.org/politics/2011/08/30/section-1-a-demographic-portrait-of-muslim-americans/ &#10;https://www.ispu.org/who-are-white-muslims/ &#10;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4641149/&#10;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3969091/ &#10;https://www.thejournal.ie/debunk-flight-afghanistan-men-5525177-Aug2021/ &#10;https://www.snopes.com/fact-check/isis-flag-refugees-germany/ &#10;https://www.hamhigh.co.uk/news/camden-council-appoints-mayor-sabrina-francis-7947908 &#10;https://immigrationforum.org/wp-content/uploads/2021/12/Replacement-Theory-Explainer-1122.pdf&#10;https://www.adl.org/resources/backgrounders/the-great-replacement-an-explainer&#10;https://en.wikipedia.org/wiki/Great_Replacement&#10;https://www.newyorker.com/magazine/2017/12/04/the-french-origins-of-you-will-not-replace-us&#10;https://www.youtube.com/watch?v=G8LGX8o2fw8 &#10;https://scholar.princeton.edu/sites/default/files/lboustan/files/aeri.20190079.pdf&#10;https://rumble.com/vmvv07-tucker-carlson-blasts-biden-for-championing-the-so-called-great-replacement.html &#10;https://nationalvanguard.org/2017/02/whites-the-new-visible-minority/&#10;https://rhyclearinghouse.acf.hhs.gov/sites/default/files/docs/20068-The_Adaptation_of_Migrant.pdf &#10;&#10;For business inquiries or to send snail mail to Mr. Beat: &#10;https://www.iammrbeat.com/contact.html&#10;https://www.youtube.com/c/iammrbeat/about&#10;&#10;Buy Mr. Beat merch:&#10;https://matt-beat-shop.fourthwall.com/&#10;https://www.bonfire.com/store/mr-beat/&#10;https://sfsf.shop/support-mrbeat/&#10;&#10;Buy Mr. Beat's book:&#10;https://amzn.to/386g7cz&#10;&#10;How to support Mr. Beat: &#10;Donate to Mr. Beat for great perks on Patreon: https://www.patreon.com/iammrbeat&#10;Donate to Mr. Beat on Paypal: https://www.paypal.me/mrbeat&#10;Buy Mr. Beat a coffee: https://ko-fi.com/iammrbeat&#10;&#8220;Free&#8221; ways to show support:&#10;Subscribe to my channel&#10;Turn on notifications&#10;Like, share, and comment on my videos&#10;&#10;Connect:&#10;Mr. Beat on Cameo, yo: https://www.cameo.com/iammrbeat?qid=1...&#10;Mr. Beat on Reddit: https://www.reddit.com/r/mrbeat/&#10;Mr. Beat on Twitter: https://twitter.com/beatmastermatt&#10;Mr. Beat on Facebook: https://www.facebook.com/iammrbeat/&#10;Mr. Beat on Instagram: https://www.instagram.com/iammrbeat&#10;Mr. Beat's Discord server: https://discord.gg/g8cZPjt&#10;Mr. Beat's TikTok: https://www.tiktok.com/@iammrbeat?lan...&#10;Mr. Beat&#8217;s website: https://www.iammrbeat.com/&#10;Mr. Beat's band: http://electricneedleroom.net/&#10;Mr. Beat's Pinterest: https://www.pinterest.com/iammrbeat/&#10;Linktree: https://linktr.ee/iammrbeat&#10;&#10;#mrbeat #socialstudies #politicalscience &#10;&#10;Mr. Beat&#8217;s second channel: https://www.youtube.com/channel/UCJYl...&#10;Listen on Spotify: https://open.spotify.com/artist/62BsM...&#10;&#10;Mr. Beat favorites: &#10;POP! Icons: George Washington https://go.magik.ly/ml/11jrb/&#10;Shampoo: https://rb.gy/vlqeym&#10;Acne fighter: https://rb.gy/a6dnb0&#10;Wallet: https://shop.ekster.com/mr-beat2&#10;&#10;Recommended books: &#10;Republic, Lost by Lawrence Lessing https://go.magik.ly/ml/11jul/&#10;Truman by David McCullough https://go.magik.ly/ml/11jwc/&#10;How the States Got Their Shapes by Mark Stein https://go.magik.ly/ml/1fdvf/&#10;Command and Control by Eric Scholosser https://go.magik.ly/ml/1fdvi/&#10;The Age of Fracture by Daniel Rodgers https://go.magik.ly/ml/1fdvn/&#10;Blowback by Chalmers Johnson https://go.magik.ly/ml/1fdvw/&#10;The Third Reich at War by Richard Evans https://go.magik.ly/ml/1fdvt/&#10;Railroaded by Richard White https://go.magik.ly/ml/1fdwq/&#10;The War on Normal People by Andrew Yang https://go.magik.ly/ml/1fdwi/&#10;A Short History of Reconstruction by Eric Foner https://go.magik.ly/ml/1fdwk/&#10;The Righteous Mind by Jonathan Haidt https://go.magik.ly/ml/1fdwn/&#10;&#10;Studio equipment:&#10;Canon EOS M50 Camera EF-M 15-45mm Lens https://amzn.to/3dcNPen&#10;Samtian LED Video Light Kit https://amzn.to/3llDwHO&#10;TroyStudio Acoustic Panel https://amzn.to/33CkqHn&#10;Blue Snowball iCE USB Mic https://amzn.to/2GseOHa&#10;&#10;Affiliate Links: &#10;Useful Charts: https://usefulcharts.com/?aff=12&#10;Typesy: https://ereflect.postaffiliatepro.com...&#10;Kids Connect: https://kidskonnect.com/?ref=iammrbeat&#10;Ekster: https://ekster.com?sca_ref=444709.jvl...&#10;&#10;I use MagicLinks for all my ready-to-shop product links. Check it out here:&#10;https://www.magiclinks.com/rewards/re...&#10;FTC Disclosure: This post or video contains affiliate links, which means I may receive a commission for purchases made through my links."
     channeltitle "Mr. Beat"
     channelid "UCmYesELO6axBrCuSpf7S9DQ"
@@ -27,7 +27,7 @@ graph
     label "8KB62ySUVcE"
     step 0
     date "2022-05-17T19:08:37Z"
-    title "What is conspiracy theory?"
+    title "What is  conspiracy theory?"
     description "Investigators of a mass shooting in Buffalo are looking into a 180-page manifesto, believed to have been authored by the gunman, that outlined &#8216;The Great Replacement&#8217; conspiracy theory popular among white nationalists. What is 'The Great Replacement'?&#10; &#10;#TheGreatReplacement #Buffalo #GunViolence #SupermerketShooting #News #Reuters&#10;&#10;Subscribe: http://smarturl.it/reuterssubscribe&#10;&#10;Reuters brings you the latest business, finance and breaking news video from around the globe.  Our reputation for accuracy and impartiality is unparalleled.&#10;&#10;Get the latest news on: http://reuters.com/&#10;Follow Reuters on Facebook: https://www.facebook.com/Reuters&#10;Follow Reuters on Twitter: https://twitter.com/Reuters&#10;Follow Reuters on Instagram: https://www.instagram.com/reuters/?hl=en"
     channeltitle "Reuters"
     channelid "UChqUTb7kYRX8-EiaN3XFrSQ"
@@ -63,7 +63,7 @@ graph
     label "FUripP2c5dE"
     step 0
     date "2022-05-17T03:47:56Z"
-    title "How is helping to fuel racist attacks | ABCNL"
+    title "How  is helping to fuel racist attacks | ABCNL"
     description "ABC News&#8217; Linsey Davis speaks with Stony Brook University sociologist Dr. Crystal Fleming about how Buffalo&#8217;s shooting highlights the &#8220;great replacement&#8221; theory that has fueled several racist attacks.&#10;&#10;ABC News Live Prime, Weekdays at 7EST &#38; 9EST &#10;WATCH the ABC News Live Stream Here: https://www.youtube.com/watch?v=w_Ma8oQLmSM &#10;SUBSCRIBE to ABC NEWS: https://bit.ly/2vZb6yP &#10;Watch More on http://abcnews.go.com/ &#10;LIKE ABC News on FACEBOOK https://www.facebook.com/abcnews &#10;FOLLOW ABC News on TWITTER: https://twitter.com/abc&#10;&#10;#racistattacks #drcrystalfleming #buffalo #greatreplacementtheory"
     channeltitle "ABC News"
     channelid "UCBi2mrWuNuyYy4gbM6fU18Q"
@@ -73,7 +73,7 @@ graph
     commentcount 1590
     duration "PT5M47S"
     indegree 62
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -91,7 +91,7 @@ graph
     commentcount 2554
     duration "PT6M29S"
     indegree 48
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -99,7 +99,7 @@ graph
     label "WjuxxBRP-hM"
     step 0
     date "2021-12-01T13:46:39Z"
-    title "What is Theory and how can we push back against it?"
+    title "What is  Theory and how can we push back against it?"
     description "It&#8217;s a bigoted ideology that has led to hate and violence &#8211; and to U.S. laws and fringe political movements. But why does it continue to shape immigration policies and pop up in cable news and social media? This week we speak to Alan Cross, a Southern Baptist pastor, and author who has written extensively on the role of the church in race relations.  &#13;&#10;&#13;&#10;   Be sure to check out our in-depth explainer and resource page about the &#8216;Great Replacement&#8217; theory&#8217;s origins, its misconceptions, and the ways we can push back against it."
     channeltitle "National Immigration Forum"
     channelid "UCvxciqcn-jlX0Ht6AihN5EA"
@@ -109,7 +109,7 @@ graph
     commentcount 220
     duration "PT19M36S"
     indegree 0
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -117,7 +117,7 @@ graph
     label "yQ4IuoJL8g0"
     step 0
     date "2022-05-17T03:19:43Z"
-    title "The Role Of The In American Extremism"
+    title "The Role Of The  In American Extremism"
     description "A theory that White Americans are being replaced by nonwhites once lived on the dark web. Now it's in right-wing media and pushed by some GOP members. #greatreplacementtheory #americanextremism #newsy &#10;&#10;-------------------------------------&#10;&#10;Newsy is your source for news and analysis covering the top stories from around the world. With persistent curiosity and no agenda, we strive to fuel meaningful conversations by highlighting multiple sides of every story. It&#8217;s news with the why.&#10;&#10;Join our newsletter at http://bit.ly/2q1tepr&#10;See more at http://www.newsy.com/&#10;Like Newsy on Facebook: http://www.facebook.com/newsy/&#10;Follow us on Twitter: http://www.twitter.com/newsy"
     channeltitle "Newsy"
     channelid "UCTln5ss6h6L_xNfMeujfPbg"
@@ -127,7 +127,7 @@ graph
     commentcount 509
     duration "PT2M52S"
     indegree 47
-    cluster 1
+    cluster 5
   ]
   node
   [
@@ -145,7 +145,7 @@ graph
     commentcount 1148
     duration "PT9M56S"
     indegree 49
-    cluster 1
+    cluster 5
   ]
   node
   [
@@ -153,7 +153,7 @@ graph
     label "AYG6iKt6Owo"
     step 0
     date "2022-05-16T23:35:21Z"
-    title "What is White and how is it driving gunmen today"
+    title "What is White  and how is it driving gunmen today"
     description "A racist theory, which suggests White people are being slowly but intentionally replaced by minorities and immigrants, is allegedly influencing the gunmen of many recent mass shootings. A CNN panel discusses the implications of this dangerous belief. #CNN #News"
     channeltitle "CNN"
     channelid "UCupvZG-5ko_eiXAupbDfxWw"
@@ -163,7 +163,7 @@ graph
     commentcount 4393
     duration "PT9M25S"
     indegree 51
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -199,7 +199,7 @@ graph
     commentcount 2428
     duration "PT5M12S"
     indegree 0
-    cluster 6
+    cluster 5
   ]
   node
   [
@@ -207,7 +207,7 @@ graph
     label "_kSigGDhlXA"
     step 0
     date "2020-01-21T05:00:10Z"
-    title "Bari Weiss Deconstructs Conspiracy Theory"
+    title "Bari Weiss Deconstructs  Conspiracy Theory"
     description "Taken from JRE #1415 w/Bari Weiss: https://youtu.be/nL-YwrjKqZU"
     channeltitle "JRE Clips"
     channelid "UCnxGkOGNMqQEUMvroOWps6Q"
@@ -217,7 +217,7 @@ graph
     commentcount 2853
     duration "PT9M25S"
     indegree 0
-    cluster 6
+    cluster 1
   ]
   node
   [
@@ -225,7 +225,7 @@ graph
     label "xF63xhZ-X4w"
     step 0
     date "2022-05-18T12:46:32Z"
-    title "US shooting: What is the theory?"
+    title "US shooting: What is the  theory?"
     description "Police investigating the killing of 10 black people in the US are investigating an online post by the teenage suspect which discusses &#8216;replacement theory&#8217; - the idea that white people are being replaced by minority populations."
     channeltitle "Al Jazeera English"
     channelid "UCNye-wNBqNL5ZzHSJj3l8Bg"
@@ -243,7 +243,7 @@ graph
     label "UrFWkoGMbi0"
     step 0
     date "2021-10-03T19:18:19Z"
-    title "Jim Acosta: Far-right is behind its own theory"
+    title "Jim Acosta: Far-right is behind its own  theory"
     description "CNN's Jim Acosta explains the consequences of Fox News host Tucker Carlson and far-right personalities spreading coronavirus misinformation.&#10;#JimAcosta #CNN #News"
     channeltitle "CNN"
     channelid "UCupvZG-5ko_eiXAupbDfxWw"
@@ -253,7 +253,7 @@ graph
     commentcount 4275
     duration "PT6M29S"
     indegree 38
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -271,7 +271,7 @@ graph
     commentcount 813
     duration "PT13M"
     indegree 48
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -279,7 +279,7 @@ graph
     label "IOn_gL3HpJo"
     step 0
     date "2022-05-20T18:16:28Z"
-    title "A look into the theory that may have inspired alleged Buffalo shooter l ABC News"
+    title "A look into the  theory that may have inspired alleged Buffalo shooter l ABC News"
     description "The white supremacist conspiracy has spread online and inspired violent extremists worldwide, from Christchurch, New Zealand, to El Paso, Texas.&#10;&#10;&#10;#Buffalo #PaytonGendron #Racism #buffaloshooting #replacementtheory #massshooting"
     channeltitle "ABC News"
     channelid "UCBi2mrWuNuyYy4gbM6fU18Q"
@@ -289,7 +289,7 @@ graph
     commentcount 315
     duration "PT4M38S"
     indegree 7
-    cluster 2
+    cluster 5
   ]
   node
   [
@@ -307,7 +307,7 @@ graph
     commentcount 5715
     duration "PT3M57S"
     indegree 68
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -361,7 +361,7 @@ graph
     commentcount 6168
     duration "PT9M7S"
     indegree 124
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -369,7 +369,7 @@ graph
     label "SOahJtcq91c"
     step 0
     date "2022-05-16T14:22:13Z"
-    title "Buffalo Massacre: Gunman Cited Racist Conspiracy Theory Popularized by Fox News"
+    title "Buffalo Massacre: Gunman Cited Racist  Conspiracy Theory Popularized by Fox News"
     description "The mass shooter who killed 10 people in Buffalo, New York, on Saturday posted a racist manifesto online before targeting a majority-Black neighborhood. His writings took heavily from conservative conspiracy theories that white people were in danger of being replaced by people of color. This so-called Great Replacement conspiracy theory has been promoted by major far-right media figures including Tucker Carlson of Fox News. &#8220;What it does is create a dynamic where believers view immigrants and nonwhite people as an existential threat not only to themselves physically but to their position in society,&#8221; says Nikki McCann Ram&#237;rez, associate research director at Media Matters for America, who has researched how Carlson uses his show to launder white nationalist ideology. We also speak with prominent antiracist scholar Ibram X. Kendi, who says mainstream conservatives are increasingly parroting extremist talking points.&#10;&#10;#DemocracyNow&#13;&#10;&#13;&#10;Democracy Now! is an independent global news hour that airs on nearly 1,400 TV and radio stations Monday through Friday. Watch our livestream 8-9AM ET: https://democracynow.org&#13;&#10;&#13;&#10;Please consider supporting independent media by making a donation to Democracy Now! today: https://democracynow.org/donate&#13;&#10;&#13;&#10;FOLLOW DEMOCRACY NOW! ONLINE:&#13;&#10;YouTube: http://youtube.com/democracynow &#13;&#10;Facebook: http://facebook.com/democracynow &#13;&#10;Twitter: https://twitter.com/democracynow&#13;&#10;Instagram: http://instagram.com/democracynow&#13;&#10;SoundCloud: http://soundcloud.com/democracynow &#13;&#10;iTunes: https://itunes.apple.com/podcast/democracy-now!-audio/id73802554 &#13;&#10;Daily Email Digest: https://democracynow.org/subscribe"
     channeltitle "Democracy Now!"
     channelid "UCzuqE7-t13O4NIDYJfakrhw"
@@ -379,7 +379,7 @@ graph
     commentcount 6930
     duration "PT14M10S"
     indegree 71
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -415,7 +415,7 @@ graph
     commentcount 482
     duration "PT2M13S"
     indegree 42
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -433,7 +433,7 @@ graph
     commentcount 44
     duration "PT4M34S"
     indegree 53
-    cluster 5
+    cluster 2
   ]
   node
   [
@@ -441,7 +441,7 @@ graph
     label "gAMBsFUnGb0"
     step 0
     date "2022-06-05T17:27:18Z"
-    title "Poll Finds Majority Of GOP Believes in Theory"
+    title "Poll Finds Majority Of GOP Believes in  Theory"
     description "Disturbing new poll data released by the Southern Poverty Law Center reveals a majority of Republicans agree with key tenets of the racist &#34;Great Replacement&#34; theory. SPLC's Intelligence Project Director Susan Corke joins Jonathan Capehart to explain what that means for the future of American politics and the health of American democracy. &#187; Subscribe to MSNBC: http://on.msnbc.com/SubscribeTomsnbc&#10;&#10;MSNBC delivers breaking news, in-depth analysis of politics headlines, as well as commentary and informed perspectives. Find video clips and segments from The Rachel Maddow Show, Morning Joe, Meet the Press Daily, The Beat with Ari Melber, Deadline: White House with Nicolle Wallace, The ReidOut, All In, Last Word, 11th Hour, and more.&#10;&#10;Connect with MSNBC Online&#10;Visit msnbc.com: http://on.msnbc.com/Readmsnbc&#10;Subscribe to MSNBC Newsletter: http://link.msnbc.com/join/5ck/msnbc-daily-signup-youtube&#10;Find MSNBC on Facebook: http://on.msnbc.com/Likemsnbc&#10;Follow MSNBC on Twitter: http://on.msnbc.com/Followmsnbc&#10;Follow MSNBC on Instagram: http://on.msnbc.com/Instamsnbc&#10;&#10;&#10;&#10;#GOP #msnbc #Racism &#10;&#10;Poll Finds Majority Of GOP Believes in &#34;Great Replacement&#34; Theory"
     channeltitle "MSNBC"
     channelid "UCaXkIU1QidjPwiAYu6GcHjg"
@@ -451,7 +451,7 @@ graph
     commentcount 991
     duration "PT5M25S"
     indegree 9
-    cluster 1
+    cluster 7
   ]
   node
   [
@@ -459,7 +459,7 @@ graph
     label "CxUoWEGojwc"
     step 0
     date "2022-05-17T00:00:09Z"
-    title "Buffalo Gunman Believed in Theory"
+    title "Buffalo Gunman Believed in  Theory"
     description "The man who shot and killed 10 people in Buffalo, NY, seemed to believe based off his writing in the 'great replacement,' a fringe belief commonly perpetuated on Fox News. Here's what you should know about the racist, far-right theory. (warning: distressing themes)&#10;&#187; Sign up for our newsletter KnowThis to get the biggest stories of the day delivered straight to your inbox: https://go.nowth.is/knowthis_youtube&#10;&#187; Subscribe to NowThis: http://go.nowth.is/News_Subscribe&#10;&#10;For more U.S. news, subscribe to NowThis News.&#10;&#10;#Buffalo #BuffaloShooting #FoxNews #Politics #News #NowThis&#10;&#10;Connect with NowThis&#10;&#187; Like us on Facebook: http://go.nowth.is/News_Facebook&#10;&#187; Tweet us on Twitter: http://go.nowth.is/News_Twitter&#10;&#187; Follow us on Instagram: http://go.nowth.is/News_Instagram&#10;&#187; Find us on Snapchat Discover: http://go.nowth.is/News_Snapchat&#10;&#10;NowThis is your premier news outlet providing you with all the videos you need to stay up to date on all the latest in trending news. From entertainment to politics, to viral videos and breaking news stories, we&#8217;re delivering all you need to know straight to your social feeds. We live where you live.&#10;&#10;http://www.youtube.com/nowthisnews&#10;@nowthisnews"
     channeltitle "NowThis News"
     channelid "UCn4sPeUomNGIr26bElVdDYg"
@@ -469,7 +469,7 @@ graph
     commentcount 1037
     duration "PT3M11S"
     indegree 14
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -477,7 +477,7 @@ graph
     label "aVA0-XgN80A"
     step 0
     date "2022-05-17T20:30:01Z"
-    title "What is the that influenced the accused in the Buffalo mass shooting?"
+    title "What is the  that influenced the accused in the Buffalo mass shooting?"
     description "The United States witnessed one of the deadliest mass shootings driven by racist ideology in recent history. An 18-year-old guy named Payton Gendron opened fire at more than a dozen people at a supermarket in New York's Buffalo. But what drove the young man to go on a killing spree? Watch this report.&#10;&#10;#GreatReplacementTheory #Buffalo #MassShooting&#10;&#10;About Channel: &#10;&#10;WION -The World is One News, examines global issues with in-depth analysis. We provide much more than the news of the day. Our aim to empower people to explore their world. With our Global headquarters in New Delhi, we bring you news on the hour, by the hour. We deliver information that is not biased. We are journalists who are neutral to the core and non-partisan when it comes to the politics of the world. People are tired of biased reportage and we stand for a globalised united world. So for us the World is truly One.&#10; &#10;Please keep discussions on this channel clean and respectful and refrain from using racist or sexist slurs as well as personal insults.&#10;&#10;Subscribe to our channel at https://goo.gl/JfY3NI&#10;Check out our website: http://www.wionews.com&#10;Connect with us on our social media handles:&#10;Facebook: https://www.facebook.com/WIONews&#10;Twitter: https://twitter.com/WIONews&#10;&#10;Follow us on Google News for latest updates&#10;&#10;Zee News:- https://bit.ly/2Ac5G60&#10;Zee Bussiness:- https://bit.ly/36vI2xa&#10;DNA India:- https://bit.ly/2ZDuLRY&#10;WION: https://bit.ly/3gnDb5J&#10;Zee News Apps : https://bit.ly/ZeeNewsApps"
     channeltitle "WION"
     channelid "UC_gUM8rL-Lrg6O3adPW9K1g"
@@ -487,7 +487,7 @@ graph
     commentcount 385
     duration "PT2M32S"
     indegree 15
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -495,7 +495,7 @@ graph
     label "hLX0I0XiYoE"
     step 0
     date "2021-04-14T01:15:19Z"
-    title "Tucker Carlson Doubles Down on White Supremacist Theory | The Mehdi Hasan Show"
+    title "Tucker Carlson Doubles Down on White Supremacist  Theory | The Mehdi Hasan Show"
     description "The Atlantic's Adam Serwer and Mehdi discuss Carlson's history of promulgating racist rhetoric on prime time television and its real-life consequences.&#10;&#10;The Mehdi Hasan Show: Insightful reporting and probing interviews that examine the day's events and provide a deeper level of context for the politics of our interconnected society. Watch The Mehdi Hasan Show on The Choice channel on Peacock TV, weeknights, 7 p.m. ET. Subscribe to the channel for more interviews. &#10;&#10;http://peacocktv.com"
     channeltitle "MSNBC On Peacock"
     channelid "UC3LDlm9POXkzp1odEsK_OUg"
@@ -505,7 +505,7 @@ graph
     commentcount 448
     duration "PT16M8S"
     indegree 44
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -513,7 +513,7 @@ graph
     label "Cjlte4xVu_Q"
     step 0
     date "2022-05-17T02:57:46Z"
-    title "What is the how is it connected to the Buffalo shooting?"
+    title "What is the  how is it connected to the Buffalo shooting?"
     description "Following Saturday's deadly shooting rampage in Buffalo, N.Y., a 180-page purported manifesto attributed to the suspect has surfaced, which outlines the shooter's motives, details how he had been radicalized, and how he &#34;planned to kill as many Blacks as possible,&#34; according to officials.  The manifesto's author also wrote about something called the &#34;Great Replacement.&#34;  KCRA 3 's Brittany Johnson 'Gets the Facts' on what this theory is all about.&#10;&#10;Subscribe to KCRA on YouTube now for more: http://bit.ly/1kjRAAn&#10;&#10;Get more Sacramento news: http://www.kcra.com&#10;Like us: http://facebook.com/KCRA3&#10;Follow us: http://twitter.com/kcranews&#10;Instagram: https://www.instagram.com/kcranews/"
     channeltitle "KCRA News"
     channelid "UC-BSVXejMFhhml4V_VyoGxg"
@@ -541,7 +541,7 @@ graph
     commentcount 66
     duration "PT5M33S"
     indegree 18
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -549,7 +549,7 @@ graph
     label "OjBGADt2jdY"
     step 0
     date "2022-05-17T18:09:20Z"
-    title "How the right embraced the racist theory"
+    title "How the right embraced the racist  theory"
     description "The Fix&#8217;s Aaron Blake analyzes how and why conservatives continued to embrace the racist &#8220;great replacement&#8221; theory, even after it was linked to mass shootings. Read more: https://wapo.st/3LqRrJc. Subscribe to The Washington Post on YouTube: https://wapo.st/2QOdcqK&#10;&#10;Follow us:&#10;Twitter: https://twitter.com/washingtonpost&#10;Instagram: https://www.instagram.com/washingtonpost/&#10;Facebook: https://www.facebook.com/washingtonpost/"
     channeltitle "Washington Post"
     channelid "UCHd62-u_v4DvJ8TCFtpi4GA"
@@ -559,7 +559,7 @@ graph
     commentcount 371
     duration "PT2M44S"
     indegree 25
-    cluster 1
+    cluster 5
   ]
   node
   [
@@ -567,7 +567,7 @@ graph
     label "IvI2YJA1pm8"
     step 0
     date "2022-05-17T16:10:40Z"
-    title "Top Republican denies echoing racist rhetoric in ads"
+    title "Top Republican denies echoing racist  rhetoric in ads"
     description "Rep. Elise Stefanik of New York, the House Republican Conference chair, is pushing back on the criticism of her Facebook ads that featured rhetoric echoing the racist &#8220;replacement theory.&#8221; The conspiracy theory claims liberal politicians are trying to replace White people with non-White people to transform the political landscape. There is renewed scrutiny on Stefanik&#8217;s ads from last fall after a suspect who espoused the &#34;replacement theory&#34; killed and targeted Black people in a mass shooting in Buffalo, New York, over the weekend. #CNN #News"
     channeltitle "CNN"
     channelid "UCupvZG-5ko_eiXAupbDfxWw"
@@ -577,7 +577,7 @@ graph
     commentcount 2759
     duration "PT8M34S"
     indegree 51
-    cluster 1
+    cluster 5
   ]
   node
   [
@@ -595,7 +595,7 @@ graph
     commentcount 734
     duration "PT57S"
     indegree 5
-    cluster 6
+    cluster 5
   ]
   node
   [
@@ -613,7 +613,7 @@ graph
     commentcount 26
     duration "PT33M31S"
     indegree 0
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -621,7 +621,7 @@ graph
     label "wubP6CIKAc4"
     step 0
     date "2022-05-17T16:08:45Z"
-    title "Jonathan Greenblatt of the Anti-Defamation League on theory and white supremacy"
+    title "Jonathan Greenblatt of the Anti-Defamation League on  theory and white supremacy"
     description "Katie talks with Jonathan Greenblatt of the Anti-Defamation League about the mass shooting in Buffalo, NY motivated by the white supremacist ideology known as &#34;great replacement&#34; theory that has become more and more prominent on the far right, making its way into mainstream politics and media, including Fox News and campaign ads for sitting House minority leadership.&#10;&#10;Subscribe to my channel: https://www.youtube.com/user/KatieCouric&#13;&#10;Follow me on Instagram: https://www.instagram.com/katiecouric/&#13;&#10;Subscribe to my podcast:  ApplePodcasts.com/KatieCouric&#13;&#10;Follow me on Facebook: https://www.facebook.com/KatieCouric&#13;&#10;Follow me on Twitter: https://twitter.com/katiecouric"
     channeltitle "Katie Couric"
     channelid "UCim9TnNKH5yinZm8_L95C-A"
@@ -639,7 +639,7 @@ graph
     label "674kFkrggZ4"
     step 0
     date "2022-05-17T00:03:33Z"
-    title "Dr. Yohuru Williams e tongue sticking out lains conspiracy theory at center of mass shooting"
+    title "Dr. Yohuru Williams explains  conspiracy theory at center of mass shooting"
     description "The horrifying theory isn't new, but it has been citied as the inspiration for a number of killings across the U.S. &#13;&#10;&#13;&#10;Welcome to the official YouTube channel of KARE 11 News. Subscribe to our channel for compelling and dramatic storytelling, award winning investigations, breaking news and information you can use.&#13;&#10;&#13;&#10;Text your photos, videos and news tips to 763-797-7215.&#13;&#10;&#13;&#10;&#187; Subscribe to KARE 11 on YouTube: https://www.youtube.com/subscription_...&#13;&#10;&#187; Watch more KARE 11 video: https://www.youtube.com/user/KARE11/v...&#13;&#10;&#187; Visit KARE11.com: http://www.kare11.com/&#13;&#10;&#187; Download our app! https://www.kare11.com/appredirect/&#13;&#10;&#187; Find KARE 11 on Facebook: https://www.facebook.com/KARE11/&#13;&#10;&#187; Follow KARE 11 on Twitter: https://twitter.com/kare11&#13;&#10;&#187; Follow KARE 11 on Instagram: https://www.instagram.com/kare11/"
     channeltitle "KARE 11"
     channelid "UC1JAwKeDUjN2orv5t7LWODQ"
@@ -649,7 +649,7 @@ graph
     commentcount 151
     duration "PT5M41S"
     indegree 8
-    cluster 6
+    cluster 2
   ]
   node
   [
@@ -667,7 +667,7 @@ graph
     commentcount 2640
     duration "PT18M3S"
     indegree 38
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -675,7 +675,7 @@ graph
     label "mc2TAjeok10"
     step 0
     date "2022-05-20T01:15:01Z"
-    title "Stefanik Challenger On Rhetoric | The Katie Phang Show"
+    title "Stefanik Challenger On  Rhetoric | The Katie Phang Show"
     description "Rep. Elise Stefanik has pushed the same &#8216;great replacement&#8217; conspiracy theory that allegedly motivated the suspected gunman in Buffalo. Former CIA officer Matt Castelli is running as a Democrat aiming to unseat Elise Stefanik, and he joins Katie Phang to discuss.&#160; &#187; Subscribe to MSNBC: http://on.msnbc.com/SubscribeTomsnbc&#10;&#10;About: MSNBC is the premier destination for in-depth analysis of daily headlines, insightful political commentary and informed perspectives. Reaching more than 95 million households worldwide, MSNBC offers a full schedule of live news coverage, political opinions and award-winning documentary programming -- 24 hours a day, 7 days a week.&#10;&#10;Connect with MSNBC Online&#10;Visit msnbc.com: http://on.msnbc.com/Readmsnbc&#10;Subscribe to MSNBC Newsletter: MSNBC.com/NewslettersYouTube&#10;Find MSNBC on Facebook: http://on.msnbc.com/Likemsnbc&#10;Follow MSNBC on Twitter: http://on.msnbc.com/Followmsnbc&#10;Follow MSNBC on Instagram: http://on.msnbc.com/Instamsnbc&#10;&#10;#MSNBC #News #ReplacementTheory"
     channeltitle "MSNBC"
     channelid "UCaXkIU1QidjPwiAYu6GcHjg"
@@ -685,7 +685,7 @@ graph
     commentcount 1640
     duration "PT9M33S"
     indegree 21
-    cluster 1
+    cluster 5
   ]
   node
   [
@@ -703,7 +703,7 @@ graph
     commentcount 439
     duration "PT9M35S"
     indegree 11
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -711,7 +711,7 @@ graph
     label "rZVlqVrz9Bc"
     step 0
     date "2022-05-20T20:37:18Z"
-    title "J.D. Vance Endorses Theory - Columbus on the Record"
+    title "J.D. Vance Endorses  Theory - Columbus on the Record"
     description "Host Mike Thompson and the Columbus on the Record panel look at the top stories of the week including:   Criticism that Senate Candidate J.D. Vance advocates the so-called &#8216;replacement theory&#8217;; Ohio Republicans propose a constitutional amendment to prevent non-residents from voting;  Ohio Democrats propose an abortion rights amendment, other topics. &#10;&#10;This week's panelists:&#10;Laura Bischoff, Statehouse Reporter for the @USA TODAY Ohio Network&#10;Joseph Mas of the Ohio Hispanic Coalition&#10;Mark Weaver, Republican Strategist &#10;&#10;Columbus on The Record and WOSU is viewer supported. Support news and programs on WOSU at https://wosu.org/give.&#10;&#10;#2022election &#10;#ohiopolitics&#10;#abortion&#10;&#10;Chapters&#10;00:00 - Introduction&#10;00:26  - Immigration Politics Intensify In Ohio&#10;07:12 - Republicans Propose Constitutional Amendment To Bar Non-Citizens From Voting In Ohio&#10;12:47 - Advocates Square Off In Post-Roe Ohio&#10;20:04 - Bail Reform - Ohio GOP Lawmakers Wants Judges To Consider Public Safety&#10;24:50 - Off The Record Parting Comments"
     channeltitle "WOSU Public Media"
     channelid "UCvhI63j18r0aAhfxQJ11EQg"
@@ -739,7 +739,7 @@ graph
     commentcount 21
     duration "PT4M21S"
     indegree 8
-    cluster 6
+    cluster 3
   ]
   node
   [
@@ -765,7 +765,7 @@ graph
     label "Qtv74QgJibE"
     step 0
     date "2022-06-08T01:00:03Z"
-    title "How Theory is Becoming Entrenched in the U.S."
+    title "How  Theory is Becoming Entrenched in the U.S."
     description "&#8216;They are no longer criminal. They&#8217;re part of a government faction&#8217; &#8212; Experts explain how political figures circulating conspiracies like the &#8216;great replacement&#8217; theory are inspiring violent acts&#10;&#187; Sign up for our newsletter KnowThis to get the biggest stories of the day delivered straight to your inbox: https://go.nowth.is/knowthis_youtube&#10;&#187; Subscribe to NowThis: http://go.nowth.is/News_Subscribe&#10;&#10;For more U.S. news &#38; politics, subscribe to NowThis News.&#10;&#10;#replacementtheory #gop #rightwing #Politics #News #NowThis&#10;&#10;Connect with NowThis&#10;&#187; Like us on Facebook: http://go.nowth.is/News_Facebook&#10;&#187; Tweet us on Twitter: http://go.nowth.is/News_Twitter&#10;&#187; Follow us on Instagram: http://go.nowth.is/News_Instagram&#10;&#187; Find us on Snapchat Discover: http://go.nowth.is/News_Snapchat&#10;&#10;NowThis is your premier news outlet providing you with all the videos you need to stay up to date on all the latest in trending news. From entertainment to politics, to viral videos and breaking news stories, we&#8217;re delivering all you need to know straight to your social feeds. We live where you live.&#10;&#10;http://www.youtube.com/nowthisnews&#10;@nowthisnews"
     channeltitle "NowThis News"
     channelid "UCn4sPeUomNGIr26bElVdDYg"
@@ -775,7 +775,7 @@ graph
     commentcount 217
     duration "PT3M7S"
     indegree 4
-    cluster 6
+    cluster 5
   ]
   node
   [
@@ -783,7 +783,7 @@ graph
     label "sefo_-QZZ9k"
     step 0
     date "2022-05-26T15:00:34Z"
-    title "Why the Spread of the Online Is Deadly"
+    title "Why the Spread of the  Online Is Deadly"
     description "&#8216;What we need is for these companies to take action before somebody else dies&#8217; &#8212; This activist is calling for social media companies to impose stricter guidelines on influential people spreading online hate and violence &#10;&#187; Sign up for our newsletter KnowThis to get the biggest stories of the day delivered straight to your inbox: https://go.nowth.is/knowthis_youtube&#10;&#187; Subscribe to NowThis: http://go.nowth.is/News_Subscribe&#10;&#10;For more U.S. news, subscribe to NowThis News.&#10;&#10;#ReplacementTheory #TuckerCarlson #SocialMedia #Politics #News #NowThis&#10;&#10;Connect with NowThis&#10;&#187; Like us on Facebook: http://go.nowth.is/News_Facebook&#10;&#187; Tweet us on Twitter: http://go.nowth.is/News_Twitter&#10;&#187; Follow us on Instagram: http://go.nowth.is/News_Instagram&#10;&#187; Find us on Snapchat Discover: http://go.nowth.is/News_Snapchat&#10;&#10;NowThis is your premier news outlet providing you with all the videos you need to stay up to date on all the latest in trending news. From entertainment to politics, to viral videos and breaking news stories, we&#8217;re delivering all you need to know straight to your social feeds. We live where you live.&#10;&#10;http://www.youtube.com/nowthisnews&#10;@nowthisnews"
     channeltitle "NowThis News"
     channelid "UCn4sPeUomNGIr26bElVdDYg"
@@ -811,7 +811,7 @@ graph
     commentcount 8950
     duration "PT10M21S"
     indegree 81
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -837,7 +837,7 @@ graph
     label "iEB7CiEuk44"
     step 0
     date "2021-12-07T13:28:36Z"
-    title "Majority of French population believe in theory"
+    title "Majority of French population believe in  theory"
     description "A survey has found that 61% of the French population believes that white Europeans are being systematically replaced by foreigners.&#10;&#10;#Greatreplacement #EricZemmour&#10;&#10;&#10;Subscribe: http://trt.world/subscribe&#10;Livestream: http://trt.world/ytlive&#10;Facebook: http://trt.world/facebook&#10;Twitter: http://trt.world/twitter&#10;Instagram: http://trt.world/instagram&#10;Visit our website: http://trt.world"
     channeltitle "TRT World"
     channelid "UC7fWeaHhqgM4Ry-RMpM2YYw"
@@ -847,7 +847,7 @@ graph
     commentcount 1225
     duration "PT1M15S"
     indegree 25
-    cluster 5
+    cluster 1
   ]
   node
   [
@@ -855,7 +855,7 @@ graph
     label "lcChIH7l5zE"
     step 0
     date "2022-06-15T14:36:46Z"
-    title "David Baddiel E tongue sticking out lains The Great Replacement Theory and How it Targets Jews"
+    title "David Baddiel Explains The Great Replacement Theory and How it Targets Jews"
     description "At AJC Global Forum 2022, Comedian and Author David Baddiel explains the antisemitic Great Replacement Theory and how white supremacists use it to target Jews and other minority groups.&#10;&#10;To watch more videos from AJC Global Forum 2022, go to http://www.ajc.org/GlobalForumNews"
     channeltitle "American Jewish Committee"
     channelid "UClLJWa0q-sSZQ_Jt9EEWWUg"
@@ -883,7 +883,7 @@ graph
     commentcount 5
     duration "PT3M30S"
     indegree 4
-    cluster 1
+    cluster 6
   ]
   node
   [
@@ -919,7 +919,7 @@ graph
     commentcount 1755
     duration "PT6M21S"
     indegree 5
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -927,7 +927,7 @@ graph
     label "rHoerys1jw8"
     step 0
     date "2022-05-17T07:26:00Z"
-    title "How the is connected to the Buffalo shooting?"
+    title "How the  is connected to the Buffalo shooting?"
     description "An investigation into the weekend shooting of more than a dozen people at a western New York supermarket will turn on Monday to whether authorities missed tell-tale signs and red flags left by the teenage gunman prior to his racist killing spree.&#10;Authorities said Payton Gendron, 18, carried out an act of &#8220;racially motivated violent extremism&#8221; when he opened fire with a semiautomatic rifle on May 14 at the Tops Friendly Market in Buffalo, where 11 of the 13 wounded were Black people.&#10;A 180-page manifesto that circulated online, believed to have been authored by Gendron, outlined the &#8220;Great Replacement Theory&#8221;, a racist conspiracy theory that white people were being replaced by minorities in the United States and elsewhere.&#10;US President Joe Biden and First Lady Jill Biden will visit Buffalo on Tuesday, the White House said in a statement.&#10;&#10;Al Jazeera&#8217;s Alan Fisher explains.&#10;&#10;- Subscribe to our channel: http://aje.io/AJSubscribe &#10;- Follow us on Twitter: https://twitter.com/AJEnglish &#10;- Find us on Facebook: https://www.facebook.com/aljazeera &#10;- Check our website: https://www.aljazeera.com/&#10;&#10;#Buffaloshooting #greatReplacementTheory #PaytonGendron"
     channeltitle "Al Jazeera English"
     channelid "UCNye-wNBqNL5ZzHSJj3l8Bg"
@@ -945,7 +945,7 @@ graph
     label "o5MNSTY8HpY"
     step 0
     date "2022-05-17T03:50:00Z"
-    title "Fox News GOP Pushed Replacement Theory | Baby Formula Shortage Reaches Crisis Level"
+    title "Fox News  GOP Pushed Replacement Theory | Baby Formula Shortage Reaches Crisis Level"
     description "The hateful, racist theory that inspired a teenager to commit mass murder in Buffalo, NY is a popular talking point among Republican politicians and the host of &#34;Tucker Carlson Tonight.&#34; Elsewhere in America, parents are desperately searching for supplies of baby formula as the nationwide shortage becomes a full-blown crisis. #Colbert #Comedy #Monologue&#10;&#10;Subscribe To &#34;The Late Show&#34; Channel: http://bit.ly/ColbertYouTube&#10;&#10;Watch full episodes of &#34;The Late Show&#34;: http://bit.ly/1Puei40&#10;Listen to &#34;The Late Show Pod Show&#34; podcast: https://link.chtbl.com/Awagtx95?sid=yt&#10;Like &#34;The Late Show&#34; on Facebook: http://on.fb.me/1df139Y&#10;Follow &#34;The Late Show&#34; on Twitter: http://bit.ly/1dMzZzG&#10;Follow &#34;The Late Show&#34; on Instagram: http://bit.ly/29wfREj&#10;&#10;Watch The Late Show with Stephen Colbert weeknights at 11:35 PM ET/10:35 PM CT. Only on CBS.&#10;&#10;---&#10;The Late Show with Stephen Colbert is the premier late night talk show on CBS, airing at 11:35pm EST, streaming online via Paramount+, and delivered to the International Space Station on a USB drive taped to a weather balloon. Every night, viewers can expect: Comedy, humor, funny moments, witty interviews, celebrities, famous people, movie stars, bits, humorous celebrities doing bits, funny celebs, big group photos of every star from Hollywood, even the reclusive ones, plus also jokes."
     channeltitle "The Late Show with Stephen Colbert"
     channelid "UCMtFAi84ehTSYSE9XoHefig"
@@ -955,7 +955,7 @@ graph
     commentcount 5238
     duration "PT11M16S"
     indegree 93
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -1027,7 +1027,7 @@ graph
     commentcount 1774
     duration "PT16M39S"
     indegree 36
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -1045,7 +1045,7 @@ graph
     commentcount 3473
     duration "PT17M51S"
     indegree 50
-    cluster 1
+    cluster 5
   ]
   node
   [
@@ -1063,7 +1063,7 @@ graph
     commentcount 395
     duration "PT3M57S"
     indegree 2
-    cluster 5
+    cluster 6
   ]
   node
   [
@@ -1081,7 +1081,7 @@ graph
     commentcount -1
     duration "PT1H7M26S"
     indegree 0
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -1099,7 +1099,7 @@ graph
     commentcount 11460
     duration "PT8M"
     indegree 80
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -1135,7 +1135,7 @@ graph
     commentcount 103
     duration "PT8M6S"
     indegree 0
-    cluster 1
+    cluster 5
   ]
   node
   [
@@ -1171,7 +1171,7 @@ graph
     commentcount 522
     duration "PT14M21S"
     indegree 19
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -1179,7 +1179,7 @@ graph
     label "XNJLpsAAGDo"
     step 0
     date "2022-05-16T21:44:59Z"
-    title "E tongue sticking out LAINER: White fuels racist attacks"
+    title "EXPLAINER: White  fuels racist attacks"
     description "Authorities quickly called the mass shooting at a supermarket in Buffalo, New York, a racially-motivated attack."
     channeltitle "WBNS 10TV"
     channelid "UCAKK8dbcSmckr2sWJhv5ezA"
@@ -1207,7 +1207,7 @@ graph
     commentcount 2719
     duration "PT7M46S"
     indegree 1
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -1225,7 +1225,7 @@ graph
     commentcount 132
     duration "PT7M5S"
     indegree 2
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -1243,7 +1243,7 @@ graph
     commentcount 7765
     duration "PT9M38S"
     indegree 52
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -1251,7 +1251,7 @@ graph
     label "1Lf7_iIE7w0"
     step 0
     date "2021-09-24T18:20:51Z"
-    title "Tucker Invokes White Fear Saying w/ Immigrants"
+    title "Tucker Invokes White Fear Saying  w/ Immigrants"
     description "Tucker Carlson is leading the charge in stoking white fear yet again.&#10;&#10;The Fox News host took to the airways on Wednesday evening spewing bigoted views about the surge of Haitian migrants at the southern border of the United States.&#10;&#10;In a monologue that has been lambasted by his critics, Tucker said Biden is using a policy &#34;called 'the great replacement,' the replacement of legacy Americans with more obedient people from far-away countries.&#34;&#10;&#10;Prior to that he stated that the &#34;unrelenting stream of immigration&#34; is being sparked by President Joe Biden &#34;to change the racial mix of the country&#34; to &#34;reduce the political power of people whose ancestors lived here, and dramatically increase the proportion of Americans newly-arrived from the third world.&#34; &#10;&#10;&#128064;  Watch the 9.23.21 edition of #RolandMartinUnfiltered https://youtu.be/zaVniyqZjFk&#10;&#10;Support #RolandMartinUnfiltered and #BlackStarNetwork via the Cash App &#9755; https://cash.app/$rmunfiltered or via PayPal &#9755; https://www.paypal.me/rmartinunfiltered&#10;&#10;Download the #BlackStarNetwork app on iOS, AppleTV, Android, Android TV, Roku, FireTV, SamsungTV and XBox&#10;&#10;&#11088;&#65039; Become a member of the #RMU #BringTheFunk Fan Club right here on YouTube https://bit.ly/3oERYfs or with a credit card via Square &#128073;&#127999; https://bit.ly/3tk9064. Every dollar that you contribute helps to make #RolandMartinUnfiltered possible. &#10;&#10;Put some swagger in your wardrobe with Roland S. Martin Pocket Squares. Visit http://rolandsmartin.com/pocketsquares to order your shibori pocket squares today.&#10;&#10;Shop with Roland Martin and #RMU. Visit our Amazon Affiliate link for great deals and to support #RolandMartinUnfiltered - https://amzn.to/2OuLH70&#10;-&#10;Get a FREE trial to Amazon Prime on us - https://amzn.to/35XK4Vo  &#10;&#10;Check out #RolandsBookClub and some of his favorite tech gear http://ow.ly/M5zF50uJPam&#10;&#9989; Join the #RolandMartinUnfiltered #BringTheFunk Fan Club to support fact-based independent journalism http://ow.ly/VRyC30nKjpY&#10;&#9989; Join the Roland Martin and #RolandMartinUnfiltered mailing list http://ow.ly/LCvI30nKjuj&#10;&#10;#RolandMartinUnfiltered is a daily show broadcast from Washington, DC, that will focus on news, politics, culture, entertainment, social justice, sports, education, business, and finance. If it&#8217;s important to you, we will cover it.&#10;&#10;The Roland S. Martin YouTube channel is a news reporting site covered under Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for &#34;fair use&#34; for purposes such as criticism, comment, news reporting, teaching, scholarship, and research."
     channeltitle "Roland S. Martin"
     channelid "UCjXB7nX8bL2U2sje8d212Yw"
@@ -1261,7 +1261,7 @@ graph
     commentcount 304
     duration "PT10M46S"
     indegree 22
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -1279,7 +1279,7 @@ graph
     commentcount 85
     duration "PT8M25S"
     indegree 25
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -1297,7 +1297,7 @@ graph
     commentcount 1526
     duration "PT8M26S"
     indegree 31
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -1315,7 +1315,7 @@ graph
     commentcount 1273
     duration "PT8M38S"
     indegree 30
-    cluster 1
+    cluster 5
   ]
   node
   [
@@ -1333,7 +1333,7 @@ graph
     commentcount 174
     duration "PT14M3S"
     indegree 8
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -1351,7 +1351,7 @@ graph
     commentcount 19
     duration "PT1M13S"
     indegree 2
-    cluster 6
+    cluster 4
   ]
   node
   [
@@ -1369,7 +1369,7 @@ graph
     commentcount 31108
     duration "PT29M16S"
     indegree 43
-    cluster 7
+    cluster 1
   ]
   node
   [
@@ -1377,7 +1377,7 @@ graph
     label "mHcVYEKFjp8"
     step 0
     date "2022-06-08T18:28:52Z"
-    title "House Speaker Nancy Pelosi Announces Resolution Condemning I LIVE"
+    title "House Speaker Nancy Pelosi Announces Resolution Condemning  I LIVE"
     description "House Speaker Nancy Pelosi, along with several other Democratic leaders, is holding a press conference to announce a resolution condemning the &#8216;great replacement theory,&#8217; a racist theory claiming that white people are being replaced with people of color. Watch live.&#10;&#187; Sign up for our newsletter KnowThis to get the biggest stories of the day delivered straight to your inbox: https://go.nowth.is/knowthis_youtube&#10;&#187; Subscribe to NowThis: http://go.nowth.is/News_Subscribe&#10;&#10;For more news and politics, subscribe to NowThis News.&#10;&#10;#Politics #News #NowThis&#10;&#10;Connect with NowThis&#10;&#187; Like us on Facebook: http://go.nowth.is/News_Facebook&#10;&#187; Tweet us on Twitter: http://go.nowth.is/News_Twitter&#10;&#187; Follow us on Instagram: http://go.nowth.is/News_Instagram&#10;&#187; Find us on Snapchat Discover: http://go.nowth.is/News_Snapchat&#10;&#10;NowThis is your premier news outlet providing you with all the videos you need to stay up to date on all the latest in trending news. From entertainment to politics, to viral videos and breaking news stories, we&#8217;re delivering all you need to know straight to your social feeds. We live where you live.&#10;&#10;http://www.youtube.com/nowthisnews&#10;@nowthisnews"
     channeltitle "NowThis News"
     channelid "UCn4sPeUomNGIr26bElVdDYg"
@@ -1387,7 +1387,7 @@ graph
     commentcount 98
     duration "PT47M30S"
     indegree 0
-    cluster 1
+    cluster 7
   ]
   node
   [
@@ -1405,7 +1405,7 @@ graph
     commentcount 1358
     duration "PT6M"
     indegree 18
-    cluster 1
+    cluster 8
   ]
   node
   [
@@ -1413,7 +1413,7 @@ graph
     label "lP5rv7_SW1g"
     step 0
     date "2022-05-17T02:41:40Z"
-    title "Buffalo shooting highlights theory"
+    title "Buffalo shooting highlights  theory"
     description "Investigators of a mass shooting in Buffalo, New York, are looking into a 180-page manifesto, believed to have been authored by the gunman, that outlined 'The Great Replacement' conspiracy theory popular among white nationalists.&#10; &#10;#Shooting #BuffaloShooting #ReplacementTheory #News #Reuters&#10;&#10;Subscribe: http://smarturl.it/reuterssubscribe&#10;&#10;Reuters brings you the latest business, finance and breaking news video from around the globe.  Our reputation for accuracy and impartiality is unparalleled.&#10;&#10;Get the latest news on: http://reuters.com/&#10;Follow Reuters on Facebook: https://www.facebook.com/Reuters&#10;Follow Reuters on Twitter: https://twitter.com/Reuters&#10;Follow Reuters on Instagram: https://www.instagram.com/reuters/?hl=en"
     channeltitle "Reuters"
     channelid "UChqUTb7kYRX8-EiaN3XFrSQ"
@@ -1459,7 +1459,7 @@ graph
     commentcount 0
     duration "PT5M7S"
     indegree 0
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -1467,7 +1467,7 @@ graph
     label "Y2eJ_MRQ3OE"
     step 0
     date "2022-04-14T01:00:06Z"
-    title "Charlie Kirk Pushes White Nationalist Theory"
+    title "Charlie Kirk Pushes White Nationalist  Theory"
     description "Conservative Host Charlie Kirk goes on a a racist rant while discusses mosques in Minneapolis calling their worshippers to prayer: &#34;Was that in the vision of The Founding Fathers...is that consistent with the values of Minnesota to make it Mogadishu? I don't think so.&#34;&#10;&#10;Watch the Majority Report live Monday &#8211; Friday at 12 p.m. EST at http://www.youtube.com/SamSeder or listen via daily podcast at http://www.Majority.FM &#10;&#10;SUPPORT the show by becoming a member: http://www.jointhemajorityreport.com/ &#10;&#10;Download our FREE app: http://www.majorityapp.com  &#10;&#10;Find TMR merchandise on our website:  http://www.shop.majorityreportradio.com &#10;&#10;Spread the progressive message! LIKE and SHARE this video or leave a comment to bring attention to the stories that matter to you. And SUBSCRIBE to stay connected with The Majority Report&#8217;s video content!&#10;&#10;Support The Majority Report by subscribing to our YouTube channel: https://www.youtube.com/channel/UC-3jIAlnQmbbVMV6gR7K8aQ &#10;&#10;Follow us on Social Media:&#10;Twitch: https://www.twitch.tv/themajorityreport &#10;Facebook: http://facebook.com/MajorityReport &#10;Twitter: http://twitter.com/MajorityFM &#10;Instagram: https://www.instagram.com/majorityreport.fm/&#10;&#10;The Charlie Kirk clip is just wildly racist so I don't know if we want to get into that or we could just do another KBJ clip that's what cruises. let's do charlie yeah. It's just like it's astonishing that's yeah only reason I'd even breathe. Charlie Kirk was just I guess generally talking about mosques in Minneapolis so because they've been calling worshipers to prayer. yeah apparently they're now allowing it to be more of like a  there's a new city ordinance or something like that where mosques can actually you know issue a call to prayer. Wow so in addition to church bells there will also be mosques calling Muslims to prayer I mean we can't stand for this. must silence them but anyway oh also here's a segment on censorship and how it's bad. here he is weighing in on this just pressing issue in Minneapolis which you know coincidentally has a decently sized Muslim population so this makes sense but of course, it's just like an Islamic takeover of the United States."
     channeltitle "The Majority Report w/ Sam Seder"
     channelid "UC-3jIAlnQmbbVMV6gR7K8aQ"
@@ -1477,7 +1477,7 @@ graph
     commentcount 761
     duration "PT7M34S"
     indegree 26
-    cluster 8
+    cluster 7
   ]
   node
   [
@@ -1485,7 +1485,7 @@ graph
     label "UkO2ZkxdzoA"
     step 0
     date "2021-03-02T00:38:42Z"
-    title "Europe and the Middle East Podcast: and the Great Replacement"
+    title "Europe and the Middle East Podcast:  and the Great Replacement"
     description "Europe in the Middle East is a bi-monthly podcast addressing matters of significance to both regions, including their multi-faceted relations.&#10;&#10;In this first launching episode titled &#8220;&#8216;Eurabia&#8217; and the Great Replacement,&#34; hosts Alain Gresh and Thomas Serres have a conversation with Liz Fekete on the theories promoted by far-right thinkers Bat Ye&#8217;or and Renaud Camus, their origin and growing normalization in European political discourses. They also discuss the appropriation of these conspiracy-oriented narratives by far-right terrorists in Europe (and beyond) as well as their connection with the American notion of &#34;white genocide.&#8221; &#160;&#10;&#160;&#10;This podcast is cosponsored by Status/&#1575;&#1604;&#1608;&#1590;&#1593;, Jadaliyya, and Orient XXI&#10;&#10;Guest:&#10;&#10;Liz Fekete is Director of the Institute of Race Relations, an anti-racist educational charity in London that produces the international  journal Race &#38; Class and the regular online news service IRR  News. She is also the author of two books, A suitable enemy: racism, migration and Islamophobia in Europe and Europe&#8217;s Fault Lines: racism and the rise of the Right which won the Bread &#38; Roses Award for Radical Publishing in 2019. She has given expert testimony at the Basso Permanent People&#8217;s Tribunal on Asylum and the World Tribunal on Iraq. &#10;&#10;&#10;Hosts:&#10;&#10;Alain Gresh, a journalist, worked for Le Monde Diplomatique until 2013 and was the editor in chief from 1995 to 2005. He is the editor of Orient XXI which he founded in 2013. Among his latest books that have been translated in Arabic are &#1575;&#1604;&#1573;&#1587;&#1604;&#1575;&#1605; &#1608;&#1575;&#1604;&#1580;&#1605;&#1607;&#1608;&#1585;&#1610;&#1577; &#1608;&#1575;&#1604;&#1593;&#1575;&#1604;&#1605; (Dar al Saqi: Beirut) and &#1593;&#1604;&#1575;&#1605; &#1610;&#1591;&#1604;&#1602; &#1575;&#1587;&#1605; &#1601;&#1604;&#1587;&#1591;&#1610;&#1606; &#1567; (&#1575;&#1604;&#1583;&#1608;&#1581;&#1577; : &#1575;&#1604;&#1605;&#1585;&#1603;&#1586; &#1575;&#1604;&#1593;&#1585;&#1576;&#1610; &#1604;&#1604;&#1571;&#1576;&#1581;&#1575;&#1579; &#1608;&#1583;&#1585;&#1575;&#1587;&#1577; &#1575;&#1604;&#1587;&#1610;&#1575;&#1587;&#1575;&#1578;&#1548; 2012&#10;&#10;Thomas Serres has a Ph.D. in political science from the EHESS. He is currently an associated researcher with D&#233;velopement &#38; Soci&#233;t&#233; in Paris and an Adjunct Professor at the University of California-Santa Cruz. His research focuses on the politics of crisis and trans-nationalization in Algeria."
     channeltitle "Jadaliyya"
     channelid "UC0KPu69wFxVgngIpcT0ueqw"
@@ -1495,7 +1495,7 @@ graph
     commentcount 2
     duration "PT1H10M21S"
     indegree 5
-    cluster 7
+    cluster 4
   ]
   node
   [
@@ -1513,7 +1513,7 @@ graph
     commentcount 3102
     duration "PT4M21S"
     indegree 2
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -1549,7 +1549,7 @@ graph
     commentcount 7097
     duration "PT10M45S"
     indegree 1
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -1567,7 +1567,7 @@ graph
     commentcount 29
     duration "PT6M28S"
     indegree 0
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -1585,7 +1585,7 @@ graph
     commentcount 3185
     duration "PT12M54S"
     indegree 11
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -1603,7 +1603,7 @@ graph
     commentcount 1544
     duration "PT14M18S"
     indegree 7
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -1621,7 +1621,7 @@ graph
     commentcount 2449
     duration "PT6M53S"
     indegree 24
-    cluster 1
+    cluster 5
   ]
   node
   [
@@ -1629,7 +1629,7 @@ graph
     label "1icsroWbKJU"
     step 0
     date "2022-05-17T02:45:00Z"
-    title "Police probe conspiracy theory in Buffalo supermarket shooting"
+    title "Police probe  conspiracy theory in Buffalo supermarket shooting"
     description "In the aftermath of the Buffalo mass shooting, investigators are now looking into the &#34;white replacement theory,&#34; also known as the &#34;great replacement theory.&#34; &#10;&#10;It's the racist notion white Americans are being replaced with immigrants and people of colour. Ben Crump, a lawyer for one of people killed by the gunman in Buffalo, also named what he called &#34;accomplices to the mass murder&#34; - the right-wing pundits, websites, and cable news hosts who he says curate and inspire the hate, and espouse the baseless theory. &#10;&#10;Eric Sorensen explains how this hateful conspiracy has moved into the mainstream and its connection to the Buffalo shooting. &#10;&#10;For more info, please go to https://globalnews.ca/news/8838516/what-is-white-replacement-conspiracy-theory-buffalo-shooting/&#10;Subscribe to Global News Channel HERE: http://bit.ly/20fcXDc&#10;Like Global News on Facebook HERE: http://bit.ly/255GMJQ&#10;Follow Global News on Twitter HERE: http://bit.ly/1Toz8mt&#10;Follow Global News on Instagram HERE: https://bit.ly/2QZaZIB&#10;#GlobalNews"
     channeltitle "Global News"
     channelid "UChLtXXpo4Ge1ReTEboVvTDg"
@@ -1647,7 +1647,7 @@ graph
     label "-0nGeHIbvts"
     step 0
     date "2022-05-24T13:00:11Z"
-    title "Mangy E tongue sticking out lains the Great Replacement Theory"
+    title "Mangy Explains the Great Replacement Theory"
     description "After the horrific shootings in Buffalo,  New York, even some of the most clueless in the public are hearing about &#34;The Great Replacement Theory&#34;, a senseless, baseless fantasy about how elites and liberals are supposedly attempting to 'replace' white conservatives in the electorate with docile brown immigrant folks. Stupid and insane of course, but just the kind of stupid insanity that undiscerning Fox viewers fall for every day.  Mangy Fetlocks thought he'd attempt a Reader's Digest sort of explanation of the theory to aid the public in their understanding of this moronic concept, as much as that is possible.  Lyrics below:&#10;&#10;The Great Replacement Theory is a fantasy promoted&#10;by the likes of Lauren Boebert or that Tucker Carlson twit.&#10;It&#8217;s believable to those who to conspiracies are devoted&#10;and, through actions of their own, &#10;have had their brains replaced with shit. &#10;                                                copyright 2022, Bruce W Nelson"
     channeltitle "Bruce W. Nelson"
     channelid "UC-MgavIdxnjVMmIWonFl0sQ"
@@ -1657,7 +1657,7 @@ graph
     commentcount 23
     duration "PT46S"
     indegree 0
-    cluster 1
+    cluster 5
   ]
   node
   [
@@ -1665,7 +1665,7 @@ graph
     label "tRIytjRNucs"
     step 0
     date "2021-05-11T16:58:22Z"
-    title "The Racist Scam of the E tongue sticking out lained"
+    title "The Racist Scam of the  Explained"
     description "The &#34;Great Replacement&#34; is a racist scam, used by Republicans for political power. We are at our best when we expand democracy, not limit it."
     channeltitle "AmericasVoiceTV"
     channelid "UCTEoGepz7V1o0kUORqhkpjw"
@@ -1675,7 +1675,7 @@ graph
     commentcount 11
     duration "PT1M47S"
     indegree 0
-    cluster 5
+    cluster 7
   ]
   node
   [
@@ -1693,7 +1693,7 @@ graph
     commentcount -1
     duration "PT2M24S"
     indegree 5
-    cluster 3
+    cluster 6
   ]
   node
   [
@@ -1711,7 +1711,7 @@ graph
     commentcount 744
     duration "PT11M47S"
     indegree 9
-    cluster 8
+    cluster 7
   ]
   node
   [
@@ -1747,7 +1747,7 @@ graph
     commentcount 6
     duration "PT1H4M20S"
     indegree 0
-    cluster 7
+    cluster 8
   ]
   node
   [
@@ -1765,7 +1765,7 @@ graph
     commentcount 6
     duration "PT14M25S"
     indegree 3
-    cluster 1
+    cluster 8
   ]
   node
   [
@@ -1773,7 +1773,7 @@ graph
     label "gogCccQsum4"
     step 0
     date "2021-02-25T02:40:10Z"
-    title "Tucker: Democrats are importing migrants to e tongue sticking out and voting base"
+    title "Tucker: Democrats are importing migrants to expand voting base"
     description "Tucker Carlson explains why the estimates used to count America's illegal immigrants is off by millions. #FoxNews #Tucker&#10;&#10;Subscribe to Fox News! https://bit.ly/2vBUvAS&#10;Watch more Fox News Video: http://video.foxnews.com&#10;Watch Fox News Channel Live: http://www.foxnewsgo.com/&#10;&#10;FOX News Channel (FNC) is a 24-hour all-encompassing news service delivering breaking news as well as political and business news. The number one network in cable, FNC has been the most-watched television news channel for 18 consecutive years. According to a 2020 Brand Keys Consumer Loyalty Engagement Index report, FOX News is the top brand in the country for morning and evening news coverage. A 2019 Suffolk University poll named FOX News as the most trusted source for television news or commentary, while a 2019 Brand Keys Emotion Engagement Analysis survey found that FOX News was the most trusted cable news brand. A 2017 Gallup/Knight Foundation survey also found that among Americans who could name an objective news source, FOX News was the top-cited outlet. Owned by FOX Corporation, FNC is available in nearly 90 million homes and dominates the cable news landscape, routinely notching the top ten programs in the genre.&#10; &#10;Watch full episodes of your favorite shows&#10;The Five: http://video.foxnews.com/playlist/longform-the-five/&#10;Special Report with Bret Baier: http://video.foxnews.com/playlist/longform-special-report/&#10;Fox News Primetime:  https://video.foxnews.com/playlist/on-air-fox-news-primetime/&#10;Tucker Carlson Tonight: http://video.foxnews.com/playlist/longform-tucker-carlson-tonight/&#10;Hannity:  http://video.foxnews.com/playlist/longform-hannity/&#10;The Ingraham Angle: http://video.foxnews.com/playlist/longform-the-ingraham-angle/&#10;Fox News @ Night: http://video.foxnews.com/playlist/longform-fox-news-night/&#10; &#10;Follow Fox News on Facebook: https://www.facebook.com/FoxNews/&#10;Follow Fox News on Twitter: https://twitter.com/FoxNews/&#10;Follow Fox News on Instagram: https://www.instagram.com/foxnews/om/"
     channeltitle "Fox News"
     channelid "UCXIJgqnII2ZOINSWNOGFThA"
@@ -1783,7 +1783,7 @@ graph
     commentcount 3735
     duration "PT15M48S"
     indegree 71
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -1801,7 +1801,7 @@ graph
     commentcount 422
     duration "PT3M17S"
     indegree 3
-    cluster 1
+    cluster 5
   ]
   node
   [
@@ -1819,7 +1819,7 @@ graph
     commentcount 4354
     duration "PT4M32S"
     indegree 1
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -1837,7 +1837,7 @@ graph
     commentcount 152
     duration "PT1M21S"
     indegree 4
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -1855,7 +1855,7 @@ graph
     commentcount 4
     duration "PT40M48S"
     indegree 0
-    cluster 8
+    cluster 7
   ]
   node
   [
@@ -1863,7 +1863,7 @@ graph
     label "R1et4QjhQ8Y"
     step 0
     date "2022-05-22T20:30:55Z"
-    title "McConnell sidesteps questions"
+    title "McConnell sidesteps  questions"
     description "(17 May 2022) &#13;&#10;RESTRICTION SUMMARY:&#13;&#10;POOL&#13;&#10;Washington, DC - 17 May 2022&#13;&#10;++AUDIO QUALITY AS INCOMING++&#13;&#10;1. Wide, Senate Minority leader Mitch McConnell moves to microphone&#13;&#10;2. SOUNDBITE (English) Sen. Mitch McConnell, (R) Kentucky:&#13;&#10;&#34;(Reporter off camera: Do you, do you have any personal responsibility as a Republican leader to speak out on a replacement theory, which is apparently one of the things that motivated the shooter in Buffalo, in which some of your members and candidates have talked about it to some degree?)&#13;&#10;Well, certainly the episode, this horrible episode in Buffalo is a result of a completely deranged young man who ought to suffer severest possible penalty under the law.&#34;&#13;&#10;3. Wide, McConnell listening to reporter&#13;&#10;4. SOUNDBITE (English) Sen. Mitch McConnell, (R) Kentucky:&#13;&#10;&#34;Look, the racism of any sort is abhorrent in America and ought to be stood up to everybody. Both Republicans, Democrats, all Americans.&#13;&#10;(Reporter off camera: Is it your believe that Democrats are seeking amnesty for undocumented immigrants for the purpose of influencing and changing the electorate and giving themselves a political advantage?)&#13;&#10;&#34;What I'm disturbed about with regard to the southern border is the relative openness of it. This administration's taken a number of steps in the direction of just throwing our border wide open, once again. And that ought to be addressed. It's something that could be done by the administration itself in the absence of any additional legislation. And keeping Title 42 in place would be a good first step.&#34;&#13;&#10;5. Mid, McConnell walks away&#13;&#10;STORYLINE:&#13;&#10;Senate Minority leader Mitch McConnell sidestepped questions on Tuesday about whether Republicans bare responsibility for the actions of a shooter in Buffalo, New York with repeated references to the &#34;replacement theory.&#34;&#13;&#10;&#34;This horrible episode in Buffalo is a result of a completely deranged young man who ought to suffer severest possible penalty under the law, &#34; McConnell told reporters.&#13;&#10;While he condemned &#34;racism of any sort is abhorrent in America,&#34; McConnell did draw attention to the situation at the nation's southern border when pressed on whether he believed Democrats were seeking amnesty for undocumented immigrants for political advantage.&#13;&#10;&#34;What I'm disturbed about with regard to the southern border is the relative openness of it,&#34; he said. &#34;This administration's taken a number of steps in the direction of just throwing our border wide open, once again.&#34;&#13;&#10;A half-dozen mainstream Republican Senate candidates are drawing on the &#34;great replacement&#34; conspiracy theory once confined to the far-right fringes of U.S. politics to court voters this campaign season, promoting the baseless notion that there is a plot to diminish the influence of white people in America.&#13;&#10;In some cases, the comments have gone largely overlooked given the hard-line immigration rhetoric that has become commonplace among conservatives during the Trump era. But the weekend mass shooting in Buffalo, that may have been inspired by the racist theory is drawing new attention to the GOP's growing embrace of white nationalist creed.&#13;&#10;Three weeks ago in Arizona, Republican Senate candidate Blake Masters accused Democrats of trying to flood the nation with millions of immigrants &#34;to change the demographics of our country.&#34; A few days later in Missouri, Senate hopeful Eric Schmitt, the state attorney general, said Democrats were &#34;fundamentally trying to change this country through illegal immigration.&#34; And in Ohio, Republican Senate nominee JD Vance accused Democrats of trying to &#34;transform the electorate.&#34;&#13;&#10;Clients are reminded: &#13;&#10;&#13;&#10;Find out more about AP Archive: http://www.aparchive.com/HowWeWork &#13;&#10;Twitter: https://twitter.com/AP_Archive &#13;&#10;Facebook: https://www.facebook.com/APArchives &#8203;&#8203;&#13;&#10;Instagram: https://www.instagram.com/APNews/&#13;&#10;&#13;&#10;&#13;&#10;You can license this story through AP Archive: http://www.aparchive.com/metadata/youtube/78d305c0c2d24787bfa4d470bbe93833"
     channeltitle "AP Archive"
     channelid "UCHTK-2W11Vh1V4uwofOfR4w"
@@ -1873,7 +1873,7 @@ graph
     commentcount 16
     duration "PT1M40S"
     indegree 2
-    cluster 2
+    cluster 8
   ]
   node
   [
@@ -1881,7 +1881,7 @@ graph
     label "JcBKjIdpbqo"
     step 0
     date "2022-05-17T19:31:55Z"
-    title "GOP Nutjob Digs In On Theory Despite Party Backtrack"
+    title "GOP Nutjob Digs In On  Theory Despite Party Backtrack"
     description "NY Rep. Elise Stefanik continues to push the 'Great Replacement' theory rhetoric just days after the Buffalo mass shooter's manifesto commented on the same theory.  Francesca Fiorentini and Dan Evans break it down on The Damage Report. &#10;&#10;Read more here:&#10;&#10;Buffalo Shooter&#8217;s Racist &#8216;Great Replacement&#8217; Theory Has Been Mainstreamed by GOP - https://www.vice.com/en/article/4awjx9/republicans-great-replacement-theory&#10;&#10;&#34;The alleged white supremacist who slaughtered 10 people at a Buffalo, New York, grocery store on Saturday was inspired by the racist &#8220;great replacement&#8221; theory&#8212;one that&#8217;s been tweaked and adopted by a significant number of Republican lawmakers and candidates in recent months. &#10;&#10;The alleged murderer specifically cited extremist white supremacist websites in his manifesto, saying he was radicalized on 8chan and came across the theory on neo-Nazi sites like the Daily Stormer. But the views he espoused aren&#8217;t far removed from those pushed by some mainstream Republicans and conservative news outlets.&#34;&#10;&#10;Watch Francesca on The Bitchuation Room Sundays at 5/8EST http://www.youtube.com/franifio &#10;&#10;Follow Francesca: http://www.twitter.com/franifio &#10;&#10;Become a TDR YouTube Member: http://www.youtube.com/thedamagereport/join &#10;&#10;Follow The Damage Report on Facebook: https://www.facebook.com/TheDamageReportTYT/&#10;&#10;Help build the Home of the Progressives http://tyt.com/JOIN&#10;&#10;Subscribe to The Damage Report YouTube channel: https://www.youtube.com/thedamagereport?sub_confirmation=1&#10;&#10;Follow The Damage Report on TikTok: https://www.tiktok.com/@thedamagereport?lang=en&#10;&#10;Follow The Damage Report on Instagram: http://www.instagram.com/thedamagereport/ &#10;&#10;Follow The Damage Report on Twitter: https://twitter.com/TheDamageReport&#10;&#10;#TheDamageReport #JohnIadarola #TheYoungTurks"
     channeltitle "The Damage Report"
     channelid "UCl9roQQwv4o4OuBj3FhQdDQ"
@@ -1891,7 +1891,7 @@ graph
     commentcount 333
     duration "PT7M3S"
     indegree 4
-    cluster 2
+    cluster 7
   ]
   node
   [
@@ -1909,7 +1909,7 @@ graph
     commentcount 1442
     duration "PT15M2S"
     indegree 3
-    cluster 8
+    cluster 5
   ]
   node
   [
@@ -1927,7 +1927,7 @@ graph
     commentcount 10076
     duration "PT9M32S"
     indegree 63
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -1945,7 +1945,7 @@ graph
     commentcount 1645
     duration "PT8M58S"
     indegree 16
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -1981,7 +1981,7 @@ graph
     commentcount 16
     duration "PT47S"
     indegree 6
-    cluster 1
+    cluster 5
   ]
   node
   [
@@ -1989,7 +1989,7 @@ graph
     label "dgCPd4qoKXw"
     step 0
     date "2021-04-13T21:30:01Z"
-    title "Tucker Carlson Goes Full on Fox News"
+    title "Tucker Carlson Goes Full  on Fox News"
     description "--Fox News propagandist goes full &#34;white replacement theory&#34; during a recent segment&#10;&#128085; Get 15% off Teddy Stratford shirts by using code PAKMAN at https://davidpakman.com/teddy&#10;&#10;Support The David Pakman Show:&#10;-Become a Member: https://www.davidpakman.com/membership&#10;-Become a Patron: https://www.patreon.com/davidpakmanshow&#10;-Book David Pakman: https://www.cameo.com/davidpakman&#10;&#10;Engage with us on social media:&#10;-Join on YouTube: https://www.youtube.com/channel/UCvixJtaXuNdMPUGdOPcY8Ag/join&#10;-David on Twitter: http://www.twitter.com/dpakman&#10;-TDPS on Twitter: http://www.twitter.com/davidpakmanshow&#10;-David on Instagram: http://www.instagram.com/david.pakman&#10;-TDPS on Instagram: https://www.instagram.com/davidpakmanshow/&#10;-Discuss on TDPS Subreddit: http://www.reddit.com/r/thedavidpakmanshow/&#10;-Discuss on TDPS Discord: https://discord.com/invite/DZcYXhy&#10;-TDPS Facebook: http://www.facebook.com/davidpakmanshow&#10;-Call the 24/7 Voicemail Line: (219)-2DAVIDP&#10;&#10;-Timely news is important! We upload new clips every day! Make sure to subscribe!&#10;&#10;Broadcast on April 13, 2021&#10;&#10;#davidpakmanshow #tuckercarlson #foxnews"
     channeltitle "David Pakman Show"
     channelid "UCvixJtaXuNdMPUGdOPcY8Ag"
@@ -1999,7 +1999,7 @@ graph
     commentcount 1515
     duration "PT8M43S"
     indegree 12
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -2017,7 +2017,7 @@ graph
     commentcount 19
     duration "PT5M22S"
     indegree 0
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -2035,7 +2035,7 @@ graph
     commentcount 1304
     duration "PT13M34S"
     indegree 10
-    cluster 8
+    cluster 5
   ]
   node
   [
@@ -2053,7 +2053,7 @@ graph
     commentcount 20231
     duration "PT10M42S"
     indegree 48
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -2061,7 +2061,7 @@ graph
     label "XCs1_uRmL94"
     step 0
     date "2022-05-17T16:00:24Z"
-    title "The Great Replacement Theory, and an Conversation | Higher Learning | Podcast"
+    title "The Great Replacement Theory, and an  Conversation | Higher Learning | Podcast"
     description "Higher Learning is IN STUDIO this week and launching its own YouTube channel! With Van Lathan and Rachel Lindsay recording face-to-face, the two discuss Rachel&#8217;s &#8220;celebrity beef&#8221; (1:37), before breaking down the circumstances around the mass shooting in Buffalo (19:40). Plus, Raquel Willis returns to react to Kendrick Lamar&#8217;s approach to trans-allyship (47:02).&#10;&#10;Host: Van Lathan and Rachel Lindsay&#10;Guest: Raquel Willis&#10;Producers: Trudy Joseph and Donnie Beacham Jr.&#10;&#10;Subscribe to Higher Learning on YouTube: https://bit.ly/3wnk4mc&#10;&#10;CONNECT&#10;Shop: https://theringer.com/shop&#10;Website: http://theringer.com&#10;Twitter: https://twitter.com/Higher_Learning&#10;Facebook: https://www.facebook.com/groups/higherlearningpod&#10;Instagram: https://www.instagram.com/higherlearning/?hl=en&#10;YouTube: https://www.youtube.com/higherlearning"
     channeltitle "Higher Learning"
     channelid "UCd-kgpmHsANRWOEuxiHyomg"
@@ -2071,7 +2071,7 @@ graph
     commentcount 80
     duration "PT1H50M29S"
     indegree 3
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -2107,7 +2107,7 @@ graph
     commentcount -1
     duration "PT6M35S"
     indegree 1
-    cluster 6
+    cluster 5
   ]
   node
   [
@@ -2125,7 +2125,7 @@ graph
     commentcount 329
     duration "PT1M52S"
     indegree 10
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -2161,7 +2161,7 @@ graph
     commentcount 23
     duration "PT21M10S"
     indegree 2
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -2187,7 +2187,7 @@ graph
     label "l2gkQBvomq8"
     step 0
     date "2022-05-25T17:07:30Z"
-    title "DOCENT MOMENT? Multiple Churches Simultaneously Find In Exodus 1"
+    title "DOCENT MOMENT? Multiple Churches Simultaneously Find  In Exodus 1"
     description "While I was looking around for mentions of the Buffalo mass shooting for this week's supercut, I noticed several different churches all happened to stumble onto the same biblical analogy for a particular idea in the killer's manifesto to explore during their worship services all on the very same day. How strange!&#10;&#10;Source videos: https://www.youtube.com/watch?v=2hiFxBLKeRU&#10;https://www.youtube.com/watch?v=Dqssdvh0mlI&#10;https://www.youtube.com/watch?v=DgDnln5rSGc"
     channeltitle "Woke Preacher Clips"
     channelid "UCoVIdVmGt_BjfIV7Wp8aF_g"
@@ -2197,7 +2197,7 @@ graph
     commentcount 30
     duration "PT2M28S"
     indegree 0
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -2233,7 +2233,7 @@ graph
     commentcount 966
     duration "PT10M11S"
     indegree 14
-    cluster 8
+    cluster 4
   ]
   node
   [
@@ -2251,7 +2251,7 @@ graph
     commentcount 6
     duration "PT7M51S"
     indegree 0
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -2269,7 +2269,7 @@ graph
     commentcount 49
     duration "PT1M3S"
     indegree 5
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -2323,7 +2323,7 @@ graph
     commentcount 1
     duration "PT1H11M55S"
     indegree 0
-    cluster 9
+    cluster 5
   ]
   node
   [
@@ -2349,7 +2349,7 @@ graph
     label "19B2HZejCoQ"
     step 0
     date "2022-03-24T13:12:17Z"
-    title "French presidential candidate adopts racist conspiracy theory of as mantra"
+    title "French presidential candidate adopts racist conspiracy theory of  as mantra"
     description "WATCH: France's far-right presidential contender Eric Zemmour reiterated his belief in the conspiracy theory of a &#34;great replacement&#34; of White Europeans by immigrants from Africa and the Middle East during a press conference in Paris.&#10;&#10;&#10;Zemmour, a writer and a regular TV commentator known for his polarising attacks on Muslims and immigrants said this week that, if elected, he would create a Ministry of &#34;Re-Immigration&#34; that would deport hundreds of thousands of immigrants over his five-year term.&#10;&#10;&#10;Subscribe to our channel: http://ow.ly/AVlW30n1OWH&#13;&#10;&#13;&#10;Middle East Eye Website: https://middleeasteye.net&#13;&#10;Like us on Facebook: https://facebook.com/MiddleEastEye&#13;&#10;Follow us on Twitter: https://twitter.com/MiddleEastEye&#13;&#10;Follow us on Instagram: https://instagram.com/MiddleEastEye"
     channeltitle "Middle East Eye"
     channelid "UCR0fZh5SBxxMNYdg0VzRFkg"
@@ -2359,7 +2359,7 @@ graph
     commentcount 107
     duration "PT52S"
     indegree 1
-    cluster 5
+    cluster 1
   ]
   node
   [
@@ -2367,7 +2367,7 @@ graph
     label "Q2M_mBj0Q1M"
     step 0
     date "2022-05-26T13:16:57Z"
-    title "Tucker Carlson and John McWhorter | The Glenn Show"
+    title "Tucker Carlson and  John McWhorter | The Glenn Show"
     description "Support The Glenn Show at https://glennloury.substack.com&#10;&#10;Glenn Loury and John McWhorter discuss Tucker Carlson's role in promoting replacement theory and Glenn's appearance on Carlson's show."
     channeltitle "The Glenn Show"
     channelid "UCuEhthcgt1AImOzXPYsMzeQ"
@@ -2395,7 +2395,7 @@ graph
     commentcount 173
     duration "PT5M17S"
     indegree 1
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -2413,7 +2413,7 @@ graph
     commentcount 6
     duration "PT1M52S"
     indegree 2
-    cluster 5
+    cluster 8
   ]
   node
   [
@@ -2467,7 +2467,7 @@ graph
     commentcount 1
     duration "PT2H11M56S"
     indegree 1
-    cluster 7
+    cluster 2
   ]
   node
   [
@@ -2485,7 +2485,7 @@ graph
     commentcount 20541
     duration "PT15M9S"
     indegree 21
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -2521,7 +2521,7 @@ graph
     commentcount -1
     duration "PT3M49S"
     indegree 0
-    cluster 6
+    cluster 3
   ]
   node
   [
@@ -2529,7 +2529,7 @@ graph
     label "U_1n0hi_pz4"
     step 0
     date "2022-05-22T05:39:30Z"
-    title "Bethany SDA Online Worship E tongue sticking out erience LIVE - - May 21, 2022"
+    title "Bethany SDA Online Worship Experience LIVE -  - May 21, 2022"
     description "Join us for service every Saturday at 12pm (EST)&#10;Today&#8217;s sermon is entitled: &#8220;The Great Replacement&#8221;  - Pastor Reginald Guerrier&#10;--------------------------&#10;Music provided by: Kim Jordan&#10;---------------------------&#10;FOOD DRIVE VOLUNTEERS NEEDED:&#10;While the goal is to meet the tangible needs of as many families as possible, we can't do it without your help. We're looking for volunteers to help sort, pack, and distribute groceries. Is that you or do you know someone interested in serving? Send them our way!&#10;Contact us for more information. &#10;---------------------------&#10;GIVING:&#10;By giving to our general fund you are supporting our mission and ministry. If you would like to support Bethany SDA Church financially or would like to contribute $30 towards the COVID-19 Drive-Thru you can give online through our website or via Cash App. &#10;Online giving: https://adventistgiving.org/#/org/AN4FDQ/envelope/start&#10;Ca$h App: $BethanySDA&#10;You can also give by mail to: &#10;962 Prospect Avenue, Westbury, NY 11590&#10;---------------------------&#10;PRAYER REQUESTS &#38; PRAISE REPORTS: &#10;We would be so glad to pray for you and rejoice over what God has done in your life! &#10;Email: prayer@bethanysda.com..&#10;Text/Call: (516) 366 - 0536 &#10;We are here for you! &#10;---------------------------&#10;Stay connected: &#10;Website: https://www.bethanysda.com/&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#10;Team Bethany Facebook: https://www.facebook.com/bethanysda&#10;Team Bethany Instagram: https://www.instagram.com/bethanysda&#10;Team Bethany Twitter: https://twitter.com/bethany_sda&#8203;"
     channeltitle "Bethany SDA Church"
     channelid "UCLve-7YwwvjCR7tIqr_Za-w"
@@ -2539,7 +2539,7 @@ graph
     commentcount 1
     duration "PT1H40M28S"
     indegree 0
-    cluster 5
+    cluster 1
   ]
   node
   [
@@ -2557,7 +2557,7 @@ graph
     commentcount 36679
     duration "PT15M47S"
     indegree 21
-    cluster 5
+    cluster 8
   ]
   node
   [
@@ -2593,7 +2593,7 @@ graph
     commentcount 0
     duration "PT16S"
     indegree 0
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -2611,7 +2611,7 @@ graph
     commentcount 55387
     duration "PT24M53S"
     indegree 29
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -2629,7 +2629,7 @@ graph
     commentcount 1811
     duration "PT11M39S"
     indegree 3
-    cluster 8
+    cluster 7
   ]
   node
   [
@@ -2637,7 +2637,7 @@ graph
     label "hParR3-4mgQ"
     step 0
     date "2022-05-26T16:00:21Z"
-    title "Republicans LOSE IT after history of Great Replacement Theory is E tongue sticking out OSED (Full Episode)"
+    title "Republicans LOSE IT after history of Great Replacement Theory is EXPOSED (Full Episode)"
     description "The shooting in Buffalo targeting black people. The shooting in Pittsburg targeting Jewish worshipers. The shooting in El Paso targeting Mexican immigrants. The shooting in Christchurch, NZ targeting Muslims. What do they all have in common? The Great Replacement Theory. The idea that white people are being deliberately replaced. Remember the white supremacists in Charlottesville? They were chanting, &#8220;You will not replace us! Jews will not replace us!&#8221;. This false and ignorant, race-baiting conspiracy is ripping our country apart and the right wing media, in combination with right wing politicians, are the ones adding fuel to fire and it, and they, must be stopped.  &#10;&#10;Please RATE and SUBSCRIBE so we can grow the show, open the dialogue, and inspire change moving forward!&#10; &#10;All my links here!: https://linktr.ee/politicsgirl&#10;&#10;Thank you to today&#8217;s sponsors!&#10;http://www.brightland.co/politicsgirl&#10;http://www.creditkarma.com/loanoffers&#10;http://www.blinkist.com/politicsgirl&#10;http://www.constantcontact.com&#10;&#10;The PoliticsGirl Podcast is a Meidas Touch original podcast produced by Happy Warrior Entertainment.&#10;&#10;Source Notes:&#10;https://www.politicsgirl.com/episode-027-source-notes"
     channeltitle "MeidasTouch"
     channelid "UC9r9HYFxEQOBXSopFS61ZWg"
@@ -2647,7 +2647,7 @@ graph
     commentcount 727
     duration "PT52M46S"
     indegree 10
-    cluster 7
+    cluster 1
   ]
   node
   [
@@ -2727,7 +2727,7 @@ graph
     label "lil0z6MD9yg"
     step 0
     date "2021-09-25T02:00:19Z"
-    title "Charlie Kirk Pushing White Supremacist For The GOP"
+    title "Charlie Kirk Pushing White Supremacist  For The GOP"
     description "Charlie Kirk is warning his show's listeners that non-English speaking people and &#34;family units&#34; are being released into &#34;the interior of the United States.&#34; He then suggests that because our &#34;apathetic tyrant&#34; (that would be the President, Joe Biden, apathetic about immigration but a tyrant about vaccinations) isn't taking care of this, we should deputize Texan citizens to arrest immigrants trying to cross the border. He admits that it would be &#34;dramatic,&#34; but he thinks it's called for. Charlie Kirk is imagining a great, GREAT many things incorrectly here, and that's the least that can be said about this.&#10;&#10;We stream our live show every day at 12 PM ET.&#13;&#10;&#13;&#10;We need your help to keep providing free videos! Support the Majority Report's video content by going to http://www.Patreon.com/MajorityReport&#13;&#10;&#13;&#10;Watch the Majority Report live M&#8211;F at 12 p.m. EST at youtube.com/samseder or listen via daily podcast at http://Majority.FM&#13;&#10;&#13;&#10;Download our FREE app: http://majorityapp.com&#13;&#10;&#13;&#10;SUPPORT the show by becoming a member: http://jointhemajorityreport.com&#13;&#10;We Have Merch!!! http://shop.majorityreportradio.com&#13;&#10;&#13;&#10;LIKE us on Facebook: http://facebook.com/MajorityReport&#13;&#10;&#13;&#10;FOLLOW us on Twitter: http://twitter.com/MajorityFM&#13;&#10;&#13;&#10;SUBSCRIBE to us on YouTube: http://youtube.com/SamSeder&#10;&#10;Sam Seder: Let's talk about Charlie Kirk. Does anybody remember the Minutemen? The Minutemen were basically these vigilantes on the border, right wingers. Here's Charlie Kirk trying to stumble around in the dark and find  how we could develop this sort of right-wing paramilitary.&#10;Charlie Kirk: Of course that's a lie. We know that's not true. You have pictures of people that have pieces of paper that says, &#34;Please help us, I do not speak English. What bus do I need to take. Thanks for your help.&#34; As they get released into the interior of the United States. Bill Melugin is saying they are releasing entire family units into the United States. &#10;SS: He's referring to the reports that Haitian immigrants have been allowed to stay in this country and presumably to be processed through to see if they're eligible for temporary protected status. I like how he says family units as opposed to just families, or even human beings.&#10;Emma Vigeland: Well, they're family paramilitary units.&#10;SS: Exactly. They are sleeper cells being released into the interior. Which means the heart. EV: If they're on the coast we could push them into the ocean, but when they're in the interior, when they're in Oklahoma...&#10;SS: ...into the fabric of our society.&#10;EV: Into where you probably are if you're watching me. &#10;SS: Watch out if you have one of those lake homes up in Minnesota. &#10;CK: United States. Bill Melugin is saying they are releasing entire family units into the United States. Now some people are saying I'm being too harsh on Texas. Well, Texas, whether they like it or not, are front and center. Smack dab in the middle of the great question of our time. Which is: Who runs the country? What do you do when you start to have a apathetic tyrant? Now apathetic when it comes to immigration law, but very engaged when it comes towards forcing vaccinations. What do you do? I know so many amazing patriots in the great state of Texas, and I love Texas, that have been waiting and are willing for this moment. Deputize a citizen force. Put them on the border give them handcuffs. Get it done. Sure, that's dramatic. You know what's dramatic? The invasion of the country. We're going to talk more about that. We're going to talk about how the other side is has openly admitted that this is about bringing in voters that they want and they like and honestly diminishing and decreasing white demographics in America. We're going to say that part out loud, because so many people in the corporate media are afraid to talk about it. Charlie Kirk here. &#10;&#10;SS: So many in the corporate media are afraid to talk about the white replacement theory. Except for Tucker Carlson and Sean Hannity. &#10;EV: Who coincidentally covered this and used the same language two days ago. It's not like Charlie Kirk watched that and then just repeated the same stuff because he didn't really have an original thought. &#10;SS: Well I mean this is a good example of what is uh dangerous about Tucker Carlson going on say that. He creates the oxygen in the space in the room for Charlie Kirk to respond to it and then the hundreds of other right-wing radio hosts around the country who are now also probably saying very similar things and every time somebody opens that door and he gets um you know further and further on to this white replacement theory that that's what it's about we're allowing Haitian immigrants into this country to replace white people."
     channeltitle "The Majority Report w/ Sam Seder"
     channelid "UC-3jIAlnQmbbVMV6gR7K8aQ"
@@ -2737,7 +2737,7 @@ graph
     commentcount 397
     duration "PT5M15S"
     indegree 3
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -2745,7 +2745,7 @@ graph
     label "6txTouUTVvg"
     step 0
     date "2022-05-16T08:11:22Z"
-    title "What is the and how is it tied to the Buffalo"
+    title "What is the  and how is it tied to the Buffalo"
     description "Authorities are calling Saturday's mass shooting in Buffalo, N. Y., a racially motivated attack. The suspect allegedly wrote a 180-page document filled with hateful rants about race and ties to the &#34;Great Replacement.&#34; Here's what you need to know about this particular conspiracy theory. What is the &#34;Great Replacement&#34;? In short, the &#34;Great Replacement&#34; is a conspiracy theory that states that non-white individuals are being brought into the United States and other Western countries to &#34;replace&#34; white voters to achieve a political agenda. It is often touted by anti-immigration groups, white supremacists and others, according to the National Immigration Forum. White supremacists argue that the influx of immigrants, people of color more specifically, will lead to the extinction of the white race. Similar to mass extremists, Payton Gendron, the 18-year-old white male accused of killing 10 people and wounding another three in Buffalo, allegedly said in his screed that the decrease in white birth rates equates to a genocide. The alleged supermarket shooter and other extremists claim the U. S. has to close its borders to immigrants. The &#34;Great Replacement&#34; theory is sometimes seen in other ways such as claims of voter replacement and immigrants invading America, the National Immigration Forum said. The first claim assumes that immigrants and non-white people will vote a certain way, ultimately drowning out the votes of white Americans. Adolphus Belk Jr., professor of political science and African American studies at Winthrop University, said white nationalist movements arise when people of color are seen as a threat in the political and economic realms. Belk said white nationalists are worried that, &#34;whites will no longer be a majority of the general population, but a plurality, and see that as a threat to their own well-being and the well-being of the nation.&#34;Where does this theory come from? The &#34;Great Replacement&#34; theory has roots in French nationalism books dating back to the early 1900s, according to the Anti-Defamation League (ADL). However, the theory's more contemporary use is attributed to Renaud Camus, a French writer who wrote &#34;Le Grand Remplacement&#34; (which translates to &#34;The Great Replacement&#34;) in 2011. Camus' writing was influenced by another French Author, Jean Raspail, who's 1973 novel, The Camp of the Saints, told a fictional tale of migrants banding together to take over France, the ADL said. According to the ADL, white supremacists blame Jewish people for non-white immigration to the U. S., and the replacement theory is now associated with antisemitism. A core belief to the white supremacist movement is the 14-word slogan, &#34;We must secure the existence of our people and a future for White children&#34;, according to the Southern Poverty Law Center, which was coined by David Lane, a member of the white supremacist group The Order. Fast forward to August 2017, when white nationalists rallied at the University of Virginia in Charlottesville.&#10;&#10;&#10;All data is taken from the source: http://npr.org&#10;Article Link: https://www.npr.org/2022/05/16/1099034094/what-is-the-great-replacement-theory&#10;&#10;&#10;#white #newstrump #newsworldtoday #usnewsworldreport#newsworldbbc #newstodayupdate #"
     channeltitle "Break News"
     channelid "UC5ZVD6UXTfT9V-Z4_f51cuw"
@@ -2773,7 +2773,7 @@ graph
     commentcount 3
     duration "PT1H3M39S"
     indegree 0
-    cluster 6
+    cluster 5
   ]
   node
   [
@@ -2791,7 +2791,7 @@ graph
     commentcount 14
     duration "PT14M46S"
     indegree 0
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -2799,7 +2799,7 @@ graph
     label "Q8iCbuvA1-g"
     step 0
     date "2022-05-24T14:03:56Z"
-    title "Sermon, May 22, 2022: by Rev. Jamie Hinson-Rieger"
+    title "Sermon, May 22, 2022:  by Rev. Jamie Hinson-Rieger"
     description "Sermon, May 22, 2022: &#34;What is Replacement Theory?&#34; by Rev. Jamie Hinson-Rieger&#10;&#10;The horrible shooting in Buffalo was an act of racial terrorism motivated by an idea that many Americans have never heard of before: &#34;Replacement Theory.&#34; Replacement theory is motivating racism and racist violence, is widely disseminated by one of the most popular talk shows in America, is spread to young people on the internet, and polls show is now believed in some form by 1/3 of Americans. What is it? Where and why is it spreading? And how does Unitarian Universalism respond to it?&#10;&#10;Select Sources:&#10;1. Anti-Defamation League articles:&#10;https://www.adl.org/news/media-watch/adl-letter-to-fox-news-condemns-tucker-carlsons-impassioned-defense-of-great&#10;https://www.adl.org/resources/backgrounders/the-great-replacement-an-explainer&#10;2. The Long Game of White-Power Activists Isn&#8217;t Just About Violence by Kathleen Belew, May 17, 2022, New York Times.&#10;https://www.nytimes.com/2022/05/17/opinion/buffalo-shooting-replacement-theory.html&#10;3. &#8216;Replacement Theory,&#8217; a Racist, Sexist Doctrine, Spreads in Far-Right Circles, by Nellie Bowles, March 18, 2019, New York Times.&#10;https://www.nytimes.com/2019/03/18/technology/replacement-theory.html&#10;4. The father of &#8216;great replacement&#8217;: An ex-socialist French writer, by Gillian Brockell, May 17, 2022, The Washington Post.&#10;https://www.washingtonpost.com/history/2022/05/17/renaud-camus-great-replacement-history/&#10;5. How Tucker Carlson Stoked White Fear to Conquer Cable, Part 1-3, by Nicholas Confessore, April 30, 2022, Updated May 4, 2022, New York Times.&#10;https://www.nytimes.com/2022/04/30/us/tucker-carlson-gop-republican-party.html&#10;6. The Man Behind a Toxic Slogan Promoting White Supremacy, by Norimitsu Onishi, Sept. 20, 2019, New York Times.&#10;https://www.nytimes.com/2019/09/20/world/europe/renaud-camus-great-replacement.html&#10;7. The French Origins of &#8220;You Will Not Replace Us&#8221; The European thinkers behind the white-nationalist rallying cry, by Thomas Chatterton Williams, November 27, 2017, The New Yorker.&#10;https://www.newyorker.com/magazine/2017/12/04/the-french-origins-of-you-will-not-replace-us&#10;8. The 'great replacement' conspiracy theory isn't fringe anymore, it's mainstream, by Odette Yousef, May 17, 2022, NPR.&#10;https://www.npr.org/2022/05/17/1099233034/the-great-replacement-conspiracy-theory-isnt-fringe-anymore-its-mainstream"
     channeltitle "Unitarian Universalist Church of Indianapolis"
     channelid "UCQ3FsekbXm0ubsh-WVcs0ig"
@@ -2809,7 +2809,7 @@ graph
     commentcount -1
     duration "PT22M7S"
     indegree 1
-    cluster 9
+    cluster 6
   ]
   node
   [
@@ -2827,7 +2827,7 @@ graph
     commentcount 1
     duration "PT10M7S"
     indegree 0
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -2899,7 +2899,7 @@ graph
     commentcount 0
     duration "PT57M17S"
     indegree 2
-    cluster 8
+    cluster 2
   ]
   node
   [
@@ -2935,7 +2935,7 @@ graph
     commentcount 10
     duration "PT1M20S"
     indegree 0
-    cluster 5
+    cluster 1
   ]
   node
   [
@@ -2943,7 +2943,7 @@ graph
     label "piwdZ5c3DVc"
     step 0
     date "2021-12-27T14:05:17Z"
-    title "Fox News is mainstreaming the white supremacist theory"
+    title "Fox News is mainstreaming the white supremacist  theory"
     description "While Tucker Carlson has been flirting with white nationalism for years, 2021 was the year he went full-tilt and repeatedly said the quiet part aloud, explicitly referencing the white supremacist &#8220;great replacement&#8221; conspiracy theory &#8211; and earning praise from infamous former Ku Klux Klan leader David Duke. And Carlson&#8217;s status as the most-watched Fox prime-time star seemingly encouraged his fellow hosts to follow suit; Laura Ingraham warned her viewers that Democrats &#8220;will import new voters to offset and eventually replace all you old people.&#8221;&#10;&#10;Carlson has long pushed white supremacist talking points with full corporate support from Fox Corp. CEO Lachlan Murdoch. In the process, he has gained praise from white nationalists, while the Anti-Defamation League has repeatedly called for his firing. White nationalism is now a pillar of Fox&#8217;s prime-time platform, and the Murdochs are willing to fund and defend their hosts&#8217; hatred.  &#10;&#10;Stephen Miller &#8211; former White House senior policy adviser, chief architect of former President Donald Trump's Muslim ban, and noted white nationalist &#8211; was a habitual guest on Fox News during 2021. An equal opportunity racist, Miller espoused textbook &#8220;great replacement&#8221; talking points whether the topic at hand was the refugee crisis in Afghanistan or at the U.S. southern border. Miller repeated the lie that migrants coming to the U.S were spreading COVID-19, a common anti-immigrant trope among white nationalists.  &#10;&#10;By repeatedly launching nativist attacks with warnings of an &#8220;invasion of your neighborhood&#8221; and migrants &#8220;coming to our backyard,&#8221; Fox News&#8217; goal here is clear: to scare its audience into buying the fantasy of &#8220;white genocide.&#8221;&#10;&#10;For more: https://www.mediamatters.org/fox-news/fox-news-spent-2021-mainstreaming-white-supremacist-great-replacement-theory"
     channeltitle "mediamatters4america"
     channelid "UC_70iWZ6ym2cglS_kv5YfmA"
@@ -2953,7 +2953,7 @@ graph
     commentcount 132
     duration "PT3M5S"
     indegree 0
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -3033,7 +3033,7 @@ graph
     label "uFOEiwGOMSg"
     step 0
     date "2022-05-14T19:30:02Z"
-    title "Tucker Carlson: Believe In Evidence Not Theories"
+    title "Tucker Carlson: Believe In Evidence  Not Theories"
     description "Ben Shapiro and Tucker Carlson sit down to discuss what shaped Carlson's political career.&#10;&#10;Watch the full episode here: https://youtu.be/G1UpFHsbOf0&#10;&#10;#BenShapiro #BenShapiroSundaySpecial #DailyWire #TuckerCarlson #News #Politics"
     channeltitle "Ben Shapiro"
     channelid "UCnQC_G5Xsjhp9fEJKuIcrSw"
@@ -3061,7 +3061,7 @@ graph
     commentcount 30
     duration "PT59S"
     indegree 7
-    cluster 5
+    cluster 7
   ]
   node
   [
@@ -3079,7 +3079,7 @@ graph
     commentcount 1
     duration "PT1M18S"
     indegree 0
-    cluster 5
+    cluster 8
   ]
   node
   [
@@ -3097,7 +3097,7 @@ graph
     commentcount 3
     duration "PT1H53M25S"
     indegree 0
-    cluster 8
+    cluster 4
   ]
   node
   [
@@ -3115,7 +3115,7 @@ graph
     commentcount 151
     duration "PT3M54S"
     indegree 2
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -3133,7 +3133,7 @@ graph
     commentcount 133
     duration "PT13M21S"
     indegree 1
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -3141,7 +3141,7 @@ graph
     label "pEYjxVMXDVY"
     step 0
     date "2022-05-24T21:21:16Z"
-    title "RWP 124 - w Dr. David Payne"
+    title "RWP 124 -  w Dr. David Payne"
     description "The race-based shooting in Buffalo has forced the Great Replacement Theory to more fully raise its ugly head and be seen by more of America. What can good rhetoric do to counter the bad rhetoric of anxiety, fear, and hate based on race? Turns out, it can do a lot. Listen in as I deep dive with D Payne about what racially wicked this way comes, and how to deal with the race beast that always seems to threaten the world as we want it to be."
     channeltitle "RHETORIC WARRIORS"
     channelid "UCH0nDs0FDuwAgXucdB_ye9w"
@@ -3187,7 +3187,7 @@ graph
     commentcount 647
     duration "PT4M15S"
     indegree 2
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -3195,7 +3195,7 @@ graph
     label "kr67U_PIwCA"
     step 0
     date "2021-08-04T19:52:46Z"
-    title "Great Replacement Theory of Newt Gingrich e tongue sticking out lained"
+    title "Great Replacement Theory of Newt Gingrich explained"
     description "Explained: Newt Gingrich and Great Replacement Theory. &#10;Hitch a ride on a stealth bomber and disappear, white boy. &#10;Get religious with states' rights. &#10;Feed the church for people who are Left Behind or revenants (left for dead). &#10;&#10;Only the amazing grace of Jesus The Christ of The Holy Bible has been saving a miserable wretch like me. &#10;Lest I vaunt myself before GOD saying mine own hand hath saved me."
     channeltitle "Nadeem Bitar"
     channelid "UCcbtiVHSZ5wafbwfY3m3Uyw"
@@ -3205,7 +3205,7 @@ graph
     commentcount 0
     duration "PT1M5S"
     indegree 0
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -3223,7 +3223,7 @@ graph
     commentcount 0
     duration "PT1M"
     indegree 3
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -3241,7 +3241,7 @@ graph
     commentcount -1
     duration "PT10M6S"
     indegree 0
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -3249,7 +3249,7 @@ graph
     label "wbWB1sfqWx0"
     step 0
     date "2022-05-18T02:27:39Z"
-    title "What is ?"
+    title "What is  ?"
     description ""
     channeltitle "Nabil Swaleh"
     channelid "UCrb-8wxULmO7BiO_yyfupzQ"
@@ -3277,7 +3277,7 @@ graph
     commentcount 0
     duration "PT42M25S"
     indegree 0
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -3295,7 +3295,7 @@ graph
     commentcount 494
     duration "PT1M51S"
     indegree 11
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -3313,7 +3313,7 @@ graph
     commentcount 329
     duration "PT2M13S"
     indegree 4
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -3349,7 +3349,7 @@ graph
     commentcount 19
     duration "PT43S"
     indegree 1
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -3375,7 +3375,7 @@ graph
     label "_BxNY7X8sCE"
     step 0
     date "2022-05-22T10:14:09Z"
-    title "Replacement Theory E tongue sticking out lained"
+    title "Replacement Theory Explained"
     description "The Great Replacement or Replacement Theory&#10;The Great Replacement also known as the replacement Theory is a White Nationalist Far-Right Conspiracy Theory.&#10; &#8220;The Great Replacement&#8221; theory has its roots in the early 20th century French nationalism and books by French nationalist and author Maurice Barres. &#10;Later on the great replacement theory was popularized by Renaud Camus in his 2011 book Le Grand Remplacement.&#10; It specifically associated the presence of Muslims in France with potential danger and destruction of French culture and civilization. &#10;The theory states that with the complicity or cooperation of &#34;replacist&#34; elites mostly jews, the white European populations are being demographically and culturally replaced with non-white people, especially from Muslim-majority countries through mass migration, demographic growth and a drop in the birth rate of white Europeans.&#10;An extension of colonialist theory, it is predicated on the notion that white women are not having enough children and that falling birthrates will lead to white people around the world being replaced by nonwhite people.  And like so many fundamentalist ideologies, the foundation of this one requires the subjugation of women.&#10;The &#8220;great replacement&#8221; philosophy was quickly adopted and promoted by the white supremacist  movement, as it fit into their conspiracy theory about the impending destruction of the white race, also know as &#8220;white genocide.&#8221; &#10;Many Americans first became familiar with the term in 2017 when alt-right activists organized a rally in Charlottesville, Virginia, where activists chanted, &#34;You will not replace us,&#34; and &#34;Jews will not replace us.&#34;The rally turned deadly when a neo-Nazi sympathizer drove his truck into counter-protesters, killing 32-year-old Heather Heyer.&#10;Camus denies his words have inspired violence. But extremism experts say the replacement idea has helped propel a string of deadly attacks by white supremacists on Jews, Muslims, Hispanics and Blacks in recent years.&#10;&#8226; Inside a Pittsburgh synagogue in 2018, a white man with a history of antisemitic internet posts gunned down 11 worshipers, blaming Jews for allowing immigrant &#8220;invaders&#8221; into the United States.&#10;&#8226; The next year, another white man, angry over what he called &#8220;the Hispanic invasion of Texas,&#8221; opened fire on shoppers at an El Paso Walmart, leaving 23 people dead, and later telling the police he had sought to kill Mexicans as they are replacing white in America&#10;&#8226; And in yet another deadly mass shooting, unfolding in Buffalo on Saturday, a heavily armed white man killed 10 people after targeting a supermarket on the city&#8217;s predominantly Black east side, writing in a lengthy screed posted online that the shoppers there came from a culture that sought to &#8220;ethnically replace my own people.&#8221;&#10;&#8226; Three shootings, three different targets &#8212; but all linked by one sprawling, ever-mutating belief now commonly known as replacement theory. &#10;&#8226; Multiple iterations of the &#8220;great replacement&#8221; theory have been and continue to be used by antiimmigrant groups, white supremacists, and others. Prominent iterations include: Rhetoric of invasion: The theory often uses martial and violent rhetoric of a migrant &#8220;invasion&#8221; that must be stopped before it &#8220;conquers&#8221; &#8220;white America.&#8221; Voter replacement: The theory also sometimes incorporates the inaccurate assumption that nonwhite immigrants will vote a certain way, and therefore pro-immigration policies are designed by elites to diminish the political influence of white Americans. Anti-Semitism: In still other iterations, the theory can be found embedded in a web of other xenophobic conspiracies, including antisemitic notions that Jewish elites are responsible for the &#8220;replacement&#8221; plot. &#10;Camus denies his words have inspired violence. But extremism experts say the replacement idea has helped propel a string of deadly attacks by white supremacists on Jews, Muslims, Hispanics and Blacks in recent years.&#10;&#8226; Republicans have become more explicit about embracing the Great Replacement theory helped by the amplification of Fox News, particularly prime-time host Tucker Carlson. Rather than implying it, as many on the right previously had, Carlson is explicit &#8212; even if he denies somehow that he's talking about the &#34;racist fantasy&#34;"
     channeltitle "Social Science School"
     channelid "UCWPUkFGhqkKeTyXoZQTOPlA"
@@ -3385,7 +3385,7 @@ graph
     commentcount 8
     duration "PT4M5S"
     indegree 1
-    cluster 9
+    cluster 6
   ]
   node
   [
@@ -3403,7 +3403,7 @@ graph
     commentcount 249
     duration "PT53M33S"
     indegree 2
-    cluster 1
+    cluster 5
   ]
   node
   [
@@ -3421,7 +3421,7 @@ graph
     commentcount 75
     duration "PT23M52S"
     indegree 2
-    cluster 8
+    cluster 5
   ]
   node
   [
@@ -3439,7 +3439,7 @@ graph
     commentcount 0
     duration "PT58M47S"
     indegree 0
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -3457,7 +3457,7 @@ graph
     commentcount 1017
     duration "PT9M"
     indegree 2
-    cluster 5
+    cluster 2
   ]
   node
   [
@@ -3465,7 +3465,7 @@ graph
     label "U1DzbJBmf9E"
     step 0
     date "2022-05-23T17:55:32Z"
-    title "On Point - and its deep roots in America"
+    title "On Point -  and its deep roots in America"
     description "Great replacement theory -- the erroneous belief that there's an effort underway to 'replace native-born Americans with immigrants for electoral gains.' That fear has moved from the fringes to the mainstream. As many as one in three Americans say they believe it. Jeffery Robinson and Ricky Jones join Meghna Chakrabarti.&#10;&#10;Episode link: http://www.wbur.org/onpoint/2022/05/23/how-replacement-theory-moved-from-the-fringes-to-the-mainstream&#10;&#10;(video made with https://www.headliner.app)"
     channeltitle "K1V Account"
     channelid "UC_obRxqeZSBlVc5edOQZHQg"
@@ -3475,7 +3475,7 @@ graph
     commentcount 2
     duration "PT48M51S"
     indegree 2
-    cluster 6
+    cluster 3
   ]
   node
   [
@@ -3493,7 +3493,7 @@ graph
     commentcount 0
     duration "PT1H30M55S"
     indegree 0
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -3511,7 +3511,7 @@ graph
     commentcount 4
     duration "PT59S"
     indegree 0
-    cluster 1
+    cluster 5
   ]
   node
   [
@@ -3547,7 +3547,7 @@ graph
     commentcount 758
     duration "PT1H5M3S"
     indegree 4
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -3565,7 +3565,7 @@ graph
     commentcount 29
     duration "PT6M43S"
     indegree 11
-    cluster 5
+    cluster 7
   ]
   node
   [
@@ -3591,7 +3591,7 @@ graph
     label "fh4uQeoi5wY"
     step 0
     date "2022-05-18T14:41:54Z"
-    title "The Great Replacement: The Past Disturbing Present of American Nazis"
+    title "The Great Replacement: The Past  Disturbing Present of American Nazis"
     description "SUPPORT more videos like this at http://patreon.com/rebecca&#10;&#10;SUBSCRIBE at http://www.youtube.com/subscription_center?add_user=rkwatson&#10;&#10;+++&#10;&#10;Links + transcript available at https://www.patreon.com/posts/66561352&#10;&#10;+++&#10;&#10;ABOUT: Rebecca Watson is the founder of the Skepchick Network, a collection of sites focused on science and critical thinking. She has written for outlets such as Slate, Popular Science, and the Committee for Skeptical Inquiry. She's also the host of Quiz-o-tron, a rowdy, live quiz show that pits scientists against comedians. Asteroid 153289 Rebeccawatson is named after her (her real name being 153289).&#10;&#10;+++&#10;&#10;MORE: http://www.skepchick.org&#10;FOLLOW: http://www.twitter.com/skepchicks&#10;AND: http://www.twitter.com/rebeccawatson&#10;LIKE: https://www.facebook.com/skepchicks"
     channeltitle "Rebecca Watson"
     channelid "UCFJxE0l3cVYU4kHzi4qVEkw"
@@ -3627,7 +3627,7 @@ graph
     label "WbbheoIq4Qc"
     step 0
     date "2022-05-27T01:02:44Z"
-    title "Replacement Theory E tongue sticking out lained | Family Meeting | 5/26/22"
+    title "Replacement Theory Explained | Family Meeting | 5/26/22"
     description "We are finally home. &#10;&#10;Topics covered:&#10;&#8226; Recent road trip highlights&#10;&#8226; Monique's new braids&#10;&#8226; Thoughts about the recent school shooting&#10;&#8226; A tweet that says it's better for a baby to be aborted than adopted by white people&#10;&#8226; Replacement theory, Minister Farrakhan and Jackie Hill Perry (source: https://youtu.be/wwbRugNYcVk?t=2957)&#10;&#8226; Recent Barna study about pastors not having a &#34;biblical worldview&#34;&#10;&#8226; Tips for talking to social justice-oriented people&#10;&#8226; How to live in your unbotheredness"
     channeltitle "Center For Biblical Unity"
     channelid "UCks4V3eoZ0RPI3PXYjbjdTQ"
@@ -3663,7 +3663,7 @@ graph
     label "E0V5BjLDfVo"
     step 0
     date "2022-07-12T12:00:07Z"
-    title "What You Need to Understand About Automation Job Loss - Economic Update with Richard Wolff"
+    title "What You Need to Understand About Automation  Job Loss - Economic Update with Richard Wolff"
     description "Richard Wolff explains why automation is not to blame for job loss- it's the system of business owners and employers that decide to fire people when it's more profitable for them. &#10;&#10;&#34;Well, machines don't come into the business on their own. Somebody brings the machine. Somebody buys the machine and pays somebody to bring it. Who is it? And the answer is the employer, the capitalist. And the only reason machines are brought in to replace workers is if it's more profitable to have a machine than a worker.&#34; - Richard Wolff&#10;&#10;This is a clip from S12 E26 of Economic Update: The Great Replacement Theory&#10;Watch the full episode on our YouTube channel at https://youtu.be/I3-7fJX7m3M&#10;&#10;You can also listen to this show on our website or as a podcast on your favorite podcast player.&#10;______________________________________________________________________________________&#10;We make it a point to provide the show free of ads. Please consider supporting our work. &#10;&#10;Become an EU patron on Patreon: https://www.patreon.com/economicupdate&#10;Become a monthly donor via our website: https://www.democracyatwork.info/donate&#10;_______________________________________________________________________________________&#10;Check out the NEW 2021 Hardcover edition of &#8220;Understanding Marxism,&#8221; with a new, lengthy introduction by Richard Wolff! &#10;www.democracyatwork.info/books&#10;&#10;&#8220;Marxism always was the critical shadow of capitalism. Their interactions changed them both. Now Marxism is once again stepping into the light as capitalism shakes from its own excesses and confronts decline.&#8221;&#10;&#10;Check out all of d@w&#8217;s books: &#34;The Sickness is the System,&#34; &#34;Understanding Socialism,&#34; by Richard D. Wolff, and &#8220;Stuck Nation&#8221; by Bob Hennelly&#10;http://www.lulu.com/spotlight/democracyatwork&#10;_________________________________________________________________________________________&#10;Want to help us translate and transcribe our videos? &#10;Learn about joining our translation team: http://bit.ly/2J2uIHH&#10;Jump right in: http://bit.ly/2J3bEZR&#10;&#10;Follow us ONLINE: &#10;Patreon: https://www.patreon.com/economicupdate&#10;Websites: http://www.democracyatwork.info/economicupdate&#10;                  http://www.rdwolff.com&#10;DailyMotion: http://www.dailymotion.com/democracyatwrk&#10;Facebook: http://www.facebook.com/RichardDWolff&#10;                   http://www.facebook.com/DemocracyatWrk&#10;Twitter: http://twitter.com/profwolff&#10;              http://twitter.com/democracyatwrk&#10;Instagram: http://instagram.com/democracyatwrk&#10;Subscribe to our podcast: http://economicupdate.libsyn.com&#10;Shop our Store: http://bit.ly/2JkxIfy"
     channeltitle "Democracy At Work"
     channelid "UCK-6FjMu9OI8i0Fo6bkW0VA"
@@ -3691,7 +3691,7 @@ graph
     commentcount 0
     duration "PT4M42S"
     indegree 0
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -3727,7 +3727,7 @@ graph
     commentcount 0
     duration "PT12M45S"
     indegree 0
-    cluster 7
+    cluster 1
   ]
   node
   [
@@ -3745,7 +3745,7 @@ graph
     commentcount 5
     duration "PT1H2M3S"
     indegree 0
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -3781,7 +3781,7 @@ graph
     commentcount 51
     duration "PT24M8S"
     indegree 0
-    cluster 1
+    cluster 6
   ]
   node
   [
@@ -3799,7 +3799,7 @@ graph
     commentcount 102
     duration "PT14M23S"
     indegree 1
-    cluster 7
+    cluster 1
   ]
   node
   [
@@ -3817,7 +3817,7 @@ graph
     commentcount 255
     duration "PT1H21M5S"
     indegree 2
-    cluster 8
+    cluster 7
   ]
   node
   [
@@ -3825,7 +3825,7 @@ graph
     label "wekjPZPcBns"
     step 0
     date "2022-06-22T11:58:17Z"
-    title "The deadly conspiracy theory has gone viral"
+    title "The deadly  conspiracy theory has gone viral"
     description "The white supremacist &#34;Great Replacement&#34; conspiracy theory inspires terrorism and mass murder.  Mainstream politicians know this, and yet they continue to spread these lies. And, social media companies let them. We must stop the spread of the Great Replacement."
     channeltitle "Global Project Against Hate and Extremism"
     channelid "UCmbRfXgz3f8t2Q6XWhWgygA"
@@ -3835,7 +3835,7 @@ graph
     commentcount 0
     duration "PT2M33S"
     indegree 0
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -3861,7 +3861,7 @@ graph
     label "9kGtJPouAOg"
     step 0
     date "2021-09-23T16:57:56Z"
-    title "Tucker Carlson e tongue sticking out licitly cites white-nationalist conspiracy theory"
+    title "Tucker Carlson explicitly cites white-nationalist  conspiracy theory"
     description "&#10145;&#65039;  Want to write for Daily Kos? You can!&#10;How to write a Daily Kos story: The basics: http://tinyurl.com/47d8655x&#10;Daily Kos Video Tutorials on How to Get Started (2 minutes): http://tinyurl.com/ddxwtw63&#10;&#10;&#10145;&#65039;  Connect with Daily Kos:&#10;http://dailykos.com&#10;http://twitter.com/dailykos&#10;http://facebook.com/dailykos&#10;&#10;&#10145;&#65039; Be sure to subscribe to Daily Kos&#8217; podcast How Did We Get Here? wherever you get your podcasts &#127911;&#10;&#10;Apple Podcast: https://tinyurl.com/3seenhhc&#10;Spotify: https://tinyurl.com/7sxjfx67 &#10;&#10;&#10145;&#65039; Be sure to subscribe to Daily Kos&#8217; The Brief wherever you get your podcasts &#127911;&#10;Apple Podcast: http://tinyurl.com/80z6vtda&#10;Spotify: http://tinyurl.com/14xjhrmn&#10;Stitcher: http://tinyurl.com/5dz8nfto&#10;Google Podcast: http://tinyurl.com/fm0cfxnh"
     channeltitle "Daily Kos"
     channelid "UC1Z1i5ClfrJhyu9z1hlmDkQ"
@@ -3871,7 +3871,7 @@ graph
     commentcount 18
     duration "PT2M13S"
     indegree 0
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -3889,7 +3889,7 @@ graph
     commentcount 0
     duration "PT1H2M56S"
     indegree 0
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -3961,7 +3961,7 @@ graph
     commentcount 0
     duration "PT1M27S"
     indegree 0
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -3979,7 +3979,7 @@ graph
     commentcount 6
     duration "PT9M51S"
     indegree 0
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -3987,7 +3987,7 @@ graph
     label "1ddAK4sM_Eo"
     step 0
     date "2022-05-15T12:06:52Z"
-    title "Buffalo supermarket shooting suspect posted manifesto repeatedly citing theory"
+    title "Buffalo supermarket shooting suspect posted manifesto repeatedly citing  theory"
     description "The Buffalo shooting suspect posted an apparent manifesto citing the 'Great Replacement' theory  https://www.nbcnews.com/news/us-news/buffalo-supermarket-shooting-suspect-posted-apparent-manifesto-repeate-rcna28889&#10;&#10;Thanks for Watching!&#10;Like, Comment, and Subscribe!&#10;&#10;NFTs @ https://opensea.io/ujamaaamadi&#10;Afro Ninja Books @ https://afroninjabooks.com&#10;List your business @ https://ujamaaamadi.com&#10;Created on iPhone 13 Pro Max @ https://amzn.to/3FyLuZu&#10;To support the channel Cash app: $ujamaaamadi&#10;&#10;#shorts #viral #newsclip #arbys #urinatedmilkshake #gasprices #elonmusk #starbucks #travisscott #youngthug #cryptocurrency #snoopdog #icecube #riotatcapital #joebiden #karinejeanpierre #presssecretary #manslaughter #mexicowildfire #brittanygriner #breakingnews #newschannel #newsbroadcast #freegamenews #news-stories #news-story #YouTubenews #morningnews #eveningnews #newsstation #dailynews #weeklynews #importantnews #CNN #CNNBrazil #CNNPortugal #Indiatv #CNews #News7 #News18India #News12 #KTNNews #MNCnews #MSNBC #Welt #Newsone #LCI #LCN #metrotv #GoogleNews #AppleNews #YahooNews #Channel5news #Foxnews #USAtoday #ABCnews #BBCnews #CGTNnews #Newsnation #Africa24news #amadimedia #freegamenews #warupdates#kevinsamuels #obsidian #bernardriley #freshandfit #blacknationalism #blackmanosphere, manosphere #freegame #news #podcast #talkradio #blackpower #blackpride #blackness #angryman #lapeefchannel #lapeefnetwork #bosstalk101 #ogpercy #saycheese #vladtv #urban-politicians #musicindustry #charlestonwhite #blackmaleimage #ninaboy #freshandfit #gangster #joerogan #willsmith #chrisrock #podcast #reaction #willsmith #jadapickett #houstonnews #texasnews #ukraine #russia #war #elonmusk #amazon #apple #microsoft #donaldtrump #joebiden #localnews #celebritynews #viralnews #viralvideo #newyorktimes #washingtonpost #tmz #tmznews #npr #nprnews #huffingtonpost #huffpost #clubhouse #trending #kimkardashian #kaynewest #johnnydepp #amberheard #killed #murder #love #TFLers #tweegram #photooftheday #20likes #amazing #smile #follow4follow #like4like #look #instalike #igers #picoftheday #food #instadaily #instafollow #followme #girl #iphoneonly #instagood #bestoftheday #instacool #instago #all_shots #follow #swag #fslc #followshoutoutlikecomment #follow #shoutout #followme #comment #f4f #s4s #l4l #c4c #followback #shoutoutback #likeback #commentback #love #instagood #photooftheday #pleasefollow #pleaseshoutout #pleaselike #pleasecomment #teamfslcback #fslcback #follows #shoutouts #likes #comments"
     channeltitle "FREEGAMENEWS"
     channelid "UCFxdwi77FWg_XVFD7arZFHg"
@@ -3997,7 +3997,7 @@ graph
     commentcount 0
     duration "PT11S"
     indegree 0
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -4015,7 +4015,7 @@ graph
     commentcount 0
     duration "PT21M34S"
     indegree 0
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -4051,7 +4051,7 @@ graph
     commentcount 2
     duration "PT10M28S"
     indegree 0
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -4087,7 +4087,7 @@ graph
     commentcount -1
     duration "PT1M42S"
     indegree 0
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -4095,7 +4095,7 @@ graph
     label "WKUKk8K4IiU"
     step 0
     date "2022-05-22T14:26:19Z"
-    title "Curb Your Great Replacement Theory"
+    title "Curb Your  Great Replacement Theory"
     description "Left Wing activists, politicians and media personalities would have you believe that the &#34;Great Replacement Theory&#34;, or at least some varied versions of it, are being propagated primarily by Tucker Carlson and the right wing in the U.S. It doesn't take any great effort to find out this is not true"
     channeltitle "Lost but Found"
     channelid "UCYacBqAE-AHGElu9JHq9kfw"
@@ -4105,7 +4105,7 @@ graph
     commentcount 2
     duration "PT2M45S"
     indegree 0
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -4149,7 +4149,7 @@ graph
     label "akkHfj0enPM"
     step 0
     date "2022-05-28T15:59:47Z"
-    title "A STUNNING Number of Trump Voters Believe in Conspiracy Theory"
+    title "A STUNNING Number of Trump Voters Believe in  Conspiracy Theory"
     description "Get early access to videos by supporting us on Patreon, YouTube or PayPal! Sign up here: http://www.patreon.com/humanistreport or here: http://www.humanistreport.com/support.html or here: https://www.youtube.com/channel/UC7Q4rvzJDbHeBHYk5rnvZeA/join&#10;&#10;Read More About This Story Here:&#10;https://thehill.com/news/state-watch/3499877-6-in-10-trump-voters-agree-with-core-tenet-of-great-replacement-theory-survey/&#10;&#10;**************&#10;Visit Our Website: http://www.humanistreport.com/&#10;Like Us on Facebook: http://www.facebook.com/humanistreport&#10;Follow Us on TikTok: https://www.tiktok.com/@humanistreport&#10;Follow Us on Twitter: http://www.twitter.com/HumanistReport&#10;Follow Mike on Instagram: https://www.instagram.com/mike.figueredo/&#10;Follow Mike on Twitch: https://www.twitch.tv/humanistreport&#10;Download the Opt-Out App: https://www.optout.news/&#10;**************&#10;The Humanist Report (THR) is a progressive political podcast that discusses and analyzes current news events and pressing political issues. Our analyses are guided by humanism and political progressivism. Each news story we cover is supplemented with thought-provoking, fact-based commentary that aims for the highest level of objectivity.&#10;&#10;#HumanistReport #THR #MikeFigueredo"
     channeltitle "The Humanist Report"
     channelid "UC7Q4rvzJDbHeBHYk5rnvZeA"
@@ -4195,7 +4195,7 @@ graph
     commentcount 0
     duration "PT4M47S"
     indegree 0
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -4231,7 +4231,7 @@ graph
     commentcount 88
     duration "PT2M59S"
     indegree 1
-    cluster 8
+    cluster 4
   ]
   node
   [
@@ -4239,7 +4239,7 @@ graph
     label "gWZa-OVFnYI"
     step 0
     date "2022-05-22T22:22:04Z"
-    title "Republicans MUST Answer For Violence"
+    title "Republicans MUST Answer For  Violence"
     description "ANSWER THE QUESTION!! Chuck Schumer rips Tucker Carlson, Fox News, and 'MAGA Republicans' for pushing the 'replacement theory' &#128204; SUBSCRIBE, LIKE, COMMENT &#38; SHARE for MORE! &#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;#TuckerCarlsonsProblems #GOP&#10;&#10;COMMENTARY/NARRATION Provided By Jenell for aDDmoreJuice TV&#10;&#10;OUTRO Music Credit: NEFFEX Music -  #aDDmoreJuiceTv #News&#10;&#10;SOURCE:&#10;C Span&#10;MSNBC&#10;CNN&#10;FOX News&#10;&#10;#MarjorieTaylorGreene #LGBTQ+ #BLM #TuckerCarlsons #GOP #JoeBiden #PaytonGendron #Trump2024"
     channeltitle "aDDmoreJuice Tv"
     channelid "UCGEGkFlcim39Owpp35-ZnHw"
@@ -4249,7 +4249,7 @@ graph
     commentcount 46
     duration "PT10M2S"
     indegree 1
-    cluster 6
+    cluster 3
   ]
   node
   [
@@ -4275,7 +4275,7 @@ graph
     label "J5cHG1M9WHY"
     step 0
     date "2022-05-21T23:12:53Z"
-    title "Velshi - The Rise of Theory"
+    title "Velshi - The Rise of  Theory"
     description "Ali Velshi is joined by Larry Platt, Co-Founder and Co-Executive Director at The Philadelphia Citizen, Ned Foley, Director of Election Law and Constitutional Law Chair at Ohio State Contributing Columnist at The Washington Post, Heather Long, Economic Columnist and Editorial Board member at The Washington Post, Spencer Glendon, Senior Fellow at Woodwell Climate Research Center, Ian Bremmer, President &#38; Founder at Eurasia Group &#38; GZERO Media, Steve Benen, Editor at The Maddow Blog, Michael Steele, Former RNC Chairman, Caleb Silver, Editor-in-Chief at Investopedia, and Karen J. Greenberg, Director at Fordham University&#8217;s Center on National Security.&#10;&#10;Episode link: https://velshi.simplecast.com/episodes/the-rise-of-the-great-replacement-theory-iLl3d00R&#10;&#10;(video made with https://www.headliner.app)"
     channeltitle "K1V Account"
     channelid "UC_obRxqeZSBlVc5edOQZHQg"
@@ -4285,7 +4285,7 @@ graph
     commentcount 0
     duration "PT1H28M23S"
     indegree 0
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -4311,7 +4311,7 @@ graph
     label "lycU7-uyr_Y"
     step 0
     date "2022-05-16T21:15:00Z"
-    title "My Replacement Theory--Rhetorically Kick Electorally Replace Racist Republicans"
+    title "My Replacement Theory--Rhetorically Kick  Electorally Replace Racist Republicans"
     description "Elise Stefanik of New York tweeted out The Great Replacement Theory, and has spouted this garbage numerous times. It is a virus for weak white nationalist minds. And was part of a tapestry of GOP lies and racial smears that helped lead to murder in Buffalo this weekend. Cliff provides the breakdown and takedown.&#10;&#10;LINKS: &#10;Stefanik embraced racist theory: https://twitter.com/washingtonpost/status/1525969262707458050&#10;&#10;Tucker embraces it nightly: https://www.motherjones.com/mojo-wire/2022/05/buffalo-shooting-replacement-theory-tucker-carlson/&#10;&#10;The Killer believed it: https://www.latimes.com/world-nation/story/2022-05-15/buffalo-shooter-new-generation-white-supremacists&#10;&#10;**transcript generated by third-party transcription software, please excuse any typos**&#10;&#10;hey obviously this was a very somber weekend um in buffalo we had a mass murderer a white supremacist uh someone indoctrinated into the great replacement theory which i'll talk about in a second drive three and a half hours to what he uh saw what he believed and researched to be a very black neighborhood to walk into a store and shoot mostly black people and why would this crazy lunatic do this obviously they're things we will never know here's what we do now great replacement theory literally infects the republican party like a virus it's covid plus aids plus diphtheria plus tetanus maybe a little bit of the bubonic plague thrown in there it is a sickness it's a sickness of the mind and what you need to know is that while this used to be sort of something spoken about in back rooms and shared by back benchers you know who had no influence in congress this is now espoused by the leaders of the republican party donald trump has spoken about it constantly elise stefanik has has put it out in her twitter feed numerous times and she's a congresswoman from new york state and the number three republican um you you have tucker carlson literally referring to non-whites as filth and talking about how dirty our country is getting because of that um and talks about great replacement theory constantly what is it it's simple it's that that people who are not white in this country and to them that means you are not white and christian um are trying to to overturn the western social order by recruiting illegal immigrants to come here so for example when elise stefanik i want to make sure to quote her exactly right sends out a tweet literally today after these 10 people were murdered that democrats desperately want wide open borders and mass amnesty for illegals allowing him to vote it is a lie she's a [&#160;__&#160;] liar okay um again it's tied is tied directly into their claim that the election was stolen in 2020 all this stuff sort of dovetails nicely with each other they're crazy theories it's you know again the the great replacement theory is as real as trump won the election in 2020 which is as real as any part on kimberly guilfoyle's body&#10;&#10;so elise defenex sends this out to her her people when marjorie taylor green and paul goes are members of congress do speak at white uh nationalist supremacist conferences this is what they're talking about great replacement theory um it's non-whites making sure that we lose white culture whatever the hell that is and it's leading people to kill people um they have it on fox every night dr carlson talks about it constantly uh it is shared on their talk radio it's in their scribblings of the various daily this and daily planet or whatever the names of their stupid publications are that are just propaganda rags the worst part is again that people are getting this message and the same people that while republicans have cut mental health services so that they are not getting them are able to sit there and get these theories online like the murderer in buffalo said that he did and of course they have easy access to weapon like let's try that again weaponry because right now a combination of mitch mcconnell and his republican party joe manchin and kirsten cinema two democrats will not get rid of the filibuster and will not allow us to take a simple vote which if we did there are easily over 50 senators uh who would pass numerous gun control regulations such as universal background checks that proved to bring down these kinds of killings by about 70 percent there's a reason every single other country has these kinds of laws okay they could then you'll get these idiots on twitter like oh what if somebody used a knife the first genius to think about why don't we regulate cars we do and we started regulating them heavily in the 70s with drunk driving checkpoints and speed limits and bartenders no longer allowed to serve you when you were drunk off your ass and any man or you know we got tougher with driver's licenses guess what happened the fatalities on the highway plummeted plummeted we're just going up in the other direction with guns and again when i'm not mainstream media someone tell you the truth it's republicans you can add in joe manchin"
     channeltitle "Cliff Schecter"
     channelid "UCpr3mNMkbqfd2E4vTIRVMIg"
@@ -4321,7 +4321,7 @@ graph
     commentcount 6
     duration "PT6M45S"
     indegree 0
-    cluster 8
+    cluster 6
   ]
   node
   [
@@ -4329,7 +4329,7 @@ graph
     label "-nfyurSULoU"
     step 0
     date "2022-05-25T03:12:30Z"
-    title "The Media is LYING About The Great Replacement GOP"
+    title "The Media is LYING About The Great Replacement  GOP"
     description "The &#34;Great Replacement&#34; has been tossed around by many people over the past few weeks. This modern iteration of the term began with the Buffalo shooting at Tops Grocery Store, which killed atleast 10 people. The shooter cited a &#34;Great Replacement&#34; theory, which states that whites are enduring democide, and will quickly become a racial minority before long. &#10;&#10;Several media outlets, including the Washington Post, Business Insider, The Nation, and others immediately equated Republican orthodoxy surrounding immigration to the white supremacist &#34;Great Replacement&#34; theory. Elise Stefanik and Tuckler Carlson were particularly singled out for this purpose. Many Republican pundits have demonstrated that the general position around immigration is not one of racism, but instead of political demography and process. But what no political commentator has done quite yet is address the method being used to equate the position with white supremacy in the first place.&#10;&#10;Mr. Watson finishes the necessary work in this regard. He explains how the &#34;Great Replacement&#34; in this context claim amounts to proximity ethics, and should be exposed for being epistemically dangerous. He also analyses similar arguments that use the same mechanism to achieve false objectives. Watch for more!&#10;&#10;&#10;#politics #greatreplacementtheory #whitesupremacy #tuckercarlson #elisestefanik #gop #immigration #republican #democrat #racism #greatreplacement #demography"
     channeltitle "Christian Watson"
     channelid "UCuIAz0mwMNVP0o7Wn5jMKQA"
@@ -4357,7 +4357,7 @@ graph
     commentcount 6
     duration "PT35M10S"
     indegree 0
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -4393,7 +4393,7 @@ graph
     commentcount 0
     duration "PT38S"
     indegree 0
-    cluster 2
+    cluster 4
   ]
   node
   [
@@ -4401,7 +4401,7 @@ graph
     label "Dk-5G3FvqxU"
     step 0
     date "2022-05-18T03:34:49Z"
-    title "Tucker Carlson About Great Replacement Theory After Pushing It 400 Times"
+    title "Tucker Carlson  About Great Replacement Theory After Pushing It 400 Times"
     description "Fox News host Tucker Carlson tried to distance himself Tuesday from the white supremacist &#8220;great replacement&#8221; theory he&#8217;s peddled on his prime time show for years, before launching into a long rant about Democratic plots to encourage immigration to win elections, a key tenet of the conspiracy idea. &#10;Carlson opened his program Tuesday denouncing the 18-year-old suspect accused of killing 10 people at a grocery store in Buffalo, New York last week. The man, Payton Gendron, is accused of targeting"
     channeltitle "Ashleigh Kman"
     channelid "UC4ldztgLyJUSVSJkiknVSNw"
@@ -4411,7 +4411,7 @@ graph
     commentcount 0
     duration "PT3M31S"
     indegree 0
-    cluster 7
+    cluster 4
   ]
   node
   [
@@ -4419,7 +4419,7 @@ graph
     label "EsXqvLNFnJA"
     step 0
     date "2022-05-17T20:22:21Z"
-    title "Representative Elise Stefanik, Republican of New York Replacement Theory E tongue sticking out ert Vote GOP"
+    title "Representative Elise Stefanik, Republican of New York Replacement Theory Expert Vote GOP"
     description "Racist Attack Spotlights Stefanik&#8217;s Echo of Replacement Theory&#10;Annie Karni&#10;May 16, 2022, 8:13 p.m. ETMay 16, 2022&#10;May 16, 2022&#10;Annie Karni&#10;Representative Elise Stefanik, Republican of New York, is under scrutiny for having echoed the racist &#8220;great replacement&#8221; theory in campaign advertisements.&#10;Representative Elise Stefanik, Republican of New York, is under scrutiny for having echoed the racist &#8220;great replacement&#8221; theory in campaign advertisements.Credit...Tom Brenner for The New York Times&#10;&#10;WASHINGTON &#8212; Over the past week, Representative Elise Stefanik of New York, the third-ranking House Republican, has blasted President Biden for providing infant formula to undocumented immigrants while &#8220;American mothers&#8221; suffer amid a nationwide formula shortage.&#10;&#10;She has attacked Democrats and &#8220;pedo grifters,&#8221; borrowing language from the baseless pro-Trump QAnon conspiracy theory that claims there is a Satan-worshipping cabal of liberal pedophiles, which has evolved into a movement on the right.&#10;&#10;ADVERTISEMENT&#10;&#10;Continue reading the main story&#10;Subscribe to The Times to read as many articles as you like.&#10;nytimes.com/subscription&#10;Site Information Navigation&#10;&#169; 2022 The New York Times Company&#10;NYTCoContact UsAccessibilityWork with usAdvertiseT Brand StudioYour Ad ChoicesPrivacy PolicyTerms of ServiceTerms of SaleSite MapHelpSubscriptions&#10;You&#8217;ve reached your limit of free articles.&#10;Special offer:&#10;&#10;Get unlimited access for $1 a week.&#10;&#10;$4.25 $1/week&#10;&#10;Billed as $17 $4 every 4 weeks for one year&#10;&#10;You can cancel anytime.&#10;&#10;SUBSCRIBE"
     channeltitle "Republican Replacement Theory | GOP Party Racist"
     channelid "UCFTKB1LuBf_1lesfJuhmL_Q"
@@ -4429,7 +4429,7 @@ graph
     commentcount 0
     duration "PT11S"
     indegree 0
-    cluster 1
+    cluster 5
   ]
   node
   [
@@ -4437,7 +4437,7 @@ graph
     label "uy1OFH_7XBo"
     step 0
     date "2022-05-18T18:50:18Z"
-    title "REPLACEMENT THEORY AND/OR CRITICAL RACE THEORY; WHY YOU MAD AT ME? #comediccommentary #jokes"
+    title "REPLACEMENT THEORY AND/OR CRITICAL RACE THEORY; WHY YOU MAD AT ME?  #comediccommentary #jokes"
     description "soooooooooo #replacementtheory is the new term? i thought we were steal dealing with #criticalracetheory &#129335;&#127998;&#8205;&#9794;&#65039;&#10;&#10;#IasIjswithTheoBPodcast #IasIjswithTheoB #TheoB #socialissues #jokes #comediccommentary #buffalo #buffalomarket #buffalomassacre #worldhistory #history #americanhistory #blackhistory #slavetrade #slaveauction #truthtoldinajoke #IaintsayingImjustsaying&#10;#men #women #sex #biracialcouple #paperbagtest #barackobama #replacement #replacementtheory #criticalracetheory"
     channeltitle "Ias-Ijs with Theo B."
     channelid "UCw-diV2HPJEhXE8aMJbOfKA"
@@ -4483,7 +4483,7 @@ graph
     commentcount 1
     duration "PT14M13S"
     indegree 0
-    cluster 8
+    cluster 7
   ]
   node
   [
@@ -4501,7 +4501,7 @@ graph
     commentcount 5
     duration "PT7M15S"
     indegree 1
-    cluster 1
+    cluster 5
   ]
   node
   [
@@ -4519,7 +4519,7 @@ graph
     commentcount 0
     duration "PT30S"
     indegree 1
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -4527,7 +4527,7 @@ graph
     label "w3PyPzzicSs"
     step 0
     date "2022-05-17T12:15:01Z"
-    title "Great Replacement Is Mainstream Now. From Tucker Carlson Lauren Southern to The Buffalo Shooter"
+    title "Great Replacement Is Mainstream Now. From Tucker Carlson  Lauren Southern to The Buffalo Shooter"
     description "Watch Live Everyday:  http://www.twitch.tv/central_committee&#10;00:00:00 - Intro&#10;00:00:45 - GOP Is Now Explicitly White Supremacist&#10;00:01:16 - Conservative Twitter Glowies&#10;00:02:29 - MSNBC Story - The Victims&#10;00:03:34 - Far Right Is Flattering for NEATS&#10;00:11:06 - Tucker Carlson Endorses Great Replacement Theory&#10;00:12:51 - Rolling Stones - Buffalo Shooter is a Mainstream Republican&#10;00:13:52 - Definition of Great Replacement Theory&#10;00:14:06 - Student Loan Debt, Opiates, Job Loss? What's the Real Reason&#10;00:16:12 - What is White?&#10;00:17:58 - If Everybody Is Failing, Who's Fault Is It?&#10;00:19:19 - Lyndon Johnson Quote - Lowest White Man&#10;00:21:52 - Mark Steyn Prediction&#10;&#10;Twitter: https://twitter.com/Mike_From_PA&#10;Discord: https://discord.gg/mikefrompa&#10;Reddit: https://www.reddit.com/r/okbuddykomrade/&#10;Editor: wizard&#10;Motion Graphics: http://www.twitter.com/ambigubot&#10;Thumbnail: wizard&#10;MikeFromPA&#10;&#10;Intro Theme Song&#10;https://zacksmusicbox.bandcamp.com/&#10;https://twitter.com/ZacksMusicBox&#10;https://www.twitch.tv/zacksmusicbox&#10;&#10;Outro Music: https://www.facebook.com/panicpopmusic&#10;&#10;#BuffaloShooting #TuckerCarlson #LaurenSouthern"
     channeltitle "Mike From PA"
     channelid "UCTpif6xVVZpKIq4iSFYF-9g"
@@ -4555,7 +4555,7 @@ graph
     commentcount 0
     duration "PT45M38S"
     indegree 1
-    cluster 5
+    cluster 8
   ]
   node
   [
@@ -4573,7 +4573,7 @@ graph
     commentcount 0
     duration "PT11S"
     indegree 2
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -4581,7 +4581,7 @@ graph
     label "hG1wh665EYc"
     step 0
     date "2022-05-16T19:33:45Z"
-    title "Buffalo Shooting The Great Replacement Theory || EP 726"
+    title "Buffalo Shooting  The Great Replacement Theory || EP 726"
     description "10 people killed in a racially motivated mass shooting at a Buffalo supermarket, police say. The 18-year-old suspect is in custody&#10;&#10;https://www.cnn.com/2022/05/14/us/buffalo-ny-supermarket-multiple-shooting/index.html&#10;&#10;Hochul saying social media company CEO&#8217;s must be held accountable&#10;&#10;https://thehill.com/news/sunday-talk-shows/3489008-hochul-saying-social-media-company-ceos-must-be-held-accountable/&#10;&#10;Buffalo Shooting Will Prompt Measures 'To Combat Domestic Terrorism,' Says Pelosi&#10;&#10;https://reason.com/2022/05/16/buffalo-shooting-will-prompt-measures-to-combat-domestic-terrorism-says-pelosi/&#10;&#10;Conservative media is familiar with Buffalo suspect&#8217;s alleged &#8216;theory&#8217;&#10;&#10;https://www.washingtonpost.com/media/2022/05/15/buffalo-suspect-great-replacement-theory-conservative-media/&#10;&#10;Buffalo Shooter Put Name of Waukesha Christmas Parade Victim on Rifle&#10;&#10;https://news.yahoo.com/did-buffalo-shooter-put-names-041343261.html&#10;&#10;&#10;&#10;&#10;&#10;Fight back against what&#8217;s happening in the world. Stand up,&#10;&#10;protect yourself, and find out how to secure your new life abroad&#10;&#10;Register now free!&#10;&#10;https://www.ExpatMoneySummit.com&#10;&#10;Join the private discord &#38; chat during the show!&#10;&#10;joingml.com&#10;&#10;Need someone to talk to?&#10;&#10;Betterhelp.com/gml&#10;&#10;Interested in learning how to Day Trade?&#10;&#10;Mastermytrades.com&#10;&#10;Like our intro song?&#10;&#10;https://www.3pillmorning.com&#10;&#10;Advertise on our podcast!"
     channeltitle "Good Morning Liberty"
     channelid "UCz3YDYP6bFMR4BAPCZdvk1g"
@@ -4591,7 +4591,7 @@ graph
     commentcount 1
     duration "PT46M40S"
     indegree 0
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -4599,7 +4599,7 @@ graph
     label "rEuSmWTqZOs"
     step 0
     date "2022-05-18T19:00:30Z"
-    title "The Great Replacement Theory The Buffalo Shooter"
+    title "The Great Replacement Theory  The Buffalo Shooter"
     description "&#9654; Support my work: https://www.patreon.com/rodecast&#10;&#9654; Sign Up For A Channel Membership To Support My Work Here: https://www.youtube.com/channel/UCIyYmQOEs0vHrIqEpUlKHdw/join&#10;&#9654; Twitter: @Rodeslav&#10;&#9654; Cashapp: $Rodeslav&#10;&#10;&#9654; Intro Music: JAG Intro Orchestra &#10;&#9654; Outro Music: Judge Dredd Stories &#10;&#10;NOTE: I am not a lawyer. I am a legal scholar. I study the law and legal theory, but have no interest in practicing law. I am familiar with most court procedures as well as trial procedure.&#10;&#9654; My Educational Qualifications:&#10;+ Deep legal knowledge about the Rules of Civil &#38; Criminal Procedures In US Courts&#10;+ Deep legal knowledge about the Federal Rules of Evidence (central to understanding any US federal legal cases)&#10;+ Deep knowledge of America Constitutional Law Principles and their application in federal and state cases&#10;+ Deep knowledge of Criminal Law Principles relevant to court proceedings and trials&#10;+ Deep knowledge of Civil Law Principles related to torts and civil trials&#10;+ Growing library of knowledge of relevant precedential supreme court cases in US History&#10;+ Historical knowledge of Anglo-American Jurisprudence dating back to the British Empire. &#10;+ B.A in Political Science from California State University, Northridge&#10;+ B.S in Microbiology from California State University, Northridge&#10;+ Deep knowledge in Central and Northern European Politics, History, and Culture&#10;+ Deep knowledge of Classical Greek Philosophy and Logical Argumentation&#10;+ Deep knowledge of Evolutionary Biology, Psychology, and Human Genetics&#10;&#10;#LawAndOrder #LegalNews #TheLaw #Rodecast"
     channeltitle "Rodecast"
     channelid "UCIyYmQOEs0vHrIqEpUlKHdw"
@@ -4627,7 +4627,7 @@ graph
     commentcount 0
     duration "PT2M47S"
     indegree 0
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -4635,7 +4635,7 @@ graph
     label "nLkPwx_nI4A"
     step 0
     date "2022-07-11T04:18:39Z"
-    title "Reaction and thoughts on the Great Replacement theory e tongue sticking out lained by Mr. Beat pt 3"
+    title "Reaction and thoughts on the Great Replacement theory explained by Mr. Beat pt 3"
     description "Conclusion. &#10;&#10;Here's the link to the content &#10;https://youtu.be/pyUQP-R48yg&#10;&#10;YT: https://youtube.com/channel/UCHISMWJS5F3ifF85LxLDmmA&#10;&#10;Please share, like, comment, and subscribe."
     channeltitle "Zachariah Laryea"
     channelid "UCHISMWJS5F3ifF85LxLDmmA"
@@ -4645,7 +4645,7 @@ graph
     commentcount 0
     duration "PT2M1S"
     indegree 0
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -4681,7 +4681,7 @@ graph
     commentcount 127
     duration "PT6M19S"
     indegree 3
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -4699,7 +4699,7 @@ graph
     commentcount 1
     duration "PT18S"
     indegree 0
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -4717,7 +4717,7 @@ graph
     commentcount 1
     duration "PT3M19S"
     indegree 0
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -4735,7 +4735,7 @@ graph
     commentcount 0
     duration "PT31S"
     indegree 0
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -4753,7 +4753,7 @@ graph
     commentcount 4
     duration "PT46S"
     indegree 1
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -4771,7 +4771,7 @@ graph
     commentcount 144
     duration "PT33M15S"
     indegree 4
-    cluster 3
+    cluster 11
   ]
   node
   [
@@ -4807,7 +4807,7 @@ graph
     commentcount 1
     duration "PT20S"
     indegree 2
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -4825,7 +4825,7 @@ graph
     commentcount 7
     duration "PT5M49S"
     indegree 0
-    cluster 3
+    cluster 11
   ]
   node
   [
@@ -4833,7 +4833,7 @@ graph
     label "QabYOjtNguA"
     step 0
     date "2022-05-18T18:49:50Z"
-    title "Replacement Theory Pushed By Bernie The Clintons (Video)"
+    title "Replacement Theory Pushed By Bernie  The Clintons (Video)"
     description "The mainstream left liberals have predictably responded to the Buffalo mass shooting by pointing the finger of blame at Tucker Carlson for his promotion of the &#34;Great Replacement Theory&#34; -- the idea that Democrats are encouraging brown-skinned immigrant to come to the United States to &#34;replace&#34; white people and forever change the nation's demographics. But you know who else used to demonize immigrants in a similar manner? The answer might surprise you.&#10;&#10;Jimmy and American comedian Kurt Metzger discuss prominent Democrats' past statements that they'd prefer you not remember.&#10;&#10;Become a Premium Member: https://jimmydorecomedy.com/join&#10;Go to a Live Show: https://jimmydorecomedy.com/tour &#10;Subscribe to Our Newsletter: https://mailchi.mp/jimmydorecomedy/ytlivestreams&#10;The Jimmy Dore Show Website:  https://jimmydorecomedy.com/&#10;&#10;Kurt Metzger on Twitter: https://twitter.com/kurtmetzger&#10;Kurt&#8217;s website: http://www.KurtMetzgerComedy.com&#10; &#10;LIVESTREAM &#38; LIVE SHOW ANNOUNCEMENTS: &#10;Join the Email list:  https://mailchi.mp/jimmydorecomedy/ytlivestreams&#10;Twitter: https://twitter.com/jimmy_dore&#10;Facebook:  https://www.facebook.com/JimmyDoreShow&#10;Instagram: https://www.instagram.com/thejimmydoreshow&#10; &#10;WATCH / LISTEN FREE:&#10;Videos: https://jimmydorecomedy.com/watch &#10;&#10;Podcasts: https://jimmydorecomedy.com/podcasts &#10;(Also available on iTunes, Apple Podcasts, Spotify, Google Podcasts, or your favorite podcast player.)&#10; &#10;ACCESS TO FULL REPLAYABLE LIVESTREAMS:&#10;Become a Premium Member: https://jimmydorecomedy.com/join&#10;&#10;SUPPORT THE JIMMY DORE SHOW:&#10;Make a Donation:  https://jimmydorecomedy.com/donate&#10;Buy Official Merch (Tees, Sweatshirts, Hats, Bags):  https://jimmydorecomedy.com/store&#10; &#10;DOWNLOAD OUR MOBILE APP:&#10;App Store: https://apps.apple.com/us/app/jimmy-dore/id839294547&#10;Google Play: https://play.google.com/store/apps/details?id=com.jimmydore.jimmydore&#10;&#10;Jimmy Dore on Twitter: https://twitter.com/Jimmy_Dore&#10;Stef Zamorano on Twitter: https://twitter.com/miserablelib&#10;&#10;About The Jimmy Dore Show:&#10;#TheJimmyDoreShow is a hilarious and irreverent take on news, politics and culture featuring Jimmy Dore, a professional stand up comedian, author and podcaster. The show is also broadcast on Pacifica Radio Network stations throughout the country."
     channeltitle "The Jimmy Dore Show"
     channelid "UC3M7l8ved_rYQ45AVzS0RGA"
@@ -4843,7 +4843,7 @@ graph
     commentcount 3702
     duration "PT23M17S"
     indegree 1
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -4869,7 +4869,7 @@ graph
     label "Awd2HdYiwZc"
     step 0
     date "2022-05-29T10:33:09Z"
-    title "What is the and where does the idea have its roots?"
+    title "What is the  and where does the idea have its roots?"
     description "In certain quarters, the idea of the Great Replacement flourishes and is widely discussed. What is this idea and where does it come from?"
     channeltitle "History Debunked"
     channelid "UCREM9VRZnIJHTw-oqfwgNUQ"
@@ -4879,7 +4879,7 @@ graph
     commentcount 1596
     duration "PT7M2S"
     indegree 1
-    cluster 5
+    cluster 2
   ]
   node
   [
@@ -4897,7 +4897,7 @@ graph
     commentcount 35
     duration "PT12M34S"
     indegree 0
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -4905,7 +4905,7 @@ graph
     label "YKaYIN8TR-8"
     step 0
     date "2022-07-11T04:07:30Z"
-    title "Reaction and thoughts on the Great Replacement theory e tongue sticking out lained by Mr. Beat pt 2"
+    title "Reaction and thoughts on the Great Replacement theory explained by Mr. Beat pt 2"
     description "Here's the link to the content &#10;https://youtu.be/pyUQP-R48yg&#10;&#10;YT: https://youtube.com/channel/UCHISMWJS5F3ifF85LxLDmmA&#10;&#10;Please share, like, comment, and subscribe."
     channeltitle "Zachariah Laryea"
     channelid "UCHISMWJS5F3ifF85LxLDmmA"
@@ -4915,7 +4915,7 @@ graph
     commentcount 0
     duration "PT1M51S"
     indegree 1
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -4969,7 +4969,7 @@ graph
     commentcount 3
     duration "PT5H18M43S"
     indegree 0
-    cluster 5
+    cluster 1
   ]
   node
   [
@@ -4987,7 +4987,7 @@ graph
     commentcount 1
     duration "PT35M46S"
     indegree 0
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -4995,7 +4995,7 @@ graph
     label "vjbp9NsCtO4"
     step 0
     date "2022-05-22T08:31:25Z"
-    title "All about the Great Replacement (Also Tucker Carlson is a Weasel) - Politics Art Stream"
+    title "All about the Great Replacement (Also Tucker Carlson is a Weasel) - Politics  Art Stream"
     description "We talk about the Buffalo shooter, The Great Replacement conspiracy theory, conservatives who provide cover for violent white nationalist criminals, and how Tucker Carlson is trying to weasel his way out of it all."
     channeltitle "Why I Hate the World"
     channelid "UCt6_5w_LV10dItcfOE4Ag_w"
@@ -5005,7 +5005,7 @@ graph
     commentcount 3
     duration "PT2H21M11S"
     indegree 0
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -5023,7 +5023,7 @@ graph
     commentcount 18
     duration "PT11M1S"
     indegree 2
-    cluster 1
+    cluster 5
   ]
   node
   [
@@ -5077,7 +5077,7 @@ graph
     commentcount 28
     duration "PT49M29S"
     indegree 0
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -5095,7 +5095,7 @@ graph
     commentcount 0
     duration "PT3M48S"
     indegree 0
-    cluster 5
+    cluster 1
   ]
   node
   [
@@ -5103,7 +5103,7 @@ graph
     label "NAnwkRoyXtA"
     step 0
     date "2022-05-21T04:01:13Z"
-    title "NAACP Replacement Theory Michelle Thomas is an embarrassment to her own radical movement"
+    title "NAACP  Replacement Theory Michelle Thomas is an embarrassment to her own radical movement"
     description "On 5/20/22, Michelle Thomas, Loudoun County NAACP President held a &#34;vigil&#34; today for the (10) people that were senselessly murdered in a Buffalo, NY grocery store by a lunatic.  Thomas doesn't care about what happened in Buffalo, she only sees it as breathing new life into her &#34;white supremacy&#34; rhetoric.  However, since &#34;white supremacy&#34; has been played out, Thomas tries to act intelligent and warns of the new &#34;Hate&#34; Replacement Theory.  Hate to break the news to the Loudoun County race hustler, but it's actually called &#34;The GREAT Replacement Theory&#34;, not &#34;Hate&#34; and it's not new.  It's been around since at least the 19th century.  Then, the felony fraud tells the crowd of 7 or 8 people that the &#34;Hate&#34; Replacement Theory is the same thing as Critical Race Theory.  Just because both terms have the word &#34;theory&#34; in them doesn't actually make them the same.&#10;&#10;So while trying to inject the new and improved &#34;white supremacy&#34; phrase of &#34;The Great Replacement Theory&#34;, Thomas butchers the hell out of it and thinks it's the same as CRT.&#10;&#10;Just to recap Michelle Thomas's history:&#10;- She fled Florida while wanted on a felony warrant&#10;- Spent lavishly on luxuries despite multiple many bankruptcies &#10;- She is NOT a descendent of American slaves&#10;- She hijacked Loudoun County Public Schools using a false discrimination narrative&#10;- Self-appointed &#34;pastor&#34;&#10;&#10;In other words, Michelle Thomas is Loudoun's biggest fraud.  She is not to be trusted or believed.  Ask her how many times she's been busted for writing bad checks.  Leopards don't change their spots.&#10;&#10;- https://stoplcpscrt.com/2022/05/20/wextons-loudoun-naacp-head-&#10;- https://stoplcpscrt.com/2022/04/29/wextons-loudoun-naacp-triggers-racist-staged-and-faux-outrage-in-2019-the-start-of-lcps-va10-demise/claims-embarrassing-comments-were-made-by-an-imposter-lol-busted/"
     channeltitle "PACT: Parents Against Critical Theory"
     channelid "UCa0LKooI4lmGNAaJv_ux9lw"
@@ -5113,7 +5113,7 @@ graph
     commentcount 0
     duration "PT37S"
     indegree 0
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -5121,7 +5121,7 @@ graph
     label "_kjqkUN10X0"
     step 0
     date "2021-04-10T06:07:20Z"
-    title "Don Lemon Theory"
+    title "Don Lemon  Theory"
     description ""
     channeltitle "Graham Paterson"
     channelid "UC4wBpAnVU5XswRaVtCCuuYA"
@@ -5131,7 +5131,7 @@ graph
     commentcount 0
     duration "PT4M55S"
     indegree 0
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -5167,7 +5167,7 @@ graph
     commentcount 293
     duration "PT6M43S"
     indegree 0
-    cluster 3
+    cluster 11
   ]
   node
   [
@@ -5193,7 +5193,7 @@ graph
     label "Nkcf2XWpShA"
     step 0
     date "2022-05-18T01:07:15Z"
-    title "Weekly Skews 5/17/22 Replacement Theory"
+    title "Weekly Skews 5/17/22  Replacement Theory"
     description "On tonight&#8217;s show we'll be talking about just how awful and dangerous white replacement theory is, as well as the thunderdome of lunacy that is today's Pennsylvania state primary. And of course there will be dumbasses. Join us."
     channeltitle "Weekly Skews"
     channelid "UCZKjoCn4BvtUA20G6Z8vAHQ"
@@ -5203,7 +5203,7 @@ graph
     commentcount 42
     duration "PT1H8S"
     indegree 0
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -5221,7 +5221,7 @@ graph
     commentcount 1
     duration "PT1H49M9S"
     indegree 0
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -5257,7 +5257,7 @@ graph
     commentcount 0
     duration "PT18M11S"
     indegree 0
-    cluster 7
+    cluster 1
   ]
   node
   [
@@ -5293,7 +5293,7 @@ graph
     commentcount 0
     duration "PT7M7S"
     indegree 0
-    cluster 1
+    cluster 9
   ]
   node
   [
@@ -5347,7 +5347,7 @@ graph
     commentcount 0
     duration "PT1H47M39S"
     indegree 0
-    cluster 8
+    cluster 2
   ]
   node
   [
@@ -5355,7 +5355,7 @@ graph
     label "GTopEp3TMes"
     step 0
     date "2022-05-16T21:31:26Z"
-    title "The Buffalo Mass Shooting: What You NEED To Know!!!"
+    title "The Buffalo  Mass Shooting: What You NEED To Know!!!"
     description "A mass shooting was carried out in Buffalo over the weekend with the shooter allegedly targeting black people in a racially motivated hate crime.&#10;A manifesto is circulating online that suggests the shooter was attempting to incite a civil war to strengthen 2nd amendment rights by forcing stricter gun laws insisting that that&#8217;s what needs to happen in order for the American people to take up their arms and fight back!&#10;&#10;In this video Dan Dicks of Press For Truth covers the latest breaking info on the Buffalo mass shooting while also showing how this could very well be a case of the authorities engaging in either MIHOP (made it happen on purpose) or LIHOP (let it happen on purpose) for the purposes of enacting stricter gun laws and to clamp down and censor free speech online. &#10;&#10;If you appreciate my efforts please consider making a contribution here:&#10;SUPPORT:&#10;DONATE &#10140; https://pressfortruth.ca/donate/&#10;SUBSCRIBESTAR &#10140; https://www.subscribestar.com/pressfortruth&#10;DONATE via Paypal &#10140; https://www.paypal.me/PressforTruth&#10;GoGetFunding &#10140; https://goget.fund/2UBhENH&#10;Bitcoin  &#10140; 19pNb9m5NyeDNXqTEAgZ5pyAXJwNroPKwq&#10;Other Cryptocurrencies &#10140; https://pressfortruth.ca/donate-crypto/&#10;&#10;Or you can send an e-transfer to dan@pressfortruth.ca &#10;&#10;If you&#8217;re old fashioned like we are and prefer to keep it old school, we also accept cash, cheques, equipment and words of encouragement! You can send us those things here:&#10;Dan Dicks P.O. Box 1521 Squamish BC V8B 0B1&#10;&#10;To learn more about how to secure your future with gold and silver please visit:&#10;https://www.wealthresearchgroup.com/11gold/?id=16&#10;&#10;&#10;SUBSCRIBE:&#10;BITCHUTE &#10140; https://www.bitchute.com/pressfortruth/&#10;ODYSEE &#10140; https://lbry.tv/@PressForTruth&#10;BAYSTON&#10140;https://bastyon.com/dandickspft&#10;FLOTE &#10140; https://flote.app/DanDicksPFT &#10;MINDS &#10140; https://www.minds.com/pressfortruth&#10;RUMBLE&#10140;  https://rumble.com/user/PressForTruth&#10;HIVE &#10140; https://hive.blog/@pressfortruth/posts&#10;YOUTUBE (meh) &#10140; https://www.youtube.com/user/weavingspider&#10;&#10;Sources:&#10;&#10;https://www.zerohedge.com/political/ten-dead-after-gunman-military-uniform-livestreams-mass-shooting-buffalo-supermarket&#10;&#10;https://www.zerohedge.com/political/buffalo-mass-shooter-cites-great-replacement-theory-apparent-manifesto&#10;&#10;https://www.zerohedge.com/political/silence-voices-hatred-ny-governor-hochul-uses-buffalo-massacre-renew-calls-censorship&#10;&#10;https://nymag.com/intelligencer/2022/05/tucker-carlson-buffalo-supermarket-attack-great-replacement-white-nationalism.html&#10;&#10;https://twitter.com/search?q=%22Pat%20King%22&#38;src=trend_click&#38;vertical=trends&#10;&#10;https://globalnews.ca/news/8838516/what-is-white-replacement-conspiracy-theory-buffalo-shooting/&#10;&#10;https://metro.co.uk/2022/05/16/buffalo-gunman-previously-hospitalized-after-threatening-classmates-16653041/&#10;&#10;https://www.reddit.com/r/conspiracy/comments/ur0ge3/just_finished_reading_the_buffalo_shooters_180/&#10;&#10;Black Supremacist Kills 6 People At Christmas Parade, Media Still Focused on Rittenhouse Instead!!!&#10;https://pressfortruth.ca/black-supremacist-kills-6-people-at-christmas-parade-media-still-focused-on-rittenhouse-instead/&#10;&#10;Breaking: BLACK SUPREMACIST Frank James Suspected In Subway Shooting ARRESTED On Terrorism Charges!!&#10;https://pressfortruth.ca/breaking-black-supremacist-frank-james-suspected-in-subway-shooting-arrested-on-terrorism-charges/&#10;&#10;https://nymag.com/intelligencer/2017/08/family-man-accused-of-right-wing-bomb-plot-is-mentally-ill.html&#10;&#10;BREAKING: Terrorist Cell Exposed As Canadian Government Operation&#10;https://pressfortruth.ca/breaking-terrorist-cell-exposed-as-canadian-government-operation/&#10;&#10;PROOF: CSIS And The RCMP Are The REAL Terrorists &#8211; Canada Day Bomb Plot EXPOSED!&#10;https://pressfortruth.ca/proof-csis-and-the-rcmp-are-the-real-terrorists-canada-day-bomb-plot-exposed/&#10;&#10;Canadian &#8220;Foiled Terror Plot&#8221; And The Intelligence Community&#10;https://pressfortruth.ca/canadian-foiled-terror-plot-and-the-intelligence-community/&#10;&#10;PROOF Canada Is Importing Terror! Edmonton Attack Exposed&#10;https://pressfortruth.ca/proof-canada-is-importing-terror-edmonton-attack-exposed/&#10;&#10;Conditioning Canadians For The War On Terror&#10;https://pressfortruth.ca/conditioning-canadians-for-the-war-on-terror/&#10;&#10;https://www.youtube.com/watch?v=vXveEQcAkzM"
     channeltitle "Press For Truth"
     channelid "UCMOWB-s0Kek9o9sS8xA_kZQ"
@@ -5401,7 +5401,7 @@ graph
     commentcount 0
     duration "PT2M8S"
     indegree 0
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -5437,7 +5437,7 @@ graph
     commentcount 11
     duration "PT12M2S"
     indegree 1
-    cluster 2
+    cluster 4
   ]
   node
   [
@@ -5455,7 +5455,7 @@ graph
     commentcount 86
     duration "PT57M26S"
     indegree 0
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -5473,7 +5473,7 @@ graph
     commentcount 2
     duration "PT46M40S"
     indegree 0
-    cluster 1
+    cluster 5
   ]
   node
   [
@@ -5499,7 +5499,7 @@ graph
     label "BRfszwy9gMk"
     step 0
     date "2022-05-17T16:49:03Z"
-    title "Tucker Carlson spreading the lie."
+    title "Tucker Carlson spreading the  lie."
     description "A short compilation of Fox News host Tucker Carlson spreading the neo-Nazi conspiracy theory called the great replacement theory -- often also referred to as the white genocide conspiracy theory."
     channeltitle "The AAve Report"
     channelid "UCD78E4d2NgBtykOCAYyaFJw"
@@ -5509,7 +5509,7 @@ graph
     commentcount 0
     duration "PT1M1S"
     indegree 0
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -5527,7 +5527,7 @@ graph
     commentcount 18
     duration "PT13M9S"
     indegree 0
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -5545,7 +5545,7 @@ graph
     commentcount 0
     duration "PT30M16S"
     indegree 0
-    cluster 1
+    cluster 5
   ]
   node
   [
@@ -5563,7 +5563,7 @@ graph
     commentcount 5
     duration "PT1H9M9S"
     indegree 0
-    cluster 5
+    cluster 7
   ]
   node
   [
@@ -5589,7 +5589,7 @@ graph
     label "96GRdNu7xpc"
     step 0
     date "2022-05-18T00:24:40Z"
-    title "The Theory"
+    title "The  Theory"
     description "The 12 Tribes Of The Nation Of Israel&#10;&#10;Judah African Americans&#10;Benjamin West Indians&#10;Levi Haitians&#10;Ephraim Puerto Ricans&#10;Simeon Dominicans&#10;Manassah Cubans&#10;Zebulon Guatemalans To Panamanians&#10;Gad North American Indians&#10;Reuben Seminole Indians&#10;Napthali Argentinians To Chileans&#10;Asher Colombians To Uruguayans&#10;Issachar Mexicans&#10;&#10;You Are The True Biblical Hebrew Israelites According To The Holy Bible... Shalawam!!!"
     channeltitle "Gms fortheelectsake2"
     channelid "UCP2SH7BHijoqJAoQfeJ3s-g"
@@ -5599,7 +5599,7 @@ graph
     commentcount 0
     duration "PT28M32S"
     indegree 0
-    cluster 1
+    cluster 5
   ]
   node
   [
@@ -5607,7 +5607,7 @@ graph
     label "SyOZpymqqNI"
     step 0
     date "2022-07-09T02:54:11Z"
-    title "Tucker Carlson E tongue sticking out OSES Media Manipulation. Heres how."
+    title "Tucker Carlson EXPOSES Media Manipulation. Heres how."
     description "Tucker Carlson was recently interviewed by Ben Smith at the launch of Semafor, a new digital media company. The interview was widely panned in conservative media as evidence of Tucker Carlson &#34;steamrolling&#34; Ben Smith for constantly calling Tucker Carlson a white supremacist, racist, and extoller of the Great Replacement Theory. Mr. Watson analyzes a few instances form the Smith-Carlson exchange and explains how Carlson thoroughly exposed media manipulation in that moment. Mr. Watson furthermore makes several points about epistemology, including about the importance of understanding the relationship between concepts and action. Watch for more!&#10;&#10;#tuckercarlson #bensmith #semafor #mediaexposed #politics #media #conservativemedia #propaganda #news #libertarianism #commentary #foxnews"
     channeltitle "Christian Watson"
     channelid "UCuIAz0mwMNVP0o7Wn5jMKQA"
@@ -5617,7 +5617,7 @@ graph
     commentcount 14
     duration "PT16M11S"
     indegree 0
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -5653,7 +5653,7 @@ graph
     commentcount 1
     duration "PT20M6S"
     indegree 0
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -5671,7 +5671,7 @@ graph
     commentcount 0
     duration "PT1H47M40S"
     indegree 0
-    cluster 5
+    cluster 8
   ]
   node
   [
@@ -5689,7 +5689,7 @@ graph
     commentcount 0
     duration "PT9M47S"
     indegree 0
-    cluster 8
+    cluster 4
   ]
   node
   [
@@ -5707,7 +5707,7 @@ graph
     commentcount 0
     duration "PT1H36M7S"
     indegree 0
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -5743,7 +5743,7 @@ graph
     commentcount 0
     duration "PT6M34S"
     indegree 0
-    cluster 5
+    cluster 1
   ]
   node
   [
@@ -5761,7 +5761,7 @@ graph
     commentcount 3
     duration "PT36S"
     indegree 0
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -5769,7 +5769,7 @@ graph
     label "wa3-TP5S0Sc"
     step 0
     date "2022-06-05T04:21:16Z"
-    title "PAYTON GENDRON theory #iaintblacknomoor/#iwannabewhite"
+    title "PAYTON GENDRON  theory #iaintblacknomoor/#iwannabewhite"
     description "December 21, 2012 was the transition between the 5th Sun of Light (Divine Masculine--Left Brain; Rationality, Material Hording, etc)  and the 6th Sun of Darkness (Divine Femi9--Right Brain; The Dream World, Realms of the Psyche).  &#13;&#10;This Transition continued until approximately 4:45 a.m. Tuesday, December 21, 2021.  We are now FULLY in the Age of the 6th Sun.&#13;&#10;#DarkRift #2012 #SunCycle #SolCycle #SolarCycle #EndOfTheWorld&#13;&#10;******************************&#13;&#10;PATH OF THE PRIESTESS:&#13;&#10;She teaches through Joy and Sorrow, Pain and Pleasure, Passion and Coldness.&#13;&#10;*****************************&#13;&#10;Shen Pe Uts Taa-Neter&#13;&#10;buy me a coffee&#13;&#10;cash app: $ShenPe9&#13;&#10;paypal.me/shenpe9&#13;&#10;email/text me with any questions in reference to the videos:&#13;&#10;email me: shenpe9@gmail.com&#13;&#10;text me: 347-861-1413"
     channeltitle "High Priestess of Babelon"
     channelid "UCz6NbghgbXgl4DkkIrNN3zg"
@@ -5779,7 +5779,7 @@ graph
     commentcount 3
     duration "PT3H15M55S"
     indegree 1
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -5815,7 +5815,7 @@ graph
     commentcount 1
     duration "PT7M15S"
     indegree 0
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -5823,7 +5823,7 @@ graph
     label "7orBHegLAjg"
     step 0
     date "2022-07-11T19:00:09Z"
-    title "Lauren Southern: Why She Left The Internet, E tongue sticking out osing Fake Conservatives, Her Controversies"
+    title "Lauren Southern: Why She Left The Internet, Exposing Fake Conservatives,  Her Controversies"
     description "Youtuber &#38; political commentator Lauren Southern spills the tea on the inner workings of the online rightwing political sphere, debunks lies told about her, and Candian vs American politics.&#10;&#10;Listen on Apple Podcasts: https://bit.ly/TheBlaireWhiteProjectApple&#10;Listen on Spotify Podcasts: https://bit.ly/TheBlaireWhiteProjectSpotify&#10;&#10;&#8226; Subscribe to  on YT: https://www.youtube.com/c/LaurenSouthernOfficial  &#10;&#8226; Follow Lauren Southern on Twitter: @Lauren_Southern&#10;&#10;&#8226; Blaire's Main Youtube channel: https://www.youtube.com/blairewhitex&#10;&#8226; Blaire on Twitter &#38; IG: @msblairewhite &#10;&#8226; Buy Blaire White Merch: https://www.blairemerch.com/ &#10;&#8226; You can listen to this podcast on Spotify, Apple Podcasts, Amazon Music, and any platform you get podcasts.&#10;&#10;&#8226; Episode 6 with  @Tom MacDonald   : https://youtu.be/pDWRHXiXHTk&#10;&#8226; Episode 5 with   @Sydney Watson    : https://youtu.be/jGAhlZ196Hw&#10;&#8226; Episode 4 with    @Arielle Scarcella     : https://youtu.be/iUdMwCRQsHU&#10;&#8226; Episode 3 with Buck Angel: https://youtu.be/wY0v1lDz9h0&#10;&#8226; Episode 2 with Alex Jones: https://youtu.be/9BPPjxI61MY&#10;&#8226; Episode 1 with   @Michael Malice    : https://youtu.be/oOTH1F-sNXg&#10;&#10;- JOIN THIS CONVERSATION ON IBBLE&#10;Download the App to Talk directly with Blaire: https://www.getibble.com/&#10;The Blaire White Project Group on ibble - https://short.getibble.com/groups/LKjTzzRxjWx9V&#10;ibble Politics Group on ibble - https://short.getibble.com/groups/JhCjWxGZZzVdN"
     channeltitle "The Blaire White Project"
     channelid "UCa38X3NJPVlVIYlOg9R7FYw"
@@ -5833,7 +5833,7 @@ graph
     commentcount 800
     duration "PT1H35S"
     indegree 1
-    cluster 3
+    cluster 6
   ]
   node
   [
@@ -5851,7 +5851,7 @@ graph
     commentcount 0
     duration "PT5M17S"
     indegree 0
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -5869,7 +5869,7 @@ graph
     commentcount 27
     duration "PT51M55S"
     indegree 1
-    cluster 7
+    cluster 1
   ]
   node
   [
@@ -5887,7 +5887,7 @@ graph
     commentcount 8
     duration "PT14M22S"
     indegree 0
-    cluster 7
+    cluster 1
   ]
   node
   [
@@ -5895,7 +5895,7 @@ graph
     label "zStSpmvhO_k"
     step 0
     date "2022-05-20T04:36:28Z"
-    title "Fox News Theory Inspired Payton Gendron in Buffalo Supermarket Shootings"
+    title "Fox News  Theory Inspired Payton Gendron in Buffalo Supermarket Shootings"
     description "Fox News &#34;great replacement' Theory Inspired Payton Gendron in Buffalo Supermarket Shootings&#13;&#10;&#13;&#10;payton gendron,&#13;&#10;payton gendron exposed,&#13;&#10;payton gendron tucker&#13;&#10;&#13;&#10;Payton Gendron, who officials said traveled &#8220;several hours&#8221; claimed in a 180-page diatribe that he was &#8220;radicalized&#8221; on the internet while he was bored during the early days of the pandemic, not by any people he has met personally.&#13;&#10;&#13;&#10;Through his &#8220;research,&#8221; the self-described white supremacist and anti-Semite came to see low white birth rates around the world as a &#8220;crisis&#8221; that &#8220;will ultimately result in the complete racial and cultural replacement of the European people,&#8221; he wrote.&#13;&#10;&#13;&#10;Investigators believe the manifesto is authentic and matches key personal details of the suspect and how the crime unfolded, law enforcement sources told The Post.&#13;&#10;&#13;&#10;&#10004;&#65039;Subscribe to FYF Sports https://www.youtube.com/channel/UCX9T2vC1e3gsd-VHeJlk4jQ&#13;&#10;&#9658; Follow on Twitter: http://www.twitter.com/fyfsports&#13;&#10;&#9658; Like on Facebook: http://www.facebook.com/fyfsportsdebates&#13;&#10;&#9658; Follow on Instagram: http://www.instagram.com/fyfsportsdebates&#13;&#10;&#9658;Buy Merchandise At:  https://teespring.com/stores/fyf-sports-podcast-storerts&#13;&#10;&#13;&#10;fox news,&#13;&#10;fox news live,&#13;&#10;fox news 5/18/22,&#13;&#10;fox news today,&#13;&#10;fox news the five,&#13;&#10;fox news live stream,&#13;&#10;fox news live stream now,&#13;&#10;fox news live stream today,&#13;&#10;fox news elon musk,&#13;&#10;elon musk twitter fox news,&#13;&#10;tucker carlson,&#13;&#10;tucker carlson tonight,&#13;&#10;tucker carlson tonight 5/18/22 full show,&#13;&#10;tucker carlson ukraine debate,&#13;&#10;great replacement theory,&#13;&#10;great replacement theory ben shapiro,&#13;&#10;great replacement theory explained&#13;&#10;&#13;&#10;USA, SPAIN, AUSTRALIA, ARGENTINA, SERBIA, FRANCE, GREECE, LITHUANIA,&#13;&#10;RUSSIA, BRAZIL, CZECH REPUBLIC, ITALY, POLAND, CROATIA, TURKEY, SLOVENIA, GERMANY, PUERTO RICO, DOMINICAN REPUBLIC, VENEZUELA, CANADA, NIGERIA, IRAN, MEXICO, NEW ZEALAND, MONTENEGRO, LATVIA, CHINA, UKRAINE, KOREA, PHILIPPINES, ANGOLA, TUNISIA, FINLAND, SENEGAL, GEORGIA, BELGIUM, JORDAN, ISRAEL, HUNGARY, JAPAN, GREAT BRITAIN, URUGUAY, NETHERLANDS, BOSNIA AND HERZEGOVINA, ICELAND, PANAMA, COTE D IVOIRE, BULGARIA, ESTONIA, US VIRGIN ISLANDS, BELARUS, NORTH MACEDONIA, ROMANIA, SWEDEN, DENMARK, AUSTRIA, LEBANON, BAHAMAS, EGYPT, SWITZERLAND, PORTUGAL, CUBA, CAMEROON, CHINESE TAIPEI, SLOVAKIA, COLOMBIA, CHILE, MOROCCO, KOSOVO, PARAGUAY, QATAR, INDIA, LUXEMBOURG, MALI, CYPRUS, IRAQ, CENTRAL AFRICAN REP. KAZAKHSTAN, ANDORRA, MALTA, ANTIGUA &#38; BARBUDA, ARMENIA, CONGO DR, GUAM, NORWAY, BARBADOS, JAMAICA, INDONESIA, SYRIA, SAUDI ARABIA, TAHITI, CAPE VERDE, RWANDA, MOZAMBIQUE, UGANDA, SOUTH SUDAN, ALBANIA, GUYANA, THAILAND, ALGERIA, IRELAND, AZERBAIJAN, CHAD, COSTA RICA, BAHRAIN, HONDURAS, ST.VINCENT AND THE GRENADINES, SINGAPORE, BERMUDA,SURINAME,HONGKONG,CONGO, KENYA, NICARAGUA,BOLIVIA, GRENADA,BELIZE, SAN MARINO, MALAYSIA, SAMOA, SRI LANKA, MADAGASCAR, SOUTH AFRICA, BURUNDI, &#13;&#10;&#13;&#10;FAIR-USE COPYRIGHT DISCLAIMER : Copyright Disclaimer Under Section 107 of the Copyrights Act 1976, all the videos, songs, images and graphics in the video belong to their respective owners and I or this channel does not claim any right over them."
     channeltitle "Whatever Happened to the News?"
     channelid "UCPtDm78lKfVRzFyc2NLyN6w"
@@ -5905,7 +5905,7 @@ graph
     commentcount 0
     duration "PT4H55M15S"
     indegree 0
-    cluster 4
+    cluster 8
   ]
   node
   [
@@ -5959,7 +5959,7 @@ graph
     commentcount 0
     duration "PT2H22M6S"
     indegree 0
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -5995,7 +5995,7 @@ graph
     commentcount 4
     duration "PT17M7S"
     indegree 0
-    cluster 5
+    cluster 1
   ]
   node
   [
@@ -6013,7 +6013,7 @@ graph
     commentcount 13
     duration "PT45M27S"
     indegree 1
-    cluster 7
+    cluster 1
   ]
   node
   [
@@ -6049,7 +6049,7 @@ graph
     commentcount -1
     duration "PT1H6M40S"
     indegree 0
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -6067,7 +6067,7 @@ graph
     commentcount 1
     duration "PT6M31S"
     indegree 0
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -6093,7 +6093,7 @@ graph
     label "sKIcgLQXrmY"
     step 0
     date "2022-07-10T01:37:17Z"
-    title "Tucker Carlson e tongue sticking out oses Joe Biden pushing The Replacement Theory!"
+    title "Tucker Carlson exposes Joe Biden pushing The Replacement Theory!"
     description "https://www.politifact.com/article/2022/may/19/tucker-carlson-feigned-ignorance-over-great-replac/&#10;&#10;#tuckercarlson #tunnelvision #breaking #woke #replacementtheory #joebiden #democrats #stopblackhate #buffalomassshooting #viralvideo #viral #blacklivesmatter #alllivesmatter #politics #protectionforblacks #ados #reparations #waronukraine #immigration #bordercontrol"
     channeltitle "Mr. Uncut Consciousness"
     channelid "UC71GZhb3c1qd8wgxgYoeCPg"
@@ -6103,7 +6103,7 @@ graph
     commentcount 2
     duration "PT14M41S"
     indegree 0
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -6121,7 +6121,7 @@ graph
     commentcount 0
     duration "PT4M3S"
     indegree 0
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -6175,7 +6175,7 @@ graph
     commentcount 5251
     duration "PT2H51M46S"
     indegree 0
-    cluster 3
+    cluster 6
   ]
   node
   [
@@ -6193,7 +6193,7 @@ graph
     commentcount 107
     duration "PT18M52S"
     indegree 0
-    cluster 3
+    cluster 11
   ]
   node
   [
@@ -6201,7 +6201,7 @@ graph
     label "bSDN1LTIWuc"
     step 0
     date "2022-05-19T20:00:06Z"
-    title "E tongue sticking out ose tongue sticking out Dems Are Obsessed with the "
+    title "Exposed: Dems Are Obsessed with the "
     description "Democrats are consumed with hating white people.&#10;&#10;&#9658; Click HERE to subscribe to 'WJ Live': http://w-j.co/s/51c85&#10;-&#10;Follow The Western Journal on social media:&#10;&#9658; WJ Shorts Channel: http://w-j.co/s/1bdbe&#10;&#9658; Facebook: https://www.facebook.com/WesternJournal&#10;&#9658; Twitter: https://twitter.com/WestJournalism&#10;&#9658; Instagram: https://www.instagram.com/wjlivepodcast/&#10;&#9658; Tiktok: https://www.tiktok.com/@thewesternjournal &#10;-&#10;&#9658; Don't miss an episode of 'WJ Live!' Click HERE to get it delivered directly to your inbox: http://w-j.co/s/ef7f7&#10;-&#10;#joebiden #shooting #racism #democrats #liberalagenda #conservativejournalism #news #unitedstates #media #live #westernjournal #wjlive&#10;-&#10;Executive Producer: Melissa Jespersen&#10;Producer/Editor: Russell Spacy&#10;Graphics Producer: Lexie Purdy"
     channeltitle "WJ Live"
     channelid "UCyX2Z1husAdjOtcL23AFxXA"
@@ -6229,7 +6229,7 @@ graph
     commentcount 14
     duration "PT13M20S"
     indegree 0
-    cluster 7
+    cluster 1
   ]
   node
   [
@@ -6247,7 +6247,7 @@ graph
     commentcount 27
     duration "PT14M27S"
     indegree 0
-    cluster 7
+    cluster 1
   ]
   node
   [
@@ -6301,7 +6301,7 @@ graph
     commentcount 5
     duration "PT1H16M11S"
     indegree 0
-    cluster 6
+    cluster 3
   ]
   node
   [
@@ -6345,7 +6345,7 @@ graph
     label "mCUVmDnm-Y4"
     step 0
     date "2022-04-06T00:52:03Z"
-    title "Man with the highest ever recorded IQ, who e tongue sticking out oses ."
+    title "Man with the highest ever recorded IQ, who exposes ."
     description "SMARTEST MAN IN THE WORLD WILL BLOW YOUR MIND&#10;&#10;The man with the highest ever recorded IQ, who just like Tucker Carlson, exposes &#8220;The Great Replacement&#8221;. A must watch video where Chris Langan is interviewed by Keith Woods. &#10;&#10;&#10;Subscribe, like, share and press the notifications button for updates.&#10;&#10;FBN"
     channeltitle "FBN - FightBack News"
     channelid "UCvtNTQbASDU1ex3ifZsVL4w"
@@ -6355,7 +6355,7 @@ graph
     commentcount 0
     duration "PT8M40S"
     indegree 0
-    cluster 5
+    cluster 2
   ]
   node
   [
@@ -6381,7 +6381,7 @@ graph
     label "rXWgFnLTEQg"
     step 0
     date "2022-05-26T01:30:10Z"
-    title "The Uvalde Shooting Theory That Threatens America | Glenn TV | Ep 198"
+    title "The Uvalde Shooting  Theory That Threatens America | Glenn TV | Ep 198"
     description "WATCH more Glenn TV: https://blazetv.com/glenn&#10;In the wake of the horrific Buffalo shooting, the left-wing media tried to paint all conservatives as subscribers to &#8220;replacement theory&#8221; &#8212; the idea that immigrants are taking over to such an extent that they will destroy white Western civilization. Of course, no serious conservative believes in this ugly, racist, dangerous ideology, but there is a ton of ACTUAL replacement going on, and it has nothing to do with immigration or racism. What we saw yesterday in Uvalde, Texas, is more dark horrific evidence of the only replacement theory that ultimately matters because it affects everything. We&#8217;ve replaced God in society. Glenn argues it&#8217;s why gun control is ultimately useless &#8212; even though he completely understands our human impulse to DO something. While our culture has replaced God for rot, the Biden White House and Democrats are also working overtime to replace key elements of American political, legal, economic, and cultural life. BlazeTV host Mark Levin of &#8220;LevinTV&#8221; tells Glenn why Media Matters' latest hit job on him over his Uvalde coverage is pathetic. &#8220;Stop pushing God out of the public square&#8221; is not a radical concept to help prevent evil from taking hold in our schools. He also takes on the Democrats&#8217; attempts to destroy the Supreme Court, voting rights, and the separation of powers. BlazeTV host Allie Beth Stuckey of &#8220;Relatable&#8221; tells Glenn why she believes the Uvalde shooting reveals how we are failing young men in this country and what we must do to stop the replacement theory that threatens to keep an entire generation from becoming a benefit to society.&#10;&#10;#blazetv #glennbeck #uvalde&#10;&#10;&#9658; Subscribe to BlazeTV YouTube! https://bit.ly/2KJHuwu&#10;&#10;&#9658; Join BlazeTV! https://get.blazetv.com/&#10;&#10;&#9658; Sign up for our NEWSLETTER: https://theblaze.com/newsletters&#10;&#10;Connect with us on Social Media: &#10;http://twitter.com/BlazeTV&#10;http://instagram.com/TheBlazeTV&#10;http://facebook.com/BlazeMedia"
     channeltitle "BlazeTV"
     channelid "UCKgJEs_v0JB-6jWb8lIy9Xw"
@@ -6391,7 +6391,7 @@ graph
     commentcount 1135
     duration "PT48M10S"
     indegree 0
-    cluster 2
+    cluster 8
   ]
   edge
   [

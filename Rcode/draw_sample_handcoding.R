@@ -5,7 +5,7 @@ library('igraph')
 conspiracy_topics <- c(
   "plandemic","5g_covid","is_earth_flat","pizzagate",
   "adrenochrome","qanon","chemtrails","great_replacement_theory",
-  "9-11_building_7","death_elvis_presley"
+  "9_11_building_7","death_elvis_presley"
 )
 
 ## FUNCTIONS ----

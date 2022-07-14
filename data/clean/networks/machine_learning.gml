@@ -1,4 +1,4 @@
-Creator "igraph version 1.3.1 Thu Jul 14 09:45:06 2022"
+Creator "igraph version 1.3.1 Thu Jul 14 11:01:20 2022"
 Version 1
 graph
 [
@@ -27,7 +27,7 @@ graph
     label "5q87K1WaoFI"
     step 0
     date "2021-08-18T16:00:08Z"
-    title "Computer Scientist E tongue sticking out lains Machine Learning in 5 Levels of Difficulty | WIRED"
+    title "Computer Scientist Explains Machine Learning in 5 Levels of Difficulty | WIRED"
     description "WIRED has challenged computer scientist and Hidden Door cofounder and CEO Hilary Mason to explain machine learning to 5 different people; a child, teen, a college student, a grad student and an expert.&#10;&#10;Still haven&#8217;t subscribed to WIRED on YouTube? &#9658;&#9658; http://wrd.cm/15fP7B7 &#13;&#10;Listen to the Get WIRED podcast  &#9658;&#9658; https://link.chtbl.com/wired-ytc-desc&#13;&#10;Want more WIRED? Get the magazine &#9658;&#9658; https://subscribe.wired.com/subscribe/splits/wired/WIR_YouTube?source=EDT_WIR_YouTube_0_Video_Description_ZZ&#13;&#10;&#13;&#10;Get more incredible stories on science and tech with our daily newsletter: https://wrd.cm/DailyYT&#13;&#10;&#13;&#10;Also, check out the free WIRED channel on Roku, Apple TV, Amazon Fire TV, and Android TV. Here you can find your favorite WIRED shows and new episodes of our latest hit series Tradecraft.&#13;&#10;&#13;&#10;ABOUT WIRED&#13;&#10;WIRED is where tomorrow is realized. Through thought-provoking stories and videos, WIRED explores the future of business, innovation, and culture.&#10;&#10;Computer Scientist Explains Machine Learning in 5 Levels of Difficulty | WIRED"
     channeltitle "WIRED"
     channelid "UCftwRNsjfRo08xYE31tkiyw"
@@ -91,7 +91,7 @@ graph
     commentcount 857
     duration "PT9H52M19S"
     indegree 106
-    cluster 4
+    cluster 3
   ]
   node
   [
@@ -127,7 +127,7 @@ graph
     commentcount 390
     duration "PT51M31S"
     indegree 86
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -145,7 +145,7 @@ graph
     commentcount 16
     duration "PT7M50S"
     indegree 30
-    cluster 5
+    cluster 2
   ]
   node
   [
@@ -153,7 +153,7 @@ graph
     label "yN7ypxC7838"
     step 0
     date "2020-05-16T01:59:09Z"
-    title "All Machine Learning Models E tongue sticking out lained in 5 Minutes | Types of ML Models Basics"
+    title "All Machine Learning Models Explained in 5 Minutes | Types of ML Models Basics"
     description "Confused about understanding machine learning models? Well, this video will help you grab the basics of each one of them. From what they are, to why they are used, and what purpose do they serve.&#10;&#10;7 Basic Machine Learning Concepts for Beginners&#10;https://www.youtube.com/watch?v=4hlSztfaqoI&#10;&#10;What is Deep Learning and How it Works | Deep Learning Explained&#10;https://www.youtube.com/watch?v=DfRc3CeXLXw&#10;&#10;Machine Learning Model Deployment Explained&#10;https://www.youtube.com/watch?v=SHyFjJ-tIJE&#10;&#10;What is Neural Network and How it Works | Neural Network Explained&#10;https://www.youtube.com/watch?v=Ulx2CuMCyzI&#10;&#10;After watching this video, you'll be able to answer,&#10;- How many machine learning models are there&#10;- Some common machine learning models explained&#10;- What is supervised learning&#10;- What is unsupervised learning&#10;- What is regression&#10;- Types of ml models&#10;- Common types of regression&#10;- Common types of classification&#10;- What is classification&#10;- What are popular ML models explained&#10;- What are the types of supervised learning&#10;- What are the types of unsupervised learning&#10;- Understanding the basics of machine learning models&#10;- Learn machine learning models from scratch&#10;- What are common machine learning models for beginners&#10;- Understand machine learning models overview&#10;- Whats are few ml models basics to grasp&#10;&#10;Obviously, there is a ton of complexity if you dive into any particular model, but this should give you a fundamental understanding of how each machine learning model works!&#10;&#10;Read the full blog on https://brandlitic.com/basics-of-machine-learning-models-explained/&#10;&#10;Like my content? Be sure to smash that like button and hit Subscribe to get the latest updates!&#10;&#10;Let's get social!&#10;https://twitter.com/brandlitic&#10;https://www.instagram.com/brandlitic&#10;https://www.facebook.com/brandlitic&#10;&#10;#WhiteboardProgramming #MachineLearning #MLmodels"
     channeltitle "Learn with Whiteboard"
     channelid "UCF-uUxo43IPpnEwnR62WGlA"
@@ -163,7 +163,7 @@ graph
     commentcount 273
     duration "PT5M1S"
     indegree 79
-    cluster 1
+    cluster 3
   ]
   node
   [
@@ -171,7 +171,7 @@ graph
     label "nl7kDPYD20A"
     step 0
     date "2019-09-29T16:00:13Z"
-    title "How to Get Started with Machine Learning AI"
+    title "How to Get Started with Machine Learning  AI"
     description "So how do you get started with machine learning and AI? What should you learn first? Well in this video I will be discussing the exact things you need to learn to get started with machine learning. I'll be talking about which language to learn, how much math you need and what ML algorithms to learn first.&#10;&#10;&#11088;&#65039; Thanks to Kite for sponsoring this video! Download the best AI automcolplete for python programming for free: https://kite.com/download/?utm_medium=referral&#38;utm_source=youtube&#38;utm_campaign=techwithtim&#38;utm_content=how-to-get-started-with-machine-learning&#10;&#10;&#9726;&#9726;&#9726;&#9726;&#9726;&#10;&#128187; Enroll in The Fundamentals of Programming w/ Python &#10;https://tech-with-tim.teachable.com/p...&#10;&#10;&#128248; Instagram: https://www.instagram.com/tech_with_tim&#10;&#127758; Website https://techwithtim.net&#10;&#128241; Twitter: https://twitter.com/TechWithTimm&#10;&#11088; Discord: https://discord.gg/pr2k55t&#10;&#128221; LinkedIn: https://www.linkedin.com/in/tim-rusci...&#10;&#128194; GitHub: https://github.com/techwithtim&#10;&#128266; Podcast: https://anchor.fm/tech-with-tim&#10;&#10;&#128181; One-Time Donations: https://www.paypal.com/donate/?token=...&#10;&#128176; Patreon: https://www.patreon.com/techwithtim&#10;&#9726;&#9726;&#9726;&#9726;&#9726;&#9726;&#10;&#10;&#9889; Please leave a LIKE and SUBSCRIBE for more content! &#9889;&#10; &#10;&#10;Tags:&#10;- Tech With Tim&#10;- Get started with Machine Learning&#10;- Machine learning getting started&#10;- Get started with AI&#10;&#10;#AI #MachineLearning"
     channeltitle "Tech With Tim"
     channelid "UC4JX40jDee_tINbkjycV4Sg"
@@ -181,7 +181,7 @@ graph
     commentcount 537
     duration "PT10M32S"
     indegree 57
-    cluster 6
+    cluster 4
   ]
   node
   [
@@ -207,7 +207,7 @@ graph
     label "PeMlggyqz0Y"
     step 0
     date "2021-09-09T17:31:56Z"
-    title "Machine Learning E tongue sticking out lained in 100 Seconds"
+    title "Machine Learning Explained in 100 Seconds"
     description "Machine Learning is the process of teaching a computer how perform a task with out explicitly programming it. The process feeds algorithms with large amounts of data to gradually improve predictive performance. &#10;&#10;#ai #python #100SecondsOfCode&#10;&#10;&#128279; Resources&#10;&#10;Machine Learning  Tutorials https://fireship.io/tags/machine-learning/&#10;What is ML https://www.ibm.com/cloud/learn/machine-learning&#10;Neural Networks https://towardsdatascience.com/a-beginners-guide-to-convolutional-neural-networks-cnns-14649dbddce8&#10;ML Wiki https://en.wikipedia.org/wiki/Machine_learning&#10;&#10;&#128293; Watch more with Fireship PRO&#10;&#10;Upgrade to Fireship PRO at https://fireship.io/pro&#10;Use code lORhwXd2 for 25% off your first payment. &#10;&#10;&#127912; My Editor Settings&#10;&#10;- Atom One Dark &#10;- vscode-icons&#10;- Fira Code Font&#10;&#10;Topics Covered&#10;&#10;- Convolutional Neural Networks&#10;- Machine Learning Basics&#10;- How Data Science Works&#10;- Big Data and Feature Engineering&#10;- Artificial Intelligence History&#10;- Supervised Machine Learning"
     channeltitle "Fireship"
     channelid "UCsBjURrPoezykLs9EqgamOA"
@@ -225,7 +225,7 @@ graph
     label "z-EtmaFJieY"
     step 0
     date "2017-11-01T21:50:13Z"
-    title "Machine Learning Artificial Intelligence: Crash Course Computer Science #34"
+    title "Machine Learning  Artificial Intelligence: Crash Course Computer Science #34"
     description "So we've talked a lot in this series about how computers fetch and display data, but how do they make decisions on this data? From spam filters and self-driving cars, to cutting edge medical diagnosis and real-time language translation, there has been an increasing need for our computers to learn from data and apply that knowledge to make predictions and decisions. This is the heart of machine learning which sits inside the more ambitious goal of artificial intelligence. We may be a long way from self-aware computers that think just like us, but with advancements in deep learning and artificial neural networks our computers are becoming more powerful than ever. &#10;&#10;Produced in collaboration with PBS Digital Studios: http://youtube.com/pbsdigitalstudios &#10;&#10;Want to know more about Carrie Anne?&#10;https://about.me/carrieannephilbin&#10;&#10;The Latest from PBS Digital Studios: https://www.youtube.com/playlist?list=PL1mtdjDVOoOqJzeaJAV15Tq0tZ1vKj7ZV&#10;&#10;Want to find Crash Course elsewhere on the internet?&#10;Facebook - https://www.facebook.com/YouTubeCrash...&#10;Twitter - http://www.twitter.com/TheCrashCourse&#10;Tumblr - http://thecrashcourse.tumblr.com &#10;Support Crash Course on Patreon: http://patreon.com/crashcourse&#10;CC Kids: http://www.youtube.com/crashcoursekids"
     channeltitle "CrashCourse"
     channelid "UCX6b17PVsYBQ0ip5gyeme-Q"
@@ -271,7 +271,7 @@ graph
     commentcount 369
     duration "PT7M18S"
     indegree 16
-    cluster 7
+    cluster 4
   ]
   node
   [
@@ -289,7 +289,7 @@ graph
     commentcount 444
     duration "PT17M57S"
     indegree 7
-    cluster 7
+    cluster 4
   ]
   node
   [
@@ -307,7 +307,7 @@ graph
     commentcount 6214
     duration "PT19M13S"
     indegree 101
-    cluster 5
+    cluster 2
   ]
   node
   [
@@ -325,7 +325,7 @@ graph
     commentcount 1446
     duration "PT10M22S"
     indegree 15
-    cluster 7
+    cluster 4
   ]
   node
   [
@@ -343,7 +343,7 @@ graph
     commentcount 1016
     duration "PT2H37M14S"
     indegree 72
-    cluster 7
+    cluster 4
   ]
   node
   [
@@ -361,7 +361,7 @@ graph
     commentcount 812
     duration "PT35M33S"
     indegree 72
-    cluster 7
+    cluster 4
   ]
   node
   [
@@ -379,7 +379,7 @@ graph
     commentcount 1183
     duration "PT6M36S"
     indegree 11
-    cluster 1
+    cluster 5
   ]
   node
   [
@@ -441,7 +441,7 @@ graph
     label "jGwO_UgTS7I"
     step 0
     date "2020-04-17T20:07:45Z"
-    title "Stanford CS229: Machine Learning Course, Lecture 1 - Andrew Ng (Autumn 201 smiley "
+    title "Stanford CS229: Machine Learning Course, Lecture 1 - Andrew Ng (Autumn 2018)"
     description "For more information about Stanford&#8217;s Artificial Intelligence professional and graduate programs, visit: https://stanford.io/2Ze53pq&#10;&#10;Listen to the first lecture in Andrew Ng's machine learning course. This course provides a broad introduction to machine learning and statistical pattern recognition. Learn about both supervised and unsupervised learning as well as learning theory, reinforcement learning and control. Explore recent applications of machine learning and design and develop algorithms for machines.&#10;&#10;Andrew Ng is an Adjunct Professor of Computer Science at Stanford University. View more about Andrew on his website: https://www.andrewng.org/&#10; &#10;To follow along with the course schedule and syllabus, visit: &#10;http://cs229.stanford.edu/syllabus-autumn2018.html&#10;&#10;05:21 Teaching team introductions&#10;06:42 Goals for the course and the state of machine learning across research and industry&#10;10:09 Prerequisites for the course&#10;11:53 Homework, and a note about the Stanford honor code&#10;16:57 Overview of the class project&#10;25:57 Questions"
     channeltitle "Stanford Online"
     channelid "UCBa5G_ESCn8Yd4vw5U-gIcg"
@@ -451,7 +451,7 @@ graph
     commentcount 59
     duration "PT1H15M20S"
     indegree 42
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -487,7 +487,7 @@ graph
     commentcount 309
     duration "PT16M34S"
     indegree 13
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -541,7 +541,7 @@ graph
     commentcount 671
     duration "PT1H8M6S"
     indegree 33
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -567,7 +567,7 @@ graph
     label "4b4MUYve_U8"
     step 0
     date "2020-04-17T20:08:06Z"
-    title "Stanford CS229: Machine Learning - Linear Regression and Gradient Descent | Lecture 2 (Autumn 201 smiley "
+    title "Stanford CS229: Machine Learning - Linear Regression and Gradient Descent | Lecture 2 (Autumn 2018)"
     description "For more information about Stanford&#8217;s Artificial Intelligence professional and graduate programs, visit: https://stanford.io/3pqkTry&#10;&#10;This lecture covers supervised learning and linear regression.&#10;&#10;Andrew Ng &#10;Adjunct Professor of Computer Science &#10;https://www.andrewng.org/&#10; &#10;To follow along with the course schedule and syllabus, visit: &#10;http://cs229.stanford.edu/syllabus-autumn2018.html"
     channeltitle "Stanford Online"
     channelid "UCBa5G_ESCn8Yd4vw5U-gIcg"
@@ -577,7 +577,7 @@ graph
     commentcount 15
     duration "PT1H18M17S"
     indegree 15
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -613,7 +613,7 @@ graph
     commentcount 2034
     duration "PT16M51S"
     indegree 11
-    cluster 8
+    cluster 6
   ]
   node
   [
@@ -631,7 +631,7 @@ graph
     commentcount 145
     duration "PT21M22S"
     indegree 18
-    cluster 8
+    cluster 7
   ]
   node
   [
@@ -667,7 +667,7 @@ graph
     commentcount 7
     duration "PT1H20M34S"
     indegree 4
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -685,7 +685,7 @@ graph
     commentcount 147
     duration "PT6M11S"
     indegree 0
-    cluster 5
+    cluster 2
   ]
   node
   [
@@ -703,7 +703,7 @@ graph
     commentcount 232
     duration "PT1H45M49S"
     indegree 3
-    cluster 7
+    cluster 4
   ]
   node
   [
@@ -721,7 +721,7 @@ graph
     commentcount 7182
     duration "PT5M58S"
     indegree 18
-    cluster 8
+    cluster 6
   ]
   node
   [
@@ -729,7 +729,7 @@ graph
     label "6M5VXKLf4D4"
     step 0
     date "2019-06-03T14:30:00Z"
-    title "Deep Learning In 5 Minutes | What Is Deep Learning? | Deep Learning E tongue sticking out lained Simply | Simplilearn"
+    title "Deep Learning In 5 Minutes | What Is Deep Learning? | Deep Learning Explained Simply | Simplilearn"
     description "&#128293; Enroll for FREE Artificial Intelligence Course &#38; Get your Completion Certificate:   https://www.simplilearn.com/learn-ai-basics-skillup?utm_campaign=Skillup-DeepLearning&#38;utm_medium=DescriptionFirstFold&#38;utm_source=youtube&#10;This video on &#34;What is Deep Learning&#34; provides a fun and simple introduction to its concepts. We learn about where Deep Learning is implemented and move on to how it is different from machine learning and artificial intelligence. We will also look at what neural networks are and how they are trained to recognize digits written by hand. We further look at some popular applications of Deep Learning. So, let&#8217;s dive into the world of Deep Learning with this video.   &#10;&#10;Start learning today's most in-demand skills for FREE. Visit us at https://www.simplilearn.com/skillup-free-online-courses?utm_campaign=AI&#38;utm_medium=Description&#38;utm_source=youtube   &#10;Choose over 300 in-demand skills and get access to 1000+ hours of video content for FREE in various technologies like Data Science, Cybersecurity, Project Management &#38; Leadership, Digital Marketing, and much more. &#10;&#10;Don't forget to take the quiz at 04:26!&#10;&#10;To learn more about Deep Learning, subscribe to our YouTube channel: https://www.youtube.com/user/Simplilearn?sub_confirmation=1&#10;&#10;Watch more videos on Deep Learning: https://www.youtube.com/watch?v=FbxTVRfQFuI&#38;list=PLEiEAq2VkUUIYQ-mMRAGilfOKyWKpHSip&#10;&#10;#DeepLearning #WhatIsDeepLearning #DeepLearningTutorial #DeepLearningCourse #DeepLearningExplained #Simplilearn&#10;&#10;Simplilearn&#8217;s Deep Learning course will transform you into an expert in Deep Learning techniques using TensorFlow, the open-source software library designed to conduct machine learning &#38; deep neural network research. With our Deep Learning course, you'll master Deep Learning and TensorFlow concepts, learn to implement algorithms, build artificial neural networks and traverse layers of data abstraction to understand the power of data and prepare you for your new role as Deep Learning scientist.&#10;&#10;Why Deep Learning?&#10;&#10;It is one of the most popular software platforms used for Deep Learning and contains powerful tools to help you build and implement artificial neural networks. &#10;Advancements in Deep Learning are being seen in smartphone applications, creating efficiencies in the power grid, driving advancements in healthcare, improving agricultural yields, and helping us find solutions to climate change. With this Tensorflow course, you&#8217;ll build expertise in Deep Learning models, learn to operate TensorFlow to manage neural networks and interpret the results. According to payscale.com, the median salary for engineers with Deep Learning skills tops $120,000 per year.&#10;&#10;You can gain in-depth knowledge of Deep Learning by taking our Deep Learning certification training course. With Simplilearn&#8217;s Deep Learning course, you will prepare for a career as a Deep Learning engineer as you master concepts and techniques including supervised and unsupervised learning, mathematical and heuristic aspects, and hands-on modeling to develop algorithms. Those who complete the course will be able to: &#10;1. Understand the concepts of TensorFlow, its main functions, operations and the execution pipeline&#10;2. Implement Deep Learning algorithms, understand neural networks and traverse the layers of data abstraction which will empower you to understand data like never before&#10;3. Master and comprehend advanced topics such as convolutional neural networks, recurrent neural networks, training deep networks and high-level interfaces&#10;4. Build Deep Learning models in TensorFlow and interpret the results&#10;5. Understand the language and fundamental concepts of artificial neural networks&#10;6. Troubleshoot and improve Deep Learning models&#10;7. Build your own Deep Learning project&#10;8. Differentiate between machine learning, Deep Learning and artificial intelligence&#10;&#10;There is booming demand for skilled Deep Learning engineers across a wide range of industries, making this Deep Learning course with TensorFlow training well-suited for professionals at the intermediate to advanced level of experience. We recommend this Deep Learning online course particularly for the following professionals: &#10;&#10;1. Software engineers&#10;2. Data scientists&#10;3. Data analysts&#10;4. Statisticians with an interest in Deep Learning&#10;&#10;Learn more at: https://www.simplilearn.com/deep-learning-course-with-tensorflow-training?utm_campaign=DeepLearning&#38;utm_medium=Description&#38;utm_source=youtube&#10;&#10;For more information about Simplilearn&#8217;s courses, visit: &#10;- Facebook: https://www.facebook.com/Simplilearn &#10;- Twitter: https://twitter.com/simplilearn &#10;- LinkedIn: https://www.linkedin.com/company/simplilearn/&#10;- Website: https://www.simplilearn.com &#10;&#10;Get the Android app: http://bit.ly/1WlVo4u &#10;Get the iOS app: http://apple.co/1HIO5J0"
     channeltitle "Simplilearn"
     channelid "UCsvqVGtbbyHaMoevxPAq9Fg"
@@ -739,7 +739,7 @@ graph
     commentcount 983
     duration "PT5M52S"
     indegree 39
-    cluster 5
+    cluster 2
   ]
   node
   [
@@ -757,7 +757,7 @@ graph
     commentcount 16
     duration "PT5M50S"
     indegree 3
-    cluster 9
+    cluster 8
   ]
   node
   [
@@ -775,7 +775,7 @@ graph
     commentcount 405
     duration "PT23M22S"
     indegree 15
-    cluster 3
+    cluster 5
   ]
   node
   [
@@ -793,7 +793,7 @@ graph
     commentcount 1204
     duration "PT6M5S"
     indegree 8
-    cluster 1
+    cluster 5
   ]
   node
   [
@@ -811,7 +811,7 @@ graph
     commentcount 170
     duration "PT1H14M24S"
     indegree 20
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -819,7 +819,7 @@ graph
     label "zpcOjNtd-70"
     step 0
     date "2021-02-19T21:43:00Z"
-    title "How Machine Learning Enhances Healthcare | Marzyeh Ghassemi | TE horror UofTSalon"
+    title "How Machine Learning Enhances Healthcare | Marzyeh Ghassemi | TEDxUofTSalon"
     description "Why aren't mistakes always a bad thing? And what does AI have to do with that? Find out as Marzyeh Ghassemi delves into how the machine learning revolution can be applied in a healthcare setting to improve patient care. Dr. Marzyeh Ghassemi is an assistant professor at the University of Toronto in Computer Science and Medicine, and a Vector Institute faculty member as well as a CAnada CIFAR Chair in Aritifical Intelligence. She was named on of MITs top 35 Innovators under 35 for her groundbreaking work in AI and hospital data. Her research group, Machine Learning for Health, focuses on creating and applying machine learning to understand and improve health. This talk was given at a TEDx event using the TED conference format but independently organized by a local community. Learn more at https://www.ted.com/tedx"
     channeltitle "TEDx Talks"
     channelid "UCsT0YIqwnpJCM-mx7-gSA4Q"
@@ -829,7 +829,7 @@ graph
     commentcount 16
     duration "PT11M1S"
     indegree 2
-    cluster 2
+    cluster 9
   ]
   node
   [
@@ -837,7 +837,7 @@ graph
     label "iPdKMs9cEAs"
     step 0
     date "2018-01-03T20:49:26Z"
-    title "Machine learning + neuroscience = biologically feasible computing | Benjamin Migliori | TE horror SanDiego"
+    title "Machine learning + neuroscience = biologically feasible computing | Benjamin Migliori | TEDxSanDiego"
     description "Whether you're a human, an animal, or a machine, decisions can't be made without perception, which is how we come to understand the world around us. Machine learning will allow us to create a future in which artificial systems extend and augment our abilities, to help us create and imagine. To do that, we need to create machines that make decisions based on instinct, context, and minimal training. Combining neuroscience and machine learning, we can enter the world of biologically feasible computing. Companies are building computers that can mimic and simulate neurons in biophysical detail. The goal is to create algorithms that compute in biologically feasible ways. Benjamin Migliori is an interdisciplinary physicist-slash-neuroscientist who focuses on biologically inspired systems &#8211; that is, using our understanding of computational neuroscience to help machines perceive the world, and using our understanding of machines to help us understand the brain. He is currently contributing this unique outlook to challenges of national defense at the Space and Naval Warfare Systems Center Pacific as a principal investigator in machine learning and computational neuroscience. This talk was given at a TEDx event using the TED conference format but independently organized by a local community. Learn more at https://www.ted.com/tedx"
     channeltitle "TEDx Talks"
     channelid "UCsT0YIqwnpJCM-mx7-gSA4Q"
@@ -847,7 +847,7 @@ graph
     commentcount 17
     duration "PT12M"
     indegree 2
-    cluster 2
+    cluster 9
   ]
   node
   [
@@ -865,7 +865,7 @@ graph
     commentcount 508
     duration "PT25M15S"
     indegree 20
-    cluster 3
+    cluster 5
   ]
   node
   [
@@ -883,7 +883,7 @@ graph
     commentcount 438
     duration "PT9M53S"
     indegree 9
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -901,7 +901,7 @@ graph
     commentcount 190
     duration "PT8M40S"
     indegree 56
-    cluster 6
+    cluster 1
   ]
   node
   [
@@ -919,7 +919,7 @@ graph
     commentcount 169
     duration "PT49M1S"
     indegree 26
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -955,7 +955,7 @@ graph
     commentcount 126
     duration "PT12M7S"
     indegree 3
-    cluster 6
+    cluster 1
   ]
   node
   [
@@ -991,7 +991,7 @@ graph
     commentcount 3010
     duration "PT11M5S"
     indegree 12
-    cluster 8
+    cluster 6
   ]
   node
   [
@@ -1009,7 +1009,7 @@ graph
     commentcount 53
     duration "PT12M7S"
     indegree 3
-    cluster 8
+    cluster 3
   ]
   node
   [
@@ -1027,7 +1027,7 @@ graph
     commentcount 418
     duration "PT1H29M10S"
     indegree 15
-    cluster 6
+    cluster 1
   ]
   node
   [
@@ -1063,7 +1063,7 @@ graph
     commentcount 2354
     duration "PT3M19S"
     indegree 5
-    cluster 8
+    cluster 6
   ]
   node
   [
@@ -1081,7 +1081,7 @@ graph
     commentcount 2130
     duration "PT10M2S"
     indegree 12
-    cluster 8
+    cluster 6
   ]
   node
   [
@@ -1135,7 +1135,7 @@ graph
     commentcount 43
     duration "PT14M55S"
     indegree 3
-    cluster 6
+    cluster 1
   ]
   node
   [
@@ -1171,7 +1171,7 @@ graph
     commentcount 161
     duration "PT13M11S"
     indegree 0
-    cluster 6
+    cluster 1
   ]
   node
   [
@@ -1207,7 +1207,7 @@ graph
     commentcount 13
     duration "PT7M58S"
     indegree 0
-    cluster 5
+    cluster 2
   ]
   node
   [
@@ -1315,7 +1315,7 @@ graph
     commentcount 230
     duration "PT6M"
     indegree 1
-    cluster 6
+    cluster 1
   ]
   node
   [
@@ -1351,7 +1351,7 @@ graph
     commentcount 2700
     duration "PT21M1S"
     indegree 30
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -1359,7 +1359,7 @@ graph
     label "lzGKRSvs5HM"
     step 0
     date "2019-03-10T11:02:48Z"
-    title "Linear Regression E tongue sticking out lained in Hindi ll Machine Learning Course"
+    title "Linear Regression Explained in Hindi ll Machine Learning Course"
     description "Myself Shridhar Mankar a Engineer l YouTuber l Educational Blogger l Educator l Podcaster. &#13;&#10;My Aim- To Make Engineering Students Life EASY.&#13;&#10;&#13;&#10;Website   - https://5minutesengineering.com &#13;&#10;&#13;&#10;5 Minutes Engineering English YouTube Channel -  https://m.youtube.com/channel/UChTsiSbpTuSrdOHpXkKlq6Q&#13;&#10;&#13;&#10;Instagram -  https://www.instagram.com/5minutesengineering/?hl=en&#13;&#10;&#13;&#10;A small donation would mean the world to me and will help me to make AWESOME videos for you.&#13;&#10;&#8226; UPI ID : 5minutesengineering@apl&#13;&#10;&#13;&#10;Playlists :&#13;&#10;&#13;&#10;&#8226; 5 Minutes Engineering Podcast :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcCTAu8NRuCaD3aTEgHLeF0X&#13;&#10;&#13;&#10;&#8226; Aptitude :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcBpa1jwpCbEDespCRF3UPE5&#13;&#10;&#13;&#10;&#8226; Machine Learning :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcBhOEPwf5cFwqo5B-cP9G4P&#13;&#10;&#13;&#10;&#8226; Computer Graphics :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcAtxMe7ahYC4ZYjQHun_b-T&#13;&#10;&#13;&#10;&#8226; C Language Tutorial for Beginners :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcBqvw6QTRsA8gvZL3ao2ON-&#13;&#10;&#13;&#10;&#8226; R Tutorial for Beginners :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcCRFzBkZ-b92Hdg-qCUfx48&#13;&#10;&#13;&#10;&#8226; Python Tutorial for Beginners :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcCJu4i6UGMkMx1p3yYZJsbC&#13;&#10;&#13;&#10;&#8226; Embedded and Real Time Operating Systems (ERTOS) :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcBpuYagx0JiSaM-Bi4dm0hG&#13;&#10;&#13;&#10;&#8226; Shridhar Live Talks :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcD21x33RkmGvcZtrnWlTDdI&#13;&#10;&#13;&#10;&#8226; Welcome to 5 Minutes Engineering :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcCwG02L6fm0G5zmzpyw3eyc &#13;&#10;&#13;&#10;&#8226; Human Computer Interaction (HCI) :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcDz_8-pygbcNvNF0DEwKoIL&#13;&#10;&#13;&#10;&#8226; Computer Organization and Architecture :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcCaiXeUEjcTzHwIfJqH1qCN&#13;&#10;&#13;&#10;&#8226; Deep Learning :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcD-6P8cuX2bZAHSThF6AYvq&#13;&#10;&#13;&#10;&#8226; Genetic Algorithm :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcDHUTN26NXKfjg6wFJKDO9R&#13;&#10;&#13;&#10;&#8226; Cloud Computing :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcCyQH0n9GHfwviu6KeJ46BV&#13;&#10;&#13;&#10;&#8226; Information and Cyber Security :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcArHtWmbs_vXX6soTK3WEJw&#13;&#10;&#13;&#10;&#8226; Soft Computing and Optimization Algorithms :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcCPUl8mAnb4g1oExKd0n4Gw&#13;&#10;&#13;&#10;&#8226; Compiler Design :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcC6FupM--SachxUTOiQ7XHw&#13;&#10;&#13;&#10;&#8226; Operating System :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcD0LLrv7CXxSiO2gNJsoxpi&#13;&#10;&#13;&#10;&#8226; Hadoop :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcAhiP6C1qVorA7HZRejRE6M&#13;&#10;&#13;&#10;&#8226; CUDA :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcB73J5yO6uSFUycHJSA45O0&#13;&#10;&#13;&#10;&#8226; Discrete Mathematics :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcDKuvj-wIgDnHA5JTfUwrHv&#13;&#10;&#13;&#10;&#8226; Theory of Computation (TOC) :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcDXLUrW3JEq2cv8efNF6UeQ&#13;&#10;&#13;&#10;&#8226; Data Analytics :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcD_agAK_MpCDJdDXFuJqS9X&#13;&#10;&#13;&#10;&#8226; Software Modeling and Design :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcD1pjNSpEm2pje3zPrSiflZ&#13;&#10;&#13;&#10;&#8226; Internet Of Things (IOT) :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcB8fDd64B8SkJiPpEIzpCzC&#13;&#10;&#13;&#10;&#8226; Database Management Systems (DBMS) :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcBU4HS74xGTK1cAFbY0rdVY &#13;&#10;&#13;&#10;&#8226; Computer Network (CN) :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcAXkWn2IR-l_WXOrr0n851a&#13;&#10;&#13;&#10;&#8226; Software Engineering and Project Management :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcCB7zUM0YSDR-1mM4KoiyLM&#13;&#10;&#13;&#10;&#8226; Design and Analysis of Algorithm :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcBOrMihdkd48kgs6_YP8taa&#13;&#10;&#13;&#10;&#8226; Data Mining and Warehouse :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcChP0xiW3KK9elNuhfCLVVi&#13;&#10;&#13;&#10;&#8226; Mobile Communication :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcAjqrKO-b9UMa2AaAlzZY7D&#13;&#10;&#13;&#10;&#8226; High Performance Computing :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcA1eJbqwvjKgsnT321hXRGx&#13;&#10;&#13;&#10;&#8226; Artificial Intelligence and Robotics :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcBmfMtX5wRMAtqna7pY-YtG"
     channeltitle "5 Minutes Engineering"
     channelid "UCyHta2dyCTkf29AB67AYn7A"
@@ -1377,7 +1377,7 @@ graph
     label "QIUxPv5PJOY"
     step 0
     date "2019-12-22T00:36:23Z"
-    title "Stock Price Prediction Using Python Machine Learning"
+    title "Stock Price Prediction Using Python  Machine Learning"
     description "Stock Price Prediction Using Python &#38; Machine Learning (LSTM). &#10;In this video you will learn how to create an artificial neural network called Long Short Term Memory to predict the future price of stock.&#10;&#10;Disclaimer: The material in this video is purely educational and should not be taken as professional investment advice. Invest at your own discretion.&#10;&#10;&#10;NOTE: In the video to calculate the RMSE I put the following statement:&#10;rmse=np.sqrt(np.mean((predictions- y_test)**2))&#10;&#10;When in fact I meant to put :&#10;rmse=np.sqrt(np.mean(((predictions- y_test)**2)))&#10;&#10;You can use the following statements to calculate RMSE:&#10;1. rmse =np.sqrt(np.mean(((predictions- y_test)**2)))&#10;2. rmse = np.sqrt(np.mean(np.power((np.array(y_test)-np.array(predictions)),2)))&#10;3. rmse = np.sqrt(((predictions - y_test) ** 2).mean())&#10;&#10;Please Subscribe !&#10;&#10;&#11088;Get the code here&#11088;:&#10;      https://www.patreon.com/computerscience&#10;&#13;&#10;&#10;&#9654;&#65039; Get 4 FREE stocks (valued up to $1600) on WeBull when you use the link below and  deposit $100 or more:&#10;https://act.webull.com/kol-us/share.html?hl=en&#38;inviteCode=LR6VIpFiAkPe&#10;&#10;&#9654;&#65039; Earn $10 in Bitcoin by signing up with BlockFi and depositing $100 or more:&#10;https://blockfi.com/?ref=e5b523e0&#10;&#10;&#13;&#10;&#11088;Please Subscribe !&#11088;&#10;&#10;&#11088;Support the channel and/or get the code by becoming a supporter on Patreon:&#10;      https://www.patreon.com/computerscience&#10;&#10;&#11088;Websites:&#10; &#9658; http://everythingcomputerscience.com/&#10;&#10;&#11088;Helpful Programming Books&#10; &#9658; Python (Hands-Machine-Learning-Scikit-Learn-TensorFlow):&#10;      https://amzn.to/2AD1axD&#10;&#10;&#9658; Learning Python:&#10;     https://amzn.to/3dQGrEB&#10;&#10;&#9658;Head First Python:&#10;    https://amzn.to/3fUxDiO&#10;&#10; &#9658; C-Programming : &#10;      https://amzn.to/2X0N6Wa&#10;&#10; &#9658; Head First Java: &#10;      https://amzn.to/2LxMlhT&#10;&#10;&#10;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#10;&#128218;Helpful Financial Books&#128218;&#10;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#10;&#127775;Stock Market Investing Books:&#10;&#10004;&#65039;The Bogleheads' Guide to Investing&#10;https://amzn.to/3s0icxA&#10;&#10004;&#65039;The Intelligent Investor&#10;https://amzn.to/34Mj7t1&#10;&#10004;&#65039;A Random Walk Down Wall Street&#10;https://amzn.to/3Bv0ghW&#10;&#10;&#127775;Money Mindset Books&#10;&#10004;&#65039;Rich Dad Poor Dad:&#10;https://amzn.to/3rZW6eE&#10;&#10004;&#65039;Get Good With Money: Ten Simple Steps To Becoming Financially Whole:&#10;https://amzn.to/3I1UXc1&#13;&#10;&#10;#StockPrediction #Python #MachineLearning"
     channeltitle "Computer Science"
     channelid "UCbmb5IoBtHZTpYZCDBOC1CA"
@@ -1387,7 +1387,7 @@ graph
     commentcount 1267
     duration "PT51M56S"
     indegree 27
-    cluster 8
+    cluster 3
   ]
   node
   [
@@ -1395,7 +1395,7 @@ graph
     label "oJNHXPs0XDk"
     step 0
     date "2019-06-06T05:12:13Z"
-    title "Neural Network Architectures Deep Learning"
+    title "Neural Network Architectures  Deep Learning"
     description "This video describes the variety of neural network architectures available to solve various problems in science ad engineering.   Examples include convolutional neural networks (CNNs), recurrent neural networks (RNNs), and autoencoders.  &#10;&#10;Book website: http://databookuw.com/&#10;Steve Brunton's website: eigensteve.com&#10;Follow updates on Twitter @eigensteve&#10;&#10;This video is part of a playlist &#34;Intro to Data Science&#34;:&#10;https://www.youtube.com/playlist?list=PLMrJAkhIeNNQV7wi9r7Kut8liLFMWQOXn"
     channeltitle "Steve Brunton"
     channelid "UCm5mt-A4w61lknZ9lCsZtBw"
@@ -1405,7 +1405,7 @@ graph
     commentcount 372
     duration "PT9M9S"
     indegree 8
-    cluster 5
+    cluster 8
   ]
   node
   [
@@ -1441,7 +1441,7 @@ graph
     commentcount 732
     duration "PT10H15M28S"
     indegree 39
-    cluster 7
+    cluster 4
   ]
   node
   [
@@ -1449,7 +1449,7 @@ graph
     label "mlE03Fj2T9s"
     step 0
     date "2018-04-10T15:43:30Z"
-    title "IoT and Machine Learning - Changing the Future | Dr. Dennis Ong | TE horror OhioStateUniversity"
+    title "IoT and Machine Learning - Changing the Future | Dr. Dennis Ong | TEDxOhioStateUniversity"
     description "Dr. Dennis Ong is a Technology Evangelist.&#10; &#10;Dr. Ong is Distinguished Architect and Managing Principal at Verizon. Previously, he served as Chief Architect and Director at Nokia, Alcatel-Lucent, Lucent, and AT&#38;T. He and his teams have launched many innovative and award-winning solutions combining the strengths of high tech companies and multitude of start-up companies. &#10;&#10;At Verizon, he is working with startups to utilize IoT and Machine Learning to create Smart City solutions to address the most challenging problems facing cities and municipalities. At Nokia, he led a recently acquired start-up to develop the IoT IMPACT platform which received the &#34;&#34;Best IoT Innovation for Mobile Networks&#34;&#34; award at the 2017 Mobile World Congress. At Alcatel-Lucent, he and his team collaborated with three start-ups, based in India, Israel, and Silicon Valley, in creating a highly scalable video optimization and analytics platform that served tens of millions of mobile subscribers worldwide. At Lucent, he launched the first packet-based cellular small cell solution with a start-up in Boston.&#10;&#10;Originally from Hong Kong, Dennis received Ph.D. in Electrical Engineering from the Ohio State University as University Fellow and MBA with honors from the University of Chicago. He was an adjunct faculty at the Ohio State University.&#10;&#10;Dennis and his wife, Timmy, enjoy coaching Christian marriage retreats. They are proud parents of three children &#8211; Joshua, Jeremiah, and Hannah. Dennis is an active learner and an avid swimmer. Dr. Dennis Ong is Distinguished Architect and Managing Principal at Verizon. Previously, he served as Chief Architect and Director at Nokia, Alcatel-Lucent, Lucent, and AT&#38;T. He and his teams have launched many innovative and award-winning solutions combining the strengths of high tech companies and multitude of start-up companies. At Verizon, he is working with startups to utilize IoT and Machine Learning to create Smart City solutions to address the most challenging problems facing cities and municipalities. At Nokia, he led a recently acquired start-up to develop the IoT IMPACT platform which received the &#34;&#34;Best IoT Innovation for Mobile Networks&#34;&#34; award at the 2017 Mobile World Congress. At Alcatel-Lucent, he and his team collaborated with three start-ups, based in India, Israel, and Silicon Valley, in creating a highly scalable video optimization and analytics platform that served tens of millions of mobile subscribers worldwide. This talk was given at a TEDx event using the TED conference format but independently organized by a local community. Learn more at https://www.ted.com/tedx"
     channeltitle "TEDx Talks"
     channelid "UCsT0YIqwnpJCM-mx7-gSA4Q"
@@ -1459,7 +1459,7 @@ graph
     commentcount 20
     duration "PT11M15S"
     indegree 1
-    cluster 4
+    cluster 9
   ]
   node
   [
@@ -1495,7 +1495,7 @@ graph
     commentcount 2185
     duration "PT5M"
     indegree 22
-    cluster 2
+    cluster 1
   ]
   node
   [
@@ -1503,7 +1503,7 @@ graph
     label "3bJ7RChxMWQ"
     step 0
     date "2017-11-23T16:29:07Z"
-    title "Machine Learning E tongue sticking out lained in 5 Minutes"
+    title "Machine Learning Explained in 5 Minutes"
     description "Machine learning explained simply. In this video you'll learn what exactly machine learning is and machine learning basics.  No knowledge of machine learning required to watch this video.&#10;&#10;Hi! I'm Jade. Subscribe to Up and Atom for new physics, math and computer science videos every week! &#10;&#10;*SUBSCRIBE TO UP AND ATOM* https://www.youtube.com/c/upandatom&#10;&#10;*Follow me: @upndatom&#10;&#10;INSTAGRAM: https://www.instagram.com/upndatom/&#10;TWITTER: https://twitter.com/upndatom?lang=en&#10;&#10;*Other Videos You Might Like*&#10;Math, When Are You Going To Use It? &#10;https://youtu.be/KX608C2RZek&#10;Quantum Cryptography Explained Simply https://youtu.be/uiiaAJ3c6dM&#10;Are Forcefields Possible?&#10;https://youtu.be/ttno673mt2w&#10;&#10;*SOURCES*&#10;https://www.coursera.org/learn/machine-learning&#10;https://medium.com/machine-learning-for-humans/why-machine-learning-matters-6164faf1df12&#10;http://whatis.techtarget.com/definition/machine-learning&#10;https://youtu.be/nKW8Ndu7Mjw"
     channeltitle "Up and Atom"
     channelid "UCSIvk78tK2TiviLQn4fSHaw"
@@ -1521,7 +1521,7 @@ graph
     label "het9HFqo1TQ"
     step 0
     date "2020-04-17T20:08:31Z"
-    title "Locally Weighted Logistic Regression | Stanford CS229: Machine Learning - Lecture 3 (Autumn 201 smiley "
+    title "Locally Weighted  Logistic Regression | Stanford CS229: Machine Learning - Lecture 3 (Autumn 2018)"
     description "For more information about Stanford&#8217;s Artificial Intelligence professional and graduate programs, visit: https://stanford.io/2ZdTL4x&#10;&#10;Andrew Ng &#10;Adjunct Professor of Computer Science&#10;https://www.andrewng.org/&#10; &#10;To follow along with the course schedule and syllabus, visit: &#10;http://cs229.stanford.edu/syllabus-autumn2018.html"
     channeltitle "Stanford Online"
     channelid "UCBa5G_ESCn8Yd4vw5U-gIcg"
@@ -1531,7 +1531,7 @@ graph
     commentcount 6
     duration "PT1H19M34S"
     indegree 4
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -1539,7 +1539,7 @@ graph
     label "mNB8NlwhAgg"
     step 0
     date "2021-07-14T09:15:43Z"
-    title "#1 Introduction to Machine Learning - Definition Example |ML|"
+    title "#1 Introduction to Machine Learning - Definition  Example |ML|"
     description "Telegram group : https://t.me/joinchat/G7ZZ_SsFfcNiMTA9&#10;contact me on Gmail at shraavyareddy810@gmail.com &#10;contact me on Instagram at https://www.instagram.com/trouble_free_youtube/&#10;Thank you for 1000 subscribers video: about me https://youtu.be/9PoacKR12dc&#10;Design Patterns Playlist: https://www.youtube.com/watch?v=9GKAc2WP3nc&#38;list=PLmAmHQ-_5ySzyZRFtQKelXzOUJ44jOYSn&#10;Infosys Recruitment 2021: https://www.youtube.com/watch?v=Ltng0RiqRTQ&#38;list=PLmAmHQ-_5ySx0Z1IRDkSDpR4IMHC12fCP&#10;Cloud Computing Playlist: https://www.youtube.com/watch?v=V0tzh0hnpKM&#38;list=PLmAmHQ-_5ySwcO0EKGfwQ9W7d0aMFNFyK&#10;Mobile Computing Playlist: https://www.youtube.com/watch?v=ht49rmlVEjI&#38;list=PLmAmHQ-_5ySyvOz6_jEsevqhPno5OV41V&#10;Data Warehouse &#38; Data Mining Playlist: https://www.youtube.com/watch?v=nt_Ouf5Cw-c&#38;list=PLmAmHQ-_5ySxGcWD6xHihs-DXV-VnV_pN&#10;All Placement related videos : https://www.youtube.com/watch?v=Ib0aZiwn4fY&#38;list=PLmAmHQ-_5ySyFC6lNlWfBD7LPiRKCgwwu&#10;Cryptography &#38; Network Security: https://www.youtube.com/watch?v=lSAldhEC8Fs&#38;list=PLmAmHQ-_5ySx_dXmOwSuGGGyE8XsbYT0n&#10;Managerial / Business Economics &#38; Financial Analysis: https://www.youtube.com/watch?v=pKJjbXxSx-w&#38;list=PLmAmHQ-_5ySxjnisAfFoOMBJswvKx2FNT&#10;Operating Systems Playlist : https://www.youtube.com/watch?v=LiNu5i0tjYU&#38;list=PLmAmHQ-_5ySxgU1eMrt8UIiOs0hU9wzr5&#10;Aptitude Playlist : https://www.youtube.com/watch?v=UniuH8TDdmI&#38;list=PLmAmHQ-_5ySztx9GugXChrVvzEEOwE9SS&#10;Grade 10 math chapter-6 (TRIANGLES): https://www.youtube.com/watch?v=jZOmbbPiUL0&#38;list=PLmAmHQ-_5ySx1dTyyIV9UWGG8l5kkiYRa&#10;Grade 8 science chapter-4 (Metals &#38; Non-Metals): https://www.youtube.com/watch?v=oDPKZPmt5q8&#38;list=PLmAmHQ-_5ySxSqlp4CncMaldIHr4Ceu8O&#10;Grade 10 math chapter -8 (Introduction to Trigonometry): https://www.youtube.com/watch?v=LadB_CFbe0U&#38;list=PLmAmHQ-_5ySz3rdUvzV1X7yf9isoEeKiR&#10;Grade 8 science chapter-11 (Force &#38; Pressure): https://www.youtube.com/watch?v=0QbBnlqbty0&#38;list=PLmAmHQ-_5ySw45Xajejy6iawVstzPUep4&#10;Grade 8 math (NCERT): https://www.youtube.com/watch?v=WSiiDOgKw0A&#38;list=PLmAmHQ-_5ySxC4i2fladH8wMP9gz4iZ02&#10;Grade 10 Math(NCERT): https://www.youtube.com/watch?v=YsVKKysxmEo&#38;list=PLmAmHQ-_5ySzHLD593LaKHjHtCE3usgB7&#10;Grade 8 Science (NCERT): https://www.youtube.com/watch?v=bZCp87igs_U&#38;list=PLmAmHQ-_5ySxS7u-roj93XxjViwiAr7u4"
     channeltitle "Trouble- Free"
     channelid "UCHNO_Y3DskuKiw9VTvo8AMw"
@@ -1585,7 +1585,7 @@ graph
     commentcount 2038
     duration "PT3H6M20S"
     indegree 17
-    cluster 9
+    cluster 3
   ]
   node
   [
@@ -1603,7 +1603,7 @@ graph
     commentcount 9
     duration "PT9M59S"
     indegree 3
-    cluster 7
+    cluster 11
   ]
   node
   [
@@ -1621,7 +1621,7 @@ graph
     commentcount 108
     duration "PT8M52S"
     indegree 34
-    cluster 6
+    cluster 1
   ]
   node
   [
@@ -1639,7 +1639,7 @@ graph
     commentcount 68
     duration "PT1H46M10S"
     indegree 17
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -1657,7 +1657,7 @@ graph
     commentcount 521
     duration "PT19M19S"
     indegree 14
-    cluster 3
+    cluster 5
   ]
   node
   [
@@ -1675,7 +1675,7 @@ graph
     commentcount 1328
     duration "PT29M20S"
     indegree 4
-    cluster 8
+    cluster 7
   ]
   node
   [
@@ -1683,7 +1683,7 @@ graph
     label "Nj2YSLPn6OY"
     step 0
     date "2016-10-12T19:03:56Z"
-    title "Better Medicine Through Machine Learning | Suchi Saria | TE horror Boston"
+    title "Better Medicine Through Machine Learning | Suchi Saria | TEDxBoston"
     description "Faster medical treatment saves lives. Machine Learning is already saving lives, by scouring a multitude of patients&#8217; data and comparing them to one patient&#8217;s health data to detect symptoms 12 to 24 hours sooner than a doctor could. &#34;In many pressing medical problems, the answers to knowing whom to treat, when to treat, and what to treat with, might already be in your data&#34; says Suchi Saria. Learn how TREWS (Targeted Real-time Early Warning Score) is leading the way to save lives.&#10;&#10;Suchi Saria is a professor of computer science and health policy, and director of the Machine Learning and Health Lab at Johns Hopkins University. Her research is focused on designing data solutions for providing individualized care.&#10;&#10;This talk was given at a TEDx event using the TED conference format but independently organized by a local community. Learn more at http://ted.com/tedx"
     channeltitle "TEDx Talks"
     channelid "UCsT0YIqwnpJCM-mx7-gSA4Q"
@@ -1693,7 +1693,7 @@ graph
     commentcount 92
     duration "PT17M57S"
     indegree 7
-    cluster 2
+    cluster 9
   ]
   node
   [
@@ -1711,7 +1711,7 @@ graph
     commentcount -1
     duration "PT1H4M"
     indegree 0
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -1729,7 +1729,7 @@ graph
     commentcount 173
     duration "PT23M19S"
     indegree 0
-    cluster 8
+    cluster 6
   ]
   node
   [
@@ -1755,7 +1755,7 @@ graph
     label "JzB7yS9t1YE"
     step 0
     date "2018-05-10T02:19:12Z"
-    title "Bringing AI and machine learning innovations to healthcare (Google I/O 1 smiley "
+    title "Bringing AI and machine learning innovations to healthcare (Google I/O 18)"
     description "Could machine learning give new insights into diseases, widen access to healthcare, and even lead to new scientific discoveries? Already we can see how machine learning can increase the accuracy of diagnoses from medical imaging, and may be able to predict a patients risk of disease. This Keynote Session includes short talks by Lily Peng of Google Brain and Jessica Mega of Verily (Alphabet) about how they are bringing technological innovations in AI and machine learning to healthcare.&#10;&#10;Rate this session by signing-in on the I/O website here &#8594; https://goo.gl/Bj2YZD&#10;&#10;Watch more machine learning sessions from I/O '18 here &#8594; https://goo.gl/9MB2o7&#10;See all the sessions from Google I/O '18 here &#8594; https://goo.gl/q1Tr8x&#10;&#10;Subscribe to the Google Developers channel &#8594; http://goo.gl/mQyv5L&#10;&#10;#io18 event: Google I/O 2018; re_ty: Publish; product: Cloud - Healthcare and Life Sciences - Healthcare Natural Language AI, TensorFlow - General; fullname: Lily Peng, Jessica Mega; event: Google I/O 2018;"
     channeltitle "Google Developers"
     channelid "UC_x5XG1OV2P6uZZ5FSM9Ttw"
@@ -1765,7 +1765,7 @@ graph
     commentcount 29
     duration "PT32M51S"
     indegree 2
-    cluster 2
+    cluster 9
   ]
   node
   [
@@ -1783,7 +1783,7 @@ graph
     commentcount 382
     duration "PT16M53S"
     indegree 6
-    cluster 1
+    cluster 5
   ]
   node
   [
@@ -1801,7 +1801,7 @@ graph
     commentcount 296
     duration "PT28M36S"
     indegree 37
-    cluster 3
+    cluster 5
   ]
   node
   [
@@ -1819,7 +1819,7 @@ graph
     commentcount 256
     duration "PT6M3S"
     indegree 5
-    cluster 7
+    cluster 11
   ]
   node
   [
@@ -1837,7 +1837,7 @@ graph
     commentcount -1
     duration "PT14M50S"
     indegree 6
-    cluster 7
+    cluster 11
   ]
   node
   [
@@ -1855,7 +1855,7 @@ graph
     commentcount 19
     duration "PT2H6M26S"
     indegree 3
-    cluster 8
+    cluster 7
   ]
   node
   [
@@ -1873,7 +1873,7 @@ graph
     commentcount 39
     duration "PT8M48S"
     indegree 2
-    cluster 8
+    cluster 7
   ]
   node
   [
@@ -1891,7 +1891,7 @@ graph
     commentcount 108
     duration "PT15M20S"
     indegree 9
-    cluster 9
+    cluster 8
   ]
   node
   [
@@ -1909,7 +1909,7 @@ graph
     commentcount 12
     duration "PT2M25S"
     indegree 1
-    cluster 6
+    cluster 4
   ]
   node
   [
@@ -1963,7 +1963,7 @@ graph
     commentcount 512
     duration "PT1H2M40S"
     indegree 8
-    cluster 5
+    cluster 3
   ]
   node
   [
@@ -1981,7 +1981,7 @@ graph
     commentcount 484
     duration "PT7M13S"
     indegree 3
-    cluster 1
+    cluster 5
   ]
   node
   [
@@ -1999,7 +1999,7 @@ graph
     commentcount 315
     duration "PT4H35M42S"
     indegree 15
-    cluster 7
+    cluster 4
   ]
   node
   [
@@ -2017,7 +2017,7 @@ graph
     commentcount 147
     duration "PT53M20S"
     indegree 5
-    cluster 9
+    cluster 3
   ]
   node
   [
@@ -2035,7 +2035,7 @@ graph
     commentcount 55
     duration "PT9M40S"
     indegree 6
-    cluster 6
+    cluster 1
   ]
   node
   [
@@ -2053,7 +2053,7 @@ graph
     commentcount 28
     duration "PT33M11S"
     indegree 1
-    cluster 9
+    cluster 8
   ]
   node
   [
@@ -2071,7 +2071,7 @@ graph
     commentcount -1
     duration "PT14M1S"
     indegree 1
-    cluster 7
+    cluster 11
   ]
   node
   [
@@ -2079,7 +2079,7 @@ graph
     label "2XCpOuiy_e4"
     step 0
     date "2019-04-27T21:38:54Z"
-    title "Machine Learning and AI e tongue sticking out lained in Sinhala"
+    title "Machine Learning and AI explained in Sinhala"
     description "Machine learning is an application of artificial intelligence (AI) that provides systems the ability to automatically learn and improve from experience without being explicitly programmed. Machine learning focuses on the development of computer programs that can access data and use it learn for themselves&#10;&#10;This is the first video of Machine Learning video series. This explains about the differences between AI and ML.&#10;&#10;Demo Web Link: https://teachablemachine.withgoogle.com&#10;&#10;Facebook&#10;https://www.facebook.com/live.wizardlk&#10;&#10;Twitter&#10;https://twitter.com/Wizard_LK&#10;&#10;Instagram&#10;https://www.instagram.com/wizard_lk&#10;&#10;GitHub&#10;https://github.com/wizardlk&#10;&#10;#ep01 #wizardlk #machinelearning #AI"
     channeltitle "Wizard LK"
     channelid "UC4MDglKGvqZwvKkvzzZ6eOQ"
@@ -2107,7 +2107,7 @@ graph
     commentcount 947
     duration "PT30M53S"
     indegree 8
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -2125,7 +2125,7 @@ graph
     commentcount 50
     duration "PT39M14S"
     indegree 3
-    cluster 5
+    cluster 8
   ]
   node
   [
@@ -2143,7 +2143,7 @@ graph
     commentcount 9
     duration "PT10M44S"
     indegree 0
-    cluster 7
+    cluster 11
   ]
   node
   [
@@ -2161,7 +2161,7 @@ graph
     commentcount 20
     duration "PT8M36S"
     indegree 1
-    cluster 9
+    cluster 8
   ]
   node
   [
@@ -2179,7 +2179,7 @@ graph
     commentcount 20
     duration "PT5M44S"
     indegree 5
-    cluster 9
+    cluster 8
   ]
   node
   [
@@ -2197,7 +2197,7 @@ graph
     commentcount 16
     duration "PT5M3S"
     indegree 1
-    cluster 8
+    cluster 6
   ]
   node
   [
@@ -2215,7 +2215,7 @@ graph
     commentcount 10
     duration "PT1H51M40S"
     indegree 1
-    cluster 8
+    cluster 7
   ]
   node
   [
@@ -2233,7 +2233,7 @@ graph
     commentcount -1
     duration "PT11M35S"
     indegree 4
-    cluster 7
+    cluster 11
   ]
   node
   [
@@ -2251,7 +2251,7 @@ graph
     commentcount 20
     duration "PT6M8S"
     indegree 2
-    cluster 7
+    cluster 11
   ]
   node
   [
@@ -2269,7 +2269,7 @@ graph
     commentcount 3
     duration "PT1M33S"
     indegree 0
-    cluster 5
+    cluster 2
   ]
   node
   [
@@ -2287,7 +2287,7 @@ graph
     commentcount 33
     duration "PT7M37S"
     indegree 7
-    cluster 6
+    cluster 1
   ]
   node
   [
@@ -2295,7 +2295,7 @@ graph
     label "4wneZDEB3VA"
     step 0
     date "2018-07-25T00:26:50Z"
-    title "Predictive Maintenance 1 smiley "
+    title "Predictive Maintenance 18)"
     description "Learn how to build advanced predictive maintenance solution. Learn what is predictive monitoring and new scenarios you can unlock for competitive advantage.&#10;&#10;MLAI223&#10;&#10;Event schedule &#8594; http://g.co/next18&#10;&#10;Watch more Machine Learning &#38; AI sessions here &#8594; http://bit.ly/2zGKfcg&#10;Next &#8216;18 All Sessions playlist &#8594; http://bit.ly/Allsessions&#10;&#10;Subscribe to the Google Cloud channel! &#8594; http://bit.ly/NextSub event: Google Cloud Next 2018; re_ty: Publish; product: Cloud - General; event: Google Cloud Next 2018;"
     channeltitle "Google Workspace"
     channelid "UCBmwzQnSoj9b6HzNmFrg_yw"
@@ -2305,7 +2305,7 @@ graph
     commentcount 17
     duration "PT46M39S"
     indegree 4
-    cluster 8
+    cluster 7
   ]
   node
   [
@@ -2313,7 +2313,7 @@ graph
     label "loLEqvaQ-Wc"
     step 0
     date "2021-05-05T13:14:17Z"
-    title "Math for Machine Learning by Imperial Coursera: REVIEW"
+    title "Math for Machine Learning by Imperial  Coursera: REVIEW"
     description "This is my review of the Mathematics for Machine Learning Review from Imperial College. It's available on Coursera.&#10;&#10;Here's the link: https://www.coursera.org/specializations/mathematics-machine-learning&#10;&#10;2 Data Science Learning Platforms I would recommend&#10;&#10;1. Data Quest - https://bit.ly/3yClqbZ (my favourite)&#10;3 365 Data Science - https://bit.ly/3hbUHdd&#10;&#10;I created 2 Python Courses, which you might like.&#10;&#10;1. Exploratory Data Analysis with Python and Pandas - https://bit.ly/2QXMpxJ&#10;2. Complete Python Programmer Bootcamp - http://bit.ly/2OwUA09&#10;&#10;(These contain affiliate links, which means I receive a percentage of any sales made. There is no additional cost for anybody clicking on them)&#10;&#10;&#10;&#10;https://www.instagram.com/gilesmcmullen/&#10;https://twitter.com/GilesMcMullen&#10;&#10;&#128076; SUBSCRIBE to ME!&#128076;&#10;https://www.youtube.com/channel/UC68KSmHePPePCjW4v57VPQg?sub_confirmation=1"
     channeltitle "Python Programmer"
     channelid "UC68KSmHePPePCjW4v57VPQg"
@@ -2323,7 +2323,7 @@ graph
     commentcount 124
     duration "PT9M29S"
     indegree 2
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -2341,7 +2341,7 @@ graph
     commentcount 75
     duration "PT20M42S"
     indegree 7
-    cluster 1
+    cluster 3
   ]
   node
   [
@@ -2359,7 +2359,7 @@ graph
     commentcount 36
     duration "PT10M9S"
     indegree 0
-    cluster 6
+    cluster 1
   ]
   node
   [
@@ -2377,7 +2377,7 @@ graph
     commentcount 58
     duration "PT38M44S"
     indegree 13
-    cluster 7
+    cluster 3
   ]
   node
   [
@@ -2395,7 +2395,7 @@ graph
     commentcount 67
     duration "PT9M24S"
     indegree 0
-    cluster 9
+    cluster 6
   ]
   node
   [
@@ -2413,7 +2413,7 @@ graph
     commentcount 39
     duration "PT8M43S"
     indegree 7
-    cluster 6
+    cluster 1
   ]
   node
   [
@@ -2431,7 +2431,7 @@ graph
     commentcount 135
     duration "PT6H2M26S"
     indegree 17
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -2449,7 +2449,7 @@ graph
     commentcount 13
     duration "PT5M35S"
     indegree 1
-    cluster 1
+    cluster 3
   ]
   node
   [
@@ -2467,7 +2467,7 @@ graph
     commentcount 4
     duration "PT4M27S"
     indegree 1
-    cluster 1
+    cluster 3
   ]
   node
   [
@@ -2485,7 +2485,7 @@ graph
     commentcount 537
     duration "PT2H47M55S"
     indegree 19
-    cluster 7
+    cluster 4
   ]
   node
   [
@@ -2503,7 +2503,7 @@ graph
     commentcount 139
     duration "PT19M21S"
     indegree 11
-    cluster 3
+    cluster 5
   ]
   node
   [
@@ -2521,7 +2521,7 @@ graph
     commentcount 43
     duration "PT4M5S"
     indegree 1
-    cluster 2
+    cluster 1
   ]
   node
   [
@@ -2539,7 +2539,7 @@ graph
     commentcount 126
     duration "PT10M7S"
     indegree 4
-    cluster 7
+    cluster 11
   ]
   node
   [
@@ -2557,7 +2557,7 @@ graph
     commentcount -1
     duration "PT7M26S"
     indegree 0
-    cluster 7
+    cluster 11
   ]
   node
   [
@@ -2611,7 +2611,7 @@ graph
     commentcount 1
     duration "PT3M17S"
     indegree 0
-    cluster 1
+    cluster 3
   ]
   node
   [
@@ -2629,7 +2629,7 @@ graph
     commentcount 47
     duration "PT32M28S"
     indegree 2
-    cluster 5
+    cluster 8
   ]
   node
   [
@@ -2647,7 +2647,7 @@ graph
     commentcount 56
     duration "PT43M11S"
     indegree 4
-    cluster 9
+    cluster 4
   ]
   node
   [
@@ -2665,7 +2665,7 @@ graph
     commentcount 3
     duration "PT1H11M26S"
     indegree 1
-    cluster 8
+    cluster 2
   ]
   node
   [
@@ -2691,7 +2691,7 @@ graph
     label "Z27llwBA0Uw"
     step 0
     date "2019-07-28T05:27:28Z"
-    title "Artificial Intelligence Vs Machine Learning Vs Deep Learning l AI vs ML vs DL l E tongue sticking out lained in Hindi"
+    title "Artificial Intelligence Vs Machine Learning Vs Deep Learning l AI vs ML vs DL l Explained in Hindi"
     description "Myself Shridhar Mankar a Engineer l YouTuber l Educational Blogger l Educator l Podcaster. &#13;&#10;My Aim- To Make Engineering Students Life EASY.&#13;&#10;&#13;&#10;Website   - https://5minutesengineering.com &#13;&#10;&#13;&#10;5 Minutes Engineering English YouTube Channel -  https://m.youtube.com/channel/UChTsiSbpTuSrdOHpXkKlq6Q&#13;&#10;&#13;&#10;Instagram -  https://www.instagram.com/5minutesengineering/?hl=en&#13;&#10;&#13;&#10;A small donation would mean the world to me and will help me to make AWESOME videos for you.&#13;&#10;&#8226; UPI ID : 5minutesengineering@apl&#13;&#10;&#13;&#10;Playlists :&#13;&#10;&#13;&#10;&#8226; 5 Minutes Engineering Podcast :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcCTAu8NRuCaD3aTEgHLeF0X&#13;&#10;&#13;&#10;&#8226; Aptitude :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcBpa1jwpCbEDespCRF3UPE5&#13;&#10;&#13;&#10;&#8226; Machine Learning :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcBhOEPwf5cFwqo5B-cP9G4P&#13;&#10;&#13;&#10;&#8226; Computer Graphics :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcAtxMe7ahYC4ZYjQHun_b-T&#13;&#10;&#13;&#10;&#8226; C Language Tutorial for Beginners :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcBqvw6QTRsA8gvZL3ao2ON-&#13;&#10;&#13;&#10;&#8226; R Tutorial for Beginners :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcCRFzBkZ-b92Hdg-qCUfx48&#13;&#10;&#13;&#10;&#8226; Python Tutorial for Beginners :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcCJu4i6UGMkMx1p3yYZJsbC&#13;&#10;&#13;&#10;&#8226; Embedded and Real Time Operating Systems (ERTOS) :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcBpuYagx0JiSaM-Bi4dm0hG&#13;&#10;&#13;&#10;&#8226; Shridhar Live Talks :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcD21x33RkmGvcZtrnWlTDdI&#13;&#10;&#13;&#10;&#8226; Welcome to 5 Minutes Engineering :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcCwG02L6fm0G5zmzpyw3eyc &#13;&#10;&#13;&#10;&#8226; Human Computer Interaction (HCI) :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcDz_8-pygbcNvNF0DEwKoIL&#13;&#10;&#13;&#10;&#8226; Computer Organization and Architecture :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcCaiXeUEjcTzHwIfJqH1qCN&#13;&#10;&#13;&#10;&#8226; Deep Learning :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcD-6P8cuX2bZAHSThF6AYvq&#13;&#10;&#13;&#10;&#8226; Genetic Algorithm :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcDHUTN26NXKfjg6wFJKDO9R&#13;&#10;&#13;&#10;&#8226; Cloud Computing :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcCyQH0n9GHfwviu6KeJ46BV&#13;&#10;&#13;&#10;&#8226; Information and Cyber Security :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcArHtWmbs_vXX6soTK3WEJw&#13;&#10;&#13;&#10;&#8226; Soft Computing and Optimization Algorithms :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcCPUl8mAnb4g1oExKd0n4Gw&#13;&#10;&#13;&#10;&#8226; Compiler Design :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcC6FupM--SachxUTOiQ7XHw&#13;&#10;&#13;&#10;&#8226; Operating System :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcD0LLrv7CXxSiO2gNJsoxpi&#13;&#10;&#13;&#10;&#8226; Hadoop :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcAhiP6C1qVorA7HZRejRE6M&#13;&#10;&#13;&#10;&#8226; CUDA :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcB73J5yO6uSFUycHJSA45O0&#13;&#10;&#13;&#10;&#8226; Discrete Mathematics :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcDKuvj-wIgDnHA5JTfUwrHv&#13;&#10;&#13;&#10;&#8226; Theory of Computation (TOC) :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcDXLUrW3JEq2cv8efNF6UeQ&#13;&#10;&#13;&#10;&#8226; Data Analytics :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcD_agAK_MpCDJdDXFuJqS9X&#13;&#10;&#13;&#10;&#8226; Software Modeling and Design :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcD1pjNSpEm2pje3zPrSiflZ&#13;&#10;&#13;&#10;&#8226; Internet Of Things (IOT) :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcB8fDd64B8SkJiPpEIzpCzC&#13;&#10;&#13;&#10;&#8226; Database Management Systems (DBMS) :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcBU4HS74xGTK1cAFbY0rdVY &#13;&#10;&#13;&#10;&#8226; Computer Network (CN) :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcAXkWn2IR-l_WXOrr0n851a&#13;&#10;&#13;&#10;&#8226; Software Engineering and Project Management :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcCB7zUM0YSDR-1mM4KoiyLM&#13;&#10;&#13;&#10;&#8226; Design and Analysis of Algorithm :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcBOrMihdkd48kgs6_YP8taa&#13;&#10;&#13;&#10;&#8226; Data Mining and Warehouse :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcChP0xiW3KK9elNuhfCLVVi&#13;&#10;&#13;&#10;&#8226; Mobile Communication :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcAjqrKO-b9UMa2AaAlzZY7D&#13;&#10;&#13;&#10;&#8226; High Performance Computing :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcA1eJbqwvjKgsnT321hXRGx&#13;&#10;&#13;&#10;&#8226; Artificial Intelligence and Robotics :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcBmfMtX5wRMAtqna7pY-YtG"
     channeltitle "5 Minutes Engineering"
     channelid "UCyHta2dyCTkf29AB67AYn7A"
@@ -2719,7 +2719,7 @@ graph
     commentcount 66
     duration "PT9H59M16S"
     indegree 5
-    cluster 7
+    cluster 4
   ]
   node
   [
@@ -2737,7 +2737,7 @@ graph
     commentcount 38
     duration "PT35M45S"
     indegree 8
-    cluster 3
+    cluster 5
   ]
   node
   [
@@ -2755,7 +2755,7 @@ graph
     commentcount 11
     duration "PT4M19S"
     indegree 0
-    cluster 7
+    cluster 11
   ]
   node
   [
@@ -2773,7 +2773,7 @@ graph
     commentcount 9
     duration "PT5M4S"
     indegree 2
-    cluster 7
+    cluster 11
   ]
   node
   [
@@ -2791,7 +2791,7 @@ graph
     commentcount 78
     duration "PT7M36S"
     indegree 4
-    cluster 7
+    cluster 11
   ]
   node
   [
@@ -2845,7 +2845,7 @@ graph
     commentcount 196
     duration "PT30M9S"
     indegree 3
-    cluster 5
+    cluster 8
   ]
   node
   [
@@ -2863,7 +2863,7 @@ graph
     commentcount 8
     duration "PT49M12S"
     indegree 0
-    cluster 8
+    cluster 7
   ]
   node
   [
@@ -2899,7 +2899,7 @@ graph
     commentcount 16
     duration "PT6M37S"
     indegree 4
-    cluster 8
+    cluster 7
   ]
   node
   [
@@ -2925,7 +2925,7 @@ graph
     label "O0Ka_nBRtN0"
     step 0
     date "2022-01-02T08:35:57Z"
-    title "Machine Learning Full Course 6 Hours | What is Machine Learning? Machine Learning Tutorial"
+    title "Machine Learning Full Course 6 Hours  | What is Machine Learning? Machine Learning Tutorial"
     description "In this Machine Learning tutorial for beginners from WsCube Tech, you will learn basics about machine learning with practical examples for better understanding.&#10;&#10;Machine Learning (ML) is included in day-to-day life and for staying updated. It will improve the working process of the computer algorithm.&#10;&#10;Machine learning is a computer algorithm that can improve by itself with the help of past experiences and user data. It is considered a part of artificial intelligence. It is used in email filtering, voice recognition, computer vision, and several other self-learned operations.&#10;&#10;Topics that are explained in detail in this machine learning full tutorial&#8212;&#10;&#10;- Opportunities, advantages, and classification&#10;- Top 10 ML applications&#10;- Machine learning life cycle&#10;- Installation of anaconda and python on windows&#10;- Datasets&#10;- Data preprocessing techniques&#10;- Features and labels in ML&#10;- Supervised and unsupervised machine learning&#10;- Training and testing data&#10;- Regression variables in machine learning&#10;- Decision tree and random forest&#10;- Naive Bayes classifier algorithm&#10;- Overfit and underfit in machine learning&#10;&#10;This machine learning full course will help you understand the algorithm and machine learning with python. &#10;&#10;Look at the timestamps down below for further assistance.&#10;&#10;Timestamps:&#10;00:00:00 - Machine Learning Kya Hai? | Opportunities, Advantage &#38; Classification of Machine Learning&#10;00:36:10 - Top 10 Applications of Machine Learning in Day-to-Day Life | Machine Learning Application Examples&#10;00:53:44 - Machine Learning Life-cycle Explained - Complete Information&#10;01:11:07 - Install Anaconda and Python on Windows (Latest Version) | Machine Learning&#10;01:24:28 - Artificial Intelligence vs Machine Learning vs Deep Learning | Machine Learning Tutorial&#10;01:39:32 - What is Dataset &#38; Types of Datasets? | Machine Learning - &#2360;&#2350;&#2381;&#2346;&#2370;&#2352;&#2381;&#2339; &#2332;&#2366;&#2344;&#2325;&#2366;&#2352;&#2368;&#10;01:57:10 - Data Preprocessing Kya Hai? | Techniques &#38; Steps of Data Preprocessing | Machine Learning&#10;02:31:32 - What are Features and Labels in Machine Learning? (with Example) | Machine Learning Tutorial&#10;02:38:04 - What is Supervised Machine Learning? Types, Advantages &#38; Disadvantages of Supervised Learning&#10;02:51:10 - What is Unsupervised Machine Learning? Association &#38; Clustering Algorithms in Machine Learning&#10;03:09:26 - Training &#38; Testing Data in Machine Learning | Complete Information&#10;03:19:20 - Linear Regression Single Variable | Machine Learning Tutorial&#10;03:37:13 - Linear Regression Multiple Variable | Machine Learning Tutorial&#10;03:57:49 - Machine Learning Polynomial Regression Explained | ML Tutorial for Beginners&#10;04:14:10 - Logistic Regression (Binary Classification) | Machine Learning Tutorial&#10;04:32:26 - Logistic Regression (Multiclass Classification) | Machine Learning Tutorial&#10;04:46:58 - Decision Tree Classification in Machine Learning | Decision Tree in ML&#10;05:10:12 - Random Forest Classification in Machine Learning | Random Forest Tutorial&#10;05:40:44 - Naive Bayes Classifier Algorithm in Machine Learning | Machine Learning Tutorial&#10;06:02:24 - Support Vector Machine Algorithm in Machine Learning | Machine Learning Tutorial&#10;06:22:08 - Confusion Matrix In Machine Learning | Machine Learning Tutorial&#10;06:32:37 - Overfit &#38; Underfit in Machine Learning | Machine Learning Tutorial for Beginners&#10;&#10;&#128142; Get Access to Premium Videos and Live Streams: https://www.youtube.com/channel/UC0T6MVd3wQDB5ICAe45OxaQ/join&#10;&#10;WsCube Tech is a leading Web, Mobile App &#38;  Digital Marketing company, and institute in India.&#10;&#10;We help businesses of all sizes to build their online presence, grow their business, and reach new heights. &#10;&#10;&#128073;For Digital Marketing services (Brand Building, SEO, SMO, PPC, SEM, Content Writing), Web Development and App Development solutions, visit our website: https://www.wscubetech.com/&#10;&#10;&#128073;Want to learn new skills and improve existing ones with in-depth and practical sessions? Enroll in our advanced online courses now and make yourself job-ready: https://courses.wscubetech.com/s/store&#10;&#10;All the courses are job-oriented, up-to-date with the latest algorithms and modules, fully practical, and provide you hands-on projects. &#10;&#10;&#128073; Want to learn and acquire skills in English? Visit WsCube Tech English channel: https://bit.ly/2M3oYOs&#10;&#10;&#128222; For more info about the courses, call us: +91-7878985501, +91-9269698122&#10;&#10;Connect with WsCube Tech on social media for the latest offers, promos, job vacancies, and much more:&#10;&#10;&#9658; Subscribe: http://bit.ly/wscubechannel&#10;&#9658; Facebook: https://www.facebook.com/wscubetech.india&#10;&#9658; Twitter: https://twitter.com/wscubetechindia&#10;&#9658; Instagram: https://www.instagram.com/wscubetechindia/&#10;&#9658; LinkedIn : https://www.linkedin.com/company/wscubetechindia/ &#10;&#9658; Youtube: https://www.youtube.com/c/wscubetechjodhpur &#10;&#9658; Website: http://wscubetech.com &#10;--------------------------------------| Thanks |---------------------------&#10;#MachineLearning #MachineLearningTutorial"
     channeltitle "WsCube Tech"
     channelid "UC0T6MVd3wQDB5ICAe45OxaQ"
@@ -2989,7 +2989,7 @@ graph
     commentcount 294
     duration "PT26M43S"
     indegree 10
-    cluster 3
+    cluster 5
   ]
   node
   [
@@ -3007,7 +3007,7 @@ graph
     commentcount 128
     duration "PT9M44S"
     indegree 7
-    cluster 6
+    cluster 1
   ]
   node
   [
@@ -3025,7 +3025,7 @@ graph
     commentcount 159
     duration "PT27M5S"
     indegree 16
-    cluster 3
+    cluster 5
   ]
   node
   [
@@ -3043,7 +3043,7 @@ graph
     commentcount 576
     duration "PT14M8S"
     indegree 7
-    cluster 3
+    cluster 5
   ]
   node
   [
@@ -3079,7 +3079,7 @@ graph
     commentcount 1
     duration "PT20M27S"
     indegree 1
-    cluster 6
+    cluster 1
   ]
   node
   [
@@ -3087,7 +3087,7 @@ graph
     label "zfiSAzpy9NM"
     step 0
     date "2020-10-14T12:30:09Z"
-    title "Simple e tongue sticking out lanation of convolutional neural network | Deep Learning Tutorial 23 (Tensorflow Python)"
+    title "Simple explanation of convolutional neural network | Deep Learning Tutorial 23 (Tensorflow  Python)"
     description "A very simple explanation of convolutional neural network or CNN or ConvNet such that even a high school student can understand it easily. This video involves very less math and is perfect for total beginner who doesn't have any idea on what CNN is and how it works. We will cover different topics such as,&#10;&#10;1. Why traditionally humans are better at image recognition than computers?&#10;2. Disadvantages of using traditional artificial neural network (ANN) for image classification.&#10;3. How human brain recognizes images?&#10;4. How computers can use filters for feature detection&#10;5. What is convolution operation and how it works&#10;6. Importance of ReLU activation in CNN&#10;7. Importance of pooling operation in CNN&#10;8. How to handle rotation and scale in CNN&#10;&#10;&#128278; Hashtags &#128278;&#10;#convolutionalneuralnetwork #cnndeeplearning #cnntutorial #cnnmachinelearning #cnnalgorithm #cnnpython #cnntensorflow &#10;&#10;Do you want to learn technology from me? Check https://codebasics.io/ for my affordable video courses.&#10;&#10;&#129309; Support my youtube channel by buying a data science, coding &#128085; T-shirt: https://kaaipo.com/collections/coding-collection/?utm_source=youtube&#38;utm_medium=post&#38;utm_campaign=codebasics-community&#10;&#10;Deep learning playlist: https://www.youtube.com/playlist?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO&#10;Machine learning playlist : https://www.youtube.com/playlist?list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw  &#10;&#10;Here are some good articles on CNN,&#10;&#10;Is CNN scale/rotation invariant? &#10;https://stats.stackexchange.com/questions/239076/about-cnn-kernels-and-scale-rotation-invariance#:~:text=22-,1)%20The%20features%20extracted%20using%20CNN%20are%20scale%20and%20rotation,details%2C%20see%3A%20Deep%20Learning.&#38;text=Convolution%20is%20not%20naturally%20equivariant,or%20rotation%20of%20an%20image.&#10;&#10;https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/&#10;PDF Paper on cnn: http://www.deeplearningbook.org/contents/convnets.html&#10;&#10;&#127758; My Website For Video Courses: https://codebasics.io/&#10;&#10;Need help building software or data analytics and AI solutions? My company https://www.atliq.com/ can help. Click on the Contact button on that website.&#10;&#10;Discord:  https://discord.gg/r42Kbuk&#10;Website: https://codebasics.io/&#10;Facebook: https://www.facebook.com/codebasicshub&#10;Twitter: https://twitter.com/codebasicshub&#10;Linkedin: https://www.linkedin.com/company/codebasics/&#10;&#10;DISCLAIMER: All opinions expressed in this video are of my own and not that of my employers'."
     channeltitle "codebasics"
     channelid "UCh9nVJoWXmFb7sLApWGcLPQ"
@@ -3097,7 +3097,7 @@ graph
     commentcount 540
     duration "PT23M54S"
     indegree 21
-    cluster 5
+    cluster 2
   ]
   node
   [
@@ -3115,7 +3115,7 @@ graph
     commentcount 57
     duration "PT15M29S"
     indegree 1
-    cluster 3
+    cluster 5
   ]
   node
   [
@@ -3141,7 +3141,7 @@ graph
     label "gVz9jKE_9iU"
     step 0
     date "2018-05-10T22:01:03Z"
-    title "Intro to machine learning on Google Cloud Platform (Google I/O 1 smiley "
+    title "Intro to machine learning on Google Cloud Platform (Google I/O 18)"
     description "There are revolutionary changes happening in hardware and software that are democratizing machine learning (ML). Whether you're new to ML or already an expert, Google Cloud Platform has a variety of tools for users. This session will start with the basics: using a pre-trained ML model with a single API call. It'll then look at building and training custom models with TensorFlow and Cloud ML Engine, and will end with a demo of AutoML Vision - a new tool for training a custom image classification model without writing model code.&#10;&#10;Qwiklabs &#8594; https://goo.gle/2YhJz5f&#10;&#10;Rate this session by signing-in on the I/O website here &#8594; https://goo.gl/4n5aYA&#10;&#10;Watch more GCP sessions from I/O '18 here &#8594; https://goo.gl/qw2mR1&#10;See all the sessions from Google I/O '18 here &#8594; https://goo.gl/q1Tr8x&#10;&#10;Subscribe to the Google Cloud Platform channel &#8594; https://goo.gl/S0AS51&#10;&#10;#io18 event: Google I/O 2018; re_ty: Publish; product: Cloud - General; fullname: Sara Robinson; event: Google I/O 2018;"
     channeltitle "Google Cloud Tech"
     channelid "UCJS9pqu9BzkAMNTmzNMNhvg"
@@ -3151,7 +3151,7 @@ graph
     commentcount 32
     duration "PT39M19S"
     indegree 1
-    cluster 7
+    cluster 11
   ]
   node
   [
@@ -3169,7 +3169,7 @@ graph
     commentcount 23
     duration "PT41M18S"
     indegree 0
-    cluster 8
+    cluster 7
   ]
   node
   [
@@ -3187,7 +3187,7 @@ graph
     commentcount 315
     duration "PT27M2S"
     indegree 1
-    cluster 8
+    cluster 6
   ]
   node
   [
@@ -3205,7 +3205,7 @@ graph
     commentcount 350
     duration "PT3M4S"
     indegree 1
-    cluster 8
+    cluster 7
   ]
   node
   [
@@ -3213,7 +3213,7 @@ graph
     label "1vsmaEfbnoE"
     step 0
     date "2021-06-07T16:56:35Z"
-    title "Detailed Roadmap for Machine Learning | Free Study Resources | Simply E tongue sticking out lained"
+    title "Detailed Roadmap for Machine Learning | Free Study Resources | Simply Explained"
     description "Telegram: https://t.me/apnikakshaofficial&#10;Instagram: https://www.instagram.com/dhattarwalaman/&#10;&#128293;Resources of this Lecture : &#10;https://docs.google.com/document/d/1AOXV76qKbJe9xHNqF9o00Kuj-1CKbnJ6LHCgIYIaKsQ/edit?usp=sharing"
     channeltitle "Apna College"
     channelid "UCBwmMxybNva6P_5VmxjzwqA"
@@ -3223,7 +3223,7 @@ graph
     commentcount 913
     duration "PT14M59S"
     indegree 48
-    cluster 6
+    cluster 1
   ]
   node
   [
@@ -3267,7 +3267,7 @@ graph
     label "xLkk6MUrvrw"
     step 0
     date "2019-04-25T07:22:50Z"
-    title "Support Vector Machine (SVM) Part-1 ll Machine Learning Course E tongue sticking out lained in Hindi"
+    title "Support Vector Machine (SVM) Part-1 ll Machine Learning Course Explained in Hindi"
     description "Myself Shridhar Mankar a Engineer l YouTuber l Educational Blogger l Educator l Podcaster. &#13;&#10;My Aim- To Make Engineering Students Life EASY.&#13;&#10;&#13;&#10;Website   - https://5minutesengineering.com &#13;&#10;&#13;&#10;5 Minutes Engineering English YouTube Channel -  https://m.youtube.com/channel/UChTsiSbpTuSrdOHpXkKlq6Q&#13;&#10;&#13;&#10;Instagram -  https://www.instagram.com/5minutesengineering/?hl=en&#13;&#10;&#13;&#10;A small donation would mean the world to me and will help me to make AWESOME videos for you.&#13;&#10;&#8226; UPI ID : 5minutesengineering@apl&#13;&#10;&#13;&#10;Playlists :&#13;&#10;&#13;&#10;&#8226; 5 Minutes Engineering Podcast :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcCTAu8NRuCaD3aTEgHLeF0X&#13;&#10;&#13;&#10;&#8226; Aptitude :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcBpa1jwpCbEDespCRF3UPE5&#13;&#10;&#13;&#10;&#8226; Machine Learning :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcBhOEPwf5cFwqo5B-cP9G4P&#13;&#10;&#13;&#10;&#8226; Computer Graphics :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcAtxMe7ahYC4ZYjQHun_b-T&#13;&#10;&#13;&#10;&#8226; C Language Tutorial for Beginners :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcBqvw6QTRsA8gvZL3ao2ON-&#13;&#10;&#13;&#10;&#8226; R Tutorial for Beginners :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcCRFzBkZ-b92Hdg-qCUfx48&#13;&#10;&#13;&#10;&#8226; Python Tutorial for Beginners :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcCJu4i6UGMkMx1p3yYZJsbC&#13;&#10;&#13;&#10;&#8226; Embedded and Real Time Operating Systems (ERTOS) :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcBpuYagx0JiSaM-Bi4dm0hG&#13;&#10;&#13;&#10;&#8226; Shridhar Live Talks :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcD21x33RkmGvcZtrnWlTDdI&#13;&#10;&#13;&#10;&#8226; Welcome to 5 Minutes Engineering :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcCwG02L6fm0G5zmzpyw3eyc &#13;&#10;&#13;&#10;&#8226; Human Computer Interaction (HCI) :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcDz_8-pygbcNvNF0DEwKoIL&#13;&#10;&#13;&#10;&#8226; Computer Organization and Architecture :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcCaiXeUEjcTzHwIfJqH1qCN&#13;&#10;&#13;&#10;&#8226; Deep Learning :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcD-6P8cuX2bZAHSThF6AYvq&#13;&#10;&#13;&#10;&#8226; Genetic Algorithm :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcDHUTN26NXKfjg6wFJKDO9R&#13;&#10;&#13;&#10;&#8226; Cloud Computing :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcCyQH0n9GHfwviu6KeJ46BV&#13;&#10;&#13;&#10;&#8226; Information and Cyber Security :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcArHtWmbs_vXX6soTK3WEJw&#13;&#10;&#13;&#10;&#8226; Soft Computing and Optimization Algorithms :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcCPUl8mAnb4g1oExKd0n4Gw&#13;&#10;&#13;&#10;&#8226; Compiler Design :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcC6FupM--SachxUTOiQ7XHw&#13;&#10;&#13;&#10;&#8226; Operating System :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcD0LLrv7CXxSiO2gNJsoxpi&#13;&#10;&#13;&#10;&#8226; Hadoop :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcAhiP6C1qVorA7HZRejRE6M&#13;&#10;&#13;&#10;&#8226; CUDA :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcB73J5yO6uSFUycHJSA45O0&#13;&#10;&#13;&#10;&#8226; Discrete Mathematics :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcDKuvj-wIgDnHA5JTfUwrHv&#13;&#10;&#13;&#10;&#8226; Theory of Computation (TOC) :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcDXLUrW3JEq2cv8efNF6UeQ&#13;&#10;&#13;&#10;&#8226; Data Analytics :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcD_agAK_MpCDJdDXFuJqS9X&#13;&#10;&#13;&#10;&#8226; Software Modeling and Design :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcD1pjNSpEm2pje3zPrSiflZ&#13;&#10;&#13;&#10;&#8226; Internet Of Things (IOT) :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcB8fDd64B8SkJiPpEIzpCzC&#13;&#10;&#13;&#10;&#8226; Database Management Systems (DBMS) :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcBU4HS74xGTK1cAFbY0rdVY &#13;&#10;&#13;&#10;&#8226; Computer Network (CN) :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcAXkWn2IR-l_WXOrr0n851a&#13;&#10;&#13;&#10;&#8226; Software Engineering and Project Management :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcCB7zUM0YSDR-1mM4KoiyLM&#13;&#10;&#13;&#10;&#8226; Design and Analysis of Algorithm :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcBOrMihdkd48kgs6_YP8taa&#13;&#10;&#13;&#10;&#8226; Data Mining and Warehouse :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcChP0xiW3KK9elNuhfCLVVi&#13;&#10;&#13;&#10;&#8226; Mobile Communication :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcAjqrKO-b9UMa2AaAlzZY7D&#13;&#10;&#13;&#10;&#8226; High Performance Computing :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcA1eJbqwvjKgsnT321hXRGx&#13;&#10;&#13;&#10;&#8226; Artificial Intelligence and Robotics :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcBmfMtX5wRMAtqna7pY-YtG"
     channeltitle "5 Minutes Engineering"
     channelid "UCyHta2dyCTkf29AB67AYn7A"
@@ -3277,7 +3277,7 @@ graph
     commentcount 168
     duration "PT7M48S"
     indegree 10
-    cluster 3
+    cluster 5
   ]
   node
   [
@@ -3303,7 +3303,7 @@ graph
     label "wr9gUr-eWdA"
     step 0
     date "2020-04-17T20:10:41Z"
-    title "Lecture 10 - Decision Trees and Ensemble Methods | Stanford CS229: Machine Learning (Autumn 201 smiley "
+    title "Lecture 10 - Decision Trees and Ensemble Methods | Stanford CS229: Machine Learning (Autumn 2018)"
     description "For more information about Stanford&#8217;s Artificial Intelligence professional and graduate programs, visit: https://stanford.io/3GdlrqJ&#10;&#10;Raphael Townshend&#10;PhD Candidate and CS229 Head TA&#10; &#10;To follow along with the course schedule and syllabus, visit: &#10;http://cs229.stanford.edu/syllabus-autumn2018.html"
     channeltitle "Stanford Online"
     channelid "UCBa5G_ESCn8Yd4vw5U-gIcg"
@@ -3313,7 +3313,7 @@ graph
     commentcount 6
     duration "PT1H20M41S"
     indegree 3
-    cluster 3
+    cluster 5
   ]
   node
   [
@@ -3321,7 +3321,7 @@ graph
     label "WFr2WgN9_xE"
     step 0
     date "2019-11-23T19:17:47Z"
-    title "Python Machine Learning AI"
+    title "Python Machine Learning  AI"
     description "Ready to explore machine learning and artificial intelligence in python? This python machine learning and AI mega course contains 4 different series designed to teach you the ins and outs of ML and AI. It talks about fundamental ML algorithms, neural networks, creating AI chat bots and finally developing an AI that can play the game of Flappy Bird.&#10;&#10;&#11088;&#65039; Thanks to Kite for sponsoring this video! Download the best AI automcolplete for python programming for free: https://kite.com/download/?utm_medium=referral&#38;utm_source=youtube&#38;utm_campaign=techwithtim&#38;utm_content=python-ml-ai-mega-course&#10;&#10;&#11088; RESOURCES &#11088;&#10;    IMPORTANT: The text-based guides will have download links for files or datasets needed.&#10;&#10;1&#8419;  Machine Learning for Beginners&#10;    &#128187; Text-Based Guide: https://techwithtim.net/tutorials/machine-learning-python/introduction/&#10;    &#128190; UCI Student Data Set: https://archive.ics.uci.edu/ml/datasets/Student+Performance&#10;    &#128190; UCI Car Evaluation Data Set: http://techwithtim.net/wp-content/uploads/2019/01/Car-Data-Set.zip&#10;&#10;2&#8419;  Neural Networks &#10;    &#128187; Text-Based Guide: https://techwithtim.net/tutorials/python-neural-networks/what-is-a-nn/&#10;&#10;3&#8419;  Simple AI Chat Bot &#10;    &#128187; Text-Based Guide: https://techwithtim.net/tutorials/ai-chatbot/&#10;    &#128190; JSON-File Download: https://techwithtim.net/wp-content/uploads/2019/05/json-file.zip&#10;&#10;4&#8419;  Flappy Bird AI&#10;    &#128187; GitHub/Code: https://github.com/techwithtim/NEAT-Flappy-Bird&#10;    &#128190;  Images: https://techwithtim.net/wp-content/uploads/2019/08/imgs.zip&#10;&#10;&#11088; SOFTWARE DOWNLOADS &#11088;&#10;&#128279; Anaconda Download: https://www.anaconda.com/download/&#10;&#128279; Pycharm Download: https://www.jetbrains.com/pycharm/download/#section=windows&#10;&#10;&#11088; TIMESTAMPS &#11088;&#10;&#127909; Course 1: Machine Learning for Beginners &#127909;&#10;&#9000;&#65039; (0:00) Course Introduction&#10;&#9000;&#65039; (00:02:30) Introduction to Machine Learning &#38; Environment Setup&#10;&#9000;&#65039; (00:12:24) Linear Regression Part 1 &#8211; Data Loading and Analysis&#10;&#9000;&#65039; (00:26:28) Linear Regression Part 2 &#8211; Implementation and Algorithm Explanation&#10;&#9000;&#65039; (00:42:50) Saving Models and Visualizing Data&#10;&#9000;&#65039;(00:56:05) K-Nearest Neighbors Part 1 &#8211; Irregular Data&#10;&#9000;&#65039; (01:08:16) K-Nearest Neighbors Part 2 &#8211; Algorithm Explanation &#10;&#9000;&#65039; (01:21:33) K-Nearest Neighbors Part 3 &#8211; Implementation&#10;&#9000;&#65039; (01:31:54) Support Vector Machines Part 1 - SkLearn Datasets and Analysis&#10;&#9000;&#65039; (01:38:34) Support Vector Machines Part 2 &#8211; Algorithm Explanation&#10;&#9000;&#65039; (01:52:21) Support Vector Machines Part 3 &#8211; Implementation&#10;&#9000;&#65039;(02:01:57) K-Means Clustering &#8211; Algorithm Explanation &#10;&#9000;&#65039; (02:15:11) K-Means Clustering - Implementation&#10;&#10;&#127909; Course 2: Neural Networks &#127909;&#10;&#9000;&#65039; (02:27:07) Introduction to Neural Networks&#10;&#9000;&#65039; (02:53:47) Loading &#38; Looking at Data&#10;&#9000;&#65039; (03:06:50) Creating a Model&#10;&#9000;&#65039; (03:24:05) Using and Testing Our Model&#10;&#9000;&#65039; (03:33:56) Text Classification Part 1 &#8211; Data Analysis and Model Architecture&#10;&#9000;&#65039; (03:55:23) Text Classification Part 2 &#8211; Embedding Layers&#10;&#9000;&#65039; (04:09:43) Text Classification Part 3 &#8211; Training the Model&#10;&#9000;&#65039; (04:19:49) Text Classification Part 4 &#8211; Saving and Loading Models&#10;&#10;&#127909; Course 3: AI Chat Bot &#127909;&#10;&#9000;&#65039; (04:34:35) Part 1&#10;&#9000;&#65039; (04:50:28) Part 2&#10;&#9000;&#65039; (05:02:39) Part 3&#10;&#9000;&#65039; (05:14:32) Part 4&#10;&#9000;&#65039; (05:30:34) Part 5&#10;&#10;&#127909; Course 4: Neuroevolutionary Algorithm Plays Flappy Bird &#127909;&#10;&#9000;&#65039; (05:39:16) Creating the Bird&#10;&#9000;&#65039; (05:51:36) Moving the Bird&#10;&#9000;&#65039; (06:10:04) Pixel Perfect Collision&#10;&#9000;&#65039; (06:29:22) Finishing the Graphics&#10;&#9000;&#65039; (06:41:16) NEAT Introduction and Configuration File&#10;&#9000;&#65039; (07:01:36) Implementing NEAT and Fitness Functions&#10;&#9000;&#65039; (07:16:32) Testing and Saving Models&#10;&#10;&#9726;&#9726;&#9726;&#9726;&#9726;&#10;&#128187; Enroll in The Fundamentals of Programming w/ Python &#10;https://tech-with-tim.teachable.com/p...&#10;&#10;&#128248; Instagram: https://www.instagram.com/tech_with_tim&#10;&#127758; Website https://techwithtim.net&#10;&#128241; Twitter: https://twitter.com/TechWithTimm&#10;&#11088; Discord: https://discord.gg/pr2k55t&#10;&#128221; LinkedIn: https://www.linkedin.com/in/tim-rusci...&#10;&#128194; GitHub: https://github.com/techwithtim&#10;&#128266; Podcast: https://anchor.fm/tech-with-tim&#10;&#10;&#128181; One-Time Donations: https://www.paypal.com/donate/?token=...&#10;&#128176; Patreon: https://www.patreon.com/techwithtim&#10;&#9726;&#9726;&#9726;&#9726;&#9726;&#9726;&#10;&#10;&#9889; Please leave a LIKE and SUBSCRIBE for more content! &#9889;&#10;&#10;&#10;Tags:&#10;- Tech With Tim&#10;- Python Tutorials&#10;- Machine Learning Course&#10;- AI Course Python&#10;- Python Machine Learning&#10;- Python Machine Learning Course&#10;- Machine Learning Python&#10;&#10;#Python #MachineLearning #AI"
     channeltitle "Tech With Tim"
     channelid "UC4JX40jDee_tINbkjycV4Sg"
@@ -3331,7 +3331,7 @@ graph
     commentcount 575
     duration "PT7H34M13S"
     indegree 5
-    cluster 9
+    cluster 4
   ]
   node
   [
@@ -3349,7 +3349,7 @@ graph
     commentcount 787
     duration "PT14M46S"
     indegree 16
-    cluster 3
+    cluster 5
   ]
   node
   [
@@ -3367,7 +3367,7 @@ graph
     commentcount 173
     duration "PT38M16S"
     indegree 9
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -3375,7 +3375,7 @@ graph
     label "Zifla4xl48Y"
     step 0
     date "2021-06-15T14:27:16Z"
-    title "How to Become a Machine Learning Engineer? Quick Support"
+    title "How to Become a Machine Learning Engineer?  Quick Support"
     description "#HowtoBecomeaMachineLearingEngineer? #Education #Career&#10;&#10;How to Become a Machine Learning Engineer? &#8211; [Hindi] &#8211; Quick Support. &#2310;&#2352;&#2381;&#2335;&#2367;&#2347;&#2367;&#2358;&#2367;&#2351;&#2354; &#2311;&#2306;&#2335;&#2375;&#2354;&#2367;&#2332;&#2375;&#2306;&#2360; &#2325;&#2375; &#2311;&#2360; &#2347;&#2368;&#2354;&#2381;&#2337; &#2350;&#2375;&#2306; &#2350;&#2367;&#2354;&#2344;&#2375; &#2357;&#2366;&#2354;&#2375; &#2332;&#2377;&#2348; &#2321;&#2346;&#2381;&#2358;&#2306;&#2360; &#2324;&#2352; &#2325;&#2352;&#2367;&#2351;&#2352; &#2321;&#2346;&#2379;&#2352;&#2381;&#2330;&#2369;&#2344;&#2367;&#2335;&#2368;&#2332;..&#2347;&#2381;&#2351;&#2370;&#2330;&#2352; &#2350;&#2375;&#2306; &#2325;&#2366;&#2347;&#2368; &#2340;&#2375;&#2332;&#2368; &#2360;&#2375; &#2348;&#2397;&#2344;&#2375; &#2357;&#2366;&#2354;&#2375; &#2361;&#2376;&#2306;&#2404; &#2320;&#2360;&#2375; &#2350;&#2375;&#2306; &#2309;&#2327;&#2352; &#2310;&#2346; &#2350;&#2358;&#2368;&#2344; &#2354;&#2352;&#2381;&#2344;&#2352; &#2311;&#2306;&#2332;&#2368;&#2344;&#2367;&#2351;&#2352; &#2348;&#2344;&#2344;&#2375; &#2325;&#2366; &#2311;&#2352;&#2366;&#2342;&#2366; &#2352;&#2326;&#2375;&#2306; &#2340;&#2379; &#2351;&#2375; &#2319;&#2325; &#2358;&#2366;&#2344;&#2342;&#2366;&#2352; &#2325;&#2352;&#2367;&#2351;&#2352; &#2321;&#2346;&#2381;&#2358;&#2344; &#2348;&#2344; &#2360;&#2325;&#2340;&#2366; &#2361;&#2376; &#2311;&#2360;&#2354;&#2367;&#2319; &#2310;&#2332; &#2325;&#2375; &#2357;&#2368;&#2337;&#2367;&#2351;&#2379; &#2350;&#2375;&#2306; &#2332;&#2366;&#2344;&#2340;&#2375; &#2361;&#2376;&#2306; &#2325;&#2367; &#2350;&#2358;&#2368;&#2344; &#2354;&#2352;&#2381;&#2344;&#2352; &#2311;&#2306;&#2332;&#2368;&#2344;&#2367;&#2351;&#2352; &#2348;&#2344;&#2344;&#2375; &#2325;&#2375; &#2354;&#2367;&#2319; &#2310;&#2346;&#2325;&#2379; &#2325;&#2381;&#2351;&#2366; &#2325;&#2352;&#2344;&#2366; &#2361;&#2379;&#2327;&#2366;&#2404; &#10;&#10;Website: https://qsofficial.com&#10;&#10;Facebook: https://www.facebook.com/QuickSupportChannel&#10;&#10;Twitter:  https://twitter.com/QS_Channel&#10;&#10;Instagram: https://www.instagram.com/quick_support007&#10;&#10;Youtube: https://www.youtube.com/c/QuickSupport&#10;&#10;Linkedin: https://www.linkedin.com/in/Anil-Nakrani&#10;&#10;Channel Owner: Anil Nakrani"
     channeltitle "Quick Support"
     channelid "UCN3-BVMnr44LIUheSuppw1A"
@@ -3385,7 +3385,7 @@ graph
     commentcount 277
     duration "PT7M19S"
     indegree 2
-    cluster 2
+    cluster 1
   ]
   node
   [
@@ -3421,7 +3421,7 @@ graph
     commentcount 1333
     duration "PT6M53S"
     indegree 24
-    cluster 9
+    cluster 6
   ]
   node
   [
@@ -3457,7 +3457,7 @@ graph
     commentcount 30
     duration "PT39M4S"
     indegree 4
-    cluster 9
+    cluster 3
   ]
   node
   [
@@ -3475,7 +3475,7 @@ graph
     commentcount 4
     duration "PT1M40S"
     indegree 0
-    cluster 8
+    cluster 7
   ]
   node
   [
@@ -3493,7 +3493,7 @@ graph
     commentcount -1
     duration "PT17M13S"
     indegree 1
-    cluster 7
+    cluster 11
   ]
   node
   [
@@ -3529,7 +3529,7 @@ graph
     commentcount 47
     duration "PT10M50S"
     indegree 6
-    cluster 3
+    cluster 5
   ]
   node
   [
@@ -3537,7 +3537,7 @@ graph
     label "uMxQI2tJtKQ"
     step 0
     date "2019-01-03T05:41:44Z"
-    title "Machine Learning Engineer Jobs, Resume Salary | Machine Learning Engineer Salary Report | Edureka"
+    title "Machine Learning Engineer Jobs, Resume  Salary | Machine Learning Engineer Salary Report | Edureka"
     description "( Machine Learning Engineer Masters Program: https://www.edureka.co/masters-program/machine-learning-engineer-training )&#10;This video will provide you with detailed knowledge of who is a Machine Learning Engineer, what are the salary trends, the job trends and the correct format of an ML engineer's resume. This video will also provide you with the job descriptions, roles and the skills required to become one successful ML Engineer.&#10;&#10;--------------------------&#10;&#10;Do subscribe to our channel and hit the bell icon to never miss an update from us in the future:https://goo.gl/6ohpTV&#10;&#10;Check out the entire Machine Learning Playlist: https://bit.ly/2NG9tK4&#10;&#10;PG in Artificial Intelligence and Machine Learning with NIT Warangal : https://www.edureka.co/post-graduate/machine-learning-and-ai&#10;&#10;Post Graduate Certification in Data Science with IIT Guwahati - https://www.edureka.co/post-graduate/data-science-program &#10;(450+ Hrs || 9 Months || 20+ Projects &#38; 100+ Case studies)&#10; &#10;#MachineLearningEngineer #MachineLearningEngineerSalary&#10;&#10;Instagram: https://www.instagram.com/edureka_learning&#10;Facebook: https://www.facebook.com/edurekaIN/ &#10;Twitter: https://twitter.com/edurekain&#10;LinkedIn: https://www.linkedin.com/company/edureka &#10;&#10;-------------------------------------   &#10; &#10;About the Masters Program&#10;&#10;Edureka&#8217;s Machine Learning Engineer Masters Program makes you proficient in techniques like Supervised Learning, Unsupervised Learning and Natural Language Processing. It includes training on the latest advancements and technical approaches in Artificial Intelligence &#38; Machine Learning such as Deep Learning, Graphical Models and Reinforcement Learning.&#10;&#10;The Master's Program Covers Topics LIke:&#10;Python Programming&#10;PySpark&#10;HDFS&#10;Spark SQL&#10;Machine Learning Techniques and Artificial Intelligence Types&#10;Tokenization&#10;Named Entity Recognition&#10;Lemmatization&#10;Supervised Algorithms&#10;Unsupervised Algorithms&#10;Tensor Flow&#10;Deep learning&#10;Keras&#10;Neural Networks&#10;Bayesian and Markov&#8217;s Models&#10;Inference&#10;Decision Making&#10;Bandit Algorithms&#10;Bellman Equation&#10;Policy Gradient Methods.&#10;&#10;----------------------&#10;&#10;Prerequisites&#10;&#10;There are no prerequisites for enrolment to the Masters Program. However, as a goodwill gesture, Edureka offers a complimentary self-paced course in your LMS on SQL Essentials to brush up on your SQL Skills. This program is designed and developed for an aspirant planning to build a career in Machine Learning or an experienced professional working in the IT industry.&#10;&#10;--------------------------------------&#10;&#10;Please write back to us at sales@edureka.co or call us at IND: 9606058406 / US: 18338555775 (toll-free) for more information"
     channeltitle "edureka!"
     channelid "UCkw4JCwteGrDHIsyIIKo4tQ"
@@ -3547,7 +3547,7 @@ graph
     commentcount 24
     duration "PT17M40S"
     indegree 0
-    cluster 6
+    cluster 1
   ]
   node
   [
@@ -3565,7 +3565,7 @@ graph
     commentcount 11
     duration "PT30M52S"
     indegree 2
-    cluster 9
+    cluster 3
   ]
   node
   [
@@ -3583,7 +3583,7 @@ graph
     commentcount 1051
     duration "PT15M14S"
     indegree 18
-    cluster 3
+    cluster 5
   ]
   node
   [
@@ -3601,7 +3601,7 @@ graph
     commentcount 83
     duration "PT5M21S"
     indegree 1
-    cluster 8
+    cluster 3
   ]
   node
   [
@@ -3609,7 +3609,7 @@ graph
     label "wTbrk0suwbg"
     step 0
     date "2019-03-26T14:30:02Z"
-    title "Artificial Intelligence the Future - Rise of AI (Elon Musk, Bill Gates, Sundar Pichai)|Simplilearn"
+    title "Artificial Intelligence  the Future - Rise of AI (Elon Musk, Bill Gates, Sundar Pichai)|Simplilearn"
     description "&#128293; Enroll for FREE Artificial Intelligence Course &#38; Get your Completion Certificate: https://www.simplilearn.com/learn-ai-basics-skillup?utm_campaign=AI&#38;utm_medium=Description&#38;utm_source=youtube&#10;Artificial Intelligence (AI) is currently the hottest buzzword in tech. Here is a video on the role of Artificial Intelligence and its scope in the future. We have put together the best clips on Artificial Intelligence by the most well-known leaders and influencers such as Bill Gates, Tim Cook, Warren Buffett, Barack Obama, Elon Musk, Sundar Pichai, and Jeff Bezos. The last few years have seen a number of techniques that have previously been in the realm of science fiction slowly transform into reality. We have brought to you the business leaders of today speaking about artificial intelligence, what is fascinating about AI, the latest AI projects, and what's in store for the future of AI. We will also answer the question of whether AI will someday overpower us humans. &#10;&#10;According to the report How AI Boosts Industry Profits and Innovations, AI is predicted to increase economic growth by an average of 1.7 percent across 16 industries by 2035. The report goes on to say that, by 2035, AI technologies could increase labor productivity by 40 percent or more, thereby doubling economic growth in 12 developed nations that continue to draw talented and experienced professionals to work in this domain. Let us see what our business leaders have to say about this.&#10;&#10;To learn more about Artificial Intelligence, subscribe to our YouTube channel: youtube.com/c/SimplilearnOfficial&#10;&#10;Download the Artificial Intelligence Career Guide and take a sneak peek into the world that awaits you: https://www.simplilearn.com/artificial-intelligence-career-guide-pdf?utm_campaign=Artificial-Intelligence-and-the-Future-wTbrk0suwbg&#38;utm_medium=Tutorials&#38;utm_source=youtube&#10;&#10;#ArtificialIntelligence #AI #MachineLearning #SimplilearnAI #SimplilearnTraining #DeepLearning #Simplilearn&#10;&#10;Simplilearn&#8217;s Artificial Intelligence course provides training in the skills required for a career in AI. You will master TensorFlow, Machine Learning and other AI concepts, plus the programming languages needed to design intelligent agents, deep learning algorithms &#38; advanced artificial neural networks that use predictive analytics to solve real-time decision-making problems without explicit programming.&#10;&#10;Why learn Artificial Intelligence? &#10;The current and future demand for AI engineers is staggering. The New York Times reports a candidate shortage for certified AI Engineers, with fewer than 10,000 qualified people in the world to fill these jobs, which according to Paysa earn an average salary of $172,000 per year in the U.S. (or Rs.17 lakhs to Rs. 25 lakhs in India) for engineers with the required skills.&#10;&#10;You can gain in-depth knowledge of Artificial Intelligence by taking our Artificial Intelligence certification training course. Those who complete the course will be able to: &#10;1. Master the concepts of supervised and unsupervised learning&#10;2. Gain practical mastery over principles, algorithms, and applications of machine learning through a hands-on approach which includes working on 28 projects and one capstone project.&#10;3. Acquire thorough knowledge of the mathematical and heuristic aspects of machine learning.&#10;4. Understand the concepts and operation of support vector machines, kernel SVM, naive bayes, decision tree classifier, random forest classifier, logistic regression, K-nearest neighbors, K-means clustering and more.&#10;5. Comprehend the theoretical concepts and how they relate to the practical aspects of machine learning.&#10;6. Be able to model a wide variety of robust machine learning algorithms including deep learning, clustering, and recommendation systems&#10;&#10;Learn more at: https://www.simplilearn.com/artificial-intelligence-masters-program-training-course?utm_campaign=Artificial-Intelligence-and-the-Future-wTbrk0suwbg&#38;utm_medium=Tutorials&#38;utm_source=youtube&#10;&#10;Video Credits:&#10;CNBC ( https://www.youtube.com/watch?v=HG2uDgQufho https://www.youtube.com/watch?v=nvMfFgIXV6w )&#10;WIRED ( https://www.youtube.com/watch?v=72bHop6AIcc )&#10;SXSW ( https://www.youtube.com/watch?v=kzlUyrccbos )&#10;World Economic Forum ( https://www.youtube.com/watch?v=ApvbIIElwi8 )&#10;TheBushCenter ( https://www.youtube.com/watch?v=V7TB7SHenk8 )&#10;&#10;For more updates on courses and tips follow us on:&#10;- Facebook: https://www.facebook.com/Simplilearn &#10;- Twitter: https://twitter.com/simplilearn &#10;- LinkedIn: https://www.linkedin.com/company/simplilearn/&#10;- Website: https://www.simplilearn.com"
     channeltitle "Simplilearn"
     channelid "UCsvqVGtbbyHaMoevxPAq9Fg"
@@ -3637,7 +3637,7 @@ graph
     commentcount 9
     duration "PT13M53S"
     indegree 0
-    cluster 6
+    cluster 1
   ]
   node
   [
@@ -3655,7 +3655,7 @@ graph
     commentcount 267
     duration "PT3M23S"
     indegree 4
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -3673,7 +3673,7 @@ graph
     commentcount 20
     duration "PT1H10M19S"
     indegree 1
-    cluster 5
+    cluster 8
   ]
   node
   [
@@ -3681,7 +3681,7 @@ graph
     label "83x5X66uWK0"
     step 0
     date "2019-03-07T06:25:33Z"
-    title "Basics Of Principal Component Analysis E tongue sticking out lained in Hindi ll Machine Learning Course"
+    title "Basics Of Principal Component Analysis Explained in Hindi ll Machine Learning Course"
     description "Myself Shridhar Mankar a Engineer l YouTuber l Educational Blogger l Educator l Podcaster. &#13;&#10;My Aim- To Make Engineering Students Life EASY.&#13;&#10;&#13;&#10;Website   - https://5minutesengineering.com &#13;&#10;&#13;&#10;5 Minutes Engineering English YouTube Channel -  https://m.youtube.com/channel/UChTsiSbpTuSrdOHpXkKlq6Q&#13;&#10;&#13;&#10;Instagram -  https://www.instagram.com/5minutesengineering/?hl=en&#13;&#10;&#13;&#10;A small donation would mean the world to me and will help me to make AWESOME videos for you.&#13;&#10;&#8226; UPI ID : 5minutesengineering@apl&#13;&#10;&#13;&#10;Playlists :&#13;&#10;&#13;&#10;&#8226; 5 Minutes Engineering Podcast :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcCTAu8NRuCaD3aTEgHLeF0X&#13;&#10;&#13;&#10;&#8226; Aptitude :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcBpa1jwpCbEDespCRF3UPE5&#13;&#10;&#13;&#10;&#8226; Machine Learning :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcBhOEPwf5cFwqo5B-cP9G4P&#13;&#10;&#13;&#10;&#8226; Computer Graphics :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcAtxMe7ahYC4ZYjQHun_b-T&#13;&#10;&#13;&#10;&#8226; C Language Tutorial for Beginners :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcBqvw6QTRsA8gvZL3ao2ON-&#13;&#10;&#13;&#10;&#8226; R Tutorial for Beginners :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcCRFzBkZ-b92Hdg-qCUfx48&#13;&#10;&#13;&#10;&#8226; Python Tutorial for Beginners :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcCJu4i6UGMkMx1p3yYZJsbC&#13;&#10;&#13;&#10;&#8226; Embedded and Real Time Operating Systems (ERTOS) :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcBpuYagx0JiSaM-Bi4dm0hG&#13;&#10;&#13;&#10;&#8226; Shridhar Live Talks :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcD21x33RkmGvcZtrnWlTDdI&#13;&#10;&#13;&#10;&#8226; Welcome to 5 Minutes Engineering :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcCwG02L6fm0G5zmzpyw3eyc &#13;&#10;&#13;&#10;&#8226; Human Computer Interaction (HCI) :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcDz_8-pygbcNvNF0DEwKoIL&#13;&#10;&#13;&#10;&#8226; Computer Organization and Architecture :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcCaiXeUEjcTzHwIfJqH1qCN&#13;&#10;&#13;&#10;&#8226; Deep Learning :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcD-6P8cuX2bZAHSThF6AYvq&#13;&#10;&#13;&#10;&#8226; Genetic Algorithm :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcDHUTN26NXKfjg6wFJKDO9R&#13;&#10;&#13;&#10;&#8226; Cloud Computing :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcCyQH0n9GHfwviu6KeJ46BV&#13;&#10;&#13;&#10;&#8226; Information and Cyber Security :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcArHtWmbs_vXX6soTK3WEJw&#13;&#10;&#13;&#10;&#8226; Soft Computing and Optimization Algorithms :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcCPUl8mAnb4g1oExKd0n4Gw&#13;&#10;&#13;&#10;&#8226; Compiler Design :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcC6FupM--SachxUTOiQ7XHw&#13;&#10;&#13;&#10;&#8226; Operating System :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcD0LLrv7CXxSiO2gNJsoxpi&#13;&#10;&#13;&#10;&#8226; Hadoop :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcAhiP6C1qVorA7HZRejRE6M&#13;&#10;&#13;&#10;&#8226; CUDA :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcB73J5yO6uSFUycHJSA45O0&#13;&#10;&#13;&#10;&#8226; Discrete Mathematics :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcDKuvj-wIgDnHA5JTfUwrHv&#13;&#10;&#13;&#10;&#8226; Theory of Computation (TOC) :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcDXLUrW3JEq2cv8efNF6UeQ&#13;&#10;&#13;&#10;&#8226; Data Analytics :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcD_agAK_MpCDJdDXFuJqS9X&#13;&#10;&#13;&#10;&#8226; Software Modeling and Design :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcD1pjNSpEm2pje3zPrSiflZ&#13;&#10;&#13;&#10;&#8226; Internet Of Things (IOT) :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcB8fDd64B8SkJiPpEIzpCzC&#13;&#10;&#13;&#10;&#8226; Database Management Systems (DBMS) :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcBU4HS74xGTK1cAFbY0rdVY &#13;&#10;&#13;&#10;&#8226; Computer Network (CN) :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcAXkWn2IR-l_WXOrr0n851a&#13;&#10;&#13;&#10;&#8226; Software Engineering and Project Management :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcCB7zUM0YSDR-1mM4KoiyLM&#13;&#10;&#13;&#10;&#8226; Design and Analysis of Algorithm :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcBOrMihdkd48kgs6_YP8taa&#13;&#10;&#13;&#10;&#8226; Data Mining and Warehouse :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcChP0xiW3KK9elNuhfCLVVi&#13;&#10;&#13;&#10;&#8226; Mobile Communication :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcAjqrKO-b9UMa2AaAlzZY7D&#13;&#10;&#13;&#10;&#8226; High Performance Computing :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcA1eJbqwvjKgsnT321hXRGx&#13;&#10;&#13;&#10;&#8226; Artificial Intelligence and Robotics :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcBmfMtX5wRMAtqna7pY-YtG"
     channeltitle "5 Minutes Engineering"
     channelid "UCyHta2dyCTkf29AB67AYn7A"
@@ -3691,7 +3691,7 @@ graph
     commentcount 232
     duration "PT9M7S"
     indegree 3
-    cluster 2
+    cluster 5
   ]
   node
   [
@@ -3727,7 +3727,7 @@ graph
     commentcount 22
     duration "PT6M33S"
     indegree 0
-    cluster 8
+    cluster 6
   ]
   node
   [
@@ -3745,7 +3745,7 @@ graph
     commentcount 201
     duration "PT28M5S"
     indegree 4
-    cluster 8
+    cluster 3
   ]
   node
   [
@@ -3763,7 +3763,7 @@ graph
     commentcount 1678
     duration "PT35M46S"
     indegree 16
-    cluster 3
+    cluster 5
   ]
   node
   [
@@ -3781,7 +3781,7 @@ graph
     commentcount 18
     duration "PT19M3S"
     indegree 0
-    cluster 7
+    cluster 4
   ]
   node
   [
@@ -3789,7 +3789,7 @@ graph
     label "7kyNYMwfYdw"
     step 0
     date "2022-02-05T19:39:39Z"
-    title "Machine Learning Algorithms Full Course 2022 | Machine Learning Algorithms E tongue sticking out lained | Simplilearn"
+    title "Machine Learning Algorithms Full Course 2022 | Machine Learning Algorithms Explained | Simplilearn"
     description "&#128293;Free Machine Learning Course: https://www.simplilearn.com/learn-machine-learning-basics-skillup?utm_campaign=MLALgoFullCourseFeb5&#38;utm_medium=DescriptionFirstFold&#38;utm_source=youtube&#10;This video on Machine Learning Algorithms Full Course will help you learn the basics and advanced concepts of different Machine Learning Algorithms. You will look at the different algorithms along with hands-on demos in Python. &#10;&#10;Below are the topics we will be discussing in this video:&#10;Basics of Machine Learning&#10;Supervised Learning Algorithms:-&#10;Linear regression&#10;Logistic Regression&#10;Decision Tree&#10;Random Forest&#10;SVM&#10;KNN&#10;Unsupervised Learning Algorithms:-&#10;K means Clustering&#10;PCA&#10;Reinforcement Learning&#10;Q Learning&#10;&#10;&#9989;Subscribe to our Channel to learn more about the top Technologies: https://bit.ly/2VT4WtH&#10;&#10;&#9193; Check out the Machine Learning tutorial videos: https://www.youtube.com/watch?v=ukzFI9rgwfU&#38;list=PLEiEAq2VkUULYYgj13YHUWmRePqiu8Ddy&#10;&#10;#MachineLearning #MachineLearningAlgorithms #MachineLearningTutorial #MachineLearningPython #MachineLearningFullCourse #MachineLearningCourse #Simplilearn&#10;&#10;Post Graduate Program in AI and Machine Learning:&#10;Ranked #1 AI and Machine Learning course by TechGig&#10;Fast track your career with our comprehensive Post Graduate Program in AI and Machine Learning, in partnership with Purdue University and in collaboration with IBM. This AI and machine learning certification program will prepare you for one of the world&#8217;s most exciting technology frontiers. This Post Graduate Program in AI and Machine Learning covers statistics, Python, machine learning, deep learning networks, NLP, and reinforcement learning. You will build and deploy deep learning models on the cloud using AWS SageMaker, work on voice assistance devices, build Alexa skills, and gain access to GPU-enabled labs.&#10;&#10;Key Features:&#10;&#9989; Purdue Alumni Association Membership&#10;&#9989; Industry-recognized IBM certificates for IBM courses&#10;&#9989; Enrollment in Simplilearn&#8217;s JobAssist&#10;&#9989; 25+ hands-on Projects on GPU enabled Labs&#10;&#9989; 450+ hours of Applied learning&#10;&#9989; Capstone Project in 3 Domains&#10;&#9989; Purdue Post Graduate Program Certification&#10;&#9989; Masterclasses from Purdue&#10;&#9989;Get noticed by the top hiring companies&#10;&#10;&#128073;Learn more at: https://www.simplilearn.com/pgp-ai-machine-learning-certification-training-course?utm_campaign=MLALgoFullCourseFeb5&#38;utm_medium=Description&#38;utm_source=youtube&#10;&#10;For more information about Simplilearn&#8217;s courses, visit: &#10;- Facebook: https://www.facebook.com/Simplilearn &#10;- Twitter: https://twitter.com/simplilearn &#10;- LinkedIn: https://www.linkedin.com/company/simplilearn/&#10;- Website: https://www.simplilearn.com &#10;- Instagram: https://www.instagram.com/simplilearn_elearning&#10;- Telegram Mobile: https://t.me/simplilearnupdates&#10;- Telegram Desktop: https://web.telegram.org/#/im?p=@simplilearnupdates&#10;&#10;Get the Simplilearn app: https://simpli.app.link/OlbFAhqMqgb"
     channeltitle "Simplilearn"
     channelid "UCsvqVGtbbyHaMoevxPAq9Fg"
@@ -3835,7 +3835,7 @@ graph
     commentcount 1757
     duration "PT10M18S"
     indegree 8
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -3853,7 +3853,7 @@ graph
     commentcount 332
     duration "PT53M41S"
     indegree 15
-    cluster 3
+    cluster 5
   ]
   node
   [
@@ -3871,7 +3871,7 @@ graph
     commentcount 34
     duration "PT11M56S"
     indegree 7
-    cluster 6
+    cluster 1
   ]
   node
   [
@@ -3889,7 +3889,7 @@ graph
     commentcount 144
     duration "PT13M1S"
     indegree 1
-    cluster 8
+    cluster 6
   ]
   node
   [
@@ -3907,7 +3907,7 @@ graph
     commentcount 251
     duration "PT7M54S"
     indegree 6
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -3925,7 +3925,7 @@ graph
     commentcount 42
     duration "PT8M48S"
     indegree 0
-    cluster 6
+    cluster 1
   ]
   node
   [
@@ -3943,7 +3943,7 @@ graph
     commentcount 52
     duration "PT45M29S"
     indegree 4
-    cluster 8
+    cluster 7
   ]
   node
   [
@@ -3961,7 +3961,7 @@ graph
     commentcount 8
     duration "PT11H20M21S"
     indegree 9
-    cluster 5
+    cluster 3
   ]
   node
   [
@@ -3979,7 +3979,7 @@ graph
     commentcount 285
     duration "PT46M38S"
     indegree 33
-    cluster 3
+    cluster 5
   ]
   node
   [
@@ -3997,7 +3997,7 @@ graph
     commentcount 59
     duration "PT1H18M11S"
     indegree 12
-    cluster 3
+    cluster 5
   ]
   node
   [
@@ -4015,7 +4015,7 @@ graph
     commentcount 22
     duration "PT40M57S"
     indegree 0
-    cluster 8
+    cluster 6
   ]
   node
   [
@@ -4051,7 +4051,7 @@ graph
     commentcount 88
     duration "PT4M4S"
     indegree 0
-    cluster 7
+    cluster 4
   ]
   node
   [
@@ -4069,7 +4069,7 @@ graph
     commentcount 138
     duration "PT11M20S"
     indegree 5
-    cluster 3
+    cluster 5
   ]
   node
   [
@@ -4087,7 +4087,7 @@ graph
     commentcount 119
     duration "PT18M9S"
     indegree 8
-    cluster 7
+    cluster 11
   ]
   node
   [
@@ -4105,7 +4105,7 @@ graph
     commentcount 37
     duration "PT2M48S"
     indegree 3
-    cluster 1
+    cluster 3
   ]
   node
   [
@@ -4123,7 +4123,7 @@ graph
     commentcount 67
     duration "PT1H24S"
     indegree 3
-    cluster 6
+    cluster 1
   ]
   node
   [
@@ -4141,7 +4141,7 @@ graph
     commentcount 370
     duration "PT23M42S"
     indegree 19
-    cluster 9
+    cluster 4
   ]
   node
   [
@@ -4159,7 +4159,7 @@ graph
     commentcount 18
     duration "PT10H10M51S"
     indegree 2
-    cluster 3
+    cluster 5
   ]
   node
   [
@@ -4177,7 +4177,7 @@ graph
     commentcount 21
     duration "PT6M59S"
     indegree 1
-    cluster 9
+    cluster 1
   ]
   node
   [
@@ -4231,7 +4231,7 @@ graph
     commentcount 1488
     duration "PT32M40S"
     indegree 13
-    cluster 3
+    cluster 5
   ]
   node
   [
@@ -4249,7 +4249,7 @@ graph
     commentcount 28
     duration "PT9H59M27S"
     indegree 2
-    cluster 3
+    cluster 5
   ]
   node
   [
@@ -4267,7 +4267,7 @@ graph
     commentcount 54
     duration "PT1H50M48S"
     indegree 1
-    cluster 7
+    cluster 3
   ]
   node
   [
@@ -4285,7 +4285,7 @@ graph
     commentcount 198
     duration "PT13M1S"
     indegree 4
-    cluster 7
+    cluster 11
   ]
   node
   [
@@ -4303,7 +4303,7 @@ graph
     commentcount 43
     duration "PT1H56M3S"
     indegree 3
-    cluster 1
+    cluster 3
   ]
   node
   [
@@ -4321,7 +4321,7 @@ graph
     commentcount 288
     duration "PT17M42S"
     indegree 2
-    cluster 8
+    cluster 6
   ]
   node
   [
@@ -4339,7 +4339,7 @@ graph
     commentcount 74
     duration "PT24M9S"
     indegree 9
-    cluster 3
+    cluster 5
   ]
   node
   [
@@ -4347,7 +4347,7 @@ graph
     label "iGWbqhdjf2s"
     step 0
     date "2020-06-05T19:07:53Z"
-    title "Classify Images Using Python Machine Learning"
+    title "Classify Images Using Python  Machine Learning"
     description "Classify Images Using Machine Learning &#38; Convolutional Neural Networks (CNN)&#10;&#10;&#11088;Please Subscribe !&#11088;&#10;&#10;&#11088;Get the code and data sets or just support the channel by becoming a supporter on Patreon:&#10;      https://www.patreon.com/computerscience&#10;&#10;&#11088;Website:&#10;     http://everythingcomputerscience.com/&#10;&#10;&#11088;Helpful Programming Books&#10; &#9658; Python (Hands-Machine-Learning-Scikit-Learn-TensorFlow):&#10;      https://amzn.to/2AD1axD&#10;&#10;&#9658; Learning Python:&#10;     https://amzn.to/3dQGrEB&#10;&#10;&#9658;Head First Python:&#10;    https://amzn.to/3fUxDiO&#10;&#10; &#9658; C-Programming : &#10;      https://amzn.to/2X0N6Wa&#10;&#10; &#9658; Head First Java: &#10;      https://amzn.to/2LxMlhT&#10;&#10;#MachineLearning #CNN #Python #ImageClassifiaction"
     channeltitle "Computer Science"
     channelid "UCbmb5IoBtHZTpYZCDBOC1CA"
@@ -4357,7 +4357,7 @@ graph
     commentcount 157
     duration "PT40M45S"
     indegree 2
-    cluster 5
+    cluster 2
   ]
   node
   [
@@ -4375,7 +4375,7 @@ graph
     commentcount 155
     duration "PT1M58S"
     indegree 1
-    cluster 6
+    cluster 1
   ]
   node
   [
@@ -4429,7 +4429,7 @@ graph
     commentcount 20
     duration "PT22M52S"
     indegree 2
-    cluster 8
+    cluster 7
   ]
   node
   [
@@ -4447,7 +4447,7 @@ graph
     commentcount 124
     duration "PT1H21M31S"
     indegree 6
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -4465,7 +4465,7 @@ graph
     commentcount 273
     duration "PT2M25S"
     indegree 1
-    cluster 6
+    cluster 1
   ]
   node
   [
@@ -4483,7 +4483,7 @@ graph
     commentcount 89
     duration "PT40M9S"
     indegree 1
-    cluster 1
+    cluster 3
   ]
   node
   [
@@ -4501,7 +4501,7 @@ graph
     commentcount 34
     duration "PT10M25S"
     indegree 3
-    cluster 7
+    cluster 11
   ]
   node
   [
@@ -4519,7 +4519,7 @@ graph
     commentcount 300
     duration "PT10M5S"
     indegree 1
-    cluster 6
+    cluster 1
   ]
   node
   [
@@ -4537,7 +4537,7 @@ graph
     commentcount 539
     duration "PT15M4S"
     indegree 3
-    cluster 6
+    cluster 1
   ]
   node
   [
@@ -4555,7 +4555,7 @@ graph
     commentcount 60
     duration "PT2M38S"
     indegree 0
-    cluster 9
+    cluster 8
   ]
   node
   [
@@ -4573,7 +4573,7 @@ graph
     commentcount 65
     duration "PT23M37S"
     indegree 8
-    cluster 3
+    cluster 5
   ]
   node
   [
@@ -4591,7 +4591,7 @@ graph
     commentcount 790
     duration "PT4H26M6S"
     indegree 7
-    cluster 6
+    cluster 1
   ]
   node
   [
@@ -4627,7 +4627,7 @@ graph
     commentcount 14
     duration "PT1H21M18S"
     indegree 0
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -4645,7 +4645,7 @@ graph
     commentcount 12
     duration "PT8H9M36S"
     indegree 6
-    cluster 9
+    cluster 3
   ]
   node
   [
@@ -4699,7 +4699,7 @@ graph
     commentcount 22
     duration "PT14M55S"
     indegree 0
-    cluster 9
+    cluster 6
   ]
   node
   [
@@ -4717,7 +4717,7 @@ graph
     commentcount 187
     duration "PT14M24S"
     indegree 4
-    cluster 6
+    cluster 11
   ]
   node
   [
@@ -4735,7 +4735,7 @@ graph
     commentcount 8
     duration "PT14M7S"
     indegree 6
-    cluster 1
+    cluster 3
   ]
   node
   [
@@ -4771,7 +4771,7 @@ graph
     commentcount 531
     duration "PT35M3S"
     indegree 4
-    cluster 8
+    cluster 3
   ]
   node
   [
@@ -4789,7 +4789,7 @@ graph
     commentcount 136
     duration "PT1H34M59S"
     indegree 1
-    cluster 9
+    cluster 3
   ]
   node
   [
@@ -4807,7 +4807,7 @@ graph
     commentcount 637
     duration "PT12M45S"
     indegree 3
-    cluster 1
+    cluster 5
   ]
   node
   [
@@ -4815,7 +4815,7 @@ graph
     label "prWyZhcktn4"
     step 0
     date "2020-08-31T14:34:09Z"
-    title "Confusion Matrix In Machine Learning | Confusion Matrix E tongue sticking out lained With Example | Simplilearn"
+    title "Confusion Matrix In Machine Learning | Confusion Matrix Explained With Example | Simplilearn"
     description "A Confusion Matrix is an excellent metric to describe the performance of a classification model. This video on Confusion Matrix with Machine Learning will help you learn the basics of machine learning and the need for a confusion matrix. You will understand how to create a confusion matrix and how to create a confusion matrix. You will get an idea about the different metrics and perform a demo using logistic regression to find the model's accuracy.&#10;&#10;&#128293;Free Machine Learning Course: https://www.simplilearn.com/learn-machine-learning-basics-skillup?utm_campaign=ConfusionMatrixInMachineLearning&#38;utm_medium=Description&#38;utm_source=youtube&#10;&#10;00:00:00 Intro to Machine Learning&#10;00:01:13 Type of Machine learning&#10;00:04:27 Need for Confusion Matrix&#10;00:05:46 What is Confusion Matrix&#10;00:06:10 Creating a Confusion Matrix&#10;00:10:58 Comparing Confusion matrix&#10;00:24:06 3x3 Confusion Matrix&#10;&#10;&#9989;Subscribe to our Channel to learn more about the top Technologies: https://bit.ly/2VT4WtH&#10;&#10;To access the slides, click here: https://www.slideshare.net/Simplilearn/confusion-matrix-in-machine-learning-confusion-matrix-explained-with-example-simplilearn/Simplilearn/confusion-matrix-in-machine-learning-confusion-matrix-explained-with-example-simplilearn&#10;&#10;&#9193; Check out the Machine Learning tutorial videos: https://bit.ly/3fFR4f4&#10;&#10;#ConfusionMatrixInMachineLearning #ConfusionMatrixExplainedWithExample #ConfusionMatrix #MachineLearningTutorial #MachineLearningTutorialForBeginners #MachineLearning #SimplilearnMachineLearning #MachineLearningCourse&#10;&#10;To learn more about this topic, visit: https://www.simplilearn.com/tutorials/machine-learning-tutorial/confusion-matrix-machine-learning?utm_campaign=ConfusionMatrix&#38;utm_medium=Description&#38;utm_source=youtube&#10;&#10;About Simplilearn Machine Learning course:&#10;A form of artificial intelligence, Machine Learning is revolutionizing the world of computing as well as all people&#8217;s digital interactions. Machine Learning powers such innovative automated technologies as recommendation engines, facial recognition, fraud protection and even self-driving cars.This Machine Learning course prepares engineers, data scientists and other professionals with knowledge and hands-on skills required for certification and job competency in Machine Learning.&#10;&#10;What skills will you learn from this Machine Learning course?&#10;&#10;By the end of this Machine Learning course, you will be able to:&#10;1. Master the concepts of supervised, unsupervised and reinforcement learning concepts and modeling.&#10;2. Gain practical mastery over principles, algorithms, and applications of Machine Learning through a hands-on approach which includes working on 28 projects and one capstone project.&#10;3. Acquire thorough knowledge of the mathematical and heuristic aspects of Machine Learning.&#10;4. Understand the concepts and operation of support vector machines, kernel SVM, naive Bayes, decision tree classifier, random forest classifier, logistic regression, K-nearest neighbors, K-means clustering and more.&#10;5. Be able to model a wide variety of robust Machine Learning algorithms including deep learning, clustering, and recommendation systems&#10;&#10;&#128073;Learn more at: https://bit.ly/3fouyY0&#10;&#10;For more updates on courses and tips follow us on:&#10;- Facebook: https://www.facebook.com/Simplilearn &#10;- Twitter: https://twitter.com/simplilearn &#10;- LinkedIn: https://www.linkedin.com/company/simplilearn&#10;- Website: https://www.simplilearn.com&#10;&#10;Get the Android app: http://bit.ly/1WlVo4u&#10;Get the iOS app: http://apple.co/1HIO5J0"
     channeltitle "Simplilearn"
     channelid "UCsvqVGtbbyHaMoevxPAq9Fg"
@@ -4825,7 +4825,7 @@ graph
     commentcount 13
     duration "PT24M47S"
     indegree 3
-    cluster 3
+    cluster 5
   ]
   node
   [
@@ -4833,7 +4833,7 @@ graph
     label "n4L5hHFcGVk"
     step 0
     date "2020-09-10T16:10:10Z"
-    title "Sentiment Analysis: extracting emotion through machine learning | Andy Kim | TED laughing eerfield"
+    title "Sentiment Analysis: extracting emotion through machine learning | Andy Kim | TEDxDeerfield"
     description "My research uses Twitter data to train a model that predicts sentiments in comments on online platforms like Reddit or Facebook, giving insight into these, otherwise anonymous, users' thoughts. I would also detail how the model was built and challenges faced along the way. This would lead to a short concluding discussion on the broad possibilities of this technology, ranging from detecting radicalization on the web to customer reviews on Amazon. This would relate it back to real-world applications that matter to everyone, not just those in the tech sphere. &#10; Andy Kim is a junior at Deerfield Academy. Ever since coding for the first time in elementary school, Andy has been passionate about all things computer science. He has pursued research in a variety of fields, including astrophysics, facial recognition, as well as sentiment analysis, the topic of his talk. &#10;Andy is fascinated with harnessing the power of machine learning to analyze human communication. He believes as more and more of our lives become digitized, sentiment analysis will become a valuable tool in evaluating our digital interactions. This talk was given at a TEDx event using the TED conference format but independently organized by a local community. Learn more at https://www.ted.com/tedx"
     channeltitle "TEDx Talks"
     channelid "UCsT0YIqwnpJCM-mx7-gSA4Q"
@@ -4843,7 +4843,7 @@ graph
     commentcount 22
     duration "PT13M11S"
     indegree 0
-    cluster 2
+    cluster 9
   ]
   node
   [
@@ -4851,7 +4851,7 @@ graph
     label "kKYloh7_k5s"
     step 0
     date "2020-02-27T23:18:24Z"
-    title "Life as an AI Researcher Machine Learning Engineer | Technology | J.P. Morgan"
+    title "Life as an AI Researcher  Machine Learning Engineer | Technology | J.P. Morgan"
     description "Our J.P. Morgan office is a place where you can solve real-world problems using state of the art machine learning methods and cutting-edge AI research. Learn more about opportunities to develop your career and advance tech at: https://www.jpmorgan.com/technology.&#10;SUBSCRIBE: http://jpm.com/x/i/NFPWfK0&#13;&#10;&#13;&#10;About J.P. Morgan:&#13;&#10;J.P. Morgan is a leader in financial services, offering solutions to clients in more than 100 countries with one of the most comprehensive global product platforms available. We have been helping our clients to do business and manage their wealth for more than 200 years. Our business has been built upon our core principle of putting our clients' interests first.&#13;&#10;&#13;&#10;Connect with J.P. Morgan Online:&#13;&#10;Visit the J.P. Morgan Website: https://www.jpmorgan.com/&#13;&#10;Follow @jpmorgan on Twitter: https://twitter.com/jpmorgan&#13;&#10;Visit our J.P. Morgan Facebook page: http://facebook.com/jpmorgan&#13;&#10;Follow J.P. Morgan on LinkedIn: https://www.linkedin.com/company/jpmorgan&#13;&#10;Follow @jpmorgan on Instagram: https://instagram.com/jpmorgan/&#13;&#10;&#13;&#10;#jpmorgan #AIResearch #MachineLearning&#10;Life as an AI Researcher &#38; Machine Learning Engineer | Technology | J.P. Morgan"
     channeltitle "jpmorgan"
     channelid "UCBnFes2U2diA3QfR5m8l_Tw"
@@ -4861,7 +4861,7 @@ graph
     commentcount -1
     duration "PT4M47S"
     indegree 0
-    cluster 2
+    cluster 7
   ]
   node
   [
@@ -4879,7 +4879,7 @@ graph
     commentcount 14
     duration "PT20M15S"
     indegree 2
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -4887,7 +4887,7 @@ graph
     label "cE-Ej1ycXtk"
     step 0
     date "2020-11-02T13:24:29Z"
-    title "What is Machine Learning With Full Information? Quick Support"
+    title "What is Machine Learning With Full Information?  Quick Support"
     description "#WhatisMachineLearning #QuickSupport #Technology&#10;&#10;What is Machine Learning With Full Information? &#8211; [Hindi] &#8211; Quick Support. &#2310;&#2332; &#2311;&#2360; &#2357;&#2367;&#2337;&#2367;&#2351;&#2379; &#2350;&#2375;&#2306; &#2361;&#2350; &#2319;&#2325; &#2348;&#2361;&#2369;&#2340; &#2361;&#2368; &#2350;&#2358;&#2361;&#2369;&#2352; &#2340;&#2325;&#2344;&#2368;&#2325; &#2325;&#2375; &#2348;&#2366;&#2352;&#2375; &#2350;&#2375;&#2306; &#2332;&#2366;&#2344;&#2375;&#2306;&#2327;&#2375;&#2306; &#2332;&#2367;&#2360;&#2325;&#2366; &#2344;&#2366;&#2350; &#2361;&#2376; Machine Learning. &#2324;&#2352; &#2310;&#2346; &#2350;&#2375;&#2306; &#2360;&#2375; &#2348;&#2361;&#2369;&#2340; &#2360;&#2375; &#2354;&#2379;&#2327;&#2379;&#2306; &#2344;&#2375; &#2311;&#2360;&#2325;&#2366; &#2344;&#2366;&#2350; &#2360;&#2369;&#2344;&#2366; &#2361;&#2379;&#2327;&#2366; &#2354;&#2375;&#2325;&#2367;&#2344; &#2309;&#2327;&#2352; &#2311;&#2360;&#2325;&#2375; &#2348;&#2366;&#2352;&#2375; &#2350;&#2375;&#2306; &#2310;&#2346; &#2324;&#2352; &#2309;&#2343;&#2367;&#2325; &#2332;&#2366;&#2344;&#2325;&#2366;&#2352;&#2368; &#2361;&#2366;&#2360;&#2367;&#2354; &#2325;&#2352;&#2344;&#2366; &#2330;&#2366;&#2361;&#2340;&#2375; &#2361;&#2376;&#2306; &#2340;&#2379; &#2311;&#2360; video &#2350;&#2375;&#2306; &#2361;&#2350;&#2366;&#2352;&#2375; &#2360;&#2366;&#2341; &#2348;&#2344;&#2375; &#2352;&#2361;&#2367;&#2351;&#2375; &#2332;&#2367;&#2360;&#2350;&#2375; &#2361;&#2350; &#2310;&#2346;&#2325;&#2379; &#2348;&#2340;&#2366;&#2344;&#2375; &#2357;&#2366;&#2354;&#2375; &#2361;&#2376;&#2306; machine learning &#2325;&#2381;&#2351;&#2366; &#2361;&#2376;, &#2351;&#2361; &#2325;&#2366;&#2350; &#2325;&#2376;&#2360;&#2375; &#2325;&#2352;&#2340;&#2366; &#2361;&#2376; &#2324;&#2352; &#2311;&#2360;&#2325;&#2375; &#2325;&#2381;&#2351;&#2366; &#2347;&#2366;&#2351;&#2375;&#2342;&#2375; &#2361;&#2379;&#2340;&#2375; &#2361;&#2376;&#2306;.&#10;&#10;Website: https://qsofficial.com&#10;&#10;Facebook: https://www.facebook.com/QuickSupportChannel&#10;&#10;Twitter:  https://twitter.com/QS_Channel&#10;&#10;Instagram: https://www.instagram.com/quick_support007&#10;&#10;Youtube: https://www.youtube.com/c/QuickSupport&#10;&#10;Linkedin: https://www.linkedin.com/in/Anil-Nakrani&#10;&#10;Channel Owner: Anil Nakrani"
     channeltitle "Quick Support"
     channelid "UCN3-BVMnr44LIUheSuppw1A"
@@ -4915,7 +4915,7 @@ graph
     commentcount 634
     duration "PT1H27M41S"
     indegree 11
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -4933,7 +4933,7 @@ graph
     commentcount 627
     duration "PT1H30M36S"
     indegree 42
-    cluster 9
+    cluster 3
   ]
   node
   [
@@ -4941,7 +4941,7 @@ graph
     label "yteYU_QpUxs"
     step 0
     date "2022-01-26T14:00:23Z"
-    title "Unsupervised Machine Learning E tongue sticking out lained For Beginners"
+    title "Unsupervised Machine Learning Explained For Beginners"
     description "In this video we learn about Unsupervised Machine Learning.&#10;&#10;You will learn:&#10;- What is unsupervised learning&#10;- Clustering&#10;- K-Means&#10;- Outlier Detection&#10;- Latent variable modeling&#10;- Principal Component Analysis (PCA)&#10;- Autoencoder&#10;&#10;Supervised Learning explained: https://youtu.be/Mu3POlNoLdc&#10;&#10;Get your Free Token for AssemblyAI Speech-To-Text API &#128071;https://www.assemblyai.com/?utm_source=youtube&#38;utm_medium=referral&#38;utm_campaign=yt_pat_9&#10;&#10;&#10;&#10;Icon by xnimrodx - Flaticon: https://www.flaticon.com/free-icons/computer"
     channeltitle "AssemblyAI"
     channelid "UCtatfZMf-8EkIwASXM4ts0A"
@@ -4951,7 +4951,7 @@ graph
     commentcount 0
     duration "PT5M25S"
     indegree 0
-    cluster 8
+    cluster 6
   ]
   node
   [
@@ -4969,7 +4969,7 @@ graph
     commentcount 724
     duration "PT2H27M13S"
     indegree 1
-    cluster 9
+    cluster 8
   ]
   node
   [
@@ -4977,7 +4977,7 @@ graph
     label "xr5LeWKbVnY"
     step 0
     date "2018-10-25T12:59:50Z"
-    title "What Is Machine Learning and How Does It Work? | Machine Learning E tongue sticking out lained"
+    title "What Is Machine Learning and How Does It Work? | Machine Learning Explained"
     description "What is machine learning and how does it work? Walk through the three types of machine learning (clustering, classification, and regression) in this overview by Loren Shure. &#10;3 Things you need to know about machine learning: http://bit.ly/2PG4qee&#10;&#10;Machine learning is a data analytics technique that teaches computers to do what comes naturally to humans and animals: learn from experience. Machine learning algorithms use computational methods to &#8220;learn&#8221; information directly from data without relying on a predetermined equation as a model. In this video, you&#8217;ll start by learning about clustering, which helps you segment a collection of things into groups with distinct attributes. You&#8217;ll next explore classification, which you&#8217;d use for applications like object detection in images, predictive maintenance, and spam detection. Lastly, you&#8217;ll hear about regression, which is used to build models that predict a response along a continuum given other features. &#10;&#10;MATLAB for Machine Learning: http://bit.ly/2O9Sujp&#10;MATLAB for Deep Learning: http://bit.ly/2Dl0jm4&#10;&#10;#machinelearning&#10;#clustering&#10;#classification&#10;#regression&#10;&#10;Get a free product Trial: https://goo.gl/ZHFb5u&#10;Learn more about MATLAB: https://goo.gl/8QV7ZZ&#10;Learn more about Simulink: https://goo.gl/nqnbLe&#10;See What's new in MATLAB and Simulink: https://goo.gl/pgGtod&#10;&#10;&#169; 2018 The MathWorks, Inc. MATLAB and Simulink are registered&#10;trademarks of The MathWorks, Inc. &#10;See www.mathworks.com/trademarks for a list of additional trademarks. Other product or brand names maybe trademarks or registered trademarks of their respective holders."
     channeltitle "MATLAB"
     channelid "UCgdHSFcXvkN6O3NXvif0-pA"
@@ -4995,7 +4995,7 @@ graph
     label "k9V3DapHEDA"
     step 0
     date "2021-02-15T14:27:26Z"
-    title "Machine Learning Algorithms Full Course | Machine Learning Algorithms E tongue sticking out lained | Simplilearn"
+    title "Machine Learning Algorithms Full Course | Machine Learning Algorithms Explained | Simplilearn"
     description "This video on Machine Learning Algorithms Full Course will help you learn the basics and advanced concepts of different Machine Learning Algorithms. You will look at the different algorithms along with hands-on demos in Python. &#128293;Free Machine Learning Course: https://www.simplilearn.com/learn-machine-learning-basics-skillup?utm_campaign=MLALgoFullCourse&#38;utm_medium=Description&#38;utm_source=youtube&#10;&#10;Below are the topics we will be discussing in this video:&#10;00:00:00 Basics of Machine Learning&#10;Supervised Learning Algorithms:-&#10;00:08:55 Linear regression&#10;00:43:12 Logistic Regression&#10;01:13:41 Decision Tree&#10;01:38:22 Random Forest&#10;02:18:39 SVM&#10;02:42:18 KNN&#10;Unsupervised Learning Algorithms:-&#10;03:08:45 K means Clustering&#10;03:57:28 PCA&#10;04:27:56 Reinforcement Learning&#10;05:04:48 Q Learning&#10;&#10;Start learning today's most in-demand skills for FREE. Visit us at https://www.simplilearn.com/skillup-free-online-courses?utm_campaign=MachineLearning&#38;utm_medium=Description&#38;utm_source=youtube  &#10;Choose over 300 in-demand skills and get access to 1000+ hours of video content for FREE in various technologies like Data Science, Cybersecurity, Project Management &#38; Leadership, Digital Marketing, and much more. &#10;&#10;&#9989;Subscribe to our Channel to learn more about the top Technologies: https://bit.ly/2VT4WtH&#10;&#10;&#9193; Check out the Machine Learning tutorial videos: https://www.youtube.com/watch?v=ukzFI9rgwfU&#38;list=PLEiEAq2VkUULYYgj13YHUWmRePqiu8Ddy&#10;&#10;#MachineLearning #MachineLearningTutorial #MachineLearningPython #MachineLearningFullCourse #MachineLearningCourse #MachineLearningAlgorithms &#10;&#10;Post Graduate Program in AI and Machine Learning:&#10;Ranked #1 AI and Machine Learning course by TechGig&#10;Fast track your career with our comprehensive Post Graduate Program in AI and Machine Learning, in partnership with Purdue University and in collaboration with IBM. This AI and machine learning certification program will prepare you for one of the world&#8217;s most exciting technology frontiers. This Post Graduate Program in AI and Machine Learning covers statistics, Python, machine learning, deep learning networks, NLP, and reinforcement learning. You will build and deploy deep learning models on the cloud using AWS SageMaker, work on voice assistance devices, build Alexa skills, and gain access to GPU-enabled labs.&#10;&#10;Key Features:&#10;&#9989; Purdue Alumni Association Membership&#10;&#9989; Industry-recognized IBM certificates for IBM courses&#10;&#9989; Enrollment in Simplilearn&#8217;s JobAssist&#10;&#9989; 25+ hands-on Projects on GPU enabled Labs&#10;&#9989; 450+ hours of Applied learning&#10;&#9989; Capstone Project in 3 Domains&#10;&#9989; Purdue Post Graduate Program Certification&#10;&#9989; Masterclasses from Purdue&#10;&#9989;Get noticed by the top hiring companies&#10;&#10;&#128073;Learn more at: https://www.simplilearn.com/pgp-ai-machine-learning-certification-training-course?utm_campaign=MachineLearning&#38;utm_medium=Description&#38;utm_source=youtube&#10;&#10;For more updates on courses and tips follow us on:&#10;- Facebook: https://www.facebook.com/Simplilearn &#10;- Twitter: https://twitter.com/simplilearn &#10;- LinkedIn: https://www.linkedin.com/company/simplilearn/&#10;- Website: https://www.simplilearn.com &#10;- Instagram: https://www.instagram.com/simplilearn_elearning&#10;- Telegram Mobile: https://t.me/simplilearnupdates&#10;- Telegram Desktop: https://web.telegram.org/#/im?p=@simplilearnupdates&#10;&#10;Get the Android app: http://bit.ly/1WlVo4u &#10;Get the iOS app: http://apple.co/1HIO5J0"
     channeltitle "Simplilearn"
     channelid "UCsvqVGtbbyHaMoevxPAq9Fg"
@@ -5005,7 +5005,7 @@ graph
     commentcount 42
     duration "PT5H35M20S"
     indegree 0
-    cluster 3
+    cluster 5
   ]
   node
   [
@@ -5013,7 +5013,7 @@ graph
     label "ag3DLKsl2vk"
     step 0
     date "2020-12-25T13:30:09Z"
-    title "What is YOLO algorithm? | Deep Learning Tutorial 31 (Tensorflow, Keras Python)"
+    title "What is YOLO algorithm? | Deep Learning Tutorial 31 (Tensorflow, Keras  Python)"
     description "YOLO (You only look once) is a state of the art object detection algorithm that has become main method of detecting objects in the field of computer vision. Previously people used techniques such as sliding window object detection, R CNN, Fast R CNN and Faster R CNN. But after its invention in 2015, YOLO has become an industry standard for object detection due to its speed and accuracy. In this video we will understand the theory behind how exactly YOLO algorithm works. In next video we will write code to detect objects using YOLO framework.&#10;&#10;&#128278; Hashtags &#128278;&#10;#yoloalgorithm #yolodeeplearning #yoloobjectdetection #yolopython #yoloobjectdetection #yoloopencv&#10;&#10;Do you want to learn technology from me? Check https://codebasics.io/ for my affordable video courses.&#10;&#10;Deep learning playlist: https://www.youtube.com/playlist?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO&#10;Machine learning playlist :&#160;https://www.youtube.com/playlist?list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw&#160;&#160;&#10;&#10;&#127758; My Website For Video Courses: https://codebasics.io/&#10;&#10;Need help building software or data analytics and AI solutions? My company https://www.atliq.com/ can help. Click on the Contact button on that website.&#10;&#10;#&#65039;&#8419; Social Media #&#65039;&#8419;&#10;&#128279; Discord:  https://discord.gg/r42Kbuk&#10;&#128248; Instagram: https://www.instagram.com/codebasicshub/&#10;&#128266; Facebook: https://www.facebook.com/codebasicshub&#10;&#128241; Twitter: https://twitter.com/codebasicshub&#10;&#128221; Linkedin: https://www.linkedin.com/company/codebasics/&#10;&#10;&#10;&#10071;&#10071; DISCLAIMER: All opinions expressed in this video are of my own and not that of my employers'."
     channeltitle "codebasics"
     channelid "UCh9nVJoWXmFb7sLApWGcLPQ"
@@ -5023,7 +5023,7 @@ graph
     commentcount 192
     duration "PT16M5S"
     indegree 2
-    cluster 5
+    cluster 2
   ]
   node
   [
@@ -5041,7 +5041,7 @@ graph
     commentcount -1
     duration "PT1H28S"
     indegree 0
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -5059,7 +5059,7 @@ graph
     commentcount 13
     duration "PT37M50S"
     indegree 0
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -5077,7 +5077,7 @@ graph
     commentcount 30
     duration "PT1M10S"
     indegree 0
-    cluster 7
+    cluster 4
   ]
   node
   [
@@ -5095,7 +5095,7 @@ graph
     commentcount 424
     duration "PT1H21M28S"
     indegree 9
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -5113,7 +5113,7 @@ graph
     commentcount 30
     duration "PT8M31S"
     indegree 0
-    cluster 6
+    cluster 8
   ]
   node
   [
@@ -5121,7 +5121,7 @@ graph
     label "7R52wiUgxZI"
     step 0
     date "2020-06-01T10:11:06Z"
-    title "DeepMind x UCL | Deep Learning Lectures | 1/12 | Intro to Machine Learning AI"
+    title "DeepMind x UCL | Deep Learning Lectures | 1/12 | Intro to Machine Learning  AI"
     description "In this lecture DeepMind Research Scientist and UCL Professor Thore Graepel explains DeepMind's machine learning based approach towards AI. He examples of how deep learning and reinforcement learning can be combined to build intelligent systems, including AlphaGo, Capture The Flag, and AlphaStar. This is followed by a short introduction to the different topics and speakers coming up in the subsequent lectures.&#10;&#10;Download the slides here: &#10;https://storage.googleapis.com/deepmind-media/UCLxDeepMind_2020/L1%20-%20UCLxDeepMind%20DL2020.pdf&#10;&#10;Find out more about how DeepMind increases access to science here: &#10;https://deepmind.com/about#access_to_science&#10;&#10;Speaker Bio: &#10;&#10;Thore Graepel is a research group lead at DeepMind and holds a part-time position as Chair of Machine Learning at University College London. He studied physics at the University of Hamburg, Imperial College London, and Technical University of Berlin, where he also obtained his PhD in machine learning in 2001. After postdoctoral work at ETH Zurich and Royal Holloway College, University of London, Thore joined Microsoft Research in Cambridge in 2003. At DeepMind since 2015, Thore leads the multi-agent research team and contributed to AlphaGo, the first computer program to defeat a human professional player in the full-sized game of Go.&#10;&#10;About the lecture series: &#10;&#10;The Deep Learning Lecture Series is a collaboration between DeepMind and the UCL Centre for Artificial Intelligence. Over the past decade, Deep Learning has evolved as the leading artificial intelligence paradigm providing us with the ability to learn complex functions from raw data at unprecedented accuracy and scale. Deep Learning has been applied to problems in object recognition, speech recognition, speech synthesis, forecasting, scientific computing, control and many more. The resulting applications are touching all of our lives in areas such as healthcare and medical research, human-computer interaction, communication, transport, conservation, manufacturing and many other fields of human endeavour. In recognition of this huge impact, the 2019 Turing Award, the highest honour in computing, was awarded to pioneers of Deep Learning.&#10;&#10;In this lecture series, research scientists from leading AI research lab, DeepMind, deliver 12 lectures on an exciting selection of topics in Deep Learning, ranging from the fundamentals of training neural networks via advanced ideas around memory, attention, and generative modelling to the important topic of responsible innovation."
     channeltitle "DeepMind"
     channelid "UCP7jMXSY2xbc3KCAE0MHQ-A"
@@ -5131,7 +5131,7 @@ graph
     commentcount 176
     duration "PT1H25M18S"
     indegree 3
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -5149,7 +5149,7 @@ graph
     commentcount 42
     duration "PT8M27S"
     indegree 0
-    cluster 9
+    cluster 4
   ]
   node
   [
@@ -5167,7 +5167,7 @@ graph
     commentcount 240
     duration "PT42M55S"
     indegree 12
-    cluster 9
+    cluster 3
   ]
   node
   [
@@ -5185,7 +5185,7 @@ graph
     commentcount 59
     duration "PT9M3S"
     indegree 2
-    cluster 1
+    cluster 3
   ]
   node
   [
@@ -5203,7 +5203,7 @@ graph
     commentcount 7
     duration "PT1M50S"
     indegree 0
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -5221,7 +5221,7 @@ graph
     commentcount 12
     duration "PT11M22S"
     indegree 1
-    cluster 2
+    cluster 1
   ]
   node
   [
@@ -5239,7 +5239,7 @@ graph
     commentcount 107
     duration "PT2H8M1S"
     indegree 0
-    cluster 5
+    cluster 3
   ]
   node
   [
@@ -5275,7 +5275,7 @@ graph
     commentcount 158
     duration "PT5M30S"
     indegree 1
-    cluster 8
+    cluster 6
   ]
   node
   [
@@ -5293,7 +5293,7 @@ graph
     commentcount 43
     duration "PT3H51M19S"
     indegree 4
-    cluster 3
+    cluster 5
   ]
   node
   [
@@ -5301,7 +5301,7 @@ graph
     label "ad79nYk2keg"
     step 0
     date "2019-04-30T14:30:01Z"
-    title "Artificial Intelligence In 5 Minutes | What Is Artificial Intelligence? | AI E tongue sticking out lained | Simplilearn"
+    title "Artificial Intelligence In 5 Minutes | What Is Artificial Intelligence? | AI Explained | Simplilearn"
     description "&#128293; Enroll for FREE Artificial Intelligence Course &#38; Get your Completion Certificate:  https://www.simplilearn.com/learn-ai-basics-skillup?utm_campaign=AI&#38;utm_medium=Description&#38;utm_source=youtube&#10;This video on Artificial Intelligence in 5 minutes introduces you to Artificial Intelligence with a fun and simple approach. We will talk about what is Artificial Intelligence, how it's different from Machine Learning and Deep Learning, its features, types, and scope. We also look at some interesting applications of Artificial Intelligence.&#10;&#10;By the end of this video, you will understand:&#10;0:00 What is Artificial Intelligence?&#10;03:13 Difference between Artificial intelligence, Machine Learning, and Deep Learning&#10;01:52 Examples of Artificial Intelligence&#10;03:46 Future of Artificial Intelligence&#10;&#10;Don't forget to take the quiz at 04:10!&#10;&#10;To learn more about Artificial Intelligence, subscribe to our YouTube channel: https://www.youtube.com/user/Simplilearn?sub_confirmation=1&#10;&#10;Watch more videos on Artificial Intelligence: https://www.youtube.com/playlist?list=PLEiEAq2VkUULg2pAmFCfrpSXPHmNP6Map&#10;&#10;Download the Artificial Intelligence Career Guide and take a sneak peek into the world that awaits you: https://bit.ly/2VQWwCX&#10;&#10;#AritificialIntelligence #WhatIsArtificialIntelligenceExactly #AritificialIntelligenceTutorial #WhatIsAi #WhatIsArtificialIntelligence #AiIn5Minutes #AITutorial #AITutorialForBeginners #AritificialIntelligenceBasics #AI #Simplilearn&#10;&#10;What is Artificial Intelligence?&#10;Artificial Intelligence or AI is the combination of algorithms used for the purpose of creating intelligent machines that have the same skills as a human being. It uses machine learning and deep learning techniques to build complex systems.&#10;&#10;About Simplilearn Artificial Intelligence course:&#10;Simplilearns&#8217; Introduction to Artificial Intelligence course is designed to help learners decode the mystery of artificial intelligence and its business applications. The course provides an overview of AI concepts and workflows, machine learning and deep learning, and performance metrics. You&#8217;ll learn the difference between supervised, unsupervised and reinforcement learning; be exposed to use cases, and see how clustering and classification algorithms help identify AI business applications.&#10;&#10;What are the career benefits of this Introduction to AI course?&#10;Artificial intelligence has become a powerful driving force in a wide range of industries, helping people and businesses create exciting, innovative products and services, enable more informed business decisions, and achieve key performance goals. The median salary of an AI engineer in the US is $171,715(Source: Datamation). By 2022, the AI market will grow at a CAGR of 53.25 per cent, and an estimated. 2.3 million jobs will be created in the AI field by 2020 (Source: Gartner).&#10;&#10;What are the course objectives?&#10;The Introduction to Artificial Intelligence course will give you a look at the booming field of AI and show you how AI can help drive business value. The course covers basic concepts, terminologies, scope and stages of artificial intelligence and their effect on real-world business processes. By the end of the course, you will be able to clearly define various supervised and unsupervised AI algorithms, apply machine learning workflow to solve business problems and measure ROI based on performance metrics. &#10;&#10;What skills will you learn from this Introduction to Artificial Intelligence course?&#10;Upon completion of this course, you will understand:&#10;1. The meaning, purpose, scope, stages, applications and effects of AI&#10;2. Fundamental concepts of machine learning and deep learning&#10;3. The difference between supervised, semi-supervised and unsupervised learning &#10;&#10;Who should take this Introduction to Artificial Intelligence course?&#10;Simplilearn&#8217;s Introduction to Artificial Intelligence imparts the basic concepts and principles of Artificial Intelligence to learners. The course caters to CxO level and middle management professionals who want to improve their ability to derive business value and ROI from AI and machine learning. This Artificial Intelligence Introduction course does not require a programming or IT background, making it well-suited for the following audience:&#10;1. Developers aspiring to be an artificial intelligence engineer or machine learning engineer&#10;2. Analytics managers who are leading a team of analysts &#10;3. Information architects who want to gain expertise in AI algorithms &#10;&#10;Learn more at: https://www.simplilearn.com/artificial-intelligence-masters-program-training-course?utm_campaign=Artificial-Intelligence-In-5-Minutes-ad79nYk2keg&#38;utm_medium=Tutorials&#38;utm_source=youtube&#10;&#10;For more updates on courses and tips follow us on:&#10;- Facebook: https://www.facebook.com/Simplilearn &#10;- Twitter: https://twitter.com/simplilearn &#10;- LinkedIn: https://www.linkedin.com/company/simplilearn&#10;- Website: https://www.simplilearn.com&#10;&#10;Get the Android app: http://bit.ly/1WlVo4u&#10;Get the iOS app: http://apple.co/1HIO5J0"
     channeltitle "Simplilearn"
     channelid "UCsvqVGtbbyHaMoevxPAq9Fg"
@@ -5329,7 +5329,7 @@ graph
     commentcount 10
     duration "PT22M39S"
     indegree 7
-    cluster 3
+    cluster 5
   ]
   node
   [
@@ -5347,7 +5347,7 @@ graph
     commentcount 61
     duration "PT15M42S"
     indegree 10
-    cluster 3
+    cluster 5
   ]
   node
   [
@@ -5365,7 +5365,7 @@ graph
     commentcount 26
     duration "PT15M9S"
     indegree 2
-    cluster 4
+    cluster 9
   ]
   node
   [
@@ -5383,7 +5383,7 @@ graph
     commentcount 133
     duration "PT14M7S"
     indegree 14
-    cluster 9
+    cluster 8
   ]
   node
   [
@@ -5391,7 +5391,7 @@ graph
     label "0PrOA2JK6GQ"
     step 0
     date "2021-02-25T17:01:36Z"
-    title "Machine Learning E tongue sticking out licado"
+    title "Machine Learning Explicado"
     description "Machine learning (ou aprendizado de m&#225;quina) &#233; um dos termos mais quentes no mundo atual. A ideia &#233; simples: fazer m&#225;quinas aprenderem, assim como n&#243;s humanos aprendemos durante a vida. Mas o desafio &#233; inspirador! Como &#233; que n&#243;s podemos programar m&#225;quinas que aprendem como seres humanos?&#10;&#10;PROMO&#199;&#195;O NA ALURA! https://bit.ly/alura-cienciatododia-youtube&#10;&#10;Seja membro do nosso canal para ajudar a manter os v&#237;deos no ar! http://youtube.com/cienciatododia/join&#10;&#10;Minhas redes sociais:&#10;http://instagram.com/pedroloos&#10;http://twitter.com/pedroloos&#10;&#10;Nosso podcast: http://anchor.fm/sinapse&#10;&#10;E-mail: contato@cienciatododia.com.br&#10;&#10;Um muito obrigado aos apoiadores do Catarse que tornaram esse v&#237;deo poss&#237;vel: Lucas Moreira, Mauricio Diegues, Yann Motta, Aelson pereira, Patricia Guedes, Ren&#233; da Silva Bastos, Simone de Paula, Bruno Pereira, Pedro Amorim e Edilson Gomes."
     channeltitle "Ci&#234;ncia Todo Dia"
     channelid "UCn9Erjy00mpnWeLnRqhsA1g"
@@ -5401,7 +5401,7 @@ graph
     commentcount 1301
     duration "PT13M29S"
     indegree 9
-    cluster 11
+    cluster 6
   ]
   node
   [
@@ -5419,7 +5419,7 @@ graph
     commentcount 56
     duration "PT7M20S"
     indegree 5
-    cluster 9
+    cluster 8
   ]
   node
   [
@@ -5437,7 +5437,7 @@ graph
     commentcount 166
     duration "PT53S"
     indegree 15
-    cluster 6
+    cluster 1
   ]
   node
   [
@@ -5455,7 +5455,7 @@ graph
     commentcount 1094
     duration "PT7M31S"
     indegree 25
-    cluster 6
+    cluster 1
   ]
   node
   [
@@ -5473,7 +5473,7 @@ graph
     commentcount 1374
     duration "PT30M22S"
     indegree 21
-    cluster 6
+    cluster 1
   ]
   node
   [
@@ -5491,7 +5491,7 @@ graph
     commentcount 13
     duration "PT1H3M46S"
     indegree 4
-    cluster 3
+    cluster 5
   ]
   node
   [
@@ -5509,7 +5509,7 @@ graph
     commentcount 29
     duration "PT22M28S"
     indegree 0
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -5517,7 +5517,7 @@ graph
     label "Jkf-pGDdy7k"
     step 0
     date "2021-12-20T14:30:01Z"
-    title "Factor Analysis | What is Factor Analysis? | Factor Analysis E tongue sticking out lained | Machine Learning | Edureka"
+    title "Factor Analysis | What is Factor Analysis? | Factor Analysis Explained | Machine Learning | Edureka"
     description "&#128293; For Top IT Trending Courses and Certifications Visit: http://www.edureka.co/machine-learning-certification-training.  Use code &#34;YOUTUBE20&#34; to get Flat 20% off on any training.  &#10;This video gives you an introduction to Factor Analysis, with details on how it works and examples.&#10;&#10;This video contains the following topics:&#10;00:00 Introduction&#10;01:12 What is Factor Analysis?&#10;02:55 Latent Variables&#10;03:37 Assumptions in Factor Analysis&#10;04:35 Purpose of Factor Analysis&#10;05:28 Types of Factor Analysis&#10;06:32 Issues with Factor Analysis&#10;10:06 Basic Logic of Factor Analysis&#10;&#10;&#10;&#128221;Feel free to share your experience of Factor Analysis in the comment section below.&#128221;&#10;&#10;&#128226;&#128226; &#119827;&#119848;&#119849; &#120783;&#120782; &#119827;&#119851;&#119838;&#119847;&#119837;&#119842;&#119847;&#119840; &#119827;&#119838;&#119836;&#119841;&#119847;&#119848;&#119845;&#119848;&#119840;&#119842;&#119838;&#119852; &#119853;&#119848; &#119819;&#119838;&#119834;&#119851;&#119847; &#119826;&#119838;&#119851;&#119842;&#119838;&#119852; &#128226;&#128226;&#10;&#10;&#9193;Top 10 Technologies to Learn in 2021: https://youtu.be/oZSxV7lYZl0&#10;&#9193;Top 10 Certifications for 2021: https://youtu.be/SY4TWhXyr0I&#10;&#9193;Top 10 Highest Paying Jobs for 2021: https://youtu.be/314gRCdFkmg &#10;&#9193;Top 10 IT Jobs For 2021: https://youtu.be/0HjVWeV15yA&#10;&#9193;Top 10 IT Companies To Work For In 2021: https://youtu.be/HicAXG35dSY&#10;&#9193;Top 10 Technologies That Changed The World: https://youtu.be/U6lkac1HWr0&#10;&#10;---------&#119812;&#119837;&#119854;&#119851;&#119838;&#119844;&#119834; &#119822;&#119847;&#119845;&#119842;&#119847;&#119838; &#119827;&#119851;&#119834;&#119842;&#119847;&#119842;&#119847;&#119840; &#119834;&#119847;&#119837; &#119810;&#119838;&#119851;&#119853;&#119842;&#119839;&#119842;&#119836;&#119834;&#119853;&#119842;&#119848;&#119847;---------&#10;&#10;&#128309; DevOps Online Training: http://bit.ly/34QFpX0&#10;&#127765; Python Online Training: http://bit.ly/3aPLRla&#10;&#128309; AWS Online Training: http://bit.ly/34S6klw&#10;&#127765; RPA Online Training: http://bit.ly/2L06sZ1&#10;&#128309; Data Science Online Training: http://bit.ly/34QFytw&#10;&#127765; Big Data Online Training: http://bit.ly/3mXiAr9&#10;&#128309; Java Online Training: http://bit.ly/3o0dJ9K&#10;&#127765; Selenium Online Training: http://bit.ly/2WRp5RD&#10;&#128309; PMP Online Training: http://bit.ly/3psUWEs&#10;&#127765; Tableau Online Training: http://bit.ly/2WUsRd3&#10;&#10;---------&#119812;&#119837;&#119854;&#119851;&#119838;&#119844;&#119834; &#119820;&#119834;&#119852;&#119853;&#119838;&#119851;&#119852; &#119823;&#119851;&#119848;&#119840;&#119851;&#119834;&#119846;&#119852;---------&#10;&#10;&#128309; DevOps Engineer Masters Program: http://bit.ly/3hqsbpl&#10;&#127765; Cloud Architect Masters Program: http://bit.ly/3nXz8R8&#10;&#128309; Data Scientist Masters Program: http://bit.ly/37WFTgp&#10;&#127765; Big Data Architect Masters Program: http://bit.ly/2X5bdU9&#10;&#128309; Machine Learning Engineer Masters Program: http://bit.ly/3mW4Lcj&#10;&#127765; Business Intelligence Masters Program: http://bit.ly/2Jx9N1u&#10;&#128309; Python Developer Masters Program: http://bit.ly/38FeVsV&#10;&#127765; RPA Developer Masters Program: http://bit.ly/2KLxlAf&#10;&#128309; Web Development Masters Program: https://bit.ly/2XN0D8h&#10;&#10;--------&#119812;&#119837;&#119854;&#119851;&#119838;&#119844;&#119834; &#119823;&#119814;&#119811; &#119810;&#119848;&#119854;&#119851;&#119852;&#119838;&#119852;--------&#10;&#10;&#128309; Artificial Intelligence and Machine Learning PGD: http://bit.ly/3nXztDo&#10;&#127765; Top 10 Programming Languages in 2021 blog: http://bit.ly/2JQARZA&#10;&#10;&#128308; Subscribe to our channel to get video updates. Hit the subscribe button above: https://goo.gl/6ohpTV&#10;&#10;&#128226;&#128226; &#119812;&#119837;&#119854;&#119851;&#119838;&#119844;&#119834; &#119826;&#119848;&#119836;&#119842;&#119834;&#119845; &#119820;&#119838;&#119837;&#119842;&#119834; &#119810;&#119841;&#119834;&#119847;&#119847;&#119838;&#119845;&#119852; &#128226;&#128226;&#10;&#10;&#128204;&#119827;&#119838;&#119845;&#119838;&#119840;&#119851;&#119834;&#119846;: https://t.me/edurekaupdates&#10;&#128204;&#119819;&#119842;&#119847;&#119844;&#119838;&#119837;&#119816;&#119847;: https://www.linkedin.com/company/edureka&#10;&#128204;&#119816;&#119847;&#119852;&#119853;&#119834;&#119840;&#119851;&#119834;&#119846;: https://www.instagram.com/edureka_lea...&#10;&#128204;&#119827;&#119856;&#119842;&#119853;&#119853;&#119838;&#119851;: https://twitter.com/edurekain&#10;&#128204;&#119813;&#119834;&#119836;&#119838;&#119835;&#119848;&#119848;&#119844;: https://www.facebook.com/edurekaIN/ &#10;&#128204;&#119826;&#119845;&#119842;&#119837;&#119838;&#119826;&#119841;&#119834;&#119851;&#119838;: https://www.slideshare.net/EdurekaIN &#10;&#128204;&#119810;&#119834;&#119852;&#119853;&#119835;&#119848;&#119857;: https://castbox.fm/networks/505&#10;&#128204;&#119820;&#119838;&#119838;&#119853;&#119854;&#119849;: https://www.meetup.com/edureka/&#10;&#128204;&#119810;&#119848;&#119846;&#119846;&#119854;&#119847;&#119842;&#119853;&#119858;: https://www.edureka.co/community/&#10;&#10;---------------------------- &#10;&#10;#edureka #FactorAnalysis #WhatisFactorAnalysis #WhatisFactor #MachineLearning #DataScience #EDA #EFA #2022  &#10;&#10;-----------------------------------------------------------------&#10;Please write back to us at sales@edureka.co or call us at IND: 9606058406 / US: 18338555775 (toll-free) for more information"
     channeltitle "edureka!"
     channelid "UCkw4JCwteGrDHIsyIIKo4tQ"
@@ -5527,7 +5527,7 @@ graph
     commentcount 11
     duration "PT11M24S"
     indegree 2
-    cluster 2
+    cluster 5
   ]
   node
   [
@@ -5545,7 +5545,7 @@ graph
     commentcount 14
     duration "PT29M37S"
     indegree 0
-    cluster 5
+    cluster 2
   ]
   node
   [
@@ -5563,7 +5563,7 @@ graph
     commentcount 22
     duration "PT59M48S"
     indegree 2
-    cluster 1
+    cluster 5
   ]
   node
   [
@@ -5581,7 +5581,7 @@ graph
     commentcount 884
     duration "PT6M37S"
     indegree 13
-    cluster 2
+    cluster 1
   ]
   node
   [
@@ -5599,7 +5599,7 @@ graph
     commentcount 745
     duration "PT1H8M40S"
     indegree 18
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -5617,7 +5617,7 @@ graph
     commentcount 124
     duration "PT20M29S"
     indegree 3
-    cluster 6
+    cluster 1
   ]
   node
   [
@@ -5635,7 +5635,7 @@ graph
     commentcount 87
     duration "PT1H43M12S"
     indegree 1
-    cluster 4
+    cluster 2
   ]
   node
   [
@@ -5653,7 +5653,7 @@ graph
     commentcount 133
     duration "PT23M59S"
     indegree 2
-    cluster 3
+    cluster 5
   ]
   node
   [
@@ -5671,7 +5671,7 @@ graph
     commentcount 244
     duration "PT3M52S"
     indegree 3
-    cluster 9
+    cluster 4
   ]
   node
   [
@@ -5689,7 +5689,7 @@ graph
     commentcount 20
     duration "PT5M25S"
     indegree 6
-    cluster 5
+    cluster 2
   ]
   node
   [
@@ -5697,7 +5697,7 @@ graph
     label "SVcsDDABEkM"
     step 0
     date "2022-06-01T12:00:24Z"
-    title "The AI that creates any picture you want, e tongue sticking out lained"
+    title "The AI that creates any picture you want, explained"
     description "How programmers turned the internet into a paintbrush. DALL-E 2, Midjourney, Imagen, explained.&#10;&#10;Subscribe and turn on notifications &#128276; so you don't miss any videos: http://goo.gl/0bsAjO &#10;&#10;Beginning in January 2021, advances in AI research have produced a plethora of deep-learning models capable of generating original images from simple text prompts, effectively extending the human imagination. Researchers at OpenAI, Google, Facebook, and others have developed text-to-image tools that they have not yet released to the public, and similar models have proliferated online in the open-source arena and at smaller companies like Midjourney.&#10;&#10;These tools represent a massive cultural shift because they remove the requirement for technical labor from the process of image-making. Instead, they select for creative ideation, skillful use of language, and curatorial taste. The ultimate consequences are difficult to predict, but &#8212; like the invention of the camera, and the digital camera thereafter &#8212; these algorithms herald a new, democratized form of expression that will commence another explosion in the volume of imagery produced by humans. But, like other automated systems trained on historical data and internet images, they also come with risks that have not been resolved. &#10;&#10;The video above is a primer on how we got here, how this technology works, and some of the implications. And for an extended discussion about what this means for human artists, designers, and illustrators, check out this bonus video: https://youtu.be/sFBfrZ-N3G4&#10;&#10;Midjourney: www.midjourney.com &#10;&#10;List of free AI Art tools: https://pharmapsychotic.com/tools.html &#10;&#10;Sources: &#10;https://arxiv.org/abs/1511.02793 &#10;https://arnicas.substack.com/p/titaa-28-visual-poetry-humans-and?s=r &#10;https://va2rosa.medium.com/copyright-storm-authorship-in-the-age-of-ai-baba554aa617 &#10;https://tedunderwood.com/2021/10/21/latent-spaces-of-culture/ &#10;https://medium.com/artists-and-machine-intelligence/a-journey-through-multiple-dimensions-and-transformations-in-space-the-final-frontier-d8435d81ca51 &#10;https://jxmo.notion.site/The-Weird-and-Wonderful-World-of-AI-Art-b9615a2e7278435b98380ff81ae1cf09 &#10;https://ml.berkeley.edu/blog/posts/clip-art/ &#10;https://multimodal.art/ &#10;https://openai.com/blog/dall-e/ &#10;https://openai.com/blog/clip/ &#10;https://openai.com/dall-e-2/ &#10;https://laion.ai/laion-5b-a-new-era-of-open-large-scale-multi-modal-datasets/ &#10;https://arxiv.org/abs/2110.01963 &#10;&#10;Make sure you never miss behind the scenes content in the Vox Video newsletter, sign up here: http://vox.com/video-newsletter&#10;&#10;Vox.com is a news website that helps you cut through the noise and understand what's really driving the events in the headlines. Check out http://www.vox.com&#10;&#10;Support Vox's reporting with a one-time or recurring contribution: http://vox.com/contribute-now&#10;&#10;Shop the Vox merch store: http://vox.com/store&#10;&#10;Watch our full video catalog: http://goo.gl/IZONyE&#10;&#10;Follow Vox on Facebook: http://facebook.com/vox&#10;Follow Vox on Twitter: http://twitter.com/voxdotcom&#10;Follow Vox on TikTok: http://tiktok.com/@voxdotcom"
     channeltitle "Vox"
     channelid "UCLXo7UDZvByw2ixzpQCufnA"
@@ -5707,7 +5707,7 @@ graph
     commentcount 1951
     duration "PT13M33S"
     indegree 2
-    cluster 7
+    cluster 4
   ]
   node
   [
@@ -5725,7 +5725,7 @@ graph
     commentcount 41
     duration "PT20M38S"
     indegree 2
-    cluster 6
+    cluster 1
   ]
   node
   [
@@ -5743,7 +5743,7 @@ graph
     commentcount 378
     duration "PT9H41M40S"
     indegree 5
-    cluster 7
+    cluster 4
   ]
   node
   [
@@ -5761,7 +5761,7 @@ graph
     commentcount 21
     duration "PT10M5S"
     indegree 0
-    cluster 8
+    cluster 7
   ]
   node
   [
@@ -5779,7 +5779,7 @@ graph
     commentcount 2
     duration "PT7M45S"
     indegree 0
-    cluster 9
+    cluster 3
   ]
   node
   [
@@ -5797,7 +5797,7 @@ graph
     commentcount 145
     duration "PT19M43S"
     indegree 4
-    cluster 4
+    cluster 2
   ]
   node
   [
@@ -5815,7 +5815,7 @@ graph
     commentcount 1
     duration "PT11M55S"
     indegree 1
-    cluster 6
+    cluster 1
   ]
   node
   [
@@ -5851,7 +5851,7 @@ graph
     commentcount 150
     duration "PT1M46S"
     indegree 0
-    cluster 9
+    cluster 1
   ]
   node
   [
@@ -5887,7 +5887,7 @@ graph
     commentcount 38
     duration "PT1H50M50S"
     indegree 9
-    cluster 5
+    cluster 3
   ]
   node
   [
@@ -5905,7 +5905,7 @@ graph
     commentcount 629
     duration "PT7M32S"
     indegree 8
-    cluster 5
+    cluster 2
   ]
   node
   [
@@ -5923,7 +5923,7 @@ graph
     commentcount 75
     duration "PT1H43M34S"
     indegree 2
-    cluster 9
+    cluster 3
   ]
   node
   [
@@ -5941,7 +5941,7 @@ graph
     commentcount 19872
     duration "PT1H30M28S"
     indegree 15
-    cluster 2
+    cluster 7
   ]
   node
   [
@@ -5959,7 +5959,7 @@ graph
     commentcount 214
     duration "PT21M33S"
     indegree 20
-    cluster 1
+    cluster 3
   ]
   node
   [
@@ -5967,7 +5967,7 @@ graph
     label "-jOKqY9L1Z0"
     step 0
     date "2019-06-22T05:31:39Z"
-    title "Machine Learning Interview Questions and Answers - For Freshers and E tongue sticking out erienced Candidates"
+    title "Machine Learning Interview Questions and Answers - For Freshers and Experienced Candidates"
     description "Learn most important Machine Learning Interview Questions and Answers, asked at every interview. These Interview questions will be useful to all entry level candidates, beginners, interns and experienced candidates interviewing for the role of Machine Learning Developer, Machine Learning Engineer etc. &#10;The examples and sample answers with each question will make it easier for candidates to understand these conceptual, general and situational interview questions.&#10;&#10;Our Websites:&#10;https://www.tutorialride.com/&#10;https://www.careerride.com/&#10;&#10;#MachineLearning #MachineLearningInterview #MachineLearningForBeginners"
     channeltitle "CareerRide"
     channelid "UCjDHKp8AGNucJmEBMCk0NGg"
@@ -5977,7 +5977,7 @@ graph
     commentcount 11
     duration "PT16M32S"
     indegree 4
-    cluster 8
+    cluster 7
   ]
   node
   [
@@ -5995,7 +5995,7 @@ graph
     commentcount 107
     duration "PT52M56S"
     indegree 3
-    cluster 9
+    cluster 3
   ]
   node
   [
@@ -6013,7 +6013,7 @@ graph
     commentcount 1328
     duration "PT20M7S"
     indegree 6
-    cluster 5
+    cluster 2
   ]
   node
   [
@@ -6021,7 +6021,7 @@ graph
     label "Y4qO9unerGs"
     step 0
     date "2019-02-18T05:22:09Z"
-    title "Introduction To Machine Learning ll Machine Learning Course E tongue sticking out lained With RealLife Examples (Hindi)"
+    title "Introduction To Machine Learning ll Machine Learning Course Explained With RealLife Examples (Hindi)"
     description "Myself Shridhar Mankar a Engineer l YouTuber l Educational Blogger l Educator l Podcaster. &#13;&#10;My Aim- To Make Engineering Students Life EASY.&#13;&#10;&#13;&#10;Website   - https://5minutesengineering.com &#13;&#10;&#13;&#10;5 Minutes Engineering English YouTube Channel -  https://m.youtube.com/channel/UChTsiSbpTuSrdOHpXkKlq6Q&#13;&#10;&#13;&#10;Instagram -  https://www.instagram.com/5minutesengineering/?hl=en&#13;&#10;&#13;&#10;A small donation would mean the world to me and will help me to make AWESOME videos for you.&#13;&#10;&#8226; UPI ID : 5minutesengineering@apl&#13;&#10;&#13;&#10;Playlists :&#13;&#10;&#13;&#10;&#8226; 5 Minutes Engineering Podcast :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcCTAu8NRuCaD3aTEgHLeF0X&#13;&#10;&#13;&#10;&#8226; Aptitude :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcBpa1jwpCbEDespCRF3UPE5&#13;&#10;&#13;&#10;&#8226; Machine Learning :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcBhOEPwf5cFwqo5B-cP9G4P&#13;&#10;&#13;&#10;&#8226; Computer Graphics :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcAtxMe7ahYC4ZYjQHun_b-T&#13;&#10;&#13;&#10;&#8226; C Language Tutorial for Beginners :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcBqvw6QTRsA8gvZL3ao2ON-&#13;&#10;&#13;&#10;&#8226; R Tutorial for Beginners :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcCRFzBkZ-b92Hdg-qCUfx48&#13;&#10;&#13;&#10;&#8226; Python Tutorial for Beginners :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcCJu4i6UGMkMx1p3yYZJsbC&#13;&#10;&#13;&#10;&#8226; Embedded and Real Time Operating Systems (ERTOS) :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcBpuYagx0JiSaM-Bi4dm0hG&#13;&#10;&#13;&#10;&#8226; Shridhar Live Talks :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcD21x33RkmGvcZtrnWlTDdI&#13;&#10;&#13;&#10;&#8226; Welcome to 5 Minutes Engineering :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcCwG02L6fm0G5zmzpyw3eyc &#13;&#10;&#13;&#10;&#8226; Human Computer Interaction (HCI) :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcDz_8-pygbcNvNF0DEwKoIL&#13;&#10;&#13;&#10;&#8226; Computer Organization and Architecture :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcCaiXeUEjcTzHwIfJqH1qCN&#13;&#10;&#13;&#10;&#8226; Deep Learning :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcD-6P8cuX2bZAHSThF6AYvq&#13;&#10;&#13;&#10;&#8226; Genetic Algorithm :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcDHUTN26NXKfjg6wFJKDO9R&#13;&#10;&#13;&#10;&#8226; Cloud Computing :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcCyQH0n9GHfwviu6KeJ46BV&#13;&#10;&#13;&#10;&#8226; Information and Cyber Security :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcArHtWmbs_vXX6soTK3WEJw&#13;&#10;&#13;&#10;&#8226; Soft Computing and Optimization Algorithms :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcCPUl8mAnb4g1oExKd0n4Gw&#13;&#10;&#13;&#10;&#8226; Compiler Design :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcC6FupM--SachxUTOiQ7XHw&#13;&#10;&#13;&#10;&#8226; Operating System :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcD0LLrv7CXxSiO2gNJsoxpi&#13;&#10;&#13;&#10;&#8226; Hadoop :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcAhiP6C1qVorA7HZRejRE6M&#13;&#10;&#13;&#10;&#8226; CUDA :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcB73J5yO6uSFUycHJSA45O0&#13;&#10;&#13;&#10;&#8226; Discrete Mathematics :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcDKuvj-wIgDnHA5JTfUwrHv&#13;&#10;&#13;&#10;&#8226; Theory of Computation (TOC) :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcDXLUrW3JEq2cv8efNF6UeQ&#13;&#10;&#13;&#10;&#8226; Data Analytics :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcD_agAK_MpCDJdDXFuJqS9X&#13;&#10;&#13;&#10;&#8226; Software Modeling and Design :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcD1pjNSpEm2pje3zPrSiflZ&#13;&#10;&#13;&#10;&#8226; Internet Of Things (IOT) :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcB8fDd64B8SkJiPpEIzpCzC&#13;&#10;&#13;&#10;&#8226; Database Management Systems (DBMS) :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcBU4HS74xGTK1cAFbY0rdVY &#13;&#10;&#13;&#10;&#8226; Computer Network (CN) :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcAXkWn2IR-l_WXOrr0n851a&#13;&#10;&#13;&#10;&#8226; Software Engineering and Project Management :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcCB7zUM0YSDR-1mM4KoiyLM&#13;&#10;&#13;&#10;&#8226; Design and Analysis of Algorithm :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcBOrMihdkd48kgs6_YP8taa&#13;&#10;&#13;&#10;&#8226; Data Mining and Warehouse :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcChP0xiW3KK9elNuhfCLVVi&#13;&#10;&#13;&#10;&#8226; Mobile Communication :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcAjqrKO-b9UMa2AaAlzZY7D&#13;&#10;&#13;&#10;&#8226; High Performance Computing :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcA1eJbqwvjKgsnT321hXRGx&#13;&#10;&#13;&#10;&#8226; Artificial Intelligence and Robotics :&#13;&#10;  https://youtube.com/playlist?list=PLYwpaL_SFmcBmfMtX5wRMAtqna7pY-YtG"
     channeltitle "5 Minutes Engineering"
     channelid "UCyHta2dyCTkf29AB67AYn7A"
@@ -6049,7 +6049,7 @@ graph
     commentcount 19
     duration "PT11M31S"
     indegree 1
-    cluster 6
+    cluster 1
   ]
   node
   [
@@ -6085,7 +6085,7 @@ graph
     commentcount 8
     duration "PT52M8S"
     indegree 0
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -6103,7 +6103,7 @@ graph
     commentcount 46
     duration "PT5H35M38S"
     indegree 0
-    cluster 5
+    cluster 3
   ]
   node
   [
@@ -6121,7 +6121,7 @@ graph
     commentcount 290
     duration "PT15M34S"
     indegree 3
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -6139,7 +6139,7 @@ graph
     commentcount 149
     duration "PT1M17S"
     indegree 0
-    cluster 7
+    cluster 11
   ]
   node
   [
@@ -6165,7 +6165,7 @@ graph
     label "sEte4hXEgJ8"
     step 0
     date "2020-06-21T17:01:37Z"
-    title "Probability for Data Science Machine Learning"
+    title "Probability for Data Science  Machine Learning"
     description "There is nothing more exciting in the world right now then Machine Learning and Data Analytics! In this one video I will teach you a key part of the Math of Machine Learning and Data Analytics which is Probability.&#10;&#10;I took everything in a standard 500 page text book on Probability in put it in this one video. I will cover every formula, but also will solve a real world problem with each formula. &#10;&#10;After this video on Probability I will continue with the Math of Machine Learning by covering Statistics, Linear Algebra and Calculus. If you want to see those videos click the Notification Bell.&#10;&#10;Transcript of the Video : https://bit.ly/ProbabilityTut&#10;Best probability Book : https://amzn.to/3diFOmB&#10;&#10;&#10055;&#65039; LIVESTREAMS : https://www.twitch.tv/derekbanas &#10;&#10055;&#65039; DISCORD : https://discord.gg/2dkDmpVvgD ( Contact Me Anytime )&#10;&#10;MY UDEMY COURSES ARE 87.5% OFF TIL May 23rd ($9.99)&#10;https://www.udemy.com/&#10;&#10;&#10145;&#65039; Python Data Science Series for $9.99 : Highest Rated &#38; Largest Python Udemy Course + 56 Hrs + 200 Videos + Data Science https://bit.ly/Master_Python_31&#10;&#10;&#10145;&#65039; New C++ Programming Bootcamp Series for $9.99 : Over 23 Hrs + 53 Videos + Quizzes + Graded Assignments + New Videos Every Month https://bit.ly/C_Course_31&#10;&#10;#LearnWithMe #Probability #DataScience&#10;&#10;Here is a Table of Contents that will allow you to jump around in the video and learn what ever you are interested in. &#10;&#10;TABLE OF CONTENTS&#10;&#10;00:00 Intro&#10;01:31 Probability Definitions&#10;01:44 Union&#10;02:12 Intersection&#10;02:39 Complement&#10;02:59 Conditional Probability&#10;04:30 Contingency Table&#10;04:48 Addition Rule&#10;05:40 Joint Probability&#10;06:00 Dependent vs. Independent&#10;06:45 Independent Events&#10;07:17 Mutually Exclusive Events&#10;07:44 Venn Diagrams&#10;08:39 Tree Diagrams&#10;09:48 Total Probability&#10;11:37 Bayes' Theorem&#10;14:09 Combinatorics&#10;14:22 Permutations&#10;15:46 Combinations&#10;16:57 Poker Probabilities&#10;19:26 Which to use?&#10;19:51 Variations&#10;20:30 Types of Variables&#10;21:00 Discrete Uniform Distribution&#10;21:05 Probability Mass&#10;22:03 Variance&#10;22:35 Relative Frequency Histogram&#10;22:44 Cumulative Distribution&#10;23:03 Expected Value&#10;24:00 Standard Deviation&#10;24:25 Normal Distribution&#10;25:35 Z Score&#10;26:53 Negative Z Score&#10;27:25 Reverse Z Score&#10;28:08 Confidence Intervals&#10;29:58 Binomial Probability&#10;31:35 Poisson Distribution&#10;32:55 Geometric Probability&#10;35:00 Central Limit Theorem&#10;35:26 Negative Binomial Probability&#10;36:15 Which to use?&#10;36:46 Negative Binomial Formula&#10;38:05 Hypergeometric Distribution&#10;40:58 Continuous Probability&#10;42:37 Continuous Probability Formula&#10;43:16 Exponential Distribution&#10;44:34 Exponential Formulas&#10;&#10;Like the channel? Consider becoming a Patreon and get access to exclusive videos! All Patreons who contribute $1 or more get a FREE coupon code to my Python Programming Bootcamp Series!!! &#10;Check it out here: https://www.patreon.com/derekbanas&#10;&#10;GET FREE STUFF AND SUPPORT MY TUTORIALS&#10;&#10;1. Get a Free Stock : https://share.robinhood.com/derekb1560&#10;2. Get 2 Free Audiobooks : https://amzn.to/2Y5FV2p&#10;&#10;THANK YOU TO MY PATREON SUPPORTERS LIKE : &#10;&#10;https://shapeganic.com/app/store (Calorie Counter &#38; Weight Tracking App)&#10;ckcoder.com&#10;vsolutions.be&#10;instagram.com/lumarycodes/&#10;github.com/metabake&#10;greedygammon.com&#10;twitter.com/mrjak318"
     channeltitle "Derek Banas"
     channelid "UCwRXb5dUK4cvsHbx-rGzSgw"
@@ -6175,7 +6175,7 @@ graph
     commentcount 321
     duration "PT46M55S"
     indegree 0
-    cluster 5
+    cluster 2
   ]
   node
   [
@@ -6211,7 +6211,7 @@ graph
     commentcount 7
     duration "PT10M38S"
     indegree 0
-    cluster 1
+    cluster 3
   ]
   node
   [
@@ -6229,7 +6229,7 @@ graph
     commentcount 209
     duration "PT5H27M19S"
     indegree 22
-    cluster 6
+    cluster 1
   ]
   node
   [
@@ -6247,7 +6247,7 @@ graph
     commentcount 7
     duration "PT9M44S"
     indegree 1
-    cluster 6
+    cluster 1
   ]
   node
   [
@@ -6291,7 +6291,7 @@ graph
     label "VtRLrQ3Ev-U"
     step 0
     date "2022-06-15T12:19:11Z"
-    title "Python TensorFlow for Machine Learning Neural Network Text Classification Tutorial"
+    title "Python TensorFlow for Machine Learning  Neural Network Text Classification Tutorial"
     description "This course will give you an introduction to machine learning concepts and neural network implementation using Python and TensorFlow. Kylie Ying explains basic concepts, such as classification, regression, training/validation/test datasets, loss functions, neural networks, and model training. She then demonstrates how to implement a feedforward neural network to predict whether someone has diabetes, as well as two different neural net architectures to classify wine reviews.&#10;&#10;&#9999;&#65039; Course created by Kylie Ying.&#10;&#127909; YouTube: https://youtube.com/ycubed&#10;&#128038; Twitter: https://twitter.com/kylieyying&#10;&#128247; Instagram: https://instagram.com/kylieyying/&#10;&#10;This course was made possible by a grant from Google's TensorFlow team. &#10;&#10;&#11088;&#65039; Resources &#11088;&#65039;&#10;&#128187; Datasets: https://drive.google.com/drive/folders/1YnxDqNIqM2Xr1Dlgv5pYsE6dYJ9MGxcM?usp=sharing&#10;&#128187; Feedforward NN colab notebook: https://colab.research.google.com/drive/1UxmeNX_MaIO0ni26cg9H6mtJcRFafWiR?usp=sharing&#10;&#128187; Wine review colab notebook: https://colab.research.google.com/drive/1yO7EgCYSN3KW8hzDTz809nzNmacjBBXX?usp=sharing&#10;&#10;&#11088;&#65039; Course Contents &#11088;&#65039;&#10;&#9000;&#65039; (0:00:00) Introduction&#10;&#9000;&#65039; (0:00:34) Colab intro (importing wine dataset)&#10;&#9000;&#65039; (0:07:48) What is machine learning?&#10;&#9000;&#65039; (0:14:00) Features (inputs)&#10;&#9000;&#65039; (0:20:22) Outputs (predictions)&#10;&#9000;&#65039; (0:25:05) Anatomy of a dataset&#10;&#9000;&#65039; (0:30:22) Assessing performance&#10;&#9000;&#65039; (0:35:01) Neural nets&#10;&#9000;&#65039; (0:48:50) Tensorflow&#10;&#9000;&#65039; (0:50:45) Colab (feedforward network using diabetes dataset)&#10;&#9000;&#65039; (1:21:15) Recurrent neural networks&#10;&#9000;&#65039; (1:26:20) Colab (text classification networks using wine dataset)&#10;--&#10;&#10;&#127881; Thanks to our Champion and Sponsor supporters:&#10;&#128126; Raymond Odero&#10;&#128126; Agust&#237;n Kussrow&#10;&#128126; aldo ferretti&#10;&#128126; Otis Morgan&#10;&#128126; DeezMaster&#10;&#10;--&#10;&#10;Learn to code for free and get a developer job: https://www.freecodecamp.org&#10;&#10;Read hundreds of articles on programming: https://freecodecamp.org/news&#10;&#10;And subscribe for new videos on technology every day: https://youtube.com/subscription_center?add_user=freecodecamp"
     channeltitle "freeCodeCamp.org"
     channelid "UC8butISFwT-Wl7EV0hUK0BQ"
@@ -6309,7 +6309,7 @@ graph
     label "PPLop4L2eGk"
     step 0
     date "2016-10-07T21:46:52Z"
-    title "Lecture 1.1 [ Machine Learning | Andrew Ng ]"
+    title "Lecture 1.1  [ Machine Learning | Andrew Ng ]"
     description "Hey guys! In this channel, you will find contents of all areas related to Artificial Intelligence (AI). Please make sure to smash the LIKE button and SUBSCRIBE to our channel to learn more about these trending topics, and don&#8217;t forget to TURN ON your YouTube notifications!&#10;&#10;Thanks &#38; Happy Learning &#128578;&#10;."
     channeltitle "Artificial Intelligence - All in One"
     channelid "UC5zx8Owijmv-bbhAK6Z9apg"
@@ -6319,7 +6319,7 @@ graph
     commentcount 250
     duration "PT7M15S"
     indegree 3
-    cluster 6
+    cluster 3
   ]
   node
   [
@@ -6355,7 +6355,7 @@ graph
     commentcount 19
     duration "PT1M56S"
     indegree 0
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -6373,7 +6373,7 @@ graph
     commentcount 2760
     duration "PT30M57S"
     indegree 8
-    cluster 5
+    cluster 2
   ]
   node
   [
@@ -6391,7 +6391,7 @@ graph
     commentcount 2
     duration "PT27M40S"
     indegree 0
-    cluster 1
+    cluster 3
   ]
   node
   [
@@ -6409,7 +6409,7 @@ graph
     commentcount 274
     duration "PT31M5S"
     indegree 1
-    cluster 9
+    cluster 3
   ]
   node
   [
@@ -6427,7 +6427,7 @@ graph
     commentcount 70
     duration "PT45M39S"
     indegree 1
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -6445,7 +6445,7 @@ graph
     commentcount 421
     duration "PT42M55S"
     indegree 9
-    cluster 11
+    cluster 6
   ]
   node
   [
@@ -6481,7 +6481,7 @@ graph
     commentcount 1406
     duration "PT10M33S"
     indegree 3
-    cluster 7
+    cluster 4
   ]
   node
   [
@@ -6517,7 +6517,7 @@ graph
     commentcount 66
     duration "PT1H29M44S"
     indegree 0
-    cluster 5
+    cluster 11
   ]
   node
   [
@@ -6535,7 +6535,7 @@ graph
     commentcount 155
     duration "PT16M54S"
     indegree 2
-    cluster 9
+    cluster 8
   ]
   node
   [
@@ -6553,7 +6553,7 @@ graph
     commentcount 1185
     duration "PT18M56S"
     indegree 64
-    cluster 6
+    cluster 1
   ]
   node
   [
@@ -6589,7 +6589,7 @@ graph
     commentcount 22
     duration "PT12M11S"
     indegree 4
-    cluster 5
+    cluster 2
   ]
   node
   [
@@ -6597,7 +6597,7 @@ graph
     label "O2L2Uv9pdDA"
     step 0
     date "2020-06-03T12:35:57Z"
-    title "Naive Bayes, Clearly E tongue sticking out lained!!!"
+    title "Naive Bayes, Clearly Explained!!!"
     description "When most people want to learn about Naive Bayes, they want to learn about the Multinomial Naive Bayes Classifier - which sounds really fancy, but is actually quite simple. This video walks you through it one step at a time and by the end, you'll no longer be naive about Naive Bayes!!!&#10;&#10;Get the StatQuest Study Guide here: https://statquest.org/studyguides/&#10;&#10;For a complete index of all the StatQuest videos, check out:&#10;https://statquest.org/video-index/&#10;&#10;If you'd like to support StatQuest, please consider...&#10;&#10;Buying my book, The StatQuest Illustrated Guide to Machine Learning:&#10;PDF - https://statquest.gumroad.com/l/wvtmc&#10;Paperback - https://www.amazon.com/dp/B09ZCKR4H6&#10;Kindle eBook - https://www.amazon.com/dp/B09ZG79HXC&#10;&#10;Patreon: https://www.patreon.com/statquest&#10;...or...&#10;YouTube Membership: https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw/join&#10;&#10;...a cool StatQuest t-shirt or sweatshirt: &#10;https://shop.spreadshirt.com/statquest-with-josh-starmer/&#10;&#10;...buying one or two of my songs (or go large and get a whole album!)&#10;https://joshuastarmer.bandcamp.com/&#10;&#10;...or just donating to StatQuest!&#10;https://www.paypal.me/statquest&#10;&#10;Lastly, if you want to keep up with me as I research and create new StatQuests, follow me on twitter:&#10;https://twitter.com/joshuastarmer&#10;&#10;0:00 Awesome song and introduction&#10;1:08 Histograms and conditional probabilities&#10;4:22 Classifying &#34;Dear Friend&#34;&#10;7:33 Review of concepts&#10;9:00 Classifying &#34;Lunch Money x 5&#34;&#10;10:54 Pseudocounts&#10;12:35 Why Naive Bayes is Naive&#10;&#10;#statquest #naivebayes"
     channeltitle "StatQuest with Josh Starmer"
     channelid "UCtYLUTtgS3k1Fg4y5tAhLbw"
@@ -6607,7 +6607,7 @@ graph
     commentcount 1194
     duration "PT15M12S"
     indegree 10
-    cluster 1
+    cluster 5
   ]
   node
   [
@@ -6643,7 +6643,7 @@ graph
     commentcount 1
     duration "PT55M2S"
     indegree 0
-    cluster 1
+    cluster 3
   ]
   node
   [
@@ -6661,7 +6661,7 @@ graph
     commentcount 106
     duration "PT19M8S"
     indegree 4
-    cluster 4
+    cluster 9
   ]
   node
   [
@@ -6679,7 +6679,7 @@ graph
     commentcount 209
     duration "PT1H28M53S"
     indegree 11
-    cluster 7
+    cluster 4
   ]
   node
   [
@@ -6697,7 +6697,7 @@ graph
     commentcount 48
     duration "PT26M34S"
     indegree 0
-    cluster 5
+    cluster 2
   ]
   node
   [
@@ -6715,7 +6715,7 @@ graph
     commentcount 50
     duration "PT20M18S"
     indegree 0
-    cluster 4
+    cluster 3
   ]
   node
   [
@@ -6733,7 +6733,7 @@ graph
     commentcount 1
     duration "PT28S"
     indegree 0
-    cluster 9
+    cluster 1
   ]
   node
   [
@@ -6751,7 +6751,7 @@ graph
     commentcount 3
     duration "PT43M46S"
     indegree 0
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -6787,7 +6787,7 @@ graph
     commentcount 45
     duration "PT24M17S"
     indegree 0
-    cluster 3
+    cluster 5
   ]
   node
   [
@@ -6805,7 +6805,7 @@ graph
     commentcount 112
     duration "PT16M31S"
     indegree 4
-    cluster 4
+    cluster 9
   ]
   node
   [
@@ -6823,7 +6823,7 @@ graph
     commentcount 463
     duration "PT1H1M6S"
     indegree 3
-    cluster 6
+    cluster 1
   ]
   node
   [
@@ -6841,7 +6841,7 @@ graph
     commentcount 4
     duration "PT7M17S"
     indegree 1
-    cluster 9
+    cluster 3
   ]
   node
   [
@@ -6859,7 +6859,7 @@ graph
     commentcount 3
     duration "PT14M44S"
     indegree 1
-    cluster 5
+    cluster 2
   ]
   node
   [
@@ -6877,7 +6877,7 @@ graph
     commentcount 0
     duration "PT11M58S"
     indegree 1
-    cluster 7
+    cluster 3
   ]
   node
   [
@@ -6931,7 +6931,7 @@ graph
     commentcount 13
     duration "PT11M50S"
     indegree 1
-    cluster 5
+    cluster 2
   ]
   node
   [
@@ -6957,7 +6957,7 @@ graph
     label "27hLiryMlPA"
     step 0
     date "2022-07-09T20:43:04Z"
-    title "The M in re:MARS AWS Machine Learning"
+    title "The M in re:MARS  AWS Machine Learning"
     description "On this episode of The Six Five &#8211; On The Road hosts Patrick Moorhead and Daniel Newman are joined by Bratin Saha, VP and General Manager, Machine Learning Services, Amazon AI. Their conversation covers the latest in machine learning, which is the M in re:MARS. &#10;&#10;Their conversation revolves around the following:&#10;&#10;&#8226; Machine learning is no longer a thing of the future&#10;&#8226; How machine learning can be used to solve previously unsolvable issues &#10;&#8226; The exponentially increasing job opportunities in the growing ML field&#10;&#8226; How AWS is making ML accessible to everyone&#10;&#10;Disclaimer: This show is for information and entertainment purposes only. While we will discuss publicly traded companies on this show. The contents of this show should not be taken as investment advice.&#10;&#10;#Amazon, #AmazonEvent, #AmazonreMARS, #ClintCrosier, #AWS, #AWSSpaceandSattelite, #SixFiveWebcast, #moorinsightsandstrategy, #patrickmoorhead, #futurumresearch, #danielnewman"
     channeltitle "Moor Insights &#38; Strategy"
     channelid "UC8fY_kIR5AqTmafpAzOjQ2g"
@@ -6967,7 +6967,7 @@ graph
     commentcount -1
     duration "PT20M9S"
     indegree 0
-    cluster 8
+    cluster 7
   ]
   node
   [
@@ -6975,7 +6975,7 @@ graph
     label "Iuz_jc96bQk"
     step 0
     date "2019-04-22T14:00:03Z"
-    title "O que Machine Learning? #HipstersPontoTube"
+    title "O que  Machine Learning? #HipstersPontoTube"
     description "Como as m&#225;quinas aprendem? Antes disso, temos de nos perguntar como &#233; que n&#243;s humanos aprendemos. Assista &#224; explica&#231;&#227;o dos irm&#227;os Silveira! &#10;&#10;&#128187; Conhe&#231;a nossa escola de Data Science: https://www.alura.com.br/escola-data-science&#10;&#10;&#129300; Quer saber mais sobre Machine Learning e assuntos relacionados? Assista tamb&#233;m: &#10;&#10145; O que &#233; Python? &#10;https://bit.ly/python-youtube-alura&#10;&#10145; O que &#233; Machine Learning?&#10;https://bit.ly/machine-learning-youtube&#10;&#10145; Playlist Intelig&#234;ncia Artificial e Ci&#234;ncia de Dados&#10;https://bit.ly/ia-ciencia-dados-youtube&#10;&#10;&#128196; Quer saber sobre as novidades do universo da tecnologia e semanas de conte&#250;do gratuito da Alura? https://www.alura.com.br/imersao&#10;&#10;&#127911; Podcast Hipsters.Tech &#10;https://hipsters.tech/&#10;&#10;&#128242; Fique de olho nas novidades! &#10;Instagram: https://www.instagram.com/aluraonline&#10;Twitter: https://twitter.com/AluraOnline&#10;Facebook: https://www.alura.com.br"
     channeltitle "Alura Cursos Online"
     channelid "UCo7EHzKF2zDFWszw7Dg4mPw"
@@ -6985,7 +6985,7 @@ graph
     commentcount 147
     duration "PT13M6S"
     indegree 9
-    cluster 11
+    cluster 6
   ]
   node
   [
@@ -7003,7 +7003,7 @@ graph
     commentcount 524
     duration "PT19M56S"
     indegree 10
-    cluster 11
+    cluster 6
   ]
   node
   [
@@ -7093,7 +7093,7 @@ graph
     commentcount 3
     duration "PT6M11S"
     indegree 0
-    cluster 8
+    cluster 6
   ]
   node
   [
@@ -7111,7 +7111,7 @@ graph
     commentcount 0
     duration "PT16M38S"
     indegree 0
-    cluster 8
+    cluster 6
   ]
   node
   [
@@ -7129,7 +7129,7 @@ graph
     commentcount 100
     duration "PT55M50S"
     indegree 0
-    cluster 9
+    cluster 4
   ]
   node
   [
@@ -7147,7 +7147,7 @@ graph
     commentcount 70
     duration "PT1H45M32S"
     indegree 1
-    cluster 1
+    cluster 3
   ]
   node
   [
@@ -7165,7 +7165,7 @@ graph
     commentcount 58
     duration "PT5M35S"
     indegree 5
-    cluster 5
+    cluster 2
   ]
   node
   [
@@ -7183,7 +7183,7 @@ graph
     commentcount 13
     duration "PT6M51S"
     indegree 8
-    cluster 11
+    cluster 6
   ]
   node
   [
@@ -7227,7 +7227,7 @@ graph
     label "4yvBTwbVzsM"
     step 0
     date "2022-02-17T15:08:57Z"
-    title "Kuliah Terbuka #1 - Streaming Magang, Machine Learning Supervised Learning"
+    title "Kuliah Terbuka #1 - Streaming Magang, Machine Learning  Supervised Learning"
     description "Sebuah acara live yang membahana membahas isu-isu yang tidak populer terkait dunia IT dan programming. &#10;&#10;MANTAP!&#10;&#10;&#10;Support the stream: https://streamlabs.com/kelasterbuka&#10;&#10;=======================================&#10;Source Code bisa didownload di:&#10;https://www.github.com/kelasterbuka &#10;&#10;=======================================&#10;- Playlist tutorial python dasar:&#10;https://www.youtube.com/playlist?list=PLZS-MHyEIRo7cgStrKAMhgnOT66z2qKz1&#10;&#10; - Sudah Jago Python? lanjutkan ke OOP:&#10;https://www.youtube.com/playlist?list=PLZS-MHyEIRo7ab0-EveSvf4CLdyOECMm0&#10;&#10;=======================================&#10;Komunitas Kelas Terbuka:&#10;- Discord &#128126;: &#10;https://discord.gg/MbynPQzjq7&#10;&#10;- Telegram :&#10;https://t.me/ruangdiskusikelasterbuka&#10;&#10;=======================================&#10;Donasi Kelas Terbuka:&#10;- Saweria (GoPay, Dana, LinkAja, OVO, QRIS)&#10;https://saweria.co/kelasterbuka&#10;&#10;=======================================&#10;Follow kami di:&#10;https://www.youtube.com/kelasterbuka&#10;https://www.instagram.com/kelasterbuka&#10;https://www.twitter.com/kelasterbuka_id&#10;https://www.facebook.com/KelasTerbukaIndonesia&#10;https://www.github.com/kelasterbuka &#10;&#10;&#10;#kelasterbuka #kuliahterbuka #livestream"
     channeltitle "Kelas Terbuka"
     channelid "UCnrZ-UFSzeMSxKx_OHtwKsQ"
@@ -7237,7 +7237,7 @@ graph
     commentcount 47
     duration "PT1H5M15S"
     indegree 4
-    cluster 4
+    cluster 9
   ]
   node
   [
@@ -7255,7 +7255,7 @@ graph
     commentcount 51
     duration "PT7M45S"
     indegree 0
-    cluster 6
+    cluster 1
   ]
   node
   [
@@ -7291,7 +7291,7 @@ graph
     commentcount 115
     duration "PT30M5S"
     indegree 0
-    cluster 5
+    cluster 2
   ]
   node
   [
@@ -7309,7 +7309,7 @@ graph
     commentcount 111
     duration "PT36M8S"
     indegree 1
-    cluster 12
+    cluster 2
   ]
   node
   [
@@ -7327,7 +7327,7 @@ graph
     commentcount 71
     duration "PT7M11S"
     indegree 4
-    cluster 12
+    cluster 2
   ]
   node
   [
@@ -7335,7 +7335,7 @@ graph
     label "rplGZ97-x3E"
     step 0
     date "2019-04-15T00:45:42Z"
-    title "1- - Machine Learning"
+    title "1-  - Machine Learning"
     description "==========&#10;&#1575;&#1593;&#1605;&#1604; &#1587;&#1576;&#1587;&#1603;&#1585;&#1575;&#1610;&#1576; &#1608;&#1575;&#1587;&#1578;&#1605;&#1593; &#1604;&#1575;&#1582;&#1585; &#1575;&#1604;&#1575;&#1582;&#1576;&#1575;&#1585;&#10;&#10;&#1575;&#1606;&#1592;&#1605; &#1605;&#1593;&#1606;&#1575; &#1593;&#1604;&#1609; &#1578;&#1608;&#1575;&#1589;&#1604; &#1575;&#1604;&#1575;&#1580;&#1578;&#1605;&#1575;&#1593;&#1610;&#10;https://www.youtube.com/c/hussienahmmed/about&#10;&#10;&#1578;&#1589;&#1601;&#1581; &#1602;&#1575;&#1574;&#1605;&#1577; &#1575;&#1604;&#1583;&#1608;&#1585;&#1575;&#1578; &#1605;&#1606; &#1607;&#1606;&#1575;&#10;https://www.youtube.com/user/alxs1aa/playlists&#10;&#10;-------&#10;&#1580;&#1605;&#1610;&#1593; &#1581;&#1602;&#1608;&#1602; &#1575;&#1604;&#1606;&#1588;&#1585; &#1605;&#1581;&#1601;&#1608;&#1592;&#1577; &#1604;&#1604;&#1602;&#1606;&#1575;&#1577;"
     channeltitle "TheNewBaghdad"
     channelid "UCgntwWFdMDPq0eNhaQ0LHIQ"
@@ -7345,7 +7345,7 @@ graph
     commentcount 224
     duration "PT15M38S"
     indegree 2
-    cluster 4
+    cluster 2
   ]
   node
   [
@@ -7353,7 +7353,7 @@ graph
     label "hihuMBCuSlU"
     step 0
     date "2012-01-19T15:30:40Z"
-    title "Machine Learning :: Model Selection Cross Validation"
+    title "Machine Learning :: Model Selection  Cross Validation"
     description "A brief tutorial on how to use the technique of Cross Validation to estimate machine learning algorithm's performance and to choose between different models."
     channeltitle "djweissML"
     channelid "UCUDsxCGLUEJ8P1jdEyrKtzg"
@@ -7363,7 +7363,7 @@ graph
     commentcount 40
     duration "PT6M31S"
     indegree 2
-    cluster 1
+    cluster 3
   ]
   node
   [
@@ -7371,7 +7371,7 @@ graph
     label "oxuMHVA4ILM"
     step 0
     date "2022-07-11T04:55:04Z"
-    title "AIML | L-1 | Machine Learning: Introduction Basics | DRDO 2022 | Vishvadeep Gothi"
+    title "AIML | L-1 | Machine Learning: Introduction  Basics | DRDO 2022 | Vishvadeep Gothi"
     description "In this session, Educator Vishvadeep Gothi will be discussing Machine Learning Introduction &#38; Basics for the DRDO 2022 Exam.&#10;&#10;Click for free access to Educator's best classes:  : https://bit.ly/3uDwAgv&#10;For regular updates follow : https://unacademy.com/community/PF9PI3/&#10;To purchase please click : https://unacademy.onelink.me/081J/isv2y5qj&#10;&#10;Call Vishvadeep Gothi's team on  7825860237 and take your GATE &#38; ESE Preparations to the next level.&#10;&#10;&#10148; Use Code '' VDEEP10'', Unlock FREE Special Classes on our platform, &#38; also Get 10% off on your Subscription today.&#10;&#10;Click here for FREE access to Educator's best classes :  https://www.unacademy.com/a/Best-Classes-of-all-time-by-Vishvadeep-Gothi-CS.html&#10;&#10;----------------------------------------------------&#10; &#10148; Subscribe today:  https://unacademy.com/goal/gate-cs-it/NVLIA/subscribe?referral_code=VDEEP10&#10;----------------------------------------------------&#10;Download the sample notes for Digital Electronics: http://mrkt.unacademy.com/gatenotes/computerscience&#10;&#10;Join now to enhance your GATE &#38; ESE Preparation:&#10;https://t.me/unacademygateofficial&#10;https://t.me/unacademygatecsanit&#10;&#10;Ace your GATE Exam By Solving Most Important Questions: https://www.unacademy.com/a/'Practice-Quiz-Marathon-CS-IT.html&#10;Promotion Link 2 - We got you covered for GATE 2023 Preparation, upcoming CS-IT batches:&#10;Lakshya for GATE 2023 (CS &#38; IT) - Batch E&#10;https://unacademy.com/batch/lakshya-for-gate-2023-cs-it-batch-e/OMKH3JWQ&#10;&#10;Pragati for GATE 2024 (CS &#38; IT) - Batch E&#10;https://unacademy.com/batch/pragati-for-gate-2024-cs-it-batch-e/52XJ6FKI&#10;&#10;Watch the free &#38; best  classes by Vishvadeep Gothi: https://bit.ly/3uDwAgv&#10;Watch the Padho,Khelo &#38; Crack karo special Class Series Here:https://bit.ly/3yohZ9p&#10;&#10;Click here to join the Educator's community and get regular updates :  Connect with Vishvadeep Gothi, click now: https://unacademy.com/community/Q3ZGJY/&#10;&#10;&#10148; About the Educator:  Studied at Indian Institute of Science Bangalore&#10;GATE-AIR 19, 119, 440, 682&#10;&#10;&#10148; Follow Vishvadeep Gothi on Unacademy: https://unacademy.com/@vd_gothi&#10;&#10;Playlist Link:  https://youtube.com/playlist?list=PLG9aCp4uE-s2SkZBWGYlyRUPQjFKbWDtD&#10;----------------------------------------------------&#10;You can enroll to Unacademy Subscription and get the following benefits:&#10;1. Learn from your favourite teacher&#10;2. Dedicated DOUBT sessions&#10;3. One Subscription, Unlimited Access to Live Online Classes and Videos&#10;4. Real-time interaction with best-in-class teachers&#10;5. You can ask doubts in live online classes&#10;6. Limited students in each Class&#10;7. Download the videos &#38; watch them offline&#10;----------------------------------------------------&#10;Download the Unacademy Learning App here: &#10; &#10148; Android: https://unacademy.onelink.me/081J/40a&#10; &#10148; iOS: https://unacademy.onelink.me/081J/a61&#10;----------------------------------------------------&#10;If you don&#8217;t wish to miss any updates and or latest videos about GATE &#38; ESE Exams Preparation, subscribe to the channel now. Students who have already subscribed, stay tuned as we will get more strategy and preparations videos and FREE LIVE CLASSES just for you. Feel free to spread the word &#8211; share the videos with your friends and classmates.&#10;&#10;#Machine_Learning #DRDO_2022 #Vishvadeep_Gothi"
     channeltitle "Unacademy Computer Science"
     channelid "UCFWCFYvqnAMT-jcCqTp_SlA"
@@ -7399,7 +7399,7 @@ graph
     commentcount 36
     duration "PT1H2M40S"
     indegree 1
-    cluster 5
+    cluster 2
   ]
   node
   [
@@ -7417,7 +7417,7 @@ graph
     commentcount 36
     duration "PT8M6S"
     indegree 3
-    cluster 8
+    cluster 6
   ]
   node
   [
@@ -7453,7 +7453,7 @@ graph
     commentcount 101
     duration "PT11H15M39S"
     indegree 2
-    cluster 2
+    cluster 7
   ]
   node
   [
@@ -7489,7 +7489,7 @@ graph
     commentcount -1
     duration "PT1H43M8S"
     indegree 1
-    cluster 8
+    cluster 4
   ]
   node
   [
@@ -7507,7 +7507,7 @@ graph
     commentcount -1
     duration "PT12M17S"
     indegree 0
-    cluster 7
+    cluster 4
   ]
   node
   [
@@ -7525,7 +7525,7 @@ graph
     commentcount 740
     duration "PT24M45S"
     indegree 3
-    cluster 5
+    cluster 2
   ]
   node
   [
@@ -7543,7 +7543,7 @@ graph
     commentcount -1
     duration "PT2H58M51S"
     indegree 0
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -7561,7 +7561,7 @@ graph
     commentcount 9
     duration "PT13M47S"
     indegree 5
-    cluster 12
+    cluster 2
   ]
   node
   [
@@ -7597,7 +7597,7 @@ graph
     commentcount 120
     duration "PT5M23S"
     indegree 5
-    cluster 11
+    cluster 6
   ]
   node
   [
@@ -7615,7 +7615,7 @@ graph
     commentcount 31
     duration "PT3M47S"
     indegree 2
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -7633,7 +7633,7 @@ graph
     commentcount 8
     duration "PT6M35S"
     indegree 0
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -7651,7 +7651,7 @@ graph
     commentcount 50
     duration "PT12H14M9S"
     indegree 3
-    cluster 8
+    cluster 6
   ]
   node
   [
@@ -7659,7 +7659,7 @@ graph
     label "oKHOSqQw9ro"
     step 0
     date "2019-10-05T17:45:59Z"
-    title "Si quiero dedicarme al Machine Learning, orden?"
+    title "Si quiero dedicarme al Machine Learning,  orden?"
     description "Tienes todos los cursos citados en el video con un 95% de descuento desde el siguiente link&#10;&#10;https://frogames.es/rutas-de-aprendizaje&#10;&#10;I. Probabilidad, estad&#237;stica, algebra.&#10;&#10;Curso completo de estad&#237;stica descriptiva - RStudio y Python.&#10;https://www.udemy.com/course/estadistica-descriptiva/?referralCode=45B3A7603B5F97AB2FFD&#10;&#10;Curso completo de &#225;lgebra lineal de cero a experto. &#10;https://www.udemy.com/course/algebralineal/?referralCode=219A2DBFEE5DEE180914&#10;&#10;Probabilidad para Machine Learning y Big Data con R y Python.&#10;https://www.udemy.com/course/probabilidad-y-variables-aleatorias-para-ml-con-r-y-python/?referralCode=E47411C814593EBE3643&#10;&#10;Curso completo de estad&#237;stica inferencial con R y Python.&#10;https://www.udemy.com/course/estadisticainferencial/?referralCode=4BF91BF67A67EB5DA45E&#10;&#10;Curso de c&#225;lculo. Pr&#243;ximamente.&#10;&#10;&#10;II. Machine Learning&#10;&#10;Machine Learning de A a la Z: R y Python para Data Science. &#10;https://www.udemy.com/course/machinelearning-es/?referralCode=D9EBBA247E3E15DD7B12&#10;&#10;Curso completo de R para Data Science con Tidyverse. &#10;https://www.udemy.com/course/r-for-data-science/?referralCode=D495166F6F40F479449E&#10;&#10;Curso completo de Machine Learning: Data Science con RStudio. &#10;https://www.udemy.com/course/r-data-science/?referralCode=51775D9AC988690BD44F&#10;&#10;Curso completo de Machine Learning: Data Science en Python. &#10;https://www.udemy.com/course/machinelearningpython/?referralCode=01745B4114A636CB934D&#10;&#10;&#10;III. Inteligencia Artificial&#10;&#10;Curso completo de Inteligencia Artificial con Python. &#10;https://www.udemy.com/course/curso-completo-de-inteligencia-artificial/?referralCode=DD86E9C764924284CE78&#10;&#10;Deep Learning con Tensorflow para Machine Learning e IA. &#10;https://www.udemy.com/course/tensorflow-python/?referralCode=F1203D92D29E15318DAF&#10;&#10;Tensorflow 2.0: Gu&#237;a completa para el Nuevo Tensorflow. &#10;https://www.udemy.com/course/tensorflow2/?referralCode=578A3802BF14DBBBAF88"
     channeltitle "Juan Gabriel Gomila"
     channelid "UCMUxXNYrVCv6-bQakhomvBg"
@@ -7687,7 +7687,7 @@ graph
     commentcount 10
     duration "PT12M5S"
     indegree 7
-    cluster 11
+    cluster 6
   ]
   node
   [
@@ -7723,7 +7723,7 @@ graph
     commentcount 27
     duration "PT2M21S"
     indegree 0
-    cluster 3
+    cluster 5
   ]
   node
   [
@@ -7741,7 +7741,7 @@ graph
     commentcount 0
     duration "PT37S"
     indegree 0
-    cluster 1
+    cluster 5
   ]
   node
   [
@@ -7795,7 +7795,7 @@ graph
     commentcount 229
     duration "PT28M57S"
     indegree 5
-    cluster 11
+    cluster 6
   ]
   node
   [
@@ -7813,7 +7813,7 @@ graph
     commentcount 0
     duration "PT1M37S"
     indegree 3
-    cluster 9
+    cluster 4
   ]
   node
   [
@@ -7831,7 +7831,7 @@ graph
     commentcount 2
     duration "PT4H3M21S"
     indegree 0
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -7839,7 +7839,7 @@ graph
     label "Pgs0lwLIqQw"
     step 0
     date "2022-07-12T21:25:08Z"
-    title "SIGGRAPH Now Webinar Series: Introduction to Machine Learning Neural Networks - Part 1"
+    title "SIGGRAPH Now Webinar Series: Introduction to Machine Learning  Neural Networks - Part 1"
     description "Brought to you by SIGGRAPH University, this three-part webinar series will teach you all about machine learning and neural networks. Rajesh Sharma (VP of Engineering, Spire Animation Studios) has designed three intermediate-level workshops for attendees to gain a strong understanding of the basic principles of machine learning and neural networks. Using a mix of theory and hands-on practice Rajesh will help you build intuition around several topics with easy to understand explanations and examples from some of the most commonly used algorithms and models including Autoencoders, CNN, GAN, and Transformers. Brought to you by SIGGRAPH University.&#10;&#10;Webinar Session Part 1 Course Files: https://drive.google.com/drive/folders/1Nc5CMvbRbVtPIbyLGsj2xPeoJGbIDi1d?usp=sharing&#10;&#10;Visit our website to register for Rajesh's webinar and other SIGGRAPH Now educational webinars: https://s2022.siggraph.org/siggraph-now-supplemental-learning/&#10;&#10;SIGGRAPH 2022 Conference Chair is Munkhtsetseg Nandigjav.&#10;&#10;#SIGGRAPHNow #SIGGRAPHUniversity #ML #NeuralNetworks #RajeshSharma"
     channeltitle "ACMSIGGRAPH"
     channelid "UCbaxUExGKrH2zxY4AkY9wCg"
@@ -7849,7 +7849,7 @@ graph
     commentcount 4
     duration "PT1H33M4S"
     indegree 0
-    cluster 5
+    cluster 2
   ]
   node
   [
@@ -7867,7 +7867,7 @@ graph
     commentcount 100
     duration "PT27M45S"
     indegree 4
-    cluster 11
+    cluster 6
   ]
   node
   [
@@ -7885,7 +7885,7 @@ graph
     commentcount 23
     duration "PT8M20S"
     indegree 3
-    cluster 4
+    cluster 9
   ]
   node
   [
@@ -7903,7 +7903,7 @@ graph
     commentcount 284
     duration "PT12M11S"
     indegree 0
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -7921,7 +7921,7 @@ graph
     commentcount 58
     duration "PT9M12S"
     indegree 5
-    cluster 12
+    cluster 2
   ]
   node
   [
@@ -7939,7 +7939,7 @@ graph
     commentcount 129
     duration "PT12M20S"
     indegree 7
-    cluster 11
+    cluster 6
   ]
   node
   [
@@ -7957,7 +7957,7 @@ graph
     commentcount 56
     duration "PT5M39S"
     indegree 0
-    cluster 8
+    cluster 6
   ]
   node
   [
@@ -7975,7 +7975,7 @@ graph
     commentcount 47
     duration "PT5M24S"
     indegree 4
-    cluster 12
+    cluster 2
   ]
   node
   [
@@ -7993,7 +7993,7 @@ graph
     commentcount 20
     duration "PT54M3S"
     indegree 1
-    cluster 5
+    cluster 2
   ]
   node
   [
@@ -8029,7 +8029,7 @@ graph
     commentcount 63
     duration "PT15M19S"
     indegree 5
-    cluster 12
+    cluster 2
   ]
   node
   [
@@ -8047,7 +8047,7 @@ graph
     commentcount 6
     duration "PT4M9S"
     indegree 0
-    cluster 5
+    cluster 2
   ]
   node
   [
@@ -8065,7 +8065,7 @@ graph
     commentcount 0
     duration "PT59S"
     indegree 1
-    cluster 1
+    cluster 5
   ]
   node
   [
@@ -8083,7 +8083,7 @@ graph
     commentcount 2
     duration "PT7M24S"
     indegree 1
-    cluster 9
+    cluster 3
   ]
   node
   [
@@ -8101,7 +8101,7 @@ graph
     commentcount 2
     duration "PT1H36M27S"
     indegree 0
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -8119,7 +8119,7 @@ graph
     commentcount 0
     duration "PT7M24S"
     indegree 0
-    cluster 3
+    cluster 5
   ]
   node
   [
@@ -8137,7 +8137,7 @@ graph
     commentcount 0
     duration "PT1H10M19S"
     indegree 0
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -8173,7 +8173,7 @@ graph
     commentcount 0
     duration "PT1H33M2S"
     indegree 0
-    cluster 8
+    cluster 3
   ]
   node
   [
@@ -8191,7 +8191,7 @@ graph
     commentcount 1
     duration "PT7M53S"
     indegree 1
-    cluster 7
+    cluster 3
   ]
   node
   [
@@ -8209,7 +8209,7 @@ graph
     commentcount 1
     duration "PT38M33S"
     indegree 0
-    cluster 8
+    cluster 7
   ]
   node
   [
@@ -8227,7 +8227,7 @@ graph
     commentcount 10
     duration "PT6M13S"
     indegree 0
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -8245,7 +8245,7 @@ graph
     commentcount 0
     duration "PT39S"
     indegree 3
-    cluster 9
+    cluster 4
   ]
   node
   [
@@ -8263,7 +8263,7 @@ graph
     commentcount 0
     duration "PT1H11M31S"
     indegree 0
-    cluster 5
+    cluster 7
   ]
   node
   [
@@ -8299,7 +8299,7 @@ graph
     commentcount 0
     duration "PT1M14S"
     indegree 0
-    cluster 9
+    cluster 6
   ]
   node
   [
@@ -8317,7 +8317,7 @@ graph
     commentcount 7
     duration "PT1H30M56S"
     indegree 3
-    cluster 9
+    cluster 4
   ]
   node
   [
@@ -8335,7 +8335,7 @@ graph
     commentcount 0
     duration "PT1H9M56S"
     indegree 0
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -8353,7 +8353,7 @@ graph
     commentcount 0
     duration "PT34M34S"
     indegree 0
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -8371,7 +8371,7 @@ graph
     commentcount 0
     duration "PT40M20S"
     indegree 0
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -8407,7 +8407,7 @@ graph
     commentcount 0
     duration "PT6M34S"
     indegree 0
-    cluster 3
+    cluster 5
   ]
   node
   [
@@ -8425,7 +8425,7 @@ graph
     commentcount 1
     duration "PT2M26S"
     indegree 0
-    cluster 9
+    cluster 6
   ]
   node
   [
@@ -8443,7 +8443,7 @@ graph
     commentcount 0
     duration "PT17M30S"
     indegree 0
-    cluster 9
+    cluster 6
   ]
   node
   [
@@ -8461,7 +8461,7 @@ graph
     commentcount 0
     duration "PT45M17S"
     indegree 0
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -8497,7 +8497,7 @@ graph
     commentcount 0
     duration "PT1M55S"
     indegree 3
-    cluster 9
+    cluster 4
   ]
   node
   [
@@ -8515,7 +8515,7 @@ graph
     commentcount 0
     duration "PT1M8S"
     indegree 0
-    cluster 5
+    cluster 3
   ]
   node
   [
@@ -8533,7 +8533,7 @@ graph
     commentcount 0
     duration "PT2M48S"
     indegree 0
-    cluster 6
+    cluster 1
   ]
   node
   [
@@ -8541,7 +8541,7 @@ graph
     label "gxOYwQxDO_I"
     step 0
     date "2022-07-11T18:09:50Z"
-    title "Machine Learning R Mega Link Course"
+    title "Machine Learning  R Mega Link Course"
     description "In this video you can download the machine learning complete course  from the mega link in this course it uses the phython and R language  for machine learning ...&#10;Get touch on facebook :  https://www.facebook.com/Multiverse_1...&#10;Download  Link : https://mega.nz/folder/xcNiTA7T#wLH3FGLpzvFiTGbrhb3wYQ"
     channeltitle "Hari Raj Khanal"
     channelid "UCTYiN7FGnqE5jc20ujYc82w"
@@ -8551,7 +8551,7 @@ graph
     commentcount 0
     duration "PT4M29S"
     indegree 0
-    cluster 6
+    cluster 2
   ]
   node
   [

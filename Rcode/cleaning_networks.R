@@ -33,7 +33,8 @@ get_network_metadata <- function(g, networkName=NA){
     size_clean = length(V(g)),
     num_components = components$no,
     size_largest_component = components$csize[which.max(components$csize)],
-    isolates = sum(components$csize[components$csize==1])
+    isolates = sum(components$csize[components$csize==1]),
+    avg_degree_clean = mean(degree(g))
   )
   
   # selecting largest connected component
@@ -45,7 +46,8 @@ get_network_metadata <- function(g, networkName=NA){
 
   MD2 <- data.frame(
     no_clusters = length(unique(cl$membership)),
-    modularity = cl$modularity[1]
+    modularity = cl$modularity[1],
+    avg_degree = mean(degree(g))
   )
 
   return(cbind(MD1,MD2))  
@@ -55,7 +57,7 @@ clean_titles <- function(g){
   V(g)$title <- replace_url(V(g)$title)
   V(g)$title <- replace_white(V(g)$title)
   V(g)$title <- gsub("&.*;", "", V(g)$title) # removing emoji
-  V(g)$title <- replace_emoticon(V(g)$title)
+  #V(g)$title <- replace_emoticon(V(g)$title) # creates 'explained' == 'e tongue sticking out lained'
   return(g)
 }
 
@@ -98,8 +100,5 @@ for(i in network_files) {
 ## SAVE METADATA
 
 write.csv(md, file='../data/clean/metadata/metadata_networks.csv', row.names = F)
-
-
-
 
 

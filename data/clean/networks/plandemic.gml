@@ -1,4 +1,4 @@
-Creator "igraph version 1.3.1 Thu Jul 14 09:45:07 2022"
+Creator "igraph version 1.3.1 Thu Jul 14 11:01:22 2022"
 Version 1
 graph
 [
@@ -37,7 +37,7 @@ graph
     commentcount 9007
     duration "PT8M31S"
     indegree 0
-    cluster 2
+    cluster 1
   ]
   node
   [
@@ -63,7 +63,7 @@ graph
     label "YqWUuOqf_TU"
     step 0
     date "2020-05-12T00:19:36Z"
-    title "How and other conspiracy theories spread"
+    title "How  and other conspiracy theories spread"
     description "A new video called 'Plandemic' is full of false claims about COVID-19, but that hasn't stopped it from spreading online. An expert explains how 'Plandemic' and other conspiracy theories get popular.&#13;&#10;&#10;&#187;&#187;&#187; Subscribe to CBC News to watch more videos: http://bit.ly/1RreYWS&#13;&#10;&#13;&#10;Connect with CBC News Online:&#13;&#10;&#13;&#10;For breaking news, video, audio and in-depth coverage: http://bit.ly/1Z0m6iX&#13;&#10;Find CBC News on Facebook: http://bit.ly/1WjG36m&#13;&#10;Follow CBC News on Twitter: http://bit.ly/1sA5P9H&#13;&#10;For breaking news on Twitter: http://bit.ly/1WjDyks&#13;&#10;Follow CBC News on Instagram: http://bit.ly/1Z0iE7O&#13;&#10;&#13;&#10;Download the CBC News app for iOS: http://apple.co/25mpsUz&#13;&#10;Download the CBC News app for Android: http://bit.ly/1XxuozZ&#13;&#10;&#13;&#10;&#187;&#187;&#187;&#187;&#187;&#187;&#187;&#187;&#187;&#187;&#187;&#187;&#187;&#187;&#187;&#187;&#187;&#187;&#13;&#10;For more than 75 years, CBC News has been the source Canadians turn to, to keep them informed about their communities, their country and their world. Through regional and national programming on multiple platforms, including CBC Television, CBC News Network, CBC Radio, CBCNews.ca, mobile and on-demand, CBC News and its internationally recognized team of award-winning journalists deliver the breaking stories, the issues, the analyses and the personalities that matter to Canadians."
     channeltitle "CBC News"
     channelid "UCuFFtHWoLl5fauMMD5Ww2jA"
@@ -81,7 +81,7 @@ graph
     label "JasyAndXUNE"
     step 0
     date "2020-05-08T22:38:04Z"
-    title "VERIFY: Debunking the viral video"
+    title "VERIFY: Debunking the  viral video"
     description "The TEGNA Verify team found the viral 25-minute video is trying to push a narrative filled with falsehoods and a lack of evidence - leading reporter Jason Puckett to label it as disinformation.&#10;&#10;Welcome to the KARE 11 News YouTube channel. Subscribe to our channel for compelling and dramatic storytelling, award winning investigations, breaking news and information you can use. &#13;&#10;&#13;&#10;Text your photos, videos and news tips to 763-797-7215.&#13;&#10;&#13;&#10;&#187; Subscribe to KARE 11 on YouTube: https://www.youtube.com/user/KARE11?sub_confirmation=1&#13;&#10;&#187; Watch more KARE 11 video: https://www.youtube.com/user/KARE11/v...&#13;&#10;&#187; Visit KARE11.com: http://www.kare11.com/&#13;&#10;&#187; Download our app! https://www.kare11.com/appredirect/&#13;&#10;&#187; Find KARE 11 on Facebook: https://www.facebook.com/KARE11/&#13;&#10;&#187; Follow KARE 11 on Twitter: https://twitter.com/kare11&#13;&#10;&#187; Follow KARE 11 on Instagram: https://www.instagram.com/kare11/"
     channeltitle "KARE 11"
     channelid "UC1JAwKeDUjN2orv5t7LWODQ"
@@ -99,7 +99,7 @@ graph
     label "_21O53If7BM"
     step 0
     date "2020-05-15T22:37:26Z"
-    title "Dissecting The Dangerous Conspiracy Theory"
+    title "Dissecting The Dangerous  Conspiracy Theory"
     description "The internet can be a virtual sewer of misinformation, hoaxes, and ignorant bunk. Even platforms that claim a commitment to stopping the spread of falsehoods, like Facebook, have a history of failing to do so. Now, a new conspiracy theory has surfaced: the &#8220;plandemic,&#8221; which alleges that coronavirus was engineered to increase vaccinations and make pharmaceutical companies rich. To discuss, Emily Rooney was joined by Adam Reilly of WGBH News; former CNN White House correspondent Dan Lothian; and Joanna Weiss of Northeastern University&#8217;s Experience Magazine."
     channeltitle "GBH News"
     channelid "UCx_SjDi4CS5ALkWCS9ffldQ"
@@ -171,7 +171,7 @@ graph
     label "7aT-Nb0nDeY"
     step 0
     date "2020-05-08T22:08:41Z"
-    title "Why People Believe Crazy Conspiracy Theories | The Effect"
+    title "Why People Believe Crazy Conspiracy Theories | The  Effect"
     description "What fuels conspiracy thinking and how can we behave more rationally? A live rant about &#34;Plandemic,&#34; those Bakersfield doctors, and the allure of conspiracy thinking.&#10;&#10;Links, audio podcast, and more at https://zdoggmd.com/conspiracy-plandemic&#10;&#10;Your support makes what we do possible! Join the SuperPac and get exclusive content, live discussions, and other crazy perks:&#10;&#10;YouTube: https://www.youtube.com/user/zdoggmd/join&#10;Facebook: http://facebook.com/becomesupporter/zdoggmd&#10;Patreon: http://patreon.com/zdoggmd&#10;PayPal: https://www.paypal.me/zdoggmd&#10;&#10;Website: https://ZDoggMD.com&#10;Podcast: https://ZDoggMD.com/podcasts&#10;Facebook: http://facebook.com/zdoggmd&#10;Newsletter: http://eepurl.com/gD8_D1&#10;Twitter: http://twitter.com/zdoggmd&#10;Instagram: http://instagram.com/zdoggmd&#10;&#10;Send Us Email: zubin@turntablehealth.com&#10;Send Us Hate Mail:&#10;1025 Alameda De Las Pulgas #218&#10;Belmont, CA 94002"
     channeltitle "ZDoggMD"
     channelid "UCFyRz1N_T-rnSkbaAH_TFAw"
@@ -181,7 +181,7 @@ graph
     commentcount 2239
     duration "PT27M33S"
     indegree 16
-    cluster 3
+    cluster 6
   ]
   node
   [
@@ -199,7 +199,7 @@ graph
     commentcount 10
     duration "PT8M17S"
     indegree 0
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -217,7 +217,7 @@ graph
     commentcount 630
     duration "PT1M"
     indegree 10
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -235,7 +235,7 @@ graph
     commentcount 86
     duration "PT1M47S"
     indegree 9
-    cluster 7
+    cluster 8
   ]
   node
   [
@@ -271,7 +271,7 @@ graph
     commentcount 47897
     duration "PT10M6S"
     indegree 52
-    cluster 8
+    cluster 9
   ]
   node
   [
@@ -279,7 +279,7 @@ graph
     label "SEbMNuVrZMU"
     step 0
     date "2020-05-15T00:20:03Z"
-    title "Debunked COVID-19 Conspiracy Driven By Uncertainty"
+    title "Debunked COVID-19  Conspiracy Driven By Uncertainty"
     description "A virus conspiracy video gains views despite being debunked&#10;&#10;Learn more about this story at https://www.newsy.com/101337/&#10;&#10;Find more videos like this at https://www.newsy.com&#10;&#10;Follow Newsy on Facebook: https://www.facebook.com/newsy&#10;Follow Newsy on Twitter: https://www.twitter.com/newsy"
     channeltitle "Newsy"
     channelid "UCTln5ss6h6L_xNfMeujfPbg"
@@ -289,7 +289,7 @@ graph
     commentcount 734
     duration "PT1M42S"
     indegree 6
-    cluster 7
+    cluster 8
   ]
   node
   [
@@ -333,7 +333,7 @@ graph
     label "4KfSlN5PBpg"
     step 0
     date "2020-05-08T00:12:05Z"
-    title "A flavored Coronavirus Update Part 2"
+    title "A  flavored Coronavirus Update Part 2"
     description "Here is day 2 of Dr. Galvin&#8217;s analysis of the Plandemic video. Plus his thoughts on censorship and civil discourse."
     channeltitle "Vitality Medical Wellness Institute"
     channelid "UC8xdGJLVAdbQLrUFCCEZjKA"
@@ -343,7 +343,7 @@ graph
     commentcount 966
     duration "PT15M40S"
     indegree 0
-    cluster 9
+    cluster 10
   ]
   node
   [
@@ -351,7 +351,7 @@ graph
     label "bIY-Chq27Wc"
     step 0
     date "2020-05-10T16:13:29Z"
-    title "8 things gets wrong"
+    title "8 things  gets wrong"
     description "We fact-checked 8 of the most egregious falsehoods in &#34;Plandemic&#34; &#8212; a video full of conspiracy theories about the coronavirus https://bit.ly/35EugYC&#10;&#10;Follow us on: &#10;Facebook: https://facebook.com/politifact&#10;Twitter: https://twitter.com/politifact&#10;Instagram: https://instagram.com/politifact"
     channeltitle "PolitiFact"
     channelid "UCfyYK3GqcotDIAjcoReK3Hg"
@@ -361,7 +361,7 @@ graph
     commentcount 527
     duration "PT4M40S"
     indegree 0
-    cluster 7
+    cluster 8
   ]
   node
   [
@@ -423,7 +423,7 @@ graph
     label "FOaMSC034nY"
     step 0
     date "2020-05-11T21:22:43Z"
-    title "The truth about that video"
+    title "The truth about that  video"
     description "Pandemic or #plandemic? The latest viral internet video is a conspiracy theory documentary chock full of misleading claims about the origin of #coronavirus, flu vaccines, and wearing a mask. The video is clearly produced by professionals and looks &#8220;nice.&#8221; But we know that there&#8217;s always more than meets the eye. &#10;&#10;In this video, we talk about some claims hand-picked from PolitiFact&#8217;s roundup of misleading claims from the documentary. &#10;&#10;UPDATE (5/12/2020): We reached out to the makers of the film as well as Mikovits for comment and they have not responded as of Tuesday afternoon.&#10;&#10;This video was produced in partnership with PolitiFact, you can check out their excellent reporting on the 'Plandemic' video here:  &#10;Fact-checking &#8216;Plandemic&#8217;: A documentary full of false conspiracy theories about the coronavirus https://www.politifact.com/article/2020/may/08/fact-checking-plandemic-documentary-full-false-con/&#10;&#10;Also check out our MediaWise fact-check referenced in the video: Can this malaria drug (chloroquine) also cure COVID-19? https://youtu.be/ikxcENXelUY&#10;&#10;MediaWise is a nonprofit media literacy project of The Poynter Institute. Poynter is also home to PolitiFact. &#10;&#10;---&#10;Learn more about MediaWise: https://www.poynter.org/mediawise&#10;Want us to fact-check something you&#8217;ve seen on your timeline? Use the hashtag #IsThisLegit to get our attention. &#10;&#10;All of our stories are posted on Instagram. See what we&#8217;re fact-checking today! &#10;Follow MediaWise on Instagram: https://instagram.com/mediawise&#10;Follow MediaWise on Facebook: https://facebook.com/mediawise &#10;Follow MediaWise on Twitter: https://twitter.com/mediawise &#10;Follow MediaWise on TikTok: https://tiktok.com/@mediawise&#10;&#10;MediaWise is a digital media literacy initiative led by The Poynter Institute: Its mission is to teach Americans of all ages how to sort fact from fiction online. The work of MediaWise has been seen by more than 10 million people since the project launched in 2018. The MediaWise program teaches people through in-person and virtual training events, online educational videos, fact-checking content reported by its Teen Fact-Checking Network, and its MediaWise Ambassador program &#8212; a group of prominent journalists and influencers who help promote the MediaWise mission. In 2020, Poynter launched the MediaWise Voter Project (#MVP2020) to teach first-time voters how to find reliable information online about the U.S. presidential election, a new initiative supported by Facebook. The foundation of MediaWise was created with support from Google.org, and MediaWise is a part of Google News Initiative (Google is the parent company of YouTube). Learn more at poynter.org/mediawise."
     channeltitle "MediaWise"
     channelid "UC2DPyDJLFycNPgPcH0jaeHw"
@@ -451,7 +451,7 @@ graph
     commentcount 1432
     duration "PT9M30S"
     indegree 11
-    cluster 9
+    cluster 10
   ]
   node
   [
@@ -469,7 +469,7 @@ graph
     commentcount 12
     duration "PT5M26S"
     indegree 1
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -487,7 +487,7 @@ graph
     commentcount 9
     duration "PT4M43S"
     indegree 2
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -523,7 +523,7 @@ graph
     commentcount 9900
     duration "PT3M14S"
     indegree 11
-    cluster 10
+    cluster 11
   ]
   node
   [
@@ -595,7 +595,7 @@ graph
     commentcount 1486
     duration "PT20M38S"
     indegree 21
-    cluster 1
+    cluster 12
   ]
   node
   [
@@ -613,7 +613,7 @@ graph
     commentcount -1
     duration "PT25S"
     indegree 0
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -631,7 +631,7 @@ graph
     commentcount 66
     duration "PT1H30M38S"
     indegree 3
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -657,7 +657,7 @@ graph
     label "eJES224rH1w"
     step 0
     date "2021-08-25T20:06:51Z"
-    title "Jen Psaki says recorded live 3:00pm"
+    title "Jen Psaki says  recorded live 3:00pm"
     description ""
     channeltitle "Jimmy Crow"
     channelid "UC2DC8NPc0Titt-yOlEriM8A"
@@ -667,7 +667,7 @@ graph
     commentcount 104
     duration "PT6S"
     indegree 4
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -703,7 +703,7 @@ graph
     commentcount 4
     duration "PT1M18S"
     indegree 0
-    cluster 7
+    cluster 8
   ]
   node
   [
@@ -721,7 +721,7 @@ graph
     commentcount 959
     duration "PT3M37S"
     indegree 0
-    cluster 10
+    cluster 11
   ]
   node
   [
@@ -739,7 +739,7 @@ graph
     commentcount 20
     duration "PT1M"
     indegree 0
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -829,7 +829,7 @@ graph
     commentcount 78
     duration "PT12S"
     indegree 2
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -855,7 +855,7 @@ graph
     label "_3JxWdV1C98"
     step 0
     date "2020-09-29T21:43:15Z"
-    title "LeeBoy Fuzz - Plandemic"
+    title "LeeBoy  Fuzz - Plandemic"
     description "Let me tell you about something that irritates me... the Plandemic. In this Season 2 debut episode of LeeBoy &#38; Fuzz, we discuss Trump&#8217;s self-proclaimed &#8220;A+&#8221; job in response to the coronavirus. Also, we premiere the new &#8220;LeeNN vs Fuzz News&#8221; segment! Like comment and share for more LeeBoy POV! &#10;&#128250;&#10;&#127909;&#10;#comedy #comedian #comediansofinstagram #allthat #nickelodeon #kenanandkel #karen #trumpvsbiden #presidentialdebate #debate  #joebiden #donaldtrump #politics #covid19 #reparations #blackcontentcreators #leroyandfuzz #pandemic #plandemic #coronavirus"
     channeltitle "LeeBoy TV"
     channelid "UCTFZiQ7BME5ASeIqWehpMLg"
@@ -865,7 +865,7 @@ graph
     commentcount 0
     duration "PT4M46S"
     indegree 0
-    cluster 8
+    cluster 9
   ]
   node
   [
@@ -901,7 +901,7 @@ graph
     commentcount 7
     duration "PT1M26S"
     indegree 0
-    cluster 9
+    cluster 10
   ]
   node
   [
@@ -973,7 +973,7 @@ graph
     commentcount 0
     duration "PT4M28S"
     indegree 0
-    cluster 7
+    cluster 8
   ]
   node
   [
@@ -1017,7 +1017,7 @@ graph
     label "IQd1Uek3cbw"
     step 0
     date "2020-12-01T21:18:06Z"
-    title "Truesounds Ras Chanter - Plandemic (Sling Things Riddim)"
+    title "Truesounds  Ras Chanter - Plandemic (Sling Things Riddim)"
     description "We got to work out the puzzle why Babylon what us in a muzzle. It compromise you immunity. Can&#8217;t breathe fresh air so it&#8217;s bound to sick us .   Who they want to track and  who want to trace. We see Babylon their a big disgrace. Who they want to hook and who they want to jook . We see they are lie and and we they are crooks.  Like a fruit on a tree that&#8217;s how they want to pick us . They even make law because they want to convict us . When it&#8217;s not deception we no that it&#8217;s trickery . They reveal themselves no more a Mistry. We not going to stop take the vitamin D . The sunshine is the vitamin D . Stand up in the vitamin D . And it is Bless by the day Almighty..     From the lockdown suicide has gone up . People can&#8217;t get no treatment that&#8217;s gone up. Alcohol and drug addiction that&#8217;s gone up. Domestic violence that&#8217;s gone up. Thousands of people job get cut . Nuff people business close down an shut. We used to have money but our pockets is broke . If we unite they will come unstuck. Now their talking about isolate . To treat us like criminal we no it&#8217;s not great. Most politician their just like a snake. We have a right to rebel so just hold the fate. They want to inject Black and Asian first. But who Jah bless no body can cause. They want us to go forward so we reverse. We must wake up before things get worse..."
     channeltitle "truesounds"
     channelid "UCB6UvNdF0RO5BzLK7OD1LhA"
@@ -1027,7 +1027,7 @@ graph
     commentcount 136
     duration "PT3M38S"
     indegree 3
-    cluster 7
+    cluster 8
   ]
   node
   [
@@ -1063,7 +1063,7 @@ graph
     commentcount 5
     duration "PT21S"
     indegree 0
-    cluster 7
+    cluster 8
   ]
   node
   [
@@ -1081,7 +1081,7 @@ graph
     commentcount 50
     duration "PT54M49S"
     indegree 6
-    cluster 9
+    cluster 10
   ]
   node
   [
@@ -1089,7 +1089,7 @@ graph
     label "ew4cZFy-lCE"
     step 0
     date "2020-05-16T19:33:20Z"
-    title "Dr. Judy Mikovits wants to discuss with Dr. Galvin. Should he accept?"
+    title "Dr. Judy Mikovits wants to discuss  with Dr. Galvin. Should he accept?"
     description "Dr. Galvin has been invited to debate Dr. Judy Mikovits on the Good Intentions Show with Tim Ray on May 27th. He's soliciting viewer input, (especially from those trolling him about his Plandemic debunks) whether he should agree or not. The network is a bit radical and it could all be a setup. However, Dr. G has spoken with Dr. Mikovits and host Tim Ray, and all have agreed to a civil debate about the issues Dr. Galvin is familiar with (things pertaining to the medical aspects of the virus) while avoiding conjecture about wider conspiracies. What do you think? Put your answers below and add any questions you would like him to address should he agree to the debate."
     channeltitle "Vitality Medical Wellness Institute"
     channelid "UC8xdGJLVAdbQLrUFCCEZjKA"
@@ -1099,7 +1099,7 @@ graph
     commentcount 157
     duration "PT4M53S"
     indegree 0
-    cluster 9
+    cluster 10
   ]
   node
   [
@@ -1117,7 +1117,7 @@ graph
     commentcount 7
     duration "PT23S"
     indegree 0
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -1135,7 +1135,7 @@ graph
     commentcount 13
     duration "PT2M47S"
     indegree 0
-    cluster 7
+    cluster 8
   ]
   node
   [
@@ -1153,7 +1153,7 @@ graph
     commentcount 0
     duration "PT1M53S"
     indegree 0
-    cluster 10
+    cluster 11
   ]
   node
   [
@@ -1171,7 +1171,7 @@ graph
     commentcount 14
     duration "PT1M33S"
     indegree 0
-    cluster 8
+    cluster 9
   ]
   node
   [
@@ -1189,7 +1189,7 @@ graph
     commentcount 123
     duration "PT37M16S"
     indegree 2
-    cluster 9
+    cluster 10
   ]
   node
   [
@@ -1207,7 +1207,7 @@ graph
     commentcount 26674
     duration "PT10M31S"
     indegree 5
-    cluster 7
+    cluster 8
   ]
   node
   [
@@ -1261,7 +1261,7 @@ graph
     commentcount 1219
     duration "PT23M23S"
     indegree 4
-    cluster 9
+    cluster 10
   ]
   node
   [
@@ -1297,7 +1297,7 @@ graph
     commentcount 0
     duration "PT4M1S"
     indegree 1
-    cluster 8
+    cluster 9
   ]
   node
   [
@@ -1477,7 +1477,7 @@ graph
     commentcount 0
     duration "PT2M58S"
     indegree 0
-    cluster 1
+    cluster 12
   ]
   node
   [
@@ -1567,7 +1567,7 @@ graph
     commentcount 0
     duration "PT3M40S"
     indegree 0
-    cluster 10
+    cluster 11
   ]
   node
   [
@@ -1639,7 +1639,7 @@ graph
     commentcount 0
     duration "PT2M25S"
     indegree 1
-    cluster 1
+    cluster 3
   ]
   node
   [
@@ -1675,7 +1675,7 @@ graph
     commentcount 1
     duration "PT7M24S"
     indegree 0
-    cluster 8
+    cluster 9
   ]
   node
   [
@@ -1693,7 +1693,7 @@ graph
     commentcount 15
     duration "PT28M40S"
     indegree 1
-    cluster 8
+    cluster 9
   ]
   node
   [
@@ -1729,7 +1729,7 @@ graph
     commentcount 0
     duration "PT2M1S"
     indegree 0
-    cluster 1
+    cluster 12
   ]
   node
   [
@@ -1765,7 +1765,7 @@ graph
     commentcount 8
     duration "PT56M21S"
     indegree 0
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -1855,7 +1855,7 @@ graph
     commentcount 9
     duration "PT1H3M33S"
     indegree 0
-    cluster 8
+    cluster 9
   ]
   node
   [
@@ -1863,7 +1863,7 @@ graph
     label "Lto7XUbnBNc"
     step 0
     date "2020-08-19T03:53:20Z"
-    title "PLANDEMIC INDOCTORNATION - The Documentary"
+    title "PLANDEMIC  INDOCTORNATION - The Documentary"
     description "[Mirrored]&#10;Deleted Videos on BitChute&#10;https://www.bitchute.com/channel/crazyworldwhichwelivein/&#10;YouTube Main Channel&#10;https://www.youtube.com/channel/UCjc1DttcvDAIQW8qPkpINPg/&#10;YouTube Backup Channel&#10;https://www.youtube.com/channel/UC74wLp8zJvjHX2kZRQeLvAQ/&#10;PLANDEMIC - INDOCTRINATION&#10;https://www.bitchute.com/video/f3q8hRa3Tq43/"
     channeltitle "CrazyWorldWhichWeLiveIn"
     channelid "UCjc1DttcvDAIQW8qPkpINPg"
@@ -1909,7 +1909,7 @@ graph
     commentcount 4
     duration "PT11M38S"
     indegree 0
-    cluster 3
+    cluster 8
   ]
   node
   [
@@ -1927,7 +1927,7 @@ graph
     commentcount 1
     duration "PT1M40S"
     indegree 0
-    cluster 10
+    cluster 11
   ]
   node
   [
@@ -1935,7 +1935,7 @@ graph
     label "DsA-YmYqtmI"
     step 0
     date "2020-05-07T17:56:11Z"
-    title "PLANDEMIC: Censored Removed! WHY?????"
+    title "PLANDEMIC: Censored  Removed! WHY?????"
     description "A commentary about the censorship of the documentary #PLANDEMIC, By Mikki Willis, and his interview with Dr. Judy Mikovits.&#10;Why does Big Tech keep removing it? &#10;What &#34;community guidelines&#34; are being broken?&#10;What's the reason for censorship?&#10;Why do other dubious documentaries get remain, but not this one?&#10;Is this a Free Speech issue? Or a Big Government/Big Pharma/Big Tech one?"
     channeltitle "Beau Davidson"
     channelid "UCXFmd22FdhPeSGZg-jZEW8Q"
@@ -1945,7 +1945,7 @@ graph
     commentcount 1220
     duration "PT4M53S"
     indegree 0
-    cluster 3
+    cluster 6
   ]
   node
   [
@@ -1963,7 +1963,7 @@ graph
     commentcount 108
     duration "PT1H15M56S"
     indegree 0
-    cluster 1
+    cluster 12
   ]
   node
   [
@@ -1999,7 +1999,7 @@ graph
     commentcount 23
     duration "PT3M30S"
     indegree 0
-    cluster 7
+    cluster 8
   ]
   node
   [
@@ -2025,7 +2025,7 @@ graph
     label "gFYFdBGjNpA"
     step 0
     date "2020-05-09T16:07:52Z"
-    title "#HalfWoke: Part 2? with Dr Rashid Buttar"
+    title "#HalfWoke:  Part 2? with Dr Rashid Buttar"
     description "#Halfwoke #1 - Out of the Shadows, QAnon and IPETGOAT - https://www.youtube.com/watch?v=UzpVpVn-nhA&#10;#Halfwoke #2 - Plandemic Part 1 - What you didn't know&#10;https://www.youtube.com/watch?v=9VtTv51152o&#10;&#10;Support my ministry on Patreon &#8211; https://www.patreon.com/OnPointPreparedness&#10;&#10;Support my ministry on Paypal &#8211; https://www.paypal.me/onpointpreparedness&#10;&#10;On Point Tee&#8217;s now available! - https://teespring.com/stores/on-point-preparedness&#10;&#10;Mail me @&#10;On Point Preparedness&#10;PO Box 953&#10;Mason Ohio, 45040 The purpose for which On Point Preparedness LLC was formed is for the transaction of any and all lawful purposes for which a limited liability company may be organized under the laws of the state of Ohio.&#160; Specifically, On Point Preparedness is a Christian Ministry (not affiliated with 501c3) with a primary purpose of online Christian Apologetics and teaching.&#160; Secondarily, On Point Preparedness shares opinion blogging/vlogging of various worldly issues as well as topics related to outdoor survival.&#10;&#10;The views, opinions and theological criticisms expressed @ On Point Preparedness are made solely under the single-member LLC. Any content provided is of opinion and not intended to malign or profit from any religion, ethnic group, club, organization, company, individual name, etc. All opinions made are through the lens of the Christian faith and made in good faith, relying on exegesis of the inspired Word of God contained in the sacred scriptures of biblical cannon.&#10;&#10;On Point Preparedness Statement of Beliefs - https://www.onpointpreparedness.net/statement-of-beliefs/ .&#10;&#10;If external content is used in this video/article, it belongs to their respective owners and On Point Preparedness LLC does not claim any right over them. Copyright Disclaimer under section 107 of the Copyright Act of 1976, allowance is made for &#8220;fair use&#8221; for purposes such as criticism, comment, news reporting, teaching, scholarship, education and research. Fair use is a use permitted by copyright statute that might otherwise be infringing."
     channeltitle "On Point Preparedness"
     channelid "UC9pLAJfsadl_133T7-bgitA"
@@ -2053,7 +2053,7 @@ graph
     commentcount 0
     duration "PT29M57S"
     indegree 0
-    cluster 1
+    cluster 12
   ]
   node
   [
@@ -2061,7 +2061,7 @@ graph
     label "eUpZi4qwJIw"
     step 0
     date "2020-10-12T22:16:41Z"
-    title "Covid Plandemic E tongue sticking out osed"
+    title "Covid Plandemic Exposed"
     description "Utopia Exposes Everything The Deep State Wants To Do The World With This Pandemic"
     channeltitle "Dark King Government Exposed"
     channelid "UCz8XQ2GZqK6NBdIjKYEQaAw"
@@ -2107,7 +2107,7 @@ graph
     commentcount 0
     duration "PT6M51S"
     indegree 0
-    cluster 8
+    cluster 9
   ]
   node
   [
@@ -2125,7 +2125,7 @@ graph
     commentcount 0
     duration "PT2M47S"
     indegree 0
-    cluster 1
+    cluster 3
   ]
   node
   [
@@ -2161,7 +2161,7 @@ graph
     commentcount 0
     duration "PT6M53S"
     indegree 0
-    cluster 1
+    cluster 12
   ]
   node
   [
@@ -2179,7 +2179,7 @@ graph
     commentcount 1
     duration "PT2M57S"
     indegree 0
-    cluster 10
+    cluster 11
   ]
   node
   [
@@ -2277,7 +2277,7 @@ graph
     label "zJaT_shiR1Y"
     step 0
     date "2021-04-12T14:33:29Z"
-    title "U.S.A China Plandemic"
+    title "U.S.A  China Plandemic"
     description "https://www.timelessmomentswaxmelts.co.uk/&#10;https://www.facebook.com/watch/timelessmomentsbysally.co.uk/"
     channeltitle "MrJacktemplar"
     channelid "UCmgyvUF0iQUBePjq2ikUUPQ"
@@ -2287,7 +2287,7 @@ graph
     commentcount 21
     duration "PT4M40S"
     indegree 0
-    cluster 8
+    cluster 9
   ]
   node
   [
@@ -2305,7 +2305,7 @@ graph
     commentcount 0
     duration "PT7M15S"
     indegree 0
-    cluster 8
+    cluster 9
   ]
   node
   [
@@ -2341,7 +2341,7 @@ graph
     commentcount 0
     duration "PT3M1S"
     indegree 0
-    cluster 8
+    cluster 9
   ]
   node
   [
@@ -2377,7 +2377,7 @@ graph
     commentcount 5
     duration "PT20M55S"
     indegree 0
-    cluster 3
+    cluster 6
   ]
   node
   [
@@ -2431,7 +2431,7 @@ graph
     commentcount 2
     duration "PT3M59S"
     indegree 0
-    cluster 3
+    cluster 6
   ]
   node
   [
@@ -2467,7 +2467,7 @@ graph
     commentcount 0
     duration "PT12M12S"
     indegree 0
-    cluster 9
+    cluster 10
   ]
   node
   [
@@ -2485,7 +2485,7 @@ graph
     commentcount 0
     duration "PT43S"
     indegree 0
-    cluster 9
+    cluster 10
   ]
   edge
   [

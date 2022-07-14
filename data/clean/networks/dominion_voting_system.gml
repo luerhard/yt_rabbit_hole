@@ -1,4 +1,4 @@
-Creator "igraph version 1.3.1 Thu Jul 14 09:45:01 2022"
+Creator "igraph version 1.3.1 Thu Jul 14 11:01:15 2022"
 Version 1
 graph
 [
@@ -109,7 +109,7 @@ graph
     commentcount 6965
     duration "PT9M41S"
     indegree 105
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -127,7 +127,7 @@ graph
     commentcount 84
     duration "PT2M12S"
     indegree 17
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -145,7 +145,7 @@ graph
     commentcount 7
     duration "PT3M42S"
     indegree 0
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -153,7 +153,7 @@ graph
     label "YLIS68YfMYU"
     step 0
     date "2017-04-14T22:45:51Z"
-    title "Voting Equipment E tongue sticking out o: Dominion Voting Systems Presentation"
+    title "Voting Equipment Expo: Dominion Voting Systems Presentation"
     description "Presentation by Dominion Voting, the fourth of four vendors to outline new voting equipment options in Chicago on April 13, 2017. Includes questions from the public. (Fourth of four videos.)"
     channeltitle "ChicagoElections"
     channelid "UCxHXO2wlw_xnZk2SEWP4vaQ"
@@ -163,7 +163,7 @@ graph
     commentcount -1
     duration "PT57M13S"
     indegree 0
-    cluster 5
+    cluster 3
   ]
   node
   [
@@ -217,7 +217,7 @@ graph
     commentcount 751
     duration "PT6M54S"
     indegree 3
-    cluster 2
+    cluster 7
   ]
   node
   [
@@ -235,7 +235,7 @@ graph
     commentcount 78
     duration "PT47S"
     indegree 0
-    cluster 1
+    cluster 3
   ]
   node
   [
@@ -253,7 +253,7 @@ graph
     commentcount 391
     duration "PT8M40S"
     indegree 126
-    cluster 7
+    cluster 8
   ]
   node
   [
@@ -289,7 +289,7 @@ graph
     commentcount 652
     duration "PT4M47S"
     indegree 38
-    cluster 4
+    cluster 2
   ]
   node
   [
@@ -307,7 +307,7 @@ graph
     commentcount 447
     duration "PT5M13S"
     indegree 15
-    cluster 3
+    cluster 7
   ]
   node
   [
@@ -315,7 +315,7 @@ graph
     label "wmoxE1sJc1c"
     step 0
     date "2018-10-03T17:24:30Z"
-    title "I Bought a Voting Machine Online Then Hacked It"
+    title "I Bought a Voting Machine Online  Then Hacked It"
     description "Learn more at https://www.symantec.com/solutions/election-security&#10;&#10;To demonstrate how vulnerable some of our digital election infrastructure really is, we bought two voting machines from an online auction site for less than $200. They were last used in State and Federal elections in 2012 and 2013. What vulnerabilities will we find?&#10;&#10;Elections are under assault across the globe, as we continually see in the news. Well-resourced malicious cyber actors have tampered with our elections, whether it&#8217;s hacking voting machines or waging information warfare through social media."
     channeltitle "Symantec"
     channelid "UChtrhQDQKWtBhc5NxCpSNgw"
@@ -325,7 +325,7 @@ graph
     commentcount -1
     duration "PT9M2S"
     indegree 85
-    cluster 5
+    cluster 7
   ]
   node
   [
@@ -343,7 +343,7 @@ graph
     commentcount 79
     duration "PT21S"
     indegree 7
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -351,7 +351,7 @@ graph
     label "eXlG93Tz8_g"
     step 0
     date "2020-11-25T01:26:57Z"
-    title "Jefferson County GOP asks for an election audit, e tongue sticking out ressing doubts about Dominion Voting Systems"
+    title "Jefferson County GOP asks for an election audit, expressing doubts about Dominion Voting Systems"
     description "The Jefferson County GOP is calling for an audit of the 2018 and 2020 elections, expressing concerns with the Dominion Voting Systems technology the county and 61 others across the state use in elections."
     channeltitle "Denver7 &#8211; The Denver Channel"
     channelid "UC-2MJlKSq9_pYk5-bdvMhnw"
@@ -379,7 +379,7 @@ graph
     commentcount 1357
     duration "PT10M30S"
     indegree 51
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -397,7 +397,7 @@ graph
     commentcount 112
     duration "PT56S"
     indegree 0
-    cluster 1
+    cluster 3
   ]
   node
   [
@@ -415,7 +415,7 @@ graph
     commentcount 136
     duration "PT2M59S"
     indegree 48
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -433,7 +433,7 @@ graph
     commentcount 30
     duration "PT1M28S"
     indegree 1
-    cluster 5
+    cluster 7
   ]
   node
   [
@@ -469,7 +469,7 @@ graph
     commentcount 44
     duration "PT3M54S"
     indegree 8
-    cluster 6
+    cluster 9
   ]
   node
   [
@@ -505,7 +505,7 @@ graph
     commentcount 181
     duration "PT3M19S"
     indegree 2
-    cluster 7
+    cluster 8
   ]
   node
   [
@@ -523,7 +523,7 @@ graph
     commentcount 82
     duration "PT5M4S"
     indegree 1
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -559,7 +559,7 @@ graph
     commentcount 27
     duration "PT35S"
     indegree 3
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -577,7 +577,7 @@ graph
     commentcount 47
     duration "PT2M7S"
     indegree 10
-    cluster 8
+    cluster 9
   ]
   node
   [
@@ -595,7 +595,7 @@ graph
     commentcount 11
     duration "PT27S"
     indegree 3
-    cluster 4
+    cluster 9
   ]
   node
   [
@@ -721,7 +721,7 @@ graph
     commentcount 0
     duration "PT15M16S"
     indegree 1
-    cluster 5
+    cluster 10
   ]
   node
   [
@@ -739,7 +739,7 @@ graph
     commentcount 13
     duration "PT30S"
     indegree 2
-    cluster 1
+    cluster 3
   ]
   node
   [
@@ -757,7 +757,7 @@ graph
     commentcount 3
     duration "PT2M47S"
     indegree 0
-    cluster 5
+    cluster 7
   ]
   node
   [
@@ -765,7 +765,7 @@ graph
     label "cUV8h7f-mAg"
     step 0
     date "2021-02-23T01:01:25Z"
-    title "Dominion Voting System Sues For $1.3 Billion"
+    title "Dominion Voting System Sues  For $1.3 Billion"
     description "The lawsuit, filed in federal court in the District of Columbia, alleges that Mike Lindell ignored repeated warnings from Dominion, a voting technology company that has filed similar lawsuits against Donald Trump lawyers Rudolph Giuliani and Sidney Powell."
     channeltitle "CBS Miami"
     channelid "UCXJryYh6xcW5iEeJGzK191A"
@@ -775,7 +775,7 @@ graph
     commentcount 35
     duration "PT33S"
     indegree 2
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -847,7 +847,7 @@ graph
     commentcount 335
     duration "PT2M44S"
     indegree 23
-    cluster 8
+    cluster 6
   ]
   node
   [
@@ -883,7 +883,7 @@ graph
     commentcount 830
     duration "PT38S"
     indegree 26
-    cluster 7
+    cluster 8
   ]
   node
   [
@@ -909,7 +909,7 @@ graph
     label "AL3S_1x5_uA"
     step 0
     date "2018-10-10T15:29:41Z"
-    title "Dominion Election Night Reporting Video (Oct 201 smiley "
+    title "Dominion Election Night Reporting Video (Oct 2018)"
     description ""
     channeltitle "New York State Board of Elections"
     channelid "UCGrec5ku9pr-Z6MPdZ6inWw"
@@ -919,7 +919,7 @@ graph
     commentcount 3
     duration "PT1M57S"
     indegree 0
-    cluster 5
+    cluster 3
   ]
   node
   [
@@ -973,7 +973,7 @@ graph
     commentcount 14829
     duration "PT12M1S"
     indegree 23
-    cluster 5
+    cluster 3
   ]
   node
   [
@@ -999,7 +999,7 @@ graph
     label "-v17_7ojPNg"
     step 0
     date "2019-05-15T19:24:55Z"
-    title "Dominion ICX Step 3 Accessible Voting on the ICX version 2"
+    title "Dominion ICX Step 3  Accessible Voting on the ICX version 2"
     description ""
     channeltitle "pacastcms"
     channelid "UCTOx-yDaLPJVmEFiWCDfNtQ"
@@ -1009,7 +1009,7 @@ graph
     commentcount 2
     duration "PT2M33S"
     indegree 0
-    cluster 5
+    cluster 9
   ]
   node
   [
@@ -1053,7 +1053,7 @@ graph
     label "Y15D19usS0g"
     step 0
     date "2020-01-09T17:57:28Z"
-    title "2020 Election Security: Perspectives from Voting System Vendors and E tongue sticking out erts (EventI horror 110346)"
+    title "2020 Election Security: Perspectives from Voting System Vendors and Experts (EventID=110346)"
     description "On Thursday, January 9th, 2020, the Committee on House&#10;Administration will hold a hearing entitled &#8220;2020 Election Security - Perspectives from Voting System Vendors and Experts&#8221; &#10;&#10;The Committee hearing will take place at 10:00am at 1310 Longworth HOB. For Media inquiries, please contact Peter Whippy, Communications Director, at Peter.Whippy@mail.house.gov or 202-225-3244. For other inquiries, please contact Sean Jones, Legislative Clerk, at Sean.Jones@mail.house.gov or 202-225-3061 if you need additional information. &#10;&#10;Persons requiring special accomodation should contact Mariam Malik at 202-225-2061 at least 48 hours prior to the scheduled hearing."
     channeltitle "Committee on House Administration, Majority"
     channelid "UCTO94zQwJNB_gmud-4IyZXA"
@@ -1063,7 +1063,7 @@ graph
     commentcount 29
     duration "PT2H46M"
     indegree 0
-    cluster 5
+    cluster 3
   ]
   node
   [
@@ -1081,7 +1081,7 @@ graph
     commentcount 11231
     duration "PT19M22S"
     indegree 29
-    cluster 1
+    cluster 3
   ]
   node
   [
@@ -1117,7 +1117,7 @@ graph
     commentcount 400
     duration "PT4M22S"
     indegree 4
-    cluster 2
+    cluster 7
   ]
   node
   [
@@ -1125,7 +1125,7 @@ graph
     label "PDFzO_X9vo4"
     step 0
     date "2021-02-09T17:43:37Z"
-    title "Dominion Smartmatic Sue Fox and Others for Billions"
+    title "Dominion  Smartmatic Sue Fox and Others for Billions"
     description "After facing election falsehoods for months, are Dominion and Smartmatic getting their revenge against Fox, Sidney Powell, and Rudy?  &#10;&#128242; Try Ting Mobile and get a $25 service credit! https://legaleagle.link/ting&#10;&#10;GOT A VIDEO IDEA? TELL ME!&#10;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#10;Send me an email: devin@legaleagle.show&#10;&#10;MY COURSES&#10;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#10;Interested in LAW SCHOOL?  Get my guide to law school! https://legaleagle.link/lawguide&#10;Need help with COPYRIGHT? I built a course just for you! https://legaleagle.link/copyrightcourse&#10;&#10;SOCIAL MEDIA &#38; DISCUSSIONS&#10;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#10;Twitter:           https://legaleagle.link/twitter&#10;Facebook:      https://legaleagle.link/facebook&#10;Tik Tok:          https://legaleagle.link/tiktok&#10;Instagram:     https://legaleagle.link/instagram&#10;Reddit:            https://legaleagle.link/reddit&#10;Podcast:         https://legaleagle.link/podcast&#10;OnlyFans        https://legaleagle.link/onlyfans&#10;Patreon          https://legaleagle.link/patreon&#10;&#10;BUSINESS INQUIRIES&#10;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#10;Please email my agent &#38; manager at legaleagle@standard.tv&#10;&#10;LEGAL-ISH DISCLAIMER&#10;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#10;Sorry, occupational hazard:  This is not legal advice, nor can I give you legal advice.  I AM NOT YOUR LAWYER.  Sorry!  Everything here is for informational purposes only and not for the purpose of providing legal advice. You should contact your attorney to obtain advice with respect to any particular issue or problem.  Nothing here should be construed to form an attorney-client relationship.  Also, some of the links in this post may be affiliate links, meaning, at no cost to you, I will earn a small commission if you click through and make a purchase.  But if you click, it really helps me make more of these videos!  All non-licensed clips used for fair use commentary, criticism, and educational purposes.  See Hosseinzadeh v. Klein, 276 F.Supp.3d 34 (S.D.N.Y. 2017); Equals Three, LLC v. Jukin Media, Inc., 139 F. Supp. 3d 1094 (C.D. Cal. 2015). &#10;&#10;Special thanks:&#10;Stock video and imagery provided by Getty Images&#10;Music provided by Epidemic Sound&#10;Short links by pixelme.me (https://pxle.me/eagle)"
     channeltitle "LegalEagle"
     channelid "UCpa-Zb0ZcQjTCPP1Dx_1M8Q"
@@ -1135,7 +1135,7 @@ graph
     commentcount 5731
     duration "PT28M9S"
     indegree 5
-    cluster 8
+    cluster 4
   ]
   node
   [
@@ -1143,7 +1143,7 @@ graph
     label "YSreS7_zX7E"
     step 0
     date "2019-05-15T19:25:00Z"
-    title "Dominion ICX Step 2 Voting on the ICX"
+    title "Dominion ICX Step 2  Voting on the ICX"
     description ""
     channeltitle "pacastcms"
     channelid "UCTOx-yDaLPJVmEFiWCDfNtQ"
@@ -1153,7 +1153,7 @@ graph
     commentcount 4
     duration "PT2M52S"
     indegree 1
-    cluster 5
+    cluster 9
   ]
   node
   [
@@ -1171,7 +1171,7 @@ graph
     commentcount 23
     duration "PT1M36S"
     indegree 1
-    cluster 7
+    cluster 8
   ]
   node
   [
@@ -1189,7 +1189,7 @@ graph
     commentcount 541
     duration "PT4M43S"
     indegree 93
-    cluster 8
+    cluster 4
   ]
   node
   [
@@ -1197,7 +1197,7 @@ graph
     label "rJI_cwAt9y0"
     step 0
     date "2019-05-15T19:24:48Z"
-    title "Dominion ICP Step 2 Marking and Casting the Ballot"
+    title "Dominion ICP Step 2  Marking and Casting the Ballot"
     description ""
     channeltitle "pacastcms"
     channelid "UCTOx-yDaLPJVmEFiWCDfNtQ"
@@ -1207,7 +1207,7 @@ graph
     commentcount 8
     duration "PT56S"
     indegree 3
-    cluster 5
+    cluster 9
   ]
   node
   [
@@ -1243,7 +1243,7 @@ graph
     commentcount 5
     duration "PT2M18S"
     indegree 0
-    cluster 6
+    cluster 9
   ]
   node
   [
@@ -1269,7 +1269,7 @@ graph
     label "xQmfLDeghpI"
     step 0
     date "2019-04-27T14:34:20Z"
-    title "An Election Security Disaster - Hybrid Voting Machines (Part 1: Dominion vs. The E tongue sticking out erts)"
+    title "An Election Security Disaster - Hybrid Voting Machines (Part 1: Dominion vs. The Experts)"
     description "A new type of hybrid voting machine with a security flaw so serious that election security experts say there is no way to mitigate the problem without changing the design of the machine, is being rapidly sold across the country; six swing states have already purchased these machines. &#10;&#10;Part 1 of a 3-Part investigative series. Shot, produced and edited by Lulu Friesdat for SMART Elections.&#10;http://smartelections.us/&#10;&#10;&#169; 2019 Shugahworks"
     channeltitle "Shugah Works"
     channelid "UC-b5wB2bZeuhK3DyWu6Nqkg"
@@ -1279,7 +1279,7 @@ graph
     commentcount 106
     duration "PT5M22S"
     indegree 44
-    cluster 5
+    cluster 10
   ]
   node
   [
@@ -1315,7 +1315,7 @@ graph
     commentcount 13453
     duration "PT2M18S"
     indegree 6
-    cluster 10
+    cluster 3
   ]
   node
   [
@@ -1333,7 +1333,7 @@ graph
     commentcount 44
     duration "PT3M8S"
     indegree 5
-    cluster 5
+    cluster 10
   ]
   node
   [
@@ -1351,7 +1351,7 @@ graph
     commentcount 2
     duration "PT2M57S"
     indegree 1
-    cluster 7
+    cluster 8
   ]
   node
   [
@@ -1369,7 +1369,7 @@ graph
     commentcount 8
     duration "PT6S"
     indegree 2
-    cluster 4
+    cluster 9
   ]
   node
   [
@@ -1387,7 +1387,7 @@ graph
     commentcount 912
     duration "PT23M54S"
     indegree 11
-    cluster 1
+    cluster 3
   ]
   node
   [
@@ -1405,7 +1405,7 @@ graph
     commentcount 0
     duration "PT1M21S"
     indegree 0
-    cluster 5
+    cluster 10
   ]
   node
   [
@@ -1423,7 +1423,7 @@ graph
     commentcount 878
     duration "PT3M22S"
     indegree 0
-    cluster 1
+    cluster 3
   ]
   node
   [
@@ -1449,7 +1449,7 @@ graph
     label "Zgs3-_sXPsg"
     step 0
     date "2020-12-17T00:48:22Z"
-    title "Dominion Voting Machine Demonstration Tutorial"
+    title "Dominion Voting Machine Demonstration  Tutorial"
     description "Misty Martin &#34;votes&#34; as the election supervisor for Coffee County, Georgia. She is demonstrating the election supervisor's job during an election.&#10;&#10;Dominion Voting Machine Software Demonstration and Tutorial&#10;&#10;After the November 2020 election, Misty explains how the Dominion Voting Systems software works when a ballot is needing adjudication, or alternately, it is desired that it be changed for some other purpose.&#10;&#10;The persons who scan, adjudicate, and administrate ballots can change the election results.&#10;&#10;They are the ones who ensure that every ballot counts.&#10;These parties can either operate in support of a fair election, or alternately, they can easily be source of disenfranchisement.&#10;&#10;It seems to be unlikely that observers of this type of system would be able to help ensure that all ballots are counted unless every step is watched in real-time.&#10;&#10;Misty shows off Imagecast Central (the scanner software) that she calls the ICC System.&#10;EMS Tally and Reporting is the other software on the screen on the left. (She calls this the RTR System)&#10;DEMOCRACY SUITE&#174; Election Management System (EMS) is the primary software used.&#10;Videos taken 11/12/2020 around 1:00 pm.&#10;&#10;Timestamps:&#10;-------------&#10;00:00:00 Pre-roll    &#10;00:00:23 Misty Martin &#34;votes&#34; as the election supervisor for Coffee County, Georgia.&#10;00:04:26 Voting like a &#34;pro&#34; &#8211; Vote early and vote often!&#10;00:07:18 Counting your vote, as many times as you want&#10;-------------&#10;&#10;Music soundtrack:&#10;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#10;Show Me The Way by Vendredi https://soundcloud.com/vendrediduo&#10;Creative Commons &#8212; Attribution 3.0 Unported  &#8212; CC BY 3.0 &#10;Free Download / Stream: http://bit.ly/2CEYbCb&#10;Music promoted by Audio Library https://youtu.be/ZcAiMZtYrv8&#10;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#10;&#10;&#10;Source videos:&#10;https://www.youtube.com/watch?v=46CAKyyObls&#10;https://www.youtube.com/watch?v=ijjwS6h-PyU"
     channeltitle "American Light"
     channelid "UC5JJNhMjgVLg3511a9VK0CQ"
@@ -1495,7 +1495,7 @@ graph
     commentcount 56
     duration "PT3M20S"
     indegree 0
-    cluster 4
+    cluster 11
   ]
   node
   [
@@ -1513,7 +1513,7 @@ graph
     commentcount 0
     duration "PT54S"
     indegree 0
-    cluster 8
+    cluster 11
   ]
   node
   [
@@ -1567,7 +1567,7 @@ graph
     commentcount -1
     duration "PT7M59S"
     indegree 1
-    cluster 3
+    cluster 10
   ]
   node
   [
@@ -1585,7 +1585,7 @@ graph
     commentcount 1
     duration "PT2M33S"
     indegree 2
-    cluster 9
+    cluster 2
   ]
   node
   [
@@ -1603,7 +1603,7 @@ graph
     commentcount 3
     duration "PT5M33S"
     indegree 0
-    cluster 3
+    cluster 7
   ]
   node
   [
@@ -1621,7 +1621,7 @@ graph
     commentcount 934
     duration "PT3H5M20S"
     indegree 34
-    cluster 3
+    cluster 7
   ]
   node
   [
@@ -1629,7 +1629,7 @@ graph
     label "y62k3eFoMZc"
     step 0
     date "2020-11-09T04:51:31Z"
-    title "Antrim County officials are blaming the election software system, the for"
+    title "Antrim County officials are blaming the election software system, the  for"
     description "A Michigan county has flipped from a win for Democrat Joe Biden to one for President Donald Trump after the discovery of a software glitch and a manual recount. &#160;&#8220;Officials with Antrim County posted updated results showing President Trump won the county with 9,783 votes making up 56.46% of ballots cast. Joe Biden earned 7,289 votes or 42.07%,&#8221; WLNS-TV reported. &#160;Results in Antrim County published on Wednesday morning showed Biden winning by slightly more than 3,000 votes, with 98 percent of precincts reporting, according to the Detroit Free Press.  &#160;Trump carried the northwestern Michigan county over Hillary Clinton by approximately 4,000 votes in 2016. &#160;Antrim County officials blamed the election software system, explaining that totals counted did not match tabulator tapes.   &#160;The &#8220;Dominion Voting System&#8221; used in the county is also used in 64 others across the Wolverine State, WLNS-TV reported. &#160;However, a spokesperson for Michigan Secretary of State Jocelyn Benson told the outlet &#8220;t ..."
     channeltitle "Timothy J. Skiba"
     channelid "UCz12K94gwnOJEB9p8aTV37g"
@@ -1639,7 +1639,7 @@ graph
     commentcount 4
     duration "PT6M38S"
     indegree 1
-    cluster 5
+    cluster 2
   ]
   node
   [
@@ -1657,7 +1657,7 @@ graph
     commentcount 18
     duration "PT2M37S"
     indegree 0
-    cluster 9
+    cluster 7
   ]
   node
   [
@@ -1711,7 +1711,7 @@ graph
     commentcount 0
     duration "PT50S"
     indegree 0
-    cluster 1
+    cluster 3
   ]
   node
   [
@@ -1729,7 +1729,7 @@ graph
     commentcount 5
     duration "PT2M24S"
     indegree 0
-    cluster 3
+    cluster 7
   ]
   node
   [
@@ -1765,7 +1765,7 @@ graph
     commentcount 7
     duration "PT13M4S"
     indegree 0
-    cluster 6
+    cluster 4
   ]
   node
   [
@@ -1783,7 +1783,7 @@ graph
     commentcount 1
     duration "PT8S"
     indegree 1
-    cluster 6
+    cluster 5
   ]
   node
   [
@@ -1801,7 +1801,7 @@ graph
     commentcount 0
     duration "PT3M49S"
     indegree 0
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -1819,7 +1819,7 @@ graph
     commentcount 16
     duration "PT5M6S"
     indegree 0
-    cluster 7
+    cluster 8
   ]
   node
   [
@@ -1837,7 +1837,7 @@ graph
     commentcount 0
     duration "PT26M1S"
     indegree 0
-    cluster 5
+    cluster 10
   ]
   node
   [
@@ -1855,7 +1855,7 @@ graph
     commentcount 9
     duration "PT43M11S"
     indegree 3
-    cluster 5
+    cluster 10
   ]
   node
   [
@@ -1891,7 +1891,7 @@ graph
     commentcount 0
     duration "PT9M57S"
     indegree 2
-    cluster 5
+    cluster 10
   ]
   node
   [
@@ -1899,7 +1899,7 @@ graph
     label "6Z8cRXpuQDM"
     step 0
     date "2020-12-17T00:14:24Z"
-    title "GOP Sen. Johnson says e tongue sticking out erts must examine and investigate Dominion Voting Systems"
+    title "GOP Sen. Johnson says experts must examine and investigate Dominion Voting Systems"
     description "At a Senate oversight committee hearing on Wednesday, chairman of the Senate Homeland Security and Governmental Affairs Committee Ron Johnson (R-Wisc.) said that experts must be given the opportunity to examine and investigate the Dominion Voting Systems machines used during the 2020 presidential election."
     channeltitle "Just the News"
     channelid "UC588htN7jqso3D80OnGGrAw"
@@ -1909,7 +1909,7 @@ graph
     commentcount 11
     duration "PT42S"
     indegree 1
-    cluster 3
+    cluster 7
   ]
   node
   [
@@ -1927,7 +1927,7 @@ graph
     commentcount 13
     duration "PT5M37S"
     indegree 6
-    cluster 5
+    cluster 10
   ]
   node
   [
@@ -1981,7 +1981,7 @@ graph
     commentcount 4
     duration "PT8M12S"
     indegree 0
-    cluster 3
+    cluster 7
   ]
   node
   [
@@ -1999,7 +1999,7 @@ graph
     commentcount 0
     duration "PT42S"
     indegree 0
-    cluster 4
+    cluster 9
   ]
   node
   [
@@ -2017,7 +2017,7 @@ graph
     commentcount 519
     duration "PT1M50S"
     indegree 7
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -2053,7 +2053,7 @@ graph
     commentcount 0
     duration "PT4M26S"
     indegree 1
-    cluster 6
+    cluster 9
   ]
   node
   [
@@ -2089,7 +2089,7 @@ graph
     commentcount 0
     duration "PT57S"
     indegree 0
-    cluster 2
+    cluster 7
   ]
   node
   [
@@ -2107,7 +2107,7 @@ graph
     commentcount 12
     duration "PT12M48S"
     indegree 0
-    cluster 5
+    cluster 7
   ]
   node
   [
@@ -2125,7 +2125,7 @@ graph
     commentcount 2
     duration "PT7M17S"
     indegree 0
-    cluster 5
+    cluster 7
   ]
   node
   [
@@ -2161,7 +2161,7 @@ graph
     commentcount 6
     duration "PT9M15S"
     indegree 1
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -2179,7 +2179,7 @@ graph
     commentcount 0
     duration "PT2M20S"
     indegree 0
-    cluster 7
+    cluster 8
   ]
   node
   [
@@ -2197,7 +2197,7 @@ graph
     commentcount 547
     duration "PT8M24S"
     indegree 14
-    cluster 8
+    cluster 6
   ]
   node
   [
@@ -2215,7 +2215,7 @@ graph
     commentcount 2
     duration "PT19M8S"
     indegree 3
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -2251,7 +2251,7 @@ graph
     commentcount 3
     duration "PT3M33S"
     indegree 1
-    cluster 7
+    cluster 8
   ]
   node
   [
@@ -2269,7 +2269,7 @@ graph
     commentcount 11
     duration "PT12M3S"
     indegree 2
-    cluster 7
+    cluster 5
   ]
   node
   [
@@ -2277,7 +2277,7 @@ graph
     label "BQ0LBdheupI"
     step 0
     date "2020-12-30T14:10:27Z"
-    title "E tongue sticking out loring the Potential Connection Between the Nashville Bombing and Dominion Voting Systems"
+    title "Exploring the Potential Connection Between the Nashville Bombing and Dominion Voting Systems"
     description "#NashvilleBombing - We explore the potential connection between the AT&#38;T Bombing in Nashville and Dominion Voting Systems. Was there really election fraud? Was this a black flag? Let's discuss.&#10;&#10;Copyright Chillhop Music - https://chll.to/0758f774&#10;&#10;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#10;My Book, Thoughts of a Dreamer: https://amzn.to/2DxtMcK&#10;&#128090; MERCH: https://blackicetbn.live/merch&#10;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#10;&#128242;  Become a Sponsor on Patreon: https://www.patreon.com/theblacknarrative&#10;&#128242;  Donate Through CashApp: https://cash.app/$nekked&#10;&#128242;  Donate Through Paypal: https://blackicetbn.live/tip&#10;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;"
     channeltitle "The Black Narrative"
     channelid "UC7q8_I69R8KUvhPAiU3lQcQ"
@@ -2323,7 +2323,7 @@ graph
     commentcount 0
     duration "PT17M38S"
     indegree 1
-    cluster 7
+    cluster 8
   ]
   node
   [
@@ -2331,7 +2331,7 @@ graph
     label "8Up73bFTsQg"
     step 0
     date "2021-07-19T22:25:58Z"
-    title "Clip from HBO doc about Dominion Voting Systems"
+    title "Clip from  HBO doc about Dominion Voting Systems"
     description "This clip from the HBO doc 'Kill Chain: The Cyber War on America&#8217;s Elections' covers the Dominion Voting Systems and how vote can not possibly be audited."
     channeltitle "ZviTrader"
     channelid "UCoa8T4rCev0ZzToOKmUjI8w"
@@ -2359,7 +2359,7 @@ graph
     commentcount 5
     duration "PT9M3S"
     indegree 1
-    cluster 8
+    cluster 6
   ]
   node
   [
@@ -2377,7 +2377,7 @@ graph
     commentcount 47
     duration "PT2M51S"
     indegree 1
-    cluster 9
+    cluster 2
   ]
   node
   [
@@ -2395,7 +2395,7 @@ graph
     commentcount 0
     duration "PT4M18S"
     indegree 0
-    cluster 4
+    cluster 2
   ]
   node
   [
@@ -2413,7 +2413,7 @@ graph
     commentcount 214
     duration "PT19M"
     indegree 2
-    cluster 3
+    cluster 7
   ]
   node
   [
@@ -2449,7 +2449,7 @@ graph
     commentcount 0
     duration "PT49M17S"
     indegree 0
-    cluster 7
+    cluster 4
   ]
   node
   [
@@ -2467,7 +2467,7 @@ graph
     commentcount 32
     duration "PT8M32S"
     indegree 0
-    cluster 5
+    cluster 10
   ]
   node
   [
@@ -2503,7 +2503,7 @@ graph
     commentcount 0
     duration "PT1M3S"
     indegree 0
-    cluster 2
+    cluster 11
   ]
   node
   [
@@ -2511,7 +2511,7 @@ graph
     label "3sUyFLWT3Y8"
     step 0
     date "2020-11-19T20:08:29Z"
-    title "Live with Ezra Levant - Canadian Law, Dominion Voting, MORE! Viva Frei Live Stream"
+    title "Live with Ezra Levant - Canadian Law, Dominion Voting,  MORE! Viva Frei Live Stream"
     description "Ezra Levant is back joining us live. We're going to follow-up on some old stories, and discuss some new stuff. Enjoy!&#10;&#10;#EzraLevant #RebelNews #DominionVoting"
     channeltitle "Viva Frei"
     channelid "UCzGiDDKdphJ0GFvEd82WfYQ"
@@ -2539,7 +2539,7 @@ graph
     commentcount 7
     duration "PT7M8S"
     indegree 0
-    cluster 3
+    cluster 7
   ]
   node
   [
@@ -2557,7 +2557,7 @@ graph
     commentcount 3
     duration "PT12M19S"
     indegree 8
-    cluster 9
+    cluster 2
   ]
   node
   [
@@ -2575,7 +2575,7 @@ graph
     commentcount 0
     duration "PT23M34S"
     indegree 2
-    cluster 5
+    cluster 7
   ]
   node
   [
@@ -2611,7 +2611,7 @@ graph
     commentcount 2
     duration "PT1M58S"
     indegree 0
-    cluster 5
+    cluster 10
   ]
   node
   [
@@ -2647,7 +2647,7 @@ graph
     commentcount 8
     duration "PT14M47S"
     indegree 10
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -2655,7 +2655,7 @@ graph
     label "nhjwWyvuKvY"
     step 0
     date "2021-08-11T02:12:55Z"
-    title "Dominion Voting Systems lawsuit witness"
+    title "Dominion Voting Systems lawsuit  witness"
     description "Today Axios is reporting that Dominion Voting Systems filed a lawsuit against conservative media outlets Newsmax, OAN News Network as well as Rudy Giuliani and others claiming defamation.&#10;&#10;Dominion has been one of the most maligned companies in America- maligned by the conservative media, maligned by republican lawmakers, maligned by the president and all his men in a vast media eco system that perpetuated and reinforced the lies in an effort to overturn the last election. What Republicans did to Dominion to promote their fraud is inexcusable- Dominion hasn't done anything wrong and is now fighting back to protect their reputation. In that lawsuit, there's a nugget that details a so-called 'expert witness' that OAN used to promote the theory of Dominion election fraud that you may find interesting.."
     channeltitle "Rusted Culture Podcast"
     channelid "UC1HeQkbta9C17sNZPrE3yBQ"
@@ -2701,7 +2701,7 @@ graph
     commentcount 61
     duration "PT1M"
     indegree 2
-    cluster 4
+    cluster 11
   ]
   node
   [
@@ -2719,7 +2719,7 @@ graph
     commentcount 6
     duration "PT26M45S"
     indegree 0
-    cluster 4
+    cluster 11
   ]
   node
   [
@@ -2773,7 +2773,7 @@ graph
     commentcount 1
     duration "PT1M21S"
     indegree 0
-    cluster 3
+    cluster 7
   ]
   node
   [
@@ -2791,7 +2791,7 @@ graph
     commentcount 8
     duration "PT12M52S"
     indegree 0
-    cluster 8
+    cluster 10
   ]
   node
   [
@@ -2809,7 +2809,7 @@ graph
     commentcount 6
     duration "PT1M40S"
     indegree 0
-    cluster 7
+    cluster 4
   ]
   node
   [
@@ -2827,7 +2827,7 @@ graph
     commentcount 471
     duration "PT4M38S"
     indegree 11
-    cluster 7
+    cluster 4
   ]
   node
   [
@@ -2835,7 +2835,7 @@ graph
     label "XmMD_1KBCIo"
     step 0
     date "2020-11-11T23:00:10Z"
-    title "Trump Biden Dominion Voting Systems Georgia 20201111"
+    title "Trump Biden Dominion Voting Systems Georgia  20201111"
     description "#Trump #Biden #DominionVotingSystems&#10;&#10;00:00 Trump Biden Dominion Voting Syetems Georgia&#10;03:30 Georgia &#24030;&#21946;&#20170;&#24180;&#20845;&#26376;&#29992; Dominion Voting System&#20986;&#21655;&#20107;&#65292;&#20418;New York Times&#22577;&#23566;&#10;06:44 New York Times &#30452;&#25351; Georgia &#29992; Dominion Voting System&#22021;&#31995;&#32113;&#26377;&#21839;&#38988;&#10;13:35 &#24038;&#33184;&#28858;&#21655;&#21453;Trump&#25644;&#40845;&#38272;&#65292;&#28961;&#35222;&#20107;&#23526;&#10;&#10;&#26412;&#31680;&#30446;&#25505;&#29992;&#22021;&#36039;&#26009;&#20358;&#28304;&#10;1. https://www.nytimes.com/2020/06/11/us/politics/georgia-voting-machines.html&#10;2. https://www.nytimes.com/2020/06/10/us/politics/georgia-primary-election-voting.html&#10;&#10;#Nytimes #USElections #Georgia #Democrat #StayHome #WithMe #&#36319;&#25105;&#19968;&#27171; #&#23429;&#22312;&#23478;&#10;https://martinoei.com/"
     channeltitle "martin oei"
     channelid "UCwiHqHsg4DcgXShn2HGQgCA"
@@ -2845,7 +2845,7 @@ graph
     commentcount 176
     duration "PT22M19S"
     indegree 0
-    cluster 5
+    cluster 7
   ]
   node
   [
@@ -2853,7 +2853,7 @@ graph
     label "SGwNDGvffBw"
     step 0
     date "2020-11-20T05:12:11Z"
-    title "E tongue sticking out osing Dominion Voting System. All the FACTS about the Sketchy Voting Software"
+    title "Exposing Dominion Voting System. All the FACTS about the Sketchy Voting Software"
     description "Exposing Dominion Voting System. All the FACTS about the Sketchy Voting Software"
     channeltitle "Bret Griffiths"
     channelid "UCE7fYHO0P5SJ8rH5WMr5l8Q"
@@ -2863,7 +2863,7 @@ graph
     commentcount 1
     duration "PT9M38S"
     indegree 6
-    cluster 9
+    cluster 2
   ]
   node
   [
@@ -2899,7 +2899,7 @@ graph
     commentcount 0
     duration "PT7S"
     indegree 0
-    cluster 7
+    cluster 8
   ]
   node
   [
@@ -2907,7 +2907,7 @@ graph
     label "eb3JAoY4wkQ"
     step 0
     date "2020-11-24T08:58:48Z"
-    title "Eric Coomer e tongue sticking out lains how to alter votes via the Dominion voting system"
+    title "Eric Coomer explains how to alter votes via the Dominion voting system"
     description "&#8220;Eric&#8221; was telling the Antifa members they needed to &#8220;keep up the pressure.&#8221; When one of the caller&#8217;s on a September group call asked, &#8220;Who&#8217;s Eric?&#8221; someone answered, &#8220;Eric, he&#8217;s the Dominion guy.&#8221; Oltmann said that as the conversation continued, someone asked, &#8220;What are we gonna do if F*cking Trump wins?&#8221; Oltmann paraphrased how Eric (the Dominion guy) responded, &#8220;Don&#8217;t worry about the election, Trump&#8217;s not gonna win. I made f*cking sure of that!&#8221; Oltmann, who runs a Denver data company, started to investigate &#8220;Eric from Dominion,&#8221; following the call and came upon Eric Coomer.&#10;&#10;Source: &#10;&#10;https://www.thegatewaypundit.com/2020/11/denver-business-owner-dominions-eric-coomer-unhinged-sociopath-internet-profile-deleted-erased-audio/&#10;&#10;Eric Trump: &#10;&#10;https://twitter.com/EricTrump/status/1328802449889562626&#10;&#10;Coomer: &#8220;Don&#8217;t worry about the election, Trump&#8217;s not gonna win. I made f*cking sure of that!&#8221;"
     channeltitle "Amy Adams"
     channelid "UC323qkOIGACmP20Hymsw6cQ"
@@ -2935,7 +2935,7 @@ graph
     commentcount 1
     duration "PT16S"
     indegree 0
-    cluster 4
+    cluster 9
   ]
   node
   [
@@ -2953,7 +2953,7 @@ graph
     commentcount 1
     duration "PT2M5S"
     indegree 0
-    cluster 10
+    cluster 3
   ]
   node
   [
@@ -2971,7 +2971,7 @@ graph
     commentcount -1
     duration "PT1M10S"
     indegree 0
-    cluster 3
+    cluster 9
   ]
   node
   [
@@ -2979,7 +2979,7 @@ graph
     label "c5zCa9GhbaM"
     step 0
     date "2020-11-14T14:30:02Z"
-    title "Dominion Voting Systems Report In 2019 Supported By Elizabeth Warren Others As Insecure"
+    title "Dominion Voting Systems Report In 2019 Supported By Elizabeth Warren  Others As Insecure"
     description "Craig &#34;Pasta&#34; Jardula, Fiorella Isabel, Jonny Tsunami discuss on The Convo Couch.&#10;&#10;---------------------------------------------------------------&#10;Have your chat appear ON-SCREEN!&#10;https://streamlabs.com/theconvocouch/tip&#10;&#10;PAYPAL Donate any amount when you like and provide your email and we will respond if you like:&#10;https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&#38;hosted_button_id=C3RHNTB6ENS66&#38;source=url&#10;&#10;or https://paypal.me/TheConvoCouch&#10;&#10;To support us further:&#10;Patreon: http://bit.ly/tccpat4&#10;or&#10;Sign up on Rokfin and get access to all the creators Premium Content&#10;https://rokfin.com/TheConvoCouch&#10;(Creators include: Niko House, Ron Placone, Graham Elwood, Jimmy Dore, Kim Iversen, Tina-Desiree Berg, Jackson Facts, The American Vagabond, Papi Chulomin Richard Medhurst &#38; more!)&#10;---------------------------------------------------------------&#10;Keep Up With THE CONVO COUCH &#128715;&#10;&#128250; Youtube: http://bit.ly/tccyt27&#10;&#128181;Patreon: http://bit.ly/tccpat4&#10;&#128126;Rokfin: https://rokfin.com/TheConvoCouch&#10;&#129302;Twitch: https://twitch.tv/theconvocouch&#10;&#128038;Twitter: https://twitter.com/theconvocouch&#10;&#128110;&#8205;&#9792;&#65039;Facebook: http://bit.ly/tcc2fb&#10;&#127825;Instagram:  http://instagram.com/theconvocouch&#10;&#10;&#10;&#127837;Craig &#34;Pasta&#34; Jardula &#10;Twitter: https://twitter.com/yopasta&#10;Facebook: http://bit.ly/pasta2fb&#10;&#10;&#10;&#128131;Fiorella Isabel:&#10;Twitter: https://twitter.com/Fiorella_im&#10;Facebook: http://bit.ly/tccfifb27&#10;&#10;&#10;&#127754;Jonny Tsunami:&#10;Twitter: https://twitter.com/jonathanmayorca&#10;Jonny started a new channel! But will still be producing The Convo Couch :)&#10;Subscribe to True Rebel Network: https://www.youtube.com/c/truerebelnetwork&#10;&#10;Support True Rebel Network: https://www.patreon.com/truerebelnetwork"
     channeltitle "The Convo Couch"
     channelid "UCnESeKWQPmL85jLaZU6Babg"
@@ -2989,7 +2989,7 @@ graph
     commentcount 29
     duration "PT14M33S"
     indegree 40
-    cluster 4
+    cluster 11
   ]
   node
   [
@@ -3007,7 +3007,7 @@ graph
     commentcount 8
     duration "PT4M26S"
     indegree 0
-    cluster 9
+    cluster 7
   ]
   node
   [
@@ -3033,7 +3033,7 @@ graph
     label "cpg2jYrdgSk"
     step 0
     date "2020-11-20T14:19:03Z"
-    title "DOMINION VOTING-CANADA CONNECTION, UN BIOMETRIC DIGITAL ID MORE!"
+    title "DOMINION VOTING-CANADA CONNECTION, UN BIOMETRIC DIGITAL ID  MORE!"
     description "Join us weeknights at 8pm for live discussions on political and social issues, spirituality and God. To get more news visit our telegram account on https://t.me/TruthForHope&#10;&#10;DON'T HAVE A VPN YET? Get a Virtual Shield VPN here by using our affiliate link: https://bit.ly/3kCXhcY"
     channeltitle "REINHARD COLLEGE"
     channelid "UCdgBN521CxqFwscVV3l2RRA"
@@ -3043,7 +3043,7 @@ graph
     commentcount 0
     duration "PT59M48S"
     indegree 0
-    cluster 8
+    cluster 4
   ]
   node
   [
@@ -3079,7 +3079,7 @@ graph
     commentcount 11
     duration "PT2M48S"
     indegree 0
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -3087,7 +3087,7 @@ graph
     label "lvBCkyip2is"
     step 0
     date "2020-11-29T00:01:46Z"
-    title "ELECTION 2020 FRAU tongue sticking out CNNs report on Dominion Voting Machines Smartmatic software"
+    title "ELECTION 2020 FRAUD: CNNs report on Dominion Voting Machines Smartmatic software"
     description "#MelissaTate [TWITTER]: #CNN&#8217;s #BOMBSHELLreport on #Dominion #Smartmaticsoftware back when they had no #vestedinterest to lie like they do now, translation they used to report the #realnews not the #fakenews to swing the #election2020 to the #communistparty aka #demokkkrat party #stopthesteal."
     channeltitle "CuchiBella7"
     channelid "UCDcNpzJm_HXZ4oqYbRCz2AQ"
@@ -3097,7 +3097,7 @@ graph
     commentcount 1
     duration "PT1M14S"
     indegree 0
-    cluster 2
+    cluster 9
   ]
   node
   [
@@ -3115,7 +3115,7 @@ graph
     commentcount 0
     duration "PT53S"
     indegree 0
-    cluster 8
+    cluster 4
   ]
   node
   [
@@ -3133,7 +3133,7 @@ graph
     commentcount 34
     duration "PT1H5M30S"
     indegree 2
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -3151,7 +3151,7 @@ graph
     commentcount 14
     duration "PT2H5M"
     indegree 1
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -3169,7 +3169,7 @@ graph
     commentcount 5
     duration "PT1H35M26S"
     indegree 0
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -3187,7 +3187,7 @@ graph
     commentcount 0
     duration "PT6M56S"
     indegree 0
-    cluster 5
+    cluster 10
   ]
   node
   [
@@ -3205,7 +3205,7 @@ graph
     commentcount 0
     duration "PT1M15S"
     indegree 0
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -3223,7 +3223,7 @@ graph
     commentcount 0
     duration "PT1H40M13S"
     indegree 1
-    cluster 6
+    cluster 5
   ]
   node
   [
@@ -3259,7 +3259,7 @@ graph
     commentcount 0
     duration "PT5M56S"
     indegree 11
-    cluster 2
+    cluster 9
   ]
   node
   [
@@ -3277,7 +3277,7 @@ graph
     commentcount 0
     duration "PT1M1S"
     indegree 0
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -3295,7 +3295,7 @@ graph
     commentcount 5
     duration "PT29M31S"
     indegree 1
-    cluster 8
+    cluster 7
   ]
   node
   [
@@ -3349,7 +3349,7 @@ graph
     commentcount 0
     duration "PT2M24S"
     indegree 1
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -3367,7 +3367,7 @@ graph
     commentcount 1
     duration "PT15S"
     indegree 0
-    cluster 8
+    cluster 4
   ]
   node
   [
@@ -3385,7 +3385,7 @@ graph
     commentcount 0
     duration "PT52S"
     indegree 0
-    cluster 7
+    cluster 8
   ]
   node
   [
@@ -3393,7 +3393,7 @@ graph
     label "kbAxY0MWNho"
     step 0
     date "2020-12-31T01:14:10Z"
-    title "Smartmatic SGO Mark Malloch-Brown e tongue sticking out lains the licensing of Dominion Voting Systems to Smartmatic"
+    title "Smartmatic SGO Mark Malloch-Brown explains the licensing of Dominion Voting Systems to Smartmatic"
     description ""
     channeltitle "Traveler Time"
     channelid "UCNN93lkb4EYjbCkm9d3KegA"
@@ -3403,7 +3403,7 @@ graph
     commentcount 0
     duration "PT2M15S"
     indegree 0
-    cluster 3
+    cluster 7
   ]
   node
   [
@@ -3411,7 +3411,7 @@ graph
     label "xKlj_b3h_iM"
     step 0
     date "2020-11-17T22:08:00Z"
-    title "Eric Coomer- VP Dominion Voting System SAID ? Wtf"
+    title "Eric Coomer- VP Dominion Voting System SAID  ? Wtf"
     description "Eric Coomer - The vice president of dominion voting systems... told election officials in the state of Illinois&#10;&#10;one America news posted this 11/24 2020&#10;https://youtu.be/qZ_ks_sNITg&#10;&#10; &#34;You can bypass the software and go directly into the database of the vote count system, as long as you have permission to do so&#34;&#10;&#10;and that is based on his own admission.&#10;&#10;Yep!! he actually said that. TRUE STORY."
     channeltitle "UNITED USA 2020"
     channelid "UC3kZ_gVFkfXBekteQCL4Thw"
@@ -3421,7 +3421,7 @@ graph
     commentcount 2
     duration "PT36S"
     indegree 0
-    cluster 8
+    cluster 6
   ]
   node
   [
@@ -3439,7 +3439,7 @@ graph
     commentcount 0
     duration "PT44S"
     indegree 0
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -3457,7 +3457,7 @@ graph
     commentcount 0
     duration "PT52S"
     indegree 1
-    cluster 5
+    cluster 7
   ]
   node
   [
@@ -3475,7 +3475,7 @@ graph
     commentcount 0
     duration "PT57M22S"
     indegree 0
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -3493,7 +3493,7 @@ graph
     commentcount 0
     duration "PT1H24M34S"
     indegree 0
-    cluster 6
+    cluster 5
   ]
   node
   [
@@ -3529,7 +3529,7 @@ graph
     commentcount 65
     duration "PT9M48S"
     indegree 22
-    cluster 8
+    cluster 10
   ]
   node
   [
@@ -3583,7 +3583,7 @@ graph
     commentcount 0
     duration "PT3M34S"
     indegree 0
-    cluster 3
+    cluster 7
   ]
   node
   [
@@ -3601,7 +3601,7 @@ graph
     commentcount 7
     duration "PT8M20S"
     indegree 0
-    cluster 5
+    cluster 3
   ]
   node
   [
@@ -3609,7 +3609,7 @@ graph
     label "oyENy_QrEd8"
     step 0
     date "2020-12-19T22:43:11Z"
-    title "Dominion Voting Machines Election Fraud Update"
+    title "Dominion Voting Machines  Election Fraud Update"
     description ""
     channeltitle "PRESSaggregate"
     channelid "UChuL9el1RDTcff5iSzEzkkg"
@@ -3637,7 +3637,7 @@ graph
     commentcount 4
     duration "PT1M43S"
     indegree 3
-    cluster 8
+    cluster 6
   ]
   node
   [
@@ -3709,7 +3709,7 @@ graph
     commentcount 0
     duration "PT4M14S"
     indegree 0
-    cluster 3
+    cluster 10
   ]
   node
   [
@@ -3727,7 +3727,7 @@ graph
     commentcount 69
     duration "PT4M31S"
     indegree 0
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -3735,7 +3735,7 @@ graph
     label "h3jjjefZyCM"
     step 0
     date "2020-11-28T09:28:15Z"
-    title "Melissa Carone, contractor of Dominion Voting Systems e tongue sticking out lains voter irregularities in Detroit"
+    title "Melissa Carone, contractor of Dominion Voting Systems explains voter irregularities in Detroit"
     description ""
     channeltitle "Fan Matisse"
     channelid "UCCb80hQ1eGNJ8h4VW9KD3Yw"
@@ -3745,7 +3745,7 @@ graph
     commentcount 12
     duration "PT7M26S"
     indegree 2
-    cluster 5
+    cluster 6
   ]
   node
   [
@@ -3763,7 +3763,7 @@ graph
     commentcount 3
     duration "PT1M57S"
     indegree 0
-    cluster 2
+    cluster 7
   ]
   node
   [
@@ -3781,7 +3781,7 @@ graph
     commentcount 1
     duration "PT5M13S"
     indegree 0
-    cluster 8
+    cluster 7
   ]
   node
   [
@@ -3799,7 +3799,7 @@ graph
     commentcount 39
     duration "PT8M45S"
     indegree 6
-    cluster 8
+    cluster 6
   ]
   node
   [
@@ -3817,7 +3817,7 @@ graph
     commentcount 0
     duration "PT35S"
     indegree 0
-    cluster 7
+    cluster 8
   ]
   node
   [
@@ -3835,7 +3835,7 @@ graph
     commentcount 4
     duration "PT13M3S"
     indegree 0
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -3853,7 +3853,7 @@ graph
     commentcount 1
     duration "PT13M5S"
     indegree 0
-    cluster 5
+    cluster 6
   ]
   node
   [
@@ -3879,7 +3879,7 @@ graph
     label "8Wtf4drsKeA"
     step 0
     date "2020-11-25T01:03:21Z"
-    title "ELECTION FRAUD 10 THe Dominion Voting Systems Smartmatic Story"
+    title "ELECTION FRAUD 10 THe Dominion Voting Systems  Smartmatic Story"
     description "All rights reserved. Content created under 'Fair Use'.&#10;The News Now, 2020"
     channeltitle "THE NEWS NOW"
     channelid "UCbmhgq7YH1TI8H__RI7vlWQ"
@@ -3889,7 +3889,7 @@ graph
     commentcount 1
     duration "PT4M58S"
     indegree 0
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -3907,7 +3907,7 @@ graph
     commentcount 0
     duration "PT3M42S"
     indegree 0
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -3925,7 +3925,7 @@ graph
     commentcount 18
     duration "PT7M20S"
     indegree 1
-    cluster 10
+    cluster 3
   ]
   node
   [
@@ -3943,7 +3943,7 @@ graph
     commentcount 1
     duration "PT1M20S"
     indegree 0
-    cluster 3
+    cluster 7
   ]
   node
   [
@@ -3961,7 +3961,7 @@ graph
     commentcount 2
     duration "PT1M39S"
     indegree 0
-    cluster 8
+    cluster 6
   ]
   node
   [
@@ -3987,7 +3987,7 @@ graph
     label "IUxtewUJhC8"
     step 0
     date "2020-12-03T19:31:34Z"
-    title "DOMINION VOTING MACHINES E tongue sticking out OSED"
+    title "DOMINION VOTING MACHINES EXPOSED"
     description "HogDexter"
     channeltitle "DexterAi Hedgehog"
     channelid "UCL4RLvppsZUNhVdfL_HH-2Q"
@@ -4015,7 +4015,7 @@ graph
     commentcount 4
     duration "PT10M25S"
     indegree 0
-    cluster 5
+    cluster 7
   ]
   node
   [
@@ -4023,7 +4023,7 @@ graph
     label "Xw4JTFat4ac"
     step 0
     date "2020-11-24T05:00:21Z"
-    title "Chairwoman Kelli Wardaz peels back the curtains to E tongue sticking out OSE Dominion Voting Software"
+    title "Chairwoman Kelli Wardaz peels back the curtains to EXPOSE Dominion Voting Software"
     description "Chairwoman Kelli Wardaz peels back the curtains to EXPOSE Dominion Voting Software"
     channeltitle "Truth News"
     channelid "UC5XVjRBowsQgtxdPVTLhRcw"
@@ -4051,7 +4051,7 @@ graph
     commentcount 0
     duration "PT9M10S"
     indegree 0
-    cluster 5
+    cluster 10
   ]
   node
   [
@@ -4069,7 +4069,7 @@ graph
     commentcount 0
     duration "PT3M10S"
     indegree 0
-    cluster 5
+    cluster 7
   ]
   node
   [
@@ -4087,7 +4087,7 @@ graph
     commentcount 1
     duration "PT12M4S"
     indegree 0
-    cluster 8
+    cluster 6
   ]
   node
   [
@@ -4105,7 +4105,7 @@ graph
     commentcount 2
     duration "PT34M53S"
     indegree 0
-    cluster 4
+    cluster 11
   ]
   node
   [
@@ -4123,7 +4123,7 @@ graph
     commentcount 0
     duration "PT21S"
     indegree 0
-    cluster 7
+    cluster 8
   ]
   node
   [
@@ -4141,7 +4141,7 @@ graph
     commentcount 0
     duration "PT6M51S"
     indegree 0
-    cluster 5
+    cluster 7
   ]
   node
   [
@@ -4159,7 +4159,7 @@ graph
     commentcount 32
     duration "PT1M49S"
     indegree 7
-    cluster 8
+    cluster 6
   ]
   node
   [
@@ -4185,7 +4185,7 @@ graph
     label "uaQwy7IvC20"
     step 0
     date "2020-11-17T08:12:55Z"
-    title "Latest on Lawsuits of Voter Fraud Election Fraud with the Dominion Voting System 11/16/20"
+    title "Latest on Lawsuits of Voter Fraud  Election Fraud with the Dominion Voting System 11/16/20"
     description ""
     channeltitle "Bret Griffiths"
     channelid "UCE7fYHO0P5SJ8rH5WMr5l8Q"
@@ -4195,7 +4195,7 @@ graph
     commentcount 4
     duration "PT11M54S"
     indegree 0
-    cluster 9
+    cluster 2
   ]
   node
   [
@@ -4203,7 +4203,7 @@ graph
     label "QIw2B475t0w"
     step 0
     date "2020-12-10T14:00:10Z"
-    title "Why Did Texas Reject Dominion Voting Machines? - Part 3"
+    title "Why Did Texas Reject Dominion Voting Machines?  - Part 3"
     description "Az Election Fraud 2020 Election&#10;&#10;https://wrawake.com/"
     channeltitle "wrawake"
     channelid "UCu48Q2rG75KhntBqkVc7Q2A"
@@ -4213,7 +4213,7 @@ graph
     commentcount 0
     duration "PT16M50S"
     indegree 5
-    cluster 2
+    cluster 11
   ]
   node
   [
@@ -4249,7 +4249,7 @@ graph
     commentcount 0
     duration "PT2M8S"
     indegree 0
-    cluster 3
+    cluster 7
   ]
   node
   [
@@ -4267,7 +4267,7 @@ graph
     commentcount 1
     duration "PT2M17S"
     indegree 0
-    cluster 4
+    cluster 11
   ]
   node
   [
@@ -4275,7 +4275,7 @@ graph
     label "3OG0TX7wpvs"
     step 0
     date "2020-11-22T12:08:57Z"
-    title "MSNBC E tongue sticking out oses Voting Machines Like Dominion Easy To Hack Can Be Bought On Ebay"
+    title "MSNBC Exposes Voting Machines Like Dominion Easy To Hack Can Be Bought On Ebay"
     description "https://www.engadget.com/2019-09-27-us-voting-machines-hackers-2020-election.html&#10;&#10;&#10;&#10;engadget.com&#10;Researchers easily breached voting machines for the 2020 election&#10;Christine Fisher&#10;&#10;A number of flaws allowed the hackers to access the machines, including weak default passwords and shoddy encryption. The group says the machines could be hacked by anyone with access to them, and if poll workers make mistakes or take shortcuts, the machines could be infiltrated by remote hackers.&#10;&#10;This isn't the first time we've been told the machines are susceptible to hacks. This summer we learned that key election systems may have been exposed online for months, and at least one voting machine maker sold states systems with remote access. With the 2020 election quickly approaching, states have little time to secure their systems. As The Washington Post reports, Senate Majority Leader Mitch McConnell (R-Ky.) is blocking bills that would mandate election security fixes. McConnell has endorsed giving $250 million in federal funds to state election officials, but that's significantly less than the $600 million Democrats in the Senate and House have proposed.&#10;&#10;We also know that Russian hackers accessed voter databases in two Florida counties before the 2016 election. There's reason to believe that hackers -- and not just those from Russia -- would attempt to access the vulnerable voting machines in 2020. Homeland Security's Cybersecurity Infrastructure Security Agency (CISA) is preparing for ransomware attacks like we've seen in Atlanta and Baltimore, and NYU has identified all of the ways social media disinformation tactics could be used to undermine the election. Now, we've been warned that the voting machines pose yet another risk."
     channeltitle "Vex Zeen"
     channelid "UCO8nalOcurB0eQk4k9Fe56w"
@@ -4321,7 +4321,7 @@ graph
     commentcount 0
     duration "PT3M"
     indegree 1
-    cluster 8
+    cluster 6
   ]
   node
   [
@@ -4339,7 +4339,7 @@ graph
     commentcount 7
     duration "PT8M23S"
     indegree 0
-    cluster 9
+    cluster 2
   ]
   node
   [
@@ -4347,7 +4347,7 @@ graph
     label "sEvaOMJ7jV0"
     step 0
     date "2020-11-19T20:16:23Z"
-    title "Not like in Canada! Dominion Voting counties must be audite tongue sticking out Keean Bexte with Ezra Levant"
+    title "Not like in Canada! Dominion Voting counties must be audited: Keean Bexte with Ezra Levant"
     description "Watch the full Ezra Levant Show (SUBSCRIBERS ONLY) &#9658; https://rebelne.ws/38RUE52&#10;&#10;Rebel News: Telling the other side of the story. https://www.rebelnews.com for more great Rebel content. &#10;&#10;Unlike almost all of our mainstream media competitors, Rebel News doesn&#8217;t receive any government funding. We rely on our generous audience to help keep us reporting. Please consider supporting Rebel News by making a donation, purchasing a RebelNews+ subscription, shopping in our online store, or any of the other methods below: &#10;&#10;&#9658;Support our independent journalism - https://rebelne.ws/donation&#10;&#9658;Donate in cryptocurrency - http://rebelne.ws/crypto&#10;&#9658;Make a donation through PayPal - https://rebelne.ws/paypal&#10;&#9658;Rebel News Plus  - Become a Premium Content subscriber - https://rebelne.ws/plus&#10;&#9658;BUY Rebel News gear - https://rebelne.ws/store&#10;&#9658;LISTEN to our FREE podcast - https://rebelne.ws/podcast&#10;&#10;Make sure to follow Rebel News on social media too! &#10;FACEBOOK - https://rebelne.ws/fbook&#10;TWITTER - https://rebelne.ws/twitter&#10;INSTAGRAM - https://rebelne.ws/Instagram&#10;&#10;An original video production by Rebel News.&#10;&#10;#RebelNews #EzraLevant #KeeanBexte #DominionVotingSystems #SidneyPowell"
     channeltitle "Rebel News"
     channelid "UCGy6uV7yqGWDeUWTZzT3ZEg"
@@ -4357,7 +4357,7 @@ graph
     commentcount 281
     duration "PT6M39S"
     indegree 2
-    cluster 7
+    cluster 4
   ]
   node
   [
@@ -4411,7 +4411,7 @@ graph
     commentcount 1
     duration "PT1M51S"
     indegree 0
-    cluster 5
+    cluster 3
   ]
   node
   [
@@ -4429,7 +4429,7 @@ graph
     commentcount 597
     duration "PT2M7S"
     indegree 0
-    cluster 8
+    cluster 10
   ]
   node
   [
@@ -4437,7 +4437,7 @@ graph
     label "Rys_3J_m2VM"
     step 0
     date "2020-11-17T19:45:01Z"
-    title "Tech e tongue sticking out ert says Dominion Voting Systems VERY easy to hack"
+    title "Tech expert says Dominion Voting Systems VERY easy to hack"
     description "There&#8217;s been a lot of discussion recently about Dominion Voting Systems &#8212; the paperless voting system implemented in Georgia before the election &#8212; and whether or not the software used by Dominion is safe from attempted voter fraud or ballot manipulation. To find those answers, founder of Brownstone Research &#38; tech expert Jeff Brown read the entire Dominion software manual, and what he found is HORRIFYING. Brown explains to Glenn just how easy it is for somebody to hack, change, or manipulate the votes within these systems. So easy, in fact, Brown says it&#8217;s almost as if these voting booths were DESIGNED to be high risk.&#10;&#10;&#9658; Click HERE to subscribe to Glenn Beck https://bit.ly/2UVLqhL&#13;&#10;&#9658;Click HERE to subscribe to BlazeTV: https://www.blazetv.com/glenn &#13;&#10;&#13;&#10;Connect with Glenn on Social Media: &#13;&#10;http://twitter.com/glennbeck&#13;&#10;http://instagram.com/glennbeck&#13;&#10;http://facebook.com/glennbeck"
     channeltitle "Glenn Beck"
     channelid "UCvqtzdcURSqNjY9RQEK4XmQ"
@@ -4447,7 +4447,7 @@ graph
     commentcount 596
     duration "PT13M32S"
     indegree 0
-    cluster 3
+    cluster 7
   ]
   node
   [
@@ -4455,7 +4455,7 @@ graph
     label "1BbrFbeikew"
     step 0
     date "2020-11-14T18:45:45Z"
-    title "E tongue sticking out OSE tongue sticking out Dems Complained About Dominion Voting Systems Too!"
+    title "EXPOSED: Dems Complained About Dominion Voting Systems Too!"
     description "The concerns over Dominion Voting Systems haven't just come from Republicans.&#10;&#10;In December 2019, Democrat Senators Elizabeth Warren, Ron Wyden,&#10;and Amy Klobuchar sent letters expressing their concern with Dominion's propensity to potentially switch the result of a cast ballot.&#10;&#10;(FOX News/ The Story with Martha MacCallum/11.13.20)&#10;&#10;Follow Rep. Gaetz on Twitter: https://twitter.com/RepMattGaetz&#10;Follow Rep. Gaetz on Facebook: https://www.facebook.com/CongressmanMattGaetz&#10;Follow Rep. Gaetz on Instagram https://www.instagram.com/repmattgaetz/&#10;Subscribe to Hot Takes with Matt Gaetz casts.apple.com/us/podcast/hot-takes-with-matt-gaetz/id1512848110"
     channeltitle "Congressman Matt Gaetz"
     channelid "UClqXcJew_A3s8qiX-T4a9CA"
@@ -4483,7 +4483,7 @@ graph
     commentcount 4
     duration "PT3M5S"
     indegree 0
-    cluster 5
+    cluster 2
   ]
   node
   [
@@ -4519,7 +4519,7 @@ graph
     commentcount 0
     duration "PT4M54S"
     indegree 0
-    cluster 7
+    cluster 8
   ]
   node
   [
@@ -4537,7 +4537,7 @@ graph
     commentcount 17
     duration "PT6M40S"
     indegree 0
-    cluster 8
+    cluster 6
   ]
   node
   [
@@ -4555,7 +4555,7 @@ graph
     commentcount 0
     duration "PT3H13M50S"
     indegree 0
-    cluster 7
+    cluster 8
   ]
   node
   [
@@ -4573,7 +4573,7 @@ graph
     commentcount 2
     duration "PT18M26S"
     indegree 0
-    cluster 4
+    cluster 11
   ]
   node
   [
@@ -4591,7 +4591,7 @@ graph
     commentcount 0
     duration "PT26S"
     indegree 0
-    cluster 2
+    cluster 11
   ]
   node
   [
@@ -4599,7 +4599,7 @@ graph
     label "vEbpkUXAD14"
     step 0
     date "2020-11-27T10:38:04Z"
-    title "Hack the Dominion voting machine"
+    title "Hack the  Dominion voting machine"
     description "How to hack the &#34;unhackable&#34; (according to Democrats) Dominion voting machines in less than 90 seconds, to get full administrator access."
     channeltitle "AgentPepsi1"
     channelid "UCpJ0j4iDa8PU9k1pR73KQJQ"
@@ -4627,7 +4627,7 @@ graph
     commentcount 41
     duration "PT43S"
     indegree 0
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -4645,7 +4645,7 @@ graph
     commentcount 2
     duration "PT1M8S"
     indegree 0
-    cluster 2
+    cluster 5
   ]
   node
   [
@@ -4653,7 +4653,7 @@ graph
     label "HpQBRQHabhE"
     step 0
     date "2020-11-13T23:27:54Z"
-    title "Sidney Powell 11/13/20 Release The Kraken. Dominion Voting System. E tongue sticking out ose Everyone. #FightBack"
+    title "Sidney Powell 11/13/20 Release The Kraken. Dominion Voting System. Expose Everyone. #FightBack"
     description ""
     channeltitle "denverflynn"
     channelid "UCS5RpSBiQFkz2oeEB-Hfoqw"
@@ -4663,7 +4663,7 @@ graph
     commentcount 14
     duration "PT6M58S"
     indegree 0
-    cluster 7
+    cluster 8
   ]
   node
   [
@@ -4699,7 +4699,7 @@ graph
     commentcount 1
     duration "PT13M54S"
     indegree 0
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -4735,7 +4735,7 @@ graph
     commentcount 8
     duration "PT2M28S"
     indegree 0
-    cluster 7
+    cluster 4
   ]
   node
   [
@@ -4753,7 +4753,7 @@ graph
     commentcount 0
     duration "PT7M44S"
     indegree 0
-    cluster 7
+    cluster 8
   ]
   node
   [
@@ -4789,7 +4789,7 @@ graph
     commentcount 68
     duration "PT2H3M19S"
     indegree 0
-    cluster 4
+    cluster 11
   ]
   node
   [
@@ -4807,7 +4807,7 @@ graph
     commentcount -1
     duration "PT35S"
     indegree 0
-    cluster 1
+    cluster 3
   ]
   node
   [
@@ -4825,7 +4825,7 @@ graph
     commentcount 2
     duration "PT3M4S"
     indegree 0
-    cluster 8
+    cluster 6
   ]
   node
   [
@@ -4851,7 +4851,7 @@ graph
     label "ODAH4Ci3Ca8"
     step 0
     date "2020-11-10T14:15:01Z"
-    title "Dominion Voting Systems Issues"
+    title "Dominion Voting Systems  Issues"
     description "Not surprisingly to ME, Dominion Voting Systems are tied to many allegations of &#34;rigging&#34; elections and votes worldwide, and to democrats. Nothing to see hear folks, just move along..."
     channeltitle "Serenity Farms Prepping"
     channelid "UC8GZGsealr4Bzkkfw60ghRw"
@@ -4861,7 +4861,7 @@ graph
     commentcount 1
     duration "PT12M19S"
     indegree 0
-    cluster 8
+    cluster 6
   ]
   node
   [
@@ -4869,7 +4869,7 @@ graph
     label "E_aKwjMApxY"
     step 0
     date "2020-11-10T10:34:04Z"
-    title "Washington E tongue sticking out ose on #GlitchGate: Dominion Voting Systems Ownership Shock"
+    title "Washington Expose on #GlitchGate: Dominion Voting Systems Ownership Shock"
     description "MUST HEAR: Washington Expose Podcast today details #GlitchGate, and the state of the election fraud.&#10;&#10;https://freepressers.com/washington-expose/washington-expose-episode-140-top-story-dominion-voting-systems-ownership-shock"
     channeltitle "Constitutional Rights PAC"
     channelid "UClxljDDlzzQOTawO8gwpFyQ"
@@ -4879,7 +4879,7 @@ graph
     commentcount 1
     duration "PT56M47S"
     indegree 0
-    cluster 7
+    cluster 8
   ]
   node
   [
@@ -4915,7 +4915,7 @@ graph
     commentcount 2
     duration "PT24M40S"
     indegree 0
-    cluster 1
+    cluster 3
   ]
   node
   [
@@ -4933,7 +4933,7 @@ graph
     commentcount 0
     duration "PT3M15S"
     indegree 0
-    cluster 3
+    cluster 7
   ]
   node
   [
@@ -4951,7 +4951,7 @@ graph
     commentcount 0
     duration "PT2M19S"
     indegree 0
-    cluster 7
+    cluster 4
   ]
   node
   [
@@ -4969,7 +4969,7 @@ graph
     commentcount 0
     duration "PT27M30S"
     indegree 0
-    cluster 4
+    cluster 11
   ]
   node
   [
@@ -4987,7 +4987,7 @@ graph
     commentcount 0
     duration "PT1M"
     indegree 0
-    cluster 7
+    cluster 8
   ]
   node
   [
@@ -5005,7 +5005,7 @@ graph
     commentcount 5
     duration "PT2M21S"
     indegree 0
-    cluster 2
+    cluster 9
   ]
   node
   [
@@ -5041,7 +5041,7 @@ graph
     commentcount 0
     duration "PT2M5S"
     indegree 0
-    cluster 7
+    cluster 8
   ]
   node
   [
@@ -5059,7 +5059,7 @@ graph
     commentcount 4
     duration "PT3M49S"
     indegree 0
-    cluster 9
+    cluster 2
   ]
   node
   [
@@ -5077,7 +5077,7 @@ graph
     commentcount 0
     duration "PT33S"
     indegree 0
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -5095,7 +5095,7 @@ graph
     commentcount 2
     duration "PT6M56S"
     indegree 0
-    cluster 7
+    cluster 8
   ]
   node
   [
@@ -5113,7 +5113,7 @@ graph
     commentcount 11
     duration "PT11M49S"
     indegree 0
-    cluster 8
+    cluster 10
   ]
   node
   [
@@ -5131,7 +5131,7 @@ graph
     commentcount 0
     duration "PT3M40S"
     indegree 0
-    cluster 8
+    cluster 4
   ]
   node
   [
@@ -5149,7 +5149,7 @@ graph
     commentcount 0
     duration "PT2M17S"
     indegree 0
-    cluster 8
+    cluster 10
   ]
   node
   [
@@ -5167,7 +5167,7 @@ graph
     commentcount 0
     duration "PT5M27S"
     indegree 0
-    cluster 7
+    cluster 8
   ]
   node
   [
@@ -5185,7 +5185,7 @@ graph
     commentcount 2
     duration "PT1M57S"
     indegree 0
-    cluster 7
+    cluster 4
   ]
   node
   [
@@ -5193,7 +5193,7 @@ graph
     label "yABflAKvBco"
     step 0
     date "2020-11-11T01:47:08Z"
-    title "E tongue sticking out OSED!! DOMINION VOTING SYSTEM in States or SWITCH or LOST VOTES make irregularities??"
+    title "EXPOSED!! DOMINION VOTING SYSTEM in States  or SWITCH or LOST VOTES make irregularities??"
     description "EXPOSED!! DOMINION VOTING SYSTEM in States &#34;GLITCH&#34; SWITCHED VOTES &#38; LOST VOTES IN FAVOR OF BIDEN??&#10;QUESTION EVERYTHING???&#10;THIS VIDEO LINK: https://youtu.be/yABflAKvBco&#10;&#10;(Note to YouTube: Under Dept of Homeland Security Program &#34;SEE SAY&#34; If You See Something Say Something Program, I present following videos as SEEING AND SAYING THE FOLLOWING VIDEO information out of concern of Possible Federal Election abnormalities or breaking of rules . THIS VIDEO IS WITHIN guidelines of SEE SAY protocols OF Homeland Security cautioning lookout for and USE OF BACKPACKS IN concealing THEFT OF PROPERTY or carrying explosives or unlawful tools or materials. CAUTION YOUTUBE: Any Concealing or Restricting &#34;SEE SAY&#34; of A CITIZEN OR VOTERS OBLIGATION AND freedom to PUBLICLY  &#34;SEE SAY&#34; may be a crime itself. No names identity or faces are exposed in videos due to covid mask use  and no audio.&#10;&#10;NOTICE: ALL BACKPACKS SHOWN &#34;ARE NOT necessarily BAD or CRIMINAL&#34;  but VIDEOS SHOW common sense should RULE THAT NO BACKPACKS BE ALLOWED IN SENSITIVE GOVERNMENT VOTE COUNT AREAS. (Websters definition of BACKPACK include &#34;load carried on back&#34; (load of what?), actual Websters example of BACKPACK used in a sentence: &#34;stuffed her BACKPACK with so many books (or papers??) that she could barely walk&#34;."
     channeltitle "wordofg3"
     channelid "UCtPJ9JZYxZfnpMJFgWAdSkw"
@@ -5203,7 +5203,7 @@ graph
     commentcount 0
     duration "PT44S"
     indegree 0
-    cluster 7
+    cluster 8
   ]
   node
   [
@@ -5221,7 +5221,7 @@ graph
     commentcount 0
     duration "PT8M11S"
     indegree 0
-    cluster 7
+    cluster 8
   ]
   node
   [
@@ -5275,7 +5275,7 @@ graph
     commentcount 0
     duration "PT1M22S"
     indegree 0
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -5311,7 +5311,7 @@ graph
     commentcount 2
     duration "PT14M18S"
     indegree 0
-    cluster 8
+    cluster 10
   ]
   node
   [
@@ -5329,7 +5329,7 @@ graph
     commentcount -1
     duration "PT2M30S"
     indegree 0
-    cluster 8
+    cluster 4
   ]
   node
   [
@@ -5347,7 +5347,7 @@ graph
     commentcount 4
     duration "PT16M38S"
     indegree 0
-    cluster 8
+    cluster 4
   ]
   node
   [
@@ -5355,7 +5355,7 @@ graph
     label "xpm52DBtkNU"
     step 0
     date "2020-11-21T21:41:46Z"
-    title "E tongue sticking out osing Dominion Voting Systems Using Excel"
+    title "Exposing Dominion Voting Systems Using Excel"
     description "Always do your own research before coming to conclusions. This video is in no way meant to harm or offend any person watching it. We condemn violence against any group especially based on race, gender, orientation, age, disability and immigration status in the strongest sense. &#10;&#10;Fact Checking Websites:&#10;https://www.snopes.com/&#10;https://factcheck.org/&#10;https://climatefeedback.org/&#10;https://www.politifact.com/&#10;&#10;More Resources:&#10;COVID-19 Factsheet: https://www.afn.ca/wp-content/uploads...&#10;Learn about mail-in voting: https://twitter.com/i/events/13063265...&#10;Learn about election security: https://www.lawfareblog.com/2020-elec...&#10;Learn about facemasks: https://www.nature.com/articles/d4158..."
     channeltitle "Hannity Clips"
     channelid "UCAMOYMdt4Rf0TeQZgYpNxNA"
@@ -5383,7 +5383,7 @@ graph
     commentcount 0
     duration "PT9M58S"
     indegree 0
-    cluster 4
+    cluster 11
   ]
   node
   [
@@ -5401,7 +5401,7 @@ graph
     commentcount 0
     duration "PT8M7S"
     indegree 0
-    cluster 8
+    cluster 6
   ]
   node
   [
@@ -5437,7 +5437,7 @@ graph
     commentcount 8
     duration "PT5M42S"
     indegree 0
-    cluster 9
+    cluster 2
   ]
   node
   [
@@ -5455,7 +5455,7 @@ graph
     commentcount 186
     duration "PT21M35S"
     indegree 0
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -5473,7 +5473,7 @@ graph
     commentcount 1
     duration "PT2M16S"
     indegree 0
-    cluster 5
+    cluster 10
   ]
   node
   [
@@ -5491,7 +5491,7 @@ graph
     commentcount 2
     duration "PT1M21S"
     indegree 0
-    cluster 5
+    cluster 10
   ]
   node
   [
@@ -5509,7 +5509,7 @@ graph
     commentcount 1
     duration "PT3M32S"
     indegree 0
-    cluster 8
+    cluster 6
   ]
   node
   [
@@ -5545,7 +5545,7 @@ graph
     commentcount 0
     duration "PT2M17S"
     indegree 0
-    cluster 8
+    cluster 4
   ]
   node
   [
@@ -5581,7 +5581,7 @@ graph
     commentcount 0
     duration "PT28M30S"
     indegree 0
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -5599,7 +5599,7 @@ graph
     commentcount 1
     duration "PT4M48S"
     indegree 0
-    cluster 4
+    cluster 11
   ]
   node
   [
@@ -5607,7 +5607,7 @@ graph
     label "VTty3treJr0"
     step 0
     date "2020-11-19T01:57:07Z"
-    title "The Dominion Voting Systems, brief introduction and investors behind it"
+    title "The Dominion Voting Systems, brief introduction  and investors behind it"
     description "The video is from a research report of Fan Matisse.&#10;&#10;https://link.medium.com/lHOqtDRPwbb&#10;&#10;You are welcome to share but do respect copyright and cite the original sources and credit Fan Matisse.&#10;&#10;There&#8217;s no intention to make a profit out of the research.&#10;&#10;The truth should always prevail and if there&#8217;s nothing to hide behind the investors of Dominion Voting Systems, why there&#8217;s no open information of who actually invested in the company, instead the real investors are hiding behind the private equity firm, The Staple Street Capital.&#10;&#10;There&#8217;s no coincidence.&#10;&#10;Joe Biden is from Delaware.&#10;&#10;Staple Street Capital is registered in Delaware.&#10;&#10;&#129300;&#129300;&#129300;&#129300;&#129300;&#129300;&#129300;&#129300;&#129300;&#129300;"
     channeltitle "Fan Matisse"
     channelid "UCCb80hQ1eGNJ8h4VW9KD3Yw"
@@ -5617,7 +5617,7 @@ graph
     commentcount 1
     duration "PT4M44S"
     indegree 0
-    cluster 5
+    cluster 10
   ]
   node
   [
@@ -5635,7 +5635,7 @@ graph
     commentcount 0
     duration "PT2M5S"
     indegree 0
-    cluster 7
+    cluster 8
   ]
   node
   [
@@ -5653,7 +5653,7 @@ graph
     commentcount 0
     duration "PT2M3S"
     indegree 0
-    cluster 7
+    cluster 8
   ]
   node
   [
@@ -5689,7 +5689,7 @@ graph
     commentcount 0
     duration "PT44S"
     indegree 0
-    cluster 8
+    cluster 9
   ]
   node
   [
@@ -5743,7 +5743,7 @@ graph
     commentcount 1
     duration "PT3M10S"
     indegree 0
-    cluster 8
+    cluster 10
   ]
   node
   [
@@ -5761,7 +5761,7 @@ graph
     commentcount 1
     duration "PT1M27S"
     indegree 0
-    cluster 3
+    cluster 7
   ]
   node
   [
@@ -5779,7 +5779,7 @@ graph
     commentcount 7
     duration "PT54M26S"
     indegree 0
-    cluster 8
+    cluster 10
   ]
   node
   [
@@ -5787,7 +5787,7 @@ graph
     label "AK9LgRvvPJQ"
     step 0
     date "2020-12-11T04:25:35Z"
-    title "Trump Team E tongue sticking out oses How Dominion Voting Machines REALLY work"
+    title "Trump Team Exposes How Dominion Voting Machines REALLY work"
     description ""
     channeltitle "Wendy B"
     channelid "UCg3O_PxU94WF4tkY7h2t0wA"
@@ -5797,7 +5797,7 @@ graph
     commentcount 0
     duration "PT13M43S"
     indegree 0
-    cluster 6
+    cluster 8
   ]
   node
   [
@@ -5815,7 +5815,7 @@ graph
     commentcount 22
     duration "PT8M59S"
     indegree 0
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -5833,7 +5833,7 @@ graph
     commentcount 0
     duration "PT13M14S"
     indegree 0
-    cluster 7
+    cluster 8
   ]
   node
   [
@@ -5851,7 +5851,7 @@ graph
     commentcount 4
     duration "PT13M16S"
     indegree 0
-    cluster 3
+    cluster 7
   ]
   node
   [
@@ -5859,7 +5859,7 @@ graph
     label "d2-PZ09X5xk"
     step 0
     date "2020-12-14T22:19:18Z"
-    title "How Dominion Ballots"
+    title "How Dominion  Ballots"
     description "An election supervisor in Georgia, Misty Martin, demonstrated how Dominion Voting Systems allows votes to be changed manually, a process known as &#8220;adjudication&#8221;.&#10;&#10;The system can adjudicate all scanned ballots, even blank ones,  without leaving a trace.&#10;&#10;The ballots adjudication started weeks before election.&#10;This means ballots were opened before Election Day, allegedly in violation to the state's law.&#10;&#10;Coffee County in Georgia has refused to certify its election results, citing issues with the Dominion software."
     channeltitle "The MetaFlair"
     channelid "UCswYD0ol81Vp6TO3GJB8lqg"
@@ -5869,7 +5869,7 @@ graph
     commentcount 77
     duration "PT2M56S"
     indegree 0
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -5887,7 +5887,7 @@ graph
     commentcount 0
     duration "PT5M4S"
     indegree 0
-    cluster 7
+    cluster 8
   ]
   node
   [
@@ -5905,7 +5905,7 @@ graph
     commentcount 1
     duration "PT36S"
     indegree 0
-    cluster 8
+    cluster 6
   ]
   node
   [
@@ -5923,7 +5923,7 @@ graph
     commentcount 40
     duration "PT21M41S"
     indegree 0
-    cluster 8
+    cluster 10
   ]
   node
   [
@@ -5959,7 +5959,7 @@ graph
     commentcount 3
     duration "PT27M16S"
     indegree 0
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -6031,7 +6031,7 @@ graph
     commentcount 0
     duration "PT35S"
     indegree 0
-    cluster 8
+    cluster 9
   ]
   node
   [
@@ -6049,7 +6049,7 @@ graph
     commentcount 0
     duration "PT6M17S"
     indegree 0
-    cluster 8
+    cluster 4
   ]
   node
   [
@@ -6103,7 +6103,7 @@ graph
     commentcount 1
     duration "PT15M53S"
     indegree 0
-    cluster 4
+    cluster 11
   ]
   node
   [
@@ -6139,7 +6139,7 @@ graph
     commentcount 20
     duration "PT5M19S"
     indegree 0
-    cluster 7
+    cluster 5
   ]
   node
   [
@@ -6157,7 +6157,7 @@ graph
     commentcount 232
     duration "PT2M1S"
     indegree 0
-    cluster 10
+    cluster 3
   ]
   edge
   [

@@ -1,4 +1,4 @@
-Creator "igraph version 1.3.1 Thu Jul 14 09:45:02 2022"
+Creator "igraph version 1.3.1 Thu Jul 14 11:01:16 2022"
 Version 1
 graph
 [
@@ -91,7 +91,7 @@ graph
     commentcount 13691
     duration "PT17M27S"
     indegree 165
-    cluster 4
+    cluster 2
   ]
   node
   [
@@ -127,7 +127,7 @@ graph
     commentcount 10584
     duration "PT14M34S"
     indegree 79
-    cluster 4
+    cluster 2
   ]
   node
   [
@@ -145,7 +145,7 @@ graph
     commentcount 6853
     duration "PT13M34S"
     indegree 131
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -163,7 +163,7 @@ graph
     commentcount 15105
     duration "PT18M53S"
     indegree 147
-    cluster 6
+    cluster 1
   ]
   node
   [
@@ -217,7 +217,7 @@ graph
     commentcount 45691
     duration "PT13M28S"
     indegree 177
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -271,7 +271,7 @@ graph
     commentcount 10579
     duration "PT14M20S"
     indegree 94
-    cluster 1
+    cluster 4
   ]
   node
   [
@@ -325,7 +325,7 @@ graph
     commentcount 5742
     duration "PT11M"
     indegree 68
-    cluster 2
+    cluster 4
   ]
   node
   [
@@ -343,7 +343,7 @@ graph
     commentcount 8028
     duration "PT14M13S"
     indegree 49
-    cluster 1
+    cluster 4
   ]
   node
   [
@@ -379,7 +379,7 @@ graph
     commentcount 22657
     duration "PT16M41S"
     indegree 86
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -397,7 +397,7 @@ graph
     commentcount 28146
     duration "PT25M12S"
     indegree 129
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -415,7 +415,7 @@ graph
     commentcount 18859
     duration "PT11M32S"
     indegree 75
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -469,7 +469,7 @@ graph
     commentcount 2733
     duration "PT9M50S"
     indegree 16
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -487,7 +487,7 @@ graph
     commentcount 11750
     duration "PT10M17S"
     indegree 12
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -541,7 +541,7 @@ graph
     commentcount 24396
     duration "PT17M24S"
     indegree 89
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -595,7 +595,7 @@ graph
     commentcount 15011
     duration "PT17M56S"
     indegree 50
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -631,7 +631,7 @@ graph
     commentcount 7439
     duration "PT13M53S"
     indegree 41
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -649,7 +649,7 @@ graph
     commentcount 24530
     duration "PT13M41S"
     indegree 69
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -667,7 +667,7 @@ graph
     commentcount 27453
     duration "PT18M37S"
     indegree 102
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -703,7 +703,7 @@ graph
     commentcount 30956
     duration "PT16M36S"
     indegree 19
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -729,7 +729,7 @@ graph
     label "nTlmIA1tERA"
     step 0
     date "2022-06-16T18:07:48Z"
-    title "The Deadly World of Iron Lung E tongue sticking out lained | The SCIENCE of... Iron Lung"
+    title "The Deadly World of Iron Lung Explained | The SCIENCE of... Iron Lung"
     description "SUBSCRIBE to NEVER miss a Theory! &#9658; https://goo.gl/kQWHkJ      &#10; &#10;Theorists, Iron Lung is one SCARY game! I don't mean the sea of blood and huge monster fish either. I'm talking about the state of the UNIVERSE. Specifically the missing suns. That is a BIG red flag in any kind of survival. So today, Austin is going to try and figure out if humans could SURVIVE with no sun. Let's go!&#10; &#10;Join The SCIENCE on Patreon &#9658; https://www.patreon.com/theSCIENCEyt&#10;Want to join in the SCIENCE discussion? &#9658;&#9658; https://discord.gg/theSCIENCE  &#10;&#10;Game Theories:&#10;The Tragedy of Deltarune (Undertale) &#9658; https://bit.ly/2PxobaR&#10;Mario's LUNAR APOCALYPSE!! &#9658;&#9658; https://bit.ly/2FRgd4Y&#10;How DEADLY Is Mario's Bob-Omb? &#9658;&#9658; https://bit.ly/2GnkRLK&#10;What is a Kirby? The SCIENTIFIC PROOF! &#9658; https://bit.ly/2GnPP6t&#10;&#10;More The SCIENCE!&#10;How To SURVIVE A Nuclear Fallout! &#9658; https://bit.ly/2Aaeo1s&#10;MONIKA: Google's Newest Creation!  &#9658;&#9658; https://bit.ly/2G3uifh&#10;Minecraft Diamonds DECODED! &#9658;&#9658; https://bit.ly/2IHqk0n&#10;The Move That BROKE Pokemon!  &#9658;&#9658; https://bit.ly/2JCwEHP&#10; &#10;#IronLung #IronLungGame #IronLungTheory #Space #Sun #Survive #HowToSurvive #Theory #TheScience #GameTheory"
     channeltitle "The Game Theorists"
     channelid "UCo_IB5145EVNcf8hw1Kku7w"
@@ -757,7 +757,7 @@ graph
     commentcount 59216
     duration "PT24M"
     indegree 64
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -775,7 +775,7 @@ graph
     commentcount 1752
     duration "PT8M22S"
     indegree 9
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -829,7 +829,7 @@ graph
     commentcount 16861
     duration "PT16M27S"
     indegree 18
-    cluster 6
+    cluster 1
   ]
   node
   [
@@ -847,7 +847,7 @@ graph
     commentcount 23160
     duration "PT20M39S"
     indegree 80
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -865,7 +865,7 @@ graph
     commentcount 43259
     duration "PT18M36S"
     indegree 50
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -883,7 +883,7 @@ graph
     commentcount 191
     duration "PT12M31S"
     indegree 7
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -973,7 +973,7 @@ graph
     commentcount 75831
     duration "PT25M34S"
     indegree 89
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -991,7 +991,7 @@ graph
     commentcount 3723
     duration "PT9M49S"
     indegree 11
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -1045,7 +1045,7 @@ graph
     commentcount 16505
     duration "PT18M45S"
     indegree 111
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -1099,7 +1099,7 @@ graph
     commentcount 31349
     duration "PT16M36S"
     indegree 49
-    cluster 5
+    cluster 1
   ]
   node
   [
@@ -1117,7 +1117,7 @@ graph
     commentcount 10145
     duration "PT16M1S"
     indegree 8
-    cluster 1
+    cluster 4
   ]
   node
   [
@@ -1153,7 +1153,7 @@ graph
     commentcount 16727
     duration "PT14M23S"
     indegree 29
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -1207,7 +1207,7 @@ graph
     commentcount 17378
     duration "PT14M43S"
     indegree 69
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -1243,7 +1243,7 @@ graph
     commentcount 38906
     duration "PT17M21S"
     indegree 56
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -1279,7 +1279,7 @@ graph
     commentcount 26060
     duration "PT18M47S"
     indegree 47
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -1351,7 +1351,7 @@ graph
     commentcount 29733
     duration "PT15M33S"
     indegree 29
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -1369,7 +1369,7 @@ graph
     commentcount 125554
     duration "PT14M50S"
     indegree 42
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -1387,7 +1387,7 @@ graph
     commentcount 49055
     duration "PT15M25S"
     indegree 32
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -1423,7 +1423,7 @@ graph
     commentcount 65704
     duration "PT15M7S"
     indegree 19
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -1549,7 +1549,7 @@ graph
     commentcount 28160
     duration "PT15M"
     indegree 3
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -1567,7 +1567,7 @@ graph
     commentcount 10385
     duration "PT12M29S"
     indegree 5
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -1603,7 +1603,7 @@ graph
     commentcount 11831
     duration "PT18M46S"
     indegree 90
-    cluster 2
+    cluster 1
   ]
   node
   [
@@ -1621,7 +1621,7 @@ graph
     commentcount 54688
     duration "PT17M5S"
     indegree 15
-    cluster 6
+    cluster 1
   ]
   node
   [
@@ -1639,7 +1639,7 @@ graph
     commentcount 50679
     duration "PT14M57S"
     indegree 23
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -1657,7 +1657,7 @@ graph
     commentcount 9199
     duration "PT14M50S"
     indegree 4
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -1675,7 +1675,7 @@ graph
     commentcount 43784
     duration "PT23M40S"
     indegree 78
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -1683,7 +1683,7 @@ graph
     label "IRvNrMk-n6o"
     step 0
     date "2018-12-09T20:12:53Z"
-    title "Game Theory: Super Smash Bros Ultimate Ending E tongue sticking out LAINED | World of Light True Ending"
+    title "Game Theory: Super Smash Bros Ultimate Ending EXPLAINED | World of Light True Ending"
     description "Special thanks to NordVPN for partnering with us on this episode!&#10;Protect yourself &#38; save 75% for 3 years! &#9658; https://nordvpn.com/matpat&#10;Or Use the Code &#9658;&#9658; MATPAT&#10;&#10;Special Thanks to Jirard the Completionist! &#9658; https://bit.ly/1HbcCgQ&#10;&#10;SUBSCRIBE for More Theories! &#9658; http://bit.ly/1qV8fd6    &#10;&#10;I promised to explain the new Super Smash Bros Ultimate story mode to you and guess what? I'm keeping that promise! Today I am here to tell you what the story of World of Light is REALLY about. It is DEEP!  So deep I am surprised this made it past all the executives! &#10;&#10;Find the game here! &#9658; https://www.smashbros.com/en_US/&#10;&#10;Don't forget to snuggle up in our new hood-tastic holiday Theory Wear!  &#9658; http://bit.ly/2Taok30  &#10;&#10;Need Royalty Free Music for your Content? Try Epidemic Sound.&#10;Get Your 30 Day Free Trial &#9658; http://share.epidemicsound.com/MatPat&#10;&#10;SUBSCRIBE for Every Theory! &#9658; http://bit.ly/1qV8fd6&#10;Hang out with us on GTLive! &#9658;&#9658; http://bit.ly/1LkSBnz&#10;&#10;More THEORIES:&#10;Why You CAN'T Beat Smash Bros!&#9658; https://bit.ly/2PGYx0g&#10;Super Smash Bros TRAGIC Lore! &#9658;https://bit.ly/2aOjanS &#10;The END of Princess Peach! &#9658; https://bit.ly/2CJuYbm&#10;How BAD is Mario's Blue Shell? &#9658;&#9658; https://bit.ly/2BfFlUK&#10;Mario Kart 8, Mario's SCARIEST Game? &#9658; https://bit.ly/2wyeell&#10;Luigi - Secret MILLIONAIRE?? &#9658; https://bit.ly/2CEkk15 &#10;&#10;Check out some more of our awesome video game content: &#10;Game Theory &#9658;&#9658; http://bit.ly/1zz3t7E&#10;Culture Shock &#9658;&#9658; http://bit.ly/1sw7aZ8&#10;The SCIENCE! &#9658;&#9658; https://goo.gl/GFK9EV&#10;&#10;#SuperSmashBrosUltimate #SmashBros #WorldofLight #SuperSmashBros #Nintendo #Switch #Mario #Waluigi #SSBU  #StoryMode  #GameTheory"
     channeltitle "The Game Theorists"
     channelid "UCo_IB5145EVNcf8hw1Kku7w"
@@ -1693,7 +1693,7 @@ graph
     commentcount 19021
     duration "PT21M28S"
     indegree 54
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -1711,7 +1711,7 @@ graph
     commentcount 32301
     duration "PT13M53S"
     indegree 8
-    cluster 5
+    cluster 3
   ]
   node
   [
@@ -1729,7 +1729,7 @@ graph
     commentcount 40138
     duration "PT12M35S"
     indegree 11
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -1783,7 +1783,7 @@ graph
     commentcount 18582
     duration "PT22M10S"
     indegree 30
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -1801,7 +1801,7 @@ graph
     commentcount 21417
     duration "PT16M58S"
     indegree 26
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -1837,7 +1837,7 @@ graph
     commentcount 16042
     duration "PT20M18S"
     indegree 67
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -1855,7 +1855,7 @@ graph
     commentcount 14071
     duration "PT15M17S"
     indegree 7
-    cluster 5
+    cluster 3
   ]
   node
   [
@@ -1873,7 +1873,7 @@ graph
     commentcount 15217
     duration "PT12M14S"
     indegree 40
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -1891,7 +1891,7 @@ graph
     commentcount 33561
     duration "PT19M9S"
     indegree 52
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -1909,7 +1909,7 @@ graph
     commentcount 95
     duration "PT26M20S"
     indegree 13
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -1963,7 +1963,7 @@ graph
     commentcount 22719
     duration "PT18M44S"
     indegree 45
-    cluster 1
+    cluster 4
   ]
   node
   [
@@ -1981,7 +1981,7 @@ graph
     commentcount 9137
     duration "PT17M50S"
     indegree 40
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -1999,7 +1999,7 @@ graph
     commentcount 139
     duration "PT14M43S"
     indegree 17
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -2007,7 +2007,7 @@ graph
     label "NtEJ7jzjoE4"
     step 0
     date "2018-11-04T19:05:49Z"
-    title "Game Theory: Bendys Tragic Ending E tongue sticking out LAINED (Bendy and the Ink Machine Chapter 5)"
+    title "Game Theory: Bendys Tragic Ending EXPLAINED (Bendy and the Ink Machine Chapter 5)"
     description "Special thanks to Honey for partnering with us for this episode!&#10;Get Honey for FREE &#9658; https://joinhoney.com/matpat&#10;Save $ this holiday season at Amazon, eBay, GameStop, Newegg, Walmart, Best Buy, and more!&#10;&#10;Joey Drew Studios logo by Popokino. &#10;Check out all the incredible Bendy art here: https://www.deviantart.com/popokino&#10;&#10;Subscribe to never miss a theory! &#9658; http://bit.ly/1qV8fd6     &#10;&#10;Bendy and the Ink Machine has come to an end and it left us with even MORE questions. What does it all mean? What happened to Joey Drew? Today Theorists, we reveal the sad truth hidden in the final chapter of Bendy.&#10;&#10;Find the game here! &#9658; https://joeydrewstudios.com/batim/&#10;&#10;Need Royalty Free Music for your Content? Try Epidemic Sound.&#10;Get A 30 Day Free Trial! &#9658; http://share.epidemicsound.com/MatPat&#10;&#10;SUBSCRIBE for Every Theory! &#9658; &#9658; http://bit.ly/1qV8fd6&#10;Hang out with us on GTLive! &#9658; http://bit.ly/1LkSBnz&#10;#Bendy #BendyandtheInkMachine #AliceAngel #Boris #JoeyDrew #FinalChapter #GameTheory&#10;&#10;More THEORIES:&#10;How Bendy EXPOSES Disney's Conspiracy! &#9658; https://bit.ly/2zl5MnB  &#10;Petscop - Ghost In A HAUNTED Game &#9658; https://bit.ly/2GmoZux&#10;Duck Season's KILLER DOG... Unmasked! &#9658; http://bit.ly/2trS1E4&#10;WARNING! Pokemon May Cause DEATH! &#9658;&#9658; http://bit.ly/2FnHjRl&#10;Hello Neighbor - DEVIL is in the Details! &#9658;http://bit.ly/2HhXXS3&#10;How Bendy Will END! &#9658;&#9658; http://bit.ly/2oqRNbd&#10;&#10;Check out some more of our awesome video game content: &#10;Game Theory &#9658;&#9658; http://bit.ly/1zz3t7E&#10;Culture Shock &#9658;&#9658; http://bit.ly/1sw7aZ8&#10;The SCIENCE! &#9658;&#9658; https://goo.gl/GFK9EV"
     channeltitle "The Game Theorists"
     channelid "UCo_IB5145EVNcf8hw1Kku7w"
@@ -2017,7 +2017,7 @@ graph
     commentcount 15581
     duration "PT14M2S"
     indegree 5
-    cluster 1
+    cluster 5
   ]
   node
   [
@@ -2035,7 +2035,7 @@ graph
     commentcount 38420
     duration "PT14M40S"
     indegree 26
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -2053,7 +2053,7 @@ graph
     commentcount 19475
     duration "PT15M52S"
     indegree 42
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -2071,7 +2071,7 @@ graph
     commentcount 67997
     duration "PT18M32S"
     indegree 55
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -2089,7 +2089,7 @@ graph
     commentcount 17445
     duration "PT16M22S"
     indegree 27
-    cluster 5
+    cluster 3
   ]
   node
   [
@@ -2107,7 +2107,7 @@ graph
     commentcount 44404
     duration "PT17M6S"
     indegree 56
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -2143,7 +2143,7 @@ graph
     commentcount 29101
     duration "PT15M22S"
     indegree 42
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -2161,7 +2161,7 @@ graph
     commentcount 30958
     duration "PT20M44S"
     indegree 73
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -2179,7 +2179,7 @@ graph
     commentcount 46362
     duration "PT16M29S"
     indegree 11
-    cluster 6
+    cluster 1
   ]
   node
   [
@@ -2197,7 +2197,7 @@ graph
     commentcount 107686
     duration "PT18M44S"
     indegree 31
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -2215,7 +2215,7 @@ graph
     commentcount 450
     duration "PT43M31S"
     indegree 17
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -2223,7 +2223,7 @@ graph
     label "2FiHXAuKhEk"
     step 0
     date "2020-10-24T18:05:08Z"
-    title "Game Theory: The Hidden Code of Unus Annus (Markiplier CrankGamePlays)"
+    title "Game Theory: The Hidden Code of Unus Annus (Markiplier  CrankGamePlays)"
     description "Special thanks to Audible for sponsoring this video!&#10;Get a 30 Day FREE Trial&#160; &#9658;&#160;http://audible.com/matpat&#10;Or text matpat to 500-500&#10;&#10;When Markiplier and CrankGamePlays put up the channel Unus Annus, they had two big rules.&#10;1. They would be uploading daily for 365 day.&#160;&#10;2. After those 365 days, the channel would be deleted and disappear forever.&#160;&#10;That is a BIG play. All that work just to have it disappear? It is a bold and simple premise for a channel... except nothing is ever that simple, is it? Therosits, I have watched and analyzed all of the uploads on the channel and I've come to one BIG conclusion. There is something SECRET hiding in the videos of Unus Annus. A secret that someone has been trying to tell us since the beginning. A secret that, just maybe, could save Mark, Ethan, and Unus Annus before the clock runs out.&#10;&#10;Find Unus Annus here&#160;&#9658;&#160;https://www.youtube.com/c/UnusAnnus/&#10;&#10;Don't forget to Subscribe to Food Theory! &#9658;&#160;https://bit.ly/2CdCooV&#160;&#160;&#10;&#10;Need Royalty Free Music for your Content? Try Epidemic Sound.&#160;&#10;Get A 30 Day Free Trial! &#9658; http://share.epidemicsound.com/MatPat&#10;&#10;Get yourself&#160;some Theory Wear!! &#9658;&#160;http://creatorink.co/theorywear1&#160;&#160;&#10;SUBSCRIBE for Every Theory! &#9658;&#9658; http://bit.ly/1qV8fd6&#160; &#160;&#10;Hang out with us on GTLive! &#9658; http://bit.ly/1LkSBnz&#160;&#10;&#10;&#160;#UnusAnnus #Markiplier #CrankGamePlays #Mark #Ethan #DisclaimerSong #Darkiplier #MatPat #Theory #GameTheory&#160; &#160;&#160;&#10;&#10;More THEORIES:&#160;&#10;FNAF, The FINAL Timeline &#9658;&#9658; https://bit.ly/2MlHYFe&#10;FNAF, The Monster We MISSED! &#9658;&#9658;&#160;https://youtu.be/_ygN8HLCaJg&#10;FNAF This Theory Changes Everything &#9658; https://bit.ly/2JUQUn6&#10;FNAF, You Were Meant To Lose &#9658;&#160;https://youtu.be/7bn8hM9k0b0&#10;FNAF 6, No More Secrets &#9658; https://bit.ly/2LVCq4u&#160;&#160;&#160;&#10;&#10;Credits:&#10;Writers: Matthew Patrick&#10;Researcher: Zach Stewart&#10;Editors: Tyler Mascola,&#160;Pedro Freitas, and&#160;Dan &#34;Cybert&#34; Seibert&#10;Assistant Editor: AlyssaBeCrazy&#10;Sound Editor: Yosi Berman"
     channeltitle "The Game Theorists"
     channelid "UCo_IB5145EVNcf8hw1Kku7w"
@@ -2241,7 +2241,7 @@ graph
     label "fSuqTgnCVRg"
     step 0
     date "2018-01-06T16:52:44Z"
-    title "Game theory #1||Pure Mixed Strategy||in Operations research||Solved problem||By:- Kauserwise"
+    title "Game theory #1||Pure  Mixed Strategy||in Operations research||Solved problem||By:- Kauserwise"
     description "Here is the video about Game theory with Pure Strategy and Mixed Strategy, in this video we have solved separate numerical problems for Pure strategy and Mixed Strategy.&#10;And we have seen in detailed explanations about What is Player in Game theory, What is Strategy in Game theory, What is Pure strategy and What is Mixed strategy in game theory, What is Payoff matrix in game theory, What is MiniMax properties and What is Maximin property in game theory, what is saddle point in game theory, What is Value of the Game in game theory and Two persons Zero sum game in game theory in simple manner, hope this will help you to get the subject knowledge at the end. if you like this please like, comment, share and subscribe. Thanks and All the best. &#10;&#10;To watch:&#10;Game theory - Pure &#38; Mixed strategy &#10;Game theory - Dominance property &#10;Game theory  - Graphical method [ 2 X N ] Game&#10;Game theory [Graphical method [ M X 2 ] Game&#10;&#10;Please see this PlayList - Game Theory Collections&#10;https://www.youtube.com/playlist?list=PLabr9RWfBcnp8CT6my-Q89N0o-E6tcM6q&#10;&#10;Link for &#9658;PlayList [Operation Research video collections] https://www.youtube.com/playlist?list=PLabr9RWfBcnoLyXr4Y7MzmHSu3bDjLvhu&#10;&#10;Follow Us On:&#10;===============================&#10;&#9658;Instagram:  &#10;www.instagram.com/kauserwise_yt_pedagogy&#10;&#9658;My channel: &#10;www.youtube.com/c/kauserwise (SUBSCRIBE)&#10;===============================&#10;&#128071;List of Subjects and it's Play List&#128071;&#10;&#10;&#9658;Financial Management&#10;&#9658;Financial Accounting&#10;&#9658;Corporate Accounting&#10;&#9658;Cost and Management Accounting&#10;&#9658;Operations Research&#10;&#9658;Statistics&#10;&#10;Link for &#9658;PlayList - FM [Financial Management video collections] https://www.youtube.com/playlist?list=PLabr9RWfBcnqbgOWfUpILqZVX7cTKqVDj&#10;&#10;Link for &#9658;PlayList [Financial accounting tutorial collections] https://www.youtube.com/playlist?list=PLabr9RWfBcnojfVAucCUHGmcAay_1ov46&#10;&#10;Link for &#9658;PlayList [Corporate accounting tutorial collections] https://www.youtube.com/playlist?list=PLabr9RWfBcnorJc6lonRWP4b39sZgUEhx&#10;&#10;Link for &#9658;PlayList [Cost and Management accounting collections]  https://www.youtube.com/playlist?list=PLabr9RWfBcnpgUjlVR-znIRMFVF0A_aaA&#10;&#10;Link for &#9658;PlayList Statistics video collections  https://www.youtube.com/playlist?list=PLabr9RWfBcnoJi5snMQQzDGYmb4ydFpTs&#10;&#10;Thanks&#10;kauserwise&#174;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;00:00 Game theory pure and mixed strategy problem with solution&#10;00:04 What is Game theory brief introduction&#10;00:25 Categories of Decision making situation in game theory&#10;00:42 What are the terminologies of Game theory&#10;00:57 What are the strategies in Game theory&#10;01:19 What is Pure strategy with an example in Game theory&#10;02:16 What is mixed strategy with an example in Game theory&#10;03:52 What is payoff matrix in Game theory&#10;05:23 What is Maximin principle in Game theory&#10;05:48 What is Minimax principle in Game theory&#10;06:09 What is saddle point in Game theory&#10;06:31 What is the meaning of value of the Game in Game theory&#10;06:58 What is two person zero sum game with an example in Game theory&#10;08:15 Numerical problem for pure strategy in Game theory&#10;12:12 Numerical problem for Mixed strategy in Game theory&#10;12:34 Difference between mixed strategy and saddle point in Game theory&#10;13:56 how to solve mixed strategy in Game theory&#10;14:23 how to find oddments in mixed strategy in Game theory&#10;15:39 Trick to find (without formula) Probability in mixed strategy in Game theory&#10;17:35 Simple method to finding Value of the Game in Game theory&#10;17:47 Four Simple methods to finding value of the game in Game theory&#10;20:53 Important note (Conditions) for value of the Game in Game theory"
     channeltitle "Kauser Wise"
     channelid "UCkoF2InqbcpBEdHC7KlnaLw"
@@ -2251,7 +2251,7 @@ graph
     commentcount 563
     duration "PT21M40S"
     indegree 30
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -2359,7 +2359,7 @@ graph
     commentcount 100
     duration "PT25M52S"
     indegree 15
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -2377,7 +2377,7 @@ graph
     commentcount 22026
     duration "PT15M14S"
     indegree 23
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -2395,7 +2395,7 @@ graph
     commentcount 10599
     duration "PT14M5S"
     indegree 39
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -2449,7 +2449,7 @@ graph
     commentcount 169417
     duration "PT17M28S"
     indegree 10
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -2467,7 +2467,7 @@ graph
     commentcount 20933
     duration "PT19M21S"
     indegree 45
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -2485,7 +2485,7 @@ graph
     commentcount 15247
     duration "PT16M32S"
     indegree 8
-    cluster 6
+    cluster 1
   ]
   node
   [
@@ -2521,7 +2521,7 @@ graph
     commentcount 31073
     duration "PT16M11S"
     indegree 34
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -2539,7 +2539,7 @@ graph
     commentcount 45902
     duration "PT16M23S"
     indegree 43
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -2557,7 +2557,7 @@ graph
     commentcount 45512
     duration "PT18M52S"
     indegree 56
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -2575,7 +2575,7 @@ graph
     commentcount 43546
     duration "PT16M35S"
     indegree 20
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -2583,7 +2583,7 @@ graph
     label "YJvbxAvxkDc"
     step 0
     date "2018-01-13T04:41:43Z"
-    title "Game Theory #2||Dominance Property||Pure Mixed Strategy||in Operations Research||by Kauserwise"
+    title "Game Theory #2||Dominance Property||Pure  Mixed Strategy||in Operations Research||by Kauserwise"
     description "Here is the video about Game theory - Dominance property with Pure strategy and Mixed strategy In operations research, in this video we have solved the problems for Pure strategy and Mixed Strategy using Dominance property in Game theory, In that we have seen What is dominance property, what is Dominance property for row reduction, What is dominance property for column reduction, What is average method for column reduction and row reduction, etc...hope this will help you to get the subject knowledge at the end. if you like this please like, comment, share and subscribe. Thanks and All the best. &#10;&#10;To watch:&#10;[1] Game theory [Pure &#38; Mixed strategy]: https://youtu.be/fSuqTgnCVRg&#10;&#10;[2] Game theory  [Dominance property - Pure and mixed strategy]: https://youtu.be/YJvbxAvxkDc&#10;&#10;[3] Game theory [Graphical method [ 2 X N ] Game: https://youtu.be/KUskbAasVCY&#10;&#10;[4] Game theory [Graphical method [ M X 2 ] Game: https://youtu.be/VWQIpwLmhGk&#10;&#10;To watch more tutorials for the below subjects pls visit the playlist: www.youtube.com/c/kauserwise&#10;Playlists:&#10;---------------&#10;Financial accounting&#10;FM - Financial Management&#10;Cost and management accounting&#10;Corporate accounting&#10;Operation research&#10;Statistics&#10;&#10;-------------&#10;Playlist: Financial accounting tutorial collections: &#10;https://www.youtube.com/playlist?list=PLabr9RWfBcnojfVAucCUHGmcAay_1ov46&#10;---------------------------------&#10;FM - Financial Management video collections:&#10;https://www.youtube.com/playlist?list=PLabr9RWfBcnqbgOWfUpILqZVX7cTKqVDj&#10;-------------------------------&#10;Corporate accounting video collections:&#10;https://www.youtube.com/playlist?list=PLabr9RWfBcnorJc6lonRWP4b39sZgUEhx&#10;------------------------------&#10;Cost and management accounting  video collections:&#10;https://www.youtube.com/playlist?list=PLabr9RWfBcnpgUjlVR-znIRMFVF0A_aaA&#10;-------------------------------&#10;Operation research video collections:&#10;https://www.youtube.com/playlist?list=PLabr9RWfBcnoLyXr4Y7MzmHSu3bDjLvhu&#10;--------------------------------&#10;Statistics tutorial collections:&#10;https://www.youtube.com/playlist?list=PLabr9RWfBcnoJi5snMQQzDGYmb4ydFpTs&#10;----------------------------------------------"
     channeltitle "Kauser Wise"
     channelid "UCkoF2InqbcpBEdHC7KlnaLw"
@@ -2593,7 +2593,7 @@ graph
     commentcount 390
     duration "PT21M27S"
     indegree 20
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -2611,7 +2611,7 @@ graph
     commentcount 12237
     duration "PT13M51S"
     indegree 21
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -2629,7 +2629,7 @@ graph
     commentcount 136522
     duration "PT17M25S"
     indegree 9
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -2701,7 +2701,7 @@ graph
     commentcount 6070
     duration "PT17M29S"
     indegree 8
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -2719,7 +2719,7 @@ graph
     commentcount 7470
     duration "PT14M13S"
     indegree 8
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -2755,7 +2755,7 @@ graph
     commentcount 47838
     duration "PT22M35S"
     indegree 45
-    cluster 6
+    cluster 1
   ]
   node
   [
@@ -2791,7 +2791,7 @@ graph
     commentcount 35361
     duration "PT12M33S"
     indegree 30
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -2799,7 +2799,7 @@ graph
     label "avCB6HOjsG4"
     step 0
     date "2015-02-22T19:38:56Z"
-    title "Game Theory: Does Isaac DIE?!? Binding of Isaac Rebirths Endings E tongue sticking out LAINED."
+    title "Game Theory: Does Isaac DIE?!? Binding of Isaac Rebirths Endings EXPLAINED."
     description "Join the Theorists &#9658;&#9658;  http://bit.ly/1qV8fd6&#10;Check out DEADLOCK, SNES vs. SEGA!  &#9658;&#9658; http://bit.ly/1zYUiMU&#10;VOTE: Indie Games - http://goo.gl/bKWhkV       Triple A Games - http://goo.gl/RgJqhz&#10;&#10;It's time to get INDIE! Today I'm taking on the indie game YOU have been requesting the most -- The Binding of Isaac. WHAT DOES THIS GAME MEAN? With 16 endings and all just as obscure as the last, it seems like this game has some deep things to say...but what are those things, exactly? Does Isaac die in the box? Is mom really a psycho religious killer? We're getting ready to analyze this incredibly deep and moving game.&#10;&#10;Twitter: @MatPatGT&#10;Facebook: facebook.com/GameTheorists&#10;&#10;GAME THEORY MERCH! &#10;Equip it HERE &#9658;&#9658; http://gametheory.spreadshirt.com/&#10;&#10;Pokemon Theories:&#10;Are Humans Pokemon? YES! &#9658;&#9658; http://bit.ly/1Bexblg&#10;Pokemon Evolution EXPLAINED &#9658; http://bit.ly/1zwIHus&#10;Is Jynx RACIST? &#9658; http://bit.ly/15tVnoK&#10;&#10;Mario Theories:&#10;Can Bullet Bill kill you? &#9658;&#9658; http://bit.ly/1lu41Lo&#10;Mario is a Psychopath! &#9658;&#9658;&#9658;http://bit.ly/1nSum0E&#10;&#10;Legend of Zelda Theories:&#10;What's in Link's Potions? &#9658; http://bit.ly/Zj2FsS&#10;Majora's Moon ISN'T a Moon &#9658; http://bit.ly/1DN6lTa&#10;Which Link is the strongest? &#9658; http://bit.ly/11pgbvi&#10;&#10;FNAF THEORIES:&#10;FNAF2, The Killer REVEALED &#9658; http://bit.ly/15z6aOW&#10;FNAF1, The TRUE Story &#9658; http://bit.ly/15tV8da&#10;&#10;Scary Theories:&#10;Call of Duty: Death from Space &#9658; http://bit.ly/1stq1Hs&#10;Mega Man: Death by Robot &#9658; http://bit.ly/110OaKY&#10;Polybius: The CIA Conspiracy &#9658; http://bit.ly/1EDrFv2&#10;&#10;CoD/Shooter Theories:&#10;Call of Duty: Death from Space &#9658; http://bit.ly/1stq1Hs&#10;The Warcrimes of Call of Duty &#9658; http://bit.ly/1twsP5J&#10;What Sex is Team Fortress 2's Pyro &#9658; http://bit.ly/1xY8yXh&#10;&#10;Check out some more of our awesome video game content:&#10;&#10;Game Theory: http://bit.ly/1zz3t7E&#10;Culture Shock: http://bit.ly/1sw7aZ8&#10;Digressing and Sidequesting: http://bit.ly/1rxBUgz&#10;Crossover: http://bit.ly/1t9AclA"
     channeltitle "The Game Theorists"
     channelid "UCo_IB5145EVNcf8hw1Kku7w"
@@ -2881,7 +2881,7 @@ graph
     commentcount 32541
     duration "PT20M55S"
     indegree 75
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -2899,7 +2899,7 @@ graph
     commentcount 23825
     duration "PT15M41S"
     indegree 7
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -2917,7 +2917,7 @@ graph
     commentcount 19288
     duration "PT18M18S"
     indegree 41
-    cluster 6
+    cluster 1
   ]
   node
   [
@@ -2935,7 +2935,7 @@ graph
     commentcount 13336
     duration "PT15M23S"
     indegree 18
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -2953,7 +2953,7 @@ graph
     commentcount 38672
     duration "PT12M58S"
     indegree 4
-    cluster 1
+    cluster 4
   ]
   node
   [
@@ -2989,7 +2989,7 @@ graph
     commentcount 44273
     duration "PT18M41S"
     indegree 34
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -3079,7 +3079,7 @@ graph
     commentcount 28676
     duration "PT17M18S"
     indegree 21
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -3097,7 +3097,7 @@ graph
     commentcount -1
     duration "PT1H7M8S"
     indegree 10
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -3115,7 +3115,7 @@ graph
     commentcount 15475
     duration "PT14M18S"
     indegree 25
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -3133,7 +3133,7 @@ graph
     commentcount 35713
     duration "PT18M13S"
     indegree 43
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -3169,7 +3169,7 @@ graph
     commentcount 17077
     duration "PT14M59S"
     indegree 18
-    cluster 1
+    cluster 4
   ]
   node
   [
@@ -3259,7 +3259,7 @@ graph
     commentcount 59229
     duration "PT16M18S"
     indegree 3
-    cluster 6
+    cluster 1
   ]
   node
   [
@@ -3313,7 +3313,7 @@ graph
     commentcount 21764
     duration "PT14M28S"
     indegree 27
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -3331,7 +3331,7 @@ graph
     commentcount 7650
     duration "PT6M30S"
     indegree 5
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -3349,7 +3349,7 @@ graph
     commentcount 34377
     duration "PT14M43S"
     indegree 25
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -3367,7 +3367,7 @@ graph
     commentcount 31378
     duration "PT17M56S"
     indegree 62
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -3403,7 +3403,7 @@ graph
     commentcount 16985
     duration "PT19M35S"
     indegree 40
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -3457,7 +3457,7 @@ graph
     commentcount 117
     duration "PT15M37S"
     indegree 16
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -3475,7 +3475,7 @@ graph
     commentcount 19592
     duration "PT16M3S"
     indegree 27
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -3511,7 +3511,7 @@ graph
     commentcount 50336
     duration "PT19M7S"
     indegree 38
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -3529,7 +3529,7 @@ graph
     commentcount 12094
     duration "PT16M5S"
     indegree 5
-    cluster 6
+    cluster 1
   ]
   node
   [
@@ -3547,7 +3547,7 @@ graph
     commentcount 25661
     duration "PT19M57S"
     indegree 57
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -3583,7 +3583,7 @@ graph
     commentcount 963
     duration "PT12M16S"
     indegree 6
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -3601,7 +3601,7 @@ graph
     commentcount 65414
     duration "PT23M46S"
     indegree 76
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -3655,7 +3655,7 @@ graph
     commentcount 44699
     duration "PT16M21S"
     indegree 41
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -3673,7 +3673,7 @@ graph
     commentcount 20213
     duration "PT16M11S"
     indegree 44
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -3709,7 +3709,7 @@ graph
     commentcount 84507
     duration "PT18M16S"
     indegree 18
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -3727,7 +3727,7 @@ graph
     commentcount 20822
     duration "PT14M13S"
     indegree 5
-    cluster 6
+    cluster 1
   ]
   node
   [
@@ -3745,7 +3745,7 @@ graph
     commentcount 58613
     duration "PT13M26S"
     indegree 23
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -3763,7 +3763,7 @@ graph
     commentcount 5684
     duration "PT16M50S"
     indegree 7
-    cluster 6
+    cluster 4
   ]
   node
   [
@@ -3781,7 +3781,7 @@ graph
     commentcount 6659
     duration "PT13M6S"
     indegree 8
-    cluster 6
+    cluster 4
   ]
   node
   [
@@ -3799,7 +3799,7 @@ graph
     commentcount 28025
     duration "PT21M6S"
     indegree 61
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -3835,7 +3835,7 @@ graph
     commentcount 38717
     duration "PT18M28S"
     indegree 46
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -3853,7 +3853,7 @@ graph
     commentcount 10629
     duration "PT18M14S"
     indegree 20
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -3861,7 +3861,7 @@ graph
     label "ILvxrQr5nVI"
     step 0
     date "2017-05-28T21:49:30Z"
-    title "Game Theory: How Bendy E tongue sticking out OSES Disneys Cartoon CONSPIRACY (Bendy and the Ink Machine)"
+    title "Game Theory: How Bendy EXPOSES Disneys Cartoon CONSPIRACY (Bendy and the Ink Machine)"
     description "Get VRV ad-free for 30 days &#9658; http://bit.ly/2rg6RIR&#10;Special thanks to VRV for partnering with us for this episode!&#10;&#10;Wanna be a member? JOIN &#9658;&#9658; http://tinyurl.com/mrd2ntg&#10;&#10;THIS WEEKEND ONLY, if you go to http://www.vrv.co/matpat or click the link in the description, you can get the VRV Combo Pack, where Loyal Theorists can get a free trial of their first access, ad-free service for 30 days. Test it out, see what you think. I really like their service!&#10;&#10;Bendy and the Ink Machine! I am SO excited about this game. The world of Bendy is a throwback to the earliest days of cartoon animation. I love the look and feel -- but most of all, I love the MYSTERY. You see, Bendy and the Ink Machine is a game with a lot under the surface. With only Chapter 2 out and Chapter 3 still a month or two away, I was afraid there wouldn't be enough to do a theory on Bendy. Buy, was I wrong. Because when you actually look at characters like Bendy, Boris, and Alice, you start to see parallels to some of the most famous cartoons in history, and you start to piece together a dark truth about the early days of animation. You learn about Disney's conspiracy theory to be the pioneer of a new age of animation...at the expense of perhaps some of the most innovative cartoonists of all time. THAT is the SECRET story of BENDY! &#10;&#10;Watch me play Bendy and the Ink Machine LIVE!&#10;&#9658;&#9658; https://www.youtube.com/watch?v=UJwTCXi3Fv0&#10;&#10;If you like Bendy, then you'll LOVE Hello Neighbor! So check out my Hello Neighbor episodes:&#10;Hello Neighbor's SATANIC plot &#9658;&#9658; http://bit.ly/2hyK9cB&#10;Hello Neighbor's Secret Conspiracy &#9658;&#9658; http://bit.ly/2qpV7Xf&#10;&#10;Bendy, it's a lot like FNAF! So check out some FNAF Theories:&#10;FNAF 1-4 DECODED LIVE &#9658; http://bit.ly/2aiTgrW&#10;FNAF Mysteries SOLVED &#9658; http://bit.ly/2el0LCT&#10;FNAF's SCARIEST Monster is You! &#9658; http://bit.ly/2dtbqa4&#10;&#10;And finally, JOIN THE THEORISTS!&#10;Wanna be a member? &#9658;&#9658; http://bit.ly/1qV8fd6&#10;Twitter: @MatPatGT&#10;Instagram: @MatPatGT&#10;Facebook: facebook.com/GameTheorists"
     channeltitle "The Game Theorists"
     channelid "UCo_IB5145EVNcf8hw1Kku7w"
@@ -3871,7 +3871,7 @@ graph
     commentcount 25791
     duration "PT17M21S"
     indegree 14
-    cluster 1
+    cluster 4
   ]
   node
   [
@@ -3907,7 +3907,7 @@ graph
     commentcount 90329
     duration "PT18M12S"
     indegree 36
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -3925,7 +3925,7 @@ graph
     commentcount 41106
     duration "PT16M49S"
     indegree 21
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -3961,7 +3961,7 @@ graph
     commentcount 35961
     duration "PT14M48S"
     indegree 5
-    cluster 6
+    cluster 1
   ]
   node
   [
@@ -3979,7 +3979,7 @@ graph
     commentcount 370
     duration "PT28M7S"
     indegree 16
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -3997,7 +3997,7 @@ graph
     commentcount 3565
     duration "PT12M6S"
     indegree 6
-    cluster 6
+    cluster 1
   ]
   node
   [
@@ -4087,7 +4087,7 @@ graph
     commentcount 352
     duration "PT14M5S"
     indegree 8
-    cluster 8
+    cluster 3
   ]
   node
   [
@@ -4141,7 +4141,7 @@ graph
     commentcount 18669
     duration "PT11M2S"
     indegree 20
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -4231,7 +4231,7 @@ graph
     commentcount 2379
     duration "PT17M50S"
     indegree 3
-    cluster 1
+    cluster 4
   ]
   node
   [
@@ -4257,7 +4257,7 @@ graph
     label "ceMkAw8Ha3w"
     step 0
     date "2019-01-27T13:59:21Z"
-    title "Game theory ||Pure Mixed Strategy||in Operations research ( Bangla Lecture)"
+    title "Game theory ||Pure  Mixed Strategy||in Operations research ( Bangla Lecture)"
     description "This video is made on game theory, that is an important topic of operation research. in this video, we try to discuss the definition of game theory. Apart from that we also have discussed the definition of game theory, terminologies of game theory.  In terminologies of game theory, we also have presented the concept of pure strategy, mixed strategy, payoff matrix, saddle point as well as value of the game. We hope this will help you to get the subject knowledge at the end. if you like this please like, comment, share and subscribe. Thanks and All the best."
     channeltitle "Easy Learning Academy"
     channelid "UCSG1zJXQiywFzbt-4pptv8w"
@@ -4267,7 +4267,7 @@ graph
     commentcount 35
     duration "PT11M53S"
     indegree 1
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -4303,7 +4303,7 @@ graph
     commentcount 21617
     duration "PT15M8S"
     indegree 14
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -4321,7 +4321,7 @@ graph
     commentcount 16147
     duration "PT13M2S"
     indegree 4
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -4357,7 +4357,7 @@ graph
     commentcount 9497
     duration "PT17M1S"
     indegree 30
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -4393,7 +4393,7 @@ graph
     commentcount 90985
     duration "PT11M51S"
     indegree 22
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -4411,7 +4411,7 @@ graph
     commentcount 28186
     duration "PT16M25S"
     indegree 31
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -4465,7 +4465,7 @@ graph
     commentcount 2249
     duration "PT18M46S"
     indegree 0
-    cluster 8
+    cluster 2
   ]
   node
   [
@@ -4491,7 +4491,7 @@ graph
     label "YueJukoFBMU"
     step 0
     date "2016-08-30T19:00:39Z"
-    title "Game Theory E tongue sticking out lained in One Minute"
+    title "Game Theory Explained in One Minute"
     description "You can't be good at economics if you aren't capable of putting yourself in the position of other people and seeing things from their perspective, you just can't.&#10;&#10;Game theory helps you do just that.&#10;&#10;Whenever you're involved in situations in which the outcome depends not only on your actions but on the actions of other participants as well, game theory is all about helping you figure out what the best approach is based on what the other (presumed to be rational) actors are more likely to do.&#10;&#10;Please like, comment and subscribe if you've enjoyed the video.&#10;&#10;To support the channel, give me a minute (see what I did there?) of your time by visiting OneMinuteEconomics.com and reading my message.&#10;&#10;Bitcoin donations can be sent to 1AFYgM8Cmiiu5HjcXaP5aS1fEBJ5n3VDck and PayPal donations to oneminuteeconomics@gmail.com, any and all support is greatly appreciated!&#10;&#10;Oh and I've also started playing around with Patreon, my link is:&#10;&#10;https://www.patreon.com/oneminuteeconomics&#10;&#10;Interested in reading a good book?&#10;&#10;My first book, Wealth Management 2.0 (through which I do my best to help people manage their wealth properly, whether we're talking about someone who has a huge amount of money at his disposal or someone who is still living paycheck to paycheck), can be bought using the links below:&#10;&#10;Amazon - https://www.amazon.com/Wealth-Management-2-0-Financial-Professionals-ebook/dp/B01I1WA2BK&#10;&#10;Barnes &#38; Noble - http://www.barnesandnoble.com/w/wealth-management-20-andrei-polgar/1124435282?ean=2940153328942&#10;&#10;iBooks (Apple) - https://itun.es/us/wYSveb.l&#10;&#10;Kobo - https://store.kobobooks.com/en-us/ebook/wealth-management-2-0&#10;&#10;My second book, the Wall Street Journal and USA Today bestseller The Age of Anomaly (through which I help people prepare for financial calamities and become more financially resilient in general), can be bought using the links below.&#10;&#10;Amazon - https://www.amazon.com/Age-Anomaly-Spotting-Financial-Uncertainty-ebook/dp/B078SYL5YS&#10;&#10;Barnes &#38; Noble - https://www.barnesandnoble.com/w/the-age-of-anomaly-andrei-polgar/1127084693?ean=2940155383970&#10;&#10;iBooks (Apple) - https://itunes.apple.com/us/book/age-anomaly-spotting-financial-storms-in-sea-uncertainty/id1331704265&#10;&#10;Kobo - https://www.kobo.com/ww/en/ebook/the-age-of-anomaly-spotting-financial-storms-in-a-sea-of-uncertainty&#10;&#10;Last but not least, if you'd like to follow me on social media, use one of the links below:&#10;&#10;https://www.facebook.com/oneminuteeconomics&#10;&#10;https://twitter.com/andreipolgar&#10;&#10;https://ro.linkedin.com/in/andrei-polgar-9a11a561"
     channeltitle "One Minute Economics"
     channelid "UCpsroJwsVKQvRH3ZqdvRetQ"
@@ -4501,7 +4501,7 @@ graph
     commentcount 137
     duration "PT1M28S"
     indegree 8
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -4519,7 +4519,7 @@ graph
     commentcount 16434
     duration "PT13M13S"
     indegree 6
-    cluster 5
+    cluster 1
   ]
   node
   [
@@ -4537,7 +4537,7 @@ graph
     commentcount 36620
     duration "PT16M38S"
     indegree 13
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -4573,7 +4573,7 @@ graph
     commentcount 18781
     duration "PT17M53S"
     indegree 17
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -4609,7 +4609,7 @@ graph
     commentcount 8440
     duration "PT15M3S"
     indegree 1
-    cluster 6
+    cluster 1
   ]
   node
   [
@@ -4663,7 +4663,7 @@ graph
     commentcount 11540
     duration "PT15M20S"
     indegree 9
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -4689,7 +4689,7 @@ graph
     label "8_DUvXy7UgI"
     step 0
     date "2020-11-18T20:23:40Z"
-    title "GAME THEORY # Social interaction # Science of Strategy # Malayalam E tongue sticking out lanation."
+    title "GAME THEORY # Social interaction # Science of Strategy # Malayalam Explanation."
     description "GAME THEORY # SOCIAL INTERACTION # SCIENCE OF STRATEGY IN MALAYALAM."
     channeltitle "Priya Hariprasad"
     channelid "UCkfVTNASm95RROEvvT5MZ3A"
@@ -4699,7 +4699,7 @@ graph
     commentcount 89
     duration "PT26M13S"
     indegree 3
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -4717,7 +4717,7 @@ graph
     commentcount 70372
     duration "PT18M23S"
     indegree 21
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -4789,7 +4789,7 @@ graph
     commentcount 18806
     duration "PT20M30S"
     indegree 30
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -4797,7 +4797,7 @@ graph
     label "m_lTsLhahqg"
     step 0
     date "2021-10-11T20:42:06Z"
-    title "Wilbur Reacts to (Game Theory)"
+    title "Wilbur Reacts to  (Game Theory)"
     description "Subscribe to Never Miss Daily Uploads :D&#10; &#10;o7&#10;&#10;&#10;&#10;https://twitch.tv/wilbursoot #dreamsmp"
     channeltitle "Canooon"
     channelid "UC8f80fwHF6nGLal5_1x0Slw"
@@ -4879,7 +4879,7 @@ graph
     commentcount 34573
     duration "PT22M15S"
     indegree 49
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -4915,7 +4915,7 @@ graph
     commentcount 9105
     duration "PT17M22S"
     indegree 9
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -4951,7 +4951,7 @@ graph
     commentcount 90
     duration "PT7M11S"
     indegree 4
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -4987,7 +4987,7 @@ graph
     commentcount 96460
     duration "PT16M44S"
     indegree 17
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -5005,7 +5005,7 @@ graph
     commentcount 66
     duration "PT17M48S"
     indegree 17
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -5041,7 +5041,7 @@ graph
     commentcount 22118
     duration "PT20M11S"
     indegree 55
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -5095,7 +5095,7 @@ graph
     commentcount 6371
     duration "PT13M25S"
     indegree 3
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -5131,7 +5131,7 @@ graph
     commentcount 21886
     duration "PT15M42S"
     indegree 0
-    cluster 6
+    cluster 1
   ]
   node
   [
@@ -5167,7 +5167,7 @@ graph
     commentcount 16229
     duration "PT18M42S"
     indegree 13
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -5175,7 +5175,7 @@ graph
     label "Rs7G8MxCeTk"
     step 0
     date "2022-06-19T20:48:46Z"
-    title "Ranboo Reacts to Game Theory MCC Pride w/Jack, Ethan and Sapnap"
+    title "Ranboo Reacts to Game Theory  MCC Pride w/Jack, Ethan and Sapnap"
     description "This was streamed LIVE on https://twitch.tv/RanbooLive&#10;&#10;Today Ranboo reacts to the game theory video about Generation Loss, then plays Minecraft in the Minecraft Championships Pride 2022 with Jacksepticeye, Crankgameplays (Ethan) and Sapnap.&#10;&#10;Follow Ranboo's Socials Below:&#10;Twitch: https://www.twitch.tv/ranboolive&#10;Twitter: https://www.twitter.com/ranboosaysstuff&#10;alt twitter: https://www.twitter.com/ranaltboo&#10;alt twitch: https://www.twitch.tv/ranboobutnot&#10;YouTube: https://www.youtube.com/ranboo&#10;Instagram: https://www.instagram.com/ranboomc&#10;&#10;#ranboo #mcc #gametheory"
     channeltitle "RanbooVODS"
     channelid "UCw0UQkA6EJg4_wQbEFHbpYQ"
@@ -5193,7 +5193,7 @@ graph
     label "ic6nddVoQZQ"
     step 0
     date "2022-06-03T17:00:32Z"
-    title "SILT - The Story E tongue sticking out lained (Horror Game Theories)"
+    title "SILT - The Story Explained (Horror Game Theories)"
     description "Silt is the story of a diver who awakens chained underwater and surrounded by hostile sea monsters. In order to survive we must hack their minds and use these creatures to help clear a path out of the ocean depths. However the story is mysterious and cryptic. In this video we try to explain the story of SILT and what the ambigous ending means...&#10;&#10;Check out the game here: https://store.steampowered.com/app/1325890/Silt/&#10;&#10;PC Specialist built the PC I use: https://pcspeciali.st/superhorrorbro&#10;Use promo code HORROR for &#163;30 fixed discount on any order&#10;&#10;You've been watching SuperHorrorBro Mike. If you enjoyed this video remember to like, comment and subscribe for more horror related content."
     channeltitle "SuperHorrorBro"
     channelid "UChL4WU9YLlxXXNSwlzM1-7g"
@@ -5221,7 +5221,7 @@ graph
     commentcount 79
     duration "PT38M"
     indegree 9
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -5239,7 +5239,7 @@ graph
     commentcount 67271
     duration "PT2H5M8S"
     indegree 29
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -5275,7 +5275,7 @@ graph
     commentcount 33688
     duration "PT23M22S"
     indegree 53
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -5293,7 +5293,7 @@ graph
     commentcount 14932
     duration "PT16M44S"
     indegree 12
-    cluster 6
+    cluster 1
   ]
   node
   [
@@ -5311,7 +5311,7 @@ graph
     commentcount 3256
     duration "PT17M34S"
     indegree 5
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -5329,7 +5329,7 @@ graph
     commentcount 156
     duration "PT17M54S"
     indegree 5
-    cluster 8
+    cluster 2
   ]
   node
   [
@@ -5365,7 +5365,7 @@ graph
     commentcount 14189
     duration "PT14M26S"
     indegree 14
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -5383,7 +5383,7 @@ graph
     commentcount 199
     duration "PT14M41S"
     indegree 17
-    cluster 8
+    cluster 2
   ]
   node
   [
@@ -5401,7 +5401,7 @@ graph
     commentcount 216
     duration "PT6M41S"
     indegree 9
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -5427,7 +5427,7 @@ graph
     label "onui2Pcm2r4"
     step 0
     date "2022-06-22T23:15:18Z"
-    title "Scariest VHS Tapes EVER! | Battington Tapes Harmony Horror Reaction (Analog Horror)"
+    title "Scariest VHS Tapes EVER! | Battington Tapes Harmony  Horror Reaction (Analog Horror)"
     description "Get Your TheoryWear! &#9658; https://theorywear.com/&#10;&#10;Hey guys, and welcome to the long awaited theorycrafting series for @Battington 's Harmony and Horror tapes! Believe me when I tell you&#8230; these videos are CREEPY. Can we make sense of the LORE and figure out the story behind these terrifying tapes? Tune in and find out&#8230; &#10;&#10;Watch the series &#9658; https://www.youtube.com/playlist?list=PL5S08KNkAGHM69mZ6LOx4JypuqUnM4wcV&#10;&#10;Check out the Reddit! &#9658;&#9658; https://www.reddit.com/r/GameTheorists/  &#10;Subscribe to GTLive! &#9658;&#9658; http://bit.ly/1Oo7KH9&#10;&#10;0:00 - The Fainty Banter&#10;11:50 - so&#8230; unalived kid theories, amirite?&#10;51:07 - The Witty Wrap up&#10;&#10;Need Royalty Free Music for your Content? Try Epidemic Sound.&#10;Get Your 30 Day Free Trial &#9658; http://share.epidemicsound.com/GTLive&#10;&#10;#battington #harmonyandhorror #battingtontapes #analoghorror #theorycraft #vhs  #GTLive #MatPat #GameTheory&#10;&#10;Subscribe &#38; hang out with me! &#9658;&#9658; http://bit.ly/1Oo7KH9&#10;Follow us on Twitter at @MatPatGT and #GTLive"
     channeltitle "GTLive"
     channelid "UCAaegDUlb7doIKo0Rc1F08g"
@@ -5455,7 +5455,7 @@ graph
     commentcount 2241
     duration "PT14M39S"
     indegree 4
-    cluster 8
+    cluster 3
   ]
   node
   [
@@ -5473,7 +5473,7 @@ graph
     commentcount 10698
     duration "PT13M25S"
     indegree 2
-    cluster 6
+    cluster 1
   ]
   node
   [
@@ -5545,7 +5545,7 @@ graph
     commentcount 31544
     duration "PT14M45S"
     indegree 14
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -5581,7 +5581,7 @@ graph
     commentcount 30544
     duration "PT19M59S"
     indegree 59
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -5599,7 +5599,7 @@ graph
     commentcount 103
     duration "PT19M36S"
     indegree 15
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -5617,7 +5617,7 @@ graph
     commentcount 44370
     duration "PT19M17S"
     indegree 11
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -5625,7 +5625,7 @@ graph
     label "j2IHH0wnHFw"
     step 0
     date "2022-05-09T15:00:39Z"
-    title "The Story of Poppy Playtime: Chapter 2 E tongue sticking out lained"
+    title "The Story of Poppy Playtime: Chapter 2 Explained"
     description "We take a look at the story of Poppy Playtime Chapter 2, in a new theory / story explained video. This video aims to rund through the events of Poppy Playtime chapter 2 as well as touching on a few theories along the way. So sit back, relax and let's take a nightmarish trip through the Playtime Co Toy Factory. &#10;&#10;Check out Poppy Playtime: https://store.steampowered.com/app/1721470/Poppy_Playtime/&#10;&#10;PC Specialist built the PC I use: https://pcspeciali.st/superhorrorbro&#10;&#10;Use promo code HORROR for &#163;30 fixed discount on any order&#10;&#10;You've been watching SuperHorrorBro Mike. If you enjoyed this video remember to like, comment and subscribe for more horror related content.&#10;&#10;Music by Kevin MacLeod: https://incompetech.com/"
     channeltitle "SuperHorrorBro"
     channelid "UChL4WU9YLlxXXNSwlzM1-7g"
@@ -5671,7 +5671,7 @@ graph
     commentcount 78607
     duration "PT16M37S"
     indegree 11
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -5679,7 +5679,7 @@ graph
     label "AH2hqEN-l28"
     step 0
     date "2022-02-06T20:16:20Z"
-    title "FNAF: Security Breach (My AU) reacts to Game Theory (Read Description)"
+    title "FNAF: Security Breach (My AU) reacts to  Game Theory (Read Description)"
     description "I wanted to do something with this FNAF Security Breach AU of mine, and this is the result! &#10;&#10;&#10;Credits to Game Theory. &#10;Full Video: https://youtu.be/8ANfAt4hJ6Y&#10;&#10;&#10;Here are some Important details about my AU (Or just what you see of it in the Video): &#10;&#10;&#8212; What happened to Bonnie?&#10;&#10;After being Decomissioned, he was found by Vanny and she took him down to the underground Pizzaria, where she infected him with the Glitchtrap Virus. &#10;Since the other animatronics are free of the virus now, Glitchtrap has greater Control over Bonnie.&#10;&#10;&#10;&#8212; What happened to Foxy?&#10;&#10;Foxy was the very first of the animatronics to get infected by Glitchtrap. &#10;Foxy was some kind of Guinea pig, to test the control of the Virus over one or multiple animatronics!&#10;It didn't end well for Foxy.....!&#10;Another security guard found him the next morning.&#10;Therefore, Kids Cove also had to temporarily be closed, until they could repair him.&#10;However, for now he's still infected with the virus.&#10;&#10;&#10;&#8212; Where are Bonnie and Foxy at the start of the video?&#10;&#10;Bonnie was in the underground Pizzaria, where the Burtrap boss fight takes place. He was currently recharging.&#10;Foxy was in a storage room in the pizza-plex, where he will continue to be stored, until he could be fixed. &#10;&#10;&#10;&#8212; Chica, Roxy and Monty:&#10;&#10;By the time the AU takes place, the three were already repaired and freed from the Glitchtrap Virus. &#10;The only ones still out to get him are Vanny, Bonnie and Foxy! &#10;But luckily, Gregory now got a lot of animatronic friends protecting him!&#10;&#10;&#10;&#8212; What did Bonnie mean by &#34;Too late! You already did once before!&#34;?&#10;&#10;Bonnie knows that Gregory destroyed Monty, Chica and Roxy on purpose. &#10;Because they understood that Gregory was just a child who was trying to survive, the three animatronics forgave him almost right away and they all decided to not tell Freddy, since it wasn't anything to get worked up about anymore and would only cause unnecessary drama now! &#10;So they lied to him about the accidens. &#10;&#10;&#10;&#8212; Why are Bonnie's and Foxy's eyes sometimes flashing purple? &#10;&#10;That's the influence of the Glitchtrap Virus.&#10;You can also see that at the end, when Glitchtrap speaks through Bonnie!&#10;He can also speak through Foxy, but Bonnie just appeals more to him!&#10;You know? Cause he's a purple bunny and all that? &#10;&#10;&#10;&#10;&#10;Also, in my AU, the animatronics are Humanoid.&#10;I just like that idea!&#10;&#10;&#10;Sorry if It might be kinda lazy.&#10;I'm literally sick and tired and put this together (pun not intended) before going to bed!"
     channeltitle "Lady Lunamoon"
     channelid "UCVTnzd1_N-6Ee1iyg0mYpiw"
@@ -5689,7 +5689,7 @@ graph
     commentcount 378
     duration "PT16M24S"
     indegree 6
-    cluster 8
+    cluster 2
   ]
   node
   [
@@ -5743,7 +5743,7 @@ graph
     commentcount 11980
     duration "PT7M"
     indegree 5
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -5779,7 +5779,7 @@ graph
     commentcount 7644
     duration "PT18M45S"
     indegree 5
-    cluster 6
+    cluster 1
   ]
   node
   [
@@ -5797,7 +5797,7 @@ graph
     commentcount 302
     duration "PT19M9S"
     indegree 10
-    cluster 8
+    cluster 2
   ]
   node
   [
@@ -5833,7 +5833,7 @@ graph
     commentcount 66787
     duration "PT19M4S"
     indegree 28
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -5851,7 +5851,7 @@ graph
     commentcount 30935
     duration "PT22M22S"
     indegree 47
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -5869,7 +5869,7 @@ graph
     commentcount 23709
     duration "PT10M45S"
     indegree 5
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -5887,7 +5887,7 @@ graph
     commentcount 1479
     duration "PT13M42S"
     indegree 4
-    cluster 2
+    cluster 8
   ]
   node
   [
@@ -5895,7 +5895,7 @@ graph
     label "gdEuJ1hAVhQ"
     step 0
     date "2016-06-16T18:48:47Z"
-    title "Science Blaster (Song Remix created by Nirre Acid Usagi) Game Theory Audio Spectrum Tribute"
+    title "Science Blaster (Song Remix created by Nirre  Acid Usagi) Game Theory Audio Spectrum Tribute"
     description "Awesome job Nirre and Acid Usagi. And keep on Theorizing Mat Pat. You both are extremely awesome! =D&#10;&#10;Original Creators: Nirre &#38;Acid Usagi.&#10;Song Name: Science Blaster&#10;Used in: Game Theory 2016 Intro"
     channeltitle "Sound Pulse Music!"
     channelid "UCcXCSllR_N5xvR34Ky_yilg"
@@ -5905,7 +5905,7 @@ graph
     commentcount 12191
     duration "PT3M3S"
     indegree 4
-    cluster 9
+    cluster 1
   ]
   node
   [
@@ -5923,7 +5923,7 @@ graph
     commentcount 64951
     duration "PT25M6S"
     indegree 14
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -5977,7 +5977,7 @@ graph
     commentcount 8613
     duration "PT15M24S"
     indegree 4
-    cluster 6
+    cluster 1
   ]
   node
   [
@@ -5995,7 +5995,7 @@ graph
     commentcount 38962
     duration "PT15M43S"
     indegree 8
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -6013,7 +6013,7 @@ graph
     commentcount 222
     duration "PT7M1S"
     indegree 1
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -6067,7 +6067,7 @@ graph
     commentcount 228
     duration "PT22M44S"
     indegree 15
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -6075,7 +6075,7 @@ graph
     label "Zi6j1o55xiY"
     step 0
     date "2022-05-21T15:00:25Z"
-    title "Chapter 3 Location Plot REVEALED?! (Poppy Playtime Theory)"
+    title "Chapter 3 Location  Plot REVEALED?! (Poppy Playtime Theory)"
     description "FOLLOW ME ON INSTAGRAM: https://www.instagram.com/sheeprampageyt/&#10;&#10;JOIN DISCORD https://discord.gg/3H8TfNMEzq&#10;&#10;HorrorScopeds vid: https://youtu.be/-nNRXd8xluc&#10;&#10;POPPY PLAYTIME CHAPTER THREEE??&#10;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#10;&#10;USE CODE &#34;RMPG&#34; IN THE ITEM SHOP FOR AN... um idk, JUST DO IT # ad&#10;&#10;&#9654;BECOME A MEMBER: https://www.youtube.com/channel/UCdPf...&#10;-&#10;&#9654;Follow Me On Twitter: https://twitter.com/Sheeprampage&#10;-&#10;&#9654;WARNING: DO NOT CLICK THIS LINK: https://www.youtube.com/sheeprampage?...&#10;-&#10;&#9654;Join My Discord Server: https://discord.gg/EWVWfWd&#10;-&#10;&#9654;Follow Me On Instagram: https://www.instagram.com/sheeprampageyt&#10;- &#10;- &#10;-&#10;If you have any problems with the footage/thumbnail art used feel free to contact me!&#10;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#10;&#10;Description (From Wikipedia)&#10;&#10;Poppy Playtime: Chapter 1 - A Tight Squeeze, commonly known as Chapter One or abbreviated as CH1, is the first chapter for Poppy Playtime. It was released on October 13 on Steam.&#10;&#10;It revolves around the unamed player, an ex-employee of the toy manufacturing business Playtime Co. whose employees when missing abruptly one day, and receives a letter from an anonymous sender stating that 'we're still here'. This incites the protagonist to go back to the abandoned factory and investigate it to find out what is happening.&#10;&#10;Playtime Co. is a toy-making company, and the location where the game takes place. It was likely established in the 1950s, considering the aesthetic and lack of deeply advanced technology. However, the factory likely made its demise some time past the 80s depending.&#10;&#10;In this game, you play as an ex-employee of a company labelled &#34;Playtime Co.&#34; Playtime Co. was once a corporate giant company that was in the toy manufacturing industry - that was until everybody inside the factory went missing. Now, years later, you return to the factory to investigate these unknown missing cases.&#10;&#10;One of the main mascots of PlayTime Co, he was one of the best sellers and found a place in the hearts of many children across the globe due to the fact that he was programmed to hug people, or because he was found to be cute. Nobody really knows what made him so appealing. However, due to experimentation on the toys at Playtime Co., a Huggy Wuggy seems to have come to life and gone rogue, killing everyone that crosses its path.&#10;&#10;The Player is the main protagonist of Poppy's Playtime and is the person you currently play as during Chapter 1: A Tight Squeeze. There is not much to say about The Player since we never get a introduction to who they could be.&#10;&#10;However, there's a recurring theory that the live toys, such as the murderous HH, were actually human experiments. There's a theory that the player has ties to whoever was running the operation, or looked similar to them, which is why they were so ferociously attacked. This is not canon, and this may be disputed later on as more lore is revealed.&#10;&#10;Poppy Playtime is a minor character inside Chapter 1, and will most likely be an important character for the upcoming chapters. Poppy is a highly intelligent toy, she has the ability to properly converse with a child. She's also programmed to talk and communicate like a real little girl. Her first debut is in Chapter 1 and is featured inside the first VHS tape the player receives in the game, in which she appears in her own commercial tape.&#10;&#10;In the final scene, she's seen in a glass case seemingly dormant, until the player opens her case. Her eyes open, the lights go out and you hear her say, &#34;You opened my case...&#34;&#10;&#10;The Grab Pack was shown to have been used by factory workers to do heavy lifting and general tasks that would have been hard for the average man to do alone, or even in groups. Not to mention, that in the chase scene, the player used it to pull a huge box over an entrance to deter a murderous Huggy Wuggy, and instead destroys the entire mesh floor with the box and takes Huggy Wuggy down with it.&#10;&#10;This shows that it's incredibly powerful, managing to pull down a box like that with ease. In VHS 2, it's also shown that it can easily decapitate a person with relative ease. In VHS 2, because of this, it was strongly advised to use these with care for that very reason. Decapitating your coworker is not ideal.&#10;&#10;(Steam Page)&#10;You must stay alive in this horror/puzzle adventure. Try to survive the vengeful toys waiting for you in the abandoned toy factory. Use your GrabPack to hack electrical circuits or nab anything from afar. Explore the mysterious facility... and don't get caught.&#10;&#10;------"
     channeltitle "Sheeprampage"
     channelid "UCdPf5251gNKwd8hIBz3RtYg"
@@ -6085,7 +6085,7 @@ graph
     commentcount 1097
     duration "PT11M53S"
     indegree 7
-    cluster 4
+    cluster 2
   ]
   node
   [
@@ -6139,7 +6139,7 @@ graph
     commentcount 987
     duration "PT17M41S"
     indegree 1
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -6147,7 +6147,7 @@ graph
     label "an4pHcye2Mc"
     step 0
     date "2020-12-02T04:49:59Z"
-    title "The Game Theory $1,000,000 Challenge for St. Jude! ft. MrBeast, Markiplier, Dream, Pokimane, more!"
+    title "The Game Theory $1,000,000 Challenge for St. Jude! ft. MrBeast, Markiplier, Dream, Pokimane,  more!"
     description "Donate with the blue donate button!&#10;Special thanks to our title sponsors:  State Farm&#174;, for being such a good neighbor; and YouTube Originals, for making this possible.&#10; &#10;*All giveaways have ended*&#10;&#10;We are so excited to be hosting our 2nd livestream in support of St. Jude Children's Research Hospital&#174;. Last year you helped us raise over $1.3 MILLION dollars, helping to advance treatments &#38; cures for childhood cancer &#38; other life-threatening diseases and ensuring no family receives a bill from St. Jude for anything.. We know our community can do it again... &#38; more! &#10; &#10;YOU CAN HELP NOW by clicking the donate button &#38; giving towards our $1,000,000 goal. We&#8217;ll get there with YOUR help! 100% of EVERY DOLLAR YOU DONATE goes to treating children &#38; helping defeat cancer once &#38; for all!   &#10;&#10;Every $10 donation will get you 1 entry into the giveaway. If you donate more than $10, every incitement of $10 over that you donate will also earn an entry. &#10;Example: $20 = 2 entries; $30 = 3 Entries; $100 = 10; $1,000 = 100&#10;For the full rules &#9658; https://bit.ly/3nZem32&#10; &#10;By donating &#38; entering the giveaway you have a chance to win 1 of the following prizes:&#10;- 1 of 5 Elgato Creator Bundles including:&#10;   - Streamdeck&#10;   - Ringlight&#10;   - Wave: 1 Microphone&#10;   - Green Screen&#10;- 1 of 5 Stadia Premiere editions -&#10;   - Stadia Pro Controllers&#10;   - Google Chromecast Ultra&#10;   - 3 Months Pro subscription free&#10;- 1 of 5 Theorist Merch Swag Bags! (signed by Matt &#38; Steph) &#10;- 1 of 2 FNAF x Theorist Merch Swag Bags! &#10;- A one-year subscription to BarkBox brought to you by BarkBox! &#10;- FNAF: Security Breach Giveaway&#10;- Colorware Nintendo Switch &#10;- Colorware Airpods&#10; &#10;Leaderboard 2020:&#10;The leaderboard is CUMULATIVE, adding up donations made throughout the entirety of the livestream. So if you're donating multiple times throughout the day, just make sure it's through the same username.  &#10;- Top 100 will receive a gold foil shirt&#10;- Top 1 gets a special feature shout-out in an upcoming episode of Game Theory &#10; &#10;Find out how to be a part of our FNAF + Crowd Control game! &#9658; https://bit.ly/3nZem32&#10; &#10;The Mission of St. Jude:&#10;St. Jude Children&#8217;s Research Hospital is leading the way the world understands, treats and defeats childhood cancer and other life-threatening diseases. Treatments invented at St. Jude have helped push the overall childhood cancer survival rate from 20% to more than 80% since it opened more than 50 years ago. And families never receive a bill from St. Jude for treatment, travel, housing or food&#8212;because all they should worry about is helping their child live. Join us in our lifesaving mission: Finding cures. Saving children.&#174; &#10;&#10;It's an honor to support the St. Jude mission with the help of the Theorist Community today.&#10;For more information on St. Jude and the work they do, visit their official website. &#9658; https://www.stjude.org/&#10;And visit their official channel! &#9658; https://bit.ly/35Js2J8&#10; &#10;Thank you to all of our sponsors &#38; donors for giving to such a great cause &#38; helping us put on this challenge!&#10;State Farm&#174;, our title sponsor.&#10;YouTube Originals and YouTube, who are powering this stream and providing our platform&#10;Ocean Spray&#174;&#10;Wizards of the Coast&#10;Green Giant&#174;&#10;BarkBox&#10;Giving Good Cards&#10;American Airlines&#10; &#10;Special Thanks to our guests!  &#10;Alpharad &#9658; https://bit.ly/3fhe18P&#10;Alton Dulaney &#9658; https://bit.ly/2Hgr3H0&#10;Binging with Babish &#9658; https://bit.ly/2KfRX2O&#10;Chloe Ting &#9658; https://bit.ly/3lZYhtz&#10;Colleen Ballinger &#9658; https://bit.ly/3nEDZ9k&#10;CrankGamePlays &#9658; https://bit.ly/3kJVDqk&#10;Dawko &#9658; https://bit.ly/3nCHJYO&#10;Disguised Toast &#9658; https://bit.ly/2UH2c2d&#10;DJ Sterf &#9658; https://bit.ly/2IRC16D&#10;Dream &#9658; https://bit.ly/3lN3B3c&#10;Game Grumps &#9658; https://bit.ly/2IUtYGf&#10;Hollis Belger &#9658; https://bit.ly/2KmEwOL&#10;Jaiden Animations &#9658; https://bit.ly/36X2Lea&#10;Jake Roper &#9658; https://bit.ly/3fiJJTg&#10;Josh (Mythical Kitchen) &#9658; https://bit.ly/38WQfOj&#10;Kyle Hill &#9658; https://bit.ly/2ULrT1q&#10;Marques Brownlee &#9658; https://bit.ly/3kNCHXu&#10;Mark Rober &#9658; https://bit.ly/3fhusSk&#10;Markiplier &#9658; https://bit.ly/36Ox2vv&#10;Mike Lamond &#9658; https://bit.ly/3lYYGvW&#10;MrBeast &#9658; https://bit.ly/36OyBJO&#10;Odd1sOut &#9658; https://bit.ly/3pH47C9&#10;PhysicsGirl &#9658; https://bit.ly/3fmMD9y&#10;Pokimane &#9658; https://bit.ly/2IMobC9&#10;Random Encounters &#9658; https://bit.ly/3onNMRf&#10;Rhett and Link &#9658; https://bit.ly/3fc3ewE&#10;Rosanna Pansino &#9658; https://bit.ly/36U6cBY&#10;Safiya Nygaard &#9658; https://bit.ly/2UIYHs0&#10;Stuff Made Here &#9658; https://bit.ly/2HkumwY&#10;Try Guys &#9658; https://bit.ly/38WRa1d&#10;Tyler Williams &#9658; https://bit.ly/3fdBO9u&#10;Veritasium &#9658; https://bit.ly/3lNJ8v1&#10;ZHC &#9658; https://bit.ly/2UH35YB&#10; &#10;Special thanks to our production partners who made this stream happen!&#10;To the teams at Mobeon, Tiltify, &#38; Crowd Control - we thank you!&#10; &#10;To learn more about our on set safety, click here &#9658; https://bit.ly/3nZem32&#10; &#10;#GameTheory #ForStJude #Markiplier #MrBeast #Dream #Pokimane #TryGuys #SafiyaNygaard #DisguisedToast #MarquesBrownlee #JaidenAnimations"
     channeltitle "The Game Theorists"
     channelid "UCo_IB5145EVNcf8hw1Kku7w"
@@ -6157,7 +6157,7 @@ graph
     commentcount 10295
     duration "PT10H22M11S"
     indegree 3
-    cluster 5
+    cluster 3
   ]
   node
   [
@@ -6165,7 +6165,7 @@ graph
     label "25PPglvoyrA"
     step 0
     date "2021-09-04T02:54:57Z"
-    title "Nash Equilibrium|Dominant Strategy|Game Theory|E tongue sticking out lained with example|Economics for Beginner|Masters"
+    title "Nash Equilibrium|Dominant Strategy|Game Theory|Explained with example|Economics for Beginner|Masters"
     description "To jump directly to the examples start from - 0.40.&#10;This video is all about Nash equilibrium &#38; dominant strategies in game theory fully explained with the help of examples.&#10;&#10;&#10;I am an Assistant Professor in Mumbai. I have cleared UGC-NET 2019,2020."
     channeltitle "Eco Inclined By Pooja Jain"
     channelid "UC1hkkNHl90SbROMp3AB-L6w"
@@ -6175,7 +6175,7 @@ graph
     commentcount 59
     duration "PT10M8S"
     indegree 9
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -6193,7 +6193,7 @@ graph
     commentcount 92
     duration "PT53M36S"
     indegree 4
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -6211,7 +6211,7 @@ graph
     commentcount 21
     duration "PT4M37S"
     indegree 0
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -6229,7 +6229,7 @@ graph
     commentcount 19851
     duration "PT20M26S"
     indegree 12
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -6237,7 +6237,7 @@ graph
     label "X-zPrXJpiAw"
     step 0
     date "2018-01-09T19:00:15Z"
-    title "Film Theory: Is SAO the MOST E tongue sticking out ENSIVE GAME EVER? (Sword Art Online)"
+    title "Film Theory: Is SAO the MOST EXPENSIVE GAME EVER? (Sword Art Online)"
     description "SUBSCRIBE for More Film Theories! &#9658; http://bit.ly/1dI8VBH&#10;Your SOUL&#8217;S Price? (Fullmetal Alchemist) &#9658; https://goo.gl/KwMAeL&#10;How DEADLY is Death Note? &#9658;&#9658; https://goo.gl/ppzpui&#10;&#10;SWORD ART ONLINE is one of the most (in)famous anime out there today, and its premise is cooler than most whole shows. SAO is a fully immersive VR MMO&#8212;so immersive that people in the game can LITERALLY die from playing it. Needless to say, this sort of VR experience doesn&#8217;t exist yet, but we&#8217;re definitely creating the groundwork that will lead to this tech. But knowing how much our current VR systems cost, is a game like SAO even feasible for developers? How much would it cost to create something as ambitious as this? Well, Loyal Theorists, the answer is SO MUCH MORE than you expect!&#10;&#10;MORE FILM THEORIES&#10;High School Musical&#8217;s TROY LIES! &#9658;&#9658; https://goo.gl/oNMtER&#10;Spongebob Is ADOPTED! &#9658;&#9658; https://goo.gl/545zfq&#10;The Emoji Movie is ILLEGAL! &#9658;&#9658; https://goo.gl/LsA7Pa&#10;Gravity Falls ISN&#8217;T OVER! &#9658;&#9658; http://bit.ly/2l2P2dt&#10;Will MORTY KILL RICK?! &#9658;&#9658; https://goo.gl/GBkFhi&#10;Is THOR Stronger Than THE HULK? &#9658;&#9658; https://goo.gl/VDYAqc&#10;Don't Hug Me I'm Scared DECODED! &#9658;&#9658; http://bit.ly/FTDHMIS &#10;&#10;SOCIAL MEDIA:&#10;Twitter: @MatPatGT&#10;Facebook: facebook.com/GameTheorists&#10;Instagram:  instagram.com/matpatgt"
     channeltitle "The Film Theorists"
     channelid "UC3sznuotAs2ohg_U__Jzj_Q"
@@ -6265,7 +6265,7 @@ graph
     commentcount 62335
     duration "PT16M20S"
     indegree 15
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -6283,7 +6283,7 @@ graph
     commentcount 72711
     duration "PT17M52S"
     indegree 9
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -6301,7 +6301,7 @@ graph
     commentcount 7800
     duration "PT13M32S"
     indegree 7
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -6327,7 +6327,7 @@ graph
     label "7FQoGPM4v4c"
     step 0
     date "2022-06-03T13:00:09Z"
-    title "Iron Lung STORY ENDING E tongue sticking out LAINED"
+    title "Iron Lung STORY  ENDING EXPLAINED"
     description "Sub to gamersault/ gamer sault for more horror game related content.&#10;&#10;Iron Lung STORY &#38; ENDING EXPLAINED, iron lung game all endings, iron lung game ending, iron lung game, iron lung full game, iron lung endings, iron lung ending, iron lung story, iron lung game explained, iron lung explained, iron lung story explained, iron lung ending explained, iron lung all endings explained, iron lung game story explained, iron lung game ending explained"
     channeltitle "GamerSault"
     channelid "UCZ9zJNZDmuQQ7Uw97Kdjwkw"
@@ -6391,7 +6391,7 @@ graph
     commentcount 980
     duration "PT18M11S"
     indegree 5
-    cluster 8
+    cluster 2
   ]
   node
   [
@@ -6427,7 +6427,7 @@ graph
     commentcount 111
     duration "PT29M23S"
     indegree 3
-    cluster 8
+    cluster 3
   ]
   node
   [
@@ -6445,7 +6445,7 @@ graph
     commentcount 4324
     duration "PT5M45S"
     indegree 3
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -6453,7 +6453,7 @@ graph
     label "aa8USttcDoE"
     step 0
     date "2012-09-04T00:06:58Z"
-    title "Game Theory 101 (# smiley : The Mixed Strategy Algorithm"
+    title "Game Theory 101 (#8): The Mixed Strategy Algorithm"
     description "Game Theory 101: The Complete Textbook on Amazon: https://www.amazon.com/Game-Theory-101-Complete-Textbook/dp/1492728152/&#10;&#10;http://gametheory101.com/courses/game-theory-101/&#10;&#10;To check for mixed strategy Nash equilibria, we must run the mixed strategy algorithm. This algorithm shows whether there exists a mixed strategy for a player that leaves the other player indifferent between his or her two pure strategies. If such a mixed strategy exists for both players, then those strategies collectively form a mixed strategy Nash equilibrium.&#10;&#10;The mixed strategy algorithm is the first computationally intensive part of game theory we have encountered. However, we will be using the algorithm quite a bit later on, so do not be worried if the logic of the math is difficult to grasp at first."
     channeltitle "William Spaniel"
     channelid "UCJDIGW0ywWw9Kh9_vtwqxXA"
@@ -6463,7 +6463,7 @@ graph
     commentcount 108
     duration "PT9M34S"
     indegree 1
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -6471,7 +6471,7 @@ graph
     label "TEmLrIB3DV4"
     step 0
     date "2022-02-23T01:24:31Z"
-    title "Friday Night Funkin Matpat Vs Michael Afton FULL WEEK | Lore E tongue sticking out anded (FNF Mod) (Game Theory FNAF)"
+    title "Friday Night Funkin Matpat Vs Michael Afton FULL WEEK | Lore Expanded (FNF Mod) (Game Theory FNAF)"
     description "Friday Night Funkin' Matpat Vs Michael Afton for the PC in 2160p Ultra HD. Matpat is from Game Theory and he is explaining the Five Nights at Freddy's lore through rapping.&#10;Yoshifan33 - submitter: https://youtu.be/wWMruVIj8jk&#10;&#10;Hello everybody and welcome to Game Theory! Today I'm gonna rap battle with one of the Aftons to learn whether or not the crying child really is one of their family, here we go!&#10;&#10;FNF - Lore Expanded [MatPat vs. Michael Afton] Mod Download:&#10;https://gamebanana.com/mods/358958&#10;&#10;This mod is a reskin of the ourple guy / purple guy mod:&#10;https://gamebanana.com/mods/357511&#10;&#10;Game Note: This mod completely overhauls the Lore song from FNF Vs. Ourple Guy, adding completely new sprites, charts, and a remix!?!? Oh yeah, you better believe it.&#10;&#10;I'm glad more Five Nights at Freddy's mod are being made and I'm hoping to see a mod for Five Nights at Freddy's Security Breach at some point. Well, it's a fnaf and game theory crossover, but it's still a fnaf mod in my eyes.&#10;&#10;All Songs from Friday Night Funkin' MatPat vs. Michael Afton Full Week Mod Timestamp:&#10;00:00 Song sounds familiar&#10;00:22 Week List&#10;00:25 Lore Song&#10;02:15 Phone Guy Joins in&#10;03:22 FNAF Rap Battle Song&#10;07:46 All Miss Animations&#10;07:58 Outro - CommunityGame&#10;&#10;Mod Creators for FNF - Lore Expanded [MatPat vs. Michael Afton] below &#10;MatPat vs. Michael Afton Mod Download link: &#10;https://gamebanana.com/mods/350345&#10;Yoshifan33 - Artist, Animator, Programmer, Charter:&#10;https://gamebanana.com/members/1780186&#10;Fidy50 - Charter:&#10;https://gamebanana.com/members/1833903&#10;METR0GARD3N - Musician:&#10;https://www.youtube.com/channel/UCaP1qMKkHYF58ZT4sBGoZmw&#10;kiwiquest - musician/director:&#10;https://twitter.com/SujiiLol&#10;gibs679 - charter:&#10;https://gamebanana.com/mods/357511&#10;Lossarquo - artist:&#10;https://gamebanana.com/mods/357511&#10;MewMarissa - Musician:&#10;https://www.youtube.com/channel/UCRnNaBrivUtAqmSV_kGmgNQ&#10;emi - matpat sprites:&#10;https://gamebanana.com/mods/357511&#10;Matpat - Game Theory: FNAF, The Clue That ALMOST Solves Everything:&#10;https://youtu.be/wBEAjjioZFI&#10;Scott Cawthon - Creator &#38; Developer:&#10;https://mobile.twitter.com/real_scawthon&#10;Scottgames - Developer: &#10;https://scottgames.com/&#10;Clickteam - Developer: &#10;https://www.clickteam.com/&#10;&#10;Get the game and support the creators of the game:&#10;https://ninja-muffin24.itch.io/funkin&#10;https://www.newgrounds.com/portal/view/770371&#10;Friday Night Funkin': The Full Ass Game: &#10;https://www.kickstarter.com/projects/funkin/friday-night-funkin-the-full-ass-game&#10;Friday Night Funkin' - WEEK 7 All Tankman Death Quotes:&#10;https://youtu.be/n8ROKNI2M8c&#10;VS Whitty FULL WEEK (Bye Whitty)&#10;https://youtu.be/fZcf-RAstWI&#10;Friday Night Funkin' - VS Flippy Flipped Out Week:&#10;https://youtu.be/M6HPP81ZnQI&#10;FNF VS Springtrap | Funky Frights WEEK 1 DEMO + Security GF (FNAF 3)&#10;https://youtu.be/Kz2Ok0yLrz4&#10;Friday Night Funkin' VS Freddy Beatbox | FNAF Security Breach in a Nutshell&#10;https://youtu.be/efdgUySDLBI&#10;Friday Night Funkin' - VS Sky Minus FULL WEEK&#10;https://youtu.be/wQ5kwswS_0Q&#10;Friday Night Funkin' VS Withered Freddy FULL WEEK + Cutscenes&#10;https://youtu.be/ujZIPHimTSo&#10;&#10;Rate &#38; Subscribe To CommunityGame&#10;Friday Night Funkin' gameplay @ 1080p 60fps &#38; 4k (2021)&#10;#FridayNightFunkin #GameTheory #FNAF #FNAF #FiveNightsatFreddys #FiveNightsatFreddys4 #CommunityGame&#10;---------------------------------&#10;&#10148; FACEBOOK: http://www.facebook.com/CommunityGameHQ&#10;&#10148; TWITTER: https://twitter.com/#!/CommunityGameHQ&#10;&#10148; INSTAGRAM: https://www.instagram.com/communitygame_hq/&#10;&#10148; SITE: https://www.communitygamehq.com/"
     channeltitle "CommunityGame"
     channelid "UCsJjXWCFZcDn-IAghR--S_A"
@@ -6489,7 +6489,7 @@ graph
     label "cx1PcFlhv5I"
     step 0
     date "2022-04-24T19:00:09Z"
-    title "The Game Theory Iceberg (ft MatPat Wendigoon)"
+    title "The Game Theory Iceberg (ft MatPat  Wendigoon)"
     description "Install Raid for Free &#9989; Mobile and PC: https://clik.cc/3V5Gr and get a special starter pack &#128165; Available only for the next 30 days &#128165;&#10;&#10;check out @Wendigoon he's a madlad&#10;also check out matpat i guess he has a billion game theory channels&#10;&#10;&#9658;SUB TO MY STREAM HIGHLIGHT YT CHANNEL: https://www.youtube.com/channel/UCNgWKYz-_O0ji11BG9crjLA&#10;&#10;&#9658;SUB TO NUXCORD MY NEW DAILY UPLOAD CHANNEL: https://www.youtube.com/channel/UCTWZz1jXQE8Z7unM6odhg-Q&#10;&#10;&#9658;GET 10-30% OFF G-FUEL WITH CODE &#34;Nux&#34; HERE: https://gfuel.ly/3saqqQB&#10;&#10;&#9658;SUB TO MY SHORTS YT CHANNEL: https://www.youtube.com/channel/UCnO2vxNgTvTK03kEj2Z1rEw&#10;&#10;&#9658;FOLLOW ME ON TWITCH FOR EPIC STREAMS: https://www.twitch.tv/nuxtaku&#10;&#10;&#9658; FOLLOW ME ON TWITTER: https://twitter.com/Nux_Taku &#10;&#10;&#9658;JOIN MY COMMUNITY DISCORD SERVER: https://discord.gg/CCHpaW6QbP&#10;&#10;&#9658; FOLLOW ME ON TIKTOK (yes really): https://www.tiktok.com/@nuxtakuofficial?lang=en&#10;&#10;&#9658;JOIN MY SUBREDDIT: https://www.reddit.com/r/NuxTakuSubmissions/&#10;&#10;&#9658; SUPPORT ME ON PATREON: https://www.patreon.com/nuxtaku&#10;&#10;&#9658; BUY MY MERCH: https://nuxtaku.com&#10;&#10;----------&#10;&#10;Our Rant Cafe Podcast where a bunch of Anime YouTubers get together to rant about random anime topics weekly (live on Twitch Thursdays 5PM EST) is now on EVERY platform, here are the links!&#10;&#10;Rant Cafe YouTube Channel: https://www.youtube.com/channel/UC-HAwls_ET6oUtRQSdZHOYQ&#10;&#10;Rant Cafe Twitch Channel: https://www.twitch.tv/rantcafe&#10;&#10;Rant Cafe Spotify: https://open.spotify.com/show/0NHoFLp2vw36vCCu9jDQHV?si=laSCMSGVTMKEMyBm4XZ_RA&#10;&#10;Rant Cafe SoundCloud: https://soundcloud.com/user-173628041&#10;&#10;----------&#10;&#10;CREDITS:&#10;&#10;Vtube model Live2D : &#10;Enma @ Ironvertex &#10;https://twitter.com/AkatsukiEnma&#10;https://twitter.com/iron_vertex&#10;&#10;My Nux Taku Avatar Artist: https://twitter.com/violett_psycho&#10;&#10;My Revolvania Outro by Nick Nitro: https://www.youtube.com/channel/UClCzAESv7Lq_wAvqhbxa0LQ&#10;&#10;Edited By: Kor&#10;&#10;#NuxTaku #MatPat #GameTheory #Anime #Manga #HonestAnimeDescriptions #Flexes&#10;&#10;----------&#10;&#10;DISCLAIMER: This video and my entire channel is rated PG-13 and should not be viewed by anyone under the age of 13 without direct parental consent."
     channeltitle "Nux Taku"
     channelid "UCBBU7zUOhR_qShfMV26UUCA"
@@ -6499,7 +6499,7 @@ graph
     commentcount 558
     duration "PT21M44S"
     indegree 2
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -6553,7 +6553,7 @@ graph
     commentcount 91
     duration "PT8M22S"
     indegree 2
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -6571,7 +6571,7 @@ graph
     commentcount 94
     duration "PT50M38S"
     indegree 3
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -6589,7 +6589,7 @@ graph
     commentcount 43812
     duration "PT9M21S"
     indegree 6
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -6625,7 +6625,7 @@ graph
     commentcount 13535
     duration "PT13M20S"
     indegree 3
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -6643,7 +6643,7 @@ graph
     commentcount 40
     duration "PT12M55S"
     indegree 1
-    cluster 8
+    cluster 3
   ]
   node
   [
@@ -6697,7 +6697,7 @@ graph
     commentcount 53
     duration "PT17M33S"
     indegree 8
-    cluster 8
+    cluster 2
   ]
   node
   [
@@ -6715,7 +6715,7 @@ graph
     commentcount 3337
     duration "PT2M20S"
     indegree 1
-    cluster 9
+    cluster 1
   ]
   node
   [
@@ -6733,7 +6733,7 @@ graph
     commentcount 205
     duration "PT9M55S"
     indegree 1
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -6751,7 +6751,7 @@ graph
     commentcount 6
     duration "PT17M10S"
     indegree 0
-    cluster 1
+    cluster 4
   ]
   node
   [
@@ -6759,7 +6759,7 @@ graph
     label "QDOGbhjfDns"
     step 0
     date "2022-07-06T19:00:10Z"
-    title "Hungry Lamu - The Story Endings E tongue sticking out lained"
+    title "Hungry Lamu - The Story  Endings Explained"
     description "Hungry Lamu is a game about a very hungry llama... but this being a horror game, not all is as it first seems. This Llama is hungry... for humans. In this video we take a look at the story and all endings for Hungry Lamu as we explain the meaning behind this strange horror game.&#10;&#10;Check out Hungry Lamu here: https://kulurc.itch.io/hungry-lamu&#10;&#10;PC Specialist built the PC I use: https://pcspeciali.st/superhorrorbro&#10;Use promo code HORROR for &#163;30 fixed discount on any order&#10;&#10;You've been watching SuperHorrorBro Mike. If you enjoyed this video remember to like, comment and subscribe for more horror related content."
     channeltitle "SuperHorrorBro"
     channelid "UChL4WU9YLlxXXNSwlzM1-7g"
@@ -6769,7 +6769,7 @@ graph
     commentcount 833
     duration "PT10M13S"
     indegree 4
-    cluster 2
+    cluster 8
   ]
   node
   [
@@ -6823,7 +6823,7 @@ graph
     commentcount 100
     duration "PT15M17S"
     indegree 3
-    cluster 8
+    cluster 3
   ]
   node
   [
@@ -6841,7 +6841,7 @@ graph
     commentcount 6275
     duration "PT20M26S"
     indegree 4
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -6877,7 +6877,7 @@ graph
     commentcount 511
     duration "PT1M59S"
     indegree 2
-    cluster 9
+    cluster 1
   ]
   node
   [
@@ -6931,7 +6931,7 @@ graph
     commentcount 226
     duration "PT25M31S"
     indegree 7
-    cluster 8
+    cluster 2
   ]
   node
   [
@@ -6967,7 +6967,7 @@ graph
     commentcount 616
     duration "PT46S"
     indegree 7
-    cluster 2
+    cluster 4
   ]
   node
   [
@@ -7003,7 +7003,7 @@ graph
     commentcount 585
     duration "PT1M20S"
     indegree 3
-    cluster 2
+    cluster 4
   ]
   node
   [
@@ -7039,7 +7039,7 @@ graph
     commentcount 232
     duration "PT23M13S"
     indegree 17
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -7057,7 +7057,7 @@ graph
     commentcount 226
     duration "PT21M39S"
     indegree 5
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -7093,7 +7093,7 @@ graph
     commentcount 19
     duration "PT17M41S"
     indegree 1
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -7111,7 +7111,7 @@ graph
     commentcount 26
     duration "PT8M32S"
     indegree 13
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -7129,7 +7129,7 @@ graph
     commentcount 2154
     duration "PT45S"
     indegree 3
-    cluster 2
+    cluster 4
   ]
   node
   [
@@ -7137,7 +7137,7 @@ graph
     label "GY1yLiAuKXE"
     step 0
     date "2022-07-01T14:51:59Z"
-    title "Hungry Lamu STORY ALL ENDINGS E tongue sticking out LAINED"
+    title "Hungry Lamu STORY  ALL ENDINGS EXPLAINED"
     description "Hungry lamu story and all endings explained. Lamu, the protagonist and antagonist of the game, lives in a surreal imaginary world, which has very real consequences.&#10;&#10;Sub to gamersault/ gamer sault for more horror game related content.&#10;&#10;&#10;Hungry Lamu STORY &#38; ALL ENDINGS EXPLAINED,hungry lamu all endings explained,hungry lamu story explained,hungry lamu endings,hungry lamu all endings,hungry lamu ending,hungry lamu explained,hungry lamu game,hungry lamu full game,hungry lamu,hungry lamu all bodies,hungry lamu mochi&#10;Industrial Music Box by Kevin MacLeod is licensed under a Creative Commons Attribution 4.0 license. https://creativecommons.org/licenses/by/4.0/&#10;&#10;Source: http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100812&#10;&#10;Artist: http://incompetech.com/"
     channeltitle "GamerSault"
     channelid "UCZ9zJNZDmuQQ7Uw97Kdjwkw"
@@ -7147,7 +7147,7 @@ graph
     commentcount 348
     duration "PT13M7S"
     indegree 1
-    cluster 2
+    cluster 8
   ]
   node
   [
@@ -7173,7 +7173,7 @@ graph
     label "5TVJPh_hrIU"
     step 0
     date "2021-12-01T04:24:30Z"
-    title "The Game Theory $1,000,000 Challenge for St. Jude! ft. MrBeast, Dream, Markiplier more!"
+    title "The Game Theory $1,000,000 Challenge for St. Jude! ft. MrBeast, Dream, Markiplier  more!"
     description "Donate to St. Jude with us with the blue DONATE BUTTON!&#10;Special thanks to our title sponsor, YouTube Originals, for making this possible.&#10; &#10;We are so excited to be hosting our 3rd and FINAL livestream in support of St. Jude Children's Research Hospital&#174;. Last year you helped us raise over $3 MILLION dollars, helping to advance treatments &#38; cures for childhood cancer &#38; other life-threatening diseases and ensuring no family receives a bill from St. Jude for anything.. We know our community can do it again this year!&#10; &#10;YOU CAN HELP NOW by clicking the blue DONATE BUTTON &#38; giving towards our $1,000,000 goal. We&#8217;ll get there with YOUR help! 100% of EVERY DOLLAR YOU DONATE goes to treating children &#38; helping defeat cancer once &#38; for all!    &#10;&#10;*ALL GIVEAWAYS HAVE ENDED*&#10; &#10;Every $10 donation will get you 1 entry into the giveaway. If you donate more than $10, every incitement of $10 over that you donate will also earn an entry. &#10;Example: $20 = 2 entries; $30 = 3 Entries; $100 = 10; $1,000 = 100&#10;Full rules &#9658; https://bit.ly/StJude2021Rules&#10; &#10;By donating &#38; entering the giveaway you have a chance to win 1 of the following prizes:&#10;5 x Theorist Swag Bags&#10;5 x FNAF Swag Bags&#10;30 x Steel Wool Studio T-Shirts&#10;1 x Google Pixel&#10;1x Nintendo Switch OLED&#10;Art made LIVE in our Pictionary Event!*&#10; &#10;Leaderboard:&#10;How it works &#9658; https://bit.ly/StJude2021Rules&#10;- Top 100 donors get a gold foil shirt&#10;- Top 10 individual donors get an event hoodie&#10; &#10;Join the Crowd Control + Minecraft game! &#9658;  https://tiltify.crowdcontrol.live/start/472544453 &#10;More: https://crowdcontrol.live/&#10;Video Guide &#9658; https://youtu.be/2HZPEJvMAW0&#10;More Info &#9658; https://bit.ly/StJude2021Rules&#10;Squid Games Mod by the MCLara Team &#9658; https://bit.ly/30ocQB1&#10; &#10;The Mission of St. Jude:&#10;St. Jude Children&#8217;s Research Hospital is leading the way the world understands, treats and defeats childhood cancer and other life-threatening diseases. Treatments invented at St. Jude have helped push the overall childhood cancer survival rate from 20% to more than 80% since it opened more than 50 years ago. And families never receive a bill from St. Jude for treatment, travel, housing or food&#8212;because all they should worry about is helping their child live. Join us in our lifesaving mission: Finding cures. Saving children.&#174; &#10;It's an honor to support the St. Jude mission with the help of the Theorist Community today.&#10;For more information on St. Jude and the work they do, visit their official website. &#9658; https://www.stjude.org/&#10;And visit their official channel! &#9658; https://bit.ly/35Js2J8&#10; &#10;Thanks to our sponsors &#38; donors for giving to such a great cause &#38; helping us put on this show!&#10;YouTube Originals &#38; YouTube, for powering this stream &#38; providing our platform&#10;American Airlines&#10;Astek&#10;Giving Good by Blackhawk Network&#10;Leslie's&#10;Simon Property Group&#10; &#10;Thanks to our guests!  &#10;Alex Hirsch &#9658; https://bit.ly/3wR4YV1&#10;Aphmau &#9658; https://bit.ly/545hjk&#10;Binging with Babish &#9658; https://bit.ly/Bbs33s&#10;Brian David Gilbert &#9658;  https://bit.ly/3FhJYJU&#10;CaptainSparklez &#9658; https://bit.ly/Cpkls22&#10;Corpse Husband &#9658; https://bit.ly/CpsHbs&#10;CoryxKenshin &#9658; https://bit.ly/3Fihek5&#10;Dad (Nathan Barnatt) &#9658; https://bit.ly/3qCEzJr&#10;DanTDM &#9658; https://bit.ly/DTDM22&#10;Dawko &#9658; https://bit.ly/Dwk432&#10;Dream &#9658; https://www.youtube.com/c/dream&#10;GeorgeNotFound &#9658; https://bit.ly/Gnf443&#10;Jaiden Animation &#9658; https://bit.ly/30rkNoW&#10;Jaku &#9658; https://bit.ly/3DpFdgQ&#10;Jason Ritter &#9658; https://bit.ly/3wRvOMp&#10;Jovenshire &#9658; https://bit.ly/2ZunNB2&#10;Justin Long &#9658; https://bit.ly/3DwCfac&#10;Kyle Hill &#9658; https://bit.ly/3nlc7tC&#10;Louis Weisz &#9658; https://bit.ly/30obHJJ&#10;Mark Rober &#9658; https://bit.ly/3DoeOjm&#10;Markiplier &#9658; https://bit.ly/3Dnco4u&#10;Marques Brownlee &#9658; https://bit.ly/3DrPU2E&#10;Matt Amodio &#9658; https://bit.ly/3l0ry91&#10;Matt Stonie &#9658; https://bit.ly/3ovM8Pd&#10;Miguel &#9658; https://bit.ly/3kCw5hG&#10;Mr Beast &#9658; https://bit.ly/3ow8vEr&#10;Odd1sOut &#9658; https://bit.ly/3niqxuk&#10;Random Encounters &#9658; https://bit.ly/3cm9Tn7&#10;Rhett &#38; Link &#9658; https://bit.ly/30vEY5H&#10;Rosanna Pansino &#9658; https://bit.ly/3cfJxDn&#10;Ryder Burgin &#9658; https://bit.ly/3HBdfkJ&#10;Safiya Nygaard &#9658; https://bit.ly/30wo2vG&#10;Sapnap &#9658; https://bit.ly/3cma9m5&#10;Simone Giertz &#9658; https://bit.ly/3wPYipR&#10;Sofie Dossi &#9658; https://bit.ly/3x38UCd&#10;Trisha Hershberger &#9658; https://bit.ly/3HVYPM6&#10;Try Guys &#9658; https://bit.ly/3qEXKCg&#10;Tubbo &#9658; https://bit.ly/3kGnlqK&#10;Tyler Williams &#9658; https://bit.ly/3fdBO9u&#10;Veritasium &#9658; https://bit.ly/vts223&#10;Vsauce3 &#9658; https://bit.ly/3fiJJTg&#10;Wilbur Soot &#9658; https://bit.ly/3DwCXUU&#10;William Osman &#9658; https://bit.ly/3DlSAi8&#10;Xyla Foxlin &#9658; https://bit.ly/3cfPwrT&#10;ZHC &#9658; https://bit.ly/30re3YT&#10; &#10;Special thanks to our production partners who made this stream happen!&#10;To the teams at Mobeon, Tiltify, &#38; Crowd Control - we thank you!&#10; &#10;Our Safety Protocols &#9658; https://bit.ly/StJude2021Rules&#10;Thank you modMD for providing Covid Testing!&#10; &#10;&#34;Friday Night Funkin&#34; Music by - Kawai Sprite&#10;&#9658; https://bit.ly/3qHniP1  &#10; &#10;#ForStJude #MillionDollarChallenge #GameTheory #Markiplier #MrBeast #Dream #CorpseHusband #Odd1sOut #SafiyaNygaard #DanTDM #MarquesBrownlee #JaidenAnimations #Aphmau"
     channeltitle "The Game Theorists"
     channelid "UCo_IB5145EVNcf8hw1Kku7w"
@@ -7183,7 +7183,7 @@ graph
     commentcount 3209
     duration "PT9H40M25S"
     indegree 2
-    cluster 5
+    cluster 3
   ]
   node
   [
@@ -7201,7 +7201,7 @@ graph
     commentcount 4408
     duration "PT4M7S"
     indegree 1
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -7273,7 +7273,7 @@ graph
     commentcount 123
     duration "PT36M8S"
     indegree 14
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -7291,7 +7291,7 @@ graph
     commentcount 6697
     duration "PT4M"
     indegree 0
-    cluster 5
+    cluster 3
   ]
   node
   [
@@ -7327,7 +7327,7 @@ graph
     commentcount 1440
     duration "PT1M1S"
     indegree 4
-    cluster 2
+    cluster 4
   ]
   node
   [
@@ -7345,7 +7345,7 @@ graph
     commentcount 29
     duration "PT22M33S"
     indegree 1
-    cluster 4
+    cluster 2
   ]
   node
   [
@@ -7381,7 +7381,7 @@ graph
     commentcount 73
     duration "PT7M"
     indegree 0
-    cluster 5
+    cluster 2
   ]
   node
   [
@@ -7417,7 +7417,7 @@ graph
     commentcount 622
     duration "PT7M23S"
     indegree 0
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -7435,7 +7435,7 @@ graph
     commentcount 1
     duration "PT6M33S"
     indegree 0
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -7489,7 +7489,7 @@ graph
     commentcount 20
     duration "PT11S"
     indegree 0
-    cluster 1
+    cluster 4
   ]
   node
   [
@@ -7507,7 +7507,7 @@ graph
     commentcount 2
     duration "PT14M38S"
     indegree 0
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -7525,7 +7525,7 @@ graph
     commentcount 33105
     duration "PT11M23S"
     indegree 3
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -7543,7 +7543,7 @@ graph
     commentcount 5
     duration "PT8S"
     indegree 0
-    cluster 9
+    cluster 1
   ]
   node
   [
@@ -7579,7 +7579,7 @@ graph
     commentcount 0
     duration "PT8S"
     indegree 1
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -7615,7 +7615,7 @@ graph
     commentcount 0
     duration "PT11M2S"
     indegree 0
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -7651,7 +7651,7 @@ graph
     commentcount 0
     duration "PT8S"
     indegree 0
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -7669,7 +7669,7 @@ graph
     commentcount 2
     duration "PT56S"
     indegree 1
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -7687,7 +7687,7 @@ graph
     commentcount 177
     duration "PT5M58S"
     indegree 0
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -7759,7 +7759,7 @@ graph
     commentcount 3
     duration "PT53S"
     indegree 0
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -7795,7 +7795,7 @@ graph
     commentcount 1
     duration "PT15M51S"
     indegree 0
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -7813,7 +7813,7 @@ graph
     commentcount 10
     duration "PT9M56S"
     indegree 0
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -7831,7 +7831,7 @@ graph
     commentcount 0
     duration "PT22S"
     indegree 0
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -7867,7 +7867,7 @@ graph
     commentcount -1
     duration "PT1M4S"
     indegree 0
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -7885,7 +7885,7 @@ graph
     commentcount 0
     duration "PT20M24S"
     indegree 0
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -7903,7 +7903,7 @@ graph
     commentcount 0
     duration "PT31S"
     indegree 0
-    cluster 5
+    cluster 1
   ]
   node
   [
@@ -7939,7 +7939,7 @@ graph
     commentcount -1
     duration "PT32S"
     indegree 0
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -7975,7 +7975,7 @@ graph
     commentcount 0
     duration "PT46S"
     indegree 0
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -7993,7 +7993,7 @@ graph
     commentcount 18
     duration "PT7S"
     indegree 0
-    cluster 4
+    cluster 2
   ]
   node
   [
@@ -8011,7 +8011,7 @@ graph
     commentcount 0
     duration "PT9S"
     indegree 0
-    cluster 2
+    cluster 4
   ]
   node
   [
@@ -8047,7 +8047,7 @@ graph
     commentcount 0
     duration "PT14S"
     indegree 0
-    cluster 1
+    cluster 4
   ]
   node
   [
@@ -8155,7 +8155,7 @@ graph
     commentcount 0
     duration "PT51S"
     indegree 0
-    cluster 6
+    cluster 1
   ]
   node
   [
@@ -8173,7 +8173,7 @@ graph
     commentcount 35
     duration "PT12M28S"
     indegree 0
-    cluster 2
+    cluster 8
   ]
   node
   [
@@ -8191,7 +8191,7 @@ graph
     commentcount 0
     duration "PT3M6S"
     indegree 0
-    cluster 2
+    cluster 1
   ]
   node
   [
@@ -8209,7 +8209,7 @@ graph
     commentcount 0
     duration "PT1M40S"
     indegree 0
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -8227,7 +8227,7 @@ graph
     commentcount 3760
     duration "PT48S"
     indegree 2
-    cluster 2
+    cluster 4
   ]
   node
   [
@@ -8281,7 +8281,7 @@ graph
     commentcount 0
     duration "PT8M18S"
     indegree 0
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -8299,7 +8299,7 @@ graph
     commentcount 1
     duration "PT10M59S"
     indegree 0
-    cluster 4
+    cluster 5
   ]
   edge
   [

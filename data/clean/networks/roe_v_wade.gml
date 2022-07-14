@@ -1,4 +1,4 @@
-Creator "igraph version 1.3.1 Thu Jul 14 09:45:09 2022"
+Creator "igraph version 1.3.1 Thu Jul 14 11:01:23 2022"
 Version 1
 graph
 [
@@ -37,7 +37,7 @@ graph
     commentcount 7844
     duration "PT19M39S"
     indegree 15
-    cluster 2
+    cluster 1
   ]
   node
   [
@@ -45,7 +45,7 @@ graph
     label "9HZj8Qp4p2A"
     step 0
     date "2018-07-13T18:55:58Z"
-    title "Roe v. Wade, e tongue sticking out lained"
+    title "Roe v. Wade, explained"
     description "The decision effectively legalized abortion across the country.&#10;&#10;Learn more about this story at www.newsy.com/81640/&#10;&#10;Find more videos like this at www.newsy.com&#10;&#10;Follow Newsy on Facebook: www.facebook.com/newsyvideos&#10;Follow Newsy on Twitter: www.twitter.com/newsy"
     channeltitle "Newsy"
     channelid "UCTln5ss6h6L_xNfMeujfPbg"
@@ -55,7 +55,7 @@ graph
     commentcount 1988
     duration "PT2M56S"
     indegree 79
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -73,7 +73,7 @@ graph
     commentcount 2918
     duration "PT5M59S"
     indegree 158
-    cluster 4
+    cluster 3
   ]
   node
   [
@@ -91,7 +91,7 @@ graph
     commentcount 8218
     duration "PT9M33S"
     indegree 146
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -109,7 +109,7 @@ graph
     commentcount 2749
     duration "PT10H34M26S"
     indegree 64
-    cluster 6
+    cluster 4
   ]
   node
   [
@@ -145,7 +145,7 @@ graph
     commentcount 16696
     duration "PT5M11S"
     indegree 41
-    cluster 6
+    cluster 4
   ]
   node
   [
@@ -163,7 +163,7 @@ graph
     commentcount 15827
     duration "PT27M13S"
     indegree 53
-    cluster 2
+    cluster 1
   ]
   node
   [
@@ -181,7 +181,7 @@ graph
     commentcount 4938
     duration "PT5M5S"
     indegree 101
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -199,7 +199,7 @@ graph
     commentcount 2366
     duration "PT21M13S"
     indegree 141
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -217,7 +217,7 @@ graph
     commentcount 18827
     duration "PT11M46S"
     indegree 98
-    cluster 6
+    cluster 4
   ]
   node
   [
@@ -235,7 +235,7 @@ graph
     commentcount 7070
     duration "PT1M48S"
     indegree 77
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -253,7 +253,7 @@ graph
     commentcount 5466
     duration "PT3M45S"
     indegree 68
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -271,7 +271,7 @@ graph
     commentcount 6570
     duration "PT15M22S"
     indegree 144
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -289,7 +289,7 @@ graph
     commentcount 18765
     duration "PT6M38S"
     indegree 140
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -297,7 +297,7 @@ graph
     label "Y0BAwW_Ys7c"
     step 0
     date "2022-06-24T22:08:24Z"
-    title "Roe v. Wade Overturne tongue sticking out Celebrities REACT"
+    title "Roe v. Wade Overturned: Celebrities REACT"
     description "After the Supreme Court ruled to ban abortions across the nation on Thursday, stars like Taylor Swift, Viola Davis, Michelle and Barack Obama, speak out in outrage while pleading for change. The landmark decision comes over 50 years after Roe v. Wade passed as a right to provide legal abortions in the U.S.&#10;&#10;Exclusives from #EntertainmentTonight &#10;https://www.youtube.com/playlist?list=PLQwITQ__CeH2Y_7g2xeiNDa0vQsROQQgv"
     channeltitle "Entertainment Tonight"
     channelid "UCdtXPiqI2cLorKaPrfpKc4g"
@@ -307,7 +307,7 @@ graph
     commentcount 5800
     duration "PT3M34S"
     indegree 54
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -325,7 +325,7 @@ graph
     commentcount 259
     duration "PT2M4S"
     indegree 0
-    cluster 1
+    cluster 5
   ]
   node
   [
@@ -343,7 +343,7 @@ graph
     commentcount 7947
     duration "PT5M27S"
     indegree 149
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -361,7 +361,7 @@ graph
     commentcount -1
     duration "PT7M19S"
     indegree 73
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -379,7 +379,7 @@ graph
     commentcount -1
     duration "PT15M20S"
     indegree 32
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -415,7 +415,7 @@ graph
     commentcount 7983
     duration "PT6M5S"
     indegree 33
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -433,7 +433,7 @@ graph
     commentcount 9224
     duration "PT10M19S"
     indegree 142
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -451,7 +451,7 @@ graph
     commentcount 1556
     duration "PT4M49S"
     indegree 40
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -469,7 +469,7 @@ graph
     commentcount 2124
     duration "PT2M14S"
     indegree 9
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -487,7 +487,7 @@ graph
     commentcount 7044
     duration "PT1M32S"
     indegree 14
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -505,7 +505,7 @@ graph
     commentcount -1
     duration "PT3M30S"
     indegree 35
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -523,7 +523,7 @@ graph
     commentcount 1977
     duration "PT4M32S"
     indegree 0
-    cluster 1
+    cluster 3
   ]
   node
   [
@@ -541,7 +541,7 @@ graph
     commentcount -1
     duration "PT12M26S"
     indegree 28
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -549,7 +549,7 @@ graph
     label "L5ph4qAOQZk"
     step 0
     date "2022-07-01T23:32:24Z"
-    title "TikTok Users Are Supreme Court Justices After Overturning Roe v. Wade"
+    title "TikTok Users Are  Supreme Court Justices After Overturning Roe v. Wade"
     description "Thousands are taking to the streets to protest the Supreme Court&#8217;s bombshell decision to abolish Roe v. Wade and overturn the constitutional right to abortion access. NBC News&#8217; Steve Patterson reports on the growing trend of Gen Zers protesting through social media by posting private information of Supreme Court Justices, known as &#8220;doxxing.&#8221; &#187; Subscribe to NBC News: http://nbcnews.to/SubscribeToNBC&#10;&#187; Watch more NBC video: http://bit.ly/MoreNBCNews&#10;&#10;NBC News Digital is a collection of innovative and powerful news brands that deliver compelling, diverse and engaging news stories. NBC News Digital features NBCNews.com, MSNBC.com, TODAY.com, Nightly News, Meet the Press, Dateline, and the existing apps and digital extensions of these respective properties.  We deliver the best in breaking news, live video coverage, original journalism and segments from your favorite NBC News Shows.&#10;&#10;Connect with NBC News Online!&#10;NBC News App: https://smart.link/5d0cd9df61b80&#10;Breaking News Alerts: https://link.nbcnews.com/join/5cj/breaking-news-signup?cid=sm_npd_nn_yt_bn-clip_190621&#10;Visit NBCNews.Com: http://nbcnews.to/ReadNBC&#10;Find NBC News on Facebook: http://nbcnews.to/LikeNBC&#10;Follow NBC News on Twitter: http://nbcnews.to/FollowNBC&#10;&#10;#tiktok #scotus #resist #activism #protests &#10;&#10;&#10;&#10;TikTok Users Are 'Doxxing' Supreme Court Justices After Overturning Roe v. Wade"
     channeltitle "NBC News"
     channelid "UCeY0bbntWzzVIaj2z3QigXg"
@@ -559,7 +559,7 @@ graph
     commentcount 3251
     duration "PT4M27S"
     indegree 19
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -577,7 +577,7 @@ graph
     commentcount 14873
     duration "PT2M3S"
     indegree 58
-    cluster 6
+    cluster 3
   ]
   node
   [
@@ -595,7 +595,7 @@ graph
     commentcount 10090
     duration "PT10M49S"
     indegree 49
-    cluster 1
+    cluster 3
   ]
   node
   [
@@ -613,7 +613,7 @@ graph
     commentcount -1
     duration "PT8H55M55S"
     indegree 6
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -631,7 +631,7 @@ graph
     commentcount 1004
     duration "PT4M37S"
     indegree 8
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -649,7 +649,7 @@ graph
     commentcount 1293
     duration "PT2M21S"
     indegree 10
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -667,7 +667,7 @@ graph
     commentcount 11730
     duration "PT6M6S"
     indegree 198
-    cluster 1
+    cluster 4
   ]
   node
   [
@@ -685,7 +685,7 @@ graph
     commentcount 989
     duration "PT2M21S"
     indegree 7
-    cluster 1
+    cluster 3
   ]
   node
   [
@@ -703,7 +703,7 @@ graph
     commentcount 1868
     duration "PT2M24S"
     indegree 18
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -721,7 +721,7 @@ graph
     commentcount 1047
     duration "PT6M31S"
     indegree 13
-    cluster 1
+    cluster 5
   ]
   node
   [
@@ -739,7 +739,7 @@ graph
     commentcount 755
     duration "PT11M54S"
     indegree 4
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -757,7 +757,7 @@ graph
     commentcount 1688
     duration "PT31M2S"
     indegree 6
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -775,7 +775,7 @@ graph
     commentcount 294
     duration "PT6M5S"
     indegree 5
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -793,7 +793,7 @@ graph
     commentcount 2996
     duration "PT2M30S"
     indegree 1
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -811,7 +811,7 @@ graph
     commentcount 4790
     duration "PT24M26S"
     indegree 42
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -829,7 +829,7 @@ graph
     commentcount 3938
     duration "PT4M50S"
     indegree 12
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -847,7 +847,7 @@ graph
     commentcount 2137
     duration "PT6M5S"
     indegree 20
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -865,7 +865,7 @@ graph
     commentcount -1
     duration "PT3M19S"
     indegree 13
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -883,7 +883,7 @@ graph
     commentcount 759
     duration "PT5M39S"
     indegree 5
-    cluster 1
+    cluster 3
   ]
   node
   [
@@ -901,7 +901,7 @@ graph
     commentcount 1568
     duration "PT5M15S"
     indegree 4
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -919,7 +919,7 @@ graph
     commentcount 1702
     duration "PT1M40S"
     indegree 31
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -937,7 +937,7 @@ graph
     commentcount 1843
     duration "PT2M3S"
     indegree 6
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -955,7 +955,7 @@ graph
     commentcount 725
     duration "PT11M36S"
     indegree 0
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -973,7 +973,7 @@ graph
     commentcount 2087
     duration "PT11M34S"
     indegree 19
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -991,7 +991,7 @@ graph
     commentcount 6960
     duration "PT3M34S"
     indegree 6
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -1009,7 +1009,7 @@ graph
     commentcount 1874
     duration "PT5M17S"
     indegree 6
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -1027,7 +1027,7 @@ graph
     commentcount 2567
     duration "PT4M32S"
     indegree 74
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -1045,7 +1045,7 @@ graph
     commentcount 5983
     duration "PT45M20S"
     indegree 62
-    cluster 2
+    cluster 1
   ]
   node
   [
@@ -1063,7 +1063,7 @@ graph
     commentcount 2097
     duration "PT1M44S"
     indegree 11
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -1081,7 +1081,7 @@ graph
     commentcount 6687
     duration "PT13M22S"
     indegree 50
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -1099,7 +1099,7 @@ graph
     commentcount 1085
     duration "PT5M41S"
     indegree 14
-    cluster 2
+    cluster 1
   ]
   node
   [
@@ -1117,7 +1117,7 @@ graph
     commentcount -1
     duration "PT12M31S"
     indegree 2
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -1135,7 +1135,7 @@ graph
     commentcount 532
     duration "PT11H55M"
     indegree 27
-    cluster 6
+    cluster 4
   ]
   node
   [
@@ -1171,7 +1171,7 @@ graph
     commentcount 5853
     duration "PT2M6S"
     indegree 36
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -1189,7 +1189,7 @@ graph
     commentcount 1474
     duration "PT9M33S"
     indegree 18
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -1207,7 +1207,7 @@ graph
     commentcount 1883
     duration "PT9M22S"
     indegree 46
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -1225,7 +1225,7 @@ graph
     commentcount 187
     duration "PT4M56S"
     indegree 21
-    cluster 1
+    cluster 3
   ]
   node
   [
@@ -1243,7 +1243,7 @@ graph
     commentcount -1
     duration "PT8M20S"
     indegree 24
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -1261,7 +1261,7 @@ graph
     commentcount 1872
     duration "PT6M24S"
     indegree 36
-    cluster 5
+    cluster 3
   ]
   node
   [
@@ -1279,7 +1279,7 @@ graph
     commentcount 992
     duration "PT3M1S"
     indegree 39
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -1297,7 +1297,7 @@ graph
     commentcount 5816
     duration "PT13M10S"
     indegree 104
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -1315,7 +1315,7 @@ graph
     commentcount 176
     duration "PT6M28S"
     indegree 3
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -1333,7 +1333,7 @@ graph
     commentcount 2825
     duration "PT2M59S"
     indegree 72
-    cluster 5
+    cluster 3
   ]
   node
   [
@@ -1351,7 +1351,7 @@ graph
     commentcount 506
     duration "PT1M55S"
     indegree 12
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -1369,7 +1369,7 @@ graph
     commentcount -1
     duration "PT5M46S"
     indegree 4
-    cluster 1
+    cluster 5
   ]
   node
   [
@@ -1387,7 +1387,7 @@ graph
     commentcount 4235
     duration "PT7M29S"
     indegree 6
-    cluster 2
+    cluster 5
   ]
   node
   [
@@ -1395,7 +1395,7 @@ graph
     label "fMZ3u3TLit4"
     step 0
     date "2022-05-05T13:52:40Z"
-    title "Who is Jane Roe? The woman behind the Roe v. Wade case e tongue sticking out lained simply"
+    title "Who is Jane Roe? The woman behind the Roe v. Wade case explained simply"
     description "Who is Jane Roe?&#13;&#10;&#13;&#10;Jane Roe is a pseudonym for Norma McCorvey, the woman part of the landmark case of Roe v. Wade where the U.S. Supreme Court ruled state laws banning abortion were unconstitutional.&#13;&#10;&#13;&#10;Read more: https://www.abc10.com/article/news/politics/roe-v-wade-debate-could-increase-young-voter-turnout-midterm-elections/509-5453a299-93b4-4233-b643-59f80854a719&#13;&#10;&#13;&#10;Subscribe at: https://goo.gl/vai8Eu&#13;&#10;Find ABC10 online: https://www.abc10.com/&#13;&#10;Sign up for our newsletter: https://www.abc10.com/email &#13;&#10;Stream ABC10 on Roku: https://channelstore.roku.com/details/63398/abc10&#13;&#10;Stream ABC10 on Amazon Fire: https://www.amazon.com/Gannett-Broadcasting-ABC-10-Fire/dp/B01E0H2KZQ&#13;&#10;Stream ABC10 on AppleTV: https://itunes.apple.com/us/app/abc10-news-weather-traffic/id469397853?mt=8&#13;&#10;Like ABC10 on Facebook: https://www.facebook.com/ABC10tv/ &#13;&#10;Like ABC10 on Instagram: https://www.instagram.com/abc10tv&#13;&#10;Follow ABC10 on Twitter: https://twitter.com/ABC10&#13;&#10;App download Android: https://play.google.com/store/apps/details?id=com.gannett.local.library.news.kxtv&#38;hl=en_US&#13;&#10;App download iPhone: https://apps.apple.com/us/app/abc10-news-weather-traffic/id469397853"
     channeltitle "ABC10"
     channelid "UCT350j4u6alUKyF9eu2bGug"
@@ -1405,7 +1405,7 @@ graph
     commentcount 415
     duration "PT2M26S"
     indegree 26
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -1413,7 +1413,7 @@ graph
     label "Fwc009Eho7Y"
     step 0
     date "2022-06-24T19:29:16Z"
-    title "Taylor Swift More Celebrities React After Roe v. Wade Decision | E! News"
+    title "Taylor Swift  More Celebrities React After Roe v. Wade Decision | E! News"
     description "Following the U.S. Supreme Court's decision to overturn the landmark ruling, stars including Keke Palmer, Padma Lakshmi, and Andy Cohen are speaking out and voicing their opinion.&#10;&#10;Full Story: https://www.eonline.com/news/1335672/padma-lakshmi-sophia-bush-and-more-stars-react-after-supreme-court-overturns-roe-v-wade&#10;&#10;#TaylorSwift #RoevWade #ENews&#10;&#10;Subscribe: http://bit.ly/enewssub&#10;&#10;About E! News:&#10;The E! News team brings you the latest breaking entertainment, fashion and Pop Culture news. Featuring exclusive segments, celebrity highlights, trend reports and more, the E! News channel is the only destination Pop Culture fans need to stay in the know.&#10;&#10;Download The E! News App For The Latest Celebrity News and Trending Videos: https://eonline.onelink.me/yMtl/4ead5017&#10;&#10;Your favorite shows, movies and more are here. Stream now on Peacock. https://bit.ly/PeacockEEnt&#10;&#10;Connect with E! News:&#10;Visit the E! News WEBSITE: http://eonli.ne/enews&#10;Like E! News on FACEBOOK: https://www.facebook.com/enews/&#10;Check out E! News on INSTAGRAM: https://www.instagram.com/enews/&#10;Follow E! News on TWITTER: https://twitter.com/enews&#10;&#10;Taylor Swift &#38; More Celebrities React After Roe v. Wade Decision | E! News&#10;http://www.youtube.com/user/enews"
     channeltitle "E! News"
     channelid "UCjDsbbzHgTrGc4Ff26TJtsA"
@@ -1423,7 +1423,7 @@ graph
     commentcount 598
     duration "PT1M53S"
     indegree 0
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -1441,7 +1441,7 @@ graph
     commentcount 9123
     duration "PT4M12S"
     indegree 62
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -1459,7 +1459,7 @@ graph
     commentcount 666
     duration "PT3M45S"
     indegree 9
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -1477,7 +1477,7 @@ graph
     commentcount 5624
     duration "PT42M46S"
     indegree 65
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -1485,7 +1485,7 @@ graph
     label "bSTgXPwIx-0"
     step 0
     date "2022-07-01T21:07:24Z"
-    title "OB-GYNs e tongue sticking out lain what overturning Roe v. Wade means for pregnant Americans: "
+    title "OB-GYNs explain what overturning Roe v. Wade means for pregnant Americans: "
     description "Pregnancy can come with dangerous complications, and doctors say without access to safe, legal abortion &#34;many, many people will die.&#34; Here's why.&#10;&#10;#news #roevwade #pregnancy &#10;&#10;CBS News Streaming Network is the premier 24/7 anchored streaming news service from CBS News and Stations, available free to everyone with access to the Internet. The CBS News Streaming Network is your destination for breaking news, live events and original reporting locally, nationally and around the globe. Launched in November 2014 as CBSN, the CBS News Streaming Network is available live in 91 countries and on 30 digital platforms and apps, as well as on CBSNews.com and Paramount+.&#10;&#10;Subscribe to the CBS News YouTube channel: https://youtube.com/cbsnews&#10;Watch CBS News: https://cbsn.ws/1PlLpZ7c&#10;Download the CBS News app: https://cbsn.ws/1Xb1WC8&#10;Follow CBS News on Instagram: https://www.instagram.com/cbsnews/&#10;Like CBS News on Facebook: https://facebook.com/cbsnews&#10;Follow CBS News on Twitter: https://twitter.com/cbsnews&#10;Subscribe to our newsletters: https://cbsn.ws/1RqHw7T&#10;Try Paramount+ free: https://bit.ly/2OiW1kZ&#10;&#10;For video licensing inquiries, contact: licensing@veritone.com"
     channeltitle "CBS News"
     channelid "UC8p1vwvWtl6T73JiExfWs1g"
@@ -1495,7 +1495,7 @@ graph
     commentcount 158
     duration "PT3M31S"
     indegree 0
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -1513,7 +1513,7 @@ graph
     commentcount 308
     duration "PT2M25S"
     indegree 5
-    cluster 2
+    cluster 5
   ]
   node
   [
@@ -1531,7 +1531,7 @@ graph
     commentcount 451
     duration "PT6M"
     indegree 19
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -1549,7 +1549,7 @@ graph
     commentcount 1577
     duration "PT3M10S"
     indegree 6
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -1567,7 +1567,7 @@ graph
     commentcount 973
     duration "PT2M45S"
     indegree 12
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -1603,7 +1603,7 @@ graph
     commentcount 4370
     duration "PT3M25S"
     indegree 13
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -1621,7 +1621,7 @@ graph
     commentcount 39
     duration "PT2M22S"
     indegree 0
-    cluster 2
+    cluster 5
   ]
   node
   [
@@ -1639,7 +1639,7 @@ graph
     commentcount 387
     duration "PT3M46S"
     indegree 4
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -1657,7 +1657,7 @@ graph
     commentcount 813
     duration "PT26M56S"
     indegree 65
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -1675,7 +1675,7 @@ graph
     commentcount 5389
     duration "PT6M6S"
     indegree 16
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -1693,7 +1693,7 @@ graph
     commentcount 2239
     duration "PT4M7S"
     indegree 1
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -1711,7 +1711,7 @@ graph
     commentcount -1
     duration "PT4M43S"
     indegree 16
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -1729,7 +1729,7 @@ graph
     commentcount 2741
     duration "PT7M59S"
     indegree 34
-    cluster 1
+    cluster 3
   ]
   node
   [
@@ -1747,7 +1747,7 @@ graph
     commentcount 3160
     duration "PT2M49S"
     indegree 0
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -1765,7 +1765,7 @@ graph
     commentcount 753
     duration "PT8M30S"
     indegree 2
-    cluster 4
+    cluster 2
   ]
   node
   [
@@ -1783,7 +1783,7 @@ graph
     commentcount 2905
     duration "PT4M11S"
     indegree 3
-    cluster 5
+    cluster 3
   ]
   node
   [
@@ -1801,7 +1801,7 @@ graph
     commentcount 3647
     duration "PT1M30S"
     indegree 27
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -1819,7 +1819,7 @@ graph
     commentcount 1465
     duration "PT6M35S"
     indegree 10
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -1827,7 +1827,7 @@ graph
     label "rHrxSUgLvvA"
     step 0
     date "2022-05-16T18:18:16Z"
-    title "Doctor E tongue sticking out lains Roe vs Wade - What Overturning Means for Health Autonomy in Pregnancy"
+    title "Doctor Explains Roe vs Wade - What Overturning Means for Health  Autonomy in Pregnancy"
     description "We're discussing Roe vs Wade, what it protects, and what an overturn of abortion protection could mean for the state of health and autonomy in pregnancy. &#10;&#10;FOLLOW ME ON SOCIAL:&#10;Instagram: https://www.instagram.com/mamadoctorjones&#10;Twitter: https://www.twitter.com/mamadoctorjones&#10;TikTok: https://www.tiktok.com/@mamadoctorjones&#10;&#10;Dr. Marta Perez's YouTube Channel: https://www.youtube.com/c/drmartaperez&#10;Texas Abortion Ban: https://www.youtube.com/watch?v=zjB5Jakytyc&#10;&#10;&#10;RESOURCES: &#10;- National Black Women&#8217;s Reproductive Justice: https://blackrj.org/wp-content/uploads/2016/02/Black-Women_and_HB2-_Fact_Sheet_FINAL.pdf&#10;- Center For Repro Rights Map: https://reproductiverights.org/maps/what-if-roe-fell/a&#10;- Socioeconomic Outcomes after Denial of Abortion, Ref 1: https://ajph.aphapublications.org/doi/10.2105/AJPH.2017.304247&#10;- Socioeconomic Outcomes after Denial of Abortion, Ref 2: https://www.nber.org/system/files/working_papers/w26662/w26662.pdf&#10;- Risk of Violence after Denial, Ref 3: https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-014-0144-z&#10;- Effects of Denial on Other Children, Ref 6: https://www.jpeds.com/action/showPdf?pii=S0022-3476%2818%2931297-6&#10;- Development &#38; Bonding after Denial, Ref 7: https://jamanetwork.com/journals/jamapediatrics/fullarticle/2698454&#10;- Physical Health &#38; Mortality after Denial, Ref 8: https://www.sciencedirect.com/science/article/pii/S104938671500158&#10;- Self Reported Physical Harms of Denial, Ref 9: https://www.acpjournals.org/doi/pdf/10.7326/M18-1666&#10;- UCSF Overview Document with Points &#38; References: https://www.ansirh.org/sites/default/files/publications/files/the_harms_of_denying_a_woman_a_wanted_abortion_4-16-2020.pdf&#10;- Guttmacher State Laws Explained: https://www.guttmacher.org/article/2021/10/26-states-are-certain-or-likely-ban-abortion-without-roe-heres-which-ones-and-why&#10;- Dr. Perez&#8217;s Article: https://thehill.com/opinion/healthcare/3480720-missing-from-roe-debate-pregnancy-is-not-health-neutral/&#10;&#10;+++++++++++++++++++++++++++++++++++++++++++++++++++++&#10;&#10;** The information in this video is intended to serve as educational information and is not intended or implied to be a substitute for professional medical advice, diagnosis or treatment. All content, including text, graphics, images, and information, contained in this video is for general information purposes only and does not replace a consultation with your own doctor/advanced practice provider. **"
     channeltitle "Mama Doctor Jones"
     channelid "UCrPhcbDwqWRc-3tteE2BS6g"
@@ -1837,7 +1837,7 @@ graph
     commentcount 9700
     duration "PT28M34S"
     indegree 22
-    cluster 2
+    cluster 1
   ]
   node
   [
@@ -1855,7 +1855,7 @@ graph
     commentcount 1798
     duration "PT2M44S"
     indegree 3
-    cluster 1
+    cluster 5
   ]
   node
   [
@@ -1873,7 +1873,7 @@ graph
     commentcount 1076
     duration "PT21M40S"
     indegree 2
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -1891,7 +1891,7 @@ graph
     commentcount 1557
     duration "PT8M59S"
     indegree 31
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -1909,7 +1909,7 @@ graph
     commentcount 1667
     duration "PT4M30S"
     indegree 6
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -1927,7 +1927,7 @@ graph
     commentcount 1573
     duration "PT10M20S"
     indegree 0
-    cluster 2
+    cluster 4
   ]
   node
   [
@@ -1945,7 +1945,7 @@ graph
     commentcount 777
     duration "PT1M45S"
     indegree 8
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -1963,7 +1963,7 @@ graph
     commentcount 2123
     duration "PT5M15S"
     indegree 8
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -1971,7 +1971,7 @@ graph
     label "E5A-Cn-uDqU"
     step 0
     date "2022-06-24T19:50:31Z"
-    title "Roe v. Wade overturne tongue sticking out US politicians, advocates react to historic decision"
+    title "Roe v. Wade overturned: US politicians, advocates react to historic decision"
     description "Moments after the U.S. Supreme Court released a decision to overturn Roe v. Wade and ban abortion rights, reaction poured in from supporters and opponents of the decision.&#10;&#10;U.S. House Speaker Nancy Pelosi started her weekly press conference by condemning the decision as a &#8220;slap in the face&#8221; for women, and said women&#8217;s reproductive rights will be &#8220;on the ballot&#8221; in the November midterm elections.&#10;&#10;Governors of western states including California, Oregon, and Washington released a pre-taped statement in response to the Court&#8217;s decision.&#10;&#10;California Governor Gavin Newsom said that &#8220;reproductive rights are under attack&#8221; while Washington Governor Jay Inslee said &#8220;the West Coast of the United States is going to stand strong.&#8221;&#10;&#10;New York City mayor Eric Adams vowed to make the city a &#8220;safe haven&#8221; for women seeking abortion and said the decision &#8220;constrains women&#8217;s freedoms and challenges the autonomy.&#8221;&#10;&#10;Massachusetts Senator Elizabeth Warren posted a video condemning the Supreme Court decision, saying &#8220;the Supreme Court is pushing goals that contradict the constitution and the basic rights of the American people.&#8221;&#10;&#10;On the other hand, a spokesperson for the Texas Alliance for Life, a nonprofit &#8220;committed to protecting the fundamental right to life of all innocent human beings&#8221; and opposed to abortion (except to preserve the mother&#8217;s life), said the organization was &#8220;very thrilled&#8221; with the decision.&#10;&#10;The president of the California-based pro-life organization 'The Right to Life League' said she was &#8220;personally thrilled&#8221; by the Court&#8217;s decision.&#10;&#10;For more info, please go to https://globalnews.ca/news/8886802/roe-v-wade-us-supreme-court-ruling-abortion/&#10;&#10;Subscribe to Global News Channel HERE: http://bit.ly/20fcXDc&#10;Like Global News on Facebook HERE: http://bit.ly/255GMJQ&#10;Follow Global News on Twitter HERE: http://bit.ly/1Toz8mt&#10;Follow Global News on Instagram HERE: https://bit.ly/2QZaZIB&#10;#GlobalNews"
     channeltitle "Global News"
     channelid "UChLtXXpo4Ge1ReTEboVvTDg"
@@ -1981,7 +1981,7 @@ graph
     commentcount 874
     duration "PT6M53S"
     indegree 5
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -1999,7 +1999,7 @@ graph
     commentcount 2110
     duration "PT5M11S"
     indegree 1
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -2017,7 +2017,7 @@ graph
     commentcount 1930
     duration "PT2M46S"
     indegree 5
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -2035,7 +2035,7 @@ graph
     commentcount 238
     duration "PT11M1S"
     indegree 1
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -2053,7 +2053,7 @@ graph
     commentcount 44
     duration "PT1M45S"
     indegree 0
-    cluster 5
+    cluster 3
   ]
   node
   [
@@ -2071,7 +2071,7 @@ graph
     commentcount 1379
     duration "PT14M9S"
     indegree 51
-    cluster 5
+    cluster 3
   ]
   node
   [
@@ -2089,7 +2089,7 @@ graph
     commentcount 168
     duration "PT10H32M18S"
     indegree 2
-    cluster 4
+    cluster 3
   ]
   node
   [
@@ -2107,7 +2107,7 @@ graph
     commentcount 9452
     duration "PT15M14S"
     indegree 5
-    cluster 2
+    cluster 5
   ]
   node
   [
@@ -2125,7 +2125,7 @@ graph
     commentcount 3692
     duration "PT10M38S"
     indegree 0
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -2143,7 +2143,7 @@ graph
     commentcount 763
     duration "PT2M24S"
     indegree 70
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -2161,7 +2161,7 @@ graph
     commentcount 10313
     duration "PT10M45S"
     indegree 84
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -2179,7 +2179,7 @@ graph
     commentcount 1954
     duration "PT2M56S"
     indegree 2
-    cluster 1
+    cluster 3
   ]
   node
   [
@@ -2197,7 +2197,7 @@ graph
     commentcount -1
     duration "PT6M12S"
     indegree 7
-    cluster 1
+    cluster 5
   ]
   node
   [
@@ -2215,7 +2215,7 @@ graph
     commentcount 21149
     duration "PT16M43S"
     indegree 0
-    cluster 4
+    cluster 3
   ]
   node
   [
@@ -2233,7 +2233,7 @@ graph
     commentcount 1508
     duration "PT3M4S"
     indegree 2
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -2251,7 +2251,7 @@ graph
     commentcount 158
     duration "PT4M22S"
     indegree 4
-    cluster 5
+    cluster 3
   ]
   node
   [
@@ -2269,7 +2269,7 @@ graph
     commentcount 485
     duration "PT3M38S"
     indegree 2
-    cluster 2
+    cluster 5
   ]
   node
   [
@@ -2287,7 +2287,7 @@ graph
     commentcount 1431
     duration "PT3M3S"
     indegree 0
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -2323,7 +2323,7 @@ graph
     commentcount 1273
     duration "PT6M20S"
     indegree 5
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -2341,7 +2341,7 @@ graph
     commentcount 85
     duration "PT25M2S"
     indegree 1
-    cluster 2
+    cluster 5
   ]
   node
   [
@@ -2359,7 +2359,7 @@ graph
     commentcount 2496
     duration "PT3M52S"
     indegree 64
-    cluster 1
+    cluster 5
   ]
   node
   [
@@ -2377,7 +2377,7 @@ graph
     commentcount 98
     duration "PT25M31S"
     indegree 1
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -2395,7 +2395,7 @@ graph
     commentcount 1176
     duration "PT3M8S"
     indegree 26
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -2413,7 +2413,7 @@ graph
     commentcount -1
     duration "PT6M58S"
     indegree 5
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -2421,7 +2421,7 @@ graph
     label "BuuL8Vvk0sU"
     step 0
     date "2022-07-07T00:24:48Z"
-    title "ROE V. WADE The Conversations Continue | TRAILER"
+    title "ROE V. WADE  The Conversations Continue | TRAILER"
     description "This Sunday, July 10, 2022 &#8212; Uncomfortable Conversations with Emmanuel Acho returns to discuss the overturning of Roe v Wade. &#10;&#10;Acho will be joined by Pastor Chelsea Smith of Churchome, TV analyst MJ Acosta-Ruiz, 4x Olympic Gold Medalist Sanya Richards-Ross &#38; pelvic floor and fertility therapist Dr. Yeni Abraham. &#10;&#10;This is a conversation our country cannot afford for you to miss. See you soon.&#10;&#10;Stay connected with Emmanuel! &#128276;&#10;&#10;WEBSITE &#10145;&#65039; https://emmanuelacho.com/&#10;TIKTOK &#10145;&#65039; https://www.tiktok.com/@emmanuelacho&#10;INSTAGRAM &#10145;&#65039; https://www.instagram.com/emmanuelacho/&#10;TWITTER &#10145;&#65039; https://twitter.com/EmmanuelAcho&#10;FACEBOOK &#10145;&#65039; https://www.facebook.com/theemmanuelacho&#10;&#10;Buy a copy of Emmanuel's books! &#128213;&#10;&#10;ILLOGICAL  &#10145;&#65039; http://www.illogicalbook.com/&#10;UNCOMFORTABLE CONVOS W/A BLACK MAN &#10145;&#65039; https://uncomfortableconvos.com/&#10;&#10;#UncomfortableConversations #roevwade"
     channeltitle "Emmanuel Acho"
     channelid "UC3DoYiL7X_N1Ta1o4HE9Mlg"
@@ -2431,7 +2431,7 @@ graph
     commentcount 144
     duration "PT51S"
     indegree 14
-    cluster 1
+    cluster 5
   ]
   node
   [
@@ -2449,7 +2449,7 @@ graph
     commentcount 410
     duration "PT3M52S"
     indegree 1
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -2457,7 +2457,7 @@ graph
     label "_Gx4MMh5upQ"
     step 0
     date "2022-06-25T01:00:15Z"
-    title "Supreme Court E tongue sticking out erts E tongue sticking out lain Roe v Wade Decision Ending Abortion | Strict Scrutiny Podcast"
+    title "Supreme Court Experts Explain Roe v Wade Decision Ending Abortion | Strict Scrutiny Podcast"
     description "Today the Supreme Court issued their opinion in Dobbs v. Jackson Women&#8217;s Health Organization. It overruled Roe v. Wade and Planned Parenthood v. Casey, meaning there is no long constitutional protection for the right to an abortion. Melissa, Leah, and Kate recap the horrific opinion by Justice Alito and the somehow-worse concurrence by Justice Thomas, and also read some passages straight from the dissent.&#10;&#10;You can find everything you need to fight back at https://www.votesaveamerica.com/roe, but here&#8217;s a few things you can do:&#10;&#10;The first, and most important thing we can do is minimize the harm that this ruling will inflict. One way to do that is to support our Immediate Impact Fund. All funds raised go directly to local abortion funds, independent clinics, and legal defense for patients: https://www.votesaveamerica.com/abortionfunds&#10;&#10;We have a lot of work to do to fight back, and one place to start is with our Fight Back Fund, which supports grassroots organizing and power-building organizations in states where we can make a difference, as well as supporting ballot measure campaigns in four states. By contributing, you can help local activists defend abortion rights this year and build towards the future: https://www.votesaveamerica.com/fightback&#10;&#10;Get to work supporting winnable races in 2022 where abortion is at stake&#8212;like the governor&#8217;s races in Pennsylvania, Michigan, or Arizona&#8212;by signing up for Midterm Madness: https://www.votesaveamerica.com/midterms&#10;&#10;RSVP for our live virtual event on Tuesday 6/28: After Roe: Reproductive and Civil Rights Move to States, where our expert panel incl Erin Ryan and Leah Litman, moderated by Shaniqua will discuss what this means, what comes next, and how we can fight back: https://www.mobilize.us/crooked/event/464892/&#10;&#10;Subscribe to our channel! https://www.youtube.com/crookedmedia?sub_confirmation=1&#10;&#10;Crooked believes that we need a better conversation about politics, culture, and the world around us&#8212;one that doesn&#8217;t just focus on what&#8217;s broken, but what we can do to fix it. At a time when it&#8217;s increasingly easy to feel cynical or hopeless, former Obama staffers Jon Favreau, Jon Lovett, and Tommy Vietor have created a place where people can have sane conversations that inform, entertain, and inspire action. In 2017 they started Crooked with Pod Save America&#8212;a no-bullshit conversation about politics. Since then, we continue to add shows, voices, and opportunities for activism, because it&#8217;s up to all of us to do our part to build a better world. That&#8217;s it. End of mission.&#10;&#10;Want some pep talks, the most important things to do/know, and the occasional dog pic? Shoot us a text at (323) 405-9944&#10;&#10;Written content at http://www.crooked.com&#10;Follow Crooked on Twitter https://twitter.com/crookedmedia&#10;Follow Crooked on Facebook https://www.facebook.com/CrookedMedia/ &#10;Follow Crooked on Instagram https://www.instagram.com/crookedmedia/"
     channeltitle "Crooked Media"
     channelid "UCKRoXz3hHAu2XL_k3Ef4vJQ"
@@ -2485,7 +2485,7 @@ graph
     commentcount 17314
     duration "PT6M32S"
     indegree 89
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -2503,7 +2503,7 @@ graph
     commentcount 464
     duration "PT1M26S"
     indegree 0
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -2521,7 +2521,7 @@ graph
     commentcount 1864
     duration "PT5M32S"
     indegree 20
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -2539,7 +2539,7 @@ graph
     commentcount 6353
     duration "PT10M29S"
     indegree 17
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -2557,7 +2557,7 @@ graph
     commentcount 176
     duration "PT2M"
     indegree 28
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -2575,7 +2575,7 @@ graph
     commentcount 121
     duration "PT2M8S"
     indegree 3
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -2593,7 +2593,7 @@ graph
     commentcount 255
     duration "PT24M25S"
     indegree 19
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -2601,7 +2601,7 @@ graph
     label "FdWPf6OBKyQ"
     step 0
     date "2022-06-24T16:29:30Z"
-    title "House Republicans address Roe v Wade ruling"
+    title "House Republicans address  Roe v Wade ruling"
     description "House GOP leaders are expected to deliver remarks following Supreme Court rulings.&#10;&#10;Subscribe to Fox News! https://bit.ly/2vaBUvAS&#10;Watch more Fox News Video: http://video.foxnews.com&#10;Watch Fox News Channel Live: http://www.foxnewsgo.com/&#10;&#10;FOX News Channel (FNC) is a 24-hour all-encompassing news service delivering breaking news as well as political and business news. The number one network in cable, FNC has been the most-watched television news channel for 18 consecutive years. According to a 2020 Brand Keys Consumer Loyalty Engagement Index report, FOX News is the top brand in the country for morning and evening news coverage. A 2019 Suffolk University poll named FOX News as the most trusted source for television news or commentary, while a 2019 Brand Keys Emotion Engagement Analysis survey found that FOX News was the most trusted cable news brand. A 2017 Gallup/Knight Foundation survey also found that among Americans who could name an objective news source, FOX News was the top-cited outlet. Owned by FOX Corporation, FNC is available in nearly 90 million homes and dominates the cable news landscape, routinely notching the top ten programs in the genre.&#10;&#10;Watch full episodes of your favorite shows&#10;The Five: http://video.foxnews.com/playlist/longform-the-five/&#10;Special Report with Bret Baier: http://video.foxnews.com/playlist/longform-special-report/&#10;Fox News Primetime: https://video.foxnews.com/playlist/on-air-fox-news-primetime/&#10;Tucker Carlson Tonight: http://video.foxnews.com/playlist/longform-tucker-carlson-tonight/&#10;Hannity:  http://video.foxnews.com/playlist/longform-hannity/&#10;The Ingraham Angle: http://video.foxnews.com/playlist/longform-the-ingraham-angle/&#10;Fox News @ Night: http://video.foxnews.com/playlist/longform-fox-news-night/&#10;&#10;Follow Fox News on Facebook: https://www.facebook.com/FoxNews/&#10;Follow Fox News on Twitter: https://twitter.com/FoxNews/&#10;Follow Fox News on Instagram: https://www.instagram.com/foxnews/"
     channeltitle "Fox News"
     channelid "UCXIJgqnII2ZOINSWNOGFThA"
@@ -2611,7 +2611,7 @@ graph
     commentcount 2317
     duration "PT22M21S"
     indegree 7
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -2647,7 +2647,7 @@ graph
     commentcount 2889
     duration "PT10M35S"
     indegree 12
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -2665,7 +2665,7 @@ graph
     commentcount 2237
     duration "PT25S"
     indegree 0
-    cluster 6
+    cluster 4
   ]
   node
   [
@@ -2673,7 +2673,7 @@ graph
     label "qY5Q8uUbZrE"
     step 0
     date "2022-06-25T10:00:26Z"
-    title "Roe v. Wade was gutte tongue sticking out Turley"
+    title "Roe v. Wade was gutted: Turley"
     description "Fox News contributor Jonathan Turley breaks down the implications of the Supreme Court overturning Roe v. Wade&#8217;s abortion legal precedent on &#8216;Hannity.&#8217; #FoxNews #Hannity &#10;&#10;Subscribe to Fox News! https://bit.ly/2vaBUvAS&#10;Watch more Fox News Video: http://video.foxnews.com&#10;Watch Fox News Channel Live: http://www.foxnewsgo.com/&#10;&#10;FOX News Channel (FNC) is a 24-hour all-encompassing news service delivering breaking news as well as political and business news. The number one network in cable, FNC has been the most-watched television news channel for 18 consecutive years. According to a 2020 Brand Keys Consumer Loyalty Engagement Index report, FOX News is the top brand in the country for morning and evening news coverage. A 2019 Suffolk University poll named FOX News as the most trusted source for television news or commentary, while a 2019 Brand Keys Emotion Engagement Analysis survey found that FOX News was the most trusted cable news brand. A 2017 Gallup/Knight Foundation survey also found that among Americans who could name an objective news source, FOX News was the top-cited outlet. Owned by FOX Corporation, FNC is available in nearly 90 million homes and dominates the cable news landscape, routinely notching the top ten programs in the genre.&#10;&#10;Watch full episodes of your favorite shows&#10;The Five: http://video.foxnews.com/playlist/longform-the-five/&#10;Special Report with Bret Baier: http://video.foxnews.com/playlist/longform-special-report/&#10;Fox News Primetime: https://video.foxnews.com/playlist/on-air-fox-news-primetime/&#10;Tucker Carlson Tonight: http://video.foxnews.com/playlist/longform-tucker-carlson-tonight/&#10;Hannity:  http://video.foxnews.com/playlist/longform-hannity/&#10;The Ingraham Angle: http://video.foxnews.com/playlist/longform-the-ingraham-angle/&#10;Fox News @ Night: http://video.foxnews.com/playlist/longform-fox-news-night/&#10;&#10;Follow Fox News on Facebook: https://www.facebook.com/FoxNews/&#10;Follow Fox News on Twitter: https://twitter.com/FoxNews/&#10;Follow Fox News on Instagram: https://www.instagram.com/foxnews/"
     channeltitle "Fox News"
     channelid "UCXIJgqnII2ZOINSWNOGFThA"
@@ -2683,7 +2683,7 @@ graph
     commentcount 1576
     duration "PT7M21S"
     indegree 3
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -2701,7 +2701,7 @@ graph
     commentcount 2799
     duration "PT2M41S"
     indegree 9
-    cluster 2
+    cluster 5
   ]
   node
   [
@@ -2719,7 +2719,7 @@ graph
     commentcount 27965
     duration "PT18M26S"
     indegree 68
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -2737,7 +2737,7 @@ graph
     commentcount 1412
     duration "PT3M30S"
     indegree 0
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -2745,7 +2745,7 @@ graph
     label "CezlmUwMXNo"
     step 0
     date "2021-03-15T13:00:03Z"
-    title "Roe v. Wade Case Brief Summary | Law Case E tongue sticking out lained"
+    title "Roe v. Wade Case Brief Summary | Law Case Explained"
     description "Get more case briefs explained with Quimbee. Quimbee has over 16,300 case briefs (and counting) keyed to 223 casebooks &#9658; https://www.quimbee.com/case-briefs-overview&#10; &#10;Roe v. Wade | 410 U.S. 113 (1973)&#10;&#10;In 1973, the United States Supreme Court issued its decision in Roe versus Wade. The effect of the Court&#8217;s ruling was immediate and far-reaching, expanding the right to privacy under the Fourteenth Amendment and altering the legal landscape on the issue of abortion across the country. &#10;&#10;Norma McCorvey, a single, pregnant woman in Texas, sought an abortion. At the time, Texas law prohibited abortions unless performed or obtained to save the life of the mother. To protect her privacy, McCorvey filed suit in federal court under the name Jane Roe. The defendant was Henry Wade, the district attorney in the Texas county where McCorvey sought the abortion. &#10;&#10;Roe argued that the abortion ban was unconstitutional and asked the court to issue an order that would stop Texas from enforcing the law.&#10;&#10;The district court found the Texas restriction on abortion unconstitutional on the grounds that the statute was too vague and overly broad and impinged on the rights reserved to the people under the Ninth Amendment. However, the court didn&#8217;t issue an injunction to bar Texas from enforcing its ban, so Roe&#8217;s options in Texas didn&#8217;t really change. Arguing that the district court&#8217;s lack of injunctive relief was insufficient, Roe appealed directly to the Supreme Court. &#10; &#10;Want more details on this case? Get the rule of law, issues, holding and reasonings, and more case facts here: https://www.quimbee.com/cases/roe-v-wade&#10; &#10;The Quimbee App features over 16,300 case briefs keyed to 223 casebooks. Try it free for 7 days! &#9658; https://www.quimbee.com/case-briefs-overview&#10; &#10;Have Questions about this Case? Submit your questions and get answers from a real attorney here: https://www.quimbee.com/cases/roe-v-wade&#10; &#10;Did we just become best friends? Stay connected to Quimbee here: Subscribe to our YouTube Channel &#9658; https://www.youtube.com/subscription_center?add_user=QuimbeeDotCom&#10;Quimbee Case Brief App &#9658; https://www.quimbee.com/case-briefs-overview&#10;Facebook &#9658; https://www.facebook.com/quimbeedotcom/&#10;Twitter &#9658; https://twitter.com/quimbeedotcom&#10;#casebriefs #lawcases #casesummaries"
     channeltitle "Quimbee"
     channelid "UCVTrDBjyx2YUs-IyqTn2AVg"
@@ -2755,7 +2755,7 @@ graph
     commentcount 690
     duration "PT1M26S"
     indegree 56
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -2773,7 +2773,7 @@ graph
     commentcount 689
     duration "PT2M17S"
     indegree 3
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -2791,7 +2791,7 @@ graph
     commentcount 2952
     duration "PT2M23S"
     indegree 3
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -2809,7 +2809,7 @@ graph
     commentcount 2761
     duration "PT4H21M56S"
     indegree 19
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -2827,7 +2827,7 @@ graph
     commentcount 787
     duration "PT3M11S"
     indegree 3
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -2835,7 +2835,7 @@ graph
     label "-ek7PbxqrPc"
     step 0
     date "2022-06-24T15:34:38Z"
-    title "Nancy Pelosi Criticizes Of Supreme Court Overturning Roe v. Wade"
+    title "Nancy Pelosi Criticizes  Of Supreme Court Overturning Roe v. Wade"
     description "House Speaker Nancy Pelosi, D-Calif., discussed the Supreme Court's decision to overturn Roe v. Wade and warned that Republicans could &#34;criminalize reproductive freedom&#34; in Congress.&#10;&#10;&#187; Subscribe to NBC News: http://nbcnews.to/SubscribeToNBC&#10;&#187; Watch more NBC video: http://bit.ly/MoreNBCNews&#10;&#10;NBC News Digital is a collection of innovative and powerful news brands that deliver compelling, diverse and engaging news stories. NBC News Digital features NBCNews.com, MSNBC.com, TODAY.com, Nightly News, Meet the Press, Dateline, and the existing apps and digital extensions of these respective properties.  We deliver the best in breaking news, live video coverage, original journalism and segments from your favorite NBC News Shows.&#10;&#10;Connect with NBC News Online!&#10;NBC News App: https://smart.link/5d0cd9df61b80&#10;Breaking News Alerts: https://link.nbcnews.com/join/5cj/breaking-news-signup?cid=sm_npd_nn_yt_bn-clip_190621&#10;Visit NBCNews.Com: http://nbcnews.to/ReadNBC&#10;Find NBC News on Facebook: http://nbcnews.to/LikeNBC&#10;Follow NBC News on Twitter: http://nbcnews.to/FollowNBC&#10;&#10;#Pelosi #RoevWade #SupremeCourt"
     channeltitle "NBC News"
     channelid "UCeY0bbntWzzVIaj2z3QigXg"
@@ -2845,7 +2845,7 @@ graph
     commentcount 1068
     duration "PT3M33S"
     indegree 0
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -2863,7 +2863,7 @@ graph
     commentcount 217
     duration "PT7M8S"
     indegree 1
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -2871,7 +2871,7 @@ graph
     label "q8c5j74Onx4"
     step 0
     date "2022-06-25T07:17:27Z"
-    title "Roe v. Wade Overturne tongue sticking out Whats Next?"
+    title "Roe v. Wade Overturned: Whats Next?"
     description "Political leaders are calling people to act and not give up, after the Supreme Court overturned Roe v. Wade.  But what can people do and what will it take to overturn it? Ian Cull reports.&#10;&#10;Stay connected: &#10;Follow us on Twitter: http://www.twitter.com/nbcbayarea &#10;Like us on Facebook: http://www.facebook.com/nbcbayarea &#10;Follow us on Instagram: http://www.instagram.com/nbcbayarea &#10;Follow us on TikTok: https://www.tiktok.com/@nbcbayarea &#10;&#10;Catch up on all the day's news: &#10;http://www.nbcbayarea.com &#10;&#10;Download our mobile app: &#10;On iOS: http://nbcbay.com/R1BhqYM &#10;On Android: http://nbcbay.com/rUcA97h&#10;&#10;Watch us on OTT:&#10;Add our channel on Roku: https://bit.ly/3ySK60j&#10;Download our app on Amazon Fire TV: https://amzn.to/3FmmiEA"
     channeltitle "NBC Bay Area"
     channelid "UCmKKVuZrBfSGiuvtOuipoDA"
@@ -2881,7 +2881,7 @@ graph
     commentcount 9664
     duration "PT2M33S"
     indegree 0
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -2899,7 +2899,7 @@ graph
     commentcount 507
     duration "PT1M49S"
     indegree 0
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -2917,7 +2917,7 @@ graph
     commentcount 484
     duration "PT8M56S"
     indegree 3
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -2935,7 +2935,7 @@ graph
     commentcount 258
     duration "PT6M39S"
     indegree 1
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -2953,7 +2953,7 @@ graph
     commentcount 533
     duration "PT1M40S"
     indegree 0
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -2971,7 +2971,7 @@ graph
     commentcount 9078
     duration "PT5M16S"
     indegree 1
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -3007,7 +3007,7 @@ graph
     commentcount 3447
     duration "PT4M35S"
     indegree 2
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -3025,7 +3025,7 @@ graph
     commentcount 546
     duration "PT2M17S"
     indegree 6
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -3043,7 +3043,7 @@ graph
     commentcount 23763
     duration "PT8M8S"
     indegree 90
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -3051,7 +3051,7 @@ graph
     label "Btrn8Z9n_Lo"
     step 0
     date "2022-06-25T03:20:03Z"
-    title "Supreme Court Roe v. Wade E tongue sticking out lained | In the Loop"
+    title "Supreme Court Roe v. Wade Explained | In the Loop"
     description "Supreme Court Roe v. Wade explained:&#10;&#10;The Supreme Court on Friday stripped away the nation's constitutional protections for abortion that had stood for nearly a half-century. The decision by the court's conservative majority overturned the landmark Roe v. Wade ruling and is expected to lead to abortion bans in roughly half the states.&#10;&#10;Jenson Strock breaks down the history behind Roe v. Wade and what could come next.&#10;&#10;READ MORE: https://bit.ly/3QKfqXH&#10;&#10;Subscribe to WTOL 11 - https://bit.ly/32odAkM &#10;&#10;Connect with us on social media: &#10;Go 419 Facebook - https://www.facebook.com/Go419/ &#10;Facebook - https://www.facebook.com/wtol11/ &#10;Twitter - https://twitter.com/WTOL11Toledo/ &#10;Instagram - https://www.instagram.com/wtol11toledo/ &#10;WTOL 11 newsletter - https://wtol.com/email &#10;WTOL 11 News app - https://interactive.wtol.com/appredirect/&#10;WTOL 11 Weather app - http://onelink.to/wtol11weather"
     channeltitle "WTOL11"
     channelid "UCrLGxsBRktzKo-KNWC-nfEw"
@@ -3061,7 +3061,7 @@ graph
     commentcount -1
     duration "PT5M18S"
     indegree 40
-    cluster 5
+    cluster 3
   ]
   node
   [
@@ -3079,7 +3079,7 @@ graph
     commentcount 1208
     duration "PT3M57S"
     indegree 0
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -3087,7 +3087,7 @@ graph
     label "CwpbZqSdzb4"
     step 0
     date "2021-10-05T01:27:15Z"
-    title "ABC News Exclusive: breaks her silence"
+    title "ABC News Exclusive:  breaks her silence"
     description "ABC News' Linsey Davis sits down with the woman at the center of the landmark 'Roe vs. Wade' abortion case, Shelley Thornton, also known as 'Baby Roe.'"
     channeltitle "ABC News"
     channelid "UCBi2mrWuNuyYy4gbM6fU18Q"
@@ -3097,7 +3097,7 @@ graph
     commentcount 7034
     duration "PT13M16S"
     indegree 256
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -3115,7 +3115,7 @@ graph
     commentcount 3123
     duration "PT1M58S"
     indegree 3
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -3133,7 +3133,7 @@ graph
     commentcount 2324
     duration "PT4M1S"
     indegree 4
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -3141,7 +3141,7 @@ graph
     label "Xow1oNh26Do"
     step 0
     date "2022-06-27T23:04:13Z"
-    title "Malcolm Jamal Warner Says Is White Survival - CH News Show"
+    title "Malcolm Jamal Warner Says  Is White Survival - CH News Show"
     description "https://www.comedyhype.com/ - For a new episode of 'The Comedy Hype News Show', the cast Pierre, Capone, and Vanessa Fraction react to the news of Roe V. Wade being overturned. Actor Malcolm Jamal Warner would share his reaction to the news and blamed 'White Survival' as the reason. Instagram: @ComedyHype &#38; Twitter: @ComedyHype_"
     channeltitle "Comedy Hype"
     channelid "UCABZ7Z6SBTp4IsARDceOq7w"
@@ -3151,7 +3151,7 @@ graph
     commentcount 3487
     duration "PT19M38S"
     indegree 5
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -3169,7 +3169,7 @@ graph
     commentcount 138
     duration "PT2H44M36S"
     indegree 1
-    cluster 2
+    cluster 5
   ]
   node
   [
@@ -3187,7 +3187,7 @@ graph
     commentcount 5866
     duration "PT51S"
     indegree 6
-    cluster 1
+    cluster 5
   ]
   node
   [
@@ -3205,7 +3205,7 @@ graph
     commentcount 1317
     duration "PT4M12S"
     indegree 4
-    cluster 5
+    cluster 2
   ]
   node
   [
@@ -3223,7 +3223,7 @@ graph
     commentcount 624
     duration "PT2H6M15S"
     indegree 1
-    cluster 6
+    cluster 3
   ]
   node
   [
@@ -3241,7 +3241,7 @@ graph
     commentcount 197
     duration "PT1M39S"
     indegree 1
-    cluster 1
+    cluster 5
   ]
   node
   [
@@ -3259,7 +3259,7 @@ graph
     commentcount 44
     duration "PT2H41M16S"
     indegree 1
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -3277,7 +3277,7 @@ graph
     commentcount 13157
     duration "PT10M14S"
     indegree 16
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -3295,7 +3295,7 @@ graph
     commentcount 4326
     duration "PT6M29S"
     indegree 76
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -3313,7 +3313,7 @@ graph
     commentcount 1738
     duration "PT3M30S"
     indegree 4
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -3331,7 +3331,7 @@ graph
     commentcount 17016
     duration "PT6M17S"
     indegree 4
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -3349,7 +3349,7 @@ graph
     commentcount 28
     duration "PT2M21S"
     indegree 0
-    cluster 5
+    cluster 3
   ]
   node
   [
@@ -3367,7 +3367,7 @@ graph
     commentcount 2173
     duration "PT2M9S"
     indegree 0
-    cluster 1
+    cluster 3
   ]
   node
   [
@@ -3385,7 +3385,7 @@ graph
     commentcount -1
     duration "PT5M43S"
     indegree 2
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -3403,7 +3403,7 @@ graph
     commentcount 2002
     duration "PT4M20S"
     indegree 5
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -3421,7 +3421,7 @@ graph
     commentcount 3663
     duration "PT9M17S"
     indegree 0
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -3457,7 +3457,7 @@ graph
     commentcount 1565
     duration "PT13M43S"
     indegree 10
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -3475,7 +3475,7 @@ graph
     commentcount 149
     duration "PT1M28S"
     indegree 0
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -3511,7 +3511,7 @@ graph
     commentcount 206
     duration "PT13M48S"
     indegree 0
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -3519,7 +3519,7 @@ graph
     label "vf5LJJR3G60"
     step 0
     date "2022-06-21T22:13:27Z"
-    title "Group vows if Roe v. Wade is overturned | Rush Hour"
+    title "Group vows  if Roe v. Wade is overturned | Rush Hour"
     description "Federal authorities are investigating a wave of attacks across the country on anti-abortion crisis pregnancy centers with a group calling itself Jane&#8217;s Revenge claiming responsibility. &#10;&#10;#Roe #abortion #SCOTUS&#10;&#10;Rush Hour is a no fluff, no filler newscast hosted by Nichole Berlie that taps into a nationwide network of thousands of journalists to get you up-to-the-minute news from across the country.&#10;&#10;NewsNation is your source for fact-based, unbiased news for all America. &#10;&#10;Find us online: https://www.newsnationnow.com/&#10;Get our app: https://bit.ly/3AbFrG3&#10;Watch us on TV or via streaming: https://bit.ly/3oxRmf5"
     channeltitle "NewsNation"
     channelid "UCCjG8NtOig0USdrT5D1FpxQ"
@@ -3529,7 +3529,7 @@ graph
     commentcount 360
     duration "PT4M9S"
     indegree 2
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -3547,7 +3547,7 @@ graph
     commentcount 193
     duration "PT6M42S"
     indegree 1
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -3565,7 +3565,7 @@ graph
     commentcount 1510
     duration "PT3M4S"
     indegree 5
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -3583,7 +3583,7 @@ graph
     commentcount 2504
     duration "PT3M5S"
     indegree 5
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -3601,7 +3601,7 @@ graph
     commentcount 5
     duration "PT1M43S"
     indegree 0
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -3619,7 +3619,7 @@ graph
     commentcount 1520
     duration "PT32M49S"
     indegree 9
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -3637,7 +3637,7 @@ graph
     commentcount -1
     duration "PT3M35S"
     indegree 0
-    cluster 1
+    cluster 5
   ]
   node
   [
@@ -3655,7 +3655,7 @@ graph
     commentcount 319
     duration "PT2M20S"
     indegree 1
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -3673,7 +3673,7 @@ graph
     commentcount 233
     duration "PT3M1S"
     indegree 0
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -3691,7 +3691,7 @@ graph
     commentcount -1
     duration "PT14M38S"
     indegree 16
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -3709,7 +3709,7 @@ graph
     commentcount 1716
     duration "PT4M32S"
     indegree 1
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -3727,7 +3727,7 @@ graph
     commentcount -1
     duration "PT29M40S"
     indegree 7
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -3745,7 +3745,7 @@ graph
     commentcount 329
     duration "PT2M10S"
     indegree 2
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -3763,7 +3763,7 @@ graph
     commentcount 349
     duration "PT15M25S"
     indegree 0
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -3781,7 +3781,7 @@ graph
     commentcount 607
     duration "PT2M17S"
     indegree 6
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -3799,7 +3799,7 @@ graph
     commentcount 312
     duration "PT2M25S"
     indegree 1
-    cluster 1
+    cluster 4
   ]
   node
   [
@@ -3817,7 +3817,7 @@ graph
     commentcount 4056
     duration "PT8M5S"
     indegree 1
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -3835,7 +3835,7 @@ graph
     commentcount -1
     duration "PT25M1S"
     indegree 0
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -3853,7 +3853,7 @@ graph
     commentcount 2530
     duration "PT3M8S"
     indegree 0
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -3861,7 +3861,7 @@ graph
     label "0p9DdNIHP0Q"
     step 0
     date "2022-06-20T20:42:34Z"
-    title "Before Roe v. Wade, There Were an Underground Abortion Network | Amanpour and Company"
+    title "Before Roe v. Wade, There Were  an Underground Abortion Network | Amanpour and Company"
     description "The Supreme Court will soon make a final ruling on Roe v. Wade and the future of abortion rights in America. &#34;The Janes&#34; is a new HBO documentary that takes us back to the late 60s and early 70s, when abortion was illegal and the Jane Underground Collective provided a space for pregnant women in Chicago to seek help. Heather Booth founded Jane in 1969 while helping a friend find an abortion doctor. Jeanne Galatzer-Levy was a Jane member arrested and charged with conspiracy to commit abortion when the clinic was raided in 1972. The charges were dropped when the court ruled on Roe v. Wade. Booth and Galatzer-Levy speak with Hari Sreenivasan about their work -- and America, post-Roe.&#10;&#10;Originally aired on June 20, 2022.&#10;&#10;----------------------------------------------------------------------------------------------------------------------------------------&#10;&#10;Subscribe to the Amanpour and Company. channel here: https://bit.ly/2EMIkTJ&#10;&#10;Subscribe to our daily newsletter to find out who's on each night: http://www.pbs.org/wnet/amanpour-and-company/newsletter/&#10;&#10;For more from Amanpour and Company, including full episodes, click here:  https://to.pbs.org/2NBFpjf&#10;&#10;Like Amanpour and Company on Facebook: https://bit.ly/2HNx3EF&#10;&#10;Follow Amanpour and Company on Twitter: https://bit.ly/2HLpjTI&#10;&#10;Watch Amanpour and Company weekdays on PBS (check local listings).&#10;&#10;Amanpour and Company features wide-ranging, in-depth conversations with global thought leaders and cultural influencers on the issues and trends impacting the world each day, from politics, business and technology to arts, science and sports. Christiane Amanpour leads the conversation on global and domestic news from London with contributions by prominent journalists Walter Isaacson, Michel Martin, Alicia Menendez and Hari Sreenivasan from the Tisch WNET Studios at Lincoln Center in New York City.&#10;&#10;#amanpourpbs"
     channeltitle "Amanpour and Company"
     channelid "UCqqjiYoD0nP1fR6vf5AcSfQ"
@@ -3889,7 +3889,7 @@ graph
     commentcount 7557
     duration "PT5M46S"
     indegree 2
-    cluster 2
+    cluster 5
   ]
   node
   [
@@ -3907,7 +3907,7 @@ graph
     commentcount 1468
     duration "PT7M20S"
     indegree 10
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -3925,7 +3925,7 @@ graph
     commentcount 7891
     duration "PT5M6S"
     indegree 8
-    cluster 1
+    cluster 6
   ]
   node
   [
@@ -3943,7 +3943,7 @@ graph
     commentcount 244
     duration "PT1M20S"
     indegree 0
-    cluster 2
+    cluster 5
   ]
   node
   [
@@ -3961,7 +3961,7 @@ graph
     commentcount 626
     duration "PT7M31S"
     indegree 0
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -3979,7 +3979,7 @@ graph
     commentcount -1
     duration "PT2M9S"
     indegree 3
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -3987,7 +3987,7 @@ graph
     label "l1O8Nt4VlC4"
     step 0
     date "2022-07-02T18:13:55Z"
-    title "Roe V. Wade overturne tongue sticking out Protesters in Australia, France chant against US Supreme Court decision"
+    title "Roe V. Wade overturned: Protesters in Australia, France chant against US Supreme Court decision"
     description "Thousands of Australians joined protests across the country on Saturday against the U.S. Supreme Court's overturning of women's constitutional right to abortion.&#10;&#10;&#34;We're here to stand up for women's rights in Australia and around the world. Millions of women in the United States have had their rights stripped from them and we're angry about that,&#34; said Liz Walsh, one of the organizers of the protest in Melbourne, with police estimating the attendance at around 15,000.&#10;&#10;As in the United States now, in Australia, abortion laws are set by states. The country's most populous state, New South Wales, only legalized abortion in 2019.&#10;&#10;In France, hundreds of Parisians protested the U.S. Supreme Court&#8217;s decision on Saturday.&#10;&#10;Protesters in Paris marched towards the Eiffel Tower, chanting, &#34;Solidarity with women all over the world,&#34; and holding up placards with slogans like, &#34;My body = my decision.&#34;&#10;&#10;Abortion was legalized in France in 1975, pushed by President Valery Giscard d'Estaing's feminist health minister, Simone Veil.&#10;&#10;For more info, please go to https://globalnews.ca/news/8962763/medication-abortion-explainer/&#10;&#10;Subscribe to Global News Channel HERE: http://bit.ly/20fcXDc&#10;Like Global News on Facebook HERE: http://bit.ly/255GMJQ&#10;Follow Global News on Twitter HERE: http://bit.ly/1Toz8mt&#10;Follow Global News on Instagram HERE: https://bit.ly/2QZaZIB&#10;#GlobalNews"
     channeltitle "Global News"
     channelid "UChLtXXpo4Ge1ReTEboVvTDg"
@@ -3997,7 +3997,7 @@ graph
     commentcount 173
     duration "PT2M16S"
     indegree 0
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -4015,7 +4015,7 @@ graph
     commentcount 266
     duration "PT8M46S"
     indegree 1
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -4033,7 +4033,7 @@ graph
     commentcount 13890
     duration "PT9M49S"
     indegree 72
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -4041,7 +4041,7 @@ graph
     label "QDR14dqESbc"
     step 0
     date "2022-06-24T22:25:57Z"
-    title "Overturning Roe v. Wade: Bishop Brennan"
+    title "Overturning Roe v. Wade:  Bishop Brennan"
     description "The overturning of Roe v. Wade equips the pro-life movement to keep pressing for a culture change that acknowledges life begins at conception, Bishop Robert Brennan of Brooklyn said Friday, June 24."
     channeltitle "Currents News"
     channelid "UC0b_mHEed-q-nWYqxHpBQJw"
@@ -4069,7 +4069,7 @@ graph
     commentcount 122
     duration "PT4M55S"
     indegree 19
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -4087,7 +4087,7 @@ graph
     commentcount 128
     duration "PT6M4S"
     indegree 0
-    cluster 6
+    cluster 5
   ]
   node
   [
@@ -4105,7 +4105,7 @@ graph
     commentcount 373
     duration "PT31M29S"
     indegree 11
-    cluster 2
+    cluster 5
   ]
   node
   [
@@ -4123,7 +4123,7 @@ graph
     commentcount 839
     duration "PT1M29S"
     indegree 13
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -4141,7 +4141,7 @@ graph
     commentcount 4047
     duration "PT11M24S"
     indegree 14
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -4177,7 +4177,7 @@ graph
     commentcount 455
     duration "PT2M6S"
     indegree 1
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -4195,7 +4195,7 @@ graph
     commentcount 5551
     duration "PT5M41S"
     indegree 30
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -4213,7 +4213,7 @@ graph
     commentcount 333
     duration "PT4M45S"
     indegree 3
-    cluster 1
+    cluster 5
   ]
   node
   [
@@ -4231,7 +4231,7 @@ graph
     commentcount 108
     duration "PT14M57S"
     indegree 1
-    cluster 1
+    cluster 5
   ]
   node
   [
@@ -4249,7 +4249,7 @@ graph
     commentcount 770
     duration "PT2M12S"
     indegree 0
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -4267,7 +4267,7 @@ graph
     commentcount -1
     duration "PT2M40S"
     indegree 0
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -4285,7 +4285,7 @@ graph
     commentcount 1628
     duration "PT1M8S"
     indegree 0
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -4303,7 +4303,7 @@ graph
     commentcount 427
     duration "PT9M37S"
     indegree 2
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -4321,7 +4321,7 @@ graph
     commentcount 4072
     duration "PT43S"
     indegree 0
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -4339,7 +4339,7 @@ graph
     commentcount 1271
     duration "PT1H23M26S"
     indegree 2
-    cluster 2
+    cluster 1
   ]
   node
   [
@@ -4357,7 +4357,7 @@ graph
     commentcount 572
     duration "PT1H19M17S"
     indegree 20
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -4375,7 +4375,7 @@ graph
     commentcount 1046
     duration "PT3M30S"
     indegree 1
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -4383,7 +4383,7 @@ graph
     label "raQmwDgYOUw"
     step 0
     date "2022-06-25T02:00:19Z"
-    title "Roe v. Wade overturne tongue sticking out Could Canada limit abortion access?"
+    title "Roe v. Wade overturned: Could Canada limit abortion access?"
     description "As Canadians watched the news unfold south of the border about the overturning of Roe v. Wade, many are wondering if the same thing could happen in Canada with abortion access.&#10;&#10;Prime Minister Justin Trudeau promises that isn&#8217;t going to happen. &#10;&#10;&#8220;The news coming out of the United States is horrific. My heart goes out to the millions of American women who are now set to lose their legal right to an abortion. I can&#8217;t imagine the fear and anger you are feeling right now,&#8221; Trudeau tweeted.&#10;&#10;But as Abigail Bimman reports, there are fears that abortion access here could become limited if an influx of Americans seeks care at Canadian clinics.&#10;&#10;For more info, please go to https://globalnews.ca/news/8945148/trudeau-slams-horrific-u-s-supreme-court-ruling-overturning-roe-v-wade/&#10;&#10;Subscribe to Global News Channel HERE: http://bit.ly/20fcXDc&#10;Like Global News on Facebook HERE: http://bit.ly/255GMJQ&#10;Follow Global News on Twitter HERE: http://bit.ly/1Toz8mt&#10;Follow Global News on Instagram HERE: https://bit.ly/2QZaZIB&#10;#GlobalNews #roevwade #abortion"
     channeltitle "Global News"
     channelid "UChLtXXpo4Ge1ReTEboVvTDg"
@@ -4393,7 +4393,7 @@ graph
     commentcount 678
     duration "PT2M22S"
     indegree 0
-    cluster 4
+    cluster 3
   ]
   node
   [
@@ -4411,7 +4411,7 @@ graph
     commentcount 6
     duration "PT1M50S"
     indegree 0
-    cluster 2
+    cluster 5
   ]
   node
   [
@@ -4419,7 +4419,7 @@ graph
     label "axRUmSBVXKo"
     step 0
     date "2022-06-13T11:33:43Z"
-    title "Protesters e tongue sticking out ected to blockade Supreme Court ahead of Roe v Wade ruling"
+    title "Protesters expected to blockade Supreme Court ahead of Roe v Wade ruling"
     description "Rep. Nancy Mace, R-S.C., discusses leftist protesters' expected blockade at the Supreme Court ahead of the anticipated Roe v. Wade ruling and explains her 'cautious optimism' going into Tuesday's primary election. #FoxNews&#10;&#10;Subscribe to Fox News! https://bit.ly/2vaBUvAS&#10;Watch more Fox News Video: http://video.foxnews.com&#10;Watch Fox News Channel Live: http://www.foxnewsgo.com/&#10;&#10;FOX News Channel (FNC) is a 24-hour all-encompassing news service delivering breaking news as well as political and business news. The number one network in cable, FNC has been the most-watched television news channel for 18 consecutive years. According to a 2020 Brand Keys Consumer Loyalty Engagement Index report, FOX News is the top brand in the country for morning and evening news coverage. A 2019 Suffolk University poll named FOX News as the most trusted source for television news or commentary, while a 2019 Brand Keys Emotion Engagement Analysis survey found that FOX News was the most trusted cable news brand. A 2017 Gallup/Knight Foundation survey also found that among Americans who could name an objective news source, FOX News was the top-cited outlet. Owned by FOX Corporation, FNC is available in nearly 90 million homes and dominates the cable news landscape, routinely notching the top ten programs in the genre.&#10;&#10;Watch full episodes of your favorite shows&#10;The Five: http://video.foxnews.com/playlist/longform-the-five/&#10;Special Report with Bret Baier: http://video.foxnews.com/playlist/longform-special-report/&#10;Fox News Primetime: https://video.foxnews.com/playlist/on-air-fox-news-primetime/&#10;Tucker Carlson Tonight: http://video.foxnews.com/playlist/longform-tucker-carlson-tonight/&#10;Hannity: http://video.foxnews.com/playlist/longform-hannity/&#10;The Ingraham Angle: http://video.foxnews.com/playlist/longform-the-ingraham-angle/&#10;Fox News @ Night: http://video.foxnews.com/playlist/longform-fox-news-night/&#10;&#10;Follow Fox News on Facebook: https://www.facebook.com/FoxNews/&#10;Follow Fox News on Twitter: httaps://twitter.com/FoxNews/&#10;Follow Fox News on Instagram: https://www.instagram.com/foxnews/"
     channeltitle "Fox News"
     channelid "UCXIJgqnII2ZOINSWNOGFThA"
@@ -4429,7 +4429,7 @@ graph
     commentcount 1112
     duration "PT4M11S"
     indegree 2
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -4447,7 +4447,7 @@ graph
     commentcount 61
     duration "PT2M23S"
     indegree 0
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -4465,7 +4465,7 @@ graph
     commentcount 461
     duration "PT14M48S"
     indegree 0
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -4483,7 +4483,7 @@ graph
     commentcount 6040
     duration "PT22S"
     indegree 0
-    cluster 5
+    cluster 3
   ]
   node
   [
@@ -4501,7 +4501,7 @@ graph
     commentcount 2609
     duration "PT2M11S"
     indegree 1
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -4519,7 +4519,7 @@ graph
     commentcount 6861
     duration "PT2M34S"
     indegree 2
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -4537,7 +4537,7 @@ graph
     commentcount 165
     duration "PT3M30S"
     indegree 1
-    cluster 1
+    cluster 4
   ]
   node
   [
@@ -4555,7 +4555,7 @@ graph
     commentcount 891
     duration "PT2M48S"
     indegree 3
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -4573,7 +4573,7 @@ graph
     commentcount 82
     duration "PT4M24S"
     indegree 86
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -4591,7 +4591,7 @@ graph
     commentcount 891
     duration "PT2M23S"
     indegree 0
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -4609,7 +4609,7 @@ graph
     commentcount 688
     duration "PT3M50S"
     indegree 14
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -4627,7 +4627,7 @@ graph
     commentcount 12
     duration "PT3M"
     indegree 0
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -4645,7 +4645,7 @@ graph
     commentcount 314
     duration "PT5M59S"
     indegree 2
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -4653,7 +4653,7 @@ graph
     label "Q--8bwv-YT8"
     step 0
     date "2022-05-05T14:30:04Z"
-    title "Alyssa Milano on Roe v. Wade Abortion Rights in the U.S. | Exclusive"
+    title "Alyssa Milano on Roe v. Wade  Abortion Rights in the U.S. | Exclusive"
     description "'[Roe v. Wade] is the only thing standing between us and a world where women are criminalized for bodily autonomy' &#8212; Alyssa Milano breaks down the history of abortion rights in the U.S. and what's at stake in this NowThis exclusive&#10;&#10;with @Alyssa Milano  &#10;&#187; Sign up for our newsletter KnowThis to get the biggest stories of the day delivered straight to your inbox: https://go.nowth.is/knowthis_youtube&#10;&#187; Subscribe to NowThis: http://go.nowth.is/News_Subscribe&#10;&#10;For more U.S. news &#38; politics, subscribe to NowThis News.&#10;&#10;#Abortion #SCOTUS #AlyssaMilano #Politics #News #NowThis&#10;&#10;Connect with NowThis&#10;&#187; Like us on Facebook: http://go.nowth.is/News_Facebook&#10;&#187; Tweet us on Twitter: http://go.nowth.is/News_Twitter&#10;&#187; Follow us on Instagram: http://go.nowth.is/News_Instagram&#10;&#187; Find us on Snapchat Discover: http://go.nowth.is/News_Snapchat&#10;&#10;NowThis is your premier news outlet providing you with all the videos you need to stay up to date on all the latest in trending news. From entertainment to politics, to viral videos and breaking news stories, we&#8217;re delivering all you need to know straight to your social feeds. We live where you live.&#10;&#10;http://www.youtube.com/nowthisnews&#10;@nowthisnews"
     channeltitle "NowThis News"
     channelid "UCn4sPeUomNGIr26bElVdDYg"
@@ -4663,7 +4663,7 @@ graph
     commentcount 1165
     duration "PT13M52S"
     indegree 7
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -4671,7 +4671,7 @@ graph
     label "9CiPF0y8vvk"
     step 0
     date "2022-07-08T09:07:14Z"
-    title "Fil-Am shares abortion e tongue sticking out erience after SC overturns Roe v. Wade | TFC News USA"
+    title "Fil-Am shares abortion experience after SC overturns Roe v. Wade | TFC News USA"
     description "A Fil-Am rallying for women&#8217;s rights shared her own abortion experience after the US Supreme Court overturned the landmark Roe v. Wade ruling. But a pro-life activist noted there are options for pregnant women other than abortion. Lenn Almadin Thornhill reports. #TFCNews &#10;&#10;Like and follow TFC News&#10;Facebook: https://facebook.com/TFCNewsNow&#10;Twitter: https://twitter.com/TFCNewsNow&#10;Website: https://mytfc.com/news&#10;News website: https://news.abs-cbn.com/tfcnews&#10;&#10;Subscribe to the ABS-CBN News channel! - http://bit.ly/TheABSCBNNews&#10;&#10;Watch full episodes on iWantTFC for FREE here:&#10;http://iwanttfc.com&#10;&#10;Visit our website at http://news.abs-cbn.com&#10;Facebook: https://www.facebook.com/abscbnNEWS&#10;Twitter: https://twitter.com/abscbnnews&#10;Instagram: https://www.instagram.com/abscbnnews&#10;&#10;#TFC&#10;#TheFilipinoChannel&#10;#TFCNewsUSA&#10;#ABSCBNNews&#10;#TVPatrol"
     channeltitle "ABS-CBN News"
     channelid "UCE2606prvXQc_noEqKxVJXA"
@@ -4681,7 +4681,7 @@ graph
     commentcount 7
     duration "PT4M2S"
     indegree 1
-    cluster 2
+    cluster 5
   ]
   node
   [
@@ -4699,7 +4699,7 @@ graph
     commentcount 4928
     duration "PT4M33S"
     indegree 3
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -4717,7 +4717,7 @@ graph
     commentcount 9
     duration "PT5M44S"
     indegree 0
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -4725,7 +4725,7 @@ graph
     label "0AwT9oZD5Bw"
     step 0
     date "2022-05-04T15:05:17Z"
-    title "Roe v. Wade and its uncertain future e tongue sticking out lained"
+    title "Roe v. Wade and its uncertain future explained"
     description "A leaked draft of a U.S. Supreme Court opinion suggests the country's highest court could be poised to overturn Roe v. Wade.&#10;&#10;Read more: https://www.wqad.com/article/news/nation-world/supreme-court-roe-wade-leak-midterms-consequences/507-06ca94dc-e989-4ce0-9794-0f831003b766&#10;&#10;Subscribe to WQAD News 8 on YouTube: https://www.youtube.com/c/Wqadnews8/featured?sub_confirmation=1 &#10;Other ways to watch News 8: https://www.wqad.com/connect &#10;Download the News 8 app on IOS: https://apps.apple.com/us/app/wqad-news-8-quad-cities/id1491061406 &#10;Download the News 8 app on Android: https://play.google.com/store/apps/details?id=com.wqad.localtv&#38;hl=en_US&#38;gl=US &#10;Newsletter: https://www.wqad.com/email &#10;&#8216;Like&#8217; WQAD on Facebook: https://www.facebook.com/wqad8 &#10;Follow WQAD on Twitter: https://twitter.com/wqad &#10;Follow WQAD on Instagram: https://www.instagram.com/wqadnews8"
     channeltitle "WQAD News 8"
     channelid "UCRlWXcripH3oV_v6uSb9ASw"
@@ -4735,7 +4735,7 @@ graph
     commentcount 1
     duration "PT1M59S"
     indegree 0
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -4753,7 +4753,7 @@ graph
     commentcount 5944
     duration "PT24M2S"
     indegree 0
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -4771,7 +4771,7 @@ graph
     commentcount -1
     duration "PT1M1S"
     indegree 0
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -4789,7 +4789,7 @@ graph
     commentcount 4
     duration "PT1M"
     indegree 0
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -4797,7 +4797,7 @@ graph
     label "e3MD6pJsfAs"
     step 0
     date "2022-06-28T11:34:23Z"
-    title "The left after Roe v Wade overturn"
+    title "The left  after Roe v Wade overturn"
     description "The venom against US Supreme Court Justice Clarence Thomas has descended into personal abuse and demonisation as the left &#34;went insane&#34; following the overturning of Roe v Wade, says Sky News host Rowan Dean.&#10;&#10;Justice Thomas has come under fire recently after suggesting the same logic used to overturn Roe v Wade could be feasibly applied to the same-sex marriage debate, however, the Supreme Court does not intend to do so.&#10;&#10;&#34;Clarence Thomas is is a fascinating character, because unlike most judges these days, and certainly unlike the prevailing moral equivalence that we are all supposed to espouse in today's 'progressive' world, Clarence Thomas has very fixed views on what is right, and what is wrong,&#34; Mr Dean said.&#10;&#10;&#34;But the venom against Clarence Thomas has of course descended into personal abuse and demonisation as, as was always to be expected, the left went insane following the overturning of Roe v Wade.&#10;&#10;&#34;What Clarence Thomas said is true; right is right, no matter how much people howl into the wind, and equally, wrong is wrong.&#34;"
     channeltitle "Sky News Australia"
     channelid "UCO0akufu9MOzyz3nvGIXAAw"
@@ -4807,7 +4807,7 @@ graph
     commentcount 429
     duration "PT9M45S"
     indegree 15
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -4825,7 +4825,7 @@ graph
     commentcount 98
     duration "PT6M38S"
     indegree 0
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -4843,7 +4843,7 @@ graph
     commentcount -1
     duration "PT5M30S"
     indegree 1
-    cluster 1
+    cluster 5
   ]
   node
   [
@@ -4861,7 +4861,7 @@ graph
     commentcount -1
     duration "PT13M40S"
     indegree 61
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -4897,7 +4897,7 @@ graph
     commentcount 929
     duration "PT39M28S"
     indegree 14
-    cluster 4
+    cluster 2
   ]
   node
   [
@@ -4915,7 +4915,7 @@ graph
     commentcount 4
     duration "PT24M14S"
     indegree 0
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -4933,7 +4933,7 @@ graph
     commentcount 9
     duration "PT28M21S"
     indegree 0
-    cluster 1
+    cluster 5
   ]
   node
   [
@@ -4951,7 +4951,7 @@ graph
     commentcount 17467
     duration "PT57S"
     indegree 0
-    cluster 2
+    cluster 6
   ]
   node
   [
@@ -4969,7 +4969,7 @@ graph
     commentcount 25
     duration "PT23M46S"
     indegree 0
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -4987,7 +4987,7 @@ graph
     commentcount 103
     duration "PT2M47S"
     indegree 1
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -5005,7 +5005,7 @@ graph
     commentcount 20
     duration "PT3M24S"
     indegree 0
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -5013,7 +5013,7 @@ graph
     label "XCYq3rltnVI"
     step 0
     date "2022-06-30T01:34:58Z"
-    title "Women Advised to Delete Period Tracking Apps Sweden and Finland Join NATO | The Daily Show"
+    title "Women Advised to Delete Period Tracking Apps  Sweden and Finland Join NATO | The Daily Show"
     description "Sweden and Finland are joining NATO, women are deleting their period tracking apps in response to the overturning of Roe v. Wade, flights are being canceled at record numbers, and Medieval Times workers are voting to unionize. #DailyShow #Comedy #TrevorNoah&#10;&#10;Subscribe to The Daily Show:&#10;https://www.youtube.com/channel/UCwWhs_6x42TyRM4Wstoq8HA/?sub_confirmation=1 &#10;&#10;Follow The Daily Show:&#10;Twitter: https://twitter.com/TheDailyShow&#10;Facebook: https://www.facebook.com/thedailyshow&#10;Instagram: https://www.instagram.com/thedailyshow&#10;&#10;Stream full episodes of The Daily Show on Paramount+: http://www.paramountplus.com/?ftag=PPM-05-10aei0b&#10;&#10;Follow Comedy Central:&#10;Twitter: https://twitter.com/ComedyCentral&#10;Facebook: https://www.facebook.com/ComedyCentral&#10;Instagram: https://www.instagram.com/comedycentral&#10;&#10;About The Daily Show:&#10;Trevor Noah and The Daily Show correspondents tackle the biggest stories in news, politics and pop culture.&#10;&#10;The Daily Show with Trevor Noah airs weeknights at 11/10c on Comedy Central."
     channeltitle "The Daily Show with Trevor Noah"
     channelid "UCwWhs_6x42TyRM4Wstoq8HA"
@@ -5023,7 +5023,7 @@ graph
     commentcount 4052
     duration "PT19M15S"
     indegree 44
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -5041,7 +5041,7 @@ graph
     commentcount 288
     duration "PT2M29S"
     indegree 1
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -5059,7 +5059,7 @@ graph
     commentcount 118
     duration "PT15M20S"
     indegree 0
-    cluster 1
+    cluster 4
   ]
   node
   [
@@ -5077,7 +5077,7 @@ graph
     commentcount 4171
     duration "PT3H37M41S"
     indegree 8
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -5095,7 +5095,7 @@ graph
     commentcount -1
     duration "PT8M18S"
     indegree 9
-    cluster 6
+    cluster 4
   ]
   node
   [
@@ -5103,7 +5103,7 @@ graph
     label "yFUw1RqhFEE"
     step 0
     date "2022-06-24T16:58:48Z"
-    title "Biden says Supreme Court overturning Roe v. Wade | full video"
+    title "Biden says Supreme Court overturning Roe v. Wade  | full video"
     description "President Biden vowed to protect women&#8217;s rights after the Supreme Court issued a landmark ruling overturning Roe v. Wade on Friday. &#34;I believe Roe v. Wade was a correct decision. As a matter of constitutional law and application of the fundamental right to privacy and liberty and matters of family and personal autonomy,&#34; Mr. Biden said. The president added &#34;this decision must not be the final word&#34; and called on Congress to take action. &#10;&#10;#cbsnews #roevwade #supremecourt &#10;&#10;CBS News Streaming Network is the premier 24/7 anchored streaming news service from CBS News and Stations, available free to everyone with access to the Internet. The CBS News Streaming Network is your destination for breaking news, live events and original reporting locally, nationally and around the globe. Launched in November 2014 as CBSN, the CBS News Streaming Network is available live in 91 countries and on 30 digital platforms and apps, as well as on CBSNews.com and Paramount+.&#10;&#10;Subscribe to the CBS News YouTube channel: http://youtube.com/cbsnews&#10;Watch CBS News: http://cbsn.ws/1PlLpZ7c&#10;Download the CBS News app: http://cbsn.ws/1Xb1WC8&#10;Follow CBS News on Instagram: https://www.instagram.com/cbsnews/&#10;Like CBS News on Facebook: http://facebook.com/cbsnews&#10;Follow CBS News on Twitter: http://twitter.com/cbsnews&#10;Subscribe to our newsletters: http://cbsn.ws/1RqHw7T&#10;Try Paramount+ free: https://bit.ly/2OiW1kZ&#10;&#10;For video licensing inquiries, contact: licensing@veritone.com"
     channeltitle "CBS News"
     channelid "UC8p1vwvWtl6T73JiExfWs1g"
@@ -5113,7 +5113,7 @@ graph
     commentcount 1581
     duration "PT18M35S"
     indegree 31
-    cluster 6
+    cluster 5
   ]
   node
   [
@@ -5131,7 +5131,7 @@ graph
     commentcount 374
     duration "PT9M18S"
     indegree 0
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -5149,7 +5149,7 @@ graph
     commentcount 982
     duration "PT3M49S"
     indegree 3
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -5157,7 +5157,7 @@ graph
     label "D8EQtOWLhjM"
     step 0
     date "2022-06-27T22:26:37Z"
-    title "Supreme Court overturns Roe v. Wade, Biden in Germany for G7 Summit more | LiveNOW from FOX"
+    title "Supreme Court overturns Roe v. Wade, Biden in Germany for G7 Summit  more | LiveNOW from FOX"
     description "Subscribe to LiveNOW from FOX! https://www.youtube.com/livenowfox?sub_confirmation=1&#10;Where to watch LiveNOW from FOX: https://www.livenowfox.com/&#10;Follow us @LiveNOWFOX on Twitter: https://twitter.com/livenowfox&#10;&#10;Raw and unfiltered. Watch a non-stop stream of breaking news, live events and stories across the nation. Limited commentary. No opinion. Experience LiveNOW from FOX."
     channeltitle "LiveNOW from FOX"
     channelid "UCJg9wBPyKMNA5sRDnvzmkdg"
@@ -5167,7 +5167,7 @@ graph
     commentcount 10
     duration "PT11H47M"
     indegree 0
-    cluster 5
+    cluster 6
   ]
   node
   [
@@ -5185,7 +5185,7 @@ graph
     commentcount 4
     duration "PT33M40S"
     indegree 0
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -5203,7 +5203,7 @@ graph
     commentcount 19703
     duration "PT5M20S"
     indegree 4
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -5211,7 +5211,7 @@ graph
     label "IvbisE2X40g"
     step 0
     date "2022-07-07T04:15:00Z"
-    title "Dating Apps E tongue sticking out OSED For Secretly Funding Campaign To Overturn Roe V Wade"
+    title "Dating Apps EXPOSED For Secretly Funding Campaign To Overturn Roe V Wade"
     description "Recent reports have indicated that many popular dating apps like Match, Tinder, and OK Cupid have donated money to campaigns aiming to eliminate women's reproductive rights in the United States. Ana Kasparian and John Iadarola discuss on The Young Turks. Watch LIVE weekdays 6-8 pm ET. http://youtube.com/theyoungturks/live&#10;&#10;Read more HERE: &#10;https://perfectunion.us/your-dating-app-is-trying-to-limit-your-right-to-abortion/&#10;&#10;&#34;If you&#8217;ve spent money on Match, Tinder, OK Cupid and other popular dating sites, some of that cash was funneled into the campaign to eliminate abortion rights nationwide. Here is exactly how that happens:&#10;&#10;Match Group, which owns Tinder and other leading dating sites, donated $137,000 to the Republican Attorneys General Association, known as RAGA. This money came directly from Match Group&#8217;s corporate treasury.&#10;&#10;RAGA, in turn, played a central role in the Supreme Court case that just invalidated the constitutional right to an abortion. A member of RAGA, Mississippi&#8217;s Republican Attorney General Lynn Fitch, was in charge of the legal strategy behind Dobbs v. Jackson Women&#8217;s Health, the case that the Supreme Court used to overturn Roe v. Wade, which was the law of the land for almost 50 years.&#10;&#10;Even though the company was quietly funding RAGA, in public Match announced that it would help pay for its own employees to access out-of-state abortions. After Texas banned most abortions last year, Match&#8217;s CEO Shar Dubey sent employees a note saying &#8220;this particular law is so regressive to the cause of women&#8217;s rights that I felt compelled to speak publicly about my personal views.&#8221;&#34;&#10;&#10;***&#10;&#10;The largest online progressive news show in the world. Hosted by Cenk Uygur and Ana Kasparian. LIVE weekdays 6-8 pm ET.&#10;&#10;Help support our mission and get perks. Membership protects TYT's independence from corporate ownership and allows us to provide free live shows that speak truth to power for people around the world. See Perks: &#9654; https://www.youtube.com/TheYoungTurks/join&#10;&#10;&#10;SUBSCRIBE on YOUTUBE: &#9758; http://www.youtube.com/subscription_center?add_user=theyoungturks&#10;FACEBOOK: &#9758; http://www.facebook.com/TheYoungTurks&#10;TWITTER: &#9758; http://www.twitter.com/TheYoungTurks&#10;INSTAGRAM: &#9758; http://www.instagram.com/TheYoungTurks&#10;TWITCH: &#9758; http://www.twitch.com/tyt&#10;&#10;&#128085; Merch: http://shoptyt.com&#10;&#10;&#10084; Donate: http://www.tyt.com/go&#10;&#10;&#128279; Website: https://www.tyt.com&#10;&#10;&#128241;App: http://www.tyt.com/app&#10;&#10;&#128236; Newsletters: https://www.tyt.com/newsletters/&#10;&#10;&#10;If you want to watch more videos from TYT, consider subscribing to other channels in our network:&#10;&#10;&#10;&#10;The Damage Report &#9654; https://www.youtube.com/thedamagereport&#10;&#10;Indisputable with Dr. Rashad Richey &#9654; https://www.youtube.com/indisputabletyt&#10;&#10;Watchlist with Jayar Jackson &#9654; https://www.youtube.com/watchlisttyt&#10;&#10;TYT Sports &#9654; https://www.youtube.com/tytsports&#10;&#10;The Conversation &#9654; https://www.youtube.com/tytconversation&#10;&#10;Rebel HQ &#9654; https://www.youtube.com/rebelhq&#10;&#10;TYT Investigates &#9654; https://www.youtube.com/channel/UCwNJt9PYyN1uyw2XhNIQMMA&#10;&#10;&#10;#TYT #TheYoungTurks #BreakingNews&#10;&#10;220706__TB01DatingApps"
     channeltitle "The Young Turks"
     channelid "UC1yBKRuGpC1tSM73A0ZjYjQ"
@@ -5221,7 +5221,7 @@ graph
     commentcount 745
     duration "PT9M1S"
     indegree 0
-    cluster 2
+    cluster 1
   ]
   node
   [
@@ -5239,7 +5239,7 @@ graph
     commentcount 50
     duration "PT4M42S"
     indegree 0
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -5257,7 +5257,7 @@ graph
     commentcount 10769
     duration "PT1M32S"
     indegree 16
-    cluster 1
+    cluster 3
   ]
   node
   [
@@ -5275,7 +5275,7 @@ graph
     commentcount 220
     duration "PT7M24S"
     indegree 1
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -5293,7 +5293,7 @@ graph
     commentcount 167
     duration "PT3M46S"
     indegree 1
-    cluster 4
+    cluster 3
   ]
   node
   [
@@ -5311,7 +5311,7 @@ graph
     commentcount 4019
     duration "PT14M46S"
     indegree 2
-    cluster 2
+    cluster 8
   ]
   node
   [
@@ -5329,7 +5329,7 @@ graph
     commentcount 4720
     duration "PT7M13S"
     indegree 31
-    cluster 5
+    cluster 3
   ]
   node
   [
@@ -5347,7 +5347,7 @@ graph
     commentcount 2
     duration "PT1M52S"
     indegree 0
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -5365,7 +5365,7 @@ graph
     commentcount 2763
     duration "PT3M30S"
     indegree 0
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -5383,7 +5383,7 @@ graph
     commentcount 9184
     duration "PT52S"
     indegree 0
-    cluster 1
+    cluster 5
   ]
   node
   [
@@ -5401,7 +5401,7 @@ graph
     commentcount 4
     duration "PT3M"
     indegree 0
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -5419,7 +5419,7 @@ graph
     commentcount 10645
     duration "PT9M58S"
     indegree 6
-    cluster 6
+    cluster 1
   ]
   node
   [
@@ -5437,7 +5437,7 @@ graph
     commentcount 2829
     duration "PT15M27S"
     indegree 1
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -5455,7 +5455,7 @@ graph
     commentcount 88
     duration "PT3M53S"
     indegree 0
-    cluster 4
+    cluster 3
   ]
   node
   [
@@ -5473,7 +5473,7 @@ graph
     commentcount 27
     duration "PT1H12M29S"
     indegree 1
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -5491,7 +5491,7 @@ graph
     commentcount 1773
     duration "PT58S"
     indegree 0
-    cluster 1
+    cluster 6
   ]
   node
   [
@@ -5509,7 +5509,7 @@ graph
     commentcount 29
     duration "PT22M2S"
     indegree 0
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -5527,7 +5527,7 @@ graph
     commentcount 23
     duration "PT55M6S"
     indegree 1
-    cluster 1
+    cluster 5
   ]
   node
   [
@@ -5545,7 +5545,7 @@ graph
     commentcount 97
     duration "PT1H45M37S"
     indegree 2
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -5563,7 +5563,7 @@ graph
     commentcount 288
     duration "PT5M42S"
     indegree 3
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -5581,7 +5581,7 @@ graph
     commentcount 4424
     duration "PT9M12S"
     indegree 1
-    cluster 2
+    cluster 8
   ]
   node
   [
@@ -5599,7 +5599,7 @@ graph
     commentcount 665
     duration "PT23S"
     indegree 0
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -5617,7 +5617,7 @@ graph
     commentcount 7628
     duration "PT23M52S"
     indegree 12
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -5635,7 +5635,7 @@ graph
     commentcount 787
     duration "PT7M5S"
     indegree 0
-    cluster 6
+    cluster 4
   ]
   node
   [
@@ -5643,7 +5643,7 @@ graph
     label "msDaVIfO5U8"
     step 0
     date "2022-07-09T00:12:03Z"
-    title "E tongue sticking out OSED! Corporations Roe v Wade Hypocrisy Revealed"
+    title "EXPOSED! Corporations Roe v Wade Hypocrisy Revealed"
     description "These companies fail to own up to their past mistakes in light of a massive American tragedy. Jeff Wiggins breaks it down on Rebel HQ.&#10;&#10;Follow Jeff on Twitter - https://twitter.com/hegonbealright&#10;&#10;#JeffWiggins #RebelHQ #Politics"
     channeltitle "Rebel HQ"
     channelid "UCuMo0RRtnNDuMB8DV5stEag"
@@ -5671,7 +5671,7 @@ graph
     commentcount 6880
     duration "PT4M3S"
     indegree 3
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -5689,7 +5689,7 @@ graph
     commentcount 5
     duration "PT2M6S"
     indegree 0
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -5697,7 +5697,7 @@ graph
     label "qoh0r02jvwc"
     step 0
     date "2022-05-11T21:54:23Z"
-    title "Senate to vote on codifying Roe v. Wade today more top stories | LiveNOW from FOX"
+    title "Senate to vote on codifying Roe v. Wade today  more top stories | LiveNOW from FOX"
     description "Subscribe to LiveNOW from FOX! https://www.youtube.com/livenowfox?sub_confirmation=1&#10;Where to watch LiveNOW from FOX: https://www.livenowfox.com/&#10;Follow us @LiveNOWFOX on Twitter: https://twitter.com/livenowfox&#10;&#10;Raw and unfiltered. Watch a non-stop stream of breaking news, live events and stories across the nation. Limited commentary. No opinion. Experience LiveNOW from FOX."
     channeltitle "LiveNOW from FOX"
     channelid "UCJg9wBPyKMNA5sRDnvzmkdg"
@@ -5707,7 +5707,7 @@ graph
     commentcount 15
     duration "PT11H36M19S"
     indegree 0
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -5725,7 +5725,7 @@ graph
     commentcount 1951
     duration "PT11M58S"
     indegree 0
-    cluster 2
+    cluster 7
   ]
   node
   [
@@ -5743,7 +5743,7 @@ graph
     commentcount 5204
     duration "PT18M11S"
     indegree 5
-    cluster 6
+    cluster 4
   ]
   node
   [
@@ -5761,7 +5761,7 @@ graph
     commentcount -1
     duration "PT8M49S"
     indegree 0
-    cluster 1
+    cluster 5
   ]
   node
   [
@@ -5779,7 +5779,7 @@ graph
     commentcount 3382
     duration "PT12M15S"
     indegree 0
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -5797,7 +5797,7 @@ graph
     commentcount 2084
     duration "PT32M1S"
     indegree 17
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -5815,7 +5815,7 @@ graph
     commentcount 1726
     duration "PT8M23S"
     indegree 0
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -5833,7 +5833,7 @@ graph
     commentcount 1452
     duration "PT20M15S"
     indegree 0
-    cluster 2
+    cluster 7
   ]
   node
   [
@@ -5841,7 +5841,7 @@ graph
     label "uD4kxoEKC3A"
     step 0
     date "2022-07-07T20:23:22Z"
-    title "Inside a Pro-Choice Rally After Overturning of Roe v. Wade Excuse Me, What?"
+    title "Inside a Pro-Choice Rally After Overturning of Roe v. Wade  Excuse Me, What?"
     description "On the day that Roe v Wade was overturned, I went to a protest that formed in NYC. I talked to people of all genders and ages to hear their thoughts on the topic. &#10;&#10;Season 6, Episode 9 feat.&#10;0:00 &#8211;&#160;Episode 9 Introduction&#10;0:38 &#8211;&#160;Posters to save the world&#10;1:24 &#8211; Roe v. Wade 20 years later&#8230;&#10;2:13 &#8211; American Veteran defends the Constitution&#10;3:00 &#8211; Protesting Pro&#10;3:43 &#8211; A message to men&#10;4:35 &#8211; Waiting for solutions like&#8230;&#10;5:12 &#8211; Show up and vote&#10;5:20 &#8211; Make Supreme Court a normal job&#10;5:58 &#8211; Reactions to Abortion Ban&#10;7:15 &#8211; Final thoughts&#10;&#10;Early episode drops and more exclusive interviews:&#10;https://patreon.com/excusemewhat&#10;&#10;Hosted by Jack Reichert"
     channeltitle "Excuse Me, What?"
     channelid "UCIobJt6byBqnEkUZuJnuCDA"
@@ -5851,7 +5851,7 @@ graph
     commentcount 88
     duration "PT8M37S"
     indegree 2
-    cluster 1
+    cluster 5
   ]
   node
   [
@@ -5869,7 +5869,7 @@ graph
     commentcount 34826
     duration "PT1H11M51S"
     indegree 28
-    cluster 1
+    cluster 6
   ]
   node
   [
@@ -5887,7 +5887,7 @@ graph
     commentcount 1407
     duration "PT4M15S"
     indegree 0
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -5905,7 +5905,7 @@ graph
     commentcount 1878
     duration "PT12M43S"
     indegree 1
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -5923,7 +5923,7 @@ graph
     commentcount 740
     duration "PT15M24S"
     indegree 1
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -5941,7 +5941,7 @@ graph
     commentcount 138
     duration "PT5M23S"
     indegree 0
-    cluster 5
+    cluster 3
   ]
   node
   [
@@ -5959,7 +5959,7 @@ graph
     commentcount 4506
     duration "PT7M13S"
     indegree 0
-    cluster 1
+    cluster 4
   ]
   node
   [
@@ -5977,7 +5977,7 @@ graph
     commentcount 4954
     duration "PT11M44S"
     indegree 1
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -5995,7 +5995,7 @@ graph
     commentcount 14
     duration "PT12M34S"
     indegree 1
-    cluster 1
+    cluster 4
   ]
   node
   [
@@ -6013,7 +6013,7 @@ graph
     commentcount 243
     duration "PT46M35S"
     indegree 7
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -6031,7 +6031,7 @@ graph
     commentcount 23
     duration "PT8H2M13S"
     indegree 0
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -6049,7 +6049,7 @@ graph
     commentcount 2120
     duration "PT10M16S"
     indegree 0
-    cluster 2
+    cluster 1
   ]
   node
   [
@@ -6067,7 +6067,7 @@ graph
     commentcount 809
     duration "PT2M48S"
     indegree 1
-    cluster 1
+    cluster 5
   ]
   node
   [
@@ -6085,7 +6085,7 @@ graph
     commentcount 1919
     duration "PT8M3S"
     indegree 8
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -6103,7 +6103,7 @@ graph
     commentcount 4186
     duration "PT28M41S"
     indegree 12
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -6121,7 +6121,7 @@ graph
     commentcount 61
     duration "PT12M41S"
     indegree 0
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -6139,7 +6139,7 @@ graph
     commentcount 36
     duration "PT4M23S"
     indegree 0
-    cluster 2
+    cluster 5
   ]
   node
   [
@@ -6157,7 +6157,7 @@ graph
     commentcount 5498
     duration "PT4M59S"
     indegree 1
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -6175,7 +6175,7 @@ graph
     commentcount 3807
     duration "PT17M32S"
     indegree 0
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -6193,7 +6193,7 @@ graph
     commentcount 37
     duration "PT3M37S"
     indegree 0
-    cluster 1
+    cluster 5
   ]
   node
   [
@@ -6201,7 +6201,7 @@ graph
     label "kK5d1Bh9PEw"
     step 0
     date "2022-06-24T19:34:05Z"
-    title "Roe V. Wade Has Been Overturned. Homosexuality Contraception Are Next."
+    title "Roe V. Wade Has Been Overturned. Homosexuality  Contraception Are Next."
     description "&#128308; Website  - https://www.vaush.gg/&#10;&#128181; Patreon  - https://www.patreon.com/vaush&#10;&#10;&#127775; Other Socials &#127775;&#10;&#10;&#11088;&#65039; 2nd Channel - https://www.youtube.com/c/thevaushpit&#10;&#128038; Twitter - https://twitter.com/VaushV&#10;&#128126; Twitch - https://www.twitch.tv/vaushvidya&#10;&#128248; Instagram - https://www.instagram.com/vaushv/&#10;&#128309; Facebook - https://www.facebook.com/vaushvidya&#10;&#127925; TikTok - https://www.tiktok.com/@vaushvidya&#10;&#127897;Podcast - https://anchor.fm/vaush&#10;&#10;Intro animation credit goes to https://twitter.com/ItIsMeKyleG &#38; https://twitter.com/honeybunnbadger for the visuals, and https://twitter.com/sound_sierra for the audio! Thank you!&#10;&#10;#vaush"
     channeltitle "Vaush"
     channelid "UC1E-JS8L0j1Ei70D9VEFrPQ"
@@ -6211,7 +6211,7 @@ graph
     commentcount 4556
     duration "PT27M57S"
     indegree 18
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -6229,7 +6229,7 @@ graph
     commentcount 8323
     duration "PT29M18S"
     indegree 12
-    cluster 2
+    cluster 5
   ]
   node
   [
@@ -6247,7 +6247,7 @@ graph
     commentcount 399
     duration "PT22M6S"
     indegree 2
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -6265,7 +6265,7 @@ graph
     commentcount 704
     duration "PT9M39S"
     indegree 3
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -6283,7 +6283,7 @@ graph
     commentcount 979
     duration "PT5H19M23S"
     indegree 0
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -6301,7 +6301,7 @@ graph
     commentcount 4795
     duration "PT8M6S"
     indegree 14
-    cluster 1
+    cluster 6
   ]
   node
   [
@@ -6319,7 +6319,7 @@ graph
     commentcount 1882
     duration "PT42S"
     indegree 0
-    cluster 2
+    cluster 5
   ]
   node
   [
@@ -6327,7 +6327,7 @@ graph
     label "8nBrYeaL_AU"
     step 0
     date "2022-06-07T23:00:03Z"
-    title "Supreme Courts ruling on Roe v. Wade e tongue sticking out ected, will if affect current laws"
+    title "Supreme Courts ruling on Roe v. Wade expected, will if affect current laws"
     description "Any day now, we could find out if the U.S. Supreme Court will overturn federal abortion rights, allowing individual states to more heavily regulate or even ban the procedure.&#10;&#10;This follows last month's controversial leak of a draft opinion that would reverse the decades-old ruling on Roe v. Wade.&#10;&#10;Despite what the decision is, &#8220;it would have no effect on Oregon's current laws, which are very permissive in terms of the right to choose,&#8221; said Tung Yin, a constitutional law professor at Lewis and Clark College.&#10;&#10;That would leave it open to congress and individual states to make their own decisions.&#10;&#10;Currently, Oregon and Washington have some of the most protective reproductive laws in the country and abortions will remain legal here.&#10;&#10;Governor Kate Brown said as much last month:&#10;&#10;&#8220;We will continue to make sure that resources, the $15 million that&#8217;s been set aside, we&#8217;re going to get that money out the door as quickly as possible to community-based organizations like planned parenthood so that women, people across the country, and particularly in this region can access reproductive healthcare,&#8221; Gov. Brown previously said.&#10;&#10;Plus, Dispatch delays for callers and staffing shortage, and Mental health issues more likely in the months following COVID diagnosis&#10;&#10;00:00 Supreme Court's ruling on Roe v. Wade expected, will if affect current laws&#10;02:24 911 Dispatch delays for callers and staffing shortage&#10;04:59 Mental health issues more likely in the months following COVID diagnosis&#10;_______________&#10;Stay up to date with our social media:&#10;&#10;KATU on Facebook: https://www.facebook.com/katunews&#10;KATU on Twitter: https://twitter.com/KATUNews&#10;Subscribe to KATU on YouTube: https://www.youtube.com/channel/UCmDTerxNU_gvCWLkIPkqghA/?sub_confirmation=1&#10;&#10;Daily News Playlist:  https://www.youtube.com/playlist?list=PLFtHM_AbvnEUkd_YRTlZpGKkbczT5w062&#10;&#10;For more information, visit https://katu.com/&#10;&#10;Have a news tip? Send it directly to us: &#10;&#10;Email us: newstips@katu.com&#10;Call the Newsroom: 503.231.4222&#10;&#10;KATU is a OR based station and a ABC Television affiliate owned and operated by Sinclair Broadcast Group. Sinclair Broadcast Group, Inc. is one of the largest and most diversified television broadcasting companies in the country today. &#10;&#10;#KATU #Katu2abc #Portland"
     channeltitle "KATU News"
     channelid "UCmDTerxNU_gvCWLkIPkqghA"
@@ -6337,7 +6337,7 @@ graph
     commentcount 4
     duration "PT6M43S"
     indegree 0
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -6355,7 +6355,7 @@ graph
     commentcount 42
     duration "PT2M2S"
     indegree 0
-    cluster 1
+    cluster 5
   ]
   node
   [
@@ -6373,7 +6373,7 @@ graph
     commentcount 21
     duration "PT6M"
     indegree 0
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -6409,7 +6409,7 @@ graph
     commentcount 530
     duration "PT1M45S"
     indegree 1
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -6427,7 +6427,7 @@ graph
     commentcount 71
     duration "PT3M44S"
     indegree 0
-    cluster 2
+    cluster 9
   ]
   node
   [
@@ -6445,7 +6445,7 @@ graph
     commentcount 3922
     duration "PT45S"
     indegree 0
-    cluster 1
+    cluster 5
   ]
   node
   [
@@ -6463,7 +6463,7 @@ graph
     commentcount 4202
     duration "PT1H8M4S"
     indegree 21
-    cluster 6
+    cluster 4
   ]
   node
   [
@@ -6481,7 +6481,7 @@ graph
     commentcount 500
     duration "PT15S"
     indegree 0
-    cluster 1
+    cluster 3
   ]
   node
   [
@@ -6489,7 +6489,7 @@ graph
     label "9oPH0kCLEQU"
     step 0
     date "2022-06-29T16:00:05Z"
-    title "Charlamagne Tha God SLAMS Dem On Roe v Wade | Breaking Points with Krystal and Saagar"
+    title "Charlamagne Tha God SLAMS Dem  On Roe v Wade | Breaking Points with Krystal and Saagar"
     description "Krystal and Saagar offer their thoughts on Charlamagne Tha God's comments slamming the cowardice of Democrats on Roe v Wade&#10;&#10;To become a Breaking Points Premium Member and watch/listen to the show uncut and 1 hour early visit: https://breakingpoints.supercast.com/&#10;&#10;To listen to Breaking Points as a podcast, check them out on Apple and Spotify&#10;&#10;Apple: https://podcasts.apple.com/us/podcast/breaking-points-with-krystal-and-saagar/id1570045623 &#10;&#10;Spotify: https://open.spotify.com/show/4Kbsy61zJSzPxNZZ3PKbXl &#10;&#10;Merch: https://breaking-points.myshopify.com/"
     channeltitle "Breaking Points"
     channelid "UCDRIjKy6eZOvKtOELtTdeUA"
@@ -6499,7 +6499,7 @@ graph
     commentcount 1477
     duration "PT6M41S"
     indegree 1
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -6517,7 +6517,7 @@ graph
     commentcount 1857
     duration "PT27M"
     indegree 4
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -6525,7 +6525,7 @@ graph
     label "XiAzP_W7fFM"
     step 0
     date "2022-05-11T03:00:22Z"
-    title "Mike Lee Says Roe V. Wade Decision Was An Of The Constitution"
+    title "Mike Lee Says Roe V. Wade Decision Was An  Of The Constitution"
     description "Sen. Mike Lee (R-UT) spoke on the Senate floor about the leaked Supreme Court opinion that would overturn Roe v. Wade and a Senate vote that would codify abortion rights.&#10;&#10;Stay Connected&#10;Forbes on Facebook: http://fb.com/forbes&#10;Forbes Video on Twitter: http://www.twitter.com/forbes&#10;Forbes Video on Instagram: http://instagram.com/forbes&#10;More From Forbes:  http://forbes.com"
     channeltitle "Forbes Breaking News"
     channelid "UCg40OxZ1GYh3u3jBntB6DLg"
@@ -6535,7 +6535,7 @@ graph
     commentcount 43
     duration "PT8M13S"
     indegree 0
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -6553,7 +6553,7 @@ graph
     commentcount 1
     duration "PT20M9S"
     indegree 0
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -6571,7 +6571,7 @@ graph
     commentcount 2706
     duration "PT1H28M15S"
     indegree 13
-    cluster 2
+    cluster 4
   ]
   node
   [
@@ -6589,7 +6589,7 @@ graph
     commentcount 10428
     duration "PT53S"
     indegree 0
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -6607,7 +6607,7 @@ graph
     commentcount 8
     duration "PT12M16S"
     indegree 0
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -6625,7 +6625,7 @@ graph
     commentcount 452
     duration "PT20M37S"
     indegree 3
-    cluster 2
+    cluster 5
   ]
   node
   [
@@ -6643,7 +6643,7 @@ graph
     commentcount 342
     duration "PT1M22S"
     indegree 0
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -6661,7 +6661,7 @@ graph
     commentcount 627
     duration "PT10M7S"
     indegree 1
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -6679,7 +6679,7 @@ graph
     commentcount 0
     duration "PT1M57S"
     indegree 0
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -6697,7 +6697,7 @@ graph
     commentcount 2032
     duration "PT1H36M18S"
     indegree 5
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -6715,7 +6715,7 @@ graph
     commentcount 227
     duration "PT9M5S"
     indegree 0
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -6733,7 +6733,7 @@ graph
     commentcount 1242
     duration "PT8S"
     indegree 0
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -6751,7 +6751,7 @@ graph
     commentcount 1465
     duration "PT1H6M23S"
     indegree 8
-    cluster 2
+    cluster 7
   ]
   node
   [
@@ -6769,7 +6769,7 @@ graph
     commentcount -1
     duration "PT13M31S"
     indegree 20
-    cluster 6
+    cluster 3
   ]
   node
   [
@@ -6787,7 +6787,7 @@ graph
     commentcount 1313
     duration "PT3M16S"
     indegree 2
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -6805,7 +6805,7 @@ graph
     commentcount 1524
     duration "PT1M32S"
     indegree 0
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -6823,7 +6823,7 @@ graph
     commentcount 432
     duration "PT5M26S"
     indegree 0
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -6841,7 +6841,7 @@ graph
     commentcount 80
     duration "PT4M37S"
     indegree 0
-    cluster 1
+    cluster 5
   ]
   node
   [
@@ -6859,7 +6859,7 @@ graph
     commentcount 98
     duration "PT5M10S"
     indegree 0
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -6877,7 +6877,7 @@ graph
     commentcount 628
     duration "PT1M9S"
     indegree 1
-    cluster 1
+    cluster 5
   ]
   node
   [
@@ -6895,7 +6895,7 @@ graph
     commentcount 4
     duration "PT3M27S"
     indegree 0
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -6913,7 +6913,7 @@ graph
     commentcount 3
     duration "PT9M46S"
     indegree 0
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -6931,7 +6931,7 @@ graph
     commentcount 7151
     duration "PT1H9M44S"
     indegree 5
-    cluster 1
+    cluster 6
   ]
   node
   [
@@ -6939,7 +6939,7 @@ graph
     label "tGjh5AdD2EA"
     step 0
     date "2022-07-07T16:00:36Z"
-    title "Sports Imitate tongue sticking out Roe v. Wade Edition"
+    title "Sports Imitated: Roe v. Wade Edition"
     description "LIKE &#38; SUBSCRIBE for new videos every day.&#160;http://bit.ly/2QA8RbN&#10;&#10;Women are running naked in the streets after the supreme court overturned Roe v. Wade, triggering the handmaid's tale across the country.&#10;&#10;Watch the full episode here:&#160;https://bit.ly/3a6ywXD&#10;&#10;Watch full episodes of The Andrew Klavan Show here:&#160;https://bit.ly/38K0uHB&#10;&#10;To listen to this episode, subscribe to The Andrew Klavan Show on Apple Podcasts:&#160;https://apple.co/2KM6HCG&#160;&#10;&#10;Pre-order my new novel The Truth and Beauty, available wherever books are sold on April 5, 2022.&#160;https://utm.io/uelgG&#10;&#10;Become a Daily Wire Member today to gain access to exclusive content:&#160;https://utm.io/ud1Bz&#10;&#10;Like this video? For more Andrew Klavan and Daily Wire content, subscribe to this channel&#160;https://www.youtube.com/channel/UCyhEZKz-LOwgktptEOh6_Iw&#160;ring the bell for notifications so you never miss a story!&#10;&#10;#Sexy #News #Politics #DailyWire #SexyGirl #RoeVWade #Abortion #Prolife #Prochoice #Hot #HotGirl #SportIllustrated #Swimsuit"
     channeltitle "Andrew Klavan"
     channelid "UCyhEZKz-LOwgktptEOh6_Iw"
@@ -6949,7 +6949,7 @@ graph
     commentcount 75
     duration "PT4M17S"
     indegree 0
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -6967,7 +6967,7 @@ graph
     commentcount 2715
     duration "PT45M42S"
     indegree 6
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -6985,7 +6985,7 @@ graph
     commentcount 1878
     duration "PT9M26S"
     indegree 0
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -7003,7 +7003,7 @@ graph
     commentcount 639
     duration "PT12M23S"
     indegree 1
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -7021,7 +7021,7 @@ graph
     commentcount 682
     duration "PT10M26S"
     indegree 1
-    cluster 1
+    cluster 6
   ]
   node
   [
@@ -7039,7 +7039,7 @@ graph
     commentcount 1650
     duration "PT8M9S"
     indegree 1
-    cluster 6
+    cluster 4
   ]
   node
   [
@@ -7057,7 +7057,7 @@ graph
     commentcount 392
     duration "PT43M1S"
     indegree 5
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -7075,7 +7075,7 @@ graph
     commentcount 339
     duration "PT8M6S"
     indegree 1
-    cluster 2
+    cluster 5
   ]
   node
   [
@@ -7093,7 +7093,7 @@ graph
     commentcount 2547
     duration "PT12M"
     indegree 8
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -7111,7 +7111,7 @@ graph
     commentcount 164
     duration "PT3M42S"
     indegree 0
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -7129,7 +7129,7 @@ graph
     commentcount 605
     duration "PT9M5S"
     indegree 0
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -7137,7 +7137,7 @@ graph
     label "2xHlqO7Hm9o"
     step 0
     date "2022-06-27T23:00:49Z"
-    title "Reacting to Roe v Wade MELTDOWNS My Thoughts - Unapologetic LIVE"
+    title "Reacting to Roe v Wade MELTDOWNS  My Thoughts - Unapologetic LIVE"
     description "The Supreme Court has overturned Roe v Wade and the Internet is predictably losing its mind. Today I&#8217;m reacting to some of the most unhinged meltdowns and awful takes on the decision and sharing my thoughts on the news. &#13;&#10;&#13;&#10;Subscribe to Unapologetic: https://www.prageru.com/series/unapologetic&#13;&#10;&#13;&#10;Follow me on Social Media: &#13;&#10;Instagram: https://www.instagram.com/theamalaekpunobi&#13;&#10;TikTok: https://www.tiktok.com/@amalaekpunobi&#13;&#10;Twitter: https://twitter.com/amalaekpunobi&#13;&#10;Facebook: https://www.facebook.com/TheAmalaEkpunobi&#13;&#10;YouTube: https://www.youtube.com/channel/UCgEvEKgmQ-CHPIeOSaGCffw &#13;&#10;&#13;&#10;#roevwade #abortion #abortionrights #prochoice #prolife #reaction #react #race #podcast #amala #amalaekpunobi #unapologetic #culture #socialmedia #trending #politics #leftist #woke #conservative #genz"
     channeltitle "Amala Ekpunobi: Unapologetic"
     channelid "UCgEvEKgmQ-CHPIeOSaGCffw"
@@ -7147,7 +7147,7 @@ graph
     commentcount 664
     duration "PT55M30S"
     indegree 0
-    cluster 2
+    cluster 7
   ]
   node
   [
@@ -7165,7 +7165,7 @@ graph
     commentcount 1401
     duration "PT7M50S"
     indegree 0
-    cluster 6
+    cluster 3
   ]
   node
   [
@@ -7183,7 +7183,7 @@ graph
     commentcount 0
     duration "PT9M16S"
     indegree 0
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -7201,7 +7201,7 @@ graph
     commentcount 6045
     duration "PT5M18S"
     indegree 4
-    cluster 1
+    cluster 6
   ]
   node
   [
@@ -7219,7 +7219,7 @@ graph
     commentcount 1986
     duration "PT10M27S"
     indegree 3
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -7237,7 +7237,7 @@ graph
     commentcount 15
     duration "PT8H24M31S"
     indegree 0
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -7255,7 +7255,7 @@ graph
     commentcount 789
     duration "PT4M23S"
     indegree 0
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -7273,7 +7273,7 @@ graph
     commentcount 3102
     duration "PT20M29S"
     indegree 9
-    cluster 2
+    cluster 9
   ]
   node
   [
@@ -7281,7 +7281,7 @@ graph
     label "rPsIaYmh-bo"
     step 0
     date "2022-06-28T15:08:58Z"
-    title "The Legal Reasoning Why Roe v Wade Was Overturned. E tongue sticking out lained By a Lawyer."
+    title "The Legal Reasoning Why Roe v Wade Was Overturned. Explained By a Lawyer."
     description "The Legal Reasoning Why Roe v Wade Was Overturned. Explained By a Lawyer.&#10;&#10;A detailed explanation of why Roe v. Wade was overturned by the US Supreme Court. &#10;&#10;Join me on the journey to 1 Million Subscribers.&#10;&#10;Locals: https://natethelawyer.locals.com/&#10;&#10;Join the Channel&#10;https://www.youtube.com/channel/UCD5_QIM67BZJdh9AwZv3soA&#10;&#10;Paypal&#10;https://www.paypal.me/BroadyLaw&#10;&#10;Consider Becoming a Patreon: &#10;https://www.patreon.com/NateBroady&#10;&#10;&#10;DON'T' FORGET TO LIKE, SUBSCRIBE, COMMENT AND SHARE!!!&#10;&#10;Holla at me on - &#10;Twitter : https://twitter.com/NateTheLawyer&#10;Facebook: https://www.facebook.com/nate.broady.946&#10;&#10;Tags:&#10;supreme court,roe v wade,abortion rights,roe v. wade,us supreme court,roe vs wade,roe wade,scotus explained,supreme court explained,abortion 2022,us abortion,american abortion, abortion roe v wade supreme court"
     channeltitle "Nate The Lawyer"
     channelid "UCD5_QIM67BZJdh9AwZv3soA"
@@ -7291,7 +7291,7 @@ graph
     commentcount 1044
     duration "PT16M14S"
     indegree 1
-    cluster 5
+    cluster 1
   ]
   node
   [
@@ -7309,7 +7309,7 @@ graph
     commentcount 37
     duration "PT56S"
     indegree 0
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -7327,7 +7327,7 @@ graph
     commentcount 1036
     duration "PT8M46S"
     indegree 1
-    cluster 1
+    cluster 4
   ]
   node
   [
@@ -7345,7 +7345,7 @@ graph
     commentcount 21
     duration "PT5M59S"
     indegree 0
-    cluster 1
+    cluster 6
   ]
   node
   [
@@ -7363,7 +7363,7 @@ graph
     commentcount 976
     duration "PT4M"
     indegree 0
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -7381,7 +7381,7 @@ graph
     commentcount 17726
     duration "PT10M47S"
     indegree 3
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -7417,7 +7417,7 @@ graph
     commentcount 468
     duration "PT1M13S"
     indegree 0
-    cluster 1
+    cluster 5
   ]
   node
   [
@@ -7435,7 +7435,7 @@ graph
     commentcount 13003
     duration "PT1M1S"
     indegree 0
-    cluster 6
+    cluster 5
   ]
   node
   [
@@ -7453,7 +7453,7 @@ graph
     commentcount 1788
     duration "PT18M23S"
     indegree 1
-    cluster 6
+    cluster 2
   ]
   node
   [
@@ -7471,7 +7471,7 @@ graph
     commentcount 1634
     duration "PT19M41S"
     indegree 3
-    cluster 7
+    cluster 10
   ]
   node
   [
@@ -7489,7 +7489,7 @@ graph
     commentcount 905
     duration "PT10M28S"
     indegree 1
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -7507,7 +7507,7 @@ graph
     commentcount 19
     duration "PT4M22S"
     indegree 0
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -7515,7 +7515,7 @@ graph
     label "vwmBikfg418"
     step 0
     date "2022-07-09T18:48:05Z"
-    title "Roe V Wade Overturne tongue sticking out What Can We Do?"
+    title "Roe V Wade Overturned: What Can We Do?"
     description "An analysis of how Roe V Wade impacts us all and what we can do as voters to advocate for our rights. Many discussions regarding abortion focus on the argument of when life begins. Although there needs to be more discussion on how Roe V Wade impacts health care for all of us. Planned Parenthood and other health facilities provide so many services outside of abortions. Mamograms, STI/STD testing, testicular and cervical cancer screenings, and even services for the LGBTQIA+ community. Access to these services is a human right that we must protect. Rather than argue about when life begins let's end abortions, to begin with. Empirically speaking investment in contraceptives and comprehensive sex ed show a huge reduction in unwanted pregnancies and abortions. Better education, access to vital health care resources, and empowering everyone are ideas we can all come together behind. &#10;&#10;Resources: &#10;&#10;Roe V Wade Helpful Information &#10;&#10;https://www.plannedparenthood.org/files/6714/1996/2641/2013-2014_Annual_Report_FINAL_WEB_VERSION.pdf&#10;&#10;Access to Abortion Reduces Unwanted Pregnancy&#10;&#10;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4000282/&#10;&#10;Inflation Trends &#10;&#10;https://www.jec.senate.gov/public/index.cfm/republicans/2022/3/how-much-is-inflation-costing-you-it-depends-on-where-you-live&#10;&#10;Contraception Benefits &#10;&#10;https://www.ncbi.nlm.nih.gov/books/NBK235069/#:~:text=Oral%20contraceptives%2C%20for%20example%2C%20not,the%20risk%20of%20cardiovascular%20disease.&#10;&#10;Contraceptives and Unwanted Pregnancy Information&#10;&#10;https://www.guttmacher.org/gpr/2017/08/benefits-investing-international-family-planning-and-price-slashing-funding&#10;&#10;Foster Care Stats &#10;&#10;https://www.lilliput.org/blog/how-many-kids-are-california-foster-care-system&#10;&#10;Contraceptive Use in the United States&#10;&#10;https://www.guttmacher.org/fact-sheet/broad-benefits-contraceptive-use-united-states&#10;&#10;Stats on Contraceptives savings &#10;&#10;https://www.guttmacher.org/report/adding-it-up-investing-in-sexual-reproductive-health-2019#:~:text=Every%20dollar%20spent%20on%20contraceptive,related%20and%20newborn%20care%20alone.&#10;&#10;Music Used: &#10;&#10;Sad Cinematic Background - Dawn&#10;Music: Rights Free Sound&#10;Music Link: https://youtu.be/fc6U0StkC3c"
     channeltitle "Very Barry"
     channelid "UCkd25p_j76EYj4uqY9RSErQ"
@@ -7525,7 +7525,7 @@ graph
     commentcount 4
     duration "PT6M1S"
     indegree 0
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -7543,7 +7543,7 @@ graph
     commentcount 74
     duration "PT56M42S"
     indegree 5
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -7561,7 +7561,7 @@ graph
     commentcount 1118
     duration "PT8M"
     indegree 1
-    cluster 7
+    cluster 10
   ]
   node
   [
@@ -7579,7 +7579,7 @@ graph
     commentcount 8419
     duration "PT1H3M30S"
     indegree 7
-    cluster 6
+    cluster 4
   ]
   node
   [
@@ -7597,7 +7597,7 @@ graph
     commentcount 833
     duration "PT58M10S"
     indegree 8
-    cluster 2
+    cluster 7
   ]
   node
   [
@@ -7615,7 +7615,7 @@ graph
     commentcount 1550
     duration "PT11M24S"
     indegree 1
-    cluster 2
+    cluster 1
   ]
   node
   [
@@ -7633,7 +7633,7 @@ graph
     commentcount 31
     duration "PT11H54M56S"
     indegree 3
-    cluster 6
+    cluster 4
   ]
   node
   [
@@ -7651,7 +7651,7 @@ graph
     commentcount 6
     duration "PT16M24S"
     indegree 0
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -7669,7 +7669,7 @@ graph
     commentcount 758
     duration "PT1H13M4S"
     indegree 4
-    cluster 7
+    cluster 10
   ]
   node
   [
@@ -7687,7 +7687,7 @@ graph
     commentcount 29
     duration "PT8S"
     indegree 1
-    cluster 5
+    cluster 3
   ]
   node
   [
@@ -7705,7 +7705,7 @@ graph
     commentcount 852
     duration "PT2H32M3S"
     indegree 0
-    cluster 2
+    cluster 1
   ]
   node
   [
@@ -7723,7 +7723,7 @@ graph
     commentcount 1961
     duration "PT12M44S"
     indegree 2
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -7741,7 +7741,7 @@ graph
     commentcount 10627
     duration "PT5M15S"
     indegree 7
-    cluster 1
+    cluster 6
   ]
   node
   [
@@ -7749,7 +7749,7 @@ graph
     label "OfWBXJglhvU"
     step 0
     date "2022-06-24T19:27:34Z"
-    title "Supreme Court OVERTURNS Roe v. Wade Alexandria Ocasio-Cortez Goes INSANE While Disney Responds!"
+    title "Supreme Court OVERTURNS Roe v. Wade  Alexandria Ocasio-Cortez Goes INSANE While Disney Responds!"
     description "The #1 Way To Support This Channel Is Backing Me On SubscribeStar&#10;https://www.subscribestar.com/thequartering&#10;&#10;Become A Youtube Member! It's The #2 BEST Way To Support!&#10;https://www.youtube.com/channel/UCfwE_ODI1YTbdjkzuSi1Nag/join&#10;&#10;All My Socials, Guilded Chatroom &#38; More&#10;https://linktr.ee/thequartering"
     channeltitle "TheQuartering"
     channelid "UCfwE_ODI1YTbdjkzuSi1Nag"
@@ -7759,7 +7759,7 @@ graph
     commentcount 3765
     duration "PT12M50S"
     indegree 0
-    cluster 1
+    cluster 6
   ]
   node
   [
@@ -7777,7 +7777,7 @@ graph
     commentcount 2966
     duration "PT23M37S"
     indegree 3
-    cluster 2
+    cluster 5
   ]
   node
   [
@@ -7795,7 +7795,7 @@ graph
     commentcount 209
     duration "PT8M40S"
     indegree 1
-    cluster 1
+    cluster 5
   ]
   node
   [
@@ -7813,7 +7813,7 @@ graph
     commentcount 1
     duration "PT8M32S"
     indegree 0
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -7831,7 +7831,7 @@ graph
     commentcount 4990
     duration "PT13M21S"
     indegree 6
-    cluster 2
+    cluster 1
   ]
   node
   [
@@ -7849,7 +7849,7 @@ graph
     commentcount 476
     duration "PT6M52S"
     indegree 0
-    cluster 6
+    cluster 3
   ]
   node
   [
@@ -7867,7 +7867,7 @@ graph
     commentcount 3182
     duration "PT11M50S"
     indegree 2
-    cluster 1
+    cluster 5
   ]
   node
   [
@@ -7875,7 +7875,7 @@ graph
     label "1qnPU5vEQRY"
     step 0
     date "2022-06-28T16:25:25Z"
-    title "Obama Biden Lied About Codifying Roe v Wade"
+    title "Obama  Biden Lied About Codifying Roe v Wade"
     description "Become a Premium Member: https://jimmydorecomedy.com/join&#10;Go to a Live Show: https://jimmydorecomedy.com/tour &#10;Subscribe to Our Newsletter: https://mailchi.mp/jimmydorecomedy/ytlivestreams&#10;The Jimmy Dore Show Website:  https://jimmydorecomedy.com/&#10; &#10;LIVESTREAM &#38; LIVE SHOW ANNOUNCEMENTS: &#10;Join the Email list:  https://mailchi.mp/jimmydorecomedy/ytlivestreams&#10;Twitter: https://twitter.com/jimmy_dore&#10;Facebook:  https://www.facebook.com/JimmyDoreShow&#10;Instagram: https://www.instagram.com/thejimmydoreshow&#10; &#10;WATCH / LISTEN FREE:&#10;Videos: https://jimmydorecomedy.com/watch &#10;&#10;Podcasts: https://jimmydorecomedy.com/podcasts &#10;(Also available on iTunes, Apple Podcasts, Spotify, Google Podcasts, or your favorite podcast player.)&#10; &#10;ACCESS TO FULL REPLAYABLE LIVESTREAMS:&#10;Become a Premium Member: https://jimmydorecomedy.com/join&#10;&#10;SUPPORT THE JIMMY DORE SHOW:&#10;Make a Donation:  https://jimmydorecomedy.com/donate&#10;Buy Official Merch (Tees, Sweatshirts, Hats, Bags):  https://jimmydorecomedy.com/store&#10; &#10;DOWNLOAD OUR MOBILE APP:&#10;App Store: https://apps.apple.com/us/app/jimmy-dore/id839294547&#10;Google Play: https://play.google.com/store/apps/details?id=com.jimmydore.jimmydore&#10;&#10;Jimmy Dore on Twitter: https://twitter.com/Jimmy_Dore&#10;Stef Zamorano on Twitter: https://twitter.com/miserablelib&#10;&#10;About The Jimmy Dore Show:&#10;#TheJimmyDoreShow is a hilarious and irreverent take on news, politics and culture featuring Jimmy Dore, a professional stand up comedian, author and podcaster. The show is also broadcast on Pacifica Radio Network stations throughout the country."
     channeltitle "The Jimmy Dore Show"
     channelid "UC3M7l8ved_rYQ45AVzS0RGA"
@@ -7885,7 +7885,7 @@ graph
     commentcount 2398
     duration "PT12M15S"
     indegree 5
-    cluster 2
+    cluster 9
   ]
   node
   [
@@ -7903,7 +7903,7 @@ graph
     commentcount 0
     duration "PT2H21S"
     indegree 0
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -7921,7 +7921,7 @@ graph
     commentcount 8022
     duration "PT57M8S"
     indegree 13
-    cluster 5
+    cluster 3
   ]
   node
   [
@@ -7939,7 +7939,7 @@ graph
     commentcount 2398
     duration "PT8M10S"
     indegree 5
-    cluster 2
+    cluster 9
   ]
   node
   [
@@ -7947,7 +7947,7 @@ graph
     label "C0Nvcua4U4w"
     step 0
     date "2022-07-10T21:32:02Z"
-    title "Roe v. Wade Overturned E tongue sticking out lanation Divisive Rhetoric"
+    title "Roe v. Wade Overturned Explanation  Divisive Rhetoric"
     description "The Supreme Court overturned Roe v. Wade last month, ending the United States' federal abortion policies and returning this issue to the control of the states.  In this video I explain what the Supreme Court's ruling means for Americans.  I also discuss the misinformation, violence, and toxic, divisive rhetoric that has emerged in response to this ruling.  This is not the proper way to handle a situation like this in a democratic republic, and the unrealistic suggestions for fixing this problem are not helpful or productive either.  I end by going over the method I think will be most effective in returning abortion law to the federal government.&#10;&#10;Timestamps:&#10;0:00 - Intro&#10;2:39 - Clearing Up Misinformation&#10;7:36 - Divisive &#38; Unhelpful Reactions&#10;13:02 - Legitimacy of Supreme Court&#10;19:12 - The Solution&#10;27:50 - Outro&#10;&#10;Links&#10;Subscribe to my channel: https://www.youtube.com/channel/UCFrvSQzulXjUXE_aEiYAsbw&#10;Follow us on Twitter: https://twitter.com/Jeff_Centrist&#10;&#10;#roevwade #supremecourt &#10;4K video | pro-choice vs pro-life"
     channeltitle "The Centrist"
     channelid "UCFrvSQzulXjUXE_aEiYAsbw"
@@ -7957,7 +7957,7 @@ graph
     commentcount 5
     duration "PT29M52S"
     indegree 0
-    cluster 5
+    cluster 3
   ]
   node
   [
@@ -7975,7 +7975,7 @@ graph
     commentcount 8915
     duration "PT14M33S"
     indegree 19
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -7993,7 +7993,7 @@ graph
     commentcount 60
     duration "PT8M6S"
     indegree 0
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -8001,7 +8001,7 @@ graph
     label "-vUinNuU2hQ"
     step 0
     date "2022-06-28T17:15:00Z"
-    title "CRAZY Liberals FREAK OUT, CRY SCREAM Over Roe V. Wade Decision | TurningPointUSA"
+    title "CRAZY Liberals FREAK OUT, CRY  SCREAM Over Roe V. Wade Decision | TurningPointUSA"
     description "Subscribe to the channel &#9658;https://bit.ly/3gi53YK&#10;TurningPointUSA Instagram &#9658; https://www.instagram.com/turningpointusa/&#10;TPUSA LIVE &#9658; https://www.instagram.com/tpusa_live/&#10;&#10;Buy our NEW Homeland Collection HERE: &#127482;&#127480; https://tpusamerch.com&#10;&#10;&#9675; All Links &#9658; http://bit.ly/TurningPointUSA&#10;&#8226; Join &#9658; https://bit.ly/392v4Io&#10;&#8226; Donate &#9658; https://bit.ly/2ZvWmDT&#10;&#10;#TurningPointUSA #Liberals"
     channeltitle "Turning Point USA"
     channelid "UCVrK_pMRp_q8IelpfUCTGLQ"
@@ -8029,7 +8029,7 @@ graph
     commentcount 0
     duration "PT48M51S"
     indegree 0
-    cluster 6
+    cluster 2
   ]
   node
   [
@@ -8047,7 +8047,7 @@ graph
     commentcount 3
     duration "PT8M39S"
     indegree 0
-    cluster 2
+    cluster 1
   ]
   node
   [
@@ -8065,7 +8065,7 @@ graph
     commentcount 121
     duration "PT6M26S"
     indegree 0
-    cluster 1
+    cluster 6
   ]
   node
   [
@@ -8073,7 +8073,7 @@ graph
     label "zT3TQqySf_4"
     step 0
     date "2022-06-25T03:27:40Z"
-    title "LIVESTREAM: SCOTUS Overturns Roe V Wade | Live from Washington, DC | @TaraPoAm"
+    title "LIVESTREAM:  SCOTUS Overturns Roe V Wade | Live from Washington, DC | @TaraPoAm"
     description "Please support my work for :&#13;&#10;CashApp: https://cash.app/$TaraPoAm&#13;&#10;Venmo: www.venmo.com/u/TaraPoAm&#13;&#10;&#13;&#10;Please become a Subscriber for Tara PoAm:&#13;&#10;Patreon: https://www.patreon.com/TaraPoAm&#13;&#10;SubscribeStar: https://www.subscribestar.com/tarapoam&#13;&#10;&#13;&#10;Follow Tara PoAm on: &#13;&#10;Twitter: https://twitter.com/TaraPoAm&#13;&#10;Instagram: https://instagram.com/TaraPoAm&#13;&#10;Facebook: https://www.facebook.com/TaraPoAm&#13;&#10;Tik Tok: https://tiktok.com/TaraPoAm&#13;&#10;Odysee: https://odysee.com/@TaraPoAm&#13;&#10;Rumble: https://rumble.com/user/PoAmBrotherhood&#13;&#10;&#13;&#10;Subscribe to the Back Up Channel: https://www.youtube.com/channel/UCQgSKBmpSgMV2VUz7J3Y_OQ"
     channeltitle "On The Ground"
     channelid "UCoH8eqVwpW_3d6GVI90ktkw"
@@ -8083,7 +8083,7 @@ graph
     commentcount 26
     duration "PT1H25M49S"
     indegree 0
-    cluster 6
+    cluster 4
   ]
   node
   [
@@ -8101,7 +8101,7 @@ graph
     commentcount 622
     duration "PT26S"
     indegree 0
-    cluster 1
+    cluster 4
   ]
   node
   [
@@ -8119,7 +8119,7 @@ graph
     commentcount 1
     duration "PT52M33S"
     indegree 0
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -8137,7 +8137,7 @@ graph
     commentcount 12
     duration "PT23M25S"
     indegree 0
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -8155,7 +8155,7 @@ graph
     commentcount 1
     duration "PT8M30S"
     indegree 10
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -8173,7 +8173,7 @@ graph
     commentcount 146
     duration "PT34M15S"
     indegree 2
-    cluster 1
+    cluster 5
   ]
   node
   [
@@ -8191,7 +8191,7 @@ graph
     commentcount 3
     duration "PT7M12S"
     indegree 0
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -8209,7 +8209,7 @@ graph
     commentcount 5
     duration "PT1H33M40S"
     indegree 0
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -8227,7 +8227,7 @@ graph
     commentcount 18
     duration "PT11M6S"
     indegree 0
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -8263,7 +8263,7 @@ graph
     commentcount 29
     duration "PT9M30S"
     indegree 0
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -8271,7 +8271,7 @@ graph
     label "1cSP8WK9yB4"
     step 0
     date "2022-06-13T17:01:02Z"
-    title "OVERTURNING ROE v WADE #childsacrifice #banabortion"
+    title "OVERTURNING ROE v WADE  #childsacrifice #banabortion"
     description "So it is not the will of my Father who is in heaven that one of these little ones should perish. - Matthew 18:14&#10;&#10;&#8220;You shall not murder.&#8221; - Exodus 20:13&#10;&#10;For you formed my inward parts; you knitted me together in my mother's womb. I praise you, for I am fearfully and wonderfully made. Wonderful are your works; my soul knows it very well. My frame was not hidden from you, when I was being made in secret, intricately woven in the depths of the earth. Your eyes saw my unformed substance; in your book were written, every one of them, the days that were formed for me, when as yet there was none of them. - Psalm 138:13/16&#10;&#10;Praise God that a great victory Is coming soon. &#10;&#10;But Victorious times can be dangerous times &#8230; Be sober and be alert for the enemy prowls like a roaring lion seeking someone to devour.&#10;&#10;Warmest Shalom,&#10;Ahava Sarah Fischer&#10;TELEGRAM &#9742;&#65039; &#10;https://t.me/ahavasarah&#10;&#10;&#10;&#10;&#10;WATCH &#128293;&#128293;&#128293;&#10;&#10;I&#10;Modern Day Mystics Episode I &#10;https://youtu.be/cBET2hOZJJk&#10;&#10;II&#10;Modern Day Mystics Episode II&#10;https://youtu.be/5SF38Z05iS0&#10;&#10;III &#10;Modern Day Mystics Episode III&#10;https://youtu.be/--ekdxRSH84&#10;&#10;IV&#10;Modern Day Mystics Episode IV&#10;https://youtu.be/PqdhBKNFJjU&#10;&#10;&#10;&#10;&#128312;www.aweandwonder.studio&#10;&#10;&#128312; www.ahavasarah.com&#10;&#10;&#10;&#128312;Contact - &#10;General - ahavasarah@gmail.com&#10;Professional - ahavasarah@aweandwonder.studio&#10;&#10;&#128312;To sow into this ministry &#10;&#10;PAYPAL  ahavasarah@gmail.com&#10;www.paypal.me/ahavasarah &#10;&#10;VENMO&#10;@AhavaSarah-Fischer&#10;&#10;ZELLE&#10;ahavasarah@gmail.com"
     channeltitle "Ahava Sarah Fischer"
     channelid "UCihEDwtoS-iBcXGznXhRQXw"
@@ -8281,7 +8281,7 @@ graph
     commentcount 11
     duration "PT9M27S"
     indegree 0
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -8299,7 +8299,7 @@ graph
     commentcount 4167
     duration "PT1H14M11S"
     indegree 1
-    cluster 1
+    cluster 6
   ]
   node
   [
@@ -8335,7 +8335,7 @@ graph
     commentcount 39
     duration "PT24M6S"
     indegree 0
-    cluster 2
+    cluster 1
   ]
   node
   [
@@ -8353,7 +8353,7 @@ graph
     commentcount 493
     duration "PT7M7S"
     indegree 0
-    cluster 5
+    cluster 4
   ]
   edge
   [

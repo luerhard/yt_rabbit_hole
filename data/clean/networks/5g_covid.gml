@@ -1,4 +1,4 @@
-Creator "igraph version 1.3.1 Thu Jul 14 09:44:57 2022"
+Creator "igraph version 1.3.1 Thu Jul 14 11:01:11 2022"
 Version 1
 graph
 [
@@ -9,7 +9,7 @@ graph
     label "YaOoy8gdFvQ"
     step 0
     date "2020-04-09T19:30:00Z"
-    title "The Facts Behind 5G Coronavirus | Mashable E tongue sticking out lains"
+    title "The Facts Behind 5G  Coronavirus | Mashable Explains"
     description "5G has been blamed for increased rates of cancer, autism, and even infertility. Now it's being blamed for the coronavirus pandemic. Here's why none of this is true.&#10;&#10;Mashable is your source for the latest in tech, culture, and entertainment.&#160;&#160;&#10;Subscribe to Mashable:&#160;https://bit.ly/2DR64oM&#10;Watch more episodes of Mashable Explains: http://bit.ly/36y6pcE&#10;&#10;Follow us:&#10;Check out&#160;www.mashable.com&#10;Facebook:&#160;http://on.mash.to/2lyOwmZ&#10;Twitter:&#160;http://on.mash.to/1Udp1kz&#10;Instagram:&#160;http://on.mash.to/1U6D40&#10;&#10;#5G #Coronavirus #StayHome"
     channeltitle "Mashable"
     channelid "UCL8Nxsa1LB9DrMTHtt3IKiw"
@@ -153,7 +153,7 @@ graph
     label "INIKQVMyKGE"
     step 0
     date "2020-05-24T16:00:31Z"
-    title "Future Of 5G | 5G Vaccine"
+    title "Future Of 5G | 5G  Vaccine"
     description "Is 5G safe? 5G &#38; corona? Is 5G dangerous? Does 5G cause cancer?&#10;&#10;In this video, I break down the major rumors about the 5G conspiracy theories going around regarding 5G towers, 5G radiation and its relationship to the coronavirus and cancer. I also dive into the topic of human microchip tech, the vaccine and the future and purpose of 5G technology.&#10;&#10;Let me know your thoughts in the comments. Should we stop 5G?&#10;&#10;-Useful links-&#10;&#10;Disinfecting wipes - https://amzn.to/2UpuGOC&#10;Disinfecting Spray bottles - https://amzn.to/2Jnpfto&#10;Disinfecting cleaning liquids - https://amzn.to/2vR6nzA&#10;Alcohol bottles - https://amzn.to/2QRyNAM&#10;Alcohol wipes - https://amzn.to/2WMqCJM&#10;Soap Bars - https://amzn.to/2wJhXgz&#10;Soap Liquid - https://amzn.to/2QQoMUy&#10;UV light Cleaner - https://amzn.to/2UpeWva&#10;Face masks - https://amzn.to/2UJg2AG&#10;&#10;&#10004; Visit My Websites&#10;Parts &#38; Tools - https://www.serg-tech.com&#10;Unlock Any iPhone - https://www.unlockitrightnow.com&#10;&#10;&#10004; Follow Serg-Tech&#10;Instagram - https://www.instagram.com/serg.tech/&#10;Facebook - https://www.facebook.com/sergtechman&#10;&#10;&#10004; Learn from Serg-Tech&#10;3 Step Online Business - https://bit.ly/2XcajWU&#10;Cell Phone Business - https://bit.ly/2V6TQRl&#10;&#10;&#10004; My Favorite Books&#10;Power Of Now - https://amzn.to/3aLoJRY&#10;Letting Go - https://amzn.to/2V3sADd&#10;80/20 Rule - https://amzn.to/3aL4Vy3&#10;The 4 Hour Work Week - https://amzn.to/2yBJjpH&#10;The Magic of Thinking BIG - https://amzn.to/349Srh0&#10;&#10;&#10004; Things That I Use&#10;Camera:            http://amzn.to/2DuPJbV&#10;Microphone:     http://amzn.to/2DWnDTV&#10;Lighting Kit:      http://amzn.to/2DqOKoI&#10;Video Editor:    https://amzn.to/2sRfXxK&#10;&#10;Disclaimer: Links in the description are typically affiliate links that let you help support the channel at no extra cost."
     channeltitle "Serg Tech"
     channelid "UC24n6DdP2hN1OcVKVVxy_sg"
@@ -189,7 +189,7 @@ graph
     label "MDzvP0-zuwE"
     step 0
     date "2020-04-09T07:28:00Z"
-    title "Tech e tongue sticking out ert discusses 5G networks allegedly causing COVID-19 spread"
+    title "Tech expert discusses 5G networks allegedly causing COVID-19 spread"
     description "As the world battles the spread of Covid-19, fake news around it is growing. Lately there&#8217;s been a myth that 5G networks are causing the spread of the virus. But what&#8217;s the story behind this whole 5G saga? Toby Shapshak from Stuff Magazine joins me via skype to demystify the issue. Courtesy #DStv403"
     channeltitle "eNCA"
     channelid "UCI3RT5PGmdi1KVp9FG_CneA"
@@ -495,7 +495,7 @@ graph
     label "1apuXh-A7Os"
     step 0
     date "2020-05-22T13:00:00Z"
-    title "5G Myths Debunke tongue sticking out From Cancer to COVID-19"
+    title "5G Myths Debunked: From Cancer to COVID-19"
     description "5G has a lot of myths attached to it, all of which are untrue.&#10;Read more: https://andauth.co/5GConspiracy&#10;Learn Python with this certification bundle: https://andauth.co/PythonPromo&#10;&#10;5G is a hot topic not only because it is ushering in the next generation of mobile cellular technology with increased speed and reduced latency, but also because there seems to be an unhealthy amount of misunderstanding, myths, and conspiracy theories around 5G. Here is my attempt to bust some of the myths.&#10;&#10;Links to reports etc:&#10;-- Output Power Levels of 4G User Equipment and Implications on Realistic RF EMF Exposure Assessments:  https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7879218&#10;-- HKT 5G mmWave (28GHz) Field Trial: https://www.ofca.gov.hk/filemanager/ofca/en/content_669/tr201812_01.pdf&#10;-- 5G NR Uplink Enhancements: https://newsletter.mediatek.com/hubfs/mwc/download/ul-enhancements.pdf?hsLang=en&#10;&#10;&#10;Visit our website: https://www.androidauthority.com&#10;Check out our favorite stuff on Amazon: http://andauth.co/Amazon&#10;Download the Android Authority App: https://andauth.co/aa-app&#10;Listen to our Podcast: https://www.androidauthority.com/podcast/&#10;&#10;----------------------------------------------------&#10;Follow us on social:&#10;- https://facebook.com/androidauthority/&#10;- https://twitter.com/androidauth/&#10;- https://instagram.com/androidauthority/&#10;- https://snapchat.com/add/androidauth&#10;&#10;Affiliate Disclosure:&#10;This post may contain affiliate links, when you buy through links in the description we may earn an affiliate commission. See our affiliate link policy for more details: https://www.androidauthority.com/external-links/&#10;&#10;Follow the Team:&#10;David Imel: https://twitter.com/durvidimel&#10;Ryan Thomas: https://twitter.com/_rythomas&#10;Adam Molina: https://twitter.com/AdamLukas17&#10;Joe Hindy: https://twitter.com/ThatJoeHindy&#10;Gary Sims: https://twitter.com/garysims&#10;Kris Carlon: https://twitter.com/kriscarlon"
     channeltitle "Android Authority"
     channelid "UCgyqtNWZmIxTx3b6OxTSALw"
@@ -531,7 +531,7 @@ graph
     label "K0WKpXSzA20"
     step 0
     date "2020-04-22T10:36:22Z"
-    title "Conspiracy theories linking 5G and coronavirus | Squawk Box Europe"
+    title "Conspiracy theories linking 5G and coronavirus  | Squawk Box Europe"
     description "Mats Granryd, director general of the GSMA, discusses the roll out of 5G mobile networks."
     channeltitle "CNBC International TV"
     channelid "UCF8HUTbUwPKh2Q-KpGOCVGw"
@@ -603,7 +603,7 @@ graph
     label "DWudD6BvBRw"
     step 0
     date "2020-04-09T15:00:13Z"
-    title "5G coronavirus conspiracy, Quibi how to choose a camera | Fast Charge Episode 10"
+    title "5G coronavirus conspiracy, Quibi  how to choose a camera | Fast Charge Episode 10"
     description "This week on Fast Charge Dom is joined by Hannah and PCWorld's Adam Patrick Murray to discuss why the UK thinks 5G is causing the coronavirus, the launch of mobile-only streaming app Quibi, and to get Adam's top tips on what to look for in a smartphone camera these days.&#10;&#13;&#10;Subscribe: http://bit.ly/2AMr51N &#13;&#10;Watch more videos: https://www.youtube.com/techadvisor &#13;&#10;Facebook: https://www.facebook.com/techadvisoruk/ &#13;&#10;Twitter: https://twitter.com/TechAdvisorUK &#13;&#10;Instagram: https://www.instagram.com/techadvisoruk/ &#13;&#10;Read more: https://www.techadvisor.co.uk/"
     channeltitle "Tech Advisor"
     channelid "UCOYuMvuSP9wuC4KfFhRB1vQ"
@@ -693,7 +693,7 @@ graph
     label "HM_aUduXK-U"
     step 0
     date "2020-04-06T18:34:14Z"
-    title "Analysing the Dangerous 5G VIRUS - Anthony Steele E tongue sticking out OSED!"
+    title "Analysing the Dangerous 5G VIRUS  - Anthony Steele EXPOSED!"
     description "Recent videos from &#34; 5G Experts&#34; like Anthony Steele caused an attack on 5G Towers in the UK. Several 5G towers burned down because people think its a 5G Weapon System making people Sick and spreading a Virus. In this video we will analyse one of those conspiracy guys.. Checkout the TRUTH! Video mentioned: https://bit.ly/34eIdfe&#10;&#8595;&#8595;&#8595;&#8595;&#8595;&#8595;&#8595;&#8595;&#8595;&#8595;&#8595;&#8595; open up for more info &#8595;&#8595;&#8595;&#8595;&#8595;&#8595;&#8595;&#8595;&#8595;&#8595;&#8595;&#8595;&#8595;&#8595;&#10;-------------------------------------------------------------------------------------------------&#10;Street lights installed with 5G are a &#34;weapons system&#34; being released into UK streets, a conspiracist has claimed. Over the last few months claims have been made that 5G systems could be harming the environment and the public.And in a recent video, conspiracist Anthony Steele claimed a whistleblower who works for the police has come forward to confirm it. Anthony deconstructed a light he claims the whistleblower sent him a light so he could see its inner elements. While taking it apart, he said: &#34;This is a weapon system, nothing more than a weapon system. &#34;I know it's masquerading as a light but it's a weapon.&#34;.... BULLS**T&#10;&#10;This is already proven as FAKENEWS. Please help to stop #fakenews by sharing this video. Instead of &#34;Stop 5G&#34; stop fakenews!&#10;&#10;&#9658;&#9658;&#9658;Interested in Tech! &#10;INSTAGRAM: https://www.instagram.com/techmagnet_yt&#10;BLOG: https://www.tech-magnet.tech&#10;TWITTER: https://twitter.com/techmagnet_yt&#10;&#10;#5G #stop5G #5gdanger&#10;------------------------------------------------------------------------------------------------&#10;Music by :  &#10;music (bought) - Epidemic Sounds&#10;NOT SPONSORED - NOT AFFILIATED!"
     channeltitle "TechMagnet"
     channelid "UCtT2VnurQKOAA0I1EKKHSPA"
@@ -729,7 +729,7 @@ graph
     label "q5LprlTwSFM"
     step 0
     date "2020-04-04T16:13:11Z"
-    title "Government condemns coronavirus 5G conspiracy theory"
+    title "Government condemns  coronavirus 5G conspiracy theory"
     description "Conspiracy theories linking 5G to coronavirus have been slammed by the government as Michael Gove and Professor Powis addressed the nation on Saturday afternoon. &#10;&#10;Their strong condemnation comes following reports that 5G masts have been set alight in the UK following the spread of fake news online. &#10;&#10;For the latest on coronavirus as it happens, follow our liveblog here: https://www.telegraph.co.uk/global-health/science-and-disease/coronavirus-news-uk-cases-update-deaths-nhs-covid-19-hospitals/?WT.mc_id=tmg_youtube_offsite_televideo-youtubevideo_China&#38;utm_source=tmgoff&#38;utm_medium=tmg_youtube&#38;utm_content=offsite_televideo&#38;utm_campaign=tmg_youtube_offsite_televideo-youtubevideo_China&#10;&#10;Get the latest headlines: https://www.telegraph.co.uk/&#10;&#10;&#10;Telegraph.co.uk and YouTube.com/TelegraphTV are websites of The Telegraph, the UK's best-selling quality daily newspaper providing news and analysis on UK and world events, business, sport, lifestyle and culture."
     channeltitle "The Telegraph"
     channelid "UCPgLNge0xqQHWM5B5EFH9Cg"
@@ -1143,7 +1143,7 @@ graph
     label "ShsfdhChUVM"
     step 0
     date "2020-04-21T06:30:52Z"
-    title "Debunking Conspiracy Theories About 5G COVID-19"
+    title "Debunking Conspiracy Theories About 5G  COVID-19"
     description "Find me on Instagram: http://www.instagram.com/adeolafayehun&#10;Twitter: http://www.twitter.com/adeolafayehun&#10;Facebook: http://www.facebook.com/adeolafayehun"
     channeltitle "Adeola Fayehun"
     channelid "UCLbiHTTFeFBTvcU_D98PCYw"
@@ -1395,7 +1395,7 @@ graph
     label "AKpk55kIIKg"
     step 0
     date "2020-04-09T22:30:09Z"
-    title "China Uses Coronavirus Pandemic As To Development 5G Contracts"
+    title "China Uses Coronavirus Pandemic As  To Development 5G Contracts"
     description "China is closer to developing 5G capabilities, which means China could use Huawei to track data transmitted through 5G networks, as a sophisticated form of espionage. &#10;&#10;Tune in to see how 5G can improve the lives of Americans, and protect the United States national security.&#160;&#10;&#10;Subscribe to our channel! https://goo.gl/pyGqbu&#10;&#10;Become a Daily Caller PATRIOT: https://dailycaller.com/subscribe/&#10;&#10;Subscribe to our podcast on Itunes https://urlzs.com/1wpfr&#10;&#10;and Soundcloud https://urlzs.com/nS4Zy&#10;&#10;Or visit our website: https://www.dailycaller.com&#10;&#10;Check out our twitter: https://goo.gl/fnYe4v&#10;&#10;And Facebook: https://goo.gl/W5junb&#10;&#10;Or follow Instagram: https://goo.gl/mhVr1Y&#10;&#10;And don&#8217;t forget to subscribe! https://goo.gl/pyGqbu"
     channeltitle "Daily Caller"
     channelid "UCP4BdwPKyYnfRLjSNfGAPRA"
@@ -1413,7 +1413,7 @@ graph
     label "lkETqbSTbgI"
     step 0
     date "2020-05-07T16:31:08Z"
-    title "COVID19, 5G Zombies Texas Thrash Metal - Overt Enemy"
+    title "COVID19, 5G Zombies  Texas Thrash Metal - Overt Enemy"
     description "Overt Enemy - Texas Thrash Metal FFO: #Slayer, #Sepultura, #Pantera &#38; #PowerTrip &#10;Get Vinyl, CD's and Official Merch: https://overtenemy.com &#10;All Streaming Platforms: https://music.dropoutmedia.net/OvertStreaming&#10;Bandcamp: https://overtenemy.bandcamp.com&#10;Facebook: https://facebook.com/OvertEnemy&#10;Instagram: https://www.instagram.com/overtenemyband &#10;Twitter: https://twitter.com/overtenemyband&#10;#OvertEnemy #OvertEnemyBand #ThrashMetal #NWOTM #TexasMetal&#10;&#10;COVID19, 5G Zombies &#38; more with RGV Texas Thrash Metal band Overt Enemy"
     channeltitle "Overt Enemy"
     channelid "UCJuEBRKD_g-vqnWttf8NvSg"
@@ -1557,7 +1557,7 @@ graph
     label "GaEtcHDCj6Y"
     step 0
     date "2020-04-06T21:10:40Z"
-    title "5G Covid-19 - Spiritual Truths"
+    title "5G  Covid-19 - Spiritual Truths"
     description "This is a channelled message from source energy entitled 5G &#38; Covid-19 - Spiritual Truths.  &#10;&#10;I channel multi dimensionally from the physical and non physical planes.  The words have been read as I have received them without my opinion however, I offer my conclusions at the end.&#10;&#10;Feedback is always welcome by commenting on the video or via my socials below.&#10;&#10;Please do subscribe!&#10;&#10;As always, you can email me at: hello@yasminibrahim.co.uk or join my mailing list in the last link.&#10;&#10;You can also follow me on: &#10;Instagram @missyasminibrahim&#10;Facebook @yasminibrahimintuitivechannel&#10;&#10;Or to book a session with me:&#10;linktr.ee/missyasminibrahim"
     channeltitle "Yasmin Ibrahim"
     channelid "UCe7_msOOc5p97cj5F660Wxw"
@@ -1575,7 +1575,7 @@ graph
     label "0HqMNOFwpoo"
     step 0
     date "2020-03-27T23:22:12Z"
-    title "Corona Virus: The Real Fake News // 5G, Corona Virus Lockdowns"
+    title "Corona Virus: The Real Fake News // 5G, Corona Virus  Lockdowns"
     description "Hey Beautiful People ! Bit of a switch here... bringing you real fake news about the Corona Virus and this Pandemic. Still lots more to cover on this topic including why major CEOs left their positions, the simulation test, ID2020, why we're ignoring the other leading causes of deaths today, how Bill Gatekeeper orchestrated this world economy crash and how this is all integrated into smart cities. If you have anymore information, share your insight below so more people can become aware of this NWO. Peace and love !!&#10;&#10;check out www.lifestyledynamix.com for health guides, coaching, apparel and challenges to help you level up in this matrix"
     channeltitle "Lifestyle Dynamix"
     channelid "UCEEdYRJaRB0x193_6bO5akg"
@@ -1629,7 +1629,7 @@ graph
     label "fTAFDo67LwQ"
     step 0
     date "2022-06-28T15:11:07Z"
-    title "Covid-19 Vaccines 5G Injuries Meditation Propaganda Wisdom Conspiracy Theories QAnon Klaus God"
+    title "Covid-19 Vaccines 5G Injuries Meditation Propaganda  Wisdom Conspiracy Theories QAnon Klaus God"
     description ""
     channeltitle "Day Trade Report"
     channelid "UCoTxKkCZrNgxGYM61zmHB0Q"
@@ -1665,7 +1665,7 @@ graph
     label "4CbLf4GWVCU"
     step 0
     date "2020-04-06T16:07:50Z"
-    title "David Icke and the about Coronavirus and 5G"
+    title "David Icke and the  about Coronavirus and 5G"
     description "How he persuades people to believe this stuff.&#10;&#10;Full show at London Real TV: https://www.youtube.com/watch?v=gMTZu6_TjU8&#10;&#10;Join the SFP or become a regular donor here: &#10;https://scottishfamily.org/get-involved/"
     channeltitle "Scottish Family Party"
     channelid "UC7FYQ0yiqBqDZ_Cc5W0oI0g"
@@ -1683,7 +1683,7 @@ graph
     label "1hy2O_gtRPw"
     step 0
     date "2020-03-23T03:48:30Z"
-    title "Why I Decided to Leave America | (Covid-19 5G Implementation)"
+    title "Why I Decided to Leave America | (Covid-19  5G Implementation)"
     description "Let me know if you guys think I'm a looney bin now &#129315;&#10;&#10;The 5G Virus &#38; Fear Based Programming&#10;https://www.youtube.com/watch?v=XwTe3vH0R68&#10;&#10;Chemtrail Documentary&#10;https://www.youtube.com/watch?v=rI2OGALLTT0&#10;&#10;Vaccination Documentary&#10;https://www.youtube.com/watch?v=B2N35yVQcSk&#10;&#10;5G Documentary&#10;https://www.youtube.com/watch?v=bG8f5kUpbcg&#10;&#10;The Meaning of Life&#10;https://www.youtube.com/watch?v=fDybnCmcyeI&#10;&#10;Consider Subscribing!&#10;https://www.youtube.com/GabrielNg&#10;&#10;Join the Fasting Squad on the app - &#34;LIFE - Fasting Tracker&#34;&#10;https://lifefastingtracker.app.link/9f7XLatCXY&#10;&#10;Sign up for a 200-Hour YTT Course at Vikasa in Thailand with my link and get 100USD OFF! (Verfication Code: xxx420)&#10;https://vikasayoga.com/yoga-teacher-training/?ref=gabrielng1&#10;&#10;Check out The OmCast! &#10;https://anchor.fm/theomcast&#10;&#10;All podcast episodes are available on iTunes, Spotify, Anchor, Google Podcasts &#38; more!&#10;&#10;IG - https://www.instagram.com/om.gabrielng&#10;IG - https://www.instagram.com/wanderingcrane&#10;FB - https://www.facebook.com/om.gabrielng&#10;Steemit - https://steemit.com/@gaber&#10;&#10;Business Inquiries&#10;Website - https://www.gabrielng.me/&#10;Email - gaberr.ng@gmail.com"
     channeltitle "Gabriel Ng"
     channelid "UC1hBEcYKKt34_T_bJYvX6qA"
@@ -1773,7 +1773,7 @@ graph
     label "1scJszOH4hc"
     step 0
     date "2020-04-03T06:23:45Z"
-    title "5G ve CORONA (Covid-19) ! AYNI ZAMANDA ???"
+    title "5G ve CORONA (Covid-19) ! AYNI ZAMANDA  ???"
     description "Alt yaz&#305;l&#305; olarak izleyece&#287;iniz video da Dana Ashlie, 5g ile corona aras&#305;nda ki ba&#287;lant&#305;lar&#305; anlatmaktad&#305;r, bunlar&#305;n tesad&#252;f olamayaca&#287;&#305;n&#305; belki de 5G ile vir&#252;s&#252;n ayn&#305; anda ortaya &#231;&#305;kar&#305;larak 5G nin sa&#287;l&#305;&#287;a zararlar&#305;n&#305; &#246;rtmek ama&#231;l&#305; olabilece&#287;i delillerle anlat&#305;lmaya &#231;al&#305;&#351;&#305;lm&#305;&#351;t&#305;r. Komple teorisi mi yoksa ger&#231;ek mi ?  Sizde yorumlar&#305;n&#305;z&#305; yaz&#305;n&#305;z."
     channeltitle "ARA KANAL"
     channelid "UCU8izdryrjXE6OCxOxPVnpg"
