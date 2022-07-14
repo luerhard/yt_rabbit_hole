@@ -162,7 +162,7 @@ server <- function(input, output, session) {
 
 
 
-  # Select a random article to code -----------------------------
+  # Select a random video to code -----------------------------
   to_code <- eventReactive(input$new_abstract, {
 
 
@@ -173,18 +173,18 @@ server <- function(input, output, session) {
       dplyr::sample_n(size = 1)
   })
 
-  # display journal, title, and abstract ----------------------
+  # display title, and description ----------------------
   output$title <- renderTable(to_code() %>% select(title))
   output$description <- renderTable(to_code() %>% select(description))
-  output$channel_title <- renderTable(to_code() %>% select(channel_title))
+  output$channel_title <- renderTable(to_code() %>% select(channeltitle))
   output$url <- renderTable(to_code() %>% select(url))
 
-  # Aggregate form data and article ID -----------------------
+  # Aggregate form data and video ID -----------------------
   formData <- reactive({
     data <- sapply(fields, function(x) input[[x]])
-    # append article ID
+    # append video ID
     data <- c(data, # coder name and choice
-              to_code() %>% select(s.no.)) # article ID
+              to_code() %>% select(s.no.)) # video ID
     # transpose
     data <- t(data)
     data
