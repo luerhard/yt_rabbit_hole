@@ -229,7 +229,7 @@ server <- function(input, output, session) {
     exclude1 <- priors %>%
       group_by(s.no.) %>%
       mutate(total = length(s.no.)) %>%
-      filter(total >= 6) %>%
+      filter(total >= 3) %>%
       select(s.no.)
     
     # exclude articles already coded by current coder
