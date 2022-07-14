@@ -28,12 +28,9 @@ input_file <- as_data_frame(g,"vertices")
 
 sample_ids <- read.csv(here("data/clean/label sample/label_ids.csv"))
 
-video_html_start = '<iframe width="560" height="315" src="https://www.youtube.com/embed/'
-video_html_end = '" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
-
 input_file <- input_file %>%
   mutate(
-    #url = paste0("https://www.youtube.com/watch?v=", label),
+    s.no. = label,
     url = paste0('<iframe width="560" height="315" src="https://www.youtube.com/embed/', label , '" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>')
     ) %>%
   filter(
