@@ -12,7 +12,7 @@ library(readr)
 library(stringr)
 
 
-my_path <- "C:\\Users\\Harkirat Singh Lamba\\Desktop\\yt"
+my_path <- here()
 response_path <- paste0(my_path, "/responses/")
 
 
@@ -20,14 +20,23 @@ response_path <- paste0(my_path, "/responses/")
 # Data Import and Merge ###############################################
 
 ## Get original and auto abstract files
-g <-  read_graph('C:\\Users\\Harkirat Singh Lamba\\Desktop\\yt\\filter_bubbles.gml', format = "gml")
-data <- as_data_frame(g,"vertices")
-data <- input_file %>%
+graph_name <- "adrenochrome"
+
+graph_file <- paste0(graph_name, ".gml")
+
+g <-  read_graph(here("data/clean/networks", graph_file), format = "gml")
+input_file <- as_data_frame(g,"vertices")
+
+sample_ids <- read.csv(here("data/clean/label sample/label_ids.csv"))
+
+input_file <- input_file %>%
   mutate(
     url = paste0("https://www.youtube.com/watch?v=", label),
     s.no. = label
+  ) %>%
+  filter(
+    label %in% sample_ids$video_id
   )
-
 
 # Compile Responses ###########################################################
 
