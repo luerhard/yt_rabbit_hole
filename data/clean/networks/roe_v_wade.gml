@@ -1,4 +1,4 @@
-Creator "igraph version 1.3.1 Thu Jul 14 12:20:30 2022"
+Creator "igraph version 1.3.1 Thu Jul 14 12:39:19 2022"
 Version 1
 graph
 [
@@ -73,7 +73,7 @@ graph
     commentcount 2918
     duration "PT5M59S"
     indegree 158
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -127,7 +127,7 @@ graph
     commentcount 5679
     duration "PT16M52S"
     indegree 176
-    cluster 1
+    cluster 3
   ]
   node
   [
@@ -163,7 +163,7 @@ graph
     commentcount 15827
     duration "PT27M13S"
     indegree 53
-    cluster 5
+    cluster 2
   ]
   node
   [
@@ -217,7 +217,7 @@ graph
     commentcount 18827
     duration "PT11M46S"
     indegree 98
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -397,7 +397,7 @@ graph
     commentcount 576
     duration "PT27M28S"
     indegree 13
-    cluster 2
+    cluster 6
   ]
   node
   [
@@ -577,7 +577,7 @@ graph
     commentcount 14873
     duration "PT2M3S"
     indegree 58
-    cluster 6
+    cluster 5
   ]
   node
   [
@@ -685,7 +685,7 @@ graph
     commentcount 989
     duration "PT2M21S"
     indegree 7
-    cluster 6
+    cluster 4
   ]
   node
   [
@@ -739,7 +739,7 @@ graph
     commentcount 755
     duration "PT11M54S"
     indegree 4
-    cluster 1
+    cluster 4
   ]
   node
   [
@@ -775,7 +775,7 @@ graph
     commentcount 294
     duration "PT6M5S"
     indegree 5
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -1153,7 +1153,7 @@ graph
     commentcount -1
     duration "PT4M30S"
     indegree 4
-    cluster 1
+    cluster 6
   ]
   node
   [
@@ -1315,7 +1315,7 @@ graph
     commentcount 176
     duration "PT6M28S"
     indegree 3
-    cluster 6
+    cluster 4
   ]
   node
   [
@@ -1333,7 +1333,7 @@ graph
     commentcount 2825
     duration "PT2M59S"
     indegree 72
-    cluster 6
+    cluster 4
   ]
   node
   [
@@ -1495,7 +1495,7 @@ graph
     commentcount 158
     duration "PT3M31S"
     indegree 0
-    cluster 2
+    cluster 1
   ]
   node
   [
@@ -1549,7 +1549,7 @@ graph
     commentcount 1577
     duration "PT3M10S"
     indegree 6
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -1621,7 +1621,7 @@ graph
     commentcount 39
     duration "PT2M22S"
     indegree 0
-    cluster 1
+    cluster 7
   ]
   node
   [
@@ -1729,7 +1729,7 @@ graph
     commentcount 2741
     duration "PT7M59S"
     indegree 34
-    cluster 6
+    cluster 4
   ]
   node
   [
@@ -1765,7 +1765,7 @@ graph
     commentcount 753
     duration "PT8M30S"
     indegree 2
-    cluster 1
+    cluster 6
   ]
   node
   [
@@ -1927,7 +1927,7 @@ graph
     commentcount 1573
     duration "PT10M20S"
     indegree 0
-    cluster 2
+    cluster 5
   ]
   node
   [
@@ -2089,7 +2089,7 @@ graph
     commentcount 168
     duration "PT10H32M18S"
     indegree 2
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -2107,7 +2107,7 @@ graph
     commentcount 9452
     duration "PT15M14S"
     indegree 5
-    cluster 1
+    cluster 7
   ]
   node
   [
@@ -2179,7 +2179,7 @@ graph
     commentcount 1954
     duration "PT2M56S"
     indegree 2
-    cluster 6
+    cluster 3
   ]
   node
   [
@@ -2269,7 +2269,7 @@ graph
     commentcount 485
     duration "PT3M38S"
     indegree 2
-    cluster 1
+    cluster 7
   ]
   node
   [
@@ -2305,7 +2305,7 @@ graph
     commentcount 1892
     duration "PT4M35S"
     indegree 8
-    cluster 2
+    cluster 6
   ]
   node
   [
@@ -2629,7 +2629,7 @@ graph
     commentcount 620
     duration "PT6M54S"
     indegree 8
-    cluster 1
+    cluster 3
   ]
   node
   [
@@ -2719,7 +2719,7 @@ graph
     commentcount 27965
     duration "PT18M26S"
     indegree 68
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -2773,7 +2773,7 @@ graph
     commentcount 689
     duration "PT2M17S"
     indegree 3
-    cluster 1
+    cluster 3
   ]
   node
   [
@@ -2899,7 +2899,7 @@ graph
     commentcount 507
     duration "PT1M49S"
     indegree 0
-    cluster 1
+    cluster 3
   ]
   node
   [
@@ -2989,7 +2989,7 @@ graph
     commentcount 1885
     duration "PT32M29S"
     indegree 2
-    cluster 2
+    cluster 6
   ]
   node
   [
@@ -3061,7 +3061,7 @@ graph
     commentcount -1
     duration "PT5M18S"
     indegree 40
-    cluster 6
+    cluster 3
   ]
   node
   [
@@ -3259,7 +3259,7 @@ graph
     commentcount 44
     duration "PT2H41M16S"
     indegree 1
-    cluster 2
+    cluster 1
   ]
   node
   [
@@ -3439,7 +3439,7 @@ graph
     commentcount 3635
     duration "PT55M15S"
     indegree 37
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -3493,7 +3493,7 @@ graph
     commentcount 21
     duration "PT4M44S"
     indegree 0
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -3601,7 +3601,7 @@ graph
     commentcount 5
     duration "PT1M43S"
     indegree 0
-    cluster 2
+    cluster 1
   ]
   node
   [
@@ -3745,7 +3745,7 @@ graph
     commentcount 329
     duration "PT2M10S"
     indegree 2
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -3871,7 +3871,7 @@ graph
     commentcount 221
     duration "PT17M54S"
     indegree 18
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -3889,7 +3889,7 @@ graph
     commentcount 7557
     duration "PT5M46S"
     indegree 2
-    cluster 5
+    cluster 2
   ]
   node
   [
@@ -3907,7 +3907,7 @@ graph
     commentcount 1468
     duration "PT7M20S"
     indegree 10
-    cluster 2
+    cluster 1
   ]
   node
   [
@@ -3943,7 +3943,7 @@ graph
     commentcount 244
     duration "PT1M20S"
     indegree 0
-    cluster 5
+    cluster 2
   ]
   node
   [
@@ -3979,7 +3979,7 @@ graph
     commentcount -1
     duration "PT2M9S"
     indegree 3
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -4015,7 +4015,7 @@ graph
     commentcount 266
     duration "PT8M46S"
     indegree 1
-    cluster 1
+    cluster 3
   ]
   node
   [
@@ -4087,7 +4087,7 @@ graph
     commentcount 128
     duration "PT6M4S"
     indegree 0
-    cluster 5
+    cluster 6
   ]
   node
   [
@@ -4105,7 +4105,7 @@ graph
     commentcount 373
     duration "PT31M29S"
     indegree 11
-    cluster 5
+    cluster 2
   ]
   node
   [
@@ -4141,7 +4141,7 @@ graph
     commentcount 4047
     duration "PT11M24S"
     indegree 14
-    cluster 1
+    cluster 6
   ]
   node
   [
@@ -4267,7 +4267,7 @@ graph
     commentcount -1
     duration "PT2M40S"
     indegree 0
-    cluster 1
+    cluster 3
   ]
   node
   [
@@ -4339,7 +4339,7 @@ graph
     commentcount 1271
     duration "PT1H23M26S"
     indegree 2
-    cluster 5
+    cluster 2
   ]
   node
   [
@@ -4393,7 +4393,7 @@ graph
     commentcount 678
     duration "PT2M22S"
     indegree 0
-    cluster 6
+    cluster 1
   ]
   node
   [
@@ -4771,7 +4771,7 @@ graph
     commentcount -1
     duration "PT1M1S"
     indegree 0
-    cluster 1
+    cluster 3
   ]
   node
   [
@@ -4789,7 +4789,7 @@ graph
     commentcount 4
     duration "PT1M"
     indegree 0
-    cluster 6
+    cluster 3
   ]
   node
   [
@@ -4879,7 +4879,7 @@ graph
     commentcount 231
     duration "PT1M57S"
     indegree 1
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -4897,7 +4897,7 @@ graph
     commentcount 929
     duration "PT39M28S"
     indegree 14
-    cluster 2
+    cluster 1
   ]
   node
   [
@@ -4951,7 +4951,7 @@ graph
     commentcount 17467
     duration "PT57S"
     indegree 0
-    cluster 2
+    cluster 6
   ]
   node
   [
@@ -5059,7 +5059,7 @@ graph
     commentcount 118
     duration "PT15M20S"
     indegree 0
-    cluster 2
+    cluster 4
   ]
   node
   [
@@ -5113,7 +5113,7 @@ graph
     commentcount 1581
     duration "PT18M35S"
     indegree 31
-    cluster 5
+    cluster 6
   ]
   node
   [
@@ -5293,7 +5293,7 @@ graph
     commentcount 167
     duration "PT3M46S"
     indegree 1
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -5419,7 +5419,7 @@ graph
     commentcount 10645
     duration "PT9M58S"
     indegree 6
-    cluster 1
+    cluster 5
   ]
   node
   [
@@ -5437,7 +5437,7 @@ graph
     commentcount 2829
     duration "PT15M27S"
     indegree 1
-    cluster 6
+    cluster 4
   ]
   node
   [
@@ -5455,7 +5455,7 @@ graph
     commentcount 88
     duration "PT3M53S"
     indegree 0
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -5491,7 +5491,7 @@ graph
     commentcount 1773
     duration "PT58S"
     indegree 0
-    cluster 2
+    cluster 6
   ]
   node
   [
@@ -5635,7 +5635,7 @@ graph
     commentcount 787
     duration "PT7M5S"
     indegree 0
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -5653,7 +5653,7 @@ graph
     commentcount 101
     duration "PT3M58S"
     indegree 0
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -5671,7 +5671,7 @@ graph
     commentcount 6880
     duration "PT4M3S"
     indegree 3
-    cluster 5
+    cluster 2
   ]
   node
   [
@@ -5743,7 +5743,7 @@ graph
     commentcount 5204
     duration "PT18M11S"
     indegree 5
-    cluster 3
+    cluster 5
   ]
   node
   [
@@ -5815,7 +5815,7 @@ graph
     commentcount 1726
     duration "PT8M23S"
     indegree 0
-    cluster 1
+    cluster 5
   ]
   node
   [
@@ -5869,7 +5869,7 @@ graph
     commentcount 34826
     duration "PT1H11M51S"
     indegree 28
-    cluster 2
+    cluster 6
   ]
   node
   [
@@ -5977,7 +5977,7 @@ graph
     commentcount 4954
     duration "PT11M44S"
     indegree 1
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -6085,7 +6085,7 @@ graph
     commentcount 1919
     duration "PT8M3S"
     indegree 8
-    cluster 1
+    cluster 6
   ]
   node
   [
@@ -6121,7 +6121,7 @@ graph
     commentcount 61
     duration "PT12M41S"
     indegree 0
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -6229,7 +6229,7 @@ graph
     commentcount 8323
     duration "PT29M18S"
     indegree 12
-    cluster 5
+    cluster 2
   ]
   node
   [
@@ -6301,7 +6301,7 @@ graph
     commentcount 4795
     duration "PT8M6S"
     indegree 14
-    cluster 4
+    cluster 6
   ]
   node
   [
@@ -6319,7 +6319,7 @@ graph
     commentcount 1882
     duration "PT42S"
     indegree 0
-    cluster 5
+    cluster 2
   ]
   node
   [
@@ -6481,7 +6481,7 @@ graph
     commentcount 500
     duration "PT15S"
     indegree 0
-    cluster 6
+    cluster 4
   ]
   node
   [
@@ -6517,7 +6517,7 @@ graph
     commentcount 1857
     duration "PT27M"
     indegree 4
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -6625,7 +6625,7 @@ graph
     commentcount 452
     duration "PT20M37S"
     indegree 3
-    cluster 5
+    cluster 2
   ]
   node
   [
@@ -6643,7 +6643,7 @@ graph
     commentcount 342
     duration "PT1M22S"
     indegree 0
-    cluster 3
+    cluster 6
   ]
   node
   [
@@ -6697,7 +6697,7 @@ graph
     commentcount 2032
     duration "PT1H36M18S"
     indegree 5
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -6733,7 +6733,7 @@ graph
     commentcount 1242
     duration "PT8S"
     indegree 0
-    cluster 5
+    cluster 2
   ]
   node
   [
@@ -6751,7 +6751,7 @@ graph
     commentcount 1465
     duration "PT1H6M23S"
     indegree 8
-    cluster 5
+    cluster 2
   ]
   node
   [
@@ -6769,7 +6769,7 @@ graph
     commentcount -1
     duration "PT13M31S"
     indegree 20
-    cluster 4
+    cluster 2
   ]
   node
   [
@@ -6787,7 +6787,7 @@ graph
     commentcount 1313
     duration "PT3M16S"
     indegree 2
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -6805,7 +6805,7 @@ graph
     commentcount 1524
     duration "PT1M32S"
     indegree 0
-    cluster 5
+    cluster 2
   ]
   node
   [
@@ -6823,7 +6823,7 @@ graph
     commentcount 432
     duration "PT5M26S"
     indegree 0
-    cluster 2
+    cluster 4
   ]
   node
   [
@@ -6841,7 +6841,7 @@ graph
     commentcount 80
     duration "PT4M37S"
     indegree 0
-    cluster 2
+    cluster 6
   ]
   node
   [
@@ -6967,7 +6967,7 @@ graph
     commentcount 2715
     duration "PT45M42S"
     indegree 6
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -6985,7 +6985,7 @@ graph
     commentcount 1878
     duration "PT9M26S"
     indegree 0
-    cluster 4
+    cluster 6
   ]
   node
   [
@@ -7021,7 +7021,7 @@ graph
     commentcount 682
     duration "PT10M26S"
     indegree 1
-    cluster 2
+    cluster 6
   ]
   node
   [
@@ -7039,7 +7039,7 @@ graph
     commentcount 1650
     duration "PT8M9S"
     indegree 1
-    cluster 6
+    cluster 5
   ]
   node
   [
@@ -7075,7 +7075,7 @@ graph
     commentcount 339
     duration "PT8M6S"
     indegree 1
-    cluster 5
+    cluster 2
   ]
   node
   [
@@ -7093,7 +7093,7 @@ graph
     commentcount 2547
     duration "PT12M"
     indegree 8
-    cluster 4
+    cluster 6
   ]
   node
   [
@@ -7111,7 +7111,7 @@ graph
     commentcount 164
     duration "PT3M42S"
     indegree 0
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -7147,7 +7147,7 @@ graph
     commentcount 664
     duration "PT55M30S"
     indegree 0
-    cluster 5
+    cluster 2
   ]
   node
   [
@@ -7165,7 +7165,7 @@ graph
     commentcount 1401
     duration "PT7M50S"
     indegree 0
-    cluster 4
+    cluster 2
   ]
   node
   [
@@ -7183,7 +7183,7 @@ graph
     commentcount 0
     duration "PT9M16S"
     indegree 0
-    cluster 4
+    cluster 3
   ]
   node
   [
@@ -7201,7 +7201,7 @@ graph
     commentcount 6045
     duration "PT5M18S"
     indegree 4
-    cluster 2
+    cluster 6
   ]
   node
   [
@@ -7237,7 +7237,7 @@ graph
     commentcount 15
     duration "PT8H24M31S"
     indegree 0
-    cluster 6
+    cluster 4
   ]
   node
   [
@@ -7345,7 +7345,7 @@ graph
     commentcount 21
     duration "PT5M59S"
     indegree 0
-    cluster 4
+    cluster 6
   ]
   node
   [
@@ -7435,7 +7435,7 @@ graph
     commentcount 13003
     duration "PT1M1S"
     indegree 0
-    cluster 5
+    cluster 6
   ]
   node
   [
@@ -7453,7 +7453,7 @@ graph
     commentcount 1788
     duration "PT18M23S"
     indegree 1
-    cluster 3
+    cluster 5
   ]
   node
   [
@@ -7597,7 +7597,7 @@ graph
     commentcount 833
     duration "PT58M10S"
     indegree 8
-    cluster 5
+    cluster 2
   ]
   node
   [
@@ -7705,7 +7705,7 @@ graph
     commentcount 852
     duration "PT2H32M3S"
     indegree 0
-    cluster 5
+    cluster 2
   ]
   node
   [
@@ -7741,7 +7741,7 @@ graph
     commentcount 10627
     duration "PT5M15S"
     indegree 7
-    cluster 2
+    cluster 6
   ]
   node
   [
@@ -7759,7 +7759,7 @@ graph
     commentcount 3765
     duration "PT12M50S"
     indegree 0
-    cluster 4
+    cluster 6
   ]
   node
   [
@@ -7777,7 +7777,7 @@ graph
     commentcount 2966
     duration "PT23M37S"
     indegree 3
-    cluster 5
+    cluster 2
   ]
   node
   [
@@ -7849,7 +7849,7 @@ graph
     commentcount 476
     duration "PT6M52S"
     indegree 0
-    cluster 4
+    cluster 2
   ]
   node
   [
@@ -7957,7 +7957,7 @@ graph
     commentcount 5
     duration "PT29M52S"
     indegree 0
-    cluster 4
+    cluster 3
   ]
   node
   [
@@ -7975,7 +7975,7 @@ graph
     commentcount 8915
     duration "PT14M33S"
     indegree 19
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -7993,7 +7993,7 @@ graph
     commentcount 60
     duration "PT8M6S"
     indegree 0
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -8047,7 +8047,7 @@ graph
     commentcount 3
     duration "PT8M39S"
     indegree 0
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -8065,7 +8065,7 @@ graph
     commentcount 121
     duration "PT6M26S"
     indegree 0
-    cluster 2
+    cluster 6
   ]
   node
   [
@@ -8101,7 +8101,7 @@ graph
     commentcount 622
     duration "PT26S"
     indegree 0
-    cluster 4
+    cluster 6
   ]
   node
   [
@@ -8299,7 +8299,7 @@ graph
     commentcount 4167
     duration "PT1H14M11S"
     indegree 1
-    cluster 2
+    cluster 6
   ]
   node
   [
@@ -8353,7 +8353,7 @@ graph
     commentcount 493
     duration "PT7M7S"
     indegree 0
-    cluster 3
+    cluster 4
   ]
   edge
   [
