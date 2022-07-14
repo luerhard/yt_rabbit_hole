@@ -59,6 +59,12 @@ clean_titles <- function(g){
   return(g)
 }
 
+clean_descriptions <- function(g){
+  # TO DO
+}
+
+# ALSO DO: take sentiment from other folders and add that as node attributes
+
 community_detect_and_select <- function(g){
   ## COMPONENT SELECTION
   # identifying components
