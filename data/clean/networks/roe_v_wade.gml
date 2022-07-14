@@ -1,4 +1,4 @@
-Creator "igraph version 1.3.1 Thu Jul 14 12:39:19 2022"
+Creator "igraph version 1.3.1 Thu Jul 14 15:27:49 2022"
 Version 1
 graph
 [
@@ -6,24 +6,7 @@ graph
   node
   [
     id 0
-    label "DvWE-sekrDg"
-    step 0
-    date "2022-07-10T19:45:51Z"
-    title "Biden encourages abortion-rights protesters after Roe v. Wade reversal | USA TODAY"
-    description "President Biden encouraged abortion-rights protesters to &#34;keep making your point&#34; after the Supreme Court's reversal of Roe v. Wade across the nation.&#10;&#10;RELATED: Abortion rights protesters stage a sit-in at the White House&#10;https://bit.ly/3AF6nSs&#10;&#10;Facing pressure from his party to act more aggressively on abortion, Biden announced steps his administration is taking last week, which include making legal representation available to women who choose to go out of state for the procedure and protecting access to medication.&#10;&#10;&#187; Subscribe to USA TODAY: http://bit.ly/1xa3XAh&#10;&#187; Watch more on this and other topics from USA TODAY: https://bit.ly/3q3ON4B&#10;&#187; USA TODAY delivers current local and national news, sports, entertainment,  finance, technology, and more through award-winning journalism, photos, videos and VR.&#10;&#10;#abortion #Biden #womensrights"
-    channeltitle "USA TODAY"
-    channelid "UCP6HGa63sBC7-KHtkme-p-g"
-    favcount 0
-    viewcount 71452
-    likecount 529
-    commentcount 2162
-    duration "PT58S"
-    indegree 0
-    cluster 1
-  ]
-  node
-  [
-    id 1
+    name "1"
     label "DsWsALacMCs"
     step 0
     date "2022-07-08T22:09:55Z"
@@ -37,11 +20,21 @@ graph
     commentcount 7844
     duration "PT19M39S"
     indegree 15
-    cluster 2
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 1
   ]
   node
   [
-    id 2
+    id 1
+    name "2"
     label "9HZj8Qp4p2A"
     step 0
     date "2018-07-13T18:55:58Z"
@@ -55,11 +48,21 @@ graph
     commentcount 1988
     duration "PT2M56S"
     indegree 79
-    cluster 3
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 3
+    id 2
+    name "3"
     label "DBVVkW7bEYU"
     step 0
     date "2022-06-27T15:43:45Z"
@@ -73,11 +76,21 @@ graph
     commentcount 2918
     duration "PT5M59S"
     indegree 158
-    cluster 1
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 4
+    id 3
+    name "4"
     label "nELEXC5Zuh0"
     step 0
     date "2022-06-24T20:02:31Z"
@@ -91,11 +104,21 @@ graph
     commentcount 8218
     duration "PT9M33S"
     indegree 146
-    cluster 4
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 5
+    id 4
+    name "5"
     label "UVob8FMT6Rk"
     step 0
     date "2022-06-25T04:54:38Z"
@@ -109,11 +132,21 @@ graph
     commentcount 2749
     duration "PT10H34M26S"
     indegree 64
-    cluster 5
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 6
+    id 5
+    name "6"
     label "y4yeroE4Ar4"
     step 0
     date "2021-12-08T16:00:35Z"
@@ -127,11 +160,21 @@ graph
     commentcount 5679
     duration "PT16M52S"
     indegree 176
-    cluster 3
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 5
   ]
   node
   [
-    id 7
+    id 6
+    name "7"
     label "YQq82HrINhU"
     step 0
     date "2022-06-24T14:37:19Z"
@@ -145,11 +188,21 @@ graph
     commentcount 16696
     duration "PT5M11S"
     indegree 41
-    cluster 5
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 8
+    id 7
+    name "8"
     label "wOvvBWSBwU0"
     step 0
     date "2022-06-30T00:21:32Z"
@@ -163,11 +216,21 @@ graph
     commentcount 15827
     duration "PT27M13S"
     indegree 53
-    cluster 2
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 9
+    id 8
+    name "9"
     label "K0bk_T1Lzu4"
     step 0
     date "2022-06-24T22:49:34Z"
@@ -181,11 +244,21 @@ graph
     commentcount 4938
     duration "PT5M5S"
     indegree 101
-    cluster 4
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 10
+    id 9
+    name "10"
     label "cRAlc0NrlNQ"
     step 0
     date "2021-01-22T19:55:16Z"
@@ -199,11 +272,21 @@ graph
     commentcount 2366
     duration "PT21M13S"
     indegree 141
-    cluster 3
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 11
+    id 10
+    name "11"
     label "DbWVUzlNuDU"
     step 0
     date "2022-06-24T17:00:36Z"
@@ -217,11 +300,21 @@ graph
     commentcount 18827
     duration "PT11M46S"
     indegree 98
-    cluster 5
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 12
+    id 11
+    name "12"
     label "QES50-EGzFI"
     step 0
     date "2022-06-25T22:51:12Z"
@@ -235,11 +328,21 @@ graph
     commentcount 7070
     duration "PT1M48S"
     indegree 77
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
     cluster 4
   ]
   node
   [
-    id 13
+    id 12
+    name "13"
     label "YNY28dmz4vk"
     step 0
     date "2022-06-24T16:22:43Z"
@@ -253,11 +356,21 @@ graph
     commentcount 5466
     duration "PT3M45S"
     indegree 68
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
     cluster 4
   ]
   node
   [
-    id 14
+    id 13
+    name "14"
     label "BptGmN1LQJs"
     step 0
     date "2022-06-28T01:58:56Z"
@@ -271,11 +384,21 @@ graph
     commentcount 6570
     duration "PT15M22S"
     indegree 144
-    cluster 1
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 15
+    id 14
+    name "15"
     label "1lpMEe08NzY"
     step 0
     date "2022-06-24T16:14:14Z"
@@ -289,11 +412,21 @@ graph
     commentcount 18765
     duration "PT6M38S"
     indegree 140
-    cluster 4
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 16
+    id 15
+    name "16"
     label "Y0BAwW_Ys7c"
     step 0
     date "2022-06-24T22:08:24Z"
@@ -307,11 +440,21 @@ graph
     commentcount 5800
     duration "PT3M34S"
     indegree 54
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
     cluster 4
   ]
   node
   [
-    id 17
+    id 16
+    name "17"
     label "InryKPArdnA"
     step 0
     date "2022-07-09T09:28:28Z"
@@ -325,11 +468,21 @@ graph
     commentcount 259
     duration "PT2M4S"
     indegree 0
-    cluster 6
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 18
+    id 17
+    name "18"
     label "weRVOvLXvok"
     step 0
     date "2022-06-25T02:32:20Z"
@@ -343,11 +496,21 @@ graph
     commentcount 7947
     duration "PT5M27S"
     indegree 149
-    cluster 4
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 1
   ]
   node
   [
-    id 19
+    id 18
+    name "19"
     label "9xJp0X5mhs8"
     step 0
     date "2022-06-24T14:28:56Z"
@@ -361,11 +524,21 @@ graph
     commentcount -1
     duration "PT7M19S"
     indegree 73
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
     cluster 4
   ]
   node
   [
-    id 20
+    id 19
+    name "20"
     label "cWE2dSdz9V0"
     step 0
     date "2022-06-28T18:00:19Z"
@@ -379,11 +552,21 @@ graph
     commentcount -1
     duration "PT15M20S"
     indegree 32
-    cluster 1
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 21
+    id 20
+    name "21"
     label "_1kM0LA9G7c"
     step 0
     date "2022-07-11T00:00:09Z"
@@ -397,11 +580,21 @@ graph
     commentcount 576
     duration "PT27M28S"
     indegree 13
-    cluster 6
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 22
+    id 21
+    name "22"
     label "mLMp-1NdzR8"
     step 0
     date "2022-05-08T04:17:56Z"
@@ -415,11 +608,21 @@ graph
     commentcount 7983
     duration "PT6M5S"
     indegree 33
-    cluster 3
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 23
+    id 22
+    name "23"
     label "ysttQDj7sbk"
     step 0
     date "2022-06-24T22:25:19Z"
@@ -433,11 +636,21 @@ graph
     commentcount 9224
     duration "PT10M19S"
     indegree 142
-    cluster 4
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 24
+    id 23
+    name "24"
     label "1AlTP-ttMFE"
     step 0
     date "2022-06-29T22:00:00Z"
@@ -451,11 +664,21 @@ graph
     commentcount 1556
     duration "PT4M49S"
     indegree 40
-    cluster 1
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 25
+    id 24
+    name "25"
     label "5izElkNHdNA"
     step 0
     date "2022-06-25T23:09:05Z"
@@ -469,11 +692,21 @@ graph
     commentcount 2124
     duration "PT2M14S"
     indegree 9
-    cluster 4
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 26
+    id 25
+    name "26"
     label "ULm3qyI8M7Q"
     step 0
     date "2022-06-24T18:17:19Z"
@@ -487,11 +720,21 @@ graph
     commentcount 7044
     duration "PT1M32S"
     indegree 14
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
     cluster 4
   ]
   node
   [
-    id 27
+    id 26
+    name "27"
     label "qJMPYZm4JBA"
     step 0
     date "2022-06-24T19:07:45Z"
@@ -505,11 +748,21 @@ graph
     commentcount -1
     duration "PT3M30S"
     indegree 35
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
     cluster 4
   ]
   node
   [
-    id 28
+    id 27
+    name "28"
     label "UFuV3OkwDrU"
     step 0
     date "2022-06-26T00:51:04Z"
@@ -523,29 +776,49 @@ graph
     commentcount 1977
     duration "PT4M32S"
     indegree 0
-    cluster 6
-  ]
-  node
-  [
-    id 30
-    label "Tf_18htNNsE"
-    step 0
-    date "2022-06-24T23:49:29Z"
-    title "Here is how reaction has unfolded after Supreme Court overturns Roe v. Wade"
-    description "Here is the latest update after the Supreme Court overturned the constitutional right to abortion.&#10;&#10;Subscribe to KCRA on YouTube now for more: http://bit.ly/1kjRAAn&#10;&#10;Get more Sacramento news: http://www.kcra.com&#10;Like us: http://facebook.com/KCRA3&#10;Follow us: http://twitter.com/kcranews&#10;Instagram: https://www.instagram.com/kcranews/"
-    channeltitle "KCRA News"
-    channelid "UC-BSVXejMFhhml4V_VyoGxg"
-    favcount 0
-    viewcount 125569
-    likecount 891
-    commentcount -1
-    duration "PT12M26S"
-    indegree 28
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
     cluster 4
   ]
   node
   [
-    id 31
+    id 28
+    name "29"
+    label "hewFLemljQE"
+    step 0
+    date "2022-07-08T22:51:44Z"
+    title "Vice President Kamala Harris:  over end of Roe v. Wade"
+    description "Robert Costa interviewed Vice President Kamala Harris over what the Biden administration will do before the election to try to codify abortion rights, and asking whether some Supreme Court justices should be impeached.&#10;&#10;#kamalaharris #abortion #news &#10;&#10;&#34;CBS Evening News with Norah O'Donnell&#34; delivers the latest news and original reporting, and goes beyond the headlines with context and depth. Catch the &#34;CBS Evening News&#34; weeknights at 6:30 p.m. ET on the CBS Television Network and at 10 p.m. ET on the CBS News app.&#10;&#10;Subscribe to the &#34;CBS Evening News&#34; YouTube channel: https://bit.ly/1S7Dhik&#10;Watch full episodes of &#34;CBS Evening News&#34;: https://cbsn.ws/23XekKA&#10;Follow &#34;CBS Evening News&#34; on Instagram: https://bit.ly/1T8icTO&#10;Like &#34;CBS Evening News&#34; on Facebook: https://on.fb.me/1KxYobb&#10;Follow &#34;CBS Evening News&#34; on Twitter: https://bit.ly/1O3dTTe&#10;Download the CBS News app: https://cbsn.ws/1Xb1WC8&#10;Try Paramount+ free: https://bit.ly/2OiW1kZ&#10;&#10;For video licensing inquiries, contact: licensing@veritone.com"
+    channeltitle "CBS Evening News"
+    channelid "UCAeWdyKJXGWmVAXFpgLNNTg"
+    favcount 0
+    viewcount 93763
+    likecount 496
+    commentcount 1645
+    duration "PT2M7S"
+    indegree 0
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 1
+  ]
+  node
+  [
+    id 29
+    name "31"
     label "L5ph4qAOQZk"
     step 0
     date "2022-07-01T23:32:24Z"
@@ -559,11 +832,21 @@ graph
     commentcount 3251
     duration "PT4M27S"
     indegree 19
-    cluster 1
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 32
+    id 30
+    name "32"
     label "fl4KtQdftwE"
     step 0
     date "2022-06-24T20:41:18Z"
@@ -577,11 +860,21 @@ graph
     commentcount 14873
     duration "PT2M3S"
     indegree 58
-    cluster 5
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 33
+    id 31
+    name "33"
     label "26YLx8n57FQ"
     step 0
     date "2022-06-25T08:59:55Z"
@@ -595,11 +888,21 @@ graph
     commentcount 10090
     duration "PT10M49S"
     indegree 49
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
     cluster 4
   ]
   node
   [
-    id 34
+    id 32
+    name "34"
     label "U4tdd4XF72w"
     step 0
     date "2022-06-24T23:03:09Z"
@@ -613,11 +916,21 @@ graph
     commentcount -1
     duration "PT8H55M55S"
     indegree 6
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
     cluster 4
   ]
   node
   [
-    id 35
+    id 33
+    name "35"
     label "aOwsZ7I2ADo"
     step 0
     date "2022-07-01T15:00:00Z"
@@ -631,11 +944,21 @@ graph
     commentcount 1004
     duration "PT4M37S"
     indegree 8
-    cluster 1
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 5
   ]
   node
   [
-    id 36
+    id 34
+    name "36"
     label "A1vc_GSGNzs"
     step 0
     date "2022-06-24T17:00:09Z"
@@ -649,11 +972,21 @@ graph
     commentcount 1293
     duration "PT2M21S"
     indegree 10
-    cluster 4
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 37
+    id 35
+    name "37"
     label "RMgGwFX2KEs"
     step 0
     date "2022-06-25T03:01:10Z"
@@ -667,11 +1000,21 @@ graph
     commentcount 11730
     duration "PT6M6S"
     indegree 198
-    cluster 6
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 38
+    id 36
+    name "38"
     label "JClYHBbPf5g"
     step 0
     date "2022-06-24T20:54:44Z"
@@ -685,11 +1028,21 @@ graph
     commentcount 989
     duration "PT2M21S"
     indegree 7
-    cluster 4
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 1
   ]
   node
   [
-    id 39
+    id 37
+    name "39"
     label "sBbnzkr6MXY"
     step 0
     date "2022-06-24T15:07:32Z"
@@ -703,11 +1056,21 @@ graph
     commentcount 1868
     duration "PT2M24S"
     indegree 18
-    cluster 4
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 1
   ]
   node
   [
-    id 40
+    id 38
+    name "40"
     label "e8wD6iruwxA"
     step 0
     date "2022-07-07T04:00:20Z"
@@ -721,11 +1084,21 @@ graph
     commentcount 1047
     duration "PT6M31S"
     indegree 13
-    cluster 6
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 41
+    id 39
+    name "41"
     label "HgF7OmNHwKc"
     step 0
     date "2022-06-25T11:32:00Z"
@@ -739,11 +1112,21 @@ graph
     commentcount 755
     duration "PT11M54S"
     indegree 4
-    cluster 4
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 1
   ]
   node
   [
-    id 42
+    id 40
+    name "42"
     label "JFqglNsZoj4"
     step 0
     date "2022-06-24T17:08:17Z"
@@ -757,11 +1140,21 @@ graph
     commentcount 1688
     duration "PT31M2S"
     indegree 6
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
     cluster 4
   ]
   node
   [
-    id 43
+    id 41
+    name "43"
     label "hcRAM4rxmtM"
     step 0
     date "2022-07-06T23:38:06Z"
@@ -775,11 +1168,21 @@ graph
     commentcount 294
     duration "PT6M5S"
     indegree 5
-    cluster 1
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 44
+    id 42
+    name "44"
     label "J0hQX2mDweU"
     step 0
     date "2022-06-25T05:57:08Z"
@@ -793,11 +1196,21 @@ graph
     commentcount 2996
     duration "PT2M30S"
     indegree 1
-    cluster 4
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 45
+    id 43
+    name "45"
     label "OUApOBZWWh8"
     step 0
     date "2022-06-24T17:49:45Z"
@@ -811,11 +1224,21 @@ graph
     commentcount 4790
     duration "PT24M26S"
     indegree 42
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
     cluster 4
   ]
   node
   [
-    id 46
+    id 44
+    name "46"
     label "CVODF3dHfx4"
     step 0
     date "2022-06-24T14:28:41Z"
@@ -829,11 +1252,21 @@ graph
     commentcount 3938
     duration "PT4M50S"
     indegree 12
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
     cluster 4
   ]
   node
   [
-    id 47
+    id 45
+    name "47"
     label "9bo_dxNORws"
     step 0
     date "2022-07-01T10:00:08Z"
@@ -847,11 +1280,21 @@ graph
     commentcount 2137
     duration "PT6M5S"
     indegree 20
-    cluster 1
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 48
+    id 46
+    name "48"
     label "1LOs7Ijxa20"
     step 0
     date "2022-06-24T15:19:30Z"
@@ -865,11 +1308,21 @@ graph
     commentcount -1
     duration "PT3M19S"
     indegree 13
-    cluster 4
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 49
+    id 47
+    name "49"
     label "1x-Ql010BxY"
     step 0
     date "2022-06-26T14:58:38Z"
@@ -883,11 +1336,21 @@ graph
     commentcount 759
     duration "PT5M39S"
     indegree 5
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
     cluster 4
   ]
   node
   [
-    id 50
+    id 48
+    name "50"
     label "ng0daBrWsCA"
     step 0
     date "2022-06-27T12:06:05Z"
@@ -901,11 +1364,21 @@ graph
     commentcount 1568
     duration "PT5M15S"
     indegree 4
-    cluster 1
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 51
+    id 49
+    name "51"
     label "ks1skEKwlrk"
     step 0
     date "2022-06-24T21:44:29Z"
@@ -919,11 +1392,21 @@ graph
     commentcount 1702
     duration "PT1M40S"
     indegree 31
-    cluster 4
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 52
+    id 50
+    name "52"
     label "yCpkoav3zK8"
     step 0
     date "2022-06-25T17:23:47Z"
@@ -937,11 +1420,21 @@ graph
     commentcount 1843
     duration "PT2M3S"
     indegree 6
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
     cluster 4
   ]
   node
   [
-    id 53
+    id 51
+    name "53"
     label "FsVvIVHEKyE"
     step 0
     date "2022-06-29T15:00:17Z"
@@ -955,11 +1448,21 @@ graph
     commentcount 725
     duration "PT11M36S"
     indegree 0
-    cluster 1
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 54
+    id 52
+    name "54"
     label "hCXPiIA2Dig"
     step 0
     date "2022-06-27T17:46:17Z"
@@ -973,11 +1476,21 @@ graph
     commentcount 2087
     duration "PT11M34S"
     indegree 19
-    cluster 1
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 55
+    id 53
+    name "55"
     label "unmKo1pOb0M"
     step 0
     date "2022-06-24T18:10:09Z"
@@ -991,11 +1504,21 @@ graph
     commentcount 6960
     duration "PT3M34S"
     indegree 6
-    cluster 4
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 56
+    id 54
+    name "56"
     label "V3poeFdzJK4"
     step 0
     date "2022-06-25T11:30:40Z"
@@ -1009,11 +1532,21 @@ graph
     commentcount 1874
     duration "PT5M17S"
     indegree 6
-    cluster 1
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 57
+    id 55
+    name "57"
     label "XLbY86WqEQE"
     step 0
     date "2022-06-24T14:49:05Z"
@@ -1027,11 +1560,21 @@ graph
     commentcount 2567
     duration "PT4M32S"
     indegree 74
-    cluster 4
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 58
+    id 56
+    name "58"
     label "LDafHP4pjD0"
     step 0
     date "2022-07-02T13:00:18Z"
@@ -1045,11 +1588,21 @@ graph
     commentcount 5983
     duration "PT45M20S"
     indegree 62
-    cluster 2
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 59
+    id 57
+    name "59"
     label "s-rwUI7RYhk"
     step 0
     date "2022-06-24T21:27:03Z"
@@ -1063,11 +1616,21 @@ graph
     commentcount 2097
     duration "PT1M44S"
     indegree 11
-    cluster 4
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 60
+    id 58
+    name "60"
     label "5Nr65lc1ys8"
     step 0
     date "2022-05-04T02:16:01Z"
@@ -1081,11 +1644,21 @@ graph
     commentcount 6687
     duration "PT13M22S"
     indegree 50
-    cluster 3
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 61
+    id 59
+    name "61"
     label "soIkQYtJAVs"
     step 0
     date "2022-07-06T14:34:44Z"
@@ -1099,11 +1672,21 @@ graph
     commentcount 1085
     duration "PT5M41S"
     indegree 14
-    cluster 2
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 62
+    id 60
+    name "62"
     label "ZcXTL8Z2dSc"
     step 0
     date "2022-07-05T22:00:26Z"
@@ -1117,11 +1700,21 @@ graph
     commentcount -1
     duration "PT12M31S"
     indegree 2
-    cluster 1
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 63
+    id 61
+    name "63"
     label "Ce97VpOGM4A"
     step 0
     date "2022-06-25T05:47:26Z"
@@ -1135,11 +1728,21 @@ graph
     commentcount 532
     duration "PT11H55M"
     indegree 27
-    cluster 4
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 64
+    id 62
+    name "64"
     label "6aifEbNDcB4"
     step 0
     date "2022-06-26T21:27:36Z"
@@ -1153,11 +1756,21 @@ graph
     commentcount -1
     duration "PT4M30S"
     indegree 4
-    cluster 6
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 5
   ]
   node
   [
-    id 65
+    id 63
+    name "65"
     label "pD3HFR6g6ho"
     step 0
     date "2022-06-25T00:05:04Z"
@@ -1171,11 +1784,21 @@ graph
     commentcount 5853
     duration "PT2M6S"
     indegree 36
-    cluster 4
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 1
   ]
   node
   [
-    id 66
+    id 64
+    name "66"
     label "CxLWbCuR9_U"
     step 0
     date "2022-06-28T08:57:13Z"
@@ -1189,11 +1812,21 @@ graph
     commentcount 1474
     duration "PT9M33S"
     indegree 18
-    cluster 1
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 67
+    id 65
+    name "67"
     label "6aVXRGsZfBQ"
     step 0
     date "2022-06-28T00:20:33Z"
@@ -1207,11 +1840,21 @@ graph
     commentcount 1883
     duration "PT9M22S"
     indegree 46
-    cluster 1
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 68
+    id 66
+    name "68"
     label "-ML2se0-L5Y"
     step 0
     date "2022-06-27T13:30:00Z"
@@ -1225,11 +1868,21 @@ graph
     commentcount 187
     duration "PT4M56S"
     indegree 21
-    cluster 6
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 69
+    id 67
+    name "69"
     label "iFcNXujoRDM"
     step 0
     date "2022-05-03T22:53:09Z"
@@ -1243,11 +1896,21 @@ graph
     commentcount -1
     duration "PT8M20S"
     indegree 24
-    cluster 3
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 1
   ]
   node
   [
-    id 70
+    id 68
+    name "70"
     label "FOEuywoieUw"
     step 0
     date "2022-06-25T02:54:05Z"
@@ -1261,11 +1924,21 @@ graph
     commentcount 1872
     duration "PT6M24S"
     indegree 36
-    cluster 4
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 71
+    id 69
+    name "71"
     label "G6XWQ7aMvr4"
     step 0
     date "2022-06-27T14:18:58Z"
@@ -1279,11 +1952,21 @@ graph
     commentcount 992
     duration "PT3M1S"
     indegree 39
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
     cluster 4
   ]
   node
   [
-    id 72
+    id 70
+    name "72"
     label "v0PH1EaFFug"
     step 0
     date "2022-06-28T02:21:09Z"
@@ -1297,11 +1980,21 @@ graph
     commentcount 5816
     duration "PT13M10S"
     indegree 104
-    cluster 1
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 73
+    id 71
+    name "73"
     label "Oh-1JdbzdS4"
     step 0
     date "2022-06-24T22:01:09Z"
@@ -1315,11 +2008,21 @@ graph
     commentcount 176
     duration "PT6M28S"
     indegree 3
-    cluster 4
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 74
+    id 72
+    name "74"
     label "uGLyNzNCO_A"
     step 0
     date "2022-06-25T15:50:23Z"
@@ -1333,11 +2036,21 @@ graph
     commentcount 2825
     duration "PT2M59S"
     indegree 72
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
     cluster 4
   ]
   node
   [
-    id 75
+    id 73
+    name "75"
     label "ByzXbQqy2Zw"
     step 0
     date "2022-07-03T18:00:14Z"
@@ -1351,11 +2064,21 @@ graph
     commentcount 506
     duration "PT1M55S"
     indegree 12
-    cluster 1
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 76
+    id 74
+    name "76"
     label "MmYQ5Fn2K-4"
     step 0
     date "2022-06-26T21:21:24Z"
@@ -1369,11 +2092,21 @@ graph
     commentcount -1
     duration "PT5M46S"
     indegree 4
-    cluster 6
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 77
+    id 75
+    name "77"
     label "1J9bmDGSsAg"
     step 0
     date "2022-07-10T00:15:00Z"
@@ -1387,11 +2120,21 @@ graph
     commentcount 4235
     duration "PT7M29S"
     indegree 6
-    cluster 7
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 1
   ]
   node
   [
-    id 78
+    id 76
+    name "78"
     label "fMZ3u3TLit4"
     step 0
     date "2022-05-05T13:52:40Z"
@@ -1405,11 +2148,21 @@ graph
     commentcount 415
     duration "PT2M26S"
     indegree 26
-    cluster 3
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 1
   ]
   node
   [
-    id 79
+    id 77
+    name "79"
     label "Fwc009Eho7Y"
     step 0
     date "2022-06-24T19:29:16Z"
@@ -1423,11 +2176,21 @@ graph
     commentcount 598
     duration "PT1M53S"
     indegree 0
-    cluster 4
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 80
+    id 78
+    name "80"
     label "HxE1z735EfQ"
     step 0
     date "2022-05-07T03:08:41Z"
@@ -1441,11 +2204,21 @@ graph
     commentcount 9123
     duration "PT4M12S"
     indegree 62
-    cluster 3
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 81
+    id 79
+    name "81"
     label "TmCmFaoYVcY"
     step 0
     date "2022-06-27T14:12:36Z"
@@ -1459,11 +2232,21 @@ graph
     commentcount 666
     duration "PT3M45S"
     indegree 9
-    cluster 1
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 82
+    id 80
+    name "82"
     label "Twb_v78C1q4"
     step 0
     date "2022-06-30T10:00:13Z"
@@ -1477,11 +2260,21 @@ graph
     commentcount 5624
     duration "PT42M46S"
     indegree 65
-    cluster 1
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 83
+    id 81
+    name "83"
     label "bSTgXPwIx-0"
     step 0
     date "2022-07-01T21:07:24Z"
@@ -1495,11 +2288,21 @@ graph
     commentcount 158
     duration "PT3M31S"
     indegree 0
-    cluster 1
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 84
+    id 82
+    name "84"
     label "A3W8HPC2hL8"
     step 0
     date "2022-07-09T01:00:04Z"
@@ -1513,11 +2316,21 @@ graph
     commentcount 308
     duration "PT2M25S"
     indegree 5
-    cluster 7
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 85
+    id 83
+    name "85"
     label "W8zXC_MffXU"
     step 0
     date "2022-06-28T03:33:30Z"
@@ -1531,11 +2344,21 @@ graph
     commentcount 451
     duration "PT6M"
     indegree 19
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
     cluster 1
   ]
   node
   [
-    id 86
+    id 84
+    name "86"
     label "kPx00JP_mdE"
     step 0
     date "2022-06-27T21:56:15Z"
@@ -1549,11 +2372,21 @@ graph
     commentcount 1577
     duration "PT3M10S"
     indegree 6
-    cluster 1
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 87
+    id 85
+    name "87"
     label "zdLIZf96YcI"
     step 0
     date "2022-06-29T01:18:50Z"
@@ -1567,11 +2400,21 @@ graph
     commentcount 973
     duration "PT2M45S"
     indegree 12
-    cluster 1
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 88
+    id 86
+    name "88"
     label "ZdG5l-lfSZw"
     step 0
     date "2022-06-27T15:22:51Z"
@@ -1585,11 +2428,21 @@ graph
     commentcount 207
     duration "PT9M44S"
     indegree 4
-    cluster 6
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 89
+    id 87
+    name "89"
     label "D3pF5FhOmKU"
     step 0
     date "2022-05-08T05:25:38Z"
@@ -1603,11 +2456,21 @@ graph
     commentcount 4370
     duration "PT3M25S"
     indegree 13
-    cluster 3
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 1
   ]
   node
   [
-    id 90
+    id 88
+    name "90"
     label "HN2FrO9n_C0"
     step 0
     date "2022-07-09T22:15:44Z"
@@ -1621,11 +2484,21 @@ graph
     commentcount 39
     duration "PT2M22S"
     indegree 0
-    cluster 7
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 91
+    id 89
+    name "91"
     label "k7LhT5Xyg1E"
     step 0
     date "2022-06-27T14:30:09Z"
@@ -1639,11 +2512,21 @@ graph
     commentcount 387
     duration "PT3M46S"
     indegree 4
-    cluster 1
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 92
+    id 90
+    name "92"
     label "uzk25sv3D-U"
     step 0
     date "2022-06-24T16:00:57Z"
@@ -1657,11 +2540,21 @@ graph
     commentcount 813
     duration "PT26M56S"
     indegree 65
-    cluster 4
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 93
+    id 91
+    name "93"
     label "3_gcSFR7c4o"
     step 0
     date "2022-06-25T01:03:49Z"
@@ -1675,11 +2568,21 @@ graph
     commentcount 5389
     duration "PT6M6S"
     indegree 16
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
     cluster 4
   ]
   node
   [
-    id 94
+    id 92
+    name "94"
     label "kvKny4STyHo"
     step 0
     date "2022-05-04T15:00:22Z"
@@ -1693,11 +2596,21 @@ graph
     commentcount 2239
     duration "PT4M7S"
     indegree 1
-    cluster 3
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 95
+    id 93
+    name "95"
     label "SYs92yyRgzY"
     step 0
     date "2022-06-24T23:43:16Z"
@@ -1711,11 +2624,21 @@ graph
     commentcount -1
     duration "PT4M43S"
     indegree 16
-    cluster 4
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 96
+    id 94
+    name "96"
     label "cooUnY3B6uI"
     step 0
     date "2022-06-27T18:00:16Z"
@@ -1729,11 +2652,21 @@ graph
     commentcount 2741
     duration "PT7M59S"
     indegree 34
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
     cluster 4
   ]
   node
   [
-    id 97
+    id 95
+    name "97"
     label "Odh-m1BcOOE"
     step 0
     date "2022-06-25T04:39:32Z"
@@ -1747,11 +2680,21 @@ graph
     commentcount 3160
     duration "PT2M49S"
     indegree 0
-    cluster 4
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 1
   ]
   node
   [
-    id 98
+    id 96
+    name "98"
     label "eMh43GhLdGc"
     step 0
     date "2022-06-25T06:15:02Z"
@@ -1765,11 +2708,21 @@ graph
     commentcount 753
     duration "PT8M30S"
     indegree 2
-    cluster 6
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 99
+    id 97
+    name "99"
     label "R7CGo0LWsJo"
     step 0
     date "2022-06-25T13:30:01Z"
@@ -1783,11 +2736,21 @@ graph
     commentcount 2905
     duration "PT4M11S"
     indegree 3
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
     cluster 4
   ]
   node
   [
-    id 100
+    id 98
+    name "100"
     label "gmMlR_KOJuk"
     step 0
     date "2022-06-24T21:26:21Z"
@@ -1801,11 +2764,21 @@ graph
     commentcount 3647
     duration "PT1M30S"
     indegree 27
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
     cluster 4
   ]
   node
   [
-    id 101
+    id 99
+    name "101"
     label "YsE13XrsCqA"
     step 0
     date "2022-06-27T17:20:42Z"
@@ -1819,11 +2792,21 @@ graph
     commentcount 1465
     duration "PT6M35S"
     indegree 10
-    cluster 1
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 102
+    id 100
+    name "102"
     label "rHrxSUgLvvA"
     step 0
     date "2022-05-16T18:18:16Z"
@@ -1837,11 +2820,21 @@ graph
     commentcount 9700
     duration "PT28M34S"
     indegree 22
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
     cluster 2
   ]
   node
   [
-    id 103
+    id 101
+    name "103"
     label "gwjBmGyZldk"
     step 0
     date "2022-06-26T22:19:46Z"
@@ -1855,11 +2848,21 @@ graph
     commentcount 1798
     duration "PT2M44S"
     indegree 3
-    cluster 6
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 104
+    id 102
+    name "104"
     label "5OuurBVmJlc"
     step 0
     date "2022-06-24T18:17:47Z"
@@ -1873,11 +2876,21 @@ graph
     commentcount 1076
     duration "PT21M40S"
     indegree 2
-    cluster 4
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 1
   ]
   node
   [
-    id 105
+    id 103
+    name "105"
     label "QE7xmmJeLXM"
     step 0
     date "2022-05-04T00:00:05Z"
@@ -1891,11 +2904,21 @@ graph
     commentcount 1557
     duration "PT8M59S"
     indegree 31
-    cluster 3
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 106
+    id 104
+    name "106"
     label "ZPYCnXrdVfA"
     step 0
     date "2022-06-27T18:00:23Z"
@@ -1909,11 +2932,21 @@ graph
     commentcount 1667
     duration "PT4M30S"
     indegree 6
-    cluster 1
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 107
+    id 105
+    name "107"
     label "lKKNrTauMhw"
     step 0
     date "2022-06-24T22:00:04Z"
@@ -1927,11 +2960,21 @@ graph
     commentcount 1573
     duration "PT10M20S"
     indegree 0
-    cluster 5
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 108
+    id 106
+    name "108"
     label "QhdUQ0h2K5Q"
     step 0
     date "2022-06-24T17:12:14Z"
@@ -1945,11 +2988,21 @@ graph
     commentcount 777
     duration "PT1M45S"
     indegree 8
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
     cluster 4
   ]
   node
   [
-    id 109
+    id 107
+    name "109"
     label "NvcaS8CBgwM"
     step 0
     date "2022-06-24T21:50:52Z"
@@ -1963,11 +3016,21 @@ graph
     commentcount 2123
     duration "PT5M15S"
     indegree 8
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
     cluster 4
   ]
   node
   [
-    id 110
+    id 108
+    name "110"
     label "E5A-Cn-uDqU"
     step 0
     date "2022-06-24T19:50:31Z"
@@ -1981,11 +3044,21 @@ graph
     commentcount 874
     duration "PT6M53S"
     indegree 5
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
     cluster 4
   ]
   node
   [
-    id 111
+    id 109
+    name "111"
     label "rJ7F9C8Y0KU"
     step 0
     date "2022-06-28T15:00:35Z"
@@ -1999,11 +3072,21 @@ graph
     commentcount 2110
     duration "PT5M11S"
     indegree 1
-    cluster 1
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 112
+    id 110
+    name "112"
     label "fof62qcHOuQ"
     step 0
     date "2022-06-24T18:19:35Z"
@@ -2017,11 +3100,21 @@ graph
     commentcount 1930
     duration "PT2M46S"
     indegree 5
-    cluster 4
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 113
+    id 111
+    name "113"
     label "oHZp_RjBOtA"
     step 0
     date "2022-06-28T22:40:49Z"
@@ -2035,11 +3128,21 @@ graph
     commentcount 238
     duration "PT11M1S"
     indegree 1
-    cluster 1
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 114
+    id 112
+    name "114"
     label "7unbdAC-P2M"
     step 0
     date "2022-07-09T22:58:12Z"
@@ -2053,11 +3156,21 @@ graph
     commentcount 44
     duration "PT1M45S"
     indegree 0
-    cluster 4
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 115
+    id 113
+    name "115"
     label "y4Lpf-b1iVU"
     step 0
     date "2022-06-25T00:25:26Z"
@@ -2071,11 +3184,21 @@ graph
     commentcount 1379
     duration "PT14M9S"
     indegree 51
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
     cluster 4
   ]
   node
   [
-    id 116
+    id 114
+    name "116"
     label "rsY0DszDaHU"
     step 0
     date "2022-06-24T20:52:32Z"
@@ -2089,11 +3212,21 @@ graph
     commentcount 168
     duration "PT10H32M18S"
     indegree 2
-    cluster 1
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 117
+    id 115
+    name "117"
     label "POk-3xSOiuw"
     step 0
     date "2022-07-08T17:28:45Z"
@@ -2107,11 +3240,21 @@ graph
     commentcount 9452
     duration "PT15M14S"
     indegree 5
-    cluster 7
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 118
+    id 116
+    name "118"
     label "2lKNTOv3XQE"
     step 0
     date "2022-06-27T20:37:19Z"
@@ -2125,11 +3268,21 @@ graph
     commentcount 3692
     duration "PT10M38S"
     indegree 0
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
     cluster 1
   ]
   node
   [
-    id 119
+    id 117
+    name "119"
     label "NNZrfdOGFyA"
     step 0
     date "2022-06-24T16:00:13Z"
@@ -2143,11 +3296,21 @@ graph
     commentcount 763
     duration "PT2M24S"
     indegree 70
-    cluster 4
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 120
+    id 118
+    name "120"
     label "L66aPRQQ9AQ"
     step 0
     date "2022-06-28T04:19:04Z"
@@ -2161,11 +3324,21 @@ graph
     commentcount 10313
     duration "PT10M45S"
     indegree 84
-    cluster 1
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 121
+    id 119
+    name "121"
     label "6hjhdS4hse8"
     step 0
     date "2022-06-26T04:15:47Z"
@@ -2179,11 +3352,21 @@ graph
     commentcount 1954
     duration "PT2M56S"
     indegree 2
-    cluster 3
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 122
+    id 120
+    name "122"
     label "Ls-G14B7yHY"
     step 0
     date "2022-07-05T17:36:33Z"
@@ -2197,11 +3380,21 @@ graph
     commentcount -1
     duration "PT6M12S"
     indegree 7
-    cluster 6
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 1
   ]
   node
   [
-    id 123
+    id 121
+    name "123"
     label "ZGsFrk0MrwQ"
     step 0
     date "2022-06-27T18:22:28Z"
@@ -2215,11 +3408,21 @@ graph
     commentcount 21149
     duration "PT16M43S"
     indegree 0
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
     cluster 1
   ]
   node
   [
-    id 124
+    id 122
+    name "124"
     label "oq-X7HoGupE"
     step 0
     date "2022-06-24T21:14:54Z"
@@ -2233,11 +3436,21 @@ graph
     commentcount 1508
     duration "PT3M4S"
     indegree 2
-    cluster 4
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 125
+    id 123
+    name "125"
     label "KaqE__d7Hd0"
     step 0
     date "2022-06-24T23:19:53Z"
@@ -2251,11 +3464,21 @@ graph
     commentcount 158
     duration "PT4M22S"
     indegree 4
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
     cluster 4
   ]
   node
   [
-    id 126
+    id 124
+    name "126"
     label "Ew4K9XiWeVE"
     step 0
     date "2022-07-08T17:30:47Z"
@@ -2269,11 +3492,21 @@ graph
     commentcount 485
     duration "PT3M38S"
     indegree 2
-    cluster 7
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 127
+    id 125
+    name "127"
     label "lzbbKY8FxPg"
     step 0
     date "2022-06-28T04:42:21Z"
@@ -2287,11 +3520,21 @@ graph
     commentcount 1431
     duration "PT3M3S"
     indegree 0
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
     cluster 1
   ]
   node
   [
-    id 128
+    id 126
+    name "128"
     label "xTDR9v_vTSY"
     step 0
     date "2022-06-25T15:30:09Z"
@@ -2305,11 +3548,21 @@ graph
     commentcount 1892
     duration "PT4M35S"
     indegree 8
-    cluster 6
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 129
+    id 127
+    name "129"
     label "4YxJq7P-rxk"
     step 0
     date "2017-02-19T22:00:00Z"
@@ -2323,11 +3576,21 @@ graph
     commentcount 1273
     duration "PT6M20S"
     indegree 5
-    cluster 3
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 130
+    id 128
+    name "130"
     label "gjWUA6wNdtY"
     step 0
     date "2022-07-09T16:00:09Z"
@@ -2341,11 +3604,21 @@ graph
     commentcount 85
     duration "PT25M2S"
     indegree 1
-    cluster 7
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 131
+    id 129
+    name "131"
     label "TcDBbbWAWow"
     step 0
     date "2022-06-25T13:09:16Z"
@@ -2359,11 +3632,21 @@ graph
     commentcount 2496
     duration "PT3M52S"
     indegree 64
-    cluster 6
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 132
+    id 130
+    name "132"
     label "5PQrDt2nwaw"
     step 0
     date "2022-05-17T20:02:37Z"
@@ -2377,11 +3660,21 @@ graph
     commentcount 98
     duration "PT25M31S"
     indegree 1
-    cluster 3
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 1
   ]
   node
   [
-    id 133
+    id 131
+    name "133"
     label "Y30sn3bIOZ8"
     step 0
     date "2022-05-04T00:03:13Z"
@@ -2395,11 +3688,21 @@ graph
     commentcount 1176
     duration "PT3M8S"
     indegree 26
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
     cluster 3
   ]
   node
   [
-    id 134
+    id 132
+    name "134"
     label "HiIaZUcc1kk"
     step 0
     date "2022-06-28T18:00:13Z"
@@ -2413,11 +3716,21 @@ graph
     commentcount -1
     duration "PT6M58S"
     indegree 5
-    cluster 1
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 135
+    id 133
+    name "135"
     label "BuuL8Vvk0sU"
     step 0
     date "2022-07-07T00:24:48Z"
@@ -2431,11 +3744,21 @@ graph
     commentcount 144
     duration "PT51S"
     indegree 14
-    cluster 6
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 136
+    id 134
+    name "136"
     label "lBdATnsPROg"
     step 0
     date "2022-06-28T12:00:23Z"
@@ -2449,11 +3772,21 @@ graph
     commentcount 410
     duration "PT3M52S"
     indegree 1
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
     cluster 1
   ]
   node
   [
-    id 137
+    id 135
+    name "137"
     label "_Gx4MMh5upQ"
     step 0
     date "2022-06-25T01:00:15Z"
@@ -2467,11 +3800,21 @@ graph
     commentcount 829
     duration "PT1H7M48S"
     indegree 29
-    cluster 1
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 138
+    id 136
+    name "138"
     label "IBDrwHfAoF0"
     step 0
     date "2022-06-24T16:44:07Z"
@@ -2485,11 +3828,21 @@ graph
     commentcount 17314
     duration "PT6M32S"
     indegree 89
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
     cluster 4
   ]
   node
   [
-    id 139
+    id 137
+    name "139"
     label "0w9gybKDpQo"
     step 0
     date "2022-06-23T20:45:01Z"
@@ -2503,11 +3856,21 @@ graph
     commentcount 464
     duration "PT1M26S"
     indegree 0
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
     cluster 4
   ]
   node
   [
-    id 140
+    id 138
+    name "140"
     label "hKfSZnDMp3Y"
     step 0
     date "2022-06-24T16:15:02Z"
@@ -2521,11 +3884,21 @@ graph
     commentcount 1864
     duration "PT5M32S"
     indegree 20
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
     cluster 4
   ]
   node
   [
-    id 141
+    id 139
+    name "141"
     label "JDHicQo2b2Q"
     step 0
     date "2022-05-05T03:50:00Z"
@@ -2539,11 +3912,21 @@ graph
     commentcount 6353
     duration "PT10M29S"
     indegree 17
-    cluster 3
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 142
+    id 140
+    name "142"
     label "jjromKGdRAU"
     step 0
     date "2022-06-24T19:23:13Z"
@@ -2557,11 +3940,21 @@ graph
     commentcount 176
     duration "PT2M"
     indegree 28
-    cluster 4
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 143
+    id 141
+    name "143"
     label "VTZ__s2FNdU"
     step 0
     date "2022-06-24T17:59:07Z"
@@ -2575,11 +3968,21 @@ graph
     commentcount 121
     duration "PT2M8S"
     indegree 3
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
     cluster 4
   ]
   node
   [
-    id 144
+    id 142
+    name "144"
     label "9vmQ2KeUBng"
     step 0
     date "2022-07-01T13:00:09Z"
@@ -2593,11 +3996,21 @@ graph
     commentcount 255
     duration "PT24M25S"
     indegree 19
-    cluster 1
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 145
+    id 143
+    name "145"
     label "FdWPf6OBKyQ"
     step 0
     date "2022-06-24T16:29:30Z"
@@ -2611,11 +4024,21 @@ graph
     commentcount 2317
     duration "PT22M21S"
     indegree 7
-    cluster 4
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 146
+    id 144
+    name "146"
     label "eDfkLMrr8Gk"
     step 0
     date "2022-07-05T23:24:37Z"
@@ -2629,11 +4052,21 @@ graph
     commentcount 620
     duration "PT6M54S"
     indegree 8
-    cluster 3
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 147
+    id 145
+    name "147"
     label "2FP0AgWgY40"
     step 0
     date "2022-05-03T18:00:00Z"
@@ -2647,11 +4080,21 @@ graph
     commentcount 2889
     duration "PT10M35S"
     indegree 12
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
     cluster 3
   ]
   node
   [
-    id 148
+    id 146
+    name "148"
     label "X5E03OrTCeY"
     step 0
     date "2022-06-24T15:35:12Z"
@@ -2665,11 +4108,21 @@ graph
     commentcount 2237
     duration "PT25S"
     indegree 0
-    cluster 5
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 149
+    id 147
+    name "149"
     label "qY5Q8uUbZrE"
     step 0
     date "2022-06-25T10:00:26Z"
@@ -2683,11 +4136,21 @@ graph
     commentcount 1576
     duration "PT7M21S"
     indegree 3
-    cluster 3
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 5
   ]
   node
   [
-    id 150
+    id 148
+    name "150"
     label "qAMRoQ5KZRc"
     step 0
     date "2022-06-27T21:30:41Z"
@@ -2701,11 +4164,21 @@ graph
     commentcount 2799
     duration "PT2M41S"
     indegree 9
-    cluster 7
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 151
+    id 149
+    name "151"
     label "MalsOLSFvX0"
     step 0
     date "2022-05-09T06:30:02Z"
@@ -2719,11 +4192,21 @@ graph
     commentcount 27965
     duration "PT18M26S"
     indegree 68
-    cluster 1
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 152
+    id 150
+    name "152"
     label "St4pSCsbj6Y"
     step 0
     date "2022-06-24T18:22:18Z"
@@ -2737,11 +4220,21 @@ graph
     commentcount 1412
     duration "PT3M30S"
     indegree 0
-    cluster 4
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 153
+    id 151
+    name "153"
     label "CezlmUwMXNo"
     step 0
     date "2021-03-15T13:00:03Z"
@@ -2755,11 +4248,21 @@ graph
     commentcount 690
     duration "PT1M26S"
     indegree 56
-    cluster 3
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 154
+    id 152
+    name "154"
     label "LzV1M7CIxSw"
     step 0
     date "2022-06-24T22:19:49Z"
@@ -2773,11 +4276,21 @@ graph
     commentcount 689
     duration "PT2M17S"
     indegree 3
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
     cluster 3
   ]
   node
   [
-    id 155
+    id 153
+    name "155"
     label "HXCigfL8mhY"
     step 0
     date "2022-06-24T19:22:07Z"
@@ -2791,11 +4304,21 @@ graph
     commentcount 2952
     duration "PT2M23S"
     indegree 3
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
     cluster 4
   ]
   node
   [
-    id 156
+    id 154
+    name "156"
     label "_J6A7fAwUTk"
     step 0
     date "2022-06-24T18:56:34Z"
@@ -2809,11 +4332,21 @@ graph
     commentcount 2761
     duration "PT4H21M56S"
     indegree 19
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
     cluster 4
   ]
   node
   [
-    id 157
+    id 155
+    name "157"
     label "zeNzeQ365G4"
     step 0
     date "2022-05-05T22:57:05Z"
@@ -2827,11 +4360,21 @@ graph
     commentcount 787
     duration "PT3M11S"
     indegree 3
-    cluster 3
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 158
+    id 156
+    name "158"
     label "-ek7PbxqrPc"
     step 0
     date "2022-06-24T15:34:38Z"
@@ -2845,11 +4388,21 @@ graph
     commentcount 1068
     duration "PT3M33S"
     indegree 0
-    cluster 4
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 159
+    id 157
+    name "159"
     label "c8aue9Ipek0"
     step 0
     date "2022-05-09T22:41:39Z"
@@ -2863,11 +4416,21 @@ graph
     commentcount 217
     duration "PT7M8S"
     indegree 1
-    cluster 3
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 160
+    id 158
+    name "160"
     label "q8c5j74Onx4"
     step 0
     date "2022-06-25T07:17:27Z"
@@ -2881,11 +4444,21 @@ graph
     commentcount 9664
     duration "PT2M33S"
     indegree 0
-    cluster 4
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 161
+    id 159
+    name "161"
     label "gv6XW54Ugw4"
     step 0
     date "2022-06-28T22:30:05Z"
@@ -2899,11 +4472,21 @@ graph
     commentcount 507
     duration "PT1M49S"
     indegree 0
-    cluster 3
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 162
+    id 160
+    name "162"
     label "RNGaFNbtKl0"
     step 0
     date "2022-05-04T04:00:08Z"
@@ -2917,11 +4500,21 @@ graph
     commentcount 484
     duration "PT8M56S"
     indegree 3
-    cluster 3
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 163
+    id 161
+    name "163"
     label "-NafVoA98EE"
     step 0
     date "2022-06-27T21:46:45Z"
@@ -2935,11 +4528,21 @@ graph
     commentcount 258
     duration "PT6M39S"
     indegree 1
-    cluster 1
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 164
+    id 162
+    name "164"
     label "GZGqS4AcNnE"
     step 0
     date "2022-06-28T15:00:08Z"
@@ -2953,11 +4556,21 @@ graph
     commentcount 533
     duration "PT1M40S"
     indegree 0
-    cluster 1
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 165
+    id 163
+    name "165"
     label "JVwin7nPbq0"
     step 0
     date "2022-06-27T00:03:41Z"
@@ -2971,11 +4584,21 @@ graph
     commentcount 9078
     duration "PT5M16S"
     indegree 1
-    cluster 1
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 166
+    id 164
+    name "166"
     label "TfJtiqZfU5s"
     step 0
     date "2022-07-03T20:37:42Z"
@@ -2989,11 +4612,21 @@ graph
     commentcount 1885
     duration "PT32M29S"
     indegree 2
-    cluster 6
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 167
+    id 165
+    name "167"
     label "DU3elL3nm4E"
     step 0
     date "2022-05-20T12:32:31Z"
@@ -3007,11 +4640,21 @@ graph
     commentcount 3447
     duration "PT4M35S"
     indegree 2
-    cluster 3
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 168
+    id 166
+    name "168"
     label "Cmq-IHvYV4s"
     step 0
     date "2022-05-03T14:18:23Z"
@@ -3025,11 +4668,21 @@ graph
     commentcount 546
     duration "PT2M17S"
     indegree 6
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
     cluster 3
   ]
   node
   [
-    id 169
+    id 167
+    name "169"
     label "QugxaqSkZGE"
     step 0
     date "2022-06-26T01:25:41Z"
@@ -3043,11 +4696,21 @@ graph
     commentcount 23763
     duration "PT8M8S"
     indegree 90
-    cluster 1
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 170
+    id 168
+    name "170"
     label "Btrn8Z9n_Lo"
     step 0
     date "2022-06-25T03:20:03Z"
@@ -3061,11 +4724,21 @@ graph
     commentcount -1
     duration "PT5M18S"
     indegree 40
-    cluster 3
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 171
+    id 169
+    name "171"
     label "voxym7VxdvQ"
     step 0
     date "2022-05-04T14:30:08Z"
@@ -3079,11 +4752,21 @@ graph
     commentcount 1208
     duration "PT3M57S"
     indegree 0
-    cluster 3
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 172
+    id 170
+    name "172"
     label "CwpbZqSdzb4"
     step 0
     date "2021-10-05T01:27:15Z"
@@ -3097,11 +4780,21 @@ graph
     commentcount 7034
     duration "PT13M16S"
     indegree 256
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
     cluster 3
   ]
   node
   [
-    id 173
+    id 171
+    name "173"
     label "Lc7zyI-dI7o"
     step 0
     date "2022-07-03T03:42:21Z"
@@ -3115,11 +4808,21 @@ graph
     commentcount 3123
     duration "PT1M58S"
     indegree 3
-    cluster 1
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 174
+    id 172
+    name "174"
     label "ZBU5qKrFWeo"
     step 0
     date "2022-05-04T11:52:52Z"
@@ -3133,11 +4836,21 @@ graph
     commentcount 2324
     duration "PT4M1S"
     indegree 4
-    cluster 3
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 175
+    id 173
+    name "175"
     label "Xow1oNh26Do"
     step 0
     date "2022-06-27T23:04:13Z"
@@ -3151,11 +4864,21 @@ graph
     commentcount 3487
     duration "PT19M38S"
     indegree 5
-    cluster 1
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 176
+    id 174
+    name "176"
     label "L3VbDL0TUOw"
     step 0
     date "2022-07-09T18:26:43Z"
@@ -3169,11 +4892,21 @@ graph
     commentcount 138
     duration "PT2H44M36S"
     indegree 1
-    cluster 7
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 177
+    id 175
+    name "177"
     label "PrOIPX0k5lY"
     step 0
     date "2022-06-26T13:14:09Z"
@@ -3187,11 +4920,21 @@ graph
     commentcount 5866
     duration "PT51S"
     indegree 6
-    cluster 6
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 1
   ]
   node
   [
-    id 178
+    id 176
+    name "178"
     label "AVqFRdJiKpA"
     step 0
     date "2022-06-24T15:30:01Z"
@@ -3205,11 +4948,21 @@ graph
     commentcount 1317
     duration "PT4M12S"
     indegree 4
-    cluster 4
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 1
   ]
   node
   [
-    id 179
+    id 177
+    name "179"
     label "WYfCPZyMUOw"
     step 0
     date "2022-06-25T01:14:17Z"
@@ -3223,29 +4976,49 @@ graph
     commentcount 624
     duration "PT2H6M15S"
     indegree 1
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
     cluster 4
   ]
   node
   [
-    id 181
-    label "iUSF3FbYTP0"
+    id 178
+    name "180"
+    label "3-RMcnsXugw"
     step 0
-    date "2022-06-24T17:11:25Z"
-    title "What does the overturn of Roe v. Wade mean to Floridians?"
-    description "On April 14, 2022, Gov. Ron DeSantis signed an abortion law, the most restrictive in the state's history, so will state lawmakers now seek even more limits to abortion access?"
-    channeltitle "WPLG Local 10"
-    channelid "UCgVZ0mrM3liHNhRYC5Mchgg"
+    date "2022-07-11T06:44:54Z"
+    title "Joe Biden says his  is to reinstate Roe v Wade | SBS News"
+    description "US President Joe Biden has declared that his ultimate goal is to reinstate the Roe v Wade ruling that legalised abortion, stating that he would 'sign it the moment that happens' once the bill passes through Congress.&#10;&#10;Read more here: https://www.sbs.com.au/news/article/joe-biden-signs-executive-order-to-protect-access-to-abortion-but-warns-fight-wont-end-there/y580g7qxw&#10;&#10;Subscribe for more live media conferences from SBS News or visit https://www.sbs.com.au/news for all the latest updates. &#10;&#10;You can also follow us on...&#10;&#10;TikTok: https://www.tiktok.com/@sbsnews_au?lang=en&#10;Instagram: https://www.instagram.com/sbsnews_au/?hl=en&#10;Twitter: https://twitter.com/SBSNews?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor&#10;Facebook: https://www.facebook.com/sbsnews/&#10;Apple News: https://www.apple.com/au/apple-news/&#10;&#10;&#10;SBS News is Australia's trusted news source for the latest news from Australia and across the world.&#10;&#10;Network Terms &#38; Conditions: sbs.com.au/terms&#10;Privacy Policy: sbs.com.au/privacy&#10;Feedback or complaints: sbs.com.au/complaints"
+    channeltitle "SBS News"
+    channelid "UCuuTCooIMbBFHNbPcSS70uw"
     favcount 0
-    viewcount 5719
-    likecount 59
-    commentcount 197
-    duration "PT1M39S"
-    indegree 1
-    cluster 6
+    viewcount 210
+    likecount 14
+    commentcount -1
+    duration "PT1M4S"
+    indegree 0
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 182
+    id 179
+    name "182"
     label "6EdhySfQYIY"
     step 0
     date "2022-07-10T07:35:22Z"
@@ -3259,11 +5032,21 @@ graph
     commentcount 44
     duration "PT2H41M16S"
     indegree 1
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
     cluster 1
   ]
   node
   [
-    id 183
+    id 180
+    name "183"
     label "gJCGAA4VYT8"
     step 0
     date "2022-05-04T03:50:00Z"
@@ -3277,11 +5060,21 @@ graph
     commentcount 13157
     duration "PT10M14S"
     indegree 16
-    cluster 3
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 184
+    id 181
+    name "184"
     label "sfME2SuW7sM"
     step 0
     date "2022-06-24T14:30:03Z"
@@ -3295,11 +5088,21 @@ graph
     commentcount 4326
     duration "PT6M29S"
     indegree 76
-    cluster 4
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 185
+    id 182
+    name "185"
     label "HZIqOcp7arM"
     step 0
     date "2022-06-24T19:45:00Z"
@@ -3313,11 +5116,21 @@ graph
     commentcount 1738
     duration "PT3M30S"
     indegree 4
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
     cluster 4
   ]
   node
   [
-    id 186
+    id 183
+    name "186"
     label "ShfWkRpA8xQ"
     step 0
     date "2022-05-03T01:22:00Z"
@@ -3331,11 +5144,21 @@ graph
     commentcount 17016
     duration "PT6M17S"
     indegree 4
-    cluster 3
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 187
+    id 184
+    name "187"
     label "o32wvFwmEYs"
     step 0
     date "2022-07-10T00:25:48Z"
@@ -3349,11 +5172,21 @@ graph
     commentcount 28
     duration "PT2M21S"
     indegree 0
-    cluster 4
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 188
+    id 185
+    name "188"
     label "w4S2msFHQkQ"
     step 0
     date "2022-06-25T16:35:57Z"
@@ -3367,11 +5200,21 @@ graph
     commentcount 2173
     duration "PT2M9S"
     indegree 0
-    cluster 6
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 189
+    id 186
+    name "189"
     label "G8xOYidMrPA"
     step 0
     date "2022-05-03T14:53:41Z"
@@ -3385,11 +5228,21 @@ graph
     commentcount -1
     duration "PT5M43S"
     indegree 2
-    cluster 3
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 190
+    id 187
+    name "190"
     label "_epeiYquxeA"
     step 0
     date "2022-06-28T07:35:00Z"
@@ -3403,11 +5256,21 @@ graph
     commentcount 2002
     duration "PT4M20S"
     indegree 5
-    cluster 1
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 191
+    id 188
+    name "191"
     label "YKg3Mv01eRM"
     step 0
     date "2022-05-07T13:00:23Z"
@@ -3421,11 +5284,21 @@ graph
     commentcount 3663
     duration "PT9M17S"
     indegree 0
-    cluster 3
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 192
+    id 189
+    name "192"
     label "YHsCXJo1Ctw"
     step 0
     date "2022-05-03T21:59:46Z"
@@ -3439,11 +5312,21 @@ graph
     commentcount 3635
     duration "PT55M15S"
     indegree 37
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
     cluster 3
   ]
   node
   [
-    id 193
+    id 190
+    name "193"
     label "LhnDTw5GSvM"
     step 0
     date "2022-06-28T13:47:45Z"
@@ -3457,11 +5340,21 @@ graph
     commentcount 1565
     duration "PT13M43S"
     indegree 10
-    cluster 1
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 194
+    id 191
+    name "194"
     label "rlcAfVnICR8"
     step 0
     date "2022-06-27T20:34:54Z"
@@ -3475,11 +5368,21 @@ graph
     commentcount 149
     duration "PT1M28S"
     indegree 0
-    cluster 1
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 195
+    id 192
+    name "195"
     label "64xKAS7OttI"
     step 0
     date "2022-05-09T21:35:43Z"
@@ -3493,11 +5396,21 @@ graph
     commentcount 21
     duration "PT4M44S"
     indegree 0
-    cluster 3
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 196
+    id 193
+    name "196"
     label "teOdzj11Vdg"
     step 0
     date "2022-06-30T07:30:06Z"
@@ -3511,11 +5424,21 @@ graph
     commentcount 206
     duration "PT13M48S"
     indegree 0
-    cluster 1
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 197
+    id 194
+    name "197"
     label "vf5LJJR3G60"
     step 0
     date "2022-06-21T22:13:27Z"
@@ -3529,11 +5452,21 @@ graph
     commentcount 360
     duration "PT4M9S"
     indegree 2
-    cluster 4
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 198
+    id 195
+    name "198"
     label "VM4efNOx1e4"
     step 0
     date "2022-07-01T14:30:12Z"
@@ -3547,11 +5480,21 @@ graph
     commentcount 193
     duration "PT6M42S"
     indegree 1
-    cluster 1
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 199
+    id 196
+    name "199"
     label "Z1XKrgRhdT0"
     step 0
     date "2022-05-08T05:10:40Z"
@@ -3565,11 +5508,21 @@ graph
     commentcount 1510
     duration "PT3M4S"
     indegree 5
-    cluster 3
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 200
+    id 197
+    name "200"
     label "FvOHOnpb2uo"
     step 0
     date "2022-05-03T19:40:57Z"
@@ -3583,11 +5536,21 @@ graph
     commentcount 2504
     duration "PT3M5S"
     indegree 5
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
     cluster 3
   ]
   node
   [
-    id 201
+    id 198
+    name "201"
     label "yHR3GYwXi6U"
     step 0
     date "2022-07-09T22:49:39Z"
@@ -3601,11 +5564,21 @@ graph
     commentcount 5
     duration "PT1M43S"
     indegree 0
-    cluster 1
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 202
+    id 199
+    name "202"
     label "cz5tlPnGUOs"
     step 0
     date "2022-05-04T16:55:38Z"
@@ -3619,29 +5592,49 @@ graph
     commentcount 1520
     duration "PT32M49S"
     indegree 9
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 2
+  ]
+  node
+  [
+    id 200
+    name "203"
+    label "6JaCKckjyNQ"
+    step 0
+    date "2022-07-08T15:25:19Z"
+    title "Roe v. Wade (Explained) | Abortion Law in India | Medical Termination of Pregnancy (MTP) Act | UPSC"
+    description "&#34;Abortion rights&#34; have come into focus with the U.S. Supreme Court overturning the landmark Roe v. Wade judgement of 1973 that had given women in America the right to have an abortion before the fetus is viable outside the womb or before the 24-28 week mark. In 1973, in the landmark Roe vs Wade judgment, the Supreme Court of the United States had made the right to abortion a constitutional right, establishing a benchmark for abortion laws across the world.&#10;&#10;Following the latest developments, abortion rights will now be determined by individual States. This is seen as a significant curtailment of women&#8217;s rights and has led to a major controversy.&#10;&#10;In India, the Medical Termination of Pregnancy (MTP) Act was brought into force in 1971. This law sets out the rules of how and when a medical abortion can be carried out. The latest amendment to the MTP Act was made in 2021. Under the Medical Termination of Pregnancy (Amendment) Act, 2021, abortion is permitted after medical opinion under stipulated circumstances. &#10;&#10;To understand the Rights of Fetus and Mother in the Abortion Debate, watch this week's Explained Session. &#10;&#10;The lecture will focus on the following:&#10;1. What is Roe v. Wade judgement?&#10;2. What was the recent judgement on abortion by the Supreme Court of the United States?&#10;3. What are the abortion laws in the world?&#10;4. What are the abortion laws in India?&#10;5. What are the provisions under the Medical Termination of Pregnancy Act?&#10;6. What is the MTP (Amendment) Act, 2021?&#10;5. Reproductive rights of women.&#10;&#10;Watch the entire Explained Series here:&#10;https://youtube.com/playlist?list=PLkJ-kjtioPGqlUxUXouzs6wKfjXvkg2xA&#10;&#10;Watch all the lectures in the Knowledge Series here: https://youtube.com/playlist?list=PLkJ-kjtioPGrQ_jYd2rnFyvc4BUSEA8vL&#10;&#10;Download PDF:  https://cdn1.byjus.com/wp-content/uploads/2022/07/BYJUS-Exam-Prep-Explained-Roe-v-Wade.pdf&#10;&#10;Happy Learning! &#10;BYJU'S Exam Prep IAS&#10;&#10;#abortionlaws #abortionlawsusa #abortionlawsus #abortionlawsinamerica #abortionlawsupsc #abortionlawsnews #abortionlawsexplained #abortionrights #usaabortionlaw #byjusexplainedsession #explainedsession #byjusias #upscprelims #iasprep  #iasupsc #iasexampreparation #iasprelims #upscprelims2022 #prelims2022 #upscpre2022 #upsccseprelims2022 #uppscprelims2022 #upscprelims2022 #prelims2022analysis #cse2022 #upsccseprelims2023 #uppscprelims2023 #prelims2023 #upscpre2023 #roevwade #MTPact #MedicalTerminationofPregnancyAmendment #mtp"
+    channeltitle "BYJU'S IAS"
+    channelid "UC1pfsmDBnMQB8sOuQvmTvRQ"
+    favcount 0
+    viewcount 6584
+    likecount 429
+    commentcount 33
+    duration "PT39M57S"
+    indegree 0
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
     cluster 3
   ]
   node
   [
-    id 204
-    label "oODF6Z4Yep0"
-    step 0
-    date "2022-07-04T18:35:06Z"
-    title "Pope Francis condemns abortion on Roe v. Wade"
-    description "In a wide-ranging interview with American journalist Philip Pullela of Reuters, Pope Francis covers topics such as the recent US Supreme Court decision overturning Roe v. Wade, the possibility of resigning, the decision to postpone his planned Apostolic Visit to South Sudan and the Democratic Republic of Congo, and his hopes for a trip to Moscow and Kyiv. Get EWTN Vatican delivered to your email: https://www.ewtnvatican.com"
-    channeltitle "EWTN"
-    channelid "UCijDos-LUTh9RQvSCMQqN6Q"
-    favcount 0
-    viewcount 31987
-    likecount 614
-    commentcount -1
-    duration "PT3M35S"
-    indegree 0
-    cluster 6
-  ]
-  node
-  [
-    id 205
+    id 201
+    name "205"
     label "gthY6mlb4r0"
     step 0
     date "2022-05-13T20:33:00Z"
@@ -3655,11 +5648,21 @@ graph
     commentcount 319
     duration "PT2M20S"
     indegree 1
-    cluster 3
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 1
   ]
   node
   [
-    id 206
+    id 202
+    name "206"
     label "m7Dl3zm242g"
     step 0
     date "2022-05-09T12:00:33Z"
@@ -3673,11 +5676,21 @@ graph
     commentcount 233
     duration "PT3M1S"
     indegree 0
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
     cluster 3
   ]
   node
   [
-    id 207
+    id 203
+    name "207"
     label "togimluJpl0"
     step 0
     date "2022-06-25T02:34:07Z"
@@ -3691,11 +5704,21 @@ graph
     commentcount -1
     duration "PT14M38S"
     indegree 16
-    cluster 4
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 208
+    id 204
+    name "208"
     label "a7yccirStQ8"
     step 0
     date "2022-05-06T18:08:01Z"
@@ -3709,11 +5732,21 @@ graph
     commentcount 1716
     duration "PT4M32S"
     indegree 1
-    cluster 3
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 209
+    id 205
+    name "209"
     label "Glqe2tlYf7A"
     step 0
     date "2022-06-24T16:53:11Z"
@@ -3727,11 +5760,21 @@ graph
     commentcount -1
     duration "PT29M40S"
     indegree 7
-    cluster 4
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 210
+    id 206
+    name "210"
     label "M-GdTtb8x74"
     step 0
     date "2022-07-03T17:49:16Z"
@@ -3745,11 +5788,21 @@ graph
     commentcount 329
     duration "PT2M10S"
     indegree 2
-    cluster 1
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 211
+    id 207
+    name "211"
     label "FDzyGsFqJeo"
     step 0
     date "2022-06-24T15:41:12Z"
@@ -3763,11 +5816,21 @@ graph
     commentcount 349
     duration "PT15M25S"
     indegree 0
-    cluster 4
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 212
+    id 208
+    name "212"
     label "2PkDZJ9-l88"
     step 0
     date "2022-05-04T23:54:23Z"
@@ -3781,11 +5844,21 @@ graph
     commentcount 607
     duration "PT2M17S"
     indegree 6
-    cluster 3
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 213
+    id 209
+    name "213"
     label "dAjOWXbkeYw"
     step 0
     date "2022-06-24T21:46:14Z"
@@ -3799,11 +5872,21 @@ graph
     commentcount 312
     duration "PT2M25S"
     indegree 1
-    cluster 6
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 214
+    id 210
+    name "214"
     label "dAwU_TlHQ1w"
     step 0
     date "2022-05-20T12:00:30Z"
@@ -3817,11 +5900,21 @@ graph
     commentcount 4056
     duration "PT8M5S"
     indegree 1
-    cluster 3
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 1
   ]
   node
   [
-    id 215
+    id 211
+    name "215"
     label "650SLTWwvjc"
     step 0
     date "2022-07-01T17:43:44Z"
@@ -3835,11 +5928,21 @@ graph
     commentcount -1
     duration "PT25M1S"
     indegree 0
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
     cluster 4
   ]
   node
   [
-    id 216
+    id 212
+    name "216"
     label "G9zRflXDlOo"
     step 0
     date "2022-05-03T17:30:01Z"
@@ -3853,11 +5956,21 @@ graph
     commentcount 2530
     duration "PT3M8S"
     indegree 0
-    cluster 3
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 217
+    id 213
+    name "217"
     label "0p9DdNIHP0Q"
     step 0
     date "2022-06-20T20:42:34Z"
@@ -3871,11 +5984,21 @@ graph
     commentcount 221
     duration "PT17M54S"
     indegree 18
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
     cluster 3
   ]
   node
   [
-    id 218
+    id 214
+    name "218"
     label "Fpc40dmPlVM"
     step 0
     date "2022-06-25T23:07:43Z"
@@ -3889,11 +6012,21 @@ graph
     commentcount 7557
     duration "PT5M46S"
     indegree 2
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
     cluster 2
   ]
   node
   [
-    id 219
+    id 215
+    name "219"
     label "zFt_IQX_Wxo"
     step 0
     date "2022-06-28T13:24:19Z"
@@ -3907,11 +6040,21 @@ graph
     commentcount 1468
     duration "PT7M20S"
     indegree 10
-    cluster 1
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 5
   ]
   node
   [
-    id 220
+    id 216
+    name "220"
     label "x1EryWLGesk"
     step 0
     date "2022-06-27T11:30:13Z"
@@ -3925,11 +6068,21 @@ graph
     commentcount 7891
     duration "PT5M6S"
     indegree 8
-    cluster 6
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 221
+    id 217
+    name "221"
     label "T-pCXsPxaDQ"
     step 0
     date "2022-06-26T16:06:08Z"
@@ -3943,11 +6096,21 @@ graph
     commentcount 244
     duration "PT1M20S"
     indegree 0
-    cluster 2
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 1
   ]
   node
   [
-    id 222
+    id 218
+    name "222"
     label "AD-LX9oro3k"
     step 0
     date "2022-06-29T18:22:36Z"
@@ -3961,11 +6124,21 @@ graph
     commentcount 626
     duration "PT7M31S"
     indegree 0
-    cluster 1
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 5
   ]
   node
   [
-    id 223
+    id 219
+    name "223"
     label "iTSVzSiRpcI"
     step 0
     date "2016-10-20T01:30:25Z"
@@ -3979,11 +6152,21 @@ graph
     commentcount -1
     duration "PT2M9S"
     indegree 3
-    cluster 4
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 224
+    id 220
+    name "224"
     label "l1O8Nt4VlC4"
     step 0
     date "2022-07-02T18:13:55Z"
@@ -3997,11 +6180,21 @@ graph
     commentcount 173
     duration "PT2M16S"
     indegree 0
-    cluster 1
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 225
+    id 221
+    name "225"
     label "p0M9KaG4_Ic"
     step 0
     date "2022-06-28T11:15:06Z"
@@ -4015,11 +6208,21 @@ graph
     commentcount 266
     duration "PT8M46S"
     indegree 1
-    cluster 3
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 226
+    id 222
+    name "226"
     label "7E-nCgExajM"
     step 0
     date "2022-06-24T21:34:20Z"
@@ -4033,11 +6236,21 @@ graph
     commentcount 13890
     duration "PT9M49S"
     indegree 72
-    cluster 4
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 227
+    id 223
+    name "227"
     label "QDR14dqESbc"
     step 0
     date "2022-06-24T22:25:57Z"
@@ -4051,11 +6264,21 @@ graph
     commentcount 5
     duration "PT5M46S"
     indegree 0
-    cluster 7
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 228
+    id 224
+    name "228"
     label "Qf8Xi18U-CA"
     step 0
     date "2022-06-24T23:41:17Z"
@@ -4069,11 +6292,21 @@ graph
     commentcount 122
     duration "PT4M55S"
     indegree 19
-    cluster 4
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 1
   ]
   node
   [
-    id 229
+    id 225
+    name "229"
     label "KFufsrzKWKs"
     step 0
     date "2022-06-30T01:43:21Z"
@@ -4087,11 +6320,21 @@ graph
     commentcount 128
     duration "PT6M4S"
     indegree 0
-    cluster 6
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 230
+    id 226
+    name "230"
     label "NOyfX7_UHVI"
     step 0
     date "2022-06-29T18:34:16Z"
@@ -4105,11 +6348,21 @@ graph
     commentcount 373
     duration "PT31M29S"
     indegree 11
-    cluster 2
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 5
   ]
   node
   [
-    id 231
+    id 227
+    name "231"
     label "z3YO071QVXQ"
     step 0
     date "2022-07-03T18:59:49Z"
@@ -4123,11 +6376,21 @@ graph
     commentcount 839
     duration "PT1M29S"
     indegree 13
-    cluster 1
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 5
   ]
   node
   [
-    id 232
+    id 228
+    name "232"
     label "fmCcU09StWE"
     step 0
     date "2022-06-25T03:00:12Z"
@@ -4141,11 +6404,21 @@ graph
     commentcount 4047
     duration "PT11M24S"
     indegree 14
-    cluster 6
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 233
+    id 229
+    name "233"
     label "LjWbl4bJnE0"
     step 0
     date "2022-05-06T23:09:47Z"
@@ -4159,11 +6432,21 @@ graph
     commentcount -1
     duration "PT12M2S"
     indegree 5
-    cluster 7
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 234
+    id 230
+    name "234"
     label "pYNz8qcThJE"
     step 0
     date "2020-07-17T20:09:08Z"
@@ -4177,11 +6460,21 @@ graph
     commentcount 455
     duration "PT2M6S"
     indegree 1
-    cluster 3
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 1
   ]
   node
   [
-    id 235
+    id 231
+    name "235"
     label "QDO3gb4rJfQ"
     step 0
     date "2022-06-24T15:45:02Z"
@@ -4195,11 +6488,21 @@ graph
     commentcount 5551
     duration "PT5M41S"
     indegree 30
-    cluster 4
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 236
+    id 232
+    name "236"
     label "qX5hsuH2_QM"
     step 0
     date "2022-06-25T00:21:32Z"
@@ -4213,11 +6516,21 @@ graph
     commentcount 333
     duration "PT4M45S"
     indegree 3
-    cluster 6
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 237
+    id 233
+    name "237"
     label "1p4aWfu-1ec"
     step 0
     date "2022-07-01T21:23:32Z"
@@ -4231,11 +6544,21 @@ graph
     commentcount 108
     duration "PT14M57S"
     indegree 1
-    cluster 6
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 1
   ]
   node
   [
-    id 238
+    id 234
+    name "238"
     label "nyBNl3vVUkM"
     step 0
     date "2022-06-24T17:30:05Z"
@@ -4249,11 +6572,21 @@ graph
     commentcount 770
     duration "PT2M12S"
     indegree 0
-    cluster 4
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 1
   ]
   node
   [
-    id 239
+    id 235
+    name "239"
     label "2f9TzNyWj50"
     step 0
     date "2022-06-26T11:28:34Z"
@@ -4267,11 +6600,21 @@ graph
     commentcount -1
     duration "PT2M40S"
     indegree 0
-    cluster 3
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 240
+    id 236
+    name "240"
     label "FfYIzcHOCQ8"
     step 0
     date "2022-06-30T14:32:46Z"
@@ -4285,11 +6628,21 @@ graph
     commentcount 1628
     duration "PT1M8S"
     indegree 0
-    cluster 1
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 241
+    id 237
+    name "241"
     label "bWNu2zo6pQs"
     step 0
     date "2022-05-06T01:30:07Z"
@@ -4303,11 +6656,21 @@ graph
     commentcount 427
     duration "PT9M37S"
     indegree 2
-    cluster 3
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 242
+    id 238
+    name "242"
     label "eY9GXESYfeI"
     step 0
     date "2022-05-03T22:46:19Z"
@@ -4321,11 +6684,21 @@ graph
     commentcount 4072
     duration "PT43S"
     indegree 0
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
     cluster 3
   ]
   node
   [
-    id 243
+    id 239
+    name "243"
     label "-Z61VcW86U0"
     step 0
     date "2022-07-08T02:51:33Z"
@@ -4339,11 +6712,21 @@ graph
     commentcount 1271
     duration "PT1H23M26S"
     indegree 2
-    cluster 2
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 244
+    id 240
+    name "244"
     label "iMW3W4A9-LE"
     step 0
     date "2022-06-28T13:00:22Z"
@@ -4357,11 +6740,21 @@ graph
     commentcount 572
     duration "PT1H19M17S"
     indegree 20
-    cluster 1
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 245
+    id 241
+    name "245"
     label "l6pkDWTFdfY"
     step 0
     date "2022-06-25T03:20:14Z"
@@ -4375,11 +6768,21 @@ graph
     commentcount 1046
     duration "PT3M30S"
     indegree 1
-    cluster 4
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 246
+    id 242
+    name "246"
     label "raQmwDgYOUw"
     step 0
     date "2022-06-25T02:00:19Z"
@@ -4393,11 +6796,21 @@ graph
     commentcount 678
     duration "PT2M22S"
     indegree 0
-    cluster 1
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 247
+    id 243
+    name "247"
     label "q3or8nJ-hW8"
     step 0
     date "2022-07-09T15:00:22Z"
@@ -4411,11 +6824,21 @@ graph
     commentcount 6
     duration "PT1M50S"
     indegree 0
-    cluster 7
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 248
+    id 244
+    name "248"
     label "axRUmSBVXKo"
     step 0
     date "2022-06-13T11:33:43Z"
@@ -4429,11 +6852,21 @@ graph
     commentcount 1112
     duration "PT4M11S"
     indegree 2
-    cluster 3
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 249
+    id 245
+    name "249"
     label "OuEy6M1oJD0"
     step 0
     date "2022-06-24T23:06:15Z"
@@ -4447,11 +6880,21 @@ graph
     commentcount 61
     duration "PT2M23S"
     indegree 0
-    cluster 4
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 250
+    id 246
+    name "250"
     label "_lsWhZYkJ8s"
     step 0
     date "2022-06-25T03:46:48Z"
@@ -4465,11 +6908,21 @@ graph
     commentcount 461
     duration "PT14M48S"
     indegree 0
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
     cluster 4
   ]
   node
   [
-    id 251
+    id 247
+    name "251"
     label "azyCSNWjbxE"
     step 0
     date "2022-06-24T16:45:01Z"
@@ -4483,11 +6936,21 @@ graph
     commentcount 6040
     duration "PT22S"
     indegree 0
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
     cluster 4
   ]
   node
   [
-    id 252
+    id 248
+    name "252"
     label "ATbiftHXTls"
     step 0
     date "2022-05-03T21:04:52Z"
@@ -4501,29 +6964,49 @@ graph
     commentcount 2609
     duration "PT2M11S"
     indegree 1
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 4
+  ]
+  node
+  [
+    id 249
+    name "253"
+    label "JP__I4if6uE"
+    step 0
+    date "2022-07-10T17:30:01Z"
+    title "chit chat get ready w me :) - roe v wade, staying pure, long distance advice, dating as a christian"
+    description "chit chat get ready w me :) - roe v wade, staying pure, long distance advice, dating as a christian&#10;&#10;find me on insta&#10;main - @atakorakarren&#10;podcast - @wttkpodcast&#10;clothing brand - @deathtoself.co&#10;&#10;LISTEN TO MY PODCAST &#34;Welcome to The Kingdom&#34; ON:&#10;apple podcasts: https://podcasts.apple.com/us/podcast/welcome-to-the-kingdom/id1546802060 &#10;spotify: https://open.spotify.com/show/2VpqEgwergYZmxONsLIwf9&#10;youtube: https://www.youtube.com/channel/UCq6E9MWs3nnO7yposchZdpw&#10;anchor: https://anchor.fm/wttk"
+    channeltitle "karren atakora"
+    channelid "UCoiG2TWc8zlz-pXtE9yGnFw"
+    favcount 0
+    viewcount 3472
+    likecount 340
+    commentcount 37
+    duration "PT22M54S"
+    indegree 0
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
     cluster 3
   ]
   node
   [
-    id 255
-    label "M4iUvD6Y5IA"
-    step 0
-    date "2022-06-25T03:01:01Z"
-    title "Monologue: Welcome to Right-Wing America | Real Time with Bill Maher (HBO)"
-    description "Subscribe to the Real Time YouTube: http://itsh.bo/10r5A1B&#10;&#10;Bill reacts to the top stories of the week, including the Supreme Court's decision to overturn Roe v. Wade.&#10;&#10;Connect with Real Time Online:&#10;Find Real Time on Facebook: https://www.facebook.com/Maher&#10;Find Real Time on Twitter: https://twitter.com/RealTimers&#10;Find Real Time with Bill Maher Official Site: http://itsh.bo/HttKcM.&#10;Find Real Time with Bill Maher on HBO GO&#174; http://itsh.bo/iioY87.&#10;Find Real Time with Bill Maher on Connect: http://connect.hbo.com/real-time-bill-maher&#10;Find Real Time on Instagram: http://instagram.com/realtimers&#10;The Real Time blog: http://www.real-time-with-bill-maher-blog.com/&#10;&#10;It's HBO.&#10;&#10;Connect with HBO Online&#10;Find HBO on Facebook: http://Facebook.com/HBO&#10;Follow @HBO on Twitter: http://Twitter.com/HBO&#10;Find HBO on Youtube: http://Youtube.com/HBO&#10;Find HBO Official Site: http://HBO.com&#10;Find HBO Connect: http://Connect.hbo.com&#10;Find HBO GO: http://HBOGO.com&#10;Find HBO on Instagram: http://Instagram.com/hbo&#10;Find HBO on Foursquare: http://Foursquare.com/hbo&#10;&#10;Check out other HBO Channels&#10;HBO: http://www.youtube.com/hbo&#10;Game of Thrones: http://www.youtube.com/GameofThrones &#10;True Blood: http://www.youtube.com/trueblood &#10;HBO Sports: http://www.youtube.com/HBOsports &#10;HBO Documentary Films: http://www.youtube.com/HBODocs &#10;Cinemax: http://www.youtube.com/Cinemax &#10;HBO Latino: http://www.youtube.com/HBOLatino"
-    channeltitle "Real Time with Bill Maher"
-    channelid "UCy6kyFxaMqGtpE3pQTflK8A"
-    favcount 0
-    viewcount 1030448
-    likecount 15651
-    commentcount 6861
-    duration "PT2M34S"
-    indegree 2
-    cluster 1
-  ]
-  node
-  [
-    id 256
+    id 250
+    name "256"
     label "0CRoUuKsVH0"
     step 0
     date "2022-06-24T23:20:12Z"
@@ -4537,11 +7020,21 @@ graph
     commentcount 165
     duration "PT3M30S"
     indegree 1
-    cluster 6
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 257
+    id 251
+    name "257"
     label "HQb5Ii19vFA"
     step 0
     date "2022-06-28T01:00:04Z"
@@ -4555,11 +7048,21 @@ graph
     commentcount 891
     duration "PT2M48S"
     indegree 3
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
     cluster 1
   ]
   node
   [
-    id 258
+    id 252
+    name "258"
     label "Zi-JFYvi48k"
     step 0
     date "2022-06-30T15:00:18Z"
@@ -4573,11 +7076,21 @@ graph
     commentcount 82
     duration "PT4M24S"
     indegree 86
-    cluster 4
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 259
+    id 253
+    name "259"
     label "hPAGsQBufG8"
     step 0
     date "2022-07-02T05:50:15Z"
@@ -4591,11 +7104,21 @@ graph
     commentcount 891
     duration "PT2M23S"
     indegree 0
-    cluster 1
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 260
+    id 254
+    name "260"
     label "IfSrCnFzXRA"
     step 0
     date "2022-06-24T14:31:21Z"
@@ -4609,11 +7132,21 @@ graph
     commentcount 688
     duration "PT3M50S"
     indegree 14
-    cluster 4
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 261
+    id 255
+    name "261"
     label "6P9Aw9PA5Rs"
     step 0
     date "2019-01-15T00:34:28Z"
@@ -4627,11 +7160,21 @@ graph
     commentcount 12
     duration "PT3M"
     indegree 0
-    cluster 3
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 262
+    id 256
+    name "262"
     label "Cpqj8TvjAdE"
     step 0
     date "2022-05-03T13:15:00Z"
@@ -4645,11 +7188,21 @@ graph
     commentcount 314
     duration "PT5M59S"
     indegree 2
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
     cluster 3
   ]
   node
   [
-    id 263
+    id 257
+    name "263"
     label "Q--8bwv-YT8"
     step 0
     date "2022-05-05T14:30:04Z"
@@ -4663,11 +7216,21 @@ graph
     commentcount 1165
     duration "PT13M52S"
     indegree 7
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
     cluster 3
   ]
   node
   [
-    id 264
+    id 258
+    name "264"
     label "9CiPF0y8vvk"
     step 0
     date "2022-07-08T09:07:14Z"
@@ -4681,11 +7244,21 @@ graph
     commentcount 7
     duration "PT4M2S"
     indegree 1
-    cluster 7
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 265
+    id 259
+    name "265"
     label "c12GHlTMaIg"
     step 0
     date "2022-05-03T03:15:20Z"
@@ -4699,11 +7272,21 @@ graph
     commentcount 4928
     duration "PT4M33S"
     indegree 3
-    cluster 3
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 1
   ]
   node
   [
-    id 266
+    id 260
+    name "266"
     label "YXBs8xVZRoI"
     step 0
     date "2022-07-07T21:06:33Z"
@@ -4717,11 +7300,21 @@ graph
     commentcount 9
     duration "PT5M44S"
     indegree 0
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
     cluster 3
   ]
   node
   [
-    id 267
+    id 261
+    name "267"
     label "0AwT9oZD5Bw"
     step 0
     date "2022-05-04T15:05:17Z"
@@ -4735,29 +7328,49 @@ graph
     commentcount 1
     duration "PT1M59S"
     indegree 0
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
     cluster 3
   ]
   node
   [
-    id 269
-    label "_mimITJ0tLQ"
+    id 262
+    name "268"
+    label "hTU4WTnzURc"
     step 0
-    date "2022-06-23T12:04:36Z"
-    title "Why We NEED a Male Birth Control Pill"
-    description "Let Audible help you discover new ways to laugh, be inspired, or be entertained. New members can try it free for 30 days. Visit https://www.Audible.com/JOHNNYHARRIS or text JOHNNYHARRIS to 500-500.&#10;&#10;The future of abortion rights in America just got a bit more complicated now that the Supreme Court overturned Roe v. Wade. It makes me wonder, when is there actually going to be a male birth control pill?&#10;&#10;Thank you to all of the people who sent in their experiences with hormonal birth control. Your voices are so important in this story. One of those was Sarah Dietschy, you can see her Youtube channel here: https://www.youtube.com/c/saradietschy. So many of you responded with how hormonal birth control has made your life better. We didn&#8217;t have time to include these in the video, but you can watch some of those testimonials with this link: https://youtu.be/tHpZOKWCcnI&#10;&#10;A big thanks to all of the people we spoke with:&#10;- Dr. Stephanie Page &#10;- Dr. John Amory&#10;- Kevin Shane from the Male Contraceptive Initiative. MCI has a ton of information on the latest non hormonal methods being researched as male contraceptives. Check out their website (https://www.malecontraceptive.org), and listen to Kevin and his colleagues on their podcast &#8220;Intended&#8221;: https://www.malecontraceptive.org/intended.html&#10;- Claudia Grammer from the Museum of Contraception and Abortion&#10;&#10;Here&#8217;s some information on the hormonal gel trials happening right now in a ton of locations, they&#8217;re looking for couples to participate:  &#10;- Click the &#8220;participate in this trial&#8221; at the top of this site and they&#8217;ll help find the closest trial near you: https://www.malecontraception.center/clinical-trials-1&#10;- UCLA&#8217;s trial: https://www.menshealth-lundquist.org/nest_male_birth_control_trial&#10;- University of Utah&#8217;s trial: https://studypages.com/s/interested-in-trying-out-a-male-birth-control-method-participate-in-a-research-study-549601/&#10;- Scroll to the bottom of this page to see if a university near you is recruiting for trial participants: https://clinicaltrials.gov/ct2/show/NCT03452111&#10;&#10;- ways to support - &#10;My Patreon: https://www.patreon.com/johnnyharris&#10;Our custom Presets &#38; LUTs: https://store.dftba.com/products/johnny-iz-luts-and-presets&#10;&#10;- where to find me -&#10;Instagram: https://www.instagram.com/johnny.harris/&#10;Tiktok: https://www.tiktok.com/@johnny.harris&#10;Facebook: https://www.facebook.com/JohnnyHarrisVox&#10;Iz's (my wife&#8217;s) channel: https://www.youtube.com/iz-harris&#10;&#10;- how i make my videos -&#10;Tom Fox makes my music, work with him here: https://tfbeats.com/&#10;I make maps using this AE Plugin: https://aescripts.com/geolayers/?aff=77&#10;All the gear I use: https://www.izharris.com/gear-guide&#10; &#10;- my courses - &#10;Learn a language: https://brighttrip.com/course/language/&#10;Visual storytelling: https://www.brighttrip.com/courses/visual-storytelling&#10;&#10;- about -&#10;Johnny Harris is a filmmaker and journalist. He currently is based in Washington, DC, reporting on interesting trends and stories domestically and around the globe. Johnny's visual style blends motion graphics with cinematic videography to create content that explains complex issues in relatable ways. He holds a BA in international relations from Brigham Young University and an MA in international peace and conflict resolution from American University.&#10;&#10;- press - &#10;NYTimes: https://www.nytimes.com/2021/11/09/opinion/democrats-blue-states-legislation.html&#10;NYTimes: https://www.nytimes.com/video/opinion/100000007358968/covid-pandemic-us-response.html&#10;Vox Borders: https://www.youtube.com/watch?v=hLrFyjGZ9NU&#10;Finding Founders: https://findingfounders.co/episodes/johnny-harris-2esj3-c3pet-2pg4c-xbtwa-5gaaa&#10;NPR Planet Money: https://www.npr.org/transcripts/1072164745"
-    channeltitle "Johnny Harris"
-    channelid "UCmGSJVG3mCRXVOP4yZrU1Dw"
+    date "2022-06-30T09:45:02Z"
+    title "Roe v. Wade Has Ended  Our Pro-Life Work Has Not"
+    description "Special Episode. Read or subscribe:&#10;https://www.desiringgod.org/interviews/roe-v-wade-has-ended-our-pro-life-work-has-not"
+    channeltitle "Desiring God"
+    channelid "UCnrFlpro0xfYjz6s5Xa8WWw"
     favcount 0
-    viewcount 821171
-    likecount 49781
-    commentcount 5944
-    duration "PT24M2S"
+    viewcount 16742
+    likecount 303
+    commentcount 85
+    duration "PT23M58S"
     indegree 0
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
     cluster 3
   ]
   node
   [
-    id 270
+    id 263
+    name "270"
     label "T9aDXS_o37Y"
     step 0
     date "2022-07-02T22:20:30Z"
@@ -4771,11 +7384,21 @@ graph
     commentcount -1
     duration "PT1M1S"
     indegree 0
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
     cluster 3
   ]
   node
   [
-    id 271
+    id 264
+    name "271"
     label "7IRwSp_B5bk"
     step 0
     date "2022-05-04T11:04:12Z"
@@ -4789,29 +7412,49 @@ graph
     commentcount 4
     duration "PT1M"
     indegree 0
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
     cluster 3
   ]
   node
   [
-    id 273
-    label "e3MD6pJsfAs"
+    id 265
+    name "272"
+    label "EWmM8glK4L0"
     step 0
-    date "2022-06-28T11:34:23Z"
-    title "The left  after Roe v Wade overturn"
-    description "The venom against US Supreme Court Justice Clarence Thomas has descended into personal abuse and demonisation as the left &#34;went insane&#34; following the overturning of Roe v Wade, says Sky News host Rowan Dean.&#10;&#10;Justice Thomas has come under fire recently after suggesting the same logic used to overturn Roe v Wade could be feasibly applied to the same-sex marriage debate, however, the Supreme Court does not intend to do so.&#10;&#10;&#34;Clarence Thomas is is a fascinating character, because unlike most judges these days, and certainly unlike the prevailing moral equivalence that we are all supposed to espouse in today's 'progressive' world, Clarence Thomas has very fixed views on what is right, and what is wrong,&#34; Mr Dean said.&#10;&#10;&#34;But the venom against Clarence Thomas has of course descended into personal abuse and demonisation as, as was always to be expected, the left went insane following the overturning of Roe v Wade.&#10;&#10;&#34;What Clarence Thomas said is true; right is right, no matter how much people howl into the wind, and equally, wrong is wrong.&#34;"
-    channeltitle "Sky News Australia"
-    channelid "UCO0akufu9MOzyz3nvGIXAAw"
+    date "2022-05-22T14:53:12Z"
+    title "Bash asks GOP governor why he signed bill that would force rape victims to carry babies to term"
+    description "CNN's Dana Bash presses Gov. Asa Hutchinson (R-AR) about the state trigger law on abortion that does not have exceptions for rape or incest if Roe v. Wade is overturned.&#10;&#10;#CNN #News"
+    channeltitle "CNN"
+    channelid "UCupvZG-5ko_eiXAupbDfxWw"
     favcount 0
-    viewcount 11107
-    likecount 679
-    commentcount 429
-    duration "PT9M45S"
-    indegree 15
-    cluster 1
+    viewcount 333308
+    likecount 4350
+    commentcount 5834
+    duration "PT8M51S"
+    indegree 1
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 274
+    id 266
+    name "274"
     label "mQbMU7JFN2Q"
     step 0
     date "2022-07-10T17:00:20Z"
@@ -4825,11 +7468,21 @@ graph
     commentcount 98
     duration "PT6M38S"
     indegree 0
-    cluster 1
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 275
+    id 267
+    name "275"
     label "zgqPb18fNCs"
     step 0
     date "2022-05-04T04:15:52Z"
@@ -4843,11 +7496,21 @@ graph
     commentcount -1
     duration "PT5M30S"
     indegree 1
-    cluster 6
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 276
+    id 268
+    name "276"
     label "jwle6hUPdew"
     step 0
     date "2022-06-24T23:23:41Z"
@@ -4861,11 +7524,21 @@ graph
     commentcount -1
     duration "PT13M40S"
     indegree 61
-    cluster 4
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 1
   ]
   node
   [
-    id 277
+    id 269
+    name "277"
     label "uIsbM4PJzl0"
     step 0
     date "2022-06-14T03:13:01Z"
@@ -4879,11 +7552,21 @@ graph
     commentcount 231
     duration "PT1M57S"
     indegree 1
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
     cluster 4
   ]
   node
   [
-    id 278
+    id 270
+    name "278"
     label "s7BwiwzVPS0"
     step 0
     date "2022-06-27T12:15:02Z"
@@ -4897,11 +7580,21 @@ graph
     commentcount 929
     duration "PT39M28S"
     indegree 14
-    cluster 1
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 279
+    id 271
+    name "279"
     label "LdwtEuZxtxM"
     step 0
     date "2022-05-27T02:06:22Z"
@@ -4915,11 +7608,21 @@ graph
     commentcount 4
     duration "PT24M14S"
     indegree 0
-    cluster 3
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 280
+    id 272
+    name "280"
     label "pduUuHPySns"
     step 0
     date "2022-07-10T15:00:10Z"
@@ -4933,11 +7636,21 @@ graph
     commentcount 9
     duration "PT28M21S"
     indegree 0
-    cluster 6
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 281
+    id 273
+    name "281"
     label "-MhgN7WclI0"
     step 0
     date "2022-06-24T23:08:20Z"
@@ -4951,11 +7664,21 @@ graph
     commentcount 17467
     duration "PT57S"
     indegree 0
-    cluster 6
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 1
   ]
   node
   [
-    id 282
+    id 274
+    name "282"
     label "Nj7fGLZAxDE"
     step 0
     date "2022-05-09T22:20:40Z"
@@ -4969,11 +7692,21 @@ graph
     commentcount 25
     duration "PT23M46S"
     indegree 0
-    cluster 3
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 6
   ]
   node
   [
-    id 283
+    id 275
+    name "283"
     label "c2KkeT7xqmc"
     step 0
     date "2022-05-06T23:00:25Z"
@@ -4987,11 +7720,21 @@ graph
     commentcount 103
     duration "PT2M47S"
     indegree 1
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
     cluster 3
   ]
   node
   [
-    id 284
+    id 276
+    name "284"
     label "2Q1JyJEjXrw"
     step 0
     date "2022-05-03T06:42:02Z"
@@ -5005,11 +7748,21 @@ graph
     commentcount 20
     duration "PT3M24S"
     indegree 0
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
     cluster 3
   ]
   node
   [
-    id 285
+    id 277
+    name "285"
     label "XCYq3rltnVI"
     step 0
     date "2022-06-30T01:34:58Z"
@@ -5023,29 +7776,49 @@ graph
     commentcount 4052
     duration "PT19M15S"
     indegree 44
-    cluster 1
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 287
-    label "GdDmhDwXv4U"
+    id 278
+    name "286"
+    label "62RIwaoLNYQ"
     step 0
-    date "2022-07-01T21:55:38Z"
-    title "Vasectomies on the Rise Since Roe v. Wade Decision"
-    description "One week has passed since the US Supreme Court overturned Roe v Wade, and in that time, women and men are re-evaluating their birth control methods. Some men are choosing to be more proactive as vasectomies have been on the rise in the week since the Supreme Court's decision.&#10;&#10;News 19 is North Alabama's News Leader! We are the CBS affiliate in North Alabama and the Tennessee Valley since November 28, 1963.&#10;&#10;https://whnt.com/&#10;https://www.facebook.com/whntnews19&#10;https://www.instagram.com/whntnews19/&#10;https://twitter.com/whnt"
-    channeltitle "WHNT News 19"
-    channelid "UCV8mxYCe-Tauwd09rS9cOVg"
+    date "2022-07-08T20:34:42Z"
+    title "Overturning Of Roe v. Wade Brings Attention To Safe Haven Laws"
+    description "The Supreme Court's ruling to overturn Roe v. Wade has brought new attention to safe haven laws across America. Those allow, in some cases, anyone to drop a newborn off a place like a fire station without the fear of prosecution."
+    channeltitle "News 9 YouTube"
+    channelid "UCSGeXKPLsXkSCIwaG2cCjLA"
     favcount 0
-    viewcount 7640
-    likecount 72
-    commentcount 288
-    duration "PT2M29S"
-    indegree 1
-    cluster 1
+    viewcount 22
+    likecount 0
+    commentcount 1
+    duration "PT1M28S"
+    indegree 0
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 288
+    id 279
+    name "288"
     label "ommIe262jHg"
     step 0
     date "2022-06-26T16:20:12Z"
@@ -5059,11 +7832,21 @@ graph
     commentcount 118
     duration "PT15M20S"
     indegree 0
-    cluster 4
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 289
+    id 280
+    name "289"
     label "ZUU3_vd1Oos"
     step 0
     date "2022-06-25T00:03:39Z"
@@ -5077,11 +7860,21 @@ graph
     commentcount 4171
     duration "PT3H37M41S"
     indegree 8
-    cluster 5
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 6
   ]
   node
   [
-    id 290
+    id 281
+    name "290"
     label "5IonePLGwmc"
     step 0
     date "2022-06-24T16:45:01Z"
@@ -5095,11 +7888,21 @@ graph
     commentcount -1
     duration "PT8M18S"
     indegree 9
-    cluster 4
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 5
   ]
   node
   [
-    id 291
+    id 282
+    name "291"
     label "yFUw1RqhFEE"
     step 0
     date "2022-06-24T16:58:48Z"
@@ -5113,11 +7916,21 @@ graph
     commentcount 1581
     duration "PT18M35S"
     indegree 31
-    cluster 6
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 5
   ]
   node
   [
-    id 292
+    id 283
+    name "292"
     label "So4bOpPcwgY"
     step 0
     date "2022-06-29T06:22:12Z"
@@ -5131,11 +7944,21 @@ graph
     commentcount 374
     duration "PT9M18S"
     indegree 0
-    cluster 1
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 5
   ]
   node
   [
-    id 293
+    id 284
+    name "293"
     label "k76XfuJ6dO0"
     step 0
     date "2022-07-04T14:47:49Z"
@@ -5149,11 +7972,21 @@ graph
     commentcount 982
     duration "PT3M49S"
     indegree 3
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
     cluster 2
   ]
   node
   [
-    id 294
+    id 285
+    name "294"
     label "D8EQtOWLhjM"
     step 0
     date "2022-06-27T22:26:37Z"
@@ -5167,29 +8000,49 @@ graph
     commentcount 10
     duration "PT11H47M"
     indegree 0
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 2
+  ]
+  node
+  [
+    id 286
+    name "295"
+    label "WckWgAZJqSY"
+    step 0
+    date "2022-07-08T16:47:36Z"
+    title "#TheBlackTable w/ Dr. Greg Carr: The overturning of Roe v Wade  what it means for other laws"
+    description "#TheBlackTable w/ Dr. Greg Carr: Deconstructing the overturning of Roe v Wade, what it means for other laws and the legitimacy of the Supreme Court&#13;&#10;&#13;&#10;#TheBlackTable and the #BlackStarNetwork are  news reporting platforms covered under Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for &#34;fair use&#34; for purposes such as criticism, comment, news reporting, teaching, scholarship, and research."
+    channeltitle "Roland S. Martin"
+    channelid "UCjXB7nX8bL2U2sje8d212Yw"
+    favcount 0
+    viewcount 4373
+    likecount 364
+    commentcount 32
+    duration "PT1H6M1S"
+    indegree 0
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
     cluster 4
   ]
   node
   [
-    id 297
-    label "AOjLP8ZHiTQ"
-    step 0
-    date "2022-05-05T00:11:25Z"
-    title "#5.4.2022: ROE V WADE and CIVIL RIGHTS"
-    description "Is this the end of Roe vs Wade and Civil Rights., The Black Press discusses with Journalist Dawn Montgomery of the Atlanta Voice, James Washington, of the Washington Informer and Attorney James L. Tarver, Jr of Tarver Law."
-    channeltitle "BlackPressUSA TV"
-    channelid "UCS5gJZ-_6k3e26hG7H4t3vA"
-    favcount 0
-    viewcount 67
-    likecount 5
-    commentcount 4
-    duration "PT33M40S"
-    indegree 0
-    cluster 3
-  ]
-  node
-  [
-    id 298
+    id 287
+    name "298"
     label "Kqbm2YkMP0Q"
     step 0
     date "2016-10-20T05:17:40Z"
@@ -5203,11 +8056,21 @@ graph
     commentcount 19703
     duration "PT5M20S"
     indegree 4
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
     cluster 3
   ]
   node
   [
-    id 299
+    id 288
+    name "299"
     label "IvbisE2X40g"
     step 0
     date "2022-07-07T04:15:00Z"
@@ -5221,47 +8084,77 @@ graph
     commentcount 745
     duration "PT9M1S"
     indegree 0
-    cluster 2
-  ]
-  node
-  [
-    id 301
-    label "ORuXfQLRO5g"
-    step 0
-    date "2022-06-27T01:07:17Z"
-    title " es Roe vs. Wade?"
-    description "La Corte Suprema de Estados Unidos fall&#243; en contra de este dictamen establecido el 22 de enero de 1973 cuando se decidi&#243; que el derecho constitucional a la privacidad era &#34;lo suficientemente amplia para incluir la decisi&#243;n de una mujer si desea o no desea abortar su embarazo&#34;.&#10;&#10;#NoticiasMilenio #RoeVsWade #Aborto #EstadosUnidos&#10;&#10;Suscr&#237;bete a nuestro canal: https://www.youtube.com/user/MILENIO?sub_confirmation=1&#10;&#10;Sigue nuestro EN VIVO las 24 horas: https://www.youtube.com/user/MILENIO/live&#10;&#10;Sitio: https://www.milenio.com&#10;Facebook: https://www.facebook.com/MilenioDiario/&#10;Twitter: https://twitter.com/Milenio"
-    channeltitle "MILENIO"
-    channelid "UCFxHplbcoJK9m70c4VyTIxg"
-    favcount 0
-    viewcount 2846
-    likecount 54
-    commentcount 50
-    duration "PT4M42S"
-    indegree 0
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
     cluster 3
   ]
   node
   [
-    id 304
-    label "FEQVqs8zWeA"
+    id 289
+    name "300"
+    label "FG0La3vOzEk"
     step 0
-    date "2022-06-27T14:01:36Z"
-    title "Video of woman screaming about Roe v Wade "
-    description "The Institute of Public Affairs&#8217; Gideon Rozner says video footage of a woman screaming following the overturning of Roe v Wade in the US is &#8220;pretty coordinated&#8221;.&#10;&#10;&#8220;It looked to me like one of those exercise trends &#8230; but it obviously is related to Roe and Wade,&#8221; he told Sky News host Rita Panahi."
-    channeltitle "Sky News Australia"
-    channelid "UCO0akufu9MOzyz3nvGIXAAw"
+    date "2022-05-19T21:00:08Z"
+    title "ASMR~ General Check Up After Roe v Wade is Overturned {Youre Pro Life}"
+    description "Socials &#9825;&#10;https://linktr.ee/Angelicaslabyrinth"
+    channeltitle "Angelica"
+    channelid "UCq7jt5BQ6LTULnRbLca0XdQ"
     favcount 0
-    viewcount 637042
-    likecount 25478
-    commentcount 10769
-    duration "PT1M32S"
-    indegree 16
-    cluster 6
+    viewcount 102562
+    likecount 6465
+    commentcount 1216
+    duration "PT22M45S"
+    indegree 0
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 305
+    id 290
+    name "302"
+    label "n6T2uqMgG8U"
+    step 0
+    date "2022-05-11T18:33:38Z"
+    title "ParaTalks - Roe v. Wade"
+    description ""
+    channeltitle "ParashockX"
+    channelid "UCKUnB5P0cdfnufPCKkGecqQ"
+    favcount 0
+    viewcount 19952
+    likecount 1914
+    commentcount 771
+    duration "PT7M19S"
+    indegree 0
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 3
+  ]
+  node
+  [
+    id 291
+    name "305"
     label "yLuTF4K2m58"
     step 0
     date "2022-05-04T00:04:27Z"
@@ -5275,29 +8168,49 @@ graph
     commentcount 220
     duration "PT7M24S"
     indegree 1
-    cluster 6
-  ]
-  node
-  [
-    id 308
-    label "HcAYZAXFbO0"
-    step 0
-    date "2022-06-24T15:33:17Z"
-    title "Abtreibung in den USA: Die Geschichte von "
-    description "Im legend&#228;ren Gerichtsfall wurde die Abtreibung in den USA legalisiert. So kam es vor 50 Jahren zum Urteil welches bis zum Sommer 2022 Bestand hatte. Hinter dem Pseudonym &#34;Jane Roe&#34; steckt Norma McCorvey, eine junge weisse Frau, zu arm, um f&#252;r eine Abtreibung in einen anderen Staat zu reisen. Was ist die Geschichte hinter dem wegweisenden Urteil?&#10;&#10;&#9658; Unser Kommentar zum Abtreibungsverbot in den USA: https://www.nzz.ch/meinung/abtreibung-usa-verfehlte-hoffnungen-nach-ende-von-roe-v-wade-ld.1687699&#10;&#10;&#9658; Abonnieren Sie unseren YouTube-Kanal und aktivieren Sie die Glocke, um kein Video zu verpassen: https://www.youtube.com/c/NZZNeueZ&#252;rcherZeitung/?sub_confirmation=1&#10;&#10;&#9658; Mehr Videos und Dokumentationen von der NZZ: www.nzz.ch/video"
-    channeltitle "NZZ Neue Z&#252;rcher Zeitung"
-    channelid "UCK1aTcR0AckQRLTlK0c4fuQ"
-    favcount 0
-    viewcount 4162
-    likecount 110
-    commentcount 167
-    duration "PT3M46S"
-    indegree 1
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
     cluster 1
   ]
   node
   [
-    id 309
+    id 292
+    name "306"
+    label "gs4S31xT8a8"
+    step 0
+    date "2022-07-05T20:00:07Z"
+    title "A Doctors Thoughts on Overturning Roe v. Wade"
+    description "I know this is a controversial and emotionally charged topic, especially right now in the US. But it&#8217;s important to remember that pregnancy is not a health neutral event. Women can get irreversibly sick or even die and taking the decision to carry a pregnancy away from them and their doctor is a mistake.&#10;&#10;Check out my children's book here: https://www.amazon.com/Night-Before-Med-School-Medical/dp/B0B193KWXT/ref=sr_1_1?keywords=doc+schmidt&#38;qid=1653339841&#38;sprefix=doc+sc%2Caps%2C202&#38;sr=8-1&#10;&#10;For more Doc Schmidt content, check out my website: https://www.docschmidt.me/&#10;&#10;Want me to make you a personalized video for you or your friend? Check me out on Cameo!&#10;https://v.cameo.com/DFKBSe2HSib&#10;&#10;Want to connect with me and watch more content?&#10;Find me on TikTok!&#10;https://vm.tiktok.com/ZMRFmqKts/&#10;&#10;And Instagram!&#10;https://instagram.com/docschmidtig?r=nametag&#10;&#10;All content is intended as medical education or entertainment and is NOT intended to be medical advice. If you have any symptoms concerning you, please schedule an appointment with your doctor.&#10;&#10;Join my channel to get access to perks! Click link below:&#10;https://www.youtube.com/channel/UCLbidg2ZT49dWrxDkwNKr0g/join"
+    channeltitle "Doc Schmidt"
+    channelid "UCLbidg2ZT49dWrxDkwNKr0g"
+    favcount 0
+    viewcount 14411
+    likecount 2196
+    commentcount 569
+    duration "PT1M38S"
+    indegree 0
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 1
+  ]
+  node
+  [
+    id 293
+    name "309"
     label "vVk7D4pwlfU"
     step 0
     date "2022-06-25T14:00:21Z"
@@ -5311,29 +8224,49 @@ graph
     commentcount 4019
     duration "PT14M46S"
     indegree 2
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
     cluster 2
   ]
   node
   [
-    id 312
-    label "IKd8LtsJw1E"
+    id 294
+    name "310"
+    label "UvfCTqEZpW8"
     step 0
-    date "2022-06-28T01:00:03Z"
-    title "Jesse Watters: As predicted, left isnt taking Roe v Wade overturn very well"
-    description "Fox News host Jesse Watters tore into the media's coverage of protests nationwide in response to the Supreme Court overturning Roe v. Wade, after several outlets said they were peaceful. #foxnews #primetime &#10;&#10;Subscribe to Fox News! https://bit.ly/2vaBUvAS&#10;Watch more Fox News Video: http://video.foxnews.com&#10;Watch Fox News Channel Live: http://www.foxnewsgo.com/&#10;&#10;FOX News Channel (FNC) is a 24-hour all-encompassing news service delivering breaking news as well as political and business news. The number one network in cable, FNC has been the most-watched television news channel for 18 consecutive years. According to a 2020 Brand Keys Consumer Loyalty Engagement Index report, FOX News is the top brand in the country for morning and evening news coverage. A 2019 Suffolk University poll named FOX News as the most trusted source for television news or commentary, while a 2019 Brand Keys Emotion Engagement Analysis survey found that FOX News was the most trusted cable news brand. A 2017 Gallup/Knight Foundation survey also found that among Americans who could name an objective news source, FOX News was the top-cited outlet. Owned by FOX Corporation, FNC is available in nearly 90 million homes and dominates the cable news landscape, routinely notching the top ten programs in the genre.&#10;&#10;Watch full episodes of your favorite shows&#10;The Five: http://video.foxnews.com/playlist/longform-the-five/&#10;Special Report with Bret Baier: http://video.foxnews.com/playlist/longform-special-report/&#10;Fox News Primetime: https://video.foxnews.com/playlist/on-air-fox-news-primetime/&#10;Tucker Carlson Tonight: http://video.foxnews.com/playlist/longform-tucker-carlson-tonight/&#10;Hannity: http://video.foxnews.com/playlist/longform-hannity/&#10;The Ingraham Angle: http://video.foxnews.com/playlist/longform-the-ingraham-angle/&#10;Fox News @ Night: http://video.foxnews.com/playlist/longform-fox-news-night/&#10;&#10;Follow Fox News on Facebook: https://www.facebook.com/FoxNews/&#10;Follow Fox News on Twitter: https://twitter.com/FoxNews/&#10;Follow Fox News on Instagram: https://www.instagram.com/foxnews/"
-    channeltitle "Fox News"
-    channelid "UCXIJgqnII2ZOINSWNOGFThA"
+    date "2022-07-10T14:33:48Z"
+    title "Protests continue 2 weeks after Supreme Court overturned Roe v. Wade."
+    description "Protests continue 2 weeks after Supreme Court overturned Roe v. Wade."
+    channeltitle "WTVR CBS 6"
+    channelid "UC9ha3sh4YTCSK83dH6OlWTw"
     favcount 0
-    viewcount 341181
-    likecount 14236
-    commentcount 4720
-    duration "PT7M13S"
-    indegree 31
-    cluster 4
+    viewcount 76
+    likecount 1
+    commentcount -1
+    duration "PT1M29S"
+    indegree 0
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 7
   ]
   node
   [
-    id 313
+    id 295
+    name "313"
     label "asxtv8JJmPU"
     step 0
     date "2022-05-03T22:42:12Z"
@@ -5347,11 +8280,21 @@ graph
     commentcount 2
     duration "PT1M52S"
     indegree 0
-    cluster 3
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 314
+    id 296
+    name "314"
     label "v8ATLekqyiM"
     step 0
     date "2022-06-24T16:31:21Z"
@@ -5365,11 +8308,21 @@ graph
     commentcount 2763
     duration "PT3M30S"
     indegree 0
-    cluster 1
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 315
+    id 297
+    name "315"
     label "2u9jvnhQLDA"
     step 0
     date "2022-06-28T02:24:27Z"
@@ -5383,11 +8336,21 @@ graph
     commentcount 9184
     duration "PT52S"
     indegree 0
-    cluster 6
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 316
+    id 298
+    name "316"
     label "qdc11tWtIG0"
     step 0
     date "2022-05-05T16:53:31Z"
@@ -5401,11 +8364,21 @@ graph
     commentcount 4
     duration "PT3M"
     indegree 0
-    cluster 3
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 1
   ]
   node
   [
-    id 317
+    id 299
+    name "317"
     label "N6lilb7ynOk"
     step 0
     date "2022-06-24T19:19:00Z"
@@ -5419,11 +8392,21 @@ graph
     commentcount 10645
     duration "PT9M58S"
     indegree 6
-    cluster 5
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 318
+    id 300
+    name "318"
     label "8c6bV41neNs"
     step 0
     date "2022-06-25T03:30:04Z"
@@ -5437,11 +8420,21 @@ graph
     commentcount 2829
     duration "PT15M27S"
     indegree 1
-    cluster 4
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 319
+    id 301
+    name "319"
     label "UA8kqiGTyHs"
     step 0
     date "2022-06-27T02:08:14Z"
@@ -5455,29 +8448,49 @@ graph
     commentcount 88
     duration "PT3M53S"
     indegree 0
-    cluster 1
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 321
-    label "MY2D_TogKOo"
+    id 302
+    name "320"
+    label "bPeWv_xZkOg"
     step 0
-    date "2022-07-10T17:10:41Z"
-    title "Southside Rabbi: Preseason Bonus - Overturning Roe v. Wade"
-    description "Y'all done up and done it! With Season 4 over with, we were out here resting, loving God and neighbor, gearing up for Season 5, when we got hit with the landmark news that the Supreme Court ruled Roe v. Wade overturned. Since then, we have received countless comments and DM's asking us to come down from the mountaintop, and address the people. Jokes aside, we are here with a special edition episode to give our takes, hot and cool, hoping to expand the vision of what pro-life really means, calling all of our listeners, whatever &#34;side&#34; of the decision you are on, to produce the fruit of the Spirit of God in your responses. We hope to encourage and prepare our churches for the work and effort that this decision actually entails. Let's get it!!&#10;&#10;Full episode on all audio platforms, bonus content on our Patreon community!! &#10;Become a Patreon member for Early Access &#38; Exclusive Content - https://patreon.com/Southsiderabbi&#10;&#10;Follow us Online:&#10;https://linktr.ee/southsiderabbi&#10;Google Podcasts - https://tinyurl.com/2p9ewhwe&#10;&#10;Email us at Southsiderabbipodcast@gmail.com&#10;&#10;Southside Rabbi is proudly sponsored by the Christian Standard Bible translation - csbible.com &#10;Southside Rabbi is proudly sponsored by Samaritan Ministries - Learn more at samaritanministries.org/southsiderabbi&#10;&#10;Intro music produced by Randeaux- https://www.instagram.com/randeauxbandeaux/&#10;Contact at randeauxbandeaux@gmail.com&#10;Outro music produced by KB.&#10;&#10;All rights reserved by their respective owners.&#10;&#10;#SouthsideRabbi #KB"
-    channeltitle "Southside Rabbi"
-    channelid "UCj05YPvDPAxOdA0I3JHsHXw"
+    date "2022-07-05T06:28:38Z"
+    title "Lord Robert Winston discusses mens fertility and Roe v Wade bing overturn"
+    description "'It's a terrible step back for democracy... I don't think parliamentarians or anybody else should have nearly as much power as they seem to.'&#10;&#10;Emeritus Professor of Fertility Studies at the Imperial College London, Lord Robert Winston, discusses Roe v Wade being overturned.&#10;&#10;Watch on TV: Freeview 236, Sky 515, Virgin 626&#10;Listen on DAB+ Radio&#10;&#10;Download the GB News App to watch live wherever you are, catch up with all our shows and get the latest news from the GBN family.  https://www.gbnews.uk/freegbapp&#10;&#10;Don't forget to follow us on social media too!&#10;&#10;Twitter: https://twitter.com/GBNEWS&#10;Facebook: https://www.facebook.com/GBNewsOnline&#10;Instagram: https://www.instagram.com/gbnewsonline/&#10;LinkedIn: https://www.linkedin.com/company/gb-news/&#10;TikTok: https://www.tiktok.com/@gbnews&#10;&#10;Click here for the latest Covid-19 guidance from the World Health Organisation &#9658; https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public&#10;&#10;Click here for the latest NHS information on COVID-19 vaccines&#10;https://www.nhs.uk/conditions/coronavirus-covid-19/coronavirus-vaccination/coronavirus-vaccine/"
+    channeltitle "GBNews"
+    channelid "UC0vn8ISa4LKMunLbzaXLnOQ"
     favcount 0
-    viewcount 1032
-    likecount 96
-    commentcount 27
-    duration "PT1H12M29S"
-    indegree 1
-    cluster 3
+    viewcount 3942
+    likecount 106
+    commentcount 119
+    duration "PT5M13S"
+    indegree 0
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 322
+    id 303
+    name "322"
     label "jonAIAIKCIY"
     step 0
     date "2022-07-07T20:44:28Z"
@@ -5491,11 +8504,21 @@ graph
     commentcount 1773
     duration "PT58S"
     indegree 0
-    cluster 6
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 323
+    id 304
+    name "323"
     label "mDZD2tJa050"
     step 0
     date "2022-07-07T23:00:29Z"
@@ -5509,11 +8532,21 @@ graph
     commentcount 29
     duration "PT22M2S"
     indegree 0
-    cluster 3
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 6
   ]
   node
   [
-    id 324
+    id 305
+    name "324"
     label "0r27KF0D_ok"
     step 0
     date "2022-07-06T20:22:00Z"
@@ -5527,29 +8560,49 @@ graph
     commentcount 23
     duration "PT55M6S"
     indegree 1
-    cluster 6
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 326
-    label "LImMzxNV6_w"
+    id 306
+    name "325"
+    label "LZYJxrohqQ0"
     step 0
-    date "2022-06-25T05:14:27Z"
-    title "Vegas LIVESTREAM - Downtown Vegas Roe v Wade Protesters 1080p 60fps Stream"
-    description "This stream is created with #PRISMLiveStudio"
-    channeltitle "Not Leaving Las Vegas - a Vegas Video Channel"
-    channelid "UCvPF5BTSF8Y3-eDSqVw81qw"
+    date "2022-07-11T04:12:24Z"
+    title "Maxine Waters Message to LGBTQ | ROE V. WADE DECISION RALLY | LGBT Hollywood"
+    description "POWERFUL WOMEN OF COLOR TO PROTEST U.S. SUPREME COURT'S ROE V. WADE DECISION RALLY Lead by Congresswoman Maxine Waters / July 2, 2022 / Los Angeles Southwest College&#10;&#10;The OFFICIAL Lesbian Crew on the scene: Renee Sotile &#38; Mj Godges on  the scene. &#10;&#10;Stay in the Rainbow and SUBSCRIBE to LGBT HOLLYWOOD!&#10;https://www.LGBTHollywood.com&#10;&#10;#MaxineWaters &#10;#lgbtq &#10;#roevwade"
+    channeltitle "LGBT Hollywood"
+    channelid "UCkGmIdC_21v5Z9z7V2Qm4-A"
     favcount 0
-    viewcount 16324
-    likecount 953
-    commentcount 97
-    duration "PT1H45M37S"
-    indegree 2
-    cluster 4
+    viewcount 15
+    likecount 3
+    commentcount 0
+    duration "PT39S"
+    indegree 0
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 1
   ]
   node
   [
-    id 327
+    id 307
+    name "327"
     label "FBR6yWODZPs"
     step 0
     date "2022-07-03T04:16:35Z"
@@ -5563,11 +8616,21 @@ graph
     commentcount 288
     duration "PT5M42S"
     indegree 3
-    cluster 1
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 328
+    id 308
+    name "328"
     label "Iaw-claXOhE"
     step 0
     date "2022-06-24T20:40:14Z"
@@ -5581,11 +8644,21 @@ graph
     commentcount 4424
     duration "PT9M12S"
     indegree 1
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
     cluster 2
   ]
   node
   [
-    id 329
+    id 309
+    name "329"
     label "vL04RmYDYZU"
     step 0
     date "2022-07-09T00:23:56Z"
@@ -5599,11 +8672,21 @@ graph
     commentcount 665
     duration "PT23S"
     indegree 0
-    cluster 3
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 7
   ]
   node
   [
-    id 330
+    id 310
+    name "330"
     label "lj6zQ-nYcdY"
     step 0
     date "2022-06-25T00:30:13Z"
@@ -5617,11 +8700,21 @@ graph
     commentcount 7628
     duration "PT23M52S"
     indegree 12
-    cluster 1
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 331
+    id 311
+    name "331"
     label "G5yw1HE9Vh4"
     step 0
     date "2022-06-24T19:46:19Z"
@@ -5635,65 +8728,105 @@ graph
     commentcount 787
     duration "PT7M5S"
     indegree 0
-    cluster 5
-  ]
-  node
-  [
-    id 333
-    label "msDaVIfO5U8"
-    step 0
-    date "2022-07-09T00:12:03Z"
-    title "EXPOSED! Corporations Roe v Wade Hypocrisy Revealed"
-    description "These companies fail to own up to their past mistakes in light of a massive American tragedy. Jeff Wiggins breaks it down on Rebel HQ.&#10;&#10;Follow Jeff on Twitter - https://twitter.com/hegonbealright&#10;&#10;#JeffWiggins #RebelHQ #Politics"
-    channeltitle "Rebel HQ"
-    channelid "UCuMo0RRtnNDuMB8DV5stEag"
-    favcount 0
-    viewcount 7072
-    likecount 590
-    commentcount 101
-    duration "PT3M58S"
-    indegree 0
-    cluster 3
-  ]
-  node
-  [
-    id 335
-    label "0LI4UEHUvtM"
-    step 0
-    date "2022-06-28T20:30:00Z"
-    title "Satan Responds To Roe v. Wade Overturn"
-    description "Satan held a press conference today responding to the big loss of Roe v. Wade. He's doing his best to keep his chin up.&#10;&#10;Become a premium subscriber:  https://babylonbee.com/plans&#10;&#10;The Official The Babylon Bee Store:  https://shop.babylonbee.com/&#10;&#10;Follow The Babylon Bee:&#10;Website: https://babylonbee.com/&#10;Twitter: https://twitter.com/thebabylonbee&#10;Facebook: https://www.facebook.com/TheBabylonBee&#10;Instagram: http://instagram.com/thebabylonbee"
-    channeltitle "The Babylon Bee"
-    channelid "UCyl5V3-J_Bsy3x-EBCJwepg"
-    favcount 0
-    viewcount 1219117
-    likecount 96709
-    commentcount 6880
-    duration "PT4M3S"
-    indegree 3
-    cluster 2
-  ]
-  node
-  [
-    id 338
-    label "nOwLVljo8XE"
-    step 0
-    date "2022-05-15T03:58:29Z"
-    title "Local pro-choice activists protest potential overturning of Roe v. Wade"
-    description "Local pro-choice activists protest potential overturning of Roe v. Wade"
-    channeltitle "KESQ News Channel 3"
-    channelid "UCaz6po5vCT45BloJmXDJDJg"
-    favcount 0
-    viewcount 161
-    likecount 2
-    commentcount 5
-    duration "PT2M6S"
-    indegree 0
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
     cluster 4
   ]
   node
   [
-    id 339
+    id 312
+    name "332"
+    label "H3JqVbJGRIk"
+    step 0
+    date "2022-06-27T21:50:58Z"
+    title "Maverick City Response To Roe v Wade Indicates A Bigger Problem"
+    description "Roe v Wade is overturned! It's a time for Christians to celebrate!! Right? Riiiiight....? &#10;&#10;Join our PATREON!&#129309;  &#10;https://www.patreon.com/paulandmorganshow&#10;Venmo @thepaulandmorganshow&#10;&#10;Luca&#8217;s Baby Registry! &#10;https://www.amazon.com/baby-reg/morgan-olliges-paul-olliges-september-2022-lexington/3N7RISFHM394X&#10;&#10;Thanks for being part of the P&#38;M Fam!! SUBSCRIBE!  &#10;https://www.youtube.com/channel/UC2onDBgc2-ewYzaFnqEs86Q &#10;&#10;&#10;https://www.thepaulandmorganshow.com&#10;&#10;Our Book! &#8216;Intentional Dating: Your Need-To-Know Questions Answered!&#8217;&#10;https://www.amazon.com/dp/1082294853&#10;&#10;Give a thumbs up if you enjoyed the vid! &#10;&#10;Http://faithfulcounseling.com/paulandmorgan&#10;(This is an affiliate link for Faithful Counseling, we may receive compensation from this link)&#10;&#10;WATCH MORE! &#10;HOT TOPIC RESPONSE VIDEOS:&#10;https://www.youtube.com/playlist?list=PL0m7jgqKY4gfsHEgXUVcnBwLU6h7DCVe7&#10;TRENDING RELATIONSHIP TOPICS:&#10;https://www.youtube.com/playlist?list=PL0m7jgqKY4gegaxGKeFR60tD-vEqxWG-f&#10;GET TO KNOW US: https://www.youtube.com/playlist?list=PL0m7jgqKY4geCXg9DhVbgyHviy1gEc_J8&#10;&#10;Follow us on other sites! &#10;Instagram:&#10;https://www.instagram.com/paulolliges/&#10;https://www.instagram.com/morganolliges&#10;Paul and Morgan Instagram:&#10;https://www.instagram.com/paulandmorgan/&#10;&#10;&#10;Podcast: (search &#8216;Paul And Morgan Show&#8217; on any podcast platform or click the links)&#10;Anchor&#128071;&#10;https://anchor.fm/paul-and-morgan-show&#10;Spotify&#128071;&#10;https://open.spotify.com/show/7gD3oRyddXF5XZgnuLCg2W&#10;Apple Podcast&#128071;&#10;https://podcasts.apple.com/us/podcast/paul-and-morgan-show/id1530428237&#10;&#10;Facebook:&#10;https://m.facebook.com/paulandmorganshow/&#10;&#10;Twitter:&#10;https://mobile.twitter.com/PaulOlliges&#10;https://mobile.twitter.com/MorganOlliges&#10;&#10;Business Inquiries: &#10;Paulandmorganshow@gmail.com"
+    channeltitle "Paul and Morgan"
+    channelid "UC2onDBgc2-ewYzaFnqEs86Q"
+    favcount 0
+    viewcount 29818
+    likecount 1884
+    commentcount 1027
+    duration "PT41M41S"
+    indegree 0
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 4
+  ]
+  node
+  [
+    id 313
+    name "334"
+    label "qoVptv6qlSg"
+    step 0
+    date "2021-12-02T16:47:33Z"
+    title "Will the Supreme Court overturn Roe v. Wade? | COURT TV"
+    description "#SCOTUS: Abortion rights are at stake in a historic case being argued in the Supreme Court. &#10;&#10;Do you think Roe v. Wade should be repealed? &#10;&#10;WATCH #CourtTV LIVE - court.tv/FindUs&#10;&#10;COURT TV IS BACK! 24/7 LIVE gavel-to-gavel coverage, in-depth legal reporting, and expert analysis of the nation&#8217;s most important and compelling trials.&#10;&#10;WATCH COURT TV LIVE: &#10;https://www.courttv.com/title/court-tv-live-stream-web/?trk=YouTube&#10;&#10;WATCH TRIALS ON DEMAND:&#10;https://www.courttv.com/programming/trial-archives/?trk=YouTube&#10;&#10;WHERE TO WATCH: &#10;https://www.courttv.com/where-to-watch/?trk=YouTube"
+    channeltitle "COURT TV"
+    channelid "UCo5E9pEhK_9kWG7-5HHcyRg"
+    favcount 0
+    viewcount 2190
+    likecount 41
+    commentcount 63
+    duration "PT4M"
+    indegree 0
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 2
+  ]
+  node
+  [
+    id 314
+    name "336"
+    label "uvCqonM1CaQ"
+    step 0
+    date "2022-07-07T18:45:50Z"
+    title "Reproductive Rights are Human Rights - Discussing Roe v. Wade - The Sesh 87"
+    description "Buy our charity merch: https://bit.ly/3yNUyYy &#10;Learn more about Nation Network of Abortion Funds: https://bit.ly/3yLje3W &#10;Donate directly to NNAF: https://bit.ly/3OOPhpr &#10;&#10;Time Stamps: &#10;0:00 - Hi Friends!&#10;4:51 - Our thoughts on Roe v. Wade being overturned&#10;28:06 - Reading stories&#10;&#10;Follow Julie Murray &#10;TW: https://twitter.com/JulieMurray2_9  &#10;TikTok: https://bit.ly/3PdiMkF &#10;&#10;Follow Sarah Turney:&#10;TW: https://twitter.com/SarahETurney&#10;IG: https://www.instagram.com/saraheturney/ &#10;TikTok: https://www.tiktok.com/@saraheturney?lang=en &#10;&#10;Listen on Spotify: https://spoti.fi/3fjR2s1&#10;Listen on Apple Podcasts: https://apple.co/3go1X5s&#10;Subscribe to our YouTube channel: https://bit.ly/3fCx7H3 &#10;The Sesh Highlights channel: https://bit.ly/3FjYf8H &#10;Topic Request Form: https://bit.ly/3BFc7Kv &#10;&#10;Follow us on social media @the_seshpodcast &#10;TikTok: https://bit.ly/3r3k9I2 &#10;IG: https://bit.ly/3a9t6Xr&#10;TW: https://bit.ly/2XH4C2A&#10;Join our Discord! https://discord.gg/42mAfe6 &#10;&#10;Kendall: @kendallraeonyt&#10;IG: https://bit.ly/3gIQPjI&#10;TW: https://bit.ly/2XLsLFn&#10;YT: https://bit.ly/3abKWsS&#10;&#10;Janelle: @janelle_fields_&#10;IG: https://bit.ly/2DyP1eE&#10;TW: https://bit.ly/2DrboD1&#10;&#10;Karelly: @karell.y&#10;IG: https://bit.ly/2TcxnoD &#10;TW: https://bit.ly/3f9ngcN &#10;&#10;Sydney: @barnesy51&#10;IG: https://bit.ly/3vfWo0g &#10;&#10;Kendall&#8217;s New CBD Brand, Higher Love Wellness: https://higherlovewellness.com/  &#10;&#10;Music By: Mile Higher Boys&#10;YT: https://bit.ly/3fJrDZ8&#10;IG: https://bit.ly/3kDle5s&#10;&#10;&#9993; Send Us Mail &#38; Art &#9993;&#10;8547 E Arapahoe Rd Ste J # 233&#10;Greenwood Village, CO 80112&#10; &#10;Welcome to The Sesh Podcast hosted by cousins and best friends, Kendall &#38; Janelle! Kendall Rae is a YouTube content creator focusing on True Crime and raising awareness for missing persons cases, and Janelle is a mental health professional with a Master&#8217;s in Clinical Mental Health Counseling. Our show is focused on a variety of topics including current events, our personal experiences &#38; sharing advice, mental health, playing games, discussing astrology &#38; spirituality, and hosting guests from time to time. Come hang out with us every Thursday!"
+    channeltitle "The Sesh Podcast"
+    channelid "UC_8TgFRkbkthGkiNoF9j1OA"
+    favcount 0
+    viewcount 36395
+    likecount 3455
+    commentcount 1062
+    duration "PT45M55S"
+    indegree 0
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 5
+  ]
+  node
+  [
+    id 315
+    name "339"
     label "qoh0r02jvwc"
     step 0
     date "2022-05-11T21:54:23Z"
@@ -5707,11 +8840,21 @@ graph
     commentcount 15
     duration "PT11H36M19S"
     indegree 0
-    cluster 3
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 340
+    id 316
+    name "340"
     label "0gJrYZtwmjQ"
     step 0
     date "2022-06-26T19:18:07Z"
@@ -5725,11 +8868,21 @@ graph
     commentcount 1951
     duration "PT11M58S"
     indegree 0
-    cluster 5
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 341
+    id 317
+    name "341"
     label "32GRugtsN0w"
     step 0
     date "2022-05-03T01:18:54Z"
@@ -5743,47 +8896,77 @@ graph
     commentcount 5204
     duration "PT18M11S"
     indegree 5
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
     cluster 5
   ]
   node
   [
-    id 343
-    label "Gz39jTvmEpk"
+    id 318
+    name "342"
+    label "LmUipuPcPEY"
     step 0
-    date "2022-06-24T21:00:38Z"
-    title "Sen. Ted Cruz: Reversing Roe v. Wade Is A Massive Victory for Life"
-    description "On Friday, June 24, 2022, Sen. Ted Cruz went on Fox News where he discussed the Supreme Court reversing Roe v. Wade. Get the New York Times and Amazon Bestseller, One Vote Away: http://OneVoteAway.com&#10;&#10;Follow Ted: http://twitter.com/tedcruz&#10;Like Ted: http://fb.com/tedcruzpage"
-    channeltitle "Ted Cruz"
-    channelid "UCzMQMhq7Id0Y_wSDA_CJdGg"
+    date "2022-07-07T19:00:16Z"
+    title "This Roe v. Wade Argument Makes NO Sense"
+    description "#Shorts #BenShapiro #News #Politics #DailyWire #RoeVWade #RoeVsWade #RoeVWadeOverturned #RoeVsWadeOverturned #BlackAmerica #BlackCulture #Abortion #ProLife #ProChoice #Confused #Confusion #Dobbs #DobbsVJackson #DobbsVsJackson #PlannedParenthood"
+    channeltitle "Ben Shapiro"
+    channelid "UCnQC_G5Xsjhp9fEJKuIcrSw"
     favcount 0
-    viewcount 4218
-    likecount -1
-    commentcount -1
-    duration "PT8M49S"
+    viewcount 153860
+    likecount 10018
+    commentcount 485
+    duration "PT17S"
     indegree 0
-    cluster 6
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 345
-    label "jgN2wWSxG7M"
+    id 319
+    name "344"
+    label "f5KQOX27LYc"
     step 0
-    date "2022-05-03T03:04:42Z"
-    title "SUPREME COURT TO OVERTURN ROE V WADE"
-    description "&#128308; Website  - https://www.vaush.gg/&#10;&#128181; Patreon  - https://www.patreon.com/vaush&#10;&#10;&#127775; Other Socials &#127775;&#10;&#10;&#11088;&#65039; 2nd Channel - https://www.youtube.com/c/thevaushpit&#10;&#128038; Twitter - https://twitter.com/VaushV&#10;&#128126; Twitch - https://www.twitch.tv/vaushvidya&#10;&#128248; Instagram - https://www.instagram.com/vaushv/&#10;&#128309; Facebook - https://www.facebook.com/vaushvidya&#10;&#127925; TikTok - https://www.tiktok.com/@vaushvidya&#10;&#127897;Podcast - https://anchor.fm/vaush&#10;&#10;Intro animation credit goes to https://twitter.com/ItIsMeKyleG &#38; https://twitter.com/honeybunnbadger for the visuals, and https://twitter.com/sound_sierra for the audio! Thank you!"
-    channeltitle "Vaush"
-    channelid "UC1E-JS8L0j1Ei70D9VEFrPQ"
+    date "2022-07-02T00:27:38Z"
+    title ""
+    description "&#34;7 TikTok Dances to save Roe V Wade&#34; Has been an article about tiktok dances that has been shared all over meme pages and twitter. So today we dive head first into 7 TikTok Dances to save Roe V Wade so you guys can see me react to get my reaction.&#10;&#10;My other Socials &#38; Community Discord:&#10;Twitter: @atozy&#10;Instagram: @atozy"
+    channeltitle "Atozy"
+    channelid "UCO7dBj4bwaDOMoX-kKYF2Ww"
     favcount 0
-    viewcount 157705
-    likecount 10159
-    commentcount 3382
-    duration "PT12M15S"
+    viewcount 66679
+    likecount 3857
+    commentcount 345
+    duration "PT16M14S"
     indegree 0
-    cluster 5
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 1
   ]
   node
   [
-    id 346
+    id 320
+    name "346"
     label "Qyx2rr0aPhg"
     step 0
     date "2022-06-27T15:33:25Z"
@@ -5797,11 +8980,21 @@ graph
     commentcount 2084
     duration "PT32M1S"
     indegree 17
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
     cluster 5
   ]
   node
   [
-    id 347
+    id 321
+    name "347"
     label "g9YWLaCkPKM"
     step 0
     date "2022-06-26T16:00:09Z"
@@ -5815,11 +9008,21 @@ graph
     commentcount 1726
     duration "PT8M23S"
     indegree 0
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
     cluster 5
   ]
   node
   [
-    id 348
+    id 322
+    name "348"
     label "obzpB-r3260"
     step 0
     date "2022-06-27T21:30:03Z"
@@ -5833,11 +9036,21 @@ graph
     commentcount 1452
     duration "PT20M15S"
     indegree 0
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
     cluster 5
   ]
   node
   [
-    id 349
+    id 323
+    name "349"
     label "uD4kxoEKC3A"
     step 0
     date "2022-07-07T20:23:22Z"
@@ -5851,11 +9064,21 @@ graph
     commentcount 88
     duration "PT8M37S"
     indegree 2
-    cluster 6
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 5
   ]
   node
   [
-    id 350
+    id 324
+    name "350"
     label "Yl9Vrbe6l2Y"
     step 0
     date "2022-05-11T14:04:55Z"
@@ -5869,47 +9092,77 @@ graph
     commentcount 34826
     duration "PT1H11M51S"
     indegree 28
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 1
+  ]
+  node
+  [
+    id 325
+    name "351"
+    label "89a0JpfWfT4"
+    step 0
+    date "2022-06-26T15:00:03Z"
+    title "Tim Dillon on Roe v Wade"
+    description "Tim Dillon explains exactly how he feels about Roe v Wade and the appropriate reaction to have.&#10;From episode 304: https://youtu.be/cpHkUNvHfAI&#10;Bonus episodes every week: https://www.patreon.com/thetimdillonshow"
+    channeltitle "Tim Dillon Show Clips"
+    channelid "UCTDMN4NwdZ0VVbvvjTTSqpA"
+    favcount 0
+    viewcount 216849
+    likecount 5493
+    commentcount 717
+    duration "PT7M38S"
+    indegree 0
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
     cluster 6
   ]
   node
   [
-    id 352
-    label "ZYCsX5jycGc"
+    id 326
+    name "353"
+    label "ZZuLy8TqFRw"
     step 0
-    date "2022-06-24T23:30:23Z"
-    title "World Leaders React To Roe v. Wade Decision"
-    description "The world is reacting to the news about Roe V. Wade. Adrienne Lawrence breaks it down on Rebel HQ.&#10;&#10;Follow Adrienne on&#10;Facebook - https://www.facebook.com/AdrienneJLaw/&#10;Twitter - https://twitter.com/AdrienneLaw&#10;Instagram - https://www.instagram.com/adriennelawrence/&#10;&#10;#AdrienneLawrence #RebelHQ #RHQ"
-    channeltitle "Rebel HQ"
-    channelid "UCuMo0RRtnNDuMB8DV5stEag"
+    date "2022-07-02T16:00:01Z"
+    title "Roe v Wade Overturned - A Dose of Buckley"
+    description "Support Buckley: http://patreon.com/DoseofBuckley &#10;Merch: https://teespring.com/stores/buckleys-store &#10;Digital Comedy Albums: http://adoseofbuckley.bandcamp.com&#10;&#10;Buckley looks at the Supreme Court's decision to overturn Roe v Wade, and wonders if maybe the people who are celebrating this as a victory should really think about what they're celebrating..."
+    channeltitle "ADoseofBuckley"
+    channelid "UC9kMnSZQd53hE-1sb1f9sdA"
     favcount 0
-    viewcount 28393
-    likecount 2852
-    commentcount 1407
-    duration "PT4M15S"
+    viewcount 63163
+    likecount 4275
+    commentcount 1021
+    duration "PT8M59S"
     indegree 0
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
     cluster 4
   ]
   node
   [
-    id 354
-    label "3etTNuhtMho"
-    step 0
-    date "2022-05-04T23:25:27Z"
-    title "Heres Exactly What Overturning Roe v. Wade Would ACTUALLY Do"
-    description "LIKE &#38; SUBSCRIBE for new videos every day.&#160;https://www.youtube.com/c/BenShapiro &#10;&#10;Most people in America have no idea what the overturning of Roe v. Wade actually means. Shapiro breaks it down.&#10;&#10;Watch the full episode here: https://bit.ly/3w4k9tZ&#10;&#10;Watch full episodes of The Ben Shapiro Show here: https://bit.ly/3DucDdm&#10;&#10;Become a Daily Wire Member today to gain access to exclusive content: https://utm.io/ud1Bz&#10;&#10;Grab your Daily Wire merch here: https://utm.io/udZpp&#10;&#10;Connect with me on social media:&#160;&#10;&#10;Twitter &#8212;&#160;https://twitter.com/benshapiro&#10;Facebook &#8212;&#160;https://www.facebook.com/officialbenshapiro&#10;Instagram &#8212;&#160;https://www.instagram.com/officialbenshapiro/?hl=en&#10;Snapchat &#8212;&#160;https://story.snapchat.com/p/a2bc877d-b2ed-47f5-974b-854523bbcd25&#10;&#10;#TheBenShapiroShow #News #Politics #DailyWire #BenShapiro #Abortion #ProLife #ProChoice #Abortion #RoeVWade"
-    channeltitle "Ben Shapiro"
-    channelid "UCnQC_G5Xsjhp9fEJKuIcrSw"
-    favcount 0
-    viewcount 212549
-    likecount 10121
-    commentcount 1878
-    duration "PT12M43S"
-    indegree 1
-    cluster 3
-  ]
-  node
-  [
-    id 355
+    id 327
+    name "355"
     label "wUJjtNS1ySM"
     step 0
     date "2022-07-02T02:45:02Z"
@@ -5923,11 +9176,21 @@ graph
     commentcount 740
     duration "PT15M24S"
     indegree 1
-    cluster 1
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 356
+    id 328
+    name "356"
     label "4O-6UTBQqLc"
     step 0
     date "2022-07-07T13:42:33Z"
@@ -5941,11 +9204,21 @@ graph
     commentcount 138
     duration "PT5M23S"
     indegree 0
-    cluster 4
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 357
+    id 329
+    name "357"
     label "pY3YmASpr7I"
     step 0
     date "2022-06-24T18:51:01Z"
@@ -5959,11 +9232,21 @@ graph
     commentcount 4506
     duration "PT7M13S"
     indegree 0
-    cluster 6
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 358
+    id 330
+    name "358"
     label "jt2yA0etdyM"
     step 0
     date "2022-06-24T23:28:39Z"
@@ -5977,29 +9260,49 @@ graph
     commentcount 4954
     duration "PT11M44S"
     indegree 1
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 1
+  ]
+  node
+  [
+    id 331
+    name "359"
+    label "fnnQc6dCXWg"
+    step 0
+    date "2022-07-05T23:30:10Z"
+    title "So i made a song about Roe v Wade being overturned..."
+    description "Featuring DC Capital. Follow him on twitter @Whoisdccapital&#10;&#10;It'll be on all platforms soon!&#10;&#10;www.BrysonCreates2.com for MERCH!&#10;&#10;Text CULTURE to 855-909-1389 so I can update you about my music DIRECTLY!"
+    channeltitle "Bryson Gray"
+    channelid "UCYeOjgxKbl8ww9_g7mv8aRQ"
+    favcount 0
+    viewcount 23407
+    likecount 3910
+    commentcount 393
+    duration "PT3M13S"
+    indegree 0
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
     cluster 4
   ]
   node
   [
-    id 360
-    label "2sbzn_yGenc"
-    step 0
-    date "2022-06-01T21:25:20Z"
-    title "Can Overturning Roe v Wade Be Stopped?"
-    description "Adrienne Lawrence hosts. Rise Up 4 Abortion Rights co-initiator Sunsara Taylor joins to encourage people to fight against the overturning Roe v Wade.&#10;&#10;https://twitter.com/SunsaraTaylor&#10;https://revcom.us/en https://riseup4abortionrights.org/ &#10;&#10;&#10;MORE TYT: https://tyt.com/trial&#10;&#10;&#10;***&#10;&#10;The Largest Online News Show in the World. Hosted by Cenk Uygur and Ana Kasparian. LIVE STREAMING weekdays 6-8pm ET. http://tyt.com/live&#10;&#10;&#10;Subscribe to The Young Turks on YouTube: http://youtube.com/subscription_center?add_user=theyoungturks&#10;&#10;&#10;TYT on Facebook: http://facebook.com/theyoungturks&#10;TYT on Twitter: http://twitter.com/theyoungturks&#10;TYT on Instagram: http://instagram.com/theyoungturks&#10;&#10;&#10;&#10;Merch: http://www.shoptyt.com&#10;&#10;&#10;Donate to TYT&#10;https://patreon.com/tytnetwork&#10;http://tyt.com/donate&#10;&#10;&#10;Download audio and video of the full two-hour show on-demand + the members-only postgame show by becoming a member at http://tyt.com/join/. Your membership supports the day to day operations and is vital for our continued success and growth.&#10;&#10;&#10;Gift membership: http://tyt.com/gift&#10;&#10;&#10;Producer, Senior Producer and Executive Producer membership: http://go.tyt.com/producer&#10;&#10;&#10;Young Turk (n), 1. Young progressive or insurgent member of an institution, movement, or political party. 2. A young person who rebels against authority or societal expectations. (American Heritage Dictionary)&#10;&#10;&#10;#TYT #TheYoungTurks #TheConversation&#10;&#10;220603__TC02Taylor"
-    channeltitle "TYT's The Conversation"
-    channelid "UCKw8kdkYfmuNSVehGoDw8Mg"
-    favcount 0
-    viewcount 947
-    likecount 87
-    commentcount 14
-    duration "PT12M34S"
-    indegree 1
-    cluster 6
-  ]
-  node
-  [
-    id 361
+    id 332
+    name "361"
     label "Z6iV93LK6hY"
     step 0
     date "2022-07-02T10:00:20Z"
@@ -6013,11 +9316,21 @@ graph
     commentcount 243
     duration "PT46M35S"
     indegree 7
-    cluster 5
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 1
   ]
   node
   [
-    id 362
+    id 333
+    name "362"
     label "sRGIlKZUSl4"
     step 0
     date "2022-06-25T09:56:09Z"
@@ -6031,11 +9344,21 @@ graph
     commentcount 23
     duration "PT8H2M13S"
     indegree 0
-    cluster 4
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 5
   ]
   node
   [
-    id 363
+    id 334
+    name "363"
     label "WcAKL8E2MXs"
     step 0
     date "2022-06-24T23:30:15Z"
@@ -6049,29 +9372,49 @@ graph
     commentcount 2120
     duration "PT10M16S"
     indegree 0
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 5
+  ]
+  node
+  [
+    id 335
+    name "364"
+    label "tGXryWgJJNw"
+    step 0
+    date "2022-07-10T16:56:31Z"
+    title "s TikTok video ripping Roe v Wade ruling goes viral"
+    description "#ARMY  #MILITARY  #ROEV.WADE  #TIKTOK &#10;Like and sunscribe channel&#10;thank all for watching...&#10;omicron&#10;international news today&#10;international news update&#10;trending&#10;updates&#10;the national&#10;english news&#10;&#10;&#10;&#10;A US Army medic recently ripped the US Supreme Court&#8217;s overturning of Roe v. Wade in a TikTok post that attracted new attention after right-wing Internet personality Jack Posobiec shared it on Twitter Saturday.&#10;&#10;In the three&#8211;minute video shared June 24 &#8212; the day the landmarking decision was released &#8212; a currently deployed woman army medic said she woke up from a nap and learned of the news before fuming about the ruling.&#10;&#10;&#8220;I just extended my contract to continue serving this country a week ago. How am I supposed to swear to support and defend the Constitution and a country that treats its women like second class citizens?&#8221; she seethed. &#8220;How am I supposed to do that? How am I supposed to do that with pride? How am I supposed to do that with love and honor?&#8221;&#10;&#10;&#8220;How am I supposed to wake up every day and put on a frickin&#8217; uniform that says &#8216;United States Army,&#8217; when the United States doesn&#8217;t even give a rat&#8217;s ass about me,&#8221; she continued. &#8220;It gives more of a rat&#8217;s ass about the guns they&#8217;re allowed to buy the kill the children that I&#8217;m forced to give birth to. Think about that.&#8221;&#10;&#10;TikTok user rahasenfratz&#8216;s taped rant &#8212; which received nearly 30,000 likes and more than 1,200 comments on TikTok &#8212; was captioned &#8220;I am heartbroken. I am enraged. I am terrified.&#8221;&#10;&#10;In it, she declared that the removing of the constitutional right to an abortion has an &#8220;unintended consequence&#8221; on female members of the military.&#10;&#10;&#10;&#10;&#10;&#8220;This effect on female service women is an unintended consequence which means that lawmakers and Supreme Court justices probably weren&#8217;t thinking about this when they wrote their 213 some odd-page report on it, right?&#8221; the medic explained.&#10;&#10;&#8220;They probably were not thinking about this consequence. But it is one, and it affects the very people that those lawmakers hold to a higher standard because they support the troops,&#8221; she added. &#8220;Do you really, though? You really support the troops, even though this is going to greatly lessen the retention of women in the ranks of this military?&#8221;&#10;&#10;&#10;&#10;The TikTok user scoffed, &#8220;You support the troops, even though you&#8217;re going to ruin some women&#8217;s careers.&#8221;&#10;&#10;The deployed Army member noted that she has &#8220;an extremely limited access to birth control&#8221; and that &#8220;women in the military are more likely to experience unplanned pregnancies.&#10;&#10;&#8220;You can&#8217;t even get an ultrasound without traveling off base,&#8221; said the unidentified woman.&#10;&#10;At the conclusion of the clip, she vowed to fulfill her contractual obligations to serve the United States &#8212; while also speaking out about the effects of the controversial Supreme Court decision.&#10;&#10;&#8220;I signed that contract, so I will serve my country,&#8221; she said. &#8220;But you bet your ass you&#8217;re going to hear my voice, because I will not stop. I will not rest and I will not be silent because this is an attack on women in this country, 100%.&#8221;&#10;&#10;In a tweet posted Saturday, Posobiec shared the video with his followers, captioning it &#8220;BREAKING: Woke Female Army Soldier Questions Loyalty to United States after Roe v Wade Decision.&#8221; In response, users of the social media platform expressed outrage.&#10;&#10;&#10;&#8220;This is ok, but refusing an experimental vaccine is not. @POTUS has destroyed our military,&#8221; fumed Twitter account &#8220;Yankee in the South,&#8221; referring to the mandate of safe and effective COVID-19 vaccines for US Army members.&#10;&#10;&#8220;Maybe you should just re-read your contract and shut up. @USArmy you have a problem with no allegiance here,&#8221; added another critic.&#10;&#10;Said Twitter user Marilyn Redmon, &#8220;You are FREE to relocate to another country!!&#10;&#10;Un news&#10;&#10;Climate change news&#10;&#10;Human rights news&#10;&#10;United Nations instagram&#10;&#10;United Nations facebook&#10;&#10;United Nations twitter"
+    channeltitle "Event News"
+    channelid "UCicEvtMAv68IOBjNnOxWlxQ"
+    favcount 0
+    viewcount 148
+    likecount 2
+    commentcount 9
+    duration "PT3M20S"
+    indegree 0
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
     cluster 2
   ]
   node
   [
-    id 367
-    label "Fjzsc17jX44"
-    step 0
-    date "2022-06-24T14:20:04Z"
-    title "Roe v. Wade Has Been REVERSED! What Does That Mean?"
-    description "Students for Life of America celebrates the end of Roe v. Wade, the case that launched the human rights tragedy of our time: the deaths of more than 63 million to abortion since 1973.&#10;&#10;Students for Life President Kristan Hawkins said that the decision in Dobbs v. Jackson in which Roe v. Wade was reviewed, reversed, and the issue of abortion is returned to the states was one that few people believed possible when she was recruited to lead Students for Life of America more than 16 years ago. &#8220;Today&#8217;s decision in Dobbs is a dream come true and a labor of love as pro-life people for 50 years refused to give up on women and their children &#8211; born and preborn,&#8221; said Hawkins. &#8220;Now, it&#8217;s time to get to work.&#8221;  &#10;&#10;--&#13;&#10;&#13;&#10;Students For Life of America - http://www.studentsforlife.org&#13;&#10;Facebook - http://www.facebook.com/studentsforlife&#13;&#10;Main YouTube - http://www.youtube.com/studentsforlife&#13;&#10;Main Twitter - https://twitter.com/StudentsforLife&#13;&#10;Instagram - http://www.instagram.com/studentsforlife&#13;&#10;&#13;&#10;Students for Life of America (SFLA) is one of the nation's most active pro-life organizations and the largest youth pro-life organization. We are the only national pro-life organization dedicated to training and equipping college, high school, medical, and law school students. Our approach is uniquely effective, and the methods we have developed are a combination of time-tested techniques and cutting-edge technology."
-    channeltitle "Students for Life"
-    channelid "UCfkzsfj7Go1Q_kRFZmJptsw"
-    favcount 0
-    viewcount 26829
-    likecount 3107
-    commentcount 809
-    duration "PT2M48S"
-    indegree 1
-    cluster 6
-  ]
-  node
-  [
-    id 368
+    id 336
+    name "368"
     label "WNx7s58q5cY"
     step 0
     date "2022-06-29T01:00:05Z"
@@ -6085,11 +9428,21 @@ graph
     commentcount 1919
     duration "PT8M3S"
     indegree 8
-    cluster 6
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 5
   ]
   node
   [
-    id 369
+    id 337
+    name "369"
     label "fcPrg--y8Jo"
     step 0
     date "2022-06-25T12:00:33Z"
@@ -6103,11 +9456,21 @@ graph
     commentcount 4186
     duration "PT28M41S"
     indegree 12
-    cluster 5
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 1
   ]
   node
   [
-    id 370
+    id 338
+    name "370"
     label "wQ6kRmOuX9w"
     step 0
     date "2022-06-27T00:15:11Z"
@@ -6121,29 +9484,49 @@ graph
     commentcount 61
     duration "PT12M41S"
     indegree 0
-    cluster 1
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 5
   ]
   node
   [
-    id 372
-    label "oEt5k0HRT7s"
+    id 339
+    name "371"
+    label "SeqVd32INL0"
     step 0
-    date "2022-05-03T01:45:48Z"
-    title "Has Roe v Wade been overturned?"
-    description "See the politico article containing the leaked opinion at https://tinyurl.com/bdd2m6sy"
-    channeltitle "Father Frank Pavone"
-    channelid "UC1Aa1ZM5Yvl52jJk9MVzfwg"
+    date "2022-07-10T11:00:20Z"
+    title "Roe VS. Wade, la llave de la Caja de Pandora. Angico"
+    description "#astrologia #roevwade #aborto #cortesuprema &#10;&#10;La Corte Suprema de EEUU revoc&#243; el 24 de junio el derecho al aborto, abriendo la puerta para que los estados decidan, restrinjan o proh&#237;ban el aborto. Todav&#237;a puede haber muchos detalles adicionales agregados a este fallo en los pr&#243;ximos meses debido a que esto ocurri&#243; en un momento astrol&#243;gicamente desfavorable. &#191;Cu&#225;l es el futuro del aborto? Los tr&#225;nsitos planetarios pueden tener la respuesta.&#10;&#10;Video por Alina Rubi"
+    channeltitle "el Nuevo Herald"
+    channelid "UCUBWCthNWS-Zz-wCqs--Fwg"
     favcount 0
-    viewcount 3272
-    likecount 294
-    commentcount 36
-    duration "PT4M23S"
+    viewcount 1205
+    likecount 43
+    commentcount 21
+    duration "PT12M5S"
     indegree 0
-    cluster 7
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 373
+    id 340
+    name "373"
     label "8w5tH902MFw"
     step 0
     date "2022-06-24T23:58:31Z"
@@ -6157,11 +9540,21 @@ graph
     commentcount 5498
     duration "PT4M59S"
     indegree 1
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
     cluster 1
   ]
   node
   [
-    id 374
+    id 341
+    name "374"
     label "ZWiUaB76XHU"
     step 0
     date "2022-06-28T00:15:01Z"
@@ -6175,11 +9568,21 @@ graph
     commentcount 3807
     duration "PT17M32S"
     indegree 0
-    cluster 1
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 375
+    id 342
+    name "375"
     label "QsBjdHIa4SM"
     step 0
     date "2022-05-16T19:17:50Z"
@@ -6193,11 +9596,21 @@ graph
     commentcount 37
     duration "PT3M37S"
     indegree 0
-    cluster 6
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 376
+    id 343
+    name "376"
     label "kK5d1Bh9PEw"
     step 0
     date "2022-06-24T19:34:05Z"
@@ -6211,11 +9624,21 @@ graph
     commentcount 4556
     duration "PT27M57S"
     indegree 18
-    cluster 5
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 1
   ]
   node
   [
-    id 377
+    id 344
+    name "377"
     label "MwNtyNlxQ9I"
     step 0
     date "2022-06-30T17:02:46Z"
@@ -6229,29 +9652,49 @@ graph
     commentcount 8323
     duration "PT29M18S"
     indegree 12
-    cluster 2
-  ]
-  node
-  [
-    id 380
-    label "kgNUjheCLvA"
-    step 0
-    date "2022-05-04T02:18:30Z"
-    title "Ben Shapiro on Roe v. Wade Supreme Court Decision | Hasanabi Reacts"
-    description "Hasanabi Reacts to Ben Shapiro Breaks Down LEAKED Supreme Court Draft Decision On ABORTION Rights at https://www.twitch.tv/hasanabi&#10;&#10;Hasan Piker (Hasanabi) is a Twitch streamer, leftist political commentator, and podcaster. He streams everyday, posts stream highlights on his Youtube, does Leftovers (H3 Podcast) with h3h3Productions and Fear &#38; Malding Podcast with Will Neff. His streams consist of news coverage, reaction content, and gaming. Hasan frequently reacts to Joe Rogan (JRE), Tucker Carlson, Ben Shapiro, Steven Crowder, Jordan Peterson, Vice, Channel 5 (All Gas No Breaks), JCS - Criminal Psychology, Jubilee, and a revolving door of (bad) reality shows like MasterChef, 90 Day Fianc&#233;, and The Moment of Truth. He often collaborates with other streamers like xQcOW, Mizkif, Ludwig, Pokimane, Austin Show, Myth, OTK, and OfflineTV. not hasan minhaj.&#10;&#10;#hasanabi #reacts #twitch"
-    channeltitle "Hasanabi Moments"
-    channelid "UCobue-_fUPSIwdWULdE3MbQ"
-    favcount 0
-    viewcount 48269
-    likecount 1378
-    commentcount 399
-    duration "PT22M6S"
-    indegree 2
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
     cluster 5
   ]
   node
   [
-    id 381
+    id 345
+    name "378"
+    label "sTP_QFK2C2k"
+    step 0
+    date "2022-05-04T17:00:26Z"
+    title "Prophecy: This is Coming After Roe v Wade Overturned"
+    description "Find out what's coming after Roe v. Wade is overturned. With special guests Myles Kilby and Donna Grisham."
+    channeltitle "Sid Roth's It's Supernatural!"
+    channelid "UCczq0lf4nd5GHG-2Pjoz4Vw"
+    favcount 0
+    viewcount 165124
+    likecount 7902
+    commentcount 934
+    duration "PT33M35S"
+    indegree 1
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 5
+  ]
+  node
+  [
+    id 346
+    name "381"
     label "6UsVu0109CI"
     step 0
     date "2022-05-03T03:40:57Z"
@@ -6265,11 +9708,21 @@ graph
     commentcount 704
     duration "PT9M39S"
     indegree 3
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
     cluster 5
   ]
   node
   [
-    id 382
+    id 347
+    name "382"
     label "0IAWdvDnaEQ"
     step 0
     date "2022-05-03T09:49:20Z"
@@ -6283,11 +9736,21 @@ graph
     commentcount 979
     duration "PT5H19M23S"
     indegree 0
-    cluster 3
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 5
   ]
   node
   [
-    id 383
+    id 348
+    name "383"
     label "4OnjP_ZHHao"
     step 0
     date "2022-06-24T19:00:03Z"
@@ -6301,11 +9764,21 @@ graph
     commentcount 4795
     duration "PT8M6S"
     indegree 14
-    cluster 6
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 384
+    id 349
+    name "384"
     label "nMqMaRD5MAM"
     step 0
     date "2022-06-26T19:00:54Z"
@@ -6319,11 +9792,21 @@ graph
     commentcount 1882
     duration "PT42S"
     indegree 0
-    cluster 2
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 6
   ]
   node
   [
-    id 385
+    id 350
+    name "385"
     label "8nBrYeaL_AU"
     step 0
     date "2022-06-07T23:00:03Z"
@@ -6337,11 +9820,21 @@ graph
     commentcount 4
     duration "PT6M43S"
     indegree 0
-    cluster 3
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 5
   ]
   node
   [
-    id 386
+    id 351
+    name "386"
     label "k2bZp5lP-n4"
     step 0
     date "2022-07-06T21:00:14Z"
@@ -6355,11 +9848,21 @@ graph
     commentcount 42
     duration "PT2M2S"
     indegree 0
-    cluster 6
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 387
+    id 352
+    name "387"
     label "0lNJyCAxNsQ"
     step 0
     date "2020-10-29T15:45:00Z"
@@ -6373,29 +9876,49 @@ graph
     commentcount 21
     duration "PT6M"
     indegree 0
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 1
+  ]
+  node
+  [
+    id 353
+    name "388"
+    label "lVhQ9RlGNNs"
+    step 0
+    date "2022-06-05T21:15:29Z"
+    title "#BMDT Black Men Have Discussion on Roe V Wade  Abortion With Live Studio Audience."
+    description "Subscribe &#10133; Enable Notifications &#128276; &#10;For More Amazing Content &#38; #BMDT Updates! &#10;&#10;&#10071;&#10071;&#10071; *OUR PATREON*:&#10;https://www.patreon.com/blackmenduetalk&#10;Benefits Include:&#10;1&#65039;&#8419; Ability to suggest topics &#38; ask questions to be answered by hosts&#10;2&#65039;&#8419; Early access to videos, behind the scenes, &#38; Private #BMDT Discord Access&#10;3&#65039;&#8419;(If Dallas/Texas native) Access to be a part of the live studio audience and chance to feature on an episode&#10;&#10;Theme Song:&#10;Artist- Dandii Sun&#10;Song-  &#8220;Blickity&#8221;&#10;Link- https://music.apple.com/us/album/blickity/1485434659?i=1485434661&#10;&#10;Original/Related Hashtags &#128202;&#10;#BMDT #BlackMenDueTalk #MTR #SouthsideRabbi #TheRoommates #BattleRap #StreetHymns &#10;&#10;Sway&#8217;s Video/Audio Setup:&#10;&#10; &#8259; Soundboard/ Audio Recording &#127899; &#10;Rode Rodecaster PRO&#10;https://rode.com/interfaces-and-mixers/rodecaster-pro&#10;&#10; &#8259; Microphones &#127908; &#10;Rode PODMIC&#10;https://rode.com/microphones/broadcast/podmic&#10;&#10; &#8259; Headphones &#127911; &#10;AudioTechna ATH-M20x&#10;https://www.audio-technica.com/en-us/headphones/all/ath-m20x&#10;&#10; &#8259; Camera &#127909; &#10;Blackmagic 6K Pocket Cinema (PRO) &#10;https://www.blackmagicdesign.com/products/blackmagicpocketcinemacamera&#10;&#10; &#8259; Lens &#128270;&#10;Canon RF 28&#8211;70mm F2 L USM&#10;https://shop.usa.canon.com/shop/en/catalog/rf-28-70mm-f-2-l-usm-lens?utm_source=google&#38;utm_medium=Product_Search&#38;utm_campaign=Google_Product_Feed&#38;cm_mmc=GA-_-rf_28_70mm_f_2_l_usm_lens-_-G_Canon_Product+Listing+Ads-_-44321&#38;gclid=Cj0KCQiA64GRBhCZARIsAHOLriLaRx82tImW4P1CBDLZK4L_I_cwQfjK-sAb2WjuTdgoarnYaTSkDCsaAhVaEALw_wcB&#38;gclsrc=aw.ds&#10;&#10;&#128231; Email Us: BlackMenDueTalk@gmail.com"
+    channeltitle "BLACK MEN DUE TALK"
+    channelid "UCEV0spMjIb4IURTKlPn7CMg"
+    favcount 0
+    viewcount 264
+    likecount 12
+    commentcount 11
+    duration "PT44M42S"
+    indegree 0
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
     cluster 3
   ]
   node
   [
-    id 390
-    label "V0yDyF7_QTA"
-    step 0
-    date "2022-07-06T16:43:23Z"
-    title "Kenyans Opinion on Roe vs Wade"
-    description "#andrewkibe  #mrlambistic #theandrewkibeshow&#10;Don't be Lambistic! It's time to become a Patron. &#10;Join my Patreon to watch the full show&#10; https://www.patreon.com/kibeandrew&#10;&#10;Get my merch from:&#10;https://andrewkibe.co.ke/&#10; &#10;Follow me on Social Media:&#10;&#10;Instagram: kibeandy&#10;https://www.instagram.com/kibeandy/&#10;&#10;Facebook: AndrewKibeSpeaks &#10;https://www.facebook.com/AndrewKibeSp...&#10;&#10;Twitter:@kibeandy&#10;https://twitter.com/kibeandy&#10;&#10;YouTube 1: Andrew Kibe &#10;https://www.youtube.com/c/AndrewKibeee&#10;YouTube 2: Mr Lambistic &#10;https://www.youtube.com/channel/UCi9B...&#10;TikTok: thisikifeee&#10;https://www.tiktok.com/@thisikifeee&#10;&#10;Twitter SPACE: @KibeReborn&#10;https://twitter.com/KibeReborn&#10;&#10;Telegram: Kifeee&#10;https://t.me/+R5tFSm_6t282YzVk&#10;&#10;WhatsApp: +254712915936&#10;&#10;WATCH LIVE:&#10;&#10;Catch The Andrew Kibe show LIVE  &#10;on YouTube and Instagram  at 9:30 pm EAT Daily &#10;Instagram: @kibeandy &#10;YouTube 1: Andrew Kibe&#10;YouTube 2: Mr Lambistic"
-    channeltitle "Andrew Kibe"
-    channelid "UC8Am29Ya-UUSjgwg8Vz-sgA"
-    favcount 0
-    viewcount 10373
-    likecount 237
-    commentcount 76
-    duration "PT38M5S"
-    indegree 0
-    cluster 2
-  ]
-  node
-  [
-    id 391
+    id 354
+    name "391"
     label "-VOmtFHiOW8"
     step 0
     date "2022-06-24T22:51:56Z"
@@ -6409,11 +9932,21 @@ graph
     commentcount 530
     duration "PT1M45S"
     indegree 1
-    cluster 5
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 392
+    id 355
+    name "392"
     label "1-Jl_LZnfok"
     step 0
     date "2022-07-05T21:45:08Z"
@@ -6427,11 +9960,21 @@ graph
     commentcount 71
     duration "PT3M44S"
     indegree 0
-    cluster 2
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 5
   ]
   node
   [
-    id 393
+    id 356
+    name "393"
     label "3r_E1nE-CHY"
     step 0
     date "2022-07-06T14:27:25Z"
@@ -6445,29 +9988,49 @@ graph
     commentcount 3922
     duration "PT45S"
     indegree 0
-    cluster 6
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 8
   ]
   node
   [
-    id 395
-    label "h8P7b3WF5no"
+    id 357
+    name "394"
+    label "Aba-t-8eD8g"
     step 0
-    date "2022-06-24T17:04:05Z"
-    title "LIVE: Ben Shapiro Reacts to SCOTUS Ruling on Abortion"
-    description "After an early draft of a Supreme Court decision overruling Roe v. Wade was leaked, lighting the political world on fire, we're now receiving the opinion...for real. Live coverage now. &#10;&#10;#BenShapiro #News #Politics #DailyWire #Conservative #Liberal #Abortion #ProLife #ProChoice #RoeVWade #RoeVsWade #Dobbs #SupremeCourt #SCOTUS"
-    channeltitle "Ben Shapiro"
-    channelid "UCnQC_G5Xsjhp9fEJKuIcrSw"
+    date "2022-07-08T18:00:08Z"
+    title ": President Biden Hammers Supreme Court Over Roe V. Wade Decision"
+    description "At a press event on Friday, President Biden spoke about protecting access to reproductive health care services.&#10;&#10;Stay Connected&#10;Forbes on Facebook: http://fb.com/forbes&#10;Forbes Video on Twitter: http://www.twitter.com/forbes&#10;Forbes Video on Instagram: http://instagram.com/forbes&#10;More From Forbes:  http://forbes.com"
+    channeltitle "Forbes Breaking News"
+    channelid "UCg40OxZ1GYh3u3jBntB6DLg"
     favcount 0
-    viewcount 711256
-    likecount 27316
-    commentcount 4202
-    duration "PT1H8M4S"
-    indegree 21
-    cluster 5
+    viewcount 2243
+    likecount 31
+    commentcount 158
+    duration "PT2M57S"
+    indegree 0
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 1
   ]
   node
   [
-    id 396
+    id 358
+    name "396"
     label "-zNCzKKyq30"
     step 0
     date "2022-07-08T22:26:37Z"
@@ -6481,11 +10044,21 @@ graph
     commentcount 500
     duration "PT15S"
     indegree 0
-    cluster 4
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 5
   ]
   node
   [
-    id 397
+    id 359
+    name "397"
     label "9oPH0kCLEQU"
     step 0
     date "2022-06-29T16:00:05Z"
@@ -6499,11 +10072,21 @@ graph
     commentcount 1477
     duration "PT6M41S"
     indegree 1
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
     cluster 1
   ]
   node
   [
-    id 398
+    id 360
+    name "398"
     label "Z1mWdqeg4uM"
     step 0
     date "2022-06-27T18:43:16Z"
@@ -6517,11 +10100,21 @@ graph
     commentcount 1857
     duration "PT27M"
     indegree 4
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
     cluster 2
   ]
   node
   [
-    id 399
+    id 361
+    name "399"
     label "XiAzP_W7fFM"
     step 0
     date "2022-05-11T03:00:22Z"
@@ -6535,11 +10128,21 @@ graph
     commentcount 43
     duration "PT8M13S"
     indegree 0
-    cluster 3
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 9
   ]
   node
   [
-    id 400
+    id 362
+    name "400"
     label "M2MRnqWDmOc"
     step 0
     date "2022-07-10T12:02:21Z"
@@ -6553,11 +10156,21 @@ graph
     commentcount 1
     duration "PT20M9S"
     indegree 0
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
     cluster 3
   ]
   node
   [
-    id 401
+    id 363
+    name "401"
     label "dwQ3VoLI2wM"
     step 0
     date "2022-06-24T20:24:24Z"
@@ -6571,11 +10184,21 @@ graph
     commentcount 2706
     duration "PT1H28M15S"
     indegree 13
-    cluster 4
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 402
+    id 364
+    name "402"
     label "mSotiG-EaC4"
     step 0
     date "2022-06-05T21:00:20Z"
@@ -6589,11 +10212,21 @@ graph
     commentcount 10428
     duration "PT53S"
     indegree 0
-    cluster 3
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 403
+    id 365
+    name "403"
     label "DVjCCQptDVw"
     step 0
     date "2022-05-10T17:10:15Z"
@@ -6607,11 +10240,21 @@ graph
     commentcount 8
     duration "PT12M16S"
     indegree 0
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
     cluster 3
   ]
   node
   [
-    id 404
+    id 366
+    name "404"
     label "BV9yyDzs8gg"
     step 0
     date "2022-06-28T14:00:04Z"
@@ -6625,47 +10268,77 @@ graph
     commentcount 452
     duration "PT20M37S"
     indegree 3
-    cluster 2
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 406
-    label "mMpGEwwQNbM"
+    id 367
+    name "405"
+    label "-FC1IRiJ9x0"
     step 0
-    date "2022-06-24T21:00:15Z"
-    title "LOOK BACK: Barrett, Kavanaugh And Gorsuch Asked About Roe V. Wade At Senate Confirmation Hearings"
-    description "Trump-appointed Supreme Court Justices Neil Gorsuch, Amy Coney Barrett, and Brett Kavanaugh were asked about Roe v. Wade during their confirmation hearings in the U.S. Senate."
-    channeltitle "The Hill"
-    channelid "UCPWXiRWZ29zrxPFIQT7eHSA"
+    date "2022-05-12T17:30:02Z"
+    title "bro v wade"
+    description "we've got to protect roe v wade, or else we wont be able to get with hot babes and stuff&#10;&#10;http://patreon.com/freedomtoons"
+    channeltitle "FreedomToons"
+    channelid "UCRXnOs1rjfLMYrtZ-0n29NA"
     favcount 0
-    viewcount 20709
-    likecount 260
-    commentcount 342
-    duration "PT1M22S"
+    viewcount 545328
+    likecount 67482
+    commentcount 6145
+    duration "PT2M39S"
     indegree 0
-    cluster 6
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 5
   ]
   node
   [
-    id 410
-    label "zmdDYDPLBhs"
+    id 368
+    name "407"
+    label "kqoNSAangGE"
     step 0
-    date "2022-07-03T17:00:27Z"
-    title "Conservatives DESPERATE To Pretend Roe V Wade Decision Was Meaningless"
-    description "The Right just won the greatest victory they've ever seen. So why are conservative leaders acting like it's not such a big deal?&#10;&#10;Watch the Majority Report live Monday&#8211;Friday at 12 p.m. EST on YouTube OR listen via daily podcast at http://www.Majority.FM &#10;&#10;https://www.house.gov/representatives/find-your-representative&#10;https://www.senate.gov/senators/senators-contact.htm&#10;&#10;#MajorityReport #politics &#10;&#10;SUPPORT the show by becoming a member: http://www.jointhemajorityreport.com/ &#10;&#10;Download TMR's FREE app: http://www.majorityapp.com  &#10;&#10;TMR MERCH: http://www.shop.majorityreportradio.com &#10;&#10;OTHER LINKS: &#10;Twitch: https://www.twitch.tv/themajorityreport &#10;Facebook: http://facebook.com/MajorityReport &#10;Twitter: http://twitter.com/MajorityFM &#10;Instagram: https://www.instagram.com/majorityreport.fm/&#10;&#10;Image Credit, Gage Skidmore&#10;https://commons.wikimedia.org/wiki/File:Donald_Trump_%2851336312235%29.jpg&#10;https://creativecommons.org/publicdomain/&#10;Image has been cropped and color has been altered.&#10;&#10;The right is working overtime to pretend that the roe v wade decision was meaningless. And it is fascinating how they know how unpopular their agenda is relative to the American public. And that's why they are smart enough to here is you know here's the stake we're delivering. But we're also working on the plates. Essentially. Right. Like we're also making sure that we're able to plate this meal for you. And that's what the case that they're picking up now where they're basically just working on this minoritarian rule. And they're gonna need it. Because we'll talk about the sort of the Democratic response in a moment. But this is interesting. It's fascinating to see them run away from their long-held desire. Absolutely. I mean, I was really stunned by that. And I did write a piece about it. Because I couldn't believe I went to and watched Fox News. That you know I do this for you people. You know just so that just to let you know what's going on over there. and it's not easy. Let me tell you. I have to drink heavily after I do this. And it was astonishing to me. Because you would have expected they would do backflips. That this is their greatest achievement. This was their holy grail. and they were not doing backflips. They were saying it's relaxed ladies. It's okay. you're gonna be able to get your abortions. You'll be able to get them, don't worry. You just know if this is a state thing. And nothing terrible is going to happen to you. Everything's going to be fine. And I was really surprised that they took that tech but the thing that that that that really did it for me was real was when I read about Donald Trump being extremely upset. Extremely upset. Worried about it."
-    channeltitle "The Majority Report w/ Sam Seder"
-    channelid "UC-3jIAlnQmbbVMV6gR7K8aQ"
+    date "2022-07-09T00:24:28Z"
+    title "#prochoice #roevwade @yeahimmariah"
+    description "Gurl Powerful Shorts #shorts #roevwade #roevwadeoverturned #prochoice #prolife #abortion #abortionrights #womensrights #empowerment #girlpowerful #gurlpowerful #girlpower #AMSR #supremecourtruling #powerfulwomen #successfulwoman #celebrityactivist #activist #teens #mindset"
+    channeltitle "Gurl Powerful"
+    channelid "UC3YZrs-MCDL_LucoOgr6ZxA"
     favcount 0
-    viewcount 41839
-    likecount 1871
-    commentcount 627
-    duration "PT10M7S"
-    indegree 1
-    cluster 1
+    viewcount 453242
+    likecount 38409
+    commentcount 3463
+    duration "PT11S"
+    indegree 0
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 411
+    id 369
+    name "411"
     label "s9yBhCkqX5g"
     step 0
     date "2022-05-15T23:22:53Z"
@@ -6679,11 +10352,21 @@ graph
     commentcount 0
     duration "PT1M57S"
     indegree 0
-    cluster 3
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 412
+    id 370
+    name "412"
     label "FkwQgAUTArY"
     step 0
     date "2022-06-25T21:57:36Z"
@@ -6697,11 +10380,21 @@ graph
     commentcount 2032
     duration "PT1H36M18S"
     indegree 5
-    cluster 2
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 413
+    id 371
+    name "413"
     label "jQhrDaZuCvY"
     step 0
     date "2022-05-04T18:00:14Z"
@@ -6715,11 +10408,21 @@ graph
     commentcount 227
     duration "PT9M5S"
     indegree 0
-    cluster 4
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 9
   ]
   node
   [
-    id 414
+    id 372
+    name "414"
     label "4ikfB-KP9XY"
     step 0
     date "2022-06-28T01:04:58Z"
@@ -6733,29 +10436,49 @@ graph
     commentcount 1242
     duration "PT8S"
     indegree 0
-    cluster 2
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 416
-    label "YkxGH0xxW9o"
+    id 373
+    name "415"
+    label "0CTeY9San1s"
     step 0
-    date "2022-06-24T22:30:04Z"
-    title "Goodbye Roe v Wade! | The Comments Section Live"
-    description "Join Brett Cooper live as we discuss the SCOTUS Roe v Wade ruling. We'll see you Friday June 24th, at 5:15PM ET!&#10;&#10;Don&#8217;t forget to like this video, subscribe to our YouTube channel, and ring the notification bell so you never miss a future upload!&#10;&#10;Follow Brett Cooper on social media:&#10;Instagram &#8212; https://www.instagram.com/imbrettcooper/?hl=en&#10;Twitter &#8212; https://twitter.com/imbrettcooper&#10;Facebook &#8212;  https://www.facebook.com/BrettCooperDW&#10;&#10;#TheCommentsSection #BrettCooper #DailyWire #Reaction #React #Politics #Culture #Entertainment #TikTok"
-    channeltitle "The Comments Section with Brett Cooper"
-    channelid "UC7bYyWCCCLHDU0ZuNzGNTtg"
+    date "2022-05-05T19:44:03Z"
+    title "Tammy Baldwin: If Roe V. Wade Overturned, Wisconsin Will Revert To 1849 Law Banning Abortions"
+    description "Sen. Tammy Baldwin (D-WI) speaks at a press conference with other Senate Democrats about Roe V. Wade as they prepare to vote on a bill that will make abortion a federally protected right.&#10;&#10;Stay Connected&#10;Forbes on Facebook: http://fb.com/forbes&#10;Forbes Video on Twitter: http://www.twitter.com/forbes&#10;Forbes Video on Instagram: http://instagram.com/forbes&#10;More From Forbes:  http://forbes.com"
+    channeltitle "Forbes Breaking News"
+    channelid "UCg40OxZ1GYh3u3jBntB6DLg"
     favcount 0
-    viewcount 127124
-    likecount 6074
-    commentcount 1465
-    duration "PT1H6M23S"
-    indegree 8
-    cluster 2
+    viewcount 555
+    likecount 13
+    commentcount 24
+    duration "PT3M41S"
+    indegree 0
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 5
   ]
   node
   [
-    id 417
+    id 374
+    name "417"
     label "YJaA1a4GUF4"
     step 0
     date "2022-06-28T01:45:01Z"
@@ -6769,29 +10492,49 @@ graph
     commentcount -1
     duration "PT13M31S"
     indegree 20
-    cluster 2
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 5
   ]
   node
   [
-    id 420
-    label "OWD5sJD5ue4"
+    id 375
+    name "418"
+    label "hSzRvv72iOA"
     step 0
-    date "2022-06-30T14:00:21Z"
-    title "Pope Francis makes statement on Roe v Wade"
-    description "Please Like this video with Thumbs Up Button &#128077;&#127995; and Share this video on Facebook using the &#34;Share&#34; Button next to Like Button.&#10;&#10;Taylor Marshall's book: Infiltration: The Plot to Destroy the Church from Within: https://amzn.to/35fGp6k&#10;&#10;------------------------------------------------------------&#10; &#128591;&#127995;WILL YOU PLEASE HELP ME GROW THIS CHANNEL AND PODCAST? &#128591;&#127995;&#10;&#9654;&#65039; 1. &#128276; Don&#8217;t miss a Youtube CATHOLIC LIVESTREAM: Please click Subscribe, then Click &#34;Notification Bell&#34; = &#128276; and select &#8220;all&#8221; to be notified of all new shows and CATHOLIC LIVESTREAMS.&#10;&#9654;&#65039; 2. &#128077;&#127995; Please &#34;Like&#34; this video.&#10;&#9654;&#65039; 3. &#128242; Please share this video on Facebook and Twitter using the SHARE button.&#10;&#9654;&#65039; 4. &#128591;&#127995; Become a Channel Patron and get signed books and Catholic resources: https://www.patreon.com/drtaylormarshall&#10;&#9654;&#65039; 5.  &#128214; FREE Dr M book: &#34;Thomas Aquinas in 50 Pages by Dr Marshall: https://taylormarshall.com/&#10;&#9654;&#65039; 6.  &#128421; Want to go deeper? Take online theology courses with Dr Marshall: https://newsaintthomas.com&#10;&#9654;&#65039; 7. &#128218; Please explore Dr Marshall's 8 books  at amazon.com: https://amzn.to/2MOZG3G&#10;&#9654;&#65039; 8.  &#128038; Follow Dr Taylor Marshall on Social Media:&#10;&#10;&#128308; Join my Patreon Sponsors: https://www.patreon.com/drtaylormarshall&#10;&#128308; Facebook: https://www.facebook.com/DrTaylorMarshall/&#10;&#128308; Twitter: https://twitter.com/TaylorRMarshall&#10;&#128308; YouTube: Click Subscribe, then Click &#34;Notification Bell&#34; = &#128276; (all)&#10;&#10;Take Dr. Marshall&#8217;s online Catholic courses by signing up as a student at newsaintthomas.com"
-    channeltitle "Dr Taylor Marshall"
-    channelid "UCeJGHnaPVxYr7z55VF4YmPg"
+    date "2021-12-02T21:00:06Z"
+    title "End of Roe v. Wade?"
+    description "Is the Supreme Court about to overturn Roe v. Wade?  What did we learn at yesterday&#8217;s oral argument?  One of America&#8217;s most brilliant legal ends, Erwin Chereminsky, dean of the UC Berkeley School of Law, reads the tea leaves with Michael.&#10;&#10;Read the mentioned articles here:&#10;https://www.nytimes.com/2021/12/01/us/politics/supreme-court-mississippi-abortion-law.html&#10;&#10;https://www.latimes.com/opinion/story/2021-11-30/abortion-case-supreme-court-reproductive-freedom&#10;&#10;Listen daily on SiriusXM POTUS Channel 124 9am-12 ET daily, Encore 9pm-12 ET. &#10;&#10;Follow Michael on Twitter - &#10;https://twitter.com/smerconish&#10;&#10;Follow Michael on Facebook -&#10;https://www.facebook.com/smerconish/&#10;&#10;My website - &#10;https://www.smerconish.com/&#10;&#10;Subscribe to my Newsletter - &#10;https://smerconish.us18.list-manage.com/subscribe?u=2531b0644b6963f749026a14f&#38;id=6ae33bd3db&#10;&#10;#MichaelSmerconish #Politics #Supremecourt"
+    channeltitle "Michael Smerconish"
+    channelid "UCEtT_F35i6pAq2yUluzXHSA"
     favcount 0
-    viewcount 78816
-    likecount 6408
-    commentcount 1313
-    duration "PT3M16S"
-    indegree 2
-    cluster 2
+    viewcount 1268
+    likecount 56
+    commentcount 30
+    duration "PT13M34S"
+    indegree 0
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 5
   ]
   node
   [
-    id 421
+    id 376
+    name "421"
     label "C4_rXOkBSOM"
     step 0
     date "2022-06-24T15:39:42Z"
@@ -6805,11 +10548,21 @@ graph
     commentcount 1524
     duration "PT1M32S"
     indegree 0
-    cluster 2
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 9
   ]
   node
   [
-    id 422
+    id 377
+    name "422"
     label "4cm6l786E6Y"
     step 0
     date "2022-06-25T00:08:26Z"
@@ -6823,11 +10576,21 @@ graph
     commentcount 432
     duration "PT5M26S"
     indegree 0
-    cluster 4
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 5
   ]
   node
   [
-    id 423
+    id 378
+    name "423"
     label "mN48EaFu21Q"
     step 0
     date "2022-07-08T16:00:24Z"
@@ -6841,11 +10604,21 @@ graph
     commentcount 80
     duration "PT4M37S"
     indegree 0
-    cluster 6
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 424
+    id 379
+    name "424"
     label "1mP-4c7T4-w"
     step 0
     date "2022-07-02T15:56:33Z"
@@ -6859,11 +10632,21 @@ graph
     commentcount 98
     duration "PT5M10S"
     indegree 0
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
     cluster 1
   ]
   node
   [
-    id 425
+    id 380
+    name "425"
     label "mkUIgIT_riQ"
     step 0
     date "2022-06-24T20:51:03Z"
@@ -6877,11 +10660,21 @@ graph
     commentcount 628
     duration "PT1M9S"
     indegree 1
-    cluster 6
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 426
+    id 381
+    name "426"
     label "jWg9L7aRtJg"
     step 0
     date "2022-05-06T20:11:20Z"
@@ -6895,11 +10688,21 @@ graph
     commentcount 4
     duration "PT3M27S"
     indegree 0
-    cluster 3
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 5
   ]
   node
   [
-    id 427
+    id 382
+    name "427"
     label "iEtho37iJ-k"
     step 0
     date "2022-07-10T19:00:23Z"
@@ -6913,11 +10716,21 @@ graph
     commentcount 3
     duration "PT9M46S"
     indegree 0
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
     cluster 3
   ]
   node
   [
-    id 428
+    id 383
+    name "428"
     label "b0gkLtNsGKI"
     step 0
     date "2022-06-27T15:45:43Z"
@@ -6931,11 +10744,21 @@ graph
     commentcount 7151
     duration "PT1H9M44S"
     indegree 5
-    cluster 6
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 429
+    id 384
+    name "429"
     label "tGjh5AdD2EA"
     step 0
     date "2022-07-07T16:00:36Z"
@@ -6949,11 +10772,21 @@ graph
     commentcount 75
     duration "PT4M17S"
     indegree 0
-    cluster 4
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 1
   ]
   node
   [
-    id 430
+    id 385
+    name "430"
     label "PdHsD-pToIg"
     step 0
     date "2022-06-29T22:21:25Z"
@@ -6967,11 +10800,21 @@ graph
     commentcount 2715
     duration "PT45M42S"
     indegree 6
-    cluster 2
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 431
+    id 386
+    name "431"
     label "kO7nagVw7pc"
     step 0
     date "2022-06-25T04:13:09Z"
@@ -6985,11 +10828,21 @@ graph
     commentcount 1878
     duration "PT9M26S"
     indegree 0
-    cluster 6
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 9
   ]
   node
   [
-    id 432
+    id 387
+    name "432"
     label "3KHCGZTUYzY"
     step 0
     date "2022-06-24T17:22:54Z"
@@ -7003,47 +10856,77 @@ graph
     commentcount 639
     duration "PT12M23S"
     indegree 1
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 1
+  ]
+  node
+  [
+    id 388
+    name "433"
+    label "MMSCOEeDKl8"
+    step 0
+    date "2021-04-02T04:02:02Z"
+    title "Roe V. Wade"
+    description "Dr. Bernard Nathanson and Dr. Mildred Jefferson square off in a national battle in this untold conspiracy that led to the most famous and controversial court case in history."
+    channeltitle "YouTube Movies"
+    channelid "UCF_jjkGuql6ihX6zsPvBUxg"
+    favcount 0
+    viewcount -1
+    likecount 370
+    commentcount 121
+    duration "PT1H51M57S"
+    indegree 0
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
     cluster 4
   ]
   node
   [
-    id 434
-    label "9RU6NGExpZo"
+    id 389
+    name "435"
+    label "rJDaIG5vVXI"
     step 0
-    date "2022-05-03T19:00:06Z"
-    title "Is Roe v. Wade Gone? We Breakdown Whats ACTUALLY Happening... | Louder With Crowder"
-    description "So far this is just a leak (confirmed to be accurate) but still a leak. It's not law... yet. Check back in here, or the Main-Channel, to stay updated! &#10;&#10;Shop the official LWC store: https://crowdershop.com&#10;&#10;Want to watch the full show every day? Join MugClub! http://louderwithcrowder.com/mugclub&#10;&#10;Use promo codes &#34;student&#34; &#34;veteran&#34; &#34;military&#34; to get daily access for $69/year!&#10;&#10;Follow me on Twitter: https://twitter.com/scrowder&#10;Like me on Facebook: https://www.facebook.com/stevencrowderofficial &#10;&#10;Find behind the scenes footage on instagram: http://www.instagram.com/louderwithcrowder&#10;&#10;&#34;Eat My Butt&#34; #roevwade #SupremeCourt #roevswade"
-    channeltitle "CrowderBits"
-    channelid "UCMAtX9eFBpwc4LtgvbqsOpQ"
+    date "2022-06-25T02:00:11Z"
+    title "CNN analyst has wicked response to support Roe v. Wade"
+    description "A new low for CNN"
+    channeltitle "smart christian channel"
+    channelid "UC8JyMQzK9PddVZwIOpuozOw"
     favcount 0
-    viewcount 103834
-    likecount 6095
-    commentcount 682
-    duration "PT10M26S"
-    indegree 1
+    viewcount 9856
+    likecount 795
+    commentcount 391
+    duration "PT3M40S"
+    indegree 0
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
     cluster 6
   ]
   node
   [
-    id 436
-    label "mEOnY4dugKc"
-    step 0
-    date "2022-06-24T17:00:35Z"
-    title ": Lila Rose and Ben Shapiro React to Roe v. Wade Being Overturned"
-    description "Watch Ben's full reaction here: https://youtu.be/h8P7b3WF5no&#10;&#10;#BenShapiro #TheBenShapiroShow #News #Politics #DailyWire #LiveAction #LilaRose #Abortion #RoeVWade #RoeVsWade #ProLife #ProChoice #DobbsVMississippi #DobbsVsMississippi #PlannedParenthood #EqualProtection #DueProcess #Constitution #CaseyVPlannedParentood #CaseyVsPlannedParenthood #JohnRoberts"
-    channeltitle "Ben Shapiro"
-    channelid "UCnQC_G5Xsjhp9fEJKuIcrSw"
-    favcount 0
-    viewcount 112648
-    likecount 7720
-    commentcount 1650
-    duration "PT8M9S"
-    indegree 1
-    cluster 5
-  ]
-  node
-  [
-    id 437
+    id 390
+    name "437"
     label "_uEajldVAoQ"
     step 0
     date "2022-06-25T01:00:16Z"
@@ -7057,11 +10940,21 @@ graph
     commentcount 392
     duration "PT43M1S"
     indegree 5
-    cluster 5
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 438
+    id 391
+    name "438"
     label "BM8-bNw--fQ"
     step 0
     date "2022-06-28T19:00:05Z"
@@ -7075,11 +10968,21 @@ graph
     commentcount 339
     duration "PT8M6S"
     indegree 1
-    cluster 2
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 5
   ]
   node
   [
-    id 439
+    id 392
+    name "439"
     label "23aCFCva8qQ"
     step 0
     date "2022-06-24T16:36:20Z"
@@ -7093,11 +10996,21 @@ graph
     commentcount 2547
     duration "PT12M"
     indegree 8
-    cluster 6
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 5
   ]
   node
   [
-    id 440
+    id 393
+    name "440"
     label "8akttEsnYaE"
     step 0
     date "2022-07-04T14:37:55Z"
@@ -7111,11 +11024,21 @@ graph
     commentcount 164
     duration "PT3M42S"
     indegree 0
-    cluster 3
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 1
   ]
   node
   [
-    id 441
+    id 394
+    name "441"
     label "rkfwtX-EMg8"
     step 0
     date "2022-06-24T14:52:48Z"
@@ -7129,11 +11052,21 @@ graph
     commentcount 605
     duration "PT9M5S"
     indegree 0
-    cluster 4
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 442
+    id 395
+    name "442"
     label "2xHlqO7Hm9o"
     step 0
     date "2022-06-27T23:00:49Z"
@@ -7147,11 +11080,21 @@ graph
     commentcount 664
     duration "PT55M30S"
     indegree 0
-    cluster 2
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 443
+    id 396
+    name "443"
     label "EO9S78wrsuk"
     step 0
     date "2022-06-25T20:00:03Z"
@@ -7165,11 +11108,21 @@ graph
     commentcount 1401
     duration "PT7M50S"
     indegree 0
-    cluster 2
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 5
   ]
   node
   [
-    id 444
+    id 397
+    name "444"
     label "bB_wBIDmM8M"
     step 0
     date "2022-07-10T18:32:14Z"
@@ -7183,47 +11136,77 @@ graph
     commentcount 0
     duration "PT9M16S"
     indegree 0
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 5
+  ]
+  node
+  [
+    id 398
+    name "445"
+    label "dAynoMlnyC4"
+    step 0
+    date "2022-07-05T12:30:23Z"
+    title "TGC Author Responds To Roe v. Wade BUCKLE UP!"
+    description "Please SUPPORT Our Work And Research Here: &#10;https://pay.cornerstone.cc/fightfortruth  &#10;&#10;Your small monthly donation will help us do more RESEARCH, make more CONTENT, and spread more TRUTH! (and you&#8217;ll get a shout out in all our videos)&#10;&#10;Join The TRUTH ARMY Today: https://pay.cornerstone.cc/fightfortruth  &#10;&#10;Subscribe On RUMBLE: https://rumble.com/c/ColinMiller  &#10;&#10;CONTACT Us Here: fightfortruthmedia@gmail.com  &#10;&#10;Sources:&#10;&#10;The Article:&#10;https://www.thegospelcoalition.org/article/compassion-over-culture-war/"
+    channeltitle "Fight For Truth"
+    channelid "UCMZXlVu8PM9jIGkJE2VpRGQ"
+    favcount 0
+    viewcount 13924
+    likecount 1298
+    commentcount 285
+    duration "PT13M12S"
+    indegree 0
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
     cluster 3
   ]
   node
   [
-    id 446
-    label "m1eOhCSHano"
+    id 399
+    name "447"
+    label "nVYdYFDcDVs"
     step 0
-    date "2022-06-26T12:00:20Z"
-    title "Roe v. Wade MELTDOWNS Getting Worse! "
-    description "&#128680;  Order your CIimate Change t-shirts here &#10145;&#65039;  https://Teespring.com/stores/MarkDice&#10;&#10;Support my channel with a membership for $5 a month here https://Youtube.com/MarkDice/join &#10;&#10;&#127909;  Support me on Patreon for just $5 a month here &#10145;&#65039;  https://Patreon.com/MarkDice &#10;&#10;Order my book &#34;Hollywood Propaganda: How TV, Movies, and Music Shape Our Culture&#34; from Amazon here: https://amzn.to/30xPFl5 or download the e-book from Kindle, iBooks, Google Play, or Nook.&#10;&#10;&#128214;  Order my book, &#34;The True Story of Fake News&#34; here &#10145;&#65039;  https://amzn.to/2Zb1Vps   &#10;&#10;&#128214;  Order my book &#34;The Liberal Media Industrial Complex&#34; here: https://amzn.to/2X5oGKx   &#10;------------------------------------------&#10;&#10;&#9888;&#65039;  Order your &#34;F*ck Joe Biden&#34; shirt here: https://TeeSpring.com/F-JoeBiden&#10;&#10;&#9888;&#65039;   Order your &#34;Operation Mockingbird&#34; shirt here: https://TeeSpring.com/OperationMockingbird &#10;&#10;&#9888;&#65039;   Order your Warning: Contains Facts &#38; Opinions Some May Find Offensive shirt here: https://TeeSpring.com/TriggerWarning&#10;------------------------------------------&#10;&#10;Mark Dice is an independent media analyst and bestselling author of &#34;Hollywood Propaganda: How TV, Movies, and Music Shape Our Culture.&#8221;  He has a bachelor's degree in Communication from California State University and was the first conservative YouTuber to reach 1 million subscribers (in 2017).    &#10;&#10;He has been featured on Fox News, the History Channel, E! Entertainment, the Drudge Report, and news outlets around the world.  &#10;------------------------------------------&#10;&#10;This video description and the pinned comment contains Amazon and/or other affiliate links, which means if you click them and purchase the product(s), Mark will receive a small commission.  &#10;&#10;&#10;&#10;&#10;Copyright &#169; 2022 by Mark Dice.  All Rights Reserved."
-    channeltitle "Mark Dice"
-    channelid "UCzUV5283-l5c0oKRtyenj6Q"
+    date "2022-07-08T16:00:28Z"
+    title "Vaush Reacts To MikeFromPAs IDIOTIC Take On Roe vs Wade"
+    description "Vaush reacts to MikeFromPA's take on roe vs wade and Vaush explains why he disagrees with mike from pa. Vaush and MikeFromPA have always disagreed on countless topics so this is just another on the list. What are your thoughts on MikeFromPA's take on twitter.&#10;&#10;Upload Schedule:&#10;Weekdays: 1PM EST&#10;Weekends: 2PM EST&#10;&#10;(Depending on when Vaush is streaming this might be an hour or two off)&#10;(I also randomly will post meme videos at night when I come up with them)&#10;&#10;Follow me on Twitter: https://twitter.com/CoconutIslandYT&#10;&#10;This channel is not directly affiliated with Vaush, and is fan run, that has gotten permission from Vawsh to upload. Uploads are spaced out and are segments that don't make it to the main channel. channel. If you have any meme ideas or suggestions for uploads send me an email. :)&#10;&#10;Interested in a fan-run community group for art, praxis and Vaush?&#10;Check out: https://linktr.ee/VaushPosting&#10;(Note: Not Affliated/Run By CoconutIsland, simply helping out fellow vaush fans)&#10;&#10;Vaush's Links:&#10;Website - https://www.vaush.gg/&#10;Patreon - https://www.patreon.com/vaush&#10;Instagram - https://www.instagram.com/vaushv/&#10;Tiktok - https://www.tiktok.com/@vaushvidya&#10;Twitter - https://twitter.com/VaushV"
+    channeltitle "CoconutIsland"
+    channelid "UCU7JO-mP-0ELWIf48_nrWag"
     favcount 0
-    viewcount 338849
-    likecount 43556
-    commentcount 6045
-    duration "PT5M18S"
-    indegree 4
+    viewcount 12077
+    likecount 544
+    commentcount 130
+    duration "PT52S"
+    indegree 0
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
     cluster 6
   ]
   node
   [
-    id 448
-    label "_xBZ7mgrzMk"
-    step 0
-    date "2022-06-26T16:57:37Z"
-    title "HILARIOUS WOKE FREAKOUTS (Roe VS Wade Reactions)"
-    description "The woke are freaking out big time!&#10;&#10;The material used in this video falls within FAIR USE LAW as I am providing critique/criticism and original commentary in my review. &#10;&#10;I do NOT condone or support anyone contacting the people shown in this video. This video is purely for entertainment/comedic purposes.&#10;&#10;This video is intended for comedic/entertainment purposes and is meant to be a tongue in cheek look at some stories the mainstream media don't cover.&#10;&#10;&#10;THANKS FOR WATCHING. &#10;&#10;Support SC Reviews on PATREON - patreon.com/screviews&#10;&#10;SC REVIEWS MERCH STORE https://sc-reviews.preview.teespring.com/"
-    channeltitle "SC Reviews"
-    channelid "UCYjZ89DFZ9_kR_RA-TXMdMw"
-    favcount 0
-    viewcount 101280
-    likecount 7814
-    commentcount 1986
-    duration "PT10M27S"
-    indegree 3
-    cluster 1
-  ]
-  node
-  [
-    id 449
+    id 400
+    name "449"
     label "Bmr9EDKsubM"
     step 0
     date "2022-06-26T08:33:34Z"
@@ -7237,47 +11220,77 @@ graph
     commentcount 15
     duration "PT8H24M31S"
     indegree 0
-    cluster 4
-  ]
-  node
-  [
-    id 451
-    label "dWYuLbuj4Hk"
-    step 0
-    date "2022-06-28T02:30:12Z"
-    title "Trump Suck-Ups Brain Fails When Asked About Roe v Wade"
-    description "--Radical Republican South Dakota Governor Kristi Noem, a Donald Trump sycophant, is interviewed about Roe v Wade and she goes down in flames trying to coherently explain her position on supporter mothers&#10;---&#10;Become a Member: https://www.davidpakman.com/membership&#10;Become a Patron: https://www.patreon.com/davidpakmanshow&#10;Book David Pakman: https://www.cameo.com/davidpakman&#10;---&#10;Subscribe to the SECOND channel: https://www.youtube.com/pakmanlive&#10;Follow David on Twitter: http://www.twitter.com/dpakman&#10;David on Instagram: http://www.instagram.com/david.pakman&#10;TDPS Subreddit: http://www.reddit.com/r/thedavidpakmanshow/&#10;Pakman Discord: https://www.davidpakman.com/discord&#10;Facebook: http://www.facebook.com/davidpakmanshow&#10;Leave a Voicemail Line: (219)-2DAVIDP&#10;---&#10;David tech:&#10;-Camera: Sony PXW-X70 https://amzn.to/3emv1v1&#10;-Microphone: Shure SM7B: https://amzn.to/3hEVtSH&#10;-Voice Processor: dbx 266xs https://amzn.to/3B1SV8N&#10;-Stream Controller: Elgato Stream Deck https://amzn.to/3B4jPNq&#10;-Microphone Cloudlifter: https://amzn.to/2T9bhne&#10;&#10;-Timely news is important! We upload new clips every day! Make sure to subscribe!&#10;&#10;Broadcast on June 27, 2022&#10;&#10;#davidpakmanshow #trump #roevwade"
-    channeltitle "David Pakman Show"
-    channelid "UCvixJtaXuNdMPUGdOPcY8Ag"
-    favcount 0
-    viewcount 66946
-    likecount 2564
-    commentcount 789
-    duration "PT4M23S"
-    indegree 0
-    cluster 1
-  ]
-  node
-  [
-    id 453
-    label "q9e2TPIu8Ok"
-    step 0
-    date "2022-06-29T15:58:21Z"
-    title "The Dumbest Takes On Roe v Wade Compilation"
-    description "Become a Premium Member: https://jimmydorecomedy.com/join&#10;Go to a Live Show: https://jimmydorecomedy.com/tour &#10;Subscribe to Our Newsletter: https://mailchi.mp/jimmydorecomedy/ytlivestreams&#10;The Jimmy Dore Show Website:  https://jimmydorecomedy.com/&#10; &#10;LIVESTREAM &#38; LIVE SHOW ANNOUNCEMENTS: &#10;Join the Email list:  https://mailchi.mp/jimmydorecomedy/ytlivestreams&#10;Twitter: https://twitter.com/jimmy_dore&#10;Facebook:  https://www.facebook.com/JimmyDoreShow&#10;Instagram: https://www.instagram.com/thejimmydoreshow&#10; &#10;WATCH / LISTEN FREE:&#10;Videos: https://jimmydorecomedy.com/watch &#10;&#10;Podcasts: https://jimmydorecomedy.com/podcasts &#10;(Also available on iTunes, Apple Podcasts, Spotify, Google Podcasts, or your favorite podcast player.)&#10; &#10;ACCESS TO FULL REPLAYABLE LIVESTREAMS:&#10;Become a Premium Member: https://jimmydorecomedy.com/join&#10;&#10;SUPPORT THE JIMMY DORE SHOW:&#10;Make a Donation:  https://jimmydorecomedy.com/donate&#10;Buy Official Merch (Tees, Sweatshirts, Hats, Bags):  https://jimmydorecomedy.com/store&#10; &#10;DOWNLOAD OUR MOBILE APP:&#10;App Store: https://apps.apple.com/us/app/jimmy-dore/id839294547&#10;Google Play: https://play.google.com/store/apps/details?id=com.jimmydore.jimmydore&#10;&#10;Jimmy Dore on Twitter: https://twitter.com/Jimmy_Dore&#10;Stef Zamorano on Twitter: https://twitter.com/miserablelib&#10;&#10;About The Jimmy Dore Show:&#10;#TheJimmyDoreShow is a hilarious and irreverent take on news, politics and culture featuring Jimmy Dore, a professional stand up comedian, author and podcaster. The show is also broadcast on Pacifica Radio Network stations throughout the country."
-    channeltitle "The Jimmy Dore Show"
-    channelid "UC3M7l8ved_rYQ45AVzS0RGA"
-    favcount 0
-    viewcount 248231
-    likecount 12823
-    commentcount 3102
-    duration "PT20M29S"
-    indegree 9
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
     cluster 2
   ]
   node
   [
-    id 454
+    id 401
+    name "450"
+    label "q-Pn3IAjMP0"
+    step 0
+    date "2022-07-08T01:00:10Z"
+    title "Episode 74: Roe V. Wade *intuition s rights*"
+    description "Go to http://betterhelp.com/GIRLSAFTERDARK to get 10% off your first month!&#10;Go to http://dipseastories.com/girlsafterdark for a 30 day free trial.&#10;Go to http://mykitsch.com/girlsafterdark to get 30% off your entire order."
+    channeltitle "Girls After Dark Podcast"
+    channelid "UCdh6gv7Hwt2AJ2TjWoXswEA"
+    favcount 0
+    viewcount 21626
+    likecount 1109
+    commentcount 319
+    duration "PT47M21S"
+    indegree 0
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 4
+  ]
+  node
+  [
+    id 402
+    name "452"
+    label "1iVPAqgjprA"
+    step 0
+    date "2022-04-01T00:00:00Z"
+    title " From Roe V Wade Becomes a Christian"
+    description "For more exclusive pro-life content, interviews, and tools to engage the culture for LIFE, SUBSCRIBE to UnAborted with Seth Gruber TODAY! https://tinyurl.com/niroit8b&#10;&#10;To help UnAborted create more pro-life content and take our content to the streets, become a Patron of the show at https://www.patreon.com/unaborted&#10;&#10;To help Seth reach more high school and college students through pro-life presentations around the country, become a monthly supporter at https://prolifetraining.com/donate/&#10;&#10;Like this video? Subscribe and ring the bell for notifications so you don't miss an episode!"
+    channeltitle "Seth Gruber - A Voice for the Unborn"
+    channelid "UCLGsYxeOwdgc0E6RFtBR5Og"
+    favcount 0
+    viewcount 172
+    likecount 16
+    commentcount 0
+    duration "PT4M12S"
+    indegree 0
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 2
+  ]
+  node
+  [
+    id 403
+    name "454"
     label "rPsIaYmh-bo"
     step 0
     date "2022-06-28T15:08:58Z"
@@ -7291,11 +11304,21 @@ graph
     commentcount 1044
     duration "PT16M14S"
     indegree 1
-    cluster 4
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 8
   ]
   node
   [
-    id 455
+    id 404
+    name "455"
     label "spb4bFV1bLM"
     step 0
     date "2022-07-10T17:00:21Z"
@@ -7309,11 +11332,21 @@ graph
     commentcount 37
     duration "PT56S"
     indegree 0
-    cluster 3
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 456
+    id 405
+    name "456"
     label "qBYHdQQ6nHc"
     step 0
     date "2022-06-24T20:15:01Z"
@@ -7327,11 +11360,21 @@ graph
     commentcount 1036
     duration "PT8M46S"
     indegree 1
-    cluster 6
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 457
+    id 406
+    name "457"
     label "YrmaS_GoUxE"
     step 0
     date "2022-05-04T04:28:35Z"
@@ -7345,11 +11388,21 @@ graph
     commentcount 21
     duration "PT5M59S"
     indegree 0
-    cluster 6
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 1
   ]
   node
   [
-    id 458
+    id 407
+    name "458"
     label "RGpzlyDnBEk"
     step 0
     date "2022-06-25T08:31:30Z"
@@ -7363,29 +11416,49 @@ graph
     commentcount 976
     duration "PT4M"
     indegree 0
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 6
+  ]
+  node
+  [
+    id 408
+    name "459"
+    label "98NPLCv2STw"
+    step 0
+    date "2022-06-30T23:30:09Z"
+    title "Fireside Chat Ep. 244  Dennis Reacts: Overturning Roe v. Wade"
+    description "Watch the full episode of this Fireside Chat with Dennis Prager here: https://www.prageru.com/video/ep-244-dennis-reacts-overturning-roe-v-wade&#10;&#10;In the wake of the Supreme Court's overturning of Roe v. Wade, Dennis discusses what he finds most disturbing about the pro-choice stance and what&#8217;s happened with the left&#8217;s moral compass. He also answers your questions on suffering, meaningful identities, patriotism in America, and the difficult question plaguing young people today: &#8220;What should I do with my life?&#8221; Dennis wishes everyone a happy and meaningful 4th of July!&#10;&#10;#roevwade #abortion #supremecourt &#10;&#10;&#128680;  PragerU is experiencing severe censorship on Big Tech platforms.&#10;&#10;SUBSCRIBE so you never miss a new episode! &#128073;https://www.prageru.com/series/firesi...&#10;&#10;&#128242; Take PragerU videos with you everywhere you go. Download our free mobile app! &#10;Download for Apple iOS &#10145; https://itunes.apple.com/us/app/prage...&#10;Download for Android &#10145; https://play.google.com/store/apps/de...&#10;&#10;&#128243; Join PragerU's text list! https://optin.mobiniti.com/prageru&#10;&#10;&#128293; PRAGERU MERCH! Love PragerU? Visit our store today! &#10145; https://l.prageru.com/3ksxTJM"
+    channeltitle "PragerU"
+    channelid "UCZWlSUNDvCCS1hBiXV0zKcA"
+    favcount 0
+    viewcount 350925
+    likecount 1486
+    commentcount 243
+    duration "PT3M3S"
+    indegree 0
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
     cluster 4
   ]
   node
   [
-    id 460
-    label "HVzG1Va1wI4"
-    step 0
-    date "2022-06-28T19:02:05Z"
-    title "Pro Choice Rally"
-    description "Here's our coverage of a pro-choice protest two days ago in our hometown of Seattle, Washington, just around 48 hours after Supreme Court decided to repeal Roe Vs. Wade, featuring interviews with protestors, a couple pro-lifers, and an old friend. If you enjoyed this video, please support us on Patreon at https://www.patreon.com/channel5. It's what keeps this operation running and keeps us on the road."
-    channeltitle "Channel 5 with Andrew Callaghan"
-    channelid "UC-AQKm7HUNMmxjdS371MSwg"
-    favcount 0
-    viewcount 1900735
-    likecount 115877
-    commentcount 17726
-    duration "PT10M47S"
-    indegree 3
-    cluster 5
-  ]
-  node
-  [
-    id 461
+    id 409
+    name "461"
     label "aa3IH6mjSlo"
     step 0
     date "2022-06-29T15:00:01Z"
@@ -7399,11 +11472,21 @@ graph
     commentcount 1355
     duration "PT12M10S"
     indegree 4
-    cluster 1
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 5
   ]
   node
   [
-    id 462
+    id 410
+    name "462"
     label "aTypFKkUO2Y"
     step 0
     date "2022-06-26T00:15:24Z"
@@ -7417,47 +11500,77 @@ graph
     commentcount 468
     duration "PT1M13S"
     indegree 0
-    cluster 6
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 1
   ]
   node
   [
-    id 464
-    label "jPK1j7utMGQ"
+    id 411
+    name "463"
+    label "M96RzbsLHMo"
     step 0
-    date "2022-06-25T09:13:55Z"
-    title "Do You Really Believe The Supreme Court Ended Roe v Wade To Save Black Children?"
-    description ""
-    channeltitle "African Diaspora News Channel"
-    channelid "UCKZGcrxRAhdUi58Mdr565mw"
+    date "2022-06-22T20:36:41Z"
+    title "Boys Against Abortion Pray for End of Roe v. Wade -- "
+    description "Please defund Planned Parenthood by clicking here: https://tfpstudentaction.org/petitions/defund-planned-parenthood-forever&#10;&#10;The pro-abortion vs pro-life debate is heating up.  In this video, young Catholics pray for the end of abortion and for the reversal of Roe v Wade during the 2022 Call to Chivalry Camp. May God convert our beloved nation and change the hardened hearts of those who claim the mortal sin of abortion is a &#34;choice.&#34;&#10;&#10;#TFPStudentAction #abortion #debate&#10;&#10;Site:  https://www.tfpstudentaction.org/&#10;Instagram: https://www.instagram.com/tfpstudentaction/&#10;Facebook: https://www.facebook.com/TFPStudentAction&#10;Twitter: https://twitter.com/tfpsa"
+    channeltitle "TFP Student Action"
+    channelid "UCTamXcimfIHE7tMBzTRiFKw"
     favcount 0
-    viewcount 2439755
-    likecount 135897
-    commentcount 13003
-    duration "PT1M1S"
-    indegree 0
-    cluster 6
-  ]
-  node
-  [
-    id 466
-    label "qncmTfrtmpU"
-    step 0
-    date "2022-05-03T14:46:58Z"
-    title "The Rights DERANGED Meltdown Over Supreme Court Leak On Roe v Wade"
-    description "Support The Show On Patreon!:&#10;https://www.patreon.com/seculartalk&#10;&#10;Subscribe to Krystal Kyle &#38; Friends On Substack!:&#10;https://krystalkyleandfriends.substack.com&#10;&#10;Follow Kyle on Twitter:&#10;http://www.twitter.com/kylekulinski&#10;&#10;&#34;The first time I ever really listened to Kyle Kulinski&#8217;s show was in the back of a cab last summer. The driver had his phone hooked up through the stereo and was pumping out an episode through the car speakers &#8212; loudly, as if looking to convert a captive audience.&#10;&#10;&#8220;Do you like Kyle Kulinski?&#8221;&#10;&#10;The driver, Ahmed, was a recent immigrant and apparently a die-hard fan of Secular Talk, the political talk show that Kulinski broadcasts on YouTube. I told him, yes, in fact. I do like Kulinski, had come across his show several years ago, and, all things considered, he seemed pretty good.&#10;&#10;&#8220;He understands what we&#8217;re up against,&#8221; Ahmed said. &#8220;Like Bernie.&#8221;&#10;&#10;But I was surprised to hear Kulinski&#8217;s name mentioned in the same breath as Bernie Sanders, particularly with such adoration. Because what I did remember about Kulinski&#8217;s show struck me as mostly capital-P &#8220;progressive&#8221; takes on the news &#8212; the left wing of the Netroots crowd more than the democratic socialism Sanders has popularized.&#10;&#10;It&#8217;s an impression that wasn&#8217;t entirely incorrect.&#10;&#10;&#8220;I have no time for philosophical, airy bullshit,&#8221; Kulinski tells me from his home in Westchester, New York. &#8220;I don&#8217;t want to hear about Lenin. I don&#8217;t want to hear about Marx. I just want a super plainspoken, straightforward agenda with a straightforward way of selling it.&#8221;&#10;&#10;With over 800,000 subscribers and nearly 670 million total views on YouTube, selling a progressive agenda is clearly something Kulinski knows how to do &#8212; even Democracy Now, the long-standing flagship of progressive media, cannot match his reach on the platform. Chapo Trap House can certainly boast a wildly devoted fan base (and a not insignificant degree of media influence), but their audience is roughly half the size of Kulinski&#8217;s.&#10;&#10;While Secular Talk might be more likely to be looped in with the progressive networks around Air America and Pacifica alums like Sam Seder than the more resolutely socialist world, Kulinski&#8217;s fiery rhetoric, razor-sharp class instincts, and knack for withering takedowns sets him apart from his peers. Judging by his rhetoric alone, he&#8217;s closer to a Eugene Debs than a Chris Hayes.&#10;&#10;But unlike Hayes, Amy Goodman, or his friend Cenk Uygur of The Young Turks &#8212; who began airing Secular Talk on his web network seven years ago &#8212; the thirty-two-year-old Kulinski is virtually invisible in the mainstream media. Despite his enormous fan base, his show has never once been mentioned in the obligatory trend pieces on &#8220;the Millennial Left&#8221; pumped out by the prestige media. Nor has Kulinski&#8217;s name ever popped up at all in the New York Times, Vox, the New Yorker, New York Magazine, or the Washington Post, despite his leading role in cofounding Justice Democrats, the organization widely credited with sweeping Alexandria Ocasio-Cortez and the rest of &#8220;the Squad&#8221; to power.&#10;&#10;Just last week, his Wikipedia page was deleted. The reason? &#8220;There is very simply no [reliable source] coverage of this person,&#8221; according to one moderator. In new media, he&#8217;s king &#8212; the Sean Hannity of the Berniecrat left. In old media, he&#8217;s nobody.&#10;&#10;I suspect there are a few reasons for that. There is nothing &#8220;cool&#8221; about Kulinski&#8217;s show. (As a friend put it, &#8220;&#8216;Welcome to Secular Talk&#8217; sounds like something you&#8217;d hear on Egyptian radio.&#8221;) His no-nonsense social-democratic politics won&#8217;t get him much cred with the Full Communism crowd. He records his show not in Brooklyn or Los Angeles, but in a studio he built himself in his modest Westchester home. His hair is too groomed and his taste in clothes too preppy to qualify as &#8220;Dirtbag Left.&#8221; Nor has he ever attended an n+1 release party. &#8220;Not only have I not attended one,&#8221; he says, &#8220;I have no idea what that means.&#8221;&#10;&#10;And yet he&#8217;s astonishingly plugged-in for a young man in the suburbs. Wondering how Sanders ended up on the Joe Rogan Experience? Kulinski, a frequent guest on Rogan&#8217;s wildly popular show, introduced them. &#8220;You make the most sense to me,&#8221; Rogan told Kulinski on a recent episode. &#8220;You&#8217;re a normal person.&#8221;&#10;&#10;Much like Sanders himself, Kulinski&#8217;s show has a massive audience that just doesn&#8217;t compute with our media&#8217;s understanding of &#8220;what the kids want&#8221; or even &#8220;what the left-wing kids want.&#8221;&#10;&#10;It&#8217;s probably for the best &#8212; the very woke and very WASP-ish decorum haunting much of the media world is nowhere to be found in Secular Talk. &#8220;Corporate Democrats over-focus on identity as a trick to divert you from the issues that unite us all &#8212; class issues,&#8221; he said on a recent episode. &#8220;That Raytheon decided they don&#8217;t hate gays or trans people &#8212; frankly, I don&#8217;t really give a shit what their take on that is...&#34;&#10;&#10;Read More Here!:&#10;https://jacobinmag.com/2020/03/kyle-kulinski-bernie-bros-secular-talk-joe-rogan-youtube&#10;&#10;#KyleKulinski #SecularTalk"
-    channeltitle "Secular Talk"
-    channelid "UCldfgbzNILYZA4dmDt4Cd6A"
-    favcount 0
-    viewcount 86959
-    likecount 3880
-    commentcount 1788
-    duration "PT18M23S"
+    viewcount 35997
+    likecount 3417
+    commentcount 734
+    duration "PT4M39S"
     indegree 1
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 1
+  ]
+  node
+  [
+    id 412
+    name "465"
+    label "wMpRTgQeSsg"
+    step 0
+    date "2022-06-29T10:30:12Z"
+    title "DCMWG talks Roe v. Wade, Mario  North Philly Murders + More - Episode 42"
+    description "On this episode DCMWG discusses the crucial overturning of Roe v. Wade by the Supreme Court, Mario &#38; Omarion faced off in the latest Verzuz battle and we got a few more viral moments from it, DCMWG had to reiterate a point she made previously regarding Wendy Williams impact in the gossip game, a man in North Philly murders his gay lover in fear of it coming out publicly, Darkside of the DMs, voicemails &#38; more.&#10;&#10;Get your real life advice from Damona on the show! Dial 267-225-2492 and leave a question for a chance to have your voicemail answered on an episode.&#10;&#10;Filmed on Location: All About It Studio&#10;&#10;Executive Producers for Breakbeat: Dave Mays &#38; Brett Jeffries&#10;&#10;Executive Producer: Don&#8217;t Call Me White Girl&#10;&#10;On Set Producers: Tom Flies &#38; Dre Smith&#10;&#10;IG: @BreakBeatMedia @DontCallMeeWhiteGirl @ItsDreSmith @PhelpsJugo @RhoniCakes @TomFlies @AmerikusNightmare&#10;&#10;Comment &#38; like on the Breakbeat Media YouTube page, subscribe wherever podcasts are available, and visit us at www.breakbeatmedia.com"
+    channeltitle "Breakbeat Media"
+    channelid "UCYbvqjljebwzWVdTb9Fetiw"
+    favcount 0
+    viewcount 78436
+    likecount 3233
+    commentcount 534
+    duration "PT54M50S"
+    indegree 0
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
     cluster 5
   ]
   node
   [
-    id 467
+    id 413
+    name "467"
     label "o1LCKl9iB_o"
     step 0
     date "2022-06-28T14:30:10Z"
@@ -7471,11 +11584,21 @@ graph
     commentcount 1634
     duration "PT19M41S"
     indegree 3
-    cluster 8
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 468
+    id 414
+    name "468"
     label "V5HNH6hMj0c"
     step 0
     date "2022-06-28T17:12:25Z"
@@ -7489,11 +11612,21 @@ graph
     commentcount 905
     duration "PT10M28S"
     indegree 1
-    cluster 1
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 10
   ]
   node
   [
-    id 469
+    id 415
+    name "469"
     label "q21OH-s4TWo"
     step 0
     date "2022-05-12T01:54:35Z"
@@ -7507,11 +11640,21 @@ graph
     commentcount 19
     duration "PT4M22S"
     indegree 0
-    cluster 3
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 470
+    id 416
+    name "470"
     label "vwmBikfg418"
     step 0
     date "2022-07-09T18:48:05Z"
@@ -7525,11 +11668,21 @@ graph
     commentcount 4
     duration "PT6M1S"
     indegree 0
-    cluster 1
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 471
+    id 417
+    name "471"
     label "fu1nYFRmqhQ"
     step 0
     date "2022-06-26T02:00:08Z"
@@ -7543,11 +11696,21 @@ graph
     commentcount 74
     duration "PT56M42S"
     indegree 5
-    cluster 5
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 472
+    id 418
+    name "472"
     label "foM3fn6bYFc"
     step 0
     date "2022-06-26T14:30:07Z"
@@ -7561,11 +11724,21 @@ graph
     commentcount 1118
     duration "PT8M"
     indegree 1
-    cluster 8
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 5
   ]
   node
   [
-    id 473
+    id 419
+    name "473"
     label "GS1pMYq-nvo"
     step 0
     date "2022-06-24T16:16:01Z"
@@ -7579,47 +11752,77 @@ graph
     commentcount 8419
     duration "PT1H3M30S"
     indegree 7
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 10
+  ]
+  node
+  [
+    id 420
+    name "474"
+    label "hlcq7QTOGbo"
+    step 0
+    date "2022-06-27T22:00:17Z"
+    title "Pro Aborts Go On A Sex Strike After Roe Is Overturned (Cancelation)"
+    description "LIKE &#38; SUBSCRIBE for new videos every day.&#160;https://www.youtube.com/c/MattWalsh&#160;&#10;&#10;In the aftermath of Roe v Wade being overturned, pro-abortionists are taking to social media to form their plan to punish conservatives... abstinence.&#10;&#10;Watch the full episode here: https://bit.ly/3QPeH7H&#10;Watch full episodes of The Matt Walsh Show here:&#160;https://bit.ly/3kImEel&#10;&#10;Grab your Daily Wire merch here:&#160;https://utm.io/udZpp&#10;&#10;All the cool kids have newsletters, so I made one too. Sign up to get it every Friday here. Click here:&#160;http://www.mattwalshreport.com/&#10;&#10;Become a Daily Wire Member today to gain access to exclusive content:&#160;https://utm.io/ud1Bz&#10;&#10;Grab your copy of Johnny the Walrus before it&#8217;s banned:&#160;https://utm.io/ud1Ca&#160;&#10;#TheMattWalshShow #News #Politics #DailyWire"
+    channeltitle "Matt Walsh"
+    channelid "UCO01ytfzgXYy4glnPJm4PPQ"
+    favcount 0
+    viewcount 258959
+    likecount 20776
+    commentcount 6182
+    duration "PT10M21S"
+    indegree 1
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
     cluster 5
   ]
   node
   [
-    id 475
-    label "kkodbYJamAI"
+    id 421
+    name "476"
+    label "mrRVoVN3ljI"
     step 0
-    date "2022-06-28T22:00:11Z"
-    title "Evangelicals Shameful Response to Roe v Wade | Ep 634"
-    description "Today we're continuing our discussion on the landmark decision by the Supreme Court to overturn Roe v. Wade and Planned Parenthood v. Casey. In the wake of this historic event, there is a torrent of misinformation about the issue flying around the internet. The most common lie being told by the Left seems to be that outlawing abortion also outlaws procedures to deal with miscarriages and ectopic pregnancies. We thoroughly debunk that narrative, then discuss the many &#34;trigger laws&#34; that are springing into effect in many states. These laws were designed to take effect if and when Roe was overturned and are meant to restrict abortion in the states where they're on the books. We discuss some of the false information circulating about these laws and read some of what they actually say. Lastly, we have a strong message for the evangelicals who are either angry about the Dobbs decision or who are happy about it but won't say so publicly.&#10;&#10;#RoevWade #Politics #Theology&#10;&#10;---&#10;&#10;Timecodes: &#10;&#10;00:00 | Introduction&#10;04:58 | Debunking some viral posts &#38; propaganda&#10;20:11 | Looking at 'Trigger Laws' in different states&#10;30:20 Popular evangelicals &#38; their disappointing response to Roe being overturned&#10;&#10;---&#10;&#10;Today's Sponsors: &#10;&#10;EdenPURE is having their famous BOGO free deal on Thunderstorm air purifiers for one week only! Go to https://EdenPureDeals.com &#38; use discount code 'ALLIEBOGO' to get your second air purifier free, plus free shipping.&#10;&#10;Birch Gold helps convert an IRA or 401(k) into an IRA in gold &#38; silver. Text 'ALLIE' to 989898 to get started!&#10;&#10;Good Ranchers is an award-winning subscription company that delivers American meat to your door. Try it with a one-time purchase or subscribe &#38; get 25% off every box for the life of your subscription! Plus, right now get two free 18-oz prime ribeyes with promo code 'ALLIE' at checkout on https://GoodRanchers.com/ALLIE.&#10;&#10;Carly Jean Los Angeles provides clothing that is effortless, easy, &#38; flattering on any shape, size, age, or season. Visit https://CarlyJeanLosAngeles.com &#38; use promo code 'ALLIEB' to save 20% off your first order.&#10;&#10;---&#10;&#10;Previous Episodes Mentioned: &#10;&#10;Ep 633: GOODBYE, ROE V. WADE https://apple.co/3a3e5uM&#10;&#10;Ep 527: Healing From Abortion &#38; Using Your Story for Good | Guest: Victoria Robinson https://apple.co/3y129Sf&#10;&#10;&#9658; Buy Allie's book, &#34;You're Not Enough (&#38; That's Okay): Escaping the Toxic Culture of Self-Love&#34;: https://alliebethstuckey.com/book&#10;&#10;&#9658; Subscribe to the podcast:&#10;iTunes: https://apple.co/2UVssnP&#10;Spotify: https://spoti.fi/2FwkXxj&#10;Google Play: http://bit.ly/2HJ3CVu&#10;&#10;&#9658; Connect with Allie on Social Media: &#10;https://twitter.com/conservmillen&#10;https://www.instagram.com/alliebstuckey/&#10;https://facebook.com/allieBlazeTV/&#10;&#10;&#9658; &#34;Relatable&#34; merchandise: https://shop.blazemedia.com/collections/allie-stuckey&#10;&#10;Evangelicals&#8217; Shameful Response to Roe v Wade | Ep 634"
-    channeltitle "Allie Beth Stuckey"
-    channelid "UCx_2Vso6Qz76n-w5KV8DZcA"
+    date "2022-05-04T20:04:25Z"
+    title "Jen Psaki on Roe V WADE Press Briefing May 4th"
+    description "Jen Psaki on Roe V WADE Press Briefing May 4th&#10;https://youtu.be/mrRVoVN3ljI"
+    channeltitle "Tony Dortie - 24/7 Eyes"
+    channelid "UCRPdcY4_Al8TrRtgkMzkrQQ"
     favcount 0
-    viewcount 102235
-    likecount 4395
-    commentcount 833
-    duration "PT58M10S"
-    indegree 8
-    cluster 2
+    viewcount 349
+    likecount 19
+    commentcount 6
+    duration "PT6M14S"
+    indegree 0
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 5
   ]
   node
   [
-    id 477
-    label "rUN2Z6am1vE"
-    step 0
-    date "2022-07-04T23:30:58Z"
-    title "WOKE Queer Employee FIRED After REFUSING To Work In Protest Of Roe V Wade Being Overturned!"
-    description "&#11088; Wooden American Star: &#10;https://bridgethegapshop.com/discount/GFOREMANBCP&#10;&#128085;Merch: https://gforemanbcp.com/&#10;&#129305;&#127998; Patreon: https://www.patreon.com/blackconservativeperspective&#10;&#128074;Paypal: https://paypal.me/GregoryForeman?locale.x=en_US&#10;&#128184;Cash App: $gforemanbcp&#10;&#127939;&#8205;&#9794;&#65039;Follow me on Twitter: https://twitter.com/gforemanBCP @gforemanBCP&#10;&#128247; Follow me on Instagram: https://www.instagram.com/gforemanbcp/&#10;&#128188; My Start Up: https://oshyhome.com&#10;&#10;A woke Universal Music Group worker claims he was fired for &#8220;speaking up&#8221; about abortion rights &#8212; after he admitted he refused to work because he was in &#8220;mourning&#8221; over the Supreme Court&#8217;s decision to overturn Roe v. Wade.&#10;&#10;Michael Lopez, a production coordinator at Universal Music Enterprises, blasted the company as &#8220;anti-gay&#8221; for terminating a &#8220;queer brown person&#8221; during Pride Month for &#8220;speaking up in defense of abortion rights,&#8221; according to a lengthy note on LinkedIn that went viral last week.&#10;&#10;https://nypost.com/2022/07/04/employee-who-refused-to-work-while-mourning-roe-v-wade-fired/&#10;&#10;Legal Disclosure: I&#8217;m not a financial advisor. The information contained in this video is for entertainment purposes only. Before investing, please consult a licensed professional. Any stock purchases I show on video should not be considered &#8220;investment recommendations&#8221;. I shall not be held liable for any losses you may incur for investing and trading in the stock market in an attempt to mirror what I do. Investments may decline in value and/or disappear entirely. Please be careful!"
-    channeltitle "Black Conservative Perspective"
-    channelid "UCKkW8kJRYo0GXd1asPX3Z9Q"
-    favcount 0
-    viewcount 81917
-    likecount 8960
-    commentcount 1550
-    duration "PT11M24S"
-    indegree 1
-    cluster 2
-  ]
-  node
-  [
-    id 478
+    id 422
+    name "478"
     label "RgiA-k9RyIo"
     step 0
     date "2022-06-25T13:00:43Z"
@@ -7633,65 +11836,105 @@ graph
     commentcount 31
     duration "PT11H54M56S"
     indegree 3
-    cluster 4
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 481
-    label "glHdJnCGPKM"
+    id 423
+    name "479"
+    label "uM-xfEMq0PQ"
     step 0
-    date "2022-05-03T03:16:29Z"
-    title "305 - Roe v. Wade Dies So Babies May Live"
-    description "In this episode, Kyle gives his immediate reaction to the breaking news from Politico that the Supreme Court of the United States is set to overturn Roe v. Wade. Let&#8217;s get into it&#8230;"
-    channeltitle "Undaunted.Life: A Man's Podcast"
-    channelid "UCrOf6-WciHB1KOb6Q30Rd2w"
+    date "2022-07-07T19:32:22Z"
+    title "Roe VS Wade | Dr. Gene Kim (UC Berkeley  PBI)"
+    description "Hi, I'm Dr. Gene Kim (UC Berkeley &#38; PBI). I am the pastor of Bible Baptist Church in both the Silicon Valley and San Francisco Bay Area. My channel publishes videos that focus on wrong doctrines, dispensationalism, end times and KJV as the only word of God. If that sounds like it could be helpful for you, please subscribe! &#10;&#10;&#9654; RBB CONNECT: https://connect.realbiblebelievers.com/&#10;&#9654; RUMBLE: https://rumble.com/c/REALBibleBelievers&#10;&#9654; SERMON AUDIO: https://www.sermonaudio.com/source_detail.asp?sourceid=sjbbc&#10;&#9654; PAYPAL: https://www.paypal.com/donate/?cmd=_s-xclick&#38;hosted_button_id=5RYD8UJDLPXXQ&#38;source=url&#10;&#9654; AMAZON BOOK: https://www.amazon.com/Amazing-Dispensationalism-Genesis-Revelation-Christians-ebook/dp/B08VGDV6WB &#10;&#9654; WEB &#38; RESOURCES: https://realbiblebelievers.com/resources&#10;&#9654; SOCIAL MEDIA&#10;     *Facebook: https://www.facebook.com/RBibleBelievers &#10;     *Instagram: http://instagram.com/real_bible_believer&#10;     *Twitter: https://twitter.com/RBiblebeliever &#10;&#9654; PODCASTS&#10;    *APPLE: https://podcasts.apple.com/us/podcast/real-bible-believers-sermons/id1525267016&#10;    *SPOTIFY: https://open.spotify.com/show/7GONyStBFA7kPxfpHc0zaW&#10;    *LISTEN NOTES: https://www.listennotes.com/podcasts/real-bible-believers-sermons-real-bible-yWjZpN_S1gi/&#10;    *ANCHOR: https://anchor.fm/realbiblebelievers    &#10;    *GOOGLE PODCASTS:&#10;https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8yZTExNmE3NC9wb2RjYXN0L3Jzcw==&#10;&#10;Visit the Real Bible Believers website to learn more:  https://www.realbiblebelievers.com/&#10;&#10;&#9654; Watch Our Latest YouTube Video: https://ltstyt.be/444 &#10;&#10;Pastor Gene Kim &#10;Bible Baptist Church&#10;PO Box 97&#10;Santa Clara, CA 95050&#10;(408) 712-8001&#10;email: sjbbc@bbcinternational.org&#10;*Please call or email for directions and service hours. If you like to donate, please mail it to the address above or click on PayPal in the links above.&#10;&#10;#BaptistChurch #Dispensationalism #KJVOnly #Biblebeliever #Endtimes"
+    channeltitle "REAL Bible Believers"
+    channelid "UCPCDmYOJJ08h-pG8J2iMDjA"
     favcount 0
-    viewcount 631
-    likecount 41
-    commentcount 6
-    duration "PT16M24S"
+    viewcount 36840
+    likecount 1979
+    commentcount 206
+    duration "PT1H4M19S"
     indegree 0
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 5
+  ]
+  node
+  [
+    id 424
+    name "482"
+    label "8i2cqkGcVfU"
+    step 0
+    date "2022-05-05T09:20:11Z"
+    title "Heres what black people think about Roe v Wade"
+    description "This is an all-black news and commentary channel that features a number of African American thinkers, commentators and speakers.  The views of each video are not necessarily representative of those of Dr Boyce Watkins himself.  &#10;&#10;You can follow Dr Watkins at the links below: &#10;&#10;Instagram:  @TheRealBoyceWatkins&#10;Twitter:  @DrBoyceWatkins1&#10;Via Text:  Text the word Boyce to 31996&#10;Youtube:  Youtube.com/DrBoyceWatkins&#10;To learn how to start your own business:  TheBlackBusinessSchool.com&#10;Personal website:  BoyceWatkins.com &#10;The Dr Boyce Watkins Wealth-building program for children:  BlackMillionairesOfTomorrow.com&#10;To take my online course:  TheBlackStockMarketProgram.com&#10;The Dr Boyce Watkins podcast on Soundcloud:  https://soundcloud.com/boyce-watkins&#10;To buy Dr Boyce books:  DrBoyceBooks.com"
+    channeltitle "Black Excellence, Black Wealth, Black Power "
+    channelid "UCQcPBLsq9rRc5TxDqSz_Dog"
+    favcount 0
+    viewcount 3170
+    likecount 220
+    commentcount 53
+    duration "PT39M14S"
+    indegree 0
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
     cluster 3
   ]
   node
   [
-    id 483
-    label "80WodUaF_rI"
+    id 425
+    name "484"
+    label "Lvc2g0B23hA"
     step 0
-    date "2022-06-30T01:51:32Z"
-    title "Dr Claud Anderson speaks on Roe Vs Wade"
-    description "Dr Boyce Watkins is a Finance PhD and founder of The Black Business School.  He is also author of several books, including &#34;Financial Lovemaking&#34; and &#34;What if George Bush were a Black Man?&#34; among others. &#10;&#10;Black Wealth is his obsession and he has spent 30 years teaching wealth-related concepts to students at Syracuse University, The Ohio State University, Indiana University and even in China, Europe and Africa as well. &#10;&#10;You can learn more about The Black Business School by visiting http://TheBlackBusinessSchool.com.  You can learn more about the Dr Boyce Watkins Black Stock Market Program by visiting http://TheBlackStockMarketProgram.com."
-    channeltitle "Boyce Watkins"
-    channelid "UCL4_CBrpbcbbkiQ_isN7dcw"
+    date "2022-06-25T22:22:36Z"
+    title "El FIN de ROE vs. WADE: duro golp3 al ab0rt0 en EEUU | Agustn Laje"
+    description "Este video ha sido subido el d&#237;a de ayer, pero por un extra&#241;o error de &#34;verificaci&#243;n&#34; de YouTube, reci&#233;n puede ser publicado hoy.&#10;Adem&#225;s, YouTube ha DESMONETIZADO este video, sancion&#225;ndolo as&#237; econ&#243;micamente.&#10;Si desean apoyar econ&#243;micamente este esfuerzo, pueden hacerlo uni&#233;ndose a mi comunidad de YouTube a trav&#233;s del siguiente link:&#10;https://www.youtube.com/channel/UCJKjzEoy91UYS-bZLc4CLCQ/join&#10;&#10;O tambi&#233;n, sum&#225;ndose a la comunidad de Patreon en este link: https://www.patreon.com/join/agustinlaje&#10;&#10;Muchas gracias a todos por la difusi&#243;n!!!&#10;&#10;&#10;------------------------------------&#10;&#10;Gracias especialmente a:&#10;Avilix G&#243;mez&#10;Andr&#233;s Descalzo&#10;Maximiliano Lorenzo&#10;Sergio Contreras Sustaita&#10;Rodrigo Boronat&#10;Andr&#233; Suastes Rodr&#237;guez&#10;Magdalena Quintero&#10;Pablo Cesar Pagano&#10;Pablo Luis Romero&#10;Ludmila Yamile Rossi Soria&#10;Orlando Feregrino&#10;Mat&#237;as Contreras&#10;Luis Barrientos Rom&#225;n&#10;Eugenia Ara&#250;z&#10;Yoloxochitl Topete&#10;Lizbeth Dony Rios Cabello&#10;Mario Alex Orrego Baluarte&#10;Jes&#250;s Cabrera&#10;Cristian Herrera&#10;Van der Jorge&#10;Octavius Veloz Rodr&#237;guez&#10;Pablo C&#243;rdova&#10;Carolina Avila&#10;Juani Diaz Bengolea&#10;Bruno J. Di Grigoli&#10;Marielle Guerrero Villanueva&#10;Diego Gaona&#10;Edimar Gonzaga Meza&#10;Fabricio Calvo&#10;Gibran Machuca&#10;Eduardo S&#225;nchez&#10;Oth&#243;n Cruz Heras&#10;Edgar Jos&#233; Contreras Cabrera&#10;Himayrob Rojas&#10;Rafael Elizondo&#10;Mar&#237;a de los Angeles Aguilar Calder&#243;n&#10;Danilo Verdugo Chaura&#10;Edgar Hornus&#10;Esteban Azofeifa&#10;Jose Antonio Paredes Olivares&#10;Ana Rosario&#10;Noelia Romero&#10;Edison Cubas&#10;Gilfer Vasquez&#10;Santiago Castro&#10;John Delgado&#10;Carlos Luis Villalobos Mu&#241;oz&#10;Daniel D'Unian Lara&#10;M&#225;ximo Flores&#10;C&#233;sar Santamaria&#10;Daniel D'Unian Lara&#10;Rossmery Saenz&#10;Pablo Iocco &#10;Matiwook&#10;Rosa Valdez&#10;Martin Orlando Lim&#243;n Cabanillas&#10;Luz Maria Almonte&#10;Pablo L&#243;pez Peligros&#10;Fernando San Crist&#243;bal Brahm&#10;David.N.Metal&#10;Carlos Andr&#233;s Aza Murcia&#10;Luis Ignacio Mateo&#10;Max Alex Munguia Roca&#10;Alvaro Sebas Lescano Vera&#10;Daniel Reategui&#10;David Alejandro Garc&#237;a Garc&#237;a&#10;Re Caliente Bo&#10;Jorge Pena&#10;Marco Cadena&#10;Roc&#237;o C.&#10;Claudio Arroyo&#10;Prof. Rafael Alejandro Rosario Rivera"
+    channeltitle "Agust&#237;n Laje Arrigoni"
+    channelid "UCJKjzEoy91UYS-bZLc4CLCQ"
     favcount 0
-    viewcount 114814
-    likecount 6006
-    commentcount 758
-    duration "PT1H13M4S"
-    indegree 4
-    cluster 8
+    viewcount 281470
+    likecount 35596
+    commentcount 2333
+    duration "PT13M45S"
+    indegree 0
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 10
   ]
   node
   [
-    id 485
-    label "gQPv2eDaQDc"
-    step 0
-    date "2022-07-10T22:19:52Z"
-    title "Roe v. Wade being overturned @monisvida"
-    description "Gurl Powerful Shorts #shorts #roevwade #roevwadeoverturned #prochoice #prolife #abortion #abortionrights #womensrights #empowerment #girlpowerful #gurlpowerful #girlpower #AMSR #supremecourtruling #powerfulwomen #successfulwoman #celebrityactivist #activist #teens #mindset #birthcontrol #birthcontrolrights"
-    channeltitle "Gurl Powerful"
-    channelid "UC3YZrs-MCDL_LucoOgr6ZxA"
-    favcount 0
-    viewcount 6676
-    likecount 1087
-    commentcount 29
-    duration "PT8S"
-    indegree 1
-    cluster 4
-  ]
-  node
-  [
-    id 486
+    id 426
+    name "486"
     label "uwh0hvA-cI8"
     step 0
     date "2022-07-02T22:21:00Z"
@@ -7705,11 +11948,21 @@ graph
     commentcount 852
     duration "PT2H32M3S"
     indegree 0
-    cluster 2
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 487
+    id 427
+    name "487"
     label "C0Afi3qlDUU"
     step 0
     date "2022-06-24T18:00:05Z"
@@ -7723,11 +11976,21 @@ graph
     commentcount 1961
     duration "PT12M44S"
     indegree 2
-    cluster 4
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 5
   ]
   node
   [
-    id 488
+    id 428
+    name "488"
     label "vF3c9dSisAg"
     step 0
     date "2022-06-25T12:00:38Z"
@@ -7741,29 +12004,49 @@ graph
     commentcount 10627
     duration "PT5M15S"
     indegree 7
-    cluster 6
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 491
-    label "OfWBXJglhvU"
+    id 429
+    name "489"
+    label "t_KcVxgK8mE"
     step 0
-    date "2022-06-24T19:27:34Z"
-    title "Supreme Court OVERTURNS Roe v. Wade  Alexandria Ocasio-Cortez Goes INSANE While Disney Responds!"
-    description "The #1 Way To Support This Channel Is Backing Me On SubscribeStar&#10;https://www.subscribestar.com/thequartering&#10;&#10;Become A Youtube Member! It's The #2 BEST Way To Support!&#10;https://www.youtube.com/channel/UCfwE_ODI1YTbdjkzuSi1Nag/join&#10;&#10;All My Socials, Guilded Chatroom &#38; More&#10;https://linktr.ee/thequartering"
-    channeltitle "TheQuartering"
-    channelid "UCfwE_ODI1YTbdjkzuSi1Nag"
+    date "2022-07-09T23:04:37Z"
+    title "#roevwade @findingalison"
+    description "Gurl Powerful Shorts #shorts #roevwade #roevwadeoverturned #prochoice #prolife #abortion #abortionrights #womensrights #empowerment #girlpowerful #gurlpowerful #girlpower #AMSR #supremecourtruling #powerfulwomen #successfulwoman #celebrityactivist #activist #teens #mindset"
+    channeltitle "Gurl Powerful"
+    channelid "UC3YZrs-MCDL_LucoOgr6ZxA"
     favcount 0
-    viewcount 129972
-    likecount 11014
-    commentcount 3765
-    duration "PT12M50S"
+    viewcount 14605
+    likecount 1867
+    commentcount 87
+    duration "PT11S"
     indegree 0
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
     cluster 6
   ]
   node
   [
-    id 492
+    id 430
+    name "492"
     label "vxgzN_1BIc0"
     step 0
     date "2022-07-01T15:40:04Z"
@@ -7777,11 +12060,21 @@ graph
     commentcount 2966
     duration "PT23M37S"
     indegree 3
-    cluster 2
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 6
   ]
   node
   [
-    id 493
+    id 431
+    name "493"
     label "-DBQUIbI0ig"
     step 0
     date "2022-07-06T17:01:16Z"
@@ -7795,29 +12088,49 @@ graph
     commentcount 209
     duration "PT8M40S"
     indegree 1
-    cluster 6
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 5
   ]
   node
   [
-    id 497
-    label "oJU5Vyr1cAw"
+    id 432
+    name "494"
+    label "_hneDT_pjY0"
     step 0
-    date "2022-07-10T19:45:28Z"
-    title "Supreme Court overturns Roe v. Wade - The Podcases"
-    description "Hello Everyone! Welcome back to our YouTube channel. In this video, the Podcases discuss Supreme Court overturns Roe v. Wade.&#10;&#10;We hope you guys enjoy this video. If you love the video, please make sure to like and subscribe to our channel and ring the notification bell &#128276; so you won't miss our new videos. Don&#8217;t forget to share with your friends and family. We would love to hear your opinions, comment down below. Thanks for watching.&#10;&#10;&#128071;SUBSCRIBE HERE &#38; TAP THE NOTIFICATION &#128276; SO YOU NEVER MISS AN EPISODE!&#10;https://www.youtube.com/ThePodcases?s...&#10;&#10;&#127916;CHECK OUT OUR OTHER PODCAST HIGHLIGHTS:&#128071;&#10;&#10149;https://youtu.be/Maal2bqeLGM&#10;&#10149;https://youtu.be/_SbzZjEMNmc&#10;&#10149;https://youtu.be/zXDtXGe-TXQ&#10;&#10;Welcome to the Podcases. A unique no-holds-barred weekly video podcast. Podcases is the ultimate no-topic show. From adultery to zeal, the Podcases podcast is jam-packed with entertaining discussions on every hot topic. Get ready for interactive, opinionated-facts reviews of some of the most provocative, enthralling, and thought-provoking topics. The Podcases offer a unique form of ignore-tainment.&#10;&#10;You think it, Podcases will discuss it!&#10;&#10;Video Topics:&#10;Roe v. Wade&#10;Supreme Court - The Podcases&#10;The Podcases Discussion 2022&#10;Podcases Discuss&#10;&#10;&#9728;Relevant Hashtags:&#10;#roe  #supremecourt  #new   #funnyvideo   #videos #livestream #news   #viralvideo  #thepodcases #funnyvideos  #podcases #podcast #podcasesdiscussion #podcasesdiscuss"
-    channeltitle "The Podcases"
-    channelid "UC4l6DSCRuydJlgD2wZecbyw"
+    date "2022-06-28T17:28:23Z"
+    title "Dems Immediately Fundraise Off Roe v Wade  Get Called Out!"
+    description "Become a Premium Member: https://jimmydorecomedy.com/join&#10;Go to a Live Show: https://jimmydorecomedy.com/tour &#10;Subscribe to Our Newsletter: https://mailchi.mp/jimmydorecomedy/ytlivestreams&#10;The Jimmy Dore Show Website:  https://jimmydorecomedy.com/&#10; &#10;LIVESTREAM &#38; LIVE SHOW ANNOUNCEMENTS: &#10;Join the Email list:  https://mailchi.mp/jimmydorecomedy/ytlivestreams&#10;Twitter: https://twitter.com/jimmy_dore&#10;Facebook:  https://www.facebook.com/JimmyDoreShow&#10;Instagram: https://www.instagram.com/thejimmydoreshow&#10; &#10;WATCH / LISTEN FREE:&#10;Videos: https://jimmydorecomedy.com/watch &#10;&#10;Podcasts: https://jimmydorecomedy.com/podcasts &#10;(Also available on iTunes, Apple Podcasts, Spotify, Google Podcasts, or your favorite podcast player.)&#10; &#10;ACCESS TO FULL REPLAYABLE LIVESTREAMS:&#10;Become a Premium Member: https://jimmydorecomedy.com/join&#10;&#10;SUPPORT THE JIMMY DORE SHOW:&#10;Make a Donation:  https://jimmydorecomedy.com/donate&#10;Buy Official Merch (Tees, Sweatshirts, Hats, Bags):  https://jimmydorecomedy.com/store&#10; &#10;DOWNLOAD OUR MOBILE APP:&#10;App Store: https://apps.apple.com/us/app/jimmy-dore/id839294547&#10;Google Play: https://play.google.com/store/apps/details?id=com.jimmydore.jimmydore&#10;&#10;Jimmy Dore on Twitter: https://twitter.com/Jimmy_Dore&#10;Stef Zamorano on Twitter: https://twitter.com/miserablelib&#10;&#10;About The Jimmy Dore Show:&#10;#TheJimmyDoreShow is a hilarious and irreverent take on news, politics and culture featuring Jimmy Dore, a professional stand up comedian, author and podcaster. The show is also broadcast on Pacifica Radio Network stations throughout the country."
+    channeltitle "The Jimmy Dore Show"
+    channelid "UC3M7l8ved_rYQ45AVzS0RGA"
     favcount 0
-    viewcount 0
-    likecount 4
-    commentcount 1
-    duration "PT8M32S"
-    indegree 0
-    cluster 4
+    viewcount 106717
+    likecount 8532
+    commentcount 1229
+    duration "PT6M32S"
+    indegree 3
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 1
   ]
   node
   [
-    id 498
+    id 433
+    name "498"
     label "9OsI8RZDIiQ"
     step 0
     date "2022-06-25T14:35:36Z"
@@ -7831,11 +12144,21 @@ graph
     commentcount 4990
     duration "PT13M21S"
     indegree 6
-    cluster 2
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 499
+    id 434
+    name "499"
     label "sUs5aDc-aDQ"
     step 0
     date "2022-06-25T12:00:38Z"
@@ -7849,11 +12172,21 @@ graph
     commentcount 476
     duration "PT6M52S"
     indegree 0
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
     cluster 2
   ]
   node
   [
-    id 500
+    id 435
+    name "500"
     label "gHb9JGYbLqU"
     step 0
     date "2022-06-28T22:30:06Z"
@@ -7867,11 +12200,21 @@ graph
     commentcount 3182
     duration "PT11M50S"
     indegree 2
-    cluster 6
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 5
   ]
   node
   [
-    id 501
+    id 436
+    name "501"
     label "1qnPU5vEQRY"
     step 0
     date "2022-06-28T16:25:25Z"
@@ -7885,11 +12228,21 @@ graph
     commentcount 2398
     duration "PT12M15S"
     indegree 5
-    cluster 2
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 5
   ]
   node
   [
-    id 502
+    id 437
+    name "502"
     label "2iQas3JPVUE"
     step 0
     date "2022-07-10T20:33:47Z"
@@ -7903,11 +12256,21 @@ graph
     commentcount 0
     duration "PT2H21S"
     indegree 0
-    cluster 3
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 8
   ]
   node
   [
-    id 503
+    id 438
+    name "503"
     label "cvPV-K8wNsM"
     step 0
     date "2022-06-24T18:46:43Z"
@@ -7921,47 +12284,77 @@ graph
     commentcount 8022
     duration "PT57M8S"
     indegree 13
-    cluster 4
-  ]
-  node
-  [
-    id 505
-    label "DCfHGW8Iwq0"
-    step 0
-    date "2022-06-30T17:39:38Z"
-    title "Kamala Harris Stunningly Inept Response To Roe v Wade Question"
-    description "Become a Premium Member: https://jimmydorecomedy.com/join&#10;Go to a Live Show: https://jimmydorecomedy.com/tour &#10;Subscribe to Our Newsletter: https://mailchi.mp/jimmydorecomedy/ytlivestreams&#10;The Jimmy Dore Show Website:  https://jimmydorecomedy.com/&#10; &#10;LIVESTREAM &#38; LIVE SHOW ANNOUNCEMENTS: &#10;Join the Email list:  https://mailchi.mp/jimmydorecomedy/ytlivestreams&#10;Twitter: https://twitter.com/jimmy_dore&#10;Facebook:  https://www.facebook.com/JimmyDoreShow&#10;Instagram: https://www.instagram.com/thejimmydoreshow&#10; &#10;WATCH / LISTEN FREE:&#10;Videos: https://jimmydorecomedy.com/watch &#10;&#10;Podcasts: https://jimmydorecomedy.com/podcasts &#10;(Also available on iTunes, Apple Podcasts, Spotify, Google Podcasts, or your favorite podcast player.)&#10; &#10;ACCESS TO FULL REPLAYABLE LIVESTREAMS:&#10;Become a Premium Member: https://jimmydorecomedy.com/join&#10;&#10;SUPPORT THE JIMMY DORE SHOW:&#10;Make a Donation:  https://jimmydorecomedy.com/donate&#10;Buy Official Merch (Tees, Sweatshirts, Hats, Bags):  https://jimmydorecomedy.com/store&#10; &#10;DOWNLOAD OUR MOBILE APP:&#10;App Store: https://apps.apple.com/us/app/jimmy-dore/id839294547&#10;Google Play: https://play.google.com/store/apps/details?id=com.jimmydore.jimmydore&#10;&#10;Jimmy Dore on Twitter: https://twitter.com/Jimmy_Dore&#10;Stef Zamorano on Twitter: https://twitter.com/miserablelib&#10;&#10;About The Jimmy Dore Show:&#10;#TheJimmyDoreShow is a hilarious and irreverent take on news, politics and culture featuring Jimmy Dore, a professional stand up comedian, author and podcaster. The show is also broadcast on Pacifica Radio Network stations throughout the country."
-    channeltitle "The Jimmy Dore Show"
-    channelid "UC3M7l8ved_rYQ45AVzS0RGA"
-    favcount 0
-    viewcount 149612
-    likecount 9985
-    commentcount 2398
-    duration "PT8M10S"
-    indegree 5
-    cluster 2
-  ]
-  node
-  [
-    id 507
-    label "C0Nvcua4U4w"
-    step 0
-    date "2022-07-10T21:32:02Z"
-    title "Roe v. Wade Overturned Explanation  Divisive Rhetoric"
-    description "The Supreme Court overturned Roe v. Wade last month, ending the United States' federal abortion policies and returning this issue to the control of the states.  In this video I explain what the Supreme Court's ruling means for Americans.  I also discuss the misinformation, violence, and toxic, divisive rhetoric that has emerged in response to this ruling.  This is not the proper way to handle a situation like this in a democratic republic, and the unrealistic suggestions for fixing this problem are not helpful or productive either.  I end by going over the method I think will be most effective in returning abortion law to the federal government.&#10;&#10;Timestamps:&#10;0:00 - Intro&#10;2:39 - Clearing Up Misinformation&#10;7:36 - Divisive &#38; Unhelpful Reactions&#10;13:02 - Legitimacy of Supreme Court&#10;19:12 - The Solution&#10;27:50 - Outro&#10;&#10;Links&#10;Subscribe to my channel: https://www.youtube.com/channel/UCFrvSQzulXjUXE_aEiYAsbw&#10;Follow us on Twitter: https://twitter.com/Jeff_Centrist&#10;&#10;#roevwade #supremecourt &#10;4K video | pro-choice vs pro-life"
-    channeltitle "The Centrist"
-    channelid "UCFrvSQzulXjUXE_aEiYAsbw"
-    favcount 0
-    viewcount 77
-    likecount 13
-    commentcount 5
-    duration "PT29M52S"
-    indegree 0
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
     cluster 3
   ]
   node
   [
-    id 508
+    id 439
+    name "504"
+    label "GGz1v65mwHg"
+    step 0
+    date "2022-07-07T23:00:11Z"
+    title "The Supreme Court Overturns Roe vs Wade | Citizens of Atlanta Sound off"
+    description "#RoevWade #SCOTUS #Abortion #PlannedParenthood"
+    channeltitle "ProphesyAgainTV"
+    channelid "UCo7QR7fmX24_uxcFJ6fSdNA"
+    favcount 0
+    viewcount 5573
+    likecount 370
+    commentcount 52
+    duration "PT20M32S"
+    indegree 0
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 4
+  ]
+  node
+  [
+    id 440
+    name "506"
+    label "kFc_hFph1n8"
+    step 0
+    date "2022-07-10T23:24:56Z"
+    title "Roe v. Wade overturned! Prophetic meaning and consequences for Seventh-day Adventists"
+    description "&#8220;it&#8217;s a sad day&#8221; Adventist pastor tells news on overturning of Roe https://www.kuow.org/stories/it-s-a-sad-day-seattle-pastor-on-the-overturning-of-roe-v-wade Audio interview here https://www.kuow.org/stories/leaning-towards-freedom-a-faith-leader-on-the-reversal-of-roe&#10;Conscience and Justice Council, GC legal counsel Todd McFarland around 39:20 here https://youtu.be/NuxVv-VxlBc?t=2336 &#10;Supreme Court decision https://www.supremecourt.gov/opinions/21pdf/19-1392_6j37.pdf&#10;Abortion: history of Adventist guidelines&#34; 1991 Ministry magazine article by George Gainer: https://www.ministrymagazine.org/archive/1991/08/abortion-history-of-adventist-guidelines &#10;Download full unabridged Loma Linda Research paper by Gainer here: http://bit.ly/395TC2q &#10;Who is Prolife Andrew? What is this channel about? https://youtu.be/F6UhzY86sx0&#10;ChristianityToday magazine blasts Adventist church hypocrisy for honoring abortionist:&#10;https://www.christianitytoday.com/news/2013/february/adventist-university-names-new-center-for-alleged.html&#10;PRO-WHAT? Seventh-day Adventists and Abortion Research paper by Dr. Ronald Lawson Presented at the Meeting of the Society for the Scientific Study of Religion https://ronaldlawson.net/2018/05/02/pro-what-seventh-day-adventists-and-abortion/&#10;Edward Allred documentation https://bit.ly/edallred&#10;Washington Post highlights hypocrisy: Seventh-Day Adventists and abortion https://web.archive.org/web/20110127042918/onfaith.washingtonpost.com/onfaith/undergod/2011/01/adventists_and_abortion.html&#10;Comparing Catholic vs. Seventh-day Adventist official teachings on Abortion https://youtu.be/Uc575IozIUc &#10;Pew Research, Adventist Support for Abortion http://pewrsr.ch/39IwmKY&#10;Contact me: http://bit.ly/2SZUFeV &#10;Abortion Opponents Picket Two Hospitals&#10;https://www.washingtonpost.com/archive/politics/1985/10/06/abortion-opponents-picket-two-hospitals/8ff8a71d-ac76-4b2d-8402-7e18fc232615/&#10;Seventh-day Adventists argue before Supreme Court abortion religious freedom&#10;https://youtu.be/eSjzaUORQaU and download link here https://bit.ly/ScotusBriefAdventistAbortion&#10;Adventist Pioneers on Abortion: https://bit.ly/2zyr7xG &#10;Adventist church members offer $2,000,000 to President Ted Wilson for Missing Bible Text https://youtu.be/OVhAsw2aVbM &#10;Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for fair use for purposes such as criticism, comment, news reporting, teaching, scholarship, and research"
+    channeltitle "Prolife Andrew"
+    channelid "UC90XRZEh9ril4C3zIflEFoA"
+    favcount 0
+    viewcount 211
+    likecount 36
+    commentcount 8
+    duration "PT28M59S"
+    indegree 0
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 8
+  ]
+  node
+  [
+    id 441
+    name "508"
     label "w2rhyRQ5_zA"
     step 0
     date "2022-06-24T18:30:53Z"
@@ -7975,11 +12368,21 @@ graph
     commentcount 8915
     duration "PT14M33S"
     indegree 19
-    cluster 5
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 509
+    id 442
+    name "509"
     label "DfvjT8wMt3Y"
     step 0
     date "2022-05-03T23:00:10Z"
@@ -7993,11 +12396,21 @@ graph
     commentcount 60
     duration "PT8M6S"
     indegree 0
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
     cluster 4
   ]
   node
   [
-    id 510
+    id 443
+    name "510"
     label "-vUinNuU2hQ"
     step 0
     date "2022-06-28T17:15:00Z"
@@ -8011,11 +12424,21 @@ graph
     commentcount 2040
     duration "PT50S"
     indegree 0
-    cluster 1
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 511
+    id 444
+    name "511"
     label "nXvU7qzxSfA"
     step 0
     date "2022-07-10T15:45:10Z"
@@ -8029,65 +12452,105 @@ graph
     commentcount 0
     duration "PT48M51S"
     indegree 0
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 1
+  ]
+  node
+  [
+    id 445
+    name "512"
+    label "8xBxDutgAB0"
+    step 0
+    date "2022-05-11T09:00:08Z"
+    title ": Peggy Grande discusses Roe v Wade | Alan Jones"
+    description "Watch 'Alan Jones' 8pm AEST Monday to Thursday on ADH TV: https://watch.adh.tv/&#10;&#10;#America #RoevsWade #abortion #politics #ADH #AlanJones #PeggyGrande"
+    channeltitle "Alan Jones Australia"
+    channelid "UCtzTaKI8AkiSjyzm1_JbMUg"
+    favcount 0
+    viewcount 502
+    likecount 44
+    commentcount 9
+    duration "PT3M37S"
+    indegree 0
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
     cluster 5
   ]
   node
   [
-    id 514
-    label "-SM2D_CgOX8"
+    id 446
+    name "515"
+    label "NMgjasyFbqw"
     step 0
-    date "2022-07-11T03:39:54Z"
-    title "How Dave Chappelle Predicted the Roe V. Wade Supreme Court Decision"
-    description "TITLE HERE: How Dave Chappelle Predicted the Roe V. Wade Supreme Court Decision&#10;&#10;A Growing YouTube Channel that features videos on App &#38; Gadget Unboxing videos, Reviews, Tech Stories, News and many more. Do subscribe our channel. &#10;&#10;&#10;I totally love getting thoughts from you all so if it's not too much trouble, consistently let me know what sort of recordings you need to find in the remarks and remember to buy in and click the warning chime to keep awake to date with my substance.&#10;&#10;*For any business or reviews inquiries - Contact Us !&#10;#davechappelle, #kattwilliams, #comedyshows, #standups, #entertainment, #live, #willsmith, #trevornoah, #comedy, #cnn, #foxnews, #msnbc, #live, #shows"
-    channeltitle "My Personal Thought On It"
-    channelid "UCEeCdigNJbq1YYSHbLNOTiA"
+    date "2020-08-14T08:14:07Z"
+    title "La Verdadera Historia de Roe vs Wade"
+    description "Esta es la Verdadera Historia de Roe vs Wade, Jane Roe y Doe vs Bolton."
+    channeltitle "Vidas Hermosas Org."
+    channelid "UC9sgcGw2FYfSQ5lejg4DHHw"
     favcount 0
-    viewcount 244
-    likecount 4
-    commentcount 3
-    duration "PT8M39S"
-    indegree 0
+    viewcount 7859
+    likecount 403
+    commentcount 21
+    duration "PT9M48S"
+    indegree 1
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
     cluster 2
   ]
   node
   [
-    id 516
-    label "B_0lEQ3_rWw"
+    id 447
+    name "517"
+    label "i8i7CG0ArWo"
     step 0
-    date "2022-05-09T22:35:13Z"
-    title "Proud Boys AMBUSH Pro-Choice Roe v. Wade Protest in LA"
-    description "SUPPORT Status Coup's ON-THE-GROUND and investigative reporting on the stories the corporate media COVERS UP: https://www.StatusCoup.com/Join&#10;&#10;Freelance journalist Tina-Desiree Berg reports from a pro-choice rally in LA where pro-life counter protesters also appeared. Follow Tina: @TinaDesireeBerg&#10;&#10;Shop our collection of clothes that are both high quality, and from sustainable sources: Get shirts based on different quotes from Jordan Chariton such as 'The United Corporations of America' Now! Get yours at https://www.StatusCoup.com/Store&#10;&#10;Join this channel to get access to perks:&#10;https://www.youtube.com/channel/UC0pCsHlEEmCfxllZSlRB2Og/join&#10;&#10;Other ways to support Status Coup&#10;https://www.gofundme.com/f/statuscoup&#10;https://www.paypal.com/paypalme/StatusCoup&#10;$StatusCoup on CashApp &#10;&#10;SIGN UP for our email list for breaking news alerts and alerts when we're LIVE: https://statuscoup.pub/email&#10;&#10;SIGN UP for our text alerts to get a message as soon as we're LIVE&#10;https://statuscoup.com/text/&#10;&#10;Wholesome by Kevin MacLeod&#10;Link: https://incompetech.filmmusic.io/song/5050-wholesome&#10;License: https://filmmusic.io/standard-license&#10;&#10;#statuscoup #politics #proudboys #plannedparenthood"
-    channeltitle "Status Coup News"
-    channelid "UC0pCsHlEEmCfxllZSlRB2Og"
+    date "2021-02-04T11:28:00Z"
+    title "Bob Woodward: The Future Of Roe V. Wade"
+    description "In this edition: veteran journalist Bob Woodward and Axios national political correspondent Jonathan Swan discuss the president, the Supreme Court, the future of American democracy and more. Plus, Dr. Andre Perry discusses the racial wealth gap and the possible paths towards reparations for Black Americans with Axios Markets editor Dion Rabouin; President of Planned Parenthood Alexis McGill Johnson and Axios White House and politics editor Margaret Talev discuss the future of Roe v. Wade, the fight over reproductive rights, and the balance of the Supreme Court. President of Susan B. Anthony List Marjorie Dannenfelser talks about President Donald Trump and overturning Roe v. Wade with Axios co-founder and CEO Jim VandeHei."
+    channeltitle "Axios"
+    channelid "UC5sKm_vd51zG8g9FryO2HaQ"
     favcount 0
-    viewcount 4870
-    likecount 593
-    commentcount 121
-    duration "PT6M26S"
+    viewcount -1
+    likecount 0
+    commentcount 0
+    duration "PT28M"
     indegree 0
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
     cluster 6
   ]
   node
   [
-    id 518
-    label "zT3TQqySf_4"
-    step 0
-    date "2022-06-25T03:27:40Z"
-    title "LIVESTREAM:  SCOTUS Overturns Roe V Wade | Live from Washington, DC | @TaraPoAm"
-    description "Please support my work for :&#13;&#10;CashApp: https://cash.app/$TaraPoAm&#13;&#10;Venmo: www.venmo.com/u/TaraPoAm&#13;&#10;&#13;&#10;Please become a Subscriber for Tara PoAm:&#13;&#10;Patreon: https://www.patreon.com/TaraPoAm&#13;&#10;SubscribeStar: https://www.subscribestar.com/tarapoam&#13;&#10;&#13;&#10;Follow Tara PoAm on: &#13;&#10;Twitter: https://twitter.com/TaraPoAm&#13;&#10;Instagram: https://instagram.com/TaraPoAm&#13;&#10;Facebook: https://www.facebook.com/TaraPoAm&#13;&#10;Tik Tok: https://tiktok.com/TaraPoAm&#13;&#10;Odysee: https://odysee.com/@TaraPoAm&#13;&#10;Rumble: https://rumble.com/user/PoAmBrotherhood&#13;&#10;&#13;&#10;Subscribe to the Back Up Channel: https://www.youtube.com/channel/UCQgSKBmpSgMV2VUz7J3Y_OQ"
-    channeltitle "On The Ground"
-    channelid "UCoH8eqVwpW_3d6GVI90ktkw"
-    favcount 0
-    viewcount 8093
-    likecount 449
-    commentcount 26
-    duration "PT1H25M49S"
-    indegree 0
-    cluster 4
-  ]
-  node
-  [
-    id 519
+    id 448
+    name "519"
     label "HrO1uoNYPQc"
     step 0
     date "2022-06-24T22:00:12Z"
@@ -8101,11 +12564,21 @@ graph
     commentcount 622
     duration "PT26S"
     indegree 0
-    cluster 6
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 5
   ]
   node
   [
-    id 520
+    id 449
+    name "520"
     label "n7ZVKI4SZ-Q"
     step 0
     date "2020-12-13T01:20:02Z"
@@ -8119,11 +12592,21 @@ graph
     commentcount 1
     duration "PT52M33S"
     indegree 0
-    cluster 3
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 1
   ]
   node
   [
-    id 521
+    id 450
+    name "521"
     label "Q8E79V1btAo"
     step 0
     date "2022-05-06T16:00:11Z"
@@ -8137,11 +12620,21 @@ graph
     commentcount 12
     duration "PT23M25S"
     indegree 0
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
     cluster 3
   ]
   node
   [
-    id 522
+    id 451
+    name "522"
     label "UqQ_1qAwaDU"
     step 0
     date "2012-09-07T01:14:35Z"
@@ -8155,11 +12648,21 @@ graph
     commentcount 1
     duration "PT8M30S"
     indegree 10
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
     cluster 3
   ]
   node
   [
-    id 523
+    id 452
+    name "523"
     label "K_2vl_aMgZw"
     step 0
     date "2022-06-27T10:30:12Z"
@@ -8173,11 +12676,21 @@ graph
     commentcount 146
     duration "PT34M15S"
     indegree 2
-    cluster 6
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 524
+    id 453
+    name "524"
     label "b7VYTQkI0-g"
     step 0
     date "2022-02-02T15:16:16Z"
@@ -8191,11 +12704,21 @@ graph
     commentcount 3
     duration "PT7M12S"
     indegree 0
-    cluster 3
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 1
   ]
   node
   [
-    id 525
+    id 454
+    name "525"
     label "pwBcMPdbtU8"
     step 0
     date "2022-06-16T03:01:22Z"
@@ -8209,29 +12732,49 @@ graph
     commentcount 5
     duration "PT1H33M40S"
     indegree 0
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
     cluster 3
   ]
   node
   [
-    id 527
-    label "3nUzr4B-CM0"
+    id 455
+    name "526"
+    label "SW4MjJoum18"
     step 0
-    date "2022-05-12T19:15:38Z"
-    title "Sen. Lindsey Graham: Roe v. Wade Should be REPEALED | Update on Roe v. Wade | Centerpoint on TBN"
-    description "Senator Lindsey Graham joins Doug McKelway on Centerpoint to discuss the leaked Roe v. Wade draft opinion, the integrity of the Supreme Court, and more. Don't miss Senator Lindsey Graham outline the reasons why Roe v. Wade should be repealed.&#10;-----&#10;Watch Centerpoint WEEKNIGHTS 7:30PM ET &#38; PT exclusively on TBN!&#10;&#10;View full episodes of Centerpoint for FREE on the TBN App: &#10;https://watch.tbn.org/centerpoint&#10;&#10;FOLLOW CENTERPOINT:&#10;http://twttr.com/centerpointtbn&#10;http://fb.me/centerpointtbn&#10;http://instagr.am/centerpointtbn&#10;&#10;With news happening at a rapid pace, you need a reliable source of perspective and analysis from a solid biblical worldview. TBN&#8217;s Centerpoint is that source.&#10;-----&#10;#SenLindseyGraham #LindseyGraham #RoevWade"
-    channeltitle "Centerpoint on TBN"
-    channelid "UCBb2TOBK9RYG5MQTKXtps7g"
+    date "2022-06-25T18:14:39Z"
+    title "The Collapse Of Dating  Hookup Culture (Roe v Wade Final Judgement)"
+    description "The Collapse Of Dating &#38; Hookup Culture: Roe v Wade Final Judgement&#10;In todays video we will discuss the law passed buy the supreme court by overturning Roe v. Wade and the implications this will have on dating and relationships.&#10;&#10;Don't forget to subscribe to never miss an upload from us:&#10;&#10145;&#65039; https://bit.ly/3QlkJgg &#11013;&#65039;&#10;&#10;#thegents&#10;&#10;___________________________________________________________________________________________________&#10;&#10;Disclaimers:&#10;                                                                &#10;*This video does not promote hate or harm of any person based on their gender, relationship status, race or class. The goals of this video is to promote healthy choices specifically for men in lifestyle, finances and in emotional relationships.&#10;&#10;*This video is designed for entertainment and information purposes only. All advice discussed in this video (and this channel) are my personal opinions and are based on my personal experiences. I am not a licensed therapist, psychologist, marriage counselor, medical doctor, dietician or financial advisor. You are responsible for your own actions. You should not act or rely upon any of the information contained herein without seeking professional advice."
+    channeltitle "The Gents "
+    channelid "UC5HeeKHR7cRd_rP0zCSkGmw"
     favcount 0
-    viewcount 2030
-    likecount 55
-    commentcount 18
-    duration "PT11M6S"
-    indegree 0
+    viewcount 18945
+    likecount 1336
+    commentcount 564
+    duration "PT12M25S"
+    indegree 1
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
     cluster 3
   ]
   node
   [
-    id 528
+    id 456
+    name "528"
     label "uMtxFY1B8WQ"
     step 0
     date "2022-07-04T02:01:32Z"
@@ -8245,11 +12788,21 @@ graph
     commentcount 1051
     duration "PT10M28S"
     indegree 0
-    cluster 1
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 529
+    id 457
+    name "529"
     label "hd8toJAMXyU"
     step 0
     date "2022-05-11T07:10:31Z"
@@ -8263,29 +12816,49 @@ graph
     commentcount 29
     duration "PT9M30S"
     indegree 0
-    cluster 3
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 1
   ]
   node
   [
-    id 531
-    label "1cSP8WK9yB4"
+    id 458
+    name "530"
+    label "jnNlbD4RX_w"
     step 0
-    date "2022-06-13T17:01:02Z"
-    title "OVERTURNING ROE v WADE  #childsacrifice #banabortion"
-    description "So it is not the will of my Father who is in heaven that one of these little ones should perish. - Matthew 18:14&#10;&#10;&#8220;You shall not murder.&#8221; - Exodus 20:13&#10;&#10;For you formed my inward parts; you knitted me together in my mother's womb. I praise you, for I am fearfully and wonderfully made. Wonderful are your works; my soul knows it very well. My frame was not hidden from you, when I was being made in secret, intricately woven in the depths of the earth. Your eyes saw my unformed substance; in your book were written, every one of them, the days that were formed for me, when as yet there was none of them. - Psalm 138:13/16&#10;&#10;Praise God that a great victory Is coming soon. &#10;&#10;But Victorious times can be dangerous times &#8230; Be sober and be alert for the enemy prowls like a roaring lion seeking someone to devour.&#10;&#10;Warmest Shalom,&#10;Ahava Sarah Fischer&#10;TELEGRAM &#9742;&#65039; &#10;https://t.me/ahavasarah&#10;&#10;&#10;&#10;&#10;WATCH &#128293;&#128293;&#128293;&#10;&#10;I&#10;Modern Day Mystics Episode I &#10;https://youtu.be/cBET2hOZJJk&#10;&#10;II&#10;Modern Day Mystics Episode II&#10;https://youtu.be/5SF38Z05iS0&#10;&#10;III &#10;Modern Day Mystics Episode III&#10;https://youtu.be/--ekdxRSH84&#10;&#10;IV&#10;Modern Day Mystics Episode IV&#10;https://youtu.be/PqdhBKNFJjU&#10;&#10;&#10;&#10;&#128312;www.aweandwonder.studio&#10;&#10;&#128312; www.ahavasarah.com&#10;&#10;&#10;&#128312;Contact - &#10;General - ahavasarah@gmail.com&#10;Professional - ahavasarah@aweandwonder.studio&#10;&#10;&#128312;To sow into this ministry &#10;&#10;PAYPAL  ahavasarah@gmail.com&#10;www.paypal.me/ahavasarah &#10;&#10;VENMO&#10;@AhavaSarah-Fischer&#10;&#10;ZELLE&#10;ahavasarah@gmail.com"
-    channeltitle "Ahava Sarah Fischer"
-    channelid "UCihEDwtoS-iBcXGznXhRQXw"
+    date "2022-07-10T21:53:40Z"
+    title "Bidens Executive Order in Response to ROE V WADE Overturn #shorts"
+    description "&#128142; Subscribe and ring the bell to get notified when I post a video!&#10;&#10;&#128046;MOOMOO 6 FREE STOCKS AFTER SIGN UP + DEPOSIT $1 &#128181;https://j.moomoo.com/00jXVI&#10;Up to 25K in Free stocks with 2K deposit&#10;(PROMO 06/09/2022 - 07/31/2022 )&#10;&#10;&#128184;&#128994;GET STARTED ON ROBINHOOD AND GET A FREE STOCK JUST FOR SIGNING UP:&#10;https://join.robinhood.com/lucyw52&#10;&#10;&#128640;&#128640;6 FREE STOCKS TOTAL VALUE BETWEEN $34- $12600 AFTER SIGN UP + DEPOSIT OF 1 PENNY WITH WEBULL!&#8252;&#65039;&#128184;&#10;https://a.webull.com/i/LivingwithLuci&#10;(PROMO 07/01/2022 - 07/31/2022)&#10;&#10;&#127480;&#127468;WEBULL SINGAPORE &#128640;https://a.webull.com.sg/i/LivingwithLuciSG&#10;&#127480;&#127468; MOOMOO SINGAPORE &#127480;&#127468; &#128046; &#128176;https://j.moomoo.com/00km7l &#10;&#9889;&#65039;VOYAGER : EARN $50 of free Bitcoin after you Trade $100 of Crypto https://voyager.onelink.me/WNly/referral?af_sub5=C2A5C71B9&#10;&#128202;FTX US Use my referral code and get a free coin when you trade $10 worth &#38; Receive 5-8% APY:https://link.blockfolio.com/9dzp/e501c889&#10;&#10;&#128293; Social Media&#128293;&#10;&#127916;  Main Channel: https://www.youtube.com/c/LivingwithLuci&#10;&#127881;2nd Channel: https://www.youtube.com/c/TheLuciShow&#10;&#11088;&#65039; Living with Luci Member to Support Channel &#38; Priority Comment response:https://www.youtube.com/c/LivingwithLuci/join&#10;&#128221; Patreon: https://www.patreon.com/LivingwithLuci (Trade Alerts + Blog + Member Only Posts + DMs)&#10;&#128717; Merch Store:https://livingwithlucishop.com/&#10;&#128248;  Instagram: https://www.instagram.com/livingwithluci123/?hl=en&#10;&#129419;Twitter: https://twitter.com/LivingwithLuci&#10;&#128062; Luci Doge Wallet Address: DKWgsDn8Bz8bzhbhZ68UEkZbBV6K5jeEXu&#10;&#129535;Luci's ETH Wallet Address: 0x0F3688eF88E74EE39d2B2cBDe4586BC337882490&#10;&#10006;&#65039;Luci&#8217;s XRP Wallet Address: rnj4s7qJf1X4wJogN6vcUmKkYTpHhFAj7x&#10;&#128160;Luci&#8217;s BSC Address: 0x0F3688eF88E74EE39d2B2cBDe4586BC337882490&#10;&#127912;Luci&#8217;s NFT: https://opensea.io/LivingwithLuci&#10;&#10;&#128722;&#128717;&#128156;RAKUTEN CASH BACK APP:https://www.rakuten.com/r/JESSLE813?e...&#10;Get $30 Back for Spending $30 in 1st 3 months of sign up&#10;&#10;&#128312;&#129534;&#129505;FETCH REWARD APP:&#10;https://fetchrewards.onelink.me/vvv3/referraltext?code=YNEXKJ&#10;Turn useless receipts into FREE gift cards! &#128184; &#10;&#10;&#128998; BlockFi get $10 BTC after Sign up + $100 Deposit: &#10;https://blockfi.com/?ref=7538d27a&#10;&#9802;&#65039;GEMINI REFERRAL Earn $10 USD of Bitcoin after you Trade $100 of Crypto &#10;https://gemini.com/share/r479977u6&#10;&#128309;COINBASE GET $10 IN FREE BTC AFTER BUYING OR SELLING $100 OF CRYPTO :&#10;https://www.Coinbase.com/join/ha_7s&#10;&#129000;BINANCE US REFERRAL:  &#10;https://accounts.binance.us/en/register?ref=52917087&#10;******************************************************************************&#10;music: MONEY By LISA&#10;&#10;Do Only Good Everyday &#10;*vid made 7/10&#10;&#10;#supremecourt #biden&#10;_______________________________________________________&#10;Disclaimer:&#10;&#10;By viewing any material or using the information within my video, video description  or comments within this channel, you agree that this is general entertainment and you will not hold anyone responsible for loss or damages resulting from the content provided here or any of its members.&#10;&#10;Please Understand that this is not financial, legal, or tax advice. I do not guarantee a particular outcome. Please do your own research to make your own decisions. Some of the links on this page are affiliate links and I may earn a commission or referral bonus if you click through and make a purchase and/or subscribe. The ideas presented in this video are personal opinions and for entertainment purposes ONLY. In no event will Living with Luci, or anyone associated with this channel be liable for any loss or damage including, without limitation, indirect or consequential loss or damage, or any loss or damage whatsoever arising from loss of data or profits arising out of, or in connection with, the use of Living with Luci content on YouTube, Patreon, and any other links included on the Youtube Channel.The video and links provided may not be accurate in the future.Some of the offers mentioned may no longer be available."
+    channeltitle "Living with Luci"
+    channelid "UCZvHxSxKaVm_FEKyIbFiDhQ"
     favcount 0
-    viewcount 346
-    likecount 40
-    commentcount 11
-    duration "PT9M27S"
+    viewcount 307
+    likecount 15
+    commentcount 1
+    duration "PT1M"
     indegree 0
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
     cluster 3
   ]
   node
   [
-    id 532
+    id 459
+    name "532"
     label "Lwtzps85b4I"
     step 0
     date "2022-06-28T15:52:36Z"
@@ -8299,29 +12872,49 @@ graph
     commentcount 4167
     duration "PT1H14M11S"
     indegree 1
-    cluster 6
-  ]
-  node
-  [
-    id 534
-    label "fr3sUZVcBWw"
-    step 0
-    date "2022-05-03T20:39:28Z"
-    title "Should overturning Roe v Wade matter to Canadians?"
-    description "A leaked draft of a United States Supreme Court decision suggests America's top court is set to overturn Roe v Wade, which affirmed abortion as a &#34;fundamental&#34; right. While the legal situation and political climate surrounding abortion in the United States are vastly different than in Canada, Justin Trudeau and Patty Hajdu have waded into it condemning the decision. Does this matter to Canadians? Should it?&#13;&#10;&#13;&#10;Author and pro-life activist Jonathon Van Maren joins the show to discuss. &#13;&#10;&#13;&#10;Also, the freedom movement continues with the Rolling Thunder convoy arriving in Ottawa this past weekend."
-    channeltitle "True North"
-    channelid "UC9jipu23ffJC0hYrX7Y8p_A"
-    favcount 0
-    viewcount 3248
-    likecount 283
-    commentcount 72
-    duration "PT35M25S"
-    indegree 0
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
     cluster 3
   ]
   node
   [
-    id 535
+    id 460
+    name "533"
+    label "ZjgwArsg7E0"
+    step 0
+    date "2022-06-25T02:16:13Z"
+    title "Timcast IRL - ROE V WADE OVERTURNED, Dems Call For INSURRECTION w/Austin Petersen  Will Chamberlain"
+    description "Guests&#10;Austin Petersen &#10;@AP4Liberty (Twitter)&#10;Will Chamberlain &#10;@WillChamberlain (Twitter)&#10;&#10;Sign Up For Exclusive Episodes At https://timcast.com/&#10;&#10;Merch - https://timcast.creator-spring.com&#10;&#10;Hosts: &#10;Tim @Timcast (everywhere) &#10;Ian @IanCrossland (everywhere)&#10;Seamus @FreedomToons (YouTube) FreedomToons.com&#10;Lydia https://sourpatchlyds.me (all social media)&#10;&#10;Podcast available on all podcast platforms!"
+    channeltitle "Timcast IRL"
+    channelid "UCLwNTXWEjVd2qIHLcXxQWxA"
+    favcount 0
+    viewcount 505717
+    likecount 30088
+    commentcount 5062
+    duration "PT2H7M55S"
+    indegree 4
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 6
+  ]
+  node
+  [
+    id 461
+    name "535"
     label "UmZLIbiW3ak"
     step 0
     date "2022-07-04T18:15:23Z"
@@ -8335,11 +12928,21 @@ graph
     commentcount 39
     duration "PT24M6S"
     indegree 0
-    cluster 2
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 536
+    id 462
+    name "536"
     label "JzuuWfxNq94"
     step 0
     date "2022-06-24T18:45:00Z"
@@ -8353,17814 +12956,17787 @@ graph
     commentcount 493
     duration "PT7M7S"
     indegree 0
-    cluster 4
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    cluster 2
   ]
   edge
   [
     source 0
-    target 244
+    target 241
     rank 10
   ]
   edge
   [
     source 0
-    target 96
-    rank 11
-  ]
-  edge
-  [
-    source 0
-    target 137
-    rank 16
-  ]
-  edge
-  [
-    source 1
-    target 82
-    rank 1
-  ]
-  edge
-  [
-    source 1
-    target 102
-    rank 4
-  ]
-  edge
-  [
-    source 1
-    target 58
-    rank 7
-  ]
-  edge
-  [
-    source 1
-    target 8
-    rank 10
-  ]
-  edge
-  [
-    source 2
-    target 170
-    rank 1
-  ]
-  edge
-  [
-    source 2
-    target 10
-    rank 3
-  ]
-  edge
-  [
-    source 2
-    target 6
-    rank 4
-  ]
-  edge
-  [
-    source 2
-    target 14
-    rank 5
-  ]
-  edge
-  [
-    source 2
-    target 24
-    rank 6
-  ]
-  edge
-  [
-    source 2
-    target 22
-    rank 7
-  ]
-  edge
-  [
-    source 2
-    target 172
-    rank 11
-  ]
-  edge
-  [
-    source 2
-    target 80
-    rank 12
-  ]
-  edge
-  [
-    source 2
-    target 3
-    rank 15
-  ]
-  edge
-  [
-    source 2
-    target 153
-    rank 16
-  ]
-  edge
-  [
-    source 2
-    target 78
-    rank 17
-  ]
-  edge
-  [
-    source 2
-    target 60
-    rank 20
-  ]
-  edge
-  [
-    source 3
-    target 172
-    rank 1
-  ]
-  edge
-  [
-    source 3
-    target 10
-    rank 2
-  ]
-  edge
-  [
-    source 3
-    target 120
-    rank 3
-  ]
-  edge
-  [
-    source 3
-    target 169
-    rank 4
-  ]
-  edge
-  [
-    source 3
-    target 72
-    rank 6
-  ]
-  edge
-  [
-    source 3
-    target 24
-    rank 7
-  ]
-  edge
-  [
-    source 3
-    target 14
-    rank 8
-  ]
-  edge
-  [
-    source 3
-    target 258
-    rank 9
-  ]
-  edge
-  [
-    source 3
-    target 6
-    rank 10
-  ]
-  edge
-  [
-    source 3
-    target 151
-    rank 13
-  ]
-  edge
-  [
-    source 3
-    target 2
-    rank 14
-  ]
-  edge
-  [
-    source 3
-    target 82
-    rank 15
-  ]
-  edge
-  [
-    source 3
-    target 67
-    rank 16
-  ]
-  edge
-  [
-    source 3
-    target 276
-    rank 18
-  ]
-  edge
-  [
-    source 3
-    target 37
-    rank 20
-  ]
-  edge
-  [
-    source 4
-    target 172
-    rank 1
-  ]
-  edge
-  [
-    source 4
-    target 120
-    rank 2
-  ]
-  edge
-  [
-    source 4
-    target 169
-    rank 3
-  ]
-  edge
-  [
-    source 4
-    target 226
-    rank 5
-  ]
-  edge
-  [
-    source 4
-    target 6
-    rank 6
-  ]
-  edge
-  [
-    source 4
-    target 37
-    rank 7
-  ]
-  edge
-  [
-    source 4
-    target 14
-    rank 8
-  ]
-  edge
-  [
-    source 4
-    target 27
-    rank 10
-  ]
-  edge
-  [
-    source 4
-    target 58
-    rank 11
-  ]
-  edge
-  [
-    source 4
-    target 153
-    rank 14
-  ]
-  edge
-  [
-    source 4
-    target 13
-    rank 15
-  ]
-  edge
-  [
-    source 4
-    target 51
-    rank 16
-  ]
-  edge
-  [
-    source 4
-    target 16
-    rank 17
-  ]
-  edge
-  [
-    source 4
-    target 23
-    rank 18
-  ]
-  edge
-  [
-    source 4
-    target 10
-    rank 20
-  ]
-  edge
-  [
-    source 5
-    target 172
-    rank 1
-  ]
-  edge
-  [
-    source 5
-    target 72
-    rank 3
-  ]
-  edge
-  [
-    source 5
-    target 71
-    rank 9
-  ]
-  edge
-  [
-    source 5
-    target 258
-    rank 10
-  ]
-  edge
-  [
-    source 5
-    target 3
-    rank 12
-  ]
-  edge
-  [
-    source 5
-    target 14
-    rank 14
-  ]
-  edge
-  [
-    source 5
-    target 226
-    rank 20
-  ]
-  edge
-  [
-    source 6
-    target 10
-    rank 2
-  ]
-  edge
-  [
-    source 6
-    target 172
-    rank 4
-  ]
-  edge
-  [
-    source 6
-    target 72
-    rank 6
-  ]
-  edge
-  [
-    source 6
-    target 120
-    rank 7
-  ]
-  edge
-  [
-    source 6
-    target 169
-    rank 9
-  ]
-  edge
-  [
-    source 6
-    target 102
-    rank 12
-  ]
-  edge
-  [
-    source 6
-    target 14
-    rank 13
-  ]
-  edge
-  [
-    source 6
-    target 285
-    rank 15
-  ]
-  edge
-  [
-    source 6
-    target 2
-    rank 17
-  ]
-  edge
-  [
-    source 6
-    target 22
-    rank 18
-  ]
-  edge
-  [
-    source 6
-    target 80
-    rank 20
-  ]
-  edge
-  [
-    source 7
-    target 172
-    rank 1
-  ]
-  edge
-  [
-    source 7
-    target 169
-    rank 2
-  ]
-  edge
-  [
-    source 7
-    target 2
-    rank 3
-  ]
-  edge
-  [
-    source 7
-    target 258
-    rank 5
-  ]
-  edge
-  [
-    source 7
-    target 6
-    rank 7
-  ]
-  edge
-  [
-    source 7
-    target 10
-    rank 9
-  ]
-  edge
-  [
-    source 7
-    target 23
-    rank 10
-  ]
-  edge
-  [
-    source 7
-    target 11
-    rank 18
-  ]
-  edge
-  [
-    source 8
-    target 285
-    rank 2
-  ]
-  edge
-  [
-    source 8
-    target 172
-    rank 4
-  ]
-  edge
-  [
-    source 8
-    target 1
-    rank 6
-  ]
-  edge
-  [
-    source 8
-    target 24
-    rank 7
-  ]
-  edge
-  [
-    source 8
-    target 102
-    rank 9
-  ]
-  edge
-  [
-    source 8
-    target 6
-    rank 13
-  ]
-  edge
-  [
-    source 8
-    target 82
-    rank 15
-  ]
-  edge
-  [
-    source 8
-    target 151
-    rank 17
-  ]
-  edge
-  [
-    source 8
-    target 120
-    rank 19
-  ]
-  edge
-  [
-    source 8
-    target 47
-    rank 20
-  ]
-  edge
-  [
-    source 9
-    target 172
-    rank 1
-  ]
-  edge
-  [
-    source 9
-    target 2
-    rank 2
-  ]
-  edge
-  [
-    source 9
-    target 14
-    rank 3
-  ]
-  edge
-  [
-    source 9
-    target 18
-    rank 6
-  ]
-  edge
-  [
-    source 9
-    target 153
-    rank 8
-  ]
-  edge
-  [
-    source 9
-    target 6
-    rank 9
-  ]
-  edge
-  [
-    source 9
-    target 51
-    rank 10
-  ]
-  edge
-  [
-    source 9
-    target 37
-    rank 11
-  ]
-  edge
-  [
-    source 9
-    target 10
-    rank 12
-  ]
-  edge
-  [
-    source 9
-    target 12
-    rank 13
-  ]
-  edge
-  [
-    source 9
-    target 226
-    rank 14
-  ]
-  edge
-  [
-    source 9
-    target 16
-    rank 17
-  ]
-  edge
-  [
-    source 9
-    target 3
-    rank 18
-  ]
-  edge
-  [
-    source 9
-    target 273
-    rank 20
-  ]
-  edge
-  [
-    source 10
-    target 170
-    rank 3
-  ]
-  edge
-  [
-    source 10
-    target 14
-    rank 4
-  ]
-  edge
-  [
-    source 10
-    target 6
-    rank 8
-  ]
-  edge
-  [
-    source 10
-    target 202
-    rank 9
-  ]
-  edge
-  [
-    source 10
-    target 2
-    rank 10
-  ]
-  edge
-  [
-    source 10
-    target 172
-    rank 12
-  ]
-  edge
-  [
-    source 10
-    target 82
-    rank 13
-  ]
-  edge
-  [
-    source 10
-    target 80
-    rank 20
-  ]
-  edge
-  [
-    source 11
-    target 172
-    rank 1
-  ]
-  edge
-  [
-    source 11
-    target 169
-    rank 2
-  ]
-  edge
-  [
-    source 11
-    target 72
-    rank 3
-  ]
-  edge
-  [
-    source 11
-    target 6
-    rank 4
-  ]
-  edge
-  [
-    source 11
-    target 258
-    rank 7
-  ]
-  edge
-  [
-    source 11
-    target 10
-    rank 10
-  ]
-  edge
-  [
-    source 11
-    target 120
-    rank 11
-  ]
-  edge
-  [
-    source 11
-    target 14
-    rank 14
-  ]
-  edge
-  [
-    source 11
-    target 226
-    rank 16
-  ]
-  edge
-  [
-    source 11
-    target 27
-    rank 19
-  ]
-  edge
-  [
-    source 11
-    target 119
-    rank 20
-  ]
-  edge
-  [
-    source 12
-    target 120
-    rank 1
-  ]
-  edge
-  [
-    source 12
-    target 172
-    rank 2
-  ]
-  edge
-  [
-    source 12
-    target 2
-    rank 3
-  ]
-  edge
-  [
-    source 12
-    target 18
-    rank 4
-  ]
-  edge
-  [
-    source 12
-    target 6
-    rank 5
-  ]
-  edge
-  [
-    source 12
-    target 14
-    rank 8
-  ]
-  edge
-  [
-    source 12
-    target 72
-    rank 10
-  ]
-  edge
-  [
-    source 12
-    target 153
-    rank 12
-  ]
-  edge
-  [
-    source 12
-    target 170
-    rank 14
-  ]
-  edge
-  [
-    source 12
-    target 37
-    rank 16
-  ]
-  edge
-  [
-    source 12
-    target 217
-    rank 17
-  ]
-  edge
-  [
-    source 12
-    target 67
-    rank 19
-  ]
-  edge
-  [
-    source 12
-    target 276
-    rank 20
-  ]
-  edge
-  [
-    source 13
-    target 6
-    rank 1
-  ]
-  edge
-  [
-    source 13
-    target 2
-    rank 2
-  ]
-  edge
-  [
-    source 13
-    target 172
-    rank 3
-  ]
-  edge
-  [
-    source 13
-    target 14
-    rank 4
-  ]
-  edge
-  [
-    source 13
-    target 3
-    rank 7
-  ]
-  edge
-  [
-    source 13
-    target 10
-    rank 8
-  ]
-  edge
-  [
-    source 13
-    target 58
-    rank 10
-  ]
-  edge
-  [
-    source 13
-    target 153
-    rank 12
-  ]
-  edge
-  [
-    source 13
-    target 18
-    rank 14
-  ]
-  edge
-  [
-    source 13
-    target 258
-    rank 15
-  ]
-  edge
-  [
-    source 13
-    target 37
-    rank 17
-  ]
-  edge
-  [
-    source 13
-    target 78
-    rank 19
-  ]
-  edge
-  [
-    source 13
-    target 226
-    rank 20
-  ]
-  edge
-  [
-    source 14
-    target 285
-    rank 1
-  ]
-  edge
-  [
-    source 14
-    target 120
-    rank 2
-  ]
-  edge
-  [
-    source 14
-    target 72
-    rank 4
-  ]
-  edge
-  [
-    source 14
-    target 172
-    rank 5
-  ]
-  edge
-  [
-    source 14
-    target 6
-    rank 10
-  ]
-  edge
-  [
-    source 14
-    target 169
-    rank 11
-  ]
-  edge
-  [
-    source 14
-    target 151
-    rank 13
-  ]
-  edge
-  [
-    source 14
-    target 10
-    rank 14
-  ]
-  edge
-  [
-    source 14
-    target 82
-    rank 18
-  ]
-  edge
-  [
-    source 15
-    target 172
-    rank 1
-  ]
-  edge
-  [
-    source 15
-    target 72
-    rank 2
-  ]
-  edge
-  [
-    source 15
-    target 169
-    rank 3
-  ]
-  edge
-  [
-    source 15
-    target 120
-    rank 4
-  ]
-  edge
-  [
-    source 15
-    target 6
-    rank 7
-  ]
-  edge
-  [
-    source 15
-    target 3
-    rank 15
-  ]
-  edge
-  [
-    source 15
-    target 14
-    rank 17
-  ]
-  edge
-  [
-    source 15
-    target 138
-    rank 18
-  ]
-  edge
-  [
-    source 15
-    target 37
-    rank 19
-  ]
-  edge
-  [
-    source 16
-    target 172
-    rank 1
-  ]
-  edge
-  [
-    source 16
-    target 72
-    rank 2
-  ]
-  edge
-  [
-    source 16
-    target 27
-    rank 3
-  ]
-  edge
-  [
-    source 16
-    target 151
-    rank 4
-  ]
-  edge
-  [
-    source 16
-    target 2
-    rank 5
-  ]
-  edge
-  [
-    source 16
-    target 14
-    rank 6
-  ]
-  edge
-  [
-    source 16
-    target 37
-    rank 7
-  ]
-  edge
-  [
-    source 16
-    target 153
-    rank 8
-  ]
-  edge
-  [
-    source 16
-    target 6
-    rank 10
-  ]
-  edge
-  [
-    source 16
-    target 3
-    rank 12
-  ]
-  edge
-  [
-    source 16
-    target 18
-    rank 13
-  ]
-  edge
-  [
-    source 16
-    target 120
-    rank 14
-  ]
-  edge
-  [
-    source 16
-    target 4
-    rank 16
-  ]
-  edge
-  [
-    source 16
-    target 285
-    rank 17
-  ]
-  edge
-  [
-    source 16
     target 95
-    rank 18
-  ]
-  edge
-  [
-    source 17
-    target 122
-    rank 16
-  ]
-  edge
-  [
-    source 17
-    target 40
-    rank 17
-  ]
-  edge
-  [
-    source 18
-    target 172
-    rank 1
-  ]
-  edge
-  [
-    source 18
-    target 2
-    rank 2
-  ]
-  edge
-  [
-    source 18
-    target 169
-    rank 3
-  ]
-  edge
-  [
-    source 18
-    target 6
-    rank 4
-  ]
-  edge
-  [
-    source 18
-    target 153
-    rank 6
-  ]
-  edge
-  [
-    source 18
-    target 37
-    rank 7
-  ]
-  edge
-  [
-    source 18
-    target 14
-    rank 8
-  ]
-  edge
-  [
-    source 18
-    target 3
-    rank 10
-  ]
-  edge
-  [
-    source 18
-    target 23
     rank 11
   ]
   edge
   [
-    source 18
-    target 10
-    rank 13
-  ]
-  edge
-  [
-    source 18
-    target 258
-    rank 19
-  ]
-  edge
-  [
-    source 18
-    target 232
-    rank 20
-  ]
-  edge
-  [
-    source 19
-    target 172
-    rank 1
-  ]
-  edge
-  [
-    source 19
-    target 226
-    rank 14
-  ]
-  edge
-  [
-    source 19
-    target 92
-    rank 15
-  ]
-  edge
-  [
-    source 20
-    target 72
-    rank 2
-  ]
-  edge
-  [
-    source 20
-    target 144
-    rank 5
-  ]
-  edge
-  [
-    source 20
-    target 172
-    rank 6
-  ]
-  edge
-  [
-    source 20
-    target 169
-    rank 8
-  ]
-  edge
-  [
-    source 20
-    target 151
-    rank 9
-  ]
-  edge
-  [
-    source 20
-    target 6
-    rank 10
-  ]
-  edge
-  [
-    source 20
-    target 134
-    rank 12
-  ]
-  edge
-  [
-    source 20
-    target 285
-    rank 13
-  ]
-  edge
-  [
-    source 20
-    target 120
-    rank 15
-  ]
-  edge
-  [
-    source 20
-    target 82
-    rank 17
-  ]
-  edge
-  [
-    source 21
-    target 135
-    rank 2
-  ]
-  edge
-  [
-    source 21
-    target 193
-    rank 4
-  ]
-  edge
-  [
-    source 21
-    target 144
-    rank 12
-  ]
-  edge
-  [
-    source 21
-    target 217
-    rank 13
-  ]
-  edge
-  [
-    source 21
-    target 192
-    rank 15
-  ]
-  edge
-  [
-    source 21
-    target 54
-    rank 17
-  ]
-  edge
-  [
-    source 21
-    target 4
-    rank 18
-  ]
-  edge
-  [
-    source 22
-    target 89
-    rank 3
-  ]
-  edge
-  [
-    source 22
-    target 199
-    rank 19
-  ]
-  edge
-  [
-    source 23
-    target 169
-    rank 1
-  ]
-  edge
-  [
-    source 23
-    target 172
-    rank 2
-  ]
-  edge
-  [
-    source 23
-    target 72
-    rank 3
-  ]
-  edge
-  [
-    source 23
-    target 6
-    rank 4
-  ]
-  edge
-  [
-    source 23
-    target 37
-    rank 11
-  ]
-  edge
-  [
-    source 23
-    target 80
+    source 0
+    target 136
     rank 16
   ]
   edge
   [
-    source 24
-    target 14
-    rank 2
-  ]
-  edge
-  [
-    source 24
-    target 172
-    rank 6
-  ]
-  edge
-  [
-    source 24
-    target 47
-    rank 7
-  ]
-  edge
-  [
-    source 24
-    target 82
-    rank 9
-  ]
-  edge
-  [
-    source 24
-    target 169
-    rank 10
-  ]
-  edge
-  [
-    source 24
-    target 120
-    rank 14
-  ]
-  edge
-  [
-    source 24
-    target 285
-    rank 15
-  ]
-  edge
-  [
-    source 24
-    target 6
-    rank 17
-  ]
-  edge
-  [
-    source 24
-    target 2
-    rank 18
-  ]
-  edge
-  [
-    source 25
-    target 172
-    rank 2
-  ]
-  edge
-  [
-    source 25
-    target 10
-    rank 3
-  ]
-  edge
-  [
-    source 25
-    target 258
-    rank 6
-  ]
-  edge
-  [
-    source 25
-    target 6
-    rank 8
-  ]
-  edge
-  [
-    source 25
-    target 3
-    rank 9
-  ]
-  edge
-  [
-    source 25
-    target 184
-    rank 12
-  ]
-  edge
-  [
-    source 25
-    target 18
-    rank 16
-  ]
-  edge
-  [
-    source 25
-    target 14
-    rank 17
-  ]
-  edge
-  [
-    source 25
-    target 37
-    rank 18
-  ]
-  edge
-  [
-    source 25
-    target 226
-    rank 20
-  ]
-  edge
-  [
-    source 26
-    target 172
+    source 1
+    target 81
     rank 1
   ]
   edge
   [
-    source 26
-    target 258
-    rank 2
-  ]
-  edge
-  [
-    source 26
-    target 226
+    source 1
+    target 101
     rank 4
   ]
   edge
   [
-    source 26
-    target 18
-    rank 5
-  ]
-  edge
-  [
-    source 26
-    target 3
-    rank 6
-  ]
-  edge
-  [
-    source 26
-    target 15
-    rank 8
-  ]
-  edge
-  [
-    source 26
-    target 276
-    rank 9
-  ]
-  edge
-  [
-    source 26
-    target 23
-    rank 11
-  ]
-  edge
-  [
-    source 26
-    target 37
-    rank 12
-  ]
-  edge
-  [
-    source 26
-    target 19
-    rank 15
-  ]
-  edge
-  [
-    source 26
-    target 4
-    rank 16
-  ]
-  edge
-  [
-    source 26
-    target 155
-    rank 18
-  ]
-  edge
-  [
-    source 26
+    source 1
     target 57
-    rank 19
-  ]
-  edge
-  [
-    source 26
-    target 138
-    rank 20
-  ]
-  edge
-  [
-    source 27
-    target 172
-    rank 1
-  ]
-  edge
-  [
-    source 27
-    target 120
-    rank 2
-  ]
-  edge
-  [
-    source 27
-    target 258
-    rank 4
-  ]
-  edge
-  [
-    source 27
-    target 36
-    rank 5
-  ]
-  edge
-  [
-    source 27
-    target 226
     rank 7
   ]
   edge
   [
-    source 27
-    target 3
-    rank 8
-  ]
-  edge
-  [
-    source 27
-    target 37
-    rank 10
-  ]
-  edge
-  [
-    source 27
-    target 14
-    rank 11
-  ]
-  edge
-  [
-    source 27
-    target 72
-    rank 12
-  ]
-  edge
-  [
-    source 27
-    target 18
-    rank 13
-  ]
-  edge
-  [
-    source 27
-    target 119
-    rank 15
-  ]
-  edge
-  [
-    source 27
-    target 13
-    rank 18
-  ]
-  edge
-  [
-    source 27
-    target 4
-    rank 19
-  ]
-  edge
-  [
-    source 28
-    target 172
-    rank 1
-  ]
-  edge
-  [
-    source 28
-    target 170
-    rank 3
-  ]
-  edge
-  [
-    source 28
-    target 304
-    rank 6
-  ]
-  edge
-  [
-    source 28
-    target 3
-    rank 7
-  ]
-  edge
-  [
-    source 28
-    target 6
-    rank 8
-  ]
-  edge
-  [
-    source 28
-    target 37
-    rank 9
-  ]
-  edge
-  [
-    source 28
-    target 18
-    rank 12
-  ]
-  edge
-  [
-    source 28
-    target 14
-    rank 13
-  ]
-  edge
-  [
-    source 28
-    target 10
-    rank 14
-  ]
-  edge
-  [
-    source 28
-    target 226
-    rank 18
-  ]
-  edge
-  [
-    source 28
-    target 169
-    rank 20
-  ]
-  edge
-  [
-    source 30
-    target 172
-    rank 1
-  ]
-  edge
-  [
-    source 30
-    target 258
-    rank 2
-  ]
-  edge
-  [
-    source 30
-    target 169
-    rank 3
-  ]
-  edge
-  [
-    source 30
-    target 3
-    rank 5
-  ]
-  edge
-  [
-    source 30
-    target 71
-    rank 6
-  ]
-  edge
-  [
-    source 30
-    target 115
-    rank 9
-  ]
-  edge
-  [
-    source 30
-    target 226
-    rank 12
-  ]
-  edge
-  [
-    source 30
-    target 27
-    rank 15
-  ]
-  edge
-  [
-    source 30
-    target 16
-    rank 16
-  ]
-  edge
-  [
-    source 30
-    target 18
-    rank 17
-  ]
-  edge
-  [
-    source 30
-    target 138
-    rank 20
-  ]
-  edge
-  [
-    source 31
-    target 172
-    rank 1
-  ]
-  edge
-  [
-    source 31
-    target 120
-    rank 2
-  ]
-  edge
-  [
-    source 31
-    target 24
-    rank 4
-  ]
-  edge
-  [
-    source 31
-    target 2
-    rank 6
-  ]
-  edge
-  [
-    source 31
-    target 169
-    rank 13
-  ]
-  edge
-  [
-    source 31
-    target 72
-    rank 14
-  ]
-  edge
-  [
-    source 31
-    target 151
-    rank 15
-  ]
-  edge
-  [
-    source 31
-    target 144
-    rank 17
-  ]
-  edge
-  [
-    source 31
-    target 6
-    rank 19
-  ]
-  edge
-  [
-    source 31
-    target 47
-    rank 20
-  ]
-  edge
-  [
-    source 32
-    target 2
-    rank 1
-  ]
-  edge
-  [
-    source 32
-    target 120
-    rank 2
-  ]
-  edge
-  [
-    source 32
-    target 3
-    rank 3
-  ]
-  edge
-  [
-    source 32
-    target 172
-    rank 4
-  ]
-  edge
-  [
-    source 32
-    target 170
-    rank 5
-  ]
-  edge
-  [
-    source 32
-    target 304
-    rank 7
-  ]
-  edge
-  [
-    source 32
-    target 6
-    rank 8
-  ]
-  edge
-  [
-    source 32
-    target 153
-    rank 10
-  ]
-  edge
-  [
-    source 32
-    target 37
-    rank 11
-  ]
-  edge
-  [
-    source 32
-    target 13
-    rank 12
-  ]
-  edge
-  [
-    source 32
-    target 72
-    rank 13
-  ]
-  edge
-  [
-    source 32
-    target 14
-    rank 14
-  ]
-  edge
-  [
-    source 32
-    target 18
-    rank 16
-  ]
-  edge
-  [
-    source 32
-    target 11
-    rank 17
-  ]
-  edge
-  [
-    source 32
-    target 138
-    rank 20
-  ]
-  edge
-  [
-    source 33
-    target 172
-    rank 1
-  ]
-  edge
-  [
-    source 33
-    target 3
-    rank 5
-  ]
-  edge
-  [
-    source 33
-    target 226
-    rank 6
-  ]
-  edge
-  [
-    source 33
-    target 37
-    rank 7
-  ]
-  edge
-  [
-    source 33
-    target 6
-    rank 8
-  ]
-  edge
-  [
-    source 33
-    target 304
-    rank 10
-  ]
-  edge
-  [
-    source 33
-    target 14
-    rank 12
-  ]
-  edge
-  [
-    source 33
-    target 10
-    rank 13
-  ]
-  edge
-  [
-    source 33
-    target 115
-    rank 15
-  ]
-  edge
-  [
-    source 33
-    target 92
-    rank 16
-  ]
-  edge
-  [
-    source 33
-    target 18
-    rank 18
-  ]
-  edge
-  [
-    source 33
-    target 119
-    rank 19
-  ]
-  edge
-  [
-    source 34
-    target 172
-    rank 1
-  ]
-  edge
-  [
-    source 34
-    target 258
-    rank 2
-  ]
-  edge
-  [
-    source 34
-    target 71
-    rank 5
-  ]
-  edge
-  [
-    source 34
-    target 23
-    rank 9
-  ]
-  edge
-  [
-    source 34
-    target 217
-    rank 11
-  ]
-  edge
-  [
-    source 34
-    target 226
-    rank 12
-  ]
-  edge
-  [
-    source 34
-    target 3
-    rank 13
-  ]
-  edge
-  [
-    source 34
-    target 13
-    rank 17
-  ]
-  edge
-  [
-    source 34
-    target 39
-    rank 19
-  ]
-  edge
-  [
-    source 34
-    target 19
-    rank 20
-  ]
-  edge
-  [
-    source 35
-    target 172
-    rank 1
-  ]
-  edge
-  [
-    source 35
-    target 24
-    rank 2
-  ]
-  edge
-  [
-    source 35
-    target 120
-    rank 3
-  ]
-  edge
-  [
-    source 35
-    target 47
-    rank 6
-  ]
-  edge
-  [
-    source 35
-    target 2
-    rank 7
-  ]
-  edge
-  [
-    source 35
-    target 6
-    rank 10
-  ]
-  edge
-  [
-    source 35
-    target 10
-    rank 11
-  ]
-  edge
-  [
-    source 35
-    target 72
-    rank 14
-  ]
-  edge
-  [
-    source 35
-    target 80
-    rank 17
-  ]
-  edge
-  [
-    source 35
-    target 67
-    rank 18
-  ]
-  edge
-  [
-    source 36
-    target 172
-    rank 1
-  ]
-  edge
-  [
-    source 36
-    target 169
-    rank 2
-  ]
-  edge
-  [
-    source 36
-    target 6
-    rank 3
-  ]
-  edge
-  [
-    source 36
-    target 72
-    rank 4
-  ]
-  edge
-  [
-    source 36
-    target 27
-    rank 11
-  ]
-  edge
-  [
-    source 36
-    target 14
-    rank 12
-  ]
-  edge
-  [
-    source 36
-    target 16
-    rank 15
-  ]
-  edge
-  [
-    source 36
-    target 140
-    rank 17
-  ]
-  edge
-  [
-    source 36
-    target 260
-    rank 18
-  ]
-  edge
-  [
-    source 36
-    target 23
-    rank 19
-  ]
-  edge
-  [
-    source 37
-    target 80
-    rank 3
-  ]
-  edge
-  [
-    source 37
-    target 172
-    rank 5
-  ]
-  edge
-  [
-    source 37
-    target 72
-    rank 7
-  ]
-  edge
-  [
-    source 37
-    target 6
-    rank 8
-  ]
-  edge
-  [
-    source 37
-    target 120
-    rank 13
-  ]
-  edge
-  [
-    source 37
-    target 255
-    rank 15
-  ]
-  edge
-  [
-    source 37
-    target 82
-    rank 17
-  ]
-  edge
-  [
-    source 37
-    target 14
-    rank 19
-  ]
-  edge
-  [
-    source 38
-    target 51
-    rank 1
-  ]
-  edge
-  [
-    source 38
-    target 37
-    rank 3
-  ]
-  edge
-  [
-    source 38
-    target 70
-    rank 18
-  ]
-  edge
-  [
-    source 38
-    target 96
-    rank 20
-  ]
-  edge
-  [
-    source 39
-    target 2
-    rank 1
-  ]
-  edge
-  [
-    source 39
-    target 172
-    rank 2
-  ]
-  edge
-  [
-    source 39
-    target 170
-    rank 3
-  ]
-  edge
-  [
-    source 39
-    target 6
-    rank 5
-  ]
-  edge
-  [
-    source 39
-    target 10
-    rank 6
-  ]
-  edge
-  [
-    source 39
-    target 226
-    rank 7
-  ]
-  edge
-  [
-    source 39
-    target 153
-    rank 8
-  ]
-  edge
-  [
-    source 39
-    target 57
-    rank 9
-  ]
-  edge
-  [
-    source 39
-    target 51
-    rank 10
-  ]
-  edge
-  [
-    source 39
-    target 228
-    rank 12
-  ]
-  edge
-  [
-    source 39
-    target 19
-    rank 13
-  ]
-  edge
-  [
-    source 39
-    target 78
-    rank 17
-  ]
-  edge
-  [
-    source 39
-    target 18
-    rank 18
-  ]
-  edge
-  [
-    source 39
-    target 13
-    rank 20
-  ]
-  edge
-  [
-    source 41
-    target 172
-    rank 1
-  ]
-  edge
-  [
-    source 41
-    target 170
-    rank 2
-  ]
-  edge
-  [
-    source 41
-    target 6
-    rank 3
-  ]
-  edge
-  [
-    source 41
-    target 37
-    rank 5
-  ]
-  edge
-  [
-    source 41
-    target 56
-    rank 6
-  ]
-  edge
-  [
-    source 41
-    target 82
-    rank 9
-  ]
-  edge
-  [
-    source 41
-    target 119
-    rank 10
-  ]
-  edge
-  [
-    source 41
-    target 10
-    rank 11
-  ]
-  edge
-  [
-    source 41
-    target 273
-    rank 13
-  ]
-  edge
-  [
-    source 41
-    target 226
-    rank 14
-  ]
-  edge
-  [
-    source 41
-    target 228
-    rank 18
-  ]
-  edge
-  [
-    source 41
-    target 169
-    rank 19
-  ]
-  edge
-  [
-    source 41
-    target 142
-    rank 20
-  ]
-  edge
-  [
-    source 42
-    target 258
-    rank 2
-  ]
-  edge
-  [
-    source 42
-    target 172
-    rank 3
-  ]
-  edge
-  [
-    source 42
-    target 120
-    rank 4
-  ]
-  edge
-  [
-    source 42
-    target 6
-    rank 11
-  ]
-  edge
-  [
-    source 42
-    target 18
-    rank 12
-  ]
-  edge
-  [
-    source 42
-    target 71
-    rank 13
-  ]
-  edge
-  [
-    source 42
-    target 9
-    rank 14
-  ]
-  edge
-  [
-    source 42
-    target 119
-    rank 16
-  ]
-  edge
-  [
-    source 42
-    target 72
-    rank 18
-  ]
-  edge
-  [
-    source 43
-    target 172
-    rank 1
-  ]
-  edge
-  [
-    source 43
-    target 169
-    rank 2
-  ]
-  edge
-  [
-    source 43
-    target 14
-    rank 3
-  ]
-  edge
-  [
-    source 43
-    target 22
-    rank 4
-  ]
-  edge
-  [
-    source 43
-    target 120
-    rank 5
-  ]
-  edge
-  [
-    source 43
-    target 2
-    rank 6
-  ]
-  edge
-  [
-    source 43
-    target 258
-    rank 7
-  ]
-  edge
-  [
-    source 43
-    target 151
-    rank 13
-  ]
-  edge
-  [
-    source 43
-    target 58
-    rank 16
-  ]
-  edge
-  [
-    source 43
-    target 71
-    rank 17
-  ]
-  edge
-  [
-    source 44
-    target 172
-    rank 1
-  ]
-  edge
-  [
-    source 44
-    target 120
-    rank 3
-  ]
-  edge
-  [
-    source 44
-    target 37
-    rank 4
-  ]
-  edge
-  [
-    source 44
-    target 258
-    rank 5
-  ]
-  edge
-  [
-    source 44
-    target 10
-    rank 6
-  ]
-  edge
-  [
-    source 44
-    target 276
-    rank 8
-  ]
-  edge
-  [
-    source 44
-    target 12
-    rank 9
-  ]
-  edge
-  [
-    source 44
-    target 59
-    rank 10
-  ]
-  edge
-  [
-    source 44
-    target 18
-    rank 11
-  ]
-  edge
-  [
-    source 44
-    target 60
-    rank 14
-  ]
-  edge
-  [
-    source 44
-    target 285
-    rank 15
-  ]
-  edge
-  [
-    source 44
-    target 138
-    rank 17
-  ]
-  edge
-  [
-    source 44
-    target 14
-    rank 18
-  ]
-  edge
-  [
-    source 44
-    target 65
-    rank 19
-  ]
-  edge
-  [
-    source 44
-    target 15
-    rank 20
-  ]
-  edge
-  [
-    source 45
-    target 172
-    rank 1
-  ]
-  edge
-  [
-    source 45
-    target 6
-    rank 2
-  ]
-  edge
-  [
-    source 45
-    target 14
-    rank 3
-  ]
-  edge
-  [
-    source 45
-    target 260
-    rank 9
-  ]
-  edge
-  [
-    source 45
-    target 10
-    rank 10
-  ]
-  edge
-  [
-    source 45
-    target 3
-    rank 11
-  ]
-  edge
-  [
-    source 45
-    target 13
-    rank 12
-  ]
-  edge
-  [
-    source 45
-    target 119
-    rank 14
-  ]
-  edge
-  [
-    source 45
-    target 18
-    rank 15
-  ]
-  edge
-  [
-    source 45
-    target 71
-    rank 16
-  ]
-  edge
-  [
-    source 45
-    target 138
-    rank 17
-  ]
-  edge
-  [
-    source 45
-    target 142
-    rank 19
-  ]
-  edge
-  [
-    source 46
-    target 172
-    rank 1
-  ]
-  edge
-  [
-    source 46
-    target 18
-    rank 2
-  ]
-  edge
-  [
-    source 46
-    target 258
-    rank 4
-  ]
-  edge
-  [
-    source 46
-    target 6
-    rank 5
-  ]
-  edge
-  [
-    source 46
-    target 226
-    rank 8
-  ]
-  edge
-  [
-    source 46
-    target 3
-    rank 12
-  ]
-  edge
-  [
-    source 46
-    target 119
-    rank 13
-  ]
-  edge
-  [
-    source 46
-    target 27
-    rank 14
-  ]
-  edge
-  [
-    source 46
-    target 19
-    rank 19
-  ]
-  edge
-  [
-    source 46
-    target 276
-    rank 20
-  ]
-  edge
-  [
-    source 47
-    target 120
-    rank 3
-  ]
-  edge
-  [
-    source 47
-    target 172
-    rank 4
-  ]
-  edge
-  [
-    source 47
-    target 24
-    rank 5
-  ]
-  edge
-  [
-    source 47
-    target 169
-    rank 10
-  ]
-  edge
-  [
-    source 47
-    target 67
-    rank 11
-  ]
-  edge
-  [
-    source 47
-    target 6
-    rank 12
-  ]
-  edge
-  [
-    source 47
-    target 151
-    rank 13
-  ]
-  edge
-  [
-    source 47
-    target 82
-    rank 15
-  ]
-  edge
-  [
-    source 47
-    target 72
-    rank 19
-  ]
-  edge
-  [
-    source 47
-    target 144
-    rank 20
-  ]
-  edge
-  [
-    source 48
-    target 172
-    rank 1
-  ]
-  edge
-  [
-    source 48
-    target 27
-    rank 3
-  ]
-  edge
-  [
-    source 48
-    target 10
-    rank 4
-  ]
-  edge
-  [
-    source 48
-    target 67
-    rank 6
-  ]
-  edge
-  [
-    source 48
-    target 6
-    rank 7
-  ]
-  edge
-  [
-    source 48
-    target 18
-    rank 9
-  ]
-  edge
-  [
-    source 48
-    target 108
-    rank 11
-  ]
-  edge
-  [
-    source 48
-    target 12
-    rank 15
-  ]
-  edge
-  [
-    source 48
-    target 15
-    rank 16
-  ]
-  edge
-  [
-    source 48
-    target 260
-    rank 17
-  ]
-  edge
-  [
-    source 48
-    target 4
-    rank 18
-  ]
-  edge
-  [
-    source 48
-    target 23
-    rank 20
-  ]
-  edge
-  [
-    source 49
-    target 172
-    rank 2
-  ]
-  edge
-  [
-    source 49
-    target 169
-    rank 3
-  ]
-  edge
-  [
-    source 49
-    target 71
-    rank 4
-  ]
-  edge
-  [
-    source 49
-    target 72
-    rank 7
-  ]
-  edge
-  [
-    source 49
-    target 6
-    rank 8
-  ]
-  edge
-  [
-    source 49
-    target 258
-    rank 9
-  ]
-  edge
-  [
-    source 49
-    target 18
-    rank 15
-  ]
-  edge
-  [
-    source 49
-    target 70
-    rank 17
-  ]
-  edge
-  [
-    source 49
-    target 33
-    rank 18
-  ]
-  edge
-  [
-    source 49
-    target 37
-    rank 20
-  ]
-  edge
-  [
-    source 50
-    target 172
-    rank 1
-  ]
-  edge
-  [
-    source 50
-    target 14
-    rank 2
-  ]
-  edge
-  [
-    source 50
-    target 120
-    rank 4
-  ]
-  edge
-  [
-    source 50
-    target 88
-    rank 6
-  ]
-  edge
-  [
-    source 50
-    target 10
-    rank 7
-  ]
-  edge
-  [
-    source 50
-    target 169
-    rank 8
-  ]
-  edge
-  [
-    source 50
-    target 24
-    rank 9
-  ]
-  edge
-  [
-    source 50
-    target 72
-    rank 12
-  ]
-  edge
-  [
-    source 50
-    target 2
-    rank 14
-  ]
-  edge
-  [
-    source 50
-    target 6
-    rank 16
-  ]
-  edge
-  [
-    source 50
-    target 3
-    rank 19
-  ]
-  edge
-  [
-    source 51
-    target 37
-    rank 2
-  ]
-  edge
-  [
-    source 51
-    target 212
-    rank 4
-  ]
-  edge
-  [
-    source 51
-    target 38
-    rank 12
-  ]
-  edge
-  [
-    source 52
-    target 172
-    rank 2
-  ]
-  edge
-  [
-    source 52
-    target 27
-    rank 3
-  ]
-  edge
-  [
-    source 52
-    target 258
-    rank 4
-  ]
-  edge
-  [
-    source 52
-    target 6
-    rank 5
-  ]
-  edge
-  [
-    source 52
-    target 10
-    rank 6
-  ]
-  edge
-  [
-    source 52
-    target 226
-    rank 8
-  ]
-  edge
-  [
-    source 52
-    target 18
-    rank 11
-  ]
-  edge
-  [
-    source 52
-    target 119
-    rank 13
-  ]
-  edge
-  [
-    source 52
-    target 3
-    rank 15
-  ]
-  edge
-  [
-    source 52
-    target 4
-    rank 17
-  ]
-  edge
-  [
-    source 52
-    target 25
-    rank 20
-  ]
-  edge
-  [
-    source 53
-    target 24
-    rank 2
-  ]
-  edge
-  [
-    source 53
-    target 10
-    rank 3
-  ]
-  edge
-  [
-    source 53
-    target 169
-    rank 4
-  ]
-  edge
-  [
-    source 53
-    target 72
-    rank 5
-  ]
-  edge
-  [
-    source 53
-    target 2
-    rank 7
-  ]
-  edge
-  [
-    source 53
-    target 172
-    rank 8
-  ]
-  edge
-  [
-    source 53
-    target 120
-    rank 9
-  ]
-  edge
-  [
-    source 53
-    target 67
-    rank 11
-  ]
-  edge
-  [
-    source 53
-    target 219
-    rank 13
-  ]
-  edge
-  [
-    source 53
-    target 37
-    rank 14
-  ]
-  edge
-  [
-    source 53
-    target 58
-    rank 15
-  ]
-  edge
-  [
-    source 53
-    target 82
-    rank 18
-  ]
-  edge
-  [
-    source 53
-    target 3
-    rank 20
-  ]
-  edge
-  [
-    source 54
-    target 193
-    rank 1
-  ]
-  edge
-  [
-    source 54
-    target 169
-    rank 2
-  ]
-  edge
-  [
-    source 54
-    target 172
-    rank 3
-  ]
-  edge
-  [
-    source 54
-    target 14
-    rank 4
-  ]
-  edge
-  [
-    source 54
-    target 72
-    rank 6
-  ]
-  edge
-  [
-    source 54
-    target 10
-    rank 8
-  ]
-  edge
-  [
-    source 54
-    target 6
-    rank 10
-  ]
-  edge
-  [
-    source 55
-    target 172
-    rank 1
-  ]
-  edge
-  [
-    source 55
-    target 258
-    rank 2
-  ]
-  edge
-  [
-    source 55
-    target 6
-    rank 6
-  ]
-  edge
-  [
-    source 55
-    target 13
-    rank 8
-  ]
-  edge
-  [
-    source 55
-    target 153
-    rank 9
-  ]
-  edge
-  [
-    source 55
-    target 18
-    rank 10
-  ]
-  edge
-  [
-    source 55
-    target 3
-    rank 11
-  ]
-  edge
-  [
-    source 55
-    target 184
-    rank 12
-  ]
-  edge
-  [
-    source 55
-    target 16
-    rank 13
-  ]
-  edge
-  [
-    source 55
-    target 10
-    rank 16
-  ]
-  edge
-  [
-    source 55
-    target 226
-    rank 18
-  ]
-  edge
-  [
-    source 55
-    target 27
-    rank 19
-  ]
-  edge
-  [
-    source 55
-    target 9
-    rank 20
-  ]
-  edge
-  [
-    source 56
-    target 172
-    rank 2
-  ]
-  edge
-  [
-    source 56
-    target 151
-    rank 3
-  ]
-  edge
-  [
-    source 56
-    target 14
-    rank 5
-  ]
-  edge
-  [
-    source 56
-    target 6
-    rank 6
-  ]
-  edge
-  [
-    source 56
-    target 3
-    rank 11
-  ]
-  edge
-  [
-    source 56
-    target 258
-    rank 14
-  ]
-  edge
-  [
-    source 56
-    target 10
-    rank 15
-  ]
-  edge
-  [
-    source 56
-    target 67
-    rank 16
-  ]
-  edge
-  [
-    source 56
-    target 82
-    rank 18
-  ]
-  edge
-  [
-    source 56
-    target 120
-    rank 19
-  ]
-  edge
-  [
-    source 56
-    target 72
-    rank 20
-  ]
-  edge
-  [
-    source 57
-    target 172
-    rank 1
-  ]
-  edge
-  [
-    source 57
-    target 14
-    rank 2
-  ]
-  edge
-  [
-    source 57
-    target 10
-    rank 3
-  ]
-  edge
-  [
-    source 57
-    target 226
-    rank 5
-  ]
-  edge
-  [
-    source 57
-    target 6
-    rank 7
-  ]
-  edge
-  [
-    source 57
-    target 258
-    rank 8
-  ]
-  edge
-  [
-    source 57
-    target 92
-    rank 10
-  ]
-  edge
-  [
-    source 57
-    target 37
-    rank 11
-  ]
-  edge
-  [
-    source 57
-    target 3
-    rank 12
-  ]
-  edge
-  [
-    source 57
-    target 276
-    rank 14
-  ]
-  edge
-  [
-    source 57
-    target 23
-    rank 16
-  ]
-  edge
-  [
-    source 57
-    target 228
-    rank 17
-  ]
-  edge
-  [
-    source 57
-    target 18
-    rank 18
-  ]
-  edge
-  [
-    source 57
-    target 260
-    rank 20
-  ]
-  edge
-  [
-    source 58
-    target 169
-    rank 1
-  ]
-  edge
-  [
-    source 58
-    target 172
-    rank 7
-  ]
-  edge
-  [
-    source 58
-    target 14
-    rank 11
-  ]
-  edge
-  [
-    source 58
-    target 6
-    rank 18
-  ]
-  edge
-  [
-    source 59
-    target 172
-    rank 1
-  ]
-  edge
-  [
-    source 59
-    target 27
-    rank 2
-  ]
-  edge
-  [
-    source 59
-    target 142
-    rank 4
-  ]
-  edge
-  [
-    source 59
-    target 10
-    rank 6
-  ]
-  edge
-  [
-    source 59
-    target 138
-    rank 7
-  ]
-  edge
-  [
-    source 59
-    target 12
-    rank 8
-  ]
-  edge
-  [
-    source 59
-    target 18
-    rank 12
-  ]
-  edge
-  [
-    source 59
-    target 100
-    rank 15
-  ]
-  edge
-  [
-    source 59
-    target 9
-    rank 16
-  ]
-  edge
-  [
-    source 59
-    target 37
-    rank 17
-  ]
-  edge
-  [
-    source 59
+    source 1
     target 8
-    rank 19
+    rank 10
   ]
   edge
   [
-    source 59
-    target 15
-    rank 20
-  ]
-  edge
-  [
-    source 60
-    target 14
+    source 2
+    target 169
     rank 1
   ]
   edge
   [
-    source 60
-    target 172
+    source 2
+    target 10
     rank 3
   ]
   edge
   [
-    source 60
-    target 285
+    source 2
+    target 6
+    rank 4
+  ]
+  edge
+  [
+    source 2
+    target 14
+    rank 5
+  ]
+  edge
+  [
+    source 2
+    target 24
     rank 6
   ]
   edge
   [
-    source 60
+    source 2
     target 22
-    rank 9
-  ]
-  edge
-  [
-    source 60
-    target 6
-    rank 14
-  ]
-  edge
-  [
-    source 60
-    target 183
-    rank 17
-  ]
-  edge
-  [
-    source 60
-    target 141
-    rank 20
-  ]
-  edge
-  [
-    source 61
-    target 47
-    rank 3
-  ]
-  edge
-  [
-    source 61
-    target 169
-    rank 4
-  ]
-  edge
-  [
-    source 61
-    target 6
-    rank 6
-  ]
-  edge
-  [
-    source 61
-    target 40
-    rank 8
-  ]
-  edge
-  [
-    source 61
-    target 14
-    rank 13
-  ]
-  edge
-  [
-    source 61
-    target 58
-    rank 16
-  ]
-  edge
-  [
-    source 62
-    target 24
-    rank 2
-  ]
-  edge
-  [
-    source 62
-    target 10
-    rank 3
-  ]
-  edge
-  [
-    source 62
-    target 172
-    rank 4
-  ]
-  edge
-  [
-    source 62
-    target 169
-    rank 5
-  ]
-  edge
-  [
-    source 62
-    target 58
-    rank 6
-  ]
-  edge
-  [
-    source 62
-    target 2
     rank 7
   ]
   edge
   [
-    source 62
-    target 170
-    rank 8
+    source 2
+    target 171
+    rank 11
   ]
   edge
   [
-    source 62
-    target 6
-    rank 10
-  ]
-  edge
-  [
-    source 62
-    target 37
+    source 2
+    target 79
     rank 12
   ]
   edge
   [
-    source 62
+    source 2
     target 3
-    rank 13
-  ]
-  edge
-  [
-    source 62
-    target 78
-    rank 14
-  ]
-  edge
-  [
-    source 62
-    target 82
     rank 15
   ]
   edge
   [
-    source 62
-    target 14
+    source 2
+    target 152
     rank 16
   ]
   edge
   [
-    source 62
-    target 18
-    rank 17
-  ]
-  edge
-  [
-    source 62
-    target 13
-    rank 18
-  ]
-  edge
-  [
-    source 62
-    target 54
-    rank 19
-  ]
-  edge
-  [
-    source 62
-    target 12
-    rank 20
-  ]
-  edge
-  [
-    source 63
-    target 172
-    rank 1
-  ]
-  edge
-  [
-    source 63
-    target 258
-    rank 4
-  ]
-  edge
-  [
-    source 63
-    target 71
-    rank 9
-  ]
-  edge
-  [
-    source 63
-    target 18
-    rank 11
-  ]
-  edge
-  [
-    source 63
-    target 276
-    rank 14
-  ]
-  edge
-  [
-    source 63
-    target 226
-    rank 18
-  ]
-  edge
-  [
-    source 63
-    target 290
-    rank 19
-  ]
-  edge
-  [
-    source 63
-    target 16
-    rank 20
-  ]
-  edge
-  [
-    source 64
-    target 172
-    rank 1
-  ]
-  edge
-  [
-    source 64
-    target 6
-    rank 2
-  ]
-  edge
-  [
-    source 64
-    target 120
-    rank 3
-  ]
-  edge
-  [
-    source 64
-    target 2
-    rank 4
-  ]
-  edge
-  [
-    source 64
-    target 169
-    rank 5
-  ]
-  edge
-  [
-    source 64
-    target 72
-    rank 7
-  ]
-  edge
-  [
-    source 64
-    target 10
-    rank 8
-  ]
-  edge
-  [
-    source 64
-    target 102
-    rank 10
-  ]
-  edge
-  [
-    source 64
-    target 276
-    rank 13
-  ]
-  edge
-  [
-    source 64
-    target 151
-    rank 14
-  ]
-  edge
-  [
-    source 64
-    target 67
-    rank 16
-  ]
-  edge
-  [
-    source 64
-    target 258
-    rank 18
-  ]
-  edge
-  [
-    source 64
-    target 37
-    rank 19
-  ]
-  edge
-  [
-    source 65
-    target 172
-    rank 1
-  ]
-  edge
-  [
-    source 65
-    target 170
-    rank 2
-  ]
-  edge
-  [
-    source 65
-    target 18
-    rank 3
-  ]
-  edge
-  [
-    source 65
-    target 304
-    rank 4
-  ]
-  edge
-  [
-    source 65
-    target 153
-    rank 6
-  ]
-  edge
-  [
-    source 65
-    target 37
-    rank 7
-  ]
-  edge
-  [
-    source 65
-    target 23
-    rank 10
-  ]
-  edge
-  [
-    source 65
-    target 3
-    rank 11
-  ]
-  edge
-  [
-    source 65
-    target 226
-    rank 14
-  ]
-  edge
-  [
-    source 65
-    target 10
-    rank 15
-  ]
-  edge
-  [
-    source 65
-    target 27
-    rank 16
-  ]
-  edge
-  [
-    source 65
-    target 100
-    rank 20
-  ]
-  edge
-  [
-    source 66
-    target 172
-    rank 1
-  ]
-  edge
-  [
-    source 66
-    target 120
-    rank 2
-  ]
-  edge
-  [
-    source 66
-    target 169
-    rank 3
-  ]
-  edge
-  [
-    source 66
-    target 24
-    rank 4
-  ]
-  edge
-  [
-    source 66
-    target 6
-    rank 6
-  ]
-  edge
-  [
-    source 66
-    target 72
-    rank 7
-  ]
-  edge
-  [
-    source 66
-    target 58
-    rank 9
-  ]
-  edge
-  [
-    source 66
-    target 3
-    rank 10
-  ]
-  edge
-  [
-    source 66
-    target 14
-    rank 12
-  ]
-  edge
-  [
-    source 66
-    target 67
-    rank 17
-  ]
-  edge
-  [
-    source 66
-    target 10
-    rank 18
-  ]
-  edge
-  [
-    source 67
-    target 47
-    rank 2
-  ]
-  edge
-  [
-    source 67
-    target 172
-    rank 3
-  ]
-  edge
-  [
-    source 67
-    target 169
-    rank 4
-  ]
-  edge
-  [
-    source 67
-    target 6
-    rank 5
-  ]
-  edge
-  [
-    source 67
-    target 72
-    rank 6
-  ]
-  edge
-  [
-    source 67
-    target 120
-    rank 7
-  ]
-  edge
-  [
-    source 67
-    target 14
-    rank 8
-  ]
-  edge
-  [
-    source 67
-    target 82
-    rank 10
-  ]
-  edge
-  [
-    source 67
-    target 151
-    rank 13
-  ]
-  edge
-  [
-    source 67
-    target 285
-    rank 15
-  ]
-  edge
-  [
-    source 67
-    target 257
-    rank 17
-  ]
-  edge
-  [
-    source 67
-    target 58
-    rank 20
-  ]
-  edge
-  [
-    source 68
-    target 304
-    rank 2
-  ]
-  edge
-  [
-    source 68
-    target 37
-    rank 9
-  ]
-  edge
-  [
-    source 69
-    target 172
-    rank 1
-  ]
-  edge
-  [
-    source 69
-    target 10
-    rank 2
-  ]
-  edge
-  [
-    source 69
-    target 6
-    rank 3
-  ]
-  edge
-  [
-    source 69
-    target 170
-    rank 4
-  ]
-  edge
-  [
-    source 69
-    target 183
-    rank 5
-  ]
-  edge
-  [
-    source 69
-    target 21
-    rank 6
-  ]
-  edge
-  [
-    source 69
-    target 22
-    rank 9
-  ]
-  edge
-  [
-    source 69
-    target 2
-    rank 11
-  ]
-  edge
-  [
-    source 69
-    target 60
-    rank 13
-  ]
-  edge
-  [
-    source 70
-    target 172
-    rank 1
-  ]
-  edge
-  [
-    source 70
-    target 304
-    rank 4
-  ]
-  edge
-  [
-    source 70
-    target 115
-    rank 7
-  ]
-  edge
-  [
-    source 70
-    target 6
-    rank 9
-  ]
-  edge
-  [
-    source 70
-    target 119
-    rank 11
-  ]
-  edge
-  [
-    source 70
-    target 226
-    rank 14
-  ]
-  edge
-  [
-    source 70
-    target 18
-    rank 15
-  ]
-  edge
-  [
-    source 70
-    target 3
-    rank 17
-  ]
-  edge
-  [
-    source 71
-    target 172
-    rank 1
-  ]
-  edge
-  [
-    source 71
-    target 72
-    rank 2
-  ]
-  edge
-  [
-    source 71
-    target 169
-    rank 3
-  ]
-  edge
-  [
-    source 71
-    target 10
-    rank 4
-  ]
-  edge
-  [
-    source 71
-    target 120
-    rank 5
-  ]
-  edge
-  [
-    source 71
-    target 6
-    rank 6
-  ]
-  edge
-  [
-    source 71
-    target 80
-    rank 8
-  ]
-  edge
-  [
-    source 71
-    target 2
-    rank 10
-  ]
-  edge
-  [
-    source 71
-    target 24
-    rank 11
-  ]
-  edge
-  [
-    source 71
-    target 67
-    rank 12
-  ]
-  edge
-  [
-    source 71
-    target 14
-    rank 15
-  ]
-  edge
-  [
-    source 71
-    target 58
-    rank 17
-  ]
-  edge
-  [
-    source 71
-    target 18
-    rank 18
-  ]
-  edge
-  [
-    source 71
-    target 78
-    rank 19
-  ]
-  edge
-  [
-    source 71
-    target 82
-    rank 20
-  ]
-  edge
-  [
-    source 72
-    target 120
-    rank 2
-  ]
-  edge
-  [
-    source 72
-    target 169
-    rank 3
-  ]
-  edge
-  [
-    source 72
-    target 14
-    rank 4
-  ]
-  edge
-  [
-    source 72
-    target 172
-    rank 5
-  ]
-  edge
-  [
-    source 72
-    target 47
-    rank 7
-  ]
-  edge
-  [
-    source 72
-    target 67
-    rank 13
-  ]
-  edge
-  [
-    source 72
-    target 151
-    rank 16
-  ]
-  edge
-  [
-    source 72
-    target 285
-    rank 18
-  ]
-  edge
-  [
-    source 72
-    target 6
-    rank 19
-  ]
-  edge
-  [
-    source 73
-    target 276
-    rank 1
-  ]
-  edge
-  [
-    source 73
-    target 172
-    rank 2
-  ]
-  edge
-  [
-    source 73
-    target 6
-    rank 3
-  ]
-  edge
-  [
-    source 73
-    target 170
-    rank 4
-  ]
-  edge
-  [
-    source 73
-    target 10
-    rank 6
-  ]
-  edge
-  [
-    source 73
-    target 18
-    rank 14
-  ]
-  edge
-  [
-    source 73
-    target 37
-    rank 16
-  ]
-  edge
-  [
-    source 73
-    target 92
-    rank 17
-  ]
-  edge
-  [
-    source 73
-    target 23
-    rank 20
-  ]
-  edge
-  [
-    source 74
-    target 120
-    rank 1
-  ]
-  edge
-  [
-    source 74
-    target 172
-    rank 2
-  ]
-  edge
-  [
-    source 74
-    target 10
-    rank 4
-  ]
-  edge
-  [
-    source 74
-    target 169
-    rank 5
-  ]
-  edge
-  [
-    source 74
-    target 3
-    rank 6
-  ]
-  edge
-  [
-    source 74
-    target 228
-    rank 10
-  ]
-  edge
-  [
-    source 74
-    target 14
-    rank 11
-  ]
-  edge
-  [
-    source 74
-    target 226
-    rank 12
-  ]
-  edge
-  [
-    source 74
-    target 18
-    rank 14
-  ]
-  edge
-  [
-    source 74
-    target 71
-    rank 16
-  ]
-  edge
-  [
-    source 74
-    target 131
-    rank 17
-  ]
-  edge
-  [
-    source 74
-    target 37
-    rank 18
-  ]
-  edge
-  [
-    source 74
-    target 70
-    rank 19
-  ]
-  edge
-  [
-    source 74
-    target 13
-    rank 20
-  ]
-  edge
-  [
-    source 75
-    target 24
-    rank 2
-  ]
-  edge
-  [
-    source 75
-    target 170
-    rank 3
-  ]
-  edge
-  [
-    source 75
-    target 120
-    rank 4
-  ]
-  edge
-  [
-    source 75
-    target 22
-    rank 5
-  ]
-  edge
-  [
-    source 75
-    target 172
-    rank 6
-  ]
-  edge
-  [
-    source 75
-    target 2
-    rank 7
-  ]
-  edge
-  [
-    source 75
-    target 58
-    rank 9
-  ]
-  edge
-  [
-    source 75
-    target 10
-    rank 10
-  ]
-  edge
-  [
-    source 75
-    target 31
-    rank 11
-  ]
-  edge
-  [
-    source 75
-    target 82
-    rank 13
-  ]
-  edge
-  [
-    source 75
-    target 151
-    rank 15
-  ]
-  edge
-  [
-    source 75
-    target 14
-    rank 16
-  ]
-  edge
-  [
-    source 75
-    target 258
-    rank 18
-  ]
-  edge
-  [
-    source 75
-    target 231
-    rank 19
-  ]
-  edge
-  [
-    source 76
-    target 37
-    rank 5
-  ]
-  edge
-  [
-    source 76
-    target 64
-    rank 11
-  ]
-  edge
-  [
-    source 76
-    target 131
-    rank 15
-  ]
-  edge
-  [
-    source 78
-    target 10
-    rank 1
-  ]
-  edge
-  [
-    source 78
-    target 170
-    rank 3
-  ]
-  edge
-  [
-    source 78
-    target 2
-    rank 4
-  ]
-  edge
-  [
-    source 78
-    target 14
-    rank 5
-  ]
-  edge
-  [
-    source 78
-    target 6
-    rank 6
-  ]
-  edge
-  [
-    source 78
-    target 153
-    rank 9
-  ]
-  edge
-  [
-    source 78
-    target 80
-    rank 10
-  ]
-  edge
-  [
-    source 78
-    target 263
-    rank 11
-  ]
-  edge
-  [
-    source 78
-    target 133
-    rank 12
-  ]
-  edge
-  [
-    source 78
-    target 217
-    rank 14
-  ]
-  edge
-  [
-    source 78
-    target 172
-    rank 15
-  ]
-  edge
-  [
-    source 78
-    target 151
-    rank 17
-  ]
-  edge
-  [
-    source 78
-    target 3
-    rank 18
-  ]
-  edge
-  [
-    source 78
-    target 60
-    rank 20
-  ]
-  edge
-  [
-    source 79
-    target 172
-    rank 1
-  ]
-  edge
-  [
-    source 79
-    target 37
-    rank 2
-  ]
-  edge
-  [
-    source 79
-    target 27
-    rank 4
-  ]
-  edge
-  [
-    source 79
-    target 16
-    rank 6
-  ]
-  edge
-  [
-    source 79
-    target 23
-    rank 8
-  ]
-  edge
-  [
-    source 79
-    target 12
-    rank 9
-  ]
-  edge
-  [
-    source 79
-    target 100
-    rank 13
-  ]
-  edge
-  [
-    source 79
-    target 4
-    rank 15
-  ]
-  edge
-  [
-    source 79
-    target 14
-    rank 16
-  ]
-  edge
-  [
-    source 79
-    target 184
-    rank 17
-  ]
-  edge
-  [
-    source 79
-    target 65
-    rank 18
-  ]
-  edge
-  [
-    source 79
-    target 142
-    rank 20
-  ]
-  edge
-  [
-    source 80
-    target 37
-    rank 1
-  ]
-  edge
-  [
-    source 80
-    target 255
-    rank 13
-  ]
-  edge
-  [
-    source 81
-    target 172
-    rank 1
-  ]
-  edge
-  [
-    source 81
-    target 14
-    rank 2
-  ]
-  edge
-  [
-    source 81
-    target 169
-    rank 3
-  ]
-  edge
-  [
-    source 81
-    target 144
-    rank 4
-  ]
-  edge
-  [
-    source 81
-    target 88
-    rank 6
-  ]
-  edge
-  [
-    source 81
-    target 3
-    rank 9
-  ]
-  edge
-  [
-    source 81
-    target 258
-    rank 10
-  ]
-  edge
-  [
-    source 81
-    target 6
-    rank 11
-  ]
-  edge
-  [
-    source 81
-    target 67
-    rank 19
-  ]
-  edge
-  [
-    source 82
-    target 172
-    rank 2
-  ]
-  edge
-  [
-    source 82
-    target 6
-    rank 4
-  ]
-  edge
-  [
-    source 82
-    target 47
-    rank 5
-  ]
-  edge
-  [
-    source 82
-    target 24
-    rank 6
-  ]
-  edge
-  [
-    source 82
-    target 285
-    rank 9
-  ]
-  edge
-  [
-    source 82
-    target 72
-    rank 15
-  ]
-  edge
-  [
-    source 83
-    target 172
-    rank 1
-  ]
-  edge
-  [
-    source 83
-    target 24
-    rank 2
-  ]
-  edge
-  [
-    source 83
-    target 10
-    rank 3
-  ]
-  edge
-  [
-    source 83
-    target 102
-    rank 4
-  ]
-  edge
-  [
-    source 83
-    target 22
-    rank 5
-  ]
-  edge
-  [
-    source 83
-    target 47
-    rank 6
-  ]
-  edge
-  [
-    source 83
-    target 72
-    rank 7
-  ]
-  edge
-  [
-    source 83
-    target 6
-    rank 8
-  ]
-  edge
-  [
-    source 83
-    target 58
-    rank 10
-  ]
-  edge
-  [
-    source 83
-    target 2
-    rank 12
-  ]
-  edge
-  [
-    source 83
-    target 67
-    rank 13
-  ]
-  edge
-  [
-    source 83
-    target 14
-    rank 15
-  ]
-  edge
-  [
-    source 83
-    target 219
-    rank 16
-  ]
-  edge
-  [
-    source 83
-    target 3
-    rank 18
-  ]
-  edge
-  [
-    source 83
-    target 278
-    rank 20
-  ]
-  edge
-  [
-    source 84
-    target 40
-    rank 4
-  ]
-  edge
-  [
-    source 84
-    target 233
-    rank 6
-  ]
-  edge
-  [
-    source 85
-    target 72
-    rank 7
-  ]
-  edge
-  [
-    source 85
-    target 14
-    rank 13
-  ]
-  edge
-  [
-    source 85
-    target 120
-    rank 17
-  ]
-  edge
-  [
-    source 85
-    target 285
-    rank 20
-  ]
-  edge
-  [
-    source 86
-    target 172
-    rank 1
-  ]
-  edge
-  [
-    source 86
-    target 14
-    rank 3
-  ]
-  edge
-  [
-    source 86
-    target 169
-    rank 4
-  ]
-  edge
-  [
-    source 86
-    target 258
-    rank 5
-  ]
-  edge
-  [
-    source 86
-    target 3
-    rank 8
-  ]
-  edge
-  [
-    source 86
-    target 72
-    rank 16
-  ]
-  edge
-  [
-    source 86
-    target 226
-    rank 18
-  ]
-  edge
-  [
-    source 87
-    target 172
-    rank 1
-  ]
-  edge
-  [
-    source 87
-    target 120
-    rank 2
-  ]
-  edge
-  [
-    source 87
-    target 2
-    rank 3
-  ]
-  edge
-  [
-    source 87
-    target 14
-    rank 4
-  ]
-  edge
-  [
-    source 87
-    target 6
-    rank 5
-  ]
-  edge
-  [
-    source 87
-    target 72
-    rank 6
-  ]
-  edge
-  [
-    source 87
-    target 258
-    rank 7
-  ]
-  edge
-  [
-    source 87
-    target 24
-    rank 9
-  ]
-  edge
-  [
-    source 87
-    target 3
-    rank 10
-  ]
-  edge
-  [
-    source 87
-    target 67
-    rank 15
-  ]
-  edge
-  [
-    source 87
-    target 10
-    rank 16
-  ]
-  edge
-  [
-    source 87
-    target 151
-    rank 17
-  ]
-  edge
-  [
-    source 87
-    target 273
-    rank 18
-  ]
-  edge
-  [
-    source 87
-    target 193
-    rank 19
-  ]
-  edge
-  [
-    source 88
-    target 68
-    rank 3
-  ]
-  edge
-  [
-    source 88
-    target 37
-    rank 5
-  ]
-  edge
-  [
-    source 88
-    target 135
-    rank 8
-  ]
-  edge
-  [
-    source 88
-    target 76
-    rank 9
-  ]
-  edge
-  [
-    source 88
-    target 131
-    rank 13
-  ]
-  edge
-  [
-    source 88
-    target 96
-    rank 15
-  ]
-  edge
-  [
-    source 89
-    target 22
-    rank 1
-  ]
-  edge
-  [
-    source 89
-    target 199
-    rank 19
-  ]
-  edge
-  [
-    source 90
-    target 2
-    rank 1
-  ]
-  edge
-  [
-    source 90
-    target 172
-    rank 2
-  ]
-  edge
-  [
-    source 90
-    target 24
-    rank 3
-  ]
-  edge
-  [
-    source 90
+    source 2
     target 77
-    rank 4
-  ]
-  edge
-  [
-    source 90
-    target 6
-    rank 8
-  ]
-  edge
-  [
-    source 90
-    target 258
-    rank 9
-  ]
-  edge
-  [
-    source 90
-    target 18
-    rank 10
-  ]
-  edge
-  [
-    source 90
-    target 67
-    rank 11
-  ]
-  edge
-  [
-    source 90
-    target 74
-    rank 14
-  ]
-  edge
-  [
-    source 90
-    target 72
     rank 17
   ]
   edge
   [
-    source 90
-    target 184
+    source 2
+    target 59
     rank 20
   ]
   edge
   [
-    source 91
-    target 72
+    source 3
+    target 171
     rank 1
   ]
   edge
   [
-    source 91
-    target 169
+    source 3
+    target 10
     rank 2
   ]
   edge
   [
-    source 91
-    target 172
+    source 3
+    target 119
     rank 3
   ]
   edge
   [
-    source 91
-    target 82
+    source 3
+    target 168
     rank 4
   ]
   edge
   [
-    source 91
-    target 304
-    rank 6
-  ]
-  edge
-  [
-    source 91
+    source 3
     target 71
-    rank 9
-  ]
-  edge
-  [
-    source 91
-    target 6
-    rank 10
-  ]
-  edge
-  [
-    source 91
-    target 18
-    rank 11
-  ]
-  edge
-  [
-    source 91
-    target 3
-    rank 15
-  ]
-  edge
-  [
-    source 91
-    target 14
-    rank 17
-  ]
-  edge
-  [
-    source 91
-    target 273
-    rank 18
-  ]
-  edge
-  [
-    source 91
-    target 37
-    rank 19
-  ]
-  edge
-  [
-    source 92
-    target 172
-    rank 1
-  ]
-  edge
-  [
-    source 92
-    target 72
-    rank 2
-  ]
-  edge
-  [
-    source 92
-    target 6
     rank 6
   ]
   edge
   [
-    source 92
-    target 10
-    rank 8
-  ]
-  edge
-  [
-    source 92
-    target 276
-    rank 10
-  ]
-  edge
-  [
-    source 92
-    target 258
-    rank 12
-  ]
-  edge
-  [
-    source 92
-    target 71
-    rank 16
-  ]
-  edge
-  [
-    source 92
-    target 37
-    rank 19
-  ]
-  edge
-  [
-    source 92
-    target 23
-    rank 20
-  ]
-  edge
-  [
-    source 93
-    target 172
-    rank 1
-  ]
-  edge
-  [
-    source 93
-    target 170
-    rank 2
-  ]
-  edge
-  [
-    source 93
-    target 14
-    rank 3
-  ]
-  edge
-  [
-    source 93
-    target 10
-    rank 6
-  ]
-  edge
-  [
-    source 93
-    target 226
-    rank 7
-  ]
-  edge
-  [
-    source 93
-    target 153
-    rank 8
-  ]
-  edge
-  [
-    source 93
-    target 115
-    rank 10
-  ]
-  edge
-  [
-    source 93
-    target 142
-    rank 11
-  ]
-  edge
-  [
-    source 93
-    target 100
-    rank 12
-  ]
-  edge
-  [
-    source 93
-    target 27
-    rank 13
-  ]
-  edge
-  [
-    source 93
-    target 23
-    rank 15
-  ]
-  edge
-  [
-    source 93
-    target 13
-    rank 17
-  ]
-  edge
-  [
-    source 93
-    target 312
-    rank 19
-  ]
-  edge
-  [
-    source 93
-    target 18
-    rank 20
-  ]
-  edge
-  [
-    source 94
-    target 172
-    rank 1
-  ]
-  edge
-  [
-    source 94
-    target 183
-    rank 2
-  ]
-  edge
-  [
-    source 94
-    target 80
-    rank 3
-  ]
-  edge
-  [
-    source 94
-    target 10
-    rank 4
-  ]
-  edge
-  [
-    source 94
-    target 22
-    rank 5
-  ]
-  edge
-  [
-    source 94
-    target 133
-    rank 6
-  ]
-  edge
-  [
-    source 94
-    target 2
-    rank 7
-  ]
-  edge
-  [
-    source 94
-    target 72
-    rank 11
-  ]
-  edge
-  [
-    source 94
-    target 141
-    rank 13
-  ]
-  edge
-  [
-    source 94
-    target 105
-    rank 14
-  ]
-  edge
-  [
-    source 94
-    target 37
-    rank 15
-  ]
-  edge
-  [
-    source 94
-    target 14
-    rank 16
-  ]
-  edge
-  [
-    source 94
-    target 23
-    rank 18
-  ]
-  edge
-  [
-    source 94
-    target 151
-    rank 19
-  ]
-  edge
-  [
-    source 95
-    target 172
-    rank 1
-  ]
-  edge
-  [
-    source 95
-    target 21
-    rank 2
-  ]
-  edge
-  [
-    source 95
-    target 6
-    rank 3
-  ]
-  edge
-  [
-    source 95
-    target 80
-    rank 4
-  ]
-  edge
-  [
-    source 95
-    target 67
-    rank 5
-  ]
-  edge
-  [
-    source 95
-    target 228
-    rank 7
-  ]
-  edge
-  [
-    source 95
-    target 27
-    rank 9
-  ]
-  edge
-  [
-    source 95
-    target 10
-    rank 10
-  ]
-  edge
-  [
-    source 95
-    target 184
-    rank 13
-  ]
-  edge
-  [
-    source 95
-    target 13
-    rank 15
-  ]
-  edge
-  [
-    source 95
-    target 16
-    rank 16
-  ]
-  edge
-  [
-    source 95
-    target 4
-    rank 17
-  ]
-  edge
-  [
-    source 95
-    target 142
-    rank 18
-  ]
-  edge
-  [
-    source 95
-    target 135
-    rank 19
-  ]
-  edge
-  [
-    source 95
-    target 18
-    rank 20
-  ]
-  edge
-  [
-    source 96
-    target 106
-    rank 1
-  ]
-  edge
-  [
-    source 96
-    target 37
-    rank 3
-  ]
-  edge
-  [
-    source 97
-    target 172
-    rank 1
-  ]
-  edge
-  [
-    source 97
-    target 258
-    rank 2
-  ]
-  edge
-  [
-    source 97
-    target 226
-    rank 4
-  ]
-  edge
-  [
-    source 97
-    target 3
-    rank 5
-  ]
-  edge
-  [
-    source 97
-    target 9
-    rank 6
-  ]
-  edge
-  [
-    source 97
-    target 184
-    rank 7
-  ]
-  edge
-  [
-    source 97
-    target 25
-    rank 10
-  ]
-  edge
-  [
-    source 97
-    target 12
-    rank 11
-  ]
-  edge
-  [
-    source 97
-    target 18
-    rank 13
-  ]
-  edge
-  [
-    source 97
-    target 37
-    rank 15
-  ]
-  edge
-  [
-    source 97
-    target 276
-    rank 17
-  ]
-  edge
-  [
-    source 98
-    target 10
-    rank 2
-  ]
-  edge
-  [
-    source 98
-    target 172
-    rank 3
-  ]
-  edge
-  [
-    source 98
-    target 72
-    rank 6
-  ]
-  edge
-  [
-    source 98
-    target 37
-    rank 9
-  ]
-  edge
-  [
-    source 98
-    target 23
-    rank 10
-  ]
-  edge
-  [
-    source 98
-    target 14
-    rank 12
-  ]
-  edge
-  [
-    source 98
-    target 232
-    rank 13
-  ]
-  edge
-  [
-    source 98
-    target 3
-    rank 16
-  ]
-  edge
-  [
-    source 99
-    target 172
-    rank 1
-  ]
-  edge
-  [
-    source 99
-    target 18
-    rank 2
-  ]
-  edge
-  [
-    source 99
-    target 10
-    rank 3
-  ]
-  edge
-  [
-    source 99
-    target 3
-    rank 8
-  ]
-  edge
-  [
-    source 99
-    target 25
-    rank 11
-  ]
-  edge
-  [
-    source 99
-    target 4
-    rank 15
-  ]
-  edge
-  [
-    source 99
-    target 70
-    rank 16
-  ]
-  edge
-  [
-    source 99
-    target 32
-    rank 18
-  ]
-  edge
-  [
-    source 99
-    target 65
-    rank 19
-  ]
-  edge
-  [
-    source 99
-    target 115
-    rank 20
-  ]
-  edge
-  [
-    source 100
-    target 170
-    rank 1
-  ]
-  edge
-  [
-    source 100
-    target 172
-    rank 2
-  ]
-  edge
-  [
-    source 100
-    target 6
-    rank 4
-  ]
-  edge
-  [
-    source 100
-    target 2
-    rank 5
-  ]
-  edge
-  [
-    source 100
-    target 226
-    rank 6
-  ]
-  edge
-  [
-    source 100
-    target 228
-    rank 7
-  ]
-  edge
-  [
-    source 100
-    target 153
-    rank 9
-  ]
-  edge
-  [
-    source 100
-    target 10
-    rank 10
-  ]
-  edge
-  [
-    source 100
-    target 184
-    rank 11
-  ]
-  edge
-  [
-    source 100
-    target 16
-    rank 15
-  ]
-  edge
-  [
-    source 100
-    target 27
-    rank 16
-  ]
-  edge
-  [
-    source 100
-    target 13
-    rank 20
-  ]
-  edge
-  [
-    source 101
-    target 172
-    rank 1
-  ]
-  edge
-  [
-    source 101
-    target 120
-    rank 2
-  ]
-  edge
-  [
-    source 101
-    target 169
-    rank 3
-  ]
-  edge
-  [
-    source 101
-    target 6
-    rank 4
-  ]
-  edge
-  [
-    source 101
-    target 88
-    rank 6
-  ]
-  edge
-  [
-    source 101
+    source 3
     target 24
+    rank 7
+  ]
+  edge
+  [
+    source 3
+    target 14
     rank 8
   ]
   edge
   [
-    source 101
-    target 10
+    source 3
+    target 253
     rank 9
   ]
   edge
   [
-    source 101
-    target 14
+    source 3
+    target 6
     rank 10
   ]
   edge
   [
-    source 101
-    target 72
+    source 3
+    target 150
     rank 13
   ]
   edge
   [
-    source 101
-    target 170
-    rank 15
-  ]
-  edge
-  [
-    source 101
-    target 67
-    rank 17
-  ]
-  edge
-  [
-    source 101
-    target 258
-    rank 19
-  ]
-  edge
-  [
-    source 101
-    target 82
-    rank 20
-  ]
-  edge
-  [
-    source 102
-    target 172
-    rank 2
-  ]
-  edge
-  [
-    source 102
-    target 14
-    rank 3
-  ]
-  edge
-  [
-    source 102
-    target 6
-    rank 4
-  ]
-  edge
-  [
-    source 102
-    target 22
-    rank 5
-  ]
-  edge
-  [
-    source 102
-    target 285
-    rank 8
-  ]
-  edge
-  [
-    source 102
+    source 3
     target 2
-    rank 9
-  ]
-  edge
-  [
-    source 102
-    target 1
-    rank 11
-  ]
-  edge
-  [
-    source 102
-    target 58
-    rank 13
-  ]
-  edge
-  [
-    source 102
-    target 151
     rank 14
   ]
   edge
   [
-    source 102
-    target 82
+    source 3
+    target 81
     rank 15
   ]
   edge
   [
-    source 103
-    target 304
-    rank 3
-  ]
-  edge
-  [
-    source 103
-    target 64
-    rank 4
-  ]
-  edge
-  [
-    source 103
-    target 37
-    rank 8
-  ]
-  edge
-  [
-    source 103
-    target 177
-    rank 9
-  ]
-  edge
-  [
-    source 103
-    target 131
-    rank 17
-  ]
-  edge
-  [
-    source 103
-    target 76
-    rank 20
-  ]
-  edge
-  [
-    source 104
-    target 258
-    rank 1
-  ]
-  edge
-  [
-    source 104
-    target 172
-    rank 2
-  ]
-  edge
-  [
-    source 104
-    target 72
-    rank 4
-  ]
-  edge
-  [
-    source 104
-    target 37
-    rank 5
-  ]
-  edge
-  [
-    source 104
-    target 18
-    rank 7
-  ]
-  edge
-  [
-    source 104
-    target 6
-    rank 9
-  ]
-  edge
-  [
-    source 104
-    target 276
-    rank 14
-  ]
-  edge
-  [
-    source 104
-    target 3
-    rank 15
-  ]
-  edge
-  [
-    source 104
-    target 119
-    rank 18
-  ]
-  edge
-  [
-    source 104
-    target 51
-    rank 19
-  ]
-  edge
-  [
-    source 104
-    target 27
-    rank 20
-  ]
-  edge
-  [
-    source 105
-    target 172
-    rank 1
-  ]
-  edge
-  [
-    source 105
-    target 183
-    rank 2
-  ]
-  edge
-  [
-    source 105
-    target 2
-    rank 3
-  ]
-  edge
-  [
-    source 105
-    target 80
-    rank 4
-  ]
-  edge
-  [
-    source 105
-    target 22
-    rank 6
-  ]
-  edge
-  [
-    source 105
-    target 6
-    rank 13
-  ]
-  edge
-  [
-    source 105
-    target 60
-    rank 15
-  ]
-  edge
-  [
-    source 105
-    target 10
-    rank 17
-  ]
-  edge
-  [
-    source 106
-    target 96
-    rank 1
-  ]
-  edge
-  [
-    source 106
-    target 172
-    rank 2
-  ]
-  edge
-  [
-    source 106
-    target 67
-    rank 3
-  ]
-  edge
-  [
-    source 106
-    target 72
-    rank 4
-  ]
-  edge
-  [
-    source 106
-    target 120
-    rank 5
-  ]
-  edge
-  [
-    source 106
-    target 6
-    rank 6
-  ]
-  edge
-  [
-    source 106
-    target 14
-    rank 11
-  ]
-  edge
-  [
-    source 106
-    target 3
-    rank 12
-  ]
-  edge
-  [
-    source 107
-    target 172
-    rank 1
-  ]
-  edge
-  [
-    source 107
-    target 21
-    rank 2
-  ]
-  edge
-  [
-    source 107
-    target 10
-    rank 3
-  ]
-  edge
-  [
-    source 107
-    target 14
-    rank 4
-  ]
-  edge
-  [
-    source 107
-    target 6
-    rank 5
-  ]
-  edge
-  [
-    source 107
-    target 153
-    rank 7
-  ]
-  edge
-  [
-    source 107
-    target 1
-    rank 8
-  ]
-  edge
-  [
-    source 107
-    target 23
-    rank 9
-  ]
-  edge
-  [
-    source 107
-    target 37
-    rank 10
-  ]
-  edge
-  [
-    source 107
-    target 3
-    rank 11
-  ]
-  edge
-  [
-    source 107
-    target 18
-    rank 13
-  ]
-  edge
-  [
-    source 107
-    target 12
-    rank 14
-  ]
-  edge
-  [
-    source 107
-    target 115
+    source 3
+    target 66
     rank 16
   ]
   edge
   [
-    source 107
-    target 11
+    source 3
+    target 269
     rank 18
   ]
   edge
   [
-    source 107
-    target 5
-    rank 19
-  ]
-  edge
-  [
-    source 108
-    target 172
-    rank 1
-  ]
-  edge
-  [
-    source 108
-    target 18
-    rank 2
-  ]
-  edge
-  [
-    source 108
-    target 258
-    rank 3
-  ]
-  edge
-  [
-    source 108
-    target 235
-    rank 4
-  ]
-  edge
-  [
-    source 108
-    target 184
-    rank 5
-  ]
-  edge
-  [
-    source 108
-    target 11
-    rank 6
-  ]
-  edge
-  [
-    source 108
-    target 37
-    rank 7
-  ]
-  edge
-  [
-    source 108
-    target 3
-    rank 9
-  ]
-  edge
-  [
-    source 108
-    target 119
-    rank 10
-  ]
-  edge
-  [
-    source 108
-    target 138
-    rank 11
-  ]
-  edge
-  [
-    source 108
-    target 276
-    rank 12
-  ]
-  edge
-  [
-    source 108
-    target 140
-    rank 15
-  ]
-  edge
-  [
-    source 108
-    target 4
-    rank 16
-  ]
-  edge
-  [
-    source 108
-    target 19
-    rank 20
-  ]
-  edge
-  [
-    source 109
-    target 172
-    rank 1
-  ]
-  edge
-  [
-    source 109
-    target 14
-    rank 2
-  ]
-  edge
-  [
-    source 109
-    target 27
-    rank 4
-  ]
-  edge
-  [
-    source 109
-    target 10
-    rank 5
-  ]
-  edge
-  [
-    source 109
-    target 37
-    rank 9
-  ]
-  edge
-  [
-    source 109
-    target 6
-    rank 11
-  ]
-  edge
-  [
-    source 109
-    target 142
-    rank 12
-  ]
-  edge
-  [
-    source 109
-    target 51
-    rank 13
-  ]
-  edge
-  [
-    source 109
-    target 100
-    rank 16
-  ]
-  edge
-  [
-    source 109
-    target 72
-    rank 17
-  ]
-  edge
-  [
-    source 109
-    target 4
-    rank 18
-  ]
-  edge
-  [
-    source 109
-    target 23
-    rank 19
-  ]
-  edge
-  [
-    source 109
-    target 18
-    rank 20
-  ]
-  edge
-  [
-    source 110
-    target 172
-    rank 1
-  ]
-  edge
-  [
-    source 110
-    target 18
-    rank 3
-  ]
-  edge
-  [
-    source 110
-    target 27
-    rank 4
-  ]
-  edge
-  [
-    source 110
-    target 6
-    rank 5
-  ]
-  edge
-  [
-    source 110
-    target 10
-    rank 6
-  ]
-  edge
-  [
-    source 110
-    target 226
-    rank 8
-  ]
-  edge
-  [
-    source 110
-    target 228
-    rank 9
-  ]
-  edge
-  [
-    source 110
-    target 51
-    rank 10
-  ]
-  edge
-  [
-    source 110
-    target 11
-    rank 11
-  ]
-  edge
-  [
-    source 110
-    target 260
-    rank 13
-  ]
-  edge
-  [
-    source 110
-    target 184
-    rank 14
-  ]
-  edge
-  [
-    source 110
-    target 37
-    rank 17
-  ]
-  edge
-  [
-    source 110
-    target 4
-    rank 19
-  ]
-  edge
-  [
-    source 110
-    target 39
-    rank 20
-  ]
-  edge
-  [
-    source 111
-    target 172
-    rank 3
-  ]
-  edge
-  [
-    source 111
-    target 6
-    rank 4
-  ]
-  edge
-  [
-    source 111
-    target 51
-    rank 7
-  ]
-  edge
-  [
-    source 111
-    target 120
-    rank 8
-  ]
-  edge
-  [
-    source 111
-    target 72
-    rank 10
-  ]
-  edge
-  [
-    source 111
-    target 3
-    rank 14
-  ]
-  edge
-  [
-    source 111
-    target 82
-    rank 15
-  ]
-  edge
-  [
-    source 111
-    target 169
-    rank 18
-  ]
-  edge
-  [
-    source 112
-    target 6
-    rank 1
-  ]
-  edge
-  [
-    source 112
-    target 172
-    rank 2
-  ]
-  edge
-  [
-    source 112
-    target 18
-    rank 3
-  ]
-  edge
-  [
-    source 112
-    target 138
-    rank 5
-  ]
-  edge
-  [
-    source 112
-    target 27
-    rank 6
-  ]
-  edge
-  [
-    source 112
-    target 10
-    rank 8
-  ]
-  edge
-  [
-    source 112
-    target 23
-    rank 9
-  ]
-  edge
-  [
-    source 112
-    target 100
-    rank 10
-  ]
-  edge
-  [
-    source 112
-    target 92
-    rank 11
-  ]
-  edge
-  [
-    source 112
-    target 15
-    rank 13
-  ]
-  edge
-  [
-    source 112
-    target 228
-    rank 14
-  ]
-  edge
-  [
-    source 112
+    source 3
     target 36
-    rank 15
+    rank 20
   ]
   edge
   [
-    source 112
-    target 119
-    rank 17
-  ]
-  edge
-  [
-    source 112
-    target 142
-    rank 18
-  ]
-  edge
-  [
-    source 113
-    target 172
+    source 4
+    target 171
     rank 1
   ]
   edge
   [
-    source 113
-    target 120
+    source 4
+    target 119
     rank 2
   ]
   edge
   [
-    source 113
-    target 169
+    source 4
+    target 168
     rank 3
   ]
   edge
   [
-    source 113
-    target 24
-    rank 4
+    source 4
+    target 223
+    rank 5
   ]
   edge
   [
-    source 113
+    source 4
     target 6
     rank 6
   ]
   edge
   [
-    source 113
-    target 3
+    source 4
+    target 36
+    rank 7
+  ]
+  edge
+  [
+    source 4
+    target 14
     rank 8
   ]
   edge
   [
-    source 113
-    target 72
+    source 4
+    target 27
     rank 10
   ]
   edge
   [
-    source 113
-    target 14
-    rank 16
-  ]
-  edge
-  [
-    source 113
-    target 67
-    rank 18
-  ]
-  edge
-  [
-    source 113
-    target 193
-    rank 19
-  ]
-  edge
-  [
-    source 113
-    target 37
-    rank 20
-  ]
-  edge
-  [
-    source 114
-    target 47
-    rank 1
-  ]
-  edge
-  [
-    source 114
-    target 258
-    rank 2
-  ]
-  edge
-  [
-    source 114
-    target 80
+    source 4
+    target 57
     rank 11
   ]
   edge
   [
-    source 114
-    target 3
-    rank 12
-  ]
-  edge
-  [
-    source 114
-    target 312
-    rank 13
-  ]
-  edge
-  [
-    source 114
-    target 184
-    rank 15
-  ]
-  edge
-  [
-    source 114
-    target 70
-    rank 17
-  ]
-  edge
-  [
-    source 114
-    target 68
-    rank 19
-  ]
-  edge
-  [
-    source 115
-    target 172
-    rank 1
-  ]
-  edge
-  [
-    source 115
-    target 14
-    rank 3
-  ]
-  edge
-  [
-    source 115
-    target 10
-    rank 4
-  ]
-  edge
-  [
-    source 115
-    target 3
-    rank 5
-  ]
-  edge
-  [
-    source 115
-    target 18
-    rank 7
-  ]
-  edge
-  [
-    source 115
-    target 169
-    rank 8
-  ]
-  edge
-  [
-    source 115
-    target 6
-    rank 13
-  ]
-  edge
-  [
-    source 115
-    target 258
-    rank 15
-  ]
-  edge
-  [
-    source 115
-    target 71
-    rank 18
-  ]
-  edge
-  [
-    source 116
-    target 3
-    rank 4
-  ]
-  edge
-  [
-    source 116
-    target 169
-    rank 5
-  ]
-  edge
-  [
-    source 116
-    target 13
-    rank 18
-  ]
-  edge
-  [
-    source 117
-    target 172
-    rank 2
-  ]
-  edge
-  [
-    source 117
-    target 169
-    rank 3
-  ]
-  edge
-  [
-    source 118
-    target 120
-    rank 1
-  ]
-  edge
-  [
-    source 118
-    target 172
-    rank 4
-  ]
-  edge
-  [
-    source 118
-    target 169
-    rank 6
-  ]
-  edge
-  [
-    source 118
-    target 14
-    rank 8
-  ]
-  edge
-  [
-    source 118
-    target 3
-    rank 9
-  ]
-  edge
-  [
-    source 118
-    target 72
+    source 4
+    target 152
     rank 14
   ]
   edge
   [
-    source 118
-    target 23
-    rank 19
+    source 4
+    target 13
+    rank 15
   ]
   edge
   [
-    source 118
-    target 285
+    source 4
+    target 50
+    rank 16
+  ]
+  edge
+  [
+    source 4
+    target 16
+    rank 17
+  ]
+  edge
+  [
+    source 4
+    target 23
+    rank 18
+  ]
+  edge
+  [
+    source 4
+    target 10
     rank 20
   ]
   edge
   [
-    source 119
-    target 172
+    source 5
+    target 171
+    rank 1
+  ]
+  edge
+  [
+    source 5
+    target 71
+    rank 3
+  ]
+  edge
+  [
+    source 5
+    target 70
+    rank 9
+  ]
+  edge
+  [
+    source 5
+    target 253
+    rank 10
+  ]
+  edge
+  [
+    source 5
+    target 3
+    rank 12
+  ]
+  edge
+  [
+    source 5
+    target 14
+    rank 14
+  ]
+  edge
+  [
+    source 5
+    target 223
+    rank 20
+  ]
+  edge
+  [
+    source 6
+    target 10
     rank 2
   ]
   edge
   [
-    source 119
+    source 6
+    target 171
+    rank 4
+  ]
+  edge
+  [
+    source 6
+    target 71
+    rank 6
+  ]
+  edge
+  [
+    source 6
+    target 119
+    rank 7
+  ]
+  edge
+  [
+    source 6
+    target 168
+    rank 9
+  ]
+  edge
+  [
+    source 6
+    target 101
+    rank 12
+  ]
+  edge
+  [
+    source 6
+    target 14
+    rank 13
+  ]
+  edge
+  [
+    source 6
+    target 278
+    rank 15
+  ]
+  edge
+  [
+    source 6
+    target 2
+    rank 17
+  ]
+  edge
+  [
+    source 6
+    target 22
+    rank 18
+  ]
+  edge
+  [
+    source 6
+    target 79
+    rank 20
+  ]
+  edge
+  [
+    source 7
+    target 171
+    rank 1
+  ]
+  edge
+  [
+    source 7
+    target 168
+    rank 2
+  ]
+  edge
+  [
+    source 7
+    target 2
+    rank 3
+  ]
+  edge
+  [
+    source 7
+    target 253
+    rank 5
+  ]
+  edge
+  [
+    source 7
     target 6
     rank 7
   ]
   edge
   [
-    source 119
-    target 298
+    source 7
+    target 10
+    rank 9
+  ]
+  edge
+  [
+    source 7
+    target 23
+    rank 10
+  ]
+  edge
+  [
+    source 7
+    target 11
+    rank 18
+  ]
+  edge
+  [
+    source 8
+    target 278
+    rank 2
+  ]
+  edge
+  [
+    source 8
+    target 171
+    rank 4
+  ]
+  edge
+  [
+    source 8
+    target 1
+    rank 6
+  ]
+  edge
+  [
+    source 8
+    target 24
+    rank 7
+  ]
+  edge
+  [
+    source 8
+    target 101
+    rank 9
+  ]
+  edge
+  [
+    source 8
+    target 6
+    rank 13
+  ]
+  edge
+  [
+    source 8
+    target 81
+    rank 15
+  ]
+  edge
+  [
+    source 8
+    target 150
+    rank 17
+  ]
+  edge
+  [
+    source 8
+    target 119
+    rank 19
+  ]
+  edge
+  [
+    source 8
+    target 46
+    rank 20
+  ]
+  edge
+  [
+    source 9
+    target 171
+    rank 1
+  ]
+  edge
+  [
+    source 9
+    target 2
+    rank 2
+  ]
+  edge
+  [
+    source 9
+    target 14
+    rank 3
+  ]
+  edge
+  [
+    source 9
+    target 18
+    rank 6
+  ]
+  edge
+  [
+    source 9
+    target 152
     rank 8
   ]
   edge
   [
-    source 119
-    target 10
+    source 9
+    target 6
+    rank 9
+  ]
+  edge
+  [
+    source 9
+    target 50
+    rank 10
+  ]
+  edge
+  [
+    source 9
+    target 36
     rank 11
   ]
   edge
   [
-    source 119
-    target 37
+    source 9
+    target 10
     rank 12
   ]
   edge
   [
-    source 119
+    source 9
+    target 12
+    rank 13
+  ]
+  edge
+  [
+    source 9
     target 223
     rank 14
   ]
   edge
   [
-    source 120
-    target 72
-    rank 2
-  ]
-  edge
-  [
-    source 120
-    target 14
-    rank 3
-  ]
-  edge
-  [
-    source 120
-    target 172
-    rank 6
-  ]
-  edge
-  [
-    source 120
-    target 285
-    rank 7
-  ]
-  edge
-  [
-    source 120
-    target 47
-    rank 8
-  ]
-  edge
-  [
-    source 120
-    target 6
-    rank 10
-  ]
-  edge
-  [
-    source 120
-    target 151
-    rank 12
-  ]
-  edge
-  [
-    source 121
-    target 170
-    rank 1
-  ]
-  edge
-  [
-    source 121
-    target 172
-    rank 2
-  ]
-  edge
-  [
-    source 121
-    target 2
-    rank 3
-  ]
-  edge
-  [
-    source 121
-    target 10
-    rank 4
-  ]
-  edge
-  [
-    source 121
-    target 18
-    rank 5
-  ]
-  edge
-  [
-    source 121
-    target 37
-    rank 7
-  ]
-  edge
-  [
-    source 121
-    target 304
-    rank 8
-  ]
-  edge
-  [
-    source 121
-    target 72
-    rank 12
-  ]
-  edge
-  [
-    source 121
-    target 151
-    rank 13
-  ]
-  edge
-  [
-    source 121
-    target 153
-    rank 14
-  ]
-  edge
-  [
-    source 121
-    target 3
+    source 9
+    target 16
     rank 17
   ]
   edge
   [
-    source 122
-    target 523
-    rank 12
-  ]
-  edge
-  [
-    source 123
-    target 172
-    rank 1
-  ]
-  edge
-  [
-    source 123
-    target 417
-    rank 6
-  ]
-  edge
-  [
-    source 123
-    target 6
-    rank 9
-  ]
-  edge
-  [
-    source 123
-    target 151
-    rank 10
-  ]
-  edge
-  [
-    source 123
-    target 82
-    rank 11
-  ]
-  edge
-  [
-    source 123
-    target 14
-    rank 12
-  ]
-  edge
-  [
-    source 123
-    target 37
-    rank 14
-  ]
-  edge
-  [
-    source 123
+    source 9
     target 3
-    rank 16
-  ]
-  edge
-  [
-    source 124
-    target 172
-    rank 1
-  ]
-  edge
-  [
-    source 124
-    target 18
-    rank 2
-  ]
-  edge
-  [
-    source 124
-    target 258
-    rank 4
-  ]
-  edge
-  [
-    source 124
-    target 10
-    rank 5
-  ]
-  edge
-  [
-    source 124
-    target 36
-    rank 8
-  ]
-  edge
-  [
-    source 124
-    target 226
-    rank 11
-  ]
-  edge
-  [
-    source 124
-    target 100
-    rank 14
-  ]
-  edge
-  [
-    source 124
-    target 3
-    rank 15
-  ]
-  edge
-  [
-    source 124
-    target 184
-    rank 16
-  ]
-  edge
-  [
-    source 124
-    target 32
-    rank 17
-  ]
-  edge
-  [
-    source 124
-    target 27
     rank 18
   ]
   edge
   [
-    source 124
-    target 51
-    rank 19
+    source 9
+    target 266
+    rank 20
   ]
   edge
   [
-    source 125
-    target 172
-    rank 1
-  ]
-  edge
-  [
-    source 125
-    target 2
-    rank 2
-  ]
-  edge
-  [
-    source 125
-    target 170
+    source 10
+    target 169
     rank 3
   ]
   edge
   [
-    source 125
-    target 23
+    source 10
+    target 14
     rank 4
   ]
   edge
   [
-    source 125
+    source 10
+    target 6
+    rank 8
+  ]
+  edge
+  [
+    source 10
+    target 200
+    rank 9
+  ]
+  edge
+  [
+    source 10
+    target 2
+    rank 10
+  ]
+  edge
+  [
+    source 10
+    target 171
+    rank 12
+  ]
+  edge
+  [
+    source 10
+    target 81
+    rank 13
+  ]
+  edge
+  [
+    source 10
+    target 79
+    rank 20
+  ]
+  edge
+  [
+    source 11
+    target 171
+    rank 1
+  ]
+  edge
+  [
+    source 11
+    target 168
+    rank 2
+  ]
+  edge
+  [
+    source 11
+    target 71
+    rank 3
+  ]
+  edge
+  [
+    source 11
+    target 6
+    rank 4
+  ]
+  edge
+  [
+    source 11
+    target 253
+    rank 7
+  ]
+  edge
+  [
+    source 11
+    target 10
+    rank 10
+  ]
+  edge
+  [
+    source 11
+    target 119
+    rank 11
+  ]
+  edge
+  [
+    source 11
+    target 14
+    rank 14
+  ]
+  edge
+  [
+    source 11
+    target 223
+    rank 16
+  ]
+  edge
+  [
+    source 11
+    target 27
+    rank 19
+  ]
+  edge
+  [
+    source 11
+    target 118
+    rank 20
+  ]
+  edge
+  [
+    source 12
+    target 119
+    rank 1
+  ]
+  edge
+  [
+    source 12
+    target 171
+    rank 2
+  ]
+  edge
+  [
+    source 12
+    target 2
+    rank 3
+  ]
+  edge
+  [
+    source 12
+    target 18
+    rank 4
+  ]
+  edge
+  [
+    source 12
     target 6
     rank 5
   ]
   edge
   [
-    source 125
-    target 92
-    rank 7
+    source 12
+    target 14
+    rank 8
   ]
   edge
   [
-    source 125
-    target 153
+    source 12
+    target 71
     rank 10
   ]
   edge
   [
-    source 125
-    target 10
-    rank 11
+    source 12
+    target 152
+    rank 12
   ]
   edge
   [
-    source 125
-    target 226
-    rank 13
+    source 12
+    target 169
+    rank 14
   ]
   edge
   [
-    source 125
-    target 51
-    rank 15
-  ]
-  edge
-  [
-    source 125
-    target 3
+    source 12
+    target 36
     rank 16
   ]
   edge
   [
-    source 125
-    target 228
+    source 12
+    target 214
     rank 17
   ]
   edge
   [
-    source 125
+    source 12
+    target 66
+    rank 19
+  ]
+  edge
+  [
+    source 12
+    target 269
+    rank 20
+  ]
+  edge
+  [
+    source 13
+    target 6
+    rank 1
+  ]
+  edge
+  [
+    source 13
+    target 2
+    rank 2
+  ]
+  edge
+  [
+    source 13
+    target 171
+    rank 3
+  ]
+  edge
+  [
+    source 13
+    target 14
+    rank 4
+  ]
+  edge
+  [
+    source 13
+    target 3
+    rank 7
+  ]
+  edge
+  [
+    source 13
+    target 10
+    rank 8
+  ]
+  edge
+  [
+    source 13
+    target 57
+    rank 10
+  ]
+  edge
+  [
+    source 13
+    target 152
+    rank 12
+  ]
+  edge
+  [
+    source 13
+    target 18
+    rank 14
+  ]
+  edge
+  [
+    source 13
+    target 253
+    rank 15
+  ]
+  edge
+  [
+    source 13
+    target 36
+    rank 17
+  ]
+  edge
+  [
+    source 13
+    target 77
+    rank 19
+  ]
+  edge
+  [
+    source 13
+    target 223
+    rank 20
+  ]
+  edge
+  [
+    source 14
+    target 278
+    rank 1
+  ]
+  edge
+  [
+    source 14
+    target 119
+    rank 2
+  ]
+  edge
+  [
+    source 14
+    target 71
+    rank 4
+  ]
+  edge
+  [
+    source 14
+    target 171
+    rank 5
+  ]
+  edge
+  [
+    source 14
+    target 6
+    rank 10
+  ]
+  edge
+  [
+    source 14
+    target 168
+    rank 11
+  ]
+  edge
+  [
+    source 14
+    target 150
+    rank 13
+  ]
+  edge
+  [
+    source 14
+    target 10
+    rank 14
+  ]
+  edge
+  [
+    source 14
+    target 81
+    rank 18
+  ]
+  edge
+  [
+    source 15
+    target 171
+    rank 1
+  ]
+  edge
+  [
+    source 15
+    target 71
+    rank 2
+  ]
+  edge
+  [
+    source 15
+    target 168
+    rank 3
+  ]
+  edge
+  [
+    source 15
+    target 119
+    rank 4
+  ]
+  edge
+  [
+    source 15
+    target 6
+    rank 7
+  ]
+  edge
+  [
+    source 15
+    target 3
+    rank 15
+  ]
+  edge
+  [
+    source 15
+    target 14
+    rank 17
+  ]
+  edge
+  [
+    source 15
+    target 137
+    rank 18
+  ]
+  edge
+  [
+    source 15
+    target 36
+    rank 19
+  ]
+  edge
+  [
+    source 16
+    target 171
+    rank 1
+  ]
+  edge
+  [
+    source 16
+    target 71
+    rank 2
+  ]
+  edge
+  [
+    source 16
+    target 27
+    rank 3
+  ]
+  edge
+  [
+    source 16
+    target 150
+    rank 4
+  ]
+  edge
+  [
+    source 16
+    target 2
+    rank 5
+  ]
+  edge
+  [
+    source 16
+    target 14
+    rank 6
+  ]
+  edge
+  [
+    source 16
+    target 36
+    rank 7
+  ]
+  edge
+  [
+    source 16
+    target 152
+    rank 8
+  ]
+  edge
+  [
+    source 16
+    target 6
+    rank 10
+  ]
+  edge
+  [
+    source 16
+    target 3
+    rank 12
+  ]
+  edge
+  [
+    source 16
+    target 18
+    rank 13
+  ]
+  edge
+  [
+    source 16
+    target 119
+    rank 14
+  ]
+  edge
+  [
+    source 16
+    target 4
+    rank 16
+  ]
+  edge
+  [
+    source 16
+    target 278
+    rank 17
+  ]
+  edge
+  [
+    source 16
+    target 94
+    rank 18
+  ]
+  edge
+  [
+    source 17
+    target 121
+    rank 16
+  ]
+  edge
+  [
+    source 17
+    target 39
+    rank 17
+  ]
+  edge
+  [
+    source 18
+    target 171
+    rank 1
+  ]
+  edge
+  [
+    source 18
+    target 2
+    rank 2
+  ]
+  edge
+  [
+    source 18
+    target 168
+    rank 3
+  ]
+  edge
+  [
+    source 18
+    target 6
+    rank 4
+  ]
+  edge
+  [
+    source 18
+    target 152
+    rank 6
+  ]
+  edge
+  [
+    source 18
+    target 36
+    rank 7
+  ]
+  edge
+  [
+    source 18
+    target 14
+    rank 8
+  ]
+  edge
+  [
+    source 18
+    target 3
+    rank 10
+  ]
+  edge
+  [
+    source 18
+    target 23
+    rank 11
+  ]
+  edge
+  [
+    source 18
+    target 10
+    rank 13
+  ]
+  edge
+  [
+    source 18
+    target 253
+    rank 19
+  ]
+  edge
+  [
+    source 18
+    target 229
+    rank 20
+  ]
+  edge
+  [
+    source 19
+    target 171
+    rank 1
+  ]
+  edge
+  [
+    source 19
+    target 223
+    rank 14
+  ]
+  edge
+  [
+    source 19
+    target 91
+    rank 15
+  ]
+  edge
+  [
+    source 20
+    target 71
+    rank 2
+  ]
+  edge
+  [
+    source 20
+    target 143
+    rank 5
+  ]
+  edge
+  [
+    source 20
+    target 171
+    rank 6
+  ]
+  edge
+  [
+    source 20
+    target 168
+    rank 8
+  ]
+  edge
+  [
+    source 20
+    target 150
+    rank 9
+  ]
+  edge
+  [
+    source 20
+    target 6
+    rank 10
+  ]
+  edge
+  [
+    source 20
+    target 133
+    rank 12
+  ]
+  edge
+  [
+    source 20
+    target 278
+    rank 13
+  ]
+  edge
+  [
+    source 20
+    target 119
+    rank 15
+  ]
+  edge
+  [
+    source 20
+    target 81
+    rank 17
+  ]
+  edge
+  [
+    source 21
+    target 134
+    rank 2
+  ]
+  edge
+  [
+    source 21
+    target 191
+    rank 4
+  ]
+  edge
+  [
+    source 21
+    target 143
+    rank 12
+  ]
+  edge
+  [
+    source 21
+    target 214
+    rank 13
+  ]
+  edge
+  [
+    source 21
+    target 190
+    rank 15
+  ]
+  edge
+  [
+    source 21
+    target 53
+    rank 17
+  ]
+  edge
+  [
+    source 21
+    target 4
+    rank 18
+  ]
+  edge
+  [
+    source 22
+    target 88
+    rank 3
+  ]
+  edge
+  [
+    source 22
+    target 197
+    rank 19
+  ]
+  edge
+  [
+    source 23
+    target 168
+    rank 1
+  ]
+  edge
+  [
+    source 23
+    target 171
+    rank 2
+  ]
+  edge
+  [
+    source 23
+    target 71
+    rank 3
+  ]
+  edge
+  [
+    source 23
+    target 6
+    rank 4
+  ]
+  edge
+  [
+    source 23
+    target 36
+    rank 11
+  ]
+  edge
+  [
+    source 23
+    target 79
+    rank 16
+  ]
+  edge
+  [
+    source 24
+    target 14
+    rank 2
+  ]
+  edge
+  [
+    source 24
+    target 171
+    rank 6
+  ]
+  edge
+  [
+    source 24
+    target 46
+    rank 7
+  ]
+  edge
+  [
+    source 24
+    target 81
+    rank 9
+  ]
+  edge
+  [
+    source 24
+    target 168
+    rank 10
+  ]
+  edge
+  [
+    source 24
+    target 119
+    rank 14
+  ]
+  edge
+  [
+    source 24
+    target 278
+    rank 15
+  ]
+  edge
+  [
+    source 24
+    target 6
+    rank 17
+  ]
+  edge
+  [
+    source 24
+    target 2
+    rank 18
+  ]
+  edge
+  [
+    source 25
+    target 171
+    rank 2
+  ]
+  edge
+  [
+    source 25
+    target 10
+    rank 3
+  ]
+  edge
+  [
+    source 25
+    target 253
+    rank 6
+  ]
+  edge
+  [
+    source 25
+    target 6
+    rank 8
+  ]
+  edge
+  [
+    source 25
+    target 3
+    rank 9
+  ]
+  edge
+  [
+    source 25
+    target 182
+    rank 12
+  ]
+  edge
+  [
+    source 25
+    target 18
+    rank 16
+  ]
+  edge
+  [
+    source 25
+    target 14
+    rank 17
+  ]
+  edge
+  [
+    source 25
+    target 36
+    rank 18
+  ]
+  edge
+  [
+    source 25
+    target 223
+    rank 20
+  ]
+  edge
+  [
+    source 26
+    target 171
+    rank 1
+  ]
+  edge
+  [
+    source 26
+    target 253
+    rank 2
+  ]
+  edge
+  [
+    source 26
+    target 223
+    rank 4
+  ]
+  edge
+  [
+    source 26
+    target 18
+    rank 5
+  ]
+  edge
+  [
+    source 26
+    target 3
+    rank 6
+  ]
+  edge
+  [
+    source 26
+    target 15
+    rank 8
+  ]
+  edge
+  [
+    source 26
+    target 269
+    rank 9
+  ]
+  edge
+  [
+    source 26
+    target 23
+    rank 11
+  ]
+  edge
+  [
+    source 26
+    target 36
+    rank 12
+  ]
+  edge
+  [
+    source 26
+    target 19
+    rank 15
+  ]
+  edge
+  [
+    source 26
+    target 4
+    rank 16
+  ]
+  edge
+  [
+    source 26
+    target 154
+    rank 18
+  ]
+  edge
+  [
+    source 26
+    target 56
+    rank 19
+  ]
+  edge
+  [
+    source 26
+    target 137
+    rank 20
+  ]
+  edge
+  [
+    source 27
+    target 171
+    rank 1
+  ]
+  edge
+  [
+    source 27
+    target 119
+    rank 2
+  ]
+  edge
+  [
+    source 27
+    target 253
+    rank 4
+  ]
+  edge
+  [
+    source 27
+    target 35
+    rank 5
+  ]
+  edge
+  [
+    source 27
+    target 223
+    rank 7
+  ]
+  edge
+  [
+    source 27
+    target 3
+    rank 8
+  ]
+  edge
+  [
+    source 27
+    target 36
+    rank 10
+  ]
+  edge
+  [
+    source 27
+    target 14
+    rank 11
+  ]
+  edge
+  [
+    source 27
+    target 71
+    rank 12
+  ]
+  edge
+  [
+    source 27
+    target 18
+    rank 13
+  ]
+  edge
+  [
+    source 27
+    target 118
+    rank 15
+  ]
+  edge
+  [
+    source 27
     target 13
     rank 18
   ]
   edge
   [
-    source 125
-    target 70
+    source 27
+    target 4
     rank 19
   ]
   edge
   [
-    source 126
-    target 169
-    rank 7
-  ]
-  edge
-  [
-    source 126
-    target 117
-    rank 8
-  ]
-  edge
-  [
-    source 126
-    target 6
-    rank 12
-  ]
-  edge
-  [
-    source 127
-    target 172
+    source 28
+    target 171
     rank 1
   ]
   edge
   [
-    source 127
-    target 72
-    rank 2
-  ]
-  edge
-  [
-    source 127
+    source 28
     target 169
-    rank 4
-  ]
-  edge
-  [
-    source 127
-    target 120
-    rank 5
-  ]
-  edge
-  [
-    source 127
-    target 6
-    rank 8
-  ]
-  edge
-  [
-    source 127
-    target 3
-    rank 10
-  ]
-  edge
-  [
-    source 127
-    target 58
-    rank 12
-  ]
-  edge
-  [
-    source 127
-    target 82
-    rank 13
-  ]
-  edge
-  [
-    source 127
-    target 67
-    rank 15
-  ]
-  edge
-  [
-    source 127
-    target 14
-    rank 17
-  ]
-  edge
-  [
-    source 127
-    target 258
-    rank 18
-  ]
-  edge
-  [
-    source 128
-    target 172
-    rank 2
-  ]
-  edge
-  [
-    source 128
-    target 21
-    rank 4
-  ]
-  edge
-  [
-    source 128
-    target 37
-    rank 8
-  ]
-  edge
-  [
-    source 128
-    target 18
-    rank 10
-  ]
-  edge
-  [
-    source 128
-    target 273
-    rank 12
-  ]
-  edge
-  [
-    source 128
-    target 278
-    rank 20
-  ]
-  edge
-  [
-    source 129
-    target 172
-    rank 1
-  ]
-  edge
-  [
-    source 129
-    target 2
-    rank 5
-  ]
-  edge
-  [
-    source 129
-    target 6
-    rank 8
-  ]
-  edge
-  [
-    source 129
-    target 10
-    rank 10
-  ]
-  edge
-  [
-    source 129
-    target 58
-    rank 11
-  ]
-  edge
-  [
-    source 129
-    target 3
-    rank 13
-  ]
-  edge
-  [
-    source 129
-    target 18
-    rank 16
-  ]
-  edge
-  [
-    source 130
-    target 285
     rank 3
   ]
   edge
   [
-    source 130
-    target 258
+    source 28
+    target 291
     rank 6
   ]
   edge
   [
-    source 130
-    target 58
+    source 28
+    target 3
     rank 7
   ]
   edge
   [
-    source 130
-    target 3
-    rank 12
-  ]
-  edge
-  [
-    source 130
-    target 150
-    rank 14
-  ]
-  edge
-  [
-    source 131
-    target 153
-    rank 2
-  ]
-  edge
-  [
-    source 131
-    target 37
-    rank 3
-  ]
-  edge
-  [
-    source 131
-    target 304
-    rank 4
-  ]
-  edge
-  [
-    source 131
-    target 135
-    rank 9
-  ]
-  edge
-  [
-    source 131
-    target 230
-    rank 17
-  ]
-  edge
-  [
-    source 132
+    source 28
     target 6
-    rank 1
-  ]
-  edge
-  [
-    source 132
-    target 10
-    rank 2
-  ]
-  edge
-  [
-    source 132
-    target 172
-    rank 3
-  ]
-  edge
-  [
-    source 132
-    target 2
-    rank 9
-  ]
-  edge
-  [
-    source 132
-    target 192
-    rank 13
-  ]
-  edge
-  [
-    source 132
-    target 102
-    rank 14
-  ]
-  edge
-  [
-    source 132
-    target 60
-    rank 18
-  ]
-  edge
-  [
-    source 133
-    target 10
-    rank 1
-  ]
-  edge
-  [
-    source 133
-    target 172
-    rank 2
-  ]
-  edge
-  [
-    source 133
-    target 22
-    rank 3
-  ]
-  edge
-  [
-    source 133
-    target 183
-    rank 5
-  ]
-  edge
-  [
-    source 133
-    target 2
     rank 8
   ]
   edge
   [
-    source 133
-    target 80
-    rank 10
+    source 28
+    target 36
+    rank 9
   ]
   edge
   [
-    source 133
-    target 6
-    rank 11
-  ]
-  edge
-  [
-    source 133
-    target 37
+    source 28
+    target 18
     rank 12
   ]
   edge
   [
-    source 133
+    source 28
+    target 14
+    rank 13
+  ]
+  edge
+  [
+    source 28
+    target 10
+    rank 14
+  ]
+  edge
+  [
+    source 28
+    target 223
+    rank 18
+  ]
+  edge
+  [
+    source 28
+    target 168
+    rank 20
+  ]
+  edge
+  [
+    source 29
+    target 171
+    rank 1
+  ]
+  edge
+  [
+    source 29
+    target 253
+    rank 2
+  ]
+  edge
+  [
+    source 29
+    target 168
+    rank 3
+  ]
+  edge
+  [
+    source 29
+    target 3
+    rank 5
+  ]
+  edge
+  [
+    source 29
+    target 70
+    rank 6
+  ]
+  edge
+  [
+    source 29
+    target 114
+    rank 9
+  ]
+  edge
+  [
+    source 29
+    target 223
+    rank 12
+  ]
+  edge
+  [
+    source 29
+    target 27
+    rank 15
+  ]
+  edge
+  [
+    source 29
+    target 16
+    rank 16
+  ]
+  edge
+  [
+    source 29
+    target 18
+    rank 17
+  ]
+  edge
+  [
+    source 29
+    target 137
+    rank 20
+  ]
+  edge
+  [
+    source 30
+    target 171
+    rank 1
+  ]
+  edge
+  [
+    source 30
+    target 119
+    rank 2
+  ]
+  edge
+  [
+    source 30
+    target 24
+    rank 4
+  ]
+  edge
+  [
+    source 30
+    target 2
+    rank 6
+  ]
+  edge
+  [
+    source 30
     target 168
     rank 13
   ]
   edge
   [
-    source 133
-    target 212
-    rank 15
+    source 30
+    target 71
+    rank 14
   ]
   edge
   [
-    source 133
-    target 153
-    rank 20
-  ]
-  edge
-  [
-    source 134
-    target 172
-    rank 1
-  ]
-  edge
-  [
-    source 134
-    target 20
-    rank 3
-  ]
-  edge
-  [
-    source 134
-    target 24
-    rank 6
-  ]
-  edge
-  [
-    source 134
-    target 151
-    rank 10
-  ]
-  edge
-  [
-    source 134
-    target 120
-    rank 12
-  ]
-  edge
-  [
-    source 134
-    target 72
-    rank 15
-  ]
-  edge
-  [
-    source 134
-    target 67
-    rank 17
-  ]
-  edge
-  [
-    source 134
-    target 37
-    rank 19
-  ]
-  edge
-  [
-    source 134
-    target 82
-    rank 20
-  ]
-  edge
-  [
-    source 135
-    target 21
-    rank 1
-  ]
-  edge
-  [
-    source 135
-    target 122
-    rank 3
-  ]
-  edge
-  [
-    source 135
-    target 80
-    rank 10
-  ]
-  edge
-  [
-    source 135
-    target 40
-    rank 16
-  ]
-  edge
-  [
-    source 135
-    target 37
-    rank 17
-  ]
-  edge
-  [
-    source 135
-    target 131
-    rank 18
-  ]
-  edge
-  [
-    source 136
-    target 172
-    rank 1
-  ]
-  edge
-  [
-    source 136
-    target 14
-    rank 2
-  ]
-  edge
-  [
-    source 136
-    target 72
-    rank 3
-  ]
-  edge
-  [
-    source 136
-    target 10
-    rank 4
-  ]
-  edge
-  [
-    source 136
-    target 24
-    rank 5
-  ]
-  edge
-  [
-    source 136
+    source 30
     target 150
-    rank 6
-  ]
-  edge
-  [
-    source 136
-    target 120
-    rank 7
-  ]
-  edge
-  [
-    source 136
-    target 37
-    rank 8
-  ]
-  edge
-  [
-    source 136
-    target 6
-    rank 9
-  ]
-  edge
-  [
-    source 136
-    target 18
-    rank 10
-  ]
-  edge
-  [
-    source 136
-    target 23
-    rank 11
-  ]
-  edge
-  [
-    source 136
-    target 67
-    rank 13
-  ]
-  edge
-  [
-    source 136
-    target 4
     rank 15
   ]
   edge
   [
-    source 136
-    target 85
-    rank 16
-  ]
-  edge
-  [
-    source 136
-    target 3
-    rank 17
-  ]
-  edge
-  [
-    source 136
-    target 87
-    rank 18
-  ]
-  edge
-  [
-    source 136
-    target 15
-    rank 20
-  ]
-  edge
-  [
-    source 137
-    target 6
-    rank 1
-  ]
-  edge
-  [
-    source 137
-    target 82
-    rank 2
-  ]
-  edge
-  [
-    source 137
-    target 10
-    rank 3
-  ]
-  edge
-  [
-    source 137
-    target 170
-    rank 4
-  ]
-  edge
-  [
-    source 137
-    target 172
-    rank 5
-  ]
-  edge
-  [
-    source 137
-    target 276
-    rank 6
-  ]
-  edge
-  [
-    source 137
-    target 72
-    rank 7
-  ]
-  edge
-  [
-    source 137
-    target 120
-    rank 8
-  ]
-  edge
-  [
-    source 137
-    target 23
-    rank 12
-  ]
-  edge
-  [
-    source 137
-    target 37
-    rank 13
-  ]
-  edge
-  [
-    source 137
-    target 244
-    rank 14
-  ]
-  edge
-  [
-    source 137
-    target 14
-    rank 19
-  ]
-  edge
-  [
-    source 138
-    target 172
-    rank 2
-  ]
-  edge
-  [
-    source 138
-    target 169
-    rank 3
-  ]
-  edge
-  [
-    source 138
-    target 14
-    rank 6
-  ]
-  edge
-  [
-    source 138
-    target 6
-    rank 7
-  ]
-  edge
-  [
-    source 138
-    target 120
-    rank 10
-  ]
-  edge
-  [
-    source 138
-    target 37
-    rank 16
-  ]
-  edge
-  [
-    source 138
-    target 51
-    rank 20
-  ]
-  edge
-  [
-    source 139
-    target 10
-    rank 1
-  ]
-  edge
-  [
-    source 139
-    target 6
-    rank 2
-  ]
-  edge
-  [
-    source 139
-    target 172
-    rank 3
-  ]
-  edge
-  [
-    source 139
-    target 258
-    rank 4
-  ]
-  edge
-  [
-    source 139
-    target 2
-    rank 6
-  ]
-  edge
-  [
-    source 139
-    target 184
-    rank 7
-  ]
-  edge
-  [
-    source 139
-    target 153
-    rank 10
-  ]
-  edge
-  [
-    source 139
-    target 18
-    rank 11
-  ]
-  edge
-  [
-    source 139
-    target 276
-    rank 14
-  ]
-  edge
-  [
-    source 139
-    target 39
-    rank 16
-  ]
-  edge
-  [
-    source 139
-    target 235
-    rank 20
-  ]
-  edge
-  [
-    source 140
-    target 172
-    rank 1
-  ]
-  edge
-  [
-    source 140
-    target 27
-    rank 4
-  ]
-  edge
-  [
-    source 140
-    target 6
-    rank 5
-  ]
-  edge
-  [
-    source 140
-    target 13
-    rank 9
-  ]
-  edge
-  [
-    source 140
-    target 37
-    rank 15
-  ]
-  edge
-  [
-    source 140
-    target 23
-    rank 16
-  ]
-  edge
-  [
-    source 140
-    target 235
-    rank 17
-  ]
-  edge
-  [
-    source 140
-    target 138
-    rank 20
-  ]
-  edge
-  [
-    source 141
-    target 183
-    rank 1
-  ]
-  edge
-  [
-    source 141
-    target 172
-    rank 3
-  ]
-  edge
-  [
-    source 141
-    target 22
-    rank 4
-  ]
-  edge
-  [
-    source 141
-    target 89
-    rank 8
-  ]
-  edge
-  [
-    source 141
-    target 120
-    rank 9
-  ]
-  edge
-  [
-    source 141
-    target 80
-    rank 10
-  ]
-  edge
-  [
-    source 141
-    target 6
-    rank 12
-  ]
-  edge
-  [
-    source 142
-    target 153
-    rank 2
-  ]
-  edge
-  [
-    source 142
-    target 37
-    rank 7
-  ]
-  edge
-  [
-    source 142
-    target 131
-    rank 8
-  ]
-  edge
-  [
-    source 143
-    target 172
-    rank 1
-  ]
-  edge
-  [
-    source 143
-    target 260
-    rank 3
-  ]
-  edge
-  [
-    source 143
-    target 36
-    rank 4
-  ]
-  edge
-  [
-    source 143
-    target 228
-    rank 5
-  ]
-  edge
-  [
-    source 143
-    target 100
-    rank 7
-  ]
-  edge
-  [
-    source 143
-    target 51
-    rank 8
-  ]
-  edge
-  [
-    source 143
-    target 235
-    rank 9
-  ]
-  edge
-  [
-    source 143
-    target 74
-    rank 10
-  ]
-  edge
-  [
-    source 143
-    target 37
-    rank 11
-  ]
-  edge
-  [
-    source 143
-    target 27
-    rank 14
-  ]
-  edge
-  [
-    source 143
-    target 140
-    rank 18
-  ]
-  edge
-  [
-    source 143
-    target 142
-    rank 19
-  ]
-  edge
-  [
-    source 143
-    target 4
-    rank 20
-  ]
-  edge
-  [
-    source 145
-    target 172
-    rank 3
-  ]
-  edge
-  [
-    source 145
-    target 184
-    rank 4
-  ]
-  edge
-  [
-    source 145
-    target 37
-    rank 15
-  ]
-  edge
-  [
-    source 145
-    target 119
-    rank 19
-  ]
-  edge
-  [
-    source 146
-    target 172
-    rank 2
-  ]
-  edge
-  [
-    source 146
-    target 122
-    rank 3
-  ]
-  edge
-  [
-    source 146
-    target 170
-    rank 5
-  ]
-  edge
-  [
-    source 146
-    target 120
-    rank 6
-  ]
-  edge
-  [
-    source 146
-    target 72
-    rank 7
-  ]
-  edge
-  [
-    source 146
-    target 6
-    rank 8
-  ]
-  edge
-  [
-    source 146
-    target 2
-    rank 10
-  ]
-  edge
-  [
-    source 146
-    target 89
-    rank 12
-  ]
-  edge
-  [
-    source 146
-    target 169
-    rank 15
-  ]
-  edge
-  [
-    source 146
-    target 58
-    rank 16
-  ]
-  edge
-  [
-    source 146
-    target 80
-    rank 19
-  ]
-  edge
-  [
-    source 147
-    target 172
-    rank 1
-  ]
-  edge
-  [
-    source 147
-    target 183
-    rank 4
-  ]
-  edge
-  [
-    source 147
-    target 10
-    rank 8
-  ]
-  edge
-  [
-    source 147
-    target 133
-    rank 14
-  ]
-  edge
-  [
-    source 147
-    target 37
-    rank 17
-  ]
-  edge
-  [
-    source 148
-    target 172
-    rank 1
-  ]
-  edge
-  [
-    source 148
-    target 2
-    rank 2
-  ]
-  edge
-  [
-    source 148
-    target 276
-    rank 4
-  ]
-  edge
-  [
-    source 148
-    target 14
-    rank 6
-  ]
-  edge
-  [
-    source 148
-    target 19
-    rank 7
-  ]
-  edge
-  [
-    source 148
-    target 37
-    rank 8
-  ]
-  edge
-  [
-    source 148
-    target 7
-    rank 16
-  ]
-  edge
-  [
-    source 148
-    target 395
-    rank 19
-  ]
-  edge
-  [
-    source 149
-    target 172
-    rank 3
-  ]
-  edge
-  [
-    source 149
-    target 312
-    rank 16
-  ]
-  edge
-  [
-    source 149
-    target 37
-    rank 17
-  ]
-  edge
-  [
-    source 151
-    target 14
-    rank 3
-  ]
-  edge
-  [
-    source 151
-    target 82
-    rank 6
-  ]
-  edge
-  [
-    source 151
-    target 72
-    rank 11
-  ]
-  edge
-  [
-    source 151
-    target 120
-    rank 12
-  ]
-  edge
-  [
-    source 152
-    target 172
-    rank 1
-  ]
-  edge
-  [
-    source 152
-    target 6
-    rank 2
-  ]
-  edge
-  [
-    source 152
-    target 10
-    rank 6
-  ]
-  edge
-  [
-    source 152
-    target 57
-    rank 9
-  ]
-  edge
-  [
-    source 152
-    target 100
-    rank 10
-  ]
-  edge
-  [
-    source 152
-    target 65
-    rank 12
-  ]
-  edge
-  [
-    source 152
-    target 15
-    rank 14
-  ]
-  edge
-  [
-    source 152
-    target 36
-    rank 17
-  ]
-  edge
-  [
-    source 152
-    target 18
-    rank 19
-  ]
-  edge
-  [
-    source 153
-    target 80
-    rank 6
-  ]
-  edge
-  [
-    source 153
-    target 69
-    rank 10
-  ]
-  edge
-  [
-    source 153
-    target 37
-    rank 15
-  ]
-  edge
-  [
-    source 153
-    target 131
-    rank 16
-  ]
-  edge
-  [
-    source 154
-    target 172
-    rank 1
-  ]
-  edge
-  [
-    source 154
-    target 6
-    rank 2
-  ]
-  edge
-  [
-    source 154
-    target 169
-    rank 3
-  ]
-  edge
-  [
-    source 154
-    target 10
-    rank 4
-  ]
-  edge
-  [
-    source 154
-    target 258
-    rank 5
-  ]
-  edge
-  [
-    source 154
-    target 72
-    rank 7
-  ]
-  edge
-  [
-    source 154
-    target 119
-    rank 15
-  ]
-  edge
-  [
-    source 154
-    target 4
-    rank 18
-  ]
-  edge
-  [
-    source 154
-    target 37
-    rank 19
-  ]
-  edge
-  [
-    source 155
-    target 170
-    rank 1
-  ]
-  edge
-  [
-    source 155
-    target 172
-    rank 2
-  ]
-  edge
-  [
-    source 155
-    target 6
-    rank 3
-  ]
-  edge
-  [
-    source 155
-    target 304
-    rank 4
-  ]
-  edge
-  [
-    source 155
-    target 13
-    rank 6
-  ]
-  edge
-  [
-    source 155
-    target 18
-    rank 7
-  ]
-  edge
-  [
-    source 155
-    target 228
-    rank 10
-  ]
-  edge
-  [
-    source 155
-    target 27
-    rank 12
-  ]
-  edge
-  [
-    source 155
-    target 100
-    rank 13
-  ]
-  edge
-  [
-    source 155
-    target 11
-    rank 14
-  ]
-  edge
-  [
-    source 155
-    target 15
-    rank 15
-  ]
-  edge
-  [
-    source 155
-    target 226
-    rank 16
-  ]
-  edge
-  [
-    source 155
-    target 55
-    rank 17
-  ]
-  edge
-  [
-    source 156
-    target 172
-    rank 1
-  ]
-  edge
-  [
-    source 156
-    target 10
-    rank 2
-  ]
-  edge
-  [
-    source 156
-    target 260
-    rank 3
-  ]
-  edge
-  [
-    source 156
-    target 14
-    rank 6
-  ]
-  edge
-  [
-    source 156
-    target 226
-    rank 7
-  ]
-  edge
-  [
-    source 156
-    target 6
-    rank 8
-  ]
-  edge
-  [
-    source 156
-    target 228
-    rank 10
-  ]
-  edge
-  [
-    source 156
-    target 51
-    rank 11
-  ]
-  edge
-  [
-    source 156
-    target 276
-    rank 12
-  ]
-  edge
-  [
-    source 156
-    target 138
-    rank 14
-  ]
-  edge
-  [
-    source 156
-    target 13
-    rank 17
-  ]
-  edge
-  [
-    source 156
-    target 142
-    rank 18
-  ]
-  edge
-  [
-    source 156
-    target 19
-    rank 20
-  ]
-  edge
-  [
-    source 157
-    target 172
-    rank 1
-  ]
-  edge
-  [
-    source 157
-    target 80
-    rank 2
-  ]
-  edge
-  [
-    source 157
-    target 6
-    rank 4
-  ]
-  edge
-  [
-    source 157
-    target 133
-    rank 6
-  ]
-  edge
-  [
-    source 157
-    target 223
-    rank 9
-  ]
-  edge
-  [
-    source 157
-    target 60
-    rank 16
-  ]
-  edge
-  [
-    source 157
-    target 96
-    rank 20
-  ]
-  edge
-  [
-    source 158
-    target 172
-    rank 1
-  ]
-  edge
-  [
-    source 158
-    target 258
-    rank 4
-  ]
-  edge
-  [
-    source 158
-    target 72
-    rank 6
-  ]
-  edge
-  [
-    source 158
-    target 6
-    rank 10
-  ]
-  edge
-  [
-    source 158
-    target 3
-    rank 15
-  ]
-  edge
-  [
-    source 158
-    target 119
-    rank 18
-  ]
-  edge
-  [
-    source 158
-    target 39
-    rank 19
-  ]
-  edge
-  [
-    source 158
-    target 23
-    rank 20
-  ]
-  edge
-  [
-    source 159
-    target 172
-    rank 1
-  ]
-  edge
-  [
-    source 159
-    target 169
-    rank 2
-  ]
-  edge
-  [
-    source 159
-    target 80
-    rank 3
-  ]
-  edge
-  [
-    source 159
-    target 10
-    rank 4
-  ]
-  edge
-  [
-    source 159
-    target 22
-    rank 5
-  ]
-  edge
-  [
-    source 159
-    target 6
-    rank 6
-  ]
-  edge
-  [
-    source 159
-    target 89
-    rank 7
-  ]
-  edge
-  [
-    source 159
-    target 151
-    rank 9
-  ]
-  edge
-  [
-    source 159
-    target 217
-    rank 11
-  ]
-  edge
-  [
-    source 159
-    target 23
-    rank 12
-  ]
-  edge
-  [
-    source 159
-    target 60
-    rank 13
-  ]
-  edge
-  [
-    source 159
-    target 2
-    rank 14
-  ]
-  edge
-  [
-    source 160
-    target 172
-    rank 1
-  ]
-  edge
-  [
-    source 160
-    target 10
-    rank 2
-  ]
-  edge
-  [
-    source 160
-    target 3
-    rank 6
-  ]
-  edge
-  [
-    source 160
-    target 37
-    rank 7
-  ]
-  edge
-  [
-    source 160
-    target 18
-    rank 8
-  ]
-  edge
-  [
-    source 160
-    target 184
-    rank 9
-  ]
-  edge
-  [
-    source 160
-    target 115
-    rank 10
-  ]
-  edge
-  [
-    source 160
-    target 9
-    rank 11
-  ]
-  edge
-  [
-    source 160
-    target 230
-    rank 13
-  ]
-  edge
-  [
-    source 160
-    target 23
-    rank 15
-  ]
-  edge
-  [
-    source 160
-    target 92
-    rank 16
-  ]
-  edge
-  [
-    source 160
-    target 131
-    rank 20
-  ]
-  edge
-  [
-    source 161
-    target 172
-    rank 2
-  ]
-  edge
-  [
-    source 161
-    target 170
-    rank 3
-  ]
-  edge
-  [
-    source 161
-    target 67
-    rank 4
-  ]
-  edge
-  [
-    source 161
-    target 72
-    rank 5
-  ]
-  edge
-  [
-    source 161
-    target 18
-    rank 6
-  ]
-  edge
-  [
-    source 161
-    target 6
-    rank 7
-  ]
-  edge
-  [
-    source 161
-    target 78
-    rank 8
-  ]
-  edge
-  [
-    source 161
-    target 10
-    rank 9
-  ]
-  edge
-  [
-    source 161
-    target 37
-    rank 10
-  ]
-  edge
-  [
-    source 161
-    target 14
-    rank 12
-  ]
-  edge
-  [
-    source 161
-    target 85
-    rank 15
-  ]
-  edge
-  [
-    source 161
-    target 225
-    rank 16
-  ]
-  edge
-  [
-    source 161
-    target 312
-    rank 19
-  ]
-  edge
-  [
-    source 162
-    target 172
-    rank 1
-  ]
-  edge
-  [
-    source 162
-    target 22
-    rank 2
-  ]
-  edge
-  [
-    source 162
-    target 169
-    rank 3
-  ]
-  edge
-  [
-    source 162
-    target 80
-    rank 4
-  ]
-  edge
-  [
-    source 162
-    target 6
-    rank 9
-  ]
-  edge
-  [
-    source 162
-    target 60
-    rank 11
-  ]
-  edge
-  [
-    source 162
-    target 37
-    rank 12
-  ]
-  edge
-  [
-    source 162
-    target 23
-    rank 15
-  ]
-  edge
-  [
-    source 162
-    target 133
-    rank 16
-  ]
-  edge
-  [
-    source 162
-    target 78
-    rank 18
-  ]
-  edge
-  [
-    source 163
-    target 120
-    rank 1
-  ]
-  edge
-  [
-    source 163
-    target 172
-    rank 2
-  ]
-  edge
-  [
-    source 163
-    target 169
-    rank 3
-  ]
-  edge
-  [
-    source 163
-    target 88
-    rank 4
-  ]
-  edge
-  [
-    source 163
-    target 10
-    rank 6
-  ]
-  edge
-  [
-    source 163
-    target 3
-    rank 8
-  ]
-  edge
-  [
-    source 163
-    target 72
-    rank 9
-  ]
-  edge
-  [
-    source 163
-    target 37
-    rank 13
-  ]
-  edge
-  [
-    source 163
-    target 14
-    rank 14
-  ]
-  edge
-  [
-    source 164
-    target 172
-    rank 2
-  ]
-  edge
-  [
-    source 164
-    target 72
-    rank 3
-  ]
-  edge
-  [
-    source 164
-    target 3
-    rank 5
-  ]
-  edge
-  [
-    source 164
-    target 258
-    rank 6
-  ]
-  edge
-  [
-    source 164
-    target 120
-    rank 7
-  ]
-  edge
-  [
-    source 164
-    target 67
-    rank 11
-  ]
-  edge
-  [
-    source 164
-    target 18
-    rank 15
-  ]
-  edge
-  [
-    source 164
-    target 14
-    rank 17
-  ]
-  edge
-  [
-    source 164
-    target 193
-    rank 19
-  ]
-  edge
-  [
-    source 165
-    target 172
-    rank 1
-  ]
-  edge
-  [
-    source 165
-    target 6
-    rank 2
-  ]
-  edge
-  [
-    source 165
-    target 120
-    rank 3
-  ]
-  edge
-  [
-    source 165
-    target 169
-    rank 4
-  ]
-  edge
-  [
-    source 165
-    target 304
-    rank 6
-  ]
-  edge
-  [
-    source 165
-    target 37
-    rank 10
-  ]
-  edge
-  [
-    source 165
-    target 72
-    rank 12
-  ]
-  edge
-  [
-    source 165
-    target 3
-    rank 15
-  ]
-  edge
-  [
-    source 165
-    target 67
-    rank 18
-  ]
-  edge
-  [
-    source 165
-    target 14
-    rank 20
-  ]
-  edge
-  [
-    source 166
-    target 21
-    rank 1
-  ]
-  edge
-  [
-    source 166
-    target 102
-    rank 2
-  ]
-  edge
-  [
-    source 167
-    target 172
-    rank 3
-  ]
-  edge
-  [
-    source 167
-    target 2
-    rank 10
-  ]
-  edge
-  [
-    source 167
-    target 6
-    rank 12
-  ]
-  edge
-  [
-    source 168
-    target 170
-    rank 1
-  ]
-  edge
-  [
-    source 168
-    target 6
-    rank 2
-  ]
-  edge
-  [
-    source 168
-    target 172
-    rank 3
-  ]
-  edge
-  [
-    source 168
-    target 80
-    rank 4
-  ]
-  edge
-  [
-    source 168
-    target 22
-    rank 5
-  ]
-  edge
-  [
-    source 168
-    target 133
-    rank 6
-  ]
-  edge
-  [
-    source 168
-    target 2
-    rank 8
-  ]
-  edge
-  [
-    source 168
-    target 60
-    rank 10
-  ]
-  edge
-  [
-    source 168
-    target 10
-    rank 12
-  ]
-  edge
-  [
-    source 168
-    target 153
-    rank 14
-  ]
-  edge
-  [
-    source 169
-    target 172
-    rank 3
-  ]
-  edge
-  [
-    source 169
-    target 72
-    rank 9
-  ]
-  edge
-  [
-    source 169
-    target 6
-    rank 10
-  ]
-  edge
-  [
-    source 169
-    target 298
-    rank 16
-  ]
-  edge
-  [
-    source 169
-    target 120
-    rank 17
-  ]
-  edge
-  [
-    source 170
-    target 10
-    rank 2
-  ]
-  edge
-  [
-    source 170
-    target 2
-    rank 3
-  ]
-  edge
-  [
-    source 170
-    target 14
-    rank 4
-  ]
-  edge
-  [
-    source 170
-    target 151
-    rank 5
-  ]
-  edge
-  [
-    source 170
-    target 172
-    rank 6
-  ]
-  edge
-  [
-    source 170
-    target 153
-    rank 7
-  ]
-  edge
-  [
-    source 170
-    target 258
-    rank 8
-  ]
-  edge
-  [
-    source 170
-    target 3
-    rank 9
-  ]
-  edge
-  [
-    source 170
-    target 18
-    rank 10
-  ]
-  edge
-  [
-    source 170
-    target 276
-    rank 13
-  ]
-  edge
-  [
-    source 170
-    target 78
-    rank 15
-  ]
-  edge
-  [
-    source 170
-    target 260
-    rank 16
-  ]
-  edge
-  [
-    source 170
-    target 192
-    rank 17
-  ]
-  edge
-  [
-    source 170
-    target 115
-    rank 18
-  ]
-  edge
-  [
-    source 170
-    target 74
-    rank 19
-  ]
-  edge
-  [
-    source 171
-    target 183
-    rank 1
-  ]
-  edge
-  [
-    source 171
-    target 172
-    rank 2
-  ]
-  edge
-  [
-    source 171
-    target 22
-    rank 3
-  ]
-  edge
-  [
-    source 171
-    target 2
-    rank 6
-  ]
-  edge
-  [
-    source 171
-    target 80
-    rank 8
-  ]
-  edge
-  [
-    source 171
-    target 60
-    rank 11
-  ]
-  edge
-  [
-    source 171
-    target 232
-    rank 18
-  ]
-  edge
-  [
-    source 172
-    target 22
-    rank 11
-  ]
-  edge
-  [
-    source 172
-    target 2
-    rank 16
-  ]
-  edge
-  [
-    source 172
-    target 169
-    rank 18
-  ]
-  edge
-  [
-    source 173
-    target 172
-    rank 1
-  ]
-  edge
-  [
-    source 173
-    target 2
-    rank 2
-  ]
-  edge
-  [
-    source 173
-    target 120
-    rank 3
-  ]
-  edge
-  [
-    source 173
-    target 24
-    rank 4
-  ]
-  edge
-  [
-    source 173
-    target 47
-    rank 7
-  ]
-  edge
-  [
-    source 173
-    target 258
-    rank 8
-  ]
-  edge
-  [
-    source 173
-    target 3
-    rank 9
-  ]
-  edge
-  [
-    source 173
-    target 10
-    rank 10
-  ]
-  edge
-  [
-    source 173
-    target 31
-    rank 11
-  ]
-  edge
-  [
-    source 173
-    target 14
-    rank 12
-  ]
-  edge
-  [
-    source 173
-    target 40
-    rank 14
-  ]
-  edge
-  [
-    source 173
-    target 151
-    rank 16
-  ]
-  edge
-  [
-    source 173
-    target 18
-    rank 17
-  ]
-  edge
-  [
-    source 174
-    target 172
-    rank 1
-  ]
-  edge
-  [
-    source 174
-    target 80
-    rank 2
-  ]
-  edge
-  [
-    source 174
-    target 10
-    rank 3
-  ]
-  edge
-  [
-    source 174
-    target 18
-    rank 4
-  ]
-  edge
-  [
-    source 174
-    target 60
-    rank 5
-  ]
-  edge
-  [
-    source 174
-    target 22
-    rank 6
-  ]
-  edge
-  [
-    source 174
-    target 133
-    rank 7
-  ]
-  edge
-  [
-    source 174
-    target 2
-    rank 10
-  ]
-  edge
-  [
-    source 174
-    target 153
-    rank 16
-  ]
-  edge
-  [
-    source 175
-    target 172
-    rank 1
-  ]
-  edge
-  [
-    source 175
-    target 193
-    rank 13
-  ]
-  edge
-  [
-    source 175
-    target 14
-    rank 14
-  ]
-  edge
-  [
-    source 175
-    target 72
-    rank 16
-  ]
-  edge
-  [
-    source 175
-    target 285
-    rank 17
-  ]
-  edge
-  [
-    source 175
-    target 6
-    rank 20
-  ]
-  edge
-  [
-    source 176
-    target 2
-    rank 1
-  ]
-  edge
-  [
-    source 176
-    target 169
-    rank 2
-  ]
-  edge
-  [
-    source 176
-    target 77
-    rank 4
-  ]
-  edge
-  [
-    source 176
-    target 6
-    rank 5
-  ]
-  edge
-  [
-    source 176
-    target 130
-    rank 9
-  ]
-  edge
-  [
-    source 176
-    target 84
-    rank 20
-  ]
-  edge
-  [
-    source 177
-    target 304
-    rank 6
-  ]
-  edge
-  [
-    source 177
-    target 68
-    rank 12
-  ]
-  edge
-  [
-    source 178
-    target 172
-    rank 1
-  ]
-  edge
-  [
-    source 178
-    target 120
-    rank 2
-  ]
-  edge
-  [
-    source 178
-    target 10
-    rank 5
-  ]
-  edge
-  [
-    source 178
-    target 6
-    rank 8
-  ]
-  edge
-  [
-    source 178
-    target 258
-    rank 9
-  ]
-  edge
-  [
-    source 178
-    target 23
-    rank 13
-  ]
-  edge
-  [
-    source 178
-    target 235
-    rank 15
-  ]
-  edge
-  [
-    source 178
-    target 71
-    rank 17
-  ]
-  edge
-  [
-    source 179
-    target 172
-    rank 2
-  ]
-  edge
-  [
-    source 179
-    target 120
-    rank 3
-  ]
-  edge
-  [
-    source 179
-    target 6
-    rank 4
-  ]
-  edge
-  [
-    source 179
-    target 258
-    rank 7
-  ]
-  edge
-  [
-    source 179
-    target 3
-    rank 8
-  ]
-  edge
-  [
-    source 179
-    target 276
-    rank 12
-  ]
-  edge
-  [
-    source 179
-    target 312
-    rank 16
-  ]
-  edge
-  [
-    source 181
-    target 153
-    rank 2
-  ]
-  edge
-  [
-    source 181
-    target 131
-    rank 7
-  ]
-  edge
-  [
-    source 182
-    target 120
-    rank 1
-  ]
-  edge
-  [
-    source 182
-    target 172
-    rank 2
-  ]
-  edge
-  [
-    source 182
-    target 258
-    rank 4
-  ]
-  edge
-  [
-    source 182
-    target 58
-    rank 7
-  ]
-  edge
-  [
-    source 182
-    target 72
-    rank 10
-  ]
-  edge
-  [
-    source 182
-    target 151
-    rank 12
-  ]
-  edge
-  [
-    source 182
-    target 3
-    rank 15
-  ]
-  edge
-  [
-    source 183
-    target 141
-    rank 1
-  ]
-  edge
-  [
-    source 183
-    target 14
-    rank 2
-  ]
-  edge
-  [
-    source 183
-    target 22
-    rank 3
-  ]
-  edge
-  [
-    source 183
-    target 60
-    rank 7
-  ]
-  edge
-  [
-    source 183
-    target 72
-    rank 9
-  ]
-  edge
-  [
-    source 183
-    target 120
-    rank 11
-  ]
-  edge
-  [
-    source 184
-    target 172
-    rank 2
-  ]
-  edge
-  [
-    source 184
-    target 258
-    rank 3
-  ]
-  edge
-  [
-    source 184
-    target 18
-    rank 4
-  ]
-  edge
-  [
-    source 184
-    target 6
-    rank 6
-  ]
-  edge
-  [
-    source 184
-    target 3
-    rank 10
-  ]
-  edge
-  [
-    source 184
-    target 119
-    rank 11
-  ]
-  edge
-  [
-    source 184
-    target 9
-    rank 14
-  ]
-  edge
-  [
-    source 184
-    target 138
-    rank 15
-  ]
-  edge
-  [
-    source 184
-    target 57
-    rank 16
-  ]
-  edge
-  [
-    source 184
-    target 235
-    rank 17
-  ]
-  edge
-  [
-    source 185
-    target 172
-    rank 1
-  ]
-  edge
-  [
-    source 185
-    target 51
-    rank 8
-  ]
-  edge
-  [
-    source 185
-    target 37
-    rank 11
-  ]
-  edge
-  [
-    source 185
-    target 18
-    rank 18
-  ]
-  edge
-  [
-    source 186
-    target 172
-    rank 2
-  ]
-  edge
-  [
-    source 186
-    target 2
-    rank 3
-  ]
-  edge
-  [
-    source 186
-    target 80
-    rank 5
-  ]
-  edge
-  [
-    source 186
-    target 6
-    rank 10
-  ]
-  edge
-  [
-    source 186
-    target 10
-    rank 12
-  ]
-  edge
-  [
-    source 186
-    target 60
-    rank 14
-  ]
-  edge
-  [
-    source 186
-    target 153
-    rank 15
-  ]
-  edge
-  [
-    source 186
-    target 133
-    rank 16
-  ]
-  edge
-  [
-    source 187
-    target 258
-    rank 1
-  ]
-  edge
-  [
-    source 187
-    target 3
-    rank 6
-  ]
-  edge
-  [
-    source 187
-    target 51
-    rank 12
-  ]
-  edge
-  [
-    source 187
-    target 184
-    rank 14
-  ]
-  edge
-  [
-    source 187
-    target 70
-    rank 18
-  ]
-  edge
-  [
-    source 187
-    target 312
-    rank 20
-  ]
-  edge
-  [
-    source 188
-    target 37
-    rank 5
-  ]
-  edge
-  [
-    source 188
-    target 70
-    rank 13
-  ]
-  edge
-  [
-    source 189
-    target 172
-    rank 2
-  ]
-  edge
-  [
-    source 189
-    target 80
-    rank 3
-  ]
-  edge
-  [
-    source 189
-    target 147
-    rank 4
-  ]
-  edge
-  [
-    source 189
-    target 2
-    rank 5
-  ]
-  edge
-  [
-    source 189
-    target 60
-    rank 8
-  ]
-  edge
-  [
-    source 189
-    target 23
-    rank 11
-  ]
-  edge
-  [
-    source 189
-    target 37
-    rank 12
-  ]
-  edge
-  [
-    source 189
-    target 82
-    rank 14
-  ]
-  edge
-  [
-    source 189
-    target 95
-    rank 18
-  ]
-  edge
-  [
-    source 190
-    target 72
-    rank 2
-  ]
-  edge
-  [
-    source 190
-    target 120
-    rank 6
-  ]
-  edge
-  [
-    source 190
-    target 14
-    rank 11
-  ]
-  edge
-  [
-    source 190
-    target 82
-    rank 15
-  ]
-  edge
-  [
-    source 191
-    target 22
-    rank 2
-  ]
-  edge
-  [
-    source 191
-    target 80
-    rank 4
-  ]
-  edge
-  [
-    source 191
-    target 141
-    rank 6
-  ]
-  edge
-  [
-    source 191
-    target 172
-    rank 8
-  ]
-  edge
-  [
-    source 191
-    target 6
-    rank 12
-  ]
-  edge
-  [
-    source 192
-    target 10
-    rank 1
-  ]
-  edge
-  [
-    source 192
-    target 58
-    rank 4
-  ]
-  edge
-  [
-    source 192
-    target 172
-    rank 5
-  ]
-  edge
-  [
-    source 192
-    target 6
-    rank 8
-  ]
-  edge
-  [
-    source 193
-    target 172
-    rank 3
-  ]
-  edge
-  [
-    source 193
-    target 14
-    rank 4
-  ]
-  edge
-  [
-    source 193
-    target 67
-    rank 5
-  ]
-  edge
-  [
-    source 193
-    target 285
-    rank 6
-  ]
-  edge
-  [
-    source 193
-    target 82
-    rank 7
-  ]
-  edge
-  [
-    source 193
-    target 72
-    rank 8
-  ]
-  edge
-  [
-    source 194
-    target 172
-    rank 1
-  ]
-  edge
-  [
-    source 194
-    target 170
-    rank 2
-  ]
-  edge
-  [
-    source 194
-    target 14
-    rank 3
-  ]
-  edge
-  [
-    source 194
-    target 304
-    rank 4
-  ]
-  edge
-  [
-    source 194
-    target 24
-    rank 6
-  ]
-  edge
-  [
-    source 194
-    target 120
-    rank 9
-  ]
-  edge
-  [
-    source 194
-    target 72
-    rank 11
-  ]
-  edge
-  [
-    source 194
-    target 10
-    rank 12
-  ]
-  edge
-  [
-    source 194
-    target 82
-    rank 13
-  ]
-  edge
-  [
-    source 194
-    target 217
-    rank 15
-  ]
-  edge
-  [
-    source 194
-    target 3
-    rank 16
-  ]
-  edge
-  [
-    source 194
-    target 67
-    rank 20
-  ]
-  edge
-  [
-    source 195
-    target 172
-    rank 1
-  ]
-  edge
-  [
-    source 195
-    target 120
-    rank 2
-  ]
-  edge
-  [
-    source 195
-    target 6
-    rank 3
-  ]
-  edge
-  [
-    source 195
-    target 217
-    rank 9
-  ]
-  edge
-  [
-    source 195
-    target 260
-    rank 11
-  ]
-  edge
-  [
-    source 195
-    target 141
-    rank 12
-  ]
-  edge
-  [
-    source 195
-    target 151
-    rank 13
-  ]
-  edge
-  [
-    source 195
-    target 192
-    rank 17
-  ]
-  edge
-  [
-    source 196
-    target 10
-    rank 1
-  ]
-  edge
-  [
-    source 196
-    target 24
-    rank 2
-  ]
-  edge
-  [
-    source 196
-    target 172
-    rank 6
-  ]
-  edge
-  [
-    source 196
-    target 72
-    rank 7
-  ]
-  edge
-  [
-    source 196
-    target 258
-    rank 8
-  ]
-  edge
-  [
-    source 196
-    target 6
-    rank 9
-  ]
-  edge
-  [
-    source 196
-    target 134
-    rank 11
-  ]
-  edge
-  [
-    source 196
-    target 18
-    rank 12
-  ]
-  edge
-  [
-    source 196
-    target 3
-    rank 15
-  ]
-  edge
-  [
-    source 196
-    target 14
-    rank 16
-  ]
-  edge
-  [
-    source 197
-    target 70
-    rank 3
-  ]
-  edge
-  [
-    source 197
+    source 30
     target 143
-    rank 6
+    rank 17
   ]
   edge
   [
-    source 197
+    source 30
+    target 6
+    rank 19
+  ]
+  edge
+  [
+    source 30
+    target 46
+    rank 20
+  ]
+  edge
+  [
+    source 31
+    target 2
+    rank 1
+  ]
+  edge
+  [
+    source 31
+    target 119
+    rank 2
+  ]
+  edge
+  [
+    source 31
+    target 3
+    rank 3
+  ]
+  edge
+  [
+    source 31
+    target 171
+    rank 4
+  ]
+  edge
+  [
+    source 31
+    target 169
+    rank 5
+  ]
+  edge
+  [
+    source 31
     target 291
     rank 7
   ]
   edge
   [
-    source 197
-    target 37
+    source 31
+    target 6
     rank 8
   ]
   edge
   [
-    source 197
-    target 48
-    rank 12
-  ]
-  edge
-  [
-    source 198
-    target 6
-    rank 2
-  ]
-  edge
-  [
-    source 198
-    target 144
-    rank 3
-  ]
-  edge
-  [
-    source 198
-    target 47
-    rank 4
-  ]
-  edge
-  [
-    source 198
-    target 24
-    rank 7
-  ]
-  edge
-  [
-    source 198
-    target 72
-    rank 14
-  ]
-  edge
-  [
-    source 198
-    target 169
-    rank 17
-  ]
-  edge
-  [
-    source 198
-    target 82
-    rank 19
-  ]
-  edge
-  [
-    source 198
-    target 226
-    rank 20
-  ]
-  edge
-  [
-    source 199
-    target 22
-    rank 2
-  ]
-  edge
-  [
-    source 199
-    target 89
-    rank 12
-  ]
-  edge
-  [
-    source 200
-    target 2
-    rank 1
-  ]
-  edge
-  [
-    source 200
-    target 172
-    rank 2
-  ]
-  edge
-  [
-    source 200
-    target 6
-    rank 4
-  ]
-  edge
-  [
-    source 200
-    target 153
-    rank 5
-  ]
-  edge
-  [
-    source 200
-    target 80
-    rank 8
-  ]
-  edge
-  [
-    source 200
-    target 10
-    rank 9
-  ]
-  edge
-  [
-    source 200
-    target 105
+    source 31
+    target 152
     rank 10
   ]
   edge
   [
-    source 200
-    target 151
+    source 31
+    target 36
     rank 11
   ]
   edge
   [
-    source 200
-    target 133
-    rank 15
-  ]
-  edge
-  [
-    source 200
-    target 192
-    rank 19
-  ]
-  edge
-  [
-    source 201
-    target 172
-    rank 1
-  ]
-  edge
-  [
-    source 201
-    target 120
-    rank 3
-  ]
-  edge
-  [
-    source 201
-    target 10
-    rank 4
-  ]
-  edge
-  [
-    source 201
-    target 58
+    source 31
+    target 13
     rank 12
   ]
   edge
   [
-    source 201
+    source 31
+    target 71
+    rank 13
+  ]
+  edge
+  [
+    source 31
     target 14
-    rank 18
+    rank 14
   ]
   edge
   [
-    source 201
-    target 219
-    rank 20
-  ]
-  edge
-  [
-    source 202
-    target 2
-    rank 1
-  ]
-  edge
-  [
-    source 202
-    target 172
-    rank 2
-  ]
-  edge
-  [
-    source 202
-    target 10
-    rank 6
-  ]
-  edge
-  [
-    source 202
-    target 170
-    rank 8
-  ]
-  edge
-  [
-    source 202
-    target 6
-    rank 9
-  ]
-  edge
-  [
-    source 202
-    target 3
-    rank 16
-  ]
-  edge
-  [
-    source 204
-    target 40
-    rank 9
-  ]
-  edge
-  [
-    source 204
-    target 169
-    rank 13
-  ]
-  edge
-  [
-    source 205
-    target 10
-    rank 1
-  ]
-  edge
-  [
-    source 205
-    target 2
-    rank 2
-  ]
-  edge
-  [
-    source 205
-    target 22
-    rank 3
-  ]
-  edge
-  [
-    source 205
-    target 80
-    rank 5
-  ]
-  edge
-  [
-    source 205
-    target 6
-    rank 9
-  ]
-  edge
-  [
-    source 205
-    target 60
-    rank 10
-  ]
-  edge
-  [
-    source 205
-    target 153
-    rank 11
-  ]
-  edge
-  [
-    source 205
-    target 192
-    rank 12
-  ]
-  edge
-  [
-    source 205
-    target 172
-    rank 13
-  ]
-  edge
-  [
-    source 205
-    target 133
-    rank 16
-  ]
-  edge
-  [
-    source 205
-    target 78
-    rank 17
-  ]
-  edge
-  [
-    source 205
-    target 105
-    rank 20
-  ]
-  edge
-  [
-    source 206
-    target 172
-    rank 2
-  ]
-  edge
-  [
-    source 206
-    target 22
-    rank 5
-  ]
-  edge
-  [
-    source 206
-    target 141
-    rank 6
-  ]
-  edge
-  [
-    source 206
-    target 183
-    rank 18
-  ]
-  edge
-  [
-    source 206
-    target 151
-    rank 19
-  ]
-  edge
-  [
-    source 207
-    target 172
-    rank 1
-  ]
-  edge
-  [
-    source 207
-    target 258
-    rank 4
-  ]
-  edge
-  [
-    source 207
-    target 27
-    rank 5
-  ]
-  edge
-  [
-    source 207
+    source 31
     target 18
-    rank 11
+    rank 16
   ]
   edge
   [
-    source 207
-    target 276
-    rank 12
-  ]
-  edge
-  [
-    source 207
-    target 3
-    rank 14
-  ]
-  edge
-  [
-    source 207
-    target 37
-    rank 15
-  ]
-  edge
-  [
-    source 207
-    target 23
-    rank 18
-  ]
-  edge
-  [
-    source 207
-    target 100
-    rank 20
-  ]
-  edge
-  [
-    source 208
-    target 172
-    rank 1
-  ]
-  edge
-  [
-    source 208
-    target 10
-    rank 2
-  ]
-  edge
-  [
-    source 208
-    target 22
-    rank 4
-  ]
-  edge
-  [
-    source 208
-    target 80
-    rank 5
-  ]
-  edge
-  [
-    source 208
-    target 3
-    rank 6
-  ]
-  edge
-  [
-    source 208
-    target 232
-    rank 9
-  ]
-  edge
-  [
-    source 208
-    target 2
-    rank 12
-  ]
-  edge
-  [
-    source 208
-    target 153
-    rank 13
-  ]
-  edge
-  [
-    source 208
-    target 133
-    rank 14
-  ]
-  edge
-  [
-    source 209
-    target 172
-    rank 1
-  ]
-  edge
-  [
-    source 209
-    target 6
-    rank 4
-  ]
-  edge
-  [
-    source 209
-    target 235
-    rank 9
-  ]
-  edge
-  [
-    source 209
-    target 119
-    rank 10
-  ]
-  edge
-  [
-    source 209
+    source 31
     target 11
-    rank 12
+    rank 17
   ]
   edge
   [
-    source 209
-    target 184
-    rank 13
-  ]
-  edge
-  [
-    source 209
-    target 291
-    rank 15
-  ]
-  edge
-  [
-    source 209
-    target 276
+    source 31
+    target 137
     rank 20
   ]
   edge
   [
-    source 210
-    target 172
+    source 32
+    target 171
     rank 1
   ]
   edge
   [
-    source 210
-    target 120
-    rank 2
-  ]
-  edge
-  [
-    source 210
-    target 22
-    rank 3
-  ]
-  edge
-  [
-    source 210
-    target 2
-    rank 4
-  ]
-  edge
-  [
-    source 210
-    target 24
-    rank 5
-  ]
-  edge
-  [
-    source 210
-    target 40
-    rank 6
-  ]
-  edge
-  [
-    source 210
-    target 18
-    rank 8
-  ]
-  edge
-  [
-    source 210
-    target 14
-    rank 9
-  ]
-  edge
-  [
-    source 210
-    target 37
-    rank 10
-  ]
-  edge
-  [
-    source 210
+    source 32
     target 3
-    rank 11
-  ]
-  edge
-  [
-    source 210
-    target 231
-    rank 12
-  ]
-  edge
-  [
-    source 210
-    target 10
-    rank 13
-  ]
-  edge
-  [
-    source 210
-    target 151
-    rank 15
-  ]
-  edge
-  [
-    source 210
-    target 19
-    rank 18
-  ]
-  edge
-  [
-    source 211
-    target 172
-    rank 1
-  ]
-  edge
-  [
-    source 211
-    target 10
-    rank 2
-  ]
-  edge
-  [
-    source 211
-    target 18
-    rank 3
-  ]
-  edge
-  [
-    source 211
-    target 27
     rank 5
   ]
   edge
   [
-    source 211
-    target 226
+    source 32
+    target 223
     rank 6
   ]
   edge
   [
-    source 211
-    target 92
+    source 32
+    target 36
     rank 7
   ]
   edge
   [
-    source 211
-    target 23
+    source 32
+    target 6
     rank 8
   ]
   edge
   [
-    source 211
-    target 108
-    rank 11
+    source 32
+    target 291
+    rank 10
   ]
   edge
   [
-    source 211
-    target 184
+    source 32
+    target 14
     rank 12
   ]
   edge
   [
-    source 211
-    target 278
+    source 32
+    target 10
     rank 13
   ]
   edge
   [
-    source 211
-    target 119
-    rank 14
+    source 32
+    target 114
+    rank 15
   ]
   edge
   [
-    source 211
-    target 12
+    source 32
+    target 91
     rank 16
   ]
   edge
   [
-    source 211
-    target 39
-    rank 17
-  ]
-  edge
-  [
-    source 211
-    target 138
-    rank 20
-  ]
-  edge
-  [
-    source 212
-    target 80
-    rank 3
-  ]
-  edge
-  [
-    source 213
-    target 48
-    rank 12
-  ]
-  edge
-  [
-    source 213
-    target 37
-    rank 17
-  ]
-  edge
-  [
-    source 214
-    target 172
-    rank 1
-  ]
-  edge
-  [
-    source 214
-    target 92
-    rank 13
-  ]
-  edge
-  [
-    source 215
-    target 24
-    rank 1
-  ]
-  edge
-  [
-    source 215
-    target 258
-    rank 3
-  ]
-  edge
-  [
-    source 215
-    target 3
-    rank 7
-  ]
-  edge
-  [
-    source 215
-    target 31
-    rank 9
-  ]
-  edge
-  [
-    source 215
-    target 71
-    rank 17
-  ]
-  edge
-  [
-    source 215
-    target 119
-    rank 19
-  ]
-  edge
-  [
-    source 216
-    target 141
-    rank 2
-  ]
-  edge
-  [
-    source 216
-    target 172
-    rank 3
-  ]
-  edge
-  [
-    source 216
-    target 298
-    rank 4
-  ]
-  edge
-  [
-    source 216
-    target 89
-    rank 7
-  ]
-  edge
-  [
-    source 216
-    target 80
-    rank 10
-  ]
-  edge
-  [
-    source 216
-    target 51
-    rank 20
-  ]
-  edge
-  [
-    source 217
-    target 6
-    rank 3
-  ]
-  edge
-  [
-    source 217
-    target 172
-    rank 4
-  ]
-  edge
-  [
-    source 217
-    target 192
-    rank 5
-  ]
-  edge
-  [
-    source 217
-    target 58
-    rank 8
-  ]
-  edge
-  [
-    source 217
-    target 10
-    rank 10
-  ]
-  edge
-  [
-    source 217
-    target 72
-    rank 12
-  ]
-  edge
-  [
-    source 217
-    target 144
-    rank 13
-  ]
-  edge
-  [
-    source 219
-    target 169
-    rank 1
-  ]
-  edge
-  [
-    source 219
-    target 47
-    rank 2
-  ]
-  edge
-  [
-    source 219
-    target 172
-    rank 3
-  ]
-  edge
-  [
-    source 219
-    target 120
-    rank 11
-  ]
-  edge
-  [
-    source 219
-    target 3
-    rank 17
-  ]
-  edge
-  [
-    source 219
-    target 258
-    rank 19
-  ]
-  edge
-  [
-    source 220
-    target 172
-    rank 2
-  ]
-  edge
-  [
-    source 220
-    target 21
-    rank 10
-  ]
-  edge
-  [
-    source 220
-    target 23
-    rank 13
-  ]
-  edge
-  [
-    source 220
-    target 37
-    rank 17
-  ]
-  edge
-  [
-    source 221
-    target 37
-    rank 13
-  ]
-  edge
-  [
-    source 221
-    target 230
-    rank 20
-  ]
-  edge
-  [
-    source 222
-    target 3
-    rank 1
-  ]
-  edge
-  [
-    source 222
-    target 172
-    rank 3
-  ]
-  edge
-  [
-    source 222
-    target 285
-    rank 4
-  ]
-  edge
-  [
-    source 222
-    target 10
-    rank 5
-  ]
-  edge
-  [
-    source 222
-    target 24
-    rank 6
-  ]
-  edge
-  [
-    source 222
-    target 72
-    rank 12
-  ]
-  edge
-  [
-    source 222
-    target 14
-    rank 13
-  ]
-  edge
-  [
-    source 222
-    target 82
-    rank 14
-  ]
-  edge
-  [
-    source 222
-    target 67
-    rank 19
-  ]
-  edge
-  [
-    source 222
-    target 37
-    rank 20
-  ]
-  edge
-  [
-    source 223
-    target 37
-    rank 4
-  ]
-  edge
-  [
-    source 223
-    target 80
-    rank 8
-  ]
-  edge
-  [
-    source 224
-    target 172
-    rank 2
-  ]
-  edge
-  [
-    source 224
-    target 258
-    rank 3
-  ]
-  edge
-  [
-    source 224
-    target 169
-    rank 4
-  ]
-  edge
-  [
-    source 224
-    target 6
-    rank 6
-  ]
-  edge
-  [
-    source 224
-    target 71
-    rank 7
-  ]
-  edge
-  [
-    source 224
-    target 72
-    rank 9
-  ]
-  edge
-  [
-    source 224
-    target 231
-    rank 11
-  ]
-  edge
-  [
-    source 224
-    target 3
-    rank 14
-  ]
-  edge
-  [
-    source 224
-    target 78
-    rank 16
-  ]
-  edge
-  [
-    source 224
+    source 32
     target 18
-    rank 19
-  ]
-  edge
-  [
-    source 224
-    target 31
-    rank 20
-  ]
-  edge
-  [
-    source 225
-    target 10
-    rank 2
-  ]
-  edge
-  [
-    source 225
-    target 14
-    rank 9
-  ]
-  edge
-  [
-    source 225
-    target 82
-    rank 12
-  ]
-  edge
-  [
-    source 225
-    target 6
-    rank 13
-  ]
-  edge
-  [
-    source 225
-    target 71
     rank 18
   ]
   edge
   [
-    source 226
-    target 172
+    source 32
+    target 118
+    rank 19
+  ]
+  edge
+  [
+    source 33
+    target 171
     rank 1
   ]
   edge
   [
-    source 226
-    target 120
-    rank 3
-  ]
-  edge
-  [
-    source 226
-    target 169
-    rank 5
-  ]
-  edge
-  [
-    source 226
-    target 6
-    rank 7
-  ]
-  edge
-  [
-    source 226
-    target 72
-    rank 11
-  ]
-  edge
-  [
-    source 226
-    target 27
-    rank 13
-  ]
-  edge
-  [
-    source 226
-    target 3
-    rank 16
-  ]
-  edge
-  [
-    source 226
-    target 258
-    rank 18
-  ]
-  edge
-  [
-    source 226
-    target 51
-    rank 19
-  ]
-  edge
-  [
-    source 226
-    target 14
-    rank 20
-  ]
-  edge
-  [
-    source 227
-    target 233
-    rank 10
-  ]
-  edge
-  [
-    source 227
-    target 37
-    rank 20
-  ]
-  edge
-  [
-    source 228
-    target 172
+    source 33
+    target 253
     rank 2
   ]
   edge
   [
-    source 228
-    target 6
-    rank 4
-  ]
-  edge
-  [
-    source 228
-    target 3
-    rank 8
-  ]
-  edge
-  [
-    source 228
-    target 18
-    rank 19
-  ]
-  edge
-  [
-    source 229
-    target 291
-    rank 17
-  ]
-  edge
-  [
-    source 230
-    target 291
-    rank 19
-  ]
-  edge
-  [
-    source 231
-    target 172
-    rank 1
-  ]
-  edge
-  [
-    source 231
-    target 24
-    rank 2
-  ]
-  edge
-  [
-    source 231
-    target 22
-    rank 3
-  ]
-  edge
-  [
-    source 231
-    target 2
-    rank 4
-  ]
-  edge
-  [
-    source 231
-    target 120
-    rank 5
-  ]
-  edge
-  [
-    source 231
-    target 47
-    rank 6
-  ]
-  edge
-  [
-    source 231
-    target 31
-    rank 7
-  ]
-  edge
-  [
-    source 231
-    target 72
-    rank 8
-  ]
-  edge
-  [
-    source 231
-    target 6
-    rank 9
-  ]
-  edge
-  [
-    source 231
-    target 153
-    rank 10
-  ]
-  edge
-  [
-    source 231
-    target 82
-    rank 14
-  ]
-  edge
-  [
-    source 231
-    target 217
-    rank 15
-  ]
-  edge
-  [
-    source 231
-    target 10
-    rank 17
-  ]
-  edge
-  [
-    source 231
-    target 58
-    rank 18
-  ]
-  edge
-  [
-    source 231
-    target 14
-    rank 19
-  ]
-  edge
-  [
-    source 232
-    target 169
-    rank 5
-  ]
-  edge
-  [
-    source 232
-    target 172
-    rank 7
-  ]
-  edge
-  [
-    source 232
-    target 6
-    rank 8
-  ]
-  edge
-  [
-    source 232
-    target 37
-    rank 9
-  ]
-  edge
-  [
-    source 232
-    target 23
-    rank 11
-  ]
-  edge
-  [
-    source 232
-    target 72
-    rank 15
-  ]
-  edge
-  [
-    source 232
-    target 120
-    rank 18
-  ]
-  edge
-  [
-    source 232
-    target 51
-    rank 19
-  ]
-  edge
-  [
-    source 233
-    target 69
-    rank 20
-  ]
-  edge
-  [
-    source 234
-    target 3
-    rank 4
-  ]
-  edge
-  [
-    source 234
-    target 10
-    rank 5
-  ]
-  edge
-  [
-    source 234
-    target 80
-    rank 9
-  ]
-  edge
-  [
-    source 234
-    target 153
-    rank 20
-  ]
-  edge
-  [
-    source 235
-    target 258
-    rank 2
-  ]
-  edge
-  [
-    source 235
-    target 71
-    rank 4
-  ]
-  edge
-  [
-    source 235
-    target 6
-    rank 9
-  ]
-  edge
-  [
-    source 235
-    target 3
-    rank 10
-  ]
-  edge
-  [
-    source 235
-    target 15
-    rank 15
-  ]
-  edge
-  [
-    source 235
-    target 138
-    rank 18
-  ]
-  edge
-  [
-    source 235
-    target 11
-    rank 20
-  ]
-  edge
-  [
-    source 236
-    target 135
-    rank 7
-  ]
-  edge
-  [
-    source 236
+    source 33
     target 70
-    rank 11
-  ]
-  edge
-  [
-    source 236
-    target 37
-    rank 16
-  ]
-  edge
-  [
-    source 238
-    target 120
-    rank 3
-  ]
-  edge
-  [
-    source 238
-    target 258
-    rank 4
-  ]
-  edge
-  [
-    source 238
-    target 172
     rank 5
   ]
   edge
   [
-    source 238
-    target 3
-    rank 11
-  ]
-  edge
-  [
-    source 238
-    target 226
-    rank 14
-  ]
-  edge
-  [
-    source 238
-    target 18
-    rank 15
-  ]
-  edge
-  [
-    source 238
-    target 235
-    rank 16
-  ]
-  edge
-  [
-    source 238
-    target 37
-    rank 20
-  ]
-  edge
-  [
-    source 239
-    target 170
-    rank 1
-  ]
-  edge
-  [
-    source 239
-    target 172
-    rank 2
-  ]
-  edge
-  [
-    source 239
-    target 120
-    rank 4
-  ]
-  edge
-  [
-    source 239
-    target 6
-    rank 6
-  ]
-  edge
-  [
-    source 239
-    target 10
-    rank 7
-  ]
-  edge
-  [
-    source 239
-    target 14
-    rank 17
-  ]
-  edge
-  [
-    source 239
-    target 18
-    rank 18
-  ]
-  edge
-  [
-    source 240
-    target 172
-    rank 1
-  ]
-  edge
-  [
-    source 240
-    target 120
-    rank 2
-  ]
-  edge
-  [
-    source 240
-    target 24
-    rank 4
-  ]
-  edge
-  [
-    source 240
-    target 72
+    source 33
+    target 23
     rank 9
   ]
   edge
   [
-    source 240
-    target 134
+    source 33
+    target 214
     rank 11
   ]
   edge
   [
-    source 240
-    target 10
+    source 33
+    target 223
     rank 12
   ]
   edge
   [
-    source 240
-    target 18
+    source 33
+    target 3
     rank 13
   ]
   edge
   [
-    source 240
-    target 82
+    source 33
+    target 13
     rank 17
   ]
   edge
   [
-    source 240
-    target 37
-    rank 18
-  ]
-  edge
-  [
-    source 240
-    target 67
+    source 33
+    target 38
     rank 19
   ]
   edge
   [
-    source 241
-    target 172
+    source 33
+    target 19
+    rank 20
+  ]
+  edge
+  [
+    source 34
+    target 171
+    rank 1
+  ]
+  edge
+  [
+    source 34
+    target 24
     rank 2
   ]
   edge
   [
-    source 241
-    target 141
-    rank 4
+    source 34
+    target 119
+    rank 3
   ]
   edge
   [
-    source 241
-    target 10
-    rank 5
+    source 34
+    target 46
+    rank 6
   ]
   edge
   [
-    source 241
+    source 34
+    target 2
+    rank 7
+  ]
+  edge
+  [
+    source 34
     target 6
     rank 10
   ]
   edge
   [
-    source 242
-    target 153
-    rank 3
+    source 34
+    target 10
+    rank 11
   ]
   edge
   [
-    source 242
-    target 80
-    rank 5
+    source 34
+    target 71
+    rank 14
   ]
   edge
   [
-    source 242
-    target 37
+    source 34
+    target 79
+    rank 17
+  ]
+  edge
+  [
+    source 34
+    target 66
     rank 18
   ]
   edge
   [
-    source 242
-    target 291
-    rank 19
-  ]
-  edge
-  [
-    source 243
-    target 58
-    rank 4
-  ]
-  edge
-  [
-    source 243
-    target 8
-    rank 8
-  ]
-  edge
-  [
-    source 243
-    target 244
-    rank 9
-  ]
-  edge
-  [
-    source 244
-    target 120
+    source 35
+    target 171
     rank 1
   ]
   edge
   [
-    source 244
+    source 35
+    target 168
+    rank 2
+  ]
+  edge
+  [
+    source 35
+    target 6
+    rank 3
+  ]
+  edge
+  [
+    source 35
+    target 71
+    rank 4
+  ]
+  edge
+  [
+    source 35
+    target 27
+    rank 11
+  ]
+  edge
+  [
+    source 35
+    target 14
+    rank 12
+  ]
+  edge
+  [
+    source 35
+    target 16
+    rank 15
+  ]
+  edge
+  [
+    source 35
+    target 139
+    rank 17
+  ]
+  edge
+  [
+    source 35
+    target 255
+    rank 18
+  ]
+  edge
+  [
+    source 35
+    target 23
+    rank 19
+  ]
+  edge
+  [
+    source 36
+    target 79
+    rank 3
+  ]
+  edge
+  [
+    source 36
+    target 171
+    rank 5
+  ]
+  edge
+  [
+    source 36
+    target 71
+    rank 7
+  ]
+  edge
+  [
+    source 36
+    target 6
+    rank 8
+  ]
+  edge
+  [
+    source 36
+    target 119
+    rank 13
+  ]
+  edge
+  [
+    source 36
+    target 250
+    rank 15
+  ]
+  edge
+  [
+    source 36
+    target 81
+    rank 17
+  ]
+  edge
+  [
+    source 36
+    target 14
+    rank 19
+  ]
+  edge
+  [
+    source 37
+    target 50
+    rank 1
+  ]
+  edge
+  [
+    source 37
+    target 36
+    rank 3
+  ]
+  edge
+  [
+    source 37
+    target 69
+    rank 18
+  ]
+  edge
+  [
+    source 37
+    target 95
+    rank 20
+  ]
+  edge
+  [
+    source 38
+    target 2
+    rank 1
+  ]
+  edge
+  [
+    source 38
+    target 171
+    rank 2
+  ]
+  edge
+  [
+    source 38
+    target 169
+    rank 3
+  ]
+  edge
+  [
+    source 38
+    target 6
+    rank 5
+  ]
+  edge
+  [
+    source 38
+    target 10
+    rank 6
+  ]
+  edge
+  [
+    source 38
+    target 223
+    rank 7
+  ]
+  edge
+  [
+    source 38
+    target 152
+    rank 8
+  ]
+  edge
+  [
+    source 38
+    target 56
+    rank 9
+  ]
+  edge
+  [
+    source 38
+    target 50
+    rank 10
+  ]
+  edge
+  [
+    source 38
+    target 225
+    rank 12
+  ]
+  edge
+  [
+    source 38
+    target 19
+    rank 13
+  ]
+  edge
+  [
+    source 38
+    target 77
+    rank 17
+  ]
+  edge
+  [
+    source 38
+    target 18
+    rank 18
+  ]
+  edge
+  [
+    source 38
+    target 13
+    rank 20
+  ]
+  edge
+  [
+    source 40
+    target 171
+    rank 1
+  ]
+  edge
+  [
+    source 40
     target 169
     rank 2
   ]
   edge
   [
-    source 244
-    target 82
-    rank 3
-  ]
-  edge
-  [
-    source 244
-    target 67
-    rank 5
-  ]
-  edge
-  [
-    source 244
+    source 40
     target 6
-    rank 7
-  ]
-  edge
-  [
-    source 244
-    target 3
-    rank 9
-  ]
-  edge
-  [
-    source 244
-    target 285
-    rank 13
-  ]
-  edge
-  [
-    source 244
-    target 14
-    rank 15
-  ]
-  edge
-  [
-    source 244
-    target 151
-    rank 17
-  ]
-  edge
-  [
-    source 245
-    target 170
-    rank 1
-  ]
-  edge
-  [
-    source 245
-    target 172
-    rank 2
-  ]
-  edge
-  [
-    source 245
-    target 3
     rank 3
   ]
   edge
   [
-    source 245
-    target 18
-    rank 4
-  ]
-  edge
-  [
-    source 245
-    target 258
+    source 40
+    target 36
     rank 5
   ]
   edge
   [
-    source 245
-    target 37
+    source 40
+    target 55
     rank 6
   ]
   edge
   [
-    source 245
-    target 10
-    rank 14
-  ]
-  edge
-  [
-    source 245
-    target 51
-    rank 15
-  ]
-  edge
-  [
-    source 245
-    target 6
-    rank 16
-  ]
-  edge
-  [
-    source 245
-    target 276
-    rank 20
-  ]
-  edge
-  [
-    source 246
-    target 172
-    rank 1
-  ]
-  edge
-  [
-    source 246
-    target 3
-    rank 2
-  ]
-  edge
-  [
-    source 246
-    target 72
-    rank 3
-  ]
-  edge
-  [
-    source 246
-    target 6
-    rank 4
-  ]
-  edge
-  [
-    source 246
-    target 226
-    rank 5
-  ]
-  edge
-  [
-    source 246
-    target 151
-    rank 8
-  ]
-  edge
-  [
-    source 246
-    target 78
+    source 40
+    target 81
     rank 9
   ]
   edge
   [
-    source 246
-    target 18
+    source 40
+    target 118
+    rank 10
+  ]
+  edge
+  [
+    source 40
+    target 10
+    rank 11
+  ]
+  edge
+  [
+    source 40
+    target 266
     rank 13
   ]
   edge
   [
-    source 246
+    source 40
+    target 223
+    rank 14
+  ]
+  edge
+  [
+    source 40
+    target 225
+    rank 18
+  ]
+  edge
+  [
+    source 40
+    target 168
+    rank 19
+  ]
+  edge
+  [
+    source 40
+    target 141
+    rank 20
+  ]
+  edge
+  [
+    source 41
+    target 253
+    rank 2
+  ]
+  edge
+  [
+    source 41
+    target 171
+    rank 3
+  ]
+  edge
+  [
+    source 41
+    target 119
+    rank 4
+  ]
+  edge
+  [
+    source 41
+    target 6
+    rank 11
+  ]
+  edge
+  [
+    source 41
+    target 18
+    rank 12
+  ]
+  edge
+  [
+    source 41
+    target 70
+    rank 13
+  ]
+  edge
+  [
+    source 41
+    target 9
+    rank 14
+  ]
+  edge
+  [
+    source 41
+    target 118
+    rank 16
+  ]
+  edge
+  [
+    source 41
+    target 71
+    rank 18
+  ]
+  edge
+  [
+    source 42
+    target 171
+    rank 1
+  ]
+  edge
+  [
+    source 42
+    target 168
+    rank 2
+  ]
+  edge
+  [
+    source 42
+    target 14
+    rank 3
+  ]
+  edge
+  [
+    source 42
+    target 22
+    rank 4
+  ]
+  edge
+  [
+    source 42
+    target 119
+    rank 5
+  ]
+  edge
+  [
+    source 42
+    target 2
+    rank 6
+  ]
+  edge
+  [
+    source 42
+    target 253
+    rank 7
+  ]
+  edge
+  [
+    source 42
+    target 150
+    rank 13
+  ]
+  edge
+  [
+    source 42
+    target 57
+    rank 16
+  ]
+  edge
+  [
+    source 42
+    target 70
+    rank 17
+  ]
+  edge
+  [
+    source 43
+    target 171
+    rank 1
+  ]
+  edge
+  [
+    source 43
+    target 119
+    rank 3
+  ]
+  edge
+  [
+    source 43
+    target 36
+    rank 4
+  ]
+  edge
+  [
+    source 43
+    target 253
+    rank 5
+  ]
+  edge
+  [
+    source 43
+    target 10
+    rank 6
+  ]
+  edge
+  [
+    source 43
+    target 269
+    rank 8
+  ]
+  edge
+  [
+    source 43
+    target 12
+    rank 9
+  ]
+  edge
+  [
+    source 43
+    target 58
+    rank 10
+  ]
+  edge
+  [
+    source 43
+    target 18
+    rank 11
+  ]
+  edge
+  [
+    source 43
     target 59
     rank 14
   ]
   edge
   [
-    source 246
-    target 67
+    source 43
+    target 278
     rank 15
   ]
   edge
   [
-    source 246
-    target 23
-    rank 18
+    source 43
+    target 137
+    rank 17
   ]
   edge
   [
-    source 246
-    target 37
-    rank 19
-  ]
-  edge
-  [
-    source 246
-    target 32
-    rank 20
-  ]
-  edge
-  [
-    source 247
-    target 172
-    rank 1
-  ]
-  edge
-  [
-    source 247
-    target 6
-    rank 2
-  ]
-  edge
-  [
-    source 247
-    target 77
-    rank 5
-  ]
-  edge
-  [
-    source 247
-    target 58
-    rank 7
-  ]
-  edge
-  [
-    source 247
-    target 18
-    rank 13
-  ]
-  edge
-  [
-    source 247
+    source 43
     target 14
-    rank 14
-  ]
-  edge
-  [
-    source 247
-    target 60
-    rank 17
-  ]
-  edge
-  [
-    source 247
-    target 4
     rank 18
   ]
   edge
   [
-    source 247
-    target 37
+    source 43
+    target 64
     rank 19
   ]
   edge
   [
-    source 247
-    target 11
-    rank 20
-  ]
-  edge
-  [
-    source 249
-    target 172
-    rank 1
-  ]
-  edge
-  [
-    source 249
-    target 10
-    rank 2
-  ]
-  edge
-  [
-    source 249
-    target 37
-    rank 3
-  ]
-  edge
-  [
-    source 249
-    target 258
-    rank 5
-  ]
-  edge
-  [
-    source 249
-    target 276
-    rank 6
-  ]
-  edge
-  [
-    source 249
-    target 3
-    rank 9
-  ]
-  edge
-  [
-    source 249
-    target 18
-    rank 10
-  ]
-  edge
-  [
-    source 249
-    target 23
-    rank 11
-  ]
-  edge
-  [
-    source 249
-    target 92
-    rank 14
-  ]
-  edge
-  [
-    source 249
-    target 184
-    rank 18
-  ]
-  edge
-  [
-    source 250
-    target 172
-    rank 1
-  ]
-  edge
-  [
-    source 250
-    target 47
-    rank 2
-  ]
-  edge
-  [
-    source 250
-    target 258
-    rank 3
-  ]
-  edge
-  [
-    source 250
-    target 10
-    rank 5
-  ]
-  edge
-  [
-    source 250
-    target 184
-    rank 9
-  ]
-  edge
-  [
-    source 250
-    target 18
-    rank 12
-  ]
-  edge
-  [
-    source 250
-    target 276
-    rank 13
-  ]
-  edge
-  [
-    source 250
-    target 3
-    rank 14
-  ]
-  edge
-  [
-    source 250
-    target 235
-    rank 15
-  ]
-  edge
-  [
-    source 250
-    target 27
-    rank 16
-  ]
-  edge
-  [
-    source 250
-    target 95
-    rank 17
-  ]
-  edge
-  [
-    source 250
-    target 4
-    rank 19
-  ]
-  edge
-  [
-    source 250
-    target 11
-    rank 20
-  ]
-  edge
-  [
-    source 251
-    target 170
-    rank 1
-  ]
-  edge
-  [
-    source 251
-    target 172
-    rank 2
-  ]
-  edge
-  [
-    source 251
-    target 37
-    rank 6
-  ]
-  edge
-  [
-    source 251
-    target 153
-    rank 7
-  ]
-  edge
-  [
-    source 251
-    target 2
-    rank 9
-  ]
-  edge
-  [
-    source 251
+    source 43
     target 15
-    rank 10
-  ]
-  edge
-  [
-    source 251
-    target 276
-    rank 11
-  ]
-  edge
-  [
-    source 251
-    target 312
-    rank 12
-  ]
-  edge
-  [
-    source 251
-    target 3
-    rank 13
-  ]
-  edge
-  [
-    source 251
-    target 138
-    rank 16
-  ]
-  edge
-  [
-    source 251
-    target 19
-    rank 18
-  ]
-  edge
-  [
-    source 252
-    target 2
-    rank 1
-  ]
-  edge
-  [
-    source 252
-    target 172
-    rank 2
-  ]
-  edge
-  [
-    source 252
-    target 6
-    rank 3
-  ]
-  edge
-  [
-    source 252
-    target 10
-    rank 4
-  ]
-  edge
-  [
-    source 252
-    target 129
-    rank 7
-  ]
-  edge
-  [
-    source 252
-    target 80
-    rank 9
-  ]
-  edge
-  [
-    source 252
-    target 153
-    rank 17
-  ]
-  edge
-  [
-    source 255
-    target 80
-    rank 4
-  ]
-  edge
-  [
-    source 255
-    target 82
-    rank 13
-  ]
-  edge
-  [
-    source 255
-    target 120
-    rank 17
-  ]
-  edge
-  [
-    source 255
-    target 37
     rank 20
   ]
   edge
   [
-    source 256
-    target 142
-    rank 3
-  ]
-  edge
-  [
-    source 256
-    target 37
-    rank 12
-  ]
-  edge
-  [
-    source 256
-    target 131
-    rank 15
-  ]
-  edge
-  [
-    source 257
-    target 120
-    rank 2
-  ]
-  edge
-  [
-    source 257
-    target 47
-    rank 3
-  ]
-  edge
-  [
-    source 257
-    target 14
-    rank 7
-  ]
-  edge
-  [
-    source 257
-    target 85
-    rank 8
-  ]
-  edge
-  [
-    source 257
-    target 151
-    rank 9
-  ]
-  edge
-  [
-    source 257
-    target 72
-    rank 11
-  ]
-  edge
-  [
-    source 257
-    target 67
-    rank 13
-  ]
-  edge
-  [
-    source 257
-    target 285
-    rank 16
-  ]
-  edge
-  [
-    source 258
-    target 172
+    source 44
+    target 171
     rank 1
   ]
   edge
   [
-    source 258
-    target 10
-    rank 2
-  ]
-  edge
-  [
-    source 258
+    source 44
     target 6
-    rank 5
-  ]
-  edge
-  [
-    source 258
-    target 14
-    rank 6
-  ]
-  edge
-  [
-    source 258
-    target 2
-    rank 7
-  ]
-  edge
-  [
-    source 258
-    target 24
-    rank 10
-  ]
-  edge
-  [
-    source 258
-    target 18
-    rank 12
-  ]
-  edge
-  [
-    source 258
-    target 102
-    rank 14
-  ]
-  edge
-  [
-    source 258
-    target 78
-    rank 15
-  ]
-  edge
-  [
-    source 258
-    target 72
-    rank 17
-  ]
-  edge
-  [
-    source 258
-    target 3
-    rank 19
-  ]
-  edge
-  [
-    source 259
-    target 172
-    rank 1
-  ]
-  edge
-  [
-    source 259
-    target 2
     rank 2
   ]
   edge
   [
-    source 259
-    target 24
-    rank 3
-  ]
-  edge
-  [
-    source 259
-    target 3
-    rank 5
-  ]
-  edge
-  [
-    source 259
-    target 258
-    rank 6
-  ]
-  edge
-  [
-    source 259
-    target 72
-    rank 7
-  ]
-  edge
-  [
-    source 259
-    target 80
-    rank 8
-  ]
-  edge
-  [
-    source 259
-    target 231
-    rank 9
-  ]
-  edge
-  [
-    source 259
-    target 47
-    rank 10
-  ]
-  edge
-  [
-    source 259
-    target 18
-    rank 12
-  ]
-  edge
-  [
-    source 259
-    target 37
-    rank 13
-  ]
-  edge
-  [
-    source 259
-    target 82
-    rank 17
-  ]
-  edge
-  [
-    source 259
-    target 14
-    rank 19
-  ]
-  edge
-  [
-    source 260
-    target 10
-    rank 1
-  ]
-  edge
-  [
-    source 260
-    target 172
-    rank 2
-  ]
-  edge
-  [
-    source 260
-    target 2
-    rank 3
-  ]
-  edge
-  [
-    source 260
-    target 6
-    rank 4
-  ]
-  edge
-  [
-    source 260
-    target 3
-    rank 5
-  ]
-  edge
-  [
-    source 260
-    target 170
-    rank 7
-  ]
-  edge
-  [
-    source 260
-    target 226
-    rank 8
-  ]
-  edge
-  [
-    source 260
-    target 263
-    rank 9
-  ]
-  edge
-  [
-    source 260
-    target 153
-    rank 10
-  ]
-  edge
-  [
-    source 260
-    target 276
-    rank 11
-  ]
-  edge
-  [
-    source 260
-    target 258
-    rank 13
-  ]
-  edge
-  [
-    source 260
-    target 192
-    rank 15
-  ]
-  edge
-  [
-    source 260
-    target 23
-    rank 18
-  ]
-  edge
-  [
-    source 260
-    target 27
-    rank 20
-  ]
-  edge
-  [
-    source 261
-    target 89
-    rank 3
-  ]
-  edge
-  [
-    source 262
-    target 2
-    rank 3
-  ]
-  edge
-  [
-    source 262
-    target 183
-    rank 4
-  ]
-  edge
-  [
-    source 262
-    target 22
-    rank 6
-  ]
-  edge
-  [
-    source 262
-    target 78
-    rank 19
-  ]
-  edge
-  [
-    source 263
+    source 44
     target 14
     rank 3
   ]
   edge
   [
-    source 263
-    target 6
-    rank 4
-  ]
-  edge
-  [
-    source 263
-    target 10
-    rank 6
-  ]
-  edge
-  [
-    source 263
-    target 172
-    rank 11
-  ]
-  edge
-  [
-    source 263
-    target 151
-    rank 12
-  ]
-  edge
-  [
-    source 263
-    target 133
-    rank 17
-  ]
-  edge
-  [
-    source 263
-    target 192
-    rank 19
-  ]
-  edge
-  [
-    source 264
-    target 117
-    rank 11
-  ]
-  edge
-  [
-    source 264
-    target 105
-    rank 13
-  ]
-  edge
-  [
-    source 264
-    target 84
-    rank 19
-  ]
-  edge
-  [
-    source 265
-    target 172
-    rank 2
-  ]
-  edge
-  [
-    source 265
-    target 2
-    rank 3
-  ]
-  edge
-  [
-    source 265
-    target 80
-    rank 4
-  ]
-  edge
-  [
-    source 265
-    target 145
-    rank 6
-  ]
-  edge
-  [
-    source 265
-    target 10
-    rank 7
-  ]
-  edge
-  [
-    source 265
-    target 60
-    rank 14
-  ]
-  edge
-  [
-    source 265
-    target 21
-    rank 15
-  ]
-  edge
-  [
-    source 265
-    target 18
-    rank 17
-  ]
-  edge
-  [
-    source 265
-    target 290
-    rank 18
-  ]
-  edge
-  [
-    source 265
-    target 312
-    rank 19
-  ]
-  edge
-  [
-    source 266
-    target 24
-    rank 1
-  ]
-  edge
-  [
-    source 266
-    target 10
-    rank 2
-  ]
-  edge
-  [
-    source 266
-    target 6
-    rank 3
-  ]
-  edge
-  [
-    source 266
-    target 80
-    rank 8
-  ]
-  edge
-  [
-    source 266
-    target 231
-    rank 18
-  ]
-  edge
-  [
-    source 267
-    target 153
-    rank 8
-  ]
-  edge
-  [
-    source 269
-    target 172
-    rank 1
-  ]
-  edge
-  [
-    source 270
-    target 22
-    rank 1
-  ]
-  edge
-  [
-    source 270
-    target 2
-    rank 3
-  ]
-  edge
-  [
-    source 270
-    target 27
-    rank 6
-  ]
-  edge
-  [
-    source 270
-    target 24
-    rank 7
-  ]
-  edge
-  [
-    source 270
-    target 6
+    source 44
+    target 255
     rank 9
   ]
   edge
   [
-    source 270
-    target 172
+    source 44
+    target 10
     rank 10
   ]
   edge
   [
-    source 270
-    target 80
-    rank 11
-  ]
-  edge
-  [
-    source 270
-    target 72
-    rank 18
-  ]
-  edge
-  [
-    source 270
-    target 169
-    rank 19
-  ]
-  edge
-  [
-    source 271
-    target 170
-    rank 1
-  ]
-  edge
-  [
-    source 271
-    target 24
-    rank 2
-  ]
-  edge
-  [
-    source 271
-    target 85
-    rank 5
-  ]
-  edge
-  [
-    source 271
-    target 2
-    rank 6
-  ]
-  edge
-  [
-    source 271
-    target 153
-    rank 10
-  ]
-  edge
-  [
-    source 271
-    target 20
-    rank 14
-  ]
-  edge
-  [
-    source 271
-    target 131
-    rank 16
-  ]
-  edge
-  [
-    source 273
-    target 172
-    rank 2
-  ]
-  edge
-  [
-    source 273
-    target 120
-    rank 3
-  ]
-  edge
-  [
-    source 273
-    target 170
-    rank 4
-  ]
-  edge
-  [
-    source 273
-    target 72
-    rank 6
-  ]
-  edge
-  [
-    source 273
-    target 10
-    rank 7
-  ]
-  edge
-  [
-    source 273
-    target 151
-    rank 9
-  ]
-  edge
-  [
-    source 273
-    target 6
-    rank 10
-  ]
-  edge
-  [
-    source 273
-    target 169
-    rank 11
-  ]
-  edge
-  [
-    source 273
-    target 37
-    rank 13
-  ]
-  edge
-  [
-    source 273
-    target 67
-    rank 15
-  ]
-  edge
-  [
-    source 273
-    target 3
-    rank 18
-  ]
-  edge
-  [
-    source 273
-    target 258
-    rank 20
-  ]
-  edge
-  [
-    source 274
-    target 77
-    rank 7
-  ]
-  edge
-  [
-    source 274
-    target 193
-    rank 9
-  ]
-  edge
-  [
-    source 274
-    target 82
-    rank 12
-  ]
-  edge
-  [
-    source 274
-    target 244
-    rank 16
-  ]
-  edge
-  [
-    source 274
-    target 14
-    rank 20
-  ]
-  edge
-  [
-    source 276
-    target 10
-    rank 2
-  ]
-  edge
-  [
-    source 276
-    target 37
-    rank 4
-  ]
-  edge
-  [
-    source 276
-    target 6
-    rank 5
-  ]
-  edge
-  [
-    source 276
-    target 80
-    rank 9
-  ]
-  edge
-  [
-    source 276
+    source 44
     target 3
     rank 11
   ]
   edge
   [
-    source 276
-    target 285
-    rank 17
-  ]
-  edge
-  [
-    source 277
-    target 172
-    rank 1
-  ]
-  edge
-  [
-    source 277
-    target 10
-    rank 2
-  ]
-  edge
-  [
-    source 277
-    target 258
-    rank 3
-  ]
-  edge
-  [
-    source 277
-    target 151
-    rank 6
-  ]
-  edge
-  [
-    source 277
-    target 2
-    rank 10
-  ]
-  edge
-  [
-    source 277
-    target 3
-    rank 12
-  ]
-  edge
-  [
-    source 277
-    target 105
-    rank 15
-  ]
-  edge
-  [
-    source 277
-    target 74
-    rank 16
-  ]
-  edge
-  [
-    source 277
-    target 184
-    rank 17
-  ]
-  edge
-  [
-    source 277
-    target 312
-    rank 19
-  ]
-  edge
-  [
-    source 278
-    target 172
-    rank 1
-  ]
-  edge
-  [
-    source 278
-    target 14
-    rank 3
-  ]
-  edge
-  [
-    source 278
-    target 3
-    rank 5
-  ]
-  edge
-  [
-    source 278
-    target 6
-    rank 7
-  ]
-  edge
-  [
-    source 278
-    target 67
-    rank 8
-  ]
-  edge
-  [
-    source 279
-    target 141
-    rank 1
-  ]
-  edge
-  [
-    source 279
-    target 6
-    rank 2
-  ]
-  edge
-  [
-    source 279
-    target 189
-    rank 5
-  ]
-  edge
-  [
-    source 279
+    source 44
     target 13
-    rank 18
+    rank 12
   ]
   edge
   [
-    source 280
-    target 80
-    rank 2
-  ]
-  edge
-  [
-    source 280
-    target 122
-    rank 3
-  ]
-  edge
-  [
-    source 280
-    target 230
-    rank 6
-  ]
-  edge
-  [
-    source 280
-    target 236
-    rank 10
-  ]
-  edge
-  [
-    source 280
-    target 51
+    source 44
+    target 118
     rank 14
   ]
   edge
   [
-    source 280
-    target 40
-    rank 15
-  ]
-  edge
-  [
-    source 280
-    target 131
-    rank 18
-  ]
-  edge
-  [
-    source 281
-    target 120
-    rank 5
-  ]
-  edge
-  [
-    source 281
-    target 14
-    rank 7
-  ]
-  edge
-  [
-    source 281
-    target 21
-    rank 8
-  ]
-  edge
-  [
-    source 281
-    target 350
-    rank 16
-  ]
-  edge
-  [
-    source 281
-    target 37
-    rank 18
-  ]
-  edge
-  [
-    source 282
-    target 10
-    rank 1
-  ]
-  edge
-  [
-    source 282
-    target 80
-    rank 3
-  ]
-  edge
-  [
-    source 282
-    target 241
-    rank 4
-  ]
-  edge
-  [
-    source 282
-    target 82
-    rank 6
-  ]
-  edge
-  [
-    source 282
-    target 89
-    rank 7
-  ]
-  edge
-  [
-    source 282
-    target 14
-    rank 9
-  ]
-  edge
-  [
-    source 282
-    target 60
-    rank 16
-  ]
-  edge
-  [
-    source 282
-    target 69
-    rank 19
-  ]
-  edge
-  [
-    source 283
-    target 172
-    rank 1
-  ]
-  edge
-  [
-    source 283
-    target 27
-    rank 15
-  ]
-  edge
-  [
-    source 283
-    target 263
-    rank 16
-  ]
-  edge
-  [
-    source 284
-    target 172
-    rank 1
-  ]
-  edge
-  [
-    source 284
-    target 133
-    rank 3
-  ]
-  edge
-  [
-    source 285
-    target 14
-    rank 10
-  ]
-  edge
-  [
-    source 285
-    target 172
-    rank 14
-  ]
-  edge
-  [
-    source 285
-    target 120
-    rank 15
-  ]
-  edge
-  [
-    source 287
-    target 172
-    rank 1
-  ]
-  edge
-  [
-    source 287
-    target 72
-    rank 2
-  ]
-  edge
-  [
-    source 287
-    target 31
-    rank 4
-  ]
-  edge
-  [
-    source 287
-    target 276
-    rank 6
-  ]
-  edge
-  [
-    source 287
-    target 24
-    rank 7
-  ]
-  edge
-  [
-    source 287
-    target 134
-    rank 9
-  ]
-  edge
-  [
-    source 287
-    target 231
-    rank 10
-  ]
-  edge
-  [
-    source 287
-    target 37
-    rank 12
-  ]
-  edge
-  [
-    source 287
-    target 23
-    rank 13
-  ]
-  edge
-  [
-    source 287
-    target 192
-    rank 15
-  ]
-  edge
-  [
-    source 287
-    target 47
-    rank 17
-  ]
-  edge
-  [
-    source 288
-    target 14
-    rank 1
-  ]
-  edge
-  [
-    source 288
-    target 23
-    rank 5
-  ]
-  edge
-  [
-    source 288
-    target 4
-    rank 6
-  ]
-  edge
-  [
-    source 288
-    target 30
-    rank 10
-  ]
-  edge
-  [
-    source 288
-    target 350
-    rank 11
-  ]
-  edge
-  [
-    source 288
-    target 446
-    rank 16
-  ]
-  edge
-  [
-    source 289
-    target 369
-    rank 1
-  ]
-  edge
-  [
-    source 291
-    target 209
-    rank 11
-  ]
-  edge
-  [
-    source 292
-    target 172
-    rank 1
-  ]
-  edge
-  [
-    source 292
-    target 169
-    rank 3
-  ]
-  edge
-  [
-    source 292
-    target 24
-    rank 4
-  ]
-  edge
-  [
-    source 292
-    target 120
-    rank 6
-  ]
-  edge
-  [
-    source 292
-    target 217
-    rank 9
-  ]
-  edge
-  [
-    source 292
-    target 273
-    rank 10
-  ]
-  edge
-  [
-    source 292
-    target 14
-    rank 14
-  ]
-  edge
-  [
-    source 292
-    target 58
-    rank 15
-  ]
-  edge
-  [
-    source 292
-    target 397
-    rank 16
-  ]
-  edge
-  [
-    source 292
-    target 92
-    rank 17
-  ]
-  edge
-  [
-    source 292
-    target 37
-    rank 20
-  ]
-  edge
-  [
-    source 293
-    target 120
-    rank 1
-  ]
-  edge
-  [
-    source 293
-    target 82
-    rank 9
-  ]
-  edge
-  [
-    source 293
-    target 1
-    rank 15
-  ]
-  edge
-  [
-    source 293
-    target 3
-    rank 17
-  ]
-  edge
-  [
-    source 293
-    target 58
-    rank 18
-  ]
-  edge
-  [
-    source 294
-    target 119
-    rank 16
-  ]
-  edge
-  [
-    source 294
-    target 115
-    rank 17
-  ]
-  edge
-  [
-    source 294
-    target 9
-    rank 18
-  ]
-  edge
-  [
-    source 294
-    target 220
-    rank 19
-  ]
-  edge
-  [
-    source 297
-    target 172
-    rank 1
-  ]
-  edge
-  [
-    source 297
-    target 2
-    rank 2
-  ]
-  edge
-  [
-    source 297
-    target 183
-    rank 4
-  ]
-  edge
-  [
-    source 297
-    target 10
-    rank 6
-  ]
-  edge
-  [
-    source 297
-    target 132
-    rank 9
-  ]
-  edge
-  [
-    source 297
-    target 3
-    rank 12
-  ]
-  edge
-  [
-    source 297
-    target 37
-    rank 13
-  ]
-  edge
-  [
-    source 297
-    target 147
-    rank 16
-  ]
-  edge
-  [
-    source 298
-    target 172
-    rank 4
-  ]
-  edge
-  [
-    source 298
-    target 151
-    rank 12
-  ]
-  edge
-  [
-    source 299
-    target 172
-    rank 2
-  ]
-  edge
-  [
-    source 299
-    target 58
-    rank 10
-  ]
-  edge
-  [
-    source 299
-    target 61
-    rank 15
-  ]
-  edge
-  [
-    source 301
-    target 172
-    rank 1
-  ]
-  edge
-  [
-    source 301
-    target 10
-    rank 3
-  ]
-  edge
-  [
-    source 301
-    target 14
-    rank 4
-  ]
-  edge
-  [
-    source 301
-    target 153
-    rank 8
-  ]
-  edge
-  [
-    source 301
-    target 3
-    rank 9
-  ]
-  edge
-  [
-    source 304
-    target 172
-    rank 3
-  ]
-  edge
-  [
-    source 304
-    target 169
-    rank 5
-  ]
-  edge
-  [
-    source 304
-    target 3
-    rank 7
-  ]
-  edge
-  [
-    source 304
-    target 72
-    rank 11
-  ]
-  edge
-  [
-    source 304
-    target 312
-    rank 18
-  ]
-  edge
-  [
-    source 304
-    target 37
-    rank 19
-  ]
-  edge
-  [
-    source 305
-    target 80
-    rank 1
-  ]
-  edge
-  [
-    source 305
-    target 37
-    rank 9
-  ]
-  edge
-  [
-    source 308
-    target 170
-    rank 1
-  ]
-  edge
-  [
-    source 308
-    target 172
-    rank 3
-  ]
-  edge
-  [
-    source 308
-    target 14
-    rank 8
-  ]
-  edge
-  [
-    source 308
-    target 3
-    rank 9
-  ]
-  edge
-  [
-    source 309
-    target 102
-    rank 6
-  ]
-  edge
-  [
-    source 313
-    target 2
-    rank 1
-  ]
-  edge
-  [
-    source 313
-    target 172
-    rank 2
-  ]
-  edge
-  [
-    source 313
-    target 10
-    rank 7
-  ]
-  edge
-  [
-    source 314
-    target 6
-    rank 1
-  ]
-  edge
-  [
-    source 314
-    target 120
-    rank 2
-  ]
-  edge
-  [
-    source 314
-    target 14
-    rank 8
-  ]
-  edge
-  [
-    source 314
-    target 10
-    rank 11
-  ]
-  edge
-  [
-    source 314
-    target 285
-    rank 15
-  ]
-  edge
-  [
-    source 315
-    target 135
-    rank 6
-  ]
-  edge
-  [
-    source 315
-    target 122
-    rank 8
-  ]
-  edge
-  [
-    source 315
-    target 236
-    rank 14
-  ]
-  edge
-  [
-    source 316
-    target 172
-    rank 1
-  ]
-  edge
-  [
-    source 316
-    target 10
-    rank 2
-  ]
-  edge
-  [
-    source 316
-    target 133
-    rank 6
-  ]
-  edge
-  [
-    source 316
-    target 105
-    rank 9
-  ]
-  edge
-  [
-    source 316
-    target 2
-    rank 10
-  ]
-  edge
-  [
-    source 317
-    target 172
-    rank 1
-  ]
-  edge
-  [
-    source 317
-    target 6
-    rank 2
-  ]
-  edge
-  [
-    source 317
-    target 14
-    rank 3
-  ]
-  edge
-  [
-    source 317
-    target 120
-    rank 4
-  ]
-  edge
-  [
-    source 317
-    target 285
-    rank 5
-  ]
-  edge
-  [
-    source 317
-    target 151
-    rank 9
-  ]
-  edge
-  [
-    source 317
-    target 11
-    rank 15
-  ]
-  edge
-  [
-    source 317
-    target 5
-    rank 16
-  ]
-  edge
-  [
-    source 317
-    target 32
-    rank 20
-  ]
-  edge
-  [
-    source 318
-    target 276
-    rank 1
-  ]
-  edge
-  [
-    source 318
-    target 170
-    rank 2
-  ]
-  edge
-  [
-    source 318
-    target 23
-    rank 4
-  ]
-  edge
-  [
-    source 318
-    target 37
-    rank 6
-  ]
-  edge
-  [
-    source 318
-    target 18
-    rank 7
-  ]
-  edge
-  [
-    source 319
-    target 3
-    rank 8
-  ]
-  edge
-  [
-    source 321
-    target 298
-    rank 12
-  ]
-  edge
-  [
-    source 321
-    target 10
-    rank 19
-  ]
-  edge
-  [
-    source 322
-    target 151
-    rank 2
-  ]
-  edge
-  [
-    source 322
-    target 30
-    rank 6
-  ]
-  edge
-  [
-    source 322
-    target 488
-    rank 17
-  ]
-  edge
-  [
-    source 323
-    target 10
-    rank 1
-  ]
-  edge
-  [
-    source 323
-    target 172
-    rank 2
-  ]
-  edge
-  [
-    source 324
-    target 237
-    rank 2
-  ]
-  edge
-  [
-    source 324
-    target 493
-    rank 10
-  ]
-  edge
-  [
-    source 326
-    target 5
-    rank 5
-  ]
-  edge
-  [
-    source 326
-    target 45
-    rank 11
-  ]
-  edge
-  [
-    source 326
-    target 34
-    rank 12
-  ]
-  edge
-  [
-    source 326
-    target 156
-    rank 18
-  ]
-  edge
-  [
-    source 327
-    target 169
-    rank 2
-  ]
-  edge
-  [
-    source 327
-    target 3
-    rank 9
-  ]
-  edge
-  [
-    source 327
-    target 31
-    rank 10
-  ]
-  edge
-  [
-    source 327
-    target 273
-    rank 11
-  ]
-  edge
-  [
-    source 328
-    target 309
-    rank 20
-  ]
-  edge
-  [
-    source 329
-    target 80
-    rank 9
-  ]
-  edge
-  [
-    source 330
-    target 120
-    rank 1
-  ]
-  edge
-  [
-    source 330
-    target 169
-    rank 2
-  ]
-  edge
-  [
-    source 330
-    target 172
-    rank 3
-  ]
-  edge
-  [
-    source 330
-    target 72
-    rank 4
-  ]
-  edge
-  [
-    source 330
-    target 6
-    rank 5
-  ]
-  edge
-  [
-    source 330
-    target 23
-    rank 6
-  ]
-  edge
-  [
-    source 330
-    target 14
-    rank 8
-  ]
-  edge
-  [
-    source 330
-    target 37
-    rank 9
-  ]
-  edge
-  [
-    source 330
-    target 258
-    rank 12
-  ]
-  edge
-  [
-    source 330
+    source 44
     target 18
     rank 15
   ]
   edge
   [
-    source 330
-    target 276
-    rank 16
-  ]
-  edge
-  [
-    source 330
-    target 3
-    rank 17
-  ]
-  edge
-  [
-    source 330
-    target 228
-    rank 19
-  ]
-  edge
-  [
-    source 331
-    target 120
-    rank 1
-  ]
-  edge
-  [
-    source 331
-    target 172
-    rank 2
-  ]
-  edge
-  [
-    source 331
-    target 285
-    rank 5
-  ]
-  edge
-  [
-    source 331
-    target 5
-    rank 7
-  ]
-  edge
-  [
-    source 331
-    target 23
-    rank 8
-  ]
-  edge
-  [
-    source 331
-    target 15
-    rank 10
-  ]
-  edge
-  [
-    source 331
-    target 138
-    rank 11
-  ]
-  edge
-  [
-    source 331
-    target 37
-    rank 12
-  ]
-  edge
-  [
-    source 331
-    target 7
-    rank 13
-  ]
-  edge
-  [
-    source 331
-    target 11
-    rank 15
-  ]
-  edge
-  [
-    source 333
-    target 217
-    rank 1
-  ]
-  edge
-  [
-    source 335
-    target 172
-    rank 6
-  ]
-  edge
-  [
-    source 335
-    target 377
-    rank 18
-  ]
-  edge
-  [
-    source 338
-    target 209
-    rank 15
-  ]
-  edge
-  [
-    source 339
-    target 172
-    rank 3
-  ]
-  edge
-  [
-    source 340
-    target 3
-    rank 3
-  ]
-  edge
-  [
-    source 340
-    target 346
-    rank 17
-  ]
-  edge
-  [
-    source 340
-    target 475
-    rank 18
-  ]
-  edge
-  [
-    source 341
-    target 80
-    rank 1
-  ]
-  edge
-  [
-    source 341
-    target 37
-    rank 3
-  ]
-  edge
-  [
-    source 341
-    target 92
-    rank 4
-  ]
-  edge
-  [
-    source 341
-    target 192
-    rank 5
-  ]
-  edge
-  [
-    source 341
-    target 5
-    rank 7
-  ]
-  edge
-  [
-    source 341
-    target 11
-    rank 9
-  ]
-  edge
-  [
-    source 341
-    target 466
-    rank 13
-  ]
-  edge
-  [
-    source 343
-    target 131
-    rank 5
-  ]
-  edge
-  [
-    source 343
-    target 37
-    rank 7
-  ]
-  edge
-  [
-    source 345
-    target 5
-    rank 1
-  ]
-  edge
-  [
-    source 345
-    target 376
-    rank 18
-  ]
-  edge
-  [
-    source 346
-    target 289
-    rank 5
-  ]
-  edge
-  [
-    source 346
-    target 376
-    rank 16
-  ]
-  edge
-  [
-    source 347
-    target 102
-    rank 1
-  ]
-  edge
-  [
-    source 347
-    target 6
-    rank 4
-  ]
-  edge
-  [
-    source 347
-    target 14
-    rank 5
-  ]
-  edge
-  [
-    source 347
-    target 368
-    rank 13
-  ]
-  edge
-  [
-    source 347
-    target 330
-    rank 14
-  ]
-  edge
-  [
-    source 347
-    target 376
-    rank 15
-  ]
-  edge
-  [
-    source 347
-    target 346
-    rank 16
-  ]
-  edge
-  [
-    source 347
-    target 3
-    rank 19
-  ]
-  edge
-  [
-    source 347
-    target 137
-    rank 20
-  ]
-  edge
-  [
-    source 348
-    target 8
-    rank 15
-  ]
-  edge
-  [
-    source 348
-    target 346
-    rank 20
-  ]
-  edge
-  [
-    source 349
-    target 80
-    rank 5
-  ]
-  edge
-  [
-    source 349
-    target 68
-    rank 13
-  ]
-  edge
-  [
-    source 349
-    target 131
-    rank 16
-  ]
-  edge
-  [
-    source 349
-    target 368
-    rank 18
-  ]
-  edge
-  [
-    source 350
-    target 172
-    rank 1
-  ]
-  edge
-  [
-    source 350
-    target 2
-    rank 2
-  ]
-  edge
-  [
-    source 350
-    target 80
-    rank 3
-  ]
-  edge
-  [
-    source 350
-    target 10
-    rank 6
-  ]
-  edge
-  [
-    source 350
-    target 151
-    rank 8
-  ]
-  edge
-  [
-    source 352
-    target 172
-    rank 1
-  ]
-  edge
-  [
-    source 352
-    target 72
-    rank 4
-  ]
-  edge
-  [
-    source 352
-    target 276
-    rank 6
-  ]
-  edge
-  [
-    source 352
-    target 258
-    rank 10
-  ]
-  edge
-  [
-    source 352
-    target 51
-    rank 11
-  ]
-  edge
-  [
-    source 352
-    target 285
-    rank 13
-  ]
-  edge
-  [
-    source 352
-    target 37
-    rank 16
-  ]
-  edge
-  [
-    source 352
-    target 312
-    rank 17
-  ]
-  edge
-  [
-    source 352
-    target 68
-    rank 18
-  ]
-  edge
-  [
-    source 352
-    target 18
-    rank 19
-  ]
-  edge
-  [
-    source 354
-    target 172
-    rank 1
-  ]
-  edge
-  [
-    source 354
-    target 10
-    rank 2
-  ]
-  edge
-  [
-    source 354
-    target 2
-    rank 4
-  ]
-  edge
-  [
-    source 354
-    target 170
-    rank 5
-  ]
-  edge
-  [
-    source 354
-    target 14
-    rank 8
-  ]
-  edge
-  [
-    source 354
-    target 153
-    rank 9
-  ]
-  edge
-  [
-    source 354
-    target 80
-    rank 10
-  ]
-  edge
-  [
-    source 354
-    target 37
-    rank 11
-  ]
-  edge
-  [
-    source 354
-    target 60
-    rank 12
-  ]
-  edge
-  [
-    source 354
-    target 19
-    rank 13
-  ]
-  edge
-  [
-    source 354
-    target 350
-    rank 15
-  ]
-  edge
-  [
-    source 354
-    target 202
-    rank 16
-  ]
-  edge
-  [
-    source 355
-    target 31
-    rank 2
-  ]
-  edge
-  [
-    source 355
-    target 231
-    rank 16
-  ]
-  edge
-  [
-    source 356
-    target 3
-    rank 2
-  ]
-  edge
-  [
-    source 356
-    target 312
-    rank 3
-  ]
-  edge
-  [
-    source 356
-    target 258
-    rank 5
-  ]
-  edge
-  [
-    source 356
-    target 184
-    rank 6
-  ]
-  edge
-  [
-    source 356
-    target 18
-    rank 7
-  ]
-  edge
-  [
-    source 356
-    target 231
-    rank 9
-  ]
-  edge
-  [
-    source 357
-    target 37
-    rank 1
-  ]
-  edge
-  [
-    source 358
-    target 37
-    rank 1
-  ]
-  edge
-  [
-    source 358
-    target 18
-    rank 2
-  ]
-  edge
-  [
-    source 358
-    target 5
-    rank 6
-  ]
-  edge
-  [
-    source 358
-    target 137
-    rank 10
-  ]
-  edge
-  [
-    source 358
-    target 138
-    rank 11
-  ]
-  edge
-  [
-    source 358
-    target 15
-    rank 13
-  ]
-  edge
-  [
-    source 360
-    target 456
-    rank 6
-  ]
-  edge
-  [
-    source 361
-    target 8
-    rank 10
-  ]
-  edge
-  [
-    source 362
-    target 5
-    rank 2
-  ]
-  edge
-  [
-    source 362
-    target 34
-    rank 6
-  ]
-  edge
-  [
-    source 362
-    target 156
-    rank 7
-  ]
-  edge
-  [
-    source 362
-    target 63
-    rank 8
-  ]
-  edge
-  [
-    source 362
-    target 439
-    rank 19
-  ]
-  edge
-  [
-    source 363
-    target 102
-    rank 1
-  ]
-  edge
-  [
-    source 363
-    target 61
-    rank 3
-  ]
-  edge
-  [
-    source 363
-    target 137
-    rank 15
-  ]
-  edge
-  [
-    source 363
-    target 346
-    rank 19
-  ]
-  edge
-  [
-    source 367
-    target 291
-    rank 2
-  ]
-  edge
-  [
-    source 367
-    target 37
-    rank 5
-  ]
-  edge
-  [
-    source 367
-    target 425
-    rank 11
-  ]
-  edge
-  [
-    source 368
-    target 172
-    rank 1
-  ]
-  edge
-  [
-    source 368
-    target 37
-    rank 2
-  ]
-  edge
-  [
-    source 368
-    target 258
-    rank 5
-  ]
-  edge
-  [
-    source 368
-    target 31
-    rank 8
-  ]
-  edge
-  [
-    source 368
-    target 14
-    rank 11
-  ]
-  edge
-  [
-    source 368
-    target 231
-    rank 20
-  ]
-  edge
-  [
-    source 369
-    target 346
-    rank 3
-  ]
-  edge
-  [
-    source 369
-    target 289
-    rank 9
-  ]
-  edge
-  [
-    source 370
-    target 14
-    rank 2
-  ]
-  edge
-  [
-    source 370
-    target 3
-    rank 4
-  ]
-  edge
-  [
-    source 370
-    target 4
-    rank 5
-  ]
-  edge
-  [
-    source 370
-    target 54
-    rank 9
-  ]
-  edge
-  [
-    source 370
-    target 93
-    rank 11
-  ]
-  edge
-  [
-    source 372
-    target 85
-    rank 9
-  ]
-  edge
-  [
-    source 372
-    target 150
-    rank 11
-  ]
-  edge
-  [
-    source 372
-    target 233
-    rank 14
-  ]
-  edge
-  [
-    source 372
-    target 177
-    rank 19
-  ]
-  edge
-  [
-    source 373
-    target 172
-    rank 1
-  ]
-  edge
-  [
-    source 373
-    target 169
-    rank 2
-  ]
-  edge
-  [
-    source 373
-    target 120
-    rank 3
-  ]
-  edge
-  [
-    source 373
-    target 72
-    rank 5
-  ]
-  edge
-  [
-    source 373
-    target 37
-    rank 8
-  ]
-  edge
-  [
-    source 373
-    target 51
-    rank 14
-  ]
-  edge
-  [
-    source 373
-    target 12
-    rank 17
-  ]
-  edge
-  [
-    source 373
-    target 18
-    rank 18
-  ]
-  edge
-  [
-    source 373
-    target 14
-    rank 19
-  ]
-  edge
-  [
-    source 374
-    target 120
-    rank 1
-  ]
-  edge
-  [
-    source 374
-    target 3
-    rank 3
-  ]
-  edge
-  [
-    source 374
-    target 72
-    rank 4
-  ]
-  edge
-  [
-    source 374
-    target 14
-    rank 5
-  ]
-  edge
-  [
-    source 375
-    target 275
-    rank 1
-  ]
-  edge
-  [
-    source 375
-    target 131
-    rank 9
-  ]
-  edge
-  [
-    source 376
-    target 317
-    rank 1
-  ]
-  edge
-  [
-    source 376
-    target 8
-    rank 3
-  ]
-  edge
-  [
-    source 376
-    target 4
-    rank 4
-  ]
-  edge
-  [
-    source 376
-    target 37
-    rank 5
-  ]
-  edge
-  [
-    source 376
-    target 289
-    rank 7
-  ]
-  edge
-  [
-    source 376
-    target 346
-    rank 17
-  ]
-  edge
-  [
-    source 377
-    target 82
-    rank 11
-  ]
-  edge
-  [
-    source 377
-    target 8
-    rank 19
-  ]
-  edge
-  [
-    source 377
-    target 58
-    rank 20
-  ]
-  edge
-  [
-    source 380
-    target 5
-    rank 1
-  ]
-  edge
-  [
-    source 380
-    target 361
-    rank 6
-  ]
-  edge
-  [
-    source 380
-    target 381
-    rank 18
-  ]
-  edge
-  [
-    source 380
-    target 471
-    rank 19
-  ]
-  edge
-  [
-    source 381
-    target 172
-    rank 1
-  ]
-  edge
-  [
-    source 381
-    target 5
-    rank 2
-  ]
-  edge
-  [
-    source 381
-    target 471
-    rank 3
-  ]
-  edge
-  [
-    source 381
-    target 15
-    rank 4
-  ]
-  edge
-  [
-    source 381
-    target 11
-    rank 5
-  ]
-  edge
-  [
-    source 381
-    target 63
-    rank 9
-  ]
-  edge
-  [
-    source 381
-    target 376
-    rank 10
-  ]
-  edge
-  [
-    source 381
-    target 346
-    rank 16
-  ]
-  edge
-  [
-    source 382
-    target 172
-    rank 1
-  ]
-  edge
-  [
-    source 382
-    target 10
-    rank 3
-  ]
-  edge
-  [
-    source 383
-    target 172
-    rank 1
-  ]
-  edge
-  [
-    source 383
-    target 37
-    rank 6
-  ]
-  edge
-  [
-    source 383
-    target 4
-    rank 12
-  ]
-  edge
-  [
-    source 383
-    target 350
-    rank 18
-  ]
-  edge
-  [
-    source 384
-    target 230
-    rank 5
-  ]
-  edge
-  [
-    source 384
-    target 218
-    rank 10
-  ]
-  edge
-  [
-    source 385
-    target 10
-    rank 1
-  ]
-  edge
-  [
-    source 386
-    target 40
-    rank 1
-  ]
-  edge
-  [
-    source 387
-    target 129
-    rank 7
-  ]
-  edge
-  [
-    source 387
-    target 321
-    rank 9
-  ]
-  edge
-  [
-    source 387
-    target 153
-    rank 10
-  ]
-  edge
-  [
-    source 390
-    target 6
-    rank 3
-  ]
-  edge
-  [
-    source 390
-    target 58
-    rank 12
-  ]
-  edge
-  [
-    source 391
-    target 289
-    rank 6
-  ]
-  edge
-  [
-    source 391
-    target 437
-    rank 11
-  ]
-  edge
-  [
-    source 391
-    target 381
-    rank 13
-  ]
-  edge
-  [
-    source 391
-    target 460
-    rank 14
-  ]
-  edge
-  [
-    source 391
-    target 376
-    rank 15
-  ]
-  edge
-  [
-    source 391
-    target 346
-    rank 20
-  ]
-  edge
-  [
-    source 392
-    target 120
-    rank 2
-  ]
-  edge
-  [
-    source 392
-    target 453
-    rank 16
-  ]
-  edge
-  [
-    source 393
-    target 122
-    rank 10
-  ]
-  edge
-  [
-    source 395
-    target 37
-    rank 2
-  ]
-  edge
-  [
-    source 395
-    target 19
-    rank 8
-  ]
-  edge
-  [
-    source 395
-    target 23
-    rank 9
-  ]
-  edge
-  [
-    source 395
-    target 5
-    rank 11
-  ]
-  edge
-  [
-    source 395
-    target 156
-    rank 20
-  ]
-  edge
-  [
-    source 396
-    target 96
-    rank 5
-  ]
-  edge
-  [
-    source 397
-    target 82
-    rank 1
-  ]
-  edge
-  [
-    source 397
-    target 8
-    rank 8
-  ]
-  edge
-  [
-    source 397
-    target 54
-    rank 17
-  ]
-  edge
-  [
-    source 398
-    target 412
-    rank 7
-  ]
-  edge
-  [
-    source 399
-    target 172
-    rank 9
-  ]
-  edge
-  [
-    source 399
-    target 133
-    rank 10
-  ]
-  edge
-  [
-    source 399
-    target 159
-    rank 12
-  ]
-  edge
-  [
-    source 400
-    target 153
-    rank 12
-  ]
-  edge
-  [
-    source 400
-    target 69
-    rank 13
-  ]
-  edge
-  [
-    source 401
-    target 172
-    rank 1
-  ]
-  edge
-  [
-    source 401
-    target 10
-    rank 2
-  ]
-  edge
-  [
-    source 401
-    target 37
-    rank 4
-  ]
-  edge
-  [
-    source 401
-    target 14
-    rank 5
-  ]
-  edge
-  [
-    source 401
-    target 6
-    rank 9
-  ]
-  edge
-  [
-    source 401
-    target 228
-    rank 17
-  ]
-  edge
-  [
-    source 401
-    target 8
-    rank 18
-  ]
-  edge
-  [
-    source 401
-    target 23
-    rank 19
-  ]
-  edge
-  [
-    source 401
-    target 4
-    rank 20
-  ]
-  edge
-  [
-    source 402
-    target 172
-    rank 3
-  ]
-  edge
-  [
-    source 403
-    target 172
-    rank 1
-  ]
-  edge
-  [
-    source 403
-    target 141
-    rank 4
-  ]
-  edge
-  [
-    source 403
-    target 80
-    rank 7
-  ]
-  edge
-  [
-    source 403
-    target 22
-    rank 8
-  ]
-  edge
-  [
-    source 403
-    target 89
-    rank 13
-  ]
-  edge
-  [
-    source 403
-    target 151
-    rank 16
-  ]
-  edge
-  [
-    source 403
-    target 60
-    rank 17
-  ]
-  edge
-  [
-    source 404
-    target 377
-    rank 4
-  ]
-  edge
-  [
-    source 404
-    target 230
-    rank 6
-  ]
-  edge
-  [
-    source 406
-    target 172
-    rank 2
-  ]
-  edge
-  [
-    source 406
-    target 18
-    rank 5
-  ]
-  edge
-  [
-    source 406
-    target 89
-    rank 8
-  ]
-  edge
-  [
-    source 406
-    target 37
-    rank 9
-  ]
-  edge
-  [
-    source 406
-    target 10
-    rank 14
-  ]
-  edge
-  [
-    source 406
-    target 232
-    rank 16
-  ]
-  edge
-  [
-    source 410
-    target 82
-    rank 3
-  ]
-  edge
-  [
-    source 410
-    target 244
-    rank 12
-  ]
-  edge
-  [
-    source 411
-    target 10
-    rank 2
-  ]
-  edge
-  [
-    source 411
-    target 2
-    rank 3
-  ]
-  edge
-  [
-    source 411
-    target 129
-    rank 8
-  ]
-  edge
-  [
-    source 411
-    target 151
-    rank 10
-  ]
-  edge
-  [
-    source 411
-    target 172
-    rank 14
-  ]
-  edge
-  [
-    source 412
-    target 172
-    rank 1
-  ]
-  edge
-  [
-    source 412
-    target 398
-    rank 17
-  ]
-  edge
-  [
-    source 412
-    target 420
-    rank 18
-  ]
-  edge
-  [
-    source 413
-    target 18
-    rank 14
-  ]
-  edge
-  [
-    source 414
-    target 335
-    rank 4
-  ]
-  edge
-  [
-    source 414
-    target 3
-    rank 17
-  ]
-  edge
-  [
-    source 416
-    target 37
-    rank 16
-  ]
-  edge
-  [
-    source 417
-    target 312
-    rank 8
-  ]
-  edge
-  [
-    source 420
-    target 412
-    rank 8
-  ]
-  edge
-  [
-    source 420
-    target 398
-    rank 14
-  ]
-  edge
-  [
-    source 421
-    target 172
-    rank 2
-  ]
-  edge
-  [
-    source 421
-    target 335
-    rank 11
-  ]
-  edge
-  [
-    source 421
-    target 417
-    rank 19
-  ]
-  edge
-  [
-    source 422
-    target 96
-    rank 5
-  ]
-  edge
-  [
-    source 422
-    target 18
-    rank 6
-  ]
-  edge
-  [
-    source 422
-    target 138
-    rank 7
-  ]
-  edge
-  [
-    source 422
-    target 328
-    rank 12
-  ]
-  edge
-  [
-    source 422
-    target 330
-    rank 16
-  ]
-  edge
-  [
-    source 423
-    target 58
-    rank 5
-  ]
-  edge
-  [
-    source 423
-    target 135
-    rank 6
-  ]
-  edge
-  [
-    source 423
-    target 30
-    rank 13
-  ]
-  edge
-  [
-    source 424
-    target 82
-    rank 2
-  ]
-  edge
-  [
-    source 425
-    target 500
-    rank 3
-  ]
-  edge
-  [
-    source 425
-    target 367
-    rank 5
-  ]
-  edge
-  [
-    source 425
-    target 236
-    rank 18
-  ]
-  edge
-  [
-    source 426
-    target 141
-    rank 3
-  ]
-  edge
-  [
-    source 426
-    target 153
-    rank 6
-  ]
-  edge
-  [
-    source 426
-    target 172
-    rank 7
-  ]
-  edge
-  [
-    source 426
-    target 2
-    rank 10
-  ]
-  edge
-  [
-    source 427
-    target 2
-    rank 1
-  ]
-  edge
-  [
-    source 427
-    target 49
-    rank 4
-  ]
-  edge
-  [
-    source 427
-    target 10
-    rank 6
-  ]
-  edge
-  [
-    source 427
-    target 5
-    rank 12
-  ]
-  edge
-  [
-    source 427
-    target 105
-    rank 13
-  ]
-  edge
-  [
-    source 427
+    source 44
     target 70
-    rank 15
-  ]
-  edge
-  [
-    source 428
-    target 220
-    rank 5
-  ]
-  edge
-  [
-    source 428
-    target 68
-    rank 11
-  ]
-  edge
-  [
-    source 428
-    target 350
-    rank 18
-  ]
-  edge
-  [
-    source 428
-    target 92
-    rank 20
-  ]
-  edge
-  [
-    source 429
-    target 4
-    rank 4
-  ]
-  edge
-  [
-    source 429
-    target 244
-    rank 13
-  ]
-  edge
-  [
-    source 430
-    target 412
-    rank 10
-  ]
-  edge
-  [
-    source 431
-    target 37
-    rank 4
-  ]
-  edge
-  [
-    source 431
-    target 23
-    rank 10
-  ]
-  edge
-  [
-    source 431
-    target 15
-    rank 17
-  ]
-  edge
-  [
-    source 432
-    target 260
-    rank 10
-  ]
-  edge
-  [
-    source 432
-    target 290
-    rank 11
-  ]
-  edge
-  [
-    source 432
-    target 23
-    rank 12
-  ]
-  edge
-  [
-    source 432
-    target 138
-    rank 14
-  ]
-  edge
-  [
-    source 432
-    target 184
     rank 16
   ]
   edge
   [
-    source 434
-    target 80
-    rank 1
-  ]
-  edge
-  [
-    source 434
-    target 350
-    rank 5
-  ]
-  edge
-  [
-    source 436
-    target 172
-    rank 1
-  ]
-  edge
-  [
-    source 436
-    target 10
-    rank 2
-  ]
-  edge
-  [
-    source 436
-    target 2
-    rank 4
-  ]
-  edge
-  [
-    source 436
-    target 37
-    rank 5
-  ]
-  edge
-  [
-    source 436
-    target 153
-    rank 7
-  ]
-  edge
-  [
-    source 436
-    target 18
-    rank 8
-  ]
-  edge
-  [
-    source 436
-    target 19
-    rank 9
-  ]
-  edge
-  [
-    source 436
-    target 23
-    rank 10
-  ]
-  edge
-  [
-    source 436
-    target 5
-    rank 12
-  ]
-  edge
-  [
-    source 436
-    target 4
-    rank 13
-  ]
-  edge
-  [
-    source 436
-    target 32
-    rank 14
-  ]
-  edge
-  [
-    source 436
-    target 131
-    rank 15
-  ]
-  edge
-  [
-    source 436
-    target 11
-    rank 16
-  ]
-  edge
-  [
-    source 436
-    target 7
-    rank 17
-  ]
-  edge
-  [
-    source 436
-    target 15
-    rank 19
-  ]
-  edge
-  [
-    source 437
-    target 4
-    rank 3
-  ]
-  edge
-  [
-    source 437
-    target 289
-    rank 4
-  ]
-  edge
-  [
-    source 437
-    target 471
-    rank 5
-  ]
-  edge
-  [
-    source 437
-    target 37
-    rank 7
-  ]
-  edge
-  [
-    source 437
-    target 16
-    rank 8
-  ]
-  edge
-  [
-    source 437
-    target 361
-    rank 11
-  ]
-  edge
-  [
-    source 437
-    target 11
-    rank 12
-  ]
-  edge
-  [
-    source 437
-    target 346
-    rank 14
-  ]
-  edge
-  [
-    source 437
-    target 63
-    rank 20
-  ]
-  edge
-  [
-    source 438
-    target 230
-    rank 7
-  ]
-  edge
-  [
-    source 438
-    target 377
-    rank 12
-  ]
-  edge
-  [
-    source 439
-    target 169
-    rank 3
-  ]
-  edge
-  [
-    source 439
-    target 417
-    rank 8
-  ]
-  edge
-  [
-    source 439
-    target 68
-    rank 10
-  ]
-  edge
-  [
-    source 439
-    target 23
-    rank 14
-  ]
-  edge
-  [
-    source 439
-    target 19
-    rank 15
-  ]
-  edge
-  [
-    source 439
-    target 228
-    rank 17
-  ]
-  edge
-  [
-    source 439
-    target 12
-    rank 18
-  ]
-  edge
-  [
-    source 439
-    target 37
-    rank 19
-  ]
-  edge
-  [
-    source 439
-    target 57
-    rank 20
-  ]
-  edge
-  [
-    source 440
-    target 172
-    rank 2
-  ]
-  edge
-  [
-    source 440
-    target 217
-    rank 3
-  ]
-  edge
-  [
-    source 440
-    target 23
-    rank 4
-  ]
-  edge
-  [
-    source 440
-    target 244
-    rank 11
-  ]
-  edge
-  [
-    source 441
-    target 304
-    rank 1
-  ]
-  edge
-  [
-    source 441
-    target 184
-    rank 6
-  ]
-  edge
-  [
-    source 441
-    target 51
-    rank 7
-  ]
-  edge
-  [
-    source 441
-    target 23
-    rank 8
-  ]
-  edge
-  [
-    source 441
-    target 19
-    rank 11
-  ]
-  edge
-  [
-    source 441
-    target 3
-    rank 14
-  ]
-  edge
-  [
-    source 441
-    target 312
-    rank 15
-  ]
-  edge
-  [
-    source 441
-    target 9
-    rank 16
-  ]
-  edge
-  [
-    source 441
-    target 260
-    rank 17
-  ]
-  edge
-  [
-    source 441
-    target 81
-    rank 19
-  ]
-  edge
-  [
-    source 441
-    target 57
-    rank 20
-  ]
-  edge
-  [
-    source 442
-    target 172
-    rank 6
-  ]
-  edge
-  [
-    source 442
-    target 475
-    rank 8
-  ]
-  edge
-  [
-    source 442
-    target 14
-    rank 17
-  ]
-  edge
-  [
-    source 442
-    target 58
-    rank 18
-  ]
-  edge
-  [
-    source 442
-    target 416
-    rank 20
-  ]
-  edge
-  [
-    source 443
-    target 417
-    rank 14
-  ]
-  edge
-  [
-    source 444
-    target 172
-    rank 1
-  ]
-  edge
-  [
-    source 444
-    target 192
-    rank 6
-  ]
-  edge
-  [
-    source 444
-    target 105
-    rank 7
-  ]
-  edge
-  [
-    source 444
-    target 60
-    rank 8
-  ]
-  edge
-  [
-    source 444
-    target 4
-    rank 9
-  ]
-  edge
-  [
-    source 444
-    target 15
-    rank 16
-  ]
-  edge
-  [
-    source 446
-    target 169
-    rank 2
-  ]
-  edge
-  [
-    source 446
+    source 44
     target 137
-    rank 10
+    rank 17
   ]
   edge
   [
-    source 446
-    target 350
-    rank 11
+    source 44
+    target 141
+    rank 19
   ]
   edge
   [
-    source 448
-    target 468
-    rank 16
-  ]
-  edge
-  [
-    source 449
-    target 318
-    rank 15
-  ]
-  edge
-  [
-    source 451
-    target 120
-    rank 2
-  ]
-  edge
-  [
-    source 451
-    target 72
-    rank 8
-  ]
-  edge
-  [
-    source 453
-    target 58
-    rank 7
-  ]
-  edge
-  [
-    source 453
-    target 505
-    rank 18
-  ]
-  edge
-  [
-    source 454
-    target 3
+    source 45
+    target 171
     rank 1
   ]
   edge
   [
-    source 454
-    target 258
+    source 45
+    target 18
     rank 2
   ]
   edge
   [
-    source 454
-    target 8
+    source 45
+    target 253
+    rank 4
+  ]
+  edge
+  [
+    source 45
+    target 6
+    rank 5
+  ]
+  edge
+  [
+    source 45
+    target 223
     rank 8
   ]
   edge
   [
-    source 454
-    target 276
-    rank 9
+    source 45
+    target 3
+    rank 12
   ]
   edge
   [
-    source 454
-    target 14
-    rank 10
-  ]
-  edge
-  [
-    source 454
-    target 82
+    source 45
+    target 118
     rank 13
   ]
   edge
   [
-    source 454
-    target 184
+    source 45
+    target 27
     rank 14
   ]
   edge
   [
-    source 454
-    target 312
-    rank 16
+    source 45
+    target 19
+    rank 19
   ]
   edge
   [
-    source 454
+    source 45
+    target 269
+    rank 20
+  ]
+  edge
+  [
+    source 46
+    target 119
+    rank 3
+  ]
+  edge
+  [
+    source 46
+    target 171
+    rank 4
+  ]
+  edge
+  [
+    source 46
+    target 24
+    rank 5
+  ]
+  edge
+  [
+    source 46
+    target 168
+    rank 10
+  ]
+  edge
+  [
+    source 46
+    target 66
+    rank 11
+  ]
+  edge
+  [
+    source 46
+    target 6
+    rank 12
+  ]
+  edge
+  [
+    source 46
+    target 150
+    rank 13
+  ]
+  edge
+  [
+    source 46
+    target 81
+    rank 15
+  ]
+  edge
+  [
+    source 46
     target 71
     rank 19
   ]
   edge
   [
-    source 454
-    target 119
+    source 46
+    target 143
     rank 20
   ]
   edge
   [
-    source 455
-    target 172
+    source 47
+    target 171
     rank 1
   ]
   edge
   [
-    source 456
-    target 37
-    rank 2
+    source 47
+    target 27
+    rank 3
   ]
   edge
   [
-    source 457
-    target 383
-    rank 13
-  ]
-  edge
-  [
-    source 458
-    target 172
+    source 47
+    target 10
     rank 4
   ]
   edge
   [
-    source 458
-    target 417
-    rank 8
+    source 47
+    target 66
+    rank 6
   ]
   edge
   [
-    source 458
-    target 169
+    source 47
+    target 6
+    rank 7
+  ]
+  edge
+  [
+    source 47
+    target 18
     rank 9
   ]
   edge
   [
-    source 458
-    target 18
-    rank 12
+    source 47
+    target 107
+    rank 11
   ]
   edge
   [
-    source 458
-    target 70
-    rank 13
+    source 47
+    target 12
+    rank 15
   ]
   edge
   [
-    source 458
-    target 4
+    source 47
+    target 15
     rank 16
   ]
   edge
   [
-    source 458
-    target 12
+    source 47
+    target 255
     rank 17
   ]
   edge
   [
-    source 458
+    source 47
+    target 4
+    rank 18
+  ]
+  edge
+  [
+    source 47
     target 23
     rank 20
   ]
   edge
   [
-    source 461
-    target 4
-    rank 9
-  ]
-  edge
-  [
-    source 461
-    target 137
-    rank 20
-  ]
-  edge
-  [
-    source 462
-    target 177
-    rank 17
-  ]
-  edge
-  [
-    source 464
-    target 291
-    rank 10
-  ]
-  edge
-  [
-    source 466
-    target 172
-    rank 3
-  ]
-  edge
-  [
-    source 466
-    target 60
-    rank 4
-  ]
-  edge
-  [
-    source 466
-    target 341
-    rank 10
-  ]
-  edge
-  [
-    source 467
-    target 483
-    rank 11
-  ]
-  edge
-  [
-    source 468
-    target 82
-    rank 7
-  ]
-  edge
-  [
-    source 469
-    target 172
-    rank 10
-  ]
-  edge
-  [
-    source 469
-    target 60
-    rank 19
-  ]
-  edge
-  [
-    source 470
-    target 122
-    rank 1
-  ]
-  edge
-  [
-    source 470
-    target 72
+    source 48
+    target 171
     rank 2
   ]
   edge
   [
-    source 470
-    target 169
+    source 48
+    target 168
     rank 3
   ]
   edge
   [
-    source 470
-    target 80
+    source 48
+    target 70
     rank 4
   ]
   edge
   [
-    source 470
+    source 48
+    target 71
+    rank 7
+  ]
+  edge
+  [
+    source 48
+    target 6
+    rank 8
+  ]
+  edge
+  [
+    source 48
+    target 253
+    rank 9
+  ]
+  edge
+  [
+    source 48
+    target 18
+    rank 15
+  ]
+  edge
+  [
+    source 48
+    target 69
+    rank 17
+  ]
+  edge
+  [
+    source 48
+    target 32
+    rank 18
+  ]
+  edge
+  [
+    source 48
+    target 36
+    rank 20
+  ]
+  edge
+  [
+    source 49
+    target 171
+    rank 1
+  ]
+  edge
+  [
+    source 49
     target 14
+    rank 2
+  ]
+  edge
+  [
+    source 49
+    target 119
+    rank 4
+  ]
+  edge
+  [
+    source 49
+    target 87
+    rank 6
+  ]
+  edge
+  [
+    source 49
+    target 10
+    rank 7
+  ]
+  edge
+  [
+    source 49
+    target 168
+    rank 8
+  ]
+  edge
+  [
+    source 49
+    target 24
+    rank 9
+  ]
+  edge
+  [
+    source 49
+    target 71
+    rank 12
+  ]
+  edge
+  [
+    source 49
+    target 2
+    rank 14
+  ]
+  edge
+  [
+    source 49
+    target 6
+    rank 16
+  ]
+  edge
+  [
+    source 49
+    target 3
+    rank 19
+  ]
+  edge
+  [
+    source 50
+    target 36
+    rank 2
+  ]
+  edge
+  [
+    source 50
+    target 209
+    rank 4
+  ]
+  edge
+  [
+    source 50
+    target 37
+    rank 12
+  ]
+  edge
+  [
+    source 51
+    target 171
+    rank 2
+  ]
+  edge
+  [
+    source 51
+    target 27
+    rank 3
+  ]
+  edge
+  [
+    source 51
+    target 253
+    rank 4
+  ]
+  edge
+  [
+    source 51
+    target 6
     rank 5
   ]
   edge
   [
-    source 470
+    source 51
+    target 10
+    rank 6
+  ]
+  edge
+  [
+    source 51
+    target 223
+    rank 8
+  ]
+  edge
+  [
+    source 51
+    target 18
+    rank 11
+  ]
+  edge
+  [
+    source 51
+    target 118
+    rank 13
+  ]
+  edge
+  [
+    source 51
+    target 3
+    rank 15
+  ]
+  edge
+  [
+    source 51
+    target 4
+    rank 17
+  ]
+  edge
+  [
+    source 51
+    target 25
+    rank 20
+  ]
+  edge
+  [
+    source 52
+    target 24
+    rank 2
+  ]
+  edge
+  [
+    source 52
+    target 10
+    rank 3
+  ]
+  edge
+  [
+    source 52
+    target 168
+    rank 4
+  ]
+  edge
+  [
+    source 52
+    target 71
+    rank 5
+  ]
+  edge
+  [
+    source 52
+    target 2
+    rank 7
+  ]
+  edge
+  [
+    source 52
+    target 171
+    rank 8
+  ]
+  edge
+  [
+    source 52
+    target 119
+    rank 9
+  ]
+  edge
+  [
+    source 52
+    target 66
+    rank 11
+  ]
+  edge
+  [
+    source 52
+    target 216
+    rank 13
+  ]
+  edge
+  [
+    source 52
+    target 36
+    rank 14
+  ]
+  edge
+  [
+    source 52
+    target 57
+    rank 15
+  ]
+  edge
+  [
+    source 52
+    target 81
+    rank 18
+  ]
+  edge
+  [
+    source 52
+    target 3
+    rank 20
+  ]
+  edge
+  [
+    source 53
+    target 191
+    rank 1
+  ]
+  edge
+  [
+    source 53
+    target 168
+    rank 2
+  ]
+  edge
+  [
+    source 53
+    target 171
+    rank 3
+  ]
+  edge
+  [
+    source 53
+    target 14
+    rank 4
+  ]
+  edge
+  [
+    source 53
+    target 71
+    rank 6
+  ]
+  edge
+  [
+    source 53
+    target 10
+    rank 8
+  ]
+  edge
+  [
+    source 53
+    target 6
+    rank 10
+  ]
+  edge
+  [
+    source 54
+    target 171
+    rank 1
+  ]
+  edge
+  [
+    source 54
+    target 253
+    rank 2
+  ]
+  edge
+  [
+    source 54
     target 6
     rank 6
   ]
   edge
   [
-    source 470
-    target 105
-    rank 7
+    source 54
+    target 13
+    rank 8
   ]
   edge
   [
-    source 470
-    target 82
+    source 54
+    target 152
     rank 9
   ]
   edge
   [
-    source 470
+    source 54
     target 18
     rank 10
   ]
   edge
   [
-    source 470
-    target 230
-    rank 12
-  ]
-  edge
-  [
-    source 470
-    target 85
-    rank 13
-  ]
-  edge
-  [
-    source 470
-    target 273
-    rank 14
-  ]
-  edge
-  [
-    source 470
-    target 64
-    rank 16
-  ]
-  edge
-  [
-    source 470
-    target 19
-    rank 17
-  ]
-  edge
-  [
-    source 472
-    target 175
-    rank 3
-  ]
-  edge
-  [
-    source 472
-    target 467
-    rank 15
-  ]
-  edge
-  [
-    source 472
-    target 483
-    rank 17
-  ]
-  edge
-  [
-    source 473
-    target 19
-    rank 2
-  ]
-  edge
-  [
-    source 473
-    target 138
-    rank 3
-  ]
-  edge
-  [
-    source 473
-    target 5
-    rank 4
-  ]
-  edge
-  [
-    source 473
-    target 291
-    rank 5
-  ]
-  edge
-  [
-    source 473
-    target 63
-    rank 12
-  ]
-  edge
-  [
-    source 473
-    target 395
-    rank 14
-  ]
-  edge
-  [
-    source 473
-    target 508
-    rank 20
-  ]
-  edge
-  [
-    source 475
-    target 172
-    rank 1
-  ]
-  edge
-  [
-    source 475
-    target 377
-    rank 13
-  ]
-  edge
-  [
-    source 477
-    target 58
-    rank 4
-  ]
-  edge
-  [
-    source 478
-    target 5
-    rank 1
-  ]
-  edge
-  [
-    source 478
-    target 417
-    rank 2
-  ]
-  edge
-  [
-    source 478
-    target 34
-    rank 5
-  ]
-  edge
-  [
-    source 478
-    target 156
-    rank 7
-  ]
-  edge
-  [
-    source 478
-    target 63
-    rank 8
-  ]
-  edge
-  [
-    source 481
-    target 172
-    rank 1
-  ]
-  edge
-  [
-    source 481
-    target 2
-    rank 2
-  ]
-  edge
-  [
-    source 481
-    target 129
-    rank 8
-  ]
-  edge
-  [
-    source 481
-    target 10
-    rank 9
-  ]
-  edge
-  [
-    source 485
-    target 72
-    rank 2
-  ]
-  edge
-  [
-    source 485
-    target 14
-    rank 3
-  ]
-  edge
-  [
-    source 485
-    target 18
-    rank 5
-  ]
-  edge
-  [
-    source 485
-    target 192
-    rank 6
-  ]
-  edge
-  [
-    source 485
-    target 92
-    rank 8
-  ]
-  edge
-  [
-    source 485
-    target 11
-    rank 10
-  ]
-  edge
-  [
-    source 485
-    target 125
+    source 54
+    target 3
     rank 11
   ]
   edge
   [
-    source 485
-    target 20
-    rank 15
+    source 54
+    target 182
+    rank 12
   ]
   edge
   [
-    source 485
-    target 96
-    rank 16
-  ]
-  edge
-  [
-    source 485
-    target 15
-    rank 17
-  ]
-  edge
-  [
-    source 485
-    target 115
-    rank 18
-  ]
-  edge
-  [
-    source 485
-    target 1
-    rank 20
-  ]
-  edge
-  [
-    source 486
-    target 82
-    rank 1
-  ]
-  edge
-  [
-    source 486
-    target 102
-    rank 2
-  ]
-  edge
-  [
-    source 486
-    target 8
-    rank 6
-  ]
-  edge
-  [
-    source 486
-    target 475
-    rank 7
-  ]
-  edge
-  [
-    source 487
-    target 4
-    rank 5
-  ]
-  edge
-  [
-    source 487
-    target 15
-    rank 6
-  ]
-  edge
-  [
-    source 487
+    source 54
     target 16
-    rank 8
-  ]
-  edge
-  [
-    source 487
-    target 156
-    rank 9
-  ]
-  edge
-  [
-    source 487
-    target 383
-    rank 12
-  ]
-  edge
-  [
-    source 487
-    target 439
     rank 13
   ]
   edge
   [
-    source 487
-    target 508
-    rank 20
-  ]
-  edge
-  [
-    source 488
-    target 37
-    rank 4
-  ]
-  edge
-  [
-    source 488
-    target 58
-    rank 5
-  ]
-  edge
-  [
-    source 488
-    target 446
-    rank 8
-  ]
-  edge
-  [
-    source 488
-    target 383
-    rank 15
-  ]
-  edge
-  [
-    source 491
-    target 383
-    rank 10
-  ]
-  edge
-  [
-    source 491
-    target 63
-    rank 14
-  ]
-  edge
-  [
-    source 492
-    target 230
-    rank 13
-  ]
-  edge
-  [
-    source 492
-    target 377
+    source 54
+    target 10
     rank 16
   ]
   edge
   [
-    source 493
-    target 170
-    rank 1
-  ]
-  edge
-  [
-    source 493
-    target 82
-    rank 10
-  ]
-  edge
-  [
-    source 493
-    target 40
-    rank 14
-  ]
-  edge
-  [
-    source 497
-    target 18
-    rank 1
-  ]
-  edge
-  [
-    source 497
-    target 184
-    rank 3
-  ]
-  edge
-  [
-    source 497
-    target 31
-    rank 4
-  ]
-  edge
-  [
-    source 497
-    target 92
-    rank 7
-  ]
-  edge
-  [
-    source 497
-    target 49
-    rank 8
-  ]
-  edge
-  [
-    source 497
-    target 235
-    rank 9
-  ]
-  edge
-  [
-    source 497
-    target 115
-    rank 10
-  ]
-  edge
-  [
-    source 497
-    target 19
-    rank 11
-  ]
-  edge
-  [
-    source 497
-    target 96
-    rank 14
-  ]
-  edge
-  [
-    source 497
-    target 15
+    source 54
+    target 223
     rank 18
   ]
   edge
   [
-    source 497
+    source 54
+    target 27
+    rank 19
+  ]
+  edge
+  [
+    source 54
     target 9
     rank 20
   ]
   edge
   [
-    source 498
-    target 477
-    rank 12
-  ]
-  edge
-  [
-    source 499
-    target 417
-    rank 11
-  ]
-  edge
-  [
-    source 499
-    target 3
-    rank 15
-  ]
-  edge
-  [
-    source 500
-    target 172
+    source 55
+    target 171
     rank 2
   ]
   edge
   [
-    source 500
-    target 169
-    rank 5
-  ]
-  edge
-  [
-    source 500
-    target 23
-    rank 11
-  ]
-  edge
-  [
-    source 501
-    target 453
-    rank 9
-  ]
-  edge
-  [
-    source 501
-    target 505
-    rank 11
-  ]
-  edge
-  [
-    source 502
-    target 120
-    rank 1
-  ]
-  edge
-  [
-    source 502
-    target 22
-    rank 4
-  ]
-  edge
-  [
-    source 502
-    target 89
-    rank 5
-  ]
-  edge
-  [
-    source 502
-    target 18
-    rank 6
-  ]
-  edge
-  [
-    source 502
-    target 3
-    rank 7
-  ]
-  edge
-  [
-    source 502
-    target 141
-    rank 10
-  ]
-  edge
-  [
-    source 502
-    target 14
-    rank 11
-  ]
-  edge
-  [
-    source 502
-    target 60
-    rank 16
-  ]
-  edge
-  [
-    source 502
-    target 77
-    rank 18
-  ]
-  edge
-  [
-    source 502
-    target 151
-    rank 19
-  ]
-  edge
-  [
-    source 503
-    target 172
-    rank 1
-  ]
-  edge
-  [
-    source 503
-    target 258
-    rank 4
-  ]
-  edge
-  [
-    source 503
-    target 3
-    rank 11
-  ]
-  edge
-  [
-    source 503
-    target 184
-    rank 13
-  ]
-  edge
-  [
-    source 503
-    target 312
-    rank 14
-  ]
-  edge
-  [
-    source 503
-    target 276
-    rank 15
-  ]
-  edge
-  [
-    source 503
-    target 58
-    rank 16
-  ]
-  edge
-  [
-    source 507
-    target 170
-    rank 1
-  ]
-  edge
-  [
-    source 507
-    target 6
-    rank 2
-  ]
-  edge
-  [
-    source 507
-    target 80
+    source 55
+    target 150
     rank 3
   ]
   edge
   [
-    source 507
-    target 40
-    rank 4
-  ]
-  edge
-  [
-    source 507
-    target 3
+    source 55
+    target 14
     rank 5
   ]
   edge
   [
-    source 507
-    target 18
+    source 55
+    target 6
     rank 6
   ]
   edge
   [
-    source 507
-    target 67
-    rank 7
-  ]
-  edge
-  [
-    source 507
-    target 72
-    rank 8
-  ]
-  edge
-  [
-    source 507
-    target 14
-    rank 9
-  ]
-  edge
-  [
-    source 507
-    target 184
-    rank 10
-  ]
-  edge
-  [
-    source 507
-    target 133
+    source 55
+    target 3
     rank 11
   ]
   edge
   [
-    source 507
-    target 115
-    rank 12
-  ]
-  edge
-  [
-    source 507
-    target 92
+    source 55
+    target 253
     rank 14
   ]
   edge
   [
-    source 507
-    target 8
+    source 55
+    target 10
     rank 15
   ]
   edge
   [
-    source 507
-    target 105
-    rank 17
+    source 55
+    target 66
+    rank 16
   ]
   edge
   [
-    source 507
-    target 4
+    source 55
+    target 81
     rank 18
   ]
   edge
   [
-    source 507
-    target 20
+    source 55
+    target 119
     rank 19
   ]
   edge
   [
-    source 508
-    target 172
+    source 55
+    target 71
+    rank 20
+  ]
+  edge
+  [
+    source 56
+    target 171
     rank 1
   ]
   edge
   [
-    source 508
-    target 10
-    rank 4
+    source 56
+    target 14
+    rank 2
   ]
   edge
   [
-    source 508
-    target 37
+    source 56
+    target 10
+    rank 3
+  ]
+  edge
+  [
+    source 56
+    target 223
+    rank 5
+  ]
+  edge
+  [
+    source 56
+    target 6
     rank 7
   ]
   edge
   [
-    source 508
-    target 11
-    rank 13
+    source 56
+    target 253
+    rank 8
   ]
   edge
   [
-    source 508
-    target 19
+    source 56
+    target 91
+    rank 10
+  ]
+  edge
+  [
+    source 56
+    target 36
+    rank 11
+  ]
+  edge
+  [
+    source 56
+    target 3
+    rank 12
+  ]
+  edge
+  [
+    source 56
+    target 269
     rank 14
   ]
   edge
   [
-    source 508
+    source 56
     target 23
+    rank 16
+  ]
+  edge
+  [
+    source 56
+    target 225
+    rank 17
+  ]
+  edge
+  [
+    source 56
+    target 18
+    rank 18
+  ]
+  edge
+  [
+    source 56
+    target 255
+    rank 20
+  ]
+  edge
+  [
+    source 57
+    target 168
+    rank 1
+  ]
+  edge
+  [
+    source 57
+    target 171
+    rank 7
+  ]
+  edge
+  [
+    source 57
+    target 14
+    rank 11
+  ]
+  edge
+  [
+    source 57
+    target 6
+    rank 18
+  ]
+  edge
+  [
+    source 58
+    target 171
+    rank 1
+  ]
+  edge
+  [
+    source 58
+    target 27
+    rank 2
+  ]
+  edge
+  [
+    source 58
+    target 141
+    rank 4
+  ]
+  edge
+  [
+    source 58
+    target 10
+    rank 6
+  ]
+  edge
+  [
+    source 58
+    target 137
+    rank 7
+  ]
+  edge
+  [
+    source 58
+    target 12
+    rank 8
+  ]
+  edge
+  [
+    source 58
+    target 18
+    rank 12
+  ]
+  edge
+  [
+    source 58
+    target 99
     rank 15
   ]
   edge
   [
-    source 508
+    source 58
+    target 9
+    rank 16
+  ]
+  edge
+  [
+    source 58
+    target 36
+    rank 17
+  ]
+  edge
+  [
+    source 58
+    target 8
+    rank 19
+  ]
+  edge
+  [
+    source 58
     target 15
     rank 20
   ]
   edge
   [
-    source 509
-    target 172
-    rank 2
-  ]
-  edge
-  [
-    source 509
-    target 223
-    rank 3
-  ]
-  edge
-  [
-    source 509
-    target 27
-    rank 7
-  ]
-  edge
-  [
-    source 509
-    target 51
-    rank 10
-  ]
-  edge
-  [
-    source 509
-    target 6
-    rank 11
-  ]
-  edge
-  [
-    source 509
-    target 233
-    rank 12
-  ]
-  edge
-  [
-    source 509
-    target 119
-    rank 13
-  ]
-  edge
-  [
-    source 509
-    target 157
-    rank 14
-  ]
-  edge
-  [
-    source 509
-    target 18
-    rank 15
-  ]
-  edge
-  [
-    source 509
-    target 105
-    rank 19
-  ]
-  edge
-  [
-    source 510
-    target 461
-    rank 3
-  ]
-  edge
-  [
-    source 510
-    target 244
-    rank 10
-  ]
-  edge
-  [
-    source 511
-    target 105
-    rank 7
-  ]
-  edge
-  [
-    source 511
-    target 5
-    rank 13
-  ]
-  edge
-  [
-    source 514
-    target 141
+    source 59
+    target 14
     rank 1
   ]
   edge
   [
-    source 514
-    target 85
-    rank 4
+    source 59
+    target 171
+    rank 3
   ]
   edge
   [
-    source 514
-    target 169
-    rank 5
+    source 59
+    target 278
+    rank 6
   ]
   edge
   [
-    source 514
-    target 151
+    source 59
+    target 22
     rank 9
   ]
   edge
   [
-    source 514
-    target 37
-    rank 11
-  ]
-  edge
-  [
-    source 514
-    target 147
-    rank 12
-  ]
-  edge
-  [
-    source 514
-    target 8
+    source 59
+    target 6
     rank 14
   ]
   edge
   [
-    source 514
-    target 438
+    source 59
+    target 181
     rank 17
   ]
   edge
   [
-    source 514
-    target 508
-    rank 18
+    source 59
+    target 140
+    rank 20
   ]
   edge
   [
-    source 516
-    target 172
+    source 60
+    target 46
     rank 3
   ]
   edge
   [
-    source 516
-    target 151
-    rank 5
-  ]
-  edge
-  [
-    source 516
-    target 350
-    rank 10
-  ]
-  edge
-  [
-    source 518
-    target 5
-    rank 3
-  ]
-  edge
-  [
-    source 518
-    target 34
-    rank 6
-  ]
-  edge
-  [
-    source 518
-    target 45
-    rank 7
-  ]
-  edge
-  [
-    source 518
-    target 179
-    rank 14
-  ]
-  edge
-  [
-    source 518
-    target 63
-    rank 15
-  ]
-  edge
-  [
-    source 519
-    target 37
+    source 60
+    target 168
     rank 4
   ]
   edge
   [
-    source 519
-    target 23
-    rank 6
-  ]
-  edge
-  [
-    source 519
-    target 461
-    rank 9
-  ]
-  edge
-  [
-    source 519
-    target 5
-    rank 10
-  ]
-  edge
-  [
-    source 519
-    target 439
-    rank 15
-  ]
-  edge
-  [
-    source 520
-    target 10
-    rank 3
-  ]
-  edge
-  [
-    source 520
-    target 172
-    rank 7
-  ]
-  edge
-  [
-    source 520
-    target 2
-    rank 9
-  ]
-  edge
-  [
-    source 520
-    target 129
-    rank 11
-  ]
-  edge
-  [
-    source 521
-    target 172
-    rank 1
-  ]
-  edge
-  [
-    source 521
-    target 10
-    rank 2
-  ]
-  edge
-  [
-    source 521
-    target 60
-    rank 6
-  ]
-  edge
-  [
-    source 521
-    target 162
-    rank 18
-  ]
-  edge
-  [
-    source 522
-    target 2
-    rank 1
-  ]
-  edge
-  [
-    source 524
-    target 10
-    rank 3
-  ]
-  edge
-  [
-    source 524
-    target 18
-    rank 4
-  ]
-  edge
-  [
-    source 524
-    target 172
-    rank 5
-  ]
-  edge
-  [
-    source 524
-    target 80
-    rank 10
-  ]
-  edge
-  [
-    source 525
+    source 60
     target 6
-    rank 1
+    rank 6
   ]
   edge
   [
-    source 525
-    target 241
-    rank 2
-  ]
-  edge
-  [
-    source 525
-    target 89
-    rank 3
-  ]
-  edge
-  [
-    source 525
-    target 133
+    source 60
+    target 39
     rank 8
   ]
   edge
   [
-    source 525
-    target 199
+    source 60
+    target 14
     rank 13
   ]
   edge
   [
-    source 525
-    target 60
+    source 60
+    target 57
+    rank 16
+  ]
+  edge
+  [
+    source 61
+    target 24
+    rank 2
+  ]
+  edge
+  [
+    source 61
+    target 10
+    rank 3
+  ]
+  edge
+  [
+    source 61
+    target 171
+    rank 4
+  ]
+  edge
+  [
+    source 61
+    target 168
+    rank 5
+  ]
+  edge
+  [
+    source 61
+    target 57
+    rank 6
+  ]
+  edge
+  [
+    source 61
+    target 2
+    rank 7
+  ]
+  edge
+  [
+    source 61
+    target 169
+    rank 8
+  ]
+  edge
+  [
+    source 61
+    target 6
+    rank 10
+  ]
+  edge
+  [
+    source 61
+    target 36
+    rank 12
+  ]
+  edge
+  [
+    source 61
+    target 3
+    rank 13
+  ]
+  edge
+  [
+    source 61
+    target 77
     rank 14
   ]
   edge
   [
-    source 525
+    source 61
+    target 81
+    rank 15
+  ]
+  edge
+  [
+    source 61
+    target 14
+    rank 16
+  ]
+  edge
+  [
+    source 61
+    target 18
+    rank 17
+  ]
+  edge
+  [
+    source 61
+    target 13
+    rank 18
+  ]
+  edge
+  [
+    source 61
+    target 53
+    rank 19
+  ]
+  edge
+  [
+    source 61
+    target 12
+    rank 20
+  ]
+  edge
+  [
+    source 62
+    target 171
+    rank 1
+  ]
+  edge
+  [
+    source 62
+    target 253
+    rank 4
+  ]
+  edge
+  [
+    source 62
+    target 70
+    rank 9
+  ]
+  edge
+  [
+    source 62
+    target 18
+    rank 11
+  ]
+  edge
+  [
+    source 62
+    target 269
+    rank 14
+  ]
+  edge
+  [
+    source 62
+    target 223
+    rank 18
+  ]
+  edge
+  [
+    source 62
+    target 282
+    rank 19
+  ]
+  edge
+  [
+    source 62
+    target 16
+    rank 20
+  ]
+  edge
+  [
+    source 63
+    target 171
+    rank 1
+  ]
+  edge
+  [
+    source 63
+    target 6
+    rank 2
+  ]
+  edge
+  [
+    source 63
+    target 119
+    rank 3
+  ]
+  edge
+  [
+    source 63
+    target 2
+    rank 4
+  ]
+  edge
+  [
+    source 63
+    target 168
+    rank 5
+  ]
+  edge
+  [
+    source 63
+    target 71
+    rank 7
+  ]
+  edge
+  [
+    source 63
+    target 10
+    rank 8
+  ]
+  edge
+  [
+    source 63
+    target 101
+    rank 10
+  ]
+  edge
+  [
+    source 63
+    target 269
+    rank 13
+  ]
+  edge
+  [
+    source 63
+    target 150
+    rank 14
+  ]
+  edge
+  [
+    source 63
+    target 66
+    rank 16
+  ]
+  edge
+  [
+    source 63
+    target 253
+    rank 18
+  ]
+  edge
+  [
+    source 63
+    target 36
+    rank 19
+  ]
+  edge
+  [
+    source 64
+    target 171
+    rank 1
+  ]
+  edge
+  [
+    source 64
+    target 169
+    rank 2
+  ]
+  edge
+  [
+    source 64
+    target 18
+    rank 3
+  ]
+  edge
+  [
+    source 64
+    target 291
+    rank 4
+  ]
+  edge
+  [
+    source 64
+    target 152
+    rank 6
+  ]
+  edge
+  [
+    source 64
+    target 36
+    rank 7
+  ]
+  edge
+  [
+    source 64
+    target 23
+    rank 10
+  ]
+  edge
+  [
+    source 64
+    target 3
+    rank 11
+  ]
+  edge
+  [
+    source 64
+    target 223
+    rank 14
+  ]
+  edge
+  [
+    source 64
+    target 10
+    rank 15
+  ]
+  edge
+  [
+    source 64
+    target 27
+    rank 16
+  ]
+  edge
+  [
+    source 64
+    target 99
+    rank 20
+  ]
+  edge
+  [
+    source 65
+    target 171
+    rank 1
+  ]
+  edge
+  [
+    source 65
+    target 119
+    rank 2
+  ]
+  edge
+  [
+    source 65
+    target 168
+    rank 3
+  ]
+  edge
+  [
+    source 65
+    target 24
+    rank 4
+  ]
+  edge
+  [
+    source 65
+    target 6
+    rank 6
+  ]
+  edge
+  [
+    source 65
+    target 71
+    rank 7
+  ]
+  edge
+  [
+    source 65
+    target 57
+    rank 9
+  ]
+  edge
+  [
+    source 65
+    target 3
+    rank 10
+  ]
+  edge
+  [
+    source 65
+    target 14
+    rank 12
+  ]
+  edge
+  [
+    source 65
+    target 66
+    rank 17
+  ]
+  edge
+  [
+    source 65
+    target 10
+    rank 18
+  ]
+  edge
+  [
+    source 66
+    target 46
+    rank 2
+  ]
+  edge
+  [
+    source 66
+    target 171
+    rank 3
+  ]
+  edge
+  [
+    source 66
+    target 168
+    rank 4
+  ]
+  edge
+  [
+    source 66
+    target 6
+    rank 5
+  ]
+  edge
+  [
+    source 66
+    target 71
+    rank 6
+  ]
+  edge
+  [
+    source 66
+    target 119
+    rank 7
+  ]
+  edge
+  [
+    source 66
+    target 14
+    rank 8
+  ]
+  edge
+  [
+    source 66
+    target 81
+    rank 10
+  ]
+  edge
+  [
+    source 66
+    target 150
+    rank 13
+  ]
+  edge
+  [
+    source 66
+    target 278
+    rank 15
+  ]
+  edge
+  [
+    source 66
+    target 252
+    rank 17
+  ]
+  edge
+  [
+    source 66
+    target 57
+    rank 20
+  ]
+  edge
+  [
+    source 67
+    target 291
+    rank 2
+  ]
+  edge
+  [
+    source 67
+    target 36
+    rank 9
+  ]
+  edge
+  [
+    source 68
+    target 171
+    rank 1
+  ]
+  edge
+  [
+    source 68
+    target 10
+    rank 2
+  ]
+  edge
+  [
+    source 68
+    target 6
+    rank 3
+  ]
+  edge
+  [
+    source 68
+    target 169
+    rank 4
+  ]
+  edge
+  [
+    source 68
+    target 181
+    rank 5
+  ]
+  edge
+  [
+    source 68
+    target 21
+    rank 6
+  ]
+  edge
+  [
+    source 68
+    target 22
+    rank 9
+  ]
+  edge
+  [
+    source 68
+    target 2
+    rank 11
+  ]
+  edge
+  [
+    source 68
+    target 59
+    rank 13
+  ]
+  edge
+  [
+    source 69
+    target 171
+    rank 1
+  ]
+  edge
+  [
+    source 69
+    target 291
+    rank 4
+  ]
+  edge
+  [
+    source 69
+    target 114
+    rank 7
+  ]
+  edge
+  [
+    source 69
+    target 6
+    rank 9
+  ]
+  edge
+  [
+    source 69
+    target 118
+    rank 11
+  ]
+  edge
+  [
+    source 69
+    target 223
+    rank 14
+  ]
+  edge
+  [
+    source 69
+    target 18
+    rank 15
+  ]
+  edge
+  [
+    source 69
+    target 3
+    rank 17
+  ]
+  edge
+  [
+    source 70
+    target 171
+    rank 1
+  ]
+  edge
+  [
+    source 70
+    target 71
+    rank 2
+  ]
+  edge
+  [
+    source 70
+    target 168
+    rank 3
+  ]
+  edge
+  [
+    source 70
+    target 10
+    rank 4
+  ]
+  edge
+  [
+    source 70
+    target 119
+    rank 5
+  ]
+  edge
+  [
+    source 70
+    target 6
+    rank 6
+  ]
+  edge
+  [
+    source 70
+    target 79
+    rank 8
+  ]
+  edge
+  [
+    source 70
+    target 2
+    rank 10
+  ]
+  edge
+  [
+    source 70
+    target 24
+    rank 11
+  ]
+  edge
+  [
+    source 70
+    target 66
+    rank 12
+  ]
+  edge
+  [
+    source 70
+    target 14
+    rank 15
+  ]
+  edge
+  [
+    source 70
+    target 57
+    rank 17
+  ]
+  edge
+  [
+    source 70
+    target 18
+    rank 18
+  ]
+  edge
+  [
+    source 70
+    target 77
+    rank 19
+  ]
+  edge
+  [
+    source 70
+    target 81
+    rank 20
+  ]
+  edge
+  [
+    source 71
+    target 119
+    rank 2
+  ]
+  edge
+  [
+    source 71
+    target 168
+    rank 3
+  ]
+  edge
+  [
+    source 71
+    target 14
+    rank 4
+  ]
+  edge
+  [
+    source 71
+    target 171
+    rank 5
+  ]
+  edge
+  [
+    source 71
+    target 46
+    rank 7
+  ]
+  edge
+  [
+    source 71
+    target 66
+    rank 13
+  ]
+  edge
+  [
+    source 71
+    target 150
+    rank 16
+  ]
+  edge
+  [
+    source 71
+    target 278
+    rank 18
+  ]
+  edge
+  [
+    source 71
+    target 6
+    rank 19
+  ]
+  edge
+  [
+    source 72
+    target 269
+    rank 1
+  ]
+  edge
+  [
+    source 72
+    target 171
+    rank 2
+  ]
+  edge
+  [
+    source 72
+    target 6
+    rank 3
+  ]
+  edge
+  [
+    source 72
+    target 169
+    rank 4
+  ]
+  edge
+  [
+    source 72
+    target 10
+    rank 6
+  ]
+  edge
+  [
+    source 72
+    target 18
+    rank 14
+  ]
+  edge
+  [
+    source 72
+    target 36
+    rank 16
+  ]
+  edge
+  [
+    source 72
+    target 91
+    rank 17
+  ]
+  edge
+  [
+    source 72
+    target 23
+    rank 20
+  ]
+  edge
+  [
+    source 73
+    target 119
+    rank 1
+  ]
+  edge
+  [
+    source 73
+    target 171
+    rank 2
+  ]
+  edge
+  [
+    source 73
+    target 10
+    rank 4
+  ]
+  edge
+  [
+    source 73
+    target 168
+    rank 5
+  ]
+  edge
+  [
+    source 73
+    target 3
+    rank 6
+  ]
+  edge
+  [
+    source 73
+    target 225
+    rank 10
+  ]
+  edge
+  [
+    source 73
+    target 14
+    rank 11
+  ]
+  edge
+  [
+    source 73
+    target 223
+    rank 12
+  ]
+  edge
+  [
+    source 73
+    target 18
+    rank 14
+  ]
+  edge
+  [
+    source 73
+    target 70
+    rank 16
+  ]
+  edge
+  [
+    source 73
+    target 130
+    rank 17
+  ]
+  edge
+  [
+    source 73
+    target 36
+    rank 18
+  ]
+  edge
+  [
+    source 73
+    target 69
+    rank 19
+  ]
+  edge
+  [
+    source 73
+    target 13
+    rank 20
+  ]
+  edge
+  [
+    source 74
+    target 24
+    rank 2
+  ]
+  edge
+  [
+    source 74
+    target 169
+    rank 3
+  ]
+  edge
+  [
+    source 74
+    target 119
+    rank 4
+  ]
+  edge
+  [
+    source 74
+    target 22
+    rank 5
+  ]
+  edge
+  [
+    source 74
+    target 171
+    rank 6
+  ]
+  edge
+  [
+    source 74
+    target 2
+    rank 7
+  ]
+  edge
+  [
+    source 74
+    target 57
+    rank 9
+  ]
+  edge
+  [
+    source 74
+    target 10
+    rank 10
+  ]
+  edge
+  [
+    source 74
+    target 30
+    rank 11
+  ]
+  edge
+  [
+    source 74
+    target 81
+    rank 13
+  ]
+  edge
+  [
+    source 74
+    target 150
+    rank 15
+  ]
+  edge
+  [
+    source 74
+    target 14
+    rank 16
+  ]
+  edge
+  [
+    source 74
+    target 253
+    rank 18
+  ]
+  edge
+  [
+    source 74
+    target 228
+    rank 19
+  ]
+  edge
+  [
+    source 75
+    target 36
+    rank 5
+  ]
+  edge
+  [
+    source 75
+    target 63
+    rank 11
+  ]
+  edge
+  [
+    source 75
+    target 130
+    rank 15
+  ]
+  edge
+  [
+    source 77
+    target 10
+    rank 1
+  ]
+  edge
+  [
+    source 77
+    target 169
+    rank 3
+  ]
+  edge
+  [
+    source 77
+    target 2
+    rank 4
+  ]
+  edge
+  [
+    source 77
+    target 14
+    rank 5
+  ]
+  edge
+  [
+    source 77
+    target 6
+    rank 6
+  ]
+  edge
+  [
+    source 77
+    target 152
+    rank 9
+  ]
+  edge
+  [
+    source 77
+    target 79
+    rank 10
+  ]
+  edge
+  [
+    source 77
+    target 258
+    rank 11
+  ]
+  edge
+  [
+    source 77
+    target 132
+    rank 12
+  ]
+  edge
+  [
+    source 77
+    target 214
+    rank 14
+  ]
+  edge
+  [
+    source 77
+    target 171
+    rank 15
+  ]
+  edge
+  [
+    source 77
+    target 150
+    rank 17
+  ]
+  edge
+  [
+    source 77
+    target 3
+    rank 18
+  ]
+  edge
+  [
+    source 77
+    target 59
+    rank 20
+  ]
+  edge
+  [
+    source 78
+    target 171
+    rank 1
+  ]
+  edge
+  [
+    source 78
+    target 36
+    rank 2
+  ]
+  edge
+  [
+    source 78
+    target 27
+    rank 4
+  ]
+  edge
+  [
+    source 78
+    target 16
+    rank 6
+  ]
+  edge
+  [
+    source 78
+    target 23
+    rank 8
+  ]
+  edge
+  [
+    source 78
+    target 12
+    rank 9
+  ]
+  edge
+  [
+    source 78
+    target 99
+    rank 13
+  ]
+  edge
+  [
+    source 78
+    target 4
+    rank 15
+  ]
+  edge
+  [
+    source 78
+    target 14
+    rank 16
+  ]
+  edge
+  [
+    source 78
+    target 182
+    rank 17
+  ]
+  edge
+  [
+    source 78
+    target 64
+    rank 18
+  ]
+  edge
+  [
+    source 78
+    target 141
+    rank 20
+  ]
+  edge
+  [
+    source 79
+    target 36
+    rank 1
+  ]
+  edge
+  [
+    source 79
+    target 250
+    rank 13
+  ]
+  edge
+  [
+    source 80
+    target 171
+    rank 1
+  ]
+  edge
+  [
+    source 80
+    target 14
+    rank 2
+  ]
+  edge
+  [
+    source 80
+    target 168
+    rank 3
+  ]
+  edge
+  [
+    source 80
+    target 143
+    rank 4
+  ]
+  edge
+  [
+    source 80
+    target 87
+    rank 6
+  ]
+  edge
+  [
+    source 80
+    target 3
+    rank 9
+  ]
+  edge
+  [
+    source 80
+    target 253
+    rank 10
+  ]
+  edge
+  [
+    source 80
+    target 6
+    rank 11
+  ]
+  edge
+  [
+    source 80
+    target 66
+    rank 19
+  ]
+  edge
+  [
+    source 81
+    target 171
+    rank 2
+  ]
+  edge
+  [
+    source 81
+    target 6
+    rank 4
+  ]
+  edge
+  [
+    source 81
+    target 46
+    rank 5
+  ]
+  edge
+  [
+    source 81
+    target 24
+    rank 6
+  ]
+  edge
+  [
+    source 81
+    target 278
+    rank 9
+  ]
+  edge
+  [
+    source 81
+    target 71
+    rank 15
+  ]
+  edge
+  [
+    source 82
+    target 171
+    rank 1
+  ]
+  edge
+  [
+    source 82
+    target 24
+    rank 2
+  ]
+  edge
+  [
+    source 82
+    target 10
+    rank 3
+  ]
+  edge
+  [
+    source 82
+    target 101
+    rank 4
+  ]
+  edge
+  [
+    source 82
+    target 22
+    rank 5
+  ]
+  edge
+  [
+    source 82
+    target 46
+    rank 6
+  ]
+  edge
+  [
+    source 82
+    target 71
+    rank 7
+  ]
+  edge
+  [
+    source 82
+    target 6
+    rank 8
+  ]
+  edge
+  [
+    source 82
+    target 57
+    rank 10
+  ]
+  edge
+  [
+    source 82
+    target 2
+    rank 12
+  ]
+  edge
+  [
+    source 82
+    target 66
+    rank 13
+  ]
+  edge
+  [
+    source 82
+    target 14
+    rank 15
+  ]
+  edge
+  [
+    source 82
+    target 216
+    rank 16
+  ]
+  edge
+  [
+    source 82
+    target 3
+    rank 18
+  ]
+  edge
+  [
+    source 82
+    target 271
+    rank 20
+  ]
+  edge
+  [
+    source 83
+    target 39
+    rank 4
+  ]
+  edge
+  [
+    source 83
+    target 230
+    rank 6
+  ]
+  edge
+  [
+    source 84
+    target 71
+    rank 7
+  ]
+  edge
+  [
+    source 84
+    target 14
+    rank 13
+  ]
+  edge
+  [
+    source 84
+    target 119
+    rank 17
+  ]
+  edge
+  [
+    source 84
+    target 278
+    rank 20
+  ]
+  edge
+  [
+    source 85
+    target 171
+    rank 1
+  ]
+  edge
+  [
+    source 85
+    target 14
+    rank 3
+  ]
+  edge
+  [
+    source 85
+    target 168
+    rank 4
+  ]
+  edge
+  [
+    source 85
+    target 253
+    rank 5
+  ]
+  edge
+  [
+    source 85
+    target 3
+    rank 8
+  ]
+  edge
+  [
+    source 85
+    target 71
+    rank 16
+  ]
+  edge
+  [
+    source 85
+    target 223
+    rank 18
+  ]
+  edge
+  [
+    source 86
+    target 171
+    rank 1
+  ]
+  edge
+  [
+    source 86
+    target 119
+    rank 2
+  ]
+  edge
+  [
+    source 86
+    target 2
+    rank 3
+  ]
+  edge
+  [
+    source 86
+    target 14
+    rank 4
+  ]
+  edge
+  [
+    source 86
+    target 6
+    rank 5
+  ]
+  edge
+  [
+    source 86
+    target 71
+    rank 6
+  ]
+  edge
+  [
+    source 86
+    target 253
+    rank 7
+  ]
+  edge
+  [
+    source 86
+    target 24
+    rank 9
+  ]
+  edge
+  [
+    source 86
+    target 3
+    rank 10
+  ]
+  edge
+  [
+    source 86
+    target 66
+    rank 15
+  ]
+  edge
+  [
+    source 86
+    target 10
+    rank 16
+  ]
+  edge
+  [
+    source 86
+    target 150
+    rank 17
+  ]
+  edge
+  [
+    source 86
+    target 266
+    rank 18
+  ]
+  edge
+  [
+    source 86
+    target 191
+    rank 19
+  ]
+  edge
+  [
+    source 87
+    target 67
+    rank 3
+  ]
+  edge
+  [
+    source 87
+    target 36
+    rank 5
+  ]
+  edge
+  [
+    source 87
+    target 134
+    rank 8
+  ]
+  edge
+  [
+    source 87
+    target 75
+    rank 9
+  ]
+  edge
+  [
+    source 87
+    target 130
+    rank 13
+  ]
+  edge
+  [
+    source 87
+    target 95
+    rank 15
+  ]
+  edge
+  [
+    source 88
+    target 22
+    rank 1
+  ]
+  edge
+  [
+    source 88
+    target 197
+    rank 19
+  ]
+  edge
+  [
+    source 89
+    target 2
+    rank 1
+  ]
+  edge
+  [
+    source 89
+    target 171
+    rank 2
+  ]
+  edge
+  [
+    source 89
+    target 24
+    rank 3
+  ]
+  edge
+  [
+    source 89
+    target 76
+    rank 4
+  ]
+  edge
+  [
+    source 89
+    target 6
+    rank 8
+  ]
+  edge
+  [
+    source 89
+    target 253
+    rank 9
+  ]
+  edge
+  [
+    source 89
+    target 18
+    rank 10
+  ]
+  edge
+  [
+    source 89
+    target 66
+    rank 11
+  ]
+  edge
+  [
+    source 89
+    target 73
+    rank 14
+  ]
+  edge
+  [
+    source 89
+    target 71
+    rank 17
+  ]
+  edge
+  [
+    source 89
+    target 182
+    rank 20
+  ]
+  edge
+  [
+    source 90
+    target 71
+    rank 1
+  ]
+  edge
+  [
+    source 90
+    target 168
+    rank 2
+  ]
+  edge
+  [
+    source 90
+    target 171
+    rank 3
+  ]
+  edge
+  [
+    source 90
+    target 81
+    rank 4
+  ]
+  edge
+  [
+    source 90
+    target 291
+    rank 6
+  ]
+  edge
+  [
+    source 90
+    target 70
+    rank 9
+  ]
+  edge
+  [
+    source 90
+    target 6
+    rank 10
+  ]
+  edge
+  [
+    source 90
+    target 18
+    rank 11
+  ]
+  edge
+  [
+    source 90
+    target 3
+    rank 15
+  ]
+  edge
+  [
+    source 90
+    target 14
+    rank 17
+  ]
+  edge
+  [
+    source 90
+    target 266
+    rank 18
+  ]
+  edge
+  [
+    source 90
+    target 36
+    rank 19
+  ]
+  edge
+  [
+    source 91
+    target 171
+    rank 1
+  ]
+  edge
+  [
+    source 91
+    target 71
+    rank 2
+  ]
+  edge
+  [
+    source 91
+    target 6
+    rank 6
+  ]
+  edge
+  [
+    source 91
+    target 10
+    rank 8
+  ]
+  edge
+  [
+    source 91
+    target 269
+    rank 10
+  ]
+  edge
+  [
+    source 91
+    target 253
+    rank 12
+  ]
+  edge
+  [
+    source 91
+    target 70
+    rank 16
+  ]
+  edge
+  [
+    source 91
+    target 36
+    rank 19
+  ]
+  edge
+  [
+    source 91
+    target 23
+    rank 20
+  ]
+  edge
+  [
+    source 92
+    target 171
+    rank 1
+  ]
+  edge
+  [
+    source 92
+    target 169
+    rank 2
+  ]
+  edge
+  [
+    source 92
+    target 14
+    rank 3
+  ]
+  edge
+  [
+    source 92
+    target 10
+    rank 6
+  ]
+  edge
+  [
+    source 92
+    target 223
+    rank 7
+  ]
+  edge
+  [
+    source 92
+    target 152
+    rank 8
+  ]
+  edge
+  [
+    source 92
+    target 114
+    rank 10
+  ]
+  edge
+  [
+    source 92
+    target 141
+    rank 11
+  ]
+  edge
+  [
+    source 92
+    target 99
+    rank 12
+  ]
+  edge
+  [
+    source 92
+    target 27
+    rank 13
+  ]
+  edge
+  [
+    source 92
+    target 23
+    rank 15
+  ]
+  edge
+  [
+    source 92
+    target 13
+    rank 17
+  ]
+  edge
+  [
+    source 92
+    target 295
+    rank 19
+  ]
+  edge
+  [
+    source 92
+    target 18
+    rank 20
+  ]
+  edge
+  [
+    source 93
+    target 171
+    rank 1
+  ]
+  edge
+  [
+    source 93
+    target 181
+    rank 2
+  ]
+  edge
+  [
+    source 93
+    target 79
+    rank 3
+  ]
+  edge
+  [
+    source 93
+    target 10
+    rank 4
+  ]
+  edge
+  [
+    source 93
+    target 22
+    rank 5
+  ]
+  edge
+  [
+    source 93
+    target 132
+    rank 6
+  ]
+  edge
+  [
+    source 93
+    target 2
+    rank 7
+  ]
+  edge
+  [
+    source 93
+    target 71
+    rank 11
+  ]
+  edge
+  [
+    source 93
+    target 140
+    rank 13
+  ]
+  edge
+  [
+    source 93
+    target 104
+    rank 14
+  ]
+  edge
+  [
+    source 93
+    target 36
+    rank 15
+  ]
+  edge
+  [
+    source 93
+    target 14
+    rank 16
+  ]
+  edge
+  [
+    source 93
+    target 23
+    rank 18
+  ]
+  edge
+  [
+    source 93
+    target 150
+    rank 19
+  ]
+  edge
+  [
+    source 94
+    target 171
+    rank 1
+  ]
+  edge
+  [
+    source 94
+    target 21
+    rank 2
+  ]
+  edge
+  [
+    source 94
+    target 6
+    rank 3
+  ]
+  edge
+  [
+    source 94
+    target 79
+    rank 4
+  ]
+  edge
+  [
+    source 94
+    target 66
+    rank 5
+  ]
+  edge
+  [
+    source 94
+    target 225
+    rank 7
+  ]
+  edge
+  [
+    source 94
+    target 27
+    rank 9
+  ]
+  edge
+  [
+    source 94
+    target 10
+    rank 10
+  ]
+  edge
+  [
+    source 94
+    target 182
+    rank 13
+  ]
+  edge
+  [
+    source 94
+    target 13
+    rank 15
+  ]
+  edge
+  [
+    source 94
+    target 16
+    rank 16
+  ]
+  edge
+  [
+    source 94
+    target 4
+    rank 17
+  ]
+  edge
+  [
+    source 94
+    target 141
+    rank 18
+  ]
+  edge
+  [
+    source 94
+    target 134
+    rank 19
+  ]
+  edge
+  [
+    source 94
+    target 18
+    rank 20
+  ]
+  edge
+  [
+    source 95
+    target 105
+    rank 1
+  ]
+  edge
+  [
+    source 95
+    target 36
+    rank 3
+  ]
+  edge
+  [
+    source 96
+    target 171
+    rank 1
+  ]
+  edge
+  [
+    source 96
+    target 253
+    rank 2
+  ]
+  edge
+  [
+    source 96
+    target 223
+    rank 4
+  ]
+  edge
+  [
+    source 96
+    target 3
+    rank 5
+  ]
+  edge
+  [
+    source 96
+    target 9
+    rank 6
+  ]
+  edge
+  [
+    source 96
+    target 182
+    rank 7
+  ]
+  edge
+  [
+    source 96
+    target 25
+    rank 10
+  ]
+  edge
+  [
+    source 96
+    target 12
+    rank 11
+  ]
+  edge
+  [
+    source 96
+    target 18
+    rank 13
+  ]
+  edge
+  [
+    source 96
+    target 36
+    rank 15
+  ]
+  edge
+  [
+    source 96
+    target 269
+    rank 17
+  ]
+  edge
+  [
+    source 97
+    target 10
+    rank 2
+  ]
+  edge
+  [
+    source 97
+    target 171
+    rank 3
+  ]
+  edge
+  [
+    source 97
+    target 71
+    rank 6
+  ]
+  edge
+  [
+    source 97
+    target 36
+    rank 9
+  ]
+  edge
+  [
+    source 97
+    target 23
+    rank 10
+  ]
+  edge
+  [
+    source 97
+    target 14
+    rank 12
+  ]
+  edge
+  [
+    source 97
+    target 229
+    rank 13
+  ]
+  edge
+  [
+    source 97
+    target 3
+    rank 16
+  ]
+  edge
+  [
+    source 98
+    target 171
+    rank 1
+  ]
+  edge
+  [
+    source 98
+    target 18
+    rank 2
+  ]
+  edge
+  [
+    source 98
+    target 10
+    rank 3
+  ]
+  edge
+  [
+    source 98
+    target 3
+    rank 8
+  ]
+  edge
+  [
+    source 98
+    target 25
+    rank 11
+  ]
+  edge
+  [
+    source 98
+    target 4
+    rank 15
+  ]
+  edge
+  [
+    source 98
     target 69
     rank 16
   ]
   edge
   [
-    source 525
-    target 105
+    source 98
+    target 31
+    rank 18
+  ]
+  edge
+  [
+    source 98
+    target 64
     rank 19
   ]
   edge
   [
-    source 525
-    target 192
+    source 98
+    target 114
     rank 20
   ]
   edge
   [
-    source 527
-    target 141
+    source 99
+    target 169
+    rank 1
+  ]
+  edge
+  [
+    source 99
+    target 171
     rank 2
   ]
   edge
   [
-    source 528
-    target 24
-    rank 1
+    source 99
+    target 6
+    rank 4
   ]
   edge
   [
-    source 528
-    target 461
-    rank 9
-  ]
-  edge
-  [
-    source 529
-    target 141
-    rank 1
-  ]
-  edge
-  [
-    source 529
-    target 60
+    source 99
+    target 2
     rank 5
   ]
   edge
   [
-    source 529
-    target 199
+    source 99
+    target 223
+    rank 6
+  ]
+  edge
+  [
+    source 99
+    target 225
     rank 7
   ]
   edge
   [
-    source 529
-    target 105
+    source 99
+    target 152
+    rank 9
+  ]
+  edge
+  [
+    source 99
+    target 10
+    rank 10
+  ]
+  edge
+  [
+    source 99
+    target 182
+    rank 11
+  ]
+  edge
+  [
+    source 99
+    target 16
+    rank 15
+  ]
+  edge
+  [
+    source 99
+    target 27
+    rank 16
+  ]
+  edge
+  [
+    source 99
+    target 13
+    rank 20
+  ]
+  edge
+  [
+    source 100
+    target 171
+    rank 1
+  ]
+  edge
+  [
+    source 100
+    target 119
+    rank 2
+  ]
+  edge
+  [
+    source 100
+    target 168
+    rank 3
+  ]
+  edge
+  [
+    source 100
+    target 6
+    rank 4
+  ]
+  edge
+  [
+    source 100
+    target 87
+    rank 6
+  ]
+  edge
+  [
+    source 100
+    target 24
     rank 8
   ]
   edge
   [
-    source 531
+    source 100
+    target 10
+    rank 9
+  ]
+  edge
+  [
+    source 100
+    target 14
+    rank 10
+  ]
+  edge
+  [
+    source 100
+    target 71
+    rank 13
+  ]
+  edge
+  [
+    source 100
+    target 169
+    rank 15
+  ]
+  edge
+  [
+    source 100
+    target 66
+    rank 17
+  ]
+  edge
+  [
+    source 100
+    target 253
+    rank 19
+  ]
+  edge
+  [
+    source 100
+    target 81
+    rank 20
+  ]
+  edge
+  [
+    source 101
+    target 171
+    rank 2
+  ]
+  edge
+  [
+    source 101
+    target 14
+    rank 3
+  ]
+  edge
+  [
+    source 101
+    target 6
+    rank 4
+  ]
+  edge
+  [
+    source 101
+    target 22
+    rank 5
+  ]
+  edge
+  [
+    source 101
+    target 278
+    rank 8
+  ]
+  edge
+  [
+    source 101
+    target 2
+    rank 9
+  ]
+  edge
+  [
+    source 101
+    target 1
+    rank 11
+  ]
+  edge
+  [
+    source 101
+    target 57
+    rank 13
+  ]
+  edge
+  [
+    source 101
+    target 150
+    rank 14
+  ]
+  edge
+  [
+    source 101
+    target 81
+    rank 15
+  ]
+  edge
+  [
+    source 102
+    target 291
+    rank 3
+  ]
+  edge
+  [
+    source 102
+    target 63
+    rank 4
+  ]
+  edge
+  [
+    source 102
+    target 36
+    rank 8
+  ]
+  edge
+  [
+    source 102
+    target 176
+    rank 9
+  ]
+  edge
+  [
+    source 102
+    target 130
+    rank 17
+  ]
+  edge
+  [
+    source 102
+    target 75
+    rank 20
+  ]
+  edge
+  [
+    source 103
+    target 253
+    rank 1
+  ]
+  edge
+  [
+    source 103
+    target 171
+    rank 2
+  ]
+  edge
+  [
+    source 103
+    target 71
+    rank 4
+  ]
+  edge
+  [
+    source 103
+    target 36
+    rank 5
+  ]
+  edge
+  [
+    source 103
+    target 18
+    rank 7
+  ]
+  edge
+  [
+    source 103
+    target 6
+    rank 9
+  ]
+  edge
+  [
+    source 103
+    target 269
+    rank 14
+  ]
+  edge
+  [
+    source 103
+    target 3
+    rank 15
+  ]
+  edge
+  [
+    source 103
+    target 118
+    rank 18
+  ]
+  edge
+  [
+    source 103
+    target 50
+    rank 19
+  ]
+  edge
+  [
+    source 103
+    target 27
+    rank 20
+  ]
+  edge
+  [
+    source 104
+    target 171
+    rank 1
+  ]
+  edge
+  [
+    source 104
+    target 181
+    rank 2
+  ]
+  edge
+  [
+    source 104
+    target 2
+    rank 3
+  ]
+  edge
+  [
+    source 104
+    target 79
+    rank 4
+  ]
+  edge
+  [
+    source 104
+    target 22
+    rank 6
+  ]
+  edge
+  [
+    source 104
+    target 6
+    rank 13
+  ]
+  edge
+  [
+    source 104
+    target 59
+    rank 15
+  ]
+  edge
+  [
+    source 104
+    target 10
+    rank 17
+  ]
+  edge
+  [
+    source 105
+    target 95
+    rank 1
+  ]
+  edge
+  [
+    source 105
+    target 171
+    rank 2
+  ]
+  edge
+  [
+    source 105
+    target 66
+    rank 3
+  ]
+  edge
+  [
+    source 105
+    target 71
+    rank 4
+  ]
+  edge
+  [
+    source 105
+    target 119
+    rank 5
+  ]
+  edge
+  [
+    source 105
+    target 6
+    rank 6
+  ]
+  edge
+  [
+    source 105
+    target 14
+    rank 11
+  ]
+  edge
+  [
+    source 105
+    target 3
+    rank 12
+  ]
+  edge
+  [
+    source 106
+    target 171
+    rank 1
+  ]
+  edge
+  [
+    source 106
+    target 21
+    rank 2
+  ]
+  edge
+  [
+    source 106
+    target 10
+    rank 3
+  ]
+  edge
+  [
+    source 106
+    target 14
+    rank 4
+  ]
+  edge
+  [
+    source 106
+    target 6
+    rank 5
+  ]
+  edge
+  [
+    source 106
+    target 152
+    rank 7
+  ]
+  edge
+  [
+    source 106
+    target 1
+    rank 8
+  ]
+  edge
+  [
+    source 106
+    target 23
+    rank 9
+  ]
+  edge
+  [
+    source 106
+    target 36
+    rank 10
+  ]
+  edge
+  [
+    source 106
+    target 3
+    rank 11
+  ]
+  edge
+  [
+    source 106
+    target 18
+    rank 13
+  ]
+  edge
+  [
+    source 106
+    target 12
+    rank 14
+  ]
+  edge
+  [
+    source 106
+    target 114
+    rank 16
+  ]
+  edge
+  [
+    source 106
+    target 11
+    rank 18
+  ]
+  edge
+  [
+    source 106
+    target 5
+    rank 19
+  ]
+  edge
+  [
+    source 107
+    target 171
+    rank 1
+  ]
+  edge
+  [
+    source 107
+    target 18
+    rank 2
+  ]
+  edge
+  [
+    source 107
+    target 253
+    rank 3
+  ]
+  edge
+  [
+    source 107
+    target 232
+    rank 4
+  ]
+  edge
+  [
+    source 107
+    target 182
+    rank 5
+  ]
+  edge
+  [
+    source 107
+    target 11
+    rank 6
+  ]
+  edge
+  [
+    source 107
+    target 36
+    rank 7
+  ]
+  edge
+  [
+    source 107
+    target 3
+    rank 9
+  ]
+  edge
+  [
+    source 107
+    target 118
+    rank 10
+  ]
+  edge
+  [
+    source 107
+    target 137
+    rank 11
+  ]
+  edge
+  [
+    source 107
+    target 269
+    rank 12
+  ]
+  edge
+  [
+    source 107
+    target 139
+    rank 15
+  ]
+  edge
+  [
+    source 107
+    target 4
+    rank 16
+  ]
+  edge
+  [
+    source 107
+    target 19
+    rank 20
+  ]
+  edge
+  [
+    source 108
+    target 171
+    rank 1
+  ]
+  edge
+  [
+    source 108
+    target 14
+    rank 2
+  ]
+  edge
+  [
+    source 108
+    target 27
+    rank 4
+  ]
+  edge
+  [
+    source 108
+    target 10
+    rank 5
+  ]
+  edge
+  [
+    source 108
+    target 36
+    rank 9
+  ]
+  edge
+  [
+    source 108
+    target 6
+    rank 11
+  ]
+  edge
+  [
+    source 108
+    target 141
+    rank 12
+  ]
+  edge
+  [
+    source 108
+    target 50
+    rank 13
+  ]
+  edge
+  [
+    source 108
+    target 99
+    rank 16
+  ]
+  edge
+  [
+    source 108
+    target 71
+    rank 17
+  ]
+  edge
+  [
+    source 108
+    target 4
+    rank 18
+  ]
+  edge
+  [
+    source 108
+    target 23
+    rank 19
+  ]
+  edge
+  [
+    source 108
+    target 18
+    rank 20
+  ]
+  edge
+  [
+    source 109
+    target 171
+    rank 1
+  ]
+  edge
+  [
+    source 109
+    target 18
+    rank 3
+  ]
+  edge
+  [
+    source 109
+    target 27
+    rank 4
+  ]
+  edge
+  [
+    source 109
+    target 6
+    rank 5
+  ]
+  edge
+  [
+    source 109
+    target 10
+    rank 6
+  ]
+  edge
+  [
+    source 109
+    target 223
+    rank 8
+  ]
+  edge
+  [
+    source 109
+    target 225
+    rank 9
+  ]
+  edge
+  [
+    source 109
+    target 50
+    rank 10
+  ]
+  edge
+  [
+    source 109
+    target 11
+    rank 11
+  ]
+  edge
+  [
+    source 109
+    target 255
+    rank 13
+  ]
+  edge
+  [
+    source 109
+    target 182
+    rank 14
+  ]
+  edge
+  [
+    source 109
+    target 36
+    rank 17
+  ]
+  edge
+  [
+    source 109
+    target 4
+    rank 19
+  ]
+  edge
+  [
+    source 109
+    target 38
+    rank 20
+  ]
+  edge
+  [
+    source 110
+    target 171
+    rank 3
+  ]
+  edge
+  [
+    source 110
+    target 6
+    rank 4
+  ]
+  edge
+  [
+    source 110
+    target 50
+    rank 7
+  ]
+  edge
+  [
+    source 110
+    target 119
+    rank 8
+  ]
+  edge
+  [
+    source 110
+    target 71
+    rank 10
+  ]
+  edge
+  [
+    source 110
+    target 3
+    rank 14
+  ]
+  edge
+  [
+    source 110
+    target 81
+    rank 15
+  ]
+  edge
+  [
+    source 110
+    target 168
+    rank 18
+  ]
+  edge
+  [
+    source 111
+    target 6
+    rank 1
+  ]
+  edge
+  [
+    source 111
+    target 171
+    rank 2
+  ]
+  edge
+  [
+    source 111
+    target 18
+    rank 3
+  ]
+  edge
+  [
+    source 111
+    target 137
+    rank 5
+  ]
+  edge
+  [
+    source 111
+    target 27
+    rank 6
+  ]
+  edge
+  [
+    source 111
+    target 10
+    rank 8
+  ]
+  edge
+  [
+    source 111
+    target 23
+    rank 9
+  ]
+  edge
+  [
+    source 111
+    target 99
+    rank 10
+  ]
+  edge
+  [
+    source 111
+    target 91
+    rank 11
+  ]
+  edge
+  [
+    source 111
+    target 15
+    rank 13
+  ]
+  edge
+  [
+    source 111
+    target 225
+    rank 14
+  ]
+  edge
+  [
+    source 111
+    target 35
+    rank 15
+  ]
+  edge
+  [
+    source 111
+    target 118
+    rank 17
+  ]
+  edge
+  [
+    source 111
+    target 141
+    rank 18
+  ]
+  edge
+  [
+    source 112
+    target 171
+    rank 1
+  ]
+  edge
+  [
+    source 112
+    target 119
+    rank 2
+  ]
+  edge
+  [
+    source 112
+    target 168
+    rank 3
+  ]
+  edge
+  [
+    source 112
+    target 24
+    rank 4
+  ]
+  edge
+  [
+    source 112
+    target 6
+    rank 6
+  ]
+  edge
+  [
+    source 112
+    target 3
+    rank 8
+  ]
+  edge
+  [
+    source 112
+    target 71
+    rank 10
+  ]
+  edge
+  [
+    source 112
+    target 14
+    rank 16
+  ]
+  edge
+  [
+    source 112
+    target 66
+    rank 18
+  ]
+  edge
+  [
+    source 112
+    target 191
+    rank 19
+  ]
+  edge
+  [
+    source 112
+    target 36
+    rank 20
+  ]
+  edge
+  [
+    source 113
+    target 46
+    rank 1
+  ]
+  edge
+  [
+    source 113
+    target 253
+    rank 2
+  ]
+  edge
+  [
+    source 113
+    target 79
+    rank 11
+  ]
+  edge
+  [
+    source 113
+    target 3
+    rank 12
+  ]
+  edge
+  [
+    source 113
+    target 295
+    rank 13
+  ]
+  edge
+  [
+    source 113
+    target 182
+    rank 15
+  ]
+  edge
+  [
+    source 113
+    target 69
+    rank 17
+  ]
+  edge
+  [
+    source 113
+    target 67
+    rank 19
+  ]
+  edge
+  [
+    source 114
+    target 171
+    rank 1
+  ]
+  edge
+  [
+    source 114
+    target 14
+    rank 3
+  ]
+  edge
+  [
+    source 114
+    target 10
+    rank 4
+  ]
+  edge
+  [
+    source 114
+    target 3
+    rank 5
+  ]
+  edge
+  [
+    source 114
+    target 18
+    rank 7
+  ]
+  edge
+  [
+    source 114
+    target 168
+    rank 8
+  ]
+  edge
+  [
+    source 114
+    target 6
+    rank 13
+  ]
+  edge
+  [
+    source 114
+    target 253
+    rank 15
+  ]
+  edge
+  [
+    source 114
+    target 70
+    rank 18
+  ]
+  edge
+  [
+    source 115
+    target 3
+    rank 4
+  ]
+  edge
+  [
+    source 115
+    target 168
+    rank 5
+  ]
+  edge
+  [
+    source 115
+    target 13
+    rank 18
+  ]
+  edge
+  [
+    source 116
+    target 171
+    rank 2
+  ]
+  edge
+  [
+    source 116
+    target 168
+    rank 3
+  ]
+  edge
+  [
+    source 117
+    target 119
+    rank 1
+  ]
+  edge
+  [
+    source 117
+    target 171
+    rank 4
+  ]
+  edge
+  [
+    source 117
+    target 168
+    rank 6
+  ]
+  edge
+  [
+    source 117
+    target 14
+    rank 8
+  ]
+  edge
+  [
+    source 117
+    target 3
+    rank 9
+  ]
+  edge
+  [
+    source 117
+    target 71
+    rank 14
+  ]
+  edge
+  [
+    source 117
+    target 23
+    rank 19
+  ]
+  edge
+  [
+    source 117
+    target 278
+    rank 20
+  ]
+  edge
+  [
+    source 118
+    target 171
+    rank 2
+  ]
+  edge
+  [
+    source 118
+    target 6
+    rank 7
+  ]
+  edge
+  [
+    source 118
+    target 288
+    rank 8
+  ]
+  edge
+  [
+    source 118
+    target 10
+    rank 11
+  ]
+  edge
+  [
+    source 118
+    target 36
+    rank 12
+  ]
+  edge
+  [
+    source 118
+    target 220
+    rank 14
+  ]
+  edge
+  [
+    source 119
+    target 71
+    rank 2
+  ]
+  edge
+  [
+    source 119
+    target 14
+    rank 3
+  ]
+  edge
+  [
+    source 119
+    target 171
+    rank 6
+  ]
+  edge
+  [
+    source 119
+    target 278
+    rank 7
+  ]
+  edge
+  [
+    source 119
+    target 46
+    rank 8
+  ]
+  edge
+  [
+    source 119
+    target 6
+    rank 10
+  ]
+  edge
+  [
+    source 119
+    target 150
+    rank 12
+  ]
+  edge
+  [
+    source 120
+    target 169
+    rank 1
+  ]
+  edge
+  [
+    source 120
+    target 171
+    rank 2
+  ]
+  edge
+  [
+    source 120
+    target 2
+    rank 3
+  ]
+  edge
+  [
+    source 120
+    target 10
+    rank 4
+  ]
+  edge
+  [
+    source 120
+    target 18
+    rank 5
+  ]
+  edge
+  [
+    source 120
+    target 36
+    rank 7
+  ]
+  edge
+  [
+    source 120
+    target 291
+    rank 8
+  ]
+  edge
+  [
+    source 120
+    target 71
+    rank 12
+  ]
+  edge
+  [
+    source 120
+    target 150
+    rank 13
+  ]
+  edge
+  [
+    source 120
+    target 152
+    rank 14
+  ]
+  edge
+  [
+    source 120
+    target 3
+    rank 17
+  ]
+  edge
+  [
+    source 121
+    target 453
+    rank 12
+  ]
+  edge
+  [
+    source 122
+    target 171
+    rank 1
+  ]
+  edge
+  [
+    source 122
+    target 375
+    rank 6
+  ]
+  edge
+  [
+    source 122
+    target 6
+    rank 9
+  ]
+  edge
+  [
+    source 122
+    target 150
+    rank 10
+  ]
+  edge
+  [
+    source 122
+    target 81
+    rank 11
+  ]
+  edge
+  [
+    source 122
+    target 14
+    rank 12
+  ]
+  edge
+  [
+    source 122
+    target 36
+    rank 14
+  ]
+  edge
+  [
+    source 122
+    target 3
+    rank 16
+  ]
+  edge
+  [
+    source 123
+    target 171
+    rank 1
+  ]
+  edge
+  [
+    source 123
+    target 18
+    rank 2
+  ]
+  edge
+  [
+    source 123
+    target 253
+    rank 4
+  ]
+  edge
+  [
+    source 123
+    target 10
+    rank 5
+  ]
+  edge
+  [
+    source 123
+    target 35
+    rank 8
+  ]
+  edge
+  [
+    source 123
+    target 223
+    rank 11
+  ]
+  edge
+  [
+    source 123
+    target 99
+    rank 14
+  ]
+  edge
+  [
+    source 123
+    target 3
+    rank 15
+  ]
+  edge
+  [
+    source 123
+    target 182
+    rank 16
+  ]
+  edge
+  [
+    source 123
+    target 31
+    rank 17
+  ]
+  edge
+  [
+    source 123
+    target 27
+    rank 18
+  ]
+  edge
+  [
+    source 123
+    target 50
+    rank 19
+  ]
+  edge
+  [
+    source 124
+    target 171
+    rank 1
+  ]
+  edge
+  [
+    source 124
+    target 2
+    rank 2
+  ]
+  edge
+  [
+    source 124
+    target 169
+    rank 3
+  ]
+  edge
+  [
+    source 124
+    target 23
+    rank 4
+  ]
+  edge
+  [
+    source 124
+    target 6
+    rank 5
+  ]
+  edge
+  [
+    source 124
+    target 91
+    rank 7
+  ]
+  edge
+  [
+    source 124
+    target 152
+    rank 10
+  ]
+  edge
+  [
+    source 124
+    target 10
+    rank 11
+  ]
+  edge
+  [
+    source 124
+    target 223
+    rank 13
+  ]
+  edge
+  [
+    source 124
+    target 50
+    rank 15
+  ]
+  edge
+  [
+    source 124
+    target 3
+    rank 16
+  ]
+  edge
+  [
+    source 124
+    target 225
+    rank 17
+  ]
+  edge
+  [
+    source 124
+    target 13
+    rank 18
+  ]
+  edge
+  [
+    source 124
+    target 69
+    rank 19
+  ]
+  edge
+  [
+    source 125
+    target 168
+    rank 7
+  ]
+  edge
+  [
+    source 125
+    target 116
+    rank 8
+  ]
+  edge
+  [
+    source 125
+    target 6
+    rank 12
+  ]
+  edge
+  [
+    source 126
+    target 171
+    rank 1
+  ]
+  edge
+  [
+    source 126
+    target 71
+    rank 2
+  ]
+  edge
+  [
+    source 126
+    target 168
+    rank 4
+  ]
+  edge
+  [
+    source 126
+    target 119
+    rank 5
+  ]
+  edge
+  [
+    source 126
+    target 6
+    rank 8
+  ]
+  edge
+  [
+    source 126
+    target 3
+    rank 10
+  ]
+  edge
+  [
+    source 126
+    target 57
+    rank 12
+  ]
+  edge
+  [
+    source 126
+    target 81
+    rank 13
+  ]
+  edge
+  [
+    source 126
+    target 66
+    rank 15
+  ]
+  edge
+  [
+    source 126
+    target 14
+    rank 17
+  ]
+  edge
+  [
+    source 126
+    target 253
+    rank 18
+  ]
+  edge
+  [
+    source 127
+    target 171
+    rank 2
+  ]
+  edge
+  [
+    source 127
+    target 21
+    rank 4
+  ]
+  edge
+  [
+    source 127
+    target 36
+    rank 8
+  ]
+  edge
+  [
+    source 127
+    target 18
+    rank 10
+  ]
+  edge
+  [
+    source 127
+    target 266
+    rank 12
+  ]
+  edge
+  [
+    source 127
+    target 271
+    rank 20
+  ]
+  edge
+  [
+    source 128
+    target 171
+    rank 1
+  ]
+  edge
+  [
+    source 128
+    target 2
+    rank 5
+  ]
+  edge
+  [
+    source 128
+    target 6
+    rank 8
+  ]
+  edge
+  [
+    source 128
+    target 10
+    rank 10
+  ]
+  edge
+  [
+    source 128
+    target 57
+    rank 11
+  ]
+  edge
+  [
+    source 128
+    target 3
+    rank 13
+  ]
+  edge
+  [
+    source 128
+    target 18
+    rank 16
+  ]
+  edge
+  [
+    source 129
+    target 278
+    rank 3
+  ]
+  edge
+  [
+    source 129
+    target 253
+    rank 6
+  ]
+  edge
+  [
+    source 129
+    target 57
+    rank 7
+  ]
+  edge
+  [
+    source 129
+    target 3
+    rank 12
+  ]
+  edge
+  [
+    source 129
+    target 149
+    rank 14
+  ]
+  edge
+  [
+    source 130
+    target 152
+    rank 2
+  ]
+  edge
+  [
+    source 130
+    target 36
+    rank 3
+  ]
+  edge
+  [
+    source 130
+    target 291
+    rank 4
+  ]
+  edge
+  [
+    source 130
+    target 134
+    rank 9
+  ]
+  edge
+  [
+    source 130
+    target 227
+    rank 17
+  ]
+  edge
+  [
+    source 131
+    target 6
+    rank 1
+  ]
+  edge
+  [
+    source 131
+    target 10
+    rank 2
+  ]
+  edge
+  [
+    source 131
+    target 171
+    rank 3
+  ]
+  edge
+  [
+    source 131
+    target 2
+    rank 9
+  ]
+  edge
+  [
+    source 131
+    target 190
+    rank 13
+  ]
+  edge
+  [
+    source 131
+    target 101
+    rank 14
+  ]
+  edge
+  [
+    source 131
+    target 59
+    rank 18
+  ]
+  edge
+  [
+    source 132
     target 10
     rank 1
   ]
   edge
   [
-    source 531
-    target 141
+    source 132
+    target 171
     rank 2
   ]
   edge
   [
-    source 531
-    target 183
+    source 132
+    target 22
+    rank 3
+  ]
+  edge
+  [
+    source 132
+    target 181
     rank 5
   ]
   edge
   [
-    source 531
-    target 60
-    rank 7
+    source 132
+    target 2
+    rank 8
   ]
   edge
   [
-    source 531
-    target 248
+    source 132
+    target 79
+    rank 10
+  ]
+  edge
+  [
+    source 132
+    target 6
     rank 11
   ]
   edge
   [
-    source 531
-    target 202
-    rank 16
+    source 132
+    target 36
+    rank 12
   ]
   edge
   [
-    source 532
-    target 350
+    source 132
+    target 167
+    rank 13
+  ]
+  edge
+  [
+    source 132
+    target 209
     rank 15
   ]
   edge
   [
-    source 532
-    target 289
+    source 132
+    target 152
+    rank 20
+  ]
+  edge
+  [
+    source 133
+    target 171
+    rank 1
+  ]
+  edge
+  [
+    source 133
+    target 20
+    rank 3
+  ]
+  edge
+  [
+    source 133
+    target 24
+    rank 6
+  ]
+  edge
+  [
+    source 133
+    target 150
+    rank 10
+  ]
+  edge
+  [
+    source 133
+    target 119
+    rank 12
+  ]
+  edge
+  [
+    source 133
+    target 71
+    rank 15
+  ]
+  edge
+  [
+    source 133
+    target 66
+    rank 17
+  ]
+  edge
+  [
+    source 133
+    target 36
+    rank 19
+  ]
+  edge
+  [
+    source 133
+    target 81
+    rank 20
+  ]
+  edge
+  [
+    source 134
+    target 21
+    rank 1
+  ]
+  edge
+  [
+    source 134
+    target 121
+    rank 3
+  ]
+  edge
+  [
+    source 134
+    target 79
+    rank 10
+  ]
+  edge
+  [
+    source 134
+    target 39
     rank 16
   ]
   edge
   [
-    source 534
+    source 134
+    target 36
+    rank 17
+  ]
+  edge
+  [
+    source 134
+    target 130
+    rank 18
+  ]
+  edge
+  [
+    source 135
+    target 171
+    rank 1
+  ]
+  edge
+  [
+    source 135
+    target 14
+    rank 2
+  ]
+  edge
+  [
+    source 135
+    target 71
+    rank 3
+  ]
+  edge
+  [
+    source 135
+    target 10
+    rank 4
+  ]
+  edge
+  [
+    source 135
+    target 24
+    rank 5
+  ]
+  edge
+  [
+    source 135
+    target 149
+    rank 6
+  ]
+  edge
+  [
+    source 135
+    target 119
+    rank 7
+  ]
+  edge
+  [
+    source 135
+    target 36
+    rank 8
+  ]
+  edge
+  [
+    source 135
+    target 6
+    rank 9
+  ]
+  edge
+  [
+    source 135
+    target 18
+    rank 10
+  ]
+  edge
+  [
+    source 135
+    target 23
+    rank 11
+  ]
+  edge
+  [
+    source 135
+    target 66
+    rank 13
+  ]
+  edge
+  [
+    source 135
+    target 4
+    rank 15
+  ]
+  edge
+  [
+    source 135
+    target 84
+    rank 16
+  ]
+  edge
+  [
+    source 135
+    target 3
+    rank 17
+  ]
+  edge
+  [
+    source 135
+    target 86
+    rank 18
+  ]
+  edge
+  [
+    source 135
+    target 15
+    rank 20
+  ]
+  edge
+  [
+    source 136
+    target 6
+    rank 1
+  ]
+  edge
+  [
+    source 136
+    target 81
+    rank 2
+  ]
+  edge
+  [
+    source 136
+    target 10
+    rank 3
+  ]
+  edge
+  [
+    source 136
+    target 169
+    rank 4
+  ]
+  edge
+  [
+    source 136
+    target 171
+    rank 5
+  ]
+  edge
+  [
+    source 136
+    target 269
+    rank 6
+  ]
+  edge
+  [
+    source 136
+    target 71
+    rank 7
+  ]
+  edge
+  [
+    source 136
+    target 119
+    rank 8
+  ]
+  edge
+  [
+    source 136
+    target 23
+    rank 12
+  ]
+  edge
+  [
+    source 136
+    target 36
+    rank 13
+  ]
+  edge
+  [
+    source 136
+    target 241
+    rank 14
+  ]
+  edge
+  [
+    source 136
+    target 14
+    rank 19
+  ]
+  edge
+  [
+    source 137
+    target 171
+    rank 2
+  ]
+  edge
+  [
+    source 137
+    target 168
+    rank 3
+  ]
+  edge
+  [
+    source 137
+    target 14
+    rank 6
+  ]
+  edge
+  [
+    source 137
+    target 6
+    rank 7
+  ]
+  edge
+  [
+    source 137
+    target 119
+    rank 10
+  ]
+  edge
+  [
+    source 137
+    target 36
+    rank 16
+  ]
+  edge
+  [
+    source 137
+    target 50
+    rank 20
+  ]
+  edge
+  [
+    source 138
+    target 10
+    rank 1
+  ]
+  edge
+  [
+    source 138
     target 6
     rank 2
   ]
   edge
   [
-    source 534
-    target 80
+    source 138
+    target 171
+    rank 3
+  ]
+  edge
+  [
+    source 138
+    target 253
+    rank 4
+  ]
+  edge
+  [
+    source 138
+    target 2
+    rank 6
+  ]
+  edge
+  [
+    source 138
+    target 182
     rank 7
   ]
   edge
   [
-    source 534
-    target 133
+    source 138
+    target 152
+    rank 10
+  ]
+  edge
+  [
+    source 138
+    target 18
+    rank 11
+  ]
+  edge
+  [
+    source 138
+    target 269
     rank 14
   ]
   edge
   [
-    source 534
-    target 192
-    rank 19
+    source 138
+    target 38
+    rank 16
   ]
   edge
   [
-    source 535
-    target 102
+    source 138
+    target 232
+    rank 20
+  ]
+  edge
+  [
+    source 139
+    target 171
     rank 1
   ]
   edge
   [
-    source 535
-    target 10
+    source 139
+    target 27
+    rank 4
+  ]
+  edge
+  [
+    source 139
+    target 6
+    rank 5
+  ]
+  edge
+  [
+    source 139
+    target 13
+    rank 9
+  ]
+  edge
+  [
+    source 139
+    target 36
+    rank 15
+  ]
+  edge
+  [
+    source 139
+    target 23
+    rank 16
+  ]
+  edge
+  [
+    source 139
+    target 232
+    rank 17
+  ]
+  edge
+  [
+    source 139
+    target 137
+    rank 20
+  ]
+  edge
+  [
+    source 140
+    target 181
+    rank 1
+  ]
+  edge
+  [
+    source 140
+    target 171
+    rank 3
+  ]
+  edge
+  [
+    source 140
+    target 22
+    rank 4
+  ]
+  edge
+  [
+    source 140
+    target 88
+    rank 8
+  ]
+  edge
+  [
+    source 140
+    target 119
+    rank 9
+  ]
+  edge
+  [
+    source 140
+    target 79
+    rank 10
+  ]
+  edge
+  [
+    source 140
+    target 6
+    rank 12
+  ]
+  edge
+  [
+    source 141
+    target 152
     rank 2
   ]
   edge
   [
-    source 535
+    source 141
+    target 36
+    rank 7
+  ]
+  edge
+  [
+    source 141
+    target 130
+    rank 8
+  ]
+  edge
+  [
+    source 142
+    target 171
+    rank 1
+  ]
+  edge
+  [
+    source 142
+    target 255
+    rank 3
+  ]
+  edge
+  [
+    source 142
+    target 35
+    rank 4
+  ]
+  edge
+  [
+    source 142
+    target 225
+    rank 5
+  ]
+  edge
+  [
+    source 142
+    target 99
+    rank 7
+  ]
+  edge
+  [
+    source 142
+    target 50
+    rank 8
+  ]
+  edge
+  [
+    source 142
+    target 232
+    rank 9
+  ]
+  edge
+  [
+    source 142
+    target 73
+    rank 10
+  ]
+  edge
+  [
+    source 142
+    target 36
+    rank 11
+  ]
+  edge
+  [
+    source 142
+    target 27
+    rank 14
+  ]
+  edge
+  [
+    source 142
+    target 139
+    rank 18
+  ]
+  edge
+  [
+    source 142
+    target 141
+    rank 19
+  ]
+  edge
+  [
+    source 142
+    target 4
+    rank 20
+  ]
+  edge
+  [
+    source 144
+    target 171
+    rank 3
+  ]
+  edge
+  [
+    source 144
+    target 182
+    rank 4
+  ]
+  edge
+  [
+    source 144
+    target 36
+    rank 15
+  ]
+  edge
+  [
+    source 144
+    target 118
+    rank 19
+  ]
+  edge
+  [
+    source 145
+    target 171
+    rank 2
+  ]
+  edge
+  [
+    source 145
+    target 121
+    rank 3
+  ]
+  edge
+  [
+    source 145
+    target 169
+    rank 5
+  ]
+  edge
+  [
+    source 145
+    target 119
+    rank 6
+  ]
+  edge
+  [
+    source 145
+    target 71
+    rank 7
+  ]
+  edge
+  [
+    source 145
+    target 6
+    rank 8
+  ]
+  edge
+  [
+    source 145
+    target 2
+    rank 10
+  ]
+  edge
+  [
+    source 145
+    target 88
+    rank 12
+  ]
+  edge
+  [
+    source 145
+    target 168
+    rank 15
+  ]
+  edge
+  [
+    source 145
+    target 57
+    rank 16
+  ]
+  edge
+  [
+    source 145
+    target 79
+    rank 19
+  ]
+  edge
+  [
+    source 146
+    target 171
+    rank 1
+  ]
+  edge
+  [
+    source 146
+    target 181
+    rank 4
+  ]
+  edge
+  [
+    source 146
+    target 10
+    rank 8
+  ]
+  edge
+  [
+    source 146
+    target 132
+    rank 14
+  ]
+  edge
+  [
+    source 146
+    target 36
+    rank 17
+  ]
+  edge
+  [
+    source 147
+    target 171
+    rank 1
+  ]
+  edge
+  [
+    source 147
+    target 2
+    rank 2
+  ]
+  edge
+  [
+    source 147
+    target 269
+    rank 4
+  ]
+  edge
+  [
+    source 147
+    target 14
+    rank 6
+  ]
+  edge
+  [
+    source 147
+    target 19
+    rank 7
+  ]
+  edge
+  [
+    source 147
+    target 36
+    rank 8
+  ]
+  edge
+  [
+    source 147
+    target 7
+    rank 16
+  ]
+  edge
+  [
+    source 147
+    target 358
+    rank 19
+  ]
+  edge
+  [
+    source 148
+    target 171
+    rank 3
+  ]
+  edge
+  [
+    source 148
+    target 295
+    rank 16
+  ]
+  edge
+  [
+    source 148
+    target 36
+    rank 17
+  ]
+  edge
+  [
+    source 150
+    target 14
+    rank 3
+  ]
+  edge
+  [
+    source 150
+    target 81
+    rank 6
+  ]
+  edge
+  [
+    source 150
+    target 71
+    rank 11
+  ]
+  edge
+  [
+    source 150
+    target 119
+    rank 12
+  ]
+  edge
+  [
+    source 151
+    target 171
+    rank 1
+  ]
+  edge
+  [
+    source 151
+    target 6
+    rank 2
+  ]
+  edge
+  [
+    source 151
+    target 10
+    rank 6
+  ]
+  edge
+  [
+    source 151
+    target 56
+    rank 9
+  ]
+  edge
+  [
+    source 151
+    target 99
+    rank 10
+  ]
+  edge
+  [
+    source 151
+    target 64
+    rank 12
+  ]
+  edge
+  [
+    source 151
+    target 15
+    rank 14
+  ]
+  edge
+  [
+    source 151
+    target 35
+    rank 17
+  ]
+  edge
+  [
+    source 151
+    target 18
+    rank 19
+  ]
+  edge
+  [
+    source 152
+    target 79
+    rank 6
+  ]
+  edge
+  [
+    source 152
+    target 68
+    rank 10
+  ]
+  edge
+  [
+    source 152
+    target 36
+    rank 15
+  ]
+  edge
+  [
+    source 152
+    target 130
+    rank 16
+  ]
+  edge
+  [
+    source 153
+    target 171
+    rank 1
+  ]
+  edge
+  [
+    source 153
+    target 6
+    rank 2
+  ]
+  edge
+  [
+    source 153
+    target 168
+    rank 3
+  ]
+  edge
+  [
+    source 153
+    target 10
+    rank 4
+  ]
+  edge
+  [
+    source 153
+    target 253
+    rank 5
+  ]
+  edge
+  [
+    source 153
+    target 71
+    rank 7
+  ]
+  edge
+  [
+    source 153
+    target 118
+    rank 15
+  ]
+  edge
+  [
+    source 153
+    target 4
+    rank 18
+  ]
+  edge
+  [
+    source 153
+    target 36
+    rank 19
+  ]
+  edge
+  [
+    source 154
+    target 169
+    rank 1
+  ]
+  edge
+  [
+    source 154
+    target 171
+    rank 2
+  ]
+  edge
+  [
+    source 154
     target 6
     rank 3
   ]
   edge
   [
-    source 535
-    target 1
+    source 154
+    target 291
+    rank 4
+  ]
+  edge
+  [
+    source 154
+    target 13
     rank 6
   ]
   edge
   [
-    source 535
-    target 192
+    source 154
+    target 18
     rank 7
   ]
   edge
   [
-    source 535
-    target 58
+    source 154
+    target 225
+    rank 10
+  ]
+  edge
+  [
+    source 154
+    target 27
+    rank 12
+  ]
+  edge
+  [
+    source 154
+    target 99
+    rank 13
+  ]
+  edge
+  [
+    source 154
+    target 11
     rank 14
   ]
   edge
   [
-    source 535
-    target 20
+    source 154
+    target 15
     rank 15
   ]
   edge
   [
-    source 536
-    target 234
-    rank 1
-  ]
-  edge
-  [
-    source 536
-    target 172
-    rank 2
-  ]
-  edge
-  [
-    source 536
-    target 258
-    rank 6
-  ]
-  edge
-  [
-    source 536
-    target 10
+    source 154
+    target 223
     rank 16
   ]
   edge
   [
-    source 536
+    source 154
+    target 54
+    rank 17
+  ]
+  edge
+  [
+    source 155
+    target 171
+    rank 1
+  ]
+  edge
+  [
+    source 155
+    target 10
+    rank 2
+  ]
+  edge
+  [
+    source 155
+    target 255
+    rank 3
+  ]
+  edge
+  [
+    source 155
+    target 14
+    rank 6
+  ]
+  edge
+  [
+    source 155
+    target 223
+    rank 7
+  ]
+  edge
+  [
+    source 155
+    target 6
+    rank 8
+  ]
+  edge
+  [
+    source 155
+    target 225
+    rank 10
+  ]
+  edge
+  [
+    source 155
+    target 50
+    rank 11
+  ]
+  edge
+  [
+    source 155
+    target 269
+    rank 12
+  ]
+  edge
+  [
+    source 155
+    target 137
+    rank 14
+  ]
+  edge
+  [
+    source 155
+    target 13
+    rank 17
+  ]
+  edge
+  [
+    source 155
+    target 141
+    rank 18
+  ]
+  edge
+  [
+    source 155
+    target 19
+    rank 20
+  ]
+  edge
+  [
+    source 156
+    target 171
+    rank 1
+  ]
+  edge
+  [
+    source 156
+    target 79
+    rank 2
+  ]
+  edge
+  [
+    source 156
+    target 6
+    rank 4
+  ]
+  edge
+  [
+    source 156
+    target 132
+    rank 6
+  ]
+  edge
+  [
+    source 156
+    target 220
+    rank 9
+  ]
+  edge
+  [
+    source 156
+    target 59
+    rank 16
+  ]
+  edge
+  [
+    source 156
+    target 95
+    rank 20
+  ]
+  edge
+  [
+    source 157
+    target 171
+    rank 1
+  ]
+  edge
+  [
+    source 157
+    target 253
+    rank 4
+  ]
+  edge
+  [
+    source 157
+    target 71
+    rank 6
+  ]
+  edge
+  [
+    source 157
+    target 6
+    rank 10
+  ]
+  edge
+  [
+    source 157
+    target 3
+    rank 15
+  ]
+  edge
+  [
+    source 157
+    target 118
+    rank 18
+  ]
+  edge
+  [
+    source 157
+    target 38
+    rank 19
+  ]
+  edge
+  [
+    source 157
+    target 23
+    rank 20
+  ]
+  edge
+  [
+    source 158
+    target 171
+    rank 1
+  ]
+  edge
+  [
+    source 158
+    target 168
+    rank 2
+  ]
+  edge
+  [
+    source 158
+    target 79
+    rank 3
+  ]
+  edge
+  [
+    source 158
+    target 10
+    rank 4
+  ]
+  edge
+  [
+    source 158
+    target 22
+    rank 5
+  ]
+  edge
+  [
+    source 158
+    target 6
+    rank 6
+  ]
+  edge
+  [
+    source 158
+    target 88
+    rank 7
+  ]
+  edge
+  [
+    source 158
+    target 150
+    rank 9
+  ]
+  edge
+  [
+    source 158
+    target 214
+    rank 11
+  ]
+  edge
+  [
+    source 158
+    target 23
+    rank 12
+  ]
+  edge
+  [
+    source 158
+    target 59
+    rank 13
+  ]
+  edge
+  [
+    source 158
+    target 2
+    rank 14
+  ]
+  edge
+  [
+    source 159
+    target 171
+    rank 1
+  ]
+  edge
+  [
+    source 159
+    target 10
+    rank 2
+  ]
+  edge
+  [
+    source 159
+    target 3
+    rank 6
+  ]
+  edge
+  [
+    source 159
+    target 36
+    rank 7
+  ]
+  edge
+  [
+    source 159
+    target 18
+    rank 8
+  ]
+  edge
+  [
+    source 159
+    target 182
+    rank 9
+  ]
+  edge
+  [
+    source 159
+    target 114
+    rank 10
+  ]
+  edge
+  [
+    source 159
+    target 9
+    rank 11
+  ]
+  edge
+  [
+    source 159
+    target 227
+    rank 13
+  ]
+  edge
+  [
+    source 159
+    target 23
+    rank 15
+  ]
+  edge
+  [
+    source 159
+    target 91
+    rank 16
+  ]
+  edge
+  [
+    source 159
+    target 130
+    rank 20
+  ]
+  edge
+  [
+    source 160
+    target 171
+    rank 2
+  ]
+  edge
+  [
+    source 160
+    target 169
+    rank 3
+  ]
+  edge
+  [
+    source 160
+    target 66
+    rank 4
+  ]
+  edge
+  [
+    source 160
+    target 71
+    rank 5
+  ]
+  edge
+  [
+    source 160
+    target 18
+    rank 6
+  ]
+  edge
+  [
+    source 160
+    target 6
+    rank 7
+  ]
+  edge
+  [
+    source 160
+    target 77
+    rank 8
+  ]
+  edge
+  [
+    source 160
+    target 10
+    rank 9
+  ]
+  edge
+  [
+    source 160
+    target 36
+    rank 10
+  ]
+  edge
+  [
+    source 160
+    target 14
+    rank 12
+  ]
+  edge
+  [
+    source 160
+    target 84
+    rank 15
+  ]
+  edge
+  [
+    source 160
+    target 222
+    rank 16
+  ]
+  edge
+  [
+    source 160
+    target 295
+    rank 19
+  ]
+  edge
+  [
+    source 161
+    target 171
+    rank 1
+  ]
+  edge
+  [
+    source 161
+    target 22
+    rank 2
+  ]
+  edge
+  [
+    source 161
+    target 168
+    rank 3
+  ]
+  edge
+  [
+    source 161
+    target 79
+    rank 4
+  ]
+  edge
+  [
+    source 161
+    target 6
+    rank 9
+  ]
+  edge
+  [
+    source 161
+    target 59
+    rank 11
+  ]
+  edge
+  [
+    source 161
+    target 36
+    rank 12
+  ]
+  edge
+  [
+    source 161
+    target 23
+    rank 15
+  ]
+  edge
+  [
+    source 161
+    target 132
+    rank 16
+  ]
+  edge
+  [
+    source 161
+    target 77
+    rank 18
+  ]
+  edge
+  [
+    source 162
+    target 119
+    rank 1
+  ]
+  edge
+  [
+    source 162
+    target 171
+    rank 2
+  ]
+  edge
+  [
+    source 162
+    target 168
+    rank 3
+  ]
+  edge
+  [
+    source 162
+    target 87
+    rank 4
+  ]
+  edge
+  [
+    source 162
+    target 10
+    rank 6
+  ]
+  edge
+  [
+    source 162
+    target 3
+    rank 8
+  ]
+  edge
+  [
+    source 162
+    target 71
+    rank 9
+  ]
+  edge
+  [
+    source 162
+    target 36
+    rank 13
+  ]
+  edge
+  [
+    source 162
+    target 14
+    rank 14
+  ]
+  edge
+  [
+    source 163
+    target 171
+    rank 2
+  ]
+  edge
+  [
+    source 163
+    target 71
+    rank 3
+  ]
+  edge
+  [
+    source 163
+    target 3
+    rank 5
+  ]
+  edge
+  [
+    source 163
+    target 253
+    rank 6
+  ]
+  edge
+  [
+    source 163
+    target 119
+    rank 7
+  ]
+  edge
+  [
+    source 163
+    target 66
+    rank 11
+  ]
+  edge
+  [
+    source 163
+    target 18
+    rank 15
+  ]
+  edge
+  [
+    source 163
+    target 14
+    rank 17
+  ]
+  edge
+  [
+    source 163
+    target 191
+    rank 19
+  ]
+  edge
+  [
+    source 164
+    target 171
+    rank 1
+  ]
+  edge
+  [
+    source 164
+    target 6
+    rank 2
+  ]
+  edge
+  [
+    source 164
+    target 119
+    rank 3
+  ]
+  edge
+  [
+    source 164
+    target 168
+    rank 4
+  ]
+  edge
+  [
+    source 164
+    target 291
+    rank 6
+  ]
+  edge
+  [
+    source 164
+    target 36
+    rank 10
+  ]
+  edge
+  [
+    source 164
+    target 71
+    rank 12
+  ]
+  edge
+  [
+    source 164
+    target 3
+    rank 15
+  ]
+  edge
+  [
+    source 164
+    target 66
+    rank 18
+  ]
+  edge
+  [
+    source 164
+    target 14
+    rank 20
+  ]
+  edge
+  [
+    source 165
+    target 21
+    rank 1
+  ]
+  edge
+  [
+    source 165
+    target 101
+    rank 2
+  ]
+  edge
+  [
+    source 166
+    target 171
+    rank 3
+  ]
+  edge
+  [
+    source 166
+    target 2
+    rank 10
+  ]
+  edge
+  [
+    source 166
+    target 6
+    rank 12
+  ]
+  edge
+  [
+    source 167
+    target 169
+    rank 1
+  ]
+  edge
+  [
+    source 167
+    target 6
+    rank 2
+  ]
+  edge
+  [
+    source 167
+    target 171
+    rank 3
+  ]
+  edge
+  [
+    source 167
+    target 79
+    rank 4
+  ]
+  edge
+  [
+    source 167
+    target 22
+    rank 5
+  ]
+  edge
+  [
+    source 167
+    target 132
+    rank 6
+  ]
+  edge
+  [
+    source 167
+    target 2
+    rank 8
+  ]
+  edge
+  [
+    source 167
+    target 59
+    rank 10
+  ]
+  edge
+  [
+    source 167
+    target 10
+    rank 12
+  ]
+  edge
+  [
+    source 167
+    target 152
+    rank 14
+  ]
+  edge
+  [
+    source 168
+    target 171
+    rank 3
+  ]
+  edge
+  [
+    source 168
+    target 71
+    rank 9
+  ]
+  edge
+  [
+    source 168
+    target 6
+    rank 10
+  ]
+  edge
+  [
+    source 168
+    target 288
+    rank 16
+  ]
+  edge
+  [
+    source 168
+    target 119
+    rank 17
+  ]
+  edge
+  [
+    source 169
+    target 10
+    rank 2
+  ]
+  edge
+  [
+    source 169
+    target 2
+    rank 3
+  ]
+  edge
+  [
+    source 169
+    target 14
+    rank 4
+  ]
+  edge
+  [
+    source 169
+    target 150
+    rank 5
+  ]
+  edge
+  [
+    source 169
+    target 171
+    rank 6
+  ]
+  edge
+  [
+    source 169
+    target 152
+    rank 7
+  ]
+  edge
+  [
+    source 169
+    target 253
+    rank 8
+  ]
+  edge
+  [
+    source 169
+    target 3
+    rank 9
+  ]
+  edge
+  [
+    source 169
+    target 18
+    rank 10
+  ]
+  edge
+  [
+    source 169
+    target 269
+    rank 13
+  ]
+  edge
+  [
+    source 169
+    target 77
+    rank 15
+  ]
+  edge
+  [
+    source 169
+    target 255
+    rank 16
+  ]
+  edge
+  [
+    source 169
+    target 190
+    rank 17
+  ]
+  edge
+  [
+    source 169
+    target 114
+    rank 18
+  ]
+  edge
+  [
+    source 169
+    target 73
+    rank 19
+  ]
+  edge
+  [
+    source 170
+    target 181
+    rank 1
+  ]
+  edge
+  [
+    source 170
+    target 171
+    rank 2
+  ]
+  edge
+  [
+    source 170
+    target 22
+    rank 3
+  ]
+  edge
+  [
+    source 170
+    target 2
+    rank 6
+  ]
+  edge
+  [
+    source 170
+    target 79
+    rank 8
+  ]
+  edge
+  [
+    source 170
+    target 59
+    rank 11
+  ]
+  edge
+  [
+    source 170
+    target 229
+    rank 18
+  ]
+  edge
+  [
+    source 171
+    target 22
+    rank 11
+  ]
+  edge
+  [
+    source 171
+    target 2
+    rank 16
+  ]
+  edge
+  [
+    source 171
+    target 168
+    rank 18
+  ]
+  edge
+  [
+    source 172
+    target 171
+    rank 1
+  ]
+  edge
+  [
+    source 172
+    target 2
+    rank 2
+  ]
+  edge
+  [
+    source 172
+    target 119
+    rank 3
+  ]
+  edge
+  [
+    source 172
+    target 24
+    rank 4
+  ]
+  edge
+  [
+    source 172
+    target 46
+    rank 7
+  ]
+  edge
+  [
+    source 172
+    target 253
+    rank 8
+  ]
+  edge
+  [
+    source 172
+    target 3
+    rank 9
+  ]
+  edge
+  [
+    source 172
+    target 10
+    rank 10
+  ]
+  edge
+  [
+    source 172
+    target 30
+    rank 11
+  ]
+  edge
+  [
+    source 172
+    target 14
+    rank 12
+  ]
+  edge
+  [
+    source 172
+    target 39
+    rank 14
+  ]
+  edge
+  [
+    source 172
+    target 150
+    rank 16
+  ]
+  edge
+  [
+    source 172
+    target 18
+    rank 17
+  ]
+  edge
+  [
+    source 173
+    target 171
+    rank 1
+  ]
+  edge
+  [
+    source 173
+    target 79
+    rank 2
+  ]
+  edge
+  [
+    source 173
+    target 10
+    rank 3
+  ]
+  edge
+  [
+    source 173
+    target 18
+    rank 4
+  ]
+  edge
+  [
+    source 173
+    target 59
+    rank 5
+  ]
+  edge
+  [
+    source 173
+    target 22
+    rank 6
+  ]
+  edge
+  [
+    source 173
+    target 132
+    rank 7
+  ]
+  edge
+  [
+    source 173
+    target 2
+    rank 10
+  ]
+  edge
+  [
+    source 173
+    target 152
+    rank 16
+  ]
+  edge
+  [
+    source 174
+    target 171
+    rank 1
+  ]
+  edge
+  [
+    source 174
+    target 191
+    rank 13
+  ]
+  edge
+  [
+    source 174
+    target 14
+    rank 14
+  ]
+  edge
+  [
+    source 174
+    target 71
+    rank 16
+  ]
+  edge
+  [
+    source 174
+    target 278
+    rank 17
+  ]
+  edge
+  [
+    source 174
+    target 6
+    rank 20
+  ]
+  edge
+  [
+    source 175
+    target 2
+    rank 1
+  ]
+  edge
+  [
+    source 175
+    target 168
+    rank 2
+  ]
+  edge
+  [
+    source 175
+    target 76
+    rank 4
+  ]
+  edge
+  [
+    source 175
+    target 6
+    rank 5
+  ]
+  edge
+  [
+    source 175
+    target 129
+    rank 9
+  ]
+  edge
+  [
+    source 175
+    target 83
+    rank 20
+  ]
+  edge
+  [
+    source 176
+    target 291
+    rank 6
+  ]
+  edge
+  [
+    source 176
+    target 67
+    rank 12
+  ]
+  edge
+  [
+    source 177
+    target 171
+    rank 1
+  ]
+  edge
+  [
+    source 177
+    target 119
+    rank 2
+  ]
+  edge
+  [
+    source 177
+    target 10
+    rank 5
+  ]
+  edge
+  [
+    source 177
+    target 6
+    rank 8
+  ]
+  edge
+  [
+    source 177
+    target 253
+    rank 9
+  ]
+  edge
+  [
+    source 177
+    target 23
+    rank 13
+  ]
+  edge
+  [
+    source 177
+    target 232
+    rank 15
+  ]
+  edge
+  [
+    source 177
+    target 70
+    rank 17
+  ]
+  edge
+  [
+    source 178
+    target 171
+    rank 2
+  ]
+  edge
+  [
+    source 178
+    target 119
+    rank 3
+  ]
+  edge
+  [
+    source 178
+    target 6
+    rank 4
+  ]
+  edge
+  [
+    source 178
+    target 253
+    rank 7
+  ]
+  edge
+  [
+    source 178
+    target 3
+    rank 8
+  ]
+  edge
+  [
+    source 178
+    target 269
+    rank 12
+  ]
+  edge
+  [
+    source 178
+    target 295
+    rank 16
+  ]
+  edge
+  [
+    source 179
+    target 152
+    rank 2
+  ]
+  edge
+  [
+    source 179
+    target 130
+    rank 7
+  ]
+  edge
+  [
+    source 180
+    target 119
+    rank 1
+  ]
+  edge
+  [
+    source 180
+    target 171
+    rank 2
+  ]
+  edge
+  [
+    source 180
+    target 253
+    rank 4
+  ]
+  edge
+  [
+    source 180
+    target 57
+    rank 7
+  ]
+  edge
+  [
+    source 180
+    target 71
+    rank 10
+  ]
+  edge
+  [
+    source 180
+    target 150
+    rank 12
+  ]
+  edge
+  [
+    source 180
+    target 3
+    rank 15
+  ]
+  edge
+  [
+    source 181
+    target 140
+    rank 1
+  ]
+  edge
+  [
+    source 181
+    target 14
+    rank 2
+  ]
+  edge
+  [
+    source 181
+    target 22
+    rank 3
+  ]
+  edge
+  [
+    source 181
+    target 59
+    rank 7
+  ]
+  edge
+  [
+    source 181
+    target 71
+    rank 9
+  ]
+  edge
+  [
+    source 181
+    target 119
+    rank 11
+  ]
+  edge
+  [
+    source 182
+    target 171
+    rank 2
+  ]
+  edge
+  [
+    source 182
+    target 253
+    rank 3
+  ]
+  edge
+  [
+    source 182
+    target 18
+    rank 4
+  ]
+  edge
+  [
+    source 182
+    target 6
+    rank 6
+  ]
+  edge
+  [
+    source 182
+    target 3
+    rank 10
+  ]
+  edge
+  [
+    source 182
+    target 118
+    rank 11
+  ]
+  edge
+  [
+    source 182
+    target 9
+    rank 14
+  ]
+  edge
+  [
+    source 182
+    target 137
+    rank 15
+  ]
+  edge
+  [
+    source 182
+    target 56
+    rank 16
+  ]
+  edge
+  [
+    source 182
+    target 232
+    rank 17
+  ]
+  edge
+  [
+    source 183
+    target 171
+    rank 1
+  ]
+  edge
+  [
+    source 183
+    target 50
+    rank 8
+  ]
+  edge
+  [
+    source 183
+    target 36
+    rank 11
+  ]
+  edge
+  [
+    source 183
+    target 18
+    rank 18
+  ]
+  edge
+  [
+    source 184
+    target 171
+    rank 2
+  ]
+  edge
+  [
+    source 184
+    target 2
+    rank 3
+  ]
+  edge
+  [
+    source 184
+    target 79
+    rank 5
+  ]
+  edge
+  [
+    source 184
+    target 6
+    rank 10
+  ]
+  edge
+  [
+    source 184
+    target 10
+    rank 12
+  ]
+  edge
+  [
+    source 184
+    target 59
+    rank 14
+  ]
+  edge
+  [
+    source 184
+    target 152
+    rank 15
+  ]
+  edge
+  [
+    source 184
+    target 132
+    rank 16
+  ]
+  edge
+  [
+    source 185
+    target 253
+    rank 1
+  ]
+  edge
+  [
+    source 185
+    target 3
+    rank 6
+  ]
+  edge
+  [
+    source 185
+    target 50
+    rank 12
+  ]
+  edge
+  [
+    source 185
+    target 182
+    rank 14
+  ]
+  edge
+  [
+    source 185
+    target 69
+    rank 18
+  ]
+  edge
+  [
+    source 185
+    target 295
+    rank 20
+  ]
+  edge
+  [
+    source 186
+    target 36
+    rank 5
+  ]
+  edge
+  [
+    source 186
+    target 69
+    rank 13
+  ]
+  edge
+  [
+    source 187
+    target 171
+    rank 2
+  ]
+  edge
+  [
+    source 187
+    target 79
+    rank 3
+  ]
+  edge
+  [
+    source 187
+    target 146
+    rank 4
+  ]
+  edge
+  [
+    source 187
+    target 2
+    rank 5
+  ]
+  edge
+  [
+    source 187
+    target 59
+    rank 8
+  ]
+  edge
+  [
+    source 187
+    target 23
+    rank 11
+  ]
+  edge
+  [
+    source 187
+    target 36
+    rank 12
+  ]
+  edge
+  [
+    source 187
+    target 81
+    rank 14
+  ]
+  edge
+  [
+    source 187
+    target 94
+    rank 18
+  ]
+  edge
+  [
+    source 188
+    target 71
+    rank 2
+  ]
+  edge
+  [
+    source 188
+    target 119
+    rank 6
+  ]
+  edge
+  [
+    source 188
+    target 14
+    rank 11
+  ]
+  edge
+  [
+    source 188
+    target 81
+    rank 15
+  ]
+  edge
+  [
+    source 189
+    target 22
+    rank 2
+  ]
+  edge
+  [
+    source 189
+    target 79
+    rank 4
+  ]
+  edge
+  [
+    source 189
+    target 140
+    rank 6
+  ]
+  edge
+  [
+    source 189
+    target 171
+    rank 8
+  ]
+  edge
+  [
+    source 189
+    target 6
+    rank 12
+  ]
+  edge
+  [
+    source 190
+    target 10
+    rank 1
+  ]
+  edge
+  [
+    source 190
+    target 57
+    rank 4
+  ]
+  edge
+  [
+    source 190
+    target 171
+    rank 5
+  ]
+  edge
+  [
+    source 190
+    target 6
+    rank 8
+  ]
+  edge
+  [
+    source 191
+    target 171
+    rank 3
+  ]
+  edge
+  [
+    source 191
+    target 14
+    rank 4
+  ]
+  edge
+  [
+    source 191
+    target 66
+    rank 5
+  ]
+  edge
+  [
+    source 191
+    target 278
+    rank 6
+  ]
+  edge
+  [
+    source 191
+    target 81
+    rank 7
+  ]
+  edge
+  [
+    source 191
+    target 71
+    rank 8
+  ]
+  edge
+  [
+    source 192
+    target 171
+    rank 1
+  ]
+  edge
+  [
+    source 192
+    target 169
+    rank 2
+  ]
+  edge
+  [
+    source 192
+    target 14
+    rank 3
+  ]
+  edge
+  [
+    source 192
+    target 291
+    rank 4
+  ]
+  edge
+  [
+    source 192
+    target 24
+    rank 6
+  ]
+  edge
+  [
+    source 192
+    target 119
+    rank 9
+  ]
+  edge
+  [
+    source 192
+    target 71
+    rank 11
+  ]
+  edge
+  [
+    source 192
+    target 10
+    rank 12
+  ]
+  edge
+  [
+    source 192
+    target 81
+    rank 13
+  ]
+  edge
+  [
+    source 192
+    target 214
+    rank 15
+  ]
+  edge
+  [
+    source 192
+    target 3
+    rank 16
+  ]
+  edge
+  [
+    source 192
+    target 66
+    rank 20
+  ]
+  edge
+  [
+    source 193
+    target 171
+    rank 1
+  ]
+  edge
+  [
+    source 193
+    target 119
+    rank 2
+  ]
+  edge
+  [
+    source 193
+    target 6
+    rank 3
+  ]
+  edge
+  [
+    source 193
+    target 214
+    rank 9
+  ]
+  edge
+  [
+    source 193
+    target 255
+    rank 11
+  ]
+  edge
+  [
+    source 193
+    target 140
+    rank 12
+  ]
+  edge
+  [
+    source 193
+    target 150
+    rank 13
+  ]
+  edge
+  [
+    source 193
+    target 190
+    rank 17
+  ]
+  edge
+  [
+    source 194
+    target 10
+    rank 1
+  ]
+  edge
+  [
+    source 194
+    target 24
+    rank 2
+  ]
+  edge
+  [
+    source 194
+    target 171
+    rank 6
+  ]
+  edge
+  [
+    source 194
+    target 71
+    rank 7
+  ]
+  edge
+  [
+    source 194
+    target 253
+    rank 8
+  ]
+  edge
+  [
+    source 194
+    target 6
+    rank 9
+  ]
+  edge
+  [
+    source 194
+    target 133
+    rank 11
+  ]
+  edge
+  [
+    source 194
+    target 18
+    rank 12
+  ]
+  edge
+  [
+    source 194
+    target 3
+    rank 15
+  ]
+  edge
+  [
+    source 194
+    target 14
+    rank 16
+  ]
+  edge
+  [
+    source 195
+    target 69
+    rank 3
+  ]
+  edge
+  [
+    source 195
+    target 142
+    rank 6
+  ]
+  edge
+  [
+    source 195
+    target 283
+    rank 7
+  ]
+  edge
+  [
+    source 195
+    target 36
+    rank 8
+  ]
+  edge
+  [
+    source 195
+    target 47
+    rank 12
+  ]
+  edge
+  [
+    source 196
+    target 6
+    rank 2
+  ]
+  edge
+  [
+    source 196
+    target 143
+    rank 3
+  ]
+  edge
+  [
+    source 196
+    target 46
+    rank 4
+  ]
+  edge
+  [
+    source 196
+    target 24
+    rank 7
+  ]
+  edge
+  [
+    source 196
+    target 71
+    rank 14
+  ]
+  edge
+  [
+    source 196
+    target 168
+    rank 17
+  ]
+  edge
+  [
+    source 196
+    target 81
+    rank 19
+  ]
+  edge
+  [
+    source 196
+    target 223
+    rank 20
+  ]
+  edge
+  [
+    source 197
+    target 22
+    rank 2
+  ]
+  edge
+  [
+    source 197
+    target 88
+    rank 12
+  ]
+  edge
+  [
+    source 198
+    target 2
+    rank 1
+  ]
+  edge
+  [
+    source 198
+    target 171
+    rank 2
+  ]
+  edge
+  [
+    source 198
+    target 6
+    rank 4
+  ]
+  edge
+  [
+    source 198
+    target 152
+    rank 5
+  ]
+  edge
+  [
+    source 198
+    target 79
+    rank 8
+  ]
+  edge
+  [
+    source 198
+    target 10
+    rank 9
+  ]
+  edge
+  [
+    source 198
+    target 104
+    rank 10
+  ]
+  edge
+  [
+    source 198
+    target 150
+    rank 11
+  ]
+  edge
+  [
+    source 198
+    target 132
+    rank 15
+  ]
+  edge
+  [
+    source 198
+    target 190
+    rank 19
+  ]
+  edge
+  [
+    source 199
+    target 171
+    rank 1
+  ]
+  edge
+  [
+    source 199
+    target 119
+    rank 3
+  ]
+  edge
+  [
+    source 199
+    target 10
+    rank 4
+  ]
+  edge
+  [
+    source 199
+    target 57
+    rank 12
+  ]
+  edge
+  [
+    source 199
+    target 14
+    rank 18
+  ]
+  edge
+  [
+    source 199
+    target 216
+    rank 20
+  ]
+  edge
+  [
+    source 200
+    target 2
+    rank 1
+  ]
+  edge
+  [
+    source 200
+    target 171
+    rank 2
+  ]
+  edge
+  [
+    source 200
+    target 10
+    rank 6
+  ]
+  edge
+  [
+    source 200
+    target 169
+    rank 8
+  ]
+  edge
+  [
+    source 200
+    target 6
+    rank 9
+  ]
+  edge
+  [
+    source 200
+    target 3
+    rank 16
+  ]
+  edge
+  [
+    source 201
+    target 39
+    rank 9
+  ]
+  edge
+  [
+    source 201
+    target 168
+    rank 13
+  ]
+  edge
+  [
+    source 202
+    target 10
+    rank 1
+  ]
+  edge
+  [
+    source 202
+    target 2
+    rank 2
+  ]
+  edge
+  [
+    source 202
+    target 22
+    rank 3
+  ]
+  edge
+  [
+    source 202
+    target 79
+    rank 5
+  ]
+  edge
+  [
+    source 202
+    target 6
+    rank 9
+  ]
+  edge
+  [
+    source 202
+    target 59
+    rank 10
+  ]
+  edge
+  [
+    source 202
+    target 152
+    rank 11
+  ]
+  edge
+  [
+    source 202
+    target 190
+    rank 12
+  ]
+  edge
+  [
+    source 202
+    target 171
+    rank 13
+  ]
+  edge
+  [
+    source 202
+    target 132
+    rank 16
+  ]
+  edge
+  [
+    source 202
+    target 77
+    rank 17
+  ]
+  edge
+  [
+    source 202
+    target 104
+    rank 20
+  ]
+  edge
+  [
+    source 203
+    target 171
+    rank 2
+  ]
+  edge
+  [
+    source 203
+    target 22
+    rank 5
+  ]
+  edge
+  [
+    source 203
+    target 140
+    rank 6
+  ]
+  edge
+  [
+    source 203
+    target 181
+    rank 18
+  ]
+  edge
+  [
+    source 203
+    target 150
+    rank 19
+  ]
+  edge
+  [
+    source 204
+    target 171
+    rank 1
+  ]
+  edge
+  [
+    source 204
+    target 253
+    rank 4
+  ]
+  edge
+  [
+    source 204
+    target 27
+    rank 5
+  ]
+  edge
+  [
+    source 204
+    target 18
+    rank 11
+  ]
+  edge
+  [
+    source 204
+    target 269
+    rank 12
+  ]
+  edge
+  [
+    source 204
+    target 3
+    rank 14
+  ]
+  edge
+  [
+    source 204
+    target 36
+    rank 15
+  ]
+  edge
+  [
+    source 204
     target 23
     rank 18
   ]
   edge
   [
-    source 536
-    target 51
+    source 204
+    target 99
+    rank 20
+  ]
+  edge
+  [
+    source 205
+    target 171
+    rank 1
+  ]
+  edge
+  [
+    source 205
+    target 10
+    rank 2
+  ]
+  edge
+  [
+    source 205
+    target 22
+    rank 4
+  ]
+  edge
+  [
+    source 205
+    target 79
+    rank 5
+  ]
+  edge
+  [
+    source 205
+    target 3
+    rank 6
+  ]
+  edge
+  [
+    source 205
+    target 229
+    rank 9
+  ]
+  edge
+  [
+    source 205
+    target 2
+    rank 12
+  ]
+  edge
+  [
+    source 205
+    target 152
+    rank 13
+  ]
+  edge
+  [
+    source 205
+    target 132
+    rank 14
+  ]
+  edge
+  [
+    source 206
+    target 171
+    rank 1
+  ]
+  edge
+  [
+    source 206
+    target 6
+    rank 4
+  ]
+  edge
+  [
+    source 206
+    target 232
+    rank 9
+  ]
+  edge
+  [
+    source 206
+    target 118
+    rank 10
+  ]
+  edge
+  [
+    source 206
+    target 11
+    rank 12
+  ]
+  edge
+  [
+    source 206
+    target 182
+    rank 13
+  ]
+  edge
+  [
+    source 206
+    target 283
+    rank 15
+  ]
+  edge
+  [
+    source 206
+    target 269
+    rank 20
+  ]
+  edge
+  [
+    source 207
+    target 171
+    rank 1
+  ]
+  edge
+  [
+    source 207
+    target 119
+    rank 2
+  ]
+  edge
+  [
+    source 207
+    target 22
+    rank 3
+  ]
+  edge
+  [
+    source 207
+    target 2
+    rank 4
+  ]
+  edge
+  [
+    source 207
+    target 24
+    rank 5
+  ]
+  edge
+  [
+    source 207
+    target 39
+    rank 6
+  ]
+  edge
+  [
+    source 207
+    target 18
+    rank 8
+  ]
+  edge
+  [
+    source 207
+    target 14
+    rank 9
+  ]
+  edge
+  [
+    source 207
+    target 36
+    rank 10
+  ]
+  edge
+  [
+    source 207
+    target 3
+    rank 11
+  ]
+  edge
+  [
+    source 207
+    target 228
+    rank 12
+  ]
+  edge
+  [
+    source 207
+    target 10
+    rank 13
+  ]
+  edge
+  [
+    source 207
+    target 150
+    rank 15
+  ]
+  edge
+  [
+    source 207
+    target 19
+    rank 18
+  ]
+  edge
+  [
+    source 208
+    target 171
+    rank 1
+  ]
+  edge
+  [
+    source 208
+    target 10
+    rank 2
+  ]
+  edge
+  [
+    source 208
+    target 18
+    rank 3
+  ]
+  edge
+  [
+    source 208
+    target 27
+    rank 5
+  ]
+  edge
+  [
+    source 208
+    target 223
+    rank 6
+  ]
+  edge
+  [
+    source 208
+    target 91
+    rank 7
+  ]
+  edge
+  [
+    source 208
+    target 23
+    rank 8
+  ]
+  edge
+  [
+    source 208
+    target 107
+    rank 11
+  ]
+  edge
+  [
+    source 208
+    target 182
+    rank 12
+  ]
+  edge
+  [
+    source 208
+    target 271
+    rank 13
+  ]
+  edge
+  [
+    source 208
+    target 118
+    rank 14
+  ]
+  edge
+  [
+    source 208
+    target 12
+    rank 16
+  ]
+  edge
+  [
+    source 208
+    target 38
+    rank 17
+  ]
+  edge
+  [
+    source 208
+    target 137
+    rank 20
+  ]
+  edge
+  [
+    source 209
+    target 79
+    rank 3
+  ]
+  edge
+  [
+    source 210
+    target 47
+    rank 12
+  ]
+  edge
+  [
+    source 210
+    target 36
+    rank 17
+  ]
+  edge
+  [
+    source 211
+    target 171
+    rank 1
+  ]
+  edge
+  [
+    source 211
+    target 91
+    rank 13
+  ]
+  edge
+  [
+    source 212
+    target 24
+    rank 1
+  ]
+  edge
+  [
+    source 212
+    target 253
+    rank 3
+  ]
+  edge
+  [
+    source 212
+    target 3
+    rank 7
+  ]
+  edge
+  [
+    source 212
+    target 30
+    rank 9
+  ]
+  edge
+  [
+    source 212
+    target 70
+    rank 17
+  ]
+  edge
+  [
+    source 212
+    target 118
     rank 19
+  ]
+  edge
+  [
+    source 213
+    target 140
+    rank 2
+  ]
+  edge
+  [
+    source 213
+    target 171
+    rank 3
+  ]
+  edge
+  [
+    source 213
+    target 288
+    rank 4
+  ]
+  edge
+  [
+    source 213
+    target 88
+    rank 7
+  ]
+  edge
+  [
+    source 213
+    target 79
+    rank 10
+  ]
+  edge
+  [
+    source 213
+    target 50
+    rank 20
+  ]
+  edge
+  [
+    source 214
+    target 6
+    rank 3
+  ]
+  edge
+  [
+    source 214
+    target 171
+    rank 4
+  ]
+  edge
+  [
+    source 214
+    target 190
+    rank 5
+  ]
+  edge
+  [
+    source 214
+    target 57
+    rank 8
+  ]
+  edge
+  [
+    source 214
+    target 10
+    rank 10
+  ]
+  edge
+  [
+    source 214
+    target 71
+    rank 12
+  ]
+  edge
+  [
+    source 214
+    target 143
+    rank 13
+  ]
+  edge
+  [
+    source 216
+    target 168
+    rank 1
+  ]
+  edge
+  [
+    source 216
+    target 46
+    rank 2
+  ]
+  edge
+  [
+    source 216
+    target 171
+    rank 3
+  ]
+  edge
+  [
+    source 216
+    target 119
+    rank 11
+  ]
+  edge
+  [
+    source 216
+    target 3
+    rank 17
+  ]
+  edge
+  [
+    source 216
+    target 253
+    rank 19
+  ]
+  edge
+  [
+    source 217
+    target 171
+    rank 2
+  ]
+  edge
+  [
+    source 217
+    target 21
+    rank 10
+  ]
+  edge
+  [
+    source 217
+    target 23
+    rank 13
+  ]
+  edge
+  [
+    source 217
+    target 36
+    rank 17
+  ]
+  edge
+  [
+    source 218
+    target 36
+    rank 13
+  ]
+  edge
+  [
+    source 218
+    target 227
+    rank 20
+  ]
+  edge
+  [
+    source 219
+    target 3
+    rank 1
+  ]
+  edge
+  [
+    source 219
+    target 171
+    rank 3
+  ]
+  edge
+  [
+    source 219
+    target 278
+    rank 4
+  ]
+  edge
+  [
+    source 219
+    target 10
+    rank 5
+  ]
+  edge
+  [
+    source 219
+    target 24
+    rank 6
+  ]
+  edge
+  [
+    source 219
+    target 71
+    rank 12
+  ]
+  edge
+  [
+    source 219
+    target 14
+    rank 13
+  ]
+  edge
+  [
+    source 219
+    target 81
+    rank 14
+  ]
+  edge
+  [
+    source 219
+    target 66
+    rank 19
+  ]
+  edge
+  [
+    source 219
+    target 36
+    rank 20
+  ]
+  edge
+  [
+    source 220
+    target 36
+    rank 4
+  ]
+  edge
+  [
+    source 220
+    target 79
+    rank 8
+  ]
+  edge
+  [
+    source 221
+    target 171
+    rank 2
+  ]
+  edge
+  [
+    source 221
+    target 253
+    rank 3
+  ]
+  edge
+  [
+    source 221
+    target 168
+    rank 4
+  ]
+  edge
+  [
+    source 221
+    target 6
+    rank 6
+  ]
+  edge
+  [
+    source 221
+    target 70
+    rank 7
+  ]
+  edge
+  [
+    source 221
+    target 71
+    rank 9
+  ]
+  edge
+  [
+    source 221
+    target 228
+    rank 11
+  ]
+  edge
+  [
+    source 221
+    target 3
+    rank 14
+  ]
+  edge
+  [
+    source 221
+    target 77
+    rank 16
+  ]
+  edge
+  [
+    source 221
+    target 18
+    rank 19
+  ]
+  edge
+  [
+    source 221
+    target 30
+    rank 20
+  ]
+  edge
+  [
+    source 222
+    target 10
+    rank 2
+  ]
+  edge
+  [
+    source 222
+    target 14
+    rank 9
+  ]
+  edge
+  [
+    source 222
+    target 81
+    rank 12
+  ]
+  edge
+  [
+    source 222
+    target 6
+    rank 13
+  ]
+  edge
+  [
+    source 222
+    target 70
+    rank 18
+  ]
+  edge
+  [
+    source 223
+    target 171
+    rank 1
+  ]
+  edge
+  [
+    source 223
+    target 119
+    rank 3
+  ]
+  edge
+  [
+    source 223
+    target 168
+    rank 5
+  ]
+  edge
+  [
+    source 223
+    target 6
+    rank 7
+  ]
+  edge
+  [
+    source 223
+    target 71
+    rank 11
+  ]
+  edge
+  [
+    source 223
+    target 27
+    rank 13
+  ]
+  edge
+  [
+    source 223
+    target 3
+    rank 16
+  ]
+  edge
+  [
+    source 223
+    target 253
+    rank 18
+  ]
+  edge
+  [
+    source 223
+    target 50
+    rank 19
+  ]
+  edge
+  [
+    source 223
+    target 14
+    rank 20
+  ]
+  edge
+  [
+    source 224
+    target 230
+    rank 10
+  ]
+  edge
+  [
+    source 224
+    target 36
+    rank 20
+  ]
+  edge
+  [
+    source 225
+    target 171
+    rank 2
+  ]
+  edge
+  [
+    source 225
+    target 6
+    rank 4
+  ]
+  edge
+  [
+    source 225
+    target 3
+    rank 8
+  ]
+  edge
+  [
+    source 225
+    target 18
+    rank 19
+  ]
+  edge
+  [
+    source 226
+    target 283
+    rank 17
+  ]
+  edge
+  [
+    source 227
+    target 283
+    rank 19
+  ]
+  edge
+  [
+    source 228
+    target 171
+    rank 1
+  ]
+  edge
+  [
+    source 228
+    target 24
+    rank 2
+  ]
+  edge
+  [
+    source 228
+    target 22
+    rank 3
+  ]
+  edge
+  [
+    source 228
+    target 2
+    rank 4
+  ]
+  edge
+  [
+    source 228
+    target 119
+    rank 5
+  ]
+  edge
+  [
+    source 228
+    target 46
+    rank 6
+  ]
+  edge
+  [
+    source 228
+    target 30
+    rank 7
+  ]
+  edge
+  [
+    source 228
+    target 71
+    rank 8
+  ]
+  edge
+  [
+    source 228
+    target 6
+    rank 9
+  ]
+  edge
+  [
+    source 228
+    target 152
+    rank 10
+  ]
+  edge
+  [
+    source 228
+    target 81
+    rank 14
+  ]
+  edge
+  [
+    source 228
+    target 214
+    rank 15
+  ]
+  edge
+  [
+    source 228
+    target 10
+    rank 17
+  ]
+  edge
+  [
+    source 228
+    target 57
+    rank 18
+  ]
+  edge
+  [
+    source 228
+    target 14
+    rank 19
+  ]
+  edge
+  [
+    source 229
+    target 168
+    rank 5
+  ]
+  edge
+  [
+    source 229
+    target 171
+    rank 7
+  ]
+  edge
+  [
+    source 229
+    target 6
+    rank 8
+  ]
+  edge
+  [
+    source 229
+    target 36
+    rank 9
+  ]
+  edge
+  [
+    source 229
+    target 23
+    rank 11
+  ]
+  edge
+  [
+    source 229
+    target 71
+    rank 15
+  ]
+  edge
+  [
+    source 229
+    target 119
+    rank 18
+  ]
+  edge
+  [
+    source 229
+    target 50
+    rank 19
+  ]
+  edge
+  [
+    source 230
+    target 68
+    rank 20
+  ]
+  edge
+  [
+    source 231
+    target 3
+    rank 4
+  ]
+  edge
+  [
+    source 231
+    target 10
+    rank 5
+  ]
+  edge
+  [
+    source 231
+    target 79
+    rank 9
+  ]
+  edge
+  [
+    source 231
+    target 152
+    rank 20
+  ]
+  edge
+  [
+    source 232
+    target 253
+    rank 2
+  ]
+  edge
+  [
+    source 232
+    target 70
+    rank 4
+  ]
+  edge
+  [
+    source 232
+    target 6
+    rank 9
+  ]
+  edge
+  [
+    source 232
+    target 3
+    rank 10
+  ]
+  edge
+  [
+    source 232
+    target 15
+    rank 15
+  ]
+  edge
+  [
+    source 232
+    target 137
+    rank 18
+  ]
+  edge
+  [
+    source 232
+    target 11
+    rank 20
+  ]
+  edge
+  [
+    source 233
+    target 134
+    rank 7
+  ]
+  edge
+  [
+    source 233
+    target 69
+    rank 11
+  ]
+  edge
+  [
+    source 233
+    target 36
+    rank 16
+  ]
+  edge
+  [
+    source 235
+    target 119
+    rank 3
+  ]
+  edge
+  [
+    source 235
+    target 253
+    rank 4
+  ]
+  edge
+  [
+    source 235
+    target 171
+    rank 5
+  ]
+  edge
+  [
+    source 235
+    target 3
+    rank 11
+  ]
+  edge
+  [
+    source 235
+    target 223
+    rank 14
+  ]
+  edge
+  [
+    source 235
+    target 18
+    rank 15
+  ]
+  edge
+  [
+    source 235
+    target 232
+    rank 16
+  ]
+  edge
+  [
+    source 235
+    target 36
+    rank 20
+  ]
+  edge
+  [
+    source 236
+    target 169
+    rank 1
+  ]
+  edge
+  [
+    source 236
+    target 171
+    rank 2
+  ]
+  edge
+  [
+    source 236
+    target 119
+    rank 4
+  ]
+  edge
+  [
+    source 236
+    target 6
+    rank 6
+  ]
+  edge
+  [
+    source 236
+    target 10
+    rank 7
+  ]
+  edge
+  [
+    source 236
+    target 14
+    rank 17
+  ]
+  edge
+  [
+    source 236
+    target 18
+    rank 18
+  ]
+  edge
+  [
+    source 237
+    target 171
+    rank 1
+  ]
+  edge
+  [
+    source 237
+    target 119
+    rank 2
+  ]
+  edge
+  [
+    source 237
+    target 24
+    rank 4
+  ]
+  edge
+  [
+    source 237
+    target 71
+    rank 9
+  ]
+  edge
+  [
+    source 237
+    target 133
+    rank 11
+  ]
+  edge
+  [
+    source 237
+    target 10
+    rank 12
+  ]
+  edge
+  [
+    source 237
+    target 18
+    rank 13
+  ]
+  edge
+  [
+    source 237
+    target 81
+    rank 17
+  ]
+  edge
+  [
+    source 237
+    target 36
+    rank 18
+  ]
+  edge
+  [
+    source 237
+    target 66
+    rank 19
+  ]
+  edge
+  [
+    source 238
+    target 171
+    rank 2
+  ]
+  edge
+  [
+    source 238
+    target 140
+    rank 4
+  ]
+  edge
+  [
+    source 238
+    target 10
+    rank 5
+  ]
+  edge
+  [
+    source 238
+    target 6
+    rank 10
+  ]
+  edge
+  [
+    source 239
+    target 152
+    rank 3
+  ]
+  edge
+  [
+    source 239
+    target 79
+    rank 5
+  ]
+  edge
+  [
+    source 239
+    target 36
+    rank 18
+  ]
+  edge
+  [
+    source 239
+    target 283
+    rank 19
+  ]
+  edge
+  [
+    source 240
+    target 57
+    rank 4
+  ]
+  edge
+  [
+    source 240
+    target 8
+    rank 8
+  ]
+  edge
+  [
+    source 240
+    target 241
+    rank 9
+  ]
+  edge
+  [
+    source 241
+    target 119
+    rank 1
+  ]
+  edge
+  [
+    source 241
+    target 168
+    rank 2
+  ]
+  edge
+  [
+    source 241
+    target 81
+    rank 3
+  ]
+  edge
+  [
+    source 241
+    target 66
+    rank 5
+  ]
+  edge
+  [
+    source 241
+    target 6
+    rank 7
+  ]
+  edge
+  [
+    source 241
+    target 3
+    rank 9
+  ]
+  edge
+  [
+    source 241
+    target 278
+    rank 13
+  ]
+  edge
+  [
+    source 241
+    target 14
+    rank 15
+  ]
+  edge
+  [
+    source 241
+    target 150
+    rank 17
+  ]
+  edge
+  [
+    source 242
+    target 169
+    rank 1
+  ]
+  edge
+  [
+    source 242
+    target 171
+    rank 2
+  ]
+  edge
+  [
+    source 242
+    target 3
+    rank 3
+  ]
+  edge
+  [
+    source 242
+    target 18
+    rank 4
+  ]
+  edge
+  [
+    source 242
+    target 253
+    rank 5
+  ]
+  edge
+  [
+    source 242
+    target 36
+    rank 6
+  ]
+  edge
+  [
+    source 242
+    target 10
+    rank 14
+  ]
+  edge
+  [
+    source 242
+    target 50
+    rank 15
+  ]
+  edge
+  [
+    source 242
+    target 6
+    rank 16
+  ]
+  edge
+  [
+    source 242
+    target 269
+    rank 20
+  ]
+  edge
+  [
+    source 243
+    target 171
+    rank 1
+  ]
+  edge
+  [
+    source 243
+    target 3
+    rank 2
+  ]
+  edge
+  [
+    source 243
+    target 71
+    rank 3
+  ]
+  edge
+  [
+    source 243
+    target 6
+    rank 4
+  ]
+  edge
+  [
+    source 243
+    target 223
+    rank 5
+  ]
+  edge
+  [
+    source 243
+    target 150
+    rank 8
+  ]
+  edge
+  [
+    source 243
+    target 77
+    rank 9
+  ]
+  edge
+  [
+    source 243
+    target 18
+    rank 13
+  ]
+  edge
+  [
+    source 243
+    target 58
+    rank 14
+  ]
+  edge
+  [
+    source 243
+    target 66
+    rank 15
+  ]
+  edge
+  [
+    source 243
+    target 23
+    rank 18
+  ]
+  edge
+  [
+    source 243
+    target 36
+    rank 19
+  ]
+  edge
+  [
+    source 243
+    target 31
+    rank 20
+  ]
+  edge
+  [
+    source 244
+    target 171
+    rank 1
+  ]
+  edge
+  [
+    source 244
+    target 6
+    rank 2
+  ]
+  edge
+  [
+    source 244
+    target 76
+    rank 5
+  ]
+  edge
+  [
+    source 244
+    target 57
+    rank 7
+  ]
+  edge
+  [
+    source 244
+    target 18
+    rank 13
+  ]
+  edge
+  [
+    source 244
+    target 14
+    rank 14
+  ]
+  edge
+  [
+    source 244
+    target 59
+    rank 17
+  ]
+  edge
+  [
+    source 244
+    target 4
+    rank 18
+  ]
+  edge
+  [
+    source 244
+    target 36
+    rank 19
+  ]
+  edge
+  [
+    source 244
+    target 11
+    rank 20
+  ]
+  edge
+  [
+    source 246
+    target 171
+    rank 1
+  ]
+  edge
+  [
+    source 246
+    target 10
+    rank 2
+  ]
+  edge
+  [
+    source 246
+    target 36
+    rank 3
+  ]
+  edge
+  [
+    source 246
+    target 253
+    rank 5
+  ]
+  edge
+  [
+    source 246
+    target 269
+    rank 6
+  ]
+  edge
+  [
+    source 246
+    target 3
+    rank 9
+  ]
+  edge
+  [
+    source 246
+    target 18
+    rank 10
+  ]
+  edge
+  [
+    source 246
+    target 23
+    rank 11
+  ]
+  edge
+  [
+    source 246
+    target 91
+    rank 14
+  ]
+  edge
+  [
+    source 246
+    target 182
+    rank 18
+  ]
+  edge
+  [
+    source 247
+    target 171
+    rank 1
+  ]
+  edge
+  [
+    source 247
+    target 46
+    rank 2
+  ]
+  edge
+  [
+    source 247
+    target 253
+    rank 3
+  ]
+  edge
+  [
+    source 247
+    target 10
+    rank 5
+  ]
+  edge
+  [
+    source 247
+    target 182
+    rank 9
+  ]
+  edge
+  [
+    source 247
+    target 18
+    rank 12
+  ]
+  edge
+  [
+    source 247
+    target 269
+    rank 13
+  ]
+  edge
+  [
+    source 247
+    target 3
+    rank 14
+  ]
+  edge
+  [
+    source 247
+    target 232
+    rank 15
+  ]
+  edge
+  [
+    source 247
+    target 27
+    rank 16
+  ]
+  edge
+  [
+    source 247
+    target 94
+    rank 17
+  ]
+  edge
+  [
+    source 247
+    target 4
+    rank 19
+  ]
+  edge
+  [
+    source 247
+    target 11
+    rank 20
+  ]
+  edge
+  [
+    source 248
+    target 169
+    rank 1
+  ]
+  edge
+  [
+    source 248
+    target 171
+    rank 2
+  ]
+  edge
+  [
+    source 248
+    target 36
+    rank 6
+  ]
+  edge
+  [
+    source 248
+    target 152
+    rank 7
+  ]
+  edge
+  [
+    source 248
+    target 2
+    rank 9
+  ]
+  edge
+  [
+    source 248
+    target 15
+    rank 10
+  ]
+  edge
+  [
+    source 248
+    target 269
+    rank 11
+  ]
+  edge
+  [
+    source 248
+    target 295
+    rank 12
+  ]
+  edge
+  [
+    source 248
+    target 3
+    rank 13
+  ]
+  edge
+  [
+    source 248
+    target 137
+    rank 16
+  ]
+  edge
+  [
+    source 248
+    target 19
+    rank 18
+  ]
+  edge
+  [
+    source 249
+    target 2
+    rank 1
+  ]
+  edge
+  [
+    source 249
+    target 171
+    rank 2
+  ]
+  edge
+  [
+    source 249
+    target 6
+    rank 3
+  ]
+  edge
+  [
+    source 249
+    target 10
+    rank 4
+  ]
+  edge
+  [
+    source 249
+    target 128
+    rank 7
+  ]
+  edge
+  [
+    source 249
+    target 79
+    rank 9
+  ]
+  edge
+  [
+    source 249
+    target 152
+    rank 17
+  ]
+  edge
+  [
+    source 250
+    target 79
+    rank 4
+  ]
+  edge
+  [
+    source 250
+    target 81
+    rank 13
+  ]
+  edge
+  [
+    source 250
+    target 119
+    rank 17
+  ]
+  edge
+  [
+    source 250
+    target 36
+    rank 20
+  ]
+  edge
+  [
+    source 251
+    target 141
+    rank 3
+  ]
+  edge
+  [
+    source 251
+    target 36
+    rank 12
+  ]
+  edge
+  [
+    source 251
+    target 130
+    rank 15
+  ]
+  edge
+  [
+    source 252
+    target 119
+    rank 2
+  ]
+  edge
+  [
+    source 252
+    target 46
+    rank 3
+  ]
+  edge
+  [
+    source 252
+    target 14
+    rank 7
+  ]
+  edge
+  [
+    source 252
+    target 84
+    rank 8
+  ]
+  edge
+  [
+    source 252
+    target 150
+    rank 9
+  ]
+  edge
+  [
+    source 252
+    target 71
+    rank 11
+  ]
+  edge
+  [
+    source 252
+    target 66
+    rank 13
+  ]
+  edge
+  [
+    source 252
+    target 278
+    rank 16
+  ]
+  edge
+  [
+    source 253
+    target 171
+    rank 1
+  ]
+  edge
+  [
+    source 253
+    target 10
+    rank 2
+  ]
+  edge
+  [
+    source 253
+    target 6
+    rank 5
+  ]
+  edge
+  [
+    source 253
+    target 14
+    rank 6
+  ]
+  edge
+  [
+    source 253
+    target 2
+    rank 7
+  ]
+  edge
+  [
+    source 253
+    target 24
+    rank 10
+  ]
+  edge
+  [
+    source 253
+    target 18
+    rank 12
+  ]
+  edge
+  [
+    source 253
+    target 101
+    rank 14
+  ]
+  edge
+  [
+    source 253
+    target 77
+    rank 15
+  ]
+  edge
+  [
+    source 253
+    target 71
+    rank 17
+  ]
+  edge
+  [
+    source 253
+    target 3
+    rank 19
+  ]
+  edge
+  [
+    source 254
+    target 171
+    rank 1
+  ]
+  edge
+  [
+    source 254
+    target 2
+    rank 2
+  ]
+  edge
+  [
+    source 254
+    target 24
+    rank 3
+  ]
+  edge
+  [
+    source 254
+    target 3
+    rank 5
+  ]
+  edge
+  [
+    source 254
+    target 253
+    rank 6
+  ]
+  edge
+  [
+    source 254
+    target 71
+    rank 7
+  ]
+  edge
+  [
+    source 254
+    target 79
+    rank 8
+  ]
+  edge
+  [
+    source 254
+    target 228
+    rank 9
+  ]
+  edge
+  [
+    source 254
+    target 46
+    rank 10
+  ]
+  edge
+  [
+    source 254
+    target 18
+    rank 12
+  ]
+  edge
+  [
+    source 254
+    target 36
+    rank 13
+  ]
+  edge
+  [
+    source 254
+    target 81
+    rank 17
+  ]
+  edge
+  [
+    source 254
+    target 14
+    rank 19
+  ]
+  edge
+  [
+    source 255
+    target 10
+    rank 1
+  ]
+  edge
+  [
+    source 255
+    target 171
+    rank 2
+  ]
+  edge
+  [
+    source 255
+    target 2
+    rank 3
+  ]
+  edge
+  [
+    source 255
+    target 6
+    rank 4
+  ]
+  edge
+  [
+    source 255
+    target 3
+    rank 5
+  ]
+  edge
+  [
+    source 255
+    target 169
+    rank 7
+  ]
+  edge
+  [
+    source 255
+    target 223
+    rank 8
+  ]
+  edge
+  [
+    source 255
+    target 258
+    rank 9
+  ]
+  edge
+  [
+    source 255
+    target 152
+    rank 10
+  ]
+  edge
+  [
+    source 255
+    target 269
+    rank 11
+  ]
+  edge
+  [
+    source 255
+    target 253
+    rank 13
+  ]
+  edge
+  [
+    source 255
+    target 190
+    rank 15
+  ]
+  edge
+  [
+    source 255
+    target 23
+    rank 18
+  ]
+  edge
+  [
+    source 255
+    target 27
+    rank 20
+  ]
+  edge
+  [
+    source 256
+    target 88
+    rank 3
+  ]
+  edge
+  [
+    source 257
+    target 2
+    rank 3
+  ]
+  edge
+  [
+    source 257
+    target 181
+    rank 4
+  ]
+  edge
+  [
+    source 257
+    target 22
+    rank 6
+  ]
+  edge
+  [
+    source 257
+    target 77
+    rank 19
+  ]
+  edge
+  [
+    source 258
+    target 14
+    rank 3
+  ]
+  edge
+  [
+    source 258
+    target 6
+    rank 4
+  ]
+  edge
+  [
+    source 258
+    target 10
+    rank 6
+  ]
+  edge
+  [
+    source 258
+    target 171
+    rank 11
+  ]
+  edge
+  [
+    source 258
+    target 150
+    rank 12
+  ]
+  edge
+  [
+    source 258
+    target 132
+    rank 17
+  ]
+  edge
+  [
+    source 258
+    target 190
+    rank 19
+  ]
+  edge
+  [
+    source 259
+    target 116
+    rank 11
+  ]
+  edge
+  [
+    source 259
+    target 104
+    rank 13
+  ]
+  edge
+  [
+    source 259
+    target 83
+    rank 19
+  ]
+  edge
+  [
+    source 260
+    target 171
+    rank 2
+  ]
+  edge
+  [
+    source 260
+    target 2
+    rank 3
+  ]
+  edge
+  [
+    source 260
+    target 79
+    rank 4
+  ]
+  edge
+  [
+    source 260
+    target 144
+    rank 6
+  ]
+  edge
+  [
+    source 260
+    target 10
+    rank 7
+  ]
+  edge
+  [
+    source 260
+    target 59
+    rank 14
+  ]
+  edge
+  [
+    source 260
+    target 21
+    rank 15
+  ]
+  edge
+  [
+    source 260
+    target 18
+    rank 17
+  ]
+  edge
+  [
+    source 260
+    target 282
+    rank 18
+  ]
+  edge
+  [
+    source 260
+    target 295
+    rank 19
+  ]
+  edge
+  [
+    source 261
+    target 24
+    rank 1
+  ]
+  edge
+  [
+    source 261
+    target 10
+    rank 2
+  ]
+  edge
+  [
+    source 261
+    target 6
+    rank 3
+  ]
+  edge
+  [
+    source 261
+    target 79
+    rank 8
+  ]
+  edge
+  [
+    source 261
+    target 228
+    rank 18
+  ]
+  edge
+  [
+    source 262
+    target 152
+    rank 8
+  ]
+  edge
+  [
+    source 263
+    target 171
+    rank 1
+  ]
+  edge
+  [
+    source 264
+    target 22
+    rank 1
+  ]
+  edge
+  [
+    source 264
+    target 2
+    rank 3
+  ]
+  edge
+  [
+    source 264
+    target 27
+    rank 6
+  ]
+  edge
+  [
+    source 264
+    target 24
+    rank 7
+  ]
+  edge
+  [
+    source 264
+    target 6
+    rank 9
+  ]
+  edge
+  [
+    source 264
+    target 171
+    rank 10
+  ]
+  edge
+  [
+    source 264
+    target 79
+    rank 11
+  ]
+  edge
+  [
+    source 264
+    target 71
+    rank 18
+  ]
+  edge
+  [
+    source 264
+    target 168
+    rank 19
+  ]
+  edge
+  [
+    source 265
+    target 169
+    rank 1
+  ]
+  edge
+  [
+    source 265
+    target 24
+    rank 2
+  ]
+  edge
+  [
+    source 265
+    target 84
+    rank 5
+  ]
+  edge
+  [
+    source 265
+    target 2
+    rank 6
+  ]
+  edge
+  [
+    source 265
+    target 152
+    rank 10
+  ]
+  edge
+  [
+    source 265
+    target 20
+    rank 14
+  ]
+  edge
+  [
+    source 265
+    target 130
+    rank 16
+  ]
+  edge
+  [
+    source 266
+    target 171
+    rank 2
+  ]
+  edge
+  [
+    source 266
+    target 119
+    rank 3
+  ]
+  edge
+  [
+    source 266
+    target 169
+    rank 4
+  ]
+  edge
+  [
+    source 266
+    target 71
+    rank 6
+  ]
+  edge
+  [
+    source 266
+    target 10
+    rank 7
+  ]
+  edge
+  [
+    source 266
+    target 150
+    rank 9
+  ]
+  edge
+  [
+    source 266
+    target 6
+    rank 10
+  ]
+  edge
+  [
+    source 266
+    target 168
+    rank 11
+  ]
+  edge
+  [
+    source 266
+    target 36
+    rank 13
+  ]
+  edge
+  [
+    source 266
+    target 66
+    rank 15
+  ]
+  edge
+  [
+    source 266
+    target 3
+    rank 18
+  ]
+  edge
+  [
+    source 266
+    target 253
+    rank 20
+  ]
+  edge
+  [
+    source 267
+    target 76
+    rank 7
+  ]
+  edge
+  [
+    source 267
+    target 191
+    rank 9
+  ]
+  edge
+  [
+    source 267
+    target 81
+    rank 12
+  ]
+  edge
+  [
+    source 267
+    target 241
+    rank 16
+  ]
+  edge
+  [
+    source 267
+    target 14
+    rank 20
+  ]
+  edge
+  [
+    source 269
+    target 10
+    rank 2
+  ]
+  edge
+  [
+    source 269
+    target 36
+    rank 4
+  ]
+  edge
+  [
+    source 269
+    target 6
+    rank 5
+  ]
+  edge
+  [
+    source 269
+    target 79
+    rank 9
+  ]
+  edge
+  [
+    source 269
+    target 3
+    rank 11
+  ]
+  edge
+  [
+    source 269
+    target 278
+    rank 17
+  ]
+  edge
+  [
+    source 270
+    target 171
+    rank 1
+  ]
+  edge
+  [
+    source 270
+    target 10
+    rank 2
+  ]
+  edge
+  [
+    source 270
+    target 253
+    rank 3
+  ]
+  edge
+  [
+    source 270
+    target 150
+    rank 6
+  ]
+  edge
+  [
+    source 270
+    target 2
+    rank 10
+  ]
+  edge
+  [
+    source 270
+    target 3
+    rank 12
+  ]
+  edge
+  [
+    source 270
+    target 104
+    rank 15
+  ]
+  edge
+  [
+    source 270
+    target 73
+    rank 16
+  ]
+  edge
+  [
+    source 270
+    target 182
+    rank 17
+  ]
+  edge
+  [
+    source 270
+    target 295
+    rank 19
+  ]
+  edge
+  [
+    source 271
+    target 171
+    rank 1
+  ]
+  edge
+  [
+    source 271
+    target 14
+    rank 3
+  ]
+  edge
+  [
+    source 271
+    target 3
+    rank 5
+  ]
+  edge
+  [
+    source 271
+    target 6
+    rank 7
+  ]
+  edge
+  [
+    source 271
+    target 66
+    rank 8
+  ]
+  edge
+  [
+    source 272
+    target 140
+    rank 1
+  ]
+  edge
+  [
+    source 272
+    target 6
+    rank 2
+  ]
+  edge
+  [
+    source 272
+    target 187
+    rank 5
+  ]
+  edge
+  [
+    source 272
+    target 13
+    rank 18
+  ]
+  edge
+  [
+    source 273
+    target 79
+    rank 2
+  ]
+  edge
+  [
+    source 273
+    target 121
+    rank 3
+  ]
+  edge
+  [
+    source 273
+    target 227
+    rank 6
+  ]
+  edge
+  [
+    source 273
+    target 233
+    rank 10
+  ]
+  edge
+  [
+    source 273
+    target 50
+    rank 14
+  ]
+  edge
+  [
+    source 273
+    target 39
+    rank 15
+  ]
+  edge
+  [
+    source 273
+    target 130
+    rank 18
+  ]
+  edge
+  [
+    source 274
+    target 119
+    rank 5
+  ]
+  edge
+  [
+    source 274
+    target 14
+    rank 7
+  ]
+  edge
+  [
+    source 274
+    target 21
+    rank 8
+  ]
+  edge
+  [
+    source 274
+    target 325
+    rank 16
+  ]
+  edge
+  [
+    source 274
+    target 36
+    rank 18
+  ]
+  edge
+  [
+    source 275
+    target 10
+    rank 1
+  ]
+  edge
+  [
+    source 275
+    target 79
+    rank 3
+  ]
+  edge
+  [
+    source 275
+    target 238
+    rank 4
+  ]
+  edge
+  [
+    source 275
+    target 81
+    rank 6
+  ]
+  edge
+  [
+    source 275
+    target 88
+    rank 7
+  ]
+  edge
+  [
+    source 275
+    target 14
+    rank 9
+  ]
+  edge
+  [
+    source 275
+    target 59
+    rank 16
+  ]
+  edge
+  [
+    source 275
+    target 68
+    rank 19
+  ]
+  edge
+  [
+    source 276
+    target 171
+    rank 1
+  ]
+  edge
+  [
+    source 276
+    target 27
+    rank 15
+  ]
+  edge
+  [
+    source 276
+    target 258
+    rank 16
+  ]
+  edge
+  [
+    source 277
+    target 171
+    rank 1
+  ]
+  edge
+  [
+    source 277
+    target 132
+    rank 3
+  ]
+  edge
+  [
+    source 278
+    target 14
+    rank 10
+  ]
+  edge
+  [
+    source 278
+    target 171
+    rank 14
+  ]
+  edge
+  [
+    source 278
+    target 119
+    rank 15
+  ]
+  edge
+  [
+    source 279
+    target 171
+    rank 1
+  ]
+  edge
+  [
+    source 279
+    target 71
+    rank 2
+  ]
+  edge
+  [
+    source 279
+    target 30
+    rank 4
+  ]
+  edge
+  [
+    source 279
+    target 269
+    rank 6
+  ]
+  edge
+  [
+    source 279
+    target 24
+    rank 7
+  ]
+  edge
+  [
+    source 279
+    target 133
+    rank 9
+  ]
+  edge
+  [
+    source 279
+    target 228
+    rank 10
+  ]
+  edge
+  [
+    source 279
+    target 36
+    rank 12
+  ]
+  edge
+  [
+    source 279
+    target 23
+    rank 13
+  ]
+  edge
+  [
+    source 279
+    target 190
+    rank 15
+  ]
+  edge
+  [
+    source 279
+    target 46
+    rank 17
+  ]
+  edge
+  [
+    source 280
+    target 14
+    rank 1
+  ]
+  edge
+  [
+    source 280
+    target 23
+    rank 5
+  ]
+  edge
+  [
+    source 280
+    target 4
+    rank 6
+  ]
+  edge
+  [
+    source 280
+    target 29
+    rank 10
+  ]
+  edge
+  [
+    source 280
+    target 325
+    rank 11
+  ]
+  edge
+  [
+    source 280
+    target 399
+    rank 16
+  ]
+  edge
+  [
+    source 281
+    target 338
+    rank 1
+  ]
+  edge
+  [
+    source 283
+    target 206
+    rank 11
+  ]
+  edge
+  [
+    source 284
+    target 171
+    rank 1
+  ]
+  edge
+  [
+    source 284
+    target 168
+    rank 3
+  ]
+  edge
+  [
+    source 284
+    target 24
+    rank 4
+  ]
+  edge
+  [
+    source 284
+    target 119
+    rank 6
+  ]
+  edge
+  [
+    source 284
+    target 214
+    rank 9
+  ]
+  edge
+  [
+    source 284
+    target 266
+    rank 10
+  ]
+  edge
+  [
+    source 284
+    target 14
+    rank 14
+  ]
+  edge
+  [
+    source 284
+    target 57
+    rank 15
+  ]
+  edge
+  [
+    source 284
+    target 360
+    rank 16
+  ]
+  edge
+  [
+    source 284
+    target 91
+    rank 17
+  ]
+  edge
+  [
+    source 284
+    target 36
+    rank 20
+  ]
+  edge
+  [
+    source 285
+    target 119
+    rank 1
+  ]
+  edge
+  [
+    source 285
+    target 81
+    rank 9
+  ]
+  edge
+  [
+    source 285
+    target 1
+    rank 15
+  ]
+  edge
+  [
+    source 285
+    target 3
+    rank 17
+  ]
+  edge
+  [
+    source 285
+    target 57
+    rank 18
+  ]
+  edge
+  [
+    source 286
+    target 118
+    rank 16
+  ]
+  edge
+  [
+    source 286
+    target 114
+    rank 17
+  ]
+  edge
+  [
+    source 286
+    target 9
+    rank 18
+  ]
+  edge
+  [
+    source 286
+    target 217
+    rank 19
+  ]
+  edge
+  [
+    source 287
+    target 171
+    rank 1
+  ]
+  edge
+  [
+    source 287
+    target 2
+    rank 2
+  ]
+  edge
+  [
+    source 287
+    target 181
+    rank 4
+  ]
+  edge
+  [
+    source 287
+    target 10
+    rank 6
+  ]
+  edge
+  [
+    source 287
+    target 131
+    rank 9
+  ]
+  edge
+  [
+    source 287
+    target 3
+    rank 12
+  ]
+  edge
+  [
+    source 287
+    target 36
+    rank 13
+  ]
+  edge
+  [
+    source 287
+    target 146
+    rank 16
+  ]
+  edge
+  [
+    source 288
+    target 171
+    rank 4
+  ]
+  edge
+  [
+    source 288
+    target 150
+    rank 12
+  ]
+  edge
+  [
+    source 289
+    target 171
+    rank 2
+  ]
+  edge
+  [
+    source 289
+    target 57
+    rank 10
+  ]
+  edge
+  [
+    source 289
+    target 60
+    rank 15
+  ]
+  edge
+  [
+    source 290
+    target 171
+    rank 1
+  ]
+  edge
+  [
+    source 290
+    target 10
+    rank 3
+  ]
+  edge
+  [
+    source 290
+    target 14
+    rank 4
+  ]
+  edge
+  [
+    source 290
+    target 152
+    rank 8
+  ]
+  edge
+  [
+    source 290
+    target 3
+    rank 9
+  ]
+  edge
+  [
+    source 291
+    target 171
+    rank 3
+  ]
+  edge
+  [
+    source 291
+    target 168
+    rank 5
+  ]
+  edge
+  [
+    source 291
+    target 3
+    rank 7
+  ]
+  edge
+  [
+    source 291
+    target 71
+    rank 11
+  ]
+  edge
+  [
+    source 291
+    target 295
+    rank 18
+  ]
+  edge
+  [
+    source 291
+    target 36
+    rank 19
+  ]
+  edge
+  [
+    source 292
+    target 79
+    rank 1
+  ]
+  edge
+  [
+    source 292
+    target 36
+    rank 9
+  ]
+  edge
+  [
+    source 293
+    target 169
+    rank 1
+  ]
+  edge
+  [
+    source 293
+    target 171
+    rank 3
+  ]
+  edge
+  [
+    source 293
+    target 14
+    rank 8
+  ]
+  edge
+  [
+    source 293
+    target 3
+    rank 9
+  ]
+  edge
+  [
+    source 294
+    target 101
+    rank 6
+  ]
+  edge
+  [
+    source 296
+    target 2
+    rank 1
+  ]
+  edge
+  [
+    source 296
+    target 171
+    rank 2
+  ]
+  edge
+  [
+    source 296
+    target 10
+    rank 7
+  ]
+  edge
+  [
+    source 297
+    target 6
+    rank 1
+  ]
+  edge
+  [
+    source 297
+    target 119
+    rank 2
+  ]
+  edge
+  [
+    source 297
+    target 14
+    rank 8
+  ]
+  edge
+  [
+    source 297
+    target 10
+    rank 11
+  ]
+  edge
+  [
+    source 297
+    target 278
+    rank 15
+  ]
+  edge
+  [
+    source 298
+    target 134
+    rank 6
+  ]
+  edge
+  [
+    source 298
+    target 121
+    rank 8
+  ]
+  edge
+  [
+    source 298
+    target 233
+    rank 14
+  ]
+  edge
+  [
+    source 299
+    target 171
+    rank 1
+  ]
+  edge
+  [
+    source 299
+    target 10
+    rank 2
+  ]
+  edge
+  [
+    source 299
+    target 132
+    rank 6
+  ]
+  edge
+  [
+    source 299
+    target 104
+    rank 9
+  ]
+  edge
+  [
+    source 299
+    target 2
+    rank 10
+  ]
+  edge
+  [
+    source 300
+    target 171
+    rank 1
+  ]
+  edge
+  [
+    source 300
+    target 6
+    rank 2
+  ]
+  edge
+  [
+    source 300
+    target 14
+    rank 3
+  ]
+  edge
+  [
+    source 300
+    target 119
+    rank 4
+  ]
+  edge
+  [
+    source 300
+    target 278
+    rank 5
+  ]
+  edge
+  [
+    source 300
+    target 150
+    rank 9
+  ]
+  edge
+  [
+    source 300
+    target 11
+    rank 15
+  ]
+  edge
+  [
+    source 300
+    target 5
+    rank 16
+  ]
+  edge
+  [
+    source 300
+    target 31
+    rank 20
+  ]
+  edge
+  [
+    source 301
+    target 269
+    rank 1
+  ]
+  edge
+  [
+    source 301
+    target 169
+    rank 2
+  ]
+  edge
+  [
+    source 301
+    target 23
+    rank 4
+  ]
+  edge
+  [
+    source 301
+    target 36
+    rank 6
+  ]
+  edge
+  [
+    source 301
+    target 18
+    rank 7
+  ]
+  edge
+  [
+    source 302
+    target 3
+    rank 8
+  ]
+  edge
+  [
+    source 303
+    target 288
+    rank 12
+  ]
+  edge
+  [
+    source 303
+    target 10
+    rank 19
+  ]
+  edge
+  [
+    source 304
+    target 150
+    rank 2
+  ]
+  edge
+  [
+    source 304
+    target 29
+    rank 6
+  ]
+  edge
+  [
+    source 304
+    target 429
+    rank 17
+  ]
+  edge
+  [
+    source 305
+    target 10
+    rank 1
+  ]
+  edge
+  [
+    source 305
+    target 171
+    rank 2
+  ]
+  edge
+  [
+    source 306
+    target 234
+    rank 2
+  ]
+  edge
+  [
+    source 306
+    target 432
+    rank 10
+  ]
+  edge
+  [
+    source 307
+    target 5
+    rank 5
+  ]
+  edge
+  [
+    source 307
+    target 44
+    rank 11
+  ]
+  edge
+  [
+    source 307
+    target 33
+    rank 12
+  ]
+  edge
+  [
+    source 307
+    target 155
+    rank 18
+  ]
+  edge
+  [
+    source 308
+    target 168
+    rank 2
+  ]
+  edge
+  [
+    source 308
+    target 3
+    rank 9
+  ]
+  edge
+  [
+    source 308
+    target 30
+    rank 10
+  ]
+  edge
+  [
+    source 308
+    target 266
+    rank 11
+  ]
+  edge
+  [
+    source 309
+    target 294
+    rank 20
+  ]
+  edge
+  [
+    source 310
+    target 79
+    rank 9
+  ]
+  edge
+  [
+    source 311
+    target 119
+    rank 1
+  ]
+  edge
+  [
+    source 311
+    target 168
+    rank 2
+  ]
+  edge
+  [
+    source 311
+    target 171
+    rank 3
+  ]
+  edge
+  [
+    source 311
+    target 71
+    rank 4
+  ]
+  edge
+  [
+    source 311
+    target 6
+    rank 5
+  ]
+  edge
+  [
+    source 311
+    target 23
+    rank 6
+  ]
+  edge
+  [
+    source 311
+    target 14
+    rank 8
+  ]
+  edge
+  [
+    source 311
+    target 36
+    rank 9
+  ]
+  edge
+  [
+    source 311
+    target 253
+    rank 12
+  ]
+  edge
+  [
+    source 311
+    target 18
+    rank 15
+  ]
+  edge
+  [
+    source 311
+    target 269
+    rank 16
+  ]
+  edge
+  [
+    source 311
+    target 3
+    rank 17
+  ]
+  edge
+  [
+    source 311
+    target 225
+    rank 19
+  ]
+  edge
+  [
+    source 312
+    target 119
+    rank 1
+  ]
+  edge
+  [
+    source 312
+    target 171
+    rank 2
+  ]
+  edge
+  [
+    source 312
+    target 278
+    rank 5
+  ]
+  edge
+  [
+    source 312
+    target 5
+    rank 7
+  ]
+  edge
+  [
+    source 312
+    target 23
+    rank 8
+  ]
+  edge
+  [
+    source 312
+    target 15
+    rank 10
+  ]
+  edge
+  [
+    source 312
+    target 137
+    rank 11
+  ]
+  edge
+  [
+    source 312
+    target 36
+    rank 12
+  ]
+  edge
+  [
+    source 312
+    target 7
+    rank 13
+  ]
+  edge
+  [
+    source 312
+    target 11
+    rank 15
+  ]
+  edge
+  [
+    source 313
+    target 214
+    rank 1
+  ]
+  edge
+  [
+    source 314
+    target 171
+    rank 6
+  ]
+  edge
+  [
+    source 314
+    target 345
+    rank 18
+  ]
+  edge
+  [
+    source 315
+    target 206
+    rank 15
+  ]
+  edge
+  [
+    source 316
+    target 171
+    rank 3
+  ]
+  edge
+  [
+    source 317
+    target 3
+    rank 3
+  ]
+  edge
+  [
+    source 317
+    target 321
+    rank 17
+  ]
+  edge
+  [
+    source 317
+    target 421
+    rank 18
+  ]
+  edge
+  [
+    source 318
+    target 79
+    rank 1
+  ]
+  edge
+  [
+    source 318
+    target 36
+    rank 3
+  ]
+  edge
+  [
+    source 318
+    target 91
+    rank 4
+  ]
+  edge
+  [
+    source 318
+    target 190
+    rank 5
+  ]
+  edge
+  [
+    source 318
+    target 5
+    rank 7
+  ]
+  edge
+  [
+    source 318
+    target 11
+    rank 9
+  ]
+  edge
+  [
+    source 318
+    target 413
+    rank 13
+  ]
+  edge
+  [
+    source 319
+    target 130
+    rank 5
+  ]
+  edge
+  [
+    source 319
+    target 36
+    rank 7
+  ]
+  edge
+  [
+    source 320
+    target 5
+    rank 1
+  ]
+  edge
+  [
+    source 320
+    target 344
+    rank 18
+  ]
+  edge
+  [
+    source 321
+    target 281
+    rank 5
+  ]
+  edge
+  [
+    source 321
+    target 344
+    rank 16
+  ]
+  edge
+  [
+    source 322
+    target 101
+    rank 1
+  ]
+  edge
+  [
+    source 322
+    target 6
+    rank 4
+  ]
+  edge
+  [
+    source 322
+    target 14
+    rank 5
+  ]
+  edge
+  [
+    source 322
+    target 337
+    rank 13
+  ]
+  edge
+  [
+    source 322
+    target 311
+    rank 14
+  ]
+  edge
+  [
+    source 322
+    target 344
+    rank 15
+  ]
+  edge
+  [
+    source 322
+    target 321
+    rank 16
+  ]
+  edge
+  [
+    source 322
+    target 3
+    rank 19
+  ]
+  edge
+  [
+    source 322
+    target 136
+    rank 20
+  ]
+  edge
+  [
+    source 323
+    target 8
+    rank 15
+  ]
+  edge
+  [
+    source 323
+    target 321
+    rank 20
+  ]
+  edge
+  [
+    source 324
+    target 79
+    rank 5
+  ]
+  edge
+  [
+    source 324
+    target 67
+    rank 13
+  ]
+  edge
+  [
+    source 324
+    target 130
+    rank 16
+  ]
+  edge
+  [
+    source 324
+    target 337
+    rank 18
+  ]
+  edge
+  [
+    source 325
+    target 171
+    rank 1
+  ]
+  edge
+  [
+    source 325
+    target 2
+    rank 2
+  ]
+  edge
+  [
+    source 325
+    target 79
+    rank 3
+  ]
+  edge
+  [
+    source 325
+    target 10
+    rank 6
+  ]
+  edge
+  [
+    source 325
+    target 150
+    rank 8
+  ]
+  edge
+  [
+    source 326
+    target 171
+    rank 1
+  ]
+  edge
+  [
+    source 326
+    target 71
+    rank 4
+  ]
+  edge
+  [
+    source 326
+    target 269
+    rank 6
+  ]
+  edge
+  [
+    source 326
+    target 253
+    rank 10
+  ]
+  edge
+  [
+    source 326
+    target 50
+    rank 11
+  ]
+  edge
+  [
+    source 326
+    target 278
+    rank 13
+  ]
+  edge
+  [
+    source 326
+    target 36
+    rank 16
+  ]
+  edge
+  [
+    source 326
+    target 295
+    rank 17
+  ]
+  edge
+  [
+    source 326
+    target 67
+    rank 18
+  ]
+  edge
+  [
+    source 326
+    target 18
+    rank 19
+  ]
+  edge
+  [
+    source 327
+    target 171
+    rank 1
+  ]
+  edge
+  [
+    source 327
+    target 10
+    rank 2
+  ]
+  edge
+  [
+    source 327
+    target 2
+    rank 4
+  ]
+  edge
+  [
+    source 327
+    target 169
+    rank 5
+  ]
+  edge
+  [
+    source 327
+    target 14
+    rank 8
+  ]
+  edge
+  [
+    source 327
+    target 152
+    rank 9
+  ]
+  edge
+  [
+    source 327
+    target 79
+    rank 10
+  ]
+  edge
+  [
+    source 327
+    target 36
+    rank 11
+  ]
+  edge
+  [
+    source 327
+    target 59
+    rank 12
+  ]
+  edge
+  [
+    source 327
+    target 19
+    rank 13
+  ]
+  edge
+  [
+    source 327
+    target 325
+    rank 15
+  ]
+  edge
+  [
+    source 327
+    target 200
+    rank 16
+  ]
+  edge
+  [
+    source 328
+    target 30
+    rank 2
+  ]
+  edge
+  [
+    source 328
+    target 228
+    rank 16
+  ]
+  edge
+  [
+    source 329
+    target 3
+    rank 2
+  ]
+  edge
+  [
+    source 329
+    target 295
+    rank 3
+  ]
+  edge
+  [
+    source 329
+    target 253
+    rank 5
+  ]
+  edge
+  [
+    source 329
+    target 182
+    rank 6
+  ]
+  edge
+  [
+    source 329
+    target 18
+    rank 7
+  ]
+  edge
+  [
+    source 329
+    target 228
+    rank 9
+  ]
+  edge
+  [
+    source 330
+    target 36
+    rank 1
+  ]
+  edge
+  [
+    source 331
+    target 36
+    rank 1
+  ]
+  edge
+  [
+    source 331
+    target 18
+    rank 2
+  ]
+  edge
+  [
+    source 331
+    target 5
+    rank 6
+  ]
+  edge
+  [
+    source 331
+    target 136
+    rank 10
+  ]
+  edge
+  [
+    source 331
+    target 137
+    rank 11
+  ]
+  edge
+  [
+    source 331
+    target 15
+    rank 13
+  ]
+  edge
+  [
+    source 332
+    target 406
+    rank 6
+  ]
+  edge
+  [
+    source 333
+    target 8
+    rank 10
+  ]
+  edge
+  [
+    source 334
+    target 5
+    rank 2
+  ]
+  edge
+  [
+    source 334
+    target 33
+    rank 6
+  ]
+  edge
+  [
+    source 334
+    target 155
+    rank 7
+  ]
+  edge
+  [
+    source 334
+    target 62
+    rank 8
+  ]
+  edge
+  [
+    source 334
+    target 393
+    rank 19
+  ]
+  edge
+  [
+    source 335
+    target 101
+    rank 1
+  ]
+  edge
+  [
+    source 335
+    target 60
+    rank 3
+  ]
+  edge
+  [
+    source 335
+    target 136
+    rank 15
+  ]
+  edge
+  [
+    source 335
+    target 321
+    rank 19
+  ]
+  edge
+  [
+    source 336
+    target 283
+    rank 2
+  ]
+  edge
+  [
+    source 336
+    target 36
+    rank 5
+  ]
+  edge
+  [
+    source 336
+    target 381
+    rank 11
+  ]
+  edge
+  [
+    source 337
+    target 171
+    rank 1
+  ]
+  edge
+  [
+    source 337
+    target 36
+    rank 2
+  ]
+  edge
+  [
+    source 337
+    target 253
+    rank 5
+  ]
+  edge
+  [
+    source 337
+    target 30
+    rank 8
+  ]
+  edge
+  [
+    source 337
+    target 14
+    rank 11
+  ]
+  edge
+  [
+    source 337
+    target 228
+    rank 20
+  ]
+  edge
+  [
+    source 338
+    target 321
+    rank 3
+  ]
+  edge
+  [
+    source 338
+    target 281
+    rank 9
+  ]
+  edge
+  [
+    source 339
+    target 14
+    rank 2
+  ]
+  edge
+  [
+    source 339
+    target 3
+    rank 4
+  ]
+  edge
+  [
+    source 339
+    target 4
+    rank 5
+  ]
+  edge
+  [
+    source 339
+    target 53
+    rank 9
+  ]
+  edge
+  [
+    source 339
+    target 92
+    rank 11
+  ]
+  edge
+  [
+    source 340
+    target 84
+    rank 9
+  ]
+  edge
+  [
+    source 340
+    target 149
+    rank 11
+  ]
+  edge
+  [
+    source 340
+    target 230
+    rank 14
+  ]
+  edge
+  [
+    source 340
+    target 176
+    rank 19
+  ]
+  edge
+  [
+    source 341
+    target 171
+    rank 1
+  ]
+  edge
+  [
+    source 341
+    target 168
+    rank 2
+  ]
+  edge
+  [
+    source 341
+    target 119
+    rank 3
+  ]
+  edge
+  [
+    source 341
+    target 71
+    rank 5
+  ]
+  edge
+  [
+    source 341
+    target 36
+    rank 8
+  ]
+  edge
+  [
+    source 341
+    target 50
+    rank 14
+  ]
+  edge
+  [
+    source 341
+    target 12
+    rank 17
+  ]
+  edge
+  [
+    source 341
+    target 18
+    rank 18
+  ]
+  edge
+  [
+    source 341
+    target 14
+    rank 19
+  ]
+  edge
+  [
+    source 342
+    target 119
+    rank 1
+  ]
+  edge
+  [
+    source 342
+    target 3
+    rank 3
+  ]
+  edge
+  [
+    source 342
+    target 71
+    rank 4
+  ]
+  edge
+  [
+    source 342
+    target 14
+    rank 5
+  ]
+  edge
+  [
+    source 343
+    target 268
+    rank 1
+  ]
+  edge
+  [
+    source 343
+    target 130
+    rank 9
+  ]
+  edge
+  [
+    source 344
+    target 300
+    rank 1
+  ]
+  edge
+  [
+    source 344
+    target 8
+    rank 3
+  ]
+  edge
+  [
+    source 344
+    target 4
+    rank 4
+  ]
+  edge
+  [
+    source 344
+    target 36
+    rank 5
+  ]
+  edge
+  [
+    source 344
+    target 281
+    rank 7
+  ]
+  edge
+  [
+    source 344
+    target 321
+    rank 17
+  ]
+  edge
+  [
+    source 345
+    target 81
+    rank 11
+  ]
+  edge
+  [
+    source 345
+    target 8
+    rank 19
+  ]
+  edge
+  [
+    source 345
+    target 57
+    rank 20
+  ]
+  edge
+  [
+    source 346
+    target 5
+    rank 1
+  ]
+  edge
+  [
+    source 346
+    target 333
+    rank 6
+  ]
+  edge
+  [
+    source 346
+    target 347
+    rank 18
+  ]
+  edge
+  [
+    source 346
+    target 418
+    rank 19
+  ]
+  edge
+  [
+    source 347
+    target 171
+    rank 1
+  ]
+  edge
+  [
+    source 347
+    target 5
+    rank 2
+  ]
+  edge
+  [
+    source 347
+    target 418
+    rank 3
+  ]
+  edge
+  [
+    source 347
+    target 15
+    rank 4
+  ]
+  edge
+  [
+    source 347
+    target 11
+    rank 5
+  ]
+  edge
+  [
+    source 347
+    target 62
+    rank 9
+  ]
+  edge
+  [
+    source 347
+    target 344
+    rank 10
+  ]
+  edge
+  [
+    source 347
+    target 321
+    rank 16
+  ]
+  edge
+  [
+    source 348
+    target 171
+    rank 1
+  ]
+  edge
+  [
+    source 348
+    target 10
+    rank 3
+  ]
+  edge
+  [
+    source 349
+    target 171
+    rank 1
+  ]
+  edge
+  [
+    source 349
+    target 36
+    rank 6
+  ]
+  edge
+  [
+    source 349
+    target 4
+    rank 12
+  ]
+  edge
+  [
+    source 349
+    target 325
+    rank 18
+  ]
+  edge
+  [
+    source 350
+    target 227
+    rank 5
+  ]
+  edge
+  [
+    source 350
+    target 215
+    rank 10
+  ]
+  edge
+  [
+    source 351
+    target 10
+    rank 1
+  ]
+  edge
+  [
+    source 352
+    target 39
+    rank 1
+  ]
+  edge
+  [
+    source 353
+    target 128
+    rank 7
+  ]
+  edge
+  [
+    source 353
+    target 303
+    rank 9
+  ]
+  edge
+  [
+    source 353
+    target 152
+    rank 10
+  ]
+  edge
+  [
+    source 354
+    target 6
+    rank 3
+  ]
+  edge
+  [
+    source 354
+    target 57
+    rank 12
+  ]
+  edge
+  [
+    source 355
+    target 281
+    rank 6
+  ]
+  edge
+  [
+    source 355
+    target 391
+    rank 11
+  ]
+  edge
+  [
+    source 355
+    target 347
+    rank 13
+  ]
+  edge
+  [
+    source 355
+    target 409
+    rank 14
+  ]
+  edge
+  [
+    source 355
+    target 344
+    rank 15
+  ]
+  edge
+  [
+    source 355
+    target 321
+    rank 20
+  ]
+  edge
+  [
+    source 356
+    target 119
+    rank 2
+  ]
+  edge
+  [
+    source 356
+    target 403
+    rank 16
+  ]
+  edge
+  [
+    source 357
+    target 121
+    rank 10
+  ]
+  edge
+  [
+    source 358
+    target 36
+    rank 2
+  ]
+  edge
+  [
+    source 358
+    target 19
+    rank 8
+  ]
+  edge
+  [
+    source 358
+    target 23
+    rank 9
+  ]
+  edge
+  [
+    source 358
+    target 5
+    rank 11
+  ]
+  edge
+  [
+    source 358
+    target 155
+    rank 20
+  ]
+  edge
+  [
+    source 359
+    target 95
+    rank 5
+  ]
+  edge
+  [
+    source 360
+    target 81
+    rank 1
+  ]
+  edge
+  [
+    source 360
+    target 8
+    rank 8
+  ]
+  edge
+  [
+    source 360
+    target 53
+    rank 17
+  ]
+  edge
+  [
+    source 361
+    target 371
+    rank 7
+  ]
+  edge
+  [
+    source 362
+    target 171
+    rank 9
+  ]
+  edge
+  [
+    source 362
+    target 132
+    rank 10
+  ]
+  edge
+  [
+    source 362
+    target 158
+    rank 12
+  ]
+  edge
+  [
+    source 363
+    target 152
+    rank 12
+  ]
+  edge
+  [
+    source 363
+    target 68
+    rank 13
+  ]
+  edge
+  [
+    source 364
+    target 171
+    rank 1
+  ]
+  edge
+  [
+    source 364
+    target 10
+    rank 2
+  ]
+  edge
+  [
+    source 364
+    target 36
+    rank 4
+  ]
+  edge
+  [
+    source 364
+    target 14
+    rank 5
+  ]
+  edge
+  [
+    source 364
+    target 6
+    rank 9
+  ]
+  edge
+  [
+    source 364
+    target 225
+    rank 17
+  ]
+  edge
+  [
+    source 364
+    target 8
+    rank 18
+  ]
+  edge
+  [
+    source 364
+    target 23
+    rank 19
+  ]
+  edge
+  [
+    source 364
+    target 4
+    rank 20
+  ]
+  edge
+  [
+    source 365
+    target 171
+    rank 3
+  ]
+  edge
+  [
+    source 366
+    target 171
+    rank 1
+  ]
+  edge
+  [
+    source 366
+    target 140
+    rank 4
+  ]
+  edge
+  [
+    source 366
+    target 79
+    rank 7
+  ]
+  edge
+  [
+    source 366
+    target 22
+    rank 8
+  ]
+  edge
+  [
+    source 366
+    target 88
+    rank 13
+  ]
+  edge
+  [
+    source 366
+    target 150
+    rank 16
+  ]
+  edge
+  [
+    source 366
+    target 59
+    rank 17
+  ]
+  edge
+  [
+    source 367
+    target 345
+    rank 4
+  ]
+  edge
+  [
+    source 367
+    target 227
+    rank 6
+  ]
+  edge
+  [
+    source 368
+    target 171
+    rank 2
+  ]
+  edge
+  [
+    source 368
+    target 18
+    rank 5
+  ]
+  edge
+  [
+    source 368
+    target 88
+    rank 8
+  ]
+  edge
+  [
+    source 368
+    target 36
+    rank 9
+  ]
+  edge
+  [
+    source 368
+    target 10
+    rank 14
+  ]
+  edge
+  [
+    source 368
+    target 229
+    rank 16
+  ]
+  edge
+  [
+    source 369
+    target 81
+    rank 3
+  ]
+  edge
+  [
+    source 369
+    target 241
+    rank 12
+  ]
+  edge
+  [
+    source 370
+    target 10
+    rank 2
+  ]
+  edge
+  [
+    source 370
+    target 2
+    rank 3
+  ]
+  edge
+  [
+    source 370
+    target 128
+    rank 8
+  ]
+  edge
+  [
+    source 370
+    target 150
+    rank 10
+  ]
+  edge
+  [
+    source 370
+    target 171
+    rank 14
+  ]
+  edge
+  [
+    source 371
+    target 171
+    rank 1
+  ]
+  edge
+  [
+    source 371
+    target 361
+    rank 17
+  ]
+  edge
+  [
+    source 371
+    target 376
+    rank 18
+  ]
+  edge
+  [
+    source 372
+    target 18
+    rank 14
+  ]
+  edge
+  [
+    source 373
+    target 314
+    rank 4
+  ]
+  edge
+  [
+    source 373
+    target 3
+    rank 17
+  ]
+  edge
+  [
+    source 374
+    target 36
+    rank 16
+  ]
+  edge
+  [
+    source 375
+    target 295
+    rank 8
+  ]
+  edge
+  [
+    source 376
+    target 371
+    rank 8
+  ]
+  edge
+  [
+    source 376
+    target 361
+    rank 14
+  ]
+  edge
+  [
+    source 377
+    target 171
+    rank 2
+  ]
+  edge
+  [
+    source 377
+    target 314
+    rank 11
+  ]
+  edge
+  [
+    source 377
+    target 375
+    rank 19
+  ]
+  edge
+  [
+    source 378
+    target 95
+    rank 5
+  ]
+  edge
+  [
+    source 378
+    target 18
+    rank 6
+  ]
+  edge
+  [
+    source 378
+    target 137
+    rank 7
+  ]
+  edge
+  [
+    source 378
+    target 309
+    rank 12
+  ]
+  edge
+  [
+    source 378
+    target 311
+    rank 16
+  ]
+  edge
+  [
+    source 379
+    target 57
+    rank 5
+  ]
+  edge
+  [
+    source 379
+    target 134
+    rank 6
+  ]
+  edge
+  [
+    source 379
+    target 29
+    rank 13
+  ]
+  edge
+  [
+    source 380
+    target 81
+    rank 2
+  ]
+  edge
+  [
+    source 381
+    target 436
+    rank 3
+  ]
+  edge
+  [
+    source 381
+    target 336
+    rank 5
+  ]
+  edge
+  [
+    source 381
+    target 233
+    rank 18
+  ]
+  edge
+  [
+    source 382
+    target 140
+    rank 3
+  ]
+  edge
+  [
+    source 382
+    target 152
+    rank 6
+  ]
+  edge
+  [
+    source 382
+    target 171
+    rank 7
+  ]
+  edge
+  [
+    source 382
+    target 2
+    rank 10
+  ]
+  edge
+  [
+    source 383
+    target 2
+    rank 1
+  ]
+  edge
+  [
+    source 383
+    target 48
+    rank 4
+  ]
+  edge
+  [
+    source 383
+    target 10
+    rank 6
+  ]
+  edge
+  [
+    source 383
+    target 5
+    rank 12
+  ]
+  edge
+  [
+    source 383
+    target 104
+    rank 13
+  ]
+  edge
+  [
+    source 383
+    target 69
+    rank 15
+  ]
+  edge
+  [
+    source 384
+    target 217
+    rank 5
+  ]
+  edge
+  [
+    source 384
+    target 67
+    rank 11
+  ]
+  edge
+  [
+    source 384
+    target 325
+    rank 18
+  ]
+  edge
+  [
+    source 384
+    target 91
+    rank 20
+  ]
+  edge
+  [
+    source 385
+    target 4
+    rank 4
+  ]
+  edge
+  [
+    source 385
+    target 241
+    rank 13
+  ]
+  edge
+  [
+    source 386
+    target 371
+    rank 10
+  ]
+  edge
+  [
+    source 387
+    target 36
+    rank 4
+  ]
+  edge
+  [
+    source 387
+    target 23
+    rank 10
+  ]
+  edge
+  [
+    source 387
+    target 15
+    rank 17
+  ]
+  edge
+  [
+    source 388
+    target 255
+    rank 10
+  ]
+  edge
+  [
+    source 388
+    target 282
+    rank 11
+  ]
+  edge
+  [
+    source 388
+    target 23
+    rank 12
+  ]
+  edge
+  [
+    source 388
+    target 137
+    rank 14
+  ]
+  edge
+  [
+    source 388
+    target 182
+    rank 16
+  ]
+  edge
+  [
+    source 389
+    target 79
+    rank 1
+  ]
+  edge
+  [
+    source 389
+    target 325
+    rank 5
+  ]
+  edge
+  [
+    source 390
+    target 171
+    rank 1
+  ]
+  edge
+  [
+    source 390
+    target 10
+    rank 2
+  ]
+  edge
+  [
+    source 390
+    target 2
+    rank 4
+  ]
+  edge
+  [
+    source 390
+    target 36
+    rank 5
+  ]
+  edge
+  [
+    source 390
+    target 152
+    rank 7
+  ]
+  edge
+  [
+    source 390
+    target 18
+    rank 8
+  ]
+  edge
+  [
+    source 390
+    target 19
+    rank 9
+  ]
+  edge
+  [
+    source 390
+    target 23
+    rank 10
+  ]
+  edge
+  [
+    source 390
+    target 5
+    rank 12
+  ]
+  edge
+  [
+    source 390
+    target 4
+    rank 13
+  ]
+  edge
+  [
+    source 390
+    target 31
+    rank 14
+  ]
+  edge
+  [
+    source 390
+    target 130
+    rank 15
+  ]
+  edge
+  [
+    source 390
+    target 11
+    rank 16
+  ]
+  edge
+  [
+    source 390
+    target 7
+    rank 17
+  ]
+  edge
+  [
+    source 390
+    target 15
+    rank 19
+  ]
+  edge
+  [
+    source 391
+    target 4
+    rank 3
+  ]
+  edge
+  [
+    source 391
+    target 281
+    rank 4
+  ]
+  edge
+  [
+    source 391
+    target 418
+    rank 5
+  ]
+  edge
+  [
+    source 391
+    target 36
+    rank 7
+  ]
+  edge
+  [
+    source 391
+    target 16
+    rank 8
+  ]
+  edge
+  [
+    source 391
+    target 333
+    rank 11
+  ]
+  edge
+  [
+    source 391
+    target 11
+    rank 12
+  ]
+  edge
+  [
+    source 391
+    target 321
+    rank 14
+  ]
+  edge
+  [
+    source 391
+    target 62
+    rank 20
+  ]
+  edge
+  [
+    source 392
+    target 227
+    rank 7
+  ]
+  edge
+  [
+    source 392
+    target 345
+    rank 12
+  ]
+  edge
+  [
+    source 393
+    target 168
+    rank 3
+  ]
+  edge
+  [
+    source 393
+    target 375
+    rank 8
+  ]
+  edge
+  [
+    source 393
+    target 67
+    rank 10
+  ]
+  edge
+  [
+    source 393
+    target 23
+    rank 14
+  ]
+  edge
+  [
+    source 393
+    target 19
+    rank 15
+  ]
+  edge
+  [
+    source 393
+    target 225
+    rank 17
+  ]
+  edge
+  [
+    source 393
+    target 12
+    rank 18
+  ]
+  edge
+  [
+    source 393
+    target 36
+    rank 19
+  ]
+  edge
+  [
+    source 393
+    target 56
+    rank 20
+  ]
+  edge
+  [
+    source 394
+    target 171
+    rank 2
+  ]
+  edge
+  [
+    source 394
+    target 214
+    rank 3
+  ]
+  edge
+  [
+    source 394
+    target 23
+    rank 4
+  ]
+  edge
+  [
+    source 394
+    target 241
+    rank 11
+  ]
+  edge
+  [
+    source 395
+    target 291
+    rank 1
+  ]
+  edge
+  [
+    source 395
+    target 182
+    rank 6
+  ]
+  edge
+  [
+    source 395
+    target 50
+    rank 7
+  ]
+  edge
+  [
+    source 395
+    target 23
+    rank 8
+  ]
+  edge
+  [
+    source 395
+    target 19
+    rank 11
+  ]
+  edge
+  [
+    source 395
+    target 3
+    rank 14
+  ]
+  edge
+  [
+    source 395
+    target 295
+    rank 15
+  ]
+  edge
+  [
+    source 395
+    target 9
+    rank 16
+  ]
+  edge
+  [
+    source 395
+    target 255
+    rank 17
+  ]
+  edge
+  [
+    source 395
+    target 80
+    rank 19
+  ]
+  edge
+  [
+    source 395
+    target 56
+    rank 20
+  ]
+  edge
+  [
+    source 396
+    target 171
+    rank 6
+  ]
+  edge
+  [
+    source 396
+    target 421
+    rank 8
+  ]
+  edge
+  [
+    source 396
+    target 14
+    rank 17
+  ]
+  edge
+  [
+    source 396
+    target 57
+    rank 18
+  ]
+  edge
+  [
+    source 396
+    target 374
+    rank 20
+  ]
+  edge
+  [
+    source 397
+    target 375
+    rank 14
+  ]
+  edge
+  [
+    source 398
+    target 171
+    rank 1
+  ]
+  edge
+  [
+    source 398
+    target 190
+    rank 6
+  ]
+  edge
+  [
+    source 398
+    target 104
+    rank 7
+  ]
+  edge
+  [
+    source 398
+    target 59
+    rank 8
+  ]
+  edge
+  [
+    source 398
+    target 4
+    rank 9
+  ]
+  edge
+  [
+    source 398
+    target 15
+    rank 16
+  ]
+  edge
+  [
+    source 399
+    target 168
+    rank 2
+  ]
+  edge
+  [
+    source 399
+    target 136
+    rank 10
+  ]
+  edge
+  [
+    source 399
+    target 325
+    rank 11
+  ]
+  edge
+  [
+    source 400
+    target 415
+    rank 16
+  ]
+  edge
+  [
+    source 401
+    target 301
+    rank 15
+  ]
+  edge
+  [
+    source 402
+    target 119
+    rank 2
+  ]
+  edge
+  [
+    source 402
+    target 71
+    rank 8
+  ]
+  edge
+  [
+    source 403
+    target 57
+    rank 7
+  ]
+  edge
+  [
+    source 403
+    target 440
+    rank 18
+  ]
+  edge
+  [
+    source 404
+    target 3
+    rank 1
+  ]
+  edge
+  [
+    source 404
+    target 253
+    rank 2
+  ]
+  edge
+  [
+    source 404
+    target 8
+    rank 8
+  ]
+  edge
+  [
+    source 404
+    target 269
+    rank 9
+  ]
+  edge
+  [
+    source 404
+    target 14
+    rank 10
+  ]
+  edge
+  [
+    source 404
+    target 81
+    rank 13
+  ]
+  edge
+  [
+    source 404
+    target 182
+    rank 14
+  ]
+  edge
+  [
+    source 404
+    target 295
+    rank 16
+  ]
+  edge
+  [
+    source 404
+    target 70
+    rank 19
+  ]
+  edge
+  [
+    source 404
+    target 118
+    rank 20
+  ]
+  edge
+  [
+    source 405
+    target 171
+    rank 1
+  ]
+  edge
+  [
+    source 406
+    target 36
+    rank 2
+  ]
+  edge
+  [
+    source 407
+    target 349
+    rank 13
+  ]
+  edge
+  [
+    source 408
+    target 171
+    rank 4
+  ]
+  edge
+  [
+    source 408
+    target 375
+    rank 8
+  ]
+  edge
+  [
+    source 408
+    target 168
+    rank 9
+  ]
+  edge
+  [
+    source 408
+    target 18
+    rank 12
+  ]
+  edge
+  [
+    source 408
+    target 69
+    rank 13
+  ]
+  edge
+  [
+    source 408
+    target 4
+    rank 16
+  ]
+  edge
+  [
+    source 408
+    target 12
+    rank 17
+  ]
+  edge
+  [
+    source 408
+    target 23
+    rank 20
+  ]
+  edge
+  [
+    source 410
+    target 4
+    rank 9
+  ]
+  edge
+  [
+    source 410
+    target 136
+    rank 20
+  ]
+  edge
+  [
+    source 411
+    target 176
+    rank 17
+  ]
+  edge
+  [
+    source 412
+    target 283
+    rank 10
+  ]
+  edge
+  [
+    source 413
+    target 171
+    rank 3
+  ]
+  edge
+  [
+    source 413
+    target 59
+    rank 4
+  ]
+  edge
+  [
+    source 413
+    target 318
+    rank 10
+  ]
+  edge
+  [
+    source 414
+    target 425
+    rank 11
+  ]
+  edge
+  [
+    source 415
+    target 81
+    rank 7
+  ]
+  edge
+  [
+    source 416
+    target 171
+    rank 10
+  ]
+  edge
+  [
+    source 416
+    target 59
+    rank 19
+  ]
+  edge
+  [
+    source 417
+    target 121
+    rank 1
+  ]
+  edge
+  [
+    source 417
+    target 71
+    rank 2
+  ]
+  edge
+  [
+    source 417
+    target 168
+    rank 3
+  ]
+  edge
+  [
+    source 417
+    target 79
+    rank 4
+  ]
+  edge
+  [
+    source 417
+    target 14
+    rank 5
+  ]
+  edge
+  [
+    source 417
+    target 6
+    rank 6
+  ]
+  edge
+  [
+    source 417
+    target 104
+    rank 7
+  ]
+  edge
+  [
+    source 417
+    target 81
+    rank 9
+  ]
+  edge
+  [
+    source 417
+    target 18
+    rank 10
+  ]
+  edge
+  [
+    source 417
+    target 227
+    rank 12
+  ]
+  edge
+  [
+    source 417
+    target 84
+    rank 13
+  ]
+  edge
+  [
+    source 417
+    target 266
+    rank 14
+  ]
+  edge
+  [
+    source 417
+    target 63
+    rank 16
+  ]
+  edge
+  [
+    source 417
+    target 19
+    rank 17
+  ]
+  edge
+  [
+    source 419
+    target 174
+    rank 3
+  ]
+  edge
+  [
+    source 419
+    target 414
+    rank 15
+  ]
+  edge
+  [
+    source 419
+    target 425
+    rank 17
+  ]
+  edge
+  [
+    source 420
+    target 19
+    rank 2
+  ]
+  edge
+  [
+    source 420
+    target 137
+    rank 3
+  ]
+  edge
+  [
+    source 420
+    target 5
+    rank 4
+  ]
+  edge
+  [
+    source 420
+    target 283
+    rank 5
+  ]
+  edge
+  [
+    source 420
+    target 62
+    rank 12
+  ]
+  edge
+  [
+    source 420
+    target 358
+    rank 14
+  ]
+  edge
+  [
+    source 420
+    target 442
+    rank 20
+  ]
+  edge
+  [
+    source 421
+    target 171
+    rank 1
+  ]
+  edge
+  [
+    source 421
+    target 345
+    rank 13
+  ]
+  edge
+  [
+    source 422
+    target 57
+    rank 4
+  ]
+  edge
+  [
+    source 423
+    target 5
+    rank 1
+  ]
+  edge
+  [
+    source 423
+    target 375
+    rank 2
+  ]
+  edge
+  [
+    source 423
+    target 33
+    rank 5
+  ]
+  edge
+  [
+    source 423
+    target 155
+    rank 7
+  ]
+  edge
+  [
+    source 423
+    target 62
+    rank 8
+  ]
+  edge
+  [
+    source 424
+    target 171
+    rank 1
+  ]
+  edge
+  [
+    source 424
+    target 2
+    rank 2
+  ]
+  edge
+  [
+    source 424
+    target 128
+    rank 8
+  ]
+  edge
+  [
+    source 424
+    target 10
+    rank 9
+  ]
+  edge
+  [
+    source 426
+    target 71
+    rank 2
+  ]
+  edge
+  [
+    source 426
+    target 14
+    rank 3
+  ]
+  edge
+  [
+    source 426
+    target 18
+    rank 5
+  ]
+  edge
+  [
+    source 426
+    target 190
+    rank 6
+  ]
+  edge
+  [
+    source 426
+    target 91
+    rank 8
+  ]
+  edge
+  [
+    source 426
+    target 11
+    rank 10
+  ]
+  edge
+  [
+    source 426
+    target 124
+    rank 11
+  ]
+  edge
+  [
+    source 426
+    target 20
+    rank 15
+  ]
+  edge
+  [
+    source 426
+    target 95
+    rank 16
+  ]
+  edge
+  [
+    source 426
+    target 15
+    rank 17
+  ]
+  edge
+  [
+    source 426
+    target 114
+    rank 18
+  ]
+  edge
+  [
+    source 426
+    target 1
+    rank 20
+  ]
+  edge
+  [
+    source 427
+    target 81
+    rank 1
+  ]
+  edge
+  [
+    source 427
+    target 101
+    rank 2
+  ]
+  edge
+  [
+    source 427
+    target 8
+    rank 6
+  ]
+  edge
+  [
+    source 427
+    target 421
+    rank 7
+  ]
+  edge
+  [
+    source 428
+    target 4
+    rank 5
+  ]
+  edge
+  [
+    source 428
+    target 15
+    rank 6
+  ]
+  edge
+  [
+    source 428
+    target 16
+    rank 8
+  ]
+  edge
+  [
+    source 428
+    target 155
+    rank 9
+  ]
+  edge
+  [
+    source 428
+    target 349
+    rank 12
+  ]
+  edge
+  [
+    source 428
+    target 393
+    rank 13
+  ]
+  edge
+  [
+    source 428
+    target 442
+    rank 20
+  ]
+  edge
+  [
+    source 429
+    target 36
+    rank 4
+  ]
+  edge
+  [
+    source 429
+    target 57
+    rank 5
+  ]
+  edge
+  [
+    source 429
+    target 399
+    rank 8
+  ]
+  edge
+  [
+    source 429
+    target 349
+    rank 15
+  ]
+  edge
+  [
+    source 430
+    target 349
+    rank 10
+  ]
+  edge
+  [
+    source 430
+    target 62
+    rank 14
+  ]
+  edge
+  [
+    source 431
+    target 227
+    rank 13
+  ]
+  edge
+  [
+    source 431
+    target 345
+    rank 16
+  ]
+  edge
+  [
+    source 432
+    target 169
+    rank 1
+  ]
+  edge
+  [
+    source 432
+    target 81
+    rank 10
+  ]
+  edge
+  [
+    source 432
+    target 39
+    rank 14
+  ]
+  edge
+  [
+    source 433
+    target 18
+    rank 1
+  ]
+  edge
+  [
+    source 433
+    target 182
+    rank 3
+  ]
+  edge
+  [
+    source 433
+    target 30
+    rank 4
+  ]
+  edge
+  [
+    source 433
+    target 91
+    rank 7
+  ]
+  edge
+  [
+    source 433
+    target 48
+    rank 8
+  ]
+  edge
+  [
+    source 433
+    target 232
+    rank 9
+  ]
+  edge
+  [
+    source 433
+    target 114
+    rank 10
+  ]
+  edge
+  [
+    source 433
+    target 19
+    rank 11
+  ]
+  edge
+  [
+    source 433
+    target 95
+    rank 14
+  ]
+  edge
+  [
+    source 433
+    target 15
+    rank 18
+  ]
+  edge
+  [
+    source 433
+    target 9
+    rank 20
+  ]
+  edge
+  [
+    source 434
+    target 422
+    rank 12
+  ]
+  edge
+  [
+    source 435
+    target 375
+    rank 11
+  ]
+  edge
+  [
+    source 435
+    target 3
+    rank 15
+  ]
+  edge
+  [
+    source 436
+    target 171
+    rank 2
+  ]
+  edge
+  [
+    source 436
+    target 168
+    rank 5
+  ]
+  edge
+  [
+    source 436
+    target 23
+    rank 11
+  ]
+  edge
+  [
+    source 437
+    target 403
+    rank 9
+  ]
+  edge
+  [
+    source 437
+    target 440
+    rank 11
+  ]
+  edge
+  [
+    source 438
+    target 119
+    rank 1
+  ]
+  edge
+  [
+    source 438
+    target 22
+    rank 4
+  ]
+  edge
+  [
+    source 438
+    target 88
+    rank 5
+  ]
+  edge
+  [
+    source 438
+    target 18
+    rank 6
+  ]
+  edge
+  [
+    source 438
+    target 3
+    rank 7
+  ]
+  edge
+  [
+    source 438
+    target 140
+    rank 10
+  ]
+  edge
+  [
+    source 438
+    target 14
+    rank 11
+  ]
+  edge
+  [
+    source 438
+    target 59
+    rank 16
+  ]
+  edge
+  [
+    source 438
+    target 76
+    rank 18
+  ]
+  edge
+  [
+    source 438
+    target 150
+    rank 19
+  ]
+  edge
+  [
+    source 439
+    target 171
+    rank 1
+  ]
+  edge
+  [
+    source 439
+    target 253
+    rank 4
+  ]
+  edge
+  [
+    source 439
+    target 3
+    rank 11
+  ]
+  edge
+  [
+    source 439
+    target 182
+    rank 13
+  ]
+  edge
+  [
+    source 439
+    target 295
+    rank 14
+  ]
+  edge
+  [
+    source 439
+    target 269
+    rank 15
+  ]
+  edge
+  [
+    source 439
+    target 57
+    rank 16
+  ]
+  edge
+  [
+    source 441
+    target 169
+    rank 1
+  ]
+  edge
+  [
+    source 441
+    target 6
+    rank 2
+  ]
+  edge
+  [
+    source 441
+    target 79
+    rank 3
+  ]
+  edge
+  [
+    source 441
+    target 39
+    rank 4
+  ]
+  edge
+  [
+    source 441
+    target 3
+    rank 5
+  ]
+  edge
+  [
+    source 441
+    target 18
+    rank 6
+  ]
+  edge
+  [
+    source 441
+    target 66
+    rank 7
+  ]
+  edge
+  [
+    source 441
+    target 71
+    rank 8
+  ]
+  edge
+  [
+    source 441
+    target 14
+    rank 9
+  ]
+  edge
+  [
+    source 441
+    target 182
+    rank 10
+  ]
+  edge
+  [
+    source 441
+    target 132
+    rank 11
+  ]
+  edge
+  [
+    source 441
+    target 114
+    rank 12
+  ]
+  edge
+  [
+    source 441
+    target 91
+    rank 14
+  ]
+  edge
+  [
+    source 441
+    target 8
+    rank 15
+  ]
+  edge
+  [
+    source 441
+    target 104
+    rank 17
+  ]
+  edge
+  [
+    source 441
+    target 4
+    rank 18
+  ]
+  edge
+  [
+    source 441
+    target 20
+    rank 19
+  ]
+  edge
+  [
+    source 442
+    target 171
+    rank 1
+  ]
+  edge
+  [
+    source 442
+    target 10
+    rank 4
+  ]
+  edge
+  [
+    source 442
+    target 36
+    rank 7
+  ]
+  edge
+  [
+    source 442
+    target 11
+    rank 13
+  ]
+  edge
+  [
+    source 442
+    target 19
+    rank 14
+  ]
+  edge
+  [
+    source 442
+    target 23
+    rank 15
+  ]
+  edge
+  [
+    source 442
+    target 15
+    rank 20
+  ]
+  edge
+  [
+    source 443
+    target 171
+    rank 2
+  ]
+  edge
+  [
+    source 443
+    target 220
+    rank 3
+  ]
+  edge
+  [
+    source 443
+    target 27
+    rank 7
+  ]
+  edge
+  [
+    source 443
+    target 50
+    rank 10
+  ]
+  edge
+  [
+    source 443
+    target 6
+    rank 11
+  ]
+  edge
+  [
+    source 443
+    target 230
+    rank 12
+  ]
+  edge
+  [
+    source 443
+    target 118
+    rank 13
+  ]
+  edge
+  [
+    source 443
+    target 156
+    rank 14
+  ]
+  edge
+  [
+    source 443
+    target 18
+    rank 15
+  ]
+  edge
+  [
+    source 443
+    target 104
+    rank 19
+  ]
+  edge
+  [
+    source 444
+    target 410
+    rank 3
+  ]
+  edge
+  [
+    source 444
+    target 241
+    rank 10
+  ]
+  edge
+  [
+    source 445
+    target 104
+    rank 7
+  ]
+  edge
+  [
+    source 445
+    target 5
+    rank 13
+  ]
+  edge
+  [
+    source 446
+    target 140
+    rank 1
+  ]
+  edge
+  [
+    source 446
+    target 84
+    rank 4
+  ]
+  edge
+  [
+    source 446
+    target 168
+    rank 5
+  ]
+  edge
+  [
+    source 446
+    target 150
+    rank 9
+  ]
+  edge
+  [
+    source 446
+    target 36
+    rank 11
+  ]
+  edge
+  [
+    source 446
+    target 146
+    rank 12
+  ]
+  edge
+  [
+    source 446
+    target 8
+    rank 14
+  ]
+  edge
+  [
+    source 446
+    target 392
+    rank 17
+  ]
+  edge
+  [
+    source 446
+    target 442
+    rank 18
+  ]
+  edge
+  [
+    source 447
+    target 171
+    rank 3
+  ]
+  edge
+  [
+    source 447
+    target 150
+    rank 5
+  ]
+  edge
+  [
+    source 447
+    target 325
+    rank 10
+  ]
+  edge
+  [
+    source 448
+    target 5
+    rank 3
+  ]
+  edge
+  [
+    source 448
+    target 33
+    rank 6
+  ]
+  edge
+  [
+    source 448
+    target 44
+    rank 7
+  ]
+  edge
+  [
+    source 448
+    target 178
+    rank 14
+  ]
+  edge
+  [
+    source 448
+    target 62
+    rank 15
+  ]
+  edge
+  [
+    source 449
+    target 36
+    rank 4
+  ]
+  edge
+  [
+    source 449
+    target 23
+    rank 6
+  ]
+  edge
+  [
+    source 449
+    target 410
+    rank 9
+  ]
+  edge
+  [
+    source 449
+    target 5
+    rank 10
+  ]
+  edge
+  [
+    source 449
+    target 393
+    rank 15
+  ]
+  edge
+  [
+    source 450
+    target 10
+    rank 3
+  ]
+  edge
+  [
+    source 450
+    target 171
+    rank 7
+  ]
+  edge
+  [
+    source 450
+    target 2
+    rank 9
+  ]
+  edge
+  [
+    source 450
+    target 128
+    rank 11
+  ]
+  edge
+  [
+    source 451
+    target 171
+    rank 1
+  ]
+  edge
+  [
+    source 451
+    target 10
+    rank 2
+  ]
+  edge
+  [
+    source 451
+    target 59
+    rank 6
+  ]
+  edge
+  [
+    source 451
+    target 161
+    rank 18
+  ]
+  edge
+  [
+    source 452
+    target 2
+    rank 1
+  ]
+  edge
+  [
+    source 454
+    target 10
+    rank 3
+  ]
+  edge
+  [
+    source 454
+    target 18
+    rank 4
+  ]
+  edge
+  [
+    source 454
+    target 171
+    rank 5
+  ]
+  edge
+  [
+    source 454
+    target 79
+    rank 10
+  ]
+  edge
+  [
+    source 455
+    target 6
+    rank 1
+  ]
+  edge
+  [
+    source 455
+    target 238
+    rank 2
+  ]
+  edge
+  [
+    source 455
+    target 88
+    rank 3
+  ]
+  edge
+  [
+    source 455
+    target 132
+    rank 8
+  ]
+  edge
+  [
+    source 455
+    target 197
+    rank 13
+  ]
+  edge
+  [
+    source 455
+    target 59
+    rank 14
+  ]
+  edge
+  [
+    source 455
+    target 68
+    rank 16
+  ]
+  edge
+  [
+    source 455
+    target 104
+    rank 19
+  ]
+  edge
+  [
+    source 455
+    target 190
+    rank 20
+  ]
+  edge
+  [
+    source 456
+    target 140
+    rank 2
+  ]
+  edge
+  [
+    source 457
+    target 24
+    rank 1
+  ]
+  edge
+  [
+    source 457
+    target 410
+    rank 9
+  ]
+  edge
+  [
+    source 458
+    target 140
+    rank 1
+  ]
+  edge
+  [
+    source 458
+    target 59
+    rank 5
+  ]
+  edge
+  [
+    source 458
+    target 197
+    rank 7
+  ]
+  edge
+  [
+    source 458
+    target 104
+    rank 8
+  ]
+  edge
+  [
+    source 459
+    target 10
+    rank 1
+  ]
+  edge
+  [
+    source 459
+    target 140
+    rank 2
+  ]
+  edge
+  [
+    source 459
+    target 181
+    rank 5
+  ]
+  edge
+  [
+    source 459
+    target 59
+    rank 7
+  ]
+  edge
+  [
+    source 459
+    target 245
+    rank 11
+  ]
+  edge
+  [
+    source 459
+    target 200
+    rank 16
+  ]
+  edge
+  [
+    source 460
+    target 325
+    rank 15
+  ]
+  edge
+  [
+    source 460
+    target 281
+    rank 16
+  ]
+  edge
+  [
+    source 461
+    target 6
+    rank 2
+  ]
+  edge
+  [
+    source 461
+    target 79
+    rank 7
+  ]
+  edge
+  [
+    source 461
+    target 132
+    rank 14
+  ]
+  edge
+  [
+    source 461
+    target 190
+    rank 19
+  ]
+  edge
+  [
+    source 462
+    target 101
+    rank 1
+  ]
+  edge
+  [
+    source 462
+    target 10
+    rank 2
+  ]
+  edge
+  [
+    source 462
+    target 6
+    rank 3
+  ]
+  edge
+  [
+    source 462
+    target 1
+    rank 6
+  ]
+  edge
+  [
+    source 462
+    target 190
+    rank 7
+  ]
+  edge
+  [
+    source 462
+    target 57
+    rank 14
+  ]
+  edge
+  [
+    source 462
+    target 20
+    rank 15
   ]
 ]
