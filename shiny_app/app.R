@@ -214,7 +214,7 @@ server <- function(input, output, session) {
   # Check if current coder has done too much -------------------
 
   observeEvent(input$name, {
-    limit = 100
+    limit = 500 # 2 * (nrow(dataset) / (length(names) - 2))
     current = sum(priors$name[priors$s.no. %in% dataset$s.no.] == input$name)
     if (current >= limit){
       # display message if so
@@ -235,7 +235,7 @@ server <- function(input, output, session) {
     exclude1 <- priors %>%
       group_by(s.no.) %>%
       mutate(total = length(s.no.)) %>%
-      filter(total >= 1) %>%
+      filter(total = 1) %>%
       select(s.no.)
 
     # exclude articles already coded by current coder
@@ -253,17 +253,6 @@ server <- function(input, output, session) {
       dplyr::sample_n(size = 1)
   })
 
-
-  # Select a random video to code -----------------------------
-  to_code <- eventReactive(input$new_abstract, {
-
-
-
-    # random selection from the remainder
-    dataset %>%
-      data.frame() %>%
-      dplyr::sample_n(size = 1)
-  })
 
   # display title, and description ----------------------
   output$title <- renderTable(to_code() %>% select(title))
