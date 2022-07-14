@@ -10,17 +10,23 @@ library(dplyr)
 library(purrr)
 library(readr)
 library(stringr)
+library(here)
 
+here::i_am("README.md")
 
-my_path <- "C:\\Users\\Harkirat Singh Lamba\\Desktop\\yt"
-response_path <- paste0(my_path, "/responses/")
+graph_name <- "adrenochrome"
+
+graph_file <- paste0(graph_name, ".gml")
+
+my_path <- here()
+response_path <- here(my_path, "shiny_app/responses/")
 
 
 
 # Data Import and Merge ###############################################
 
 ## Get original and auto abstract files
-g <-  read_graph('C:\\Users\\Harkirat Singh Lamba\\Desktop\\yt\\filter_bubbles.gml', format = "gml")
+g <-  read_graph(here("data/clean/networks", graph_file), format = "gml")
 data <- as_data_frame(g,"vertices")
 data <- input_file %>%
   mutate(
@@ -42,7 +48,7 @@ code_data <- map(list.files(response_path, full.names = T),
 code_data <- bind_rows(code_data)
 
 # Save responses as single data frame
-saveRDS(code_data, paste0(my_path, "response_data.rds"))
+saveRDS(code_data, here(my_path, "response_data.rds"))
 
 
 
@@ -136,7 +142,7 @@ code_tbl1 <- final_data %>% group_by(title) %>%
               des_miss = sum(micro=="Description missing", na.rm=T),
               not_sure = sum(micro=="I'm not sure", na.rm=T)
     ) 
-write.csv(code_tbl1, paste0(my_path, "codingchoice1_summary.csv"), row.names=F)
+write.csv(code_tbl1, here(my_path, "codingchoice1_summary.csv"), row.names=F)
 
 code_tbl2 <- final_data %>% group_by(title) %>% 
   summarise(n = n(),
@@ -144,9 +150,9 @@ code_tbl2 <- final_data %>% group_by(title) %>%
             off_topic = sum(topic=="No", na.rm=T),
             not_sure = sum(topic=="I'm not sure", na.rm=T)
   ) 
-write.csv(code_tbl2, paste0(my_path, "codingchoice2_summary.csv"), row.names=F)
+write.csv(code_tbl2, here(my_path, "codingchoice2_summary.csv"), row.names=F)
 
 
 
 ## Save full coded and merged data
-saveRDS(final_data, paste0(my_path, "dataset_coded_clean.rds"))
+saveRDS(final_data, here(my_path, "dataset_coded_clean.rds"))
