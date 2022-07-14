@@ -13,7 +13,7 @@ here::i_am("README.md")
 ## Set file paths **EACH USER SHOULD UPDATE**
 
 # *Update with your source path to the app folder*
-graph_name <- "5g_covid"
+graph_name <- "9_11_building_7"
 
 graph_file <- paste0(graph_name, ".gml")
 
@@ -214,7 +214,7 @@ server <- function(input, output, session) {
   # Check if current coder has done too much -------------------
 
   observeEvent(input$name, {
-    limit = 500 # 2 * (nrow(dataset) / (length(names) - 2))
+    limit = 100 # 2 * (nrow(dataset) / (length(names) - 2))
     current = sum(priors$name[priors$s.no. %in% dataset$s.no.] == input$name)
     if (current >= limit){
       # display message if so
@@ -235,7 +235,7 @@ server <- function(input, output, session) {
     exclude1 <- priors %>%
       group_by(s.no.) %>%
       mutate(total = length(s.no.)) %>%
-      filter(total = 1) %>%
+      filter(total >= 1) %>%
       select(s.no.)
 
     # exclude articles already coded by current coder
