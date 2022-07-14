@@ -24,6 +24,22 @@ clean_network <- function(g){
   # g <- delete_edges(g, E(g)[E(g)$rank > 25])
 }
 
+add_sentiment <- function(g,i){
+  perspective_data <- read.csv(paste0("../data/interim/perspective_data/",substr(i,1,nchar(i)-4),".csv"))
+  title_sentiments <- read.csv(paste0("../data/interim/title_sentiments/",substr(i,1,nchar(i)-4),".csv"))
+  
+  V(g)$sentiment <- NA
+  
+  for(j in V(g)$label){
+    if(length(title_sentiments$sentiment[title_sentiments$id==j]) > 0){
+      V(g)$sentiment[V(g)$label == j] <- title_sentiments$sentiment[title_sentiments$id==j]
+    }
+    #set_vertex_attr(g, "sentiment", )
+  }
+  
+  return(g)
+}
+
 get_network_metadata <- function(g, networkName=NA){
   ## COMPONENT SELECTION
   # identifying components
@@ -47,12 +63,17 @@ get_network_metadata <- function(g, networkName=NA){
   cl <- cluster_louvain(as.undirected(g))
   V(g)$cluster <- cl$membership
 
+  # DEFINE HUBS
+  hubs <- V(g)[order(V(g)$indegree,decreasing=T)][1:10]
+  
   MD2 <- data.frame(
     no_clusters = length(unique(cl$membership)),
     modularity = cl$modularity[1],
     avg_degree = mean(degree(g)),
     viewcount = sum(V(g)$view_count),
-    gini = Gini(V(g)$view_count)
+    gini = Gini(V(g)$view_count),
+    hub10_distance = mean(distances(g, hubs, hubs)),
+    avg_sentiment = mean(V(g)$sentiment)
   )
 
   return(cbind(MD1,MD2))  
@@ -68,23 +89,6 @@ clean_titles <- function(g){
 
 clean_descriptions <- function(g){
   # TO DO
-}
-
-add_sentiment <- function(g,i){
-  perspective_data <- read.csv(paste0("../data/interim/perspective_data/",substr(i,1,nchar(i)-4),".csv"))
-  title_sentiments <- read.csv(paste0("../data/interim/title_sentiments/",substr(i,1,nchar(i)-4),".csv"))
-  colnames(perspective_data)[colnames(perspective_data)=="video_id"] <- "id"
-  colnames(title_sentiments)[colnames(title_sentiments)=="video_id"] <- "id"
-  
-  network_data <- igraph::as_data_frame(g, 'both')
-  
-  network_data$vertices <- merge(network_data$vertices, perspective_data, by="id", all.x = TRUE)
-  network_data$vertices <- merge(network_data$vertices, title_sentiments, by="id", all.x = TRUE)
-  
-  g <- graph_from_data_frame(network_data$edges[network_data$edges$from %in% network_data$vertices$id | network_data$edges$from %in% network_data$vertices$id,],
-                             directed = T,
-                             vertices = network_data$vertices)
-  return(g)
 }
 
 community_detect_and_select <- function(g){
@@ -115,6 +119,7 @@ for(i in network_files) {
   md <- rbind(md,get_network_metadata(g, substr(i,1,nchar(i)-4)))
   g <- clean_titles(g)
   g <- community_detect_and_select(g)
+  #md$avg_sentiment[md$name==substr(i,1,nchar(i)-4)] <- mean(V(g)$sentiment)
   write_graph(g, file=paste0('../data/clean/networks/',i), format = "gml")
 }
 
