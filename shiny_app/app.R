@@ -13,7 +13,7 @@ here::i_am("README.md")
 ## Set file paths **EACH USER SHOULD UPDATE**
 
 # *Update with your source path to the app folder*
-graph_name <- "adrenochrome"
+graph_name <- "5g_covid"
 
 graph_file <- paste0(graph_name, ".gml")
 
@@ -235,7 +235,7 @@ server <- function(input, output, session) {
     exclude1 <- priors %>%
       group_by(s.no.) %>%
       mutate(total = length(s.no.)) %>%
-      filter(total >= 3) %>%
+      filter(total >= 1) %>%
       select(s.no.)
 
     # exclude articles already coded by current coder
@@ -271,6 +271,12 @@ server <- function(input, output, session) {
   output$channel_title <- renderTable(to_code() %>% select(channeltitle))
   output$url <- renderUI({ to_code() %>% select(url) })
 
+  # display prior coding choices -----------------------------
+  output$prev_choices <- renderTable({priors %>% 
+      filter(s.no. == to_code()$s.no.) %>%
+      select(name, code_choice, s.no.)
+  })
+  
   # Aggregate form data and video ID -----------------------
   formData <- reactive({
     data <- sapply(fields, function(x) input[[x]])
