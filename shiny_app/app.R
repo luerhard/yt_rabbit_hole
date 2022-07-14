@@ -28,14 +28,19 @@ input_file <- as_data_frame(g,"vertices")
 
 sample_ids <- read.csv(here("data/clean/label sample/label_ids.csv"))
 
+video_html_start = '<iframe width="560" height="315" src="https://www.youtube.com/embed/'
+video_html_end = '" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+
 input_file <- input_file %>%
   mutate(
-    url = paste0("https://www.youtube.com/watch?v=", label),
-    s.no. = label
+    #url = paste0("https://www.youtube.com/watch?v=", label),
+    url = paste0('<iframe width="560" height="315" src="https://www.youtube.com/embed/', label , '" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>')
     ) %>%
   filter(
     label %in% sample_ids$video_id
   )
+
+input_file$url <- lapply(input_file$url, FUN=HTML)
 
 ######################################################
 ## Define save and load functions
@@ -60,12 +65,12 @@ saveData <- function(data) {
 loadPriors <- function(filesInfo=NULL, prior_responses=NULL) {
   # Set working directory to responses sub-folder
   setwd(responses_path)
-  
+
   # Determine whether prior responses have been loaded
   if (is.null(prior_responses)) {
     # Get current file list
     filesInfo <- list.files()
-    
+
     # Load prior responses for first time
     prior_responses <- map(filesInfo,
                            function(x) {
@@ -77,7 +82,7 @@ loadPriors <- function(filesInfo=NULL, prior_responses=NULL) {
   else {
     # Get new file list
     new_files <- setdiff(list.files(), filesInfo)
-    
+
     # If >= 1 new file then append to prior_responses and filesInfo
     if (length(new_files) != 0) {
       new_responses <- map(new_files,
@@ -164,7 +169,7 @@ ui_code <- sidebarLayout(
     tableOutput("title"),
     tableOutput("description"),
     tableOutput("channel_title"),
-    tableOutput("url")
+    htmlOutput("url")
   )
 )
 
@@ -204,9 +209,9 @@ server <- function(input, output, session) {
   priorData <- loadPriors()
   fileInfo <- priorData$filesInfo
   priors <- priorData$prior_responses
-  
+
   # Check if current coder has done too much -------------------
-  
+
   observeEvent(input$name, {
     limit = 50
     current = sum(priors$name[priors$s.no. %in% dataset$s.no.] == input$name)
@@ -215,15 +220,15 @@ server <- function(input, output, session) {
       shinyjs::show("limit_msg")
     }
   })
-  
+
   # Select a random article to code -----------------------------
   to_code <- eventReactive(input$new_abstract, {
-    
+
     # refresh prior responses
     priorData <- loadPriors(fileInfo, priors)
     fileInfo <- priorData$filesInfo
     priors <- priorData$prior_responses
-    
+
     # exclude articles already coded twice
     # exclude articles already coded six times
     exclude1 <- priors %>%
@@ -231,20 +236,20 @@ server <- function(input, output, session) {
       mutate(total = length(s.no.)) %>%
       filter(total >= 3) %>%
       select(s.no.)
-    
+
     # exclude articles already coded by current coder
     exclude2 <- priors %>%
       filter(name == input$name) %>%
       select(s.no.)
-    
+
     # combine exclusions
     exclude <- bind_rows(exclude1, exclude2)
-    
+
     # random selection from the remainder
-    dataset %>% 
+    dataset %>%
       data.frame() %>%
       filter(!(s.no. %in% exclude$s.no.)) %>%
-      dplyr::sample_n(size = 1) 
+      dplyr::sample_n(size = 1)
   })
 
 
@@ -263,7 +268,7 @@ server <- function(input, output, session) {
   output$title <- renderTable(to_code() %>% select(title))
   output$description <- renderTable(to_code() %>% select(description))
   output$channel_title <- renderTable(to_code() %>% select(channeltitle))
-  output$url <- renderTable(to_code() %>% select(url))
+  output$url <- renderUI({ to_code() %>% select(url) })
 
   # Aggregate form data and video ID -----------------------
   formData <- reactive({

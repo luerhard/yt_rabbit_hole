@@ -133,3 +133,4 @@ ytvenv/
 src/.DS_Store
 .Rproj.user
 tmp/
+Rcode/.Rhistory
