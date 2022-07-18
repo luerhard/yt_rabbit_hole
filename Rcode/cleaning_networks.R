@@ -27,6 +27,24 @@ clean_network <- function(g){
   # g <- delete_edges(g, E(g)[E(g)$rank > 25])
 }
 
+add_sentiment <- function(g,i){
+  perspective_data <- read.csv(paste0("../data/interim/perspective_data/",substr(i,1,nchar(i)-4),".csv"))
+  title_sentiments <- read.csv(paste0("../data/interim/title_sentiments/",substr(i,1,nchar(i)-4),".csv"))
+  
+  for(node in V(g)){
+    V(g)$pp_insult[node] <- perspective_data$PERSPECTIVE_INSULT[perspective_data$video_id == V(g)$label[node]]
+    V(g)$pp_flirtation[node] <- perspective_data$PERSPECTIVE_FLIRTATION[perspective_data$video_id == V(g)$label[node]]
+    V(g)$pp_identity_attack[node] <- perspective_data$PERSPECTIVE_IDENTITY_ATTACK[perspective_data$video_id == V(g)$label[node]]
+    V(g)$pp_threat[node] <- perspective_data$PERSPECTIVE_THREAT[perspective_data$video_id == V(g)$label[node]]
+    V(g)$pp_toxicity[node] <- perspective_data$PERSPECTIVE_TOXICITY[perspective_data$video_id == V(g)$label[node]]
+    V(g)$pp_sexually_explicit[node] <- perspective_data$PERSPECTIVE_SEXUALLY_EXPLICIT[perspective_data$video_id == V(g)$label[node]]
+    V(g)$pp_profanity[node] <- perspective_data$PERSPECTIVE_PROFANITY[perspective_data$video_id == V(g)$label[node]]
+    V(g)$pp_inflammatory[node] <- perspective_data$PERSPECTIVE_INFLAMMATORY[perspective_data$video_id == V(g)$label[node]]
+    V(g)$sentiment[node] <- title_sentiments$sentiment[title_sentiments$video_id == V(g)$label[node]]
+  }
+  
+  return(g)
+}
 
 get_network_metadata <- function(g, networkName=NA){
   ## COMPONENT SELECTION
@@ -61,7 +79,7 @@ get_network_metadata <- function(g, networkName=NA){
     viewcount = sum(V(g)$view_count),
     gini = Gini(V(g)$view_count),
     hub10_distance = mean(distances(g, hubs, hubs)),
-    avg_sentiment = mean(V(g)$sentiment)
+    avg_sentiment = mean(V(g)$sentiment,na.rm=T)
   )
 
   return(cbind(MD1,MD2))
@@ -78,7 +96,6 @@ clean_titles <- function(g){
 clean_descriptions <- function(g){
   # TO DO
 }
-
 
 community_detect_and_select <- function(g){
   ## COMPONENT SELECTION
@@ -104,10 +121,10 @@ md <- data.frame()
 for(i in network_files) {
   g <- read_graph(paste0("../data/interim/networks/",i), format = "gml")
   g <- clean_network(g)
+  g <- add_sentiment(g,i)
   md <- rbind(md,get_network_metadata(g, substr(i,1,nchar(i)-4)))
   g <- clean_titles(g)
   g <- community_detect_and_select(g)
-  #md$avg_sentiment[md$name==substr(i,1,nchar(i)-4)] <- mean(V(g)$sentiment)
   write_graph(g, file=paste0('../data/clean/networks/',i), format = "gml")
 }
 
