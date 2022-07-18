@@ -193,10 +193,10 @@ class YtRequestor:
 
     def get_video_metadata(self, video_id: str):
         response = self._single_request(self._video_metadata, video_id, units=1)
-        item = response["items"][0]
-        stats = item["statistics"]
-        details = item["contentDetails"]
-        snippet = item["snippet"]
+        item = response["items"][0] if len(response["items"]) > 0 else {}
+        stats = item.get("statistics", {})
+        details = item.get("contentDetails", {})
+        snippet = item.get("snippet", {})
 
         r = dict()
         r["view_count"] = float(stats.get("viewCount", np.nan))

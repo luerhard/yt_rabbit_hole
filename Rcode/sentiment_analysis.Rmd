@@ -25,6 +25,8 @@ library(tidytext)
 here::i_am("README.md")
 
 network_folder <- here("data/clean/networks")
+
+theme_set(theme_classic())
 ```
 
 
@@ -41,19 +43,6 @@ for (file in network_paths) {
   df <- bind_rows(df, nodes)
 }
 ```
-
-```{r}
-# join sentiment
-
-sentiment_folder <- here("data/interim/title_sentiments")
-sentiments <- lapply(
-  list.files(sentiment_folder, full.names = T),
-  function(x) read_csv(x, show_col_types = F)
-)
-
-sentiments <- bind_rows(sentiments)
-```
-
 
 
 ```{r}
@@ -86,8 +75,7 @@ science_topics <- c(
 
 
 ```{r}
-senti_df <- df %>%
-  left_join(sentiments, by = c("label" = "video_id"), ) %>%
+df <- df %>%
   mutate(
     topic_group = case_when(
       network %in% conspiracy_topics ~ "conspiracy",
@@ -100,10 +88,10 @@ senti_df <- df %>%
 
 ```{r}
 
-senti_df %>%
+df %>%
   group_by(topic_group, network) %>%
   summarize(
-    avg_sentiment = mean(sentiment.y)
+    avg_sentiment = mean(sentiment)
   ) %>%
   ggplot(aes(x = reorder(network, avg_sentiment), y = avg_sentiment, fill = topic_group)) +
   geom_col() +
@@ -113,41 +101,20 @@ senti_df %>%
 ## by topic group
 
 ```{r}
-senti_df %>%
+df %>%
   group_by(topic_group) %>%
   summarize(
-    avg_sentiment = mean(sentiment.y)
+    avg_sentiment = mean(sentiment)
   ) %>%
   ggplot(aes(x = reorder(topic_group, avg_sentiment), y = avg_sentiment)) +
   geom_col() +
   xlab("Group") +
   coord_flip()
 
-#ggsave(here("sentiment_basic.pdf"), width = 6, height = 3)
+# ggsave(here("sentiment_basic.pdf"), width = 6, height = 3)
 ```
 
 # Perspective API Analysis
-
-```{r}
-perspective_folder <- here("data/interim/perspective_data")
-perspective <- lapply(
-  list.files(perspective_folder, full.names = T),
-  function(x) read_csv(x, show_col_types = F)
-)
-
-perspective <- bind_rows(perspective)
-
-perspective_df <- df %>%
-  left_join(perspective, by = c("label" = "video_id")) %>%
-  mutate(
-    topic_group = case_when(
-      network %in% conspiracy_topics ~ "conspiracy",
-      network %in% noncontroversial_topics ~ "non-controversial",
-      network %in% news_topics ~ "news",
-      network %in% science_topics ~ "science"
-    )
-  )
-```
 
 
 ## by network
@@ -155,20 +122,40 @@ perspective_df <- df %>%
 
 ```{r, fig.width=15, fig.height=7}
 
-perspective_plot <- perspective_df %>%
+perspective_plot <- df %>%
   select(-c(PERSPECTIVE_FLIRTATION, PERSPECTIVE_THREAT, PERSPECTIVE_SEXUALLY_EXPLICIT, PERSPECTIVE_PROFANITY)) %>%
   pivot_longer(starts_with("PERSPECTIVE_"), names_to = "perspective_type") %>%
   group_by(topic_group, network, perspective_type) %>%
   summarize(avg_val = mean(value)) %>%
   ungroup() %>%
-  ggplot(aes(x=topic_group, y=avg_val, label=network)) +
-  stat_summary(fun = mean, geom = "bar", fill='#BED1DB', color='black') +
-  stat_summary(fun.data = mean_se, geom = "errorbar", width=.2) +
-  ylab('Avg. probability') +
-  geom_text(color = '#658DA0', size=3, alpha=1) +
-  facet_wrap(~perspective_type, ncol = 2, scales="free")
+  ggplot(aes(x = topic_group, y = avg_val, label = network)) +
+  stat_summary(fun = mean, geom = "bar", fill = "#BED1DB", color = "black") +
+  stat_summary(fun.data = mean_se, geom = "errorbar", width = .2) +
+  ylab("Avg. probability") +
+  geom_text(color = "#658DA0", size = 3, alpha = 1) +
+  facet_wrap(~perspective_type, ncol = 2, scales = "free")
 
 perspective_plot
 
 #ggsave(here("perspective_plot.pdf"), width = 16, height=9)
+```
+
+
+# Correlation between LR and indegree
+
+```{r}
+df %>%
+  mutate(leftright = ifelse(leftright %in% c("Inf", ""), "Unk", leftright)) %>%
+  group_by(topic_group, network, leftright) %>%
+  summarize(avg_indegree = mean(indegree)) %>%
+  ungroup() %>%
+  ggplot(aes(x = fct_relevel(leftright, "L", "C", "R"), y = avg_indegree, label = network)) +
+  stat_summary(fun = mean, geom = "bar", fill = "#BED1DB", color = "black") +
+  stat_summary(fun.data = mean_se, geom = "errorbar", width = .2) +
+  ylab("Avg. indegree") +
+  xlab("Channel's political orientation") +
+  geom_text(color = "#658DA0", size = 3, alpha = 1) +
+  facet_wrap(~topic_group)
+
+ggsave(here("lr_indegree.pdf"), width=10, height=6)
 ```
