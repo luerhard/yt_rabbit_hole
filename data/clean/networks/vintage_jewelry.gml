@@ -1,6 +1,10 @@
-graph [
+Creator "igraph version 1.3.1 Mon Jul 18 16:46:34 2022"
+Version 1
+graph
+[
   directed 1
-  node [
+  node
+  [
     id 0
     label "9rWnKThfL-A"
     step 0
@@ -15,20 +19,19 @@ graph [
     commentcount 126
     duration "PT15M41S"
     indegree 31
+    ppinsult 0.032024138
+    ppflirtation 0.30183008
+    ppidentityattack 0.038967937
+    ppthreat 0.08010416
+    pptoxicity 0.033074442
+    ppsexuallyexplicit 0.10704983
+    ppprofanity 0.05152706
+    ppinflammatory 0.024191497
+    sentiment 0
     cluster 1
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.10704983
-    PERSPECTIVE_FLIRTATION 0.30183008
-    PERSPECTIVE_INSULT 0.032024138
-    PERSPECTIVE_TOXICITY 0.033074442
-    PERSPECTIVE_IDENTITY_ATTACK 0.038967937
-    PERSPECTIVE_INFLAMMATORY 0.024191497
-    PERSPECTIVE_THREAT 0.08010416
-    PERSPECTIVE_PROFANITY 0.05152706
-    leftright ""
-    channeltags ""
   ]
-  node [
+  node
+  [
     id 1
     label "EvDTmLuac_M"
     step 0
@@ -43,20 +46,19 @@ graph [
     commentcount 143
     duration "PT17M38S"
     indegree 64
-    cluster 2
+    ppinsult 0.023339745
+    ppflirtation 0.36815944
+    ppidentityattack 0.04997895
+    ppthreat 0.09115986
+    pptoxicity 0.011870144
+    ppsexuallyexplicit 0.058266394
+    ppprofanity 0.032415237
+    ppinflammatory 0.038770314
     sentiment 0.2023
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.058266394
-    PERSPECTIVE_FLIRTATION 0.36815944
-    PERSPECTIVE_INSULT 0.023339745
-    PERSPECTIVE_TOXICITY 0.011870144
-    PERSPECTIVE_IDENTITY_ATTACK 0.04997895
-    PERSPECTIVE_INFLAMMATORY 0.038770314
-    PERSPECTIVE_THREAT 0.09115986
-    PERSPECTIVE_PROFANITY 0.032415237
-    leftright ""
-    channeltags ""
+    cluster 2
   ]
-  node [
+  node
+  [
     id 2
     label "ltbNbEbfGrM"
     step 0
@@ -71,20 +73,19 @@ graph [
     commentcount 3468
     duration "PT23M1S"
     indegree 79
+    ppinsult 0.06553976
+    ppflirtation 0.38682038
+    ppidentityattack 0.07653478
+    ppthreat 0.12770484
+    pptoxicity 0.048525527
+    ppsexuallyexplicit 0.03375293
+    ppprofanity 0.031631704
+    ppinflammatory 0.15554827
+    sentiment 0
     cluster 1
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.03375293
-    PERSPECTIVE_FLIRTATION 0.38682038
-    PERSPECTIVE_INSULT 0.06553976
-    PERSPECTIVE_TOXICITY 0.048525527
-    PERSPECTIVE_IDENTITY_ATTACK 0.07653478
-    PERSPECTIVE_INFLAMMATORY 0.15554827
-    PERSPECTIVE_THREAT 0.12770484
-    PERSPECTIVE_PROFANITY 0.031631704
-    leftright ""
-    channeltags ""
   ]
-  node [
+  node
+  [
     id 3
     label "tR_9zzuDn-s"
     step 0
@@ -99,20 +100,19 @@ graph [
     commentcount 108
     duration "PT11M54S"
     indegree 58
+    ppinsult 0.2669861
+    ppflirtation 0.45060188
+    ppidentityattack 0.59679216
+    ppthreat 0.3312855
+    pptoxicity 0.2945986
+    ppsexuallyexplicit 0.16971612
+    ppprofanity 0.26950398
+    ppinflammatory 0.23923092
+    sentiment 0
     cluster 2
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.16971612
-    PERSPECTIVE_FLIRTATION 0.45060188
-    PERSPECTIVE_INSULT 0.2669861
-    PERSPECTIVE_TOXICITY 0.2945986
-    PERSPECTIVE_IDENTITY_ATTACK 0.59679216
-    PERSPECTIVE_INFLAMMATORY 0.23923092
-    PERSPECTIVE_THREAT 0.3312855
-    PERSPECTIVE_PROFANITY 0.26950398
-    leftright ""
-    channeltags ""
   ]
-  node [
+  node
+  [
     id 4
     label "bwBdh58FSWY"
     step 0
@@ -127,20 +127,19 @@ graph [
     commentcount 137
     duration "PT34M45S"
     indegree 115
+    ppinsult 0.0641512
+    ppflirtation 0.37313038
+    ppidentityattack 0.06557493
+    ppthreat 0.09963711
+    pptoxicity 0.11407687
+    ppsexuallyexplicit 0.049850583
+    ppprofanity 0.045233443
+    ppinflammatory 0.13193412
+    sentiment 0
     cluster 3
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.049850583
-    PERSPECTIVE_FLIRTATION 0.37313038
-    PERSPECTIVE_INSULT 0.0641512
-    PERSPECTIVE_TOXICITY 0.11407687
-    PERSPECTIVE_IDENTITY_ATTACK 0.06557493
-    PERSPECTIVE_INFLAMMATORY 0.13193412
-    PERSPECTIVE_THREAT 0.09963711
-    PERSPECTIVE_PROFANITY 0.045233443
-    leftright ""
-    channeltags ""
   ]
-  node [
+  node
+  [
     id 5
     label "iV2Occ49swI"
     step 0
@@ -155,20 +154,19 @@ graph [
     commentcount 50
     duration "PT28M14S"
     indegree 91
+    ppinsult 0.06650814
+    ppflirtation 0.3703889
+    ppidentityattack 0.05640266
+    ppthreat 0.1131066
+    pptoxicity 0.11794081
+    ppsexuallyexplicit 0.05452465
+    ppprofanity 0.04535764
+    ppinflammatory 0.19125889
+    sentiment 0
     cluster 3
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.05452465
-    PERSPECTIVE_FLIRTATION 0.3703889
-    PERSPECTIVE_INSULT 0.06650814
-    PERSPECTIVE_TOXICITY 0.11794081
-    PERSPECTIVE_IDENTITY_ATTACK 0.05640266
-    PERSPECTIVE_INFLAMMATORY 0.19125889
-    PERSPECTIVE_THREAT 0.1131066
-    PERSPECTIVE_PROFANITY 0.04535764
-    leftright ""
-    channeltags ""
   ]
-  node [
+  node
+  [
     id 6
     label "khT0BYLvcs4"
     step 0
@@ -183,20 +181,19 @@ graph [
     commentcount 311
     duration "PT16M4S"
     indegree 81
-    cluster 4
+    ppinsult 0.05173343
+    ppflirtation 0.3942634
+    ppidentityattack 0.062175624
+    ppthreat 0.10310036
+    pptoxicity 0.01228664
+    ppsexuallyexplicit 0.05283518
+    ppprofanity 0.03488481
+    ppinflammatory 0.02828778
     sentiment 0.34
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.05283518
-    PERSPECTIVE_FLIRTATION 0.3942634
-    PERSPECTIVE_INSULT 0.05173343
-    PERSPECTIVE_TOXICITY 0.01228664
-    PERSPECTIVE_IDENTITY_ATTACK 0.062175624
-    PERSPECTIVE_INFLAMMATORY 0.02828778
-    PERSPECTIVE_THREAT 0.10310036
-    PERSPECTIVE_PROFANITY 0.03488481
-    leftright ""
-    channeltags ""
+    cluster 2
   ]
-  node [
+  node
+  [
     id 7
     label "o58xe5TYf3Y"
     step 0
@@ -211,20 +208,19 @@ graph [
     commentcount 32
     duration "PT7M11S"
     indegree 5
-    cluster 2
+    ppinsult 0.1436947
+    ppflirtation 0.36086395
+    ppidentityattack 0.18172452
+    ppthreat 0.58731735
+    pptoxicity 0.14822112
+    ppsexuallyexplicit 0.117901
+    ppprofanity 0.13597137
+    ppinflammatory 0.13192764
     sentiment -0.6486
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.117901
-    PERSPECTIVE_FLIRTATION 0.36086395
-    PERSPECTIVE_INSULT 0.1436947
-    PERSPECTIVE_TOXICITY 0.14822112
-    PERSPECTIVE_IDENTITY_ATTACK 0.18172452
-    PERSPECTIVE_INFLAMMATORY 0.13192764
-    PERSPECTIVE_THREAT 0.58731735
-    PERSPECTIVE_PROFANITY 0.13597137
-    leftright ""
-    channeltags ""
+    cluster 2
   ]
-  node [
+  node
+  [
     id 8
     label "3XiTnDDrIOQ"
     step 0
@@ -239,20 +235,19 @@ graph [
     commentcount 55
     duration "PT22M26S"
     indegree 95
+    ppinsult 0.056684166
+    ppflirtation 0.35140973
+    ppidentityattack 0.062075216
+    ppthreat 0.1043477
+    pptoxicity 0.105704986
+    ppsexuallyexplicit 0.06011498
+    ppprofanity 0.04747849
+    ppinflammatory 0.14473382
+    sentiment 0
     cluster 3
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.06011498
-    PERSPECTIVE_FLIRTATION 0.35140973
-    PERSPECTIVE_INSULT 0.056684166
-    PERSPECTIVE_TOXICITY 0.105704986
-    PERSPECTIVE_IDENTITY_ATTACK 0.062075216
-    PERSPECTIVE_INFLAMMATORY 0.14473382
-    PERSPECTIVE_THREAT 0.1043477
-    PERSPECTIVE_PROFANITY 0.04747849
-    leftright ""
-    channeltags ""
   ]
-  node [
+  node
+  [
     id 9
     label "VsLJtNHZdx0"
     step 0
@@ -267,20 +262,19 @@ graph [
     commentcount 89
     duration "PT18M25S"
     indegree 22
-    cluster 4
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.0987548
-    PERSPECTIVE_FLIRTATION 0.23256116
-    PERSPECTIVE_INSULT 0.09163108
-    PERSPECTIVE_TOXICITY 0.04165838
-    PERSPECTIVE_IDENTITY_ATTACK 0.124407224
-    PERSPECTIVE_INFLAMMATORY 0.029495426
-    PERSPECTIVE_THREAT 0.13198628
-    PERSPECTIVE_PROFANITY 0.10884296
-    leftright ""
-    channeltags ""
+    ppinsult 0.09163108
+    ppflirtation 0.23256116
+    ppidentityattack 0.124407224
+    ppthreat 0.13198628
+    pptoxicity 0.04165838
+    ppsexuallyexplicit 0.0987548
+    ppprofanity 0.10884296
+    ppinflammatory 0.029495426
+    sentiment 0
+    cluster 2
   ]
-  node [
+  node
+  [
     id 10
     label "86aWYgfUCw0"
     step 0
@@ -295,20 +289,19 @@ graph [
     commentcount 90
     duration "PT5M10S"
     indegree 21
-    cluster 1
+    ppinsult 0.07404968
+    ppflirtation 0.23901072
+    ppidentityattack 0.1084036
+    ppthreat 0.0889012
+    pptoxicity 0.053335425
+    ppsexuallyexplicit 0.054300644
+    ppprofanity 0.039580192
+    ppinflammatory 0.27423227
     sentiment 0.2023
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.054300644
-    PERSPECTIVE_FLIRTATION 0.23901072
-    PERSPECTIVE_INSULT 0.07404968
-    PERSPECTIVE_TOXICITY 0.053335425
-    PERSPECTIVE_IDENTITY_ATTACK 0.1084036
-    PERSPECTIVE_INFLAMMATORY 0.27423227
-    PERSPECTIVE_THREAT 0.0889012
-    PERSPECTIVE_PROFANITY 0.039580192
-    leftright ""
-    channeltags ""
+    cluster 2
   ]
-  node [
+  node
+  [
     id 11
     label "yr_sqjh_fw4"
     step 0
@@ -323,20 +316,19 @@ graph [
     commentcount 317
     duration "PT15M5S"
     indegree 22
-    cluster 1
+    ppinsult 0.050642155
+    ppflirtation 0.37353605
+    ppidentityattack 0.05133537
+    ppthreat 0.06731811
+    pptoxicity 0.013883209
+    ppsexuallyexplicit 0.047296766
+    ppprofanity 0.042810548
+    ppinflammatory 0.033218216
     sentiment 0.3182
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.047296766
-    PERSPECTIVE_FLIRTATION 0.37353605
-    PERSPECTIVE_INSULT 0.050642155
-    PERSPECTIVE_TOXICITY 0.013883209
-    PERSPECTIVE_IDENTITY_ATTACK 0.05133537
-    PERSPECTIVE_INFLAMMATORY 0.033218216
-    PERSPECTIVE_THREAT 0.06731811
-    PERSPECTIVE_PROFANITY 0.042810548
-    leftright ""
-    channeltags ""
+    cluster 1
   ]
-  node [
+  node
+  [
     id 12
     label "hVyCpQmXec8"
     step 0
@@ -351,20 +343,19 @@ graph [
     commentcount 312
     duration "PT33M28S"
     indegree 26
-    cluster 1
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.19881439
-    PERSPECTIVE_FLIRTATION 0.42741022
-    PERSPECTIVE_INSULT 0.29218933
-    PERSPECTIVE_TOXICITY 0.06332459
-    PERSPECTIVE_IDENTITY_ATTACK 0.6350989
-    PERSPECTIVE_INFLAMMATORY 0.012109874
-    PERSPECTIVE_THREAT 0.71042114
-    PERSPECTIVE_PROFANITY 0.35381702
-    leftright ""
-    channeltags ""
+    ppinsult 0.29218933
+    ppflirtation 0.42741022
+    ppidentityattack 0.6350989
+    ppthreat 0.71042114
+    pptoxicity 0.06332459
+    ppsexuallyexplicit 0.19881439
+    ppprofanity 0.35381702
+    ppinflammatory 0.012109874
+    sentiment 0
+    cluster 2
   ]
-  node [
+  node
+  [
     id 13
     label "MUvcWZ6Lcj8"
     step 0
@@ -379,20 +370,19 @@ graph [
     commentcount 91
     duration "PT46M49S"
     indegree 40
-    cluster 1
+    ppinsult 0.12562351
+    ppflirtation 0.39832652
+    ppidentityattack 0.07657447
+    ppthreat 0.10716126
+    pptoxicity 0.036851373
+    ppsexuallyexplicit 0.5646269
+    ppprofanity 0.30702174
+    ppinflammatory 0.09913612
     sentiment 0.6486
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.5646269
-    PERSPECTIVE_FLIRTATION 0.39832652
-    PERSPECTIVE_INSULT 0.12562351
-    PERSPECTIVE_TOXICITY 0.036851373
-    PERSPECTIVE_IDENTITY_ATTACK 0.07657447
-    PERSPECTIVE_INFLAMMATORY 0.09913612
-    PERSPECTIVE_THREAT 0.10716126
-    PERSPECTIVE_PROFANITY 0.30702174
-    leftright ""
-    channeltags ""
+    cluster 2
   ]
-  node [
+  node
+  [
     id 14
     label "_CUsIAz5OhY"
     step 0
@@ -407,20 +397,19 @@ graph [
     commentcount 573
     duration "PT12M49S"
     indegree 29
+    ppinsult 0.013201567
+    ppflirtation 0.25363746
+    ppidentityattack 0.012377174
+    ppthreat 0.117085546
+    pptoxicity 0.043375164
+    ppsexuallyexplicit 0.04011134
+    ppprofanity 0.026058013
+    ppinflammatory 0.061911665
+    sentiment 0
     cluster 1
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.04011134
-    PERSPECTIVE_FLIRTATION 0.25363746
-    PERSPECTIVE_INSULT 0.013201567
-    PERSPECTIVE_TOXICITY 0.043375164
-    PERSPECTIVE_IDENTITY_ATTACK 0.012377174
-    PERSPECTIVE_INFLAMMATORY 0.061911665
-    PERSPECTIVE_THREAT 0.117085546
-    PERSPECTIVE_PROFANITY 0.026058013
-    leftright ""
-    channeltags ""
   ]
-  node [
+  node
+  [
     id 15
     label "t7L0R-jpwnQ"
     step 0
@@ -435,20 +424,19 @@ graph [
     commentcount 296
     duration "PT35M21S"
     indegree 34
+    ppinsult 0.066281535
+    ppflirtation 0.38415867
+    ppidentityattack 0.095537536
+    ppthreat 0.15118694
+    pptoxicity 0.082104236
+    ppsexuallyexplicit 0.102841586
+    ppprofanity 0.071990214
+    ppinflammatory 0.10841995
+    sentiment 0
     cluster 2
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.102841586
-    PERSPECTIVE_FLIRTATION 0.38415867
-    PERSPECTIVE_INSULT 0.066281535
-    PERSPECTIVE_TOXICITY 0.082104236
-    PERSPECTIVE_IDENTITY_ATTACK 0.095537536
-    PERSPECTIVE_INFLAMMATORY 0.10841995
-    PERSPECTIVE_THREAT 0.15118694
-    PERSPECTIVE_PROFANITY 0.071990214
-    leftright ""
-    channeltags ""
   ]
-  node [
+  node
+  [
     id 16
     label "V3g6FGE1Ntg"
     step 0
@@ -463,20 +451,19 @@ graph [
     commentcount 42
     duration "PT15M37S"
     indegree 29
-    cluster 4
+    ppinsult 0.0661348
+    ppflirtation 0.2327601
+    ppidentityattack 0.07454782
+    ppthreat 0.12564424
+    pptoxicity 0.030842619
+    ppsexuallyexplicit 0.082912065
+    ppprofanity 0.08906512
+    ppinflammatory 0.14294644
     sentiment 0.6124
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.082912065
-    PERSPECTIVE_FLIRTATION 0.2327601
-    PERSPECTIVE_INSULT 0.0661348
-    PERSPECTIVE_TOXICITY 0.030842619
-    PERSPECTIVE_IDENTITY_ATTACK 0.07454782
-    PERSPECTIVE_INFLAMMATORY 0.14294644
-    PERSPECTIVE_THREAT 0.12564424
-    PERSPECTIVE_PROFANITY 0.08906512
-    leftright ""
-    channeltags ""
+    cluster 2
   ]
-  node [
+  node
+  [
     id 17
     label "20WWW8OeMzw"
     step 0
@@ -491,20 +478,19 @@ graph [
     commentcount 127
     duration "PT8M50S"
     indegree 18
-    cluster 1
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.10754174
-    PERSPECTIVE_FLIRTATION 0.49644688
-    PERSPECTIVE_INSULT 0.15421039
-    PERSPECTIVE_TOXICITY 0.026722329
-    PERSPECTIVE_IDENTITY_ATTACK 0.1361177
-    PERSPECTIVE_INFLAMMATORY 0.18399881
-    PERSPECTIVE_THREAT 0.14726315
-    PERSPECTIVE_PROFANITY 0.094256915
-    leftright ""
-    channeltags ""
+    ppinsult 0.15421039
+    ppflirtation 0.49644688
+    ppidentityattack 0.1361177
+    ppthreat 0.14726315
+    pptoxicity 0.026722329
+    ppsexuallyexplicit 0.10754174
+    ppprofanity 0.094256915
+    ppinflammatory 0.18399881
+    sentiment 0
+    cluster 2
   ]
-  node [
+  node
+  [
     id 18
     label "L7oiaA4ULv0"
     step 0
@@ -519,20 +505,19 @@ graph [
     commentcount 238
     duration "PT24M4S"
     indegree 15
-    cluster 1
+    ppinsult 0.08837761
+    ppflirtation 0.23900166
+    ppidentityattack 0.09007168
+    ppthreat 0.11011253
+    pptoxicity 0.08170467
+    ppsexuallyexplicit 0.09040611
+    ppprofanity 0.102594525
+    ppinflammatory 0.037740957
     sentiment 0.5994
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.09040611
-    PERSPECTIVE_FLIRTATION 0.23900166
-    PERSPECTIVE_INSULT 0.08837761
-    PERSPECTIVE_TOXICITY 0.08170467
-    PERSPECTIVE_IDENTITY_ATTACK 0.09007168
-    PERSPECTIVE_INFLAMMATORY 0.037740957
-    PERSPECTIVE_THREAT 0.11011253
-    PERSPECTIVE_PROFANITY 0.102594525
-    leftright ""
-    channeltags ""
+    cluster 1
   ]
-  node [
+  node
+  [
     id 19
     label "fatBpvSkdVg"
     step 0
@@ -547,20 +532,19 @@ graph [
     commentcount 147
     duration "PT21M44S"
     indegree 66
+    ppinsult 0.13257806
+    ppflirtation 0.27093324
+    ppidentityattack 0.21869892
+    ppthreat 0.25324726
+    pptoxicity 0.033761155
+    ppsexuallyexplicit 0.18732709
+    ppprofanity 0.16470048
+    ppinflammatory 0.15605392
+    sentiment 0
     cluster 4
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.18732709
-    PERSPECTIVE_FLIRTATION 0.27093324
-    PERSPECTIVE_INSULT 0.13257806
-    PERSPECTIVE_TOXICITY 0.033761155
-    PERSPECTIVE_IDENTITY_ATTACK 0.21869892
-    PERSPECTIVE_INFLAMMATORY 0.15605392
-    PERSPECTIVE_THREAT 0.25324726
-    PERSPECTIVE_PROFANITY 0.16470048
-    leftright ""
-    channeltags ""
   ]
-  node [
+  node
+  [
     id 20
     label "XVafmjRn2wA"
     step 0
@@ -575,20 +559,19 @@ graph [
     commentcount 38
     duration "PT25M39S"
     indegree 90
+    ppinsult 0.05668414
+    ppflirtation 0.35140973
+    ppidentityattack 0.062075276
+    ppthreat 0.1043477
+    pptoxicity 0.105704986
+    ppsexuallyexplicit 0.06011498
+    ppprofanity 0.047478512
+    ppinflammatory 0.14473379
+    sentiment 0
     cluster 3
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.06011498
-    PERSPECTIVE_FLIRTATION 0.35140973
-    PERSPECTIVE_INSULT 0.05668414
-    PERSPECTIVE_TOXICITY 0.105704986
-    PERSPECTIVE_IDENTITY_ATTACK 0.062075276
-    PERSPECTIVE_INFLAMMATORY 0.14473379
-    PERSPECTIVE_THREAT 0.1043477
-    PERSPECTIVE_PROFANITY 0.047478512
-    leftright ""
-    channeltags ""
   ]
-  node [
+  node
+  [
     id 21
     label "Y-EWqyUzu0A"
     step 0
@@ -603,20 +586,19 @@ graph [
     commentcount 260
     duration "PT11M50S"
     indegree 31
-    cluster 1
+    ppinsult 0.075693086
+    ppflirtation 0.36627468
+    ppidentityattack 0.09560466
+    ppthreat 0.24442773
+    pptoxicity 0.019297661
+    ppsexuallyexplicit 0.16330883
+    ppprofanity 0.13127768
+    ppinflammatory 0.0918457
     sentiment 0.34
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.16330883
-    PERSPECTIVE_FLIRTATION 0.36627468
-    PERSPECTIVE_INSULT 0.075693086
-    PERSPECTIVE_TOXICITY 0.019297661
-    PERSPECTIVE_IDENTITY_ATTACK 0.09560466
-    PERSPECTIVE_INFLAMMATORY 0.0918457
-    PERSPECTIVE_THREAT 0.24442773
-    PERSPECTIVE_PROFANITY 0.13127768
-    leftright ""
-    channeltags ""
+    cluster 2
   ]
-  node [
+  node
+  [
     id 22
     label "AXyt714T92U"
     step 0
@@ -631,20 +613,19 @@ graph [
     commentcount 201
     duration "PT17M16S"
     indegree 16
+    ppinsult 0.080281734
+    ppflirtation 0.22016762
+    ppidentityattack 0.091959566
+    ppthreat 0.1537896
+    pptoxicity 0.10828095
+    ppsexuallyexplicit 0.07957581
+    ppprofanity 0.09442409
+    ppinflammatory 0.055634897
+    sentiment 0
     cluster 1
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.07957581
-    PERSPECTIVE_FLIRTATION 0.22016762
-    PERSPECTIVE_INSULT 0.080281734
-    PERSPECTIVE_TOXICITY 0.10828095
-    PERSPECTIVE_IDENTITY_ATTACK 0.091959566
-    PERSPECTIVE_INFLAMMATORY 0.055634897
-    PERSPECTIVE_THREAT 0.1537896
-    PERSPECTIVE_PROFANITY 0.09442409
-    leftright ""
-    channeltags ""
   ]
-  node [
+  node
+  [
     id 23
     label "Skxa_r6n0uM"
     step 0
@@ -659,20 +640,19 @@ graph [
     commentcount 148
     duration "PT14M26S"
     indegree 12
+    ppinsult 0.027698562
+    ppflirtation 0.31790844
+    ppidentityattack 0.05653482
+    ppthreat 0.19920205
+    pptoxicity 0.023288755
+    ppsexuallyexplicit 0.06524322
+    ppprofanity 0.02898999
+    ppinflammatory 0.11929519
+    sentiment 0
     cluster 2
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.06524322
-    PERSPECTIVE_FLIRTATION 0.31790844
-    PERSPECTIVE_INSULT 0.027698562
-    PERSPECTIVE_TOXICITY 0.023288755
-    PERSPECTIVE_IDENTITY_ATTACK 0.05653482
-    PERSPECTIVE_INFLAMMATORY 0.11929519
-    PERSPECTIVE_THREAT 0.19920205
-    PERSPECTIVE_PROFANITY 0.02898999
-    leftright ""
-    channeltags ""
   ]
-  node [
+  node
+  [
     id 24
     label "I1hjANkDvKI"
     step 0
@@ -687,20 +667,19 @@ graph [
     commentcount 22
     duration "PT25M30S"
     indegree 4
+    ppinsult 0.08846353
+    ppflirtation 0.27339107
+    ppidentityattack 0.05818152
+    ppthreat 0.07430622
+    pptoxicity 0.02124131
+    ppsexuallyexplicit 0.07085302
+    ppprofanity 0.06252178
+    ppinflammatory 0.026690438
+    sentiment 0
     cluster 2
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.07085302
-    PERSPECTIVE_FLIRTATION 0.27339107
-    PERSPECTIVE_INSULT 0.08846353
-    PERSPECTIVE_TOXICITY 0.02124131
-    PERSPECTIVE_IDENTITY_ATTACK 0.05818152
-    PERSPECTIVE_INFLAMMATORY 0.026690438
-    PERSPECTIVE_THREAT 0.07430622
-    PERSPECTIVE_PROFANITY 0.06252178
-    leftright ""
-    channeltags ""
   ]
-  node [
+  node
+  [
     id 25
     label "s92C9p-Npxk"
     step 0
@@ -715,20 +694,19 @@ graph [
     commentcount 65
     duration "PT24M"
     indegree 12
-    cluster 1
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.03743196
-    PERSPECTIVE_FLIRTATION 0.28037238
-    PERSPECTIVE_INSULT 0.052568376
-    PERSPECTIVE_TOXICITY 0.092262976
-    PERSPECTIVE_IDENTITY_ATTACK 0.06966256
-    PERSPECTIVE_INFLAMMATORY 0.13568786
-    PERSPECTIVE_THREAT 0.17786442
-    PERSPECTIVE_PROFANITY 0.035490647
-    leftright ""
-    channeltags ""
+    ppinsult 0.052568376
+    ppflirtation 0.28037238
+    ppidentityattack 0.06966256
+    ppthreat 0.17786442
+    pptoxicity 0.092262976
+    ppsexuallyexplicit 0.03743196
+    ppprofanity 0.035490647
+    ppinflammatory 0.13568786
+    sentiment 0
+    cluster 3
   ]
-  node [
+  node
+  [
     id 26
     label "JLkk1o6DvWg"
     step 0
@@ -743,20 +721,19 @@ graph [
     commentcount 46
     duration "PT36M10S"
     indegree 14
+    ppinsult 0.043884054
+    ppflirtation 0.33131272
+    ppidentityattack 0.095878445
+    ppthreat 0.29655385
+    pptoxicity 0.044405237
+    ppsexuallyexplicit 0.035140157
+    ppprofanity 0.038720522
+    ppinflammatory 0.15843648
+    sentiment 0
     cluster 1
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.035140157
-    PERSPECTIVE_FLIRTATION 0.33131272
-    PERSPECTIVE_INSULT 0.043884054
-    PERSPECTIVE_TOXICITY 0.044405237
-    PERSPECTIVE_IDENTITY_ATTACK 0.095878445
-    PERSPECTIVE_INFLAMMATORY 0.15843648
-    PERSPECTIVE_THREAT 0.29655385
-    PERSPECTIVE_PROFANITY 0.038720522
-    leftright ""
-    channeltags ""
   ]
-  node [
+  node
+  [
     id 27
     label "b3tOAIhj2ZE"
     step 0
@@ -771,20 +748,19 @@ graph [
     commentcount 15
     duration "PT15M16S"
     indegree 24
+    ppinsult 0.08538648
+    ppflirtation 0.21015967
+    ppidentityattack 0.13547894
+    ppthreat 0.13480993
+    pptoxicity 0.049898956
+    ppsexuallyexplicit 0.09855802
+    ppprofanity 0.097048774
+    ppinflammatory 0.045948606
+    sentiment 0
     cluster 4
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.09855802
-    PERSPECTIVE_FLIRTATION 0.21015967
-    PERSPECTIVE_INSULT 0.08538648
-    PERSPECTIVE_TOXICITY 0.049898956
-    PERSPECTIVE_IDENTITY_ATTACK 0.13547894
-    PERSPECTIVE_INFLAMMATORY 0.045948606
-    PERSPECTIVE_THREAT 0.13480993
-    PERSPECTIVE_PROFANITY 0.097048774
-    leftright ""
-    channeltags ""
   ]
-  node [
+  node
+  [
     id 28
     label "wU9Gzhk29ls"
     step 0
@@ -799,20 +775,19 @@ graph [
     commentcount 250
     duration "PT20M48S"
     indegree 34
-    cluster 2
+    ppinsult 0.042976186
+    ppflirtation 0.42178673
+    ppidentityattack 0.090990365
+    ppthreat 0.15012167
+    pptoxicity 0.022773718
+    ppsexuallyexplicit 0.05043333
+    ppprofanity 0.030681342
+    ppinflammatory 0.020840375
     sentiment 0.4767
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.05043333
-    PERSPECTIVE_FLIRTATION 0.42178673
-    PERSPECTIVE_INSULT 0.042976186
-    PERSPECTIVE_TOXICITY 0.022773718
-    PERSPECTIVE_IDENTITY_ATTACK 0.090990365
-    PERSPECTIVE_INFLAMMATORY 0.020840375
-    PERSPECTIVE_THREAT 0.15012167
-    PERSPECTIVE_PROFANITY 0.030681342
-    leftright ""
-    channeltags ""
+    cluster 2
   ]
-  node [
+  node
+  [
     id 29
     label "c9narwLbG0c"
     step 0
@@ -827,20 +802,19 @@ graph [
     commentcount 45
     duration "PT38M9S"
     indegree 5
-    cluster 1
+    ppinsult 0.022456907
+    ppflirtation 0.37023288
+    ppidentityattack 0.033561103
+    ppthreat 0.042443067
+    pptoxicity 0.015688026
+    ppsexuallyexplicit 0.049456295
+    ppprofanity 0.027999882
+    ppinflammatory 0.008828342
     sentiment 0.296
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.049456295
-    PERSPECTIVE_FLIRTATION 0.37023288
-    PERSPECTIVE_INSULT 0.022456907
-    PERSPECTIVE_TOXICITY 0.015688026
-    PERSPECTIVE_IDENTITY_ATTACK 0.033561103
-    PERSPECTIVE_INFLAMMATORY 0.008828342
-    PERSPECTIVE_THREAT 0.042443067
-    PERSPECTIVE_PROFANITY 0.027999882
-    leftright ""
-    channeltags ""
+    cluster 1
   ]
-  node [
+  node
+  [
     id 30
     label "56grHGnPkgM"
     step 0
@@ -855,20 +829,19 @@ graph [
     commentcount 56
     duration "PT23M44S"
     indegree 97
+    ppinsult 0.11491964
+    ppflirtation 0.45478117
+    ppidentityattack 0.111492254
+    ppthreat 0.20102161
+    pptoxicity 0.13565879
+    ppsexuallyexplicit 0.08126767
+    ppprofanity 0.09255149
+    ppinflammatory 0.17661394
+    sentiment 0
     cluster 3
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.08126767
-    PERSPECTIVE_FLIRTATION 0.45478117
-    PERSPECTIVE_INSULT 0.11491964
-    PERSPECTIVE_TOXICITY 0.13565879
-    PERSPECTIVE_IDENTITY_ATTACK 0.111492254
-    PERSPECTIVE_INFLAMMATORY 0.17661394
-    PERSPECTIVE_THREAT 0.20102161
-    PERSPECTIVE_PROFANITY 0.09255149
-    leftright ""
-    channeltags ""
   ]
-  node [
+  node
+  [
     id 31
     label "yErAaK501r8"
     step 0
@@ -883,20 +856,19 @@ graph [
     commentcount 40
     duration "PT28M8S"
     indegree 87
+    ppinsult 0.056684166
+    ppflirtation 0.35140973
+    ppidentityattack 0.062075216
+    ppthreat 0.1043477
+    pptoxicity 0.105704986
+    ppsexuallyexplicit 0.06011498
+    ppprofanity 0.04747849
+    ppinflammatory 0.14473382
+    sentiment 0
     cluster 3
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.06011498
-    PERSPECTIVE_FLIRTATION 0.35140973
-    PERSPECTIVE_INSULT 0.056684166
-    PERSPECTIVE_TOXICITY 0.105704986
-    PERSPECTIVE_IDENTITY_ATTACK 0.062075216
-    PERSPECTIVE_INFLAMMATORY 0.14473382
-    PERSPECTIVE_THREAT 0.1043477
-    PERSPECTIVE_PROFANITY 0.04747849
-    leftright ""
-    channeltags ""
   ]
-  node [
+  node
+  [
     id 32
     label "P7vC2xpqvFk"
     step 0
@@ -911,21 +883,20 @@ graph [
     commentcount 67
     duration "PT13M23S"
     indegree 20
-    cluster 4
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.0667006
-    PERSPECTIVE_FLIRTATION 0.20822701
-    PERSPECTIVE_INSULT 0.06051542
-    PERSPECTIVE_TOXICITY 0.025520578
-    PERSPECTIVE_IDENTITY_ATTACK 0.08518676
-    PERSPECTIVE_INFLAMMATORY 0.071835876
-    PERSPECTIVE_THREAT 0.09882565
-    PERSPECTIVE_PROFANITY 0.07205194
-    leftright ""
-    channeltags ""
+    ppinsult 0.06051542
+    ppflirtation 0.20822701
+    ppidentityattack 0.08518676
+    ppthreat 0.09882565
+    pptoxicity 0.025520578
+    ppsexuallyexplicit 0.0667006
+    ppprofanity 0.07205194
+    ppinflammatory 0.071835876
+    sentiment 0
+    cluster 2
   ]
-  node [
-    id 33
+  node
+  [
+    id 34
     label "2NXNambbsfY"
     step 0
     date "2021-12-23T03:10:52Z"
@@ -939,21 +910,20 @@ graph [
     commentcount 48
     duration "PT32M33S"
     indegree 7
+    ppinsult 0.04324591
+    ppflirtation 0.20621125
+    ppidentityattack 0.056915056
+    ppthreat 0.09627615
+    pptoxicity 0.059328925
+    ppsexuallyexplicit 0.06664228
+    ppprofanity 0.06040218
+    ppinflammatory 0.111687325
+    sentiment 0
     cluster 3
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.06664228
-    PERSPECTIVE_FLIRTATION 0.20621125
-    PERSPECTIVE_INSULT 0.04324591
-    PERSPECTIVE_TOXICITY 0.059328925
-    PERSPECTIVE_IDENTITY_ATTACK 0.056915056
-    PERSPECTIVE_INFLAMMATORY 0.111687325
-    PERSPECTIVE_THREAT 0.09627615
-    PERSPECTIVE_PROFANITY 0.06040218
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 34
+  node
+  [
+    id 35
     label "Wtx-mScEWL8"
     step 0
     date "2022-02-20T02:35:32Z"
@@ -967,21 +937,20 @@ graph [
     commentcount 66
     duration "PT22M22S"
     indegree 8
-    cluster 2
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.06011498
-    PERSPECTIVE_FLIRTATION 0.35140973
-    PERSPECTIVE_INSULT 0.056684166
-    PERSPECTIVE_TOXICITY 0.105704986
-    PERSPECTIVE_IDENTITY_ATTACK 0.062075216
-    PERSPECTIVE_INFLAMMATORY 0.14473382
-    PERSPECTIVE_THREAT 0.1043477
-    PERSPECTIVE_PROFANITY 0.04747849
-    leftright ""
-    channeltags ""
+    ppinsult 0.056684166
+    ppflirtation 0.35140973
+    ppidentityattack 0.062075216
+    ppthreat 0.1043477
+    pptoxicity 0.105704986
+    ppsexuallyexplicit 0.06011498
+    ppprofanity 0.04747849
+    ppinflammatory 0.14473382
+    sentiment 0
+    cluster 1
   ]
-  node [
-    id 35
+  node
+  [
+    id 36
     label "zchACRCAahk"
     step 0
     date "2021-09-11T14:57:34Z"
@@ -995,21 +964,20 @@ graph [
     commentcount 90
     duration "PT46M47S"
     indegree 26
-    cluster 3
+    ppinsult 0.051512856
+    ppflirtation 0.23770444
+    ppidentityattack 0.057961307
+    ppthreat 0.10056785
+    pptoxicity 0.09978092
+    ppsexuallyexplicit 0.08034893
+    ppprofanity 0.07645683
+    ppinflammatory 0.12613933
     sentiment 0.3182
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.08034893
-    PERSPECTIVE_FLIRTATION 0.23770444
-    PERSPECTIVE_INSULT 0.051512856
-    PERSPECTIVE_TOXICITY 0.09978092
-    PERSPECTIVE_IDENTITY_ATTACK 0.057961307
-    PERSPECTIVE_INFLAMMATORY 0.12613933
-    PERSPECTIVE_THREAT 0.10056785
-    PERSPECTIVE_PROFANITY 0.07645683
-    leftright ""
-    channeltags ""
+    cluster 3
   ]
-  node [
-    id 36
+  node
+  [
+    id 37
     label "VKGw9wltsds"
     step 0
     date "2021-01-06T14:57:17Z"
@@ -1023,21 +991,20 @@ graph [
     commentcount 12
     duration "PT4M51S"
     indegree 5
-    cluster 4
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.070035
-    PERSPECTIVE_FLIRTATION 0.21579513
-    PERSPECTIVE_INSULT 0.087310486
-    PERSPECTIVE_TOXICITY 0.04818217
-    PERSPECTIVE_IDENTITY_ATTACK 0.102421254
-    PERSPECTIVE_INFLAMMATORY 0.06801714
-    PERSPECTIVE_THREAT 0.12996842
-    PERSPECTIVE_PROFANITY 0.093295686
-    leftright ""
-    channeltags ""
+    ppinsult 0.087310486
+    ppflirtation 0.21579513
+    ppidentityattack 0.102421254
+    ppthreat 0.12996842
+    pptoxicity 0.04818217
+    ppsexuallyexplicit 0.070035
+    ppprofanity 0.093295686
+    ppinflammatory 0.06801714
+    sentiment 0
+    cluster 2
   ]
-  node [
-    id 37
+  node
+  [
+    id 38
     label "Z1ckyvMx2jI"
     step 0
     date "2022-02-09T01:56:33Z"
@@ -1051,21 +1018,20 @@ graph [
     commentcount 53
     duration "PT22M56S"
     indegree 4
+    ppinsult 0.056684166
+    ppflirtation 0.35140973
+    ppidentityattack 0.062075216
+    ppthreat 0.1043477
+    pptoxicity 0.105704986
+    ppsexuallyexplicit 0.06011498
+    ppprofanity 0.04747849
+    ppinflammatory 0.14473382
+    sentiment 0
     cluster 1
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.06011498
-    PERSPECTIVE_FLIRTATION 0.35140973
-    PERSPECTIVE_INSULT 0.056684166
-    PERSPECTIVE_TOXICITY 0.105704986
-    PERSPECTIVE_IDENTITY_ATTACK 0.062075216
-    PERSPECTIVE_INFLAMMATORY 0.14473382
-    PERSPECTIVE_THREAT 0.1043477
-    PERSPECTIVE_PROFANITY 0.04747849
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 38
+  node
+  [
+    id 39
     label "zoIUNKddI18"
     step 0
     date "2016-11-27T17:00:03Z"
@@ -1079,21 +1045,20 @@ graph [
     commentcount 27
     duration "PT3M5S"
     indegree 0
+    ppinsult 0.06129347
+    ppflirtation 0.28158796
+    ppidentityattack 0.13282436
+    ppthreat 0.13880648
+    pptoxicity 0.019436494
+    ppsexuallyexplicit 0.05282529
+    ppprofanity 0.09258327
+    ppinflammatory 0.05842961
+    sentiment 0
     cluster 5
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.05282529
-    PERSPECTIVE_FLIRTATION 0.28158796
-    PERSPECTIVE_INSULT 0.06129347
-    PERSPECTIVE_TOXICITY 0.019436494
-    PERSPECTIVE_IDENTITY_ATTACK 0.13282436
-    PERSPECTIVE_INFLAMMATORY 0.05842961
-    PERSPECTIVE_THREAT 0.13880648
-    PERSPECTIVE_PROFANITY 0.09258327
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 39
+  node
+  [
+    id 40
     label "1dxDpuCiWQo"
     step 0
     date "2019-09-25T16:57:17Z"
@@ -1107,21 +1072,20 @@ graph [
     commentcount 216
     duration "PT9M41S"
     indegree 12
+    ppinsult 0.37247646
+    ppflirtation 0.5727251
+    ppidentityattack 0.79918975
+    ppthreat 0.7501007
+    pptoxicity 0.23803931
+    ppsexuallyexplicit 0.40677178
+    ppprofanity 0.45444474
+    ppinflammatory 0.06587864
+    sentiment 0
     cluster 5
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.40677178
-    PERSPECTIVE_FLIRTATION 0.5727251
-    PERSPECTIVE_INSULT 0.37247646
-    PERSPECTIVE_TOXICITY 0.23803931
-    PERSPECTIVE_IDENTITY_ATTACK 0.79918975
-    PERSPECTIVE_INFLAMMATORY 0.06587864
-    PERSPECTIVE_THREAT 0.7501007
-    PERSPECTIVE_PROFANITY 0.45444474
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 40
+  node
+  [
+    id 41
     label "tVRv9vQctYM"
     step 0
     date "2022-07-11T16:00:28Z"
@@ -1135,21 +1099,20 @@ graph [
     commentcount 17
     duration "PT12M9S"
     indegree 1
+    ppinsult 0.077117
+    ppflirtation 0.23803376
+    ppidentityattack 0.108582444
+    ppthreat 0.121581845
+    pptoxicity 0.0813051
+    ppsexuallyexplicit 0.0808839
+    ppprofanity 0.09184752
+    ppinflammatory 0.07334794
+    sentiment 0
     cluster 1
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.0808839
-    PERSPECTIVE_FLIRTATION 0.23803376
-    PERSPECTIVE_INSULT 0.077117
-    PERSPECTIVE_TOXICITY 0.0813051
-    PERSPECTIVE_IDENTITY_ATTACK 0.108582444
-    PERSPECTIVE_INFLAMMATORY 0.07334794
-    PERSPECTIVE_THREAT 0.121581845
-    PERSPECTIVE_PROFANITY 0.09184752
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 41
+  node
+  [
+    id 42
     label "oaO0UyBGvD8"
     step 0
     date "2020-03-10T22:33:03Z"
@@ -1163,21 +1126,20 @@ graph [
     commentcount 326
     duration "PT24M41S"
     indegree 38
-    cluster 2
+    ppinsult 0.045761805
+    ppflirtation 0.33509007
+    ppidentityattack 0.026252117
+    ppthreat 0.04330173
+    pptoxicity 0.062925026
+    ppsexuallyexplicit 0.19156827
+    ppprofanity 0.10253346
+    ppinflammatory 0.076022215
     sentiment 0.2263
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.19156827
-    PERSPECTIVE_FLIRTATION 0.33509007
-    PERSPECTIVE_INSULT 0.045761805
-    PERSPECTIVE_TOXICITY 0.062925026
-    PERSPECTIVE_IDENTITY_ATTACK 0.026252117
-    PERSPECTIVE_INFLAMMATORY 0.076022215
-    PERSPECTIVE_THREAT 0.04330173
-    PERSPECTIVE_PROFANITY 0.10253346
-    leftright ""
-    channeltags ""
+    cluster 2
   ]
-  node [
-    id 42
+  node
+  [
+    id 43
     label "1-DTDLh8JvQ"
     step 0
     date "2021-02-14T22:00:15Z"
@@ -1191,21 +1153,20 @@ graph [
     commentcount 160
     duration "PT15M35S"
     indegree 25
-    cluster 1
+    ppinsult 0.110620715
+    ppflirtation 0.43945798
+    ppidentityattack 0.1358556
+    ppthreat 0.23128505
+    pptoxicity 0.00930175
+    ppsexuallyexplicit 0.15069316
+    ppprofanity 0.12931913
+    ppinflammatory 0.014636618
     sentiment 0.34
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.15069316
-    PERSPECTIVE_FLIRTATION 0.43945798
-    PERSPECTIVE_INSULT 0.110620715
-    PERSPECTIVE_TOXICITY 0.00930175
-    PERSPECTIVE_IDENTITY_ATTACK 0.1358556
-    PERSPECTIVE_INFLAMMATORY 0.014636618
-    PERSPECTIVE_THREAT 0.23128505
-    PERSPECTIVE_PROFANITY 0.12931913
-    leftright ""
-    channeltags ""
+    cluster 2
   ]
-  node [
-    id 43
+  node
+  [
+    id 44
     label "Aorf_vMiWMc"
     step 0
     date "2019-06-12T11:00:01Z"
@@ -1219,21 +1180,20 @@ graph [
     commentcount 35
     duration "PT1M35S"
     indegree 0
+    ppinsult 0.21058603
+    ppflirtation 0.19340065
+    ppidentityattack 0.22112949
+    ppthreat 0.23135452
+    pptoxicity 0.008677006
+    ppsexuallyexplicit 0.06944906
+    ppprofanity 0.1727299
+    ppinflammatory 0.015394699
+    sentiment 0
     cluster 2
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.06944906
-    PERSPECTIVE_FLIRTATION 0.19340065
-    PERSPECTIVE_INSULT 0.21058603
-    PERSPECTIVE_TOXICITY 0.008677006
-    PERSPECTIVE_IDENTITY_ATTACK 0.22112949
-    PERSPECTIVE_INFLAMMATORY 0.015394699
-    PERSPECTIVE_THREAT 0.23135452
-    PERSPECTIVE_PROFANITY 0.1727299
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 44
+  node
+  [
+    id 45
     label "l7W4NCINlR0"
     step 0
     date "2022-05-01T00:48:12Z"
@@ -1247,21 +1207,20 @@ graph [
     commentcount 50
     duration "PT16M39S"
     indegree 81
+    ppinsult 0.05833065
+    ppflirtation 0.35304403
+    ppidentityattack 0.058540735
+    ppthreat 0.09982071
+    pptoxicity 0.0717155
+    ppsexuallyexplicit 0.053317394
+    ppprofanity 0.04669641
+    ppinflammatory 0.13568786
+    sentiment 0
     cluster 3
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.053317394
-    PERSPECTIVE_FLIRTATION 0.35304403
-    PERSPECTIVE_INSULT 0.05833065
-    PERSPECTIVE_TOXICITY 0.0717155
-    PERSPECTIVE_IDENTITY_ATTACK 0.058540735
-    PERSPECTIVE_INFLAMMATORY 0.13568786
-    PERSPECTIVE_THREAT 0.09982071
-    PERSPECTIVE_PROFANITY 0.04669641
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 45
+  node
+  [
+    id 46
     label "jQganzHTMBM"
     step 0
     date "2020-04-21T23:04:56Z"
@@ -1275,21 +1234,20 @@ graph [
     commentcount 245
     duration "PT11M2S"
     indegree 7
+    ppinsult 0.0581703
+    ppflirtation 0.24901381
+    ppidentityattack 0.061501153
+    ppthreat 0.16069609
+    pptoxicity 0.022213135
+    ppsexuallyexplicit 0.06497957
+    ppprofanity 0.0674467
+    ppinflammatory 0.13268511
+    sentiment 0
     cluster 2
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.06497957
-    PERSPECTIVE_FLIRTATION 0.24901381
-    PERSPECTIVE_INSULT 0.0581703
-    PERSPECTIVE_TOXICITY 0.022213135
-    PERSPECTIVE_IDENTITY_ATTACK 0.061501153
-    PERSPECTIVE_INFLAMMATORY 0.13268511
-    PERSPECTIVE_THREAT 0.16069609
-    PERSPECTIVE_PROFANITY 0.0674467
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 46
+  node
+  [
+    id 47
     label "ng2pwzkrAHA"
     step 0
     date "2020-11-16T02:30:22Z"
@@ -1303,21 +1261,20 @@ graph [
     commentcount 33
     duration "PT13M32S"
     indegree 11
-    cluster 6
+    ppinsult 0.14140487
+    ppflirtation 0.23070411
+    ppidentityattack 0.1911337
+    ppthreat 0.72861165
+    pptoxicity 0.14104263
+    ppsexuallyexplicit 0.04566771
+    ppprofanity 0.14414367
+    ppinflammatory 0.07302104
     sentiment -0.128
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.04566771
-    PERSPECTIVE_FLIRTATION 0.23070411
-    PERSPECTIVE_INSULT 0.14140487
-    PERSPECTIVE_TOXICITY 0.14104263
-    PERSPECTIVE_IDENTITY_ATTACK 0.1911337
-    PERSPECTIVE_INFLAMMATORY 0.07302104
-    PERSPECTIVE_THREAT 0.72861165
-    PERSPECTIVE_PROFANITY 0.14414367
-    leftright ""
-    channeltags ""
+    cluster 6
   ]
-  node [
-    id 47
+  node
+  [
+    id 48
     label "2ld1gU_SQQs"
     step 0
     date "2022-04-15T02:18:28Z"
@@ -1331,21 +1288,20 @@ graph [
     commentcount 29
     duration "PT20M4S"
     indegree 61
+    ppinsult 0.05833065
+    ppflirtation 0.35304403
+    ppidentityattack 0.058540735
+    ppthreat 0.09982071
+    pptoxicity 0.0717155
+    ppsexuallyexplicit 0.053317394
+    ppprofanity 0.04669641
+    ppinflammatory 0.13568786
+    sentiment 0
     cluster 3
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.053317394
-    PERSPECTIVE_FLIRTATION 0.35304403
-    PERSPECTIVE_INSULT 0.05833065
-    PERSPECTIVE_TOXICITY 0.0717155
-    PERSPECTIVE_IDENTITY_ATTACK 0.058540735
-    PERSPECTIVE_INFLAMMATORY 0.13568786
-    PERSPECTIVE_THREAT 0.09982071
-    PERSPECTIVE_PROFANITY 0.04669641
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 48
+  node
+  [
+    id 49
     label "36VfZyam5eQ"
     step 0
     date "2020-09-08T21:03:08Z"
@@ -1359,21 +1315,20 @@ graph [
     commentcount 77
     duration "PT10M41S"
     indegree 18
-    cluster 2
+    ppinsult 0.20504855
+    ppflirtation 0.40184975
+    ppidentityattack 0.5107156
+    ppthreat 0.28409654
+    pptoxicity 0.04406188
+    ppsexuallyexplicit 0.18430914
+    ppprofanity 0.2226683
+    ppinflammatory 0.055807654
     sentiment 0.2023
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.18430914
-    PERSPECTIVE_FLIRTATION 0.40184975
-    PERSPECTIVE_INSULT 0.20504855
-    PERSPECTIVE_TOXICITY 0.04406188
-    PERSPECTIVE_IDENTITY_ATTACK 0.5107156
-    PERSPECTIVE_INFLAMMATORY 0.055807654
-    PERSPECTIVE_THREAT 0.28409654
-    PERSPECTIVE_PROFANITY 0.2226683
-    leftright ""
-    channeltags ""
+    cluster 2
   ]
-  node [
-    id 49
+  node
+  [
+    id 50
     label "aGXb6ZtKaeg"
     step 0
     date "2021-07-08T21:15:00Z"
@@ -1387,21 +1342,20 @@ graph [
     commentcount 96
     duration "PT11M51S"
     indegree 9
+    ppinsult 0.044453368
+    ppflirtation 0.37495422
+    ppidentityattack 0.050832883
+    ppthreat 0.120303154
+    pptoxicity 0.0019089412
+    ppsexuallyexplicit 0.04911969
+    ppprofanity 0.04211385
+    ppinflammatory 0.06832528
+    sentiment 0
     cluster 2
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.04911969
-    PERSPECTIVE_FLIRTATION 0.37495422
-    PERSPECTIVE_INSULT 0.044453368
-    PERSPECTIVE_TOXICITY 0.0019089412
-    PERSPECTIVE_IDENTITY_ATTACK 0.050832883
-    PERSPECTIVE_INFLAMMATORY 0.06832528
-    PERSPECTIVE_THREAT 0.120303154
-    PERSPECTIVE_PROFANITY 0.04211385
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 50
+  node
+  [
+    id 51
     label "ycmEHIkTtHE"
     step 0
     date "2017-07-12T18:18:40Z"
@@ -1415,21 +1369,20 @@ graph [
     commentcount 8
     duration "PT6M24S"
     indegree 0
+    ppinsult 0.077673554
+    ppflirtation 0.4069894
+    ppidentityattack 0.195827
+    ppthreat 0.2722034
+    pptoxicity 0.02397547
+    ppsexuallyexplicit 0.06660368
+    ppprofanity 0.09876895
+    ppinflammatory 0.036927134
+    sentiment 0
     cluster 5
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.06660368
-    PERSPECTIVE_FLIRTATION 0.4069894
-    PERSPECTIVE_INSULT 0.077673554
-    PERSPECTIVE_TOXICITY 0.02397547
-    PERSPECTIVE_IDENTITY_ATTACK 0.195827
-    PERSPECTIVE_INFLAMMATORY 0.036927134
-    PERSPECTIVE_THREAT 0.2722034
-    PERSPECTIVE_PROFANITY 0.09876895
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 51
+  node
+  [
+    id 52
     label "MRO_CM5zX-Q"
     step 0
     date "2021-12-12T18:51:55Z"
@@ -1443,21 +1396,20 @@ graph [
     commentcount 58
     duration "PT7M12S"
     indegree 19
-    cluster 2
+    ppinsult 0.06796952
+    ppflirtation 0.32206103
+    ppidentityattack 0.041322213
+    ppthreat 0.071647875
+    pptoxicity 0.03444787
+    ppsexuallyexplicit 0.039927106
+    ppprofanity 0.026101716
+    ppinflammatory 0.23856297
     sentiment 0.2263
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.039927106
-    PERSPECTIVE_FLIRTATION 0.32206103
-    PERSPECTIVE_INSULT 0.06796952
-    PERSPECTIVE_TOXICITY 0.03444787
-    PERSPECTIVE_IDENTITY_ATTACK 0.041322213
-    PERSPECTIVE_INFLAMMATORY 0.23856297
-    PERSPECTIVE_THREAT 0.071647875
-    PERSPECTIVE_PROFANITY 0.026101716
-    leftright ""
-    channeltags ""
+    cluster 2
   ]
-  node [
-    id 52
+  node
+  [
+    id 53
     label "UbjiWVOidm8"
     step 0
     date "2021-11-18T20:55:10Z"
@@ -1471,21 +1423,20 @@ graph [
     commentcount 32
     duration "PT30M9S"
     indegree 11
+    ppinsult 0.14338988
+    ppflirtation 0.2581678
+    ppidentityattack 0.11998806
+    ppthreat 0.13998555
+    pptoxicity 0.089577995
+    ppsexuallyexplicit 0.0818636
+    ppprofanity 0.12082456
+    ppinflammatory 0.09539259
+    sentiment 0
     cluster 1
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.0818636
-    PERSPECTIVE_FLIRTATION 0.2581678
-    PERSPECTIVE_INSULT 0.14338988
-    PERSPECTIVE_TOXICITY 0.089577995
-    PERSPECTIVE_IDENTITY_ATTACK 0.11998806
-    PERSPECTIVE_INFLAMMATORY 0.09539259
-    PERSPECTIVE_THREAT 0.13998555
-    PERSPECTIVE_PROFANITY 0.12082456
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 53
+  node
+  [
+    id 54
     label "R2MVOJ97uF0"
     step 0
     date "2020-10-29T21:34:04Z"
@@ -1499,21 +1450,20 @@ graph [
     commentcount 4
     duration "PT1H2M2S"
     indegree 1
-    cluster 4
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.0467134
-    PERSPECTIVE_FLIRTATION 0.21872076
-    PERSPECTIVE_INSULT 0.058799878
-    PERSPECTIVE_TOXICITY 0.057331093
-    PERSPECTIVE_IDENTITY_ATTACK 0.09956176
-    PERSPECTIVE_INFLAMMATORY 0.08070959
-    PERSPECTIVE_THREAT 0.10948785
-    PERSPECTIVE_PROFANITY 0.050663862
-    leftright ""
-    channeltags ""
+    ppinsult 0.058799878
+    ppflirtation 0.21872076
+    ppidentityattack 0.09956176
+    ppthreat 0.10948785
+    pptoxicity 0.057331093
+    ppsexuallyexplicit 0.0467134
+    ppprofanity 0.050663862
+    ppinflammatory 0.08070959
+    sentiment 0
+    cluster 2
   ]
-  node [
-    id 54
+  node
+  [
+    id 55
     label "l28yHl577qY"
     step 0
     date "2020-11-09T17:08:34Z"
@@ -1527,21 +1477,20 @@ graph [
     commentcount 7
     duration "PT23M13S"
     indegree 0
+    ppinsult 0.042293206
+    ppflirtation 0.40222743
+    ppidentityattack 0.07811618
+    ppthreat 0.4781848
+    pptoxicity 0.03753809
+    ppsexuallyexplicit 0.09612273
+    ppprofanity 0.071338885
+    ppinflammatory 0.07257641
+    sentiment 0
     cluster 6
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.09612273
-    PERSPECTIVE_FLIRTATION 0.40222743
-    PERSPECTIVE_INSULT 0.042293206
-    PERSPECTIVE_TOXICITY 0.03753809
-    PERSPECTIVE_IDENTITY_ATTACK 0.07811618
-    PERSPECTIVE_INFLAMMATORY 0.07257641
-    PERSPECTIVE_THREAT 0.4781848
-    PERSPECTIVE_PROFANITY 0.071338885
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 55
+  node
+  [
+    id 56
     label "Lh8wp2ntbZs"
     step 0
     date "2021-11-28T20:27:06Z"
@@ -1555,21 +1504,20 @@ graph [
     commentcount 90
     duration "PT24M5S"
     indegree 23
+    ppinsult 0.18943489
+    ppflirtation 0.3507937
+    ppidentityattack 0.2025718
+    ppthreat 0.30514035
+    pptoxicity 0.05253629
+    ppsexuallyexplicit 0.22473723
+    ppprofanity 0.28991932
+    ppinflammatory 0.038988624
+    sentiment 0
     cluster 2
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.22473723
-    PERSPECTIVE_FLIRTATION 0.3507937
-    PERSPECTIVE_INSULT 0.18943489
-    PERSPECTIVE_TOXICITY 0.05253629
-    PERSPECTIVE_IDENTITY_ATTACK 0.2025718
-    PERSPECTIVE_INFLAMMATORY 0.038988624
-    PERSPECTIVE_THREAT 0.30514035
-    PERSPECTIVE_PROFANITY 0.28991932
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 56
+  node
+  [
+    id 57
     label "12p5mluGuYs"
     step 0
     date "2022-03-19T11:00:01Z"
@@ -1583,21 +1531,20 @@ graph [
     commentcount 31
     duration "PT11M12S"
     indegree 21
-    cluster 4
+    ppinsult 0.096473224
+    ppflirtation 0.25793585
+    ppidentityattack 0.103537895
+    ppthreat 0.13744053
+    pptoxicity 0.0729142
+    ppsexuallyexplicit 0.11032693
+    ppprofanity 0.1178649
+    ppinflammatory 0.04764552
     sentiment 0.5267
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.11032693
-    PERSPECTIVE_FLIRTATION 0.25793585
-    PERSPECTIVE_INSULT 0.096473224
-    PERSPECTIVE_TOXICITY 0.0729142
-    PERSPECTIVE_IDENTITY_ATTACK 0.103537895
-    PERSPECTIVE_INFLAMMATORY 0.04764552
-    PERSPECTIVE_THREAT 0.13744053
-    PERSPECTIVE_PROFANITY 0.1178649
-    leftright ""
-    channeltags ""
+    cluster 4
   ]
-  node [
-    id 57
+  node
+  [
+    id 58
     label "DVH8B0ET3KE"
     step 0
     date "2021-02-16T21:15:01Z"
@@ -1611,21 +1558,20 @@ graph [
     commentcount 30
     duration "PT16M7S"
     indegree 0
-    cluster 1
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.078456126
-    PERSPECTIVE_FLIRTATION 0.30600417
-    PERSPECTIVE_INSULT 0.032656807
-    PERSPECTIVE_TOXICITY 0.026207292
-    PERSPECTIVE_IDENTITY_ATTACK 0.06373281
-    PERSPECTIVE_INFLAMMATORY 0.025891885
-    PERSPECTIVE_THREAT 0.29030022
-    PERSPECTIVE_PROFANITY 0.06023
-    leftright ""
-    channeltags ""
+    ppinsult 0.032656807
+    ppflirtation 0.30600417
+    ppidentityattack 0.06373281
+    ppthreat 0.29030022
+    pptoxicity 0.026207292
+    ppsexuallyexplicit 0.078456126
+    ppprofanity 0.06023
+    ppinflammatory 0.025891885
+    sentiment 0
+    cluster 2
   ]
-  node [
-    id 58
+  node
+  [
+    id 60
     label "qSSF3SrR5G8"
     step 0
     date "2022-01-15T22:50:46Z"
@@ -1639,21 +1585,20 @@ graph [
     commentcount 25
     duration "PT45M16S"
     indegree 2
-    cluster 1
+    ppinsult 0.020964295
+    ppflirtation 0.34996256
+    ppidentityattack 0.035510883
+    ppthreat 0.048640057
+    pptoxicity 0.013883209
+    ppsexuallyexplicit 0.052978348
+    ppprofanity 0.027768841
+    ppinflammatory 0.016849242
     sentiment 0.296
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.052978348
-    PERSPECTIVE_FLIRTATION 0.34996256
-    PERSPECTIVE_INSULT 0.020964295
-    PERSPECTIVE_TOXICITY 0.013883209
-    PERSPECTIVE_IDENTITY_ATTACK 0.035510883
-    PERSPECTIVE_INFLAMMATORY 0.016849242
-    PERSPECTIVE_THREAT 0.048640057
-    PERSPECTIVE_PROFANITY 0.027768841
-    leftright ""
-    channeltags ""
+    cluster 2
   ]
-  node [
-    id 59
+  node
+  [
+    id 61
     label "-ZOqUoE0Nyw"
     step 0
     date "2020-07-23T19:24:02Z"
@@ -1667,21 +1612,20 @@ graph [
     commentcount 186
     duration "PT39M16S"
     indegree 33
+    ppinsult 0.2521251
+    ppflirtation 0.4465009
+    ppidentityattack 0.68836683
+    ppthreat 0.36106607
+    pptoxicity 0.024662184
+    ppsexuallyexplicit 0.30266187
+    ppprofanity 0.28157756
+    ppinflammatory 0.12799212
+    sentiment 0
     cluster 2
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.30266187
-    PERSPECTIVE_FLIRTATION 0.4465009
-    PERSPECTIVE_INSULT 0.2521251
-    PERSPECTIVE_TOXICITY 0.024662184
-    PERSPECTIVE_IDENTITY_ATTACK 0.68836683
-    PERSPECTIVE_INFLAMMATORY 0.12799212
-    PERSPECTIVE_THREAT 0.36106607
-    PERSPECTIVE_PROFANITY 0.28157756
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 60
+  node
+  [
+    id 62
     label "sYQ6lmxkBzY"
     step 0
     date "2021-12-24T16:08:03Z"
@@ -1695,21 +1639,20 @@ graph [
     commentcount 318
     duration "PT12M34S"
     indegree 3
+    ppinsult 0.014008926
+    ppflirtation 0.22223903
+    ppidentityattack 0.013618983
+    ppthreat 0.04259084
+    pptoxicity 0.024833864
+    ppsexuallyexplicit 0.042290762
+    ppprofanity 0.025154753
+    ppinflammatory 0.05365989
+    sentiment 0
     cluster 1
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.042290762
-    PERSPECTIVE_FLIRTATION 0.22223903
-    PERSPECTIVE_INSULT 0.014008926
-    PERSPECTIVE_TOXICITY 0.024833864
-    PERSPECTIVE_IDENTITY_ATTACK 0.013618983
-    PERSPECTIVE_INFLAMMATORY 0.05365989
-    PERSPECTIVE_THREAT 0.04259084
-    PERSPECTIVE_PROFANITY 0.025154753
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 61
+  node
+  [
+    id 63
     label "kvPQxD7X5LI"
     step 0
     date "2020-12-09T17:00:33Z"
@@ -1723,21 +1666,20 @@ graph [
     commentcount 6
     duration "PT4M41S"
     indegree 6
+    ppinsult 0.059791956
+    ppflirtation 0.37153038
+    ppidentityattack 0.11318645
+    ppthreat 0.17328098
+    pptoxicity 0.016521018
+    ppsexuallyexplicit 0.12981348
+    ppprofanity 0.09134726
+    ppinflammatory 0.009234136
+    sentiment 0
     cluster 5
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.12981348
-    PERSPECTIVE_FLIRTATION 0.37153038
-    PERSPECTIVE_INSULT 0.059791956
-    PERSPECTIVE_TOXICITY 0.016521018
-    PERSPECTIVE_IDENTITY_ATTACK 0.11318645
-    PERSPECTIVE_INFLAMMATORY 0.009234136
-    PERSPECTIVE_THREAT 0.17328098
-    PERSPECTIVE_PROFANITY 0.09134726
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 62
+  node
+  [
+    id 64
     label "iPg0eD2sQkw"
     step 0
     date "2021-09-05T14:00:14Z"
@@ -1751,21 +1693,20 @@ graph [
     commentcount 76
     duration "PT18M19S"
     indegree 4
+    ppinsult 0.1774965
+    ppflirtation 0.41661215
+    ppidentityattack 0.5262113
+    ppthreat 0.51512223
+    pptoxicity 0.083939545
+    ppsexuallyexplicit 0.15014054
+    ppprofanity 0.21453433
+    ppinflammatory 0.03247948
+    sentiment 0
     cluster 5
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.15014054
-    PERSPECTIVE_FLIRTATION 0.41661215
-    PERSPECTIVE_INSULT 0.1774965
-    PERSPECTIVE_TOXICITY 0.083939545
-    PERSPECTIVE_IDENTITY_ATTACK 0.5262113
-    PERSPECTIVE_INFLAMMATORY 0.03247948
-    PERSPECTIVE_THREAT 0.51512223
-    PERSPECTIVE_PROFANITY 0.21453433
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 63
+  node
+  [
+    id 65
     label "84Sn87txzdg"
     step 0
     date "2019-11-03T21:00:00Z"
@@ -1779,21 +1720,20 @@ graph [
     commentcount 168
     duration "PT9M49S"
     indegree 8
-    cluster 6
+    ppinsult 0.13562873
+    ppflirtation 0.35038966
+    ppidentityattack 0.12860163
+    ppthreat 0.16983196
+    pptoxicity 0.022213135
+    ppsexuallyexplicit 0.08933643
+    ppprofanity 0.077374235
+    ppinflammatory 0.06961338
     sentiment 0.34
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.08933643
-    PERSPECTIVE_FLIRTATION 0.35038966
-    PERSPECTIVE_INSULT 0.13562873
-    PERSPECTIVE_TOXICITY 0.022213135
-    PERSPECTIVE_IDENTITY_ATTACK 0.12860163
-    PERSPECTIVE_INFLAMMATORY 0.06961338
-    PERSPECTIVE_THREAT 0.16983196
-    PERSPECTIVE_PROFANITY 0.077374235
-    leftright ""
-    channeltags ""
+    cluster 6
   ]
-  node [
-    id 64
+  node
+  [
+    id 66
     label "RVeNLrHoWMg"
     step 0
     date "2022-01-30T22:49:20Z"
@@ -1807,21 +1747,20 @@ graph [
     commentcount 38
     duration "PT31M34S"
     indegree 8
-    cluster 3
+    ppinsult 0.06813932
+    ppflirtation 0.37190244
+    ppidentityattack 0.05856614
+    ppthreat 0.11126759
+    pptoxicity 0.02262963
+    ppsexuallyexplicit 0.051170867
+    ppprofanity 0.04550207
+    ppinflammatory 0.06004888
     sentiment 0.4588
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.051170867
-    PERSPECTIVE_FLIRTATION 0.37190244
-    PERSPECTIVE_INSULT 0.06813932
-    PERSPECTIVE_TOXICITY 0.02262963
-    PERSPECTIVE_IDENTITY_ATTACK 0.05856614
-    PERSPECTIVE_INFLAMMATORY 0.06004888
-    PERSPECTIVE_THREAT 0.11126759
-    PERSPECTIVE_PROFANITY 0.04550207
-    leftright ""
-    channeltags ""
+    cluster 3
   ]
-  node [
-    id 65
+  node
+  [
+    id 67
     label "avybPsagN_E"
     step 0
     date "2020-05-01T01:00:22Z"
@@ -1835,21 +1774,20 @@ graph [
     commentcount 77
     duration "PT1H7M39S"
     indegree 19
+    ppinsult 0.042598292
+    ppflirtation 0.4061831
+    ppidentityattack 0.12075442
+    ppthreat 0.111481965
+    pptoxicity 0.027580723
+    ppsexuallyexplicit 0.09316133
+    ppprofanity 0.069789514
+    ppinflammatory 0.06749664
+    sentiment 0
     cluster 5
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.09316133
-    PERSPECTIVE_FLIRTATION 0.4061831
-    PERSPECTIVE_INSULT 0.042598292
-    PERSPECTIVE_TOXICITY 0.027580723
-    PERSPECTIVE_IDENTITY_ATTACK 0.12075442
-    PERSPECTIVE_INFLAMMATORY 0.06749664
-    PERSPECTIVE_THREAT 0.111481965
-    PERSPECTIVE_PROFANITY 0.069789514
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 66
+  node
+  [
+    id 68
     label "IG-zk2Q-dfA"
     step 0
     date "2017-11-30T22:38:42Z"
@@ -1863,21 +1801,20 @@ graph [
     commentcount 22
     duration "PT15M22S"
     indegree 0
+    ppinsult 0.1769961
+    ppflirtation 0.37998462
+    ppidentityattack 0.1964101
+    ppthreat 0.14863755
+    pptoxicity 0.058130227
+    ppsexuallyexplicit 0.1262125
+    ppprofanity 0.16754569
+    ppinflammatory 0.06440755
+    sentiment 0
     cluster 2
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.1262125
-    PERSPECTIVE_FLIRTATION 0.37998462
-    PERSPECTIVE_INSULT 0.1769961
-    PERSPECTIVE_TOXICITY 0.058130227
-    PERSPECTIVE_IDENTITY_ATTACK 0.1964101
-    PERSPECTIVE_INFLAMMATORY 0.06440755
-    PERSPECTIVE_THREAT 0.14863755
-    PERSPECTIVE_PROFANITY 0.16754569
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 67
+  node
+  [
+    id 69
     label "kc6y2HGbAeg"
     step 0
     date "2022-03-04T20:32:44Z"
@@ -1891,21 +1828,20 @@ graph [
     commentcount 25
     duration "PT28M31S"
     indegree 2
-    cluster 5
+    ppinsult 0.14543824
+    ppflirtation 0.86315256
+    ppidentityattack 0.16667956
+    ppthreat 0.17725874
+    pptoxicity 0.08635602
+    ppsexuallyexplicit 0.15583842
+    ppprofanity 0.17348446
+    ppinflammatory 0.046413843
     sentiment 0.5994
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.15583842
-    PERSPECTIVE_FLIRTATION 0.86315256
-    PERSPECTIVE_INSULT 0.14543824
-    PERSPECTIVE_TOXICITY 0.08635602
-    PERSPECTIVE_IDENTITY_ATTACK 0.16667956
-    PERSPECTIVE_INFLAMMATORY 0.046413843
-    PERSPECTIVE_THREAT 0.17725874
-    PERSPECTIVE_PROFANITY 0.17348446
-    leftright ""
-    channeltags ""
+    cluster 5
   ]
-  node [
-    id 68
+  node
+  [
+    id 70
     label "wNO8IePnXSA"
     step 0
     date "2018-10-19T07:00:04Z"
@@ -1919,21 +1855,20 @@ graph [
     commentcount 264
     duration "PT18M9S"
     indegree 19
+    ppinsult 0.013217924
+    ppflirtation 0.2892611
+    ppidentityattack 0.03794755
+    ppthreat 0.2068918
+    pptoxicity 0.0033493242
+    ppsexuallyexplicit 0.041751765
+    ppprofanity 0.02049829
+    ppinflammatory 0.0053315284
+    sentiment 0
     cluster 2
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.041751765
-    PERSPECTIVE_FLIRTATION 0.2892611
-    PERSPECTIVE_INSULT 0.013217924
-    PERSPECTIVE_TOXICITY 0.0033493242
-    PERSPECTIVE_IDENTITY_ATTACK 0.03794755
-    PERSPECTIVE_INFLAMMATORY 0.0053315284
-    PERSPECTIVE_THREAT 0.2068918
-    PERSPECTIVE_PROFANITY 0.02049829
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 69
+  node
+  [
+    id 71
     label "ISffM81xi80"
     step 0
     date "2021-10-25T19:32:46Z"
@@ -1947,21 +1882,20 @@ graph [
     commentcount 158
     duration "PT18M29S"
     indegree 11
-    cluster 6
+    ppinsult 0.04291772
+    ppflirtation 0.22361654
+    ppidentityattack 0.050463762
+    ppthreat 0.08926393
+    pptoxicity 0.05613239
+    ppsexuallyexplicit 0.062450346
+    ppprofanity 0.05469345
+    ppinflammatory 0.06854222
     sentiment 0.5267
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.062450346
-    PERSPECTIVE_FLIRTATION 0.22361654
-    PERSPECTIVE_INSULT 0.04291772
-    PERSPECTIVE_TOXICITY 0.05613239
-    PERSPECTIVE_IDENTITY_ATTACK 0.050463762
-    PERSPECTIVE_INFLAMMATORY 0.06854222
-    PERSPECTIVE_THREAT 0.08926393
-    PERSPECTIVE_PROFANITY 0.05469345
-    leftright ""
-    channeltags ""
+    cluster 6
   ]
-  node [
-    id 70
+  node
+  [
+    id 72
     label "JS0agRI0f_g"
     step 0
     date "2022-03-04T19:19:15Z"
@@ -1975,21 +1909,20 @@ graph [
     commentcount 62
     duration "PT26M51S"
     indegree 5
-    cluster 2
+    ppinsult 0.12384368
+    ppflirtation 0.5825428
+    ppidentityattack 0.13697258
+    ppthreat 0.29215688
+    pptoxicity 0.047495455
+    ppsexuallyexplicit 0.37940755
+    ppprofanity 0.24437293
+    ppinflammatory 0.04323645
     sentiment 0.296
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.37940755
-    PERSPECTIVE_FLIRTATION 0.5825428
-    PERSPECTIVE_INSULT 0.12384368
-    PERSPECTIVE_TOXICITY 0.047495455
-    PERSPECTIVE_IDENTITY_ATTACK 0.13697258
-    PERSPECTIVE_INFLAMMATORY 0.04323645
-    PERSPECTIVE_THREAT 0.29215688
-    PERSPECTIVE_PROFANITY 0.24437293
-    leftright ""
-    channeltags ""
+    cluster 6
   ]
-  node [
-    id 71
+  node
+  [
+    id 73
     label "F-GGl8s11yE"
     step 0
     date "2021-09-08T11:00:06Z"
@@ -2003,21 +1936,20 @@ graph [
     commentcount 37
     duration "PT9M49S"
     indegree 3
-    cluster 4
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.11519523
-    PERSPECTIVE_FLIRTATION 0.27291524
-    PERSPECTIVE_INSULT 0.13460152
-    PERSPECTIVE_TOXICITY 0.017284594
-    PERSPECTIVE_IDENTITY_ATTACK 0.13646372
-    PERSPECTIVE_INFLAMMATORY 0.06312477
-    PERSPECTIVE_THREAT 0.14723057
-    PERSPECTIVE_PROFANITY 0.119638175
-    leftright ""
-    channeltags ""
+    ppinsult 0.13460152
+    ppflirtation 0.27291524
+    ppidentityattack 0.13646372
+    ppthreat 0.14723057
+    pptoxicity 0.017284594
+    ppsexuallyexplicit 0.11519523
+    ppprofanity 0.119638175
+    ppinflammatory 0.06312477
+    sentiment 0
+    cluster 2
   ]
-  node [
-    id 72
+  node
+  [
+    id 74
     label "U_EztSg93Zo"
     step 0
     date "2021-09-23T23:04:16Z"
@@ -2031,21 +1963,20 @@ graph [
     commentcount 15
     duration "PT19M48S"
     indegree 6
+    ppinsult 0.20588253
+    ppflirtation 0.36283568
+    ppidentityattack 0.5392589
+    ppthreat 0.36345905
+    pptoxicity 0.01721518
+    ppsexuallyexplicit 0.14685664
+    ppprofanity 0.23164104
+    ppinflammatory 0.010808945
+    sentiment 0
     cluster 4
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.14685664
-    PERSPECTIVE_FLIRTATION 0.36283568
-    PERSPECTIVE_INSULT 0.20588253
-    PERSPECTIVE_TOXICITY 0.01721518
-    PERSPECTIVE_IDENTITY_ATTACK 0.5392589
-    PERSPECTIVE_INFLAMMATORY 0.010808945
-    PERSPECTIVE_THREAT 0.36345905
-    PERSPECTIVE_PROFANITY 0.23164104
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 73
+  node
+  [
+    id 75
     label "bKwa0_NAjtA"
     step 0
     date "2020-10-28T03:24:48Z"
@@ -2059,21 +1990,20 @@ graph [
     commentcount 249
     duration "PT8M34S"
     indegree 7
+    ppinsult 0.15002033
+    ppflirtation 0.31877628
+    ppidentityattack 0.15672079
+    ppthreat 0.44820726
+    pptoxicity 0.06372416
+    ppsexuallyexplicit 0.08929845
+    ppprofanity 0.11533488
+    ppinflammatory 0.016992286
+    sentiment 0
     cluster 5
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.08929845
-    PERSPECTIVE_FLIRTATION 0.31877628
-    PERSPECTIVE_INSULT 0.15002033
-    PERSPECTIVE_TOXICITY 0.06372416
-    PERSPECTIVE_IDENTITY_ATTACK 0.15672079
-    PERSPECTIVE_INFLAMMATORY 0.016992286
-    PERSPECTIVE_THREAT 0.44820726
-    PERSPECTIVE_PROFANITY 0.11533488
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 74
+  node
+  [
+    id 76
     label "LNXsvqNtVkw"
     step 0
     date "2020-12-11T12:00:13Z"
@@ -2087,21 +2017,20 @@ graph [
     commentcount 386
     duration "PT15M26S"
     indegree 11
-    cluster 5
+    ppinsult 0.042265754
+    ppflirtation 0.20604216
+    ppidentityattack 0.040884294
+    ppthreat 0.06155151
+    pptoxicity 0.068918526
+    ppsexuallyexplicit 0.056387857
+    ppprofanity 0.059996143
+    ppinflammatory 0.012600785
     sentiment 0.4019
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.056387857
-    PERSPECTIVE_FLIRTATION 0.20604216
-    PERSPECTIVE_INSULT 0.042265754
-    PERSPECTIVE_TOXICITY 0.068918526
-    PERSPECTIVE_IDENTITY_ATTACK 0.040884294
-    PERSPECTIVE_INFLAMMATORY 0.012600785
-    PERSPECTIVE_THREAT 0.06155151
-    PERSPECTIVE_PROFANITY 0.059996143
-    leftright ""
-    channeltags ""
+    cluster 5
   ]
-  node [
-    id 75
+  node
+  [
+    id 77
     label "jae2wpa_QUg"
     step 0
     date "2021-01-18T19:17:56Z"
@@ -2115,21 +2044,20 @@ graph [
     commentcount 15
     duration "PT10M26S"
     indegree 2
-    cluster 1
+    ppinsult 0.020967491
+    ppflirtation 0.24828547
+    ppidentityattack 0.019249355
+    ppthreat 0.06397016
+    pptoxicity 0.07730943
+    ppsexuallyexplicit 0.027068451
+    ppprofanity 0.02361368
+    ppinflammatory 0.009816934
     sentiment 0.4404
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.027068451
-    PERSPECTIVE_FLIRTATION 0.24828547
-    PERSPECTIVE_INSULT 0.020967491
-    PERSPECTIVE_TOXICITY 0.07730943
-    PERSPECTIVE_IDENTITY_ATTACK 0.019249355
-    PERSPECTIVE_INFLAMMATORY 0.009816934
-    PERSPECTIVE_THREAT 0.06397016
-    PERSPECTIVE_PROFANITY 0.02361368
-    leftright ""
-    channeltags ""
+    cluster 1
   ]
-  node [
-    id 76
+  node
+  [
+    id 78
     label "_d9djWPY_e0"
     step 0
     date "2021-05-25T03:02:16Z"
@@ -2143,21 +2071,20 @@ graph [
     commentcount 72
     duration "PT49M24S"
     indegree 1
+    ppinsult 0.04405969
+    ppflirtation 0.33180872
+    ppidentityattack 0.07633021
+    ppthreat 0.112559974
+    pptoxicity 0.0036964044
+    ppsexuallyexplicit 0.08829155
+    ppprofanity 0.06344112
+    ppinflammatory 0.058952454
+    sentiment 0
     cluster 1
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.08829155
-    PERSPECTIVE_FLIRTATION 0.33180872
-    PERSPECTIVE_INSULT 0.04405969
-    PERSPECTIVE_TOXICITY 0.0036964044
-    PERSPECTIVE_IDENTITY_ATTACK 0.07633021
-    PERSPECTIVE_INFLAMMATORY 0.058952454
-    PERSPECTIVE_THREAT 0.112559974
-    PERSPECTIVE_PROFANITY 0.06344112
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 77
+  node
+  [
+    id 79
     label "FpU7uvPtvd8"
     step 0
     date "2022-03-08T01:30:41Z"
@@ -2171,21 +2098,20 @@ graph [
     commentcount 100
     duration "PT22M16S"
     indegree 0
-    cluster 1
+    ppinsult 0.13021581
+    ppflirtation 0.39329717
+    ppidentityattack 0.14639498
+    ppthreat 0.26739088
+    pptoxicity 0.036679696
+    ppsexuallyexplicit 0.1533845
+    ppprofanity 0.15950589
+    ppinflammatory 0.1315788
     sentiment 0.5859
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.1533845
-    PERSPECTIVE_FLIRTATION 0.39329717
-    PERSPECTIVE_INSULT 0.13021581
-    PERSPECTIVE_TOXICITY 0.036679696
-    PERSPECTIVE_IDENTITY_ATTACK 0.14639498
-    PERSPECTIVE_INFLAMMATORY 0.1315788
-    PERSPECTIVE_THREAT 0.26739088
-    PERSPECTIVE_PROFANITY 0.15950589
-    leftright ""
-    channeltags ""
+    cluster 1
   ]
-  node [
-    id 78
+  node
+  [
+    id 80
     label "OfKSPbBRVvU"
     step 0
     date "2021-12-27T02:51:09Z"
@@ -2199,21 +2125,20 @@ graph [
     commentcount 47
     duration "PT32M27S"
     indegree 6
+    ppinsult 0.049240947
+    ppflirtation 0.22321066
+    ppidentityattack 0.065618545
+    ppthreat 0.101798266
+    pptoxicity 0.09494796
+    ppsexuallyexplicit 0.06788681
+    ppprofanity 0.0703697
+    ppinflammatory 0.051012605
+    sentiment 0
     cluster 3
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.06788681
-    PERSPECTIVE_FLIRTATION 0.22321066
-    PERSPECTIVE_INSULT 0.049240947
-    PERSPECTIVE_TOXICITY 0.09494796
-    PERSPECTIVE_IDENTITY_ATTACK 0.065618545
-    PERSPECTIVE_INFLAMMATORY 0.051012605
-    PERSPECTIVE_THREAT 0.101798266
-    PERSPECTIVE_PROFANITY 0.0703697
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 79
+  node
+  [
+    id 82
     label "9P_TSwJBmpU"
     step 0
     date "2021-02-26T23:09:57Z"
@@ -2227,21 +2152,20 @@ graph [
     commentcount 123
     duration "PT28M40S"
     indegree 17
+    ppinsult 0.2621949
+    ppflirtation 0.47280475
+    ppidentityattack 0.56209797
+    ppthreat 0.5133558
+    pptoxicity 0.051737156
+    ppsexuallyexplicit 0.19410524
+    ppprofanity 0.30691653
+    ppinflammatory 0.028852992
+    sentiment 0
     cluster 6
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.19410524
-    PERSPECTIVE_FLIRTATION 0.47280475
-    PERSPECTIVE_INSULT 0.2621949
-    PERSPECTIVE_TOXICITY 0.051737156
-    PERSPECTIVE_IDENTITY_ATTACK 0.56209797
-    PERSPECTIVE_INFLAMMATORY 0.028852992
-    PERSPECTIVE_THREAT 0.5133558
-    PERSPECTIVE_PROFANITY 0.30691653
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 80
+  node
+  [
+    id 83
     label "2i28Hy9qGmA"
     step 0
     date "2020-06-11T22:40:19Z"
@@ -2255,21 +2179,20 @@ graph [
     commentcount 111
     duration "PT3M35S"
     indegree 4
-    cluster 1
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.028934324
-    PERSPECTIVE_FLIRTATION 0.43887284
-    PERSPECTIVE_INSULT 0.061541315
-    PERSPECTIVE_TOXICITY 0.0022213135
-    PERSPECTIVE_IDENTITY_ATTACK 0.06307335
-    PERSPECTIVE_INFLAMMATORY 0.004524472
-    PERSPECTIVE_THREAT 0.24105313
-    PERSPECTIVE_PROFANITY 0.02789517
-    leftright ""
-    channeltags ""
+    ppinsult 0.061541315
+    ppflirtation 0.43887284
+    ppidentityattack 0.06307335
+    ppthreat 0.24105313
+    pptoxicity 0.0022213135
+    ppsexuallyexplicit 0.028934324
+    ppprofanity 0.02789517
+    ppinflammatory 0.004524472
+    sentiment 0
+    cluster 2
   ]
-  node [
-    id 81
+  node
+  [
+    id 84
     label "MQkiDPRStwA"
     step 0
     date "2021-08-23T00:46:50Z"
@@ -2283,21 +2206,20 @@ graph [
     commentcount 108
     duration "PT21M31S"
     indegree 26
+    ppinsult 0.039201483
+    ppflirtation 0.32030365
+    ppidentityattack 0.02751392
+    ppthreat 0.073787525
+    pptoxicity 0.11407687
+    ppsexuallyexplicit 0.036576424
+    ppprofanity 0.02752837
+    ppinflammatory 0.124300614
+    sentiment 0
     cluster 2
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.036576424
-    PERSPECTIVE_FLIRTATION 0.32030365
-    PERSPECTIVE_INSULT 0.039201483
-    PERSPECTIVE_TOXICITY 0.11407687
-    PERSPECTIVE_IDENTITY_ATTACK 0.02751392
-    PERSPECTIVE_INFLAMMATORY 0.124300614
-    PERSPECTIVE_THREAT 0.073787525
-    PERSPECTIVE_PROFANITY 0.02752837
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 82
+  node
+  [
+    id 85
     label "qOaL-BZ13f0"
     step 0
     date "2021-06-26T17:54:08Z"
@@ -2311,21 +2233,20 @@ graph [
     commentcount 12
     duration "PT5M43S"
     indegree 0
-    cluster 4
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.09174347
-    PERSPECTIVE_FLIRTATION 0.28123492
-    PERSPECTIVE_INSULT 0.10585163
-    PERSPECTIVE_TOXICITY 0.027580723
-    PERSPECTIVE_IDENTITY_ATTACK 0.1073349
-    PERSPECTIVE_INFLAMMATORY 0.029496063
-    PERSPECTIVE_THREAT 0.1275745
-    PERSPECTIVE_PROFANITY 0.09817647
-    leftright ""
-    channeltags ""
+    ppinsult 0.10585163
+    ppflirtation 0.28123492
+    ppidentityattack 0.1073349
+    ppthreat 0.1275745
+    pptoxicity 0.027580723
+    ppsexuallyexplicit 0.09174347
+    ppprofanity 0.09817647
+    ppinflammatory 0.029496063
+    sentiment 0
+    cluster 2
   ]
-  node [
-    id 83
+  node
+  [
+    id 86
     label "x_HCeohW3AA"
     step 0
     date "2021-08-13T16:51:12Z"
@@ -2339,21 +2260,20 @@ graph [
     commentcount 256
     duration "PT24M38S"
     indegree 7
+    ppinsult 0.08863484
+    ppflirtation 0.35274237
+    ppidentityattack 0.09135911
+    ppthreat 0.27494147
+    pptoxicity 0.021102477
+    ppsexuallyexplicit 0.14098808
+    ppprofanity 0.08277163
+    ppinflammatory 0.09606436
+    sentiment 0
     cluster 4
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.14098808
-    PERSPECTIVE_FLIRTATION 0.35274237
-    PERSPECTIVE_INSULT 0.08863484
-    PERSPECTIVE_TOXICITY 0.021102477
-    PERSPECTIVE_IDENTITY_ATTACK 0.09135911
-    PERSPECTIVE_INFLAMMATORY 0.09606436
-    PERSPECTIVE_THREAT 0.27494147
-    PERSPECTIVE_PROFANITY 0.08277163
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 84
+  node
+  [
+    id 87
     label "lRpwtaVWQeA"
     step 0
     date "2021-12-12T19:25:44Z"
@@ -2367,21 +2287,20 @@ graph [
     commentcount 135
     duration "PT29M51S"
     indegree 11
-    cluster 3
+    ppinsult 0.027991869
+    ppflirtation 0.40837893
+    ppidentityattack 0.025634533
+    ppthreat 0.06984059
+    pptoxicity 0.0057615316
+    ppsexuallyexplicit 0.029959222
+    ppprofanity 0.017902367
+    ppinflammatory 0.07817315
     sentiment 0.4019
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.029959222
-    PERSPECTIVE_FLIRTATION 0.40837893
-    PERSPECTIVE_INSULT 0.027991869
-    PERSPECTIVE_TOXICITY 0.0057615316
-    PERSPECTIVE_IDENTITY_ATTACK 0.025634533
-    PERSPECTIVE_INFLAMMATORY 0.07817315
-    PERSPECTIVE_THREAT 0.06984059
-    PERSPECTIVE_PROFANITY 0.017902367
-    leftright ""
-    channeltags ""
+    cluster 3
   ]
-  node [
-    id 85
+  node
+  [
+    id 88
     label "TscAQgjsjdk"
     step 0
     date "2021-05-06T11:00:11Z"
@@ -2395,21 +2314,20 @@ graph [
     commentcount 21
     duration "PT12M42S"
     indegree 11
+    ppinsult 0.050211977
+    ppflirtation 0.23233281
+    ppidentityattack 0.063362874
+    ppthreat 0.12922482
+    pptoxicity 0.025863936
+    ppsexuallyexplicit 0.08224325
+    ppprofanity 0.070939995
+    ppinflammatory 0.05350192
+    sentiment 0
     cluster 4
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.08224325
-    PERSPECTIVE_FLIRTATION 0.23233281
-    PERSPECTIVE_INSULT 0.050211977
-    PERSPECTIVE_TOXICITY 0.025863936
-    PERSPECTIVE_IDENTITY_ATTACK 0.063362874
-    PERSPECTIVE_INFLAMMATORY 0.05350192
-    PERSPECTIVE_THREAT 0.12922482
-    PERSPECTIVE_PROFANITY 0.070939995
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 86
+  node
+  [
+    id 89
     label "oAOO6BaGHW0"
     step 0
     date "2020-10-09T12:00:29Z"
@@ -2423,21 +2341,20 @@ graph [
     commentcount 122
     duration "PT21M11S"
     indegree 8
+    ppinsult 0.07270782
+    ppflirtation 0.400823
+    ppidentityattack 0.113222174
+    ppthreat 0.16478233
+    pptoxicity 0.028954152
+    ppsexuallyexplicit 0.034702063
+    ppprofanity 0.04080609
+    ppinflammatory 0.1010474
+    sentiment 0
     cluster 1
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.034702063
-    PERSPECTIVE_FLIRTATION 0.400823
-    PERSPECTIVE_INSULT 0.07270782
-    PERSPECTIVE_TOXICITY 0.028954152
-    PERSPECTIVE_IDENTITY_ATTACK 0.113222174
-    PERSPECTIVE_INFLAMMATORY 0.1010474
-    PERSPECTIVE_THREAT 0.16478233
-    PERSPECTIVE_PROFANITY 0.04080609
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 87
+  node
+  [
+    id 90
     label "vLpb8l-Pjj4"
     step 0
     date "2020-12-17T03:14:16Z"
@@ -2451,21 +2368,20 @@ graph [
     commentcount 97
     duration "PT33M4S"
     indegree 37
+    ppinsult 0.0904768
+    ppflirtation 0.2595933
+    ppidentityattack 0.13145971
+    ppthreat 0.17676973
+    pptoxicity 0.103539884
+    ppsexuallyexplicit 0.05573435
+    ppprofanity 0.080863886
+    ppinflammatory 0.027810263
+    sentiment 0
     cluster 3
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.05573435
-    PERSPECTIVE_FLIRTATION 0.2595933
-    PERSPECTIVE_INSULT 0.0904768
-    PERSPECTIVE_TOXICITY 0.103539884
-    PERSPECTIVE_IDENTITY_ATTACK 0.13145971
-    PERSPECTIVE_INFLAMMATORY 0.027810263
-    PERSPECTIVE_THREAT 0.17676973
-    PERSPECTIVE_PROFANITY 0.080863886
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 88
+  node
+  [
+    id 91
     label "CbzLJm2p7dI"
     step 0
     date "2021-01-09T01:48:00Z"
@@ -2479,21 +2395,20 @@ graph [
     commentcount 108
     duration "PT9M11S"
     indegree 24
+    ppinsult 0.045876864
+    ppflirtation 0.378466
+    ppidentityattack 0.06950792
+    ppthreat 0.099565476
+    pptoxicity 0.1414913
+    ppsexuallyexplicit 0.05928639
+    ppprofanity 0.06852017
+    ppinflammatory 0.18070373
+    sentiment 0
     cluster 2
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.05928639
-    PERSPECTIVE_FLIRTATION 0.378466
-    PERSPECTIVE_INSULT 0.045876864
-    PERSPECTIVE_TOXICITY 0.1414913
-    PERSPECTIVE_IDENTITY_ATTACK 0.06950792
-    PERSPECTIVE_INFLAMMATORY 0.18070373
-    PERSPECTIVE_THREAT 0.099565476
-    PERSPECTIVE_PROFANITY 0.06852017
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 89
+  node
+  [
+    id 92
     label "gRD6CmmYhlA"
     step 0
     date "2022-03-18T22:21:40Z"
@@ -2507,21 +2422,20 @@ graph [
     commentcount 14
     duration "PT4M25S"
     indegree 2
+    ppinsult 0.058461934
+    ppflirtation 0.3645957
+    ppidentityattack 0.08042102
+    ppthreat 0.21222715
+    pptoxicity 0.013952625
+    ppsexuallyexplicit 0.041597664
+    ppprofanity 0.04703854
+    ppinflammatory 0.13538809
+    sentiment 0
     cluster 2
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.041597664
-    PERSPECTIVE_FLIRTATION 0.3645957
-    PERSPECTIVE_INSULT 0.058461934
-    PERSPECTIVE_TOXICITY 0.013952625
-    PERSPECTIVE_IDENTITY_ATTACK 0.08042102
-    PERSPECTIVE_INFLAMMATORY 0.13538809
-    PERSPECTIVE_THREAT 0.21222715
-    PERSPECTIVE_PROFANITY 0.04703854
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 90
+  node
+  [
+    id 93
     label "w2N5NoPnK8Q"
     step 0
     date "2022-06-30T13:16:42Z"
@@ -2535,21 +2449,20 @@ graph [
     commentcount 45
     duration "PT21M52S"
     indegree 27
-    cluster 1
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.16221902
-    PERSPECTIVE_FLIRTATION 0.3458031
-    PERSPECTIVE_INSULT 0.2664763
-    PERSPECTIVE_TOXICITY 0.19789414
-    PERSPECTIVE_IDENTITY_ATTACK 0.60600996
-    PERSPECTIVE_INFLAMMATORY 0.105369955
-    PERSPECTIVE_THREAT 0.38368136
-    PERSPECTIVE_PROFANITY 0.2968818
-    leftright ""
-    channeltags ""
+    ppinsult 0.2664763
+    ppflirtation 0.3458031
+    ppidentityattack 0.60600996
+    ppthreat 0.38368136
+    pptoxicity 0.19789414
+    ppsexuallyexplicit 0.16221902
+    ppprofanity 0.2968818
+    ppinflammatory 0.105369955
+    sentiment 0
+    cluster 2
   ]
-  node [
-    id 91
+  node
+  [
+    id 94
     label "-kSQxaEXRBo"
     step 0
     date "2021-02-05T01:00:42Z"
@@ -2563,21 +2476,20 @@ graph [
     commentcount 49
     duration "PT29M47S"
     indegree 1
+    ppinsult 0.055283356
+    ppflirtation 0.3658003
+    ppidentityattack 0.1071152
+    ppthreat 0.3663914
+    pptoxicity 0.0020564504
+    ppsexuallyexplicit 0.17586364
+    ppprofanity 0.15390453
+    ppinflammatory 0.019530617
+    sentiment 0
     cluster 2
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.17586364
-    PERSPECTIVE_FLIRTATION 0.3658003
-    PERSPECTIVE_INSULT 0.055283356
-    PERSPECTIVE_TOXICITY 0.0020564504
-    PERSPECTIVE_IDENTITY_ATTACK 0.1071152
-    PERSPECTIVE_INFLAMMATORY 0.019530617
-    PERSPECTIVE_THREAT 0.3663914
-    PERSPECTIVE_PROFANITY 0.15390453
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 92
+  node
+  [
+    id 95
     label "6FjwIAtN4tU"
     step 0
     date "2012-06-08T20:38:14Z"
@@ -2591,21 +2503,20 @@ graph [
     commentcount 152
     duration "PT22M15S"
     indegree 43
+    ppinsult 0.106082916
+    ppflirtation 0.3768876
+    ppidentityattack 0.12578946
+    ppthreat 0.3072113
+    pptoxicity 0.012217224
+    ppsexuallyexplicit 0.052425742
+    ppprofanity 0.06626971
+    ppinflammatory 0.013213398
+    sentiment 0
     cluster 4
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.052425742
-    PERSPECTIVE_FLIRTATION 0.3768876
-    PERSPECTIVE_INSULT 0.106082916
-    PERSPECTIVE_TOXICITY 0.012217224
-    PERSPECTIVE_IDENTITY_ATTACK 0.12578946
-    PERSPECTIVE_INFLAMMATORY 0.013213398
-    PERSPECTIVE_THREAT 0.3072113
-    PERSPECTIVE_PROFANITY 0.06626971
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 93
+  node
+  [
+    id 96
     label "l_DmFcFTDnY"
     step 0
     date "2021-06-11T11:00:31Z"
@@ -2619,21 +2530,20 @@ graph [
     commentcount 22
     duration "PT18M31S"
     indegree 7
-    cluster 4
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.07624632
-    PERSPECTIVE_FLIRTATION 0.22061618
-    PERSPECTIVE_INSULT 0.07600236
-    PERSPECTIVE_TOXICITY 0.022945397
-    PERSPECTIVE_IDENTITY_ATTACK 0.07644511
-    PERSPECTIVE_INFLAMMATORY 0.11611542
-    PERSPECTIVE_THREAT 0.10785074
-    PERSPECTIVE_PROFANITY 0.09070877
-    leftright ""
-    channeltags ""
+    ppinsult 0.07600236
+    ppflirtation 0.22061618
+    ppidentityattack 0.07644511
+    ppthreat 0.10785074
+    pptoxicity 0.022945397
+    ppsexuallyexplicit 0.07624632
+    ppprofanity 0.09070877
+    ppinflammatory 0.11611542
+    sentiment 0
+    cluster 2
   ]
-  node [
-    id 94
+  node
+  [
+    id 97
     label "T7lQ_uetN0k"
     step 0
     date "2019-04-22T23:50:09Z"
@@ -2647,21 +2557,20 @@ graph [
     commentcount 7
     duration "PT7M46S"
     indegree 0
-    cluster 5
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.089404166
-    PERSPECTIVE_FLIRTATION 0.25687078
-    PERSPECTIVE_INSULT 0.04378708
-    PERSPECTIVE_TOXICITY 0.03616466
-    PERSPECTIVE_IDENTITY_ATTACK 0.061417818
-    PERSPECTIVE_INFLAMMATORY 0.10612953
-    PERSPECTIVE_THREAT 0.11114605
-    PERSPECTIVE_PROFANITY 0.060848564
-    leftright ""
-    channeltags ""
+    ppinsult 0.04378708
+    ppflirtation 0.25687078
+    ppidentityattack 0.061417818
+    ppthreat 0.11114605
+    pptoxicity 0.03616466
+    ppsexuallyexplicit 0.089404166
+    ppprofanity 0.060848564
+    ppinflammatory 0.10612953
+    sentiment 0
+    cluster 2
   ]
-  node [
-    id 95
+  node
+  [
+    id 98
     label "f1OO9snfRsY"
     step 0
     date "2022-06-10T16:41:51Z"
@@ -2675,21 +2584,20 @@ graph [
     commentcount 35
     duration "PT17M27S"
     indegree 82
+    ppinsult 0.08815643
+    ppflirtation 0.32793885
+    ppidentityattack 0.091662966
+    ppthreat 0.2356433
+    pptoxicity 0.1710401
+    ppsexuallyexplicit 0.07003441
+    ppprofanity 0.08256241
+    ppinflammatory 0.06675269
+    sentiment 0
     cluster 1
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.07003441
-    PERSPECTIVE_FLIRTATION 0.32793885
-    PERSPECTIVE_INSULT 0.08815643
-    PERSPECTIVE_TOXICITY 0.1710401
-    PERSPECTIVE_IDENTITY_ATTACK 0.091662966
-    PERSPECTIVE_INFLAMMATORY 0.06675269
-    PERSPECTIVE_THREAT 0.2356433
-    PERSPECTIVE_PROFANITY 0.08256241
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 96
+  node
+  [
+    id 99
     label "CBpA61Fr_YM"
     step 0
     date "2020-12-02T14:06:23Z"
@@ -2703,21 +2611,20 @@ graph [
     commentcount 6
     duration "PT4M43S"
     indegree 0
+    ppinsult 0.26332355
+    ppflirtation 0.41143027
+    ppidentityattack 0.12894715
+    ppthreat 0.2088583
+    pptoxicity 0.24991328
+    ppsexuallyexplicit 0.39350954
+    ppprofanity 0.615872
+    ppinflammatory 0.32599252
+    sentiment 0
     cluster 1
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.39350954
-    PERSPECTIVE_FLIRTATION 0.41143027
-    PERSPECTIVE_INSULT 0.26332355
-    PERSPECTIVE_TOXICITY 0.24991328
-    PERSPECTIVE_IDENTITY_ATTACK 0.12894715
-    PERSPECTIVE_INFLAMMATORY 0.32599252
-    PERSPECTIVE_THREAT 0.2088583
-    PERSPECTIVE_PROFANITY 0.615872
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 97
+  node
+  [
+    id 100
     label "yA86JV1Nzko"
     step 0
     date "2020-05-23T18:28:05Z"
@@ -2731,21 +2638,20 @@ graph [
     commentcount 35
     duration "PT8M48S"
     indegree 2
+    ppinsult 0.13982566
+    ppflirtation 0.38690042
+    ppidentityattack 0.12640792
+    ppthreat 0.3006145
+    pptoxicity 0.0253489
+    ppsexuallyexplicit 0.13797818
+    ppprofanity 0.115192786
+    ppinflammatory 0.022422016
+    sentiment 0
     cluster 1
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.13797818
-    PERSPECTIVE_FLIRTATION 0.38690042
-    PERSPECTIVE_INSULT 0.13982566
-    PERSPECTIVE_TOXICITY 0.0253489
-    PERSPECTIVE_IDENTITY_ATTACK 0.12640792
-    PERSPECTIVE_INFLAMMATORY 0.022422016
-    PERSPECTIVE_THREAT 0.3006145
-    PERSPECTIVE_PROFANITY 0.115192786
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 98
+  node
+  [
+    id 101
     label "yCOV17ugPuU"
     step 0
     date "2019-07-23T21:58:13Z"
@@ -2759,21 +2665,20 @@ graph [
     commentcount 204
     duration "PT10M43S"
     indegree 5
-    cluster 4
+    ppinsult 0.02109375
+    ppflirtation 0.30643246
+    ppidentityattack 0.04540292
+    ppthreat 0.1555146
+    pptoxicity 0.010134743
+    ppsexuallyexplicit 0.057748746
+    ppprofanity 0.017418731
+    ppinflammatory 0.02279216
     sentiment 0.3182
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.057748746
-    PERSPECTIVE_FLIRTATION 0.30643246
-    PERSPECTIVE_INSULT 0.02109375
-    PERSPECTIVE_TOXICITY 0.010134743
-    PERSPECTIVE_IDENTITY_ATTACK 0.04540292
-    PERSPECTIVE_INFLAMMATORY 0.02279216
-    PERSPECTIVE_THREAT 0.1555146
-    PERSPECTIVE_PROFANITY 0.017418731
-    leftright ""
-    channeltags ""
+    cluster 4
   ]
-  node [
-    id 99
+  node
+  [
+    id 102
     label "R8bNv2d_q3c"
     step 0
     date "2022-01-22T05:00:22Z"
@@ -2787,21 +2692,20 @@ graph [
     commentcount 44
     duration "PT19M32S"
     indegree 4
+    ppinsult 0.05435329
+    ppflirtation 0.4238898
+    ppidentityattack 0.15764937
+    ppthreat 0.11411457
+    pptoxicity 0.048868883
+    ppsexuallyexplicit 0.10316943
+    ppprofanity 0.07429749
+    ppinflammatory 0.06807518
+    sentiment 0
     cluster 7
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.10316943
-    PERSPECTIVE_FLIRTATION 0.4238898
-    PERSPECTIVE_INSULT 0.05435329
-    PERSPECTIVE_TOXICITY 0.048868883
-    PERSPECTIVE_IDENTITY_ATTACK 0.15764937
-    PERSPECTIVE_INFLAMMATORY 0.06807518
-    PERSPECTIVE_THREAT 0.11411457
-    PERSPECTIVE_PROFANITY 0.07429749
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 100
+  node
+  [
+    id 103
     label "GFJAZNVNGAQ"
     step 0
     date "2021-11-02T15:58:18Z"
@@ -2815,21 +2719,20 @@ graph [
     commentcount 35
     duration "PT40M40S"
     indegree 15
+    ppinsult 0.04324591
+    ppflirtation 0.20621131
+    ppidentityattack 0.056915056
+    ppthreat 0.09627615
+    pptoxicity 0.059328925
+    ppsexuallyexplicit 0.06664228
+    ppprofanity 0.06040218
+    ppinflammatory 0.111687325
+    sentiment 0
     cluster 3
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.06664228
-    PERSPECTIVE_FLIRTATION 0.20621131
-    PERSPECTIVE_INSULT 0.04324591
-    PERSPECTIVE_TOXICITY 0.059328925
-    PERSPECTIVE_IDENTITY_ATTACK 0.056915056
-    PERSPECTIVE_INFLAMMATORY 0.111687325
-    PERSPECTIVE_THREAT 0.09627615
-    PERSPECTIVE_PROFANITY 0.06040218
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 101
+  node
+  [
+    id 104
     label "70k4mTqT_oc"
     step 0
     date "2021-02-20T03:55:36Z"
@@ -2843,21 +2746,20 @@ graph [
     commentcount 204
     duration "PT34M23S"
     indegree 61
-    cluster 7
+    ppinsult 0.031894073
+    ppflirtation 0.2374018
+    ppidentityattack 0.054900326
+    ppthreat 0.08695713
+    pptoxicity 0.09924392
+    ppsexuallyexplicit 0.075697154
+    ppprofanity 0.053754967
+    ppinflammatory 0.13534121
     sentiment 0.3182
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.075697154
-    PERSPECTIVE_FLIRTATION 0.2374018
-    PERSPECTIVE_INSULT 0.031894073
-    PERSPECTIVE_TOXICITY 0.09924392
-    PERSPECTIVE_IDENTITY_ATTACK 0.054900326
-    PERSPECTIVE_INFLAMMATORY 0.13534121
-    PERSPECTIVE_THREAT 0.08695713
-    PERSPECTIVE_PROFANITY 0.053754967
-    leftright ""
-    channeltags ""
+    cluster 7
   ]
-  node [
-    id 102
+  node
+  [
+    id 105
     label "LnqyqwYpBbY"
     step 0
     date "2019-10-28T16:30:33Z"
@@ -2871,21 +2773,20 @@ graph [
     commentcount 102
     duration "PT26M35S"
     indegree 4
+    ppinsult 0.09994618
+    ppflirtation 0.40693453
+    ppidentityattack 0.13040794
+    ppthreat 0.5436607
+    pptoxicity 0.09065199
+    ppsexuallyexplicit 0.082821816
+    ppprofanity 0.10010822
+    ppinflammatory 0.021397823
+    sentiment 0
     cluster 1
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.082821816
-    PERSPECTIVE_FLIRTATION 0.40693453
-    PERSPECTIVE_INSULT 0.09994618
-    PERSPECTIVE_TOXICITY 0.09065199
-    PERSPECTIVE_IDENTITY_ATTACK 0.13040794
-    PERSPECTIVE_INFLAMMATORY 0.021397823
-    PERSPECTIVE_THREAT 0.5436607
-    PERSPECTIVE_PROFANITY 0.10010822
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 103
+  node
+  [
+    id 106
     label "V6fgZduKYno"
     step 0
     date "2020-09-11T23:49:11Z"
@@ -2899,21 +2800,20 @@ graph [
     commentcount 90
     duration "PT2M1S"
     indegree 1
-    cluster 5
+    ppinsult 0.13181873
+    ppflirtation 0.32977393
+    ppidentityattack 0.18815294
+    ppthreat 0.19205154
+    pptoxicity 0.05093802
+    ppsexuallyexplicit 0.18067238
+    ppprofanity 0.15489009
+    ppinflammatory 0.036868807
     sentiment 0.4215
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.18067238
-    PERSPECTIVE_FLIRTATION 0.32977393
-    PERSPECTIVE_INSULT 0.13181873
-    PERSPECTIVE_TOXICITY 0.05093802
-    PERSPECTIVE_IDENTITY_ATTACK 0.18815294
-    PERSPECTIVE_INFLAMMATORY 0.036868807
-    PERSPECTIVE_THREAT 0.19205154
-    PERSPECTIVE_PROFANITY 0.15489009
-    leftright ""
-    channeltags ""
+    cluster 5
   ]
-  node [
-    id 104
+  node
+  [
+    id 107
     label "1H8Epk6qpdY"
     step 0
     date "2020-10-29T22:00:02Z"
@@ -2927,21 +2827,20 @@ graph [
     commentcount 17
     duration "PT18M7S"
     indegree 0
-    cluster 1
+    ppinsult 0.0467724
+    ppflirtation 0.47091368
+    ppidentityattack 0.08225509
+    ppthreat 0.24266824
+    pptoxicity 0.03856816
+    ppsexuallyexplicit 0.16935007
+    ppprofanity 0.121274024
+    ppinflammatory 0.0047842404
     sentiment 0.34
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.16935007
-    PERSPECTIVE_FLIRTATION 0.47091368
-    PERSPECTIVE_INSULT 0.0467724
-    PERSPECTIVE_TOXICITY 0.03856816
-    PERSPECTIVE_IDENTITY_ATTACK 0.08225509
-    PERSPECTIVE_INFLAMMATORY 0.0047842404
-    PERSPECTIVE_THREAT 0.24266824
-    PERSPECTIVE_PROFANITY 0.121274024
-    leftright ""
-    channeltags ""
+    cluster 1
   ]
-  node [
-    id 105
+  node
+  [
+    id 108
     label "JmlGLgvAVhc"
     step 0
     date "2021-02-03T02:37:21Z"
@@ -2955,21 +2854,20 @@ graph [
     commentcount 0
     duration "PT14M39S"
     indegree 1
+    ppinsult 0.11846225
+    ppflirtation 0.31754178
+    ppidentityattack 0.17481068
+    ppthreat 0.26690942
+    pptoxicity 0.019297661
+    ppsexuallyexplicit 0.16158596
+    ppprofanity 0.16944896
+    ppinflammatory 0.085131966
+    sentiment 0
     cluster 4
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.16158596
-    PERSPECTIVE_FLIRTATION 0.31754178
-    PERSPECTIVE_INSULT 0.11846225
-    PERSPECTIVE_TOXICITY 0.019297661
-    PERSPECTIVE_IDENTITY_ATTACK 0.17481068
-    PERSPECTIVE_INFLAMMATORY 0.085131966
-    PERSPECTIVE_THREAT 0.26690942
-    PERSPECTIVE_PROFANITY 0.16944896
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 106
+  node
+  [
+    id 109
     label "eGtNs1nmI14"
     step 0
     date "2021-06-11T20:43:38Z"
@@ -2983,21 +2881,20 @@ graph [
     commentcount 50
     duration "PT26M8S"
     indegree 3
+    ppinsult 0.07063838
+    ppflirtation 0.34115916
+    ppidentityattack 0.09604116
+    ppthreat 0.14168411
+    pptoxicity 0.044405237
+    ppsexuallyexplicit 0.042906348
+    ppprofanity 0.047314703
+    ppinflammatory 0.099464506
+    sentiment 0
     cluster 3
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.042906348
-    PERSPECTIVE_FLIRTATION 0.34115916
-    PERSPECTIVE_INSULT 0.07063838
-    PERSPECTIVE_TOXICITY 0.044405237
-    PERSPECTIVE_IDENTITY_ATTACK 0.09604116
-    PERSPECTIVE_INFLAMMATORY 0.099464506
-    PERSPECTIVE_THREAT 0.14168411
-    PERSPECTIVE_PROFANITY 0.047314703
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 107
+  node
+  [
+    id 110
     label "V4ynAA7ohoo"
     step 0
     date "2021-02-02T00:25:52Z"
@@ -3011,21 +2908,20 @@ graph [
     commentcount 86
     duration "PT31M52S"
     indegree 6
+    ppinsult 0.31242716
+    ppflirtation 0.50250274
+    ppidentityattack 0.6440157
+    ppthreat 0.5811853
+    pptoxicity 0.061726328
+    ppsexuallyexplicit 0.326808
+    ppprofanity 0.37280723
+    ppinflammatory 0.11033135
+    sentiment 0
     cluster 6
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.326808
-    PERSPECTIVE_FLIRTATION 0.50250274
-    PERSPECTIVE_INSULT 0.31242716
-    PERSPECTIVE_TOXICITY 0.061726328
-    PERSPECTIVE_IDENTITY_ATTACK 0.6440157
-    PERSPECTIVE_INFLAMMATORY 0.11033135
-    PERSPECTIVE_THREAT 0.5811853
-    PERSPECTIVE_PROFANITY 0.37280723
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 108
+  node
+  [
+    id 111
     label "ASJzmOHA99U"
     step 0
     date "2022-01-16T06:26:07Z"
@@ -3039,21 +2935,20 @@ graph [
     commentcount 19
     duration "PT34M52S"
     indegree 0
+    ppinsult 0.078768894
+    ppflirtation 0.39176023
+    ppidentityattack 0.09643971
+    ppthreat 0.084893726
+    pptoxicity 0.087430015
+    ppsexuallyexplicit 0.07113441
+    ppprofanity 0.06812725
+    ppinflammatory 0.19140773
+    sentiment 0
     cluster 3
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.07113441
-    PERSPECTIVE_FLIRTATION 0.39176023
-    PERSPECTIVE_INSULT 0.078768894
-    PERSPECTIVE_TOXICITY 0.087430015
-    PERSPECTIVE_IDENTITY_ATTACK 0.09643971
-    PERSPECTIVE_INFLAMMATORY 0.19140773
-    PERSPECTIVE_THREAT 0.084893726
-    PERSPECTIVE_PROFANITY 0.06812725
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 109
+  node
+  [
+    id 112
     label "TXOBaUCnVMs"
     step 0
     date "2021-12-05T15:29:10Z"
@@ -3067,21 +2962,20 @@ graph [
     commentcount 9
     duration "PT12M52S"
     indegree 0
+    ppinsult 0.07003413
+    ppflirtation 0.36170986
+    ppidentityattack 0.06708415
+    ppthreat 0.12111091
+    pptoxicity 0.046465382
+    ppsexuallyexplicit 0.070601426
+    ppprofanity 0.0595359
+    ppinflammatory 0.11160925
+    sentiment 0
     cluster 3
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.070601426
-    PERSPECTIVE_FLIRTATION 0.36170986
-    PERSPECTIVE_INSULT 0.07003413
-    PERSPECTIVE_TOXICITY 0.046465382
-    PERSPECTIVE_IDENTITY_ATTACK 0.06708415
-    PERSPECTIVE_INFLAMMATORY 0.11160925
-    PERSPECTIVE_THREAT 0.12111091
-    PERSPECTIVE_PROFANITY 0.0595359
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 110
+  node
+  [
+    id 114
     label "xj54cQs7z-s"
     step 0
     date "2018-09-28T14:00:13Z"
@@ -3095,21 +2989,20 @@ graph [
     commentcount 13
     duration "PT16M18S"
     indegree 3
+    ppinsult 0.038025115
+    ppflirtation 0.21671325
+    ppidentityattack 0.053964633
+    ppthreat 0.09618977
+    pptoxicity 0.024147147
+    ppsexuallyexplicit 0.09678801
+    ppprofanity 0.06868567
+    ppinflammatory 0.047304157
+    sentiment 0
     cluster 1
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.09678801
-    PERSPECTIVE_FLIRTATION 0.21671325
-    PERSPECTIVE_INSULT 0.038025115
-    PERSPECTIVE_TOXICITY 0.024147147
-    PERSPECTIVE_IDENTITY_ATTACK 0.053964633
-    PERSPECTIVE_INFLAMMATORY 0.047304157
-    PERSPECTIVE_THREAT 0.09618977
-    PERSPECTIVE_PROFANITY 0.06868567
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 111
+  node
+  [
+    id 115
     label "ULpvQVQNJKo"
     step 0
     date "2021-09-14T17:26:01Z"
@@ -3123,21 +3016,20 @@ graph [
     commentcount 72
     duration "PT24M14S"
     indegree 5
-    cluster 3
+    ppinsult 0.19376273
+    ppflirtation 0.3117916
+    ppidentityattack 0.37403974
+    ppthreat 0.12998457
+    pptoxicity 0.04234509
+    ppsexuallyexplicit 0.08902577
+    ppprofanity 0.11826698
+    ppinflammatory 0.12253112
     sentiment 0.296
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.08902577
-    PERSPECTIVE_FLIRTATION 0.3117916
-    PERSPECTIVE_INSULT 0.19376273
-    PERSPECTIVE_TOXICITY 0.04234509
-    PERSPECTIVE_IDENTITY_ATTACK 0.37403974
-    PERSPECTIVE_INFLAMMATORY 0.12253112
-    PERSPECTIVE_THREAT 0.12998457
-    PERSPECTIVE_PROFANITY 0.11826698
-    leftright ""
-    channeltags ""
+    cluster 3
   ]
-  node [
-    id 112
+  node
+  [
+    id 116
     label "zlWfVViAwis"
     step 0
     date "2021-04-29T13:18:35Z"
@@ -3151,21 +3043,20 @@ graph [
     commentcount 114
     duration "PT1H54M5S"
     indegree 27
+    ppinsult 0.106692724
+    ppflirtation 0.46467102
+    ppidentityattack 0.12515196
+    ppthreat 0.20938602
+    pptoxicity 0.06252546
+    ppsexuallyexplicit 0.14851771
+    ppprofanity 0.118792824
+    ppinflammatory 0.15293176
+    sentiment 0
     cluster 3
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.14851771
-    PERSPECTIVE_FLIRTATION 0.46467102
-    PERSPECTIVE_INSULT 0.106692724
-    PERSPECTIVE_TOXICITY 0.06252546
-    PERSPECTIVE_IDENTITY_ATTACK 0.12515196
-    PERSPECTIVE_INFLAMMATORY 0.15293176
-    PERSPECTIVE_THREAT 0.20938602
-    PERSPECTIVE_PROFANITY 0.118792824
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 113
+  node
+  [
+    id 117
     label "GUvIqdCMZ9A"
     step 0
     date "2018-02-12T00:56:56Z"
@@ -3179,21 +3070,20 @@ graph [
     commentcount 5
     duration "PT3M20S"
     indegree 1
+    ppinsult 0.18114933
+    ppflirtation 0.31164116
+    ppidentityattack 0.14283349
+    ppthreat 0.34707075
+    pptoxicity 0.048525527
+    ppsexuallyexplicit 0.053088415
+    ppprofanity 0.0699334
+    ppinflammatory 0.16677208
+    sentiment 0
     cluster 2
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.053088415
-    PERSPECTIVE_FLIRTATION 0.31164116
-    PERSPECTIVE_INSULT 0.18114933
-    PERSPECTIVE_TOXICITY 0.048525527
-    PERSPECTIVE_IDENTITY_ATTACK 0.14283349
-    PERSPECTIVE_INFLAMMATORY 0.16677208
-    PERSPECTIVE_THREAT 0.34707075
-    PERSPECTIVE_PROFANITY 0.0699334
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 114
+  node
+  [
+    id 119
     label "Q0mfZdnYCRk"
     step 0
     date "2022-02-03T21:30:03Z"
@@ -3207,21 +3097,20 @@ graph [
     commentcount 117
     duration "PT13M13S"
     indegree 6
+    ppinsult 0.038873974
+    ppflirtation 0.3236548
+    ppidentityattack 0.04559132
+    ppthreat 0.08903704
+    pptoxicity 0.023117077
+    ppsexuallyexplicit 0.061465837
+    ppprofanity 0.044277817
+    ppinflammatory 0.09173223
+    sentiment 0
     cluster 2
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.061465837
-    PERSPECTIVE_FLIRTATION 0.3236548
-    PERSPECTIVE_INSULT 0.038873974
-    PERSPECTIVE_TOXICITY 0.023117077
-    PERSPECTIVE_IDENTITY_ATTACK 0.04559132
-    PERSPECTIVE_INFLAMMATORY 0.09173223
-    PERSPECTIVE_THREAT 0.08903704
-    PERSPECTIVE_PROFANITY 0.044277817
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 115
+  node
+  [
+    id 121
     label "Jk7jsLzziNM"
     step 0
     date "2022-02-25T00:13:37Z"
@@ -3235,21 +3124,20 @@ graph [
     commentcount 244
     duration "PT19M15S"
     indegree 0
-    cluster 1
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.14562486
-    PERSPECTIVE_FLIRTATION 0.34858018
-    PERSPECTIVE_INSULT 0.10639945
-    PERSPECTIVE_TOXICITY 0.04131502
-    PERSPECTIVE_IDENTITY_ATTACK 0.099256545
-    PERSPECTIVE_INFLAMMATORY 0.15919885
-    PERSPECTIVE_THREAT 0.12941568
-    PERSPECTIVE_PROFANITY 0.09362101
-    leftright ""
-    channeltags ""
+    ppinsult 0.10639945
+    ppflirtation 0.34858018
+    ppidentityattack 0.099256545
+    ppthreat 0.12941568
+    pptoxicity 0.04131502
+    ppsexuallyexplicit 0.14562486
+    ppprofanity 0.09362101
+    ppinflammatory 0.15919885
+    sentiment 0
+    cluster 2
   ]
-  node [
-    id 116
+  node
+  [
+    id 122
     label "s_ehpugWGHw"
     step 0
     date "2021-09-26T14:42:24Z"
@@ -3263,21 +3151,20 @@ graph [
     commentcount 52
     duration "PT24M21S"
     indegree 0
+    ppinsult 0.07365391
+    ppflirtation 0.353744
+    ppidentityattack 0.06546032
+    ppthreat 0.11302104
+    pptoxicity 0.042001735
+    ppsexuallyexplicit 0.05870067
+    ppprofanity 0.05739355
+    ppinflammatory 0.079310045
+    sentiment 0
     cluster 3
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.05870067
-    PERSPECTIVE_FLIRTATION 0.353744
-    PERSPECTIVE_INSULT 0.07365391
-    PERSPECTIVE_TOXICITY 0.042001735
-    PERSPECTIVE_IDENTITY_ATTACK 0.06546032
-    PERSPECTIVE_INFLAMMATORY 0.079310045
-    PERSPECTIVE_THREAT 0.11302104
-    PERSPECTIVE_PROFANITY 0.05739355
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 117
+  node
+  [
+    id 123
     label "C1c5pw8_0eQ"
     step 0
     date "2021-02-17T06:50:16Z"
@@ -3291,21 +3178,20 @@ graph [
     commentcount 3
     duration "PT28M16S"
     indegree 10
+    ppinsult 0.15130357
+    ppflirtation 0.4281656
+    ppidentityattack 0.26974666
+    ppthreat 0.30940372
+    pptoxicity 0.083939545
+    ppsexuallyexplicit 0.14408574
+    ppprofanity 0.18537025
+    ppinflammatory 0.00056123646
+    sentiment 0
     cluster 4
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.14408574
-    PERSPECTIVE_FLIRTATION 0.4281656
-    PERSPECTIVE_INSULT 0.15130357
-    PERSPECTIVE_TOXICITY 0.083939545
-    PERSPECTIVE_IDENTITY_ATTACK 0.26974666
-    PERSPECTIVE_INFLAMMATORY 0.00056123646
-    PERSPECTIVE_THREAT 0.30940372
-    PERSPECTIVE_PROFANITY 0.18537025
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 118
+  node
+  [
+    id 125
     label "eRuHF3zqdQ4"
     step 0
     date "2022-07-01T12:38:09Z"
@@ -3319,21 +3205,20 @@ graph [
     commentcount 25
     duration "PT1H32M47S"
     indegree 15
+    ppinsult 0.106101595
+    ppflirtation 0.5249368
+    ppidentityattack 0.20080012
+    ppthreat 0.16702595
+    pptoxicity 0.13700475
+    ppsexuallyexplicit 0.13076884
+    ppprofanity 0.088560484
+    ppinflammatory 0.18887137
+    sentiment 0
     cluster 2
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.13076884
-    PERSPECTIVE_FLIRTATION 0.5249368
-    PERSPECTIVE_INSULT 0.106101595
-    PERSPECTIVE_TOXICITY 0.13700475
-    PERSPECTIVE_IDENTITY_ATTACK 0.20080012
-    PERSPECTIVE_INFLAMMATORY 0.18887137
-    PERSPECTIVE_THREAT 0.16702595
-    PERSPECTIVE_PROFANITY 0.088560484
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 119
+  node
+  [
+    id 126
     label "HOExfh8hU_g"
     step 0
     date "2021-01-13T01:54:17Z"
@@ -3347,21 +3232,20 @@ graph [
     commentcount 70
     duration "PT2M31S"
     indegree 1
+    ppinsult 0.18729173
+    ppflirtation 0.5154947
+    ppidentityattack 0.15545537
+    ppthreat 0.22688676
+    pptoxicity 0.112788886
+    ppsexuallyexplicit 0.36547652
+    ppprofanity 0.26791662
+    ppinflammatory 0.015293946
+    sentiment 0
     cluster 2
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.36547652
-    PERSPECTIVE_FLIRTATION 0.5154947
-    PERSPECTIVE_INSULT 0.18729173
-    PERSPECTIVE_TOXICITY 0.112788886
-    PERSPECTIVE_IDENTITY_ATTACK 0.15545537
-    PERSPECTIVE_INFLAMMATORY 0.015293946
-    PERSPECTIVE_THREAT 0.22688676
-    PERSPECTIVE_PROFANITY 0.26791662
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 120
+  node
+  [
+    id 127
     label "n_XTkgJf5X4"
     step 0
     date "2022-03-29T04:00:14Z"
@@ -3375,21 +3259,20 @@ graph [
     commentcount 55
     duration "PT22M53S"
     indegree 4
+    ppinsult 0.11605897
+    ppflirtation 0.48003942
+    ppidentityattack 0.13027273
+    ppthreat 0.41700277
+    pptoxicity 0.058929358
+    ppsexuallyexplicit 0.24492404
+    ppprofanity 0.1991224
+    ppinflammatory 0.008365175
+    sentiment 0
     cluster 1
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.24492404
-    PERSPECTIVE_FLIRTATION 0.48003942
-    PERSPECTIVE_INSULT 0.11605897
-    PERSPECTIVE_TOXICITY 0.058929358
-    PERSPECTIVE_IDENTITY_ATTACK 0.13027273
-    PERSPECTIVE_INFLAMMATORY 0.008365175
-    PERSPECTIVE_THREAT 0.41700277
-    PERSPECTIVE_PROFANITY 0.1991224
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 121
+  node
+  [
+    id 128
     label "fgXqgltW1p8"
     step 0
     date "2021-05-15T11:00:29Z"
@@ -3403,21 +3286,20 @@ graph [
     commentcount 23
     duration "PT12M2S"
     indegree 0
+    ppinsult 0.06908424
+    ppflirtation 0.23018593
+    ppidentityattack 0.05278687
+    ppthreat 0.07955285
+    pptoxicity 0.046122026
+    ppsexuallyexplicit 0.06814824
+    ppprofanity 0.07821611
+    ppinflammatory 0.043380857
+    sentiment 0
     cluster 4
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.06814824
-    PERSPECTIVE_FLIRTATION 0.23018593
-    PERSPECTIVE_INSULT 0.06908424
-    PERSPECTIVE_TOXICITY 0.046122026
-    PERSPECTIVE_IDENTITY_ATTACK 0.05278687
-    PERSPECTIVE_INFLAMMATORY 0.043380857
-    PERSPECTIVE_THREAT 0.07955285
-    PERSPECTIVE_PROFANITY 0.07821611
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 122
+  node
+  [
+    id 129
     label "ZpqKQvF_4W4"
     step 0
     date "2020-05-12T00:01:26Z"
@@ -3431,21 +3313,20 @@ graph [
     commentcount 30
     duration "PT15M15S"
     indegree 13
+    ppinsult 0.036847625
+    ppflirtation 0.19457503
+    ppidentityattack 0.048660036
+    ppthreat 0.08646741
+    pptoxicity 0.015340946
+    ppsexuallyexplicit 0.058402594
+    ppprofanity 0.051971056
+    ppinflammatory 0.0737626
+    sentiment 0
     cluster 1
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.058402594
-    PERSPECTIVE_FLIRTATION 0.19457503
-    PERSPECTIVE_INSULT 0.036847625
-    PERSPECTIVE_TOXICITY 0.015340946
-    PERSPECTIVE_IDENTITY_ATTACK 0.048660036
-    PERSPECTIVE_INFLAMMATORY 0.0737626
-    PERSPECTIVE_THREAT 0.08646741
-    PERSPECTIVE_PROFANITY 0.051971056
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 123
+  node
+  [
+    id 130
     label "_wK-m0IImmQ"
     step 0
     date "2022-07-08T12:21:15Z"
@@ -3459,21 +3340,20 @@ graph [
     commentcount 0
     duration "PT1H12M3S"
     indegree 7
-    cluster 2
+    ppinsult 0.101503894
+    ppflirtation 0.38490158
+    ppidentityattack 0.1513664
+    ppthreat 0.36881995
+    pptoxicity 0.044405237
+    ppsexuallyexplicit 0.09787404
+    ppprofanity 0.10501929
+    ppinflammatory 0.078636765
     sentiment -0.3182
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.09787404
-    PERSPECTIVE_FLIRTATION 0.38490158
-    PERSPECTIVE_INSULT 0.101503894
-    PERSPECTIVE_TOXICITY 0.044405237
-    PERSPECTIVE_IDENTITY_ATTACK 0.1513664
-    PERSPECTIVE_INFLAMMATORY 0.078636765
-    PERSPECTIVE_THREAT 0.36881995
-    PERSPECTIVE_PROFANITY 0.10501929
-    leftright ""
-    channeltags ""
+    cluster 2
   ]
-  node [
-    id 124
+  node
+  [
+    id 131
     label "_71ur80-tL0"
     step 0
     date "2021-06-24T11:00:14Z"
@@ -3487,21 +3367,20 @@ graph [
     commentcount 45
     duration "PT23M49S"
     indegree 2
-    cluster 1
+    ppinsult 0.15916418
+    ppflirtation 0.28422582
+    ppidentityattack 0.1639877
+    ppthreat 0.22785258
+    pptoxicity 0.010412407
+    ppsexuallyexplicit 0.16493194
+    ppprofanity 0.16392764
+    ppinflammatory 0.012937032
     sentiment -0.4404
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.16493194
-    PERSPECTIVE_FLIRTATION 0.28422582
-    PERSPECTIVE_INSULT 0.15916418
-    PERSPECTIVE_TOXICITY 0.010412407
-    PERSPECTIVE_IDENTITY_ATTACK 0.1639877
-    PERSPECTIVE_INFLAMMATORY 0.012937032
-    PERSPECTIVE_THREAT 0.22785258
-    PERSPECTIVE_PROFANITY 0.16392764
-    leftright ""
-    channeltags ""
+    cluster 1
   ]
-  node [
-    id 125
+  node
+  [
+    id 132
     label "rDeGGaRT1n0"
     step 0
     date "2019-10-31T23:29:09Z"
@@ -3515,21 +3394,20 @@ graph [
     commentcount 102
     duration "PT9M41S"
     indegree 0
+    ppinsult 0.015661107
+    ppflirtation 0.2550049
+    ppidentityattack 0.022865307
+    ppthreat 0.049771737
+    pptoxicity 0.040628307
+    ppsexuallyexplicit 0.05419212
+    ppprofanity 0.024156744
+    ppinflammatory 0.107925296
+    sentiment 0
     cluster 1
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.05419212
-    PERSPECTIVE_FLIRTATION 0.2550049
-    PERSPECTIVE_INSULT 0.015661107
-    PERSPECTIVE_TOXICITY 0.040628307
-    PERSPECTIVE_IDENTITY_ATTACK 0.022865307
-    PERSPECTIVE_INFLAMMATORY 0.107925296
-    PERSPECTIVE_THREAT 0.049771737
-    PERSPECTIVE_PROFANITY 0.024156744
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 126
+  node
+  [
+    id 133
     label "DasH9J75c94"
     step 0
     date "2022-01-09T02:16:04Z"
@@ -3543,21 +3421,20 @@ graph [
     commentcount 38
     duration "PT34M56S"
     indegree 7
+    ppinsult 0.23217893
+    ppflirtation 0.28404853
+    ppidentityattack 0.12069504
+    ppthreat 0.17168137
+    pptoxicity 0.16344422
+    ppsexuallyexplicit 0.13969743
+    ppprofanity 0.19282389
+    ppinflammatory 0.013241326
+    sentiment 0
     cluster 3
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.13969743
-    PERSPECTIVE_FLIRTATION 0.28404853
-    PERSPECTIVE_INSULT 0.23217893
-    PERSPECTIVE_TOXICITY 0.16344422
-    PERSPECTIVE_IDENTITY_ATTACK 0.12069504
-    PERSPECTIVE_INFLAMMATORY 0.013241326
-    PERSPECTIVE_THREAT 0.17168137
-    PERSPECTIVE_PROFANITY 0.19282389
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 127
+  node
+  [
+    id 134
     label "0adFjZzDFGs"
     step 0
     date "2021-11-05T16:37:57Z"
@@ -3571,21 +3448,20 @@ graph [
     commentcount 16
     duration "PT9M43S"
     indegree 0
+    ppinsult 0.057416588
+    ppflirtation 0.34745634
+    ppidentityattack 0.066804096
+    ppthreat 0.08974704
+    pptoxicity 0.058130227
+    ppsexuallyexplicit 0.038123958
+    ppprofanity 0.042525508
+    ppinflammatory 0.04865267
+    sentiment 0
     cluster 3
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.038123958
-    PERSPECTIVE_FLIRTATION 0.34745634
-    PERSPECTIVE_INSULT 0.057416588
-    PERSPECTIVE_TOXICITY 0.058130227
-    PERSPECTIVE_IDENTITY_ATTACK 0.066804096
-    PERSPECTIVE_INFLAMMATORY 0.04865267
-    PERSPECTIVE_THREAT 0.08974704
-    PERSPECTIVE_PROFANITY 0.042525508
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 128
+  node
+  [
+    id 135
     label "xa6nliK_DLo"
     step 0
     date "2021-06-12T02:10:40Z"
@@ -3599,21 +3475,20 @@ graph [
     commentcount 40
     duration "PT24M32S"
     indegree 0
-    cluster 7
+    ppinsult 0.08965421
+    ppflirtation 0.37731665
+    ppidentityattack 0.08869946
+    ppthreat 0.14265458
+    pptoxicity 0.03856816
+    ppsexuallyexplicit 0.08448129
+    ppprofanity 0.08433342
+    ppinflammatory 0.019294413
     sentiment 0.4215
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.08448129
-    PERSPECTIVE_FLIRTATION 0.37731665
-    PERSPECTIVE_INSULT 0.08965421
-    PERSPECTIVE_TOXICITY 0.03856816
-    PERSPECTIVE_IDENTITY_ATTACK 0.08869946
-    PERSPECTIVE_INFLAMMATORY 0.019294413
-    PERSPECTIVE_THREAT 0.14265458
-    PERSPECTIVE_PROFANITY 0.08433342
-    leftright ""
-    channeltags ""
+    cluster 7
   ]
-  node [
-    id 129
+  node
+  [
+    id 136
     label "DslaS8OpwXU"
     step 0
     date "2020-12-11T05:57:18Z"
@@ -3627,21 +3502,20 @@ graph [
     commentcount 10
     duration "PT3M32S"
     indegree 0
+    ppinsult 0.042772282
+    ppflirtation 0.35615662
+    ppidentityattack 0.12196603
+    ppthreat 0.20233232
+    pptoxicity 0.11600884
+    ppsexuallyexplicit 0.058921896
+    ppprofanity 0.06961025
+    ppinflammatory 0.022674786
+    sentiment 0
     cluster 5
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.058921896
-    PERSPECTIVE_FLIRTATION 0.35615662
-    PERSPECTIVE_INSULT 0.042772282
-    PERSPECTIVE_TOXICITY 0.11600884
-    PERSPECTIVE_IDENTITY_ATTACK 0.12196603
-    PERSPECTIVE_INFLAMMATORY 0.022674786
-    PERSPECTIVE_THREAT 0.20233232
-    PERSPECTIVE_PROFANITY 0.06961025
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 130
+  node
+  [
+    id 137
     label "ngFsZg-DdWA"
     step 0
     date "2022-06-12T02:34:45Z"
@@ -3655,21 +3529,20 @@ graph [
     commentcount 6
     duration "PT4H6M7S"
     indegree 6
-    cluster 1
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.13525312
-    PERSPECTIVE_FLIRTATION 0.33646896
-    PERSPECTIVE_INSULT 0.11711951
-    PERSPECTIVE_TOXICITY 0.094410956
-    PERSPECTIVE_IDENTITY_ATTACK 0.109678045
-    PERSPECTIVE_INFLAMMATORY 0.0198942
-    PERSPECTIVE_THREAT 0.17415753
-    PERSPECTIVE_PROFANITY 0.12261089
-    leftright ""
-    channeltags ""
+    ppinsult 0.11711951
+    ppflirtation 0.33646896
+    ppidentityattack 0.109678045
+    ppthreat 0.17415753
+    pptoxicity 0.094410956
+    ppsexuallyexplicit 0.13525312
+    ppprofanity 0.12261089
+    ppinflammatory 0.0198942
+    sentiment 0
+    cluster 6
   ]
-  node [
-    id 131
+  node
+  [
+    id 138
     label "08fN7SV6-Vg"
     step 0
     date "2020-06-21T14:00:01Z"
@@ -3683,21 +3556,20 @@ graph [
     commentcount 72
     duration "PT23M3S"
     indegree 32
-    cluster 2
+    ppinsult 0.11660616
+    ppflirtation 0.47485268
+    ppidentityattack 0.08736711
+    ppthreat 0.17957929
+    pptoxicity 0.049898956
+    ppsexuallyexplicit 0.058669165
+    ppprofanity 0.07092093
+    ppinflammatory 0.15643094
     sentiment 0.7096
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.058669165
-    PERSPECTIVE_FLIRTATION 0.47485268
-    PERSPECTIVE_INSULT 0.11660616
-    PERSPECTIVE_TOXICITY 0.049898956
-    PERSPECTIVE_IDENTITY_ATTACK 0.08736711
-    PERSPECTIVE_INFLAMMATORY 0.15643094
-    PERSPECTIVE_THREAT 0.17957929
-    PERSPECTIVE_PROFANITY 0.07092093
-    leftright ""
-    channeltags ""
+    cluster 2
   ]
-  node [
-    id 132
+  node
+  [
+    id 139
     label "t05DzKT55yI"
     step 0
     date "2021-10-03T21:03:54Z"
@@ -3711,21 +3583,20 @@ graph [
     commentcount 123
     duration "PT21M54S"
     indegree 5
+    ppinsult 0.02270952
+    ppflirtation 0.20054224
+    ppidentityattack 0.034882054
+    ppthreat 0.1069975
+    pptoxicity 0.062925026
+    ppsexuallyexplicit 0.060855534
+    ppprofanity 0.038410433
+    ppinflammatory 0.089986786
+    sentiment 0
     cluster 1
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.060855534
-    PERSPECTIVE_FLIRTATION 0.20054224
-    PERSPECTIVE_INSULT 0.02270952
-    PERSPECTIVE_TOXICITY 0.062925026
-    PERSPECTIVE_IDENTITY_ATTACK 0.034882054
-    PERSPECTIVE_INFLAMMATORY 0.089986786
-    PERSPECTIVE_THREAT 0.1069975
-    PERSPECTIVE_PROFANITY 0.038410433
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 133
+  node
+  [
+    id 140
     label "AZ0HLgrtSSg"
     step 0
     date "2021-11-07T15:22:56Z"
@@ -3739,21 +3610,20 @@ graph [
     commentcount 46
     duration "PT24M44S"
     indegree 2
-    cluster 1
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.14091083
-    PERSPECTIVE_FLIRTATION 0.33350673
-    PERSPECTIVE_INSULT 0.2189564
-    PERSPECTIVE_TOXICITY 0.1256687
-    PERSPECTIVE_IDENTITY_ATTACK 0.565227
-    PERSPECTIVE_INFLAMMATORY 0.049709525
-    PERSPECTIVE_THREAT 0.32003435
-    PERSPECTIVE_PROFANITY 0.24348544
-    leftright ""
-    channeltags ""
+    ppinsult 0.2189564
+    ppflirtation 0.33350673
+    ppidentityattack 0.565227
+    ppthreat 0.32003435
+    pptoxicity 0.1256687
+    ppsexuallyexplicit 0.14091083
+    ppprofanity 0.24348544
+    ppinflammatory 0.049709525
+    sentiment 0
+    cluster 2
   ]
-  node [
-    id 134
+  node
+  [
+    id 141
     label "fmKKe3T-dXI"
     step 0
     date "2020-10-08T01:20:42Z"
@@ -3767,21 +3637,20 @@ graph [
     commentcount 13
     duration "PT14M28S"
     indegree 3
-    cluster 6
+    ppinsult 0.2423727
+    ppflirtation 0.32069144
+    ppidentityattack 0.3022603
+    ppthreat 0.20209613
+    pptoxicity 0.028267438
+    ppsexuallyexplicit 0.16172628
+    ppprofanity 0.20686427
+    ppinflammatory 0.0007320023
     sentiment 0.6124
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.16172628
-    PERSPECTIVE_FLIRTATION 0.32069144
-    PERSPECTIVE_INSULT 0.2423727
-    PERSPECTIVE_TOXICITY 0.028267438
-    PERSPECTIVE_IDENTITY_ATTACK 0.3022603
-    PERSPECTIVE_INFLAMMATORY 0.0007320023
-    PERSPECTIVE_THREAT 0.20209613
-    PERSPECTIVE_PROFANITY 0.20686427
-    leftright ""
-    channeltags ""
+    cluster 1
   ]
-  node [
-    id 135
+  node
+  [
+    id 142
     label "-HCO_Yv11Og"
     step 0
     date "2021-12-10T18:12:36Z"
@@ -3795,21 +3664,20 @@ graph [
     commentcount 18
     duration "PT20M24S"
     indegree 0
+    ppinsult 0.062783785
+    ppflirtation 0.44710758
+    ppidentityattack 0.040689074
+    ppthreat 0.10182499
+    pptoxicity 0.048525527
+    ppsexuallyexplicit 0.051881433
+    ppprofanity 0.039641522
+    ppinflammatory 0.11028694
+    sentiment 0
     cluster 6
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.051881433
-    PERSPECTIVE_FLIRTATION 0.44710758
-    PERSPECTIVE_INSULT 0.062783785
-    PERSPECTIVE_TOXICITY 0.048525527
-    PERSPECTIVE_IDENTITY_ATTACK 0.040689074
-    PERSPECTIVE_INFLAMMATORY 0.11028694
-    PERSPECTIVE_THREAT 0.10182499
-    PERSPECTIVE_PROFANITY 0.039641522
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 136
+  node
+  [
+    id 143
     label "P2dAcLY5rAA"
     step 0
     date "2021-07-31T00:41:48Z"
@@ -3823,21 +3691,20 @@ graph [
     commentcount 52
     duration "PT24M46S"
     indegree 12
+    ppinsult 0.11213887
+    ppflirtation 0.31796205
+    ppidentityattack 0.08572688
+    ppthreat 0.14657792
+    pptoxicity 0.1008549
+    ppsexuallyexplicit 0.0888276
+    ppprofanity 0.105403885
+    ppinflammatory 0.043820035
+    sentiment 0
     cluster 3
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.0888276
-    PERSPECTIVE_FLIRTATION 0.31796205
-    PERSPECTIVE_INSULT 0.11213887
-    PERSPECTIVE_TOXICITY 0.1008549
-    PERSPECTIVE_IDENTITY_ATTACK 0.08572688
-    PERSPECTIVE_INFLAMMATORY 0.043820035
-    PERSPECTIVE_THREAT 0.14657792
-    PERSPECTIVE_PROFANITY 0.105403885
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 137
+  node
+  [
+    id 144
     label "1BVrSILPVpg"
     step 0
     date "2020-06-22T12:48:30Z"
@@ -3851,21 +3718,20 @@ graph [
     commentcount 17
     duration "PT4M33S"
     indegree 0
+    ppinsult 0.04391942
+    ppflirtation 0.21042436
+    ppidentityattack 0.077054136
+    ppthreat 0.11294425
+    pptoxicity 0.049212243
+    ppsexuallyexplicit 0.11847947
+    ppprofanity 0.091780335
+    ppinflammatory 0.037764475
+    sentiment 0
     cluster 2
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.11847947
-    PERSPECTIVE_FLIRTATION 0.21042436
-    PERSPECTIVE_INSULT 0.04391942
-    PERSPECTIVE_TOXICITY 0.049212243
-    PERSPECTIVE_IDENTITY_ATTACK 0.077054136
-    PERSPECTIVE_INFLAMMATORY 0.037764475
-    PERSPECTIVE_THREAT 0.11294425
-    PERSPECTIVE_PROFANITY 0.091780335
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 138
+  node
+  [
+    id 145
     label "Xaun8mXC9fA"
     step 0
     date "2022-06-05T06:22:25Z"
@@ -3879,21 +3745,20 @@ graph [
     commentcount 8
     duration "PT24M6S"
     indegree 2
+    ppinsult 0.024270047
+    ppflirtation 0.23978306
+    ppidentityattack 0.024560394
+    ppthreat 0.0567125
+    pptoxicity 0.02397547
+    ppsexuallyexplicit 0.035324767
+    ppprofanity 0.024174595
+    ppinflammatory 0.09096805
+    sentiment 0
     cluster 7
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.035324767
-    PERSPECTIVE_FLIRTATION 0.23978306
-    PERSPECTIVE_INSULT 0.024270047
-    PERSPECTIVE_TOXICITY 0.02397547
-    PERSPECTIVE_IDENTITY_ATTACK 0.024560394
-    PERSPECTIVE_INFLAMMATORY 0.09096805
-    PERSPECTIVE_THREAT 0.0567125
-    PERSPECTIVE_PROFANITY 0.024174595
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 139
+  node
+  [
+    id 146
     label "MM3YvEDmkOU"
     step 0
     date "2021-05-03T15:00:14Z"
@@ -3907,21 +3772,20 @@ graph [
     commentcount 0
     duration "PT10M39S"
     indegree 1
+    ppinsult 0.11846225
+    ppflirtation 0.31754178
+    ppidentityattack 0.17481068
+    ppthreat 0.26690942
+    pptoxicity 0.019297661
+    ppsexuallyexplicit 0.16158596
+    ppprofanity 0.16944896
+    ppinflammatory 0.085131966
+    sentiment 0
     cluster 4
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.16158596
-    PERSPECTIVE_FLIRTATION 0.31754178
-    PERSPECTIVE_INSULT 0.11846225
-    PERSPECTIVE_TOXICITY 0.019297661
-    PERSPECTIVE_IDENTITY_ATTACK 0.17481068
-    PERSPECTIVE_INFLAMMATORY 0.085131966
-    PERSPECTIVE_THREAT 0.26690942
-    PERSPECTIVE_PROFANITY 0.16944896
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 140
+  node
+  [
+    id 147
     label "rKuqY7TDMZ8"
     step 0
     date "2021-08-22T01:06:40Z"
@@ -3935,21 +3799,20 @@ graph [
     commentcount 49
     duration "PT22M20S"
     indegree 0
+    ppinsult 0.059304547
+    ppflirtation 0.26443848
+    ppidentityattack 0.08902262
+    ppthreat 0.12054412
+    pptoxicity 0.0753116
+    ppsexuallyexplicit 0.074058
+    ppprofanity 0.06712507
+    ppinflammatory 0.006574723
+    sentiment 0
     cluster 3
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.074058
-    PERSPECTIVE_FLIRTATION 0.26443848
-    PERSPECTIVE_INSULT 0.059304547
-    PERSPECTIVE_TOXICITY 0.0753116
-    PERSPECTIVE_IDENTITY_ATTACK 0.08902262
-    PERSPECTIVE_INFLAMMATORY 0.006574723
-    PERSPECTIVE_THREAT 0.12054412
-    PERSPECTIVE_PROFANITY 0.06712507
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 141
+  node
+  [
+    id 148
     label "jGNvU6wGWuY"
     step 0
     date "2020-10-03T01:54:17Z"
@@ -3963,21 +3826,20 @@ graph [
     commentcount 20
     duration "PT16M3S"
     indegree 8
-    cluster 6
+    ppinsult 0.17744775
+    ppflirtation 0.41286606
+    ppidentityattack 0.13300662
+    ppthreat 0.11780802
+    pptoxicity 0.10763696
+    ppsexuallyexplicit 0.07727439
+    ppprofanity 0.099801496
+    ppinflammatory 0.01343519
     sentiment -0.1531
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.07727439
-    PERSPECTIVE_FLIRTATION 0.41286606
-    PERSPECTIVE_INSULT 0.17744775
-    PERSPECTIVE_TOXICITY 0.10763696
-    PERSPECTIVE_IDENTITY_ATTACK 0.13300662
-    PERSPECTIVE_INFLAMMATORY 0.01343519
-    PERSPECTIVE_THREAT 0.11780802
-    PERSPECTIVE_PROFANITY 0.099801496
-    leftright ""
-    channeltags ""
+    cluster 6
   ]
-  node [
-    id 142
+  node
+  [
+    id 149
     label "cpBR0ulr_38"
     step 0
     date "2022-06-19T20:41:58Z"
@@ -3991,21 +3853,20 @@ graph [
     commentcount 127
     duration "PT21M52S"
     indegree 10
-    cluster 1
+    ppinsult 0.07876986
+    ppflirtation 0.29930887
+    ppidentityattack 0.11441569
+    ppthreat 0.12273417
+    pptoxicity 0.0186035
+    ppsexuallyexplicit 0.095464826
+    ppprofanity 0.07630809
+    ppinflammatory 0.023679204
     sentiment 0.4215
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.095464826
-    PERSPECTIVE_FLIRTATION 0.29930887
-    PERSPECTIVE_INSULT 0.07876986
-    PERSPECTIVE_TOXICITY 0.0186035
-    PERSPECTIVE_IDENTITY_ATTACK 0.11441569
-    PERSPECTIVE_INFLAMMATORY 0.023679204
-    PERSPECTIVE_THREAT 0.12273417
-    PERSPECTIVE_PROFANITY 0.07630809
-    leftright ""
-    channeltags ""
+    cluster 1
   ]
-  node [
-    id 143
+  node
+  [
+    id 150
     label "rjCJU0o2xyg"
     step 0
     date "2021-11-06T20:31:27Z"
@@ -4019,21 +3880,20 @@ graph [
     commentcount 38
     duration "PT55M52S"
     indegree 5
-    cluster 1
+    ppinsult 0.05438695
+    ppflirtation 0.5651752
+    ppidentityattack 0.07711658
+    ppthreat 0.3853063
+    pptoxicity 0.013744377
+    ppsexuallyexplicit 0.14623614
+    ppprofanity 0.09300427
+    ppinflammatory 0.041863393
     sentiment 0.296
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.14623614
-    PERSPECTIVE_FLIRTATION 0.5651752
-    PERSPECTIVE_INSULT 0.05438695
-    PERSPECTIVE_TOXICITY 0.013744377
-    PERSPECTIVE_IDENTITY_ATTACK 0.07711658
-    PERSPECTIVE_INFLAMMATORY 0.041863393
-    PERSPECTIVE_THREAT 0.3853063
-    PERSPECTIVE_PROFANITY 0.09300427
-    leftright ""
-    channeltags ""
+    cluster 1
   ]
-  node [
-    id 144
+  node
+  [
+    id 151
     label "CkazuhdvZhc"
     step 0
     date "2016-08-09T18:35:42Z"
@@ -4047,21 +3907,20 @@ graph [
     commentcount 0
     duration "PT2M28S"
     indegree 1
+    ppinsult 0.04024464
+    ppflirtation 0.20861445
+    ppidentityattack 0.07253132
+    ppthreat 0.06924758
+    pptoxicity 0.04165838
+    ppsexuallyexplicit 0.03986341
+    ppprofanity 0.039535824
+    ppinflammatory 0.017181072
+    sentiment 0
     cluster 1
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.03986341
-    PERSPECTIVE_FLIRTATION 0.20861445
-    PERSPECTIVE_INSULT 0.04024464
-    PERSPECTIVE_TOXICITY 0.04165838
-    PERSPECTIVE_IDENTITY_ATTACK 0.07253132
-    PERSPECTIVE_INFLAMMATORY 0.017181072
-    PERSPECTIVE_THREAT 0.06924758
-    PERSPECTIVE_PROFANITY 0.039535824
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 145
+  node
+  [
+    id 152
     label "FFT0-rcOiik"
     step 0
     date "2021-12-15T22:15:00Z"
@@ -4075,21 +3934,20 @@ graph [
     commentcount 23
     duration "PT2M31S"
     indegree 2
+    ppinsult 0.18842043
+    ppflirtation 0.44198984
+    ppidentityattack 0.2186813
+    ppthreat 0.26531705
+    pptoxicity 0.009509998
+    ppsexuallyexplicit 0.12962025
+    ppprofanity 0.1581038
+    ppinflammatory 0.00303543
+    sentiment 0
     cluster 2
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.12962025
-    PERSPECTIVE_FLIRTATION 0.44198984
-    PERSPECTIVE_INSULT 0.18842043
-    PERSPECTIVE_TOXICITY 0.009509998
-    PERSPECTIVE_IDENTITY_ATTACK 0.2186813
-    PERSPECTIVE_INFLAMMATORY 0.00303543
-    PERSPECTIVE_THREAT 0.26531705
-    PERSPECTIVE_PROFANITY 0.1581038
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 146
+  node
+  [
+    id 153
     label "PpzhqTvy9NY"
     step 0
     date "2022-06-22T23:39:52Z"
@@ -4103,21 +3961,20 @@ graph [
     commentcount 46
     duration "PT25M24S"
     indegree 12
-    cluster 4
+    ppinsult 0.13580382
+    ppflirtation 0.40518025
+    ppidentityattack 0.18479915
+    ppthreat 0.3079812
+    pptoxicity 0.033761155
+    ppsexuallyexplicit 0.24999973
+    ppprofanity 0.19105183
+    ppinflammatory 0.052377876
     sentiment 0.3182
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.24999973
-    PERSPECTIVE_FLIRTATION 0.40518025
-    PERSPECTIVE_INSULT 0.13580382
-    PERSPECTIVE_TOXICITY 0.033761155
-    PERSPECTIVE_IDENTITY_ATTACK 0.18479915
-    PERSPECTIVE_INFLAMMATORY 0.052377876
-    PERSPECTIVE_THREAT 0.3079812
-    PERSPECTIVE_PROFANITY 0.19105183
-    leftright ""
-    channeltags ""
+    cluster 2
   ]
-  node [
-    id 147
+  node
+  [
+    id 154
     label "iOsAgOzWjjU"
     step 0
     date "2021-01-17T21:39:47Z"
@@ -4131,21 +3988,20 @@ graph [
     commentcount 2
     duration "PT11M21S"
     indegree 0
+    ppinsult 0.10848529
+    ppflirtation 0.42609495
+    ppidentityattack 0.11842911
+    ppthreat 0.20324393
+    pptoxicity 0.030842619
+    ppsexuallyexplicit 0.12864801
+    ppprofanity 0.085392885
+    ppinflammatory 0.037743654
+    sentiment 0
     cluster 5
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.12864801
-    PERSPECTIVE_FLIRTATION 0.42609495
-    PERSPECTIVE_INSULT 0.10848529
-    PERSPECTIVE_TOXICITY 0.030842619
-    PERSPECTIVE_IDENTITY_ATTACK 0.11842911
-    PERSPECTIVE_INFLAMMATORY 0.037743654
-    PERSPECTIVE_THREAT 0.20324393
-    PERSPECTIVE_PROFANITY 0.085392885
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 148
+  node
+  [
+    id 155
     label "S1p6isuWBg8"
     step 0
     date "2020-04-24T05:15:00Z"
@@ -4159,21 +4015,20 @@ graph [
     commentcount 429
     duration "PT23M52S"
     indegree 12
-    cluster 5
+    ppinsult 0.024293816
+    ppflirtation 0.20882973
+    ppidentityattack 0.021228781
+    ppthreat 0.13108264
+    pptoxicity 0.03736641
+    ppsexuallyexplicit 0.046150282
+    ppprofanity 0.03519354
+    ppinflammatory 0.025953306
     sentiment -0.4767
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.046150282
-    PERSPECTIVE_FLIRTATION 0.20882973
-    PERSPECTIVE_INSULT 0.024293816
-    PERSPECTIVE_TOXICITY 0.03736641
-    PERSPECTIVE_IDENTITY_ATTACK 0.021228781
-    PERSPECTIVE_INFLAMMATORY 0.025953306
-    PERSPECTIVE_THREAT 0.13108264
-    PERSPECTIVE_PROFANITY 0.03519354
-    leftright ""
-    channeltags ""
+    cluster 4
   ]
-  node [
-    id 149
+  node
+  [
+    id 156
     label "Lz3fcIvLSLY"
     step 0
     date "2021-05-22T05:33:13Z"
@@ -4187,21 +4042,20 @@ graph [
     commentcount 879
     duration "PT18M50S"
     indegree 1
-    cluster 1
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.1611043
-    PERSPECTIVE_FLIRTATION 0.2360184
-    PERSPECTIVE_INSULT 0.09841875
-    PERSPECTIVE_TOXICITY 0.030670939
-    PERSPECTIVE_IDENTITY_ATTACK 0.13687807
-    PERSPECTIVE_INFLAMMATORY 0.119180545
-    PERSPECTIVE_THREAT 0.24566178
-    PERSPECTIVE_PROFANITY 0.12247789
-    leftright ""
-    channeltags ""
+    ppinsult 0.09841875
+    ppflirtation 0.2360184
+    ppidentityattack 0.13687807
+    ppthreat 0.24566178
+    pptoxicity 0.030670939
+    ppsexuallyexplicit 0.1611043
+    ppprofanity 0.12247789
+    ppinflammatory 0.119180545
+    sentiment 0
+    cluster 5
   ]
-  node [
-    id 150
+  node
+  [
+    id 157
     label "W0YU5dHlPag"
     step 0
     date "2021-07-23T17:13:30Z"
@@ -4215,21 +4069,20 @@ graph [
     commentcount 69
     duration "PT27M1S"
     indegree 9
-    cluster 6
+    ppinsult 0.24009974
+    ppflirtation 0.35685113
+    ppidentityattack 0.5760488
+    ppthreat 0.27725792
+    pptoxicity 0.10892494
+    ppsexuallyexplicit 0.12376503
+    ppprofanity 0.22411065
+    ppinflammatory 0.0442867
     sentiment 0.3182
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.12376503
-    PERSPECTIVE_FLIRTATION 0.35685113
-    PERSPECTIVE_INSULT 0.24009974
-    PERSPECTIVE_TOXICITY 0.10892494
-    PERSPECTIVE_IDENTITY_ATTACK 0.5760488
-    PERSPECTIVE_INFLAMMATORY 0.0442867
-    PERSPECTIVE_THREAT 0.27725792
-    PERSPECTIVE_PROFANITY 0.22411065
-    leftright ""
-    channeltags ""
+    cluster 6
   ]
-  node [
-    id 151
+  node
+  [
+    id 159
     label "KPGwwwN-lv4"
     step 0
     date "2019-09-29T17:30:44Z"
@@ -4243,21 +4096,20 @@ graph [
     commentcount 9
     duration "PT4M50S"
     indegree 0
-    cluster 1
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.18507151
-    PERSPECTIVE_FLIRTATION 0.37236333
-    PERSPECTIVE_INSULT 0.2979475
-    PERSPECTIVE_TOXICITY 0.25447917
-    PERSPECTIVE_IDENTITY_ATTACK 0.6448887
-    PERSPECTIVE_INFLAMMATORY 0.046647295
-    PERSPECTIVE_THREAT 0.43597746
-    PERSPECTIVE_PROFANITY 0.3142318
-    leftright ""
-    channeltags ""
+    ppinsult 0.2979475
+    ppflirtation 0.37236333
+    ppidentityattack 0.6448887
+    ppthreat 0.43597746
+    pptoxicity 0.25447917
+    ppsexuallyexplicit 0.18507151
+    ppprofanity 0.3142318
+    ppinflammatory 0.046647295
+    sentiment 0
+    cluster 2
   ]
-  node [
-    id 152
+  node
+  [
+    id 160
     label "3-crFdl1aQI"
     step 0
     date "2022-04-18T00:00:02Z"
@@ -4271,21 +4123,20 @@ graph [
     commentcount 202
     duration "PT28M55S"
     indegree 0
-    cluster 1
+    ppinsult 0.30147684
+    ppflirtation 0.5305026
+    ppidentityattack 0.66258967
+    ppthreat 0.6954438
+    pptoxicity 0.07251463
+    ppsexuallyexplicit 0.20001209
+    ppprofanity 0.3129374
+    ppinflammatory 0.010490435
     sentiment 0.5859
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.20001209
-    PERSPECTIVE_FLIRTATION 0.5305026
-    PERSPECTIVE_INSULT 0.30147684
-    PERSPECTIVE_TOXICITY 0.07251463
-    PERSPECTIVE_IDENTITY_ATTACK 0.66258967
-    PERSPECTIVE_INFLAMMATORY 0.010490435
-    PERSPECTIVE_THREAT 0.6954438
-    PERSPECTIVE_PROFANITY 0.3129374
-    leftright ""
-    channeltags ""
+    cluster 2
   ]
-  node [
-    id 153
+  node
+  [
+    id 161
     label "JRpd2AM-8ps"
     step 0
     date "2018-02-08T20:08:20Z"
@@ -4299,21 +4150,20 @@ graph [
     commentcount 109
     duration "PT5M31S"
     indegree 1
+    ppinsult 0.060566507
+    ppflirtation 0.39400932
+    ppidentityattack 0.03880941
+    ppthreat 0.12915976
+    pptoxicity 0.06372416
+    ppsexuallyexplicit 0.06961625
+    ppprofanity 0.04771932
+    ppinflammatory 0.101928286
+    sentiment 0
     cluster 1
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.06961625
-    PERSPECTIVE_FLIRTATION 0.39400932
-    PERSPECTIVE_INSULT 0.060566507
-    PERSPECTIVE_TOXICITY 0.06372416
-    PERSPECTIVE_IDENTITY_ATTACK 0.03880941
-    PERSPECTIVE_INFLAMMATORY 0.101928286
-    PERSPECTIVE_THREAT 0.12915976
-    PERSPECTIVE_PROFANITY 0.04771932
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 154
+  node
+  [
+    id 162
     label "FZiLmhR2Ej0"
     step 0
     date "2019-03-28T00:08:30Z"
@@ -4327,21 +4177,20 @@ graph [
     commentcount 37
     duration "PT9M26S"
     indegree 3
-    cluster 5
+    ppinsult 0.06429249
+    ppflirtation 0.3976656
+    ppidentityattack 0.07925822
+    ppthreat 0.23042999
+    pptoxicity 0.11021292
+    ppsexuallyexplicit 0.060726162
+    ppprofanity 0.05830687
+    ppinflammatory 0.15831932
     sentiment 0.3182
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.060726162
-    PERSPECTIVE_FLIRTATION 0.3976656
-    PERSPECTIVE_INSULT 0.06429249
-    PERSPECTIVE_TOXICITY 0.11021292
-    PERSPECTIVE_IDENTITY_ATTACK 0.07925822
-    PERSPECTIVE_INFLAMMATORY 0.15831932
-    PERSPECTIVE_THREAT 0.23042999
-    PERSPECTIVE_PROFANITY 0.05830687
-    leftright ""
-    channeltags ""
+    cluster 5
   ]
-  node [
-    id 155
+  node
+  [
+    id 163
     label "6ayERPVdv7o"
     step 0
     date "2022-02-12T05:00:01Z"
@@ -4355,21 +4204,20 @@ graph [
     commentcount 44
     duration "PT26M42S"
     indegree 0
+    ppinsult 0.05302979
+    ppflirtation 0.5128144
+    ppidentityattack 0.05816144
+    ppthreat 0.18829627
+    pptoxicity 0.08581903
+    ppsexuallyexplicit 0.19033433
+    ppprofanity 0.091818616
+    ppinflammatory 0.027987432
+    sentiment 0
     cluster 7
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.19033433
-    PERSPECTIVE_FLIRTATION 0.5128144
-    PERSPECTIVE_INSULT 0.05302979
-    PERSPECTIVE_TOXICITY 0.08581903
-    PERSPECTIVE_IDENTITY_ATTACK 0.05816144
-    PERSPECTIVE_INFLAMMATORY 0.027987432
-    PERSPECTIVE_THREAT 0.18829627
-    PERSPECTIVE_PROFANITY 0.091818616
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 156
+  node
+  [
+    id 164
     label "bZ68mCgUz3k"
     step 0
     date "2019-04-22T17:00:12Z"
@@ -4383,21 +4231,20 @@ graph [
     commentcount 13
     duration "PT15M20S"
     indegree 1
-    cluster 4
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.0735242
-    PERSPECTIVE_FLIRTATION 0.3455787
-    PERSPECTIVE_INSULT 0.03869394
-    PERSPECTIVE_TOXICITY 0.011314815
-    PERSPECTIVE_IDENTITY_ATTACK 0.034242183
-    PERSPECTIVE_INFLAMMATORY 0.025144016
-    PERSPECTIVE_THREAT 0.0704612
-    PERSPECTIVE_PROFANITY 0.05395528
-    leftright ""
-    channeltags ""
+    ppinsult 0.03869394
+    ppflirtation 0.3455787
+    ppidentityattack 0.034242183
+    ppthreat 0.0704612
+    pptoxicity 0.011314815
+    ppsexuallyexplicit 0.0735242
+    ppprofanity 0.05395528
+    ppinflammatory 0.025144016
+    sentiment 0
+    cluster 2
   ]
-  node [
-    id 157
+  node
+  [
+    id 165
     label "_6rPpNJ2nes"
     step 0
     date "2022-01-03T05:00:25Z"
@@ -4411,21 +4258,20 @@ graph [
     commentcount 68
     duration "PT27M16S"
     indegree 7
+    ppinsult 0.039454956
+    ppflirtation 0.39797157
+    ppidentityattack 0.06839471
+    ppthreat 0.15109235
+    pptoxicity 0.0753116
+    ppsexuallyexplicit 0.102365986
+    ppprofanity 0.09893649
+    ppinflammatory 0.038020473
+    sentiment 0
     cluster 7
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.102365986
-    PERSPECTIVE_FLIRTATION 0.39797157
-    PERSPECTIVE_INSULT 0.039454956
-    PERSPECTIVE_TOXICITY 0.0753116
-    PERSPECTIVE_IDENTITY_ATTACK 0.06839471
-    PERSPECTIVE_INFLAMMATORY 0.038020473
-    PERSPECTIVE_THREAT 0.15109235
-    PERSPECTIVE_PROFANITY 0.09893649
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 158
+  node
+  [
+    id 166
     label "_qluAaCYLeI"
     step 0
     date "2022-06-09T13:39:10Z"
@@ -4439,21 +4285,20 @@ graph [
     commentcount 2
     duration "PT1H35M2S"
     indegree 9
+    ppinsult 0.040113226
+    ppflirtation 0.43012092
+    ppidentityattack 0.07272895
+    ppthreat 0.16771609
+    pptoxicity 0.02792408
+    ppsexuallyexplicit 0.055694345
+    ppprofanity 0.039294694
+    ppinflammatory 0.02870104
+    sentiment 0
     cluster 2
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.055694345
-    PERSPECTIVE_FLIRTATION 0.43012092
-    PERSPECTIVE_INSULT 0.040113226
-    PERSPECTIVE_TOXICITY 0.02792408
-    PERSPECTIVE_IDENTITY_ATTACK 0.07272895
-    PERSPECTIVE_INFLAMMATORY 0.02870104
-    PERSPECTIVE_THREAT 0.16771609
-    PERSPECTIVE_PROFANITY 0.039294694
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 159
+  node
+  [
+    id 167
     label "9IdjfjKe3MU"
     step 0
     date "2021-07-05T20:36:47Z"
@@ -4467,21 +4312,20 @@ graph [
     commentcount 52
     duration "PT27M6S"
     indegree 2
+    ppinsult 0.209122
+    ppflirtation 0.19776446
+    ppidentityattack 0.58523935
+    ppthreat 0.12004036
+    pptoxicity 0.019852988
+    ppsexuallyexplicit 0.05242639
+    ppprofanity 0.11805281
+    ppinflammatory 0.23797345
+    sentiment 0
     cluster 3
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.05242639
-    PERSPECTIVE_FLIRTATION 0.19776446
-    PERSPECTIVE_INSULT 0.209122
-    PERSPECTIVE_TOXICITY 0.019852988
-    PERSPECTIVE_IDENTITY_ATTACK 0.58523935
-    PERSPECTIVE_INFLAMMATORY 0.23797345
-    PERSPECTIVE_THREAT 0.12004036
-    PERSPECTIVE_PROFANITY 0.11805281
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 160
+  node
+  [
+    id 168
     label "HWruQIY59-Y"
     step 0
     date "2021-12-14T18:32:35Z"
@@ -4495,21 +4339,20 @@ graph [
     commentcount 83
     duration "PT20M34S"
     indegree 6
-    cluster 6
+    ppinsult 0.036052085
+    ppflirtation 0.31183487
+    ppidentityattack 0.06347049
+    ppthreat 0.14889623
+    pptoxicity 0.030842619
+    ppsexuallyexplicit 0.071278974
+    ppprofanity 0.07162034
+    ppinflammatory 0.07691569
     sentiment 0.4019
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.071278974
-    PERSPECTIVE_FLIRTATION 0.31183487
-    PERSPECTIVE_INSULT 0.036052085
-    PERSPECTIVE_TOXICITY 0.030842619
-    PERSPECTIVE_IDENTITY_ATTACK 0.06347049
-    PERSPECTIVE_INFLAMMATORY 0.07691569
-    PERSPECTIVE_THREAT 0.14889623
-    PERSPECTIVE_PROFANITY 0.07162034
-    leftright ""
-    channeltags ""
+    cluster 6
   ]
-  node [
-    id 161
+  node
+  [
+    id 169
     label "tPPz0S73V8U"
     step 0
     date "2018-04-05T05:48:16Z"
@@ -4523,21 +4366,20 @@ graph [
     commentcount 54
     duration "PT44M15S"
     indegree 21
+    ppinsult 0.13879153
+    ppflirtation 0.25894558
+    ppidentityattack 0.099104725
+    ppthreat 0.12683865
+    pptoxicity 0.089577995
+    ppsexuallyexplicit 0.053656753
+    ppprofanity 0.08789869
+    ppinflammatory 0.22341745
+    sentiment 0
     cluster 3
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.053656753
-    PERSPECTIVE_FLIRTATION 0.25894558
-    PERSPECTIVE_INSULT 0.13879153
-    PERSPECTIVE_TOXICITY 0.089577995
-    PERSPECTIVE_IDENTITY_ATTACK 0.099104725
-    PERSPECTIVE_INFLAMMATORY 0.22341745
-    PERSPECTIVE_THREAT 0.12683865
-    PERSPECTIVE_PROFANITY 0.08789869
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 162
+  node
+  [
+    id 170
     label "rC5rBxkOXPY"
     step 0
     date "2022-06-30T21:56:06Z"
@@ -4551,21 +4393,20 @@ graph [
     commentcount 25
     duration "PT28M31S"
     indegree 5
-    cluster 7
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.16025999
-    PERSPECTIVE_FLIRTATION 0.4597605
-    PERSPECTIVE_INSULT 0.48808753
-    PERSPECTIVE_TOXICITY 0.28021416
-    PERSPECTIVE_IDENTITY_ATTACK 0.68225044
-    PERSPECTIVE_INFLAMMATORY 0.15477742
-    PERSPECTIVE_THREAT 0.35826397
-    PERSPECTIVE_PROFANITY 0.3108859
-    leftright ""
-    channeltags ""
+    ppinsult 0.48808753
+    ppflirtation 0.4597605
+    ppidentityattack 0.68225044
+    ppthreat 0.35826397
+    pptoxicity 0.28021416
+    ppsexuallyexplicit 0.16025999
+    ppprofanity 0.3108859
+    ppinflammatory 0.15477742
+    sentiment 0
+    cluster 6
   ]
-  node [
-    id 163
+  node
+  [
+    id 171
     label "tWMFINrQxoM"
     step 0
     date "2022-01-14T01:02:49Z"
@@ -4579,21 +4420,20 @@ graph [
     commentcount 70
     duration "PT31M59S"
     indegree 4
-    cluster 2
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.118372805
-    PERSPECTIVE_FLIRTATION 0.20894396
-    PERSPECTIVE_INSULT 0.11717636
-    PERSPECTIVE_TOXICITY 0.15334547
-    PERSPECTIVE_IDENTITY_ATTACK 0.11941048
-    PERSPECTIVE_INFLAMMATORY 0.052728727
-    PERSPECTIVE_THREAT 0.14697218
-    PERSPECTIVE_PROFANITY 0.15095979
-    leftright ""
-    channeltags ""
+    ppinsult 0.11717636
+    ppflirtation 0.20894396
+    ppidentityattack 0.11941048
+    ppthreat 0.14697218
+    pptoxicity 0.15334547
+    ppsexuallyexplicit 0.118372805
+    ppprofanity 0.15095979
+    ppinflammatory 0.052728727
+    sentiment 0
+    cluster 3
   ]
-  node [
-    id 164
+  node
+  [
+    id 172
     label "A8BIESS-4qs"
     step 0
     date "2021-09-22T02:07:53Z"
@@ -4607,21 +4447,20 @@ graph [
     commentcount 80
     duration "PT35M35S"
     indegree 5
-    cluster 3
+    ppinsult 0.058865394
+    ppflirtation 0.37217477
+    ppidentityattack 0.051992394
+    ppthreat 0.10137019
+    pptoxicity 0.09279997
+    ppsexuallyexplicit 0.058063872
+    ppprofanity 0.050645836
+    ppinflammatory 0.13701344
     sentiment 0.3182
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.058063872
-    PERSPECTIVE_FLIRTATION 0.37217477
-    PERSPECTIVE_INSULT 0.058865394
-    PERSPECTIVE_TOXICITY 0.09279997
-    PERSPECTIVE_IDENTITY_ATTACK 0.051992394
-    PERSPECTIVE_INFLAMMATORY 0.13701344
-    PERSPECTIVE_THREAT 0.10137019
-    PERSPECTIVE_PROFANITY 0.050645836
-    leftright ""
-    channeltags ""
+    cluster 3
   ]
-  node [
-    id 165
+  node
+  [
+    id 173
     label "LPv8KZkZe30"
     step 0
     date "2021-12-20T17:00:26Z"
@@ -4635,21 +4474,20 @@ graph [
     commentcount 27
     duration "PT8M49S"
     indegree 1
+    ppinsult 0.056963094
+    ppflirtation 0.28649914
+    ppidentityattack 0.07637167
+    ppthreat 0.082250014
+    pptoxicity 0.019297661
+    ppsexuallyexplicit 0.08403326
+    ppprofanity 0.08403361
+    ppinflammatory 0.030354392
+    sentiment 0
     cluster 7
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.08403326
-    PERSPECTIVE_FLIRTATION 0.28649914
-    PERSPECTIVE_INSULT 0.056963094
-    PERSPECTIVE_TOXICITY 0.019297661
-    PERSPECTIVE_IDENTITY_ATTACK 0.07637167
-    PERSPECTIVE_INFLAMMATORY 0.030354392
-    PERSPECTIVE_THREAT 0.082250014
-    PERSPECTIVE_PROFANITY 0.08403361
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 166
+  node
+  [
+    id 174
     label "9wuSClz8_RA"
     step 0
     date "2021-02-27T09:16:52Z"
@@ -4663,21 +4501,20 @@ graph [
     commentcount 29
     duration "PT12M47S"
     indegree 17
-    cluster 4
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.10078665
-    PERSPECTIVE_FLIRTATION 0.24180247
-    PERSPECTIVE_INSULT 0.12133267
-    PERSPECTIVE_TOXICITY 0.034962907
-    PERSPECTIVE_IDENTITY_ATTACK 0.12652768
-    PERSPECTIVE_INFLAMMATORY 0.060205758
-    PERSPECTIVE_THREAT 0.14152995
-    PERSPECTIVE_PROFANITY 0.13249698
-    leftright ""
-    channeltags ""
+    ppinsult 0.12133267
+    ppflirtation 0.24180247
+    ppidentityattack 0.12652768
+    ppthreat 0.14152995
+    pptoxicity 0.034962907
+    ppsexuallyexplicit 0.10078665
+    ppprofanity 0.13249698
+    ppinflammatory 0.060205758
+    sentiment 0
+    cluster 2
   ]
-  node [
-    id 167
+  node
+  [
+    id 175
     label "Nj8bRXG-RUI"
     step 0
     date "2020-10-27T21:00:03Z"
@@ -4691,21 +4528,20 @@ graph [
     commentcount 221
     duration "PT15M46S"
     indegree 4
+    ppinsult 0.08308038
+    ppflirtation 0.36823824
+    ppidentityattack 0.060922377
+    ppthreat 0.12925662
+    pptoxicity 0.018187003
+    ppsexuallyexplicit 0.07784549
+    ppprofanity 0.07622689
+    ppinflammatory 0.00921148
+    sentiment 0
     cluster 5
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.07784549
-    PERSPECTIVE_FLIRTATION 0.36823824
-    PERSPECTIVE_INSULT 0.08308038
-    PERSPECTIVE_TOXICITY 0.018187003
-    PERSPECTIVE_IDENTITY_ATTACK 0.060922377
-    PERSPECTIVE_INFLAMMATORY 0.00921148
-    PERSPECTIVE_THREAT 0.12925662
-    PERSPECTIVE_PROFANITY 0.07622689
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 168
+  node
+  [
+    id 176
     label "jMYTqp6hj14"
     step 0
     date "2022-06-30T13:29:50Z"
@@ -4719,21 +4555,20 @@ graph [
     commentcount 63
     duration "PT33M12S"
     indegree 8
+    ppinsult 0.0053943708
+    ppflirtation 0.30092508
+    ppidentityattack 0.003783115
+    ppthreat 0.024172185
+    pptoxicity 0.009093502
+    ppsexuallyexplicit 0.033177055
+    ppprofanity 0.0075640944
+    ppinflammatory 0.013615923
+    sentiment 0
     cluster 1
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.033177055
-    PERSPECTIVE_FLIRTATION 0.30092508
-    PERSPECTIVE_INSULT 0.0053943708
-    PERSPECTIVE_TOXICITY 0.009093502
-    PERSPECTIVE_IDENTITY_ATTACK 0.003783115
-    PERSPECTIVE_INFLAMMATORY 0.013615923
-    PERSPECTIVE_THREAT 0.024172185
-    PERSPECTIVE_PROFANITY 0.0075640944
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 169
+  node
+  [
+    id 177
     label "tqZEtALUsaw"
     step 0
     date "2022-01-10T01:25:07Z"
@@ -4747,21 +4582,20 @@ graph [
     commentcount 38
     duration "PT35M4S"
     indegree 0
+    ppinsult 0.12417229
+    ppflirtation 0.40261358
+    ppidentityattack 0.1009939
+    ppthreat 0.15759845
+    pptoxicity 0.112788886
+    ppsexuallyexplicit 0.0878811
+    ppprofanity 0.09242934
+    ppinflammatory 0.03932638
+    sentiment 0
     cluster 3
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.0878811
-    PERSPECTIVE_FLIRTATION 0.40261358
-    PERSPECTIVE_INSULT 0.12417229
-    PERSPECTIVE_TOXICITY 0.112788886
-    PERSPECTIVE_IDENTITY_ATTACK 0.1009939
-    PERSPECTIVE_INFLAMMATORY 0.03932638
-    PERSPECTIVE_THREAT 0.15759845
-    PERSPECTIVE_PROFANITY 0.09242934
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 170
+  node
+  [
+    id 178
     label "dvKp4ZlJ9-Y"
     step 0
     date "2022-06-30T13:00:23Z"
@@ -4775,21 +4609,20 @@ graph [
     commentcount 40
     duration "PT23M14S"
     indegree 0
-    cluster 2
+    ppinsult 0.21066724
+    ppflirtation 0.6488827
+    ppidentityattack 0.47871256
+    ppthreat 0.26016933
+    pptoxicity 0.09978092
+    ppsexuallyexplicit 0.18942088
+    ppprofanity 0.19078325
+    ppinflammatory 0.17786403
     sentiment 0.4215
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.18942088
-    PERSPECTIVE_FLIRTATION 0.6488827
-    PERSPECTIVE_INSULT 0.21066724
-    PERSPECTIVE_TOXICITY 0.09978092
-    PERSPECTIVE_IDENTITY_ATTACK 0.47871256
-    PERSPECTIVE_INFLAMMATORY 0.17786403
-    PERSPECTIVE_THREAT 0.26016933
-    PERSPECTIVE_PROFANITY 0.19078325
-    leftright ""
-    channeltags ""
+    cluster 2
   ]
-  node [
-    id 171
+  node
+  [
+    id 179
     label "CrX2HT38BkM"
     step 0
     date "2021-12-01T03:18:33Z"
@@ -4803,21 +4636,20 @@ graph [
     commentcount 84
     duration "PT26M19S"
     indegree 4
+    ppinsult 0.18967262
+    ppflirtation 0.4054843
+    ppidentityattack 0.50057614
+    ppthreat 0.3139832
+    pptoxicity 0.1943727
+    ppsexuallyexplicit 0.22422305
+    ppprofanity 0.23037003
+    ppinflammatory 0.05813436
+    sentiment 0
     cluster 6
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.22422305
-    PERSPECTIVE_FLIRTATION 0.4054843
-    PERSPECTIVE_INSULT 0.18967262
-    PERSPECTIVE_TOXICITY 0.1943727
-    PERSPECTIVE_IDENTITY_ATTACK 0.50057614
-    PERSPECTIVE_INFLAMMATORY 0.05813436
-    PERSPECTIVE_THREAT 0.3139832
-    PERSPECTIVE_PROFANITY 0.23037003
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 172
+  node
+  [
+    id 180
     label "pN5MtlitobA"
     step 0
     date "2021-10-20T20:30:13Z"
@@ -4831,21 +4663,20 @@ graph [
     commentcount 180
     duration "PT29M34S"
     indegree 1
-    cluster 1
+    ppinsult 0.061414927
+    ppflirtation 0.41495505
+    ppidentityattack 0.037689768
+    ppthreat 0.060545076
+    pptoxicity 0.038911518
+    ppsexuallyexplicit 0.0647798
+    ppprofanity 0.108333066
+    ppinflammatory 0.030591983
     sentiment 0.296
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.0647798
-    PERSPECTIVE_FLIRTATION 0.41495505
-    PERSPECTIVE_INSULT 0.061414927
-    PERSPECTIVE_TOXICITY 0.038911518
-    PERSPECTIVE_IDENTITY_ATTACK 0.037689768
-    PERSPECTIVE_INFLAMMATORY 0.030591983
-    PERSPECTIVE_THREAT 0.060545076
-    PERSPECTIVE_PROFANITY 0.108333066
-    leftright ""
-    channeltags ""
+    cluster 1
   ]
-  node [
-    id 173
+  node
+  [
+    id 181
     label "GLHK7tp8qPI"
     step 0
     date "2021-08-11T01:29:05Z"
@@ -4859,21 +4690,20 @@ graph [
     commentcount 48
     duration "PT29M55S"
     indegree 8
+    ppinsult 0.15716459
+    ppflirtation 0.29771855
+    ppidentityattack 0.16958663
+    ppthreat 0.28598118
+    pptoxicity 0.0717155
+    ppsexuallyexplicit 0.10784158
+    ppprofanity 0.1505077
+    ppinflammatory 0.016923012
+    sentiment 0
     cluster 3
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.10784158
-    PERSPECTIVE_FLIRTATION 0.29771855
-    PERSPECTIVE_INSULT 0.15716459
-    PERSPECTIVE_TOXICITY 0.0717155
-    PERSPECTIVE_IDENTITY_ATTACK 0.16958663
-    PERSPECTIVE_INFLAMMATORY 0.016923012
-    PERSPECTIVE_THREAT 0.28598118
-    PERSPECTIVE_PROFANITY 0.1505077
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 174
+  node
+  [
+    id 182
     label "6JjsjiRiylA"
     step 0
     date "2021-05-19T11:00:03Z"
@@ -4887,21 +4717,20 @@ graph [
     commentcount 12
     duration "PT18M32S"
     indegree 2
+    ppinsult 0.04498388
+    ppflirtation 0.3016618
+    ppidentityattack 0.048215464
+    ppthreat 0.08448392
+    pptoxicity 0.022213135
+    ppsexuallyexplicit 0.06635996
+    ppprofanity 0.056079745
+    ppinflammatory 0.040729567
+    sentiment 0
     cluster 4
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.06635996
-    PERSPECTIVE_FLIRTATION 0.3016618
-    PERSPECTIVE_INSULT 0.04498388
-    PERSPECTIVE_TOXICITY 0.022213135
-    PERSPECTIVE_IDENTITY_ATTACK 0.048215464
-    PERSPECTIVE_INFLAMMATORY 0.040729567
-    PERSPECTIVE_THREAT 0.08448392
-    PERSPECTIVE_PROFANITY 0.056079745
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 175
+  node
+  [
+    id 183
     label "lBN0O2Wi2MY"
     step 0
     date "2020-04-13T16:58:58Z"
@@ -4915,21 +4744,20 @@ graph [
     commentcount 17
     duration "PT6M18S"
     indegree 2
-    cluster 2
+    ppinsult 0.060846668
+    ppflirtation 0.2995921
+    ppidentityattack 0.11171353
+    ppthreat 0.14127542
+    pptoxicity 0.09978092
+    ppsexuallyexplicit 0.118452884
+    ppprofanity 0.095599644
+    ppinflammatory 0.099639855
     sentiment 0.3182
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.118452884
-    PERSPECTIVE_FLIRTATION 0.2995921
-    PERSPECTIVE_INSULT 0.060846668
-    PERSPECTIVE_TOXICITY 0.09978092
-    PERSPECTIVE_IDENTITY_ATTACK 0.11171353
-    PERSPECTIVE_INFLAMMATORY 0.099639855
-    PERSPECTIVE_THREAT 0.14127542
-    PERSPECTIVE_PROFANITY 0.095599644
-    leftright ""
-    channeltags ""
+    cluster 7
   ]
-  node [
-    id 176
+  node
+  [
+    id 184
     label "2TWJDwYjWyY"
     step 0
     date "2015-04-08T04:32:28Z"
@@ -4943,21 +4771,20 @@ graph [
     commentcount 5
     duration "PT5M57S"
     indegree 1
-    cluster 4
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.05753062
-    PERSPECTIVE_FLIRTATION 0.33323476
-    PERSPECTIVE_INSULT 0.061581336
-    PERSPECTIVE_TOXICITY 0.032731086
-    PERSPECTIVE_IDENTITY_ATTACK 0.13064615
-    PERSPECTIVE_INFLAMMATORY 0.24221401
-    PERSPECTIVE_THREAT 0.10586949
-    PERSPECTIVE_PROFANITY 0.05226004
-    leftright ""
-    channeltags ""
+    ppinsult 0.061581336
+    ppflirtation 0.33323476
+    ppidentityattack 0.13064615
+    ppthreat 0.10586949
+    pptoxicity 0.032731086
+    ppsexuallyexplicit 0.05753062
+    ppprofanity 0.05226004
+    ppinflammatory 0.24221401
+    sentiment 0
+    cluster 2
   ]
-  node [
-    id 177
+  node
+  [
+    id 185
     label "ZDxapShgnGE"
     step 0
     date "2021-09-17T17:06:48Z"
@@ -4971,21 +4798,20 @@ graph [
     commentcount 45
     duration "PT29M13S"
     indegree 4
-    cluster 3
+    ppinsult 0.058865394
+    ppflirtation 0.37217477
+    ppidentityattack 0.051992394
+    ppthreat 0.10137019
+    pptoxicity 0.09279997
+    ppsexuallyexplicit 0.058063872
+    ppprofanity 0.050645836
+    ppinflammatory 0.13701344
     sentiment 0.3182
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.058063872
-    PERSPECTIVE_FLIRTATION 0.37217477
-    PERSPECTIVE_INSULT 0.058865394
-    PERSPECTIVE_TOXICITY 0.09279997
-    PERSPECTIVE_IDENTITY_ATTACK 0.051992394
-    PERSPECTIVE_INFLAMMATORY 0.13701344
-    PERSPECTIVE_THREAT 0.10137019
-    PERSPECTIVE_PROFANITY 0.050645836
-    leftright ""
-    channeltags ""
+    cluster 3
   ]
-  node [
-    id 178
+  node
+  [
+    id 186
     label "uhh8Z7Rttd0"
     step 0
     date "2011-10-06T00:49:21Z"
@@ -4999,21 +4825,20 @@ graph [
     commentcount 3
     duration "PT1M55S"
     indegree 0
+    ppinsult 0.1559257
+    ppflirtation 0.3717804
+    ppidentityattack 0.28306735
+    ppthreat 0.32212666
+    pptoxicity 0.037023053
+    ppsexuallyexplicit 0.09053696
+    ppprofanity 0.1736869
+    ppinflammatory 0.010868722
+    sentiment 0
     cluster 5
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.09053696
-    PERSPECTIVE_FLIRTATION 0.3717804
-    PERSPECTIVE_INSULT 0.1559257
-    PERSPECTIVE_TOXICITY 0.037023053
-    PERSPECTIVE_IDENTITY_ATTACK 0.28306735
-    PERSPECTIVE_INFLAMMATORY 0.010868722
-    PERSPECTIVE_THREAT 0.32212666
-    PERSPECTIVE_PROFANITY 0.1736869
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 179
+  node
+  [
+    id 187
     label "zb3KXpVatB0"
     step 0
     date "2020-10-11T14:22:44Z"
@@ -5027,21 +4852,20 @@ graph [
     commentcount 34
     duration "PT1H26M25S"
     indegree 5
+    ppinsult 0.058758005
+    ppflirtation 0.39022118
+    ppidentityattack 0.08250087
+    ppthreat 0.43839425
+    pptoxicity 0.1008549
+    ppsexuallyexplicit 0.06438876
+    ppprofanity 0.07451444
+    ppinflammatory 0.062349055
+    sentiment 0
     cluster 8
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.06438876
-    PERSPECTIVE_FLIRTATION 0.39022118
-    PERSPECTIVE_INSULT 0.058758005
-    PERSPECTIVE_TOXICITY 0.1008549
-    PERSPECTIVE_IDENTITY_ATTACK 0.08250087
-    PERSPECTIVE_INFLAMMATORY 0.062349055
-    PERSPECTIVE_THREAT 0.43839425
-    PERSPECTIVE_PROFANITY 0.07451444
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 180
+  node
+  [
+    id 188
     label "KhGImjRYGJU"
     step 0
     date "2022-06-23T01:13:37Z"
@@ -5055,21 +4879,20 @@ graph [
     commentcount 18
     duration "PT2H6M3S"
     indegree 11
+    ppinsult 0.06338101
+    ppflirtation 0.38112605
+    ppidentityattack 0.055400357
+    ppthreat 0.123915605
+    pptoxicity 0.043375164
+    ppsexuallyexplicit 0.06577982
+    ppprofanity 0.049504552
+    ppinflammatory 0.24418733
+    sentiment 0
     cluster 2
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.06577982
-    PERSPECTIVE_FLIRTATION 0.38112605
-    PERSPECTIVE_INSULT 0.06338101
-    PERSPECTIVE_TOXICITY 0.043375164
-    PERSPECTIVE_IDENTITY_ATTACK 0.055400357
-    PERSPECTIVE_INFLAMMATORY 0.24418733
-    PERSPECTIVE_THREAT 0.123915605
-    PERSPECTIVE_PROFANITY 0.049504552
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 181
+  node
+  [
+    id 189
     label "ePL704RhBnk"
     step 0
     date "2021-09-05T10:18:22Z"
@@ -5083,21 +4906,20 @@ graph [
     commentcount 31
     duration "PT10M46S"
     indegree 0
-    cluster 4
+    ppinsult 0.046091132
+    ppflirtation 0.28686798
+    ppidentityattack 0.075341605
+    ppthreat 0.2107332
+    pptoxicity 0.022945397
+    ppsexuallyexplicit 0.12832232
+    ppprofanity 0.11671871
+    ppinflammatory 0.035947405
     sentiment 0.5859
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.12832232
-    PERSPECTIVE_FLIRTATION 0.28686798
-    PERSPECTIVE_INSULT 0.046091132
-    PERSPECTIVE_TOXICITY 0.022945397
-    PERSPECTIVE_IDENTITY_ATTACK 0.075341605
-    PERSPECTIVE_INFLAMMATORY 0.035947405
-    PERSPECTIVE_THREAT 0.2107332
-    PERSPECTIVE_PROFANITY 0.11671871
-    leftright ""
-    channeltags ""
+    cluster 4
   ]
-  node [
-    id 182
+  node
+  [
+    id 190
     label "Om65EHXRByc"
     step 0
     date "2021-11-14T20:33:53Z"
@@ -5111,21 +4933,20 @@ graph [
     commentcount 30
     duration "PT27M52S"
     indegree 2
+    ppinsult 0.041132577
+    ppflirtation 0.21137948
+    ppidentityattack 0.052516457
+    ppthreat 0.07768424
+    pptoxicity 0.05773066
+    ppsexuallyexplicit 0.051829536
+    ppprofanity 0.045611493
+    ppinflammatory 0.006574723
+    sentiment 0
     cluster 3
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.051829536
-    PERSPECTIVE_FLIRTATION 0.21137948
-    PERSPECTIVE_INSULT 0.041132577
-    PERSPECTIVE_TOXICITY 0.05773066
-    PERSPECTIVE_IDENTITY_ATTACK 0.052516457
-    PERSPECTIVE_INFLAMMATORY 0.006574723
-    PERSPECTIVE_THREAT 0.07768424
-    PERSPECTIVE_PROFANITY 0.045611493
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 183
+  node
+  [
+    id 191
     label "O7SeiOhjr9s"
     step 0
     date "2021-01-16T03:38:06Z"
@@ -5139,21 +4960,20 @@ graph [
     commentcount 51
     duration "PT11M58S"
     indegree 2
-    cluster 3
+    ppinsult 0.05631898
+    ppflirtation 0.36848882
+    ppidentityattack 0.113768294
+    ppthreat 0.19437443
+    pptoxicity 0.036851373
+    ppsexuallyexplicit 0.08508547
+    ppprofanity 0.07386453
+    ppinflammatory 0.037717007
     sentiment 0.7783
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.08508547
-    PERSPECTIVE_FLIRTATION 0.36848882
-    PERSPECTIVE_INSULT 0.05631898
-    PERSPECTIVE_TOXICITY 0.036851373
-    PERSPECTIVE_IDENTITY_ATTACK 0.113768294
-    PERSPECTIVE_INFLAMMATORY 0.037717007
-    PERSPECTIVE_THREAT 0.19437443
-    PERSPECTIVE_PROFANITY 0.07386453
-    leftright ""
-    channeltags ""
+    cluster 3
   ]
-  node [
-    id 184
+  node
+  [
+    id 192
     label "qXYer40_TMM"
     step 0
     date "2022-07-10T22:39:32Z"
@@ -5167,21 +4987,20 @@ graph [
     commentcount 7
     duration "PT20M10S"
     indegree 0
+    ppinsult 0.07633616
+    ppflirtation 0.44306695
+    ppidentityattack 0.12821741
+    ppthreat 0.20213175
+    pptoxicity 0.028439116
+    ppsexuallyexplicit 0.070913866
+    ppprofanity 0.07478643
+    ppinflammatory 0.008028298
+    sentiment 0
     cluster 7
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.070913866
-    PERSPECTIVE_FLIRTATION 0.44306695
-    PERSPECTIVE_INSULT 0.07633616
-    PERSPECTIVE_TOXICITY 0.028439116
-    PERSPECTIVE_IDENTITY_ATTACK 0.12821741
-    PERSPECTIVE_INFLAMMATORY 0.008028298
-    PERSPECTIVE_THREAT 0.20213175
-    PERSPECTIVE_PROFANITY 0.07478643
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 185
+  node
+  [
+    id 193
     label "XQ-fIY3u7j0"
     step 0
     date "2017-07-25T21:10:40Z"
@@ -5195,21 +5014,20 @@ graph [
     commentcount 3
     duration "PT1M52S"
     indegree 0
-    cluster 1
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.07034906
-    PERSPECTIVE_FLIRTATION 0.2605504
-    PERSPECTIVE_INSULT 0.13696261
-    PERSPECTIVE_TOXICITY 0.031529333
-    PERSPECTIVE_IDENTITY_ATTACK 0.34974426
-    PERSPECTIVE_INFLAMMATORY 0.07417418
-    PERSPECTIVE_THREAT 0.280227
-    PERSPECTIVE_PROFANITY 0.10592267
-    leftright ""
-    channeltags ""
+    ppinsult 0.13696261
+    ppflirtation 0.2605504
+    ppidentityattack 0.34974426
+    ppthreat 0.280227
+    pptoxicity 0.031529333
+    ppsexuallyexplicit 0.07034906
+    ppprofanity 0.10592267
+    ppinflammatory 0.07417418
+    sentiment 0
+    cluster 2
   ]
-  node [
-    id 186
+  node
+  [
+    id 195
     label "NQ1hgy0aT6g"
     step 0
     date "2021-08-06T10:30:02Z"
@@ -5223,21 +5041,20 @@ graph [
     commentcount 21
     duration "PT11M10S"
     indegree 0
+    ppinsult 0.096906245
+    ppflirtation 0.24186634
+    ppidentityattack 0.12067214
+    ppthreat 0.16635689
+    pptoxicity 0.0334178
+    ppsexuallyexplicit 0.1193367
+    ppprofanity 0.10371459
+    ppinflammatory 0.06724161
+    sentiment 0
     cluster 4
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.1193367
-    PERSPECTIVE_FLIRTATION 0.24186634
-    PERSPECTIVE_INSULT 0.096906245
-    PERSPECTIVE_TOXICITY 0.0334178
-    PERSPECTIVE_IDENTITY_ATTACK 0.12067214
-    PERSPECTIVE_INFLAMMATORY 0.06724161
-    PERSPECTIVE_THREAT 0.16635689
-    PERSPECTIVE_PROFANITY 0.10371459
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 187
+  node
+  [
+    id 196
     label "eboQfc3giSo"
     step 0
     date "2021-06-20T22:51:15Z"
@@ -5251,21 +5068,20 @@ graph [
     commentcount 40
     duration "PT9M1S"
     indegree 1
-    cluster 2
+    ppinsult 0.029485572
+    ppflirtation 0.36976218
+    ppidentityattack 0.039498925
+    ppthreat 0.091584995
+    pptoxicity 0.040284947
+    ppsexuallyexplicit 0.044363018
+    ppprofanity 0.029760886
+    ppinflammatory 0.0859987
     sentiment 0.5719
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.044363018
-    PERSPECTIVE_FLIRTATION 0.36976218
-    PERSPECTIVE_INSULT 0.029485572
-    PERSPECTIVE_TOXICITY 0.040284947
-    PERSPECTIVE_IDENTITY_ATTACK 0.039498925
-    PERSPECTIVE_INFLAMMATORY 0.0859987
-    PERSPECTIVE_THREAT 0.091584995
-    PERSPECTIVE_PROFANITY 0.029760886
-    leftright ""
-    channeltags ""
+    cluster 2
   ]
-  node [
-    id 188
+  node
+  [
+    id 197
     label "PcRHV09WUlQ"
     step 0
     date "2016-08-08T15:27:06Z"
@@ -5279,21 +5095,20 @@ graph [
     commentcount 0
     duration "PT30S"
     indegree 0
-    cluster 2
+    ppinsult 0.09019475
+    ppflirtation 0.20685135
+    ppidentityattack 0.10045639
+    ppthreat 0.12134981
+    pptoxicity 0.04131502
+    ppsexuallyexplicit 0.07664047
+    ppprofanity 0.08867147
+    ppinflammatory 0.08881137
     sentiment 0.296
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.07664047
-    PERSPECTIVE_FLIRTATION 0.20685135
-    PERSPECTIVE_INSULT 0.09019475
-    PERSPECTIVE_TOXICITY 0.04131502
-    PERSPECTIVE_IDENTITY_ATTACK 0.10045639
-    PERSPECTIVE_INFLAMMATORY 0.08881137
-    PERSPECTIVE_THREAT 0.12134981
-    PERSPECTIVE_PROFANITY 0.08867147
-    leftright ""
-    channeltags ""
+    cluster 6
   ]
-  node [
-    id 189
+  node
+  [
+    id 198
     label "-UXJ8ybC0Tk"
     step 0
     date "2022-04-09T11:00:01Z"
@@ -5307,21 +5122,20 @@ graph [
     commentcount 43
     duration "PT11M25S"
     indegree 25
+    ppinsult 0.07829388
+    ppflirtation 0.21871306
+    ppidentityattack 0.08860157
+    ppthreat 0.12262071
+    pptoxicity 0.06012806
+    ppsexuallyexplicit 0.07866821
+    ppprofanity 0.09070291
+    ppinflammatory 0.05498712
+    sentiment 0
     cluster 4
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.07866821
-    PERSPECTIVE_FLIRTATION 0.21871306
-    PERSPECTIVE_INSULT 0.07829388
-    PERSPECTIVE_TOXICITY 0.06012806
-    PERSPECTIVE_IDENTITY_ATTACK 0.08860157
-    PERSPECTIVE_INFLAMMATORY 0.05498712
-    PERSPECTIVE_THREAT 0.12262071
-    PERSPECTIVE_PROFANITY 0.09070291
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 190
+  node
+  [
+    id 199
     label "Gq2hszGQ14c"
     step 0
     date "2020-05-22T18:28:24Z"
@@ -5335,21 +5149,20 @@ graph [
     commentcount 75
     duration "PT16M21S"
     indegree 25
+    ppinsult 0.06929923
+    ppflirtation 0.29599074
+    ppidentityattack 0.059127543
+    ppthreat 0.10210451
+    pptoxicity 0.06492286
+    ppsexuallyexplicit 0.03993489
+    ppprofanity 0.038908377
+    ppinflammatory 0.21955138
+    sentiment 0
     cluster 2
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.03993489
-    PERSPECTIVE_FLIRTATION 0.29599074
-    PERSPECTIVE_INSULT 0.06929923
-    PERSPECTIVE_TOXICITY 0.06492286
-    PERSPECTIVE_IDENTITY_ATTACK 0.059127543
-    PERSPECTIVE_INFLAMMATORY 0.21955138
-    PERSPECTIVE_THREAT 0.10210451
-    PERSPECTIVE_PROFANITY 0.038908377
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 191
+  node
+  [
+    id 200
     label "BQL_29v5Gyw"
     step 0
     date "2020-10-18T18:00:11Z"
@@ -5363,21 +5176,20 @@ graph [
     commentcount 70
     duration "PT11M18S"
     indegree 3
+    ppinsult 0.23638214
+    ppflirtation 0.3859022
+    ppidentityattack 0.11031659
+    ppthreat 0.32260853
+    pptoxicity 0.06851897
+    ppsexuallyexplicit 0.04748737
+    ppprofanity 0.084690064
+    ppinflammatory 0.035614133
+    sentiment 0
     cluster 1
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.04748737
-    PERSPECTIVE_FLIRTATION 0.3859022
-    PERSPECTIVE_INSULT 0.23638214
-    PERSPECTIVE_TOXICITY 0.06851897
-    PERSPECTIVE_IDENTITY_ATTACK 0.11031659
-    PERSPECTIVE_INFLAMMATORY 0.035614133
-    PERSPECTIVE_THREAT 0.32260853
-    PERSPECTIVE_PROFANITY 0.084690064
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 192
+  node
+  [
+    id 201
     label "lb_QVJqYsHc"
     step 0
     date "2010-10-14T19:37:12Z"
@@ -5391,21 +5203,20 @@ graph [
     commentcount 22
     duration "PT4M42S"
     indegree 3
-    cluster 1
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.09615923
-    PERSPECTIVE_FLIRTATION 0.2410292
-    PERSPECTIVE_INSULT 0.07032848
-    PERSPECTIVE_TOXICITY 0.03221605
-    PERSPECTIVE_IDENTITY_ATTACK 0.0787609
-    PERSPECTIVE_INFLAMMATORY 0.06281467
-    PERSPECTIVE_THREAT 0.14099981
-    PERSPECTIVE_PROFANITY 0.09233102
-    leftright ""
-    channeltags ""
+    ppinsult 0.07032848
+    ppflirtation 0.2410292
+    ppidentityattack 0.0787609
+    ppthreat 0.14099981
+    pptoxicity 0.03221605
+    ppsexuallyexplicit 0.09615923
+    ppprofanity 0.09233102
+    ppinflammatory 0.06281467
+    sentiment 0
+    cluster 2
   ]
-  node [
-    id 193
+  node
+  [
+    id 202
     label "lHW9MaVVokE"
     step 0
     date "2022-06-04T11:00:24Z"
@@ -5419,21 +5230,20 @@ graph [
     commentcount 40
     duration "PT11M5S"
     indegree 27
-    cluster 4
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.5791408
-    PERSPECTIVE_FLIRTATION 0.56713986
-    PERSPECTIVE_INSULT 0.40352204
-    PERSPECTIVE_TOXICITY 0.02792408
-    PERSPECTIVE_IDENTITY_ATTACK 0.27245325
-    PERSPECTIVE_INFLAMMATORY 0.03324967
-    PERSPECTIVE_THREAT 0.39862058
-    PERSPECTIVE_PROFANITY 0.5090195
-    leftright ""
-    channeltags ""
+    ppinsult 0.40352204
+    ppflirtation 0.56713986
+    ppidentityattack 0.27245325
+    ppthreat 0.39862058
+    pptoxicity 0.02792408
+    ppsexuallyexplicit 0.5791408
+    ppprofanity 0.5090195
+    ppinflammatory 0.03324967
+    sentiment 0
+    cluster 2
   ]
-  node [
-    id 194
+  node
+  [
+    id 204
     label "lFfkWUm4FqE"
     step 0
     date "2022-03-26T01:25:10Z"
@@ -5447,21 +5257,20 @@ graph [
     commentcount 8
     duration "PT2H13M4S"
     indegree 1
+    ppinsult 0.29104456
+    ppflirtation 0.4287581
+    ppidentityattack 0.6244085
+    ppthreat 0.36252564
+    pptoxicity 0.09548495
+    ppsexuallyexplicit 0.16057777
+    ppprofanity 0.30910677
+    ppinflammatory 0.11558532
+    sentiment 0
     cluster 2
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.16057777
-    PERSPECTIVE_FLIRTATION 0.4287581
-    PERSPECTIVE_INSULT 0.29104456
-    PERSPECTIVE_TOXICITY 0.09548495
-    PERSPECTIVE_IDENTITY_ATTACK 0.6244085
-    PERSPECTIVE_INFLAMMATORY 0.11558532
-    PERSPECTIVE_THREAT 0.36252564
-    PERSPECTIVE_PROFANITY 0.30910677
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 195
+  node
+  [
+    id 205
     label "bq6Gkv01d1c"
     step 0
     date "2019-08-21T22:37:40Z"
@@ -5475,21 +5284,20 @@ graph [
     commentcount 7
     duration "PT14M4S"
     indegree 0
+    ppinsult 0.29380062
+    ppflirtation 0.44435078
+    ppidentityattack 0.6600224
+    ppthreat 0.7160308
+    pptoxicity 0.09924392
+    ppsexuallyexplicit 0.21610466
+    ppprofanity 0.35701877
+    ppinflammatory 0.014042768
+    sentiment 0
     cluster 2
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.21610466
-    PERSPECTIVE_FLIRTATION 0.44435078
-    PERSPECTIVE_INSULT 0.29380062
-    PERSPECTIVE_TOXICITY 0.09924392
-    PERSPECTIVE_IDENTITY_ATTACK 0.6600224
-    PERSPECTIVE_INFLAMMATORY 0.014042768
-    PERSPECTIVE_THREAT 0.7160308
-    PERSPECTIVE_PROFANITY 0.35701877
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 196
+  node
+  [
+    id 206
     label "Uv9P1ml0Vew"
     step 0
     date "2021-08-09T01:09:06Z"
@@ -5503,21 +5311,20 @@ graph [
     commentcount 64
     duration "PT29M57S"
     indegree 12
+    ppinsult 0.16539834
+    ppflirtation 0.3027414
+    ppidentityattack 0.11876635
+    ppthreat 0.1986693
+    pptoxicity 0.06412373
+    ppsexuallyexplicit 0.10035775
+    ppprofanity 0.152458
+    ppinflammatory 0.016923012
+    sentiment 0
     cluster 3
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.10035775
-    PERSPECTIVE_FLIRTATION 0.3027414
-    PERSPECTIVE_INSULT 0.16539834
-    PERSPECTIVE_TOXICITY 0.06412373
-    PERSPECTIVE_IDENTITY_ATTACK 0.11876635
-    PERSPECTIVE_INFLAMMATORY 0.016923012
-    PERSPECTIVE_THREAT 0.1986693
-    PERSPECTIVE_PROFANITY 0.152458
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 197
+  node
+  [
+    id 207
     label "O73lSrZJloM"
     step 0
     date "2021-09-15T22:45:34Z"
@@ -5531,21 +5338,20 @@ graph [
     commentcount 53
     duration "PT22M"
     indegree 2
-    cluster 3
+    ppinsult 0.020835888
+    ppflirtation 0.2526136
+    ppidentityattack 0.038220465
+    ppthreat 0.12629506
+    pptoxicity 0.092262976
+    ppsexuallyexplicit 0.031209124
+    ppprofanity 0.023114515
+    ppinflammatory 0.13701344
     sentiment 0.3182
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.031209124
-    PERSPECTIVE_FLIRTATION 0.2526136
-    PERSPECTIVE_INSULT 0.020835888
-    PERSPECTIVE_TOXICITY 0.092262976
-    PERSPECTIVE_IDENTITY_ATTACK 0.038220465
-    PERSPECTIVE_INFLAMMATORY 0.13701344
-    PERSPECTIVE_THREAT 0.12629506
-    PERSPECTIVE_PROFANITY 0.023114515
-    leftright ""
-    channeltags ""
+    cluster 3
   ]
-  node [
-    id 198
+  node
+  [
+    id 208
     label "xyr_pmDxmwA"
     step 0
     date "2020-07-17T18:30:09Z"
@@ -5559,21 +5365,20 @@ graph [
     commentcount 8
     duration "PT8M47S"
     indegree 1
+    ppinsult 0.06939582
+    ppflirtation 0.3434577
+    ppidentityattack 0.07357395
+    ppthreat 0.1559221
+    pptoxicity 0.048525527
+    ppsexuallyexplicit 0.08510426
+    ppprofanity 0.075194135
+    ppinflammatory 0.1698235
+    sentiment 0
     cluster 1
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.08510426
-    PERSPECTIVE_FLIRTATION 0.3434577
-    PERSPECTIVE_INSULT 0.06939582
-    PERSPECTIVE_TOXICITY 0.048525527
-    PERSPECTIVE_IDENTITY_ATTACK 0.07357395
-    PERSPECTIVE_INFLAMMATORY 0.1698235
-    PERSPECTIVE_THREAT 0.1559221
-    PERSPECTIVE_PROFANITY 0.075194135
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 199
+  node
+  [
+    id 209
     label "nQQeCiXePvc"
     step 0
     date "2021-03-27T20:45:29Z"
@@ -5587,21 +5392,20 @@ graph [
     commentcount 32
     duration "PT17M48S"
     indegree 1
-    cluster 7
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.088282086
-    PERSPECTIVE_FLIRTATION 0.3240716
-    PERSPECTIVE_INSULT 0.1295044
-    PERSPECTIVE_TOXICITY 0.12824467
-    PERSPECTIVE_IDENTITY_ATTACK 0.10448675
-    PERSPECTIVE_INFLAMMATORY 0.0077535645
-    PERSPECTIVE_THREAT 0.24003543
-    PERSPECTIVE_PROFANITY 0.09331319
-    leftright ""
-    channeltags ""
+    ppinsult 0.1295044
+    ppflirtation 0.3240716
+    ppidentityattack 0.10448675
+    ppthreat 0.24003543
+    pptoxicity 0.12824467
+    ppsexuallyexplicit 0.088282086
+    ppprofanity 0.09331319
+    ppinflammatory 0.0077535645
+    sentiment 0
+    cluster 6
   ]
-  node [
-    id 200
+  node
+  [
+    id 210
     label "jxexOwv7JYM"
     step 0
     date "2021-08-14T01:02:03Z"
@@ -5615,21 +5419,20 @@ graph [
     commentcount 66
     duration "PT36M50S"
     indegree 21
-    cluster 3
+    ppinsult 0.17635605
+    ppflirtation 0.2891719
+    ppidentityattack 0.11891435
+    ppthreat 0.17956875
+    pptoxicity 0.08367105
+    ppsexuallyexplicit 0.123624735
+    ppprofanity 0.17634428
+    ppinflammatory 0.03531447
     sentiment 0.3182
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.123624735
-    PERSPECTIVE_FLIRTATION 0.2891719
-    PERSPECTIVE_INSULT 0.17635605
-    PERSPECTIVE_TOXICITY 0.08367105
-    PERSPECTIVE_IDENTITY_ATTACK 0.11891435
-    PERSPECTIVE_INFLAMMATORY 0.03531447
-    PERSPECTIVE_THREAT 0.17956875
-    PERSPECTIVE_PROFANITY 0.17634428
-    leftright ""
-    channeltags ""
+    cluster 3
   ]
-  node [
-    id 201
+  node
+  [
+    id 211
     label "swyfyAExYq4"
     step 0
     date "2021-02-13T16:15:35Z"
@@ -5643,21 +5446,20 @@ graph [
     commentcount 0
     duration "PT20M20S"
     indegree 0
+    ppinsult 0.005045849
+    ppflirtation 0.3423136
+    ppidentityattack 0.010277659
+    ppthreat 0.069392785
+    pptoxicity 0.0026204558
+    ppsexuallyexplicit 0.028607076
+    ppprofanity 0.009012918
+    ppinflammatory 0.029927671
+    sentiment 0
     cluster 1
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.028607076
-    PERSPECTIVE_FLIRTATION 0.3423136
-    PERSPECTIVE_INSULT 0.005045849
-    PERSPECTIVE_TOXICITY 0.0026204558
-    PERSPECTIVE_IDENTITY_ATTACK 0.010277659
-    PERSPECTIVE_INFLAMMATORY 0.029927671
-    PERSPECTIVE_THREAT 0.069392785
-    PERSPECTIVE_PROFANITY 0.009012918
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 202
+  node
+  [
+    id 212
     label "jntjhQX5_8I"
     step 0
     date "2021-09-13T02:49:44Z"
@@ -5671,21 +5473,20 @@ graph [
     commentcount 53
     duration "PT24M27S"
     indegree 10
+    ppinsult 0.08777153
+    ppflirtation 0.43420807
+    ppidentityattack 0.17038257
+    ppthreat 0.12803045
+    pptoxicity 0.06931809
+    ppsexuallyexplicit 0.16435464
+    ppprofanity 0.06847377
+    ppinflammatory 0.06006875
+    sentiment 0
     cluster 7
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.16435464
-    PERSPECTIVE_FLIRTATION 0.43420807
-    PERSPECTIVE_INSULT 0.08777153
-    PERSPECTIVE_TOXICITY 0.06931809
-    PERSPECTIVE_IDENTITY_ATTACK 0.17038257
-    PERSPECTIVE_INFLAMMATORY 0.06006875
-    PERSPECTIVE_THREAT 0.12803045
-    PERSPECTIVE_PROFANITY 0.06847377
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 203
+  node
+  [
+    id 214
     label "BJTsq0zCY7c"
     step 0
     date "2022-07-05T23:26:48Z"
@@ -5699,21 +5500,20 @@ graph [
     commentcount 6
     duration "PT1M12S"
     indegree 3
-    cluster 8
+    ppinsult 0.056023248
+    ppflirtation 0.22891462
+    ppidentityattack 0.032122675
+    ppthreat 0.04494981
+    pptoxicity 0.03994159
+    ppsexuallyexplicit 0.03791642
+    ppprofanity 0.0476636
+    ppinflammatory 0.0002669664
     sentiment 0.7003
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.03791642
-    PERSPECTIVE_FLIRTATION 0.22891462
-    PERSPECTIVE_INSULT 0.056023248
-    PERSPECTIVE_TOXICITY 0.03994159
-    PERSPECTIVE_IDENTITY_ATTACK 0.032122675
-    PERSPECTIVE_INFLAMMATORY 0.0002669664
-    PERSPECTIVE_THREAT 0.04494981
-    PERSPECTIVE_PROFANITY 0.0476636
-    leftright ""
-    channeltags ""
+    cluster 8
   ]
-  node [
-    id 204
+  node
+  [
+    id 215
     label "3R6krd6EZds"
     step 0
     date "2022-01-26T05:00:04Z"
@@ -5727,21 +5527,20 @@ graph [
     commentcount 48
     duration "PT31M22S"
     indegree 1
+    ppinsult 0.049010057
+    ppflirtation 0.35096627
+    ppidentityattack 0.124235466
+    ppthreat 0.06567536
+    pptoxicity 0.060927194
+    ppsexuallyexplicit 0.062874444
+    ppprofanity 0.03741335
+    ppinflammatory 0.008084264
+    sentiment 0
     cluster 7
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.062874444
-    PERSPECTIVE_FLIRTATION 0.35096627
-    PERSPECTIVE_INSULT 0.049010057
-    PERSPECTIVE_TOXICITY 0.060927194
-    PERSPECTIVE_IDENTITY_ATTACK 0.124235466
-    PERSPECTIVE_INFLAMMATORY 0.008084264
-    PERSPECTIVE_THREAT 0.06567536
-    PERSPECTIVE_PROFANITY 0.03741335
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 205
+  node
+  [
+    id 216
     label "GW5nWCmO8-Y"
     step 0
     date "2021-10-09T14:00:50Z"
@@ -5755,21 +5554,20 @@ graph [
     commentcount 30
     duration "PT42M56S"
     indegree 12
+    ppinsult 0.094733745
+    ppflirtation 0.20258272
+    ppidentityattack 0.116230294
+    ppthreat 0.15866077
+    pptoxicity 0.15042676
+    ppsexuallyexplicit 0.06394737
+    ppprofanity 0.0953772
+    ppinflammatory 0.06503063
+    sentiment 0
     cluster 3
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.06394737
-    PERSPECTIVE_FLIRTATION 0.20258272
-    PERSPECTIVE_INSULT 0.094733745
-    PERSPECTIVE_TOXICITY 0.15042676
-    PERSPECTIVE_IDENTITY_ATTACK 0.116230294
-    PERSPECTIVE_INFLAMMATORY 0.06503063
-    PERSPECTIVE_THREAT 0.15866077
-    PERSPECTIVE_PROFANITY 0.0953772
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 206
+  node
+  [
+    id 217
     label "trvjMtxF3VY"
     step 0
     date "2020-12-25T03:30:35Z"
@@ -5783,21 +5581,20 @@ graph [
     commentcount 30
     duration "PT18M38S"
     indegree 14
+    ppinsult 0.231394
+    ppflirtation 0.42191976
+    ppidentityattack 0.54551107
+    ppthreat 0.40125617
+    pptoxicity 0.057331093
+    ppsexuallyexplicit 0.17936026
+    ppprofanity 0.30558127
+    ppinflammatory 0.03475969
+    sentiment 0
     cluster 6
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.17936026
-    PERSPECTIVE_FLIRTATION 0.42191976
-    PERSPECTIVE_INSULT 0.231394
-    PERSPECTIVE_TOXICITY 0.057331093
-    PERSPECTIVE_IDENTITY_ATTACK 0.54551107
-    PERSPECTIVE_INFLAMMATORY 0.03475969
-    PERSPECTIVE_THREAT 0.40125617
-    PERSPECTIVE_PROFANITY 0.30558127
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 207
+  node
+  [
+    id 218
     label "uwsDC_Cf4Q8"
     step 0
     date "2021-04-23T11:13:56Z"
@@ -5811,21 +5608,20 @@ graph [
     commentcount 75
     duration "PT1H7M10S"
     indegree 33
+    ppinsult 0.08782487
+    ppflirtation 0.21984413
+    ppidentityattack 0.1180008
+    ppthreat 0.22206497
+    pptoxicity 0.10699297
+    ppsexuallyexplicit 0.0717994
+    ppprofanity 0.08810403
+    ppinflammatory 0.02454523
+    sentiment 0
     cluster 3
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.0717994
-    PERSPECTIVE_FLIRTATION 0.21984413
-    PERSPECTIVE_INSULT 0.08782487
-    PERSPECTIVE_TOXICITY 0.10699297
-    PERSPECTIVE_IDENTITY_ATTACK 0.1180008
-    PERSPECTIVE_INFLAMMATORY 0.02454523
-    PERSPECTIVE_THREAT 0.22206497
-    PERSPECTIVE_PROFANITY 0.08810403
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 208
+  node
+  [
+    id 219
     label "dF4VAmLKI58"
     step 0
     date "2016-11-03T00:05:39Z"
@@ -5839,21 +5635,20 @@ graph [
     commentcount 25
     duration "PT19M30S"
     indegree 50
+    ppinsult 0.036847625
+    ppflirtation 0.19457503
+    ppidentityattack 0.048660036
+    ppthreat 0.08646741
+    pptoxicity 0.015340946
+    ppsexuallyexplicit 0.058402594
+    ppprofanity 0.051971056
+    ppinflammatory 0.0737626
+    sentiment 0
     cluster 7
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.058402594
-    PERSPECTIVE_FLIRTATION 0.19457503
-    PERSPECTIVE_INSULT 0.036847625
-    PERSPECTIVE_TOXICITY 0.015340946
-    PERSPECTIVE_IDENTITY_ATTACK 0.048660036
-    PERSPECTIVE_INFLAMMATORY 0.0737626
-    PERSPECTIVE_THREAT 0.08646741
-    PERSPECTIVE_PROFANITY 0.051971056
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 209
+  node
+  [
+    id 220
     label "xDBrptwYf1Y"
     step 0
     date "2022-02-16T19:33:50Z"
@@ -5867,21 +5662,20 @@ graph [
     commentcount 34
     duration "PT34M7S"
     indegree 2
+    ppinsult 0.15268143
+    ppflirtation 0.32841405
+    ppidentityattack 0.41540918
+    ppthreat 0.2547351
+    pptoxicity 0.032559406
+    ppsexuallyexplicit 0.13589191
+    ppprofanity 0.18615432
+    ppinflammatory 0.07896125
+    sentiment 0
     cluster 3
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.13589191
-    PERSPECTIVE_FLIRTATION 0.32841405
-    PERSPECTIVE_INSULT 0.15268143
-    PERSPECTIVE_TOXICITY 0.032559406
-    PERSPECTIVE_IDENTITY_ATTACK 0.41540918
-    PERSPECTIVE_INFLAMMATORY 0.07896125
-    PERSPECTIVE_THREAT 0.2547351
-    PERSPECTIVE_PROFANITY 0.18615432
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 210
+  node
+  [
+    id 221
     label "y2ayHaRiX2M"
     step 0
     date "2021-01-04T17:37:21Z"
@@ -5895,21 +5689,20 @@ graph [
     commentcount 86
     duration "PT39M29S"
     indegree 16
+    ppinsult 0.08402569
+    ppflirtation 0.19467993
+    ppidentityattack 0.09987995
+    ppthreat 0.1177982
+    pptoxicity 0.087430015
+    ppsexuallyexplicit 0.05809161
+    ppprofanity 0.09681503
+    ppinflammatory 0.013178273
+    sentiment 0
     cluster 3
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.05809161
-    PERSPECTIVE_FLIRTATION 0.19467993
-    PERSPECTIVE_INSULT 0.08402569
-    PERSPECTIVE_TOXICITY 0.087430015
-    PERSPECTIVE_IDENTITY_ATTACK 0.09987995
-    PERSPECTIVE_INFLAMMATORY 0.013178273
-    PERSPECTIVE_THREAT 0.1177982
-    PERSPECTIVE_PROFANITY 0.09681503
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 211
+  node
+  [
+    id 222
     label "ldXYVIBq0so"
     step 0
     date "2020-12-10T03:26:36Z"
@@ -5923,21 +5716,20 @@ graph [
     commentcount 168
     duration "PT43M5S"
     indegree 16
+    ppinsult 0.13218497
+    ppflirtation 0.2268356
+    ppidentityattack 0.16075173
+    ppthreat 0.13336402
+    pptoxicity 0.11343288
+    ppsexuallyexplicit 0.06256652
+    ppprofanity 0.11774742
+    ppinflammatory 0.04009202
+    sentiment 0
     cluster 3
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.06256652
-    PERSPECTIVE_FLIRTATION 0.2268356
-    PERSPECTIVE_INSULT 0.13218497
-    PERSPECTIVE_TOXICITY 0.11343288
-    PERSPECTIVE_IDENTITY_ATTACK 0.16075173
-    PERSPECTIVE_INFLAMMATORY 0.04009202
-    PERSPECTIVE_THREAT 0.13336402
-    PERSPECTIVE_PROFANITY 0.11774742
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 212
+  node
+  [
+    id 223
     label "anbwwt9pR1g"
     step 0
     date "2011-05-04T20:43:16Z"
@@ -5951,21 +5743,20 @@ graph [
     commentcount 16
     duration "PT7M48S"
     indegree 4
+    ppinsult 0.04324591
+    ppflirtation 0.20621125
+    ppidentityattack 0.056915056
+    ppthreat 0.09627615
+    pptoxicity 0.059328925
+    ppsexuallyexplicit 0.06664228
+    ppprofanity 0.06040218
+    ppinflammatory 0.111687325
+    sentiment 0
     cluster 8
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.06664228
-    PERSPECTIVE_FLIRTATION 0.20621125
-    PERSPECTIVE_INSULT 0.04324591
-    PERSPECTIVE_TOXICITY 0.059328925
-    PERSPECTIVE_IDENTITY_ATTACK 0.056915056
-    PERSPECTIVE_INFLAMMATORY 0.111687325
-    PERSPECTIVE_THREAT 0.09627615
-    PERSPECTIVE_PROFANITY 0.06040218
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 213
+  node
+  [
+    id 225
     label "I0C6GOMlmSQ"
     step 0
     date "2018-10-25T23:12:07Z"
@@ -5979,21 +5770,20 @@ graph [
     commentcount 29
     duration "PT1H3M26S"
     indegree 0
+    ppinsult 0.12023354
+    ppflirtation 0.5444049
+    ppidentityattack 0.23440436
+    ppthreat 0.4993575
+    pptoxicity 0.025863936
+    ppsexuallyexplicit 0.3647322
+    ppprofanity 0.20934473
+    ppinflammatory 0.013944497
+    sentiment 0
     cluster 2
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.3647322
-    PERSPECTIVE_FLIRTATION 0.5444049
-    PERSPECTIVE_INSULT 0.12023354
-    PERSPECTIVE_TOXICITY 0.025863936
-    PERSPECTIVE_IDENTITY_ATTACK 0.23440436
-    PERSPECTIVE_INFLAMMATORY 0.013944497
-    PERSPECTIVE_THREAT 0.4993575
-    PERSPECTIVE_PROFANITY 0.20934473
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 214
+  node
+  [
+    id 227
     label "jAExBHDFVTw"
     step 0
     date "2021-10-11T18:03:47Z"
@@ -6007,21 +5797,20 @@ graph [
     commentcount 24
     duration "PT20M57S"
     indegree 4
+    ppinsult 0.07045209
+    ppflirtation 0.20368864
+    ppidentityattack 0.08102543
+    ppthreat 0.10865828
+    pptoxicity 0.15042676
+    ppsexuallyexplicit 0.07809693
+    ppprofanity 0.089741565
+    ppinflammatory 0.04946698
+    sentiment 0
     cluster 3
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.07809693
-    PERSPECTIVE_FLIRTATION 0.20368864
-    PERSPECTIVE_INSULT 0.07045209
-    PERSPECTIVE_TOXICITY 0.15042676
-    PERSPECTIVE_IDENTITY_ATTACK 0.08102543
-    PERSPECTIVE_INFLAMMATORY 0.04946698
-    PERSPECTIVE_THREAT 0.10865828
-    PERSPECTIVE_PROFANITY 0.089741565
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 215
+  node
+  [
+    id 229
     label "oVGE4JfUibs"
     step 0
     date "2021-10-06T18:47:48Z"
@@ -6035,21 +5824,20 @@ graph [
     commentcount 65
     duration "PT32M30S"
     indegree 4
-    cluster 6
+    ppinsult 0.22724928
+    ppflirtation 0.541002
+    ppidentityattack 0.50997967
+    ppthreat 0.25061113
+    pptoxicity 0.031185975
+    ppsexuallyexplicit 0.15552856
+    ppprofanity 0.16661838
+    ppinflammatory 0.020283967
     sentiment 0.5994
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.15552856
-    PERSPECTIVE_FLIRTATION 0.541002
-    PERSPECTIVE_INSULT 0.22724928
-    PERSPECTIVE_TOXICITY 0.031185975
-    PERSPECTIVE_IDENTITY_ATTACK 0.50997967
-    PERSPECTIVE_INFLAMMATORY 0.020283967
-    PERSPECTIVE_THREAT 0.25061113
-    PERSPECTIVE_PROFANITY 0.16661838
-    leftright ""
-    channeltags ""
+    cluster 6
   ]
-  node [
-    id 216
+  node
+  [
+    id 230
     label "eCad95nfAro"
     step 0
     date "2021-12-07T13:21:08Z"
@@ -6063,21 +5851,20 @@ graph [
     commentcount 87
     duration "PT23M41S"
     indegree 6
-    cluster 6
+    ppinsult 0.037288137
+    ppflirtation 0.46037698
+    ppidentityattack 0.089335196
+    ppthreat 0.060773272
+    pptoxicity 0.022773718
+    ppsexuallyexplicit 0.052051645
+    ppprofanity 0.022078527
+    ppinflammatory 0.099569306
     sentiment 0.4767
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.052051645
-    PERSPECTIVE_FLIRTATION 0.46037698
-    PERSPECTIVE_INSULT 0.037288137
-    PERSPECTIVE_TOXICITY 0.022773718
-    PERSPECTIVE_IDENTITY_ATTACK 0.089335196
-    PERSPECTIVE_INFLAMMATORY 0.099569306
-    PERSPECTIVE_THREAT 0.060773272
-    PERSPECTIVE_PROFANITY 0.022078527
-    leftright ""
-    channeltags ""
+    cluster 6
   ]
-  node [
-    id 217
+  node
+  [
+    id 231
     label "0lDpKtmvhHE"
     step 0
     date "2021-11-06T21:26:04Z"
@@ -6091,21 +5878,20 @@ graph [
     commentcount 29
     duration "PT22M"
     indegree 0
+    ppinsult 0.12606616
+    ppflirtation 0.22684889
+    ppidentityattack 0.1482226
+    ppthreat 0.16650611
+    pptoxicity 0.035306264
+    ppsexuallyexplicit 0.11316425
+    ppprofanity 0.121191636
+    ppinflammatory 0.028610017
+    sentiment 0
     cluster 3
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.11316425
-    PERSPECTIVE_FLIRTATION 0.22684889
-    PERSPECTIVE_INSULT 0.12606616
-    PERSPECTIVE_TOXICITY 0.035306264
-    PERSPECTIVE_IDENTITY_ATTACK 0.1482226
-    PERSPECTIVE_INFLAMMATORY 0.028610017
-    PERSPECTIVE_THREAT 0.16650611
-    PERSPECTIVE_PROFANITY 0.121191636
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 218
+  node
+  [
+    id 232
     label "NdCWgyLVVo0"
     step 0
     date "2022-04-11T00:42:24Z"
@@ -6119,21 +5905,20 @@ graph [
     commentcount 113
     duration "PT7M25S"
     indegree 1
-    cluster 1
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.11830101
-    PERSPECTIVE_FLIRTATION 0.26003975
-    PERSPECTIVE_INSULT 0.1439328
-    PERSPECTIVE_TOXICITY 0.03049926
-    PERSPECTIVE_IDENTITY_ATTACK 0.121907696
-    PERSPECTIVE_INFLAMMATORY 0.030047113
-    PERSPECTIVE_THREAT 0.19288513
-    PERSPECTIVE_PROFANITY 0.14048323
-    leftright ""
-    channeltags ""
+    ppinsult 0.1439328
+    ppflirtation 0.26003975
+    ppidentityattack 0.121907696
+    ppthreat 0.19288513
+    pptoxicity 0.03049926
+    ppsexuallyexplicit 0.11830101
+    ppprofanity 0.14048323
+    ppinflammatory 0.030047113
+    sentiment 0
+    cluster 2
   ]
-  node [
-    id 219
+  node
+  [
+    id 233
     label "0wuZrwm24UU"
     step 0
     date "2021-07-24T10:52:56Z"
@@ -6147,21 +5932,20 @@ graph [
     commentcount 29
     duration "PT10M4S"
     indegree 2
-    cluster 4
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.06006623
-    PERSPECTIVE_FLIRTATION 0.22507691
-    PERSPECTIVE_INSULT 0.045439642
-    PERSPECTIVE_TOXICITY 0.022351967
-    PERSPECTIVE_IDENTITY_ATTACK 0.06897825
-    PERSPECTIVE_INFLAMMATORY 0.118597895
-    PERSPECTIVE_THREAT 0.089960225
-    PERSPECTIVE_PROFANITY 0.06493712
-    leftright ""
-    channeltags ""
+    ppinsult 0.045439642
+    ppflirtation 0.22507691
+    ppidentityattack 0.06897825
+    ppthreat 0.089960225
+    pptoxicity 0.022351967
+    ppsexuallyexplicit 0.06006623
+    ppprofanity 0.06493712
+    ppinflammatory 0.118597895
+    sentiment 0
+    cluster 2
   ]
-  node [
-    id 220
+  node
+  [
+    id 234
     label "SQNp2a4o3A0"
     step 0
     date "2019-11-01T18:52:50Z"
@@ -6175,21 +5959,20 @@ graph [
     commentcount 4
     duration "PT14M25S"
     indegree 0
-    cluster 1
+    ppinsult 0.09212876
+    ppflirtation 0.2922324
+    ppidentityattack 0.089884266
+    ppthreat 0.121928945
+    pptoxicity 0.16758743
+    ppsexuallyexplicit 0.09699729
+    ppprofanity 0.092191905
+    ppinflammatory 0.13966775
     sentiment 0.296
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.09699729
-    PERSPECTIVE_FLIRTATION 0.2922324
-    PERSPECTIVE_INSULT 0.09212876
-    PERSPECTIVE_TOXICITY 0.16758743
-    PERSPECTIVE_IDENTITY_ATTACK 0.089884266
-    PERSPECTIVE_INFLAMMATORY 0.13966775
-    PERSPECTIVE_THREAT 0.121928945
-    PERSPECTIVE_PROFANITY 0.092191905
-    leftright ""
-    channeltags ""
+    cluster 2
   ]
-  node [
-    id 221
+  node
+  [
+    id 235
     label "ukobQm1mqLQ"
     step 0
     date "2019-11-20T03:24:31Z"
@@ -6203,21 +5986,20 @@ graph [
     commentcount 89
     duration "PT39M51S"
     indegree 12
+    ppinsult 0.055797327
+    ppflirtation 0.21123445
+    ppidentityattack 0.08506884
+    ppthreat 0.120471336
+    pptoxicity 0.10699297
+    ppsexuallyexplicit 0.053838592
+    ppprofanity 0.07669722
+    ppinflammatory 0.043299716
+    sentiment 0
     cluster 3
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.053838592
-    PERSPECTIVE_FLIRTATION 0.21123445
-    PERSPECTIVE_INSULT 0.055797327
-    PERSPECTIVE_TOXICITY 0.10699297
-    PERSPECTIVE_IDENTITY_ATTACK 0.08506884
-    PERSPECTIVE_INFLAMMATORY 0.043299716
-    PERSPECTIVE_THREAT 0.120471336
-    PERSPECTIVE_PROFANITY 0.07669722
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 222
+  node
+  [
+    id 236
     label "QeuCJSmzkGs"
     step 0
     date "2020-10-26T02:04:48Z"
@@ -6231,21 +6013,20 @@ graph [
     commentcount 54
     duration "PT26M53S"
     indegree 2
+    ppinsult 0.036621604
+    ppflirtation 0.18274468
+    ppidentityattack 0.04538928
+    ppthreat 0.05855395
+    pptoxicity 0.09387396
+    ppsexuallyexplicit 0.051017653
+    ppprofanity 0.053194493
+    ppinflammatory 0.043127775
+    sentiment 0
     cluster 3
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.051017653
-    PERSPECTIVE_FLIRTATION 0.18274468
-    PERSPECTIVE_INSULT 0.036621604
-    PERSPECTIVE_TOXICITY 0.09387396
-    PERSPECTIVE_IDENTITY_ATTACK 0.04538928
-    PERSPECTIVE_INFLAMMATORY 0.043127775
-    PERSPECTIVE_THREAT 0.05855395
-    PERSPECTIVE_PROFANITY 0.053194493
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 223
+  node
+  [
+    id 237
     label "5Qid8QPeTDY"
     step 0
     date "2020-11-27T17:49:31Z"
@@ -6259,21 +6040,20 @@ graph [
     commentcount 141
     duration "PT54M18S"
     indegree 27
+    ppinsult 0.05919558
+    ppflirtation 0.22091122
+    ppidentityattack 0.075998306
+    ppthreat 0.072797775
+    pptoxicity 0.13296685
+    ppsexuallyexplicit 0.048893597
+    ppprofanity 0.07190494
+    ppinflammatory 0.04009202
+    sentiment 0
     cluster 3
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.048893597
-    PERSPECTIVE_FLIRTATION 0.22091122
-    PERSPECTIVE_INSULT 0.05919558
-    PERSPECTIVE_TOXICITY 0.13296685
-    PERSPECTIVE_IDENTITY_ATTACK 0.075998306
-    PERSPECTIVE_INFLAMMATORY 0.04009202
-    PERSPECTIVE_THREAT 0.072797775
-    PERSPECTIVE_PROFANITY 0.07190494
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 224
+  node
+  [
+    id 238
     label "Q1Sf3kPMsJQ"
     step 0
     date "2020-12-07T02:29:52Z"
@@ -6287,21 +6067,20 @@ graph [
     commentcount 119
     duration "PT35M51S"
     indegree 14
+    ppinsult 0.102065
+    ppflirtation 0.22000155
+    ppidentityattack 0.1358765
+    ppthreat 0.121075414
+    pptoxicity 0.11085691
+    ppsexuallyexplicit 0.057623588
+    ppprofanity 0.09209916
+    ppinflammatory 0.04009202
+    sentiment 0
     cluster 3
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.057623588
-    PERSPECTIVE_FLIRTATION 0.22000155
-    PERSPECTIVE_INSULT 0.102065
-    PERSPECTIVE_TOXICITY 0.11085691
-    PERSPECTIVE_IDENTITY_ATTACK 0.1358765
-    PERSPECTIVE_INFLAMMATORY 0.04009202
-    PERSPECTIVE_THREAT 0.121075414
-    PERSPECTIVE_PROFANITY 0.09209916
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 225
+  node
+  [
+    id 239
     label "cF6XDZgrkgc"
     step 0
     date "2021-09-16T00:46:55Z"
@@ -6315,21 +6094,20 @@ graph [
     commentcount 48
     duration "PT16M51S"
     indegree 3
-    cluster 4
+    ppinsult 0.117479354
+    ppflirtation 0.35671505
+    ppidentityattack 0.11356177
+    ppthreat 0.26612702
+    pptoxicity 0.07690986
+    ppsexuallyexplicit 0.043050442
+    ppprofanity 0.04497049
+    ppinflammatory 0.020345816
     sentiment 0.5267
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.043050442
-    PERSPECTIVE_FLIRTATION 0.35671505
-    PERSPECTIVE_INSULT 0.117479354
-    PERSPECTIVE_TOXICITY 0.07690986
-    PERSPECTIVE_IDENTITY_ATTACK 0.11356177
-    PERSPECTIVE_INFLAMMATORY 0.020345816
-    PERSPECTIVE_THREAT 0.26612702
-    PERSPECTIVE_PROFANITY 0.04497049
-    leftright ""
-    channeltags ""
+    cluster 7
   ]
-  node [
-    id 226
+  node
+  [
+    id 240
     label "fwUeXdqu9JI"
     step 0
     date "2022-01-25T05:00:13Z"
@@ -6343,21 +6121,20 @@ graph [
     commentcount 67
     duration "PT27M41S"
     indegree 1
+    ppinsult 0.01840515
+    ppflirtation 0.29430935
+    ppidentityattack 0.01885367
+    ppthreat 0.014248467
+    pptoxicity 0.026035614
+    ppsexuallyexplicit 0.09989638
+    ppprofanity 0.01489931
+    ppinflammatory 0.03583238
+    sentiment 0
     cluster 7
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.09989638
-    PERSPECTIVE_FLIRTATION 0.29430935
-    PERSPECTIVE_INSULT 0.01840515
-    PERSPECTIVE_TOXICITY 0.026035614
-    PERSPECTIVE_IDENTITY_ATTACK 0.01885367
-    PERSPECTIVE_INFLAMMATORY 0.03583238
-    PERSPECTIVE_THREAT 0.014248467
-    PERSPECTIVE_PROFANITY 0.01489931
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 227
+  node
+  [
+    id 241
     label "aXsFF9fasCs"
     step 0
     date "2018-03-24T04:53:34Z"
@@ -6371,21 +6148,20 @@ graph [
     commentcount 119
     duration "PT16M15S"
     indegree 20
+    ppinsult 0.08286923
+    ppflirtation 0.33009583
+    ppidentityattack 0.11319233
+    ppthreat 0.09553597
+    pptoxicity 0.01193956
+    ppsexuallyexplicit 0.071113385
+    ppprofanity 0.06274291
+    ppinflammatory 0.03785026
+    sentiment 0
     cluster 1
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.071113385
-    PERSPECTIVE_FLIRTATION 0.33009583
-    PERSPECTIVE_INSULT 0.08286923
-    PERSPECTIVE_TOXICITY 0.01193956
-    PERSPECTIVE_IDENTITY_ATTACK 0.11319233
-    PERSPECTIVE_INFLAMMATORY 0.03785026
-    PERSPECTIVE_THREAT 0.09553597
-    PERSPECTIVE_PROFANITY 0.06274291
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 228
+  node
+  [
+    id 242
     label "ii5Ol0HfTns"
     step 0
     date "2021-09-15T11:00:32Z"
@@ -6399,21 +6175,20 @@ graph [
     commentcount 18
     duration "PT14M43S"
     indegree 3
+    ppinsult 0.029889235
+    ppflirtation 0.24969268
+    ppidentityattack 0.05490725
+    ppthreat 0.15385015
+    pptoxicity 0.047495455
+    ppsexuallyexplicit 0.083531596
+    ppprofanity 0.09164846
+    ppinflammatory 0.16701809
+    sentiment 0
     cluster 4
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.083531596
-    PERSPECTIVE_FLIRTATION 0.24969268
-    PERSPECTIVE_INSULT 0.029889235
-    PERSPECTIVE_TOXICITY 0.047495455
-    PERSPECTIVE_IDENTITY_ATTACK 0.05490725
-    PERSPECTIVE_INFLAMMATORY 0.16701809
-    PERSPECTIVE_THREAT 0.15385015
-    PERSPECTIVE_PROFANITY 0.09164846
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 229
+  node
+  [
+    id 243
     label "yKhjk2g3rOs"
     step 0
     date "2022-06-29T01:52:07Z"
@@ -6427,21 +6202,20 @@ graph [
     commentcount 78
     duration "PT37M41S"
     indegree 7
+    ppinsult 0.038702868
+    ppflirtation 0.38909182
+    ppidentityattack 0.1085097
+    ppthreat 0.13108897
+    pptoxicity 0.042001735
+    ppsexuallyexplicit 0.10067311
+    ppprofanity 0.052331496
+    ppinflammatory 0.036746595
+    sentiment 0
     cluster 1
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.10067311
-    PERSPECTIVE_FLIRTATION 0.38909182
-    PERSPECTIVE_INSULT 0.038702868
-    PERSPECTIVE_TOXICITY 0.042001735
-    PERSPECTIVE_IDENTITY_ATTACK 0.1085097
-    PERSPECTIVE_INFLAMMATORY 0.036746595
-    PERSPECTIVE_THREAT 0.13108897
-    PERSPECTIVE_PROFANITY 0.052331496
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 230
+  node
+  [
+    id 244
     label "svXo2PSTK4U"
     step 0
     date "2021-07-25T00:49:47Z"
@@ -6455,21 +6229,20 @@ graph [
     commentcount 6
     duration "PT10S"
     indegree 0
+    ppinsult 0.05553291
+    ppflirtation 0.556976
+    ppidentityattack 0.06637846
+    ppthreat 0.23511823
+    pptoxicity 0.046465382
+    ppsexuallyexplicit 0.08174605
+    ppprofanity 0.061883047
+    ppinflammatory 0.14877875
+    sentiment 0
     cluster 3
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.08174605
-    PERSPECTIVE_FLIRTATION 0.556976
-    PERSPECTIVE_INSULT 0.05553291
-    PERSPECTIVE_TOXICITY 0.046465382
-    PERSPECTIVE_IDENTITY_ATTACK 0.06637846
-    PERSPECTIVE_INFLAMMATORY 0.14877875
-    PERSPECTIVE_THREAT 0.23511823
-    PERSPECTIVE_PROFANITY 0.061883047
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 231
+  node
+  [
+    id 247
     label "mwhQwjkVvZY"
     step 0
     date "2020-02-09T00:54:08Z"
@@ -6483,21 +6256,20 @@ graph [
     commentcount 30
     duration "PT42M3S"
     indegree 10
+    ppinsult 0.04437028
+    ppflirtation 0.31303814
+    ppidentityattack 0.07323407
+    ppthreat 0.3479776
+    pptoxicity 0.015132698
+    ppsexuallyexplicit 0.078228116
+    ppprofanity 0.07652734
+    ppinflammatory 0.007326888
+    sentiment 0
     cluster 8
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.078228116
-    PERSPECTIVE_FLIRTATION 0.31303814
-    PERSPECTIVE_INSULT 0.04437028
-    PERSPECTIVE_TOXICITY 0.015132698
-    PERSPECTIVE_IDENTITY_ATTACK 0.07323407
-    PERSPECTIVE_INFLAMMATORY 0.007326888
-    PERSPECTIVE_THREAT 0.3479776
-    PERSPECTIVE_PROFANITY 0.07652734
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 232
+  node
+  [
+    id 248
     label "5nM30FDSaY4"
     step 0
     date "2022-06-12T18:02:23Z"
@@ -6511,21 +6283,20 @@ graph [
     commentcount 14
     duration "PT29M27S"
     indegree 10
+    ppinsult 0.09245187
+    ppflirtation 0.5155267
+    ppidentityattack 0.066208936
+    ppthreat 0.14165875
+    pptoxicity 0.02792408
+    ppsexuallyexplicit 0.04575629
+    ppprofanity 0.03297505
+    ppinflammatory 0.0968439
+    sentiment 0
     cluster 2
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.04575629
-    PERSPECTIVE_FLIRTATION 0.5155267
-    PERSPECTIVE_INSULT 0.09245187
-    PERSPECTIVE_TOXICITY 0.02792408
-    PERSPECTIVE_IDENTITY_ATTACK 0.066208936
-    PERSPECTIVE_INFLAMMATORY 0.0968439
-    PERSPECTIVE_THREAT 0.14165875
-    PERSPECTIVE_PROFANITY 0.03297505
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 233
+  node
+  [
+    id 249
     label "vlofRrS7SOI"
     step 0
     date "2021-04-14T12:00:16Z"
@@ -6539,21 +6310,20 @@ graph [
     commentcount 29
     duration "PT15M36S"
     indegree 10
+    ppinsult 0.10251661
+    ppflirtation 0.23548608
+    ppidentityattack 0.10147457
+    ppthreat 0.14137745
+    pptoxicity 0.014577369
+    ppsexuallyexplicit 0.13998985
+    ppprofanity 0.10966982
+    ppinflammatory 0.049127236
+    sentiment 0
     cluster 4
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.13998985
-    PERSPECTIVE_FLIRTATION 0.23548608
-    PERSPECTIVE_INSULT 0.10251661
-    PERSPECTIVE_TOXICITY 0.014577369
-    PERSPECTIVE_IDENTITY_ATTACK 0.10147457
-    PERSPECTIVE_INFLAMMATORY 0.049127236
-    PERSPECTIVE_THREAT 0.14137745
-    PERSPECTIVE_PROFANITY 0.10966982
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 234
+  node
+  [
+    id 250
     label "7hrZ_iz6wc0"
     step 0
     date "2021-04-22T01:13:09Z"
@@ -6567,21 +6337,20 @@ graph [
     commentcount 51
     duration "PT23M32S"
     indegree 3
-    cluster 4
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.0967299
-    PERSPECTIVE_FLIRTATION 0.21932143
-    PERSPECTIVE_INSULT 0.1404648
-    PERSPECTIVE_TOXICITY 0.049898956
-    PERSPECTIVE_IDENTITY_ATTACK 0.1251954
-    PERSPECTIVE_INFLAMMATORY 0.054505203
-    PERSPECTIVE_THREAT 0.19843923
-    PERSPECTIVE_PROFANITY 0.1448609
-    leftright ""
-    channeltags ""
+    ppinsult 0.1404648
+    ppflirtation 0.21932143
+    ppidentityattack 0.1251954
+    ppthreat 0.19843923
+    pptoxicity 0.049898956
+    ppsexuallyexplicit 0.0967299
+    ppprofanity 0.1448609
+    ppinflammatory 0.054505203
+    sentiment 0
+    cluster 7
   ]
-  node [
-    id 235
+  node
+  [
+    id 251
     label "QDhjK3Gtgt4"
     step 0
     date "2021-12-19T04:04:30Z"
@@ -6595,21 +6364,20 @@ graph [
     commentcount 63
     duration "PT36M58S"
     indegree 13
+    ppinsult 0.05833065
+    ppflirtation 0.35304403
+    ppidentityattack 0.058540735
+    ppthreat 0.09982071
+    pptoxicity 0.0717155
+    ppsexuallyexplicit 0.053317394
+    ppprofanity 0.04669641
+    ppinflammatory 0.13568786
+    sentiment 0
     cluster 3
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.053317394
-    PERSPECTIVE_FLIRTATION 0.35304403
-    PERSPECTIVE_INSULT 0.05833065
-    PERSPECTIVE_TOXICITY 0.0717155
-    PERSPECTIVE_IDENTITY_ATTACK 0.058540735
-    PERSPECTIVE_INFLAMMATORY 0.13568786
-    PERSPECTIVE_THREAT 0.09982071
-    PERSPECTIVE_PROFANITY 0.04669641
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 236
+  node
+  [
+    id 252
     label "ZNBaXoK1NcQ"
     step 0
     date "2021-10-09T04:00:10Z"
@@ -6623,21 +6391,20 @@ graph [
     commentcount 54
     duration "PT30M45S"
     indegree 4
+    ppinsult 0.17637904
+    ppflirtation 0.22418824
+    ppidentityattack 0.12998854
+    ppthreat 0.07531345
+    pptoxicity 0.02193547
+    ppsexuallyexplicit 0.048047386
+    ppprofanity 0.08259801
+    ppinflammatory 0.15754247
+    sentiment 0
     cluster 7
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.048047386
-    PERSPECTIVE_FLIRTATION 0.22418824
-    PERSPECTIVE_INSULT 0.17637904
-    PERSPECTIVE_TOXICITY 0.02193547
-    PERSPECTIVE_IDENTITY_ATTACK 0.12998854
-    PERSPECTIVE_INFLAMMATORY 0.15754247
-    PERSPECTIVE_THREAT 0.07531345
-    PERSPECTIVE_PROFANITY 0.08259801
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 237
+  node
+  [
+    id 253
     label "nJhSs4K75o8"
     step 0
     date "2021-11-02T21:32:01Z"
@@ -6651,21 +6418,20 @@ graph [
     commentcount 4
     duration "PT25M4S"
     indegree 0
+    ppinsult 0.026559515
+    ppflirtation 0.295875
+    ppidentityattack 0.060653374
+    ppthreat 0.083946325
+    pptoxicity 0.024662184
+    ppsexuallyexplicit 0.07264448
+    ppprofanity 0.05313713
+    ppinflammatory 0.028065154
+    sentiment 0
     cluster 7
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.07264448
-    PERSPECTIVE_FLIRTATION 0.295875
-    PERSPECTIVE_INSULT 0.026559515
-    PERSPECTIVE_TOXICITY 0.024662184
-    PERSPECTIVE_IDENTITY_ATTACK 0.060653374
-    PERSPECTIVE_INFLAMMATORY 0.028065154
-    PERSPECTIVE_THREAT 0.083946325
-    PERSPECTIVE_PROFANITY 0.05313713
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 238
+  node
+  [
+    id 254
     label "AeYpVHWFzeA"
     step 0
     date "2021-07-29T21:15:01Z"
@@ -6679,21 +6445,20 @@ graph [
     commentcount 105
     duration "PT25M3S"
     indegree 19
+    ppinsult 0.08195341
+    ppflirtation 0.50331914
+    ppidentityattack 0.070487164
+    ppthreat 0.13337496
+    pptoxicity 0.043031808
+    ppsexuallyexplicit 0.09268123
+    ppprofanity 0.06225909
+    ppinflammatory 0.067774944
+    sentiment 0
     cluster 2
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.09268123
-    PERSPECTIVE_FLIRTATION 0.50331914
-    PERSPECTIVE_INSULT 0.08195341
-    PERSPECTIVE_TOXICITY 0.043031808
-    PERSPECTIVE_IDENTITY_ATTACK 0.070487164
-    PERSPECTIVE_INFLAMMATORY 0.067774944
-    PERSPECTIVE_THREAT 0.13337496
-    PERSPECTIVE_PROFANITY 0.06225909
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 239
+  node
+  [
+    id 255
     label "sOXtvZJih7s"
     step 0
     date "2021-04-26T06:22:31Z"
@@ -6707,21 +6472,20 @@ graph [
     commentcount 0
     duration "PT15M52S"
     indegree 0
+    ppinsult 0.052078776
+    ppflirtation 0.24432378
+    ppidentityattack 0.075583324
+    ppthreat 0.115361564
+    pptoxicity 0.018325835
+    ppsexuallyexplicit 0.079395235
+    ppprofanity 0.07293632
+    ppinflammatory 0.044360265
+    sentiment 0
     cluster 4
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.079395235
-    PERSPECTIVE_FLIRTATION 0.24432378
-    PERSPECTIVE_INSULT 0.052078776
-    PERSPECTIVE_TOXICITY 0.018325835
-    PERSPECTIVE_IDENTITY_ATTACK 0.075583324
-    PERSPECTIVE_INFLAMMATORY 0.044360265
-    PERSPECTIVE_THREAT 0.115361564
-    PERSPECTIVE_PROFANITY 0.07293632
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 240
+  node
+  [
+    id 256
     label "vYnAB7G22Xs"
     step 0
     date "2020-12-30T15:51:13Z"
@@ -6735,21 +6499,20 @@ graph [
     commentcount 152
     duration "PT25M49S"
     indegree 11
+    ppinsult 0.09620521
+    ppflirtation 0.20730382
+    ppidentityattack 0.12631945
+    ppthreat 0.11522579
+    pptoxicity 0.13476147
+    ppsexuallyexplicit 0.047223203
+    ppprofanity 0.08096914
+    ppinflammatory 0.04009202
+    sentiment 0
     cluster 3
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.047223203
-    PERSPECTIVE_FLIRTATION 0.20730382
-    PERSPECTIVE_INSULT 0.09620521
-    PERSPECTIVE_TOXICITY 0.13476147
-    PERSPECTIVE_IDENTITY_ATTACK 0.12631945
-    PERSPECTIVE_INFLAMMATORY 0.04009202
-    PERSPECTIVE_THREAT 0.11522579
-    PERSPECTIVE_PROFANITY 0.08096914
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 241
+  node
+  [
+    id 257
     label "Jpt5ZBudkc4"
     step 0
     date "2022-02-21T06:39:36Z"
@@ -6763,21 +6526,20 @@ graph [
     commentcount 60
     duration "PT1H1M53S"
     indegree 2
+    ppinsult 0.10426394
+    ppflirtation 0.4681625
+    ppidentityattack 0.13337372
+    ppthreat 0.20823416
+    pptoxicity 0.038053125
+    ppsexuallyexplicit 0.084500305
+    ppprofanity 0.06918729
+    ppinflammatory 0.09097713
+    sentiment 0
     cluster 2
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.084500305
-    PERSPECTIVE_FLIRTATION 0.4681625
-    PERSPECTIVE_INSULT 0.10426394
-    PERSPECTIVE_TOXICITY 0.038053125
-    PERSPECTIVE_IDENTITY_ATTACK 0.13337372
-    PERSPECTIVE_INFLAMMATORY 0.09097713
-    PERSPECTIVE_THREAT 0.20823416
-    PERSPECTIVE_PROFANITY 0.06918729
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 242
+  node
+  [
+    id 258
     label "MFJRy8IE1Ls"
     step 0
     date "2021-11-16T22:52:05Z"
@@ -6791,21 +6553,20 @@ graph [
     commentcount 49
     duration "PT17M53S"
     indegree 1
+    ppinsult 0.24544702
+    ppflirtation 0.4609124
+    ppidentityattack 0.58523935
+    ppthreat 0.50226146
+    pptoxicity 0.05133759
+    ppsexuallyexplicit 0.28068545
+    ppprofanity 0.30972323
+    ppinflammatory 0.04951648
+    sentiment 0
     cluster 2
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.28068545
-    PERSPECTIVE_FLIRTATION 0.4609124
-    PERSPECTIVE_INSULT 0.24544702
-    PERSPECTIVE_TOXICITY 0.05133759
-    PERSPECTIVE_IDENTITY_ATTACK 0.58523935
-    PERSPECTIVE_INFLAMMATORY 0.04951648
-    PERSPECTIVE_THREAT 0.50226146
-    PERSPECTIVE_PROFANITY 0.30972323
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 243
+  node
+  [
+    id 259
     label "3CSbOtrnAww"
     step 0
     date "2022-05-26T11:40:29Z"
@@ -6819,21 +6580,20 @@ graph [
     commentcount 2
     duration "PT1H31M53S"
     indegree 5
-    cluster 2
+    ppinsult 0.059561353
+    ppflirtation 0.33537608
+    ppidentityattack 0.05890792
+    ppthreat 0.094531976
+    pptoxicity 0.03427619
+    ppsexuallyexplicit 0.048917823
+    ppprofanity 0.043972783
+    ppinflammatory 0.0666346
     sentiment 0.5859
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.048917823
-    PERSPECTIVE_FLIRTATION 0.33537608
-    PERSPECTIVE_INSULT 0.059561353
-    PERSPECTIVE_TOXICITY 0.03427619
-    PERSPECTIVE_IDENTITY_ATTACK 0.05890792
-    PERSPECTIVE_INFLAMMATORY 0.0666346
-    PERSPECTIVE_THREAT 0.094531976
-    PERSPECTIVE_PROFANITY 0.043972783
-    leftright ""
-    channeltags ""
+    cluster 2
   ]
-  node [
-    id 244
+  node
+  [
+    id 260
     label "P4JK4HffpKU"
     step 0
     date "2021-07-03T03:59:36Z"
@@ -6847,21 +6607,20 @@ graph [
     commentcount 32
     duration "PT13M28S"
     indegree 0
-    cluster 7
+    ppinsult 0.020229246
+    ppflirtation 0.4039188
+    ppidentityattack 0.011391335
+    ppthreat 0.038518004
+    pptoxicity 0.030155903
+    ppsexuallyexplicit 0.10445979
+    ppprofanity 0.023174997
+    ppinflammatory 0.010418421
     sentiment 0.25
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.10445979
-    PERSPECTIVE_FLIRTATION 0.4039188
-    PERSPECTIVE_INSULT 0.020229246
-    PERSPECTIVE_TOXICITY 0.030155903
-    PERSPECTIVE_IDENTITY_ATTACK 0.011391335
-    PERSPECTIVE_INFLAMMATORY 0.010418421
-    PERSPECTIVE_THREAT 0.038518004
-    PERSPECTIVE_PROFANITY 0.023174997
-    leftright ""
-    channeltags ""
+    cluster 7
   ]
-  node [
-    id 245
+  node
+  [
+    id 261
     label "IIki8k0kJTw"
     step 0
     date "2020-11-20T12:36:38Z"
@@ -6875,21 +6634,20 @@ graph [
     commentcount 107
     duration "PT46M35S"
     indegree 20
+    ppinsult 0.075961344
+    ppflirtation 0.324058
+    ppidentityattack 0.10705089
+    ppthreat 0.19649784
+    pptoxicity 0.12631269
+    ppsexuallyexplicit 0.083010145
+    ppprofanity 0.083955415
+    ppinflammatory 0.04009202
+    sentiment 0
     cluster 3
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.083010145
-    PERSPECTIVE_FLIRTATION 0.324058
-    PERSPECTIVE_INSULT 0.075961344
-    PERSPECTIVE_TOXICITY 0.12631269
-    PERSPECTIVE_IDENTITY_ATTACK 0.10705089
-    PERSPECTIVE_INFLAMMATORY 0.04009202
-    PERSPECTIVE_THREAT 0.19649784
-    PERSPECTIVE_PROFANITY 0.083955415
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 246
+  node
+  [
+    id 262
     label "zlcbMTOiMaw"
     step 0
     date "2022-06-28T00:19:07Z"
@@ -6903,21 +6661,20 @@ graph [
     commentcount 31
     duration "PT28M24S"
     indegree 6
+    ppinsult 0.05619742
+    ppflirtation 0.2184207
+    ppidentityattack 0.0676912
+    ppthreat 0.101312205
+    pptoxicity 0.045778666
+    ppsexuallyexplicit 0.07381624
+    ppprofanity 0.07464638
+    ppinflammatory 0.06057122
+    sentiment 0
     cluster 1
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.07381624
-    PERSPECTIVE_FLIRTATION 0.2184207
-    PERSPECTIVE_INSULT 0.05619742
-    PERSPECTIVE_TOXICITY 0.045778666
-    PERSPECTIVE_IDENTITY_ATTACK 0.0676912
-    PERSPECTIVE_INFLAMMATORY 0.06057122
-    PERSPECTIVE_THREAT 0.101312205
-    PERSPECTIVE_PROFANITY 0.07464638
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 247
+  node
+  [
+    id 263
     label "-ydnhwn5Cns"
     step 0
     date "2022-03-09T12:15:02Z"
@@ -6931,21 +6688,20 @@ graph [
     commentcount 76
     duration "PT13M50S"
     indegree 0
+    ppinsult 0.40424916
+    ppflirtation 0.45714346
+    ppidentityattack 0.7334614
+    ppthreat 0.6122957
+    pptoxicity 0.006212736
+    ppsexuallyexplicit 0.17771809
+    ppprofanity 0.3393921
+    ppinflammatory 0.03197334
+    sentiment 0
     cluster 1
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.17771809
-    PERSPECTIVE_FLIRTATION 0.45714346
-    PERSPECTIVE_INSULT 0.40424916
-    PERSPECTIVE_TOXICITY 0.006212736
-    PERSPECTIVE_IDENTITY_ATTACK 0.7334614
-    PERSPECTIVE_INFLAMMATORY 0.03197334
-    PERSPECTIVE_THREAT 0.6122957
-    PERSPECTIVE_PROFANITY 0.3393921
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 248
+  node
+  [
+    id 264
     label "G6jLhhrqA0E"
     step 0
     date "2020-12-28T01:37:46Z"
@@ -6959,21 +6715,20 @@ graph [
     commentcount 50
     duration "PT34M53S"
     indegree 29
+    ppinsult 0.1817168
+    ppflirtation 0.2421464
+    ppidentityattack 0.1922817
+    ppthreat 0.1796013
+    pptoxicity 0.07850813
+    ppsexuallyexplicit 0.09669286
+    ppprofanity 0.14606433
+    ppinflammatory 0.019895907
+    sentiment 0
     cluster 3
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.09669286
-    PERSPECTIVE_FLIRTATION 0.2421464
-    PERSPECTIVE_INSULT 0.1817168
-    PERSPECTIVE_TOXICITY 0.07850813
-    PERSPECTIVE_IDENTITY_ATTACK 0.1922817
-    PERSPECTIVE_INFLAMMATORY 0.019895907
-    PERSPECTIVE_THREAT 0.1796013
-    PERSPECTIVE_PROFANITY 0.14606433
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 249
+  node
+  [
+    id 265
     label "M9DTHtDsqAg"
     step 0
     date "2020-10-30T18:50:55Z"
@@ -6987,21 +6742,20 @@ graph [
     commentcount 88
     duration "PT13M56S"
     indegree 17
+    ppinsult 0.16474201
+    ppflirtation 0.4345202
+    ppidentityattack 0.13833697
+    ppthreat 0.20094618
+    pptoxicity 0.089041
+    ppsexuallyexplicit 0.15060979
+    ppprofanity 0.14919291
+    ppinflammatory 0.025302684
+    sentiment 0
     cluster 2
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.15060979
-    PERSPECTIVE_FLIRTATION 0.4345202
-    PERSPECTIVE_INSULT 0.16474201
-    PERSPECTIVE_TOXICITY 0.089041
-    PERSPECTIVE_IDENTITY_ATTACK 0.13833697
-    PERSPECTIVE_INFLAMMATORY 0.025302684
-    PERSPECTIVE_THREAT 0.20094618
-    PERSPECTIVE_PROFANITY 0.14919291
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 250
+  node
+  [
+    id 266
     label "o5UXEs7c4ho"
     step 0
     date "2022-01-26T22:43:09Z"
@@ -7015,21 +6769,20 @@ graph [
     commentcount 40
     duration "PT21M8S"
     indegree 0
-    cluster 7
+    ppinsult 0.19716504
+    ppflirtation 0.8684487
+    ppidentityattack 0.11690021
+    ppthreat 0.18466611
+    pptoxicity 0.0022907294
+    ppsexuallyexplicit 0.2290655
+    ppprofanity 0.17965111
+    ppinflammatory 0.05314599
     sentiment 0.8271
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.2290655
-    PERSPECTIVE_FLIRTATION 0.8684487
-    PERSPECTIVE_INSULT 0.19716504
-    PERSPECTIVE_TOXICITY 0.0022907294
-    PERSPECTIVE_IDENTITY_ATTACK 0.11690021
-    PERSPECTIVE_INFLAMMATORY 0.05314599
-    PERSPECTIVE_THREAT 0.18466611
-    PERSPECTIVE_PROFANITY 0.17965111
-    leftright ""
-    channeltags ""
+    cluster 5
   ]
-  node [
-    id 251
+  node
+  [
+    id 268
     label "jlvn7HvYCn0"
     step 0
     date "2022-01-02T00:55:57Z"
@@ -7043,21 +6796,20 @@ graph [
     commentcount 48
     duration "PT21M26S"
     indegree 0
+    ppinsult 0.0809205
+    ppflirtation 0.23176143
+    ppidentityattack 0.07752608
+    ppthreat 0.23130177
+    pptoxicity 0.052136723
+    ppsexuallyexplicit 0.06212718
+    ppprofanity 0.095371775
+    ppinflammatory 0.013508542
+    sentiment 0
     cluster 3
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.06212718
-    PERSPECTIVE_FLIRTATION 0.23176143
-    PERSPECTIVE_INSULT 0.0809205
-    PERSPECTIVE_TOXICITY 0.052136723
-    PERSPECTIVE_IDENTITY_ATTACK 0.07752608
-    PERSPECTIVE_INFLAMMATORY 0.013508542
-    PERSPECTIVE_THREAT 0.23130177
-    PERSPECTIVE_PROFANITY 0.095371775
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 252
+  node
+  [
+    id 269
     label "5Wog4F4Janw"
     step 0
     date "2021-02-11T00:56:25Z"
@@ -7071,21 +6823,20 @@ graph [
     commentcount 103
     duration "PT16M44S"
     indegree 10
+    ppinsult 0.04487356
+    ppflirtation 0.29565248
+    ppidentityattack 0.06552649
+    ppthreat 0.09583591
+    pptoxicity 0.024147147
+    ppsexuallyexplicit 0.042576194
+    ppprofanity 0.032933407
+    ppinflammatory 0.13792191
+    sentiment 0
     cluster 2
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.042576194
-    PERSPECTIVE_FLIRTATION 0.29565248
-    PERSPECTIVE_INSULT 0.04487356
-    PERSPECTIVE_TOXICITY 0.024147147
-    PERSPECTIVE_IDENTITY_ATTACK 0.06552649
-    PERSPECTIVE_INFLAMMATORY 0.13792191
-    PERSPECTIVE_THREAT 0.09583591
-    PERSPECTIVE_PROFANITY 0.032933407
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 253
+  node
+  [
+    id 270
     label "j-6ktntDuBM"
     step 0
     date "2021-01-20T06:14:03Z"
@@ -7099,21 +6850,20 @@ graph [
     commentcount 129
     duration "PT34M20S"
     indegree 17
+    ppinsult 0.33204785
+    ppflirtation 0.5137079
+    ppidentityattack 0.6046512
+    ppthreat 0.5189639
+    pptoxicity 0.08796701
+    ppsexuallyexplicit 0.21457382
+    ppprofanity 0.34986016
+    ppinflammatory 0.006435073
+    sentiment 0
     cluster 6
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.21457382
-    PERSPECTIVE_FLIRTATION 0.5137079
-    PERSPECTIVE_INSULT 0.33204785
-    PERSPECTIVE_TOXICITY 0.08796701
-    PERSPECTIVE_IDENTITY_ATTACK 0.6046512
-    PERSPECTIVE_INFLAMMATORY 0.006435073
-    PERSPECTIVE_THREAT 0.5189639
-    PERSPECTIVE_PROFANITY 0.34986016
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 254
+  node
+  [
+    id 271
     label "MUbWTMLEJxM"
     step 0
     date "2021-03-25T10:42:11Z"
@@ -7127,21 +6877,20 @@ graph [
     commentcount 45
     duration "PT29M29S"
     indegree 6
+    ppinsult 0.02773174
+    ppflirtation 0.36480826
+    ppidentityattack 0.025586836
+    ppthreat 0.065168485
+    pptoxicity 0.11536485
+    ppsexuallyexplicit 0.03635885
+    ppprofanity 0.028951487
+    ppinflammatory 0.13098387
+    sentiment 0
     cluster 2
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.03635885
-    PERSPECTIVE_FLIRTATION 0.36480826
-    PERSPECTIVE_INSULT 0.02773174
-    PERSPECTIVE_TOXICITY 0.11536485
-    PERSPECTIVE_IDENTITY_ATTACK 0.025586836
-    PERSPECTIVE_INFLAMMATORY 0.13098387
-    PERSPECTIVE_THREAT 0.065168485
-    PERSPECTIVE_PROFANITY 0.028951487
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 255
+  node
+  [
+    id 272
     label "_wXEkzUgGK8"
     step 0
     date "2021-11-09T16:51:19Z"
@@ -7155,21 +6904,20 @@ graph [
     commentcount 56
     duration "PT13M44S"
     indegree 2
+    ppinsult 0.20283173
+    ppflirtation 0.39232594
+    ppidentityattack 0.6134934
+    ppthreat 0.39568335
+    pptoxicity 0.1609341
+    ppsexuallyexplicit 0.12965612
+    ppprofanity 0.22143568
+    ppinflammatory 0.030862048
+    sentiment 0
     cluster 7
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.12965612
-    PERSPECTIVE_FLIRTATION 0.39232594
-    PERSPECTIVE_INSULT 0.20283173
-    PERSPECTIVE_TOXICITY 0.1609341
-    PERSPECTIVE_IDENTITY_ATTACK 0.6134934
-    PERSPECTIVE_INFLAMMATORY 0.030862048
-    PERSPECTIVE_THREAT 0.39568335
-    PERSPECTIVE_PROFANITY 0.22143568
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 256
+  node
+  [
+    id 273
     label "8ZZ3homLd0M"
     step 0
     date "2018-09-24T18:24:12Z"
@@ -7183,21 +6931,20 @@ graph [
     commentcount 3
     duration "PT2M15S"
     indegree 1
-    cluster 1
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.07988238
-    PERSPECTIVE_FLIRTATION 0.19684435
-    PERSPECTIVE_INSULT 0.10414169
-    PERSPECTIVE_TOXICITY 0.02517722
-    PERSPECTIVE_IDENTITY_ATTACK 0.16448611
-    PERSPECTIVE_INFLAMMATORY 0.0068563996
-    PERSPECTIVE_THREAT 0.09624658
-    PERSPECTIVE_PROFANITY 0.09068435
-    leftright ""
-    channeltags ""
+    ppinsult 0.10414169
+    ppflirtation 0.19684435
+    ppidentityattack 0.16448611
+    ppthreat 0.09624658
+    pptoxicity 0.02517722
+    ppsexuallyexplicit 0.07988238
+    ppprofanity 0.09068435
+    ppinflammatory 0.0068563996
+    sentiment 0
+    cluster 2
   ]
-  node [
-    id 257
+  node
+  [
+    id 274
     label "Uliim2GM8mg"
     step 0
     date "2022-03-24T03:52:13Z"
@@ -7211,21 +6958,20 @@ graph [
     commentcount 80
     duration "PT18M6S"
     indegree 0
-    cluster 5
+    ppinsult 0.06925617
+    ppflirtation 0.84743816
+    ppidentityattack 0.09533488
+    ppthreat 0.17560992
+    pptoxicity 0.11085691
+    ppsexuallyexplicit 0.2158445
+    ppprofanity 0.15340921
+    ppinflammatory 0.030834606
     sentiment 0.5994
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.2158445
-    PERSPECTIVE_FLIRTATION 0.84743816
-    PERSPECTIVE_INSULT 0.06925617
-    PERSPECTIVE_TOXICITY 0.11085691
-    PERSPECTIVE_IDENTITY_ATTACK 0.09533488
-    PERSPECTIVE_INFLAMMATORY 0.030834606
-    PERSPECTIVE_THREAT 0.17560992
-    PERSPECTIVE_PROFANITY 0.15340921
-    leftright ""
-    channeltags ""
+    cluster 5
   ]
-  node [
-    id 258
+  node
+  [
+    id 275
     label "-5fjenKN_Ig"
     step 0
     date "2020-10-28T04:24:18Z"
@@ -7239,21 +6985,20 @@ graph [
     commentcount 49
     duration "PT24M30S"
     indegree 17
+    ppinsult 0.29282984
+    ppflirtation 0.4702096
+    ppidentityattack 0.58523935
+    ppthreat 0.482458
+    pptoxicity 0.03461955
+    ppsexuallyexplicit 0.31214058
+    ppprofanity 0.3160142
+    ppinflammatory 0.001898965
+    sentiment 0
     cluster 6
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.31214058
-    PERSPECTIVE_FLIRTATION 0.4702096
-    PERSPECTIVE_INSULT 0.29282984
-    PERSPECTIVE_TOXICITY 0.03461955
-    PERSPECTIVE_IDENTITY_ATTACK 0.58523935
-    PERSPECTIVE_INFLAMMATORY 0.001898965
-    PERSPECTIVE_THREAT 0.482458
-    PERSPECTIVE_PROFANITY 0.3160142
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 259
+  node
+  [
+    id 276
     label "eScc6ZzHTuc"
     step 0
     date "2021-08-02T20:17:01Z"
@@ -7267,21 +7012,20 @@ graph [
     commentcount 28
     duration "PT15M34S"
     indegree 0
+    ppinsult 0.060048692
+    ppflirtation 0.42411897
+    ppidentityattack 0.06867898
+    ppthreat 0.104719706
+    pptoxicity 0.035477944
+    ppsexuallyexplicit 0.037136707
+    ppprofanity 0.042745404
+    ppinflammatory 0.074216194
+    sentiment 0
     cluster 3
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.037136707
-    PERSPECTIVE_FLIRTATION 0.42411897
-    PERSPECTIVE_INSULT 0.060048692
-    PERSPECTIVE_TOXICITY 0.035477944
-    PERSPECTIVE_IDENTITY_ATTACK 0.06867898
-    PERSPECTIVE_INFLAMMATORY 0.074216194
-    PERSPECTIVE_THREAT 0.104719706
-    PERSPECTIVE_PROFANITY 0.042745404
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 260
+  node
+  [
+    id 277
     label "QIyKgVEvizo"
     step 0
     date "2021-06-04T18:56:32Z"
@@ -7295,21 +7039,20 @@ graph [
     commentcount 23
     duration "PT28M25S"
     indegree 3
+    ppinsult 0.048343293
+    ppflirtation 0.3409351
+    ppidentityattack 0.06606951
+    ppthreat 0.10546537
+    pptoxicity 0.040284947
+    ppsexuallyexplicit 0.109792545
+    ppprofanity 0.07952072
+    ppinflammatory 0.057375524
+    sentiment 0
     cluster 3
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.109792545
-    PERSPECTIVE_FLIRTATION 0.3409351
-    PERSPECTIVE_INSULT 0.048343293
-    PERSPECTIVE_TOXICITY 0.040284947
-    PERSPECTIVE_IDENTITY_ATTACK 0.06606951
-    PERSPECTIVE_INFLAMMATORY 0.057375524
-    PERSPECTIVE_THREAT 0.10546537
-    PERSPECTIVE_PROFANITY 0.07952072
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 261
+  node
+  [
+    id 278
     label "HSltP-Mw-O4"
     step 0
     date "2021-07-29T01:43:25Z"
@@ -7323,21 +7066,20 @@ graph [
     commentcount 66
     duration "PT20M11S"
     indegree 1
-    cluster 1
+    ppinsult 0.03145983
+    ppflirtation 0.7784964
+    ppidentityattack 0.036077157
+    ppthreat 0.07356371
+    pptoxicity 0.08555053
+    ppsexuallyexplicit 0.1320491
+    ppprofanity 0.06795335
+    ppinflammatory 0.058774073
     sentiment 0.5994
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.1320491
-    PERSPECTIVE_FLIRTATION 0.7784964
-    PERSPECTIVE_INSULT 0.03145983
-    PERSPECTIVE_TOXICITY 0.08555053
-    PERSPECTIVE_IDENTITY_ATTACK 0.036077157
-    PERSPECTIVE_INFLAMMATORY 0.058774073
-    PERSPECTIVE_THREAT 0.07356371
-    PERSPECTIVE_PROFANITY 0.06795335
-    leftright ""
-    channeltags ""
+    cluster 5
   ]
-  node [
-    id 262
+  node
+  [
+    id 280
     label "g0heDIo4yLE"
     step 0
     date "2021-10-29T02:51:33Z"
@@ -7351,21 +7093,20 @@ graph [
     commentcount 50
     duration "PT29M31S"
     indegree 11
+    ppinsult 0.09172736
+    ppflirtation 0.21539804
+    ppidentityattack 0.15949139
+    ppthreat 0.22064017
+    pptoxicity 0.119872786
+    ppsexuallyexplicit 0.058038134
+    ppprofanity 0.10095562
+    ppinflammatory 0.1981286
+    sentiment 0
     cluster 3
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.058038134
-    PERSPECTIVE_FLIRTATION 0.21539804
-    PERSPECTIVE_INSULT 0.09172736
-    PERSPECTIVE_TOXICITY 0.119872786
-    PERSPECTIVE_IDENTITY_ATTACK 0.15949139
-    PERSPECTIVE_INFLAMMATORY 0.1981286
-    PERSPECTIVE_THREAT 0.22064017
-    PERSPECTIVE_PROFANITY 0.10095562
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 263
+  node
+  [
+    id 281
     label "Ge5giMlXKrc"
     step 0
     date "2021-08-11T10:54:42Z"
@@ -7379,21 +7120,20 @@ graph [
     commentcount 11
     duration "PT7M43S"
     indegree 1
+    ppinsult 0.06082638
+    ppflirtation 0.20302907
+    ppidentityattack 0.07749981
+    ppthreat 0.106808275
+    pptoxicity 0.032387726
+    ppsexuallyexplicit 0.07821163
+    ppprofanity 0.07189281
+    ppinflammatory 0.04178568
+    sentiment 0
     cluster 4
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.07821163
-    PERSPECTIVE_FLIRTATION 0.20302907
-    PERSPECTIVE_INSULT 0.06082638
-    PERSPECTIVE_TOXICITY 0.032387726
-    PERSPECTIVE_IDENTITY_ATTACK 0.07749981
-    PERSPECTIVE_INFLAMMATORY 0.04178568
-    PERSPECTIVE_THREAT 0.106808275
-    PERSPECTIVE_PROFANITY 0.07189281
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 264
+  node
+  [
+    id 282
     label "qiTKmwK1D88"
     step 0
     date "2021-09-01T19:06:18Z"
@@ -7407,21 +7147,20 @@ graph [
     commentcount 89
     duration "PT38M3S"
     indegree 8
-    cluster 6
+    ppinsult 0.14239845
+    ppflirtation 0.40835613
+    ppidentityattack 0.37611258
+    ppthreat 0.24812141
+    pptoxicity 0.040284947
+    ppsexuallyexplicit 0.18901694
+    ppprofanity 0.1727191
+    ppinflammatory 0.07320894
     sentiment -0.4404
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.18901694
-    PERSPECTIVE_FLIRTATION 0.40835613
-    PERSPECTIVE_INSULT 0.14239845
-    PERSPECTIVE_TOXICITY 0.040284947
-    PERSPECTIVE_IDENTITY_ATTACK 0.37611258
-    PERSPECTIVE_INFLAMMATORY 0.07320894
-    PERSPECTIVE_THREAT 0.24812141
-    PERSPECTIVE_PROFANITY 0.1727191
-    leftright ""
-    channeltags ""
+    cluster 6
   ]
-  node [
-    id 265
+  node
+  [
+    id 283
     label "ny4ke2YlViY"
     step 0
     date "2021-10-12T04:00:11Z"
@@ -7435,21 +7174,20 @@ graph [
     commentcount 42
     duration "PT15M49S"
     indegree 7
+    ppinsult 0.0731697
+    ppflirtation 0.27554077
+    ppidentityattack 0.08148494
+    ppthreat 0.10538614
+    pptoxicity 0.046465382
+    ppsexuallyexplicit 0.071640484
+    ppprofanity 0.082397826
+    ppinflammatory 0.15095846
+    sentiment 0
     cluster 7
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.071640484
-    PERSPECTIVE_FLIRTATION 0.27554077
-    PERSPECTIVE_INSULT 0.0731697
-    PERSPECTIVE_TOXICITY 0.046465382
-    PERSPECTIVE_IDENTITY_ATTACK 0.08148494
-    PERSPECTIVE_INFLAMMATORY 0.15095846
-    PERSPECTIVE_THREAT 0.10538614
-    PERSPECTIVE_PROFANITY 0.082397826
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 266
+  node
+  [
+    id 284
     label "NBL1dDrdTWA"
     step 0
     date "2020-10-29T05:17:27Z"
@@ -7463,21 +7201,20 @@ graph [
     commentcount 29
     duration "PT21M38S"
     indegree 9
+    ppinsult 0.24816535
+    ppflirtation 0.4750324
+    ppidentityattack 0.5769368
+    ppthreat 0.48556066
+    pptoxicity 0.05253629
+    ppsexuallyexplicit 0.25894982
+    ppprofanity 0.28417417
+    ppinflammatory 0.00384251
+    sentiment 0
     cluster 6
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.25894982
-    PERSPECTIVE_FLIRTATION 0.4750324
-    PERSPECTIVE_INSULT 0.24816535
-    PERSPECTIVE_TOXICITY 0.05253629
-    PERSPECTIVE_IDENTITY_ATTACK 0.5769368
-    PERSPECTIVE_INFLAMMATORY 0.00384251
-    PERSPECTIVE_THREAT 0.48556066
-    PERSPECTIVE_PROFANITY 0.28417417
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 267
+  node
+  [
+    id 285
     label "sl7cIPR0eKY"
     step 0
     date "2021-04-17T20:07:43Z"
@@ -7491,21 +7228,20 @@ graph [
     commentcount 3
     duration "PT58S"
     indegree 0
+    ppinsult 0.055376664
+    ppflirtation 0.35602507
+    ppidentityattack 0.15032615
+    ppthreat 0.53213274
+    pptoxicity 0.03049926
+    ppsexuallyexplicit 0.061024148
+    ppprofanity 0.06472773
+    ppinflammatory 0.024252528
+    sentiment 0
     cluster 1
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.061024148
-    PERSPECTIVE_FLIRTATION 0.35602507
-    PERSPECTIVE_INSULT 0.055376664
-    PERSPECTIVE_TOXICITY 0.03049926
-    PERSPECTIVE_IDENTITY_ATTACK 0.15032615
-    PERSPECTIVE_INFLAMMATORY 0.024252528
-    PERSPECTIVE_THREAT 0.53213274
-    PERSPECTIVE_PROFANITY 0.06472773
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 268
+  node
+  [
+    id 286
     label "z09XpAxS0t0"
     step 0
     date "2021-02-26T00:53:03Z"
@@ -7519,21 +7255,20 @@ graph [
     commentcount 57
     duration "PT25M29S"
     indegree 7
-    cluster 3
+    ppinsult 0.024673272
+    ppflirtation 0.41260293
+    ppidentityattack 0.032935414
+    ppthreat 0.10770765
+    pptoxicity 0.036679696
+    ppsexuallyexplicit 0.019796576
+    ppprofanity 0.013880313
+    ppinflammatory 0.016161224
     sentiment 0.765
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.019796576
-    PERSPECTIVE_FLIRTATION 0.41260293
-    PERSPECTIVE_INSULT 0.024673272
-    PERSPECTIVE_TOXICITY 0.036679696
-    PERSPECTIVE_IDENTITY_ATTACK 0.032935414
-    PERSPECTIVE_INFLAMMATORY 0.016161224
-    PERSPECTIVE_THREAT 0.10770765
-    PERSPECTIVE_PROFANITY 0.013880313
-    leftright ""
-    channeltags ""
+    cluster 3
   ]
-  node [
-    id 269
+  node
+  [
+    id 287
     label "heB3Os9Na1w"
     step 0
     date "2021-10-17T14:07:56Z"
@@ -7547,21 +7282,20 @@ graph [
     commentcount 89
     duration "PT33M55S"
     indegree 5
-    cluster 6
+    ppinsult 0.27699536
+    ppflirtation 0.5027001
+    ppidentityattack 0.6042614
+    ppthreat 0.442569
+    pptoxicity 0.08581903
+    ppsexuallyexplicit 0.26806417
+    ppprofanity 0.31455883
+    ppinflammatory 0.09513736
     sentiment 0.6597
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.26806417
-    PERSPECTIVE_FLIRTATION 0.5027001
-    PERSPECTIVE_INSULT 0.27699536
-    PERSPECTIVE_TOXICITY 0.08581903
-    PERSPECTIVE_IDENTITY_ATTACK 0.6042614
-    PERSPECTIVE_INFLAMMATORY 0.09513736
-    PERSPECTIVE_THREAT 0.442569
-    PERSPECTIVE_PROFANITY 0.31455883
-    leftright ""
-    channeltags ""
+    cluster 6
   ]
-  node [
-    id 270
+  node
+  [
+    id 288
     label "ZjIwPrstqeY"
     step 0
     date "2021-11-03T01:50:38Z"
@@ -7575,21 +7309,20 @@ graph [
     commentcount 69
     duration "PT33M40S"
     indegree 2
+    ppinsult 0.21781878
+    ppflirtation 0.3968646
+    ppidentityattack 0.6350989
+    ppthreat 0.4159628
+    pptoxicity 0.12180476
+    ppsexuallyexplicit 0.14249098
+    ppprofanity 0.23975652
+    ppinflammatory 0.015815007
+    sentiment 0
     cluster 7
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.14249098
-    PERSPECTIVE_FLIRTATION 0.3968646
-    PERSPECTIVE_INSULT 0.21781878
-    PERSPECTIVE_TOXICITY 0.12180476
-    PERSPECTIVE_IDENTITY_ATTACK 0.6350989
-    PERSPECTIVE_INFLAMMATORY 0.015815007
-    PERSPECTIVE_THREAT 0.4159628
-    PERSPECTIVE_PROFANITY 0.23975652
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 271
+  node
+  [
+    id 290
     label "PDFoe2N6rF4"
     step 0
     date "2017-06-07T15:23:30Z"
@@ -7603,21 +7336,20 @@ graph [
     commentcount 4
     duration "PT14M54S"
     indegree 1
-    cluster 5
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.06966932
-    PERSPECTIVE_FLIRTATION 0.21298775
-    PERSPECTIVE_INSULT 0.050326355
-    PERSPECTIVE_TOXICITY 0.027752401
-    PERSPECTIVE_IDENTITY_ATTACK 0.0686111
-    PERSPECTIVE_INFLAMMATORY 0.077861525
-    PERSPECTIVE_THREAT 0.102020815
-    PERSPECTIVE_PROFANITY 0.06784596
-    leftright ""
-    channeltags ""
+    ppinsult 0.050326355
+    ppflirtation 0.21298775
+    ppidentityattack 0.0686111
+    ppthreat 0.102020815
+    pptoxicity 0.027752401
+    ppsexuallyexplicit 0.06966932
+    ppprofanity 0.06784596
+    ppinflammatory 0.077861525
+    sentiment 0
+    cluster 2
   ]
-  node [
-    id 272
+  node
+  [
+    id 292
     label "pMGRzP1ntJg"
     step 0
     date "2021-03-30T21:15:01Z"
@@ -7631,21 +7363,20 @@ graph [
     commentcount 74
     duration "PT16M5S"
     indegree 1
+    ppinsult 0.042791124
+    ppflirtation 0.397823
+    ppidentityattack 0.078571066
+    ppthreat 0.13916743
+    pptoxicity 0.024490505
+    ppsexuallyexplicit 0.081926845
+    ppprofanity 0.05454433
+    ppinflammatory 0.13180111
+    sentiment 0
     cluster 2
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.081926845
-    PERSPECTIVE_FLIRTATION 0.397823
-    PERSPECTIVE_INSULT 0.042791124
-    PERSPECTIVE_TOXICITY 0.024490505
-    PERSPECTIVE_IDENTITY_ATTACK 0.078571066
-    PERSPECTIVE_INFLAMMATORY 0.13180111
-    PERSPECTIVE_THREAT 0.13916743
-    PERSPECTIVE_PROFANITY 0.05454433
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 273
+  node
+  [
+    id 293
     label "nGCmNnYLpHI"
     step 0
     date "2021-10-06T21:58:46Z"
@@ -7659,21 +7390,20 @@ graph [
     commentcount 40
     duration "PT20M38S"
     indegree 5
+    ppinsult 0.20080377
+    ppflirtation 0.3723013
+    ppidentityattack 0.49450648
+    ppthreat 0.29218695
+    pptoxicity 0.2712817
+    ppsexuallyexplicit 0.22468676
+    ppprofanity 0.24961239
+    ppinflammatory 0.17842433
+    sentiment 0
     cluster 7
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.22468676
-    PERSPECTIVE_FLIRTATION 0.3723013
-    PERSPECTIVE_INSULT 0.20080377
-    PERSPECTIVE_TOXICITY 0.2712817
-    PERSPECTIVE_IDENTITY_ATTACK 0.49450648
-    PERSPECTIVE_INFLAMMATORY 0.17842433
-    PERSPECTIVE_THREAT 0.29218695
-    PERSPECTIVE_PROFANITY 0.24961239
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 274
+  node
+  [
+    id 294
     label "XMwUdR3dnew"
     step 0
     date "2021-12-23T11:44:14Z"
@@ -7687,21 +7417,20 @@ graph [
     commentcount 22
     duration "PT18M19S"
     indegree 0
+    ppinsult 0.100035176
+    ppflirtation 0.29543367
+    ppidentityattack 0.07731102
+    ppthreat 0.080835976
+    pptoxicity 0.10763696
+    ppsexuallyexplicit 0.074322574
+    ppprofanity 0.058551975
+    ppinflammatory 0.13239525
+    sentiment 0
     cluster 4
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.074322574
-    PERSPECTIVE_FLIRTATION 0.29543367
-    PERSPECTIVE_INSULT 0.100035176
-    PERSPECTIVE_TOXICITY 0.10763696
-    PERSPECTIVE_IDENTITY_ATTACK 0.07731102
-    PERSPECTIVE_INFLAMMATORY 0.13239525
-    PERSPECTIVE_THREAT 0.080835976
-    PERSPECTIVE_PROFANITY 0.058551975
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 275
+  node
+  [
+    id 295
     label "oLFiizTNsms"
     step 0
     date "2021-08-10T01:35:26Z"
@@ -7715,21 +7444,20 @@ graph [
     commentcount 60
     duration "PT37M19S"
     indegree 12
+    ppinsult 0.06533811
+    ppflirtation 0.26272947
+    ppidentityattack 0.115940556
+    ppthreat 0.24449377
+    pptoxicity 0.047495455
+    ppsexuallyexplicit 0.08417369
+    ppprofanity 0.080225125
+    ppinflammatory 0.018368145
+    sentiment 0
     cluster 3
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.08417369
-    PERSPECTIVE_FLIRTATION 0.26272947
-    PERSPECTIVE_INSULT 0.06533811
-    PERSPECTIVE_TOXICITY 0.047495455
-    PERSPECTIVE_IDENTITY_ATTACK 0.115940556
-    PERSPECTIVE_INFLAMMATORY 0.018368145
-    PERSPECTIVE_THREAT 0.24449377
-    PERSPECTIVE_PROFANITY 0.080225125
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 276
+  node
+  [
+    id 296
     label "C0A_AesBErg"
     step 0
     date "2020-04-11T02:35:11Z"
@@ -7743,21 +7471,20 @@ graph [
     commentcount 156
     duration "PT45M3S"
     indegree 2
-    cluster 5
+    ppinsult 0.04485281
+    ppflirtation 0.39669868
+    ppidentityattack 0.050820533
+    ppthreat 0.08039078
+    pptoxicity 0.094410956
+    ppsexuallyexplicit 0.05183237
+    ppprofanity 0.038653184
+    ppinflammatory 0.020362493
     sentiment 0.9062
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.05183237
-    PERSPECTIVE_FLIRTATION 0.39669868
-    PERSPECTIVE_INSULT 0.04485281
-    PERSPECTIVE_TOXICITY 0.094410956
-    PERSPECTIVE_IDENTITY_ATTACK 0.050820533
-    PERSPECTIVE_INFLAMMATORY 0.020362493
-    PERSPECTIVE_THREAT 0.08039078
-    PERSPECTIVE_PROFANITY 0.038653184
-    leftright ""
-    channeltags ""
+    cluster 5
   ]
-  node [
-    id 277
+  node
+  [
+    id 297
     label "aN8c5seCMnI"
     step 0
     date "2021-08-30T22:31:55Z"
@@ -7771,21 +7498,20 @@ graph [
     commentcount 18
     duration "PT36M44S"
     indegree 3
-    cluster 1
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.10481268
-    PERSPECTIVE_FLIRTATION 0.55310196
-    PERSPECTIVE_INSULT 0.07443226
-    PERSPECTIVE_TOXICITY 0.050242316
-    PERSPECTIVE_IDENTITY_ATTACK 0.06160694
-    PERSPECTIVE_INFLAMMATORY 0.07075228
-    PERSPECTIVE_THREAT 0.20511389
-    PERSPECTIVE_PROFANITY 0.060261358
-    leftright ""
-    channeltags ""
+    ppinsult 0.07443226
+    ppflirtation 0.55310196
+    ppidentityattack 0.06160694
+    ppthreat 0.20511389
+    pptoxicity 0.050242316
+    ppsexuallyexplicit 0.10481268
+    ppprofanity 0.060261358
+    ppinflammatory 0.07075228
+    sentiment 0
+    cluster 3
   ]
-  node [
-    id 278
+  node
+  [
+    id 298
     label "atV0UO3lvg8"
     step 0
     date "2019-05-05T06:06:50Z"
@@ -7799,21 +7525,20 @@ graph [
     commentcount 193
     duration "PT1H13M51S"
     indegree 42
+    ppinsult 0.06155488
+    ppflirtation 0.29802853
+    ppidentityattack 0.1025145
+    ppthreat 0.13618022
+    pptoxicity 0.1550967
+    ppsexuallyexplicit 0.04041245
+    ppprofanity 0.04278319
+    ppinflammatory 0.12745586
+    sentiment 0
     cluster 3
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.04041245
-    PERSPECTIVE_FLIRTATION 0.29802853
-    PERSPECTIVE_INSULT 0.06155488
-    PERSPECTIVE_TOXICITY 0.1550967
-    PERSPECTIVE_IDENTITY_ATTACK 0.1025145
-    PERSPECTIVE_INFLAMMATORY 0.12745586
-    PERSPECTIVE_THREAT 0.13618022
-    PERSPECTIVE_PROFANITY 0.04278319
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 279
+  node
+  [
+    id 299
     label "4yQ0s3HXqY8"
     step 0
     date "2022-01-11T03:48:44Z"
@@ -7827,21 +7552,20 @@ graph [
     commentcount 39
     duration "PT39M12S"
     indegree 7
+    ppinsult 0.21577027
+    ppflirtation 0.3584237
+    ppidentityattack 0.09344598
+    ppthreat 0.12884533
+    pptoxicity 0.15276173
+    ppsexuallyexplicit 0.0821479
+    ppprofanity 0.12865469
+    ppinflammatory 0.03932638
+    sentiment 0
     cluster 3
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.0821479
-    PERSPECTIVE_FLIRTATION 0.3584237
-    PERSPECTIVE_INSULT 0.21577027
-    PERSPECTIVE_TOXICITY 0.15276173
-    PERSPECTIVE_IDENTITY_ATTACK 0.09344598
-    PERSPECTIVE_INFLAMMATORY 0.03932638
-    PERSPECTIVE_THREAT 0.12884533
-    PERSPECTIVE_PROFANITY 0.12865469
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 280
+  node
+  [
+    id 300
     label "FpKHxbTa-Pc"
     step 0
     date "2021-11-04T18:28:53Z"
@@ -7855,21 +7579,20 @@ graph [
     commentcount 15
     duration "PT28M40S"
     indegree 0
+    ppinsult 0.05833065
+    ppflirtation 0.35304403
+    ppidentityattack 0.058540735
+    ppthreat 0.09982071
+    pptoxicity 0.0717155
+    ppsexuallyexplicit 0.053317394
+    ppprofanity 0.04669641
+    ppinflammatory 0.13568786
+    sentiment 0
     cluster 3
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.053317394
-    PERSPECTIVE_FLIRTATION 0.35304403
-    PERSPECTIVE_INSULT 0.05833065
-    PERSPECTIVE_TOXICITY 0.0717155
-    PERSPECTIVE_IDENTITY_ATTACK 0.058540735
-    PERSPECTIVE_INFLAMMATORY 0.13568786
-    PERSPECTIVE_THREAT 0.09982071
-    PERSPECTIVE_PROFANITY 0.04669641
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 281
+  node
+  [
+    id 301
     label "L3EvZajJcdE"
     step 0
     date "2021-05-09T20:12:33Z"
@@ -7883,21 +7606,20 @@ graph [
     commentcount 184
     duration "PT25M45S"
     indegree 3
-    cluster 5
+    ppinsult 0.07908209
+    ppflirtation 0.45325187
+    ppidentityattack 0.064146295
+    ppthreat 0.40682304
+    pptoxicity 0.037023053
+    ppsexuallyexplicit 0.09823837
+    ppprofanity 0.07026799
+    ppinflammatory 0.14927283
     sentiment 0.4588
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.09823837
-    PERSPECTIVE_FLIRTATION 0.45325187
-    PERSPECTIVE_INSULT 0.07908209
-    PERSPECTIVE_TOXICITY 0.037023053
-    PERSPECTIVE_IDENTITY_ATTACK 0.064146295
-    PERSPECTIVE_INFLAMMATORY 0.14927283
-    PERSPECTIVE_THREAT 0.40682304
-    PERSPECTIVE_PROFANITY 0.07026799
-    leftright ""
-    channeltags ""
+    cluster 5
   ]
-  node [
-    id 282
+  node
+  [
+    id 302
     label "-0lE1c78DLg"
     step 0
     date "2014-11-04T12:57:23Z"
@@ -7911,21 +7633,20 @@ graph [
     commentcount 1
     duration "PT2M17S"
     indegree 0
-    cluster 4
+    ppinsult 0.094568685
+    ppflirtation 0.41927928
+    ppidentityattack 0.13297607
+    ppthreat 0.26257557
+    pptoxicity 0.034791227
+    ppsexuallyexplicit 0.14228523
+    ppprofanity 0.12381381
+    ppinflammatory 0.010158974
     sentiment 0.4588
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.14228523
-    PERSPECTIVE_FLIRTATION 0.41927928
-    PERSPECTIVE_INSULT 0.094568685
-    PERSPECTIVE_TOXICITY 0.034791227
-    PERSPECTIVE_IDENTITY_ATTACK 0.13297607
-    PERSPECTIVE_INFLAMMATORY 0.010158974
-    PERSPECTIVE_THREAT 0.26257557
-    PERSPECTIVE_PROFANITY 0.12381381
-    leftright ""
-    channeltags ""
+    cluster 7
   ]
-  node [
-    id 283
+  node
+  [
+    id 303
     label "U4_tvJDTvQM"
     step 0
     date "2021-07-27T01:53:01Z"
@@ -7939,21 +7660,20 @@ graph [
     commentcount 31
     duration "PT17M40S"
     indegree 2
+    ppinsult 0.03768848
+    ppflirtation 0.20433407
+    ppidentityattack 0.08125084
+    ppthreat 0.14927626
+    pptoxicity 0.068918526
+    ppsexuallyexplicit 0.05573906
+    ppprofanity 0.050220087
+    ppinflammatory 0.0065747234
+    sentiment 0
     cluster 3
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.05573906
-    PERSPECTIVE_FLIRTATION 0.20433407
-    PERSPECTIVE_INSULT 0.03768848
-    PERSPECTIVE_TOXICITY 0.068918526
-    PERSPECTIVE_IDENTITY_ATTACK 0.08125084
-    PERSPECTIVE_INFLAMMATORY 0.0065747234
-    PERSPECTIVE_THREAT 0.14927626
-    PERSPECTIVE_PROFANITY 0.050220087
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 284
+  node
+  [
+    id 305
     label "Gud8o27pjgU"
     step 0
     date "2020-11-10T02:26:46Z"
@@ -7967,21 +7687,20 @@ graph [
     commentcount 158
     duration "PT38M48S"
     indegree 46
+    ppinsult 0.06653049
+    ppflirtation 0.30924258
+    ppidentityattack 0.12854093
+    ppthreat 0.2353067
+    pptoxicity 0.09763293
+    ppsexuallyexplicit 0.069940574
+    ppprofanity 0.07746589
+    ppinflammatory 0.0067723915
+    sentiment 0
     cluster 3
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.069940574
-    PERSPECTIVE_FLIRTATION 0.30924258
-    PERSPECTIVE_INSULT 0.06653049
-    PERSPECTIVE_TOXICITY 0.09763293
-    PERSPECTIVE_IDENTITY_ATTACK 0.12854093
-    PERSPECTIVE_INFLAMMATORY 0.0067723915
-    PERSPECTIVE_THREAT 0.2353067
-    PERSPECTIVE_PROFANITY 0.07746589
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 285
+  node
+  [
+    id 306
     label "srKg3KdqX8A"
     step 0
     date "2020-04-09T04:00:12Z"
@@ -7995,21 +7714,20 @@ graph [
     commentcount 2
     duration "PT4M56S"
     indegree 1
+    ppinsult 0.14678954
+    ppflirtation 0.38127717
+    ppidentityattack 0.09943729
+    ppthreat 0.30033582
+    pptoxicity 0.022773718
+    ppsexuallyexplicit 0.10757649
+    ppprofanity 0.12035209
+    ppinflammatory 0.07567057
+    sentiment 0
     cluster 6
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.10757649
-    PERSPECTIVE_FLIRTATION 0.38127717
-    PERSPECTIVE_INSULT 0.14678954
-    PERSPECTIVE_TOXICITY 0.022773718
-    PERSPECTIVE_IDENTITY_ATTACK 0.09943729
-    PERSPECTIVE_INFLAMMATORY 0.07567057
-    PERSPECTIVE_THREAT 0.30033582
-    PERSPECTIVE_PROFANITY 0.12035209
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 286
+  node
+  [
+    id 307
     label "QVP9Hu8IrUU"
     step 0
     date "2022-07-07T13:25:19Z"
@@ -8023,21 +7741,20 @@ graph [
     commentcount 6
     duration "PT1H48M3S"
     indegree 11
-    cluster 2
+    ppinsult 0.1216029
+    ppflirtation 0.2821743
+    ppidentityattack 0.17147326
+    ppthreat 0.4061228
+    pptoxicity 0.038053125
+    ppsexuallyexplicit 0.07898985
+    ppprofanity 0.11758179
+    ppinflammatory 0.113946185
     sentiment -0.3182
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.07898985
-    PERSPECTIVE_FLIRTATION 0.2821743
-    PERSPECTIVE_INSULT 0.1216029
-    PERSPECTIVE_TOXICITY 0.038053125
-    PERSPECTIVE_IDENTITY_ATTACK 0.17147326
-    PERSPECTIVE_INFLAMMATORY 0.113946185
-    PERSPECTIVE_THREAT 0.4061228
-    PERSPECTIVE_PROFANITY 0.11758179
-    leftright ""
-    channeltags ""
+    cluster 2
   ]
-  node [
-    id 287
+  node
+  [
+    id 308
     label "xyO4j3_SGUM"
     step 0
     date "2021-10-26T16:02:15Z"
@@ -8051,21 +7768,20 @@ graph [
     commentcount 79
     duration "PT22M41S"
     indegree 5
+    ppinsult 0.24616124
+    ppflirtation 0.38239056
+    ppidentityattack 0.58523935
+    ppthreat 0.32892576
+    pptoxicity 0.025520578
+    ppsexuallyexplicit 0.1777476
+    ppprofanity 0.27978277
+    ppinflammatory 0.025489913
+    sentiment 0
     cluster 7
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.1777476
-    PERSPECTIVE_FLIRTATION 0.38239056
-    PERSPECTIVE_INSULT 0.24616124
-    PERSPECTIVE_TOXICITY 0.025520578
-    PERSPECTIVE_IDENTITY_ATTACK 0.58523935
-    PERSPECTIVE_INFLAMMATORY 0.025489913
-    PERSPECTIVE_THREAT 0.32892576
-    PERSPECTIVE_PROFANITY 0.27978277
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 288
+  node
+  [
+    id 309
     label "dWCcCx3gU0M"
     step 0
     date "2022-02-24T17:53:06Z"
@@ -8079,21 +7795,20 @@ graph [
     commentcount 38
     duration "PT29M10S"
     indegree 0
-    cluster 4
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.13950634
-    PERSPECTIVE_FLIRTATION 0.36038843
-    PERSPECTIVE_INSULT 0.20972759
-    PERSPECTIVE_TOXICITY 0.22983712
-    PERSPECTIVE_IDENTITY_ATTACK 0.51714206
-    PERSPECTIVE_INFLAMMATORY 0.18319733
-    PERSPECTIVE_THREAT 0.24541557
-    PERSPECTIVE_PROFANITY 0.22074199
-    leftright ""
-    channeltags ""
+    ppinsult 0.20972759
+    ppflirtation 0.36038843
+    ppidentityattack 0.51714206
+    ppthreat 0.24541557
+    pptoxicity 0.22983712
+    ppsexuallyexplicit 0.13950634
+    ppprofanity 0.22074199
+    ppinflammatory 0.18319733
+    sentiment 0
+    cluster 2
   ]
-  node [
-    id 289
+  node
+  [
+    id 310
     label "_R34jEpHzz4"
     step 0
     date "2019-03-10T23:24:34Z"
@@ -8107,21 +7822,20 @@ graph [
     commentcount 64
     duration "PT22M59S"
     indegree 0
-    cluster 2
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.117583655
-    PERSPECTIVE_FLIRTATION 0.4869849
-    PERSPECTIVE_INSULT 0.081043355
-    PERSPECTIVE_TOXICITY 0.018742332
-    PERSPECTIVE_IDENTITY_ATTACK 0.12271427
-    PERSPECTIVE_INFLAMMATORY 0.0384597
-    PERSPECTIVE_THREAT 0.15464495
-    PERSPECTIVE_PROFANITY 0.0721075
-    leftright ""
-    channeltags ""
+    ppinsult 0.081043355
+    ppflirtation 0.4869849
+    ppidentityattack 0.12271427
+    ppthreat 0.15464495
+    pptoxicity 0.018742332
+    ppsexuallyexplicit 0.117583655
+    ppprofanity 0.0721075
+    ppinflammatory 0.0384597
+    sentiment 0
+    cluster 7
   ]
-  node [
-    id 290
+  node
+  [
+    id 311
     label "AgKef-ZRDaQ"
     step 0
     date "2022-04-08T04:00:03Z"
@@ -8135,21 +7849,20 @@ graph [
     commentcount 43
     duration "PT22M3S"
     indegree 0
+    ppinsult 0.13286252
+    ppflirtation 0.45959115
+    ppidentityattack 0.16609345
+    ppthreat 0.2706647
+    pptoxicity 0.06132676
+    ppsexuallyexplicit 0.17936376
+    ppprofanity 0.19372967
+    ppinflammatory 0.027604062
+    sentiment 0
     cluster 7
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.17936376
-    PERSPECTIVE_FLIRTATION 0.45959115
-    PERSPECTIVE_INSULT 0.13286252
-    PERSPECTIVE_TOXICITY 0.06132676
-    PERSPECTIVE_IDENTITY_ATTACK 0.16609345
-    PERSPECTIVE_INFLAMMATORY 0.027604062
-    PERSPECTIVE_THREAT 0.2706647
-    PERSPECTIVE_PROFANITY 0.19372967
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 291
+  node
+  [
+    id 312
     label "aSOEwEtUWRI"
     step 0
     date "2022-07-07T18:19:24Z"
@@ -8163,21 +7876,20 @@ graph [
     commentcount 4
     duration "PT2H10M21S"
     indegree 9
+    ppinsult 0.06038804
+    ppflirtation 0.20255019
+    ppidentityattack 0.05778561
+    ppthreat 0.088582925
+    pptoxicity 0.052136723
+    ppsexuallyexplicit 0.0715366
+    ppprofanity 0.07911743
+    ppinflammatory 0.057660695
+    sentiment 0
     cluster 7
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.0715366
-    PERSPECTIVE_FLIRTATION 0.20255019
-    PERSPECTIVE_INSULT 0.06038804
-    PERSPECTIVE_TOXICITY 0.052136723
-    PERSPECTIVE_IDENTITY_ATTACK 0.05778561
-    PERSPECTIVE_INFLAMMATORY 0.057660695
-    PERSPECTIVE_THREAT 0.088582925
-    PERSPECTIVE_PROFANITY 0.07911743
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 292
+  node
+  [
+    id 313
     label "BLAt187K_mA"
     step 0
     date "2020-11-05T22:13:04Z"
@@ -8191,21 +7903,20 @@ graph [
     commentcount 15
     duration "PT16M30S"
     indegree 4
+    ppinsult 0.49384862
+    ppflirtation 0.40580353
+    ppidentityattack 0.743152
+    ppthreat 0.49022955
+    pptoxicity 0.067320265
+    ppsexuallyexplicit 0.40280762
+    ppprofanity 0.5214986
+    ppinflammatory 0.02101135
+    sentiment 0
     cluster 6
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.40280762
-    PERSPECTIVE_FLIRTATION 0.40580353
-    PERSPECTIVE_INSULT 0.49384862
-    PERSPECTIVE_TOXICITY 0.067320265
-    PERSPECTIVE_IDENTITY_ATTACK 0.743152
-    PERSPECTIVE_INFLAMMATORY 0.02101135
-    PERSPECTIVE_THREAT 0.49022955
-    PERSPECTIVE_PROFANITY 0.5214986
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 293
+  node
+  [
+    id 314
     label "WOn5OqaFpP4"
     step 0
     date "2020-05-27T00:29:42Z"
@@ -8219,21 +7930,20 @@ graph [
     commentcount 89
     duration "PT1H2M40S"
     indegree 6
-    cluster 3
+    ppinsult 0.07661841
+    ppflirtation 0.3344111
+    ppidentityattack 0.11550629
+    ppthreat 0.2341014
+    pptoxicity 0.070516795
+    ppsexuallyexplicit 0.10619136
+    ppprofanity 0.10271314
+    ppinflammatory 0.15209112
     sentiment 0.4019
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.10619136
-    PERSPECTIVE_FLIRTATION 0.3344111
-    PERSPECTIVE_INSULT 0.07661841
-    PERSPECTIVE_TOXICITY 0.070516795
-    PERSPECTIVE_IDENTITY_ATTACK 0.11550629
-    PERSPECTIVE_INFLAMMATORY 0.15209112
-    PERSPECTIVE_THREAT 0.2341014
-    PERSPECTIVE_PROFANITY 0.10271314
-    leftright ""
-    channeltags ""
+    cluster 3
   ]
-  node [
-    id 294
+  node
+  [
+    id 315
     label "36bCsZODE1M"
     step 0
     date "2020-12-16T14:23:11Z"
@@ -8247,21 +7957,20 @@ graph [
     commentcount 32
     duration "PT19M9S"
     indegree 4
+    ppinsult 0.18599266
+    ppflirtation 0.41047922
+    ppidentityattack 0.4883649
+    ppthreat 0.40114817
+    pptoxicity 0.08501353
+    ppsexuallyexplicit 0.26418877
+    ppprofanity 0.24919002
+    ppinflammatory 0.027475862
+    sentiment 0
     cluster 6
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.26418877
-    PERSPECTIVE_FLIRTATION 0.41047922
-    PERSPECTIVE_INSULT 0.18599266
-    PERSPECTIVE_TOXICITY 0.08501353
-    PERSPECTIVE_IDENTITY_ATTACK 0.4883649
-    PERSPECTIVE_INFLAMMATORY 0.027475862
-    PERSPECTIVE_THREAT 0.40114817
-    PERSPECTIVE_PROFANITY 0.24919002
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 295
+  node
+  [
+    id 316
     label "4Q6-d94PVN0"
     step 0
     date "2021-07-02T11:00:02Z"
@@ -8275,21 +7984,20 @@ graph [
     commentcount 6
     duration "PT19M38S"
     indegree 0
+    ppinsult 0.024224138
+    ppflirtation 0.27505174
+    ppidentityattack 0.034827434
+    ppthreat 0.058467537
+    pptoxicity 0.019158829
+    ppsexuallyexplicit 0.044717945
+    ppprofanity 0.024691226
+    ppinflammatory 0.12929393
+    sentiment 0
     cluster 4
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.044717945
-    PERSPECTIVE_FLIRTATION 0.27505174
-    PERSPECTIVE_INSULT 0.024224138
-    PERSPECTIVE_TOXICITY 0.019158829
-    PERSPECTIVE_IDENTITY_ATTACK 0.034827434
-    PERSPECTIVE_INFLAMMATORY 0.12929393
-    PERSPECTIVE_THREAT 0.058467537
-    PERSPECTIVE_PROFANITY 0.024691226
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 296
+  node
+  [
+    id 317
     label "Il6IsaLLg9k"
     step 0
     date "2021-07-28T23:27:00Z"
@@ -8303,21 +8011,20 @@ graph [
     commentcount 92
     duration "PT25M4S"
     indegree 1
+    ppinsult 0.07108642
+    ppflirtation 0.22392055
+    ppidentityattack 0.10477257
+    ppthreat 0.20367603
+    pptoxicity 0.0729142
+    ppsexuallyexplicit 0.07143627
+    ppprofanity 0.07681192
+    ppinflammatory 0.0065747234
+    sentiment 0
     cluster 3
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.07143627
-    PERSPECTIVE_FLIRTATION 0.22392055
-    PERSPECTIVE_INSULT 0.07108642
-    PERSPECTIVE_TOXICITY 0.0729142
-    PERSPECTIVE_IDENTITY_ATTACK 0.10477257
-    PERSPECTIVE_INFLAMMATORY 0.0065747234
-    PERSPECTIVE_THREAT 0.20367603
-    PERSPECTIVE_PROFANITY 0.07681192
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 297
+  node
+  [
+    id 318
     label "avaByXoaans"
     step 0
     date "2022-06-11T17:30:06Z"
@@ -8331,21 +8038,20 @@ graph [
     commentcount 48
     duration "PT21M11S"
     indegree 4
-    cluster 2
+    ppinsult 0.042022612
+    ppflirtation 0.40268537
+    ppidentityattack 0.057825696
+    ppthreat 0.28183246
+    pptoxicity 0.026894007
+    ppsexuallyexplicit 0.07431356
+    ppprofanity 0.057184
+    ppinflammatory 0.1151094
     sentiment -0.2263
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.07431356
-    PERSPECTIVE_FLIRTATION 0.40268537
-    PERSPECTIVE_INSULT 0.042022612
-    PERSPECTIVE_TOXICITY 0.026894007
-    PERSPECTIVE_IDENTITY_ATTACK 0.057825696
-    PERSPECTIVE_INFLAMMATORY 0.1151094
-    PERSPECTIVE_THREAT 0.28183246
-    PERSPECTIVE_PROFANITY 0.057184
-    leftright ""
-    channeltags ""
+    cluster 2
   ]
-  node [
-    id 298
+  node
+  [
+    id 319
     label "t1e7IAo_Sd0"
     step 0
     date "2019-03-04T03:53:53Z"
@@ -8359,21 +8065,20 @@ graph [
     commentcount 69
     duration "PT1H10M1S"
     indegree 8
+    ppinsult 0.101657175
+    ppflirtation 0.26128128
+    ppidentityattack 0.111133374
+    ppthreat 0.24553567
+    pptoxicity 0.052136723
+    ppsexuallyexplicit 0.09542895
+    ppprofanity 0.099755295
+    ppinflammatory 0.115379624
+    sentiment 0
     cluster 3
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.09542895
-    PERSPECTIVE_FLIRTATION 0.26128128
-    PERSPECTIVE_INSULT 0.101657175
-    PERSPECTIVE_TOXICITY 0.052136723
-    PERSPECTIVE_IDENTITY_ATTACK 0.111133374
-    PERSPECTIVE_INFLAMMATORY 0.115379624
-    PERSPECTIVE_THREAT 0.24553567
-    PERSPECTIVE_PROFANITY 0.099755295
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 299
+  node
+  [
+    id 320
     label "PMJ03a8FOvY"
     step 0
     date "2022-01-08T02:34:00Z"
@@ -8387,21 +8092,20 @@ graph [
     commentcount 34
     duration "PT19M27S"
     indegree 0
+    ppinsult 0.05316682
+    ppflirtation 0.23225412
+    ppidentityattack 0.072814904
+    ppthreat 0.114814065
+    pptoxicity 0.015479778
+    ppsexuallyexplicit 0.05915278
+    ppprofanity 0.06534984
+    ppinflammatory 0.044302374
+    sentiment 0
     cluster 3
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.05915278
-    PERSPECTIVE_FLIRTATION 0.23225412
-    PERSPECTIVE_INSULT 0.05316682
-    PERSPECTIVE_TOXICITY 0.015479778
-    PERSPECTIVE_IDENTITY_ATTACK 0.072814904
-    PERSPECTIVE_INFLAMMATORY 0.044302374
-    PERSPECTIVE_THREAT 0.114814065
-    PERSPECTIVE_PROFANITY 0.06534984
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 300
+  node
+  [
+    id 321
     label "xqIVUJMx7n8"
     step 0
     date "2021-11-29T19:18:07Z"
@@ -8415,21 +8119,20 @@ graph [
     commentcount 47
     duration "PT31M19S"
     indegree 1
+    ppinsult 0.4810873
+    ppflirtation 0.42836946
+    ppidentityattack 0.8048849
+    ppthreat 0.5687915
+    pptoxicity 0.18450552
+    ppsexuallyexplicit 0.21646431
+    ppprofanity 0.5138006
+    ppinflammatory 0.063702926
+    sentiment 0
     cluster 7
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.21646431
-    PERSPECTIVE_FLIRTATION 0.42836946
-    PERSPECTIVE_INSULT 0.4810873
-    PERSPECTIVE_TOXICITY 0.18450552
-    PERSPECTIVE_IDENTITY_ATTACK 0.8048849
-    PERSPECTIVE_INFLAMMATORY 0.063702926
-    PERSPECTIVE_THREAT 0.5687915
-    PERSPECTIVE_PROFANITY 0.5138006
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 301
+  node
+  [
+    id 322
     label "a74m4o8vW-A"
     step 0
     date "2019-08-08T20:40:32Z"
@@ -8443,21 +8146,20 @@ graph [
     commentcount 77
     duration "PT57M15S"
     indegree 24
-    cluster 3
+    ppinsult 0.110582925
+    ppflirtation 0.6131626
+    ppidentityattack 0.14189668
+    ppthreat 0.23126574
+    pptoxicity 0.074912034
+    ppsexuallyexplicit 0.09280978
+    ppprofanity 0.10692508
+    ppinflammatory 0.017912399
     sentiment 0.5994
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.09280978
-    PERSPECTIVE_FLIRTATION 0.6131626
-    PERSPECTIVE_INSULT 0.110582925
-    PERSPECTIVE_TOXICITY 0.074912034
-    PERSPECTIVE_IDENTITY_ATTACK 0.14189668
-    PERSPECTIVE_INFLAMMATORY 0.017912399
-    PERSPECTIVE_THREAT 0.23126574
-    PERSPECTIVE_PROFANITY 0.10692508
-    leftright ""
-    channeltags ""
+    cluster 3
   ]
-  node [
-    id 302
+  node
+  [
+    id 323
     label "PLODywp1ulk"
     step 0
     date "2021-04-06T17:43:40Z"
@@ -8471,21 +8173,20 @@ graph [
     commentcount 222
     duration "PT44M21S"
     indegree 7
-    cluster 5
+    ppinsult 0.05119625
+    ppflirtation 0.47814256
+    ppidentityattack 0.04790253
+    ppthreat 0.138558
+    pptoxicity 0.1689685
+    ppsexuallyexplicit 0.05947364
+    ppprofanity 0.05749026
+    ppinflammatory 0.05681538
     sentiment 0.802
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.05947364
-    PERSPECTIVE_FLIRTATION 0.47814256
-    PERSPECTIVE_INSULT 0.05119625
-    PERSPECTIVE_TOXICITY 0.1689685
-    PERSPECTIVE_IDENTITY_ATTACK 0.04790253
-    PERSPECTIVE_INFLAMMATORY 0.05681538
-    PERSPECTIVE_THREAT 0.138558
-    PERSPECTIVE_PROFANITY 0.05749026
-    leftright ""
-    channeltags ""
+    cluster 5
   ]
-  node [
-    id 303
+  node
+  [
+    id 324
     label "5ljOCVrJh2I"
     step 0
     date "2021-07-13T18:34:34Z"
@@ -8499,21 +8200,20 @@ graph [
     commentcount 42
     duration "PT37M58S"
     indegree 11
+    ppinsult 0.07505168
+    ppflirtation 0.24936743
+    ppidentityattack 0.090543136
+    ppthreat 0.12187101
+    pptoxicity 0.025863936
+    ppsexuallyexplicit 0.076834545
+    ppprofanity 0.08176483
+    ppinflammatory 0.018378763
+    sentiment 0
     cluster 3
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.076834545
-    PERSPECTIVE_FLIRTATION 0.24936743
-    PERSPECTIVE_INSULT 0.07505168
-    PERSPECTIVE_TOXICITY 0.025863936
-    PERSPECTIVE_IDENTITY_ATTACK 0.090543136
-    PERSPECTIVE_INFLAMMATORY 0.018378763
-    PERSPECTIVE_THREAT 0.12187101
-    PERSPECTIVE_PROFANITY 0.08176483
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 304
+  node
+  [
+    id 325
     label "YAT8P7r5Y5g"
     step 0
     date "2018-11-25T00:12:07Z"
@@ -8527,21 +8227,20 @@ graph [
     commentcount 75
     duration "PT1H6M45S"
     indegree 0
+    ppinsult 0.041815713
+    ppflirtation 0.38446072
+    ppidentityattack 0.07558891
+    ppthreat 0.12673132
+    pptoxicity 0.04131502
+    ppsexuallyexplicit 0.15803379
+    ppprofanity 0.09144451
+    ppinflammatory 0.062295306
+    sentiment 0
     cluster 1
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.15803379
-    PERSPECTIVE_FLIRTATION 0.38446072
-    PERSPECTIVE_INSULT 0.041815713
-    PERSPECTIVE_TOXICITY 0.04131502
-    PERSPECTIVE_IDENTITY_ATTACK 0.07558891
-    PERSPECTIVE_INFLAMMATORY 0.062295306
-    PERSPECTIVE_THREAT 0.12673132
-    PERSPECTIVE_PROFANITY 0.09144451
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 305
+  node
+  [
+    id 326
     label "8u2b17cRQ_g"
     step 0
     date "2022-07-09T02:54:28Z"
@@ -8555,21 +8254,20 @@ graph [
     commentcount 5
     duration "PT26M27S"
     indegree 17
+    ppinsult 0.03323363
+    ppflirtation 0.31055117
+    ppidentityattack 0.056087416
+    ppthreat 0.27382064
+    pptoxicity 0.010690071
+    ppsexuallyexplicit 0.117820576
+    ppprofanity 0.10431786
+    ppinflammatory 0.008090665
+    sentiment 0
     cluster 8
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.117820576
-    PERSPECTIVE_FLIRTATION 0.31055117
-    PERSPECTIVE_INSULT 0.03323363
-    PERSPECTIVE_TOXICITY 0.010690071
-    PERSPECTIVE_IDENTITY_ATTACK 0.056087416
-    PERSPECTIVE_INFLAMMATORY 0.008090665
-    PERSPECTIVE_THREAT 0.27382064
-    PERSPECTIVE_PROFANITY 0.10431786
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 306
+  node
+  [
+    id 327
     label "1WUsJs2kxJM"
     step 0
     date "2020-04-16T00:17:02Z"
@@ -8583,21 +8281,20 @@ graph [
     commentcount 137
     duration "PT1H5M12S"
     indegree 55
+    ppinsult 0.11212548
+    ppflirtation 0.20195808
+    ppidentityattack 0.12101884
+    ppthreat 0.23815715
+    pptoxicity 0.083939545
+    ppsexuallyexplicit 0.07331093
+    ppprofanity 0.11814606
+    ppinflammatory 0.050513368
+    sentiment 0
     cluster 3
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.07331093
-    PERSPECTIVE_FLIRTATION 0.20195808
-    PERSPECTIVE_INSULT 0.11212548
-    PERSPECTIVE_TOXICITY 0.083939545
-    PERSPECTIVE_IDENTITY_ATTACK 0.12101884
-    PERSPECTIVE_INFLAMMATORY 0.050513368
-    PERSPECTIVE_THREAT 0.23815715
-    PERSPECTIVE_PROFANITY 0.11814606
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 307
+  node
+  [
+    id 329
     label "F4B0peQWG5c"
     step 0
     date "2021-05-12T16:12:59Z"
@@ -8611,21 +8308,20 @@ graph [
     commentcount 73
     duration "PT43M34S"
     indegree 38
+    ppinsult 0.175602
+    ppflirtation 0.34548336
+    ppidentityattack 0.16298422
+    ppthreat 0.2548585
+    pptoxicity 0.06612156
+    ppsexuallyexplicit 0.13100211
+    ppprofanity 0.1560901
+    ppinflammatory 0.006574723
+    sentiment 0
     cluster 3
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.13100211
-    PERSPECTIVE_FLIRTATION 0.34548336
-    PERSPECTIVE_INSULT 0.175602
-    PERSPECTIVE_TOXICITY 0.06612156
-    PERSPECTIVE_IDENTITY_ATTACK 0.16298422
-    PERSPECTIVE_INFLAMMATORY 0.006574723
-    PERSPECTIVE_THREAT 0.2548585
-    PERSPECTIVE_PROFANITY 0.1560901
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 308
+  node
+  [
+    id 330
     label "aljVRKpj1dw"
     step 0
     date "2022-05-14T18:00:02Z"
@@ -8639,21 +8335,20 @@ graph [
     commentcount 41
     duration "PT47M35S"
     indegree 1
+    ppinsult 0.053203847
+    ppflirtation 0.279848
+    ppidentityattack 0.09079641
+    ppthreat 0.10023902
+    pptoxicity 0.0085381735
+    ppsexuallyexplicit 0.053500544
+    ppprofanity 0.08996562
+    ppinflammatory 0.009359672
+    sentiment 0
     cluster 7
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.053500544
-    PERSPECTIVE_FLIRTATION 0.279848
-    PERSPECTIVE_INSULT 0.053203847
-    PERSPECTIVE_TOXICITY 0.0085381735
-    PERSPECTIVE_IDENTITY_ATTACK 0.09079641
-    PERSPECTIVE_INFLAMMATORY 0.009359672
-    PERSPECTIVE_THREAT 0.10023902
-    PERSPECTIVE_PROFANITY 0.08996562
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 309
+  node
+  [
+    id 331
     label "5TZmwBvrOyE"
     step 0
     date "2021-12-30T05:00:02Z"
@@ -8667,21 +8362,20 @@ graph [
     commentcount 43
     duration "PT45M34S"
     indegree 9
+    ppinsult 0.05939323
+    ppflirtation 0.42747626
+    ppidentityattack 0.14330596
+    ppthreat 0.1972911
+    pptoxicity 0.08501353
+    ppsexuallyexplicit 0.11535942
+    ppprofanity 0.08601507
+    ppinflammatory 0.016570125
+    sentiment 0
     cluster 7
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.11535942
-    PERSPECTIVE_FLIRTATION 0.42747626
-    PERSPECTIVE_INSULT 0.05939323
-    PERSPECTIVE_TOXICITY 0.08501353
-    PERSPECTIVE_IDENTITY_ATTACK 0.14330596
-    PERSPECTIVE_INFLAMMATORY 0.016570125
-    PERSPECTIVE_THREAT 0.1972911
-    PERSPECTIVE_PROFANITY 0.08601507
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 310
+  node
+  [
+    id 332
     label "ctOqkCCahxg"
     step 0
     date "2021-11-11T00:15:26Z"
@@ -8695,21 +8389,20 @@ graph [
     commentcount 3
     duration "PT3H5M8S"
     indegree 0
+    ppinsult 0.2549574
+    ppflirtation 0.48558953
+    ppidentityattack 0.58523935
+    ppthreat 0.33855808
+    pptoxicity 0.039254878
+    ppsexuallyexplicit 0.18306811
+    ppprofanity 0.27353227
+    ppinflammatory 0.089458995
+    sentiment 0
     cluster 8
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.18306811
-    PERSPECTIVE_FLIRTATION 0.48558953
-    PERSPECTIVE_INSULT 0.2549574
-    PERSPECTIVE_TOXICITY 0.039254878
-    PERSPECTIVE_IDENTITY_ATTACK 0.58523935
-    PERSPECTIVE_INFLAMMATORY 0.089458995
-    PERSPECTIVE_THREAT 0.33855808
-    PERSPECTIVE_PROFANITY 0.27353227
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 311
+  node
+  [
+    id 333
     label "IU2ezIeZuuQ"
     step 0
     date "2020-11-03T17:02:03Z"
@@ -8723,21 +8416,20 @@ graph [
     commentcount 13
     duration "PT14M40S"
     indegree 3
+    ppinsult 0.21443875
+    ppflirtation 0.3659372
+    ppidentityattack 0.22687459
+    ppthreat 0.4444196
+    pptoxicity 0.0004099885
+    ppsexuallyexplicit 0.14782394
+    ppprofanity 0.20363973
+    ppinflammatory 0.005877371
+    sentiment 0
     cluster 6
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.14782394
-    PERSPECTIVE_FLIRTATION 0.3659372
-    PERSPECTIVE_INSULT 0.21443875
-    PERSPECTIVE_TOXICITY 0.0004099885
-    PERSPECTIVE_IDENTITY_ATTACK 0.22687459
-    PERSPECTIVE_INFLAMMATORY 0.005877371
-    PERSPECTIVE_THREAT 0.4444196
-    PERSPECTIVE_PROFANITY 0.20363973
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 312
+  node
+  [
+    id 334
     label "jARIx7vuxOc"
     step 0
     date "2021-08-14T19:00:21Z"
@@ -8751,21 +8443,20 @@ graph [
     commentcount 10
     duration "PT11M15S"
     indegree 1
+    ppinsult 0.06972529
+    ppflirtation 0.20746128
+    ppidentityattack 0.098286964
+    ppthreat 0.08147849
+    pptoxicity 0.05493369
+    ppsexuallyexplicit 0.07304633
+    ppprofanity 0.07174769
+    ppinflammatory 0.020458328
+    sentiment 0
     cluster 4
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.07304633
-    PERSPECTIVE_FLIRTATION 0.20746128
-    PERSPECTIVE_INSULT 0.06972529
-    PERSPECTIVE_TOXICITY 0.05493369
-    PERSPECTIVE_IDENTITY_ATTACK 0.098286964
-    PERSPECTIVE_INFLAMMATORY 0.020458328
-    PERSPECTIVE_THREAT 0.08147849
-    PERSPECTIVE_PROFANITY 0.07174769
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 313
+  node
+  [
+    id 335
     label "sTaRnspzjmo"
     step 0
     date "2020-09-17T02:37:12Z"
@@ -8779,21 +8470,20 @@ graph [
     commentcount 133
     duration "PT47M26S"
     indegree 53
+    ppinsult 0.11245237
+    ppflirtation 0.28450596
+    ppidentityattack 0.14967549
+    ppthreat 0.28338018
+    pptoxicity 0.1019289
+    ppsexuallyexplicit 0.08035613
+    ppprofanity 0.09911965
+    ppinflammatory 0.032494232
+    sentiment 0
     cluster 3
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.08035613
-    PERSPECTIVE_FLIRTATION 0.28450596
-    PERSPECTIVE_INSULT 0.11245237
-    PERSPECTIVE_TOXICITY 0.1019289
-    PERSPECTIVE_IDENTITY_ATTACK 0.14967549
-    PERSPECTIVE_INFLAMMATORY 0.032494232
-    PERSPECTIVE_THREAT 0.28338018
-    PERSPECTIVE_PROFANITY 0.09911965
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 314
+  node
+  [
+    id 336
     label "yE58XnHoazE"
     step 0
     date "2022-01-14T23:10:11Z"
@@ -8807,21 +8497,20 @@ graph [
     commentcount 88
     duration "PT40M59S"
     indegree 0
-    cluster 6
+    ppinsult 0.27583283
+    ppflirtation 0.43743682
+    ppidentityattack 0.54363984
+    ppthreat 0.25041282
+    pptoxicity 0.04783881
+    ppsexuallyexplicit 0.2269543
+    ppprofanity 0.2554639
+    ppinflammatory 0.03559793
     sentiment 0.4588
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.2269543
-    PERSPECTIVE_FLIRTATION 0.43743682
-    PERSPECTIVE_INSULT 0.27583283
-    PERSPECTIVE_TOXICITY 0.04783881
-    PERSPECTIVE_IDENTITY_ATTACK 0.54363984
-    PERSPECTIVE_INFLAMMATORY 0.03559793
-    PERSPECTIVE_THREAT 0.25041282
-    PERSPECTIVE_PROFANITY 0.2554639
-    leftright ""
-    channeltags ""
+    cluster 6
   ]
-  node [
-    id 315
+  node
+  [
+    id 337
     label "oeTXoY6NLgY"
     step 0
     date "2021-12-30T01:08:26Z"
@@ -8835,21 +8524,20 @@ graph [
     commentcount 42
     duration "PT51M6S"
     indegree 0
+    ppinsult 0.2292516
+    ppflirtation 0.37032244
+    ppidentityattack 0.5759895
+    ppthreat 0.3260569
+    pptoxicity 0.043718524
+    ppsexuallyexplicit 0.16529775
+    ppprofanity 0.2520927
+    ppinflammatory 0.046366293
+    sentiment 0
     cluster 7
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.16529775
-    PERSPECTIVE_FLIRTATION 0.37032244
-    PERSPECTIVE_INSULT 0.2292516
-    PERSPECTIVE_TOXICITY 0.043718524
-    PERSPECTIVE_IDENTITY_ATTACK 0.5759895
-    PERSPECTIVE_INFLAMMATORY 0.046366293
-    PERSPECTIVE_THREAT 0.3260569
-    PERSPECTIVE_PROFANITY 0.2520927
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 316
+  node
+  [
+    id 338
     label "4-0ROfFVR-0"
     step 0
     date "2020-12-29T23:28:05Z"
@@ -8863,21 +8551,20 @@ graph [
     commentcount 54
     duration "PT51M23S"
     indegree 14
+    ppinsult 0.2229262
+    ppflirtation 0.34894675
+    ppidentityattack 0.5799312
+    ppthreat 0.3428175
+    pptoxicity 0.09655894
+    ppsexuallyexplicit 0.140915
+    ppprofanity 0.23525685
+    ppinflammatory 0.007752827
+    sentiment 0
     cluster 6
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.140915
-    PERSPECTIVE_FLIRTATION 0.34894675
-    PERSPECTIVE_INSULT 0.2229262
-    PERSPECTIVE_TOXICITY 0.09655894
-    PERSPECTIVE_IDENTITY_ATTACK 0.5799312
-    PERSPECTIVE_INFLAMMATORY 0.007752827
-    PERSPECTIVE_THREAT 0.3428175
-    PERSPECTIVE_PROFANITY 0.23525685
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 317
+  node
+  [
+    id 339
     label "jjS8lz4wanQ"
     step 0
     date "2022-02-05T19:58:18Z"
@@ -8891,21 +8578,20 @@ graph [
     commentcount 33
     duration "PT37M19S"
     indegree 0
-    cluster 4
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.12734781
-    PERSPECTIVE_FLIRTATION 0.405017
-    PERSPECTIVE_INSULT 0.08943471
-    PERSPECTIVE_TOXICITY 0.068918526
-    PERSPECTIVE_IDENTITY_ATTACK 0.09691452
-    PERSPECTIVE_INFLAMMATORY 0.0832486
-    PERSPECTIVE_THREAT 0.22957113
-    PERSPECTIVE_PROFANITY 0.14203653
-    leftright ""
-    channeltags ""
+    ppinsult 0.08943471
+    ppflirtation 0.405017
+    ppidentityattack 0.09691452
+    ppthreat 0.22957113
+    pptoxicity 0.068918526
+    ppsexuallyexplicit 0.12734781
+    ppprofanity 0.14203653
+    ppinflammatory 0.0832486
+    sentiment 0
+    cluster 2
   ]
-  node [
-    id 318
+  node
+  [
+    id 340
     label "G2jCsahVBDk"
     step 0
     date "2021-07-09T04:08:14Z"
@@ -8919,21 +8605,20 @@ graph [
     commentcount 11
     duration "PT34M22S"
     indegree 0
+    ppinsult 0.034431335
+    ppflirtation 0.2766466
+    ppidentityattack 0.045191664
+    ppthreat 0.08785092
+    pptoxicity 0.0253489
+    ppsexuallyexplicit 0.0499524
+    ppprofanity 0.06479358
+    ppinflammatory 0.087883145
+    sentiment 0
     cluster 2
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.0499524
-    PERSPECTIVE_FLIRTATION 0.2766466
-    PERSPECTIVE_INSULT 0.034431335
-    PERSPECTIVE_TOXICITY 0.0253489
-    PERSPECTIVE_IDENTITY_ATTACK 0.045191664
-    PERSPECTIVE_INFLAMMATORY 0.087883145
-    PERSPECTIVE_THREAT 0.08785092
-    PERSPECTIVE_PROFANITY 0.06479358
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 319
+  node
+  [
+    id 341
     label "QpojxmdRAVM"
     step 0
     date "2021-03-16T23:07:53Z"
@@ -8947,21 +8632,20 @@ graph [
     commentcount 89
     duration "PT31M9S"
     indegree 7
+    ppinsult 0.049177356
+    ppflirtation 0.3654918
+    ppidentityattack 0.03986601
+    ppthreat 0.07615463
+    pptoxicity 0.0729142
+    ppsexuallyexplicit 0.02781116
+    ppprofanity 0.022632657
+    ppinflammatory 0.022394076
+    sentiment 0
     cluster 3
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.02781116
-    PERSPECTIVE_FLIRTATION 0.3654918
-    PERSPECTIVE_INSULT 0.049177356
-    PERSPECTIVE_TOXICITY 0.0729142
-    PERSPECTIVE_IDENTITY_ATTACK 0.03986601
-    PERSPECTIVE_INFLAMMATORY 0.022394076
-    PERSPECTIVE_THREAT 0.07615463
-    PERSPECTIVE_PROFANITY 0.022632657
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 320
+  node
+  [
+    id 342
     label "dhd_f8njqZY"
     step 0
     date "2022-07-07T01:13:58Z"
@@ -8975,21 +8659,20 @@ graph [
     commentcount 6
     duration "PT1H58M21S"
     indegree 0
+    ppinsult 0.063795134
+    ppflirtation 0.20231609
+    ppidentityattack 0.08215776
+    ppthreat 0.11379607
+    pptoxicity 0.024490505
+    ppsexuallyexplicit 0.07080293
+    ppprofanity 0.08146114
+    ppinflammatory 0.074620105
+    sentiment 0
     cluster 1
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.07080293
-    PERSPECTIVE_FLIRTATION 0.20231609
-    PERSPECTIVE_INSULT 0.063795134
-    PERSPECTIVE_TOXICITY 0.024490505
-    PERSPECTIVE_IDENTITY_ATTACK 0.08215776
-    PERSPECTIVE_INFLAMMATORY 0.074620105
-    PERSPECTIVE_THREAT 0.11379607
-    PERSPECTIVE_PROFANITY 0.08146114
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 321
+  node
+  [
+    id 343
     label "0Hdv2B3wQ_M"
     step 0
     date "2021-06-12T23:30:00Z"
@@ -9003,21 +8686,20 @@ graph [
     commentcount 23
     duration "PT30M8S"
     indegree 0
+    ppinsult 0.025123037
+    ppflirtation 0.27986
+    ppidentityattack 0.027637273
+    ppthreat 0.25248006
+    pptoxicity 0.037023053
+    ppsexuallyexplicit 0.038515292
+    ppprofanity 0.03790764
+    ppinflammatory 0.005431333
+    sentiment 0
     cluster 8
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.038515292
-    PERSPECTIVE_FLIRTATION 0.27986
-    PERSPECTIVE_INSULT 0.025123037
-    PERSPECTIVE_TOXICITY 0.037023053
-    PERSPECTIVE_IDENTITY_ATTACK 0.027637273
-    PERSPECTIVE_INFLAMMATORY 0.005431333
-    PERSPECTIVE_THREAT 0.25248006
-    PERSPECTIVE_PROFANITY 0.03790764
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 322
+  node
+  [
+    id 344
     label "swDeUL4usx4"
     step 0
     date "2020-07-07T14:00:13Z"
@@ -9031,21 +8713,20 @@ graph [
     commentcount 121
     duration "PT16M16S"
     indegree 6
+    ppinsult 0.24673791
+    ppflirtation 0.45576203
+    ppidentityattack 0.5767541
+    ppthreat 0.3300831
+    pptoxicity 0.027065687
+    ppsexuallyexplicit 0.16993298
+    ppprofanity 0.25382987
+    ppinflammatory 0.059372444
+    sentiment 0
     cluster 1
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.16993298
-    PERSPECTIVE_FLIRTATION 0.45576203
-    PERSPECTIVE_INSULT 0.24673791
-    PERSPECTIVE_TOXICITY 0.027065687
-    PERSPECTIVE_IDENTITY_ATTACK 0.5767541
-    PERSPECTIVE_INFLAMMATORY 0.059372444
-    PERSPECTIVE_THREAT 0.3300831
-    PERSPECTIVE_PROFANITY 0.25382987
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 323
+  node
+  [
+    id 345
     label "nAHEC8y0U8Y"
     step 0
     date "2022-01-03T20:25:42Z"
@@ -9059,21 +8740,20 @@ graph [
     commentcount 18
     duration "PT26M44S"
     indegree 0
+    ppinsult 0.060794313
+    ppflirtation 0.4082721
+    ppidentityattack 0.14036283
+    ppthreat 0.12254635
+    pptoxicity 0.0142302895
+    ppsexuallyexplicit 0.16253115
+    ppprofanity 0.10594946
+    ppinflammatory 0.06056611
+    sentiment 0
     cluster 3
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.16253115
-    PERSPECTIVE_FLIRTATION 0.4082721
-    PERSPECTIVE_INSULT 0.060794313
-    PERSPECTIVE_TOXICITY 0.0142302895
-    PERSPECTIVE_IDENTITY_ATTACK 0.14036283
-    PERSPECTIVE_INFLAMMATORY 0.06056611
-    PERSPECTIVE_THREAT 0.12254635
-    PERSPECTIVE_PROFANITY 0.10594946
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 324
+  node
+  [
+    id 346
     label "pAOWNeMC4B4"
     step 0
     date "2021-11-18T01:30:17Z"
@@ -9087,21 +8767,20 @@ graph [
     commentcount 54
     duration "PT39M5S"
     indegree 0
-    cluster 7
+    ppinsult 0.18624906
+    ppflirtation 0.40833682
+    ppidentityattack 0.06776636
+    ppthreat 0.07606889
+    pptoxicity 0.10699297
+    ppsexuallyexplicit 0.0656569
+    ppprofanity 0.06909041
+    ppinflammatory 0.097507276
     sentiment 0.4404
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.0656569
-    PERSPECTIVE_FLIRTATION 0.40833682
-    PERSPECTIVE_INSULT 0.18624906
-    PERSPECTIVE_TOXICITY 0.10699297
-    PERSPECTIVE_IDENTITY_ATTACK 0.06776636
-    PERSPECTIVE_INFLAMMATORY 0.097507276
-    PERSPECTIVE_THREAT 0.07606889
-    PERSPECTIVE_PROFANITY 0.06909041
-    leftright ""
-    channeltags ""
+    cluster 6
   ]
-  node [
-    id 325
+  node
+  [
+    id 347
     label "BvzH0RW57RI"
     step 0
     date "2021-02-17T18:03:34Z"
@@ -9115,21 +8794,20 @@ graph [
     commentcount 35
     duration "PT1M4S"
     indegree 0
+    ppinsult 0.03044204
+    ppflirtation 0.37805024
+    ppidentityattack 0.05508822
+    ppthreat 0.14560328
+    pptoxicity 0.16413476
+    ppsexuallyexplicit 0.061328676
+    ppprofanity 0.03697428
+    ppinflammatory 0.09198614
+    sentiment 0
     cluster 5
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.061328676
-    PERSPECTIVE_FLIRTATION 0.37805024
-    PERSPECTIVE_INSULT 0.03044204
-    PERSPECTIVE_TOXICITY 0.16413476
-    PERSPECTIVE_IDENTITY_ATTACK 0.05508822
-    PERSPECTIVE_INFLAMMATORY 0.09198614
-    PERSPECTIVE_THREAT 0.14560328
-    PERSPECTIVE_PROFANITY 0.03697428
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 326
+  node
+  [
+    id 348
     label "cOnGmqyhUuU"
     step 0
     date "2021-11-24T23:14:35Z"
@@ -9143,21 +8821,20 @@ graph [
     commentcount 40
     duration "PT1H22M45S"
     indegree 0
+    ppinsult 0.023871444
+    ppflirtation 0.3215559
+    ppidentityattack 0.059430856
+    ppthreat 0.111753486
+    pptoxicity 0.09387396
+    ppsexuallyexplicit 0.07400376
+    ppprofanity 0.044908013
+    ppinflammatory 0.10934105
+    sentiment 0
     cluster 7
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.07400376
-    PERSPECTIVE_FLIRTATION 0.3215559
-    PERSPECTIVE_INSULT 0.023871444
-    PERSPECTIVE_TOXICITY 0.09387396
-    PERSPECTIVE_IDENTITY_ATTACK 0.059430856
-    PERSPECTIVE_INFLAMMATORY 0.10934105
-    PERSPECTIVE_THREAT 0.111753486
-    PERSPECTIVE_PROFANITY 0.044908013
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 327
+  node
+  [
+    id 349
     label "2aNhsBV-zM8"
     step 0
     date "2022-02-21T00:15:00Z"
@@ -9171,21 +8848,20 @@ graph [
     commentcount 59
     duration "PT50M42S"
     indegree 1
+    ppinsult 0.24265312
+    ppflirtation 0.3667495
+    ppidentityattack 0.58523935
+    ppthreat 0.3710678
+    pptoxicity 0.13835071
+    ppsexuallyexplicit 0.16110805
+    ppprofanity 0.2848759
+    ppinflammatory 0.0022170101
+    sentiment 0
     cluster 7
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.16110805
-    PERSPECTIVE_FLIRTATION 0.3667495
-    PERSPECTIVE_INSULT 0.24265312
-    PERSPECTIVE_TOXICITY 0.13835071
-    PERSPECTIVE_IDENTITY_ATTACK 0.58523935
-    PERSPECTIVE_INFLAMMATORY 0.0022170101
-    PERSPECTIVE_THREAT 0.3710678
-    PERSPECTIVE_PROFANITY 0.2848759
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 328
+  node
+  [
+    id 350
     label "9QP4peaAGbk"
     step 0
     date "2022-03-07T02:19:41Z"
@@ -9199,21 +8875,20 @@ graph [
     commentcount 80
     duration "PT30M38S"
     indegree 0
+    ppinsult 0.30248675
+    ppflirtation 0.3370531
+    ppidentityattack 0.62640154
+    ppthreat 0.3068977
+    pptoxicity 0.03856816
+    ppsexuallyexplicit 0.14015135
+    ppprofanity 0.30798554
+    ppinflammatory 0.048635226
+    sentiment 0
     cluster 7
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.14015135
-    PERSPECTIVE_FLIRTATION 0.3370531
-    PERSPECTIVE_INSULT 0.30248675
-    PERSPECTIVE_TOXICITY 0.03856816
-    PERSPECTIVE_IDENTITY_ATTACK 0.62640154
-    PERSPECTIVE_INFLAMMATORY 0.048635226
-    PERSPECTIVE_THREAT 0.3068977
-    PERSPECTIVE_PROFANITY 0.30798554
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 329
+  node
+  [
+    id 351
     label "qYjWc_JvlOM"
     step 0
     date "2017-06-07T19:46:32Z"
@@ -9227,21 +8902,20 @@ graph [
     commentcount 1
     duration "PT14M4S"
     indegree 1
+    ppinsult 0.019869098
+    ppflirtation 0.25981364
+    ppidentityattack 0.02301074
+    ppthreat 0.17017792
+    pptoxicity 0.033932835
+    ppsexuallyexplicit 0.035964713
+    ppprofanity 0.025476625
+    ppinflammatory 0.012884918
+    sentiment 0
     cluster 2
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.035964713
-    PERSPECTIVE_FLIRTATION 0.25981364
-    PERSPECTIVE_INSULT 0.019869098
-    PERSPECTIVE_TOXICITY 0.033932835
-    PERSPECTIVE_IDENTITY_ATTACK 0.02301074
-    PERSPECTIVE_INFLAMMATORY 0.012884918
-    PERSPECTIVE_THREAT 0.17017792
-    PERSPECTIVE_PROFANITY 0.025476625
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 330
+  node
+  [
+    id 352
     label "JAsYldLHVwQ"
     step 0
     date "2022-03-09T05:00:13Z"
@@ -9255,21 +8929,20 @@ graph [
     commentcount 32
     duration "PT22M59S"
     indegree 4
-    cluster 4
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.1757341
-    PERSPECTIVE_FLIRTATION 0.35165372
-    PERSPECTIVE_INSULT 0.23217615
-    PERSPECTIVE_TOXICITY 0.033074442
-    PERSPECTIVE_IDENTITY_ATTACK 0.20091829
-    PERSPECTIVE_INFLAMMATORY 0.028803658
-    PERSPECTIVE_THREAT 0.24480377
-    PERSPECTIVE_PROFANITY 0.23620653
-    leftright ""
-    channeltags ""
+    ppinsult 0.23217615
+    ppflirtation 0.35165372
+    ppidentityattack 0.20091829
+    ppthreat 0.24480377
+    pptoxicity 0.033074442
+    ppsexuallyexplicit 0.1757341
+    ppprofanity 0.23620653
+    ppinflammatory 0.028803658
+    sentiment 0
+    cluster 7
   ]
-  node [
-    id 331
+  node
+  [
+    id 353
     label "cUgKGL8_Pko"
     step 0
     date "2021-11-24T17:14:47Z"
@@ -9283,21 +8956,20 @@ graph [
     commentcount 55
     duration "PT45M25S"
     indegree 0
+    ppinsult 0.27425355
+    ppflirtation 0.36435303
+    ppidentityattack 0.6040408
+    ppthreat 0.39629707
+    pptoxicity 0.13565879
+    ppsexuallyexplicit 0.17987281
+    ppprofanity 0.30846122
+    ppinflammatory 0.11168734
+    sentiment 0
     cluster 7
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.17987281
-    PERSPECTIVE_FLIRTATION 0.36435303
-    PERSPECTIVE_INSULT 0.27425355
-    PERSPECTIVE_TOXICITY 0.13565879
-    PERSPECTIVE_IDENTITY_ATTACK 0.6040408
-    PERSPECTIVE_INFLAMMATORY 0.11168734
-    PERSPECTIVE_THREAT 0.39629707
-    PERSPECTIVE_PROFANITY 0.30846122
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 332
+  node
+  [
+    id 354
     label "151fXyzkTb8"
     step 0
     date "2021-04-10T13:08:56Z"
@@ -9311,21 +8983,20 @@ graph [
     commentcount 144
     duration "PT25M34S"
     indegree 0
-    cluster 1
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.046308
-    PERSPECTIVE_FLIRTATION 0.29287645
-    PERSPECTIVE_INSULT 0.03878818
-    PERSPECTIVE_TOXICITY 0.0048591234
-    PERSPECTIVE_IDENTITY_ATTACK 0.049838718
-    PERSPECTIVE_INFLAMMATORY 0.006245257
-    PERSPECTIVE_THREAT 0.23971993
-    PERSPECTIVE_PROFANITY 0.05061021
-    leftright ""
-    channeltags ""
+    ppinsult 0.03878818
+    ppflirtation 0.29287645
+    ppidentityattack 0.049838718
+    ppthreat 0.23971993
+    pptoxicity 0.0048591234
+    ppsexuallyexplicit 0.046308
+    ppprofanity 0.05061021
+    ppinflammatory 0.006245257
+    sentiment 0
+    cluster 7
   ]
-  node [
-    id 333
+  node
+  [
+    id 355
     label "OVuT2ZotOKQ"
     step 0
     date "2021-02-14T23:00:32Z"
@@ -9339,21 +9010,20 @@ graph [
     commentcount 44
     duration "PT33M8S"
     indegree 24
+    ppinsult 0.095866345
+    ppflirtation 0.22241528
+    ppidentityattack 0.1162549
+    ppthreat 0.17011832
+    pptoxicity 0.12309273
+    ppsexuallyexplicit 0.055886906
+    ppprofanity 0.081685595
+    ppinflammatory 0.04009202
+    sentiment 0
     cluster 3
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.055886906
-    PERSPECTIVE_FLIRTATION 0.22241528
-    PERSPECTIVE_INSULT 0.095866345
-    PERSPECTIVE_TOXICITY 0.12309273
-    PERSPECTIVE_IDENTITY_ATTACK 0.1162549
-    PERSPECTIVE_INFLAMMATORY 0.04009202
-    PERSPECTIVE_THREAT 0.17011832
-    PERSPECTIVE_PROFANITY 0.081685595
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 334
+  node
+  [
+    id 356
     label "XOWLGHweBRA"
     step 0
     date "2021-08-13T00:57:48Z"
@@ -9367,21 +9037,20 @@ graph [
     commentcount 30
     duration "PT22M49S"
     indegree 0
+    ppinsult 0.06975405
+    ppflirtation 0.2769185
+    ppidentityattack 0.11816232
+    ppthreat 0.1198793
+    pptoxicity 0.055732824
+    ppsexuallyexplicit 0.051739518
+    ppprofanity 0.07726189
+    ppinflammatory 0.032998875
+    sentiment 0
     cluster 3
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.051739518
-    PERSPECTIVE_FLIRTATION 0.2769185
-    PERSPECTIVE_INSULT 0.06975405
-    PERSPECTIVE_TOXICITY 0.055732824
-    PERSPECTIVE_IDENTITY_ATTACK 0.11816232
-    PERSPECTIVE_INFLAMMATORY 0.032998875
-    PERSPECTIVE_THREAT 0.1198793
-    PERSPECTIVE_PROFANITY 0.07726189
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 335
+  node
+  [
+    id 357
     label "-y7s_1xDRVg"
     step 0
     date "2021-06-26T21:28:15Z"
@@ -9395,21 +9064,20 @@ graph [
     commentcount 99
     duration "PT26M55S"
     indegree 4
-    cluster 1
+    ppinsult 0.027988603
+    ppflirtation 0.21681727
+    ppidentityattack 0.060626462
+    ppthreat 0.08057991
+    pptoxicity 0.07970683
+    ppsexuallyexplicit 0.05167971
+    ppprofanity 0.03768492
+    ppinflammatory 0.13618442
     sentiment 0.296
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.05167971
-    PERSPECTIVE_FLIRTATION 0.21681727
-    PERSPECTIVE_INSULT 0.027988603
-    PERSPECTIVE_TOXICITY 0.07970683
-    PERSPECTIVE_IDENTITY_ATTACK 0.060626462
-    PERSPECTIVE_INFLAMMATORY 0.13618442
-    PERSPECTIVE_THREAT 0.08057991
-    PERSPECTIVE_PROFANITY 0.03768492
-    leftright ""
-    channeltags ""
+    cluster 5
   ]
-  node [
-    id 336
+  node
+  [
+    id 358
     label "ZhKhHjdzcxY"
     step 0
     date "2020-04-14T21:00:07Z"
@@ -9423,21 +9091,20 @@ graph [
     commentcount 36
     duration "PT15M6S"
     indegree 0
-    cluster 5
+    ppinsult 0.09838845
+    ppflirtation 0.34368595
+    ppidentityattack 0.14064713
+    ppthreat 0.18926515
+    pptoxicity 0.043718524
+    ppsexuallyexplicit 0.04417506
+    ppprofanity 0.08238199
+    ppinflammatory 0.055817936
     sentiment 0.6115
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.04417506
-    PERSPECTIVE_FLIRTATION 0.34368595
-    PERSPECTIVE_INSULT 0.09838845
-    PERSPECTIVE_TOXICITY 0.043718524
-    PERSPECTIVE_IDENTITY_ATTACK 0.14064713
-    PERSPECTIVE_INFLAMMATORY 0.055817936
-    PERSPECTIVE_THREAT 0.18926515
-    PERSPECTIVE_PROFANITY 0.08238199
-    leftright ""
-    channeltags ""
+    cluster 5
   ]
-  node [
-    id 337
+  node
+  [
+    id 359
     label "M_vkNde1uzk"
     step 0
     date "2020-01-16T03:15:24Z"
@@ -9451,21 +9118,20 @@ graph [
     commentcount 71
     duration "PT34M42S"
     indegree 3
+    ppinsult 0.11045864
+    ppflirtation 0.21421936
+    ppidentityattack 0.12919943
+    ppthreat 0.21352607
+    pptoxicity 0.07571117
+    ppsexuallyexplicit 0.09501846
+    ppprofanity 0.11791103
+    ppinflammatory 0.045081507
+    sentiment 0
     cluster 3
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.09501846
-    PERSPECTIVE_FLIRTATION 0.21421936
-    PERSPECTIVE_INSULT 0.11045864
-    PERSPECTIVE_TOXICITY 0.07571117
-    PERSPECTIVE_IDENTITY_ATTACK 0.12919943
-    PERSPECTIVE_INFLAMMATORY 0.045081507
-    PERSPECTIVE_THREAT 0.21352607
-    PERSPECTIVE_PROFANITY 0.11791103
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 338
+  node
+  [
+    id 360
     label "zMXuvTbCojE"
     step 0
     date "2020-01-22T05:57:19Z"
@@ -9479,21 +9145,20 @@ graph [
     commentcount 68
     duration "PT19M19S"
     indegree 2
-    cluster 3
+    ppinsult 0.12547766
+    ppflirtation 0.2666634
+    ppidentityattack 0.13327758
+    ppthreat 0.24228245
+    pptoxicity 0.040971663
+    ppsexuallyexplicit 0.19169547
+    ppprofanity 0.17942862
+    ppinflammatory 0.0134561835
     sentiment 0.4588
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.19169547
-    PERSPECTIVE_FLIRTATION 0.2666634
-    PERSPECTIVE_INSULT 0.12547766
-    PERSPECTIVE_TOXICITY 0.040971663
-    PERSPECTIVE_IDENTITY_ATTACK 0.13327758
-    PERSPECTIVE_INFLAMMATORY 0.0134561835
-    PERSPECTIVE_THREAT 0.24228245
-    PERSPECTIVE_PROFANITY 0.17942862
-    leftright ""
-    channeltags ""
+    cluster 3
   ]
-  node [
-    id 339
+  node
+  [
+    id 361
     label "5_3h2hTBHmA"
     step 0
     date "2022-04-23T11:00:02Z"
@@ -9507,21 +9172,20 @@ graph [
     commentcount 9
     duration "PT4M13S"
     indegree 16
-    cluster 4
+    ppinsult 0.030972706
+    ppflirtation 0.2989511
+    ppidentityattack 0.05854065
+    ppthreat 0.07989587
+    pptoxicity 0.059328925
+    ppsexuallyexplicit 0.0596855
+    ppprofanity 0.0424651
+    ppinflammatory 0.035934072
     sentiment 0.4939
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.0596855
-    PERSPECTIVE_FLIRTATION 0.2989511
-    PERSPECTIVE_INSULT 0.030972706
-    PERSPECTIVE_TOXICITY 0.059328925
-    PERSPECTIVE_IDENTITY_ATTACK 0.05854065
-    PERSPECTIVE_INFLAMMATORY 0.035934072
-    PERSPECTIVE_THREAT 0.07989587
-    PERSPECTIVE_PROFANITY 0.0424651
-    leftright ""
-    channeltags ""
+    cluster 4
   ]
-  node [
-    id 340
+  node
+  [
+    id 362
     label "Txi_1QeVvFE"
     step 0
     date "2021-10-01T11:00:28Z"
@@ -9535,21 +9199,20 @@ graph [
     commentcount 20
     duration "PT12M33S"
     indegree 0
+    ppinsult 0.023836777
+    ppflirtation 0.2859149
+    ppidentityattack 0.0407917
+    ppthreat 0.14206457
+    pptoxicity 0.033074442
+    ppsexuallyexplicit 0.08428805
+    ppprofanity 0.07679748
+    ppinflammatory 0.094293945
+    sentiment 0
     cluster 4
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.08428805
-    PERSPECTIVE_FLIRTATION 0.2859149
-    PERSPECTIVE_INSULT 0.023836777
-    PERSPECTIVE_TOXICITY 0.033074442
-    PERSPECTIVE_IDENTITY_ATTACK 0.0407917
-    PERSPECTIVE_INFLAMMATORY 0.094293945
-    PERSPECTIVE_THREAT 0.14206457
-    PERSPECTIVE_PROFANITY 0.07679748
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 341
+  node
+  [
+    id 363
     label "E8GARm-4pX0"
     step 0
     date "2021-10-09T14:41:10Z"
@@ -9563,21 +9226,20 @@ graph [
     commentcount 32
     duration "PT17M48S"
     indegree 1
+    ppinsult 0.028167468
+    ppflirtation 0.37025478
+    ppidentityattack 0.06280819
+    ppthreat 0.06558324
+    pptoxicity 0.049212243
+    ppsexuallyexplicit 0.03208188
+    ppprofanity 0.029660843
+    ppinflammatory 0.012102762
+    sentiment 0
     cluster 3
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.03208188
-    PERSPECTIVE_FLIRTATION 0.37025478
-    PERSPECTIVE_INSULT 0.028167468
-    PERSPECTIVE_TOXICITY 0.049212243
-    PERSPECTIVE_IDENTITY_ATTACK 0.06280819
-    PERSPECTIVE_INFLAMMATORY 0.012102762
-    PERSPECTIVE_THREAT 0.06558324
-    PERSPECTIVE_PROFANITY 0.029660843
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 342
+  node
+  [
+    id 364
     label "LOE_JoXNDyE"
     step 0
     date "2021-03-28T10:26:13Z"
@@ -9591,21 +9253,20 @@ graph [
     commentcount 11
     duration "PT7M57S"
     indegree 2
+    ppinsult 0.11958029
+    ppflirtation 0.24318561
+    ppidentityattack 0.124207206
+    ppthreat 0.14121605
+    pptoxicity 0.027409043
+    ppsexuallyexplicit 0.10166165
+    ppprofanity 0.13143872
+    ppinflammatory 0.017363733
+    sentiment 0
     cluster 4
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.10166165
-    PERSPECTIVE_FLIRTATION 0.24318561
-    PERSPECTIVE_INSULT 0.11958029
-    PERSPECTIVE_TOXICITY 0.027409043
-    PERSPECTIVE_IDENTITY_ATTACK 0.124207206
-    PERSPECTIVE_INFLAMMATORY 0.017363733
-    PERSPECTIVE_THREAT 0.14121605
-    PERSPECTIVE_PROFANITY 0.13143872
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 343
+  node
+  [
+    id 365
     label "1iFkZZYlFzc"
     step 0
     date "2020-11-26T18:10:22Z"
@@ -9619,21 +9280,20 @@ graph [
     commentcount 28
     duration "PT22M48S"
     indegree 11
+    ppinsult 0.23955047
+    ppflirtation 0.48041794
+    ppidentityattack 0.5169847
+    ppthreat 0.38010073
+    pptoxicity 0.07690986
+    ppsexuallyexplicit 0.24082123
+    ppprofanity 0.24837227
+    ppinflammatory 0.018722732
+    sentiment 0
     cluster 6
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.24082123
-    PERSPECTIVE_FLIRTATION 0.48041794
-    PERSPECTIVE_INSULT 0.23955047
-    PERSPECTIVE_TOXICITY 0.07690986
-    PERSPECTIVE_IDENTITY_ATTACK 0.5169847
-    PERSPECTIVE_INFLAMMATORY 0.018722732
-    PERSPECTIVE_THREAT 0.38010073
-    PERSPECTIVE_PROFANITY 0.24837227
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 344
+  node
+  [
+    id 366
     label "fwGgX0fTKFc"
     step 0
     date "2022-06-18T11:00:17Z"
@@ -9647,21 +9307,20 @@ graph [
     commentcount 25
     duration "PT15M35S"
     indegree 16
-    cluster 4
+    ppinsult 0.06068105
+    ppflirtation 0.3498682
+    ppidentityattack 0.06261697
+    ppthreat 0.13227051
+    pptoxicity 0.05613239
+    ppsexuallyexplicit 0.029166782
+    ppprofanity 0.02025737
+    ppinflammatory 0.16411349
     sentiment 0.5859
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.029166782
-    PERSPECTIVE_FLIRTATION 0.3498682
-    PERSPECTIVE_INSULT 0.06068105
-    PERSPECTIVE_TOXICITY 0.05613239
-    PERSPECTIVE_IDENTITY_ATTACK 0.06261697
-    PERSPECTIVE_INFLAMMATORY 0.16411349
-    PERSPECTIVE_THREAT 0.13227051
-    PERSPECTIVE_PROFANITY 0.02025737
-    leftright ""
-    channeltags ""
+    cluster 4
   ]
-  node [
-    id 345
+  node
+  [
+    id 367
     label "yqcABTjygW4"
     step 0
     date "2022-06-09T02:00:17Z"
@@ -9675,21 +9334,20 @@ graph [
     commentcount 31
     duration "PT21M23S"
     indegree 16
+    ppinsult 0.07256095
+    ppflirtation 0.50081384
+    ppidentityattack 0.08424307
+    ppthreat 0.19893879
+    pptoxicity 0.08050597
+    ppsexuallyexplicit 0.16076133
+    ppprofanity 0.13272473
+    ppinflammatory 0.022056308
+    sentiment 0
     cluster 7
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.16076133
-    PERSPECTIVE_FLIRTATION 0.50081384
-    PERSPECTIVE_INSULT 0.07256095
-    PERSPECTIVE_TOXICITY 0.08050597
-    PERSPECTIVE_IDENTITY_ATTACK 0.08424307
-    PERSPECTIVE_INFLAMMATORY 0.022056308
-    PERSPECTIVE_THREAT 0.19893879
-    PERSPECTIVE_PROFANITY 0.13272473
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 346
+  node
+  [
+    id 368
     label "7YOToSLfIuI"
     step 0
     date "2021-05-30T19:25:38Z"
@@ -9703,21 +9361,20 @@ graph [
     commentcount 27
     duration "PT16M40S"
     indegree 1
+    ppinsult 0.038812816
+    ppflirtation 0.22569613
+    ppidentityattack 0.061140202
+    ppthreat 0.08566157
+    pptoxicity 0.039598234
+    ppsexuallyexplicit 0.08459672
+    ppprofanity 0.064363495
+    ppinflammatory 0.03255004
+    sentiment 0
     cluster 3
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.08459672
-    PERSPECTIVE_FLIRTATION 0.22569613
-    PERSPECTIVE_INSULT 0.038812816
-    PERSPECTIVE_TOXICITY 0.039598234
-    PERSPECTIVE_IDENTITY_ATTACK 0.061140202
-    PERSPECTIVE_INFLAMMATORY 0.03255004
-    PERSPECTIVE_THREAT 0.08566157
-    PERSPECTIVE_PROFANITY 0.064363495
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 347
+  node
+  [
+    id 369
     label "pS4i42E1AVs"
     step 0
     date "2021-12-01T05:02:05Z"
@@ -9731,21 +9388,20 @@ graph [
     commentcount 26
     duration "PT17M51S"
     indegree 0
+    ppinsult 0.06638764
+    ppflirtation 0.4783081
+    ppidentityattack 0.11375426
+    ppthreat 0.20999996
+    pptoxicity 0.15976663
+    ppsexuallyexplicit 0.1541838
+    ppprofanity 0.13330013
+    ppinflammatory 0.061422862
+    sentiment 0
     cluster 8
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.1541838
-    PERSPECTIVE_FLIRTATION 0.4783081
-    PERSPECTIVE_INSULT 0.06638764
-    PERSPECTIVE_TOXICITY 0.15976663
-    PERSPECTIVE_IDENTITY_ATTACK 0.11375426
-    PERSPECTIVE_INFLAMMATORY 0.061422862
-    PERSPECTIVE_THREAT 0.20999996
-    PERSPECTIVE_PROFANITY 0.13330013
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 348
+  node
+  [
+    id 371
     label "vKitAE42_o8"
     step 0
     date "2021-05-05T21:14:07Z"
@@ -9759,21 +9415,20 @@ graph [
     commentcount 66
     duration "PT34M43S"
     indegree 4
-    cluster 3
+    ppinsult 0.0638221
+    ppflirtation 0.5729038
+    ppidentityattack 0.08240352
+    ppthreat 0.115534715
+    pptoxicity 0.06412373
+    ppsexuallyexplicit 0.07046935
+    ppprofanity 0.061954174
+    ppinflammatory 0.004003529
     sentiment 0.6369
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.07046935
-    PERSPECTIVE_FLIRTATION 0.5729038
-    PERSPECTIVE_INSULT 0.0638221
-    PERSPECTIVE_TOXICITY 0.06412373
-    PERSPECTIVE_IDENTITY_ATTACK 0.08240352
-    PERSPECTIVE_INFLAMMATORY 0.004003529
-    PERSPECTIVE_THREAT 0.115534715
-    PERSPECTIVE_PROFANITY 0.061954174
-    leftright ""
-    channeltags ""
+    cluster 3
   ]
-  node [
-    id 349
+  node
+  [
+    id 372
     label "C3-PKgts-ic"
     step 0
     date "2020-08-28T23:47:54Z"
@@ -9787,21 +9442,20 @@ graph [
     commentcount 35
     duration "PT20M57S"
     indegree 0
-    cluster 3
+    ppinsult 0.046626575
+    ppflirtation 0.35164014
+    ppidentityattack 0.06811678
+    ppthreat 0.4419653
+    pptoxicity 0.04543531
+    ppsexuallyexplicit 0.047186844
+    ppprofanity 0.052341715
+    ppinflammatory 0.00057929865
     sentiment 0.3818
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.047186844
-    PERSPECTIVE_FLIRTATION 0.35164014
-    PERSPECTIVE_INSULT 0.046626575
-    PERSPECTIVE_TOXICITY 0.04543531
-    PERSPECTIVE_IDENTITY_ATTACK 0.06811678
-    PERSPECTIVE_INFLAMMATORY 0.00057929865
-    PERSPECTIVE_THREAT 0.4419653
-    PERSPECTIVE_PROFANITY 0.052341715
-    leftright ""
-    channeltags ""
+    cluster 3
   ]
-  node [
-    id 350
+  node
+  [
+    id 373
     label "u7ADJDzjgrk"
     step 0
     date "2021-09-30T13:38:13Z"
@@ -9815,21 +9469,20 @@ graph [
     commentcount 28
     duration "PT29M55S"
     indegree 1
-    cluster 3
+    ppinsult 0.07446155
+    ppflirtation 0.2330681
+    ppidentityattack 0.1101233
+    ppthreat 0.10630729
+    pptoxicity 0.07730943
+    ppsexuallyexplicit 0.08038702
+    ppprofanity 0.0995005
+    ppinflammatory 0.025700727
     sentiment 0.3182
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.08038702
-    PERSPECTIVE_FLIRTATION 0.2330681
-    PERSPECTIVE_INSULT 0.07446155
-    PERSPECTIVE_TOXICITY 0.07730943
-    PERSPECTIVE_IDENTITY_ATTACK 0.1101233
-    PERSPECTIVE_INFLAMMATORY 0.025700727
-    PERSPECTIVE_THREAT 0.10630729
-    PERSPECTIVE_PROFANITY 0.0995005
-    leftright ""
-    channeltags ""
+    cluster 3
   ]
-  node [
-    id 351
+  node
+  [
+    id 374
     label "O6rPNNPmva4"
     step 0
     date "2021-07-18T18:35:14Z"
@@ -9843,21 +9496,20 @@ graph [
     commentcount 23
     duration "PT21M43S"
     indegree 4
-    cluster 7
+    ppinsult 0.07514009
+    ppflirtation 0.4006546
+    ppidentityattack 0.08693268
+    ppthreat 0.1190292
+    pptoxicity 0.14911842
+    ppsexuallyexplicit 0.057888545
+    ppprofanity 0.054789238
+    ppinflammatory 0.04350844
     sentiment 0.3818
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.057888545
-    PERSPECTIVE_FLIRTATION 0.4006546
-    PERSPECTIVE_INSULT 0.07514009
-    PERSPECTIVE_TOXICITY 0.14911842
-    PERSPECTIVE_IDENTITY_ATTACK 0.08693268
-    PERSPECTIVE_INFLAMMATORY 0.04350844
-    PERSPECTIVE_THREAT 0.1190292
-    PERSPECTIVE_PROFANITY 0.054789238
-    leftright ""
-    channeltags ""
+    cluster 7
   ]
-  node [
-    id 352
+  node
+  [
+    id 375
     label "eIaezVWtLGY"
     step 0
     date "2018-09-06T23:13:30Z"
@@ -9871,21 +9523,20 @@ graph [
     commentcount 100
     duration "PT43M14S"
     indegree 17
+    ppinsult 0.12879103
+    ppflirtation 0.2659587
+    ppidentityattack 0.11883548
+    ppthreat 0.14242356
+    pptoxicity 0.12116077
+    ppsexuallyexplicit 0.09169861
+    ppprofanity 0.11731848
+    ppinflammatory 0.077602476
+    sentiment 0
     cluster 7
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.09169861
-    PERSPECTIVE_FLIRTATION 0.2659587
-    PERSPECTIVE_INSULT 0.12879103
-    PERSPECTIVE_TOXICITY 0.12116077
-    PERSPECTIVE_IDENTITY_ATTACK 0.11883548
-    PERSPECTIVE_INFLAMMATORY 0.077602476
-    PERSPECTIVE_THREAT 0.14242356
-    PERSPECTIVE_PROFANITY 0.11731848
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 353
+  node
+  [
+    id 376
     label "Trck71cyBVQ"
     step 0
     date "2021-12-05T16:48:32Z"
@@ -9899,21 +9550,20 @@ graph [
     commentcount 40
     duration "PT1H7M10S"
     indegree 4
+    ppinsult 0.06205444
+    ppflirtation 0.17972797
+    ppidentityattack 0.06256021
+    ppthreat 0.10374206
+    pptoxicity 0.039254878
+    ppsexuallyexplicit 0.046968255
+    ppprofanity 0.06569604
+    ppinflammatory 0.1454532
+    sentiment 0
     cluster 3
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.046968255
-    PERSPECTIVE_FLIRTATION 0.17972797
-    PERSPECTIVE_INSULT 0.06205444
-    PERSPECTIVE_TOXICITY 0.039254878
-    PERSPECTIVE_IDENTITY_ATTACK 0.06256021
-    PERSPECTIVE_INFLAMMATORY 0.1454532
-    PERSPECTIVE_THREAT 0.10374206
-    PERSPECTIVE_PROFANITY 0.06569604
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 354
+  node
+  [
+    id 378
     label "EBCqtzcEKO0"
     step 0
     date "2022-07-05T23:00:05Z"
@@ -9927,21 +9577,20 @@ graph [
     commentcount 32
     duration "PT11M24S"
     indegree 2
+    ppinsult 0.047329463
+    ppflirtation 0.19443733
+    ppidentityattack 0.058784153
+    ppthreat 0.10827162
+    pptoxicity 0.048525527
+    ppsexuallyexplicit 0.06548548
+    ppprofanity 0.04920792
+    ppinflammatory 0.051191956
+    sentiment 0
     cluster 1
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.06548548
-    PERSPECTIVE_FLIRTATION 0.19443733
-    PERSPECTIVE_INSULT 0.047329463
-    PERSPECTIVE_TOXICITY 0.048525527
-    PERSPECTIVE_IDENTITY_ATTACK 0.058784153
-    PERSPECTIVE_INFLAMMATORY 0.051191956
-    PERSPECTIVE_THREAT 0.10827162
-    PERSPECTIVE_PROFANITY 0.04920792
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 355
+  node
+  [
+    id 379
     label "TKx6qXGd-0s"
     step 0
     date "2021-08-16T21:59:30Z"
@@ -9955,21 +9604,20 @@ graph [
     commentcount 25
     duration "PT24M47S"
     indegree 7
-    cluster 6
+    ppinsult 0.29237738
+    ppflirtation 0.3519784
+    ppidentityattack 0.6047648
+    ppthreat 0.3133172
+    pptoxicity 0.2459383
+    ppsexuallyexplicit 0.15076108
+    ppprofanity 0.29038885
+    ppinflammatory 0.11248195
     sentiment -0.1027
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.15076108
-    PERSPECTIVE_FLIRTATION 0.3519784
-    PERSPECTIVE_INSULT 0.29237738
-    PERSPECTIVE_TOXICITY 0.2459383
-    PERSPECTIVE_IDENTITY_ATTACK 0.6047648
-    PERSPECTIVE_INFLAMMATORY 0.11248195
-    PERSPECTIVE_THREAT 0.3133172
-    PERSPECTIVE_PROFANITY 0.29038885
-    leftright ""
-    channeltags ""
+    cluster 6
   ]
-  node [
-    id 356
+  node
+  [
+    id 380
     label "FT9RomAqnb8"
     step 0
     date "2021-01-04T16:00:12Z"
@@ -9983,21 +9631,20 @@ graph [
     commentcount 83
     duration "PT30M15S"
     indegree 0
+    ppinsult 0.017360426
+    ppflirtation 0.2499308
+    ppidentityattack 0.019431274
+    ppthreat 0.06974539
+    pptoxicity 0.064523295
+    ppsexuallyexplicit 0.06867216
+    ppprofanity 0.037076224
+    ppinflammatory 0.09046512
+    sentiment 0
     cluster 1
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.06867216
-    PERSPECTIVE_FLIRTATION 0.2499308
-    PERSPECTIVE_INSULT 0.017360426
-    PERSPECTIVE_TOXICITY 0.064523295
-    PERSPECTIVE_IDENTITY_ATTACK 0.019431274
-    PERSPECTIVE_INFLAMMATORY 0.09046512
-    PERSPECTIVE_THREAT 0.06974539
-    PERSPECTIVE_PROFANITY 0.037076224
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 357
+  node
+  [
+    id 381
     label "S9sz5waapDg"
     step 0
     date "2021-07-27T11:11:16Z"
@@ -10011,21 +9658,20 @@ graph [
     commentcount 22
     duration "PT14M3S"
     indegree 2
+    ppinsult 0.03295075
+    ppflirtation 0.21902736
+    ppidentityattack 0.031572577
+    ppthreat 0.076919496
+    pptoxicity 0.10300289
+    ppsexuallyexplicit 0.046419933
+    ppprofanity 0.04400854
+    ppinflammatory 0.1510879
+    sentiment 0
     cluster 4
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.046419933
-    PERSPECTIVE_FLIRTATION 0.21902736
-    PERSPECTIVE_INSULT 0.03295075
-    PERSPECTIVE_TOXICITY 0.10300289
-    PERSPECTIVE_IDENTITY_ATTACK 0.031572577
-    PERSPECTIVE_INFLAMMATORY 0.1510879
-    PERSPECTIVE_THREAT 0.076919496
-    PERSPECTIVE_PROFANITY 0.04400854
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 358
+  node
+  [
+    id 382
     label "2Sxx6ovICK0"
     step 0
     date "2020-09-30T16:27:21Z"
@@ -10039,21 +9685,20 @@ graph [
     commentcount 32
     duration "PT25M33S"
     indegree 9
+    ppinsult 0.3418395
+    ppflirtation 0.5156002
+    ppidentityattack 0.6130193
+    ppthreat 0.35274538
+    pptoxicity 0.1019289
+    ppsexuallyexplicit 0.2439515
+    ppprofanity 0.3129227
+    ppinflammatory 0.011296232
+    sentiment 0
     cluster 6
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.2439515
-    PERSPECTIVE_FLIRTATION 0.5156002
-    PERSPECTIVE_INSULT 0.3418395
-    PERSPECTIVE_TOXICITY 0.1019289
-    PERSPECTIVE_IDENTITY_ATTACK 0.6130193
-    PERSPECTIVE_INFLAMMATORY 0.011296232
-    PERSPECTIVE_THREAT 0.35274538
-    PERSPECTIVE_PROFANITY 0.3129227
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 359
+  node
+  [
+    id 383
     label "cqU0SBkAwU0"
     step 0
     date "2021-01-23T00:14:24Z"
@@ -10067,21 +9712,20 @@ graph [
     commentcount 35
     duration "PT9M4S"
     indegree 0
+    ppinsult 0.05944453
+    ppflirtation 0.2830147
+    ppidentityattack 0.035455856
+    ppthreat 0.23906605
+    pptoxicity 0.036851373
+    ppsexuallyexplicit 0.04419228
+    ppprofanity 0.0445595
+    ppinflammatory 0.11839818
+    sentiment 0
     cluster 1
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.04419228
-    PERSPECTIVE_FLIRTATION 0.2830147
-    PERSPECTIVE_INSULT 0.05944453
-    PERSPECTIVE_TOXICITY 0.036851373
-    PERSPECTIVE_IDENTITY_ATTACK 0.035455856
-    PERSPECTIVE_INFLAMMATORY 0.11839818
-    PERSPECTIVE_THREAT 0.23906605
-    PERSPECTIVE_PROFANITY 0.0445595
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 360
+  node
+  [
+    id 384
     label "Bdmj_-Hu1wo"
     step 0
     date "2011-09-15T16:03:47Z"
@@ -10095,21 +9739,20 @@ graph [
     commentcount 4
     duration "PT3M58S"
     indegree 2
-    cluster 1
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.1096858
-    PERSPECTIVE_FLIRTATION 0.28018275
-    PERSPECTIVE_INSULT 0.108278446
-    PERSPECTIVE_TOXICITY 0.03187269
-    PERSPECTIVE_IDENTITY_ATTACK 0.10720282
-    PERSPECTIVE_INFLAMMATORY 0.08483338
-    PERSPECTIVE_THREAT 0.28372318
-    PERSPECTIVE_PROFANITY 0.11103952
-    leftright ""
-    channeltags ""
+    ppinsult 0.108278446
+    ppflirtation 0.28018275
+    ppidentityattack 0.10720282
+    ppthreat 0.28372318
+    pptoxicity 0.03187269
+    ppsexuallyexplicit 0.1096858
+    ppprofanity 0.11103952
+    ppinflammatory 0.08483338
+    sentiment 0
+    cluster 2
   ]
-  node [
-    id 361
+  node
+  [
+    id 385
     label "ima6ilFSUN8"
     step 0
     date "2021-08-15T22:45:03Z"
@@ -10123,21 +9766,20 @@ graph [
     commentcount 55
     duration "PT1H6M6S"
     indegree 0
+    ppinsult 0.08519014
+    ppflirtation 0.3523978
+    ppidentityattack 0.102342375
+    ppthreat 0.14950702
+    pptoxicity 0.1414913
+    ppsexuallyexplicit 0.08626001
+    ppprofanity 0.089641094
+    ppinflammatory 0.008437711
+    sentiment 0
     cluster 7
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.08626001
-    PERSPECTIVE_FLIRTATION 0.3523978
-    PERSPECTIVE_INSULT 0.08519014
-    PERSPECTIVE_TOXICITY 0.1414913
-    PERSPECTIVE_IDENTITY_ATTACK 0.102342375
-    PERSPECTIVE_INFLAMMATORY 0.008437711
-    PERSPECTIVE_THREAT 0.14950702
-    PERSPECTIVE_PROFANITY 0.089641094
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 362
+  node
+  [
+    id 386
     label "7Lhy6PD-5EU"
     step 0
     date "2022-02-03T05:00:03Z"
@@ -10151,21 +9793,20 @@ graph [
     commentcount 41
     duration "PT31M15S"
     indegree 1
+    ppinsult 0.07880484
+    ppflirtation 0.34560645
+    ppidentityattack 0.1960136
+    ppthreat 0.15442914
+    pptoxicity 0.038911518
+    ppsexuallyexplicit 0.112892255
+    ppprofanity 0.099816516
+    ppinflammatory 0.029386586
+    sentiment 0
     cluster 7
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.112892255
-    PERSPECTIVE_FLIRTATION 0.34560645
-    PERSPECTIVE_INSULT 0.07880484
-    PERSPECTIVE_TOXICITY 0.038911518
-    PERSPECTIVE_IDENTITY_ATTACK 0.1960136
-    PERSPECTIVE_INFLAMMATORY 0.029386586
-    PERSPECTIVE_THREAT 0.15442914
-    PERSPECTIVE_PROFANITY 0.099816516
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 363
+  node
+  [
+    id 388
     label "_MHox50opy8"
     step 0
     date "2021-04-05T01:52:11Z"
@@ -10179,21 +9820,20 @@ graph [
     commentcount 48
     duration "PT18M41S"
     indegree 1
+    ppinsult 0.06156302
+    ppflirtation 0.26561534
+    ppidentityattack 0.07621498
+    ppthreat 0.1430934
+    pptoxicity 0.03358948
+    ppsexuallyexplicit 0.11163245
+    ppprofanity 0.08217805
+    ppinflammatory 0.06535541
+    sentiment 0
     cluster 3
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.11163245
-    PERSPECTIVE_FLIRTATION 0.26561534
-    PERSPECTIVE_INSULT 0.06156302
-    PERSPECTIVE_TOXICITY 0.03358948
-    PERSPECTIVE_IDENTITY_ATTACK 0.07621498
-    PERSPECTIVE_INFLAMMATORY 0.06535541
-    PERSPECTIVE_THREAT 0.1430934
-    PERSPECTIVE_PROFANITY 0.08217805
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 364
+  node
+  [
+    id 389
     label "OJjDThWYYJI"
     step 0
     date "2020-11-11T18:19:36Z"
@@ -10207,21 +9847,20 @@ graph [
     commentcount 116
     duration "PT33M25S"
     indegree 10
-    cluster 3
+    ppinsult 0.080547184
+    ppflirtation 0.21727459
+    ppidentityattack 0.09935261
+    ppthreat 0.08601129
+    pptoxicity 0.15246986
+    ppsexuallyexplicit 0.04861643
+    ppprofanity 0.093405396
+    ppinflammatory 0.06179762
     sentiment 0.3182
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.04861643
-    PERSPECTIVE_FLIRTATION 0.21727459
-    PERSPECTIVE_INSULT 0.080547184
-    PERSPECTIVE_TOXICITY 0.15246986
-    PERSPECTIVE_IDENTITY_ATTACK 0.09935261
-    PERSPECTIVE_INFLAMMATORY 0.06179762
-    PERSPECTIVE_THREAT 0.08601129
-    PERSPECTIVE_PROFANITY 0.093405396
-    leftright ""
-    channeltags ""
+    cluster 3
   ]
-  node [
-    id 365
+  node
+  [
+    id 390
     label "t98LCgPoY6w"
     step 0
     date "2021-04-27T15:26:25Z"
@@ -10235,21 +9874,20 @@ graph [
     commentcount 99
     duration "PT2H11M44S"
     indegree 22
-    cluster 1
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.11313205
-    PERSPECTIVE_FLIRTATION 0.35033402
-    PERSPECTIVE_INSULT 0.063579254
-    PERSPECTIVE_TOXICITY 0.0681194
-    PERSPECTIVE_IDENTITY_ATTACK 0.041863512
-    PERSPECTIVE_INFLAMMATORY 0.11427521
-    PERSPECTIVE_THREAT 0.09162664
-    PERSPECTIVE_PROFANITY 0.07634338
-    leftright ""
-    channeltags ""
+    ppinsult 0.063579254
+    ppflirtation 0.35033402
+    ppidentityattack 0.041863512
+    ppthreat 0.09162664
+    pptoxicity 0.0681194
+    ppsexuallyexplicit 0.11313205
+    ppprofanity 0.07634338
+    ppinflammatory 0.11427521
+    sentiment 0
+    cluster 2
   ]
-  node [
-    id 366
+  node
+  [
+    id 391
     label "w5-qL4qweCw"
     step 0
     date "2022-05-25T04:00:16Z"
@@ -10263,21 +9901,20 @@ graph [
     commentcount 77
     duration "PT29M57S"
     indegree 2
-    cluster 2
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.1653602
-    PERSPECTIVE_FLIRTATION 0.3936859
-    PERSPECTIVE_INSULT 0.17948316
-    PERSPECTIVE_TOXICITY 0.029469188
-    PERSPECTIVE_IDENTITY_ATTACK 0.19669354
-    PERSPECTIVE_INFLAMMATORY 0.009299499
-    PERSPECTIVE_THREAT 0.32521006
-    PERSPECTIVE_PROFANITY 0.16993457
-    leftright ""
-    channeltags ""
+    ppinsult 0.17948316
+    ppflirtation 0.3936859
+    ppidentityattack 0.19669354
+    ppthreat 0.32521006
+    pptoxicity 0.029469188
+    ppsexuallyexplicit 0.1653602
+    ppprofanity 0.16993457
+    ppinflammatory 0.009299499
+    sentiment 0
+    cluster 1
   ]
-  node [
-    id 367
+  node
+  [
+    id 392
     label "WZsCBpjXZoc"
     step 0
     date "2021-11-21T00:04:33Z"
@@ -10291,21 +9928,20 @@ graph [
     commentcount 29
     duration "PT32M11S"
     indegree 2
+    ppinsult 0.06170354
+    ppflirtation 0.24971765
+    ppidentityattack 0.076336175
+    ppthreat 0.18758154
+    pptoxicity 0.0717155
+    ppsexuallyexplicit 0.089664474
+    ppprofanity 0.10189697
+    ppinflammatory 0.013901294
+    sentiment 0
     cluster 8
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.089664474
-    PERSPECTIVE_FLIRTATION 0.24971765
-    PERSPECTIVE_INSULT 0.06170354
-    PERSPECTIVE_TOXICITY 0.0717155
-    PERSPECTIVE_IDENTITY_ATTACK 0.076336175
-    PERSPECTIVE_INFLAMMATORY 0.013901294
-    PERSPECTIVE_THREAT 0.18758154
-    PERSPECTIVE_PROFANITY 0.10189697
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 368
+  node
+  [
+    id 393
     label "go8COTyKm_I"
     step 0
     date "2020-09-30T01:03:16Z"
@@ -10319,21 +9955,20 @@ graph [
     commentcount 115
     duration "PT35M44S"
     indegree 24
+    ppinsult 0.07570338
+    ppflirtation 0.20649801
+    ppidentityattack 0.08887349
+    ppthreat 0.07917639
+    pptoxicity 0.090114996
+    ppsexuallyexplicit 0.060451575
+    ppprofanity 0.087865025
+    ppinflammatory 0.023586815
+    sentiment 0
     cluster 3
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.060451575
-    PERSPECTIVE_FLIRTATION 0.20649801
-    PERSPECTIVE_INSULT 0.07570338
-    PERSPECTIVE_TOXICITY 0.090114996
-    PERSPECTIVE_IDENTITY_ATTACK 0.08887349
-    PERSPECTIVE_INFLAMMATORY 0.023586815
-    PERSPECTIVE_THREAT 0.07917639
-    PERSPECTIVE_PROFANITY 0.087865025
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 369
+  node
+  [
+    id 394
     label "waLswdv0IDI"
     step 0
     date "2021-02-19T03:22:38Z"
@@ -10347,21 +9982,20 @@ graph [
     commentcount 108
     duration "PT37M50S"
     indegree 22
+    ppinsult 0.25313434
+    ppflirtation 0.46579006
+    ppidentityattack 0.5418879
+    ppthreat 0.4944737
+    pptoxicity 0.05093802
+    ppsexuallyexplicit 0.19086276
+    ppprofanity 0.301014
+    ppinflammatory 0.018720504
+    sentiment 0
     cluster 6
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.19086276
-    PERSPECTIVE_FLIRTATION 0.46579006
-    PERSPECTIVE_INSULT 0.25313434
-    PERSPECTIVE_TOXICITY 0.05093802
-    PERSPECTIVE_IDENTITY_ATTACK 0.5418879
-    PERSPECTIVE_INFLAMMATORY 0.018720504
-    PERSPECTIVE_THREAT 0.4944737
-    PERSPECTIVE_PROFANITY 0.301014
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 370
+  node
+  [
+    id 395
     label "bJUgKg1BR9s"
     step 0
     date "2021-06-16T11:00:13Z"
@@ -10375,21 +10009,20 @@ graph [
     commentcount 22
     duration "PT20M38S"
     indegree 1
-    cluster 4
+    ppinsult 0.050614428
+    ppflirtation 0.3484867
+    ppidentityattack 0.065797664
+    ppthreat 0.124568105
+    pptoxicity 0.10956893
+    ppsexuallyexplicit 0.089404665
+    ppprofanity 0.0744112
+    ppinflammatory 0.096990764
     sentiment 0.5719
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.089404665
-    PERSPECTIVE_FLIRTATION 0.3484867
-    PERSPECTIVE_INSULT 0.050614428
-    PERSPECTIVE_TOXICITY 0.10956893
-    PERSPECTIVE_IDENTITY_ATTACK 0.065797664
-    PERSPECTIVE_INFLAMMATORY 0.096990764
-    PERSPECTIVE_THREAT 0.124568105
-    PERSPECTIVE_PROFANITY 0.0744112
-    leftright ""
-    channeltags ""
+    cluster 4
   ]
-  node [
-    id 371
+  node
+  [
+    id 397
     label "ecPGYSWBFd4"
     step 0
     date "2021-05-06T20:01:46Z"
@@ -10403,21 +10036,20 @@ graph [
     commentcount 61
     duration "PT21M41S"
     indegree 6
+    ppinsult 0.29393458
+    ppflirtation 0.50227433
+    ppidentityattack 0.6215928
+    ppthreat 0.48098308
+    pptoxicity 0.1250247
+    ppsexuallyexplicit 0.2278757
+    ppprofanity 0.31235984
+    ppinflammatory 0.03153914
+    sentiment 0
     cluster 6
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.2278757
-    PERSPECTIVE_FLIRTATION 0.50227433
-    PERSPECTIVE_INSULT 0.29393458
-    PERSPECTIVE_TOXICITY 0.1250247
-    PERSPECTIVE_IDENTITY_ATTACK 0.6215928
-    PERSPECTIVE_INFLAMMATORY 0.03153914
-    PERSPECTIVE_THREAT 0.48098308
-    PERSPECTIVE_PROFANITY 0.31235984
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 372
+  node
+  [
+    id 398
     label "8dZg48rpFlw"
     step 0
     date "2022-01-29T05:00:03Z"
@@ -10431,21 +10063,20 @@ graph [
     commentcount 48
     duration "PT26M35S"
     indegree 1
+    ppinsult 0.052968513
+    ppflirtation 0.41686568
+    ppidentityattack 0.10862293
+    ppthreat 0.2598317
+    pptoxicity 0.06652113
+    ppsexuallyexplicit 0.13121565
+    ppprofanity 0.14076672
+    ppinflammatory 0.01872306
+    sentiment 0
     cluster 3
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.13121565
-    PERSPECTIVE_FLIRTATION 0.41686568
-    PERSPECTIVE_INSULT 0.052968513
-    PERSPECTIVE_TOXICITY 0.06652113
-    PERSPECTIVE_IDENTITY_ATTACK 0.10862293
-    PERSPECTIVE_INFLAMMATORY 0.01872306
-    PERSPECTIVE_THREAT 0.2598317
-    PERSPECTIVE_PROFANITY 0.14076672
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 373
+  node
+  [
+    id 399
     label "J-0KABH9frA"
     step 0
     date "2022-07-09T22:47:03Z"
@@ -10459,21 +10090,20 @@ graph [
     commentcount 8
     duration "PT28M31S"
     indegree 16
+    ppinsult 0.034056615
+    ppflirtation 0.24738629
+    ppidentityattack 0.023841407
+    ppthreat 0.08971506
+    pptoxicity 0.013952625
+    ppsexuallyexplicit 0.039957102
+    ppprofanity 0.036476385
+    ppinflammatory 0.018990321
+    sentiment 0
     cluster 8
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.039957102
-    PERSPECTIVE_FLIRTATION 0.24738629
-    PERSPECTIVE_INSULT 0.034056615
-    PERSPECTIVE_TOXICITY 0.013952625
-    PERSPECTIVE_IDENTITY_ATTACK 0.023841407
-    PERSPECTIVE_INFLAMMATORY 0.018990321
-    PERSPECTIVE_THREAT 0.08971506
-    PERSPECTIVE_PROFANITY 0.036476385
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 374
+  node
+  [
+    id 402
     label "8bozZA_XZ2o"
     step 0
     date "2021-11-01T19:45:50Z"
@@ -10487,21 +10117,20 @@ graph [
     commentcount 72
     duration "PT37M56S"
     indegree 3
+    ppinsult 0.19147092
+    ppflirtation 0.31437078
+    ppidentityattack 0.48886412
+    ppthreat 0.30444217
+    pptoxicity 0.09548495
+    ppsexuallyexplicit 0.12195248
+    ppprofanity 0.20067132
+    ppinflammatory 0.072439596
+    sentiment 0
     cluster 7
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.12195248
-    PERSPECTIVE_FLIRTATION 0.31437078
-    PERSPECTIVE_INSULT 0.19147092
-    PERSPECTIVE_TOXICITY 0.09548495
-    PERSPECTIVE_IDENTITY_ATTACK 0.48886412
-    PERSPECTIVE_INFLAMMATORY 0.072439596
-    PERSPECTIVE_THREAT 0.30444217
-    PERSPECTIVE_PROFANITY 0.20067132
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 375
+  node
+  [
+    id 403
     label "BEd3nPJ_Bx0"
     step 0
     date "2021-04-29T14:42:43Z"
@@ -10515,21 +10144,20 @@ graph [
     commentcount 15
     duration "PT11M25S"
     indegree 1
+    ppinsult 0.056523863
+    ppflirtation 0.38123906
+    ppidentityattack 0.059605617
+    ppthreat 0.08917722
+    pptoxicity 0.008260509
+    ppsexuallyexplicit 0.0784969
+    ppprofanity 0.065486275
+    ppinflammatory 0.038924817
+    sentiment 0
     cluster 3
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.0784969
-    PERSPECTIVE_FLIRTATION 0.38123906
-    PERSPECTIVE_INSULT 0.056523863
-    PERSPECTIVE_TOXICITY 0.008260509
-    PERSPECTIVE_IDENTITY_ATTACK 0.059605617
-    PERSPECTIVE_INFLAMMATORY 0.038924817
-    PERSPECTIVE_THREAT 0.08917722
-    PERSPECTIVE_PROFANITY 0.065486275
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 376
+  node
+  [
+    id 404
     label "immYUiei60I"
     step 0
     date "2021-11-13T15:12:27Z"
@@ -10543,21 +10171,20 @@ graph [
     commentcount 56
     duration "PT27M37S"
     indegree 4
+    ppinsult 0.22085965
+    ppflirtation 0.4123596
+    ppidentityattack 0.6445189
+    ppthreat 0.47029588
+    pptoxicity 0.21627559
+    ppsexuallyexplicit 0.15027897
+    ppprofanity 0.24464868
+    ppinflammatory 0.030940546
+    sentiment 0
     cluster 7
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.15027897
-    PERSPECTIVE_FLIRTATION 0.4123596
-    PERSPECTIVE_INSULT 0.22085965
-    PERSPECTIVE_TOXICITY 0.21627559
-    PERSPECTIVE_IDENTITY_ATTACK 0.6445189
-    PERSPECTIVE_INFLAMMATORY 0.030940546
-    PERSPECTIVE_THREAT 0.47029588
-    PERSPECTIVE_PROFANITY 0.24464868
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 377
+  node
+  [
+    id 405
     label "2DR7YJbQMYM"
     step 0
     date "2021-01-28T13:05:10Z"
@@ -10571,21 +10198,20 @@ graph [
     commentcount 99
     duration "PT38M25S"
     indegree 9
+    ppinsult 0.096260786
+    ppflirtation 0.3098551
+    ppidentityattack 0.10116947
+    ppthreat 0.15637629
+    pptoxicity 0.15334547
+    ppsexuallyexplicit 0.07337308
+    ppprofanity 0.08904775
+    ppinflammatory 0.005474439
+    sentiment 0
     cluster 3
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.07337308
-    PERSPECTIVE_FLIRTATION 0.3098551
-    PERSPECTIVE_INSULT 0.096260786
-    PERSPECTIVE_TOXICITY 0.15334547
-    PERSPECTIVE_IDENTITY_ATTACK 0.10116947
-    PERSPECTIVE_INFLAMMATORY 0.005474439
-    PERSPECTIVE_THREAT 0.15637629
-    PERSPECTIVE_PROFANITY 0.08904775
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 378
+  node
+  [
+    id 406
     label "HwVzB0r8tUI"
     step 0
     date "2022-05-08T01:48:55Z"
@@ -10599,21 +10225,20 @@ graph [
     commentcount 57
     duration "PT19M47S"
     indegree 4
-    cluster 6
+    ppinsult 0.22016852
+    ppflirtation 0.39349607
+    ppidentityattack 0.5310286
+    ppthreat 0.29509386
+    pptoxicity 0.118584804
+    ppsexuallyexplicit 0.1446646
+    ppprofanity 0.21142553
+    ppinflammatory 0.0071299947
     sentiment 0.5574
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.1446646
-    PERSPECTIVE_FLIRTATION 0.39349607
-    PERSPECTIVE_INSULT 0.22016852
-    PERSPECTIVE_TOXICITY 0.118584804
-    PERSPECTIVE_IDENTITY_ATTACK 0.5310286
-    PERSPECTIVE_INFLAMMATORY 0.0071299947
-    PERSPECTIVE_THREAT 0.29509386
-    PERSPECTIVE_PROFANITY 0.21142553
-    leftright ""
-    channeltags ""
+    cluster 6
   ]
-  node [
-    id 379
+  node
+  [
+    id 407
     label "UMLdhuUzwKk"
     step 0
     date "2022-01-17T06:00:15Z"
@@ -10627,21 +10252,20 @@ graph [
     commentcount 17
     duration "PT1M44S"
     indegree 0
-    cluster 4
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.32863897
-    PERSPECTIVE_FLIRTATION 0.5453332
-    PERSPECTIVE_INSULT 0.44413295
-    PERSPECTIVE_TOXICITY 0.09548495
-    PERSPECTIVE_IDENTITY_ATTACK 0.74596894
-    PERSPECTIVE_INFLAMMATORY 0.023511099
-    PERSPECTIVE_THREAT 0.79821104
-    PERSPECTIVE_PROFANITY 0.49798822
-    leftright ""
-    channeltags ""
+    ppinsult 0.44413295
+    ppflirtation 0.5453332
+    ppidentityattack 0.74596894
+    ppthreat 0.79821104
+    pptoxicity 0.09548495
+    ppsexuallyexplicit 0.32863897
+    ppprofanity 0.49798822
+    ppinflammatory 0.023511099
+    sentiment 0
+    cluster 2
   ]
-  node [
-    id 380
+  node
+  [
+    id 408
     label "EpLiOP0g9Ak"
     step 0
     date "2021-10-26T00:14:45Z"
@@ -10655,21 +10279,20 @@ graph [
     commentcount 48
     duration "PT51M46S"
     indegree 2
+    ppinsult 0.1827488
+    ppflirtation 0.50875235
+    ppidentityattack 0.1314394
+    ppthreat 0.23674743
+    pptoxicity 0.09655894
+    ppsexuallyexplicit 0.21028577
+    ppprofanity 0.21719742
+    ppinflammatory 0.016680002
+    sentiment 0
     cluster 3
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.21028577
-    PERSPECTIVE_FLIRTATION 0.50875235
-    PERSPECTIVE_INSULT 0.1827488
-    PERSPECTIVE_TOXICITY 0.09655894
-    PERSPECTIVE_IDENTITY_ATTACK 0.1314394
-    PERSPECTIVE_INFLAMMATORY 0.016680002
-    PERSPECTIVE_THREAT 0.23674743
-    PERSPECTIVE_PROFANITY 0.21719742
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 381
+  node
+  [
+    id 409
     label "elnCvHch234"
     step 0
     date "2020-08-23T13:32:21Z"
@@ -10683,21 +10306,20 @@ graph [
     commentcount 96
     duration "PT45M7S"
     indegree 14
-    cluster 3
+    ppinsult 0.061242428
+    ppflirtation 0.37833175
+    ppidentityattack 0.06403013
+    ppthreat 0.07901502
+    pptoxicity 0.11600884
+    ppsexuallyexplicit 0.09978138
+    ppprofanity 0.06576991
+    ppinflammatory 0.25049123
     sentiment 0.3182
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.09978138
-    PERSPECTIVE_FLIRTATION 0.37833175
-    PERSPECTIVE_INSULT 0.061242428
-    PERSPECTIVE_TOXICITY 0.11600884
-    PERSPECTIVE_IDENTITY_ATTACK 0.06403013
-    PERSPECTIVE_INFLAMMATORY 0.25049123
-    PERSPECTIVE_THREAT 0.07901502
-    PERSPECTIVE_PROFANITY 0.06576991
-    leftright ""
-    channeltags ""
+    cluster 3
   ]
-  node [
-    id 382
+  node
+  [
+    id 410
     label "eMLCRIdRBjM"
     step 0
     date "2022-04-30T00:21:31Z"
@@ -10711,21 +10333,20 @@ graph [
     commentcount 4
     duration "PT2H12M40S"
     indegree 1
+    ppinsult 0.08889462
+    ppflirtation 0.34459195
+    ppidentityattack 0.08485353
+    ppthreat 0.1329882
+    pptoxicity 0.02809576
+    ppsexuallyexplicit 0.05560202
+    ppprofanity 0.05657662
+    ppinflammatory 0.035464317
+    sentiment 0
     cluster 2
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.05560202
-    PERSPECTIVE_FLIRTATION 0.34459195
-    PERSPECTIVE_INSULT 0.08889462
-    PERSPECTIVE_TOXICITY 0.02809576
-    PERSPECTIVE_IDENTITY_ATTACK 0.08485353
-    PERSPECTIVE_INFLAMMATORY 0.035464317
-    PERSPECTIVE_THREAT 0.1329882
-    PERSPECTIVE_PROFANITY 0.05657662
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 383
+  node
+  [
+    id 411
     label "uEcwSF9IJzs"
     step 0
     date "2018-03-19T05:20:19Z"
@@ -10739,21 +10360,20 @@ graph [
     commentcount 65
     duration "PT43M11S"
     indegree 42
+    ppinsult 0.02546417
+    ppflirtation 0.17374502
+    ppidentityattack 0.062390376
+    ppthreat 0.123170644
+    pptoxicity 0.0729142
+    ppsexuallyexplicit 0.054203615
+    ppprofanity 0.04194037
+    ppinflammatory 0.111687325
+    sentiment 0
     cluster 7
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.054203615
-    PERSPECTIVE_FLIRTATION 0.17374502
-    PERSPECTIVE_INSULT 0.02546417
-    PERSPECTIVE_TOXICITY 0.0729142
-    PERSPECTIVE_IDENTITY_ATTACK 0.062390376
-    PERSPECTIVE_INFLAMMATORY 0.111687325
-    PERSPECTIVE_THREAT 0.123170644
-    PERSPECTIVE_PROFANITY 0.04194037
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 384
+  node
+  [
+    id 412
     label "6TfI6wTVtf0"
     step 0
     date "2021-04-15T01:51:35Z"
@@ -10767,21 +10387,20 @@ graph [
     commentcount 172
     duration "PT30M32S"
     indegree 1
+    ppinsult 0.075102374
+    ppflirtation 0.3033946
+    ppidentityattack 0.13754599
+    ppthreat 0.07216546
+    pptoxicity 0.050585672
+    ppsexuallyexplicit 0.06612186
+    ppprofanity 0.04364581
+    ppinflammatory 0.15526684
+    sentiment 0
     cluster 7
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.06612186
-    PERSPECTIVE_FLIRTATION 0.3033946
-    PERSPECTIVE_INSULT 0.075102374
-    PERSPECTIVE_TOXICITY 0.050585672
-    PERSPECTIVE_IDENTITY_ATTACK 0.13754599
-    PERSPECTIVE_INFLAMMATORY 0.15526684
-    PERSPECTIVE_THREAT 0.07216546
-    PERSPECTIVE_PROFANITY 0.04364581
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 385
+  node
+  [
+    id 413
     label "RwxZMWJsknk"
     step 0
     date "2021-07-21T16:37:37Z"
@@ -10795,21 +10414,20 @@ graph [
     commentcount 39
     duration "PT52M43S"
     indegree 26
+    ppinsult 0.04854881
+    ppflirtation 0.25920102
+    ppidentityattack 0.07184896
+    ppthreat 0.14070022
+    pptoxicity 0.036508016
+    ppsexuallyexplicit 0.077467635
+    ppprofanity 0.061794855
+    ppinflammatory 0.06535541
+    sentiment 0
     cluster 3
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.077467635
-    PERSPECTIVE_FLIRTATION 0.25920102
-    PERSPECTIVE_INSULT 0.04854881
-    PERSPECTIVE_TOXICITY 0.036508016
-    PERSPECTIVE_IDENTITY_ATTACK 0.07184896
-    PERSPECTIVE_INFLAMMATORY 0.06535541
-    PERSPECTIVE_THREAT 0.14070022
-    PERSPECTIVE_PROFANITY 0.061794855
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 386
+  node
+  [
+    id 415
     label "kX96DAkC6Zo"
     step 0
     date "2021-08-25T01:39:19Z"
@@ -10823,21 +10441,20 @@ graph [
     commentcount 56
     duration "PT20M11S"
     indegree 1
+    ppinsult 0.059135705
+    ppflirtation 0.274286
+    ppidentityattack 0.07040213
+    ppthreat 0.13291168
+    pptoxicity 0.06332459
+    ppsexuallyexplicit 0.08200267
+    ppprofanity 0.077862754
+    ppinflammatory 0.006574723
+    sentiment 0
     cluster 3
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.08200267
-    PERSPECTIVE_FLIRTATION 0.274286
-    PERSPECTIVE_INSULT 0.059135705
-    PERSPECTIVE_TOXICITY 0.06332459
-    PERSPECTIVE_IDENTITY_ATTACK 0.07040213
-    PERSPECTIVE_INFLAMMATORY 0.006574723
-    PERSPECTIVE_THREAT 0.13291168
-    PERSPECTIVE_PROFANITY 0.077862754
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 387
+  node
+  [
+    id 416
     label "WTza_pySBgw"
     step 0
     date "2021-12-09T17:25:54Z"
@@ -10851,21 +10468,20 @@ graph [
     commentcount 32
     duration "PT41M36S"
     indegree 0
-    cluster 1
+    ppinsult 0.27691925
+    ppflirtation 0.41828352
+    ppidentityattack 0.6198163
+    ppthreat 0.5732653
+    pptoxicity 0.050242316
+    ppsexuallyexplicit 0.19430648
+    ppprofanity 0.312648
+    ppinflammatory 0.0052795103
     sentiment 0.4404
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.19430648
-    PERSPECTIVE_FLIRTATION 0.41828352
-    PERSPECTIVE_INSULT 0.27691925
-    PERSPECTIVE_TOXICITY 0.050242316
-    PERSPECTIVE_IDENTITY_ATTACK 0.6198163
-    PERSPECTIVE_INFLAMMATORY 0.0052795103
-    PERSPECTIVE_THREAT 0.5732653
-    PERSPECTIVE_PROFANITY 0.312648
-    leftright ""
-    channeltags ""
+    cluster 1
   ]
-  node [
-    id 388
+  node
+  [
+    id 417
     label "Ye2J86y0VLg"
     step 0
     date "2021-02-21T14:23:49Z"
@@ -10879,21 +10495,20 @@ graph [
     commentcount 110
     duration "PT25M56S"
     indegree 14
+    ppinsult 0.5017114
+    ppflirtation 0.46240696
+    ppidentityattack 0.74234825
+    ppthreat 0.56926143
+    pptoxicity 0.15684792
+    ppsexuallyexplicit 0.41444868
+    ppprofanity 0.5684446
+    ppinflammatory 0.005733037
+    sentiment 0
     cluster 6
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.41444868
-    PERSPECTIVE_FLIRTATION 0.46240696
-    PERSPECTIVE_INSULT 0.5017114
-    PERSPECTIVE_TOXICITY 0.15684792
-    PERSPECTIVE_IDENTITY_ATTACK 0.74234825
-    PERSPECTIVE_INFLAMMATORY 0.005733037
-    PERSPECTIVE_THREAT 0.56926143
-    PERSPECTIVE_PROFANITY 0.5684446
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 389
+  node
+  [
+    id 418
     label "AR09MwXE7jI"
     step 0
     date "2021-07-12T22:40:54Z"
@@ -10907,21 +10522,20 @@ graph [
     commentcount 39
     duration "PT22M42S"
     indegree 4
+    ppinsult 0.02810997
+    ppflirtation 0.3346673
+    ppidentityattack 0.056522515
+    ppthreat 0.07997351
+    pptoxicity 0.048525527
+    ppsexuallyexplicit 0.04890026
+    ppprofanity 0.036196653
+    ppinflammatory 0.011446396
+    sentiment 0
     cluster 3
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.04890026
-    PERSPECTIVE_FLIRTATION 0.3346673
-    PERSPECTIVE_INSULT 0.02810997
-    PERSPECTIVE_TOXICITY 0.048525527
-    PERSPECTIVE_IDENTITY_ATTACK 0.056522515
-    PERSPECTIVE_INFLAMMATORY 0.011446396
-    PERSPECTIVE_THREAT 0.07997351
-    PERSPECTIVE_PROFANITY 0.036196653
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 390
+  node
+  [
+    id 419
     label "hpAL3C8ljZQ"
     step 0
     date "2022-04-23T01:51:30Z"
@@ -10935,21 +10549,20 @@ graph [
     commentcount 26
     duration "PT8M9S"
     indegree 0
+    ppinsult 0.04211798
+    ppflirtation 0.44472116
+    ppidentityattack 0.04296092
+    ppthreat 0.09432628
+    pptoxicity 0.061726328
+    ppsexuallyexplicit 0.077271864
+    ppprofanity 0.042536322
+    ppinflammatory 0.1812761
+    sentiment 0
     cluster 6
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.077271864
-    PERSPECTIVE_FLIRTATION 0.44472116
-    PERSPECTIVE_INSULT 0.04211798
-    PERSPECTIVE_TOXICITY 0.061726328
-    PERSPECTIVE_IDENTITY_ATTACK 0.04296092
-    PERSPECTIVE_INFLAMMATORY 0.1812761
-    PERSPECTIVE_THREAT 0.09432628
-    PERSPECTIVE_PROFANITY 0.042536322
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 391
+  node
+  [
+    id 420
     label "ZObY1Xb1khM"
     step 0
     date "2022-01-22T12:00:14Z"
@@ -10963,21 +10576,20 @@ graph [
     commentcount 23
     duration "PT11M1S"
     indegree 1
+    ppinsult 0.11670221
+    ppflirtation 0.6690449
+    ppidentityattack 0.12641715
+    ppthreat 0.25184414
+    pptoxicity 0.017076347
+    ppsexuallyexplicit 0.5265717
+    ppprofanity 0.21486549
+    ppinflammatory 0.0789436
+    sentiment 0
     cluster 4
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.5265717
-    PERSPECTIVE_FLIRTATION 0.6690449
-    PERSPECTIVE_INSULT 0.11670221
-    PERSPECTIVE_TOXICITY 0.017076347
-    PERSPECTIVE_IDENTITY_ATTACK 0.12641715
-    PERSPECTIVE_INFLAMMATORY 0.0789436
-    PERSPECTIVE_THREAT 0.25184414
-    PERSPECTIVE_PROFANITY 0.21486549
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 392
+  node
+  [
+    id 421
     label "-mI1LPu6W5Q"
     step 0
     date "2022-06-29T22:45:01Z"
@@ -10991,21 +10603,20 @@ graph [
     commentcount 111
     duration "PT27M18S"
     indegree 3
-    cluster 4
+    ppinsult 0.12510867
+    ppflirtation 0.35855556
+    ppidentityattack 0.07299604
+    ppthreat 0.15242094
+    pptoxicity 0.22687212
+    ppsexuallyexplicit 0.12144153
+    ppprofanity 0.08780171
+    ppinflammatory 0.19633444
     sentiment 0.3612
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.12144153
-    PERSPECTIVE_FLIRTATION 0.35855556
-    PERSPECTIVE_INSULT 0.12510867
-    PERSPECTIVE_TOXICITY 0.22687212
-    PERSPECTIVE_IDENTITY_ATTACK 0.07299604
-    PERSPECTIVE_INFLAMMATORY 0.19633444
-    PERSPECTIVE_THREAT 0.15242094
-    PERSPECTIVE_PROFANITY 0.08780171
-    leftright ""
-    channeltags ""
+    cluster 4
   ]
-  node [
-    id 393
+  node
+  [
+    id 422
     label "eD79bvkfsWI"
     step 0
     date "2021-11-16T05:00:10Z"
@@ -11019,21 +10630,20 @@ graph [
     commentcount 54
     duration "PT24M57S"
     indegree 3
+    ppinsult 0.07207511
+    ppflirtation 0.3256273
+    ppidentityattack 0.14018565
+    ppthreat 0.06521297
+    pptoxicity 0.04783881
+    ppsexuallyexplicit 0.06888865
+    ppprofanity 0.042213082
+    ppinflammatory 0.062031485
+    sentiment 0
     cluster 7
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.06888865
-    PERSPECTIVE_FLIRTATION 0.3256273
-    PERSPECTIVE_INSULT 0.07207511
-    PERSPECTIVE_TOXICITY 0.04783881
-    PERSPECTIVE_IDENTITY_ATTACK 0.14018565
-    PERSPECTIVE_INFLAMMATORY 0.062031485
-    PERSPECTIVE_THREAT 0.06521297
-    PERSPECTIVE_PROFANITY 0.042213082
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 394
+  node
+  [
+    id 423
     label "P4VHyqF_V8w"
     step 0
     date "2020-08-02T06:26:12Z"
@@ -11047,21 +10657,20 @@ graph [
     commentcount 60
     duration "PT31M32S"
     indegree 20
+    ppinsult 0.116157204
+    ppflirtation 0.20303965
+    ppidentityattack 0.1204469
+    ppthreat 0.19081551
+    pptoxicity 0.07091636
+    ppsexuallyexplicit 0.08771309
+    ppprofanity 0.14547916
+    ppinflammatory 0.045081507
+    sentiment 0
     cluster 3
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.08771309
-    PERSPECTIVE_FLIRTATION 0.20303965
-    PERSPECTIVE_INSULT 0.116157204
-    PERSPECTIVE_TOXICITY 0.07091636
-    PERSPECTIVE_IDENTITY_ATTACK 0.1204469
-    PERSPECTIVE_INFLAMMATORY 0.045081507
-    PERSPECTIVE_THREAT 0.19081551
-    PERSPECTIVE_PROFANITY 0.14547916
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 395
+  node
+  [
+    id 424
     label "dEdHDl0Vflg"
     step 0
     date "2021-09-17T23:02:46Z"
@@ -11075,21 +10684,20 @@ graph [
     commentcount 78
     duration "PT44M51S"
     indegree 0
+    ppinsult 0.029380674
+    ppflirtation 0.39770615
+    ppidentityattack 0.06217165
+    ppthreat 0.1011293
+    pptoxicity 0.12824467
+    ppsexuallyexplicit 0.06289366
+    ppprofanity 0.030224273
+    ppinflammatory 0.009777921
+    sentiment 0
     cluster 7
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.06289366
-    PERSPECTIVE_FLIRTATION 0.39770615
-    PERSPECTIVE_INSULT 0.029380674
-    PERSPECTIVE_TOXICITY 0.12824467
-    PERSPECTIVE_IDENTITY_ATTACK 0.06217165
-    PERSPECTIVE_INFLAMMATORY 0.009777921
-    PERSPECTIVE_THREAT 0.1011293
-    PERSPECTIVE_PROFANITY 0.030224273
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 396
+  node
+  [
+    id 425
     label "-3OiPz1mE_k"
     step 0
     date "2021-08-17T23:40:03Z"
@@ -11103,21 +10711,20 @@ graph [
     commentcount 41
     duration "PT37M12S"
     indegree 14
+    ppinsult 0.032549217
+    ppflirtation 0.33212227
+    ppidentityattack 0.035478022
+    ppthreat 0.083749235
+    pptoxicity 0.086087525
+    ppsexuallyexplicit 0.04053744
+    ppprofanity 0.03603174
+    ppinflammatory 0.016992817
+    sentiment 0
     cluster 3
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.04053744
-    PERSPECTIVE_FLIRTATION 0.33212227
-    PERSPECTIVE_INSULT 0.032549217
-    PERSPECTIVE_TOXICITY 0.086087525
-    PERSPECTIVE_IDENTITY_ATTACK 0.035478022
-    PERSPECTIVE_INFLAMMATORY 0.016992817
-    PERSPECTIVE_THREAT 0.083749235
-    PERSPECTIVE_PROFANITY 0.03603174
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 397
+  node
+  [
+    id 426
     label "VHoJQNcvMBA"
     step 0
     date "2021-10-22T21:39:12Z"
@@ -11131,21 +10738,20 @@ graph [
     commentcount 10
     duration "PT31M19S"
     indegree 1
+    ppinsult 0.06678666
+    ppflirtation 0.27580258
+    ppidentityattack 0.06756065
+    ppthreat 0.12322079
+    pptoxicity 0.04406188
+    ppsexuallyexplicit 0.068392254
+    ppprofanity 0.071648814
+    ppinflammatory 0.0016238972
+    sentiment 0
     cluster 6
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.068392254
-    PERSPECTIVE_FLIRTATION 0.27580258
-    PERSPECTIVE_INSULT 0.06678666
-    PERSPECTIVE_TOXICITY 0.04406188
-    PERSPECTIVE_IDENTITY_ATTACK 0.06756065
-    PERSPECTIVE_INFLAMMATORY 0.0016238972
-    PERSPECTIVE_THREAT 0.12322079
-    PERSPECTIVE_PROFANITY 0.071648814
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 398
+  node
+  [
+    id 428
     label "kJG6CG3dDKo"
     step 0
     date "2022-07-03T13:29:36Z"
@@ -11159,21 +10765,20 @@ graph [
     commentcount 15
     duration "PT1H33M59S"
     indegree 7
+    ppinsult 0.20682769
+    ppflirtation 0.6113014
+    ppidentityattack 0.16020323
+    ppthreat 0.2712844
+    pptoxicity 0.11085691
+    ppsexuallyexplicit 0.32932466
+    ppprofanity 0.21977808
+    ppinflammatory 0.01337555
+    sentiment 0
     cluster 2
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.32932466
-    PERSPECTIVE_FLIRTATION 0.6113014
-    PERSPECTIVE_INSULT 0.20682769
-    PERSPECTIVE_TOXICITY 0.11085691
-    PERSPECTIVE_IDENTITY_ATTACK 0.16020323
-    PERSPECTIVE_INFLAMMATORY 0.01337555
-    PERSPECTIVE_THREAT 0.2712844
-    PERSPECTIVE_PROFANITY 0.21977808
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 399
+  node
+  [
+    id 429
     label "PHLjJp_rN8k"
     step 0
     date "2020-02-24T00:32:36Z"
@@ -11187,21 +10792,20 @@ graph [
     commentcount 64
     duration "PT1H1M15S"
     indegree 3
+    ppinsult 0.07526856
+    ppflirtation 0.32048744
+    ppidentityattack 0.07264196
+    ppthreat 0.08442759
+    pptoxicity 0.0669207
+    ppsexuallyexplicit 0.10248728
+    ppprofanity 0.08494798
+    ppinflammatory 0.020241134
+    sentiment 0
     cluster 1
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.10248728
-    PERSPECTIVE_FLIRTATION 0.32048744
-    PERSPECTIVE_INSULT 0.07526856
-    PERSPECTIVE_TOXICITY 0.0669207
-    PERSPECTIVE_IDENTITY_ATTACK 0.07264196
-    PERSPECTIVE_INFLAMMATORY 0.020241134
-    PERSPECTIVE_THREAT 0.08442759
-    PERSPECTIVE_PROFANITY 0.08494798
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 400
+  node
+  [
+    id 430
     label "JdMedfTSODA"
     step 0
     date "2021-01-19T00:39:08Z"
@@ -11215,21 +10819,20 @@ graph [
     commentcount 192
     duration "PT53M39S"
     indegree 31
-    cluster 6
+    ppinsult 0.3419308
+    ppflirtation 0.4075684
+    ppidentityattack 0.6699553
+    ppthreat 0.56866866
+    pptoxicity 0.05613239
+    ppsexuallyexplicit 0.1885054
+    ppprofanity 0.39336717
+    ppinflammatory 0.004405731
     sentiment -0.4404
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.1885054
-    PERSPECTIVE_FLIRTATION 0.4075684
-    PERSPECTIVE_INSULT 0.3419308
-    PERSPECTIVE_TOXICITY 0.05613239
-    PERSPECTIVE_IDENTITY_ATTACK 0.6699553
-    PERSPECTIVE_INFLAMMATORY 0.004405731
-    PERSPECTIVE_THREAT 0.56866866
-    PERSPECTIVE_PROFANITY 0.39336717
-    leftright ""
-    channeltags ""
+    cluster 6
   ]
-  node [
-    id 401
+  node
+  [
+    id 431
     label "cdcsLjh1OZ4"
     step 0
     date "2022-01-21T18:04:43Z"
@@ -11243,21 +10846,20 @@ graph [
     commentcount 6
     duration "PT53S"
     indegree 0
-    cluster 4
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.12518972
-    PERSPECTIVE_FLIRTATION 0.42318368
-    PERSPECTIVE_INSULT 0.14875133
-    PERSPECTIVE_TOXICITY 0.028954152
-    PERSPECTIVE_IDENTITY_ATTACK 0.4069092
-    PERSPECTIVE_INFLAMMATORY 0.024503618
-    PERSPECTIVE_THREAT 0.2578737
-    PERSPECTIVE_PROFANITY 0.15655221
-    leftright ""
-    channeltags ""
+    ppinsult 0.14875133
+    ppflirtation 0.42318368
+    ppidentityattack 0.4069092
+    ppthreat 0.2578737
+    pptoxicity 0.028954152
+    ppsexuallyexplicit 0.12518972
+    ppprofanity 0.15655221
+    ppinflammatory 0.024503618
+    sentiment 0
+    cluster 2
   ]
-  node [
-    id 402
+  node
+  [
+    id 432
     label "rGkCbiMPlnU"
     step 0
     date "2021-10-13T04:00:13Z"
@@ -11271,21 +10873,20 @@ graph [
     commentcount 34
     duration "PT26M37S"
     indegree 3
+    ppinsult 0.06248666
+    ppflirtation 0.22085999
+    ppidentityattack 0.07772315
+    ppthreat 0.10793989
+    pptoxicity 0.026207292
+    ppsexuallyexplicit 0.07845275
+    ppprofanity 0.08243311
+    ppinflammatory 0.07364483
+    sentiment 0
     cluster 7
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.07845275
-    PERSPECTIVE_FLIRTATION 0.22085999
-    PERSPECTIVE_INSULT 0.06248666
-    PERSPECTIVE_TOXICITY 0.026207292
-    PERSPECTIVE_IDENTITY_ATTACK 0.07772315
-    PERSPECTIVE_INFLAMMATORY 0.07364483
-    PERSPECTIVE_THREAT 0.10793989
-    PERSPECTIVE_PROFANITY 0.08243311
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 403
+  node
+  [
+    id 433
     label "aZEf2yJe8sE"
     step 0
     date "2021-10-02T04:00:01Z"
@@ -11299,21 +10900,20 @@ graph [
     commentcount 59
     duration "PT30M48S"
     indegree 5
+    ppinsult 0.08941974
+    ppflirtation 0.23407279
+    ppidentityattack 0.102150224
+    ppthreat 0.11979408
+    pptoxicity 0.0053797434
+    ppsexuallyexplicit 0.08320538
+    ppprofanity 0.09823173
+    ppinflammatory 0.033647805
+    sentiment 0
     cluster 7
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.08320538
-    PERSPECTIVE_FLIRTATION 0.23407279
-    PERSPECTIVE_INSULT 0.08941974
-    PERSPECTIVE_TOXICITY 0.0053797434
-    PERSPECTIVE_IDENTITY_ATTACK 0.102150224
-    PERSPECTIVE_INFLAMMATORY 0.033647805
-    PERSPECTIVE_THREAT 0.11979408
-    PERSPECTIVE_PROFANITY 0.09823173
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 404
+  node
+  [
+    id 434
     label "2BVhQGo5MQ4"
     step 0
     date "2022-06-01T12:10:59Z"
@@ -11327,21 +10927,20 @@ graph [
     commentcount 4
     duration "PT1H32M58S"
     indegree 0
+    ppinsult 0.23959269
+    ppflirtation 0.5082556
+    ppidentityattack 0.58365536
+    ppthreat 0.40951553
+    pptoxicity 0.13386416
+    ppsexuallyexplicit 0.22657599
+    ppprofanity 0.27170116
+    ppinflammatory 0.0144990925
+    sentiment 0
     cluster 8
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.22657599
-    PERSPECTIVE_FLIRTATION 0.5082556
-    PERSPECTIVE_INSULT 0.23959269
-    PERSPECTIVE_TOXICITY 0.13386416
-    PERSPECTIVE_IDENTITY_ATTACK 0.58365536
-    PERSPECTIVE_INFLAMMATORY 0.0144990925
-    PERSPECTIVE_THREAT 0.40951553
-    PERSPECTIVE_PROFANITY 0.27170116
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 405
+  node
+  [
+    id 435
     label "65OWEPf4cfI"
     step 0
     date "2020-03-01T22:06:22Z"
@@ -11355,21 +10954,20 @@ graph [
     commentcount 25
     duration "PT23M47S"
     indegree 1
+    ppinsult 0.023851901
+    ppflirtation 0.3082093
+    ppidentityattack 0.06991373
+    ppthreat 0.18657294
+    pptoxicity 0.016451603
+    ppsexuallyexplicit 0.08222243
+    ppprofanity 0.029968766
+    ppinflammatory 0.01293994
+    sentiment 0
     cluster 4
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.08222243
-    PERSPECTIVE_FLIRTATION 0.3082093
-    PERSPECTIVE_INSULT 0.023851901
-    PERSPECTIVE_TOXICITY 0.016451603
-    PERSPECTIVE_IDENTITY_ATTACK 0.06991373
-    PERSPECTIVE_INFLAMMATORY 0.01293994
-    PERSPECTIVE_THREAT 0.18657294
-    PERSPECTIVE_PROFANITY 0.029968766
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 406
+  node
+  [
+    id 436
     label "89wCC-ub-XI"
     step 0
     date "2021-01-24T18:51:12Z"
@@ -11383,21 +10981,20 @@ graph [
     commentcount 84
     duration "PT26M42S"
     indegree 12
+    ppinsult 0.32810527
+    ppflirtation 0.5201999
+    ppidentityattack 0.634948
+    ppthreat 0.54481405
+    pptoxicity 0.08581903
+    ppsexuallyexplicit 0.24675636
+    ppprofanity 0.38533017
+    ppinflammatory 0.007974528
+    sentiment 0
     cluster 6
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.24675636
-    PERSPECTIVE_FLIRTATION 0.5201999
-    PERSPECTIVE_INSULT 0.32810527
-    PERSPECTIVE_TOXICITY 0.08581903
-    PERSPECTIVE_IDENTITY_ATTACK 0.634948
-    PERSPECTIVE_INFLAMMATORY 0.007974528
-    PERSPECTIVE_THREAT 0.54481405
-    PERSPECTIVE_PROFANITY 0.38533017
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 407
+  node
+  [
+    id 437
     label "pw7Sv4Q1gK4"
     step 0
     date "2021-08-21T13:48:53Z"
@@ -11411,21 +11008,20 @@ graph [
     commentcount 6
     duration "PT13M26S"
     indegree 1
+    ppinsult 0.11277301
+    ppflirtation 0.45671278
+    ppidentityattack 0.15104541
+    ppthreat 0.3701133
+    pptoxicity 0.035134587
+    ppsexuallyexplicit 0.19397056
+    ppprofanity 0.23929429
+    ppinflammatory 0.001783608
+    sentiment 0
     cluster 4
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.19397056
-    PERSPECTIVE_FLIRTATION 0.45671278
-    PERSPECTIVE_INSULT 0.11277301
-    PERSPECTIVE_TOXICITY 0.035134587
-    PERSPECTIVE_IDENTITY_ATTACK 0.15104541
-    PERSPECTIVE_INFLAMMATORY 0.001783608
-    PERSPECTIVE_THREAT 0.3701133
-    PERSPECTIVE_PROFANITY 0.23929429
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 408
+  node
+  [
+    id 438
     label "DrFE5dtxFp0"
     step 0
     date "2022-03-05T05:00:09Z"
@@ -11439,21 +11035,20 @@ graph [
     commentcount 49
     duration "PT36M37S"
     indegree 1
+    ppinsult 0.04639108
+    ppflirtation 0.44175732
+    ppidentityattack 0.10934047
+    ppthreat 0.15429856
+    pptoxicity 0.06612156
+    ppsexuallyexplicit 0.119641945
+    ppprofanity 0.08085444
+    ppinflammatory 0.048150364
+    sentiment 0
     cluster 7
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.119641945
-    PERSPECTIVE_FLIRTATION 0.44175732
-    PERSPECTIVE_INSULT 0.04639108
-    PERSPECTIVE_TOXICITY 0.06612156
-    PERSPECTIVE_IDENTITY_ATTACK 0.10934047
-    PERSPECTIVE_INFLAMMATORY 0.048150364
-    PERSPECTIVE_THREAT 0.15429856
-    PERSPECTIVE_PROFANITY 0.08085444
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 409
+  node
+  [
+    id 439
     label "8MDHCrBZhkI"
     step 0
     date "2021-08-22T00:19:08Z"
@@ -11467,21 +11062,20 @@ graph [
     commentcount 136
     duration "PT44M33S"
     indegree 2
+    ppinsult 0.08601656
+    ppflirtation 0.36860916
+    ppidentityattack 0.08379506
+    ppthreat 0.17647107
+    pptoxicity 0.013327881
+    ppsexuallyexplicit 0.13350019
+    ppprofanity 0.09898923
+    ppinflammatory 0.27022046
+    sentiment 0
     cluster 1
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.13350019
-    PERSPECTIVE_FLIRTATION 0.36860916
-    PERSPECTIVE_INSULT 0.08601656
-    PERSPECTIVE_TOXICITY 0.013327881
-    PERSPECTIVE_IDENTITY_ATTACK 0.08379506
-    PERSPECTIVE_INFLAMMATORY 0.27022046
-    PERSPECTIVE_THREAT 0.17647107
-    PERSPECTIVE_PROFANITY 0.09898923
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 410
+  node
+  [
+    id 440
     label "G66FEFr_eXo"
     step 0
     date "2021-10-22T04:00:05Z"
@@ -11495,21 +11089,20 @@ graph [
     commentcount 57
     duration "PT29M33S"
     indegree 4
+    ppinsult 0.11692648
+    ppflirtation 0.3914106
+    ppidentityattack 0.12741116
+    ppthreat 0.27008647
+    pptoxicity 0.015479778
+    ppsexuallyexplicit 0.18782511
+    ppprofanity 0.18615443
+    ppinflammatory 0.016249634
+    sentiment 0
     cluster 7
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.18782511
-    PERSPECTIVE_FLIRTATION 0.3914106
-    PERSPECTIVE_INSULT 0.11692648
-    PERSPECTIVE_TOXICITY 0.015479778
-    PERSPECTIVE_IDENTITY_ATTACK 0.12741116
-    PERSPECTIVE_INFLAMMATORY 0.016249634
-    PERSPECTIVE_THREAT 0.27008647
-    PERSPECTIVE_PROFANITY 0.18615443
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 411
+  node
+  [
+    id 443
     label "QOsGq6p7ztU"
     step 0
     date "2021-10-07T16:11:33Z"
@@ -11523,21 +11116,20 @@ graph [
     commentcount 23
     duration "PT15M45S"
     indegree 3
+    ppinsult 0.20030671
+    ppflirtation 0.33551255
+    ppidentityattack 0.5028772
+    ppthreat 0.3205077
+    pptoxicity 0.17034957
+    ppsexuallyexplicit 0.13674247
+    ppprofanity 0.22336198
+    ppinflammatory 0.079706736
+    sentiment 0
     cluster 4
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.13674247
-    PERSPECTIVE_FLIRTATION 0.33551255
-    PERSPECTIVE_INSULT 0.20030671
-    PERSPECTIVE_TOXICITY 0.17034957
-    PERSPECTIVE_IDENTITY_ATTACK 0.5028772
-    PERSPECTIVE_INFLAMMATORY 0.079706736
-    PERSPECTIVE_THREAT 0.3205077
-    PERSPECTIVE_PROFANITY 0.22336198
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 412
+  node
+  [
+    id 444
     label "s59j_x4pZ4M"
     step 0
     date "2021-05-29T22:24:34Z"
@@ -11551,21 +11143,20 @@ graph [
     commentcount 12
     duration "PT16M28S"
     indegree 0
+    ppinsult 0.066185124
+    ppflirtation 0.34961486
+    ppidentityattack 0.09848336
+    ppthreat 0.27125707
+    pptoxicity 0.021657806
+    ppsexuallyexplicit 0.15761785
+    ppprofanity 0.14683203
+    ppinflammatory 0.07303393
+    sentiment 0
     cluster 4
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.15761785
-    PERSPECTIVE_FLIRTATION 0.34961486
-    PERSPECTIVE_INSULT 0.066185124
-    PERSPECTIVE_TOXICITY 0.021657806
-    PERSPECTIVE_IDENTITY_ATTACK 0.09848336
-    PERSPECTIVE_INFLAMMATORY 0.07303393
-    PERSPECTIVE_THREAT 0.27125707
-    PERSPECTIVE_PROFANITY 0.14683203
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 413
+  node
+  [
+    id 445
     label "AHZKA6p5QlM"
     step 0
     date "2020-06-27T17:15:53Z"
@@ -11579,21 +11170,20 @@ graph [
     commentcount 96
     duration "PT56M47S"
     indegree 13
-    cluster 5
+    ppinsult 0.03429095
+    ppflirtation 0.35111976
+    ppidentityattack 0.06745711
+    ppthreat 0.119546846
+    pptoxicity 0.09494796
+    ppsexuallyexplicit 0.06397277
+    ppprofanity 0.036387462
+    ppinflammatory 0.078274295
     sentiment 0.4019
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.06397277
-    PERSPECTIVE_FLIRTATION 0.35111976
-    PERSPECTIVE_INSULT 0.03429095
-    PERSPECTIVE_TOXICITY 0.09494796
-    PERSPECTIVE_IDENTITY_ATTACK 0.06745711
-    PERSPECTIVE_INFLAMMATORY 0.078274295
-    PERSPECTIVE_THREAT 0.119546846
-    PERSPECTIVE_PROFANITY 0.036387462
-    leftright ""
-    channeltags ""
+    cluster 5
   ]
-  node [
-    id 414
+  node
+  [
+    id 446
     label "P2qxnQLYuIE"
     step 0
     date "2020-10-18T16:45:15Z"
@@ -11607,21 +11197,20 @@ graph [
     commentcount 359
     duration "PT44M42S"
     indegree 7
-    cluster 5
+    ppinsult 0.660731
+    ppflirtation 0.33651087
+    ppidentityattack 0.24558374
+    ppthreat 0.21111277
+    pptoxicity 0.43100753
+    ppsexuallyexplicit 0.10208685
+    ppprofanity 0.365339
+    ppinflammatory 0.19424194
     sentiment 0.296
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.10208685
-    PERSPECTIVE_FLIRTATION 0.33651087
-    PERSPECTIVE_INSULT 0.660731
-    PERSPECTIVE_TOXICITY 0.43100753
-    PERSPECTIVE_IDENTITY_ATTACK 0.24558374
-    PERSPECTIVE_INFLAMMATORY 0.19424194
-    PERSPECTIVE_THREAT 0.21111277
-    PERSPECTIVE_PROFANITY 0.365339
-    leftright ""
-    channeltags ""
+    cluster 5
   ]
-  node [
-    id 415
+  node
+  [
+    id 447
     label "aOL4Q7pDwnA"
     step 0
     date "2022-02-17T00:15:01Z"
@@ -11635,21 +11224,20 @@ graph [
     commentcount 36
     duration "PT43M9S"
     indegree 0
+    ppinsult 0.23871873
+    ppflirtation 0.37793708
+    ppidentityattack 0.57125485
+    ppthreat 0.35022438
+    pptoxicity 0.15001574
+    ppsexuallyexplicit 0.14564465
+    ppprofanity 0.25247112
+    ppinflammatory 0.010969614
+    sentiment 0
     cluster 7
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.14564465
-    PERSPECTIVE_FLIRTATION 0.37793708
-    PERSPECTIVE_INSULT 0.23871873
-    PERSPECTIVE_TOXICITY 0.15001574
-    PERSPECTIVE_IDENTITY_ATTACK 0.57125485
-    PERSPECTIVE_INFLAMMATORY 0.010969614
-    PERSPECTIVE_THREAT 0.35022438
-    PERSPECTIVE_PROFANITY 0.25247112
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 416
+  node
+  [
+    id 448
     label "IWGziFO4IXM"
     step 0
     date "2020-03-14T23:47:55Z"
@@ -11663,21 +11251,20 @@ graph [
     commentcount 83
     duration "PT39M27S"
     indegree 1
-    cluster 3
+    ppinsult 0.058764562
+    ppflirtation 0.91981745
+    ppidentityattack 0.083598815
+    ppthreat 0.06816355
+    pptoxicity 0.13251819
+    ppsexuallyexplicit 0.058461644
+    ppprofanity 0.07795767
+    ppinflammatory 0.09299194
     sentiment 0.7177
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.058461644
-    PERSPECTIVE_FLIRTATION 0.91981745
-    PERSPECTIVE_INSULT 0.058764562
-    PERSPECTIVE_TOXICITY 0.13251819
-    PERSPECTIVE_IDENTITY_ATTACK 0.083598815
-    PERSPECTIVE_INFLAMMATORY 0.09299194
-    PERSPECTIVE_THREAT 0.06816355
-    PERSPECTIVE_PROFANITY 0.07795767
-    leftright ""
-    channeltags ""
+    cluster 3
   ]
-  node [
-    id 417
+  node
+  [
+    id 449
     label "nAuBLlJwaXc"
     step 0
     date "2018-02-19T19:48:10Z"
@@ -11691,21 +11278,20 @@ graph [
     commentcount 54
     duration "PT31M6S"
     indegree 28
+    ppinsult 0.034844395
+    ppflirtation 0.18849719
+    ppidentityattack 0.0951891
+    ppthreat 0.116173394
+    pptoxicity 0.011453647
+    ppsexuallyexplicit 0.0404298
+    ppprofanity 0.051872075
+    ppinflammatory 0.045872655
+    sentiment 0
     cluster 7
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.0404298
-    PERSPECTIVE_FLIRTATION 0.18849719
-    PERSPECTIVE_INSULT 0.034844395
-    PERSPECTIVE_TOXICITY 0.011453647
-    PERSPECTIVE_IDENTITY_ATTACK 0.0951891
-    PERSPECTIVE_INFLAMMATORY 0.045872655
-    PERSPECTIVE_THREAT 0.116173394
-    PERSPECTIVE_PROFANITY 0.051872075
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 418
+  node
+  [
+    id 450
     label "pv3vBAiZ6WY"
     step 0
     date "2021-12-02T15:18:54Z"
@@ -11719,21 +11305,20 @@ graph [
     commentcount 44
     duration "PT31M47S"
     indegree 0
+    ppinsult 0.040477764
+    ppflirtation 0.3900621
+    ppidentityattack 0.07975896
+    ppthreat 0.09281414
+    pptoxicity 0.020824814
+    ppsexuallyexplicit 0.05936857
+    ppprofanity 0.072739735
+    ppinflammatory 0.004869283
+    sentiment 0
     cluster 7
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.05936857
-    PERSPECTIVE_FLIRTATION 0.3900621
-    PERSPECTIVE_INSULT 0.040477764
-    PERSPECTIVE_TOXICITY 0.020824814
-    PERSPECTIVE_IDENTITY_ATTACK 0.07975896
-    PERSPECTIVE_INFLAMMATORY 0.004869283
-    PERSPECTIVE_THREAT 0.09281414
-    PERSPECTIVE_PROFANITY 0.072739735
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 419
+  node
+  [
+    id 451
     label "rOMqbsBBBNM"
     step 0
     date "2019-09-22T00:38:07Z"
@@ -11747,21 +11332,20 @@ graph [
     commentcount 50
     duration "PT34M42S"
     indegree 8
+    ppinsult 0.055429388
+    ppflirtation 0.21055229
+    ppidentityattack 0.09346673
+    ppthreat 0.11197857
+    pptoxicity 0.15626417
+    ppsexuallyexplicit 0.055143785
+    ppprofanity 0.06865321
+    ppinflammatory 0.0897601
+    sentiment 0
     cluster 3
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.055143785
-    PERSPECTIVE_FLIRTATION 0.21055229
-    PERSPECTIVE_INSULT 0.055429388
-    PERSPECTIVE_TOXICITY 0.15626417
-    PERSPECTIVE_IDENTITY_ATTACK 0.09346673
-    PERSPECTIVE_INFLAMMATORY 0.0897601
-    PERSPECTIVE_THREAT 0.11197857
-    PERSPECTIVE_PROFANITY 0.06865321
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 420
+  node
+  [
+    id 452
     label "88s22qLgRS4"
     step 0
     date "2021-11-25T15:52:48Z"
@@ -11775,21 +11359,20 @@ graph [
     commentcount 67
     duration "PT21M28S"
     indegree 0
+    ppinsult 0.3636163
+    ppflirtation 0.42938325
+    ppidentityattack 0.6350989
+    ppthreat 0.3333802
+    pptoxicity 0.15743166
+    ppsexuallyexplicit 0.1769765
+    ppprofanity 0.31975245
+    ppinflammatory 0.0468793
+    sentiment 0
     cluster 7
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.1769765
-    PERSPECTIVE_FLIRTATION 0.42938325
-    PERSPECTIVE_INSULT 0.3636163
-    PERSPECTIVE_TOXICITY 0.15743166
-    PERSPECTIVE_IDENTITY_ATTACK 0.6350989
-    PERSPECTIVE_INFLAMMATORY 0.0468793
-    PERSPECTIVE_THREAT 0.3333802
-    PERSPECTIVE_PROFANITY 0.31975245
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 421
+  node
+  [
+    id 453
     label "7visepRWMKE"
     step 0
     date "2022-01-14T05:00:04Z"
@@ -11803,21 +11386,20 @@ graph [
     commentcount 48
     duration "PT28M3S"
     indegree 3
-    cluster 7
+    ppinsult 0.0726747
+    ppflirtation 0.42880917
+    ppidentityattack 0.099186175
+    ppthreat 0.22466388
+    pptoxicity 0.058130227
+    ppsexuallyexplicit 0.10719795
+    ppprofanity 0.12687302
+    ppinflammatory 0.041380785
     sentiment 0.3818
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.10719795
-    PERSPECTIVE_FLIRTATION 0.42880917
-    PERSPECTIVE_INSULT 0.0726747
-    PERSPECTIVE_TOXICITY 0.058130227
-    PERSPECTIVE_IDENTITY_ATTACK 0.099186175
-    PERSPECTIVE_INFLAMMATORY 0.041380785
-    PERSPECTIVE_THREAT 0.22466388
-    PERSPECTIVE_PROFANITY 0.12687302
-    leftright ""
-    channeltags ""
+    cluster 7
   ]
-  node [
-    id 422
+  node
+  [
+    id 454
     label "PS67Kc9IZXI"
     step 0
     date "2020-07-18T03:57:13Z"
@@ -11831,21 +11413,20 @@ graph [
     commentcount 73
     duration "PT34M37S"
     indegree 7
+    ppinsult 0.106881715
+    ppflirtation 0.20796679
+    ppidentityattack 0.10971655
+    ppthreat 0.14789857
+    pptoxicity 0.08689302
+    ppsexuallyexplicit 0.06192911
+    ppprofanity 0.11171805
+    ppinflammatory 0.06658729
+    sentiment 0
     cluster 3
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.06192911
-    PERSPECTIVE_FLIRTATION 0.20796679
-    PERSPECTIVE_INSULT 0.106881715
-    PERSPECTIVE_TOXICITY 0.08689302
-    PERSPECTIVE_IDENTITY_ATTACK 0.10971655
-    PERSPECTIVE_INFLAMMATORY 0.06658729
-    PERSPECTIVE_THREAT 0.14789857
-    PERSPECTIVE_PROFANITY 0.11171805
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 423
+  node
+  [
+    id 455
     label "BuntRbVpZ7s"
     step 0
     date "2021-08-18T23:31:42Z"
@@ -11859,21 +11440,20 @@ graph [
     commentcount 43
     duration "PT1H10M8S"
     indegree 1
-    cluster 7
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.021959784
-    PERSPECTIVE_FLIRTATION 0.24652985
-    PERSPECTIVE_INSULT 0.014838387
-    PERSPECTIVE_TOXICITY 0.04165838
-    PERSPECTIVE_IDENTITY_ATTACK 0.010711194
-    PERSPECTIVE_INFLAMMATORY 0.04532573
-    PERSPECTIVE_THREAT 0.027656043
-    PERSPECTIVE_PROFANITY 0.014393179
-    leftright ""
-    channeltags ""
+    ppinsult 0.014838387
+    ppflirtation 0.24652985
+    ppidentityattack 0.010711194
+    ppthreat 0.027656043
+    pptoxicity 0.04165838
+    ppsexuallyexplicit 0.021959784
+    ppprofanity 0.014393179
+    ppinflammatory 0.04532573
+    sentiment 0
+    cluster 6
   ]
-  node [
-    id 424
+  node
+  [
+    id 456
     label "fBN89wvK37s"
     step 0
     date "2022-06-28T14:29:04Z"
@@ -11887,21 +11467,20 @@ graph [
     commentcount 5
     duration "PT22M14S"
     indegree 7
-    cluster 7
+    ppinsult 0.078080624
+    ppflirtation 0.29611865
+    ppidentityattack 0.11587136
+    ppthreat 0.462487
+    pptoxicity 0.12180476
+    ppsexuallyexplicit 0.13444218
+    ppprofanity 0.1188796
+    ppinflammatory 0.04527507
     sentiment 0.6597
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.13444218
-    PERSPECTIVE_FLIRTATION 0.29611865
-    PERSPECTIVE_INSULT 0.078080624
-    PERSPECTIVE_TOXICITY 0.12180476
-    PERSPECTIVE_IDENTITY_ATTACK 0.11587136
-    PERSPECTIVE_INFLAMMATORY 0.04527507
-    PERSPECTIVE_THREAT 0.462487
-    PERSPECTIVE_PROFANITY 0.1188796
-    leftright ""
-    channeltags ""
+    cluster 7
   ]
-  node [
-    id 425
+  node
+  [
+    id 457
     label "Rjtao7sMFUE"
     step 0
     date "2020-11-15T04:02:57Z"
@@ -11915,21 +11494,20 @@ graph [
     commentcount 85
     duration "PT40M29S"
     indegree 67
+    ppinsult 0.047931958
+    ppflirtation 0.2513966
+    ppidentityattack 0.12027794
+    ppthreat 0.07335835
+    pptoxicity 0.092262976
+    ppsexuallyexplicit 0.05766014
+    ppprofanity 0.042098507
+    ppinflammatory 0.006322844
+    sentiment 0
     cluster 3
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.05766014
-    PERSPECTIVE_FLIRTATION 0.2513966
-    PERSPECTIVE_INSULT 0.047931958
-    PERSPECTIVE_TOXICITY 0.092262976
-    PERSPECTIVE_IDENTITY_ATTACK 0.12027794
-    PERSPECTIVE_INFLAMMATORY 0.006322844
-    PERSPECTIVE_THREAT 0.07335835
-    PERSPECTIVE_PROFANITY 0.042098507
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 426
+  node
+  [
+    id 458
     label "enKML240RSg"
     step 0
     date "2021-11-30T16:26:20Z"
@@ -11943,21 +11521,20 @@ graph [
     commentcount 7
     duration "PT12M45S"
     indegree 1
+    ppinsult 0.011542844
+    ppflirtation 0.36801738
+    ppidentityattack 0.013097451
+    ppthreat 0.070499726
+    pptoxicity 0.023117077
+    ppsexuallyexplicit 0.03943999
+    ppprofanity 0.024769617
+    ppinflammatory 0.044205587
+    sentiment 0
     cluster 7
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.03943999
-    PERSPECTIVE_FLIRTATION 0.36801738
-    PERSPECTIVE_INSULT 0.011542844
-    PERSPECTIVE_TOXICITY 0.023117077
-    PERSPECTIVE_IDENTITY_ATTACK 0.013097451
-    PERSPECTIVE_INFLAMMATORY 0.044205587
-    PERSPECTIVE_THREAT 0.070499726
-    PERSPECTIVE_PROFANITY 0.024769617
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 427
+  node
+  [
+    id 459
     label "2S7fH_Ds6eE"
     step 0
     date "2019-10-23T05:52:16Z"
@@ -11971,21 +11548,20 @@ graph [
     commentcount 54
     duration "PT58M21S"
     indegree 18
+    ppinsult 0.098757155
+    ppflirtation 0.32705966
+    ppidentityattack 0.1533389
+    ppthreat 0.21978182
+    pptoxicity 0.16035037
+    ppsexuallyexplicit 0.20216033
+    ppprofanity 0.1660426
+    ppinflammatory 0.08976008
+    sentiment 0
     cluster 3
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.20216033
-    PERSPECTIVE_FLIRTATION 0.32705966
-    PERSPECTIVE_INSULT 0.098757155
-    PERSPECTIVE_TOXICITY 0.16035037
-    PERSPECTIVE_IDENTITY_ATTACK 0.1533389
-    PERSPECTIVE_INFLAMMATORY 0.08976008
-    PERSPECTIVE_THREAT 0.21978182
-    PERSPECTIVE_PROFANITY 0.1660426
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 428
+  node
+  [
+    id 460
     label "-W_641JspDo"
     step 0
     date "2021-11-30T04:06:18Z"
@@ -11999,21 +11575,20 @@ graph [
     commentcount 2
     duration "PT2H56M59S"
     indegree 0
+    ppinsult 0.11892763
+    ppflirtation 0.36249632
+    ppidentityattack 0.16429096
+    ppthreat 0.19230431
+    pptoxicity 0.03204437
+    ppsexuallyexplicit 0.0568764
+    ppprofanity 0.10923617
+    ppinflammatory 0.016044332
+    sentiment 0
     cluster 7
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.0568764
-    PERSPECTIVE_FLIRTATION 0.36249632
-    PERSPECTIVE_INSULT 0.11892763
-    PERSPECTIVE_TOXICITY 0.03204437
-    PERSPECTIVE_IDENTITY_ATTACK 0.16429096
-    PERSPECTIVE_INFLAMMATORY 0.016044332
-    PERSPECTIVE_THREAT 0.19230431
-    PERSPECTIVE_PROFANITY 0.10923617
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 429
+  node
+  [
+    id 461
     label "3Rb0Ln9Ysj4"
     step 0
     date "2021-12-31T05:00:01Z"
@@ -12027,21 +11602,20 @@ graph [
     commentcount 74
     duration "PT22M41S"
     indegree 7
+    ppinsult 0.068292744
+    ppflirtation 0.38928705
+    ppidentityattack 0.15609108
+    ppthreat 0.13214639
+    pptoxicity 0.05413456
+    ppsexuallyexplicit 0.12568508
+    ppprofanity 0.10117421
+    ppinflammatory 0.008892832
+    sentiment 0
     cluster 7
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.12568508
-    PERSPECTIVE_FLIRTATION 0.38928705
-    PERSPECTIVE_INSULT 0.068292744
-    PERSPECTIVE_TOXICITY 0.05413456
-    PERSPECTIVE_IDENTITY_ATTACK 0.15609108
-    PERSPECTIVE_INFLAMMATORY 0.008892832
-    PERSPECTIVE_THREAT 0.13214639
-    PERSPECTIVE_PROFANITY 0.10117421
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 430
+  node
+  [
+    id 462
     label "_LxUAcgzj_8"
     step 0
     date "2021-08-29T03:13:22Z"
@@ -12055,21 +11629,20 @@ graph [
     commentcount 106
     duration "PT17M24S"
     indegree 1
-    cluster 8
+    ppinsult 0.0737793
+    ppflirtation 0.3866522
+    ppidentityattack 0.093025655
+    ppthreat 0.18908021
+    pptoxicity 0.023460433
+    ppsexuallyexplicit 0.14589451
+    ppprofanity 0.1282271
+    ppinflammatory 0.08317199
     sentiment 0.4939
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.14589451
-    PERSPECTIVE_FLIRTATION 0.3866522
-    PERSPECTIVE_INSULT 0.0737793
-    PERSPECTIVE_TOXICITY 0.023460433
-    PERSPECTIVE_IDENTITY_ATTACK 0.093025655
-    PERSPECTIVE_INFLAMMATORY 0.08317199
-    PERSPECTIVE_THREAT 0.18908021
-    PERSPECTIVE_PROFANITY 0.1282271
-    leftright ""
-    channeltags ""
+    cluster 8
   ]
-  node [
-    id 431
+  node
+  [
+    id 463
     label "TLkGRF-odN4"
     step 0
     date "2019-10-09T19:12:19Z"
@@ -12083,21 +11656,20 @@ graph [
     commentcount 57
     duration "PT33M17S"
     indegree 2
+    ppinsult 0.06741065
+    ppflirtation 0.19463997
+    ppidentityattack 0.07153098
+    ppthreat 0.08749918
+    pptoxicity 0.1621016
+    ppsexuallyexplicit 0.063261315
+    ppprofanity 0.088998884
+    ppinflammatory 0.09710856
+    sentiment 0
     cluster 3
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.063261315
-    PERSPECTIVE_FLIRTATION 0.19463997
-    PERSPECTIVE_INSULT 0.06741065
-    PERSPECTIVE_TOXICITY 0.1621016
-    PERSPECTIVE_IDENTITY_ATTACK 0.07153098
-    PERSPECTIVE_INFLAMMATORY 0.09710856
-    PERSPECTIVE_THREAT 0.08749918
-    PERSPECTIVE_PROFANITY 0.088998884
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 432
+  node
+  [
+    id 465
     label "635dZ6OcqqM"
     step 0
     date "2021-08-22T16:47:52Z"
@@ -12111,21 +11683,20 @@ graph [
     commentcount 54
     duration "PT13M53S"
     indegree 0
-    cluster 3
+    ppinsult 0.10215065
+    ppflirtation 0.37139723
+    ppidentityattack 0.12827943
+    ppthreat 0.4662132
+    pptoxicity 0.033246122
+    ppsexuallyexplicit 0.14485112
+    ppprofanity 0.14298631
+    ppinflammatory 0.014817546
     sentiment 0.6705
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.14485112
-    PERSPECTIVE_FLIRTATION 0.37139723
-    PERSPECTIVE_INSULT 0.10215065
-    PERSPECTIVE_TOXICITY 0.033246122
-    PERSPECTIVE_IDENTITY_ATTACK 0.12827943
-    PERSPECTIVE_INFLAMMATORY 0.014817546
-    PERSPECTIVE_THREAT 0.4662132
-    PERSPECTIVE_PROFANITY 0.14298631
-    leftright ""
-    channeltags ""
+    cluster 3
   ]
-  node [
-    id 433
+  node
+  [
+    id 466
     label "UKyWCuk4-tE"
     step 0
     date "2021-04-27T02:52:11Z"
@@ -12139,21 +11710,20 @@ graph [
     commentcount 77
     duration "PT16M31S"
     indegree 5
-    cluster 6
+    ppinsult 0.0791095
+    ppflirtation 0.36968505
+    ppidentityattack 0.08040915
+    ppthreat 0.25890207
+    pptoxicity 0.07850813
+    ppsexuallyexplicit 0.15460125
+    ppprofanity 0.14983036
+    ppinflammatory 0.040341444
     sentiment -0.0258
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.15460125
-    PERSPECTIVE_FLIRTATION 0.36968505
-    PERSPECTIVE_INSULT 0.0791095
-    PERSPECTIVE_TOXICITY 0.07850813
-    PERSPECTIVE_IDENTITY_ATTACK 0.08040915
-    PERSPECTIVE_INFLAMMATORY 0.040341444
-    PERSPECTIVE_THREAT 0.25890207
-    PERSPECTIVE_PROFANITY 0.14983036
-    leftright ""
-    channeltags ""
+    cluster 6
   ]
-  node [
-    id 434
+  node
+  [
+    id 467
     label "v3OwXuJ0fTk"
     step 0
     date "2021-01-16T21:41:35Z"
@@ -12167,21 +11737,20 @@ graph [
     commentcount 45
     duration "PT41M1S"
     indegree 0
+    ppinsult 0.11724822
+    ppflirtation 0.24733159
+    ppidentityattack 0.116864055
+    ppthreat 0.16835415
+    pptoxicity 0.10763696
+    ppsexuallyexplicit 0.089917
+    ppprofanity 0.13117783
+    ppinflammatory 0.04017661
+    sentiment 0
     cluster 3
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.089917
-    PERSPECTIVE_FLIRTATION 0.24733159
-    PERSPECTIVE_INSULT 0.11724822
-    PERSPECTIVE_TOXICITY 0.10763696
-    PERSPECTIVE_IDENTITY_ATTACK 0.116864055
-    PERSPECTIVE_INFLAMMATORY 0.04017661
-    PERSPECTIVE_THREAT 0.16835415
-    PERSPECTIVE_PROFANITY 0.13117783
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 435
+  node
+  [
+    id 468
     label "01uVeAUmnUo"
     step 0
     date "2021-12-15T03:01:08Z"
@@ -12195,21 +11764,20 @@ graph [
     commentcount 15
     duration "PT33M8S"
     indegree 1
+    ppinsult 0.0558126
+    ppflirtation 0.41804665
+    ppidentityattack 0.07694113
+    ppthreat 0.278521
+    pptoxicity 0.046465382
+    ppsexuallyexplicit 0.039144754
+    ppprofanity 0.0388
+    ppinflammatory 0.13762201
+    sentiment 0
     cluster 8
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.039144754
-    PERSPECTIVE_FLIRTATION 0.41804665
-    PERSPECTIVE_INSULT 0.0558126
-    PERSPECTIVE_TOXICITY 0.046465382
-    PERSPECTIVE_IDENTITY_ATTACK 0.07694113
-    PERSPECTIVE_INFLAMMATORY 0.13762201
-    PERSPECTIVE_THREAT 0.278521
-    PERSPECTIVE_PROFANITY 0.0388
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 436
+  node
+  [
+    id 469
     label "uqdGMWJRx5A"
     step 0
     date "2020-12-11T03:12:08Z"
@@ -12223,21 +11791,20 @@ graph [
     commentcount 27
     duration "PT13M17S"
     indegree 4
+    ppinsult 0.23353054
+    ppflirtation 0.40067357
+    ppidentityattack 0.57109207
+    ppthreat 0.5093874
+    pptoxicity 0.13017663
+    ppsexuallyexplicit 0.204702
+    ppprofanity 0.3076587
+    ppinflammatory 0.059064046
+    sentiment 0
     cluster 6
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.204702
-    PERSPECTIVE_FLIRTATION 0.40067357
-    PERSPECTIVE_INSULT 0.23353054
-    PERSPECTIVE_TOXICITY 0.13017663
-    PERSPECTIVE_IDENTITY_ATTACK 0.57109207
-    PERSPECTIVE_INFLAMMATORY 0.059064046
-    PERSPECTIVE_THREAT 0.5093874
-    PERSPECTIVE_PROFANITY 0.3076587
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 437
+  node
+  [
+    id 470
     label "hp6Z6EcLYbo"
     step 0
     date "2021-07-25T00:06:19Z"
@@ -12251,21 +11818,20 @@ graph [
     commentcount 47
     duration "PT39M8S"
     indegree 38
-    cluster 3
+    ppinsult 0.057385772
+    ppflirtation 0.24170378
+    ppidentityattack 0.0815779
+    ppthreat 0.0951043
+    pptoxicity 0.0495556
+    ppsexuallyexplicit 0.057554275
+    ppprofanity 0.0663144
+    ppinflammatory 0.015803624
     sentiment 0.4588
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.057554275
-    PERSPECTIVE_FLIRTATION 0.24170378
-    PERSPECTIVE_INSULT 0.057385772
-    PERSPECTIVE_TOXICITY 0.0495556
-    PERSPECTIVE_IDENTITY_ATTACK 0.0815779
-    PERSPECTIVE_INFLAMMATORY 0.015803624
-    PERSPECTIVE_THREAT 0.0951043
-    PERSPECTIVE_PROFANITY 0.0663144
-    leftright ""
-    channeltags ""
+    cluster 3
   ]
-  node [
-    id 438
+  node
+  [
+    id 471
     label "_ncoRW2znXo"
     step 0
     date "2021-11-28T01:33:42Z"
@@ -12279,21 +11845,20 @@ graph [
     commentcount 80
     duration "PT32M48S"
     indegree 3
-    cluster 8
+    ppinsult 0.033782892
+    ppflirtation 0.34327736
+    ppidentityattack 0.032882508
+    ppthreat 0.23894215
+    pptoxicity 0.013536129
+    ppsexuallyexplicit 0.04538679
+    ppprofanity 0.044444636
+    ppinflammatory 0.027981453
     sentiment 0.2732
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.04538679
-    PERSPECTIVE_FLIRTATION 0.34327736
-    PERSPECTIVE_INSULT 0.033782892
-    PERSPECTIVE_TOXICITY 0.013536129
-    PERSPECTIVE_IDENTITY_ATTACK 0.032882508
-    PERSPECTIVE_INFLAMMATORY 0.027981453
-    PERSPECTIVE_THREAT 0.23894215
-    PERSPECTIVE_PROFANITY 0.044444636
-    leftright ""
-    channeltags ""
+    cluster 8
   ]
-  node [
-    id 439
+  node
+  [
+    id 472
     label "x_I7kxKMYhY"
     step 0
     date "2021-10-11T22:00:31Z"
@@ -12307,21 +11872,20 @@ graph [
     commentcount 39
     duration "PT22M32S"
     indegree 9
+    ppinsult 0.2531794
+    ppflirtation 0.3748085
+    ppidentityattack 0.58523935
+    ppthreat 0.36711922
+    pptoxicity 0.07970683
+    ppsexuallyexplicit 0.17596817
+    ppprofanity 0.2941891
+    ppinflammatory 0.046746768
+    sentiment 0
     cluster 7
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.17596817
-    PERSPECTIVE_FLIRTATION 0.3748085
-    PERSPECTIVE_INSULT 0.2531794
-    PERSPECTIVE_TOXICITY 0.07970683
-    PERSPECTIVE_IDENTITY_ATTACK 0.58523935
-    PERSPECTIVE_INFLAMMATORY 0.046746768
-    PERSPECTIVE_THREAT 0.36711922
-    PERSPECTIVE_PROFANITY 0.2941891
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 440
+  node
+  [
+    id 473
     label "nUT8Y6DihUE"
     step 0
     date "2021-04-09T22:19:12Z"
@@ -12335,21 +11899,20 @@ graph [
     commentcount 165
     duration "PT25M45S"
     indegree 6
-    cluster 1
+    ppinsult 0.073742755
+    ppflirtation 0.6369508
+    ppidentityattack 0.06250234
+    ppthreat 0.11982535
+    pptoxicity 0.0741129
+    ppsexuallyexplicit 0.2969731
+    ppprofanity 0.14327951
+    ppinflammatory 0.040138982
     sentiment 0.8779
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.2969731
-    PERSPECTIVE_FLIRTATION 0.6369508
-    PERSPECTIVE_INSULT 0.073742755
-    PERSPECTIVE_TOXICITY 0.0741129
-    PERSPECTIVE_IDENTITY_ATTACK 0.06250234
-    PERSPECTIVE_INFLAMMATORY 0.040138982
-    PERSPECTIVE_THREAT 0.11982535
-    PERSPECTIVE_PROFANITY 0.14327951
-    leftright ""
-    channeltags ""
+    cluster 5
   ]
-  node [
-    id 441
+  node
+  [
+    id 474
     label "ZboTpU1U6Ps"
     step 0
     date "2022-01-09T08:01:04Z"
@@ -12363,21 +11926,20 @@ graph [
     commentcount 18
     duration "PT57M25S"
     indegree 0
+    ppinsult 0.13804807
+    ppflirtation 0.3704067
+    ppidentityattack 0.12960619
+    ppthreat 0.61841357
+    pptoxicity 0.08050597
+    ppsexuallyexplicit 0.06505907
+    ppprofanity 0.088725895
+    ppinflammatory 0.10472468
+    sentiment 0
     cluster 8
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.06505907
-    PERSPECTIVE_FLIRTATION 0.3704067
-    PERSPECTIVE_INSULT 0.13804807
-    PERSPECTIVE_TOXICITY 0.08050597
-    PERSPECTIVE_IDENTITY_ATTACK 0.12960619
-    PERSPECTIVE_INFLAMMATORY 0.10472468
-    PERSPECTIVE_THREAT 0.61841357
-    PERSPECTIVE_PROFANITY 0.088725895
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 442
+  node
+  [
+    id 476
     label "_BqOgtsvlAY"
     step 0
     date "2021-11-20T16:28:16Z"
@@ -12391,21 +11953,20 @@ graph [
     commentcount 61
     duration "PT26M28S"
     indegree 1
+    ppinsult 0.30189252
+    ppflirtation 0.41150072
+    ppidentityattack 0.6244887
+    ppthreat 0.37322718
+    pptoxicity 0.065721996
+    ppsexuallyexplicit 0.2771867
+    ppprofanity 0.337831
+    ppinflammatory 0.008518529
+    sentiment 0
     cluster 4
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.2771867
-    PERSPECTIVE_FLIRTATION 0.41150072
-    PERSPECTIVE_INSULT 0.30189252
-    PERSPECTIVE_TOXICITY 0.065721996
-    PERSPECTIVE_IDENTITY_ATTACK 0.6244887
-    PERSPECTIVE_INFLAMMATORY 0.008518529
-    PERSPECTIVE_THREAT 0.37322718
-    PERSPECTIVE_PROFANITY 0.337831
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 443
+  node
+  [
+    id 477
     label "eIzQiOiarC4"
     step 0
     date "2021-05-21T21:57:37Z"
@@ -12419,21 +11980,20 @@ graph [
     commentcount 11
     duration "PT1H6M1S"
     indegree 0
+    ppinsult 0.30411628
+    ppflirtation 0.44053307
+    ppidentityattack 0.6491087
+    ppthreat 0.70852983
+    pptoxicity 0.021518974
+    ppsexuallyexplicit 0.18414499
+    ppprofanity 0.35043752
+    ppinflammatory 0.0029181556
+    sentiment 0
     cluster 1
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.18414499
-    PERSPECTIVE_FLIRTATION 0.44053307
-    PERSPECTIVE_INSULT 0.30411628
-    PERSPECTIVE_TOXICITY 0.021518974
-    PERSPECTIVE_IDENTITY_ATTACK 0.6491087
-    PERSPECTIVE_INFLAMMATORY 0.0029181556
-    PERSPECTIVE_THREAT 0.70852983
-    PERSPECTIVE_PROFANITY 0.35043752
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 444
+  node
+  [
+    id 478
     label "NARkCXk6LyY"
     step 0
     date "2021-12-21T00:42:40Z"
@@ -12447,21 +12007,20 @@ graph [
     commentcount 74
     duration "PT27M6S"
     indegree 1
+    ppinsult 0.23074849
+    ppflirtation 0.3482119
+    ppidentityattack 0.5508991
+    ppthreat 0.31022757
+    pptoxicity 0.29756662
+    ppsexuallyexplicit 0.14977191
+    ppprofanity 0.25275198
+    ppinflammatory 0.05995679
+    sentiment 0
     cluster 7
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.14977191
-    PERSPECTIVE_FLIRTATION 0.3482119
-    PERSPECTIVE_INSULT 0.23074849
-    PERSPECTIVE_TOXICITY 0.29756662
-    PERSPECTIVE_IDENTITY_ATTACK 0.5508991
-    PERSPECTIVE_INFLAMMATORY 0.05995679
-    PERSPECTIVE_THREAT 0.31022757
-    PERSPECTIVE_PROFANITY 0.25275198
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 445
+  node
+  [
+    id 479
     label "USIjuibPWLo"
     step 0
     date "2022-05-19T06:14:29Z"
@@ -12475,21 +12034,20 @@ graph [
     commentcount 5
     duration "PT1H8M49S"
     indegree 1
+    ppinsult 0.029489487
+    ppflirtation 0.39350218
+    ppidentityattack 0.04539509
+    ppthreat 0.22888613
+    pptoxicity 0.00596978
+    ppsexuallyexplicit 0.07304958
+    ppprofanity 0.06974738
+    ppinflammatory 0.09426219
+    sentiment 0
     cluster 3
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.07304958
-    PERSPECTIVE_FLIRTATION 0.39350218
-    PERSPECTIVE_INSULT 0.029489487
-    PERSPECTIVE_TOXICITY 0.00596978
-    PERSPECTIVE_IDENTITY_ATTACK 0.04539509
-    PERSPECTIVE_INFLAMMATORY 0.09426219
-    PERSPECTIVE_THREAT 0.22888613
-    PERSPECTIVE_PROFANITY 0.06974738
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 446
+  node
+  [
+    id 480
     label "Y1UFsu43mbc"
     step 0
     date "2022-07-06T22:44:10Z"
@@ -12503,21 +12061,20 @@ graph [
     commentcount 21
     duration "PT16M36S"
     indegree 8
+    ppinsult 0.16194487
+    ppflirtation 0.4736429
+    ppidentityattack 0.14597675
+    ppthreat 0.26345646
+    pptoxicity 0.007774597
+    ppsexuallyexplicit 0.15146647
+    ppprofanity 0.15183066
+    ppinflammatory 0.16732733
+    sentiment 0
     cluster 7
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.15146647
-    PERSPECTIVE_FLIRTATION 0.4736429
-    PERSPECTIVE_INSULT 0.16194487
-    PERSPECTIVE_TOXICITY 0.007774597
-    PERSPECTIVE_IDENTITY_ATTACK 0.14597675
-    PERSPECTIVE_INFLAMMATORY 0.16732733
-    PERSPECTIVE_THREAT 0.26345646
-    PERSPECTIVE_PROFANITY 0.15183066
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 447
+  node
+  [
+    id 481
     label "mlyA5KjmIvI"
     step 0
     date "2021-08-21T04:00:24Z"
@@ -12531,21 +12088,20 @@ graph [
     commentcount 40
     duration "PT37M24S"
     indegree 2
+    ppinsult 0.06737409
+    ppflirtation 0.46493432
+    ppidentityattack 0.098453775
+    ppthreat 0.2538484
+    pptoxicity 0.06771983
+    ppsexuallyexplicit 0.16630274
+    ppprofanity 0.13965192
+    ppinflammatory 0.016619274
+    sentiment 0
     cluster 7
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.16630274
-    PERSPECTIVE_FLIRTATION 0.46493432
-    PERSPECTIVE_INSULT 0.06737409
-    PERSPECTIVE_TOXICITY 0.06771983
-    PERSPECTIVE_IDENTITY_ATTACK 0.098453775
-    PERSPECTIVE_INFLAMMATORY 0.016619274
-    PERSPECTIVE_THREAT 0.2538484
-    PERSPECTIVE_PROFANITY 0.13965192
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 448
+  node
+  [
+    id 482
     label "McDoqZsB7yE"
     step 0
     date "2021-05-19T13:07:50Z"
@@ -12559,21 +12115,20 @@ graph [
     commentcount 41
     duration "PT31M10S"
     indegree 2
+    ppinsult 0.14752543
+    ppflirtation 0.32622844
+    ppidentityattack 0.13621473
+    ppthreat 0.1817119
+    pptoxicity 0.0813051
+    ppsexuallyexplicit 0.11563635
+    ppprofanity 0.1442721
+    ppinflammatory 0.013178273
+    sentiment 0
     cluster 3
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.11563635
-    PERSPECTIVE_FLIRTATION 0.32622844
-    PERSPECTIVE_INSULT 0.14752543
-    PERSPECTIVE_TOXICITY 0.0813051
-    PERSPECTIVE_IDENTITY_ATTACK 0.13621473
-    PERSPECTIVE_INFLAMMATORY 0.013178273
-    PERSPECTIVE_THREAT 0.1817119
-    PERSPECTIVE_PROFANITY 0.1442721
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 449
+  node
+  [
+    id 483
     label "R-dOzkeObUQ"
     step 0
     date "2022-01-25T02:34:56Z"
@@ -12587,21 +12142,20 @@ graph [
     commentcount 20
     duration "PT40M34S"
     indegree 0
+    ppinsult 0.03450762
+    ppflirtation 0.49108472
+    ppidentityattack 0.07496699
+    ppthreat 0.1107264
+    pptoxicity 0.064523295
+    ppsexuallyexplicit 0.05040129
+    ppprofanity 0.040836316
+    ppinflammatory 0.12225224
+    sentiment 0
     cluster 8
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.05040129
-    PERSPECTIVE_FLIRTATION 0.49108472
-    PERSPECTIVE_INSULT 0.03450762
-    PERSPECTIVE_TOXICITY 0.064523295
-    PERSPECTIVE_IDENTITY_ATTACK 0.07496699
-    PERSPECTIVE_INFLAMMATORY 0.12225224
-    PERSPECTIVE_THREAT 0.1107264
-    PERSPECTIVE_PROFANITY 0.040836316
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 450
+  node
+  [
+    id 484
     label "zVnp2KfMyhI"
     step 0
     date "2020-09-13T22:52:39Z"
@@ -12615,21 +12169,20 @@ graph [
     commentcount 96
     duration "PT25M31S"
     indegree 2
+    ppinsult 0.033962034
+    ppflirtation 0.34601763
+    ppidentityattack 0.08990522
+    ppthreat 0.19785504
+    pptoxicity 0.048868883
+    ppsexuallyexplicit 0.055968992
+    ppprofanity 0.050577506
+    ppinflammatory 0.1016147
+    sentiment 0
     cluster 5
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.055968992
-    PERSPECTIVE_FLIRTATION 0.34601763
-    PERSPECTIVE_INSULT 0.033962034
-    PERSPECTIVE_TOXICITY 0.048868883
-    PERSPECTIVE_IDENTITY_ATTACK 0.08990522
-    PERSPECTIVE_INFLAMMATORY 0.1016147
-    PERSPECTIVE_THREAT 0.19785504
-    PERSPECTIVE_PROFANITY 0.050577506
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 451
+  node
+  [
+    id 485
     label "Nwg_eXg9TEI"
     step 0
     date "2022-04-26T20:52:14Z"
@@ -12643,21 +12196,20 @@ graph [
     commentcount 27
     duration "PT40M58S"
     indegree 3
-    cluster 7
+    ppinsult 0.08592771
+    ppflirtation 0.49800658
+    ppidentityattack 0.13393898
+    ppthreat 0.3060323
+    pptoxicity 0.06012806
+    ppsexuallyexplicit 0.10004015
+    ppprofanity 0.08261113
+    ppinflammatory 0.038277384
     sentiment 0.5267
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.10004015
-    PERSPECTIVE_FLIRTATION 0.49800658
-    PERSPECTIVE_INSULT 0.08592771
-    PERSPECTIVE_TOXICITY 0.06012806
-    PERSPECTIVE_IDENTITY_ATTACK 0.13393898
-    PERSPECTIVE_INFLAMMATORY 0.038277384
-    PERSPECTIVE_THREAT 0.3060323
-    PERSPECTIVE_PROFANITY 0.08261113
-    leftright ""
-    channeltags ""
+    cluster 7
   ]
-  node [
-    id 452
+  node
+  [
+    id 486
     label "66TNJOgX1dE"
     step 0
     date "2021-11-12T22:24:32Z"
@@ -12671,21 +12223,20 @@ graph [
     commentcount 81
     duration "PT17M50S"
     indegree 1
-    cluster 1
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.17987286
-    PERSPECTIVE_FLIRTATION 0.36435303
-    PERSPECTIVE_INSULT 0.27425355
-    PERSPECTIVE_TOXICITY 0.13565879
-    PERSPECTIVE_IDENTITY_ATTACK 0.6040408
-    PERSPECTIVE_INFLAMMATORY 0.111687325
-    PERSPECTIVE_THREAT 0.3962972
-    PERSPECTIVE_PROFANITY 0.30846122
-    leftright ""
-    channeltags ""
+    ppinsult 0.27425355
+    ppflirtation 0.36435303
+    ppidentityattack 0.6040408
+    ppthreat 0.3962972
+    pptoxicity 0.13565879
+    ppsexuallyexplicit 0.17987286
+    ppprofanity 0.30846122
+    ppinflammatory 0.111687325
+    sentiment 0
+    cluster 2
   ]
-  node [
-    id 453
+  node
+  [
+    id 487
     label "i1hLvUn0P0c"
     step 0
     date "2022-07-06T17:50:20Z"
@@ -12699,21 +12250,20 @@ graph [
     commentcount 2
     duration "PT2M15S"
     indegree 17
-    cluster 2
+    ppinsult 0.21565595
+    ppflirtation 0.42154554
+    ppidentityattack 0.1952491
+    ppthreat 0.4717313
+    pptoxicity 0.012008976
+    ppsexuallyexplicit 0.086196974
+    ppprofanity 0.13505091
+    ppinflammatory 0.112865664
     sentiment -0.3182
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.086196974
-    PERSPECTIVE_FLIRTATION 0.42154554
-    PERSPECTIVE_INSULT 0.21565595
-    PERSPECTIVE_TOXICITY 0.012008976
-    PERSPECTIVE_IDENTITY_ATTACK 0.1952491
-    PERSPECTIVE_INFLAMMATORY 0.112865664
-    PERSPECTIVE_THREAT 0.4717313
-    PERSPECTIVE_PROFANITY 0.13505091
-    leftright ""
-    channeltags ""
+    cluster 2
   ]
-  node [
-    id 454
+  node
+  [
+    id 489
     label "dOdWipzC4ZU"
     step 0
     date "2021-11-13T05:00:11Z"
@@ -12727,21 +12277,20 @@ graph [
     commentcount 52
     duration "PT37M18S"
     indegree 2
-    cluster 7
+    ppinsult 0.08561044
+    ppflirtation 0.2298063
+    ppidentityattack 0.09545369
+    ppthreat 0.23377495
+    pptoxicity 0.084745035
+    ppsexuallyexplicit 0.08878193
+    ppprofanity 0.087829225
+    ppinflammatory 0.004382924
     sentiment 0.4939
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.08878193
-    PERSPECTIVE_FLIRTATION 0.2298063
-    PERSPECTIVE_INSULT 0.08561044
-    PERSPECTIVE_TOXICITY 0.084745035
-    PERSPECTIVE_IDENTITY_ATTACK 0.09545369
-    PERSPECTIVE_INFLAMMATORY 0.004382924
-    PERSPECTIVE_THREAT 0.23377495
-    PERSPECTIVE_PROFANITY 0.087829225
-    leftright ""
-    channeltags ""
+    cluster 7
   ]
-  node [
-    id 455
+  node
+  [
+    id 490
     label "MIlAuzhffFU"
     step 0
     date "2022-07-03T19:14:27Z"
@@ -12755,21 +12304,20 @@ graph [
     commentcount 45
     duration "PT11M35S"
     indegree 1
-    cluster 1
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.08497138
-    PERSPECTIVE_FLIRTATION 0.30664486
-    PERSPECTIVE_INSULT 0.07770348
-    PERSPECTIVE_TOXICITY 0.040628307
-    PERSPECTIVE_IDENTITY_ATTACK 0.06274956
-    PERSPECTIVE_INFLAMMATORY 0.18607162
-    PERSPECTIVE_THREAT 0.076266184
-    PERSPECTIVE_PROFANITY 0.06665052
-    leftright ""
-    channeltags ""
+    ppinsult 0.07770348
+    ppflirtation 0.30664486
+    ppidentityattack 0.06274956
+    ppthreat 0.076266184
+    pptoxicity 0.040628307
+    ppsexuallyexplicit 0.08497138
+    ppprofanity 0.06665052
+    ppinflammatory 0.18607162
+    sentiment 0
+    cluster 2
   ]
-  node [
-    id 456
+  node
+  [
+    id 491
     label "rRCVC5vAOs0"
     step 0
     date "2022-07-10T00:30:16Z"
@@ -12783,21 +12331,20 @@ graph [
     commentcount 241
     duration "PT15M4S"
     indegree 5
+    ppinsult 0.04192127
+    ppflirtation 0.26696646
+    ppidentityattack 0.035859503
+    ppthreat 0.056155868
+    pptoxicity 0.016173938
+    ppsexuallyexplicit 0.059335776
+    ppprofanity 0.04625005
+    ppinflammatory 0.17489228
+    sentiment 0
     cluster 8
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.059335776
-    PERSPECTIVE_FLIRTATION 0.26696646
-    PERSPECTIVE_INSULT 0.04192127
-    PERSPECTIVE_TOXICITY 0.016173938
-    PERSPECTIVE_IDENTITY_ATTACK 0.035859503
-    PERSPECTIVE_INFLAMMATORY 0.17489228
-    PERSPECTIVE_THREAT 0.056155868
-    PERSPECTIVE_PROFANITY 0.04625005
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 457
+  node
+  [
+    id 495
     label "gtMP2WcOpi8"
     step 0
     date "2022-07-12T02:42:34Z"
@@ -12811,21 +12358,20 @@ graph [
     commentcount 1
     duration "PT2H32M53S"
     indegree 8
+    ppinsult 0.0665692
+    ppflirtation 0.19320871
+    ppidentityattack 0.0877307
+    ppthreat 0.15259671
+    pptoxicity 0.043718524
+    ppsexuallyexplicit 0.054615814
+    ppprofanity 0.07297734
+    ppinflammatory 0.07753127
+    sentiment 0
     cluster 7
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.054615814
-    PERSPECTIVE_FLIRTATION 0.19320871
-    PERSPECTIVE_INSULT 0.0665692
-    PERSPECTIVE_TOXICITY 0.043718524
-    PERSPECTIVE_IDENTITY_ATTACK 0.0877307
-    PERSPECTIVE_INFLAMMATORY 0.07753127
-    PERSPECTIVE_THREAT 0.15259671
-    PERSPECTIVE_PROFANITY 0.07297734
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 458
+  node
+  [
+    id 496
     label "LCN4JMrRMeE"
     step 0
     date "2022-07-09T16:43:29Z"
@@ -12839,21 +12385,20 @@ graph [
     commentcount 0
     duration "PT21M52S"
     indegree 0
+    ppinsult 0.06707377
+    ppflirtation 0.36016414
+    ppidentityattack 0.0728628
+    ppthreat 0.10083986
+    pptoxicity 0.03204437
+    ppsexuallyexplicit 0.05724451
+    ppprofanity 0.04731807
+    ppinflammatory 0.07588974
+    sentiment 0
     cluster 3
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.05724451
-    PERSPECTIVE_FLIRTATION 0.36016414
-    PERSPECTIVE_INSULT 0.06707377
-    PERSPECTIVE_TOXICITY 0.03204437
-    PERSPECTIVE_IDENTITY_ATTACK 0.0728628
-    PERSPECTIVE_INFLAMMATORY 0.07588974
-    PERSPECTIVE_THREAT 0.10083986
-    PERSPECTIVE_PROFANITY 0.04731807
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 459
+  node
+  [
+    id 497
     label "266V240m6L0"
     step 0
     date "2022-07-10T23:15:01Z"
@@ -12867,21 +12412,20 @@ graph [
     commentcount 26
     duration "PT10M33S"
     indegree 3
+    ppinsult 0.34622902
+    ppflirtation 0.5468057
+    ppidentityattack 0.6782088
+    ppthreat 0.45795748
+    pptoxicity 0.10461388
+    ppsexuallyexplicit 0.27644625
+    ppprofanity 0.3482602
+    ppinflammatory 0.036891125
+    sentiment 0
     cluster 7
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.27644625
-    PERSPECTIVE_FLIRTATION 0.5468057
-    PERSPECTIVE_INSULT 0.34622902
-    PERSPECTIVE_TOXICITY 0.10461388
-    PERSPECTIVE_IDENTITY_ATTACK 0.6782088
-    PERSPECTIVE_INFLAMMATORY 0.036891125
-    PERSPECTIVE_THREAT 0.45795748
-    PERSPECTIVE_PROFANITY 0.3482602
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 460
+  node
+  [
+    id 499
     label "k_n2AZY4hnI"
     step 0
     date "2022-07-07T23:19:01Z"
@@ -12895,21 +12439,20 @@ graph [
     commentcount 8
     duration "PT3H31M36S"
     indegree 1
+    ppinsult 0.066681184
+    ppflirtation 0.22611082
+    ppidentityattack 0.063339986
+    ppthreat 0.07354784
+    pptoxicity 0.024318827
+    ppsexuallyexplicit 0.06519615
+    ppprofanity 0.07745375
+    ppinflammatory 0.027998405
+    sentiment 0
     cluster 7
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.06519615
-    PERSPECTIVE_FLIRTATION 0.22611082
-    PERSPECTIVE_INSULT 0.066681184
-    PERSPECTIVE_TOXICITY 0.024318827
-    PERSPECTIVE_IDENTITY_ATTACK 0.063339986
-    PERSPECTIVE_INFLAMMATORY 0.027998405
-    PERSPECTIVE_THREAT 0.07354784
-    PERSPECTIVE_PROFANITY 0.07745375
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 461
+  node
+  [
+    id 500
     label "W6M_1eQ7bCM"
     step 0
     date "2022-07-10T11:30:05Z"
@@ -12923,21 +12466,20 @@ graph [
     commentcount 2
     duration "PT23M19S"
     indegree 3
-    cluster 8
+    ppinsult 0.11746016
+    ppflirtation 0.53410393
+    ppidentityattack 0.0783992
+    ppthreat 0.20838456
+    pptoxicity 0.08367105
+    ppsexuallyexplicit 0.09440891
+    ppprofanity 0.06731041
+    ppinflammatory 0.03171285
     sentiment 0.3182
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.09440891
-    PERSPECTIVE_FLIRTATION 0.53410393
-    PERSPECTIVE_INSULT 0.11746016
-    PERSPECTIVE_TOXICITY 0.08367105
-    PERSPECTIVE_IDENTITY_ATTACK 0.0783992
-    PERSPECTIVE_INFLAMMATORY 0.03171285
-    PERSPECTIVE_THREAT 0.20838456
-    PERSPECTIVE_PROFANITY 0.06731041
-    leftright ""
-    channeltags ""
+    cluster 8
   ]
-  node [
-    id 462
+  node
+  [
+    id 501
     label "qVxXj-nZonU"
     step 0
     date "2022-07-07T19:50:53Z"
@@ -12951,21 +12493,20 @@ graph [
     commentcount 49
     duration "PT23M42S"
     indegree 26
-    cluster 6
+    ppinsult 0.2155928
+    ppflirtation 0.3966765
+    ppidentityattack 0.316696
+    ppthreat 0.4019568
+    pptoxicity 0.062925026
+    ppsexuallyexplicit 0.20786269
+    ppprofanity 0.2716852
+    ppinflammatory 0.053788695
     sentiment 0.3612
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.20786269
-    PERSPECTIVE_FLIRTATION 0.3966765
-    PERSPECTIVE_INSULT 0.2155928
-    PERSPECTIVE_TOXICITY 0.062925026
-    PERSPECTIVE_IDENTITY_ATTACK 0.316696
-    PERSPECTIVE_INFLAMMATORY 0.053788695
-    PERSPECTIVE_THREAT 0.4019568
-    PERSPECTIVE_PROFANITY 0.2716852
-    leftright ""
-    channeltags ""
+    cluster 6
   ]
-  node [
-    id 463
+  node
+  [
+    id 503
     label "9jMOtpC03rk"
     step 0
     date "2022-07-08T03:18:31Z"
@@ -12979,21 +12520,20 @@ graph [
     commentcount 4
     duration "PT3H59M33S"
     indegree 3
+    ppinsult 0.20605603
+    ppflirtation 0.4445746
+    ppidentityattack 0.48052302
+    ppthreat 0.42076838
+    pptoxicity 0.07730943
+    ppsexuallyexplicit 0.1956221
+    ppprofanity 0.24883066
+    ppinflammatory 0.024722744
+    sentiment 0
     cluster 1
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.1956221
-    PERSPECTIVE_FLIRTATION 0.4445746
-    PERSPECTIVE_INSULT 0.20605603
-    PERSPECTIVE_TOXICITY 0.07730943
-    PERSPECTIVE_IDENTITY_ATTACK 0.48052302
-    PERSPECTIVE_INFLAMMATORY 0.024722744
-    PERSPECTIVE_THREAT 0.42076838
-    PERSPECTIVE_PROFANITY 0.24883066
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 464
+  node
+  [
+    id 504
     label "zkEo4RfmITY"
     step 0
     date "2022-07-05T22:07:36Z"
@@ -13007,21 +12547,20 @@ graph [
     commentcount 18
     duration "PT1H21M20S"
     indegree 1
-    cluster 1
+    ppinsult 0.053785294
+    ppflirtation 0.5164938
+    ppidentityattack 0.0383028
+    ppthreat 0.26297912
+    pptoxicity 0.022773718
+    ppsexuallyexplicit 0.0418056
+    ppprofanity 0.04386949
+    ppinflammatory 0.01593417
     sentiment 0.4215
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.0418056
-    PERSPECTIVE_FLIRTATION 0.5164938
-    PERSPECTIVE_INSULT 0.053785294
-    PERSPECTIVE_TOXICITY 0.022773718
-    PERSPECTIVE_IDENTITY_ATTACK 0.0383028
-    PERSPECTIVE_INFLAMMATORY 0.01593417
-    PERSPECTIVE_THREAT 0.26297912
-    PERSPECTIVE_PROFANITY 0.04386949
-    leftright ""
-    channeltags ""
+    cluster 1
   ]
-  node [
-    id 465
+  node
+  [
+    id 506
     label "9TeovGmRr7c"
     step 0
     date "2022-07-10T15:55:16Z"
@@ -13035,21 +12574,20 @@ graph [
     commentcount 94
     duration "PT14M54S"
     indegree 4
-    cluster 1
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.05622067
-    PERSPECTIVE_FLIRTATION 0.34387696
-    PERSPECTIVE_INSULT 0.055418406
-    PERSPECTIVE_TOXICITY 0.13700475
-    PERSPECTIVE_IDENTITY_ATTACK 0.12724051
-    PERSPECTIVE_INFLAMMATORY 0.16197133
-    PERSPECTIVE_THREAT 0.2914145
-    PERSPECTIVE_PROFANITY 0.061722737
-    leftright ""
-    channeltags ""
+    ppinsult 0.055418406
+    ppflirtation 0.34387696
+    ppidentityattack 0.12724051
+    ppthreat 0.2914145
+    pptoxicity 0.13700475
+    ppsexuallyexplicit 0.05622067
+    ppprofanity 0.061722737
+    ppinflammatory 0.16197133
+    sentiment 0
+    cluster 5
   ]
-  node [
-    id 466
+  node
+  [
+    id 513
     label "ezKGYWu4oXM"
     step 0
     date "2022-07-07T17:54:36Z"
@@ -13063,21 +12601,20 @@ graph [
     commentcount 1
     duration "PT31S"
     indegree 0
+    ppinsult 0.02953815
+    ppflirtation 0.31588635
+    ppidentityattack 0.031165808
+    ppthreat 0.054386534
+    pptoxicity 0.009093502
+    ppsexuallyexplicit 0.04811135
+    ppprofanity 0.03034669
+    ppinflammatory 0.16659433
+    sentiment 0
     cluster 2
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.04811135
-    PERSPECTIVE_FLIRTATION 0.31588635
-    PERSPECTIVE_INSULT 0.02953815
-    PERSPECTIVE_TOXICITY 0.009093502
-    PERSPECTIVE_IDENTITY_ATTACK 0.031165808
-    PERSPECTIVE_INFLAMMATORY 0.16659433
-    PERSPECTIVE_THREAT 0.054386534
-    PERSPECTIVE_PROFANITY 0.03034669
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 467
+  node
+  [
+    id 514
     label "oYMW1JDPJBU"
     step 0
     date "2022-07-09T20:50:46Z"
@@ -13091,21 +12628,20 @@ graph [
     commentcount 28
     duration "PT7M59S"
     indegree 1
+    ppinsult 0.18530267
+    ppflirtation 0.5036615
+    ppidentityattack 0.16634238
+    ppthreat 0.2905207
+    pptoxicity 0.11472086
+    ppsexuallyexplicit 0.3611286
+    ppprofanity 0.25450525
+    ppinflammatory 0.07906316
+    sentiment 0
     cluster 8
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.3611286
-    PERSPECTIVE_FLIRTATION 0.5036615
-    PERSPECTIVE_INSULT 0.18530267
-    PERSPECTIVE_TOXICITY 0.11472086
-    PERSPECTIVE_IDENTITY_ATTACK 0.16634238
-    PERSPECTIVE_INFLAMMATORY 0.07906316
-    PERSPECTIVE_THREAT 0.2905207
-    PERSPECTIVE_PROFANITY 0.25450525
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 468
+  node
+  [
+    id 515
     label "QHF7JGs5CO4"
     step 0
     date "2022-07-09T20:24:28Z"
@@ -13119,21 +12655,20 @@ graph [
     commentcount 0
     duration "PT40M21S"
     indegree 2
+    ppinsult 0.057564568
+    ppflirtation 0.5219464
+    ppidentityattack 0.04119026
+    ppthreat 0.061691836
+    pptoxicity 0.010620655
+    ppsexuallyexplicit 0.05418268
+    ppprofanity 0.025628567
+    ppinflammatory 0.032547392
+    sentiment 0
     cluster 7
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.05418268
-    PERSPECTIVE_FLIRTATION 0.5219464
-    PERSPECTIVE_INSULT 0.057564568
-    PERSPECTIVE_TOXICITY 0.010620655
-    PERSPECTIVE_IDENTITY_ATTACK 0.04119026
-    PERSPECTIVE_INFLAMMATORY 0.032547392
-    PERSPECTIVE_THREAT 0.061691836
-    PERSPECTIVE_PROFANITY 0.025628567
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 469
+  node
+  [
+    id 517
     label "Y6VCf9HCS0Q"
     step 0
     date "2022-07-12T00:18:59Z"
@@ -13147,21 +12682,20 @@ graph [
     commentcount 7
     duration "PT44M43S"
     indegree 3
+    ppinsult 0.0579893
+    ppflirtation 0.33967268
+    ppidentityattack 0.097463325
+    ppthreat 0.32413986
+    pptoxicity 0.021102477
+    ppsexuallyexplicit 0.0774791
+    ppprofanity 0.11386261
+    ppinflammatory 0.056214906
+    sentiment 0
     cluster 8
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.0774791
-    PERSPECTIVE_FLIRTATION 0.33967268
-    PERSPECTIVE_INSULT 0.0579893
-    PERSPECTIVE_TOXICITY 0.021102477
-    PERSPECTIVE_IDENTITY_ATTACK 0.097463325
-    PERSPECTIVE_INFLAMMATORY 0.056214906
-    PERSPECTIVE_THREAT 0.32413986
-    PERSPECTIVE_PROFANITY 0.11386261
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 470
+  node
+  [
+    id 526
     label "88Y_FyEPKeo"
     step 0
     date "2022-07-09T05:41:27Z"
@@ -13175,21 +12709,20 @@ graph [
     commentcount 1
     duration "PT5H21M56S"
     indegree 3
+    ppinsult 0.083707266
+    ppflirtation 0.4279986
+    ppidentityattack 0.070830114
+    ppthreat 0.11646187
+    pptoxicity 0.026207292
+    ppsexuallyexplicit 0.063945554
+    ppprofanity 0.054979708
+    ppinflammatory 0.15058857
+    sentiment 0
     cluster 8
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.063945554
-    PERSPECTIVE_FLIRTATION 0.4279986
-    PERSPECTIVE_INSULT 0.083707266
-    PERSPECTIVE_TOXICITY 0.026207292
-    PERSPECTIVE_IDENTITY_ATTACK 0.070830114
-    PERSPECTIVE_INFLAMMATORY 0.15058857
-    PERSPECTIVE_THREAT 0.11646187
-    PERSPECTIVE_PROFANITY 0.054979708
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 471
+  node
+  [
+    id 527
     label "dWNqRnggdQY"
     step 0
     date "2022-06-20T02:00:40Z"
@@ -13203,21 +12736,20 @@ graph [
     commentcount 1
     duration "PT47M6S"
     indegree 0
+    ppinsult 0.06302858
+    ppflirtation 0.49439213
+    ppidentityattack 0.08007794
+    ppthreat 0.11307242
+    pptoxicity 0.0071151447
+    ppsexuallyexplicit 0.14397596
+    ppprofanity 0.08661902
+    ppinflammatory 0.010383054
+    sentiment 0
     cluster 7
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.14397596
-    PERSPECTIVE_FLIRTATION 0.49439213
-    PERSPECTIVE_INSULT 0.06302858
-    PERSPECTIVE_TOXICITY 0.0071151447
-    PERSPECTIVE_IDENTITY_ATTACK 0.08007794
-    PERSPECTIVE_INFLAMMATORY 0.010383054
-    PERSPECTIVE_THREAT 0.11307242
-    PERSPECTIVE_PROFANITY 0.08661902
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 472
+  node
+  [
+    id 532
     label "o8Lh-YVNF14"
     step 0
     date "2022-07-12T09:00:23Z"
@@ -13231,21 +12763,20 @@ graph [
     commentcount 0
     duration "PT38M27S"
     indegree 2
+    ppinsult 0.050357923
+    ppflirtation 0.50493735
+    ppidentityattack 0.049901016
+    ppthreat 0.060802504
+    pptoxicity 0.009787662
+    ppsexuallyexplicit 0.08125827
+    ppprofanity 0.048744783
+    ppinflammatory 0.007780367
+    sentiment 0
     cluster 7
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.08125827
-    PERSPECTIVE_FLIRTATION 0.50493735
-    PERSPECTIVE_INSULT 0.050357923
-    PERSPECTIVE_TOXICITY 0.009787662
-    PERSPECTIVE_IDENTITY_ATTACK 0.049901016
-    PERSPECTIVE_INFLAMMATORY 0.007780367
-    PERSPECTIVE_THREAT 0.060802504
-    PERSPECTIVE_PROFANITY 0.048744783
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 473
+  node
+  [
+    id 554
     label "j2tNXNRrOjc"
     step 0
     date "2022-07-11T00:31:55Z"
@@ -13259,21 +12790,20 @@ graph [
     commentcount 0
     duration "PT19S"
     indegree 4
+    ppinsult 0.090318836
+    ppflirtation 0.36671513
+    ppidentityattack 0.110256344
+    ppthreat 0.2204792
+    pptoxicity 0.011661896
+    ppsexuallyexplicit 0.12801427
+    ppprofanity 0.09817201
+    ppinflammatory 0.068489894
+    sentiment 0
     cluster 7
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.12801427
-    PERSPECTIVE_FLIRTATION 0.36671513
-    PERSPECTIVE_INSULT 0.090318836
-    PERSPECTIVE_TOXICITY 0.011661896
-    PERSPECTIVE_IDENTITY_ATTACK 0.110256344
-    PERSPECTIVE_INFLAMMATORY 0.068489894
-    PERSPECTIVE_THREAT 0.2204792
-    PERSPECTIVE_PROFANITY 0.09817201
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 474
+  node
+  [
+    id 558
     label "0iaRjrbdvt0"
     step 0
     date "2022-06-25T16:31:52Z"
@@ -13287,21 +12817,20 @@ graph [
     commentcount 0
     duration "PT51S"
     indegree 0
+    ppinsult 0.08463956
+    ppflirtation 0.28337494
+    ppidentityattack 0.15421708
+    ppthreat 0.10487547
+    pptoxicity 0.04131502
+    ppsexuallyexplicit 0.09853098
+    ppprofanity 0.06721426
+    ppinflammatory 0.17991717
+    sentiment 0
     cluster 7
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.09853098
-    PERSPECTIVE_FLIRTATION 0.28337494
-    PERSPECTIVE_INSULT 0.08463956
-    PERSPECTIVE_TOXICITY 0.04131502
-    PERSPECTIVE_IDENTITY_ATTACK 0.15421708
-    PERSPECTIVE_INFLAMMATORY 0.17991717
-    PERSPECTIVE_THREAT 0.10487547
-    PERSPECTIVE_PROFANITY 0.06721426
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 475
+  node
+  [
+    id 559
     label "6MPL0iuBZJc"
     step 0
     date "2022-07-12T02:00:01Z"
@@ -13315,21 +12844,20 @@ graph [
     commentcount 20
     duration "PT26M58S"
     indegree 18
-    cluster 7
+    ppinsult 0.009300941
+    ppflirtation 0.3458583
+    ppidentityattack 0.011871489
+    ppthreat 0.025083544
+    pptoxicity 0.0741129
+    ppsexuallyexplicit 0.076323934
+    ppprofanity 0.008198526
+    ppinflammatory 0.09476806
     sentiment 0.5719
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.076323934
-    PERSPECTIVE_FLIRTATION 0.3458583
-    PERSPECTIVE_INSULT 0.009300941
-    PERSPECTIVE_TOXICITY 0.0741129
-    PERSPECTIVE_IDENTITY_ATTACK 0.011871489
-    PERSPECTIVE_INFLAMMATORY 0.09476806
-    PERSPECTIVE_THREAT 0.025083544
-    PERSPECTIVE_PROFANITY 0.008198526
-    leftright ""
-    channeltags ""
+    cluster 7
   ]
-  node [
-    id 476
+  node
+  [
+    id 561
     label "mmDsGHT_M4k"
     step 0
     date "2022-07-10T16:04:09Z"
@@ -13343,21 +12871,20 @@ graph [
     commentcount 0
     duration "PT14S"
     indegree 0
-    cluster 4
+    ppinsult 0.07138508
+    ppflirtation 0.45720264
+    ppidentityattack 0.060136538
+    ppthreat 0.3162466
+    pptoxicity 0.07690986
+    ppsexuallyexplicit 0.1417975
+    ppprofanity 0.088026665
+    ppinflammatory 0.009445419
     sentiment 0.5994
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.1417975
-    PERSPECTIVE_FLIRTATION 0.45720264
-    PERSPECTIVE_INSULT 0.07138508
-    PERSPECTIVE_TOXICITY 0.07690986
-    PERSPECTIVE_IDENTITY_ATTACK 0.060136538
-    PERSPECTIVE_INFLAMMATORY 0.009445419
-    PERSPECTIVE_THREAT 0.3162466
-    PERSPECTIVE_PROFANITY 0.088026665
-    leftright ""
-    channeltags ""
+    cluster 4
   ]
-  node [
-    id 477
+  node
+  [
+    id 564
     label "CWBOyw55GCw"
     step 0
     date "2022-07-10T07:54:19Z"
@@ -13371,21 +12898,20 @@ graph [
     commentcount 1
     duration "PT11S"
     indegree 0
+    ppinsult 0.029123006
+    ppflirtation 0.22645944
+    ppidentityattack 0.029825587
+    ppthreat 0.09116155
+    pptoxicity 0.027409043
+    ppsexuallyexplicit 0.055482816
+    ppprofanity 0.04584348
+    ppinflammatory 0.3403114
+    sentiment 0
     cluster 8
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.055482816
-    PERSPECTIVE_FLIRTATION 0.22645944
-    PERSPECTIVE_INSULT 0.029123006
-    PERSPECTIVE_TOXICITY 0.027409043
-    PERSPECTIVE_IDENTITY_ATTACK 0.029825587
-    PERSPECTIVE_INFLAMMATORY 0.3403114
-    PERSPECTIVE_THREAT 0.09116155
-    PERSPECTIVE_PROFANITY 0.04584348
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 478
+  node
+  [
+    id 569
     label "uNfr_2ZN_R8"
     step 0
     date "2022-07-10T14:53:42Z"
@@ -13399,21 +12925,20 @@ graph [
     commentcount 0
     duration "PT17S"
     indegree 3
+    ppinsult 0.012925019
+    ppflirtation 0.33493936
+    ppidentityattack 0.0089853285
+    ppthreat 0.02795773
+    pptoxicity 0.0022213135
+    ppsexuallyexplicit 0.13662414
+    ppprofanity 0.01880306
+    ppinflammatory 0.06920759
+    sentiment 0
     cluster 7
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.13662414
-    PERSPECTIVE_FLIRTATION 0.33493936
-    PERSPECTIVE_INSULT 0.012925019
-    PERSPECTIVE_TOXICITY 0.0022213135
-    PERSPECTIVE_IDENTITY_ATTACK 0.0089853285
-    PERSPECTIVE_INFLAMMATORY 0.06920759
-    PERSPECTIVE_THREAT 0.02795773
-    PERSPECTIVE_PROFANITY 0.01880306
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 479
+  node
+  [
+    id 570
     label "xS8UcU1-BUI"
     step 0
     date "2022-07-10T01:39:06Z"
@@ -13427,21 +12952,20 @@ graph [
     commentcount 0
     duration "PT28S"
     indegree 3
+    ppinsult 0.0036452687
+    ppflirtation 0.2188117
+    ppidentityattack 0.002022844
+    ppthreat 0.013410862
+    pptoxicity 0.0011280107
+    ppsexuallyexplicit 0.07035847
+    ppprofanity 0.0045822766
+    ppinflammatory 0.34422696
+    sentiment 0
     cluster 7
-    sentiment 0.0
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.07035847
-    PERSPECTIVE_FLIRTATION 0.2188117
-    PERSPECTIVE_INSULT 0.0036452687
-    PERSPECTIVE_TOXICITY 0.0011280107
-    PERSPECTIVE_IDENTITY_ATTACK 0.002022844
-    PERSPECTIVE_INFLAMMATORY 0.34422696
-    PERSPECTIVE_THREAT 0.013410862
-    PERSPECTIVE_PROFANITY 0.0045822766
-    leftright ""
-    channeltags ""
   ]
-  node [
-    id 480
+  node
+  [
+    id 573
     label "uDD-GDb3Eis"
     step 0
     date "2022-07-10T16:06:59Z"
@@ -13455,11257 +12979,13503 @@ graph [
     commentcount 0
     duration "PT16S"
     indegree 3
-    cluster 7
+    ppinsult 0.012163131
+    ppflirtation 0.2984014
+    ppidentityattack 0.008230753
+    ppthreat 0.029057613
+    pptoxicity 0.08420804
+    ppsexuallyexplicit 0.15942591
+    ppprofanity 0.012638802
+    ppinflammatory 0.32859474
     sentiment -0.2732
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.15942591
-    PERSPECTIVE_FLIRTATION 0.2984014
-    PERSPECTIVE_INSULT 0.012163131
-    PERSPECTIVE_TOXICITY 0.08420804
-    PERSPECTIVE_IDENTITY_ATTACK 0.008230753
-    PERSPECTIVE_INFLAMMATORY 0.32859474
-    PERSPECTIVE_THREAT 0.029057613
-    PERSPECTIVE_PROFANITY 0.012638802
-    leftright ""
-    channeltags ""
+    cluster 7
   ]
-  edge [
+  edge
+  [
     source 0
     target 2
     rank 2
   ]
-  edge [
+  edge
+  [
     source 0
     target 12
     rank 3
   ]
-  edge [
+  edge
+  [
     source 0
     target 11
     rank 4
   ]
-  edge [
+  edge
+  [
     source 0
     target 14
     rank 5
   ]
-  edge [
+  edge
+  [
     source 0
     target 6
     rank 7
   ]
-  edge [
+  edge
+  [
     source 0
     target 1
     rank 8
   ]
-  edge [
+  edge
+  [
     source 0
     target 26
     rank 10
   ]
-  edge [
+  edge
+  [
     source 0
     target 3
     rank 17
   ]
-  edge [
+  edge
+  [
     source 0
     target 4
     rank 19
   ]
-  edge [
+  edge
+  [
     source 1
     target 15
     rank 2
   ]
-  edge [
+  edge
+  [
     source 1
-    target 41
+    target 42
     rank 5
   ]
-  edge [
+  edge
+  [
     source 1
     target 28
     rank 6
   ]
-  edge [
+  edge
+  [
     source 1
     target 6
     rank 8
   ]
-  edge [
+  edge
+  [
     source 1
-    target 42
+    target 43
     rank 12
   ]
-  edge [
+  edge
+  [
     source 1
     target 13
     rank 13
   ]
-  edge [
+  edge
+  [
     source 1
-    target 55
+    target 56
     rank 15
   ]
-  edge [
+  edge
+  [
     source 1
     target 21
     rank 18
   ]
-  edge [
+  edge
+  [
     source 1
-    target 59
+    target 61
     rank 19
   ]
-  edge [
+  edge
+  [
     source 3
     target 4
     rank 5
   ]
-  edge [
+  edge
+  [
     source 3
-    target 81
+    target 84
     rank 10
   ]
-  edge [
+  edge
+  [
     source 3
     target 12
     rank 12
   ]
-  edge [
+  edge
+  [
     source 3
     target 1
     rank 13
   ]
-  edge [
+  edge
+  [
     source 3
-    target 59
+    target 61
     rank 15
   ]
-  edge [
+  edge
+  [
     source 3
     target 15
     rank 16
   ]
-  edge [
+  edge
+  [
     source 4
     target 13
     rank 2
   ]
-  edge [
+  edge
+  [
     source 4
     target 2
     rank 3
   ]
-  edge [
+  edge
+  [
     source 4
     target 15
     rank 9
   ]
-  edge [
+  edge
+  [
     source 4
     target 1
     rank 11
   ]
-  edge [
+  edge
+  [
     source 4
     target 30
     rank 12
   ]
-  edge [
+  edge
+  [
     source 4
     target 8
     rank 14
   ]
-  edge [
+  edge
+  [
     source 4
-    target 112
+    target 116
     rank 15
   ]
-  edge [
+  edge
+  [
     source 4
     target 12
     rank 18
   ]
-  edge [
+  edge
+  [
     source 4
-    target 41
+    target 42
     rank 19
   ]
-  edge [
+  edge
+  [
     source 4
     target 11
     rank 20
   ]
-  edge [
+  edge
+  [
     source 5
     target 30
     rank 1
   ]
-  edge [
+  edge
+  [
     source 5
     target 6
     rank 5
   ]
-  edge [
+  edge
+  [
     source 5
-    target 235
+    target 251
     rank 8
   ]
-  edge [
+  edge
+  [
     source 5
-    target 34
+    target 35
     rank 11
   ]
-  edge [
+  edge
+  [
     source 5
     target 4
     rank 14
   ]
-  edge [
+  edge
+  [
     source 5
-    target 168
+    target 176
     rank 16
   ]
-  edge [
+  edge
+  [
     source 6
-    target 42
+    target 43
     rank 3
   ]
-  edge [
+  edge
+  [
     source 6
-    target 63
+    target 65
     rank 15
   ]
-  edge [
+  edge
+  [
     source 6
     target 1
     rank 18
   ]
-  edge [
+  edge
+  [
     source 7
     target 1
     rank 6
   ]
-  edge [
+  edge
+  [
     source 7
     target 2
     rank 7
   ]
-  edge [
+  edge
+  [
     source 7
     target 12
     rank 9
   ]
-  edge [
+  edge
+  [
     source 7
     target 0
     rank 13
   ]
-  edge [
+  edge
+  [
     source 7
     target 16
     rank 14
   ]
-  edge [
+  edge
+  [
     source 7
     target 6
     rank 17
   ]
-  edge [
+  edge
+  [
     source 7
     target 31
     rank 19
   ]
-  edge [
+  edge
+  [
     source 8
     target 4
     rank 2
   ]
-  edge [
+  edge
+  [
     source 8
     target 0
     rank 3
   ]
-  edge [
+  edge
+  [
     source 8
-    target 101
+    target 104
     rank 5
   ]
-  edge [
+  edge
+  [
     source 8
     target 14
     rank 7
   ]
-  edge [
+  edge
+  [
     source 8
-    target 84
+    target 87
     rank 9
   ]
-  edge [
+  edge
+  [
     source 8
-    target 33
+    target 34
     rank 13
   ]
-  edge [
+  edge
+  [
     source 8
     target 15
     rank 14
   ]
-  edge [
+  edge
+  [
     source 8
     target 7
     rank 16
   ]
-  edge [
+  edge
+  [
     source 8
     target 16
     rank 18
   ]
-  edge [
+  edge
+  [
     source 8
-    target 246
+    target 262
     rank 19
   ]
-  edge [
+  edge
+  [
     source 8
     target 11
     rank 20
   ]
-  edge [
+  edge
+  [
     source 9
     target 32
     rank 1
   ]
-  edge [
+  edge
+  [
     source 9
     target 13
     rank 3
   ]
-  edge [
+  edge
+  [
     source 9
     target 16
     rank 4
   ]
-  edge [
+  edge
+  [
     source 9
     target 4
     rank 5
   ]
-  edge [
+  edge
+  [
     source 9
     target 19
     rank 7
   ]
-  edge [
+  edge
+  [
     source 9
-    target 55
+    target 56
     rank 10
   ]
-  edge [
+  edge
+  [
     source 9
     target 12
     rank 11
   ]
-  edge [
+  edge
+  [
     source 9
-    target 41
+    target 42
     rank 12
   ]
-  edge [
+  edge
+  [
     source 9
     target 2
     rank 13
   ]
-  edge [
+  edge
+  [
     source 9
     target 6
     rank 15
   ]
-  edge [
+  edge
+  [
     source 9
     target 1
     rank 19
   ]
-  edge [
+  edge
+  [
     source 10
     target 13
     rank 2
   ]
-  edge [
+  edge
+  [
     source 10
-    target 42
+    target 43
     rank 5
   ]
-  edge [
+  edge
+  [
     source 10
     target 3
     rank 18
   ]
-  edge [
+  edge
+  [
     source 10
     target 2
     rank 20
   ]
-  edge [
+  edge
+  [
     source 11
-    target 68
+    target 70
     rank 1
   ]
-  edge [
+  edge
+  [
     source 11
     target 14
     rank 2
   ]
-  edge [
+  edge
+  [
     source 11
     target 18
     rank 5
   ]
-  edge [
+  edge
+  [
     source 11
     target 13
     rank 10
   ]
-  edge [
+  edge
+  [
     source 11
     target 3
     rank 12
   ]
-  edge [
+  edge
+  [
     source 11
     target 0
     rank 13
   ]
-  edge [
+  edge
+  [
     source 11
     target 2
     rank 15
   ]
-  edge [
+  edge
+  [
     source 11
     target 25
     rank 17
   ]
-  edge [
+  edge
+  [
     source 11
     target 1
     rank 18
   ]
-  edge [
+  edge
+  [
     source 11
-    target 132
+    target 139
     rank 20
   ]
-  edge [
+  edge
+  [
     source 12
     target 1
     rank 2
   ]
-  edge [
+  edge
+  [
     source 12
     target 2
     rank 6
   ]
-  edge [
+  edge
+  [
     source 12
     target 15
     rank 7
   ]
-  edge [
+  edge
+  [
     source 12
     target 6
     rank 10
   ]
-  edge [
+  edge
+  [
     source 12
     target 16
     rank 11
   ]
-  edge [
+  edge
+  [
     source 12
     target 4
     rank 12
   ]
-  edge [
+  edge
+  [
     source 12
     target 13
     rank 16
   ]
-  edge [
+  edge
+  [
     source 12
     target 21
     rank 17
   ]
-  edge [
+  edge
+  [
     source 13
     target 16
     rank 4
   ]
-  edge [
+  edge
+  [
     source 13
     target 1
     rank 6
   ]
-  edge [
+  edge
+  [
     source 13
     target 6
     rank 9
   ]
-  edge [
+  edge
+  [
     source 13
     target 2
     rank 11
   ]
-  edge [
+  edge
+  [
     source 13
-    target 55
+    target 56
     rank 12
   ]
-  edge [
+  edge
+  [
     source 13
     target 15
     rank 14
   ]
-  edge [
+  edge
+  [
     source 14
-    target 98
+    target 101
     rank 1
   ]
-  edge [
+  edge
+  [
     source 14
     target 2
     rank 5
   ]
-  edge [
+  edge
+  [
     source 14
     target 0
     rank 10
   ]
-  edge [
+  edge
+  [
     source 14
     target 3
     rank 12
   ]
-  edge [
+  edge
+  [
     source 14
     target 18
     rank 14
   ]
-  edge [
+  edge
+  [
     source 15
     target 13
     rank 11
   ]
-  edge [
+  edge
+  [
     source 15
     target 1
     rank 16
   ]
-  edge [
+  edge
+  [
     source 16
     target 1
     rank 4
   ]
-  edge [
+  edge
+  [
     source 16
     target 32
     rank 6
   ]
-  edge [
+  edge
+  [
     source 16
     target 13
     rank 7
   ]
-  edge [
+  edge
+  [
     source 16
     target 9
     rank 8
   ]
-  edge [
+  edge
+  [
     source 16
     target 12
     rank 9
   ]
-  edge [
+  edge
+  [
     source 16
     target 2
     rank 10
   ]
-  edge [
+  edge
+  [
     source 16
     target 15
     rank 12
   ]
-  edge [
+  edge
+  [
     source 16
     target 6
     rank 14
   ]
-  edge [
+  edge
+  [
     source 16
     target 19
     rank 17
   ]
-  edge [
+  edge
+  [
     source 16
     target 3
     rank 19
   ]
-  edge [
+  edge
+  [
     source 17
     target 3
     rank 2
   ]
-  edge [
+  edge
+  [
     source 17
     target 2
     rank 4
   ]
-  edge [
+  edge
+  [
     source 17
-    target 81
+    target 84
     rank 9
   ]
-  edge [
+  edge
+  [
     source 17
     target 25
     rank 10
   ]
-  edge [
+  edge
+  [
     source 17
     target 10
     rank 11
   ]
-  edge [
+  edge
+  [
     source 17
     target 14
     rank 20
   ]
-  edge [
+  edge
+  [
     source 18
     target 2
     rank 3
   ]
-  edge [
+  edge
+  [
     source 18
     target 14
     rank 5
   ]
-  edge [
+  edge
+  [
     source 18
-    target 84
+    target 87
     rank 8
   ]
-  edge [
+  edge
+  [
     source 18
     target 22
     rank 11
   ]
-  edge [
+  edge
+  [
     source 19
     target 1
     rank 4
   ]
-  edge [
+  edge
+  [
     source 19
     target 16
     rank 9
   ]
-  edge [
+  edge
+  [
     source 19
     target 6
     rank 10
   ]
-  edge [
+  edge
+  [
     source 19
     target 2
     rank 12
   ]
-  edge [
+  edge
+  [
     source 19
     target 21
     rank 13
   ]
-  edge [
+  edge
+  [
     source 19
     target 15
     rank 14
   ]
-  edge [
+  edge
+  [
     source 19
     target 13
     rank 18
   ]
-  edge [
+  edge
+  [
     source 20
-    target 84
+    target 87
     rank 2
   ]
-  edge [
+  edge
+  [
     source 20
     target 3
     rank 3
   ]
-  edge [
+  edge
+  [
     source 20
     target 4
     rank 4
   ]
-  edge [
+  edge
+  [
     source 20
     target 31
     rank 5
   ]
-  edge [
+  edge
+  [
     source 20
     target 13
     rank 7
   ]
-  edge [
+  edge
+  [
     source 20
-    target 41
+    target 42
     rank 8
   ]
-  edge [
+  edge
+  [
     source 20
     target 0
     rank 9
   ]
-  edge [
+  edge
+  [
     source 20
     target 2
     rank 10
   ]
-  edge [
+  edge
+  [
     source 20
     target 30
     rank 12
   ]
-  edge [
+  edge
+  [
     source 20
     target 18
     rank 15
   ]
-  edge [
+  edge
+  [
     source 20
     target 22
     rank 17
   ]
-  edge [
+  edge
+  [
     source 20
-    target 33
+    target 34
     rank 18
   ]
-  edge [
+  edge
+  [
     source 21
     target 6
     rank 4
   ]
-  edge [
+  edge
+  [
     source 21
     target 13
     rank 11
   ]
-  edge [
+  edge
+  [
     source 21
     target 10
     rank 15
   ]
-  edge [
+  edge
+  [
     source 22
     target 2
     rank 5
   ]
-  edge [
+  edge
+  [
     source 23
     target 3
     rank 3
   ]
-  edge [
+  edge
+  [
     source 23
-    target 131
+    target 138
     rank 7
   ]
-  edge [
+  edge
+  [
     source 23
-    target 59
-    rank 9
-  ]
-  edge [
-    source 23
-    target 238
-    rank 10
-  ]
-  edge [
-    source 23
-    target 51
-    rank 11
-  ]
-  edge [
-    source 23
-    target 28
-    rank 12
-  ]
-  edge [
-    source 23
-    target 32
-    rank 13
-  ]
-  edge [
-    source 23
-    target 1
-    rank 14
-  ]
-  edge [
-    source 23
-    target 39
-    rank 15
-  ]
-  edge [
-    source 23
-    target 14
-    rank 16
-  ]
-  edge [
-    source 23
-    target 41
-    rank 17
-  ]
-  edge [
-    source 24
-    target 6
-    rank 2
-  ]
-  edge [
-    source 24
-    target 55
-    rank 3
-  ]
-  edge [
-    source 24
-    target 1
-    rank 9
-  ]
-  edge [
-    source 24
-    target 238
-    rank 11
-  ]
-  edge [
-    source 24
-    target 15
-    rank 17
-  ]
-  edge [
-    source 25
-    target 31
-    rank 1
-  ]
-  edge [
-    source 25
-    target 14
-    rank 5
-  ]
-  edge [
-    source 25
-    target 17
-    rank 6
-  ]
-  edge [
-    source 25
-    target 227
-    rank 7
-  ]
-  edge [
-    source 25
-    target 0
-    rank 8
-  ]
-  edge [
-    source 25
-    target 35
-    rank 10
-  ]
-  edge [
-    source 25
-    target 2
-    rank 11
-  ]
-  edge [
-    source 25
-    target 5
-    rank 15
-  ]
-  edge [
-    source 25
-    target 8
-    rank 16
-  ]
-  edge [
-    source 25
-    target 20
-    rank 17
-  ]
-  edge [
-    source 25
-    target 4
-    rank 18
-  ]
-  edge [
-    source 26
-    target 0
-    rank 5
-  ]
-  edge [
-    source 26
-    target 2
-    rank 10
-  ]
-  edge [
-    source 26
-    target 102
-    rank 12
-  ]
-  edge [
-    source 26
-    target 14
-    rank 15
-  ]
-  edge [
-    source 26
-    target 11
-    rank 20
-  ]
-  edge [
-    source 27
-    target 12
-    rank 2
-  ]
-  edge [
-    source 27
-    target 56
-    rank 4
-  ]
-  edge [
-    source 27
-    target 32
-    rank 9
-  ]
-  edge [
-    source 27
-    target 189
-    rank 10
-  ]
-  edge [
-    source 27
-    target 19
-    rank 12
-  ]
-  edge [
-    source 27
-    target 16
-    rank 15
-  ]
-  edge [
-    source 28
-    target 6
-    rank 2
-  ]
-  edge [
-    source 28
-    target 59
-    rank 7
-  ]
-  edge [
-    source 28
-    target 238
-    rank 8
-  ]
-  edge [
-    source 28
-    target 51
-    rank 15
-  ]
-  edge [
-    source 28
-    target 2
-    rank 16
-  ]
-  edge [
-    source 28
-    target 1
-    rank 17
-  ]
-  edge [
-    source 28
-    target 131
-    rank 18
-  ]
-  edge [
-    source 28
-    target 81
-    rank 19
-  ]
-  edge [
-    source 28
-    target 55
-    rank 20
-  ]
-  edge [
-    source 29
-    target 56
-    rank 6
-  ]
-  edge [
-    source 29
-    target 13
-    rank 13
-  ]
-  edge [
-    source 29
-    target 2
-    rank 16
-  ]
-  edge [
-    source 29
-    target 26
-    rank 19
-  ]
-  edge [
-    source 30
-    target 16
-    rank 2
-  ]
-  edge [
-    source 30
-    target 238
-    rank 5
-  ]
-  edge [
-    source 30
-    target 19
-    rank 8
-  ]
-  edge [
-    source 30
-    target 352
-    rank 12
-  ]
-  edge [
-    source 30
-    target 28
-    rank 13
-  ]
-  edge [
-    source 31
-    target 4
-    rank 2
-  ]
-  edge [
-    source 31
-    target 32
-    rank 3
-  ]
-  edge [
-    source 31
-    target 39
-    rank 4
-  ]
-  edge [
-    source 31
-    target 2
-    rank 6
-  ]
-  edge [
-    source 31
-    target 23
-    rank 16
-  ]
-  edge [
-    source 31
-    target 19
-    rank 19
-  ]
-  edge [
-    source 32
-    target 15
-    rank 6
-  ]
-  edge [
-    source 32
-    target 2
-    rank 10
-  ]
-  edge [
-    source 32
-    target 1
-    rank 11
-  ]
-  edge [
-    source 32
-    target 9
-    rank 14
-  ]
-  edge [
-    source 32
-    target 16
-    rank 16
-  ]
-  edge [
-    source 32
-    target 6
-    rank 18
-  ]
-  edge [
-    source 32
-    target 55
-    rank 19
-  ]
-  edge [
-    source 33
-    target 235
-    rank 2
-  ]
-  edge [
-    source 33
-    target 2
-    rank 3
-  ]
-  edge [
-    source 33
-    target 227
-    rank 4
-  ]
-  edge [
-    source 33
-    target 31
-    rank 5
-  ]
-  edge [
-    source 33
-    target 437
-    rank 7
-  ]
-  edge [
-    source 33
-    target 306
-    rank 9
-  ]
-  edge [
-    source 33
-    target 28
-    rank 18
-  ]
-  edge [
-    source 33
-    target 278
-    rank 20
-  ]
-  edge [
-    source 34
-    target 5
-    rank 2
-  ]
-  edge [
-    source 34
-    target 56
-    rank 3
-  ]
-  edge [
-    source 34
-    target 2
-    rank 4
-  ]
-  edge [
-    source 34
-    target 6
-    rank 6
-  ]
-  edge [
-    source 34
-    target 3
-    rank 7
-  ]
-  edge [
-    source 34
-    target 425
-    rank 8
-  ]
-  edge [
-    source 34
-    target 227
-    rank 12
-  ]
-  edge [
-    source 34
-    target 22
-    rank 13
-  ]
-  edge [
-    source 34
-    target 249
-    rank 18
-  ]
-  edge [
-    source 35
-    target 31
-    rank 2
-  ]
-  edge [
-    source 35
-    target 17
-    rank 4
-  ]
-  edge [
-    source 35
-    target 306
-    rank 8
-  ]
-  edge [
-    source 35
-    target 34
-    rank 9
-  ]
-  edge [
-    source 35
-    target 313
-    rank 12
-  ]
-  edge [
-    source 35
-    target 30
-    rank 14
-  ]
-  edge [
-    source 35
-    target 44
-    rank 15
-  ]
-  edge [
-    source 35
-    target 385
-    rank 20
-  ]
-  edge [
-    source 36
-    target 13
-    rank 1
-  ]
-  edge [
-    source 36
-    target 56
-    rank 3
-  ]
-  edge [
-    source 36
-    target 3
-    rank 5
-  ]
-  edge [
-    source 36
-    target 16
-    rank 6
-  ]
-  edge [
-    source 36
-    target 2
-    rank 9
-  ]
-  edge [
-    source 36
-    target 6
-    rank 11
-  ]
-  edge [
-    source 36
-    target 227
-    rank 19
-  ]
-  edge [
-    source 37
-    target 64
-    rank 2
-  ]
-  edge [
-    source 37
-    target 3
-    rank 4
-  ]
-  edge [
-    source 37
-    target 2
-    rank 5
-  ]
-  edge [
-    source 37
-    target 0
-    rank 9
-  ]
-  edge [
-    source 37
-    target 14
-    rank 10
-  ]
-  edge [
-    source 37
-    target 44
-    rank 11
-  ]
-  edge [
-    source 37
-    target 25
-    rank 12
-  ]
-  edge [
-    source 37
-    target 10
-    rank 14
-  ]
-  edge [
-    source 38
-    target 26
-    rank 7
-  ]
-  edge [
-    source 38
-    target 39
-    rank 9
-  ]
-  edge [
-    source 38
-    target 343
-    rank 16
-  ]
-  edge [
-    source 38
-    target 258
-    rank 18
-  ]
-  edge [
-    source 38
-    target 73
-    rank 20
-  ]
-  edge [
-    source 39
-    target 2
-    rank 19
-  ]
-  edge [
-    source 40
-    target 2
-    rank 5
-  ]
-  edge [
-    source 40
-    target 18
-    rank 13
-  ]
-  edge [
-    source 40
-    target 14
-    rank 15
-  ]
-  edge [
-    source 41
-    target 238
-    rank 1
-  ]
-  edge [
-    source 41
-    target 42
-    rank 3
-  ]
-  edge [
-    source 41
-    target 15
-    rank 8
-  ]
-  edge [
-    source 41
-    target 1
-    rank 11
-  ]
-  edge [
-    source 41
-    target 19
-    rank 12
-  ]
-  edge [
-    source 41
-    target 2
-    rank 13
-  ]
-  edge [
-    source 41
-    target 59
-    rank 15
-  ]
-  edge [
-    source 41
-    target 81
-    rank 16
-  ]
-  edge [
-    source 41
-    target 6
-    rank 18
-  ]
-  edge [
-    source 42
-    target 6
-    rank 3
-  ]
-  edge [
-    source 42
-    target 21
-    rank 20
-  ]
-  edge [
-    source 43
-    target 1
-    rank 4
-  ]
-  edge [
-    source 43
-    target 36
-    rank 5
-  ]
-  edge [
-    source 43
-    target 8
-    rank 6
-  ]
-  edge [
-    source 43
-    target 6
-    rank 11
-  ]
-  edge [
-    source 43
-    target 68
-    rank 16
-  ]
-  edge [
-    source 44
-    target 2
-    rank 4
-  ]
-  edge [
-    source 44
-    target 98
-    rank 5
-  ]
-  edge [
-    source 44
-    target 49
-    rank 7
-  ]
-  edge [
-    source 44
-    target 12
-    rank 10
-  ]
-  edge [
-    source 44
-    target 0
-    rank 11
-  ]
-  edge [
-    source 44
-    target 28
-    rank 12
-  ]
-  edge [
-    source 44
-    target 383
-    rank 15
-  ]
-  edge [
-    source 44
-    target 33
-    rank 16
-  ]
-  edge [
-    source 44
-    target 268
-    rank 17
-  ]
-  edge [
-    source 45
-    target 41
-    rank 3
-  ]
-  edge [
-    source 45
-    target 3
-    rank 6
-  ]
-  edge [
-    source 45
-    target 74
-    rank 7
-  ]
-  edge [
-    source 45
-    target 456
-    rank 16
-  ]
-  edge [
-    source 46
-    target 189
-    rank 1
-  ]
-  edge [
-    source 46
-    target 343
-    rank 9
-  ]
-  edge [
-    source 46
-    target 199
-    rank 11
-  ]
-  edge [
-    source 46
-    target 131
-    rank 17
-  ]
-  edge [
-    source 46
-    target 70
-    rank 19
-  ]
-  edge [
-    source 47
-    target 64
-    rank 1
-  ]
-  edge [
-    source 47
-    target 4
-    rank 3
-  ]
-  edge [
-    source 47
-    target 111
-    rank 4
-  ]
-  edge [
-    source 47
-    target 88
-    rank 8
-  ]
-  edge [
-    source 47
-    target 284
-    rank 11
-  ]
-  edge [
-    source 47
-    target 306
-    rank 12
-  ]
-  edge [
-    source 47
-    target 278
-    rank 16
-  ]
-  edge [
-    source 47
-    target 31
-    rank 18
-  ]
-  edge [
-    source 48
-    target 28
-    rank 2
-  ]
-  edge [
-    source 48
-    target 59
-    rank 6
-  ]
-  edge [
-    source 48
-    target 249
-    rank 7
-  ]
-  edge [
-    source 48
-    target 131
-    rank 9
-  ]
-  edge [
-    source 48
-    target 1
-    rank 10
-  ]
-  edge [
-    source 48
-    target 190
-    rank 13
-  ]
-  edge [
-    source 48
-    target 16
-    rank 14
-  ]
-  edge [
-    source 48
-    target 3
-    rank 16
-  ]
-  edge [
-    source 48
-    target 0
-    rank 17
-  ]
-  edge [
-    source 48
-    target 42
-    rank 19
-  ]
-  edge [
-    source 48
-    target 68
-    rank 20
-  ]
-  edge [
-    source 49
-    target 28
-    rank 3
-  ]
-  edge [
-    source 49
-    target 44
-    rank 8
-  ]
-  edge [
-    source 49
-    target 3
-    rank 9
-  ]
-  edge [
-    source 49
-    target 190
-    rank 10
-  ]
-  edge [
-    source 49
-    target 32
-    rank 13
-  ]
-  edge [
-    source 49
-    target 41
-    rank 14
-  ]
-  edge [
-    source 49
-    target 13
-    rank 17
-  ]
-  edge [
-    source 49
-    target 1
-    rank 20
-  ]
-  edge [
-    source 50
-    target 39
-    rank 4
-  ]
-  edge [
-    source 50
-    target 62
-    rank 13
-  ]
-  edge [
-    source 51
-    target 238
-    rank 1
-  ]
-  edge [
-    source 51
-    target 13
-    rank 3
-  ]
-  edge [
-    source 51
-    target 48
-    rank 9
-  ]
-  edge [
-    source 51
-    target 16
-    rank 10
-  ]
-  edge [
-    source 51
-    target 3
-    rank 12
-  ]
-  edge [
-    source 51
-    target 59
-    rank 16
-  ]
-  edge [
-    source 51
-    target 1
-    rank 17
-  ]
-  edge [
-    source 51
-    target 41
-    rank 20
-  ]
-  edge [
-    source 52
-    target 56
-    rank 1
-  ]
-  edge [
-    source 52
-    target 0
-    rank 2
-  ]
-  edge [
-    source 52
-    target 97
-    rank 3
-  ]
-  edge [
-    source 52
-    target 12
-    rank 7
-  ]
-  edge [
-    source 52
-    target 2
-    rank 8
-  ]
-  edge [
-    source 52
-    target 1
-    rank 9
-  ]
-  edge [
-    source 52
-    target 132
-    rank 12
-  ]
-  edge [
-    source 52
-    target 48
-    rank 13
-  ]
-  edge [
-    source 52
-    target 11
-    rank 15
-  ]
-  edge [
-    source 52
-    target 86
-    rank 18
-  ]
-  edge [
-    source 53
-    target 36
-    rank 1
-  ]
-  edge [
-    source 53
-    target 6
-    rank 14
-  ]
-  edge [
-    source 54
-    target 206
-    rank 1
-  ]
-  edge [
-    source 54
-    target 88
-    rank 3
-  ]
-  edge [
-    source 54
-    target 101
-    rank 9
-  ]
-  edge [
-    source 54
-    target 6
-    rank 13
-  ]
-  edge [
-    source 54
-    target 285
-    rank 14
-  ]
-  edge [
-    source 55
-    target 12
-    rank 2
-  ]
-  edge [
-    source 55
-    target 16
-    rank 4
-  ]
-  edge [
-    source 55
-    target 2
-    rank 7
-  ]
-  edge [
-    source 55
-    target 13
-    rank 10
-  ]
-  edge [
-    source 55
-    target 6
-    rank 11
-  ]
-  edge [
-    source 56
-    target 16
-    rank 1
-  ]
-  edge [
-    source 56
-    target 15
-    rank 3
-  ]
-  edge [
-    source 56
-    target 9
-    rank 4
-  ]
-  edge [
-    source 56
-    target 27
-    rank 5
-  ]
-  edge [
-    source 56
-    target 189
-    rank 6
-  ]
-  edge [
-    source 56
-    target 98
-    rank 7
-  ]
-  edge [
-    source 56
-    target 36
-    rank 8
-  ]
-  edge [
-    source 56
-    target 19
-    rank 9
-  ]
-  edge [
-    source 56
-    target 51
-    rank 10
-  ]
-  edge [
-    source 56
-    target 32
-    rank 11
-  ]
-  edge [
-    source 56
-    target 45
-    rank 14
-  ]
-  edge [
-    source 57
-    target 0
-    rank 4
-  ]
-  edge [
-    source 57
-    target 6
-    rank 10
-  ]
-  edge [
-    source 57
-    target 68
-    rank 19
-  ]
-  edge [
-    source 58
-    target 42
-    rank 3
-  ]
-  edge [
-    source 58
-    target 6
-    rank 11
-  ]
-  edge [
-    source 58
-    target 111
-    rank 16
-  ]
-  edge [
-    source 58
-    target 26
-    rank 19
-  ]
-  edge [
-    source 59
-    target 1
-    rank 1
-  ]
-  edge [
-    source 59
-    target 55
-    rank 5
-  ]
-  edge [
-    source 59
-    target 28
-    rank 8
-  ]
-  edge [
-    source 59
-    target 18
-    rank 11
-  ]
-  edge [
-    source 59
-    target 131
-    rank 12
-  ]
-  edge [
-    source 59
-    target 3
-    rank 14
-  ]
-  edge [
-    source 59
-    target 51
-    rank 16
-  ]
-  edge [
-    source 59
-    target 92
-    rank 18
-  ]
-  edge [
-    source 59
-    target 32
-    rank 19
-  ]
-  edge [
-    source 59
-    target 238
-    rank 20
-  ]
-  edge [
-    source 61
-    target 39
-    rank 1
-  ]
-  edge [
-    source 61
-    target 74
-    rank 6
-  ]
-  edge [
-    source 61
-    target 2
-    rank 12
-  ]
-  edge [
-    source 62
-    target 74
-    rank 3
-  ]
-  edge [
-    source 62
-    target 39
-    rank 7
-  ]
-  edge [
-    source 62
-    target 61
-    rank 8
-  ]
-  edge [
-    source 63
-    target 21
-    rank 13
-  ]
-  edge [
-    source 63
-    target 6
-    rank 14
-  ]
-  edge [
-    source 63
-    target 193
-    rank 19
-  ]
-  edge [
-    source 64
-    target 9
-    rank 3
-  ]
-  edge [
-    source 64
-    target 12
-    rank 4
-  ]
-  edge [
-    source 64
-    target 31
-    rank 6
-  ]
-  edge [
-    source 64
-    target 30
-    rank 9
-  ]
-  edge [
-    source 64
-    target 8
-    rank 12
-  ]
-  edge [
-    source 64
-    target 368
-    rank 13
-  ]
-  edge [
-    source 64
-    target 4
-    rank 17
-  ]
-  edge [
-    source 64
-    target 37
-    rank 19
-  ]
-  edge [
-    source 64
-    target 5
-    rank 20
-  ]
-  edge [
-    source 65
-    target 74
-    rank 10
-  ]
-  edge [
-    source 65
-    target 4
-    rank 11
-  ]
-  edge [
-    source 66
-    target 0
-    rank 4
-  ]
-  edge [
-    source 66
-    target 93
-    rank 9
-  ]
-  edge [
-    source 66
-    target 7
-    rank 10
-  ]
-  edge [
-    source 66
-    target 3
-    rank 13
-  ]
-  edge [
-    source 66
-    target 55
-    rank 17
-  ]
-  edge [
-    source 66
-    target 48
-    rank 18
-  ]
-  edge [
-    source 67
-    target 413
-    rank 5
-  ]
-  edge [
-    source 67
-    target 161
-    rank 8
-  ]
-  edge [
-    source 67
-    target 101
-    rank 13
-  ]
-  edge [
-    source 67
-    target 383
-    rank 14
-  ]
-  edge [
-    source 68
-    target 83
-    rank 13
-  ]
-  edge [
-    source 70
-    target 2
-    rank 7
-  ]
-  edge [
-    source 70
-    target 7
-    rank 8
-  ]
-  edge [
-    source 70
-    target 46
-    rank 9
-  ]
-  edge [
-    source 70
-    target 1
-    rank 12
-  ]
-  edge [
-    source 70
-    target 5
-    rank 15
-  ]
-  edge [
-    source 70
-    target 113
-    rank 16
-  ]
-  edge [
-    source 70
-    target 131
-    rank 18
-  ]
-  edge [
-    source 70
-    target 69
-    rank 20
-  ]
-  edge [
-    source 71
-    target 49
-    rank 7
-  ]
-  edge [
-    source 71
-    target 32
-    rank 9
-  ]
-  edge [
-    source 71
-    target 233
-    rank 10
-  ]
-  edge [
-    source 71
-    target 27
-    rank 13
-  ]
-  edge [
-    source 71
-    target 59
-    rank 17
-  ]
-  edge [
-    source 71
-    target 6
-    rank 18
-  ]
-  edge [
-    source 71
-    target 193
-    rank 19
-  ]
-  edge [
-    source 72
-    target 136
-    rank 6
-  ]
-  edge [
-    source 72
-    target 221
-    rank 9
-  ]
-  edge [
-    source 72
-    target 411
-    rank 16
-  ]
-  edge [
-    source 72
-    target 166
-    rank 17
-  ]
-  edge [
-    source 73
-    target 74
-    rank 1
-  ]
-  edge [
-    source 73
-    target 62
-    rank 3
-  ]
-  edge [
-    source 73
-    target 39
-    rank 8
-  ]
-  edge [
-    source 73
     target 61
     rank 9
   ]
-  edge [
-    source 73
-    target 18
-    rank 17
-  ]
-  edge [
-    source 74
-    target 62
-    rank 3
-  ]
-  edge [
-    source 74
-    target 73
-    rank 16
-  ]
-  edge [
-    source 74
-    target 456
-    rank 20
-  ]
-  edge [
-    source 75
-    target 2
-    rank 14
-  ]
-  edge [
-    source 76
-    target 2
-    rank 8
-  ]
-  edge [
-    source 77
-    target 354
-    rank 4
-  ]
-  edge [
-    source 77
-    target 2
-    rank 6
-  ]
-  edge [
-    source 77
-    target 59
-    rank 17
-  ]
-  edge [
-    source 78
-    target 31
-    rank 2
-  ]
-  edge [
-    source 78
-    target 25
-    rank 3
-  ]
-  edge [
-    source 78
-    target 2
-    rank 5
-  ]
-  edge [
-    source 78
-    target 30
-    rank 7
-  ]
-  edge [
-    source 78
-    target 126
-    rank 11
-  ]
-  edge [
-    source 78
-    target 35
-    rank 12
-  ]
-  edge [
-    source 78
-    target 101
-    rank 14
-  ]
-  edge [
-    source 78
-    target 4
-    rank 15
-  ]
-  edge [
-    source 78
-    target 437
-    rank 16
-  ]
-  edge [
-    source 78
-    target 262
-    rank 17
-  ]
-  edge [
-    source 78
-    target 279
-    rank 18
-  ]
-  edge [
-    source 79
-    target 316
-    rank 5
-  ]
-  edge [
-    source 79
-    target 189
-    rank 6
-  ]
-  edge [
-    source 79
-    target 14
-    rank 9
-  ]
-  edge [
-    source 79
-    target 400
-    rank 12
-  ]
-  edge [
-    source 79
-    target 3
-    rank 13
-  ]
-  edge [
-    source 79
-    target 26
-    rank 16
-  ]
-  edge [
-    source 79
-    target 369
-    rank 17
-  ]
-  edge [
-    source 80
-    target 42
-    rank 5
-  ]
-  edge [
-    source 80
-    target 2
-    rank 15
-  ]
-  edge [
-    source 80
-    target 1
-    rank 16
-  ]
-  edge [
-    source 81
-    target 238
-    rank 1
-  ]
-  edge [
-    source 81
-    target 23
-    rank 2
-  ]
-  edge [
-    source 81
-    target 51
-    rank 3
-  ]
-  edge [
-    source 81
-    target 3
-    rank 7
-  ]
-  edge [
-    source 81
-    target 0
-    rank 9
-  ]
-  edge [
-    source 81
-    target 17
+  edge
+  [
+    source 23
+    target 254
     rank 10
   ]
-  edge [
-    source 81
-    target 48
-    rank 11
-  ]
-  edge [
-    source 81
-    target 59
-    rank 12
-  ]
-  edge [
-    source 81
-    target 131
-    rank 14
-  ]
-  edge [
-    source 81
-    target 41
-    rank 16
-  ]
-  edge [
-    source 82
-    target 9
-    rank 1
-  ]
-  edge [
-    source 82
-    target 39
-    rank 4
-  ]
-  edge [
-    source 82
-    target 68
-    rank 5
-  ]
-  edge [
-    source 82
-    target 6
-    rank 8
-  ]
-  edge [
-    source 82
-    target 92
-    rank 12
-  ]
-  edge [
-    source 83
-    target 98
-    rank 6
-  ]
-  edge [
-    source 83
-    target 456
-    rank 7
-  ]
-  edge [
-    source 84
-    target 4
-    rank 7
-  ]
-  edge [
-    source 85
-    target 19
-    rank 1
-  ]
-  edge [
-    source 85
-    target 55
-    rank 2
-  ]
-  edge [
-    source 85
-    target 13
-    rank 5
-  ]
-  edge [
-    source 85
-    target 1
-    rank 11
-  ]
-  edge [
-    source 85
-    target 68
-    rank 12
-  ]
-  edge [
-    source 85
-    target 56
-    rank 16
-  ]
-  edge [
-    source 85
-    target 189
-    rank 18
-  ]
-  edge [
-    source 85
-    target 4
-    rank 20
-  ]
-  edge [
-    source 86
-    target 41
-    rank 4
-  ]
-  edge [
-    source 86
-    target 0
-    rank 6
-  ]
-  edge [
-    source 86
-    target 2
-    rank 7
-  ]
-  edge [
-    source 87
-    target 425
-    rank 2
-  ]
-  edge [
-    source 87
-    target 101
-    rank 4
-  ]
-  edge [
-    source 87
-    target 377
-    rank 9
-  ]
-  edge [
-    source 87
-    target 278
-    rank 10
-  ]
-  edge [
-    source 87
-    target 284
-    rank 13
-  ]
-  edge [
-    source 88
-    target 41
-    rank 6
-  ]
-  edge [
-    source 88
-    target 1
-    rank 11
-  ]
-  edge [
-    source 88
-    target 13
-    rank 12
-  ]
-  edge [
-    source 88
-    target 48
-    rank 14
-  ]
-  edge [
-    source 88
-    target 42
-    rank 15
-  ]
-  edge [
-    source 89
-    target 131
-    rank 1
-  ]
-  edge [
-    source 89
-    target 145
-    rank 2
-  ]
-  edge [
-    source 89
-    target 2
-    rank 8
-  ]
-  edge [
-    source 89
-    target 3
-    rank 10
-  ]
-  edge [
-    source 89
-    target 59
-    rank 13
-  ]
-  edge [
-    source 90
-    target 13
-    rank 4
-  ]
-  edge [
-    source 90
-    target 15
-    rank 17
-  ]
-  edge [
-    source 91
-    target 16
-    rank 1
-  ]
-  edge [
-    source 91
-    target 45
-    rank 8
-  ]
-  edge [
-    source 91
-    target 1
-    rank 13
-  ]
-  edge [
-    source 92
-    target 13
-    rank 1
-  ]
-  edge [
-    source 92
-    target 19
-    rank 10
-  ]
-  edge [
-    source 92
-    target 6
-    rank 12
-  ]
-  edge [
-    source 92
-    target 42
-    rank 15
-  ]
-  edge [
-    source 92
-    target 131
-    rank 16
-  ]
-  edge [
-    source 93
-    target 32
-    rank 2
-  ]
-  edge [
-    source 93
-    target 16
-    rank 4
-  ]
-  edge [
-    source 93
-    target 9
-    rank 17
-  ]
-  edge [
-    source 93
-    target 190
-    rank 18
-  ]
-  edge [
-    source 94
-    target 26
-    rank 2
-  ]
-  edge [
-    source 94
-    target 45
-    rank 3
-  ]
-  edge [
-    source 94
-    target 433
-    rank 7
-  ]
-  edge [
-    source 94
-    target 28
-    rank 9
-  ]
-  edge [
-    source 94
-    target 6
-    rank 10
-  ]
-  edge [
-    source 94
-    target 148
-    rank 13
-  ]
-  edge [
-    source 94
-    target 271
-    rank 19
-  ]
-  edge [
-    source 95
-    target 30
-    rank 1
-  ]
-  edge [
-    source 95
-    target 16
-    rank 4
-  ]
-  edge [
-    source 95
-    target 0
-    rank 5
-  ]
-  edge [
-    source 95
-    target 142
-    rank 6
-  ]
-  edge [
-    source 95
-    target 3
-    rank 7
-  ]
-  edge [
-    source 95
-    target 5
-    rank 9
-  ]
-  edge [
-    source 95
-    target 86
-    rank 13
-  ]
-  edge [
-    source 95
-    target 19
-    rank 14
-  ]
-  edge [
-    source 95
-    target 20
-    rank 17
-  ]
-  edge [
-    source 95
-    target 22
-    rank 19
-  ]
-  edge [
-    source 96
-    target 0
-    rank 3
-  ]
-  edge [
-    source 96
+  edge
+  [
+    source 23
     target 52
-    rank 6
-  ]
-  edge [
-    source 97
-    target 2
-    rank 7
-  ]
-  edge [
-    source 97
-    target 60
-    rank 14
-  ]
-  edge [
-    source 98
-    target 148
-    rank 5
-  ]
-  edge [
-    source 98
-    target 14
-    rank 13
-  ]
-  edge [
-    source 99
-    target 475
-    rank 8
-  ]
-  edge [
-    source 100
-    target 2
-    rank 4
-  ]
-  edge [
-    source 100
-    target 31
-    rank 7
-  ]
-  edge [
-    source 100
-    target 306
-    rank 8
-  ]
-  edge [
-    source 100
-    target 44
     rank 11
   ]
-  edge [
-    source 100
-    target 8
-    rank 12
-  ]
-  edge [
-    source 100
-    target 5
-    rank 15
-  ]
-  edge [
-    source 100
-    target 10
-    rank 16
-  ]
-  edge [
-    source 100
-    target 30
-    rank 18
-  ]
-  edge [
-    source 100
-    target 4
-    rank 20
-  ]
-  edge [
-    source 101
-    target 425
-    rank 1
-  ]
-  edge [
-    source 101
-    target 30
-    rank 7
-  ]
-  edge [
-    source 101
-    target 22
-    rank 10
-  ]
-  edge [
-    source 101
-    target 417
-    rank 13
-  ]
-  edge [
-    source 101
-    target 333
-    rank 20
-  ]
-  edge [
-    source 102
-    target 29
-    rank 7
-  ]
-  edge [
-    source 102
-    target 248
-    rank 14
-  ]
-  edge [
-    source 103
-    target 61
-    rank 3
-  ]
-  edge [
-    source 103
-    target 74
-    rank 6
-  ]
-  edge [
-    source 103
-    target 3
-    rank 7
-  ]
-  edge [
-    source 103
-    target 39
-    rank 8
-  ]
-  edge [
-    source 103
-    target 92
-    rank 10
-  ]
-  edge [
-    source 103
-    target 117
-    rank 14
-  ]
-  edge [
-    source 104
-    target 227
-    rank 10
-  ]
-  edge [
-    source 105
-    target 92
-    rank 20
-  ]
-  edge [
-    source 106
-    target 333
-    rank 5
-  ]
-  edge [
-    source 106
-    target 306
-    rank 7
-  ]
-  edge [
-    source 106
-    target 437
-    rank 8
-  ]
-  edge [
-    source 106
-    target 31
-    rank 9
-  ]
-  edge [
-    source 106
-    target 313
-    rank 11
-  ]
-  edge [
-    source 106
-    target 8
-    rank 13
-  ]
-  edge [
-    source 106
-    target 425
-    rank 14
-  ]
-  edge [
-    source 106
-    target 30
-    rank 15
-  ]
-  edge [
-    source 106
-    target 20
-    rank 16
-  ]
-  edge [
-    source 107
-    target 206
-    rank 10
-  ]
-  edge [
-    source 107
-    target 258
-    rank 20
-  ]
-  edge [
-    source 108
-    target 383
-    rank 1
-  ]
-  edge [
-    source 108
-    target 92
-    rank 4
-  ]
-  edge [
-    source 108
-    target 419
-    rank 6
-  ]
-  edge [
-    source 108
-    target 306
-    rank 7
-  ]
-  edge [
-    source 108
-    target 101
-    rank 13
-  ]
-  edge [
-    source 108
-    target 173
-    rank 15
-  ]
-  edge [
-    source 108
-    target 377
-    rank 17
-  ]
-  edge [
-    source 108
-    target 394
-    rank 19
-  ]
-  edge [
-    source 109
-    target 3
-    rank 3
-  ]
-  edge [
-    source 109
-    target 102
-    rank 6
-  ]
-  edge [
-    source 109
-    target 31
-    rank 7
-  ]
-  edge [
-    source 109
-    target 284
-    rank 9
-  ]
-  edge [
-    source 109
-    target 20
-    rank 10
-  ]
-  edge [
-    source 109
-    target 381
-    rank 15
-  ]
-  edge [
-    source 109
-    target 11
-    rank 17
-  ]
-  edge [
-    source 109
-    target 4
-    rank 20
-  ]
-  edge [
-    source 110
-    target 26
-    rank 4
-  ]
-  edge [
-    source 110
-    target 0
-    rank 11
-  ]
-  edge [
-    source 110
-    target 191
-    rank 16
-  ]
-  edge [
-    source 110
-    target 85
-    rank 17
-  ]
-  edge [
-    source 111
-    target 425
-    rank 2
-  ]
-  edge [
-    source 111
-    target 437
-    rank 3
-  ]
-  edge [
-    source 111
-    target 313
-    rank 7
-  ]
-  edge [
-    source 111
-    target 301
-    rank 12
-  ]
-  edge [
-    source 111
-    target 31
-    rank 18
-  ]
-  edge [
-    source 112
-    target 41
-    rank 1
-  ]
-  edge [
-    source 112
-    target 223
-    rank 4
-  ]
-  edge [
-    source 112
-    target 2
-    rank 6
-  ]
-  edge [
-    source 112
-    target 5
-    rank 8
-  ]
-  edge [
-    source 112
-    target 167
-    rank 9
-  ]
-  edge [
-    source 112
-    target 8
-    rank 11
-  ]
-  edge [
-    source 112
-    target 400
-    rank 12
-  ]
-  edge [
-    source 112
-    target 20
-    rank 19
-  ]
-  edge [
-    source 113
-    target 55
-    rank 6
-  ]
-  edge [
-    source 113
-    target 131
-    rank 12
-  ]
-  edge [
-    source 113
-    target 70
-    rank 14
-  ]
-  edge [
-    source 113
-    target 13
-    rank 19
-  ]
-  edge [
-    source 114
-    target 3
-    rank 2
-  ]
-  edge [
-    source 114
-    target 0
-    rank 4
-  ]
-  edge [
-    source 114
-    target 59
-    rank 5
-  ]
-  edge [
-    source 114
-    target 2
-    rank 6
-  ]
-  edge [
-    source 114
-    target 1
-    rank 7
-  ]
-  edge [
-    source 114
-    target 131
-    rank 8
-  ]
-  edge [
-    source 114
-    target 41
-    rank 10
-  ]
-  edge [
-    source 114
+  edge
+  [
+    source 23
     target 28
     rank 12
   ]
-  edge [
-    source 114
-    target 16
-    rank 17
-  ]
-  edge [
-    source 114
-    target 48
-    rank 18
-  ]
-  edge [
-    source 115
-    target 74
-    rank 4
-  ]
-  edge [
-    source 115
-    target 3
-    rank 6
-  ]
-  edge [
-    source 115
-    target 21
-    rank 15
-  ]
-  edge [
-    source 115
-    target 12
-    rank 16
-  ]
-  edge [
-    source 115
-    target 13
-    rank 19
-  ]
-  edge [
-    source 116
-    target 437
-    rank 4
-  ]
-  edge [
-    source 116
-    target 161
-    rank 5
-  ]
-  edge [
-    source 116
-    target 313
-    rank 7
-  ]
-  edge [
-    source 116
-    target 31
-    rank 10
-  ]
-  edge [
-    source 116
-    target 111
-    rank 11
-  ]
-  edge [
-    source 116
-    target 284
-    rank 14
-  ]
-  edge [
-    source 116
-    target 35
-    rank 15
-  ]
-  edge [
-    source 116
-    target 44
-    rank 16
-  ]
-  edge [
-    source 116
-    target 293
-    rank 17
-  ]
-  edge [
-    source 117
-    target 1
-    rank 8
-  ]
-  edge [
-    source 118
-    target 51
-    rank 1
-  ]
-  edge [
-    source 118
-    target 15
-    rank 5
-  ]
-  edge [
-    source 118
-    target 48
-    rank 8
-  ]
-  edge [
-    source 118
-    target 1
-    rank 9
-  ]
-  edge [
-    source 118
-    target 81
-    rank 11
-  ]
-  edge [
-    source 118
-    target 16
-    rank 14
-  ]
-  edge [
-    source 119
-    target 88
-    rank 4
-  ]
-  edge [
-    source 119
-    target 3
-    rank 6
-  ]
-  edge [
-    source 119
-    target 45
-    rank 14
-  ]
-  edge [
-    source 119
-    target 59
-    rank 18
-  ]
-  edge [
-    source 120
-    target 126
-    rank 1
-  ]
-  edge [
-    source 120
-    target 2
-    rank 15
-  ]
-  edge [
-    source 121
-    target 233
-    rank 1
-  ]
-  edge [
-    source 121
-    target 56
-    rank 2
-  ]
-  edge [
-    source 121
-    target 189
-    rank 5
-  ]
-  edge [
-    source 121
-    target 27
-    rank 6
-  ]
-  edge [
-    source 121
-    target 19
-    rank 8
-  ]
-  edge [
-    source 121
-    target 85
-    rank 17
-  ]
-  edge [
-    source 121
-    target 339
-    rank 20
-  ]
-  edge [
-    source 122
-    target 11
-    rank 1
-  ]
-  edge [
-    source 122
-    target 41
-    rank 14
-  ]
-  edge [
-    source 123
-    target 23
-    rank 2
-  ]
-  edge [
-    source 123
-    target 51
-    rank 3
-  ]
-  edge [
-    source 123
-    target 3
-    rank 10
-  ]
-  edge [
-    source 123
-    target 1
-    rank 11
-  ]
-  edge [
-    source 123
-    target 6
-    rank 14
-  ]
-  edge [
-    source 123
-    target 131
-    rank 16
-  ]
-  edge [
-    source 123
-    target 48
-    rank 17
-  ]
-  edge [
-    source 123
-    target 249
-    rank 20
-  ]
-  edge [
-    source 124
-    target 27
-    rank 3
-  ]
-  edge [
-    source 124
-    target 41
-    rank 18
-  ]
-  edge [
-    source 124
-    target 227
-    rank 19
-  ]
-  edge [
-    source 125
-    target 60
-    rank 4
-  ]
-  edge [
-    source 126
-    target 298
-    rank 1
-  ]
-  edge [
-    source 126
-    target 2
-    rank 5
-  ]
-  edge [
-    source 126
-    target 425
-    rank 7
-  ]
-  edge [
-    source 126
-    target 437
-    rank 8
-  ]
-  edge [
-    source 126
-    target 313
-    rank 10
-  ]
-  edge [
-    source 126
-    target 235
-    rank 12
-  ]
-  edge [
-    source 126
-    target 278
-    rank 17
-  ]
-  edge [
-    source 127
-    target 437
-    rank 5
-  ]
-  edge [
-    source 127
-    target 368
-    rank 8
-  ]
-  edge [
-    source 127
-    target 8
-    rank 9
-  ]
-  edge [
-    source 127
-    target 200
-    rank 11
-  ]
-  edge [
-    source 127
-    target 425
-    rank 15
-  ]
-  edge [
-    source 127
-    target 4
-    rank 16
-  ]
-  edge [
-    source 127
-    target 20
-    rank 17
-  ]
-  edge [
-    source 127
-    target 262
-    rank 18
-  ]
-  edge [
-    source 128
-    target 132
-    rank 2
-  ]
-  edge [
-    source 128
-    target 208
-    rank 19
-  ]
-  edge [
-    source 129
-    target 61
-    rank 6
-  ]
-  edge [
-    source 129
-    target 122
-    rank 12
-  ]
-  edge [
-    source 129
-    target 39
-    rank 18
-  ]
-  edge [
-    source 130
-    target 12
-    rank 4
-  ]
-  edge [
-    source 130
-    target 11
-    rank 10
-  ]
-  edge [
-    source 130
-    target 297
-    rank 12
-  ]
-  edge [
-    source 130
-    target 10
-    rank 19
-  ]
-  edge [
-    source 131
-    target 46
-    rank 2
-  ]
-  edge [
-    source 131
-    target 189
-    rank 6
-  ]
-  edge [
-    source 131
-    target 238
-    rank 7
-  ]
-  edge [
-    source 131
-    target 1
-    rank 8
-  ]
-  edge [
-    source 131
-    target 92
-    rank 10
-  ]
-  edge [
-    source 131
-    target 2
-    rank 11
-  ]
-  edge [
-    source 131
-    target 55
-    rank 15
-  ]
-  edge [
-    source 131
-    target 6
-    rank 18
-  ]
-  edge [
-    source 131
-    target 13
-    rank 20
-  ]
-  edge [
-    source 132
-    target 42
-    rank 3
-  ]
-  edge [
-    source 132
-    target 15
-    rank 6
-  ]
-  edge [
-    source 132
-    target 2
-    rank 7
-  ]
-  edge [
-    source 132
-    target 6
-    rank 9
-  ]
-  edge [
-    source 132
-    target 227
-    rank 20
-  ]
-  edge [
-    source 133
-    target 90
-    rank 12
-  ]
-  edge [
-    source 134
-    target 2
-    rank 5
-  ]
-  edge [
-    source 134
-    target 26
-    rank 6
-  ]
-  edge [
-    source 134
-    target 41
-    rank 8
-  ]
-  edge [
-    source 134
-    target 79
-    rank 14
-  ]
-  edge [
-    source 134
-    target 253
-    rank 15
-  ]
-  edge [
-    source 135
-    target 6
-    rank 5
-  ]
-  edge [
-    source 135
-    target 171
-    rank 7
-  ]
-  edge [
-    source 135
-    target 433
-    rank 8
-  ]
-  edge [
-    source 135
-    target 150
-    rank 9
-  ]
-  edge [
-    source 135
-    target 2
-    rank 10
-  ]
-  edge [
-    source 135
-    target 400
+  edge
+  [
+    source 23
+    target 32
     rank 13
   ]
-  edge [
-    source 136
-    target 306
-    rank 3
-  ]
-  edge [
-    source 136
-    target 30
-    rank 4
-  ]
-  edge [
-    source 136
-    target 437
-    rank 5
-  ]
-  edge [
-    source 136
-    target 425
-    rank 6
-  ]
-  edge [
-    source 136
-    target 313
-    rank 8
-  ]
-  edge [
-    source 136
-    target 301
-    rank 16
-  ]
-  edge [
-    source 136
-    target 4
-    rank 20
-  ]
-  edge [
-    source 137
-    target 131
-    rank 4
-  ]
-  edge [
-    source 137
-    target 148
-    rank 13
-  ]
-  edge [
-    source 137
-    target 28
-    rank 19
-  ]
-  edge [
-    source 138
-    target 208
-    rank 9
-  ]
-  edge [
-    source 139
-    target 42
-    rank 5
-  ]
-  edge [
-    source 139
-    target 305
-    rank 13
-  ]
-  edge [
-    source 140
-    target 437
-    rank 1
-  ]
-  edge [
-    source 140
-    target 425
-    rank 7
-  ]
-  edge [
-    source 140
-    target 313
-    rank 9
-  ]
-  edge [
-    source 140
-    target 284
-    rank 11
-  ]
-  edge [
-    source 140
-    target 30
-    rank 12
-  ]
-  edge [
-    source 140
-    target 5
-    rank 13
-  ]
-  edge [
-    source 140
-    target 8
-    rank 14
-  ]
-  edge [
-    source 140
-    target 20
-    rank 17
-  ]
-  edge [
-    source 140
-    target 368
-    rank 20
-  ]
-  edge [
-    source 141
-    target 369
-    rank 7
-  ]
-  edge [
-    source 141
-    target 63
-    rank 8
-  ]
-  edge [
-    source 141
-    target 37
-    rank 9
-  ]
-  edge [
-    source 142
-    target 15
-    rank 5
-  ]
-  edge [
-    source 142
-    target 2
-    rank 7
-  ]
-  edge [
-    source 142
-    target 11
-    rank 8
-  ]
-  edge [
-    source 143
-    target 26
-    rank 2
-  ]
-  edge [
-    source 143
+  edge
+  [
+    source 23
     target 1
-    rank 10
-  ]
-  edge [
-    source 143
-    target 111
-    rank 17
-  ]
-  edge [
-    source 144
-    target 191
-    rank 1
-  ]
-  edge [
-    source 144
-    target 3
-    rank 6
-  ]
-  edge [
-    source 144
-    target 122
-    rank 18
-  ]
-  edge [
-    source 145
-    target 15
-    rank 2
-  ]
-  edge [
-    source 145
-    target 59
-    rank 3
-  ]
-  edge [
-    source 145
-    target 48
-    rank 6
-  ]
-  edge [
-    source 145
-    target 3
-    rank 10
-  ]
-  edge [
-    source 145
-    target 14
-    rank 16
-  ]
-  edge [
-    source 146
-    target 36
-    rank 5
-  ]
-  edge [
-    source 146
-    target 13
-    rank 13
-  ]
-  edge [
-    source 147
-    target 39
-    rank 2
-  ]
-  edge [
-    source 147
-    target 148
-    rank 6
-  ]
-  edge [
-    source 149
-    target 17
-    rank 5
-  ]
-  edge [
-    source 149
-    target 440
-    rank 10
-  ]
-  edge [
-    source 149
-    target 26
     rank 14
   ]
-  edge [
-    source 150
-    target 388
-    rank 1
-  ]
-  edge [
-    source 150
-    target 369
-    rank 13
-  ]
-  edge [
-    source 151
-    target 17
-    rank 3
-  ]
-  edge [
-    source 152
-    target 12
-    rank 3
-  ]
-  edge [
-    source 154
-    target 167
-    rank 2
-  ]
-  edge [
-    source 154
-    target 14
-    rank 5
-  ]
-  edge [
-    source 154
-    target 6
-    rank 14
-  ]
-  edge [
-    source 155
-    target 161
-    rank 4
-  ]
-  edge [
-    source 155
-    target 475
-    rank 8
-  ]
-  edge [
-    source 155
-    target 421
-    rank 10
-  ]
-  edge [
-    source 155
-    target 345
-    rank 12
-  ]
-  edge [
-    source 155
-    target 429
-    rank 19
-  ]
-  edge [
-    source 156
-    target 16
-    rank 1
-  ]
-  edge [
-    source 156
-    target 200
-    rank 11
-  ]
-  edge [
-    source 156
-    target 193
-    rank 15
-  ]
-  edge [
-    source 156
-    target 249
-    rank 17
-  ]
-  edge [
-    source 156
-    target 6
-    rank 20
-  ]
-  edge [
-    source 157
-    target 475
-    rank 1
-  ]
-  edge [
-    source 157
-    target 429
-    rank 10
-  ]
-  edge [
-    source 157
-    target 69
-    rank 11
-  ]
-  edge [
-    source 157
-    target 345
-    rank 14
-  ]
-  edge [
-    source 157
-    target 173
-    rank 16
-  ]
-  edge [
-    source 158
-    target 3
-    rank 1
-  ]
-  edge [
-    source 158
-    target 98
-    rank 12
-  ]
-  edge [
-    source 158
-    target 17
-    rank 14
-  ]
-  edge [
-    source 158
-    target 398
-    rank 20
-  ]
-  edge [
-    source 159
-    target 161
-    rank 3
-  ]
-  edge [
-    source 159
-    target 4
-    rank 4
-  ]
-  edge [
-    source 159
-    target 385
-    rank 5
-  ]
-  edge [
-    source 159
-    target 313
-    rank 10
-  ]
-  edge [
-    source 159
-    target 425
-    rank 16
-  ]
-  edge [
-    source 159
-    target 31
-    rank 17
-  ]
-  edge [
-    source 159
-    target 30
-    rank 19
-  ]
-  edge [
-    source 160
-    target 79
-    rank 2
-  ]
-  edge [
-    source 160
-    target 1
-    rank 4
-  ]
-  edge [
-    source 160
-    target 400
-    rank 17
-  ]
-  edge [
-    source 160
-    target 284
-    rank 18
-  ]
-  edge [
-    source 161
-    target 306
-    rank 3
-  ]
-  edge [
-    source 161
-    target 278
-    rank 12
-  ]
-  edge [
-    source 161
-    target 381
-    rank 16
-  ]
-  edge [
-    source 161
-    target 301
-    rank 18
-  ]
-  edge [
-    source 162
-    target 383
-    rank 15
-  ]
-  edge [
-    source 163
-    target 136
-    rank 8
-  ]
-  edge [
-    source 163
-    target 34
-    rank 10
-  ]
-  edge [
-    source 163
-    target 44
-    rank 11
-  ]
-  edge [
-    source 163
-    target 7
-    rank 12
-  ]
-  edge [
-    source 163
-    target 8
-    rank 15
-  ]
-  edge [
-    source 163
-    target 35
-    rank 17
-  ]
-  edge [
-    source 163
-    target 10
-    rank 18
-  ]
-  edge [
-    source 163
-    target 55
-    rank 20
-  ]
-  edge [
-    source 164
-    target 306
-    rank 4
-  ]
-  edge [
-    source 164
-    target 437
-    rank 5
-  ]
-  edge [
-    source 164
-    target 31
-    rank 7
-  ]
-  edge [
-    source 164
-    target 425
-    rank 8
-  ]
-  edge [
-    source 164
-    target 313
-    rank 9
-  ]
-  edge [
-    source 164
-    target 44
-    rank 14
-  ]
-  edge [
-    source 164
-    target 35
-    rank 15
-  ]
-  edge [
-    source 164
-    target 4
-    rank 17
-  ]
-  edge [
-    source 164
-    target 8
-    rank 18
-  ]
-  edge [
-    source 164
-    target 30
-    rank 20
-  ]
-  edge [
-    source 165
-    target 439
-    rank 17
-  ]
-  edge [
-    source 165
+  edge
+  [
+    source 23
     target 40
-    rank 20
-  ]
-  edge [
-    source 166
-    target 16
-    rank 1
-  ]
-  edge [
-    source 166
-    target 6
-    rank 3
-  ]
-  edge [
-    source 166
-    target 93
-    rank 4
-  ]
-  edge [
-    source 166
-    target 19
-    rank 9
-  ]
-  edge [
-    source 166
-    target 27
     rank 15
   ]
-  edge [
-    source 166
-    target 9
+  edge
+  [
+    source 23
+    target 14
     rank 16
   ]
-  edge [
-    source 166
-    target 13
-    rank 17
-  ]
-  edge [
-    source 166
-    target 193
-    rank 18
-  ]
-  edge [
-    source 166
-    target 1
-    rank 20
-  ]
-  edge [
-    source 167
-    target 148
-    rank 2
-  ]
-  edge [
-    source 167
-    target 68
-    rank 6
-  ]
-  edge [
-    source 167
-    target 3
-    rank 11
-  ]
-  edge [
-    source 168
-    target 15
-    rank 2
-  ]
-  edge [
-    source 168
-    target 1
-    rank 3
-  ]
-  edge [
-    source 168
-    target 227
-    rank 6
-  ]
-  edge [
-    source 168
+  edge
+  [
+    source 23
     target 42
+    rank 17
+  ]
+  edge
+  [
+    source 24
+    target 6
+    rank 2
+  ]
+  edge
+  [
+    source 24
+    target 56
+    rank 3
+  ]
+  edge
+  [
+    source 24
+    target 1
+    rank 9
+  ]
+  edge
+  [
+    source 24
+    target 254
+    rank 11
+  ]
+  edge
+  [
+    source 24
+    target 15
+    rank 17
+  ]
+  edge
+  [
+    source 25
+    target 31
+    rank 1
+  ]
+  edge
+  [
+    source 25
+    target 14
+    rank 5
+  ]
+  edge
+  [
+    source 25
+    target 17
+    rank 6
+  ]
+  edge
+  [
+    source 25
+    target 241
     rank 7
   ]
-  edge [
-    source 168
-    target 463
-    rank 12
-  ]
-  edge [
-    source 168
+  edge
+  [
+    source 25
     target 0
-    rank 15
-  ]
-  edge [
-    source 168
-    target 19
-    rank 16
-  ]
-  edge [
-    source 168
-    target 76
-    rank 18
-  ]
-  edge [
-    source 169
-    target 31
-    rank 4
-  ]
-  edge [
-    source 169
-    target 306
-    rank 7
-  ]
-  edge [
-    source 169
-    target 235
-    rank 9
-  ]
-  edge [
-    source 169
-    target 30
-    rank 10
-  ]
-  edge [
-    source 169
-    target 437
-    rank 11
-  ]
-  edge [
-    source 169
-    target 20
-    rank 12
-  ]
-  edge [
-    source 169
-    target 8
-    rank 13
-  ]
-  edge [
-    source 169
-    target 44
-    rank 15
-  ]
-  edge [
-    source 169
-    target 4
-    rank 17
-  ]
-  edge [
-    source 170
-    target 15
-    rank 2
-  ]
-  edge [
-    source 170
-    target 92
     rank 8
   ]
-  edge [
-    source 170
-    target 12
-    rank 10
-  ]
-  edge [
-    source 170
-    target 24
-    rank 11
-  ]
-  edge [
-    source 171
-    target 294
-    rank 1
-  ]
-  edge [
-    source 171
-    target 388
-    rank 9
-  ]
-  edge [
-    source 171
-    target 269
-    rank 10
-  ]
-  edge [
-    source 171
-    target 150
-    rank 11
-  ]
-  edge [
-    source 171
-    target 215
-    rank 14
-  ]
-  edge [
-    source 171
-    target 216
-    rank 19
-  ]
-  edge [
-    source 172
-    target 2
-    rank 3
-  ]
-  edge [
-    source 172
-    target 383
-    rank 11
-  ]
-  edge [
-    source 172
-    target 400
-    rank 12
-  ]
-  edge [
-    source 172
-    target 14
-    rank 13
-  ]
-  edge [
-    source 172
-    target 101
-    rank 16
-  ]
-  edge [
-    source 172
-    target 12
-    rank 18
-  ]
-  edge [
-    source 173
-    target 306
-    rank 4
-  ]
-  edge [
-    source 173
-    target 313
-    rank 6
-  ]
-  edge [
-    source 173
-    target 30
-    rank 9
-  ]
-  edge [
-    source 173
-    target 425
-    rank 13
-  ]
-  edge [
-    source 173
-    target 437
-    rank 14
-  ]
-  edge [
-    source 173
-    target 200
-    rank 17
-  ]
-  edge [
-    source 173
-    target 4
-    rank 18
-  ]
-  edge [
-    source 173
-    target 8
-    rank 20
-  ]
-  edge [
-    source 174
-    target 233
-    rank 8
-  ]
-  edge [
-    source 174
-    target 85
-    rank 10
-  ]
-  edge [
-    source 174
-    target 19
-    rank 16
-  ]
-  edge [
-    source 175
-    target 225
-    rank 8
-  ]
-  edge [
-    source 175
-    target 41
-    rank 12
-  ]
-  edge [
-    source 175
-    target 11
-    rank 16
-  ]
-  edge [
-    source 175
-    target 88
-    rank 18
-  ]
-  edge [
-    source 175
-    target 101
-    rank 20
-  ]
-  edge [
-    source 176
-    target 219
-    rank 2
-  ]
-  edge [
-    source 176
-    target 16
-    rank 3
-  ]
-  edge [
-    source 176
-    target 88
-    rank 4
-  ]
-  edge [
-    source 176
-    target 6
-    rank 7
-  ]
-  edge [
-    source 176
-    target 193
-    rank 8
-  ]
-  edge [
-    source 176
-    target 131
-    rank 9
-  ]
-  edge [
-    source 176
-    target 166
-    rank 13
-  ]
-  edge [
-    source 176
-    target 249
-    rank 14
-  ]
-  edge [
-    source 176
-    target 86
-    rank 17
-  ]
-  edge [
-    source 177
-    target 5
-    rank 2
-  ]
-  edge [
-    source 177
-    target 437
-    rank 5
-  ]
-  edge [
-    source 177
-    target 425
-    rank 6
-  ]
-  edge [
-    source 177
-    target 313
-    rank 9
-  ]
-  edge [
-    source 177
-    target 301
-    rank 18
-  ]
-  edge [
-    source 178
-    target 73
-    rank 1
-  ]
-  edge [
-    source 179
-    target 231
-    rank 1
-  ]
-  edge [
-    source 179
-    target 305
-    rank 16
-  ]
-  edge [
-    source 179
-    target 373
-    rank 17
-  ]
-  edge [
-    source 180
-    target 3
-    rank 1
-  ]
-  edge [
-    source 180
-    target 15
-    rank 2
-  ]
-  edge [
-    source 180
-    target 238
-    rank 3
-  ]
-  edge [
-    source 180
-    target 2
-    rank 8
-  ]
-  edge [
-    source 180
-    target 81
-    rank 9
-  ]
-  edge [
-    source 180
-    target 68
-    rank 12
-  ]
-  edge [
-    source 180
-    target 28
-    rank 13
-  ]
-  edge [
-    source 180
-    target 123
-    rank 18
-  ]
-  edge [
-    source 181
-    target 56
-    rank 2
-  ]
-  edge [
-    source 181
-    target 32
-    rank 3
-  ]
-  edge [
-    source 181
-    target 189
-    rank 4
-  ]
-  edge [
-    source 181
-    target 27
-    rank 6
-  ]
-  edge [
-    source 181
-    target 92
-    rank 9
-  ]
-  edge [
-    source 181
-    target 19
-    rank 14
-  ]
-  edge [
-    source 182
-    target 4
-    rank 2
-  ]
-  edge [
-    source 182
-    target 284
-    rank 10
-  ]
-  edge [
-    source 182
-    target 8
-    rank 11
-  ]
-  edge [
-    source 182
-    target 31
-    rank 16
-  ]
-  edge [
-    source 182
-    target 20
-    rank 17
-  ]
-  edge [
-    source 183
-    target 306
-    rank 4
-  ]
-  edge [
-    source 183
-    target 313
-    rank 5
-  ]
-  edge [
-    source 183
-    target 425
-    rank 6
-  ]
-  edge [
-    source 183
-    target 368
-    rank 10
-  ]
-  edge [
-    source 183
-    target 161
-    rank 11
-  ]
-  edge [
-    source 183
-    target 4
-    rank 12
-  ]
-  edge [
-    source 183
-    target 381
-    rank 14
-  ]
-  edge [
-    source 183
-    target 284
-    rank 16
-  ]
-  edge [
-    source 184
-    target 417
-    rank 11
-  ]
-  edge [
-    source 185
-    target 12
-    rank 2
-  ]
-  edge [
-    source 185
-    target 131
-    rank 6
-  ]
-  edge [
-    source 185
-    target 256
-    rank 17
-  ]
-  edge [
-    source 186
-    target 233
-    rank 3
-  ]
-  edge [
-    source 186
-    target 189
-    rank 4
-  ]
-  edge [
-    source 186
-    target 27
-    rank 5
-  ]
-  edge [
-    source 186
-    target 56
-    rank 7
-  ]
-  edge [
-    source 186
-    target 17
-    rank 11
-  ]
-  edge [
-    source 186
-    target 417
-    rank 12
-  ]
-  edge [
-    source 186
-    target 6
-    rank 19
-  ]
-  edge [
-    source 187
-    target 3
-    rank 4
-  ]
-  edge [
-    source 187
-    target 2
-    rank 6
-  ]
-  edge [
-    source 187
-    target 1
-    rank 10
-  ]
-  edge [
-    source 187
-    target 41
-    rank 13
-  ]
-  edge [
-    source 187
-    target 48
-    rank 14
-  ]
-  edge [
-    source 187
-    target 17
-    rank 19
-  ]
-  edge [
-    source 187
-    target 252
-    rank 20
-  ]
-  edge [
-    source 188
-    target 70
-    rank 2
-  ]
-  edge [
-    source 188
-    target 131
-    rank 3
-  ]
-  edge [
-    source 188
-    target 8
-    rank 5
-  ]
-  edge [
-    source 188
-    target 369
-    rank 7
-  ]
-  edge [
-    source 189
-    target 2
-    rank 5
-  ]
-  edge [
-    source 189
-    target 9
-    rank 8
-  ]
-  edge [
-    source 189
-    target 131
-    rank 9
-  ]
-  edge [
-    source 189
-    target 19
-    rank 11
-  ]
-  edge [
-    source 189
-    target 193
-    rank 14
-  ]
-  edge [
-    source 189
-    target 22
-    rank 15
-  ]
-  edge [
-    source 189
-    target 15
-    rank 17
-  ]
-  edge [
-    source 190
-    target 3
-    rank 7
-  ]
-  edge [
-    source 190
-    target 17
-    rank 10
-  ]
-  edge [
-    source 190
-    target 1
-    rank 14
-  ]
-  edge [
-    source 190
-    target 131
-    rank 15
-  ]
-  edge [
-    source 191
-    target 17
-    rank 13
-  ]
-  edge [
-    source 191
-    target 48
-    rank 16
-  ]
-  edge [
-    source 192
-    target 17
-    rank 2
-  ]
-  edge [
-    source 192
-    target 46
-    rank 4
-  ]
-  edge [
-    source 192
-    target 190
-    rank 10
-  ]
-  edge [
-    source 192
-    target 10
-    rank 20
-  ]
-  edge [
-    source 193
-    target 16
-    rank 1
-  ]
-  edge [
-    source 193
-    target 32
-    rank 2
-  ]
-  edge [
-    source 193
-    target 7
-    rank 3
-  ]
-  edge [
-    source 193
-    target 27
-    rank 6
-  ]
-  edge [
-    source 193
-    target 19
-    rank 7
-  ]
-  edge [
-    source 193
-    target 22
-    rank 12
-  ]
-  edge [
-    source 193
-    target 63
-    rank 13
-  ]
-  edge [
-    source 193
-    target 6
-    rank 15
-  ]
-  edge [
-    source 194
-    target 23
-    rank 2
-  ]
-  edge [
-    source 194
-    target 41
-    rank 10
-  ]
-  edge [
-    source 194
-    target 49
-    rank 14
-  ]
-  edge [
-    source 194
-    target 131
-    rank 16
-  ]
-  edge [
-    source 194
-    target 81
-    rank 17
-  ]
-  edge [
-    source 194
-    target 238
-    rank 18
-  ]
-  edge [
-    source 194
-    target 28
-    rank 20
-  ]
-  edge [
-    source 195
-    target 433
-    rank 3
-  ]
-  edge [
-    source 195
-    target 41
-    rank 4
-  ]
-  edge [
-    source 195
-    target 68
-    rank 19
-  ]
-  edge [
-    source 196
-    target 4
-    rank 4
-  ]
-  edge [
-    source 196
-    target 306
-    rank 5
-  ]
-  edge [
-    source 196
-    target 368
-    rank 12
-  ]
-  edge [
-    source 196
-    target 221
-    rank 14
-  ]
-  edge [
-    source 196
-    target 278
-    rank 17
-  ]
-  edge [
-    source 197
-    target 425
-    rank 5
-  ]
-  edge [
-    source 197
-    target 284
-    rank 8
-  ]
-  edge [
-    source 197
-    target 313
-    rank 10
-  ]
-  edge [
-    source 198
-    target 93
-    rank 1
-  ]
-  edge [
-    source 198
-    target 206
-    rank 2
-  ]
-  edge [
-    source 198
-    target 227
-    rank 20
-  ]
-  edge [
-    source 199
-    target 70
-    rank 10
-  ]
-  edge [
-    source 199
-    target 162
-    rank 19
-  ]
-  edge [
-    source 200
-    target 16
-    rank 2
-  ]
-  edge [
-    source 200
-    target 4
-    rank 5
-  ]
-  edge [
-    source 200
-    target 306
-    rank 7
-  ]
-  edge [
-    source 200
-    target 30
-    rank 8
-  ]
-  edge [
-    source 200
-    target 313
-    rank 9
-  ]
-  edge [
-    source 200
-    target 193
-    rank 10
-  ]
-  edge [
-    source 200
-    target 35
-    rank 11
-  ]
-  edge [
-    source 200
-    target 20
-    rank 12
-  ]
-  edge [
-    source 200
-    target 8
-    rank 16
-  ]
-  edge [
-    source 200
-    target 31
-    rank 18
-  ]
-  edge [
-    source 201
-    target 2
-    rank 3
-  ]
-  edge [
-    source 201
-    target 86
-    rank 6
-  ]
-  edge [
-    source 201
-    target 46
-    rank 9
-  ]
-  edge [
-    source 202
-    target 292
-    rank 5
-  ]
-  edge [
-    source 202
-    target 425
-    rank 10
-  ]
-  edge [
-    source 202
-    target 150
-    rank 13
-  ]
-  edge [
-    source 202
-    target 173
-    rank 15
-  ]
-  edge [
-    source 202
-    target 266
-    rank 16
-  ]
-  edge [
-    source 202
-    target 101
-    rank 20
-  ]
-  edge [
-    source 203
-    target 373
-    rank 3
-  ]
-  edge [
-    source 204
-    target 15
-    rank 4
-  ]
-  edge [
-    source 204
-    target 425
-    rank 5
-  ]
-  edge [
-    source 204
-    target 345
-    rank 8
-  ]
-  edge [
-    source 204
-    target 19
-    rank 10
-  ]
-  edge [
-    source 204
-    target 99
-    rank 15
-  ]
-  edge [
-    source 205
-    target 385
-    rank 3
-  ]
-  edge [
-    source 205
-    target 306
-    rank 4
-  ]
-  edge [
-    source 205
-    target 425
-    rank 5
-  ]
-  edge [
-    source 205
-    target 313
-    rank 7
-  ]
-  edge [
-    source 205
-    target 278
-    rank 16
-  ]
-  edge [
-    source 206
-    target 258
-    rank 1
-  ]
-  edge [
-    source 206
-    target 14
-    rank 6
-  ]
-  edge [
-    source 206
-    target 88
-    rank 12
-  ]
-  edge [
-    source 206
-    target 316
-    rank 13
-  ]
-  edge [
-    source 206
-    target 45
-    rank 15
-  ]
-  edge [
-    source 207
-    target 4
-    rank 5
-  ]
-  edge [
-    source 207
-    target 313
-    rank 8
-  ]
-  edge [
-    source 207
-    target 425
-    rank 11
-  ]
-  edge [
-    source 207
-    target 306
-    rank 12
-  ]
-  edge [
-    source 207
-    target 284
-    rank 13
-  ]
-  edge [
-    source 207
-    target 30
-    rank 14
-  ]
-  edge [
-    source 207
-    target 31
-    rank 15
-  ]
-  edge [
-    source 207
-    target 20
-    rank 18
-  ]
-  edge [
-    source 208
+  edge
+  [
+    source 25
     target 36
-    rank 2
-  ]
-  edge [
-    source 208
-    target 383
-    rank 4
-  ]
-  edge [
-    source 209
-    target 284
-    rank 5
-  ]
-  edge [
-    source 209
-    target 101
-    rank 15
-  ]
-  edge [
-    source 209
-    target 364
-    rank 17
-  ]
-  edge [
-    source 210
-    target 240
-    rank 3
-  ]
-  edge [
-    source 210
-    target 17
-    rank 4
-  ]
-  edge [
-    source 210
-    target 8
-    rank 5
-  ]
-  edge [
-    source 210
-    target 425
-    rank 6
-  ]
-  edge [
-    source 210
-    target 313
-    rank 8
-  ]
-  edge [
-    source 210
-    target 14
-    rank 9
-  ]
-  edge [
-    source 210
-    target 284
     rank 10
   ]
-  edge [
-    source 210
-    target 154
-    rank 12
-  ]
-  edge [
-    source 210
-    target 26
-    rank 13
-  ]
-  edge [
-    source 210
-    target 44
-    rank 14
-  ]
-  edge [
-    source 210
-    target 87
-    rank 16
-  ]
-  edge [
-    source 210
-    target 248
-    rank 18
-  ]
-  edge [
-    source 211
-    target 313
-    rank 5
-  ]
-  edge [
-    source 211
-    target 425
-    rank 7
-  ]
-  edge [
-    source 211
-    target 87
-    rank 9
-  ]
-  edge [
-    source 211
-    target 306
-    rank 10
-  ]
-  edge [
-    source 211
-    target 30
-    rank 11
-  ]
-  edge [
-    source 211
-    target 8
-    rank 15
-  ]
-  edge [
-    source 211
-    target 4
-    rank 16
-  ]
-  edge [
-    source 211
-    target 5
-    rank 20
-  ]
-  edge [
-    source 213
-    target 3
-    rank 3
-  ]
-  edge [
-    source 214
-    target 437
-    rank 3
-  ]
-  edge [
-    source 214
-    target 221
-    rank 4
-  ]
-  edge [
-    source 214
-    target 425
-    rank 6
-  ]
-  edge [
-    source 214
-    target 313
-    rank 11
-  ]
-  edge [
-    source 214
-    target 177
-    rank 18
-  ]
-  edge [
-    source 214
-    target 4
-    rank 20
-  ]
-  edge [
-    source 215
-    target 294
-    rank 2
-  ]
-  edge [
-    source 215
-    target 150
-    rank 3
-  ]
-  edge [
-    source 215
-    target 253
-    rank 7
-  ]
-  edge [
-    source 215
-    target 79
-    rank 10
-  ]
-  edge [
-    source 215
-    target 433
-    rank 12
-  ]
-  edge [
-    source 216
-    target 171
-    rank 2
-  ]
-  edge [
-    source 216
-    target 462
-    rank 6
-  ]
-  edge [
-    source 216
-    target 141
-    rank 7
-  ]
-  edge [
-    source 216
-    target 150
-    rank 9
-  ]
-  edge [
-    source 216
-    target 343
-    rank 11
-  ]
-  edge [
-    source 216
-    target 358
-    rank 15
-  ]
-  edge [
-    source 216
-    target 369
-    rank 20
-  ]
-  edge [
-    source 217
-    target 337
-    rank 8
-  ]
-  edge [
-    source 218
-    target 17
-    rank 5
-  ]
-  edge [
-    source 218
-    target 455
-    rank 16
-  ]
-  edge [
-    source 218
-    target 303
-    rank 18
-  ]
-  edge [
-    source 219
-    target 189
-    rank 1
-  ]
-  edge [
-    source 219
-    target 1
-    rank 5
-  ]
-  edge [
-    source 219
-    target 88
-    rank 6
-  ]
-  edge [
-    source 220
-    target 59
-    rank 4
-  ]
-  edge [
-    source 220
-    target 192
-    rank 15
-  ]
-  edge [
-    source 221
-    target 306
-    rank 2
-  ]
-  edge [
-    source 221
-    target 161
-    rank 3
-  ]
-  edge [
-    source 221
-    target 4
-    rank 4
-  ]
-  edge [
-    source 221
-    target 31
-    rank 6
-  ]
-  edge [
-    source 221
-    target 284
-    rank 9
-  ]
-  edge [
-    source 221
-    target 8
-    rank 11
-  ]
-  edge [
-    source 221
-    target 30
-    rank 14
-  ]
-  edge [
-    source 222
-    target 306
-    rank 5
-  ]
-  edge [
-    source 222
-    target 313
-    rank 7
-  ]
-  edge [
-    source 222
-    target 425
-    rank 8
-  ]
-  edge [
-    source 222
-    target 87
-    rank 9
-  ]
-  edge [
-    source 222
-    target 284
-    rank 10
-  ]
-  edge [
-    source 222
-    target 368
-    rank 12
-  ]
-  edge [
-    source 222
-    target 211
-    rank 14
-  ]
-  edge [
-    source 222
-    target 8
-    rank 15
-  ]
-  edge [
-    source 222
-    target 4
-    rank 17
-  ]
-  edge [
-    source 223
-    target 313
-    rank 3
-  ]
-  edge [
-    source 223
-    target 278
-    rank 6
-  ]
-  edge [
-    source 223
-    target 425
-    rank 7
-  ]
-  edge [
-    source 223
-    target 284
-    rank 16
-  ]
-  edge [
-    source 223
-    target 301
-    rank 19
-  ]
-  edge [
-    source 224
-    target 306
-    rank 3
-  ]
-  edge [
-    source 224
-    target 313
-    rank 5
-  ]
-  edge [
-    source 224
-    target 4
-    rank 6
-  ]
-  edge [
-    source 224
-    target 425
-    rank 7
-  ]
-  edge [
-    source 224
-    target 49
-    rank 8
-  ]
-  edge [
-    source 224
-    target 368
-    rank 17
-  ]
-  edge [
-    source 225
-    target 32
-    rank 4
-  ]
-  edge [
-    source 225
-    target 330
-    rank 11
-  ]
-  edge [
-    source 225
-    target 3
-    rank 12
-  ]
-  edge [
-    source 225
-    target 234
-    rank 18
-  ]
-  edge [
-    source 226
-    target 429
-    rank 4
-  ]
-  edge [
-    source 226
-    target 410
-    rank 17
-  ]
-  edge [
-    source 226
-    target 157
-    rank 18
-  ]
-  edge [
-    source 227
+  edge
+  [
+    source 25
     target 2
-    rank 7
-  ]
-  edge [
-    source 227
-    target 13
     rank 11
   ]
-  edge [
-    source 228
-    target 0
-    rank 2
+  edge
+  [
+    source 25
+    target 5
+    rank 15
   ]
-  edge [
-    source 228
-    target 148
-    rank 5
-  ]
-  edge [
-    source 228
-    target 27
-    rank 6
-  ]
-  edge [
-    source 228
-    target 233
-    rank 9
-  ]
-  edge [
-    source 228
-    target 83
-    rank 10
-  ]
-  edge [
-    source 228
-    target 383
-    rank 19
-  ]
-  edge [
-    source 229
-    target 168
-    rank 1
-  ]
-  edge [
-    source 229
-    target 3
-    rank 4
-  ]
-  edge [
-    source 229
-    target 15
-    rank 9
-  ]
-  edge [
-    source 229
-    target 14
-    rank 11
-  ]
-  edge [
-    source 229
-    target 34
+  edge
+  [
+    source 25
+    target 8
     rank 16
   ]
-  edge [
-    source 229
-    target 4
-    rank 20
-  ]
-  edge [
-    source 230
-    target 437
-    rank 2
-  ]
-  edge [
-    source 230
-    target 101
-    rank 6
-  ]
-  edge [
-    source 230
-    target 313
-    rank 7
-  ]
-  edge [
-    source 230
-    target 30
-    rank 10
-  ]
-  edge [
-    source 230
+  edge
+  [
+    source 25
     target 20
-    rank 11
-  ]
-  edge [
-    source 230
-    target 31
-    rank 12
-  ]
-  edge [
-    source 230
-    target 8
-    rank 13
-  ]
-  edge [
-    source 230
-    target 44
     rank 17
   ]
-  edge [
-    source 230
+  edge
+  [
+    source 25
     target 4
     rank 18
   ]
-  edge [
-    source 231
-    target 15
-    rank 4
-  ]
-  edge [
-    source 231
-    target 3
-    rank 5
-  ]
-  edge [
-    source 231
-    target 221
-    rank 8
-  ]
-  edge [
-    source 232
-    target 3
-    rank 2
-  ]
-  edge [
-    source 232
-    target 48
-    rank 3
-  ]
-  edge [
-    source 232
-    target 12
-    rank 6
-  ]
-  edge [
-    source 232
-    target 114
-    rank 11
-  ]
-  edge [
-    source 232
-    target 44
-    rank 15
-  ]
-  edge [
-    source 232
-    target 10
-    rank 19
-  ]
-  edge [
-    source 232
-    target 297
-    rank 20
-  ]
-  edge [
-    source 233
+  edge
+  [
+    source 26
     target 0
-    rank 4
-  ]
-  edge [
-    source 233
-    target 39
     rank 5
   ]
-  edge [
-    source 233
-    target 19
-    rank 7
-  ]
-  edge [
-    source 233
+  edge
+  [
+    source 26
     target 2
-    rank 9
-  ]
-  edge [
-    source 233
-    target 1
     rank 10
   ]
-  edge [
-    source 233
-    target 92
-    rank 17
-  ]
-  edge [
-    source 234
-    target 5
-    rank 2
-  ]
-  edge [
-    source 234
-    target 330
-    rank 3
-  ]
-  edge [
-    source 234
-    target 417
-    rank 5
-  ]
-  edge [
-    source 234
-    target 240
-    rank 14
-  ]
-  edge [
-    source 234
-    target 225
-    rank 17
-  ]
-  edge [
-    source 235
-    target 425
-    rank 2
-  ]
-  edge [
-    source 235
-    target 31
-    rank 6
-  ]
-  edge [
-    source 235
-    target 437
-    rank 7
-  ]
-  edge [
-    source 235
-    target 306
-    rank 9
-  ]
-  edge [
-    source 235
-    target 313
-    rank 10
-  ]
-  edge [
-    source 235
-    target 44
-    rank 15
-  ]
-  edge [
-    source 235
-    target 35
-    rank 17
-  ]
-  edge [
-    source 235
-    target 4
-    rank 18
-  ]
-  edge [
-    source 236
-    target 32
-    rank 3
-  ]
-  edge [
-    source 236
-    target 475
-    rank 5
-  ]
-  edge [
-    source 237
-    target 208
-    rank 3
-  ]
-  edge [
-    source 237
-    target 101
-    rank 6
-  ]
-  edge [
-    source 237
-    target 92
-    rank 18
-  ]
-  edge [
-    source 238
-    target 15
-    rank 3
-  ]
-  edge [
-    source 238
-    target 59
-    rank 4
-  ]
-  edge [
-    source 238
-    target 23
-    rank 7
-  ]
-  edge [
-    source 238
-    target 1
-    rank 10
-  ]
-  edge [
-    source 238
-    target 41
-    rank 11
-  ]
-  edge [
-    source 238
-    target 13
-    rank 13
-  ]
-  edge [
-    source 238
-    target 55
-    rank 15
-  ]
-  edge [
-    source 238
-    target 32
-    rank 17
-  ]
-  edge [
-    source 238
-    target 51
-    rank 20
-  ]
-  edge [
-    source 239
-    target 139
-    rank 2
-  ]
-  edge [
-    source 239
-    target 19
-    rank 7
-  ]
-  edge [
-    source 239
-    target 6
-    rank 12
-  ]
-  edge [
-    source 239
+  edge
+  [
+    source 26
     target 105
-    rank 17
-  ]
-  edge [
-    source 239
-    target 117
-    rank 19
-  ]
-  edge [
-    source 240
-    target 4
-    rank 4
-  ]
-  edge [
-    source 240
-    target 161
-    rank 6
-  ]
-  edge [
-    source 240
-    target 306
-    rank 8
-  ]
-  edge [
-    source 240
-    target 425
-    rank 9
-  ]
-  edge [
-    source 240
-    target 313
     rank 12
   ]
-  edge [
-    source 240
-    target 30
-    rank 14
-  ]
-  edge [
-    source 240
-    target 284
-    rank 16
-  ]
-  edge [
-    source 240
-    target 31
-    rank 20
-  ]
-  edge [
-    source 241
-    target 23
-    rank 1
-  ]
-  edge [
-    source 241
-    target 131
-    rank 3
-  ]
-  edge [
-    source 241
-    target 145
-    rank 5
-  ]
-  edge [
-    source 241
-    target 190
-    rank 6
-  ]
-  edge [
-    source 241
-    target 252
-    rank 8
-  ]
-  edge [
-    source 241
-    target 238
-    rank 9
-  ]
-  edge [
-    source 241
-    target 81
-    rank 12
-  ]
-  edge [
-    source 241
-    target 11
-    rank 13
-  ]
-  edge [
-    source 242
-    target 79
-    rank 4
-  ]
-  edge [
-    source 242
-    target 59
-    rank 7
-  ]
-  edge [
-    source 242
-    target 81
-    rank 9
-  ]
-  edge [
-    source 243
-    target 1
-    rank 2
-  ]
-  edge [
-    source 243
-    target 3
-    rank 3
-  ]
-  edge [
-    source 243
-    target 41
-    rank 4
-  ]
-  edge [
-    source 243
-    target 453
-    rank 9
-  ]
-  edge [
-    source 243
-    target 17
-    rank 14
-  ]
-  edge [
-    source 243
-    target 6
-    rank 19
-  ]
-  edge [
-    source 244
-    target 457
-    rank 3
-  ]
-  edge [
-    source 244
-    target 227
-    rank 4
-  ]
-  edge [
-    source 244
-    target 208
-    rank 8
-  ]
-  edge [
-    source 244
-    target 446
-    rank 19
-  ]
-  edge [
-    source 245
-    target 425
-    rank 3
-  ]
-  edge [
-    source 245
-    target 306
-    rank 4
-  ]
-  edge [
-    source 245
-    target 313
-    rank 9
-  ]
-  edge [
-    source 245
-    target 278
-    rank 16
-  ]
-  edge [
-    source 246
-    target 15
-    rank 2
-  ]
-  edge [
-    source 246
-    target 0
-    rank 4
-  ]
-  edge [
-    source 246
-    target 19
-    rank 5
-  ]
-  edge [
-    source 246
+  edge
+  [
+    source 26
     target 14
-    rank 6
-  ]
-  edge [
-    source 247
-    target 2
-    rank 8
-  ]
-  edge [
-    source 247
-    target 153
-    rank 12
-  ]
-  edge [
-    source 248
-    target 284
-    rank 1
-  ]
-  edge [
-    source 248
-    target 313
-    rank 6
-  ]
-  edge [
-    source 248
-    target 425
-    rank 9
-  ]
-  edge [
-    source 248
-    target 306
-    rank 10
-  ]
-  edge [
-    source 248
-    target 210
-    rank 12
-  ]
-  edge [
-    source 248
-    target 30
     rank 15
   ]
-  edge [
-    source 248
-    target 5
-    rank 16
-  ]
-  edge [
-    source 248
-    target 368
-    rank 18
-  ]
-  edge [
-    source 248
-    target 4
-    rank 19
-  ]
-  edge [
-    source 248
-    target 31
-    rank 20
-  ]
-  edge [
-    source 249
-    target 16
-    rank 5
-  ]
-  edge [
-    source 249
-    target 1
-    rank 6
-  ]
-  edge [
-    source 249
-    target 6
-    rank 10
-  ]
-  edge [
-    source 249
-    target 88
-    rank 12
-  ]
-  edge [
-    source 249
-    target 131
-    rank 15
-  ]
-  edge [
-    source 249
-    target 41
-    rank 20
-  ]
-  edge [
-    source 250
-    target 208
-    rank 2
-  ]
-  edge [
-    source 250
-    target 413
-    rank 10
-  ]
-  edge [
-    source 250
-    target 278
-    rank 12
-  ]
-  edge [
-    source 251
-    target 31
-    rank 5
-  ]
-  edge [
-    source 251
-    target 425
-    rank 6
-  ]
-  edge [
-    source 251
-    target 306
-    rank 8
-  ]
-  edge [
-    source 251
-    target 136
-    rank 9
-  ]
-  edge [
-    source 251
-    target 33
-    rank 11
-  ]
-  edge [
-    source 251
-    target 235
-    rank 13
-  ]
-  edge [
-    source 251
-    target 44
-    rank 15
-  ]
-  edge [
-    source 251
-    target 4
-    rank 16
-  ]
-  edge [
-    source 251
-    target 5
-    rank 17
-  ]
-  edge [
-    source 251
-    target 20
-    rank 18
-  ]
-  edge [
-    source 251
-    target 368
-    rank 19
-  ]
-  edge [
-    source 251
-    target 30
-    rank 20
-  ]
-  edge [
-    source 252
-    target 131
-    rank 1
-  ]
-  edge [
-    source 252
-    target 1
-    rank 4
-  ]
-  edge [
-    source 252
-    target 28
-    rank 11
-  ]
-  edge [
-    source 252
-    target 48
-    rank 12
-  ]
-  edge [
-    source 252
-    target 249
-    rank 13
-  ]
-  edge [
-    source 252
+  edge
+  [
+    source 26
     target 11
-    rank 19
+    rank 20
   ]
-  edge [
-    source 253
-    target 406
-    rank 1
-  ]
-  edge [
-    source 253
-    target 316
-    rank 2
-  ]
-  edge [
-    source 253
-    target 68
-    rank 4
-  ]
-  edge [
-    source 253
-    target 48
-    rank 5
-  ]
-  edge [
-    source 253
-    target 46
-    rank 6
-  ]
-  edge [
-    source 253
-    target 6
-    rank 7
-  ]
-  edge [
-    source 253
-    target 388
-    rank 9
-  ]
-  edge [
-    source 253
-    target 131
-    rank 10
-  ]
-  edge [
-    source 253
-    target 400
-    rank 11
-  ]
-  edge [
-    source 254
-    target 249
-    rank 3
-  ]
-  edge [
-    source 254
-    target 131
-    rank 5
-  ]
-  edge [
-    source 254
-    target 1
-    rank 10
-  ]
-  edge [
-    source 254
-    target 21
-    rank 18
-  ]
-  edge [
-    source 255
-    target 208
-    rank 7
-  ]
-  edge [
-    source 255
-    target 439
-    rank 8
-  ]
-  edge [
-    source 256
-    target 51
-    rank 1
-  ]
-  edge [
-    source 256
+  edge
+  [
+    source 27
     target 12
-    rank 6
-  ]
-  edge [
-    source 256
-    target 360
-    rank 8
-  ]
-  edge [
-    source 257
-    target 413
     rank 2
   ]
-  edge [
-    source 258
-    target 266
-    rank 1
-  ]
-  edge [
-    source 258
-    target 316
-    rank 3
-  ]
-  edge [
-    source 258
-    target 41
+  edge
+  [
+    source 27
+    target 57
     rank 4
   ]
-  edge [
-    source 258
-    target 369
-    rank 5
-  ]
-  edge [
-    source 258
-    target 141
-    rank 6
-  ]
-  edge [
-    source 258
-    target 6
-    rank 15
-  ]
-  edge [
-    source 258
-    target 42
-    rank 16
-  ]
-  edge [
-    source 258
-    target 26
-    rank 20
-  ]
-  edge [
-    source 259
-    target 425
-    rank 1
-  ]
-  edge [
-    source 259
-    target 417
-    rank 3
-  ]
-  edge [
-    source 259
-    target 4
-    rank 4
-  ]
-  edge [
-    source 259
-    target 306
-    rank 7
-  ]
-  edge [
-    source 259
-    target 313
-    rank 8
-  ]
-  edge [
-    source 259
-    target 284
+  edge
+  [
+    source 27
+    target 32
     rank 9
   ]
-  edge [
-    source 259
-    target 101
-    rank 12
-  ]
-  edge [
-    source 260
-    target 346
-    rank 3
-  ]
-  edge [
-    source 260
-    target 313
-    rank 8
-  ]
-  edge [
-    source 260
-    target 161
-    rank 11
-  ]
-  edge [
-    source 260
-    target 284
-    rank 14
-  ]
-  edge [
-    source 260
-    target 8
-    rank 18
-  ]
-  edge [
-    source 260
-    target 20
-    rank 20
-  ]
-  edge [
-    source 261
-    target 440
-    rank 5
-  ]
-  edge [
-    source 261
-    target 414
-    rank 10
-  ]
-  edge [
-    source 262
-    target 437
-    rank 5
-  ]
-  edge [
-    source 262
-    target 313
-    rank 7
-  ]
-  edge [
-    source 262
-    target 30
-    rank 8
-  ]
-  edge [
-    source 262
-    target 333
-    rank 11
-  ]
-  edge [
-    source 262
-    target 425
-    rank 12
-  ]
-  edge [
-    source 262
-    target 20
-    rank 14
-  ]
-  edge [
-    source 262
-    target 4
-    rank 15
-  ]
-  edge [
-    source 262
-    target 293
-    rank 18
-  ]
-  edge [
-    source 262
-    target 31
-    rank 19
-  ]
-  edge [
-    source 262
-    target 210
-    rank 20
-  ]
-  edge [
-    source 263
-    target 233
-    rank 1
-  ]
-  edge [
-    source 263
-    target 56
-    rank 2
-  ]
-  edge [
-    source 263
-    target 189
-    rank 4
-  ]
-  edge [
-    source 263
-    target 208
-    rank 10
-  ]
-  edge [
-    source 263
-    target 6
-    rank 14
-  ]
-  edge [
-    source 263
-    target 19
-    rank 15
-  ]
-  edge [
-    source 263
-    target 101
-    rank 19
-  ]
-  edge [
-    source 264
-    target 400
-    rank 2
-  ]
-  edge [
-    source 264
-    target 388
-    rank 10
-  ]
-  edge [
-    source 264
-    target 369
-    rank 16
-  ]
-  edge [
-    source 264
-    target 358
-    rank 17
-  ]
-  edge [
-    source 264
-    target 266
-    rank 18
-  ]
-  edge [
-    source 264
-    target 383
-    rank 20
-  ]
-  edge [
-    source 265
-    target 383
-    rank 1
-  ]
-  edge [
-    source 265
-    target 417
-    rank 6
-  ]
-  edge [
-    source 265
-    target 345
-    rank 13
-  ]
-  edge [
-    source 265
-    target 208
-    rank 18
-  ]
-  edge [
-    source 265
-    target 101
-    rank 19
-  ]
-  edge [
-    source 265
-    target 161
-    rank 20
-  ]
-  edge [
-    source 266
-    target 6
-    rank 4
-  ]
-  edge [
-    source 266
-    target 141
-    rank 17
-  ]
-  edge [
-    source 267
-    target 2
-    rank 7
-  ]
-  edge [
-    source 267
-    target 75
-    rank 9
-  ]
-  edge [
-    source 267
-    target 26
-    rank 15
-  ]
-  edge [
-    source 267
-    target 60
-    rank 17
-  ]
-  edge [
-    source 268
-    target 425
-    rank 4
-  ]
-  edge [
-    source 268
-    target 333
-    rank 6
-  ]
-  edge [
-    source 268
-    target 284
-    rank 7
-  ]
-  edge [
-    source 268
-    target 30
-    rank 8
-  ]
-  edge [
-    source 268
-    target 5
-    rank 11
-  ]
-  edge [
-    source 268
-    target 4
-    rank 12
-  ]
-  edge [
-    source 268
-    target 87
-    rank 17
-  ]
-  edge [
-    source 268
-    target 8
-    rank 18
-  ]
-  edge [
-    source 268
-    target 210
-    rank 19
-  ]
-  edge [
-    source 269
-    target 13
-    rank 3
-  ]
-  edge [
-    source 269
-    target 150
-    rank 8
-  ]
-  edge [
-    source 269
-    target 264
-    rank 10
-  ]
-  edge [
-    source 269
-    target 1
-    rank 14
-  ]
-  edge [
-    source 269
-    target 206
-    rank 18
-  ]
-  edge [
-    source 269
-    target 462
-    rank 20
-  ]
-  edge [
-    source 270
-    target 86
-    rank 3
-  ]
-  edge [
-    source 270
-    target 208
-    rank 9
-  ]
-  edge [
-    source 270
-    target 200
-    rank 16
-  ]
-  edge [
-    source 270
-    target 287
-    rank 18
-  ]
-  edge [
-    source 272
-    target 41
-    rank 1
-  ]
-  edge [
-    source 272
-    target 88
-    rank 2
-  ]
-  edge [
-    source 272
-    target 17
-    rank 5
-  ]
-  edge [
-    source 272
-    target 249
-    rank 19
-  ]
-  edge [
-    source 272
-    target 119
-    rank 20
-  ]
-  edge [
-    source 273
-    target 383
-    rank 1
-  ]
-  edge [
-    source 273
-    target 6
-    rank 5
-  ]
-  edge [
-    source 273
-    target 417
-    rank 10
-  ]
-  edge [
-    source 273
-    target 306
-    rank 11
-  ]
-  edge [
-    source 274
-    target 189
-    rank 1
-  ]
-  edge [
-    source 274
-    target 56
-    rank 2
-  ]
-  edge [
-    source 274
-    target 27
-    rank 14
-  ]
-  edge [
-    source 274
-    target 407
-    rank 16
-  ]
-  edge [
-    source 275
-    target 4
-    rank 3
-  ]
-  edge [
-    source 275
-    target 425
-    rank 4
-  ]
-  edge [
-    source 275
-    target 284
-    rank 5
-  ]
-  edge [
-    source 275
-    target 161
-    rank 9
-  ]
-  edge [
-    source 275
-    target 8
-    rank 10
-  ]
-  edge [
-    source 275
-    target 30
-    rank 11
-  ]
-  edge [
-    source 275
-    target 306
-    rank 12
-  ]
-  edge [
-    source 275
-    target 5
-    rank 14
-  ]
-  edge [
-    source 275
-    target 31
-    rank 16
-  ]
-  edge [
-    source 276
-    target 414
-    rank 6
-  ]
-  edge [
-    source 276
-    target 413
-    rank 7
-  ]
-  edge [
-    source 277
-    target 25
-    rank 2
-  ]
-  edge [
-    source 277
-    target 2
-    rank 4
-  ]
-  edge [
-    source 277
-    target 4
-    rank 5
-  ]
-  edge [
-    source 277
-    target 461
-    rank 9
-  ]
-  edge [
-    source 277
-    target 221
-    rank 15
-  ]
-  edge [
-    source 277
-    target 437
-    rank 17
-  ]
-  edge [
-    source 277
-    target 208
-    rank 20
-  ]
-  edge [
-    source 278
-    target 41
-    rank 3
-  ]
-  edge [
-    source 278
-    target 74
-    rank 17
-  ]
-  edge [
-    source 278
-    target 167
-    rank 19
-  ]
-  edge [
-    source 278
-    target 413
-    rank 20
-  ]
-  edge [
-    source 279
-    target 1
-    rank 3
-  ]
-  edge [
-    source 279
-    target 75
-    rank 4
-  ]
-  edge [
-    source 279
-    target 306
-    rank 6
-  ]
-  edge [
-    source 279
-    target 437
-    rank 8
-  ]
-  edge [
-    source 279
-    target 313
-    rank 10
-  ]
-  edge [
-    source 279
-    target 400
-    rank 11
-  ]
-  edge [
-    source 279
-    target 278
-    rank 18
-  ]
-  edge [
-    source 280
-    target 31
-    rank 3
-  ]
-  edge [
-    source 280
-    target 437
-    rank 8
-  ]
-  edge [
-    source 280
-    target 35
-    rank 10
-  ]
-  edge [
-    source 280
-    target 44
-    rank 12
-  ]
-  edge [
-    source 280
-    target 4
-    rank 13
-  ]
-  edge [
-    source 280
-    target 136
-    rank 14
-  ]
-  edge [
-    source 280
-    target 30
-    rank 15
-  ]
-  edge [
-    source 280
-    target 5
-    rank 16
-  ]
-  edge [
-    source 280
-    target 20
-    rank 19
-  ]
-  edge [
-    source 281
-    target 413
-    rank 3
-  ]
-  edge [
-    source 281
-    target 101
-    rank 5
-  ]
-  edge [
-    source 281
-    target 414
-    rank 8
-  ]
-  edge [
-    source 281
-    target 302
-    rank 19
-  ]
-  edge [
-    source 281
-    target 87
-    rank 20
-  ]
-  edge [
-    source 282
-    target 6
-    rank 1
-  ]
-  edge [
-    source 282
-    target 92
-    rank 5
-  ]
-  edge [
-    source 282
-    target 383
-    rank 8
-  ]
-  edge [
-    source 283
-    target 437
-    rank 1
-  ]
-  edge [
-    source 283
-    target 306
-    rank 5
-  ]
-  edge [
-    source 283
-    target 313
-    rank 8
-  ]
-  edge [
-    source 283
-    target 31
-    rank 19
-  ]
-  edge [
-    source 283
-    target 8
-    rank 20
-  ]
-  edge [
-    source 284
-    target 425
-    rank 1
-  ]
-  edge [
-    source 284
-    target 368
-    rank 4
-  ]
-  edge [
-    source 284
-    target 313
-    rank 5
-  ]
-  edge [
-    source 284
-    target 364
-    rank 8
-  ]
-  edge [
-    source 284
-    target 306
-    rank 11
-  ]
-  edge [
-    source 284
-    target 30
-    rank 12
-  ]
-  edge [
-    source 284
-    target 4
-    rank 15
-  ]
-  edge [
-    source 284
-    target 278
-    rank 16
-  ]
-  edge [
-    source 284
-    target 8
-    rank 18
-  ]
-  edge [
-    source 284
-    target 31
-    rank 20
-  ]
-  edge [
-    source 285
-    target 3
-    rank 2
-  ]
-  edge [
-    source 285
-    target 206
-    rank 7
-  ]
-  edge [
-    source 286
-    target 123
-    rank 1
-  ]
-  edge [
-    source 286
-    target 453
-    rank 3
-  ]
-  edge [
-    source 286
-    target 3
-    rank 6
-  ]
-  edge [
-    source 286
-    target 131
-    rank 7
-  ]
-  edge [
-    source 286
-    target 5
-    rank 16
-  ]
-  edge [
-    source 286
-    target 249
-    rank 17
-  ]
-  edge [
-    source 286
-    target 41
-    rank 19
-  ]
-  edge [
-    source 288
-    target 6
-    rank 9
-  ]
-  edge [
-    source 289
-    target 189
-    rank 1
-  ]
-  edge [
-    source 289
-    target 3
-    rank 2
-  ]
-  edge [
-    source 289
-    target 417
-    rank 7
-  ]
-  edge [
-    source 289
-    target 11
-    rank 16
-  ]
-  edge [
-    source 289
-    target 175
-    rank 18
-  ]
-  edge [
-    source 290
-    target 330
-    rank 5
-  ]
-  edge [
-    source 290
-    target 475
-    rank 8
-  ]
-  edge [
-    source 290
-    target 345
-    rank 12
-  ]
-  edge [
-    source 291
-    target 457
-    rank 1
-  ]
-  edge [
-    source 291
-    target 417
-    rank 5
-  ]
-  edge [
-    source 291
-    target 460
-    rank 15
-  ]
-  edge [
-    source 291
-    target 52
-    rank 20
-  ]
-  edge [
-    source 292
-    target 206
-    rank 1
-  ]
-  edge [
-    source 292
-    target 388
-    rank 2
-  ]
-  edge [
-    source 292
-    target 141
-    rank 3
-  ]
-  edge [
-    source 292
-    target 316
-    rank 8
-  ]
-  edge [
-    source 293
-    target 306
-    rank 6
-  ]
-  edge [
-    source 293
-    target 416
-    rank 12
-  ]
-  edge [
-    source 293
-    target 381
-    rank 19
-  ]
-  edge [
-    source 294
-    target 311
-    rank 4
-  ]
-  edge [
-    source 294
-    target 245
-    rank 11
-  ]
-  edge [
-    source 294
-    target 388
-    rank 14
-  ]
-  edge [
-    source 294
-    target 343
-    rank 16
-  ]
-  edge [
-    source 294
-    target 369
-    rank 18
-  ]
-  edge [
-    source 295
-    target 189
-    rank 1
-  ]
-  edge [
-    source 295
-    target 56
-    rank 2
-  ]
-  edge [
-    source 295
-    target 27
-    rank 5
-  ]
-  edge [
-    source 295
-    target 339
-    rank 19
-  ]
-  edge [
-    source 296
-    target 437
-    rank 1
-  ]
-  edge [
-    source 296
-    target 4
-    rank 3
-  ]
-  edge [
-    source 296
-    target 306
-    rank 4
-  ]
-  edge [
-    source 296
-    target 313
-    rank 5
-  ]
-  edge [
-    source 296
-    target 8
-    rank 11
-  ]
-  edge [
-    source 296
-    target 31
-    rank 18
-  ]
-  edge [
-    source 297
-    target 3
-    rank 3
-  ]
-  edge [
-    source 297
-    target 2
-    rank 5
-  ]
-  edge [
-    source 297
-    target 48
-    rank 8
-  ]
-  edge [
-    source 297
-    target 457
-    rank 10
-  ]
-  edge [
-    source 297
-    target 101
-    rank 14
-  ]
-  edge [
-    source 297
-    target 114
-    rank 17
-  ]
-  edge [
-    source 298
-    target 4
-    rank 9
-  ]
-  edge [
-    source 298
-    target 306
-    rank 11
-  ]
-  edge [
-    source 298
-    target 425
-    rank 12
-  ]
-  edge [
-    source 298
-    target 278
-    rank 13
-  ]
-  edge [
-    source 298
-    target 30
-    rank 16
-  ]
-  edge [
-    source 298
-    target 8
-    rank 18
-  ]
-  edge [
-    source 298
-    target 313
-    rank 19
-  ]
-  edge [
-    source 299
-    target 33
-    rank 6
-  ]
-  edge [
-    source 299
-    target 437
-    rank 7
-  ]
-  edge [
-    source 299
-    target 417
-    rank 8
-  ]
-  edge [
-    source 299
-    target 425
-    rank 10
-  ]
-  edge [
-    source 299
-    target 235
-    rank 14
-  ]
-  edge [
-    source 299
-    target 262
-    rank 19
-  ]
-  edge [
-    source 299
-    target 20
-    rank 20
-  ]
-  edge [
-    source 300
-    target 208
-    rank 6
-  ]
-  edge [
-    source 301
-    target 4
-    rank 8
-  ]
-  edge [
-    source 301
-    target 427
-    rank 9
-  ]
-  edge [
-    source 301
-    target 95
-    rank 10
-  ]
-  edge [
-    source 301
-    target 30
-    rank 12
-  ]
-  edge [
-    source 301
-    target 278
-    rank 13
-  ]
-  edge [
-    source 301
-    target 8
-    rank 14
-  ]
-  edge [
-    source 301
-    target 231
-    rank 15
-  ]
-  edge [
-    source 301
-    target 20
-    rank 18
-  ]
-  edge [
-    source 301
-    target 5
-    rank 19
-  ]
-  edge [
-    source 301
-    target 31
-    rank 20
-  ]
-  edge [
-    source 302
-    target 413
-    rank 4
-  ]
-  edge [
-    source 302
-    target 276
-    rank 16
-  ]
-  edge [
-    source 303
-    target 306
-    rank 2
-  ]
-  edge [
-    source 303
-    target 4
-    rank 4
-  ]
-  edge [
-    source 303
-    target 425
-    rank 6
-  ]
-  edge [
-    source 303
-    target 313
-    rank 7
-  ]
-  edge [
-    source 303
-    target 437
-    rank 8
-  ]
-  edge [
-    source 303
-    target 31
-    rank 10
-  ]
-  edge [
-    source 303
-    target 385
-    rank 18
-  ]
-  edge [
-    source 303
-    target 8
-    rank 19
-  ]
-  edge [
-    source 304
-    target 227
-    rank 11
-  ]
-  edge [
-    source 305
-    target 373
-    rank 1
-  ]
-  edge [
-    source 305
-    target 469
-    rank 2
-  ]
-  edge [
-    source 305
-    target 467
-    rank 4
-  ]
-  edge [
-    source 305
-    target 203
-    rank 5
-  ]
-  edge [
-    source 305
-    target 208
-    rank 6
-  ]
-  edge [
-    source 306
-    target 5
-    rank 3
-  ]
-  edge [
-    source 306
-    target 313
-    rank 5
-  ]
-  edge [
-    source 306
-    target 437
-    rank 11
-  ]
-  edge [
-    source 306
-    target 368
-    rank 14
-  ]
-  edge [
-    source 307
-    target 31
-    rank 5
-  ]
-  edge [
-    source 307
-    target 44
-    rank 8
-  ]
-  edge [
-    source 307
-    target 30
-    rank 10
-  ]
-  edge [
-    source 307
-    target 284
-    rank 11
-  ]
-  edge [
-    source 307
-    target 8
-    rank 12
-  ]
-  edge [
-    source 307
-    target 20
-    rank 13
-  ]
-  edge [
-    source 307
-    target 5
-    rank 14
-  ]
-  edge [
-    source 307
-    target 4
-    rank 15
-  ]
-  edge [
-    source 307
-    target 425
-    rank 18
-  ]
-  edge [
-    source 308
-    target 101
-    rank 20
-  ]
-  edge [
-    source 309
-    target 475
-    rank 3
-  ]
-  edge [
-    source 309
-    target 345
-    rank 5
-  ]
-  edge [
-    source 309
-    target 368
-    rank 7
-  ]
-  edge [
-    source 310
-    target 373
-    rank 8
-  ]
-  edge [
-    source 311
-    target 131
-    rank 2
-  ]
-  edge [
-    source 311
-    target 0
-    rank 17
-  ]
-  edge [
-    source 312
-    target 189
-    rank 1
-  ]
-  edge [
-    source 312
-    target 27
-    rank 3
-  ]
-  edge [
-    source 312
-    target 193
-    rank 8
-  ]
-  edge [
-    source 312
-    target 19
-    rank 10
-  ]
-  edge [
-    source 312
-    target 72
-    rank 12
-  ]
-  edge [
-    source 312
-    target 383
-    rank 15
-  ]
-  edge [
-    source 312
-    target 92
-    rank 16
-  ]
-  edge [
-    source 312
-    target 101
-    rank 17
-  ]
-  edge [
-    source 312
-    target 208
-    rank 18
-  ]
-  edge [
-    source 312
-    target 56
-    rank 20
-  ]
-  edge [
-    source 313
-    target 30
-    rank 2
-  ]
-  edge [
-    source 313
-    target 306
-    rank 4
-  ]
-  edge [
-    source 313
-    target 437
-    rank 8
-  ]
-  edge [
-    source 313
-    target 31
-    rank 10
-  ]
-  edge [
-    source 313
-    target 20
-    rank 16
-  ]
-  edge [
-    source 313
-    target 44
-    rank 17
-  ]
-  edge [
-    source 313
-    target 8
-    rank 18
-  ]
-  edge [
-    source 313
-    target 4
-    rank 19
-  ]
-  edge [
-    source 314
-    target 358
-    rank 1
-  ]
-  edge [
-    source 314
-    target 284
-    rank 7
-  ]
-  edge [
-    source 314
-    target 343
-    rank 14
-  ]
-  edge [
-    source 314
-    target 266
-    rank 20
-  ]
-  edge [
-    source 315
-    target 383
-    rank 2
-  ]
-  edge [
-    source 315
-    target 417
-    rank 8
-  ]
-  edge [
-    source 315
-    target 444
-    rank 11
-  ]
-  edge [
-    source 315
-    target 235
-    rank 13
-  ]
-  edge [
-    source 315
-    target 275
-    rank 16
-  ]
-  edge [
-    source 315
-    target 208
-    rank 20
-  ]
-  edge [
-    source 316
-    target 15
-    rank 2
-  ]
-  edge [
-    source 316
-    target 2
-    rank 6
-  ]
-  edge [
-    source 316
-    target 369
-    rank 8
-  ]
-  edge [
-    source 316
-    target 388
-    rank 10
-  ]
-  edge [
-    source 316
-    target 400
-    rank 12
-  ]
-  edge [
-    source 316
-    target 462
-    rank 14
-  ]
-  edge [
-    source 316
-    target 258
-    rank 19
-  ]
-  edge [
-    source 317
-    target 93
-    rank 1
-  ]
-  edge [
-    source 318
-    target 49
-    rank 20
-  ]
-  edge [
-    source 319
-    target 425
-    rank 1
-  ]
-  edge [
-    source 319
-    target 268
-    rank 6
-  ]
-  edge [
-    source 319
-    target 8
-    rank 9
-  ]
-  edge [
-    source 319
-    target 20
-    rank 11
-  ]
-  edge [
-    source 319
-    target 87
-    rank 19
-  ]
-  edge [
-    source 320
-    target 2
-    rank 4
-  ]
-  edge [
-    source 320
-    target 417
-    rank 10
-  ]
-  edge [
-    source 320
-    target 246
-    rank 15
-  ]
-  edge [
-    source 321
-    target 179
-    rank 3
-  ]
-  edge [
-    source 321
-    target 367
-    rank 4
-  ]
-  edge [
-    source 321
-    target 278
-    rank 17
-  ]
-  edge [
-    source 322
-    target 17
-    rank 4
-  ]
-  edge [
-    source 322
-    target 28
-    rank 6
-  ]
-  edge [
-    source 322
-    target 11
-    rank 7
-  ]
-  edge [
-    source 322
+  edge
+  [
+    source 27
     target 198
-    rank 8
-  ]
-  edge [
-    source 322
-    target 122
-    rank 12
-  ]
-  edge [
-    source 322
-    target 63
-    rank 16
-  ]
-  edge [
-    source 323
-    target 33
-    rank 9
-  ]
-  edge [
-    source 323
-    target 208
     rank 10
   ]
-  edge [
-    source 323
-    target 78
-    rank 17
-  ]
-  edge [
-    source 324
-    target 284
-    rank 2
-  ]
-  edge [
-    source 324
-    target 130
-    rank 9
-  ]
-  edge [
-    source 324
-    target 208
-    rank 11
-  ]
-  edge [
-    source 324
-    target 162
-    rank 18
-  ]
-  edge [
-    source 325
-    target 103
-    rank 8
-  ]
-  edge [
-    source 325
-    target 414
-    rank 15
-  ]
-  edge [
-    source 326
-    target 425
-    rank 1
-  ]
-  edge [
-    source 326
-    target 383
-    rank 5
-  ]
-  edge [
-    source 326
-    target 92
-    rank 7
-  ]
-  edge [
-    source 326
-    target 161
-    rank 18
-  ]
-  edge [
-    source 327
-    target 383
-    rank 1
-  ]
-  edge [
-    source 327
-    target 417
-    rank 4
-  ]
-  edge [
-    source 327
-    target 459
-    rank 6
-  ]
-  edge [
-    source 327
-    target 425
-    rank 7
-  ]
-  edge [
-    source 327
-    target 92
-    rank 11
-  ]
-  edge [
-    source 327
-    target 208
-    rank 15
-  ]
-  edge [
-    source 327
-    target 352
-    rank 18
-  ]
-  edge [
-    source 328
-    target 2
-    rank 6
-  ]
-  edge [
-    source 328
-    target 273
-    rank 12
-  ]
-  edge [
-    source 329
-    target 3
-    rank 1
-  ]
-  edge [
-    source 329
-    target 68
-    rank 10
-  ]
-  edge [
-    source 329
-    target 190
-    rank 17
-  ]
-  edge [
-    source 330
-    target 55
-    rank 1
-  ]
-  edge [
-    source 330
-    target 92
-    rank 15
-  ]
-  edge [
-    source 330
-    target 72
-    rank 20
-  ]
-  edge [
-    source 331
-    target 376
-    rank 1
-  ]
-  edge [
-    source 332
-    target 3
-    rank 3
-  ]
-  edge [
-    source 332
-    target 102
-    rank 9
-  ]
-  edge [
-    source 332
-    target 268
-    rank 17
-  ]
-  edge [
-    source 332
-    target 208
-    rank 20
-  ]
-  edge [
-    source 333
-    target 101
-    rank 4
-  ]
-  edge [
-    source 333
-    target 8
-    rank 9
-  ]
-  edge [
-    source 333
-    target 313
-    rank 10
-  ]
-  edge [
-    source 333
-    target 161
-    rank 11
-  ]
-  edge [
-    source 333
-    target 306
-    rank 12
-  ]
-  edge [
-    source 333
-    target 31
-    rank 13
-  ]
-  edge [
-    source 333
-    target 425
-    rank 14
-  ]
-  edge [
-    source 333
-    target 400
-    rank 17
-  ]
-  edge [
-    source 333
-    target 368
-    rank 18
-  ]
-  edge [
-    source 334
-    target 161
-    rank 3
-  ]
-  edge [
-    source 334
-    target 313
-    rank 5
-  ]
-  edge [
-    source 334
-    target 284
-    rank 6
-  ]
-  edge [
-    source 334
-    target 30
-    rank 8
-  ]
-  edge [
-    source 334
-    target 306
-    rank 9
-  ]
-  edge [
-    source 334
-    target 44
-    rank 12
-  ]
-  edge [
-    source 334
-    target 31
-    rank 13
-  ]
-  edge [
-    source 334
-    target 95
-    rank 16
-  ]
-  edge [
-    source 335
-    target 440
-    rank 3
-  ]
-  edge [
-    source 335
-    target 101
-    rank 10
-  ]
-  edge [
-    source 335
-    target 414
-    rank 13
-  ]
-  edge [
-    source 336
-    target 154
-    rank 10
-  ]
-  edge [
-    source 336
-    target 65
-    rank 15
-  ]
-  edge [
-    source 337
-    target 383
-    rank 2
-  ]
-  edge [
-    source 337
-    target 221
-    rank 4
-  ]
-  edge [
-    source 337
-    target 4
-    rank 6
-  ]
-  edge [
-    source 337
-    target 352
-    rank 8
-  ]
-  edge [
-    source 337
-    target 161
-    rank 12
-  ]
-  edge [
-    source 337
-    target 301
-    rank 19
-  ]
-  edge [
-    source 338
-    target 383
-    rank 2
-  ]
-  edge [
-    source 338
-    target 306
-    rank 5
-  ]
-  edge [
-    source 338
-    target 161
-    rank 10
-  ]
-  edge [
-    source 338
-    target 221
-    rank 12
-  ]
-  edge [
-    source 339
-    target 9
-    rank 1
-  ]
-  edge [
-    source 339
-    target 27
-    rank 3
-  ]
-  edge [
-    source 339
-    target 56
-    rank 4
-  ]
-  edge [
-    source 339
-    target 32
-    rank 6
-  ]
-  edge [
-    source 339
-    target 391
-    rank 10
-  ]
-  edge [
-    source 339
+  edge
+  [
+    source 27
     target 19
     rank 12
   ]
-  edge [
-    source 339
-    target 208
-    rank 15
-  ]
-  edge [
-    source 339
-    target 92
-    rank 17
-  ]
-  edge [
-    source 340
-    target 174
-    rank 1
-  ]
-  edge [
-    source 340
-    target 56
-    rank 2
-  ]
-  edge [
-    source 340
-    target 27
-    rank 3
-  ]
-  edge [
-    source 340
-    target 228
-    rank 8
-  ]
-  edge [
-    source 340
-    target 6
-    rank 9
-  ]
-  edge [
-    source 340
-    target 189
-    rank 13
-  ]
-  edge [
-    source 340
-    target 83
-    rank 16
-  ]
-  edge [
-    source 341
-    target 425
-    rank 5
-  ]
-  edge [
-    source 341
-    target 313
-    rank 7
-  ]
-  edge [
-    source 341
-    target 275
-    rank 12
-  ]
-  edge [
-    source 341
-    target 4
-    rank 16
-  ]
-  edge [
-    source 341
-    target 437
-    rank 18
-  ]
-  edge [
-    source 341
-    target 30
-    rank 20
-  ]
-  edge [
-    source 342
-    target 27
-    rank 1
-  ]
-  edge [
-    source 342
-    target 56
-    rank 4
-  ]
-  edge [
-    source 342
-    target 1
-    rank 6
-  ]
-  edge [
-    source 342
-    target 190
-    rank 11
-  ]
-  edge [
-    source 342
-    target 80
-    rank 13
-  ]
-  edge [
-    source 342
-    target 11
-    rank 18
-  ]
-  edge [
-    source 343
-    target 284
-    rank 1
-  ]
-  edge [
-    source 343
-    target 46
-    rank 4
-  ]
-  edge [
-    source 343
-    target 292
-    rank 5
-  ]
-  edge [
-    source 343
-    target 2
-    rank 7
-  ]
-  edge [
-    source 343
-    target 358
-    rank 12
-  ]
-  edge [
-    source 343
-    target 92
-    rank 17
-  ]
-  edge [
-    source 344
-    target 27
-    rank 1
-  ]
-  edge [
-    source 344
-    target 15
-    rank 4
-  ]
-  edge [
-    source 344
-    target 32
-    rank 5
-  ]
-  edge [
-    source 344
+  edge
+  [
+    source 27
     target 16
-    rank 6
-  ]
-  edge [
-    source 344
-    target 3
-    rank 7
-  ]
-  edge [
-    source 344
-    target 19
-    rank 12
-  ]
-  edge [
-    source 344
-    target 92
     rank 15
   ]
-  edge [
-    source 344
-    target 22
-    rank 19
-  ]
-  edge [
-    source 345
-    target 59
-    rank 4
-  ]
-  edge [
-    source 345
-    target 19
-    rank 5
-  ]
-  edge [
-    source 345
-    target 202
-    rank 13
-  ]
-  edge [
-    source 346
-    target 313
-    rank 6
-  ]
-  edge [
-    source 346
-    target 425
-    rank 7
-  ]
-  edge [
-    source 346
-    target 284
-    rank 8
-  ]
-  edge [
-    source 346
-    target 348
-    rank 9
-  ]
-  edge [
-    source 346
-    target 31
-    rank 10
-  ]
-  edge [
-    source 346
-    target 437
-    rank 12
-  ]
-  edge [
-    source 346
-    target 30
-    rank 13
-  ]
-  edge [
-    source 346
-    target 4
-    rank 14
-  ]
-  edge [
-    source 346
-    target 20
-    rank 16
-  ]
-  edge [
-    source 346
-    target 5
-    rank 17
-  ]
-  edge [
-    source 346
-    target 8
-    rank 19
-  ]
-  edge [
-    source 346
-    target 44
-    rank 20
-  ]
-  edge [
-    source 347
-    target 430
-    rank 2
-  ]
-  edge [
-    source 347
-    target 305
-    rank 7
-  ]
-  edge [
-    source 348
-    target 383
-    rank 3
-  ]
-  edge [
-    source 348
-    target 425
-    rank 6
-  ]
-  edge [
-    source 348
-    target 306
-    rank 8
-  ]
-  edge [
-    source 348
-    target 4
-    rank 9
-  ]
-  edge [
-    source 348
+  edge
+  [
+    source 28
     target 6
-    rank 11
+    rank 2
   ]
-  edge [
-    source 348
-    target 284
-    rank 15
-  ]
-  edge [
-    source 348
-    target 112
-    rank 19
-  ]
-  edge [
-    source 349
-    target 112
-    rank 12
-  ]
-  edge [
-    source 350
-    target 425
-    rank 3
-  ]
-  edge [
-    source 350
-    target 306
-    rank 4
-  ]
-  edge [
-    source 350
-    target 313
+  edge
+  [
+    source 28
+    target 61
     rank 7
   ]
-  edge [
-    source 350
-    target 368
-    rank 12
-  ]
-  edge [
-    source 350
-    target 352
-    rank 14
-  ]
-  edge [
-    source 351
-    target 462
-    rank 3
-  ]
-  edge [
-    source 351
-    target 101
-    rank 19
-  ]
-  edge [
-    source 352
-    target 4
-    rank 4
-  ]
-  edge [
-    source 352
-    target 301
+  edge
+  [
+    source 28
+    target 254
     rank 8
   ]
-  edge [
-    source 352
-    target 31
-    rank 10
-  ]
-  edge [
-    source 352
-    target 30
-    rank 17
-  ]
-  edge [
-    source 353
-    target 4
-    rank 2
-  ]
-  edge [
-    source 353
-    target 284
-    rank 6
-  ]
-  edge [
-    source 355
-    target 369
-    rank 1
-  ]
-  edge [
-    source 355
-    target 46
-    rank 6
-  ]
-  edge [
-    source 355
-    target 150
-    rank 8
-  ]
-  edge [
-    source 355
-    target 294
+  edge
+  [
+    source 28
+    target 52
     rank 15
   ]
-  edge [
-    source 355
-    target 400
-    rank 17
-  ]
-  edge [
-    source 356
-    target 97
-    rank 2
-  ]
-  edge [
-    source 357
-    target 189
-    rank 1
-  ]
-  edge [
-    source 357
-    target 85
-    rank 2
-  ]
-  edge [
-    source 357
-    target 27
-    rank 6
-  ]
-  edge [
-    source 357
-    target 19
-    rank 12
-  ]
-  edge [
-    source 358
-    target 148
-    rank 11
-  ]
-  edge [
-    source 358
-    target 462
-    rank 20
-  ]
-  edge [
-    source 359
-    target 13
-    rank 1
-  ]
-  edge [
-    source 359
+  edge
+  [
+    source 28
     target 2
-    rank 10
-  ]
-  edge [
-    source 360
-    target 17
-    rank 5
-  ]
-  edge [
-    source 361
-    target 459
-    rank 1
-  ]
-  edge [
-    source 362
-    target 475
-    rank 1
-  ]
-  edge [
-    source 362
-    target 421
-    rank 12
-  ]
-  edge [
-    source 362
-    target 99
-    rank 18
-  ]
-  edge [
-    source 363
-    target 425
-    rank 4
-  ]
-  edge [
-    source 363
-    target 284
-    rank 6
-  ]
-  edge [
-    source 363
-    target 31
-    rank 9
-  ]
-  edge [
-    source 363
-    target 333
-    rank 10
-  ]
-  edge [
-    source 363
-    target 8
-    rank 11
-  ]
-  edge [
-    source 363
-    target 4
-    rank 17
-  ]
-  edge [
-    source 363
-    target 381
-    rank 18
-  ]
-  edge [
-    source 363
-    target 20
-    rank 19
-  ]
-  edge [
-    source 364
-    target 284
-    rank 2
-  ]
-  edge [
-    source 364
-    target 167
-    rank 5
-  ]
-  edge [
-    source 364
-    target 74
-    rank 6
-  ]
-  edge [
-    source 364
-    target 425
-    rank 7
-  ]
-  edge [
-    source 364
-    target 381
-    rank 8
-  ]
-  edge [
-    source 364
-    target 41
-    rank 9
-  ]
-  edge [
-    source 364
-    target 4
-    rank 10
-  ]
-  edge [
-    source 364
-    target 368
-    rank 13
-  ]
-  edge [
-    source 364
-    target 45
-    rank 14
-  ]
-  edge [
-    source 364
-    target 92
     rank 16
   ]
-  edge [
-    source 364
-    target 87
-    rank 19
-  ]
-  edge [
-    source 365
-    target 10
-    rank 7
-  ]
-  edge [
-    source 365
-    target 278
-    rank 10
-  ]
-  edge [
-    source 366
-    target 2
-    rank 3
-  ]
-  edge [
-    source 366
-    target 88
-    rank 10
-  ]
-  edge [
-    source 367
-    target 6
-    rank 8
-  ]
-  edge [
-    source 367
-    target 83
-    rank 9
-  ]
-  edge [
-    source 367
-    target 383
-    rank 11
-  ]
-  edge [
-    source 367
-    target 42
-    rank 14
-  ]
-  edge [
-    source 367
-    target 305
-    rank 16
-  ]
-  edge [
-    source 367
-    target 373
-    rank 18
-  ]
-  edge [
-    source 368
-    target 313
-    rank 2
-  ]
-  edge [
-    source 368
-    target 425
-    rank 8
-  ]
-  edge [
-    source 368
-    target 31
-    rank 9
-  ]
-  edge [
-    source 368
-    target 30
-    rank 11
-  ]
-  edge [
-    source 368
-    target 394
-    rank 12
-  ]
-  edge [
-    source 368
-    target 4
-    rank 13
-  ]
-  edge [
-    source 368
-    target 284
-    rank 14
-  ]
-  edge [
-    source 368
-    target 266
-    rank 15
-  ]
-  edge [
-    source 368
-    target 248
-    rank 18
-  ]
-  edge [
-    source 368
-    target 278
-    rank 19
-  ]
-  edge [
-    source 368
-    target 8
-    rank 20
-  ]
-  edge [
-    source 369
-    target 79
-    rank 1
-  ]
-  edge [
-    source 369
-    target 292
-    rank 3
-  ]
-  edge [
-    source 369
-    target 400
-    rank 4
-  ]
-  edge [
-    source 369
-    target 316
-    rank 6
-  ]
-  edge [
-    source 369
-    target 15
-    rank 11
-  ]
-  edge [
-    source 369
-    target 388
-    rank 12
-  ]
-  edge [
-    source 370
-    target 233
-    rank 1
-  ]
-  edge [
-    source 370
-    target 189
-    rank 2
-  ]
-  edge [
-    source 370
-    target 342
-    rank 4
-  ]
-  edge [
-    source 370
-    target 56
-    rank 11
-  ]
-  edge [
-    source 370
-    target 27
-    rank 13
-  ]
-  edge [
-    source 370
-    target 92
-    rank 17
-  ]
-  edge [
-    source 370
-    target 19
-    rank 18
-  ]
-  edge [
-    source 371
-    target 3
-    rank 2
-  ]
-  edge [
-    source 371
-    target 292
-    rank 3
-  ]
-  edge [
-    source 371
-    target 19
-    rank 11
-  ]
-  edge [
-    source 372
-    target 0
-    rank 1
-  ]
-  edge [
-    source 372
-    target 475
-    rank 2
-  ]
-  edge [
-    source 372
-    target 419
-    rank 3
-  ]
-  edge [
-    source 372
-    target 126
-    rank 4
-  ]
-  edge [
-    source 372
-    target 222
-    rank 15
-  ]
-  edge [
-    source 372
-    target 240
-    rank 18
-  ]
-  edge [
-    source 372
-    target 210
-    rank 20
-  ]
-  edge [
-    source 373
-    target 305
-    rank 1
-  ]
-  edge [
-    source 373
-    target 203
-    rank 5
-  ]
-  edge [
-    source 373
-    target 208
-    rank 9
-  ]
-  edge [
-    source 374
-    target 51
-    rank 2
-  ]
-  edge [
-    source 374
-    target 74
-    rank 5
-  ]
-  edge [
-    source 375
-    target 112
-    rank 19
-  ]
-  edge [
-    source 376
-    target 439
-    rank 1
-  ]
-  edge [
-    source 376
-    target 111
-    rank 4
-  ]
-  edge [
-    source 376
-    target 255
-    rank 7
-  ]
-  edge [
-    source 376
-    target 208
-    rank 10
-  ]
-  edge [
-    source 376
-    target 207
-    rank 12
-  ]
-  edge [
-    source 376
-    target 374
-    rank 19
-  ]
-  edge [
-    source 377
-    target 425
-    rank 1
-  ]
-  edge [
-    source 377
-    target 3
-    rank 14
-  ]
-  edge [
-    source 377
-    target 284
-    rank 16
-  ]
-  edge [
-    source 377
-    target 5
-    rank 18
-  ]
-  edge [
-    source 377
-    target 306
-    rank 19
-  ]
-  edge [
-    source 378
-    target 369
-    rank 3
-  ]
-  edge [
-    source 378
-    target 400
-    rank 5
-  ]
-  edge [
-    source 378
-    target 316
-    rank 6
-  ]
-  edge [
-    source 378
-    target 2
-    rank 8
-  ]
-  edge [
-    source 378
-    target 462
-    rank 18
-  ]
-  edge [
-    source 378
-    target 4
-    rank 19
-  ]
-  edge [
-    source 379
-    target 6
-    rank 9
-  ]
-  edge [
-    source 380
-    target 221
-    rank 3
-  ]
-  edge [
-    source 380
-    target 306
-    rank 4
-  ]
-  edge [
-    source 380
-    target 161
-    rank 11
-  ]
-  edge [
-    source 380
-    target 101
-    rank 14
-  ]
-  edge [
-    source 380
-    target 301
-    rank 16
-  ]
-  edge [
-    source 380
-    target 419
-    rank 19
-  ]
-  edge [
-    source 381
-    target 425
-    rank 3
-  ]
-  edge [
-    source 381
-    target 278
-    rank 5
-  ]
-  edge [
-    source 381
-    target 231
-    rank 14
-  ]
-  edge [
-    source 382
-    target 51
-    rank 1
-  ]
-  edge [
-    source 382
-    target 131
-    rank 5
-  ]
-  edge [
-    source 382
-    target 41
-    rank 7
-  ]
-  edge [
-    source 382
-    target 49
-    rank 10
-  ]
-  edge [
-    source 382
-    target 238
-    rank 12
-  ]
-  edge [
-    source 382
-    target 252
-    rank 16
-  ]
-  edge [
-    source 382
-    target 286
-    rank 17
-  ]
-  edge [
-    source 382
-    target 453
-    rank 19
-  ]
-  edge [
-    source 382
-    target 123
-    rank 20
-  ]
-  edge [
-    source 383
-    target 352
-    rank 5
-  ]
-  edge [
-    source 383
-    target 301
-    rank 16
-  ]
-  edge [
-    source 385
-    target 437
-    rank 2
-  ]
-  edge [
-    source 385
-    target 4
-    rank 4
-  ]
-  edge [
-    source 385
-    target 400
-    rank 6
-  ]
-  edge [
-    source 385
-    target 313
-    rank 7
-  ]
-  edge [
-    source 385
-    target 31
-    rank 8
-  ]
-  edge [
-    source 385
-    target 8
-    rank 10
-  ]
-  edge [
-    source 385
-    target 30
-    rank 14
-  ]
-  edge [
-    source 385
-    target 44
-    rank 16
-  ]
-  edge [
-    source 386
-    target 4
-    rank 3
-  ]
-  edge [
-    source 386
-    target 136
-    rank 5
-  ]
-  edge [
-    source 386
-    target 437
-    rank 9
-  ]
-  edge [
-    source 386
-    target 20
-    rank 10
-  ]
-  edge [
-    source 386
-    target 348
-    rank 11
-  ]
-  edge [
-    source 386
-    target 5
-    rank 16
-  ]
-  edge [
-    source 386
-    target 333
-    rank 18
-  ]
-  edge [
-    source 386
-    target 31
-    rank 19
-  ]
-  edge [
-    source 386
-    target 8
-    rank 20
-  ]
-  edge [
-    source 387
-    target 14
-    rank 7
-  ]
-  edge [
-    source 388
-    target 343
-    rank 1
-  ]
-  edge [
-    source 388
-    target 316
-    rank 6
-  ]
-  edge [
-    source 388
-    target 266
-    rank 12
-  ]
-  edge [
-    source 388
-    target 358
-    rank 15
-  ]
-  edge [
-    source 389
-    target 425
-    rank 3
-  ]
-  edge [
-    source 389
-    target 437
-    rank 4
-  ]
-  edge [
-    source 389
-    target 313
-    rank 6
-  ]
-  edge [
-    source 389
-    target 221
-    rank 14
-  ]
-  edge [
-    source 389
-    target 275
-    rank 15
-  ]
-  edge [
-    source 390
-    target 171
-    rank 4
-  ]
-  edge [
-    source 390
-    target 131
-    rank 8
-  ]
-  edge [
-    source 390
-    target 433
-    rank 9
-  ]
-  edge [
-    source 390
-    target 6
-    rank 14
-  ]
-  edge [
-    source 390
-    target 150
-    rank 16
-  ]
-  edge [
-    source 390
-    target 216
-    rank 17
-  ]
-  edge [
-    source 390
-    target 462
-    rank 18
-  ]
-  edge [
-    source 390
-    target 148
-    rank 19
-  ]
-  edge [
-    source 391
-    target 56
-    rank 1
-  ]
-  edge [
-    source 391
-    target 189
-    rank 2
-  ]
-  edge [
-    source 391
-    target 370
-    rank 3
-  ]
-  edge [
-    source 391
-    target 27
-    rank 4
-  ]
-  edge [
-    source 391
-    target 42
-    rank 6
-  ]
-  edge [
-    source 391
-    target 6
-    rank 9
-  ]
-  edge [
-    source 391
-    target 19
-    rank 13
-  ]
-  edge [
-    source 391
-    target 21
-    rank 15
-  ]
-  edge [
-    source 391
-    target 312
-    rank 17
-  ]
-  edge [
-    source 392
-    target 92
-    rank 7
-  ]
-  edge [
-    source 393
-    target 475
-    rank 2
-  ]
-  edge [
-    source 393
-    target 284
-    rank 3
-  ]
-  edge [
-    source 393
-    target 345
-    rank 9
-  ]
-  edge [
-    source 393
-    target 425
-    rank 10
-  ]
-  edge [
-    source 393
-    target 101
-    rank 12
-  ]
-  edge [
-    source 393
-    target 364
-    rank 15
-  ]
-  edge [
-    source 394
-    target 422
-    rank 1
-  ]
-  edge [
-    source 394
-    target 313
-    rank 6
-  ]
-  edge [
-    source 394
-    target 425
-    rank 9
-  ]
-  edge [
-    source 394
-    target 284
-    rank 10
-  ]
-  edge [
-    source 394
-    target 31
-    rank 13
-  ]
-  edge [
-    source 394
-    target 4
-    rank 14
-  ]
-  edge [
-    source 394
-    target 179
-    rank 15
-  ]
-  edge [
-    source 394
-    target 44
-    rank 17
-  ]
-  edge [
-    source 394
-    target 8
-    rank 18
-  ]
-  edge [
-    source 395
-    target 383
-    rank 12
-  ]
-  edge [
-    source 396
-    target 4
-    rank 5
-  ]
-  edge [
-    source 396
-    target 313
-    rank 7
-  ]
-  edge [
-    source 396
-    target 437
-    rank 8
-  ]
-  edge [
-    source 396
-    target 425
-    rank 9
-  ]
-  edge [
-    source 396
-    target 31
-    rank 12
-  ]
-  edge [
-    source 396
-    target 8
-    rank 14
-  ]
-  edge [
-    source 396
-    target 44
-    rank 16
-  ]
-  edge [
-    source 396
-    target 200
-    rank 20
-  ]
-  edge [
-    source 397
-    target 150
-    rank 3
-  ]
-  edge [
-    source 397
-    target 101
-    rank 6
-  ]
-  edge [
-    source 397
-    target 215
-    rank 8
-  ]
-  edge [
-    source 397
-    target 69
-    rank 15
-  ]
-  edge [
-    source 398
-    target 3
-    rank 3
-  ]
-  edge [
-    source 398
-    target 51
-    rank 4
-  ]
-  edge [
-    source 398
-    target 13
-    rank 12
-  ]
-  edge [
-    source 398
+  edge
+  [
+    source 28
     target 1
-    rank 14
-  ]
-  edge [
-    source 398
-    target 41
     rank 17
   ]
-  edge [
-    source 398
-    target 48
-    rank 19
-  ]
-  edge [
-    source 399
-    target 246
-    rank 16
-  ]
-  edge [
-    source 400
-    target 253
-    rank 1
-  ]
-  edge [
-    source 400
-    target 92
-    rank 2
-  ]
-  edge [
-    source 400
-    target 462
-    rank 4
-  ]
-  edge [
-    source 400
-    target 388
-    rank 6
-  ]
-  edge [
-    source 400
-    target 369
-    rank 10
-  ]
-  edge [
-    source 400
-    target 41
-    rank 13
-  ]
-  edge [
-    source 400
-    target 316
-    rank 14
-  ]
-  edge [
-    source 400
-    target 425
-    rank 17
-  ]
-  edge [
-    source 401
-    target 16
-    rank 2
-  ]
-  edge [
-    source 401
-    target 1
-    rank 7
-  ]
-  edge [
-    source 402
-    target 101
-    rank 3
-  ]
-  edge [
-    source 402
-    target 383
-    rank 6
-  ]
-  edge [
-    source 402
-    target 208
-    rank 10
-  ]
-  edge [
-    source 402
-    target 410
-    rank 12
-  ]
-  edge [
-    source 402
-    target 136
-    rank 14
-  ]
-  edge [
-    source 402
-    target 475
-    rank 17
-  ]
-  edge [
-    source 403
-    target 345
-    rank 13
-  ]
-  edge [
-    source 403
-    target 475
-    rank 14
-  ]
-  edge [
-    source 403
-    target 87
-    rank 19
-  ]
-  edge [
-    source 404
-    target 18
-    rank 1
-  ]
-  edge [
-    source 404
-    target 373
-    rank 8
-  ]
-  edge [
-    source 405
-    target 85
-    rank 1
-  ]
-  edge [
-    source 405
-    target 284
-    rank 4
-  ]
-  edge [
-    source 405
-    target 176
-    rank 15
-  ]
-  edge [
-    source 406
-    target 253
-    rank 2
-  ]
-  edge [
-    source 406
-    target 258
-    rank 3
-  ]
-  edge [
-    source 406
-    target 369
-    rank 6
-  ]
-  edge [
-    source 406
-    target 358
-    rank 8
-  ]
-  edge [
-    source 406
-    target 79
-    rank 9
-  ]
-  edge [
-    source 406
-    target 190
-    rank 10
-  ]
-  edge [
-    source 406
-    target 21
-    rank 16
-  ]
-  edge [
-    source 406
-    target 311
+  edge
+  [
+    source 28
+    target 138
     rank 18
   ]
-  edge [
-    source 407
-    target 189
-    rank 1
-  ]
-  edge [
-    source 407
-    target 27
-    rank 3
-  ]
-  edge [
-    source 407
-    target 56
-    rank 8
-  ]
-  edge [
-    source 407
-    target 92
-    rank 13
-  ]
-  edge [
-    source 407
-    target 339
-    rank 17
-  ]
-  edge [
-    source 408
-    target 475
-    rank 1
-  ]
-  edge [
-    source 408
-    target 101
-    rank 5
-  ]
-  edge [
-    source 408
-    target 429
-    rank 8
-  ]
-  edge [
-    source 409
-    target 284
-    rank 2
-  ]
-  edge [
-    source 409
-    target 383
-    rank 10
-  ]
-  edge [
-    source 409
-    target 463
-    rank 17
-  ]
-  edge [
-    source 409
-    target 208
-    rank 18
-  ]
-  edge [
-    source 409
-    target 101
-    rank 20
-  ]
-  edge [
-    source 410
-    target 6
-    rank 5
-  ]
-  edge [
-    source 410
-    target 122
-    rank 6
-  ]
-  edge [
-    source 410
-    target 475
-    rank 7
-  ]
-  edge [
-    source 410
-    target 208
-    rank 15
-  ]
-  edge [
-    source 412
-    target 85
-    rank 1
-  ]
-  edge [
-    source 412
-    target 189
-    rank 3
-  ]
-  edge [
-    source 412
-    target 27
-    rank 4
-  ]
-  edge [
-    source 412
-    target 233
-    rank 7
-  ]
-  edge [
-    source 412
-    target 56
-    rank 11
-  ]
-  edge [
-    source 412
-    target 166
-    rank 19
-  ]
-  edge [
-    source 413
-    target 414
-    rank 3
-  ]
-  edge [
-    source 413
-    target 231
-    rank 9
-  ]
-  edge [
-    source 413
-    target 399
-    rank 20
-  ]
-  edge [
-    source 414
-    target 73
-    rank 11
-  ]
-  edge [
-    source 414
-    target 450
-    rank 14
-  ]
-  edge [
-    source 415
+  edge
+  [
+    source 28
     target 84
-    rank 11
+    rank 19
   ]
-  edge [
-    source 415
-    target 459
-    rank 15
-  ]
-  edge [
-    source 416
-    target 306
-    rank 2
-  ]
-  edge [
-    source 416
-    target 381
-    rank 6
-  ]
-  edge [
-    source 416
-    target 313
-    rank 9
-  ]
-  edge [
-    source 416
-    target 4
-    rank 11
-  ]
-  edge [
-    source 416
-    target 8
-    rank 14
-  ]
-  edge [
-    source 416
-    target 30
-    rank 16
-  ]
-  edge [
-    source 416
-    target 293
-    rank 18
-  ]
-  edge [
-    source 416
-    target 278
+  edge
+  [
+    source 28
+    target 56
     rank 20
   ]
-  edge [
-    source 417
-    target 161
-    rank 2
-  ]
-  edge [
-    source 417
-    target 352
-    rank 11
-  ]
-  edge [
-    source 417
-    target 44
-    rank 19
-  ]
-  edge [
-    source 418
-    target 417
-    rank 4
-  ]
-  edge [
-    source 418
-    target 426
-    rank 8
-  ]
-  edge [
-    source 418
-    target 457
-    rank 12
-  ]
-  edge [
-    source 418
-    target 208
-    rank 17
-  ]
-  edge [
-    source 419
-    target 425
-    rank 7
-  ]
-  edge [
-    source 419
-    target 313
-    rank 8
-  ]
-  edge [
-    source 419
-    target 368
-    rank 10
-  ]
-  edge [
-    source 419
-    target 284
-    rank 11
-  ]
-  edge [
-    source 419
-    target 381
-    rank 12
-  ]
-  edge [
-    source 419
-    target 278
-    rank 14
-  ]
-  edge [
-    source 419
-    target 301
-    rank 17
-  ]
-  edge [
-    source 419
-    target 231
-    rank 19
-  ]
-  edge [
-    source 420
-    target 376
-    rank 1
-  ]
-  edge [
-    source 420
-    target 255
+  edge
+  [
+    source 29
+    target 57
     rank 6
   ]
-  edge [
-    source 421
-    target 475
-    rank 1
-  ]
-  edge [
-    source 421
-    target 32
-    rank 4
-  ]
-  edge [
-    source 421
-    target 3
-    rank 6
-  ]
-  edge [
-    source 421
-    target 383
-    rank 9
-  ]
-  edge [
-    source 422
-    target 313
-    rank 5
-  ]
-  edge [
-    source 422
-    target 394
-    rank 6
-  ]
-  edge [
-    source 422
-    target 368
-    rank 7
-  ]
-  edge [
-    source 422
-    target 68
-    rank 8
-  ]
-  edge [
-    source 422
-    target 31
-    rank 10
-  ]
-  edge [
-    source 422
-    target 30
-    rank 17
-  ]
-  edge [
-    source 423
-    target 162
-    rank 15
-  ]
-  edge [
-    source 423
-    target 130
-    rank 17
-  ]
-  edge [
-    source 424
-    target 383
-    rank 18
-  ]
-  edge [
-    source 425
-    target 278
-    rank 3
-  ]
-  edge [
-    source 425
-    target 65
-    rank 9
-  ]
-  edge [
-    source 425
-    target 30
-    rank 10
-  ]
-  edge [
-    source 425
-    target 4
+  edge
+  [
+    source 29
+    target 13
     rank 13
   ]
-  edge [
-    source 425
-    target 5
-    rank 14
-  ]
-  edge [
-    source 425
-    target 31
-    rank 18
-  ]
-  edge [
-    source 425
-    target 8
-    rank 19
-  ]
-  edge [
-    source 426
-    target 52
-    rank 1
-  ]
-  edge [
-    source 426
-    target 457
-    rank 2
-  ]
-  edge [
-    source 426
-    target 305
-    rank 7
-  ]
-  edge [
-    source 426
-    target 384
-    rank 15
-  ]
-  edge [
-    source 427
-    target 31
-    rank 6
-  ]
-  edge [
-    source 427
-    target 313
-    rank 7
-  ]
-  edge [
-    source 427
-    target 284
-    rank 9
-  ]
-  edge [
-    source 427
-    target 30
-    rank 10
-  ]
-  edge [
-    source 427
-    target 8
-    rank 11
-  ]
-  edge [
-    source 427
-    target 20
+  edge
+  [
+    source 29
+    target 2
     rank 16
   ]
-  edge [
-    source 427
-    target 221
-    rank 18
-  ]
-  edge [
-    source 427
-    target 4
+  edge
+  [
+    source 29
+    target 26
     rank 19
   ]
-  edge [
-    source 428
-    target 52
-    rank 1
-  ]
-  edge [
-    source 428
-    target 457
-    rank 3
-  ]
-  edge [
-    source 429
-    target 227
-    rank 1
-  ]
-  edge [
-    source 429
-    target 403
+  edge
+  [
+    source 30
+    target 16
     rank 2
   ]
-  edge [
-    source 429
-    target 1
-    rank 3
+  edge
+  [
+    source 30
+    target 254
+    rank 5
   ]
-  edge [
-    source 429
-    target 475
-    rank 4
+  edge
+  [
+    source 30
+    target 19
+    rank 8
   ]
-  edge [
-    source 429
-    target 101
+  edge
+  [
+    source 30
+    target 375
+    rank 12
+  ]
+  edge
+  [
+    source 30
+    target 28
     rank 13
   ]
-  edge [
-    source 430
-    target 19
+  edge
+  [
+    source 31
+    target 4
+    rank 2
+  ]
+  edge
+  [
+    source 31
+    target 32
     rank 3
   ]
-  edge [
-    source 430
-    target 385
+  edge
+  [
+    source 31
+    target 40
     rank 4
   ]
-  edge [
-    source 430
+  edge
+  [
+    source 31
+    target 2
+    rank 6
+  ]
+  edge
+  [
+    source 31
+    target 23
+    rank 16
+  ]
+  edge
+  [
+    source 31
+    target 19
+    rank 19
+  ]
+  edge
+  [
+    source 32
+    target 15
+    rank 6
+  ]
+  edge
+  [
+    source 32
+    target 2
+    rank 10
+  ]
+  edge
+  [
+    source 32
+    target 1
+    rank 11
+  ]
+  edge
+  [
+    source 32
+    target 9
+    rank 14
+  ]
+  edge
+  [
+    source 32
+    target 16
+    rank 16
+  ]
+  edge
+  [
+    source 32
+    target 6
+    rank 18
+  ]
+  edge
+  [
+    source 32
+    target 56
+    rank 19
+  ]
+  edge
+  [
+    source 34
+    target 251
+    rank 2
+  ]
+  edge
+  [
+    source 34
+    target 2
+    rank 3
+  ]
+  edge
+  [
+    source 34
+    target 241
+    rank 4
+  ]
+  edge
+  [
+    source 34
+    target 31
+    rank 5
+  ]
+  edge
+  [
+    source 34
     target 470
     rank 7
   ]
-  edge [
-    source 431
-    target 419
-    rank 1
-  ]
-  edge [
-    source 431
-    target 306
-    rank 4
-  ]
-  edge [
-    source 431
-    target 333
-    rank 5
-  ]
-  edge [
-    source 431
-    target 381
-    rank 7
-  ]
-  edge [
-    source 431
-    target 161
+  edge
+  [
+    source 34
+    target 327
     rank 9
   ]
-  edge [
-    source 431
-    target 20
-    rank 11
-  ]
-  edge [
-    source 431
-    target 8
-    rank 12
-  ]
-  edge [
-    source 431
-    target 30
-    rank 15
-  ]
-  edge [
-    source 431
-    target 5
-    rank 17
-  ]
-  edge [
-    source 432
-    target 425
-    rank 3
-  ]
-  edge [
-    source 432
-    target 284
-    rank 4
-  ]
-  edge [
-    source 432
-    target 417
-    rank 7
-  ]
-  edge [
-    source 433
-    target 46
-    rank 1
-  ]
-  edge [
-    source 433
-    target 1
-    rank 3
-  ]
-  edge [
-    source 433
-    target 6
-    rank 4
-  ]
-  edge [
-    source 433
-    target 79
-    rank 6
-  ]
-  edge [
-    source 433
-    target 316
-    rank 9
-  ]
-  edge [
-    source 433
-    target 92
-    rank 14
-  ]
-  edge [
-    source 434
-    target 381
-    rank 10
-  ]
-  edge [
-    source 434
-    target 368
-    rank 17
-  ]
-  edge [
-    source 434
-    target 394
-    rank 20
-  ]
-  edge [
-    source 435
-    target 373
-    rank 8
-  ]
-  edge [
-    source 435
-    target 265
-    rank 17
-  ]
-  edge [
-    source 435
-    target 106
-    rank 20
-  ]
-  edge [
-    source 436
-    target 46
-    rank 1
-  ]
-  edge [
-    source 436
-    target 294
-    rank 2
-  ]
-  edge [
-    source 436
-    target 462
-    rank 4
-  ]
-  edge [
-    source 436
-    target 141
-    rank 6
-  ]
-  edge [
-    source 436
-    target 63
-    rank 12
-  ]
-  edge [
-    source 437
-    target 425
-    rank 6
-  ]
-  edge [
-    source 437
-    target 306
-    rank 7
-  ]
-  edge [
-    source 437
-    target 313
-    rank 8
-  ]
-  edge [
-    source 437
-    target 25
-    rank 11
-  ]
-  edge [
-    source 437
-    target 30
-    rank 12
-  ]
-  edge [
-    source 437
-    target 8
-    rank 15
-  ]
-  edge [
-    source 437
-    target 4
-    rank 17
-  ]
-  edge [
-    source 437
-    target 31
-    rank 18
-  ]
-  edge [
-    source 438
-    target 367
-    rank 2
-  ]
-  edge [
-    source 438
-    target 179
-    rank 4
-  ]
-  edge [
-    source 438
-    target 13
-    rank 5
-  ]
-  edge [
-    source 438
-    target 284
-    rank 9
-  ]
-  edge [
-    source 438
-    target 305
-    rank 17
-  ]
-  edge [
-    source 439
-    target 6
-    rank 7
-  ]
-  edge [
-    source 439
-    target 417
-    rank 8
-  ]
-  edge [
-    source 439
-    target 208
-    rank 10
-  ]
-  edge [
-    source 439
-    target 68
-    rank 11
-  ]
-  edge [
-    source 439
-    target 11
-    rank 15
-  ]
-  edge [
-    source 439
-    target 148
-    rank 18
-  ]
-  edge [
-    source 440
-    target 42
-    rank 3
-  ]
-  edge [
-    source 440
-    target 14
-    rank 8
-  ]
-  edge [
-    source 441
-    target 221
-    rank 6
-  ]
-  edge [
-    source 441
-    target 92
-    rank 9
-  ]
-  edge [
-    source 441
-    target 373
-    rank 13
-  ]
-  edge [
-    source 442
-    target 1
-    rank 4
-  ]
-  edge [
-    source 442
-    target 85
-    rank 13
-  ]
-  edge [
-    source 443
-    target 227
-    rank 4
-  ]
-  edge [
-    source 445
-    target 64
-    rank 1
-  ]
-  edge [
-    source 445
-    target 425
-    rank 4
-  ]
-  edge [
-    source 445
-    target 12
-    rank 5
-  ]
-  edge [
-    source 446
-    target 457
-    rank 6
-  ]
-  edge [
-    source 447
-    target 425
-    rank 5
-  ]
-  edge [
-    source 447
-    target 284
-    rank 6
-  ]
-  edge [
-    source 447
-    target 345
-    rank 8
-  ]
-  edge [
-    source 447
-    target 101
-    rank 13
-  ]
-  edge [
-    source 447
-    target 475
-    rank 17
-  ]
-  edge [
-    source 448
-    target 425
-    rank 4
-  ]
-  edge [
-    source 448
-    target 306
-    rank 5
-  ]
-  edge [
-    source 448
-    target 4
-    rank 6
-  ]
-  edge [
-    source 448
-    target 284
-    rank 9
-  ]
-  edge [
-    source 448
-    target 8
-    rank 13
-  ]
-  edge [
-    source 448
-    target 333
-    rank 15
-  ]
-  edge [
-    source 448
-    target 207
-    rank 19
-  ]
-  edge [
-    source 448
-    target 307
-    rank 20
-  ]
-  edge [
-    source 449
-    target 51
-    rank 4
-  ]
-  edge [
-    source 449
-    target 231
-    rank 6
-  ]
-  edge [
-    source 449
-    target 92
-    rank 12
-  ]
-  edge [
-    source 449
-    target 212
-    rank 19
-  ]
-  edge [
-    source 450
-    target 413
-    rank 3
-  ]
-  edge [
-    source 450
-    target 414
-    rank 5
-  ]
-  edge [
-    source 451
-    target 383
-    rank 3
-  ]
-  edge [
-    source 451
-    target 232
-    rank 15
-  ]
-  edge [
-    source 452
-    target 133
-    rank 19
-  ]
-  edge [
-    source 453
-    target 1
-    rank 3
-  ]
-  edge [
-    source 453
-    target 15
-    rank 4
-  ]
-  edge [
-    source 453
-    target 131
-    rank 5
-  ]
-  edge [
-    source 453
-    target 3
-    rank 8
-  ]
-  edge [
-    source 453
-    target 81
-    rank 9
-  ]
-  edge [
-    source 453
-    target 238
-    rank 11
-  ]
-  edge [
-    source 453
-    target 41
-    rank 15
-  ]
-  edge [
-    source 453
+  edge
+  [
+    source 34
     target 28
     rank 18
   ]
-  edge [
-    source 453
-    target 59
-    rank 19
+  edge
+  [
+    source 34
+    target 298
+    rank 20
   ]
-  edge [
-    source 454
-    target 351
+  edge
+  [
+    source 35
+    target 5
     rank 2
   ]
-  edge [
-    source 454
-    target 475
-    rank 7
+  edge
+  [
+    source 35
+    target 57
+    rank 3
   ]
-  edge [
-    source 455
-    target 218
-    rank 13
-  ]
-  edge [
-    source 458
-    target 306
-    rank 9
-  ]
-  edge [
-    source 459
-    target 327
-    rank 1
-  ]
-  edge [
-    source 459
-    target 383
-    rank 5
-  ]
-  edge [
-    source 459
+  edge
+  [
+    source 35
     target 2
-    rank 11
-  ]
-  edge [
-    source 459
-    target 12
-    rank 19
-  ]
-  edge [
-    source 460
-    target 291
-    rank 5
-  ]
-  edge [
-    source 461
-    target 373
-    rank 6
-  ]
-  edge [
-    source 462
-    target 2
-    rank 5
-  ]
-  edge [
-    source 462
-    target 227
-    rank 11
-  ]
-  edge [
-    source 462
-    target 417
-    rank 15
-  ]
-  edge [
-    source 462
-    target 19
-    rank 17
-  ]
-  edge [
-    source 463
-    target 229
-    rank 2
-  ]
-  edge [
-    source 464
-    target 2
-    rank 7
-  ]
-  edge [
-    source 465
-    target 440
     rank 4
   ]
-  edge [
-    source 466
-    target 68
-    rank 1
+  edge
+  [
+    source 35
+    target 6
+    rank 6
   ]
-  edge [
-    source 467
-    target 456
+  edge
+  [
+    source 35
+    target 3
+    rank 7
+  ]
+  edge
+  [
+    source 35
+    target 457
+    rank 8
+  ]
+  edge
+  [
+    source 35
+    target 241
+    rank 12
+  ]
+  edge
+  [
+    source 35
+    target 22
+    rank 13
+  ]
+  edge
+  [
+    source 35
+    target 265
+    rank 18
+  ]
+  edge
+  [
+    source 36
+    target 31
+    rank 2
+  ]
+  edge
+  [
+    source 36
+    target 17
+    rank 4
+  ]
+  edge
+  [
+    source 36
+    target 327
+    rank 8
+  ]
+  edge
+  [
+    source 36
+    target 35
     rank 9
   ]
-  edge [
-    source 468
+  edge
+  [
+    source 36
+    target 335
+    rank 12
+  ]
+  edge
+  [
+    source 36
+    target 30
+    rank 14
+  ]
+  edge
+  [
+    source 36
+    target 45
+    rank 15
+  ]
+  edge
+  [
+    source 36
+    target 413
+    rank 20
+  ]
+  edge
+  [
+    source 37
+    target 13
+    rank 1
+  ]
+  edge
+  [
+    source 37
+    target 57
+    rank 3
+  ]
+  edge
+  [
+    source 37
+    target 3
+    rank 5
+  ]
+  edge
+  [
+    source 37
+    target 16
+    rank 6
+  ]
+  edge
+  [
+    source 37
+    target 2
+    rank 9
+  ]
+  edge
+  [
+    source 37
+    target 6
+    rank 11
+  ]
+  edge
+  [
+    source 37
+    target 241
+    rank 19
+  ]
+  edge
+  [
+    source 38
+    target 66
+    rank 2
+  ]
+  edge
+  [
+    source 38
+    target 3
+    rank 4
+  ]
+  edge
+  [
+    source 38
+    target 2
+    rank 5
+  ]
+  edge
+  [
+    source 38
+    target 0
+    rank 9
+  ]
+  edge
+  [
+    source 38
+    target 14
+    rank 10
+  ]
+  edge
+  [
+    source 38
+    target 45
+    rank 11
+  ]
+  edge
+  [
+    source 38
+    target 25
+    rank 12
+  ]
+  edge
+  [
+    source 38
+    target 10
+    rank 14
+  ]
+  edge
+  [
+    source 39
+    target 26
+    rank 7
+  ]
+  edge
+  [
+    source 39
+    target 40
+    rank 9
+  ]
+  edge
+  [
+    source 39
+    target 365
+    rank 16
+  ]
+  edge
+  [
+    source 39
+    target 275
+    rank 18
+  ]
+  edge
+  [
+    source 39
+    target 75
+    rank 20
+  ]
+  edge
+  [
+    source 40
+    target 2
+    rank 19
+  ]
+  edge
+  [
+    source 41
+    target 2
+    rank 5
+  ]
+  edge
+  [
+    source 41
+    target 18
+    rank 13
+  ]
+  edge
+  [
+    source 41
+    target 14
+    rank 15
+  ]
+  edge
+  [
+    source 42
+    target 254
+    rank 1
+  ]
+  edge
+  [
+    source 42
+    target 43
+    rank 3
+  ]
+  edge
+  [
+    source 42
+    target 15
+    rank 8
+  ]
+  edge
+  [
+    source 42
+    target 1
+    rank 11
+  ]
+  edge
+  [
+    source 42
+    target 19
+    rank 12
+  ]
+  edge
+  [
+    source 42
+    target 2
+    rank 13
+  ]
+  edge
+  [
+    source 42
+    target 61
+    rank 15
+  ]
+  edge
+  [
+    source 42
+    target 84
+    rank 16
+  ]
+  edge
+  [
+    source 42
+    target 6
+    rank 18
+  ]
+  edge
+  [
+    source 43
+    target 6
+    rank 3
+  ]
+  edge
+  [
+    source 43
+    target 21
+    rank 20
+  ]
+  edge
+  [
+    source 44
+    target 1
+    rank 4
+  ]
+  edge
+  [
+    source 44
+    target 37
+    rank 5
+  ]
+  edge
+  [
+    source 44
+    target 8
+    rank 6
+  ]
+  edge
+  [
+    source 44
+    target 6
+    rank 11
+  ]
+  edge
+  [
+    source 44
+    target 70
+    rank 16
+  ]
+  edge
+  [
+    source 45
+    target 2
+    rank 4
+  ]
+  edge
+  [
+    source 45
+    target 101
+    rank 5
+  ]
+  edge
+  [
+    source 45
+    target 50
+    rank 7
+  ]
+  edge
+  [
+    source 45
+    target 12
+    rank 10
+  ]
+  edge
+  [
+    source 45
+    target 0
+    rank 11
+  ]
+  edge
+  [
+    source 45
+    target 28
+    rank 12
+  ]
+  edge
+  [
+    source 45
+    target 411
+    rank 15
+  ]
+  edge
+  [
+    source 45
+    target 34
+    rank 16
+  ]
+  edge
+  [
+    source 45
+    target 286
+    rank 17
+  ]
+  edge
+  [
+    source 46
+    target 42
+    rank 3
+  ]
+  edge
+  [
+    source 46
+    target 3
+    rank 6
+  ]
+  edge
+  [
+    source 46
+    target 76
+    rank 7
+  ]
+  edge
+  [
+    source 46
+    target 491
+    rank 16
+  ]
+  edge
+  [
+    source 47
+    target 198
+    rank 1
+  ]
+  edge
+  [
+    source 47
+    target 365
+    rank 9
+  ]
+  edge
+  [
+    source 47
+    target 209
+    rank 11
+  ]
+  edge
+  [
+    source 47
+    target 138
+    rank 17
+  ]
+  edge
+  [
+    source 47
+    target 72
+    rank 19
+  ]
+  edge
+  [
+    source 48
+    target 66
+    rank 1
+  ]
+  edge
+  [
+    source 48
+    target 4
+    rank 3
+  ]
+  edge
+  [
+    source 48
+    target 115
+    rank 4
+  ]
+  edge
+  [
+    source 48
+    target 91
+    rank 8
+  ]
+  edge
+  [
+    source 48
+    target 305
+    rank 11
+  ]
+  edge
+  [
+    source 48
+    target 327
+    rank 12
+  ]
+  edge
+  [
+    source 48
+    target 298
+    rank 16
+  ]
+  edge
+  [
+    source 48
+    target 31
+    rank 18
+  ]
+  edge
+  [
+    source 49
+    target 28
+    rank 2
+  ]
+  edge
+  [
+    source 49
+    target 61
+    rank 6
+  ]
+  edge
+  [
+    source 49
+    target 265
+    rank 7
+  ]
+  edge
+  [
+    source 49
+    target 138
+    rank 9
+  ]
+  edge
+  [
+    source 49
+    target 1
+    rank 10
+  ]
+  edge
+  [
+    source 49
+    target 199
+    rank 13
+  ]
+  edge
+  [
+    source 49
+    target 16
+    rank 14
+  ]
+  edge
+  [
+    source 49
+    target 3
+    rank 16
+  ]
+  edge
+  [
+    source 49
+    target 0
+    rank 17
+  ]
+  edge
+  [
+    source 49
+    target 43
+    rank 19
+  ]
+  edge
+  [
+    source 49
+    target 70
+    rank 20
+  ]
+  edge
+  [
+    source 50
+    target 28
+    rank 3
+  ]
+  edge
+  [
+    source 50
+    target 45
+    rank 8
+  ]
+  edge
+  [
+    source 50
+    target 3
+    rank 9
+  ]
+  edge
+  [
+    source 50
+    target 199
+    rank 10
+  ]
+  edge
+  [
+    source 50
+    target 32
+    rank 13
+  ]
+  edge
+  [
+    source 50
+    target 42
+    rank 14
+  ]
+  edge
+  [
+    source 50
+    target 13
+    rank 17
+  ]
+  edge
+  [
+    source 50
+    target 1
+    rank 20
+  ]
+  edge
+  [
+    source 51
+    target 40
+    rank 4
+  ]
+  edge
+  [
+    source 51
+    target 64
+    rank 13
+  ]
+  edge
+  [
+    source 52
+    target 254
+    rank 1
+  ]
+  edge
+  [
+    source 52
+    target 13
+    rank 3
+  ]
+  edge
+  [
+    source 52
+    target 49
+    rank 9
+  ]
+  edge
+  [
+    source 52
+    target 16
+    rank 10
+  ]
+  edge
+  [
+    source 52
+    target 3
+    rank 12
+  ]
+  edge
+  [
+    source 52
+    target 61
+    rank 16
+  ]
+  edge
+  [
+    source 52
+    target 1
+    rank 17
+  ]
+  edge
+  [
+    source 52
+    target 42
+    rank 20
+  ]
+  edge
+  [
+    source 53
+    target 57
+    rank 1
+  ]
+  edge
+  [
+    source 53
+    target 0
+    rank 2
+  ]
+  edge
+  [
+    source 53
+    target 100
+    rank 3
+  ]
+  edge
+  [
+    source 53
+    target 12
+    rank 7
+  ]
+  edge
+  [
+    source 53
+    target 2
+    rank 8
+  ]
+  edge
+  [
+    source 53
+    target 1
+    rank 9
+  ]
+  edge
+  [
+    source 53
+    target 139
+    rank 12
+  ]
+  edge
+  [
+    source 53
+    target 49
+    rank 13
+  ]
+  edge
+  [
+    source 53
+    target 11
+    rank 15
+  ]
+  edge
+  [
+    source 53
+    target 89
+    rank 18
+  ]
+  edge
+  [
+    source 54
+    target 37
+    rank 1
+  ]
+  edge
+  [
+    source 54
+    target 6
+    rank 14
+  ]
+  edge
+  [
+    source 55
+    target 217
+    rank 1
+  ]
+  edge
+  [
+    source 55
+    target 91
+    rank 3
+  ]
+  edge
+  [
+    source 55
+    target 104
+    rank 9
+  ]
+  edge
+  [
+    source 55
+    target 6
+    rank 13
+  ]
+  edge
+  [
+    source 55
+    target 306
+    rank 14
+  ]
+  edge
+  [
+    source 56
+    target 12
+    rank 2
+  ]
+  edge
+  [
+    source 56
+    target 16
+    rank 4
+  ]
+  edge
+  [
+    source 56
+    target 2
+    rank 7
+  ]
+  edge
+  [
+    source 56
+    target 13
+    rank 10
+  ]
+  edge
+  [
+    source 56
+    target 6
+    rank 11
+  ]
+  edge
+  [
+    source 57
+    target 16
+    rank 1
+  ]
+  edge
+  [
+    source 57
+    target 15
+    rank 3
+  ]
+  edge
+  [
+    source 57
+    target 9
+    rank 4
+  ]
+  edge
+  [
+    source 57
+    target 27
+    rank 5
+  ]
+  edge
+  [
+    source 57
+    target 198
+    rank 6
+  ]
+  edge
+  [
+    source 57
+    target 101
+    rank 7
+  ]
+  edge
+  [
+    source 57
+    target 37
+    rank 8
+  ]
+  edge
+  [
+    source 57
+    target 19
+    rank 9
+  ]
+  edge
+  [
+    source 57
+    target 52
+    rank 10
+  ]
+  edge
+  [
+    source 57
+    target 32
+    rank 11
+  ]
+  edge
+  [
+    source 57
+    target 46
+    rank 14
+  ]
+  edge
+  [
+    source 58
+    target 0
+    rank 4
+  ]
+  edge
+  [
+    source 58
+    target 6
+    rank 10
+  ]
+  edge
+  [
+    source 58
+    target 70
+    rank 19
+  ]
+  edge
+  [
+    source 60
+    target 43
+    rank 3
+  ]
+  edge
+  [
+    source 60
+    target 6
+    rank 11
+  ]
+  edge
+  [
+    source 60
+    target 115
+    rank 16
+  ]
+  edge
+  [
+    source 60
+    target 26
+    rank 19
+  ]
+  edge
+  [
+    source 61
+    target 1
+    rank 1
+  ]
+  edge
+  [
+    source 61
+    target 56
+    rank 5
+  ]
+  edge
+  [
+    source 61
+    target 28
+    rank 8
+  ]
+  edge
+  [
+    source 61
+    target 18
+    rank 11
+  ]
+  edge
+  [
+    source 61
+    target 138
+    rank 12
+  ]
+  edge
+  [
+    source 61
+    target 3
+    rank 14
+  ]
+  edge
+  [
+    source 61
+    target 52
+    rank 16
+  ]
+  edge
+  [
+    source 61
+    target 95
+    rank 18
+  ]
+  edge
+  [
+    source 61
+    target 32
+    rank 19
+  ]
+  edge
+  [
+    source 61
+    target 254
+    rank 20
+  ]
+  edge
+  [
+    source 63
+    target 40
+    rank 1
+  ]
+  edge
+  [
+    source 63
+    target 76
+    rank 6
+  ]
+  edge
+  [
+    source 63
+    target 2
+    rank 12
+  ]
+  edge
+  [
+    source 64
+    target 76
+    rank 3
+  ]
+  edge
+  [
+    source 64
+    target 40
+    rank 7
+  ]
+  edge
+  [
+    source 64
+    target 63
+    rank 8
+  ]
+  edge
+  [
+    source 65
+    target 21
+    rank 13
+  ]
+  edge
+  [
+    source 65
+    target 6
+    rank 14
+  ]
+  edge
+  [
+    source 65
+    target 202
+    rank 19
+  ]
+  edge
+  [
+    source 66
+    target 9
+    rank 3
+  ]
+  edge
+  [
+    source 66
+    target 12
+    rank 4
+  ]
+  edge
+  [
+    source 66
+    target 31
+    rank 6
+  ]
+  edge
+  [
+    source 66
+    target 30
+    rank 9
+  ]
+  edge
+  [
+    source 66
+    target 8
+    rank 12
+  ]
+  edge
+  [
+    source 66
+    target 393
+    rank 13
+  ]
+  edge
+  [
+    source 66
+    target 4
+    rank 17
+  ]
+  edge
+  [
+    source 66
+    target 38
+    rank 19
+  ]
+  edge
+  [
+    source 66
+    target 5
+    rank 20
+  ]
+  edge
+  [
+    source 67
+    target 76
+    rank 10
+  ]
+  edge
+  [
+    source 67
+    target 4
+    rank 11
+  ]
+  edge
+  [
+    source 68
+    target 0
+    rank 4
+  ]
+  edge
+  [
+    source 68
+    target 96
+    rank 9
+  ]
+  edge
+  [
+    source 68
+    target 7
+    rank 10
+  ]
+  edge
+  [
+    source 68
+    target 3
+    rank 13
+  ]
+  edge
+  [
+    source 68
+    target 56
+    rank 17
+  ]
+  edge
+  [
+    source 68
+    target 49
+    rank 18
+  ]
+  edge
+  [
+    source 69
+    target 445
+    rank 5
+  ]
+  edge
+  [
+    source 69
+    target 169
+    rank 8
+  ]
+  edge
+  [
+    source 69
+    target 104
+    rank 13
+  ]
+  edge
+  [
+    source 69
+    target 411
+    rank 14
+  ]
+  edge
+  [
+    source 70
+    target 86
+    rank 13
+  ]
+  edge
+  [
+    source 72
+    target 2
+    rank 7
+  ]
+  edge
+  [
+    source 72
+    target 7
+    rank 8
+  ]
+  edge
+  [
+    source 72
+    target 47
+    rank 9
+  ]
+  edge
+  [
+    source 72
+    target 1
+    rank 12
+  ]
+  edge
+  [
+    source 72
+    target 5
+    rank 15
+  ]
+  edge
+  [
+    source 72
+    target 117
+    rank 16
+  ]
+  edge
+  [
+    source 72
+    target 138
+    rank 18
+  ]
+  edge
+  [
+    source 72
+    target 71
+    rank 20
+  ]
+  edge
+  [
+    source 73
+    target 50
+    rank 7
+  ]
+  edge
+  [
+    source 73
+    target 32
+    rank 9
+  ]
+  edge
+  [
+    source 73
+    target 249
+    rank 10
+  ]
+  edge
+  [
+    source 73
+    target 27
+    rank 13
+  ]
+  edge
+  [
+    source 73
+    target 61
+    rank 17
+  ]
+  edge
+  [
+    source 73
+    target 6
+    rank 18
+  ]
+  edge
+  [
+    source 73
+    target 202
+    rank 19
+  ]
+  edge
+  [
+    source 74
+    target 143
+    rank 6
+  ]
+  edge
+  [
+    source 74
+    target 235
+    rank 9
+  ]
+  edge
+  [
+    source 74
+    target 443
+    rank 16
+  ]
+  edge
+  [
+    source 74
+    target 174
+    rank 17
+  ]
+  edge
+  [
+    source 75
+    target 76
+    rank 1
+  ]
+  edge
+  [
+    source 75
+    target 64
+    rank 3
+  ]
+  edge
+  [
+    source 75
+    target 40
+    rank 8
+  ]
+  edge
+  [
+    source 75
+    target 63
+    rank 9
+  ]
+  edge
+  [
+    source 75
+    target 18
+    rank 17
+  ]
+  edge
+  [
+    source 76
+    target 64
+    rank 3
+  ]
+  edge
+  [
+    source 76
+    target 75
+    rank 16
+  ]
+  edge
+  [
+    source 76
+    target 491
+    rank 20
+  ]
+  edge
+  [
+    source 77
+    target 2
+    rank 14
+  ]
+  edge
+  [
+    source 78
+    target 2
+    rank 8
+  ]
+  edge
+  [
+    source 79
+    target 378
+    rank 4
+  ]
+  edge
+  [
+    source 79
+    target 2
+    rank 6
+  ]
+  edge
+  [
+    source 79
+    target 61
+    rank 17
+  ]
+  edge
+  [
+    source 80
+    target 31
+    rank 2
+  ]
+  edge
+  [
+    source 80
+    target 25
+    rank 3
+  ]
+  edge
+  [
+    source 80
+    target 2
+    rank 5
+  ]
+  edge
+  [
+    source 80
+    target 30
+    rank 7
+  ]
+  edge
+  [
+    source 80
+    target 133
+    rank 11
+  ]
+  edge
+  [
+    source 80
+    target 36
+    rank 12
+  ]
+  edge
+  [
+    source 80
+    target 104
+    rank 14
+  ]
+  edge
+  [
+    source 80
+    target 4
+    rank 15
+  ]
+  edge
+  [
+    source 80
+    target 470
+    rank 16
+  ]
+  edge
+  [
+    source 80
+    target 280
+    rank 17
+  ]
+  edge
+  [
+    source 80
+    target 299
+    rank 18
+  ]
+  edge
+  [
+    source 82
+    target 338
+    rank 5
+  ]
+  edge
+  [
+    source 82
+    target 198
+    rank 6
+  ]
+  edge
+  [
+    source 82
+    target 14
+    rank 9
+  ]
+  edge
+  [
+    source 82
+    target 430
+    rank 12
+  ]
+  edge
+  [
+    source 82
+    target 3
+    rank 13
+  ]
+  edge
+  [
+    source 82
+    target 26
+    rank 16
+  ]
+  edge
+  [
+    source 82
+    target 394
+    rank 17
+  ]
+  edge
+  [
+    source 83
+    target 43
+    rank 5
+  ]
+  edge
+  [
+    source 83
+    target 2
+    rank 15
+  ]
+  edge
+  [
+    source 83
+    target 1
+    rank 16
+  ]
+  edge
+  [
+    source 84
+    target 254
+    rank 1
+  ]
+  edge
+  [
+    source 84
+    target 23
+    rank 2
+  ]
+  edge
+  [
+    source 84
+    target 52
+    rank 3
+  ]
+  edge
+  [
+    source 84
+    target 3
+    rank 7
+  ]
+  edge
+  [
+    source 84
+    target 0
+    rank 9
+  ]
+  edge
+  [
+    source 84
+    target 17
+    rank 10
+  ]
+  edge
+  [
+    source 84
+    target 49
+    rank 11
+  ]
+  edge
+  [
+    source 84
+    target 61
+    rank 12
+  ]
+  edge
+  [
+    source 84
+    target 138
+    rank 14
+  ]
+  edge
+  [
+    source 84
+    target 42
+    rank 16
+  ]
+  edge
+  [
+    source 85
+    target 9
+    rank 1
+  ]
+  edge
+  [
+    source 85
+    target 40
+    rank 4
+  ]
+  edge
+  [
+    source 85
+    target 70
+    rank 5
+  ]
+  edge
+  [
+    source 85
+    target 6
+    rank 8
+  ]
+  edge
+  [
+    source 85
+    target 95
+    rank 12
+  ]
+  edge
+  [
+    source 86
+    target 101
+    rank 6
+  ]
+  edge
+  [
+    source 86
+    target 491
+    rank 7
+  ]
+  edge
+  [
+    source 87
+    target 4
+    rank 7
+  ]
+  edge
+  [
+    source 88
+    target 19
+    rank 1
+  ]
+  edge
+  [
+    source 88
+    target 56
+    rank 2
+  ]
+  edge
+  [
+    source 88
+    target 13
+    rank 5
+  ]
+  edge
+  [
+    source 88
+    target 1
+    rank 11
+  ]
+  edge
+  [
+    source 88
+    target 70
+    rank 12
+  ]
+  edge
+  [
+    source 88
+    target 57
+    rank 16
+  ]
+  edge
+  [
+    source 88
+    target 198
+    rank 18
+  ]
+  edge
+  [
+    source 88
+    target 4
+    rank 20
+  ]
+  edge
+  [
+    source 89
+    target 42
+    rank 4
+  ]
+  edge
+  [
+    source 89
+    target 0
+    rank 6
+  ]
+  edge
+  [
+    source 89
+    target 2
+    rank 7
+  ]
+  edge
+  [
+    source 90
+    target 457
+    rank 2
+  ]
+  edge
+  [
+    source 90
+    target 104
+    rank 4
+  ]
+  edge
+  [
+    source 90
+    target 405
+    rank 9
+  ]
+  edge
+  [
+    source 90
+    target 298
+    rank 10
+  ]
+  edge
+  [
+    source 90
+    target 305
+    rank 13
+  ]
+  edge
+  [
+    source 91
+    target 42
+    rank 6
+  ]
+  edge
+  [
+    source 91
+    target 1
+    rank 11
+  ]
+  edge
+  [
+    source 91
+    target 13
+    rank 12
+  ]
+  edge
+  [
+    source 91
+    target 49
+    rank 14
+  ]
+  edge
+  [
+    source 91
+    target 43
+    rank 15
+  ]
+  edge
+  [
+    source 92
+    target 138
+    rank 1
+  ]
+  edge
+  [
+    source 92
+    target 152
+    rank 2
+  ]
+  edge
+  [
+    source 92
+    target 2
+    rank 8
+  ]
+  edge
+  [
+    source 92
+    target 3
+    rank 10
+  ]
+  edge
+  [
+    source 92
+    target 61
+    rank 13
+  ]
+  edge
+  [
+    source 93
+    target 13
+    rank 4
+  ]
+  edge
+  [
+    source 93
+    target 15
+    rank 17
+  ]
+  edge
+  [
+    source 94
+    target 16
+    rank 1
+  ]
+  edge
+  [
+    source 94
+    target 46
+    rank 8
+  ]
+  edge
+  [
+    source 94
+    target 1
+    rank 13
+  ]
+  edge
+  [
+    source 95
+    target 13
+    rank 1
+  ]
+  edge
+  [
+    source 95
+    target 19
+    rank 10
+  ]
+  edge
+  [
+    source 95
+    target 6
+    rank 12
+  ]
+  edge
+  [
+    source 95
+    target 43
+    rank 15
+  ]
+  edge
+  [
+    source 95
+    target 138
+    rank 16
+  ]
+  edge
+  [
+    source 96
+    target 32
+    rank 2
+  ]
+  edge
+  [
+    source 96
+    target 16
+    rank 4
+  ]
+  edge
+  [
+    source 96
+    target 9
+    rank 17
+  ]
+  edge
+  [
+    source 96
+    target 199
+    rank 18
+  ]
+  edge
+  [
+    source 97
+    target 26
+    rank 2
+  ]
+  edge
+  [
+    source 97
+    target 46
+    rank 3
+  ]
+  edge
+  [
+    source 97
+    target 466
+    rank 7
+  ]
+  edge
+  [
+    source 97
+    target 28
+    rank 9
+  ]
+  edge
+  [
+    source 97
+    target 6
+    rank 10
+  ]
+  edge
+  [
+    source 97
+    target 155
+    rank 13
+  ]
+  edge
+  [
+    source 97
+    target 290
+    rank 19
+  ]
+  edge
+  [
+    source 98
+    target 30
+    rank 1
+  ]
+  edge
+  [
+    source 98
+    target 16
+    rank 4
+  ]
+  edge
+  [
+    source 98
+    target 0
+    rank 5
+  ]
+  edge
+  [
+    source 98
+    target 149
+    rank 6
+  ]
+  edge
+  [
+    source 98
+    target 3
+    rank 7
+  ]
+  edge
+  [
+    source 98
+    target 5
+    rank 9
+  ]
+  edge
+  [
+    source 98
+    target 89
+    rank 13
+  ]
+  edge
+  [
+    source 98
+    target 19
+    rank 14
+  ]
+  edge
+  [
+    source 98
+    target 20
+    rank 17
+  ]
+  edge
+  [
+    source 98
+    target 22
+    rank 19
+  ]
+  edge
+  [
+    source 99
+    target 0
+    rank 3
+  ]
+  edge
+  [
+    source 99
+    target 53
+    rank 6
+  ]
+  edge
+  [
+    source 100
+    target 2
+    rank 7
+  ]
+  edge
+  [
+    source 100
+    target 62
+    rank 14
+  ]
+  edge
+  [
+    source 101
+    target 155
+    rank 5
+  ]
+  edge
+  [
+    source 101
+    target 14
+    rank 13
+  ]
+  edge
+  [
+    source 102
+    target 559
+    rank 8
+  ]
+  edge
+  [
+    source 103
+    target 2
+    rank 4
+  ]
+  edge
+  [
+    source 103
+    target 31
+    rank 7
+  ]
+  edge
+  [
+    source 103
+    target 327
+    rank 8
+  ]
+  edge
+  [
+    source 103
+    target 45
+    rank 11
+  ]
+  edge
+  [
+    source 103
+    target 8
+    rank 12
+  ]
+  edge
+  [
+    source 103
+    target 5
+    rank 15
+  ]
+  edge
+  [
+    source 103
+    target 10
+    rank 16
+  ]
+  edge
+  [
+    source 103
+    target 30
+    rank 18
+  ]
+  edge
+  [
+    source 103
+    target 4
+    rank 20
+  ]
+  edge
+  [
+    source 104
+    target 457
+    rank 1
+  ]
+  edge
+  [
+    source 104
+    target 30
+    rank 7
+  ]
+  edge
+  [
+    source 104
+    target 22
+    rank 10
+  ]
+  edge
+  [
+    source 104
+    target 449
+    rank 13
+  ]
+  edge
+  [
+    source 104
+    target 355
+    rank 20
+  ]
+  edge
+  [
+    source 105
+    target 29
+    rank 7
+  ]
+  edge
+  [
+    source 105
+    target 264
+    rank 14
+  ]
+  edge
+  [
+    source 106
+    target 63
+    rank 3
+  ]
+  edge
+  [
+    source 106
+    target 76
+    rank 6
+  ]
+  edge
+  [
+    source 106
+    target 3
+    rank 7
+  ]
+  edge
+  [
+    source 106
+    target 40
+    rank 8
+  ]
+  edge
+  [
+    source 106
+    target 95
+    rank 10
+  ]
+  edge
+  [
+    source 106
+    target 123
+    rank 14
+  ]
+  edge
+  [
+    source 107
+    target 241
+    rank 10
+  ]
+  edge
+  [
+    source 108
+    target 95
+    rank 20
+  ]
+  edge
+  [
+    source 109
+    target 355
+    rank 5
+  ]
+  edge
+  [
+    source 109
+    target 327
+    rank 7
+  ]
+  edge
+  [
+    source 109
+    target 470
+    rank 8
+  ]
+  edge
+  [
+    source 109
+    target 31
+    rank 9
+  ]
+  edge
+  [
+    source 109
+    target 335
+    rank 11
+  ]
+  edge
+  [
+    source 109
+    target 8
+    rank 13
+  ]
+  edge
+  [
+    source 109
+    target 457
+    rank 14
+  ]
+  edge
+  [
+    source 109
+    target 30
+    rank 15
+  ]
+  edge
+  [
+    source 109
+    target 20
+    rank 16
+  ]
+  edge
+  [
+    source 110
+    target 217
+    rank 10
+  ]
+  edge
+  [
+    source 110
+    target 275
+    rank 20
+  ]
+  edge
+  [
+    source 111
+    target 411
+    rank 1
+  ]
+  edge
+  [
+    source 111
+    target 95
+    rank 4
+  ]
+  edge
+  [
+    source 111
+    target 451
+    rank 6
+  ]
+  edge
+  [
+    source 111
+    target 327
+    rank 7
+  ]
+  edge
+  [
+    source 111
+    target 104
+    rank 13
+  ]
+  edge
+  [
+    source 111
+    target 181
+    rank 15
+  ]
+  edge
+  [
+    source 111
+    target 405
+    rank 17
+  ]
+  edge
+  [
+    source 111
+    target 423
+    rank 19
+  ]
+  edge
+  [
+    source 112
+    target 3
+    rank 3
+  ]
+  edge
+  [
+    source 112
+    target 105
+    rank 6
+  ]
+  edge
+  [
+    source 112
+    target 31
+    rank 7
+  ]
+  edge
+  [
+    source 112
+    target 305
+    rank 9
+  ]
+  edge
+  [
+    source 112
+    target 20
+    rank 10
+  ]
+  edge
+  [
+    source 112
+    target 409
+    rank 15
+  ]
+  edge
+  [
+    source 112
+    target 11
+    rank 17
+  ]
+  edge
+  [
+    source 112
+    target 4
+    rank 20
+  ]
+  edge
+  [
+    source 114
+    target 26
+    rank 4
+  ]
+  edge
+  [
+    source 114
+    target 0
+    rank 11
+  ]
+  edge
+  [
+    source 114
+    target 200
+    rank 16
+  ]
+  edge
+  [
+    source 114
+    target 88
+    rank 17
+  ]
+  edge
+  [
+    source 115
+    target 457
+    rank 2
+  ]
+  edge
+  [
+    source 115
+    target 470
+    rank 3
+  ]
+  edge
+  [
+    source 115
+    target 335
+    rank 7
+  ]
+  edge
+  [
+    source 115
+    target 322
+    rank 12
+  ]
+  edge
+  [
+    source 115
+    target 31
+    rank 18
+  ]
+  edge
+  [
+    source 116
+    target 42
+    rank 1
+  ]
+  edge
+  [
+    source 116
+    target 237
+    rank 4
+  ]
+  edge
+  [
+    source 116
+    target 2
+    rank 6
+  ]
+  edge
+  [
+    source 116
+    target 5
+    rank 8
+  ]
+  edge
+  [
+    source 116
+    target 175
+    rank 9
+  ]
+  edge
+  [
+    source 116
+    target 8
+    rank 11
+  ]
+  edge
+  [
+    source 116
+    target 430
+    rank 12
+  ]
+  edge
+  [
+    source 116
+    target 20
+    rank 19
+  ]
+  edge
+  [
+    source 117
+    target 56
+    rank 6
+  ]
+  edge
+  [
+    source 117
+    target 138
+    rank 12
+  ]
+  edge
+  [
+    source 117
+    target 72
+    rank 14
+  ]
+  edge
+  [
+    source 117
+    target 13
+    rank 19
+  ]
+  edge
+  [
+    source 119
+    target 3
+    rank 2
+  ]
+  edge
+  [
+    source 119
+    target 0
+    rank 4
+  ]
+  edge
+  [
+    source 119
+    target 61
+    rank 5
+  ]
+  edge
+  [
+    source 119
+    target 2
+    rank 6
+  ]
+  edge
+  [
+    source 119
+    target 1
+    rank 7
+  ]
+  edge
+  [
+    source 119
+    target 138
+    rank 8
+  ]
+  edge
+  [
+    source 119
+    target 42
+    rank 10
+  ]
+  edge
+  [
+    source 119
+    target 28
+    rank 12
+  ]
+  edge
+  [
+    source 119
+    target 16
+    rank 17
+  ]
+  edge
+  [
+    source 119
+    target 49
+    rank 18
+  ]
+  edge
+  [
+    source 121
+    target 76
+    rank 4
+  ]
+  edge
+  [
+    source 121
+    target 3
+    rank 6
+  ]
+  edge
+  [
+    source 121
+    target 21
+    rank 15
+  ]
+  edge
+  [
+    source 121
+    target 12
+    rank 16
+  ]
+  edge
+  [
+    source 121
+    target 13
+    rank 19
+  ]
+  edge
+  [
+    source 122
+    target 470
+    rank 4
+  ]
+  edge
+  [
+    source 122
+    target 169
+    rank 5
+  ]
+  edge
+  [
+    source 122
+    target 335
+    rank 7
+  ]
+  edge
+  [
+    source 122
+    target 31
+    rank 10
+  ]
+  edge
+  [
+    source 122
+    target 115
+    rank 11
+  ]
+  edge
+  [
+    source 122
+    target 305
+    rank 14
+  ]
+  edge
+  [
+    source 122
+    target 36
+    rank 15
+  ]
+  edge
+  [
+    source 122
+    target 45
+    rank 16
+  ]
+  edge
+  [
+    source 122
+    target 314
+    rank 17
+  ]
+  edge
+  [
+    source 123
+    target 1
+    rank 8
+  ]
+  edge
+  [
+    source 125
+    target 52
+    rank 1
+  ]
+  edge
+  [
+    source 125
+    target 15
+    rank 5
+  ]
+  edge
+  [
+    source 125
+    target 49
+    rank 8
+  ]
+  edge
+  [
+    source 125
+    target 1
+    rank 9
+  ]
+  edge
+  [
+    source 125
+    target 84
+    rank 11
+  ]
+  edge
+  [
+    source 125
+    target 16
+    rank 14
+  ]
+  edge
+  [
+    source 126
+    target 91
+    rank 4
+  ]
+  edge
+  [
+    source 126
+    target 3
+    rank 6
+  ]
+  edge
+  [
+    source 126
+    target 46
+    rank 14
+  ]
+  edge
+  [
+    source 126
+    target 61
+    rank 18
+  ]
+  edge
+  [
+    source 127
+    target 133
+    rank 1
+  ]
+  edge
+  [
+    source 127
+    target 2
+    rank 15
+  ]
+  edge
+  [
+    source 128
+    target 249
+    rank 1
+  ]
+  edge
+  [
+    source 128
+    target 57
+    rank 2
+  ]
+  edge
+  [
+    source 128
+    target 198
+    rank 5
+  ]
+  edge
+  [
+    source 128
+    target 27
+    rank 6
+  ]
+  edge
+  [
+    source 128
+    target 19
+    rank 8
+  ]
+  edge
+  [
+    source 128
+    target 88
+    rank 17
+  ]
+  edge
+  [
+    source 128
+    target 361
+    rank 20
+  ]
+  edge
+  [
+    source 129
+    target 11
+    rank 1
+  ]
+  edge
+  [
+    source 129
+    target 42
+    rank 14
+  ]
+  edge
+  [
+    source 130
+    target 23
+    rank 2
+  ]
+  edge
+  [
+    source 130
+    target 52
+    rank 3
+  ]
+  edge
+  [
+    source 130
+    target 3
+    rank 10
+  ]
+  edge
+  [
+    source 130
+    target 1
+    rank 11
+  ]
+  edge
+  [
+    source 130
+    target 6
+    rank 14
+  ]
+  edge
+  [
+    source 130
+    target 138
+    rank 16
+  ]
+  edge
+  [
+    source 130
+    target 49
+    rank 17
+  ]
+  edge
+  [
+    source 130
+    target 265
+    rank 20
+  ]
+  edge
+  [
+    source 131
+    target 27
+    rank 3
+  ]
+  edge
+  [
+    source 131
+    target 42
+    rank 18
+  ]
+  edge
+  [
+    source 131
+    target 241
+    rank 19
+  ]
+  edge
+  [
+    source 132
+    target 62
+    rank 4
+  ]
+  edge
+  [
+    source 133
+    target 319
+    rank 1
+  ]
+  edge
+  [
+    source 133
+    target 2
+    rank 5
+  ]
+  edge
+  [
+    source 133
+    target 457
+    rank 7
+  ]
+  edge
+  [
+    source 133
+    target 470
+    rank 8
+  ]
+  edge
+  [
+    source 133
+    target 335
+    rank 10
+  ]
+  edge
+  [
+    source 133
+    target 251
+    rank 12
+  ]
+  edge
+  [
+    source 133
+    target 298
+    rank 17
+  ]
+  edge
+  [
+    source 134
+    target 470
+    rank 5
+  ]
+  edge
+  [
+    source 134
+    target 393
+    rank 8
+  ]
+  edge
+  [
+    source 134
+    target 8
+    rank 9
+  ]
+  edge
+  [
+    source 134
+    target 210
+    rank 11
+  ]
+  edge
+  [
+    source 134
+    target 457
+    rank 15
+  ]
+  edge
+  [
+    source 134
+    target 4
+    rank 16
+  ]
+  edge
+  [
+    source 134
+    target 20
+    rank 17
+  ]
+  edge
+  [
+    source 134
+    target 280
+    rank 18
+  ]
+  edge
+  [
+    source 135
+    target 139
+    rank 2
+  ]
+  edge
+  [
+    source 135
+    target 219
+    rank 19
+  ]
+  edge
+  [
+    source 136
+    target 63
+    rank 6
+  ]
+  edge
+  [
+    source 136
+    target 129
+    rank 12
+  ]
+  edge
+  [
+    source 136
+    target 40
+    rank 18
+  ]
+  edge
+  [
+    source 137
+    target 12
+    rank 4
+  ]
+  edge
+  [
+    source 137
+    target 11
+    rank 10
+  ]
+  edge
+  [
+    source 137
+    target 318
+    rank 12
+  ]
+  edge
+  [
+    source 137
+    target 10
+    rank 19
+  ]
+  edge
+  [
+    source 138
+    target 47
+    rank 2
+  ]
+  edge
+  [
+    source 138
+    target 198
+    rank 6
+  ]
+  edge
+  [
+    source 138
+    target 254
+    rank 7
+  ]
+  edge
+  [
+    source 138
+    target 1
+    rank 8
+  ]
+  edge
+  [
+    source 138
+    target 95
+    rank 10
+  ]
+  edge
+  [
+    source 138
+    target 2
+    rank 11
+  ]
+  edge
+  [
+    source 138
+    target 56
+    rank 15
+  ]
+  edge
+  [
+    source 138
+    target 6
+    rank 18
+  ]
+  edge
+  [
+    source 138
+    target 13
+    rank 20
+  ]
+  edge
+  [
+    source 139
+    target 43
+    rank 3
+  ]
+  edge
+  [
+    source 139
+    target 15
+    rank 6
+  ]
+  edge
+  [
+    source 139
+    target 2
+    rank 7
+  ]
+  edge
+  [
+    source 139
+    target 6
+    rank 9
+  ]
+  edge
+  [
+    source 139
+    target 241
+    rank 20
+  ]
+  edge
+  [
+    source 140
+    target 93
+    rank 12
+  ]
+  edge
+  [
+    source 141
+    target 2
+    rank 5
+  ]
+  edge
+  [
+    source 141
+    target 26
+    rank 6
+  ]
+  edge
+  [
+    source 141
+    target 42
+    rank 8
+  ]
+  edge
+  [
+    source 141
+    target 82
+    rank 14
+  ]
+  edge
+  [
+    source 141
+    target 270
+    rank 15
+  ]
+  edge
+  [
+    source 142
+    target 6
+    rank 5
+  ]
+  edge
+  [
+    source 142
+    target 179
+    rank 7
+  ]
+  edge
+  [
+    source 142
+    target 466
+    rank 8
+  ]
+  edge
+  [
+    source 142
+    target 157
+    rank 9
+  ]
+  edge
+  [
+    source 142
+    target 2
+    rank 10
+  ]
+  edge
+  [
+    source 142
+    target 430
+    rank 13
+  ]
+  edge
+  [
+    source 143
+    target 327
+    rank 3
+  ]
+  edge
+  [
+    source 143
+    target 30
+    rank 4
+  ]
+  edge
+  [
+    source 143
+    target 470
+    rank 5
+  ]
+  edge
+  [
+    source 143
+    target 457
+    rank 6
+  ]
+  edge
+  [
+    source 143
+    target 335
+    rank 8
+  ]
+  edge
+  [
+    source 143
+    target 322
+    rank 16
+  ]
+  edge
+  [
+    source 143
+    target 4
+    rank 20
+  ]
+  edge
+  [
+    source 144
+    target 138
+    rank 4
+  ]
+  edge
+  [
+    source 144
+    target 155
+    rank 13
+  ]
+  edge
+  [
+    source 144
+    target 28
+    rank 19
+  ]
+  edge
+  [
+    source 145
+    target 219
+    rank 9
+  ]
+  edge
+  [
+    source 146
+    target 43
+    rank 5
+  ]
+  edge
+  [
+    source 146
+    target 326
+    rank 13
+  ]
+  edge
+  [
+    source 147
+    target 470
+    rank 1
+  ]
+  edge
+  [
+    source 147
+    target 457
+    rank 7
+  ]
+  edge
+  [
+    source 147
+    target 335
+    rank 9
+  ]
+  edge
+  [
+    source 147
+    target 305
+    rank 11
+  ]
+  edge
+  [
+    source 147
+    target 30
+    rank 12
+  ]
+  edge
+  [
+    source 147
+    target 5
+    rank 13
+  ]
+  edge
+  [
+    source 147
+    target 8
+    rank 14
+  ]
+  edge
+  [
+    source 147
+    target 20
+    rank 17
+  ]
+  edge
+  [
+    source 147
+    target 393
+    rank 20
+  ]
+  edge
+  [
+    source 148
+    target 394
+    rank 7
+  ]
+  edge
+  [
+    source 148
+    target 65
+    rank 8
+  ]
+  edge
+  [
+    source 148
+    target 38
+    rank 9
+  ]
+  edge
+  [
+    source 149
+    target 15
+    rank 5
+  ]
+  edge
+  [
+    source 149
+    target 2
+    rank 7
+  ]
+  edge
+  [
+    source 149
+    target 11
+    rank 8
+  ]
+  edge
+  [
+    source 150
+    target 26
+    rank 2
+  ]
+  edge
+  [
+    source 150
+    target 1
+    rank 10
+  ]
+  edge
+  [
+    source 150
+    target 115
+    rank 17
+  ]
+  edge
+  [
+    source 151
+    target 200
+    rank 1
+  ]
+  edge
+  [
+    source 151
+    target 3
+    rank 6
+  ]
+  edge
+  [
+    source 151
+    target 129
+    rank 18
+  ]
+  edge
+  [
+    source 152
+    target 15
+    rank 2
+  ]
+  edge
+  [
+    source 152
+    target 61
+    rank 3
+  ]
+  edge
+  [
+    source 152
+    target 49
+    rank 6
+  ]
+  edge
+  [
+    source 152
+    target 3
+    rank 10
+  ]
+  edge
+  [
+    source 152
+    target 14
+    rank 16
+  ]
+  edge
+  [
+    source 153
+    target 37
+    rank 5
+  ]
+  edge
+  [
+    source 153
+    target 13
+    rank 13
+  ]
+  edge
+  [
+    source 154
+    target 40
+    rank 2
+  ]
+  edge
+  [
+    source 154
+    target 155
+    rank 6
+  ]
+  edge
+  [
+    source 156
+    target 17
+    rank 5
+  ]
+  edge
+  [
+    source 156
+    target 473
+    rank 10
+  ]
+  edge
+  [
+    source 156
+    target 26
+    rank 14
+  ]
+  edge
+  [
+    source 157
+    target 417
+    rank 1
+  ]
+  edge
+  [
+    source 157
+    target 394
+    rank 13
+  ]
+  edge
+  [
+    source 159
+    target 17
+    rank 3
+  ]
+  edge
+  [
+    source 160
+    target 12
+    rank 3
+  ]
+  edge
+  [
+    source 162
+    target 175
+    rank 2
+  ]
+  edge
+  [
+    source 162
+    target 14
+    rank 5
+  ]
+  edge
+  [
+    source 162
+    target 6
+    rank 14
+  ]
+  edge
+  [
+    source 163
+    target 169
+    rank 4
+  ]
+  edge
+  [
+    source 163
+    target 559
+    rank 8
+  ]
+  edge
+  [
+    source 163
+    target 453
+    rank 10
+  ]
+  edge
+  [
+    source 163
+    target 367
+    rank 12
+  ]
+  edge
+  [
+    source 163
+    target 461
+    rank 19
+  ]
+  edge
+  [
+    source 164
+    target 16
+    rank 1
+  ]
+  edge
+  [
+    source 164
+    target 210
+    rank 11
+  ]
+  edge
+  [
+    source 164
+    target 202
+    rank 15
+  ]
+  edge
+  [
+    source 164
+    target 265
+    rank 17
+  ]
+  edge
+  [
+    source 164
+    target 6
+    rank 20
+  ]
+  edge
+  [
+    source 165
+    target 559
+    rank 1
+  ]
+  edge
+  [
+    source 165
+    target 461
+    rank 10
+  ]
+  edge
+  [
+    source 165
+    target 71
+    rank 11
+  ]
+  edge
+  [
+    source 165
+    target 367
+    rank 14
+  ]
+  edge
+  [
+    source 165
+    target 181
+    rank 16
+  ]
+  edge
+  [
+    source 166
+    target 3
+    rank 1
+  ]
+  edge
+  [
+    source 166
+    target 101
+    rank 12
+  ]
+  edge
+  [
+    source 166
+    target 17
+    rank 14
+  ]
+  edge
+  [
+    source 166
+    target 428
+    rank 20
+  ]
+  edge
+  [
+    source 167
+    target 169
+    rank 3
+  ]
+  edge
+  [
+    source 167
+    target 4
+    rank 4
+  ]
+  edge
+  [
+    source 167
+    target 413
+    rank 5
+  ]
+  edge
+  [
+    source 167
+    target 335
+    rank 10
+  ]
+  edge
+  [
+    source 167
+    target 457
+    rank 16
+  ]
+  edge
+  [
+    source 167
+    target 31
+    rank 17
+  ]
+  edge
+  [
+    source 167
+    target 30
+    rank 19
+  ]
+  edge
+  [
+    source 168
+    target 82
+    rank 2
+  ]
+  edge
+  [
+    source 168
+    target 1
+    rank 4
+  ]
+  edge
+  [
+    source 168
+    target 430
+    rank 17
+  ]
+  edge
+  [
+    source 168
+    target 305
+    rank 18
+  ]
+  edge
+  [
+    source 169
+    target 327
+    rank 3
+  ]
+  edge
+  [
+    source 169
+    target 298
+    rank 12
+  ]
+  edge
+  [
+    source 169
+    target 409
+    rank 16
+  ]
+  edge
+  [
+    source 169
+    target 322
+    rank 18
+  ]
+  edge
+  [
+    source 170
+    target 411
+    rank 15
+  ]
+  edge
+  [
+    source 171
+    target 143
+    rank 8
+  ]
+  edge
+  [
+    source 171
+    target 35
+    rank 10
+  ]
+  edge
+  [
+    source 171
+    target 45
+    rank 11
+  ]
+  edge
+  [
+    source 171
+    target 7
+    rank 12
+  ]
+  edge
+  [
+    source 171
+    target 8
+    rank 15
+  ]
+  edge
+  [
+    source 171
+    target 36
+    rank 17
+  ]
+  edge
+  [
+    source 171
+    target 10
+    rank 18
+  ]
+  edge
+  [
+    source 171
+    target 56
+    rank 20
+  ]
+  edge
+  [
+    source 172
+    target 327
+    rank 4
+  ]
+  edge
+  [
+    source 172
+    target 470
+    rank 5
+  ]
+  edge
+  [
+    source 172
+    target 31
+    rank 7
+  ]
+  edge
+  [
+    source 172
+    target 457
+    rank 8
+  ]
+  edge
+  [
+    source 172
+    target 335
+    rank 9
+  ]
+  edge
+  [
+    source 172
+    target 45
+    rank 14
+  ]
+  edge
+  [
+    source 172
+    target 36
+    rank 15
+  ]
+  edge
+  [
+    source 172
+    target 4
+    rank 17
+  ]
+  edge
+  [
+    source 172
+    target 8
+    rank 18
+  ]
+  edge
+  [
+    source 172
+    target 30
+    rank 20
+  ]
+  edge
+  [
+    source 173
+    target 472
+    rank 17
+  ]
+  edge
+  [
+    source 173
+    target 41
+    rank 20
+  ]
+  edge
+  [
+    source 174
+    target 16
+    rank 1
+  ]
+  edge
+  [
+    source 174
+    target 6
+    rank 3
+  ]
+  edge
+  [
+    source 174
+    target 96
+    rank 4
+  ]
+  edge
+  [
+    source 174
+    target 19
+    rank 9
+  ]
+  edge
+  [
+    source 174
+    target 27
+    rank 15
+  ]
+  edge
+  [
+    source 174
+    target 9
+    rank 16
+  ]
+  edge
+  [
+    source 174
+    target 13
+    rank 17
+  ]
+  edge
+  [
+    source 174
+    target 202
+    rank 18
+  ]
+  edge
+  [
+    source 174
+    target 1
+    rank 20
+  ]
+  edge
+  [
+    source 175
+    target 155
+    rank 2
+  ]
+  edge
+  [
+    source 175
+    target 70
+    rank 6
+  ]
+  edge
+  [
+    source 175
+    target 3
+    rank 11
+  ]
+  edge
+  [
+    source 176
+    target 15
+    rank 2
+  ]
+  edge
+  [
+    source 176
+    target 1
+    rank 3
+  ]
+  edge
+  [
+    source 176
+    target 241
+    rank 6
+  ]
+  edge
+  [
+    source 176
+    target 43
+    rank 7
+  ]
+  edge
+  [
+    source 176
+    target 503
+    rank 12
+  ]
+  edge
+  [
+    source 176
+    target 0
+    rank 15
+  ]
+  edge
+  [
+    source 176
+    target 19
+    rank 16
+  ]
+  edge
+  [
+    source 176
+    target 78
+    rank 18
+  ]
+  edge
+  [
+    source 177
+    target 31
+    rank 4
+  ]
+  edge
+  [
+    source 177
+    target 327
+    rank 7
+  ]
+  edge
+  [
+    source 177
+    target 251
+    rank 9
+  ]
+  edge
+  [
+    source 177
+    target 30
+    rank 10
+  ]
+  edge
+  [
+    source 177
+    target 470
+    rank 11
+  ]
+  edge
+  [
+    source 177
+    target 20
+    rank 12
+  ]
+  edge
+  [
+    source 177
+    target 8
+    rank 13
+  ]
+  edge
+  [
+    source 177
+    target 45
+    rank 15
+  ]
+  edge
+  [
+    source 177
+    target 4
+    rank 17
+  ]
+  edge
+  [
+    source 178
+    target 15
+    rank 2
+  ]
+  edge
+  [
+    source 178
+    target 95
+    rank 8
+  ]
+  edge
+  [
+    source 178
+    target 12
+    rank 10
+  ]
+  edge
+  [
+    source 178
+    target 24
+    rank 11
+  ]
+  edge
+  [
+    source 179
+    target 315
+    rank 1
+  ]
+  edge
+  [
+    source 179
+    target 417
+    rank 9
+  ]
+  edge
+  [
+    source 179
+    target 287
+    rank 10
+  ]
+  edge
+  [
+    source 179
+    target 157
+    rank 11
+  ]
+  edge
+  [
+    source 179
+    target 229
+    rank 14
+  ]
+  edge
+  [
+    source 179
+    target 230
+    rank 19
+  ]
+  edge
+  [
+    source 180
+    target 2
+    rank 3
+  ]
+  edge
+  [
+    source 180
+    target 411
+    rank 11
+  ]
+  edge
+  [
+    source 180
+    target 430
+    rank 12
+  ]
+  edge
+  [
+    source 180
+    target 14
+    rank 13
+  ]
+  edge
+  [
+    source 180
+    target 104
+    rank 16
+  ]
+  edge
+  [
+    source 180
+    target 12
+    rank 18
+  ]
+  edge
+  [
+    source 181
+    target 327
+    rank 4
+  ]
+  edge
+  [
+    source 181
+    target 335
+    rank 6
+  ]
+  edge
+  [
+    source 181
+    target 30
+    rank 9
+  ]
+  edge
+  [
+    source 181
+    target 457
+    rank 13
+  ]
+  edge
+  [
+    source 181
+    target 470
+    rank 14
+  ]
+  edge
+  [
+    source 181
+    target 210
+    rank 17
+  ]
+  edge
+  [
+    source 181
+    target 4
+    rank 18
+  ]
+  edge
+  [
+    source 181
+    target 8
+    rank 20
+  ]
+  edge
+  [
+    source 182
+    target 249
+    rank 8
+  ]
+  edge
+  [
+    source 182
+    target 88
+    rank 10
+  ]
+  edge
+  [
+    source 182
+    target 19
+    rank 16
+  ]
+  edge
+  [
+    source 183
+    target 239
+    rank 8
+  ]
+  edge
+  [
+    source 183
+    target 42
+    rank 12
+  ]
+  edge
+  [
+    source 183
+    target 11
+    rank 16
+  ]
+  edge
+  [
+    source 183
+    target 91
+    rank 18
+  ]
+  edge
+  [
+    source 183
+    target 104
+    rank 20
+  ]
+  edge
+  [
+    source 184
+    target 233
+    rank 2
+  ]
+  edge
+  [
+    source 184
+    target 16
+    rank 3
+  ]
+  edge
+  [
+    source 184
+    target 91
+    rank 4
+  ]
+  edge
+  [
+    source 184
+    target 6
+    rank 7
+  ]
+  edge
+  [
+    source 184
+    target 202
+    rank 8
+  ]
+  edge
+  [
+    source 184
+    target 138
+    rank 9
+  ]
+  edge
+  [
+    source 184
+    target 174
+    rank 13
+  ]
+  edge
+  [
+    source 184
+    target 265
+    rank 14
+  ]
+  edge
+  [
+    source 184
+    target 89
+    rank 17
+  ]
+  edge
+  [
+    source 185
+    target 5
+    rank 2
+  ]
+  edge
+  [
+    source 185
+    target 470
+    rank 5
+  ]
+  edge
+  [
+    source 185
+    target 457
+    rank 6
+  ]
+  edge
+  [
+    source 185
+    target 335
+    rank 9
+  ]
+  edge
+  [
+    source 185
+    target 322
+    rank 18
+  ]
+  edge
+  [
+    source 186
+    target 75
+    rank 1
+  ]
+  edge
+  [
+    source 187
+    target 247
+    rank 1
+  ]
+  edge
+  [
+    source 187
+    target 326
+    rank 16
+  ]
+  edge
+  [
+    source 187
+    target 399
+    rank 17
+  ]
+  edge
+  [
+    source 188
+    target 3
+    rank 1
+  ]
+  edge
+  [
+    source 188
+    target 15
+    rank 2
+  ]
+  edge
+  [
+    source 188
+    target 254
+    rank 3
+  ]
+  edge
+  [
+    source 188
+    target 2
+    rank 8
+  ]
+  edge
+  [
+    source 188
+    target 84
+    rank 9
+  ]
+  edge
+  [
+    source 188
+    target 70
+    rank 12
+  ]
+  edge
+  [
+    source 188
+    target 28
+    rank 13
+  ]
+  edge
+  [
+    source 188
+    target 130
+    rank 18
+  ]
+  edge
+  [
+    source 189
+    target 57
+    rank 2
+  ]
+  edge
+  [
+    source 189
+    target 32
+    rank 3
+  ]
+  edge
+  [
+    source 189
+    target 198
+    rank 4
+  ]
+  edge
+  [
+    source 189
+    target 27
+    rank 6
+  ]
+  edge
+  [
+    source 189
+    target 95
+    rank 9
+  ]
+  edge
+  [
+    source 189
+    target 19
+    rank 14
+  ]
+  edge
+  [
+    source 190
+    target 4
+    rank 2
+  ]
+  edge
+  [
+    source 190
+    target 305
+    rank 10
+  ]
+  edge
+  [
+    source 190
+    target 8
+    rank 11
+  ]
+  edge
+  [
+    source 190
+    target 31
+    rank 16
+  ]
+  edge
+  [
+    source 190
+    target 20
+    rank 17
+  ]
+  edge
+  [
+    source 191
+    target 327
+    rank 4
+  ]
+  edge
+  [
+    source 191
+    target 335
+    rank 5
+  ]
+  edge
+  [
+    source 191
+    target 457
+    rank 6
+  ]
+  edge
+  [
+    source 191
+    target 393
+    rank 10
+  ]
+  edge
+  [
+    source 191
+    target 169
+    rank 11
+  ]
+  edge
+  [
+    source 191
+    target 4
+    rank 12
+  ]
+  edge
+  [
+    source 191
+    target 409
+    rank 14
+  ]
+  edge
+  [
+    source 191
+    target 305
+    rank 16
+  ]
+  edge
+  [
+    source 192
+    target 449
+    rank 11
+  ]
+  edge
+  [
+    source 193
+    target 12
+    rank 2
+  ]
+  edge
+  [
+    source 193
+    target 138
+    rank 6
+  ]
+  edge
+  [
+    source 193
+    target 273
+    rank 17
+  ]
+  edge
+  [
+    source 195
+    target 249
+    rank 3
+  ]
+  edge
+  [
+    source 195
+    target 198
+    rank 4
+  ]
+  edge
+  [
+    source 195
+    target 27
+    rank 5
+  ]
+  edge
+  [
+    source 195
+    target 57
+    rank 7
+  ]
+  edge
+  [
+    source 195
+    target 17
+    rank 11
+  ]
+  edge
+  [
+    source 195
+    target 449
+    rank 12
+  ]
+  edge
+  [
+    source 195
+    target 6
+    rank 19
+  ]
+  edge
+  [
+    source 196
+    target 3
+    rank 4
+  ]
+  edge
+  [
+    source 196
+    target 2
+    rank 6
+  ]
+  edge
+  [
+    source 196
+    target 1
+    rank 10
+  ]
+  edge
+  [
+    source 196
+    target 42
+    rank 13
+  ]
+  edge
+  [
+    source 196
+    target 49
+    rank 14
+  ]
+  edge
+  [
+    source 196
+    target 17
+    rank 19
+  ]
+  edge
+  [
+    source 196
+    target 269
+    rank 20
+  ]
+  edge
+  [
+    source 197
+    target 72
+    rank 2
+  ]
+  edge
+  [
+    source 197
+    target 138
+    rank 3
+  ]
+  edge
+  [
+    source 197
+    target 8
+    rank 5
+  ]
+  edge
+  [
+    source 197
+    target 394
+    rank 7
+  ]
+  edge
+  [
+    source 198
+    target 2
+    rank 5
+  ]
+  edge
+  [
+    source 198
+    target 9
+    rank 8
+  ]
+  edge
+  [
+    source 198
+    target 138
+    rank 9
+  ]
+  edge
+  [
+    source 198
+    target 19
+    rank 11
+  ]
+  edge
+  [
+    source 198
+    target 202
+    rank 14
+  ]
+  edge
+  [
+    source 198
+    target 22
+    rank 15
+  ]
+  edge
+  [
+    source 198
+    target 15
+    rank 17
+  ]
+  edge
+  [
+    source 199
+    target 3
+    rank 7
+  ]
+  edge
+  [
+    source 199
+    target 17
+    rank 10
+  ]
+  edge
+  [
+    source 199
+    target 1
+    rank 14
+  ]
+  edge
+  [
+    source 199
+    target 138
+    rank 15
+  ]
+  edge
+  [
+    source 200
+    target 17
+    rank 13
+  ]
+  edge
+  [
+    source 200
+    target 49
+    rank 16
+  ]
+  edge
+  [
+    source 201
+    target 17
+    rank 2
+  ]
+  edge
+  [
+    source 201
+    target 47
+    rank 4
+  ]
+  edge
+  [
+    source 201
+    target 199
+    rank 10
+  ]
+  edge
+  [
+    source 201
+    target 10
+    rank 20
+  ]
+  edge
+  [
+    source 202
+    target 16
+    rank 1
+  ]
+  edge
+  [
+    source 202
+    target 32
+    rank 2
+  ]
+  edge
+  [
+    source 202
+    target 7
+    rank 3
+  ]
+  edge
+  [
+    source 202
+    target 27
+    rank 6
+  ]
+  edge
+  [
+    source 202
+    target 19
+    rank 7
+  ]
+  edge
+  [
+    source 202
+    target 22
+    rank 12
+  ]
+  edge
+  [
+    source 202
+    target 65
+    rank 13
+  ]
+  edge
+  [
+    source 202
+    target 6
+    rank 15
+  ]
+  edge
+  [
+    source 204
+    target 23
+    rank 2
+  ]
+  edge
+  [
+    source 204
+    target 42
+    rank 10
+  ]
+  edge
+  [
+    source 204
+    target 50
+    rank 14
+  ]
+  edge
+  [
+    source 204
+    target 138
+    rank 16
+  ]
+  edge
+  [
+    source 204
+    target 84
+    rank 17
+  ]
+  edge
+  [
+    source 204
+    target 254
+    rank 18
+  ]
+  edge
+  [
+    source 204
+    target 28
+    rank 20
+  ]
+  edge
+  [
+    source 205
+    target 466
+    rank 3
+  ]
+  edge
+  [
+    source 205
+    target 42
+    rank 4
+  ]
+  edge
+  [
+    source 205
+    target 70
+    rank 19
+  ]
+  edge
+  [
+    source 206
+    target 4
+    rank 4
+  ]
+  edge
+  [
+    source 206
+    target 327
+    rank 5
+  ]
+  edge
+  [
+    source 206
+    target 393
+    rank 12
+  ]
+  edge
+  [
+    source 206
+    target 235
+    rank 14
+  ]
+  edge
+  [
+    source 206
+    target 298
+    rank 17
+  ]
+  edge
+  [
+    source 207
+    target 457
+    rank 5
+  ]
+  edge
+  [
+    source 207
+    target 305
+    rank 8
+  ]
+  edge
+  [
+    source 207
+    target 335
+    rank 10
+  ]
+  edge
+  [
+    source 208
+    target 96
+    rank 1
+  ]
+  edge
+  [
+    source 208
+    target 217
+    rank 2
+  ]
+  edge
+  [
+    source 208
+    target 241
+    rank 20
+  ]
+  edge
+  [
+    source 209
+    target 72
+    rank 10
+  ]
+  edge
+  [
+    source 209
+    target 170
+    rank 19
+  ]
+  edge
+  [
+    source 210
+    target 16
+    rank 2
+  ]
+  edge
+  [
+    source 210
+    target 4
+    rank 5
+  ]
+  edge
+  [
+    source 210
+    target 327
+    rank 7
+  ]
+  edge
+  [
+    source 210
+    target 30
+    rank 8
+  ]
+  edge
+  [
+    source 210
+    target 335
+    rank 9
+  ]
+  edge
+  [
+    source 210
+    target 202
+    rank 10
+  ]
+  edge
+  [
+    source 210
+    target 36
+    rank 11
+  ]
+  edge
+  [
+    source 210
+    target 20
+    rank 12
+  ]
+  edge
+  [
+    source 210
+    target 8
+    rank 16
+  ]
+  edge
+  [
+    source 210
+    target 31
+    rank 18
+  ]
+  edge
+  [
+    source 211
+    target 2
+    rank 3
+  ]
+  edge
+  [
+    source 211
+    target 89
+    rank 6
+  ]
+  edge
+  [
+    source 211
+    target 47
+    rank 9
+  ]
+  edge
+  [
+    source 212
+    target 313
+    rank 5
+  ]
+  edge
+  [
+    source 212
+    target 457
+    rank 10
+  ]
+  edge
+  [
+    source 212
+    target 157
+    rank 13
+  ]
+  edge
+  [
+    source 212
+    target 181
+    rank 15
+  ]
+  edge
+  [
+    source 212
+    target 284
+    rank 16
+  ]
+  edge
+  [
+    source 212
+    target 104
+    rank 20
+  ]
+  edge
+  [
+    source 214
+    target 399
+    rank 3
+  ]
+  edge
+  [
+    source 215
+    target 15
+    rank 4
+  ]
+  edge
+  [
+    source 215
+    target 457
+    rank 5
+  ]
+  edge
+  [
+    source 215
+    target 367
+    rank 8
+  ]
+  edge
+  [
+    source 215
+    target 19
+    rank 10
+  ]
+  edge
+  [
+    source 215
+    target 102
+    rank 15
+  ]
+  edge
+  [
+    source 216
+    target 413
+    rank 3
+  ]
+  edge
+  [
+    source 216
+    target 327
+    rank 4
+  ]
+  edge
+  [
+    source 216
+    target 457
+    rank 5
+  ]
+  edge
+  [
+    source 216
+    target 335
+    rank 7
+  ]
+  edge
+  [
+    source 216
+    target 298
+    rank 16
+  ]
+  edge
+  [
+    source 217
+    target 275
+    rank 1
+  ]
+  edge
+  [
+    source 217
+    target 14
+    rank 6
+  ]
+  edge
+  [
+    source 217
+    target 91
+    rank 12
+  ]
+  edge
+  [
+    source 217
+    target 338
+    rank 13
+  ]
+  edge
+  [
+    source 217
+    target 46
+    rank 15
+  ]
+  edge
+  [
+    source 218
+    target 4
+    rank 5
+  ]
+  edge
+  [
+    source 218
+    target 335
+    rank 8
+  ]
+  edge
+  [
+    source 218
+    target 457
+    rank 11
+  ]
+  edge
+  [
+    source 218
+    target 327
+    rank 12
+  ]
+  edge
+  [
+    source 218
+    target 305
+    rank 13
+  ]
+  edge
+  [
+    source 218
+    target 30
+    rank 14
+  ]
+  edge
+  [
+    source 218
+    target 31
+    rank 15
+  ]
+  edge
+  [
+    source 218
+    target 20
+    rank 18
+  ]
+  edge
+  [
+    source 219
+    target 37
+    rank 2
+  ]
+  edge
+  [
+    source 219
+    target 411
+    rank 4
+  ]
+  edge
+  [
+    source 220
+    target 305
+    rank 5
+  ]
+  edge
+  [
+    source 220
+    target 104
+    rank 15
+  ]
+  edge
+  [
+    source 220
+    target 389
+    rank 17
+  ]
+  edge
+  [
+    source 221
+    target 256
+    rank 3
+  ]
+  edge
+  [
+    source 221
+    target 17
+    rank 4
+  ]
+  edge
+  [
+    source 221
+    target 8
+    rank 5
+  ]
+  edge
+  [
+    source 221
+    target 457
+    rank 6
+  ]
+  edge
+  [
+    source 221
+    target 335
+    rank 8
+  ]
+  edge
+  [
+    source 221
+    target 14
+    rank 9
+  ]
+  edge
+  [
+    source 221
+    target 305
+    rank 10
+  ]
+  edge
+  [
+    source 221
+    target 162
+    rank 12
+  ]
+  edge
+  [
+    source 221
+    target 26
+    rank 13
+  ]
+  edge
+  [
+    source 221
+    target 45
+    rank 14
+  ]
+  edge
+  [
+    source 221
+    target 90
+    rank 16
+  ]
+  edge
+  [
+    source 221
+    target 264
+    rank 18
+  ]
+  edge
+  [
+    source 222
+    target 335
+    rank 5
+  ]
+  edge
+  [
+    source 222
+    target 457
+    rank 7
+  ]
+  edge
+  [
+    source 222
+    target 90
+    rank 9
+  ]
+  edge
+  [
+    source 222
+    target 327
+    rank 10
+  ]
+  edge
+  [
+    source 222
+    target 30
+    rank 11
+  ]
+  edge
+  [
+    source 222
+    target 8
+    rank 15
+  ]
+  edge
+  [
+    source 222
+    target 4
+    rank 16
+  ]
+  edge
+  [
+    source 222
+    target 5
+    rank 20
+  ]
+  edge
+  [
+    source 225
+    target 3
+    rank 3
+  ]
+  edge
+  [
+    source 227
+    target 470
+    rank 3
+  ]
+  edge
+  [
+    source 227
+    target 235
+    rank 4
+  ]
+  edge
+  [
+    source 227
+    target 457
+    rank 6
+  ]
+  edge
+  [
+    source 227
+    target 335
+    rank 11
+  ]
+  edge
+  [
+    source 227
+    target 185
+    rank 18
+  ]
+  edge
+  [
+    source 227
+    target 4
+    rank 20
+  ]
+  edge
+  [
+    source 229
+    target 315
+    rank 2
+  ]
+  edge
+  [
+    source 229
+    target 157
+    rank 3
+  ]
+  edge
+  [
+    source 229
+    target 270
+    rank 7
+  ]
+  edge
+  [
+    source 229
+    target 82
+    rank 10
+  ]
+  edge
+  [
+    source 229
+    target 466
+    rank 12
+  ]
+  edge
+  [
+    source 230
+    target 179
+    rank 2
+  ]
+  edge
+  [
+    source 230
+    target 501
+    rank 6
+  ]
+  edge
+  [
+    source 230
+    target 148
+    rank 7
+  ]
+  edge
+  [
+    source 230
+    target 157
+    rank 9
+  ]
+  edge
+  [
+    source 230
+    target 365
+    rank 11
+  ]
+  edge
+  [
+    source 230
+    target 382
+    rank 15
+  ]
+  edge
+  [
+    source 230
+    target 394
+    rank 20
+  ]
+  edge
+  [
+    source 231
+    target 359
+    rank 8
+  ]
+  edge
+  [
+    source 232
+    target 17
+    rank 5
+  ]
+  edge
+  [
+    source 232
+    target 490
+    rank 16
+  ]
+  edge
+  [
+    source 232
+    target 324
+    rank 18
+  ]
+  edge
+  [
+    source 233
+    target 198
+    rank 1
+  ]
+  edge
+  [
+    source 233
+    target 1
+    rank 5
+  ]
+  edge
+  [
+    source 233
+    target 91
+    rank 6
+  ]
+  edge
+  [
+    source 234
+    target 61
+    rank 4
+  ]
+  edge
+  [
+    source 234
+    target 201
+    rank 15
+  ]
+  edge
+  [
+    source 235
+    target 327
+    rank 2
+  ]
+  edge
+  [
+    source 235
+    target 169
+    rank 3
+  ]
+  edge
+  [
+    source 235
+    target 4
+    rank 4
+  ]
+  edge
+  [
+    source 235
+    target 31
+    rank 6
+  ]
+  edge
+  [
+    source 235
+    target 305
+    rank 9
+  ]
+  edge
+  [
+    source 235
+    target 8
+    rank 11
+  ]
+  edge
+  [
+    source 235
+    target 30
+    rank 14
+  ]
+  edge
+  [
+    source 236
+    target 327
+    rank 5
+  ]
+  edge
+  [
+    source 236
+    target 335
+    rank 7
+  ]
+  edge
+  [
+    source 236
+    target 457
+    rank 8
+  ]
+  edge
+  [
+    source 236
+    target 90
+    rank 9
+  ]
+  edge
+  [
+    source 236
+    target 305
+    rank 10
+  ]
+  edge
+  [
+    source 236
+    target 393
+    rank 12
+  ]
+  edge
+  [
+    source 236
+    target 222
+    rank 14
+  ]
+  edge
+  [
+    source 236
+    target 8
+    rank 15
+  ]
+  edge
+  [
+    source 236
+    target 4
+    rank 17
+  ]
+  edge
+  [
+    source 237
+    target 335
+    rank 3
+  ]
+  edge
+  [
+    source 237
+    target 298
+    rank 6
+  ]
+  edge
+  [
+    source 237
+    target 457
+    rank 7
+  ]
+  edge
+  [
+    source 237
+    target 305
+    rank 16
+  ]
+  edge
+  [
+    source 237
+    target 322
+    rank 19
+  ]
+  edge
+  [
+    source 238
+    target 327
+    rank 3
+  ]
+  edge
+  [
+    source 238
+    target 335
+    rank 5
+  ]
+  edge
+  [
+    source 238
+    target 4
+    rank 6
+  ]
+  edge
+  [
+    source 238
+    target 457
+    rank 7
+  ]
+  edge
+  [
+    source 238
+    target 50
+    rank 8
+  ]
+  edge
+  [
+    source 238
+    target 393
+    rank 17
+  ]
+  edge
+  [
+    source 239
+    target 32
+    rank 4
+  ]
+  edge
+  [
+    source 239
+    target 352
+    rank 11
+  ]
+  edge
+  [
+    source 239
+    target 3
+    rank 12
+  ]
+  edge
+  [
+    source 239
+    target 250
+    rank 18
+  ]
+  edge
+  [
+    source 240
+    target 461
+    rank 4
+  ]
+  edge
+  [
+    source 240
+    target 440
+    rank 17
+  ]
+  edge
+  [
+    source 240
+    target 165
+    rank 18
+  ]
+  edge
+  [
+    source 241
+    target 2
+    rank 7
+  ]
+  edge
+  [
+    source 241
+    target 13
+    rank 11
+  ]
+  edge
+  [
+    source 242
+    target 0
+    rank 2
+  ]
+  edge
+  [
+    source 242
+    target 155
+    rank 5
+  ]
+  edge
+  [
+    source 242
+    target 27
+    rank 6
+  ]
+  edge
+  [
+    source 242
+    target 249
+    rank 9
+  ]
+  edge
+  [
+    source 242
+    target 86
+    rank 10
+  ]
+  edge
+  [
+    source 242
+    target 411
+    rank 19
+  ]
+  edge
+  [
+    source 243
+    target 176
+    rank 1
+  ]
+  edge
+  [
+    source 243
+    target 3
+    rank 4
+  ]
+  edge
+  [
+    source 243
+    target 15
+    rank 9
+  ]
+  edge
+  [
+    source 243
+    target 14
+    rank 11
+  ]
+  edge
+  [
+    source 243
+    target 35
+    rank 16
+  ]
+  edge
+  [
+    source 243
+    target 4
+    rank 20
+  ]
+  edge
+  [
+    source 244
+    target 470
+    rank 2
+  ]
+  edge
+  [
+    source 244
+    target 104
+    rank 6
+  ]
+  edge
+  [
+    source 244
+    target 335
+    rank 7
+  ]
+  edge
+  [
+    source 244
+    target 30
+    rank 10
+  ]
+  edge
+  [
+    source 244
+    target 20
+    rank 11
+  ]
+  edge
+  [
+    source 244
+    target 31
+    rank 12
+  ]
+  edge
+  [
+    source 244
+    target 8
+    rank 13
+  ]
+  edge
+  [
+    source 244
+    target 45
+    rank 17
+  ]
+  edge
+  [
+    source 244
+    target 4
+    rank 18
+  ]
+  edge
+  [
+    source 247
+    target 15
+    rank 4
+  ]
+  edge
+  [
+    source 247
+    target 3
+    rank 5
+  ]
+  edge
+  [
+    source 247
+    target 235
+    rank 8
+  ]
+  edge
+  [
+    source 248
+    target 3
+    rank 2
+  ]
+  edge
+  [
+    source 248
+    target 49
+    rank 3
+  ]
+  edge
+  [
+    source 248
+    target 12
+    rank 6
+  ]
+  edge
+  [
+    source 248
+    target 119
+    rank 11
+  ]
+  edge
+  [
+    source 248
+    target 45
+    rank 15
+  ]
+  edge
+  [
+    source 248
+    target 10
+    rank 19
+  ]
+  edge
+  [
+    source 248
+    target 318
+    rank 20
+  ]
+  edge
+  [
+    source 249
+    target 0
+    rank 4
+  ]
+  edge
+  [
+    source 249
+    target 40
+    rank 5
+  ]
+  edge
+  [
+    source 249
+    target 19
+    rank 7
+  ]
+  edge
+  [
+    source 249
+    target 2
+    rank 9
+  ]
+  edge
+  [
+    source 249
+    target 1
+    rank 10
+  ]
+  edge
+  [
+    source 249
+    target 95
+    rank 17
+  ]
+  edge
+  [
+    source 250
+    target 5
+    rank 2
+  ]
+  edge
+  [
+    source 250
+    target 352
+    rank 3
+  ]
+  edge
+  [
+    source 250
+    target 449
+    rank 5
+  ]
+  edge
+  [
+    source 250
+    target 256
+    rank 14
+  ]
+  edge
+  [
+    source 250
+    target 239
+    rank 17
+  ]
+  edge
+  [
+    source 251
+    target 457
+    rank 2
+  ]
+  edge
+  [
+    source 251
+    target 31
+    rank 6
+  ]
+  edge
+  [
+    source 251
+    target 470
+    rank 7
+  ]
+  edge
+  [
+    source 251
+    target 327
+    rank 9
+  ]
+  edge
+  [
+    source 251
+    target 335
+    rank 10
+  ]
+  edge
+  [
+    source 251
+    target 45
+    rank 15
+  ]
+  edge
+  [
+    source 251
+    target 36
+    rank 17
+  ]
+  edge
+  [
+    source 251
+    target 4
+    rank 18
+  ]
+  edge
+  [
+    source 252
+    target 32
+    rank 3
+  ]
+  edge
+  [
+    source 252
+    target 559
+    rank 5
+  ]
+  edge
+  [
+    source 253
+    target 219
+    rank 3
+  ]
+  edge
+  [
+    source 253
+    target 104
+    rank 6
+  ]
+  edge
+  [
+    source 253
+    target 95
+    rank 18
+  ]
+  edge
+  [
+    source 254
+    target 15
+    rank 3
+  ]
+  edge
+  [
+    source 254
+    target 61
+    rank 4
+  ]
+  edge
+  [
+    source 254
+    target 23
+    rank 7
+  ]
+  edge
+  [
+    source 254
+    target 1
+    rank 10
+  ]
+  edge
+  [
+    source 254
+    target 42
+    rank 11
+  ]
+  edge
+  [
+    source 254
+    target 13
+    rank 13
+  ]
+  edge
+  [
+    source 254
+    target 56
+    rank 15
+  ]
+  edge
+  [
+    source 254
+    target 32
+    rank 17
+  ]
+  edge
+  [
+    source 254
+    target 52
+    rank 20
+  ]
+  edge
+  [
+    source 255
+    target 146
+    rank 2
+  ]
+  edge
+  [
+    source 255
+    target 19
+    rank 7
+  ]
+  edge
+  [
+    source 255
+    target 6
+    rank 12
+  ]
+  edge
+  [
+    source 255
+    target 108
+    rank 17
+  ]
+  edge
+  [
+    source 255
+    target 123
+    rank 19
+  ]
+  edge
+  [
+    source 256
+    target 4
+    rank 4
+  ]
+  edge
+  [
+    source 256
+    target 169
+    rank 6
+  ]
+  edge
+  [
+    source 256
+    target 327
+    rank 8
+  ]
+  edge
+  [
+    source 256
+    target 457
+    rank 9
+  ]
+  edge
+  [
+    source 256
+    target 335
+    rank 12
+  ]
+  edge
+  [
+    source 256
+    target 30
+    rank 14
+  ]
+  edge
+  [
+    source 256
+    target 305
+    rank 16
+  ]
+  edge
+  [
+    source 256
+    target 31
+    rank 20
+  ]
+  edge
+  [
+    source 257
+    target 23
+    rank 1
+  ]
+  edge
+  [
+    source 257
+    target 138
+    rank 3
+  ]
+  edge
+  [
+    source 257
+    target 152
+    rank 5
+  ]
+  edge
+  [
+    source 257
+    target 199
+    rank 6
+  ]
+  edge
+  [
+    source 257
+    target 269
+    rank 8
+  ]
+  edge
+  [
+    source 257
+    target 254
+    rank 9
+  ]
+  edge
+  [
+    source 257
+    target 84
+    rank 12
+  ]
+  edge
+  [
+    source 257
+    target 11
+    rank 13
+  ]
+  edge
+  [
+    source 258
+    target 82
+    rank 4
+  ]
+  edge
+  [
+    source 258
+    target 61
+    rank 7
+  ]
+  edge
+  [
+    source 258
+    target 84
+    rank 9
+  ]
+  edge
+  [
+    source 259
+    target 1
+    rank 2
+  ]
+  edge
+  [
+    source 259
+    target 3
+    rank 3
+  ]
+  edge
+  [
+    source 259
+    target 42
+    rank 4
+  ]
+  edge
+  [
+    source 259
+    target 487
+    rank 9
+  ]
+  edge
+  [
+    source 259
+    target 17
+    rank 14
+  ]
+  edge
+  [
+    source 259
+    target 6
+    rank 19
+  ]
+  edge
+  [
+    source 260
+    target 495
+    rank 3
+  ]
+  edge
+  [
+    source 260
+    target 241
+    rank 4
+  ]
+  edge
+  [
+    source 260
+    target 219
+    rank 8
+  ]
+  edge
+  [
+    source 260
+    target 480
+    rank 19
+  ]
+  edge
+  [
+    source 261
+    target 457
+    rank 3
+  ]
+  edge
+  [
+    source 261
+    target 327
+    rank 4
+  ]
+  edge
+  [
+    source 261
+    target 335
+    rank 9
+  ]
+  edge
+  [
+    source 261
+    target 298
+    rank 16
+  ]
+  edge
+  [
+    source 262
+    target 15
+    rank 2
+  ]
+  edge
+  [
+    source 262
+    target 0
+    rank 4
+  ]
+  edge
+  [
+    source 262
+    target 19
+    rank 5
+  ]
+  edge
+  [
+    source 262
+    target 14
+    rank 6
+  ]
+  edge
+  [
+    source 263
+    target 2
+    rank 8
+  ]
+  edge
+  [
+    source 263
+    target 161
+    rank 12
+  ]
+  edge
+  [
+    source 264
+    target 305
+    rank 1
+  ]
+  edge
+  [
+    source 264
+    target 335
+    rank 6
+  ]
+  edge
+  [
+    source 264
+    target 457
+    rank 9
+  ]
+  edge
+  [
+    source 264
+    target 327
+    rank 10
+  ]
+  edge
+  [
+    source 264
+    target 221
+    rank 12
+  ]
+  edge
+  [
+    source 264
+    target 30
+    rank 15
+  ]
+  edge
+  [
+    source 264
+    target 5
+    rank 16
+  ]
+  edge
+  [
+    source 264
+    target 393
+    rank 18
+  ]
+  edge
+  [
+    source 264
+    target 4
+    rank 19
+  ]
+  edge
+  [
+    source 264
+    target 31
+    rank 20
+  ]
+  edge
+  [
+    source 265
+    target 16
+    rank 5
+  ]
+  edge
+  [
+    source 265
+    target 1
+    rank 6
+  ]
+  edge
+  [
+    source 265
+    target 6
+    rank 10
+  ]
+  edge
+  [
+    source 265
+    target 91
+    rank 12
+  ]
+  edge
+  [
+    source 265
+    target 138
+    rank 15
+  ]
+  edge
+  [
+    source 265
+    target 42
+    rank 20
+  ]
+  edge
+  [
+    source 266
+    target 219
+    rank 2
+  ]
+  edge
+  [
+    source 266
+    target 445
+    rank 10
+  ]
+  edge
+  [
+    source 266
+    target 298
+    rank 12
+  ]
+  edge
+  [
+    source 268
+    target 31
+    rank 5
+  ]
+  edge
+  [
+    source 268
+    target 457
+    rank 6
+  ]
+  edge
+  [
+    source 268
+    target 327
+    rank 8
+  ]
+  edge
+  [
+    source 268
+    target 143
+    rank 9
+  ]
+  edge
+  [
+    source 268
+    target 34
+    rank 11
+  ]
+  edge
+  [
+    source 268
+    target 251
+    rank 13
+  ]
+  edge
+  [
+    source 268
+    target 45
+    rank 15
+  ]
+  edge
+  [
+    source 268
+    target 4
+    rank 16
+  ]
+  edge
+  [
+    source 268
+    target 5
+    rank 17
+  ]
+  edge
+  [
+    source 268
+    target 20
+    rank 18
+  ]
+  edge
+  [
+    source 268
+    target 393
+    rank 19
+  ]
+  edge
+  [
+    source 268
+    target 30
+    rank 20
+  ]
+  edge
+  [
+    source 269
+    target 138
+    rank 1
+  ]
+  edge
+  [
+    source 269
+    target 1
+    rank 4
+  ]
+  edge
+  [
+    source 269
+    target 28
+    rank 11
+  ]
+  edge
+  [
+    source 269
+    target 49
+    rank 12
+  ]
+  edge
+  [
+    source 269
+    target 265
+    rank 13
+  ]
+  edge
+  [
+    source 269
+    target 11
+    rank 19
+  ]
+  edge
+  [
+    source 270
+    target 436
+    rank 1
+  ]
+  edge
+  [
+    source 270
+    target 338
+    rank 2
+  ]
+  edge
+  [
+    source 270
+    target 70
+    rank 4
+  ]
+  edge
+  [
+    source 270
+    target 49
+    rank 5
+  ]
+  edge
+  [
+    source 270
+    target 47
+    rank 6
+  ]
+  edge
+  [
+    source 270
+    target 6
+    rank 7
+  ]
+  edge
+  [
+    source 270
+    target 417
+    rank 9
+  ]
+  edge
+  [
+    source 270
+    target 138
+    rank 10
+  ]
+  edge
+  [
+    source 270
+    target 430
+    rank 11
+  ]
+  edge
+  [
+    source 271
+    target 265
+    rank 3
+  ]
+  edge
+  [
+    source 271
+    target 138
+    rank 5
+  ]
+  edge
+  [
+    source 271
+    target 1
+    rank 10
+  ]
+  edge
+  [
+    source 271
+    target 21
+    rank 18
+  ]
+  edge
+  [
+    source 272
+    target 219
+    rank 7
+  ]
+  edge
+  [
+    source 272
+    target 472
+    rank 8
+  ]
+  edge
+  [
+    source 273
+    target 52
+    rank 1
+  ]
+  edge
+  [
+    source 273
+    target 12
+    rank 6
+  ]
+  edge
+  [
+    source 273
+    target 384
+    rank 8
+  ]
+  edge
+  [
+    source 274
+    target 445
+    rank 2
+  ]
+  edge
+  [
+    source 275
+    target 284
+    rank 1
+  ]
+  edge
+  [
+    source 275
+    target 338
+    rank 3
+  ]
+  edge
+  [
+    source 275
+    target 42
+    rank 4
+  ]
+  edge
+  [
+    source 275
+    target 394
+    rank 5
+  ]
+  edge
+  [
+    source 275
+    target 148
+    rank 6
+  ]
+  edge
+  [
+    source 275
+    target 6
+    rank 15
+  ]
+  edge
+  [
+    source 275
+    target 43
+    rank 16
+  ]
+  edge
+  [
+    source 275
+    target 26
+    rank 20
+  ]
+  edge
+  [
+    source 276
+    target 457
+    rank 1
+  ]
+  edge
+  [
+    source 276
+    target 449
+    rank 3
+  ]
+  edge
+  [
+    source 276
+    target 4
+    rank 4
+  ]
+  edge
+  [
+    source 276
+    target 327
+    rank 7
+  ]
+  edge
+  [
+    source 276
+    target 335
+    rank 8
+  ]
+  edge
+  [
+    source 276
+    target 305
+    rank 9
+  ]
+  edge
+  [
+    source 276
+    target 104
+    rank 12
+  ]
+  edge
+  [
+    source 277
+    target 368
+    rank 3
+  ]
+  edge
+  [
+    source 277
+    target 335
+    rank 8
+  ]
+  edge
+  [
+    source 277
+    target 169
+    rank 11
+  ]
+  edge
+  [
+    source 277
+    target 305
+    rank 14
+  ]
+  edge
+  [
+    source 277
+    target 8
+    rank 18
+  ]
+  edge
+  [
+    source 277
+    target 20
+    rank 20
+  ]
+  edge
+  [
+    source 278
+    target 473
+    rank 5
+  ]
+  edge
+  [
+    source 278
+    target 446
+    rank 10
+  ]
+  edge
+  [
+    source 280
+    target 470
+    rank 5
+  ]
+  edge
+  [
+    source 280
+    target 335
+    rank 7
+  ]
+  edge
+  [
+    source 280
+    target 30
+    rank 8
+  ]
+  edge
+  [
+    source 280
+    target 355
+    rank 11
+  ]
+  edge
+  [
+    source 280
+    target 457
+    rank 12
+  ]
+  edge
+  [
+    source 280
+    target 20
+    rank 14
+  ]
+  edge
+  [
+    source 280
+    target 4
+    rank 15
+  ]
+  edge
+  [
+    source 280
+    target 314
+    rank 18
+  ]
+  edge
+  [
+    source 280
+    target 31
+    rank 19
+  ]
+  edge
+  [
+    source 280
+    target 221
+    rank 20
+  ]
+  edge
+  [
+    source 281
+    target 249
+    rank 1
+  ]
+  edge
+  [
+    source 281
+    target 57
+    rank 2
+  ]
+  edge
+  [
+    source 281
+    target 198
+    rank 4
+  ]
+  edge
+  [
+    source 281
+    target 219
+    rank 10
+  ]
+  edge
+  [
+    source 281
+    target 6
+    rank 14
+  ]
+  edge
+  [
+    source 281
+    target 19
+    rank 15
+  ]
+  edge
+  [
+    source 281
+    target 104
+    rank 19
+  ]
+  edge
+  [
+    source 282
+    target 430
+    rank 2
+  ]
+  edge
+  [
+    source 282
+    target 417
+    rank 10
+  ]
+  edge
+  [
+    source 282
+    target 394
+    rank 16
+  ]
+  edge
+  [
+    source 282
+    target 382
+    rank 17
+  ]
+  edge
+  [
+    source 282
+    target 284
+    rank 18
+  ]
+  edge
+  [
+    source 282
+    target 411
+    rank 20
+  ]
+  edge
+  [
+    source 283
+    target 411
+    rank 1
+  ]
+  edge
+  [
+    source 283
+    target 449
+    rank 6
+  ]
+  edge
+  [
+    source 283
+    target 367
+    rank 13
+  ]
+  edge
+  [
+    source 283
+    target 219
+    rank 18
+  ]
+  edge
+  [
+    source 283
+    target 104
+    rank 19
+  ]
+  edge
+  [
+    source 283
+    target 169
+    rank 20
+  ]
+  edge
+  [
+    source 284
+    target 6
+    rank 4
+  ]
+  edge
+  [
+    source 284
+    target 148
+    rank 17
+  ]
+  edge
+  [
+    source 285
+    target 2
+    rank 7
+  ]
+  edge
+  [
+    source 285
+    target 77
+    rank 9
+  ]
+  edge
+  [
+    source 285
+    target 26
+    rank 15
+  ]
+  edge
+  [
+    source 285
+    target 62
+    rank 17
+  ]
+  edge
+  [
+    source 286
+    target 457
+    rank 4
+  ]
+  edge
+  [
+    source 286
+    target 355
+    rank 6
+  ]
+  edge
+  [
+    source 286
+    target 305
+    rank 7
+  ]
+  edge
+  [
+    source 286
+    target 30
+    rank 8
+  ]
+  edge
+  [
+    source 286
+    target 5
+    rank 11
+  ]
+  edge
+  [
+    source 286
+    target 4
+    rank 12
+  ]
+  edge
+  [
+    source 286
+    target 90
+    rank 17
+  ]
+  edge
+  [
+    source 286
+    target 8
+    rank 18
+  ]
+  edge
+  [
+    source 286
+    target 221
+    rank 19
+  ]
+  edge
+  [
+    source 287
+    target 13
+    rank 3
+  ]
+  edge
+  [
+    source 287
+    target 157
+    rank 8
+  ]
+  edge
+  [
+    source 287
+    target 282
+    rank 10
+  ]
+  edge
+  [
+    source 287
+    target 1
+    rank 14
+  ]
+  edge
+  [
+    source 287
+    target 217
+    rank 18
+  ]
+  edge
+  [
+    source 287
+    target 501
+    rank 20
+  ]
+  edge
+  [
+    source 288
+    target 89
+    rank 3
+  ]
+  edge
+  [
+    source 288
+    target 219
+    rank 9
+  ]
+  edge
+  [
+    source 288
+    target 210
+    rank 16
+  ]
+  edge
+  [
+    source 288
+    target 308
+    rank 18
+  ]
+  edge
+  [
+    source 292
+    target 42
+    rank 1
+  ]
+  edge
+  [
+    source 292
+    target 91
+    rank 2
+  ]
+  edge
+  [
+    source 292
+    target 17
+    rank 5
+  ]
+  edge
+  [
+    source 292
+    target 265
+    rank 19
+  ]
+  edge
+  [
+    source 292
+    target 126
+    rank 20
+  ]
+  edge
+  [
+    source 293
+    target 411
+    rank 1
+  ]
+  edge
+  [
+    source 293
+    target 6
+    rank 5
+  ]
+  edge
+  [
+    source 293
+    target 449
+    rank 10
+  ]
+  edge
+  [
+    source 293
+    target 327
+    rank 11
+  ]
+  edge
+  [
+    source 294
+    target 198
+    rank 1
+  ]
+  edge
+  [
+    source 294
+    target 57
+    rank 2
+  ]
+  edge
+  [
+    source 294
+    target 27
+    rank 14
+  ]
+  edge
+  [
+    source 294
+    target 437
+    rank 16
+  ]
+  edge
+  [
+    source 295
+    target 4
+    rank 3
+  ]
+  edge
+  [
+    source 295
+    target 457
+    rank 4
+  ]
+  edge
+  [
+    source 295
+    target 305
+    rank 5
+  ]
+  edge
+  [
+    source 295
+    target 169
+    rank 9
+  ]
+  edge
+  [
+    source 295
+    target 8
+    rank 10
+  ]
+  edge
+  [
+    source 295
+    target 30
+    rank 11
+  ]
+  edge
+  [
+    source 295
+    target 327
+    rank 12
+  ]
+  edge
+  [
+    source 295
+    target 5
+    rank 14
+  ]
+  edge
+  [
+    source 295
+    target 31
+    rank 16
+  ]
+  edge
+  [
+    source 296
+    target 446
+    rank 6
+  ]
+  edge
+  [
+    source 296
+    target 445
+    rank 7
+  ]
+  edge
+  [
+    source 297
+    target 25
+    rank 2
+  ]
+  edge
+  [
+    source 297
+    target 2
+    rank 4
+  ]
+  edge
+  [
+    source 297
+    target 4
+    rank 5
+  ]
+  edge
+  [
+    source 297
+    target 500
+    rank 9
+  ]
+  edge
+  [
+    source 297
+    target 235
+    rank 15
+  ]
+  edge
+  [
+    source 297
+    target 470
+    rank 17
+  ]
+  edge
+  [
+    source 297
+    target 219
+    rank 20
+  ]
+  edge
+  [
+    source 298
+    target 42
+    rank 3
+  ]
+  edge
+  [
+    source 298
+    target 76
+    rank 17
+  ]
+  edge
+  [
+    source 298
+    target 175
+    rank 19
+  ]
+  edge
+  [
+    source 298
+    target 445
+    rank 20
+  ]
+  edge
+  [
+    source 299
+    target 1
+    rank 3
+  ]
+  edge
+  [
+    source 299
+    target 77
+    rank 4
+  ]
+  edge
+  [
+    source 299
+    target 327
+    rank 6
+  ]
+  edge
+  [
+    source 299
+    target 470
+    rank 8
+  ]
+  edge
+  [
+    source 299
+    target 335
+    rank 10
+  ]
+  edge
+  [
+    source 299
+    target 430
+    rank 11
+  ]
+  edge
+  [
+    source 299
+    target 298
+    rank 18
+  ]
+  edge
+  [
+    source 300
+    target 31
+    rank 3
+  ]
+  edge
+  [
+    source 300
+    target 470
+    rank 8
+  ]
+  edge
+  [
+    source 300
+    target 36
+    rank 10
+  ]
+  edge
+  [
+    source 300
+    target 45
+    rank 12
+  ]
+  edge
+  [
+    source 300
+    target 4
+    rank 13
+  ]
+  edge
+  [
+    source 300
+    target 143
+    rank 14
+  ]
+  edge
+  [
+    source 300
+    target 30
+    rank 15
+  ]
+  edge
+  [
+    source 300
+    target 5
+    rank 16
+  ]
+  edge
+  [
+    source 300
+    target 20
+    rank 19
+  ]
+  edge
+  [
+    source 301
+    target 445
+    rank 3
+  ]
+  edge
+  [
+    source 301
+    target 104
+    rank 5
+  ]
+  edge
+  [
+    source 301
+    target 446
+    rank 8
+  ]
+  edge
+  [
+    source 301
+    target 323
+    rank 19
+  ]
+  edge
+  [
+    source 301
+    target 90
+    rank 20
+  ]
+  edge
+  [
+    source 302
+    target 6
+    rank 1
+  ]
+  edge
+  [
+    source 302
+    target 95
+    rank 5
+  ]
+  edge
+  [
+    source 302
+    target 411
+    rank 8
+  ]
+  edge
+  [
+    source 303
+    target 470
+    rank 1
+  ]
+  edge
+  [
+    source 303
+    target 327
+    rank 5
+  ]
+  edge
+  [
+    source 303
+    target 335
+    rank 8
+  ]
+  edge
+  [
+    source 303
+    target 31
+    rank 19
+  ]
+  edge
+  [
+    source 303
+    target 8
+    rank 20
+  ]
+  edge
+  [
+    source 305
+    target 457
+    rank 1
+  ]
+  edge
+  [
+    source 305
+    target 393
+    rank 4
+  ]
+  edge
+  [
+    source 305
+    target 335
+    rank 5
+  ]
+  edge
+  [
+    source 305
+    target 389
+    rank 8
+  ]
+  edge
+  [
+    source 305
+    target 327
+    rank 11
+  ]
+  edge
+  [
+    source 305
+    target 30
+    rank 12
+  ]
+  edge
+  [
+    source 305
+    target 4
+    rank 15
+  ]
+  edge
+  [
+    source 305
+    target 298
+    rank 16
+  ]
+  edge
+  [
+    source 305
+    target 8
+    rank 18
+  ]
+  edge
+  [
+    source 305
+    target 31
+    rank 20
+  ]
+  edge
+  [
+    source 306
+    target 3
+    rank 2
+  ]
+  edge
+  [
+    source 306
+    target 217
+    rank 7
+  ]
+  edge
+  [
+    source 307
+    target 130
+    rank 1
+  ]
+  edge
+  [
+    source 307
+    target 487
+    rank 3
+  ]
+  edge
+  [
+    source 307
+    target 3
+    rank 6
+  ]
+  edge
+  [
+    source 307
+    target 138
+    rank 7
+  ]
+  edge
+  [
+    source 307
+    target 5
+    rank 16
+  ]
+  edge
+  [
+    source 307
+    target 265
+    rank 17
+  ]
+  edge
+  [
+    source 307
+    target 42
+    rank 19
+  ]
+  edge
+  [
+    source 309
+    target 6
+    rank 9
+  ]
+  edge
+  [
+    source 310
+    target 198
+    rank 1
+  ]
+  edge
+  [
+    source 310
+    target 3
+    rank 2
+  ]
+  edge
+  [
+    source 310
+    target 449
+    rank 7
+  ]
+  edge
+  [
+    source 310
+    target 11
+    rank 16
+  ]
+  edge
+  [
+    source 310
+    target 183
+    rank 18
+  ]
+  edge
+  [
+    source 311
+    target 352
+    rank 5
+  ]
+  edge
+  [
+    source 311
+    target 559
+    rank 8
+  ]
+  edge
+  [
+    source 311
+    target 367
+    rank 12
+  ]
+  edge
+  [
+    source 312
+    target 495
+    rank 1
+  ]
+  edge
+  [
+    source 312
+    target 449
+    rank 5
+  ]
+  edge
+  [
+    source 312
+    target 499
+    rank 15
+  ]
+  edge
+  [
+    source 312
+    target 53
+    rank 20
+  ]
+  edge
+  [
+    source 313
+    target 217
+    rank 1
+  ]
+  edge
+  [
+    source 313
     target 417
     rank 2
   ]
-  edge [
-    source 468
-    target 306
-    rank 9
-  ]
-  edge [
-    source 468
-    target 352
-    rank 12
-  ]
-  edge [
-    source 469
-    target 373
-    rank 1
-  ]
-  edge [
-    source 469
-    target 417
+  edge
+  [
+    source 313
+    target 148
     rank 3
   ]
-  edge [
-    source 469
-    target 383
-    rank 9
+  edge
+  [
+    source 313
+    target 338
+    rank 8
   ]
-  edge [
-    source 469
-    target 203
+  edge
+  [
+    source 314
+    target 327
+    rank 6
+  ]
+  edge
+  [
+    source 314
+    target 448
+    rank 12
+  ]
+  edge
+  [
+    source 314
+    target 409
+    rank 19
+  ]
+  edge
+  [
+    source 315
+    target 333
+    rank 4
+  ]
+  edge
+  [
+    source 315
+    target 261
     rank 11
   ]
-  edge [
-    source 471
-    target 472
-    rank 1
-  ]
-  edge [
-    source 471
-    target 468
-    rank 12
-  ]
-  edge [
-    source 472
+  edge
+  [
+    source 315
     target 417
-    rank 1
-  ]
-  edge [
-    source 472
-    target 306
-    rank 7
-  ]
-  edge [
-    source 472
-    target 352
-    rank 9
-  ]
-  edge [
-    source 472
-    target 298
     rank 14
   ]
-  edge [
-    source 473
-    target 478
-    rank 3
+  edge
+  [
+    source 315
+    target 365
+    rank 16
   ]
-  edge [
-    source 473
-    target 480
-    rank 14
-  ]
-  edge [
-    source 473
-    target 479
+  edge
+  [
+    source 315
+    target 394
     rank 18
   ]
-  edge [
-    source 474
-    target 478
+  edge
+  [
+    source 316
+    target 198
+    rank 1
+  ]
+  edge
+  [
+    source 316
+    target 57
+    rank 2
+  ]
+  edge
+  [
+    source 316
+    target 27
+    rank 5
+  ]
+  edge
+  [
+    source 316
+    target 361
+    rank 19
+  ]
+  edge
+  [
+    source 317
+    target 470
+    rank 1
+  ]
+  edge
+  [
+    source 317
+    target 4
+    rank 3
+  ]
+  edge
+  [
+    source 317
+    target 327
+    rank 4
+  ]
+  edge
+  [
+    source 317
+    target 335
+    rank 5
+  ]
+  edge
+  [
+    source 317
+    target 8
+    rank 11
+  ]
+  edge
+  [
+    source 317
+    target 31
+    rank 18
+  ]
+  edge
+  [
+    source 318
+    target 3
+    rank 3
+  ]
+  edge
+  [
+    source 318
+    target 2
+    rank 5
+  ]
+  edge
+  [
+    source 318
+    target 49
+    rank 8
+  ]
+  edge
+  [
+    source 318
+    target 495
+    rank 10
+  ]
+  edge
+  [
+    source 318
+    target 104
+    rank 14
+  ]
+  edge
+  [
+    source 318
+    target 119
+    rank 17
+  ]
+  edge
+  [
+    source 319
+    target 4
     rank 9
   ]
-  edge [
-    source 475
+  edge
+  [
+    source 319
+    target 327
+    rank 11
+  ]
+  edge
+  [
+    source 319
+    target 457
+    rank 12
+  ]
+  edge
+  [
+    source 319
+    target 298
+    rank 13
+  ]
+  edge
+  [
+    source 319
+    target 30
+    rank 16
+  ]
+  edge
+  [
+    source 319
+    target 8
+    rank 18
+  ]
+  edge
+  [
+    source 319
+    target 335
+    rank 19
+  ]
+  edge
+  [
+    source 320
+    target 34
+    rank 6
+  ]
+  edge
+  [
+    source 320
+    target 470
+    rank 7
+  ]
+  edge
+  [
+    source 320
+    target 449
+    rank 8
+  ]
+  edge
+  [
+    source 320
+    target 457
+    rank 10
+  ]
+  edge
+  [
+    source 320
+    target 251
+    rank 14
+  ]
+  edge
+  [
+    source 320
+    target 280
+    rank 19
+  ]
+  edge
+  [
+    source 320
+    target 20
+    rank 20
+  ]
+  edge
+  [
+    source 321
+    target 219
+    rank 6
+  ]
+  edge
+  [
+    source 322
+    target 4
+    rank 8
+  ]
+  edge
+  [
+    source 322
+    target 459
+    rank 9
+  ]
+  edge
+  [
+    source 322
+    target 98
+    rank 10
+  ]
+  edge
+  [
+    source 322
+    target 30
+    rank 12
+  ]
+  edge
+  [
+    source 322
+    target 298
+    rank 13
+  ]
+  edge
+  [
+    source 322
+    target 8
+    rank 14
+  ]
+  edge
+  [
+    source 322
+    target 247
+    rank 15
+  ]
+  edge
+  [
+    source 322
+    target 20
+    rank 18
+  ]
+  edge
+  [
+    source 322
+    target 5
+    rank 19
+  ]
+  edge
+  [
+    source 322
+    target 31
+    rank 20
+  ]
+  edge
+  [
+    source 323
+    target 445
+    rank 4
+  ]
+  edge
+  [
+    source 323
+    target 296
+    rank 16
+  ]
+  edge
+  [
+    source 324
+    target 327
+    rank 2
+  ]
+  edge
+  [
+    source 324
+    target 4
+    rank 4
+  ]
+  edge
+  [
+    source 324
+    target 457
+    rank 6
+  ]
+  edge
+  [
+    source 324
+    target 335
+    rank 7
+  ]
+  edge
+  [
+    source 324
+    target 470
+    rank 8
+  ]
+  edge
+  [
+    source 324
+    target 31
+    rank 10
+  ]
+  edge
+  [
+    source 324
+    target 413
+    rank 18
+  ]
+  edge
+  [
+    source 324
+    target 8
+    rank 19
+  ]
+  edge
+  [
+    source 325
+    target 241
+    rank 11
+  ]
+  edge
+  [
+    source 326
+    target 399
+    rank 1
+  ]
+  edge
+  [
+    source 326
+    target 517
+    rank 2
+  ]
+  edge
+  [
+    source 326
+    target 514
+    rank 4
+  ]
+  edge
+  [
+    source 326
+    target 214
+    rank 5
+  ]
+  edge
+  [
+    source 326
+    target 219
+    rank 6
+  ]
+  edge
+  [
+    source 327
+    target 5
+    rank 3
+  ]
+  edge
+  [
+    source 327
+    target 335
+    rank 5
+  ]
+  edge
+  [
+    source 327
+    target 470
+    rank 11
+  ]
+  edge
+  [
+    source 327
+    target 393
+    rank 14
+  ]
+  edge
+  [
+    source 329
+    target 31
+    rank 5
+  ]
+  edge
+  [
+    source 329
+    target 45
+    rank 8
+  ]
+  edge
+  [
+    source 329
+    target 30
+    rank 10
+  ]
+  edge
+  [
+    source 329
+    target 305
+    rank 11
+  ]
+  edge
+  [
+    source 329
+    target 8
+    rank 12
+  ]
+  edge
+  [
+    source 329
+    target 20
+    rank 13
+  ]
+  edge
+  [
+    source 329
+    target 5
+    rank 14
+  ]
+  edge
+  [
+    source 329
+    target 4
+    rank 15
+  ]
+  edge
+  [
+    source 329
+    target 457
+    rank 18
+  ]
+  edge
+  [
+    source 330
+    target 104
+    rank 20
+  ]
+  edge
+  [
+    source 331
+    target 559
+    rank 3
+  ]
+  edge
+  [
+    source 331
+    target 367
+    rank 5
+  ]
+  edge
+  [
+    source 331
+    target 393
+    rank 7
+  ]
+  edge
+  [
+    source 332
+    target 399
+    rank 8
+  ]
+  edge
+  [
+    source 333
+    target 138
+    rank 2
+  ]
+  edge
+  [
+    source 333
+    target 0
+    rank 17
+  ]
+  edge
+  [
+    source 334
+    target 198
+    rank 1
+  ]
+  edge
+  [
+    source 334
+    target 27
+    rank 3
+  ]
+  edge
+  [
+    source 334
+    target 202
+    rank 8
+  ]
+  edge
+  [
+    source 334
+    target 19
+    rank 10
+  ]
+  edge
+  [
+    source 334
+    target 74
+    rank 12
+  ]
+  edge
+  [
+    source 334
+    target 411
+    rank 15
+  ]
+  edge
+  [
+    source 334
+    target 95
+    rank 16
+  ]
+  edge
+  [
+    source 334
+    target 104
+    rank 17
+  ]
+  edge
+  [
+    source 334
+    target 219
+    rank 18
+  ]
+  edge
+  [
+    source 334
+    target 57
+    rank 20
+  ]
+  edge
+  [
+    source 335
+    target 30
+    rank 2
+  ]
+  edge
+  [
+    source 335
+    target 327
+    rank 4
+  ]
+  edge
+  [
+    source 335
+    target 470
+    rank 8
+  ]
+  edge
+  [
+    source 335
+    target 31
+    rank 10
+  ]
+  edge
+  [
+    source 335
+    target 20
+    rank 16
+  ]
+  edge
+  [
+    source 335
+    target 45
+    rank 17
+  ]
+  edge
+  [
+    source 335
+    target 8
+    rank 18
+  ]
+  edge
+  [
+    source 335
+    target 4
+    rank 19
+  ]
+  edge
+  [
+    source 336
+    target 382
+    rank 1
+  ]
+  edge
+  [
+    source 336
+    target 305
+    rank 7
+  ]
+  edge
+  [
+    source 336
+    target 365
+    rank 14
+  ]
+  edge
+  [
+    source 336
+    target 284
+    rank 20
+  ]
+  edge
+  [
+    source 337
+    target 411
+    rank 2
+  ]
+  edge
+  [
+    source 337
+    target 449
+    rank 8
+  ]
+  edge
+  [
+    source 337
+    target 478
+    rank 11
+  ]
+  edge
+  [
+    source 337
+    target 251
+    rank 13
+  ]
+  edge
+  [
+    source 337
+    target 295
+    rank 16
+  ]
+  edge
+  [
+    source 337
+    target 219
+    rank 20
+  ]
+  edge
+  [
+    source 338
+    target 15
+    rank 2
+  ]
+  edge
+  [
+    source 338
+    target 2
+    rank 6
+  ]
+  edge
+  [
+    source 338
+    target 394
+    rank 8
+  ]
+  edge
+  [
+    source 338
+    target 417
+    rank 10
+  ]
+  edge
+  [
+    source 338
+    target 430
+    rank 12
+  ]
+  edge
+  [
+    source 338
+    target 501
+    rank 14
+  ]
+  edge
+  [
+    source 338
+    target 275
+    rank 19
+  ]
+  edge
+  [
+    source 339
+    target 96
+    rank 1
+  ]
+  edge
+  [
+    source 340
+    target 50
+    rank 20
+  ]
+  edge
+  [
+    source 341
+    target 457
+    rank 1
+  ]
+  edge
+  [
+    source 341
+    target 286
+    rank 6
+  ]
+  edge
+  [
+    source 341
+    target 8
+    rank 9
+  ]
+  edge
+  [
+    source 341
+    target 20
+    rank 11
+  ]
+  edge
+  [
+    source 341
+    target 90
+    rank 19
+  ]
+  edge
+  [
+    source 342
+    target 2
+    rank 4
+  ]
+  edge
+  [
+    source 342
+    target 449
+    rank 10
+  ]
+  edge
+  [
+    source 342
+    target 262
+    rank 15
+  ]
+  edge
+  [
+    source 343
+    target 187
+    rank 3
+  ]
+  edge
+  [
+    source 343
+    target 392
+    rank 4
+  ]
+  edge
+  [
+    source 343
+    target 298
+    rank 17
+  ]
+  edge
+  [
+    source 344
+    target 17
+    rank 4
+  ]
+  edge
+  [
+    source 344
+    target 28
+    rank 6
+  ]
+  edge
+  [
+    source 344
+    target 11
+    rank 7
+  ]
+  edge
+  [
+    source 344
+    target 208
+    rank 8
+  ]
+  edge
+  [
+    source 344
+    target 129
+    rank 12
+  ]
+  edge
+  [
+    source 344
+    target 65
+    rank 16
+  ]
+  edge
+  [
+    source 345
+    target 34
+    rank 9
+  ]
+  edge
+  [
+    source 345
+    target 219
+    rank 10
+  ]
+  edge
+  [
+    source 345
+    target 80
+    rank 17
+  ]
+  edge
+  [
+    source 346
+    target 305
+    rank 2
+  ]
+  edge
+  [
+    source 346
+    target 137
+    rank 9
+  ]
+  edge
+  [
+    source 346
+    target 219
+    rank 11
+  ]
+  edge
+  [
+    source 346
+    target 170
+    rank 18
+  ]
+  edge
+  [
+    source 347
+    target 106
+    rank 8
+  ]
+  edge
+  [
+    source 347
+    target 446
+    rank 15
+  ]
+  edge
+  [
+    source 348
+    target 457
+    rank 1
+  ]
+  edge
+  [
+    source 348
+    target 411
+    rank 5
+  ]
+  edge
+  [
+    source 348
+    target 95
+    rank 7
+  ]
+  edge
+  [
+    source 348
+    target 169
+    rank 18
+  ]
+  edge
+  [
+    source 349
+    target 411
+    rank 1
+  ]
+  edge
+  [
+    source 349
+    target 449
+    rank 4
+  ]
+  edge
+  [
+    source 349
+    target 497
+    rank 6
+  ]
+  edge
+  [
+    source 349
+    target 457
+    rank 7
+  ]
+  edge
+  [
+    source 349
+    target 95
+    rank 11
+  ]
+  edge
+  [
+    source 349
+    target 219
+    rank 15
+  ]
+  edge
+  [
+    source 349
+    target 375
+    rank 18
+  ]
+  edge
+  [
+    source 350
+    target 2
+    rank 6
+  ]
+  edge
+  [
+    source 350
+    target 293
+    rank 12
+  ]
+  edge
+  [
+    source 351
+    target 3
+    rank 1
+  ]
+  edge
+  [
+    source 351
+    target 70
+    rank 10
+  ]
+  edge
+  [
+    source 351
+    target 199
+    rank 17
+  ]
+  edge
+  [
+    source 352
+    target 56
+    rank 1
+  ]
+  edge
+  [
+    source 352
+    target 95
+    rank 15
+  ]
+  edge
+  [
+    source 352
+    target 74
+    rank 20
+  ]
+  edge
+  [
+    source 353
+    target 404
+    rank 1
+  ]
+  edge
+  [
+    source 354
+    target 3
+    rank 3
+  ]
+  edge
+  [
+    source 354
+    target 105
+    rank 9
+  ]
+  edge
+  [
+    source 354
+    target 286
+    rank 17
+  ]
+  edge
+  [
+    source 354
+    target 219
+    rank 20
+  ]
+  edge
+  [
+    source 355
+    target 104
+    rank 4
+  ]
+  edge
+  [
+    source 355
+    target 8
+    rank 9
+  ]
+  edge
+  [
+    source 355
+    target 335
+    rank 10
+  ]
+  edge
+  [
+    source 355
+    target 169
+    rank 11
+  ]
+  edge
+  [
+    source 355
+    target 327
+    rank 12
+  ]
+  edge
+  [
+    source 355
+    target 31
+    rank 13
+  ]
+  edge
+  [
+    source 355
+    target 457
+    rank 14
+  ]
+  edge
+  [
+    source 355
+    target 430
+    rank 17
+  ]
+  edge
+  [
+    source 355
+    target 393
+    rank 18
+  ]
+  edge
+  [
+    source 356
+    target 169
+    rank 3
+  ]
+  edge
+  [
+    source 356
+    target 335
+    rank 5
+  ]
+  edge
+  [
+    source 356
+    target 305
+    rank 6
+  ]
+  edge
+  [
+    source 356
+    target 30
+    rank 8
+  ]
+  edge
+  [
+    source 356
+    target 327
+    rank 9
+  ]
+  edge
+  [
+    source 356
+    target 45
+    rank 12
+  ]
+  edge
+  [
+    source 356
+    target 31
+    rank 13
+  ]
+  edge
+  [
+    source 356
+    target 98
+    rank 16
+  ]
+  edge
+  [
+    source 357
+    target 473
+    rank 3
+  ]
+  edge
+  [
+    source 357
+    target 104
+    rank 10
+  ]
+  edge
+  [
+    source 357
+    target 446
+    rank 13
+  ]
+  edge
+  [
+    source 358
+    target 162
+    rank 10
+  ]
+  edge
+  [
+    source 358
+    target 67
+    rank 15
+  ]
+  edge
+  [
+    source 359
+    target 411
+    rank 2
+  ]
+  edge
+  [
+    source 359
+    target 235
+    rank 4
+  ]
+  edge
+  [
+    source 359
+    target 4
+    rank 6
+  ]
+  edge
+  [
+    source 359
+    target 375
+    rank 8
+  ]
+  edge
+  [
+    source 359
+    target 169
+    rank 12
+  ]
+  edge
+  [
+    source 359
+    target 322
+    rank 19
+  ]
+  edge
+  [
+    source 360
+    target 411
+    rank 2
+  ]
+  edge
+  [
+    source 360
+    target 327
+    rank 5
+  ]
+  edge
+  [
+    source 360
+    target 169
+    rank 10
+  ]
+  edge
+  [
+    source 360
+    target 235
+    rank 12
+  ]
+  edge
+  [
+    source 361
+    target 9
+    rank 1
+  ]
+  edge
+  [
+    source 361
+    target 27
+    rank 3
+  ]
+  edge
+  [
+    source 361
+    target 57
+    rank 4
+  ]
+  edge
+  [
+    source 361
+    target 32
+    rank 6
+  ]
+  edge
+  [
+    source 361
+    target 420
+    rank 10
+  ]
+  edge
+  [
+    source 361
+    target 19
+    rank 12
+  ]
+  edge
+  [
+    source 361
+    target 219
+    rank 15
+  ]
+  edge
+  [
+    source 361
+    target 95
+    rank 17
+  ]
+  edge
+  [
+    source 362
+    target 182
+    rank 1
+  ]
+  edge
+  [
+    source 362
+    target 57
+    rank 2
+  ]
+  edge
+  [
+    source 362
+    target 27
+    rank 3
+  ]
+  edge
+  [
+    source 362
+    target 242
+    rank 8
+  ]
+  edge
+  [
+    source 362
+    target 6
+    rank 9
+  ]
+  edge
+  [
+    source 362
+    target 198
+    rank 13
+  ]
+  edge
+  [
+    source 362
+    target 86
+    rank 16
+  ]
+  edge
+  [
+    source 363
+    target 457
+    rank 5
+  ]
+  edge
+  [
+    source 363
+    target 335
+    rank 7
+  ]
+  edge
+  [
+    source 363
+    target 295
+    rank 12
+  ]
+  edge
+  [
+    source 363
+    target 4
+    rank 16
+  ]
+  edge
+  [
+    source 363
+    target 470
+    rank 18
+  ]
+  edge
+  [
+    source 363
+    target 30
+    rank 20
+  ]
+  edge
+  [
+    source 364
+    target 27
+    rank 1
+  ]
+  edge
+  [
+    source 364
+    target 57
+    rank 4
+  ]
+  edge
+  [
+    source 364
+    target 1
+    rank 6
+  ]
+  edge
+  [
+    source 364
+    target 199
+    rank 11
+  ]
+  edge
+  [
+    source 364
+    target 83
+    rank 13
+  ]
+  edge
+  [
+    source 364
+    target 11
+    rank 18
+  ]
+  edge
+  [
+    source 365
+    target 305
+    rank 1
+  ]
+  edge
+  [
+    source 365
+    target 47
+    rank 4
+  ]
+  edge
+  [
+    source 365
+    target 313
+    rank 5
+  ]
+  edge
+  [
+    source 365
+    target 2
+    rank 7
+  ]
+  edge
+  [
+    source 365
+    target 382
+    rank 12
+  ]
+  edge
+  [
+    source 365
+    target 95
+    rank 17
+  ]
+  edge
+  [
+    source 366
+    target 27
+    rank 1
+  ]
+  edge
+  [
+    source 366
+    target 15
+    rank 4
+  ]
+  edge
+  [
+    source 366
+    target 32
+    rank 5
+  ]
+  edge
+  [
+    source 366
+    target 16
+    rank 6
+  ]
+  edge
+  [
+    source 366
+    target 3
+    rank 7
+  ]
+  edge
+  [
+    source 366
+    target 19
+    rank 12
+  ]
+  edge
+  [
+    source 366
+    target 95
+    rank 15
+  ]
+  edge
+  [
+    source 366
+    target 22
+    rank 19
+  ]
+  edge
+  [
+    source 367
+    target 61
+    rank 4
+  ]
+  edge
+  [
+    source 367
+    target 19
+    rank 5
+  ]
+  edge
+  [
+    source 367
+    target 212
+    rank 13
+  ]
+  edge
+  [
+    source 368
+    target 335
+    rank 6
+  ]
+  edge
+  [
+    source 368
+    target 457
+    rank 7
+  ]
+  edge
+  [
+    source 368
+    target 305
+    rank 8
+  ]
+  edge
+  [
+    source 368
+    target 371
+    rank 9
+  ]
+  edge
+  [
+    source 368
+    target 31
+    rank 10
+  ]
+  edge
+  [
+    source 368
+    target 470
+    rank 12
+  ]
+  edge
+  [
+    source 368
+    target 30
+    rank 13
+  ]
+  edge
+  [
+    source 368
+    target 4
+    rank 14
+  ]
+  edge
+  [
+    source 368
+    target 20
+    rank 16
+  ]
+  edge
+  [
+    source 368
+    target 5
+    rank 17
+  ]
+  edge
+  [
+    source 368
+    target 8
+    rank 19
+  ]
+  edge
+  [
+    source 368
+    target 45
+    rank 20
+  ]
+  edge
+  [
+    source 369
+    target 462
+    rank 2
+  ]
+  edge
+  [
+    source 369
+    target 326
+    rank 7
+  ]
+  edge
+  [
+    source 371
+    target 411
+    rank 3
+  ]
+  edge
+  [
+    source 371
+    target 457
+    rank 6
+  ]
+  edge
+  [
+    source 371
+    target 327
+    rank 8
+  ]
+  edge
+  [
+    source 371
+    target 4
+    rank 9
+  ]
+  edge
+  [
+    source 371
+    target 6
+    rank 11
+  ]
+  edge
+  [
+    source 371
+    target 305
+    rank 15
+  ]
+  edge
+  [
+    source 371
+    target 116
+    rank 19
+  ]
+  edge
+  [
+    source 372
+    target 116
+    rank 12
+  ]
+  edge
+  [
+    source 373
+    target 457
+    rank 3
+  ]
+  edge
+  [
+    source 373
+    target 327
+    rank 4
+  ]
+  edge
+  [
+    source 373
+    target 335
+    rank 7
+  ]
+  edge
+  [
+    source 373
+    target 393
+    rank 12
+  ]
+  edge
+  [
+    source 373
+    target 375
+    rank 14
+  ]
+  edge
+  [
+    source 374
+    target 501
+    rank 3
+  ]
+  edge
+  [
+    source 374
+    target 104
+    rank 19
+  ]
+  edge
+  [
+    source 375
+    target 4
+    rank 4
+  ]
+  edge
+  [
+    source 375
+    target 322
+    rank 8
+  ]
+  edge
+  [
+    source 375
+    target 31
+    rank 10
+  ]
+  edge
+  [
+    source 375
+    target 30
+    rank 17
+  ]
+  edge
+  [
+    source 376
+    target 4
+    rank 2
+  ]
+  edge
+  [
+    source 376
+    target 305
+    rank 6
+  ]
+  edge
+  [
+    source 379
+    target 394
+    rank 1
+  ]
+  edge
+  [
+    source 379
+    target 47
+    rank 6
+  ]
+  edge
+  [
+    source 379
+    target 157
+    rank 8
+  ]
+  edge
+  [
+    source 379
+    target 315
+    rank 15
+  ]
+  edge
+  [
+    source 379
+    target 430
+    rank 17
+  ]
+  edge
+  [
+    source 380
+    target 100
+    rank 2
+  ]
+  edge
+  [
+    source 381
+    target 198
+    rank 1
+  ]
+  edge
+  [
+    source 381
+    target 88
+    rank 2
+  ]
+  edge
+  [
+    source 381
+    target 27
+    rank 6
+  ]
+  edge
+  [
+    source 381
+    target 19
+    rank 12
+  ]
+  edge
+  [
+    source 382
+    target 155
+    rank 11
+  ]
+  edge
+  [
+    source 382
+    target 501
+    rank 20
+  ]
+  edge
+  [
+    source 383
+    target 13
+    rank 1
+  ]
+  edge
+  [
+    source 383
+    target 2
+    rank 10
+  ]
+  edge
+  [
+    source 384
+    target 17
+    rank 5
+  ]
+  edge
+  [
+    source 385
+    target 497
+    rank 1
+  ]
+  edge
+  [
+    source 386
+    target 559
+    rank 1
+  ]
+  edge
+  [
+    source 386
+    target 453
+    rank 12
+  ]
+  edge
+  [
+    source 386
+    target 102
+    rank 18
+  ]
+  edge
+  [
+    source 388
+    target 457
+    rank 4
+  ]
+  edge
+  [
+    source 388
+    target 305
+    rank 6
+  ]
+  edge
+  [
+    source 388
+    target 31
+    rank 9
+  ]
+  edge
+  [
+    source 388
+    target 355
+    rank 10
+  ]
+  edge
+  [
+    source 388
+    target 8
+    rank 11
+  ]
+  edge
+  [
+    source 388
+    target 4
+    rank 17
+  ]
+  edge
+  [
+    source 388
+    target 409
+    rank 18
+  ]
+  edge
+  [
+    source 388
+    target 20
+    rank 19
+  ]
+  edge
+  [
+    source 389
+    target 305
+    rank 2
+  ]
+  edge
+  [
+    source 389
+    target 175
+    rank 5
+  ]
+  edge
+  [
+    source 389
+    target 76
+    rank 6
+  ]
+  edge
+  [
+    source 389
+    target 457
+    rank 7
+  ]
+  edge
+  [
+    source 389
+    target 409
+    rank 8
+  ]
+  edge
+  [
+    source 389
+    target 42
+    rank 9
+  ]
+  edge
+  [
+    source 389
     target 4
     rank 10
   ]
-  edge [
-    source 475
-    target 345
+  edge
+  [
+    source 389
+    target 393
+    rank 13
+  ]
+  edge
+  [
+    source 389
+    target 46
+    rank 14
+  ]
+  edge
+  [
+    source 389
+    target 95
     rank 16
   ]
-  edge [
-    source 476
-    target 92
-    rank 2
+  edge
+  [
+    source 389
+    target 90
+    rank 19
   ]
-  edge [
-    source 477
-    target 461
-    rank 11
-  ]
-  edge [
-    source 478
-    target 417
-    rank 4
-  ]
-  edge [
-    source 478
-    target 480
-    rank 16
-  ]
-  edge [
-    source 479
-    target 473
-    rank 6
-  ]
-  edge [
-    source 479
-    target 480
+  edge
+  [
+    source 390
+    target 10
     rank 7
   ]
-  edge [
-    source 480
-    target 478
-    rank 1
+  edge
+  [
+    source 390
+    target 298
+    rank 10
   ]
-  edge [
-    source 480
-    target 473
+  edge
+  [
+    source 391
+    target 2
+    rank 3
+  ]
+  edge
+  [
+    source 391
+    target 91
+    rank 10
+  ]
+  edge
+  [
+    source 392
+    target 6
     rank 8
   ]
-  edge [
+  edge
+  [
+    source 392
+    target 86
+    rank 9
+  ]
+  edge
+  [
+    source 392
+    target 411
+    rank 11
+  ]
+  edge
+  [
+    source 392
+    target 43
+    rank 14
+  ]
+  edge
+  [
+    source 392
+    target 326
+    rank 16
+  ]
+  edge
+  [
+    source 392
+    target 399
+    rank 18
+  ]
+  edge
+  [
+    source 393
+    target 335
+    rank 2
+  ]
+  edge
+  [
+    source 393
+    target 457
+    rank 8
+  ]
+  edge
+  [
+    source 393
+    target 31
+    rank 9
+  ]
+  edge
+  [
+    source 393
+    target 30
+    rank 11
+  ]
+  edge
+  [
+    source 393
+    target 423
+    rank 12
+  ]
+  edge
+  [
+    source 393
+    target 4
+    rank 13
+  ]
+  edge
+  [
+    source 393
+    target 305
+    rank 14
+  ]
+  edge
+  [
+    source 393
+    target 284
+    rank 15
+  ]
+  edge
+  [
+    source 393
+    target 264
+    rank 18
+  ]
+  edge
+  [
+    source 393
+    target 298
+    rank 19
+  ]
+  edge
+  [
+    source 393
+    target 8
+    rank 20
+  ]
+  edge
+  [
+    source 394
+    target 82
+    rank 1
+  ]
+  edge
+  [
+    source 394
+    target 313
+    rank 3
+  ]
+  edge
+  [
+    source 394
+    target 430
+    rank 4
+  ]
+  edge
+  [
+    source 394
+    target 338
+    rank 6
+  ]
+  edge
+  [
+    source 394
+    target 15
+    rank 11
+  ]
+  edge
+  [
+    source 394
+    target 417
+    rank 12
+  ]
+  edge
+  [
+    source 395
+    target 249
+    rank 1
+  ]
+  edge
+  [
+    source 395
+    target 198
+    rank 2
+  ]
+  edge
+  [
+    source 395
+    target 364
+    rank 4
+  ]
+  edge
+  [
+    source 395
+    target 57
+    rank 11
+  ]
+  edge
+  [
+    source 395
+    target 27
+    rank 13
+  ]
+  edge
+  [
+    source 395
+    target 95
+    rank 17
+  ]
+  edge
+  [
+    source 395
+    target 19
+    rank 18
+  ]
+  edge
+  [
+    source 397
+    target 3
+    rank 2
+  ]
+  edge
+  [
+    source 397
+    target 313
+    rank 3
+  ]
+  edge
+  [
+    source 397
+    target 19
+    rank 11
+  ]
+  edge
+  [
+    source 398
+    target 0
+    rank 1
+  ]
+  edge
+  [
+    source 398
+    target 559
+    rank 2
+  ]
+  edge
+  [
+    source 398
+    target 451
+    rank 3
+  ]
+  edge
+  [
+    source 398
+    target 133
+    rank 4
+  ]
+  edge
+  [
+    source 398
+    target 236
+    rank 15
+  ]
+  edge
+  [
+    source 398
+    target 256
+    rank 18
+  ]
+  edge
+  [
+    source 398
+    target 221
+    rank 20
+  ]
+  edge
+  [
+    source 399
+    target 326
+    rank 1
+  ]
+  edge
+  [
+    source 399
+    target 214
+    rank 5
+  ]
+  edge
+  [
+    source 399
+    target 219
+    rank 9
+  ]
+  edge
+  [
+    source 402
+    target 52
+    rank 2
+  ]
+  edge
+  [
+    source 402
+    target 76
+    rank 5
+  ]
+  edge
+  [
+    source 403
+    target 116
+    rank 19
+  ]
+  edge
+  [
+    source 404
+    target 472
+    rank 1
+  ]
+  edge
+  [
+    source 404
+    target 115
+    rank 4
+  ]
+  edge
+  [
+    source 404
+    target 272
+    rank 7
+  ]
+  edge
+  [
+    source 404
+    target 219
+    rank 10
+  ]
+  edge
+  [
+    source 404
+    target 218
+    rank 12
+  ]
+  edge
+  [
+    source 404
+    target 402
+    rank 19
+  ]
+  edge
+  [
+    source 405
+    target 457
+    rank 1
+  ]
+  edge
+  [
+    source 405
+    target 3
+    rank 14
+  ]
+  edge
+  [
+    source 405
+    target 305
+    rank 16
+  ]
+  edge
+  [
+    source 405
+    target 5
+    rank 18
+  ]
+  edge
+  [
+    source 405
+    target 327
+    rank 19
+  ]
+  edge
+  [
+    source 406
+    target 394
+    rank 3
+  ]
+  edge
+  [
+    source 406
+    target 430
+    rank 5
+  ]
+  edge
+  [
+    source 406
+    target 338
+    rank 6
+  ]
+  edge
+  [
+    source 406
+    target 2
+    rank 8
+  ]
+  edge
+  [
+    source 406
+    target 501
+    rank 18
+  ]
+  edge
+  [
+    source 406
+    target 4
+    rank 19
+  ]
+  edge
+  [
+    source 407
+    target 6
+    rank 9
+  ]
+  edge
+  [
+    source 408
+    target 235
+    rank 3
+  ]
+  edge
+  [
+    source 408
+    target 327
+    rank 4
+  ]
+  edge
+  [
+    source 408
+    target 169
+    rank 11
+  ]
+  edge
+  [
+    source 408
+    target 104
+    rank 14
+  ]
+  edge
+  [
+    source 408
+    target 322
+    rank 16
+  ]
+  edge
+  [
+    source 408
+    target 451
+    rank 19
+  ]
+  edge
+  [
+    source 409
+    target 457
+    rank 3
+  ]
+  edge
+  [
+    source 409
+    target 298
+    rank 5
+  ]
+  edge
+  [
+    source 409
+    target 247
+    rank 14
+  ]
+  edge
+  [
+    source 410
+    target 52
+    rank 1
+  ]
+  edge
+  [
+    source 410
+    target 138
+    rank 5
+  ]
+  edge
+  [
+    source 410
+    target 42
+    rank 7
+  ]
+  edge
+  [
+    source 410
+    target 50
+    rank 10
+  ]
+  edge
+  [
+    source 410
+    target 254
+    rank 12
+  ]
+  edge
+  [
+    source 410
+    target 269
+    rank 16
+  ]
+  edge
+  [
+    source 410
+    target 307
+    rank 17
+  ]
+  edge
+  [
+    source 410
+    target 487
+    rank 19
+  ]
+  edge
+  [
+    source 410
+    target 130
+    rank 20
+  ]
+  edge
+  [
+    source 411
+    target 375
+    rank 5
+  ]
+  edge
+  [
+    source 411
+    target 322
+    rank 16
+  ]
+  edge
+  [
+    source 413
+    target 470
+    rank 2
+  ]
+  edge
+  [
+    source 413
+    target 4
+    rank 4
+  ]
+  edge
+  [
+    source 413
+    target 430
+    rank 6
+  ]
+  edge
+  [
+    source 413
+    target 335
+    rank 7
+  ]
+  edge
+  [
+    source 413
+    target 31
+    rank 8
+  ]
+  edge
+  [
+    source 413
+    target 8
+    rank 10
+  ]
+  edge
+  [
+    source 413
+    target 30
+    rank 14
+  ]
+  edge
+  [
+    source 413
+    target 45
+    rank 16
+  ]
+  edge
+  [
+    source 415
+    target 4
+    rank 3
+  ]
+  edge
+  [
+    source 415
+    target 143
+    rank 5
+  ]
+  edge
+  [
+    source 415
+    target 470
+    rank 9
+  ]
+  edge
+  [
+    source 415
+    target 20
+    rank 10
+  ]
+  edge
+  [
+    source 415
+    target 371
+    rank 11
+  ]
+  edge
+  [
+    source 415
+    target 5
+    rank 16
+  ]
+  edge
+  [
+    source 415
+    target 355
+    rank 18
+  ]
+  edge
+  [
+    source 415
+    target 31
+    rank 19
+  ]
+  edge
+  [
+    source 415
+    target 8
+    rank 20
+  ]
+  edge
+  [
+    source 416
+    target 14
+    rank 7
+  ]
+  edge
+  [
+    source 417
+    target 365
+    rank 1
+  ]
+  edge
+  [
+    source 417
+    target 338
+    rank 6
+  ]
+  edge
+  [
+    source 417
+    target 284
+    rank 12
+  ]
+  edge
+  [
+    source 417
+    target 382
+    rank 15
+  ]
+  edge
+  [
+    source 418
+    target 457
+    rank 3
+  ]
+  edge
+  [
+    source 418
+    target 470
+    rank 4
+  ]
+  edge
+  [
+    source 418
+    target 335
+    rank 6
+  ]
+  edge
+  [
+    source 418
+    target 235
+    rank 14
+  ]
+  edge
+  [
+    source 418
+    target 295
+    rank 15
+  ]
+  edge
+  [
+    source 419
+    target 179
+    rank 4
+  ]
+  edge
+  [
+    source 419
+    target 138
+    rank 8
+  ]
+  edge
+  [
+    source 419
+    target 466
+    rank 9
+  ]
+  edge
+  [
+    source 419
+    target 6
+    rank 14
+  ]
+  edge
+  [
+    source 419
+    target 157
+    rank 16
+  ]
+  edge
+  [
+    source 419
+    target 230
+    rank 17
+  ]
+  edge
+  [
+    source 419
+    target 501
+    rank 18
+  ]
+  edge
+  [
+    source 419
+    target 155
+    rank 19
+  ]
+  edge
+  [
+    source 420
+    target 57
+    rank 1
+  ]
+  edge
+  [
+    source 420
+    target 198
+    rank 2
+  ]
+  edge
+  [
+    source 420
+    target 395
+    rank 3
+  ]
+  edge
+  [
+    source 420
+    target 27
+    rank 4
+  ]
+  edge
+  [
+    source 420
+    target 43
+    rank 6
+  ]
+  edge
+  [
+    source 420
+    target 6
+    rank 9
+  ]
+  edge
+  [
+    source 420
+    target 19
+    rank 13
+  ]
+  edge
+  [
+    source 420
+    target 21
+    rank 15
+  ]
+  edge
+  [
+    source 420
+    target 334
+    rank 17
+  ]
+  edge
+  [
+    source 421
+    target 95
+    rank 7
+  ]
+  edge
+  [
+    source 422
+    target 559
+    rank 2
+  ]
+  edge
+  [
+    source 422
+    target 305
+    rank 3
+  ]
+  edge
+  [
+    source 422
+    target 367
+    rank 9
+  ]
+  edge
+  [
+    source 422
+    target 457
+    rank 10
+  ]
+  edge
+  [
+    source 422
+    target 104
+    rank 12
+  ]
+  edge
+  [
+    source 422
+    target 389
+    rank 15
+  ]
+  edge
+  [
+    source 423
+    target 454
+    rank 1
+  ]
+  edge
+  [
+    source 423
+    target 335
+    rank 6
+  ]
+  edge
+  [
+    source 423
+    target 457
+    rank 9
+  ]
+  edge
+  [
+    source 423
+    target 305
+    rank 10
+  ]
+  edge
+  [
+    source 423
+    target 31
+    rank 13
+  ]
+  edge
+  [
+    source 423
+    target 4
+    rank 14
+  ]
+  edge
+  [
+    source 423
+    target 187
+    rank 15
+  ]
+  edge
+  [
+    source 423
+    target 45
+    rank 17
+  ]
+  edge
+  [
+    source 423
+    target 8
+    rank 18
+  ]
+  edge
+  [
+    source 424
+    target 411
+    rank 12
+  ]
+  edge
+  [
+    source 425
+    target 4
+    rank 5
+  ]
+  edge
+  [
+    source 425
+    target 335
+    rank 7
+  ]
+  edge
+  [
+    source 425
+    target 470
+    rank 8
+  ]
+  edge
+  [
+    source 425
+    target 457
+    rank 9
+  ]
+  edge
+  [
+    source 425
+    target 31
+    rank 12
+  ]
+  edge
+  [
+    source 425
+    target 8
+    rank 14
+  ]
+  edge
+  [
+    source 425
+    target 45
+    rank 16
+  ]
+  edge
+  [
+    source 425
+    target 210
+    rank 20
+  ]
+  edge
+  [
+    source 426
+    target 157
+    rank 3
+  ]
+  edge
+  [
+    source 426
+    target 104
+    rank 6
+  ]
+  edge
+  [
+    source 426
+    target 229
+    rank 8
+  ]
+  edge
+  [
+    source 426
+    target 71
+    rank 15
+  ]
+  edge
+  [
+    source 428
+    target 3
+    rank 3
+  ]
+  edge
+  [
+    source 428
+    target 52
+    rank 4
+  ]
+  edge
+  [
+    source 428
+    target 13
+    rank 12
+  ]
+  edge
+  [
+    source 428
+    target 1
+    rank 14
+  ]
+  edge
+  [
+    source 428
+    target 42
+    rank 17
+  ]
+  edge
+  [
+    source 428
+    target 49
+    rank 19
+  ]
+  edge
+  [
+    source 429
+    target 262
+    rank 16
+  ]
+  edge
+  [
+    source 430
+    target 270
+    rank 1
+  ]
+  edge
+  [
+    source 430
+    target 95
+    rank 2
+  ]
+  edge
+  [
+    source 430
+    target 501
+    rank 4
+  ]
+  edge
+  [
+    source 430
+    target 417
+    rank 6
+  ]
+  edge
+  [
+    source 430
+    target 394
+    rank 10
+  ]
+  edge
+  [
+    source 430
+    target 42
+    rank 13
+  ]
+  edge
+  [
+    source 430
+    target 338
+    rank 14
+  ]
+  edge
+  [
+    source 430
+    target 457
+    rank 17
+  ]
+  edge
+  [
+    source 431
+    target 16
+    rank 2
+  ]
+  edge
+  [
+    source 431
+    target 1
+    rank 7
+  ]
+  edge
+  [
+    source 432
+    target 104
+    rank 3
+  ]
+  edge
+  [
+    source 432
+    target 411
+    rank 6
+  ]
+  edge
+  [
+    source 432
+    target 219
+    rank 10
+  ]
+  edge
+  [
+    source 432
+    target 440
+    rank 12
+  ]
+  edge
+  [
+    source 432
+    target 143
+    rank 14
+  ]
+  edge
+  [
+    source 432
+    target 559
+    rank 17
+  ]
+  edge
+  [
+    source 433
+    target 367
+    rank 13
+  ]
+  edge
+  [
+    source 433
+    target 559
+    rank 14
+  ]
+  edge
+  [
+    source 433
+    target 90
+    rank 19
+  ]
+  edge
+  [
+    source 434
+    target 18
+    rank 1
+  ]
+  edge
+  [
+    source 434
+    target 399
+    rank 8
+  ]
+  edge
+  [
+    source 435
+    target 88
+    rank 1
+  ]
+  edge
+  [
+    source 435
+    target 305
+    rank 4
+  ]
+  edge
+  [
+    source 435
+    target 184
+    rank 15
+  ]
+  edge
+  [
+    source 436
+    target 270
+    rank 2
+  ]
+  edge
+  [
+    source 436
+    target 275
+    rank 3
+  ]
+  edge
+  [
+    source 436
+    target 394
+    rank 6
+  ]
+  edge
+  [
+    source 436
+    target 382
+    rank 8
+  ]
+  edge
+  [
+    source 436
+    target 82
+    rank 9
+  ]
+  edge
+  [
+    source 436
+    target 199
+    rank 10
+  ]
+  edge
+  [
+    source 436
+    target 21
+    rank 16
+  ]
+  edge
+  [
+    source 436
+    target 333
+    rank 18
+  ]
+  edge
+  [
+    source 437
+    target 198
+    rank 1
+  ]
+  edge
+  [
+    source 437
+    target 27
+    rank 3
+  ]
+  edge
+  [
+    source 437
+    target 57
+    rank 8
+  ]
+  edge
+  [
+    source 437
+    target 95
+    rank 13
+  ]
+  edge
+  [
+    source 437
+    target 361
+    rank 17
+  ]
+  edge
+  [
+    source 438
+    target 559
+    rank 1
+  ]
+  edge
+  [
+    source 438
+    target 104
+    rank 5
+  ]
+  edge
+  [
+    source 438
+    target 461
+    rank 8
+  ]
+  edge
+  [
+    source 439
+    target 305
+    rank 2
+  ]
+  edge
+  [
+    source 439
+    target 411
+    rank 10
+  ]
+  edge
+  [
+    source 439
+    target 503
+    rank 17
+  ]
+  edge
+  [
+    source 439
+    target 219
+    rank 18
+  ]
+  edge
+  [
+    source 439
+    target 104
+    rank 20
+  ]
+  edge
+  [
+    source 440
+    target 6
+    rank 5
+  ]
+  edge
+  [
+    source 440
+    target 129
+    rank 6
+  ]
+  edge
+  [
+    source 440
+    target 559
+    rank 7
+  ]
+  edge
+  [
+    source 440
+    target 219
+    rank 15
+  ]
+  edge
+  [
+    source 444
+    target 88
+    rank 1
+  ]
+  edge
+  [
+    source 444
+    target 198
+    rank 3
+  ]
+  edge
+  [
+    source 444
+    target 27
+    rank 4
+  ]
+  edge
+  [
+    source 444
+    target 249
+    rank 7
+  ]
+  edge
+  [
+    source 444
+    target 57
+    rank 11
+  ]
+  edge
+  [
+    source 444
+    target 174
+    rank 19
+  ]
+  edge
+  [
+    source 445
+    target 446
+    rank 3
+  ]
+  edge
+  [
+    source 445
+    target 247
+    rank 9
+  ]
+  edge
+  [
+    source 445
+    target 429
+    rank 20
+  ]
+  edge
+  [
+    source 446
+    target 75
+    rank 11
+  ]
+  edge
+  [
+    source 446
+    target 484
+    rank 14
+  ]
+  edge
+  [
+    source 447
+    target 87
+    rank 11
+  ]
+  edge
+  [
+    source 447
+    target 497
+    rank 15
+  ]
+  edge
+  [
+    source 448
+    target 327
+    rank 2
+  ]
+  edge
+  [
+    source 448
+    target 409
+    rank 6
+  ]
+  edge
+  [
+    source 448
+    target 335
+    rank 9
+  ]
+  edge
+  [
+    source 448
+    target 4
+    rank 11
+  ]
+  edge
+  [
+    source 448
+    target 8
+    rank 14
+  ]
+  edge
+  [
+    source 448
+    target 30
+    rank 16
+  ]
+  edge
+  [
+    source 448
+    target 314
+    rank 18
+  ]
+  edge
+  [
+    source 448
+    target 298
+    rank 20
+  ]
+  edge
+  [
+    source 449
+    target 169
+    rank 2
+  ]
+  edge
+  [
+    source 449
+    target 375
+    rank 11
+  ]
+  edge
+  [
+    source 449
+    target 45
+    rank 19
+  ]
+  edge
+  [
+    source 450
+    target 449
+    rank 4
+  ]
+  edge
+  [
+    source 450
+    target 458
+    rank 8
+  ]
+  edge
+  [
+    source 450
+    target 495
+    rank 12
+  ]
+  edge
+  [
+    source 450
+    target 219
+    rank 17
+  ]
+  edge
+  [
+    source 451
+    target 457
+    rank 7
+  ]
+  edge
+  [
+    source 451
+    target 335
+    rank 8
+  ]
+  edge
+  [
+    source 451
+    target 393
+    rank 10
+  ]
+  edge
+  [
+    source 451
+    target 305
+    rank 11
+  ]
+  edge
+  [
+    source 451
+    target 409
+    rank 12
+  ]
+  edge
+  [
+    source 451
+    target 298
+    rank 14
+  ]
+  edge
+  [
+    source 451
+    target 322
+    rank 17
+  ]
+  edge
+  [
+    source 451
+    target 247
+    rank 19
+  ]
+  edge
+  [
+    source 452
+    target 404
+    rank 1
+  ]
+  edge
+  [
+    source 452
+    target 272
+    rank 6
+  ]
+  edge
+  [
+    source 453
+    target 559
+    rank 1
+  ]
+  edge
+  [
+    source 453
+    target 32
+    rank 4
+  ]
+  edge
+  [
+    source 453
+    target 3
+    rank 6
+  ]
+  edge
+  [
+    source 453
+    target 411
+    rank 9
+  ]
+  edge
+  [
+    source 454
+    target 335
+    rank 5
+  ]
+  edge
+  [
+    source 454
+    target 423
+    rank 6
+  ]
+  edge
+  [
+    source 454
+    target 393
+    rank 7
+  ]
+  edge
+  [
+    source 454
+    target 70
+    rank 8
+  ]
+  edge
+  [
+    source 454
+    target 31
+    rank 10
+  ]
+  edge
+  [
+    source 454
+    target 30
+    rank 17
+  ]
+  edge
+  [
+    source 455
+    target 170
+    rank 15
+  ]
+  edge
+  [
+    source 455
+    target 137
+    rank 17
+  ]
+  edge
+  [
+    source 456
+    target 411
+    rank 18
+  ]
+  edge
+  [
+    source 457
+    target 298
+    rank 3
+  ]
+  edge
+  [
+    source 457
+    target 67
+    rank 9
+  ]
+  edge
+  [
+    source 457
+    target 30
+    rank 10
+  ]
+  edge
+  [
+    source 457
+    target 4
+    rank 13
+  ]
+  edge
+  [
+    source 457
+    target 5
+    rank 14
+  ]
+  edge
+  [
+    source 457
+    target 31
+    rank 18
+  ]
+  edge
+  [
+    source 457
+    target 8
+    rank 19
+  ]
+  edge
+  [
+    source 458
+    target 53
+    rank 1
+  ]
+  edge
+  [
+    source 458
+    target 495
+    rank 2
+  ]
+  edge
+  [
+    source 458
+    target 326
+    rank 7
+  ]
+  edge
+  [
+    source 458
+    target 412
+    rank 15
+  ]
+  edge
+  [
+    source 459
+    target 31
+    rank 6
+  ]
+  edge
+  [
+    source 459
+    target 335
+    rank 7
+  ]
+  edge
+  [
+    source 459
+    target 305
+    rank 9
+  ]
+  edge
+  [
+    source 459
+    target 30
+    rank 10
+  ]
+  edge
+  [
+    source 459
+    target 8
+    rank 11
+  ]
+  edge
+  [
+    source 459
+    target 20
+    rank 16
+  ]
+  edge
+  [
+    source 459
+    target 235
+    rank 18
+  ]
+  edge
+  [
+    source 459
+    target 4
+    rank 19
+  ]
+  edge
+  [
+    source 460
+    target 53
+    rank 1
+  ]
+  edge
+  [
+    source 460
+    target 495
+    rank 3
+  ]
+  edge
+  [
+    source 461
+    target 241
+    rank 1
+  ]
+  edge
+  [
+    source 461
+    target 433
+    rank 2
+  ]
+  edge
+  [
+    source 461
+    target 1
+    rank 3
+  ]
+  edge
+  [
+    source 461
+    target 559
+    rank 4
+  ]
+  edge
+  [
+    source 461
+    target 104
+    rank 13
+  ]
+  edge
+  [
+    source 462
+    target 19
+    rank 3
+  ]
+  edge
+  [
+    source 462
+    target 413
+    rank 4
+  ]
+  edge
+  [
+    source 462
+    target 526
+    rank 7
+  ]
+  edge
+  [
+    source 463
+    target 451
+    rank 1
+  ]
+  edge
+  [
+    source 463
+    target 327
+    rank 4
+  ]
+  edge
+  [
+    source 463
+    target 355
+    rank 5
+  ]
+  edge
+  [
+    source 463
+    target 409
+    rank 7
+  ]
+  edge
+  [
+    source 463
+    target 169
+    rank 9
+  ]
+  edge
+  [
+    source 463
+    target 20
+    rank 11
+  ]
+  edge
+  [
+    source 463
+    target 8
+    rank 12
+  ]
+  edge
+  [
+    source 463
+    target 30
+    rank 15
+  ]
+  edge
+  [
+    source 463
+    target 5
+    rank 17
+  ]
+  edge
+  [
+    source 465
+    target 457
+    rank 3
+  ]
+  edge
+  [
+    source 465
+    target 305
+    rank 4
+  ]
+  edge
+  [
+    source 465
+    target 449
+    rank 7
+  ]
+  edge
+  [
+    source 466
+    target 47
+    rank 1
+  ]
+  edge
+  [
+    source 466
+    target 1
+    rank 3
+  ]
+  edge
+  [
+    source 466
+    target 6
+    rank 4
+  ]
+  edge
+  [
+    source 466
+    target 82
+    rank 6
+  ]
+  edge
+  [
+    source 466
+    target 338
+    rank 9
+  ]
+  edge
+  [
+    source 466
+    target 95
+    rank 14
+  ]
+  edge
+  [
+    source 467
+    target 409
+    rank 10
+  ]
+  edge
+  [
+    source 467
+    target 393
+    rank 17
+  ]
+  edge
+  [
+    source 467
+    target 423
+    rank 20
+  ]
+  edge
+  [
+    source 468
+    target 399
+    rank 8
+  ]
+  edge
+  [
+    source 468
+    target 283
+    rank 17
+  ]
+  edge
+  [
+    source 468
+    target 109
+    rank 20
+  ]
+  edge
+  [
+    source 469
+    target 47
+    rank 1
+  ]
+  edge
+  [
+    source 469
+    target 315
+    rank 2
+  ]
+  edge
+  [
+    source 469
+    target 501
+    rank 4
+  ]
+  edge
+  [
+    source 469
+    target 148
+    rank 6
+  ]
+  edge
+  [
+    source 469
+    target 65
+    rank 12
+  ]
+  edge
+  [
+    source 470
+    target 457
+    rank 6
+  ]
+  edge
+  [
+    source 470
+    target 327
+    rank 7
+  ]
+  edge
+  [
+    source 470
+    target 335
+    rank 8
+  ]
+  edge
+  [
+    source 470
+    target 25
+    rank 11
+  ]
+  edge
+  [
+    source 470
+    target 30
+    rank 12
+  ]
+  edge
+  [
+    source 470
+    target 8
+    rank 15
+  ]
+  edge
+  [
+    source 470
+    target 4
+    rank 17
+  ]
+  edge
+  [
+    source 470
+    target 31
+    rank 18
+  ]
+  edge
+  [
+    source 471
+    target 392
+    rank 2
+  ]
+  edge
+  [
+    source 471
+    target 187
+    rank 4
+  ]
+  edge
+  [
+    source 471
+    target 13
+    rank 5
+  ]
+  edge
+  [
+    source 471
+    target 305
+    rank 9
+  ]
+  edge
+  [
+    source 471
+    target 326
+    rank 17
+  ]
+  edge
+  [
+    source 472
+    target 6
+    rank 7
+  ]
+  edge
+  [
+    source 472
+    target 449
+    rank 8
+  ]
+  edge
+  [
+    source 472
+    target 219
+    rank 10
+  ]
+  edge
+  [
+    source 472
+    target 70
+    rank 11
+  ]
+  edge
+  [
+    source 472
+    target 11
+    rank 15
+  ]
+  edge
+  [
+    source 472
+    target 155
+    rank 18
+  ]
+  edge
+  [
+    source 473
+    target 43
+    rank 3
+  ]
+  edge
+  [
+    source 473
+    target 14
+    rank 8
+  ]
+  edge
+  [
+    source 474
+    target 235
+    rank 6
+  ]
+  edge
+  [
+    source 474
+    target 95
+    rank 9
+  ]
+  edge
+  [
+    source 474
+    target 399
+    rank 13
+  ]
+  edge
+  [
+    source 476
+    target 1
+    rank 4
+  ]
+  edge
+  [
+    source 476
+    target 88
+    rank 13
+  ]
+  edge
+  [
+    source 477
+    target 241
+    rank 4
+  ]
+  edge
+  [
+    source 479
+    target 66
+    rank 1
+  ]
+  edge
+  [
+    source 479
+    target 457
+    rank 4
+  ]
+  edge
+  [
+    source 479
+    target 12
+    rank 5
+  ]
+  edge
+  [
     source 480
-    target 479
+    target 495
+    rank 6
+  ]
+  edge
+  [
+    source 481
+    target 457
+    rank 5
+  ]
+  edge
+  [
+    source 481
+    target 305
+    rank 6
+  ]
+  edge
+  [
+    source 481
+    target 367
+    rank 8
+  ]
+  edge
+  [
+    source 481
+    target 104
+    rank 13
+  ]
+  edge
+  [
+    source 481
+    target 559
+    rank 17
+  ]
+  edge
+  [
+    source 482
+    target 457
+    rank 4
+  ]
+  edge
+  [
+    source 482
+    target 327
+    rank 5
+  ]
+  edge
+  [
+    source 482
+    target 4
+    rank 6
+  ]
+  edge
+  [
+    source 482
+    target 305
+    rank 9
+  ]
+  edge
+  [
+    source 482
+    target 8
+    rank 13
+  ]
+  edge
+  [
+    source 482
+    target 355
+    rank 15
+  ]
+  edge
+  [
+    source 482
+    target 218
+    rank 19
+  ]
+  edge
+  [
+    source 482
+    target 329
+    rank 20
+  ]
+  edge
+  [
+    source 483
+    target 52
+    rank 4
+  ]
+  edge
+  [
+    source 483
+    target 247
+    rank 6
+  ]
+  edge
+  [
+    source 483
+    target 95
+    rank 12
+  ]
+  edge
+  [
+    source 483
+    target 223
+    rank 19
+  ]
+  edge
+  [
+    source 484
+    target 445
+    rank 3
+  ]
+  edge
+  [
+    source 484
+    target 446
+    rank 5
+  ]
+  edge
+  [
+    source 485
+    target 411
+    rank 3
+  ]
+  edge
+  [
+    source 485
+    target 248
+    rank 15
+  ]
+  edge
+  [
+    source 486
+    target 140
+    rank 19
+  ]
+  edge
+  [
+    source 487
+    target 1
+    rank 3
+  ]
+  edge
+  [
+    source 487
+    target 15
+    rank 4
+  ]
+  edge
+  [
+    source 487
+    target 138
+    rank 5
+  ]
+  edge
+  [
+    source 487
+    target 3
+    rank 8
+  ]
+  edge
+  [
+    source 487
+    target 84
+    rank 9
+  ]
+  edge
+  [
+    source 487
+    target 254
+    rank 11
+  ]
+  edge
+  [
+    source 487
+    target 42
+    rank 15
+  ]
+  edge
+  [
+    source 487
+    target 28
+    rank 18
+  ]
+  edge
+  [
+    source 487
+    target 61
+    rank 19
+  ]
+  edge
+  [
+    source 489
+    target 374
+    rank 2
+  ]
+  edge
+  [
+    source 489
+    target 559
+    rank 7
+  ]
+  edge
+  [
+    source 490
+    target 232
+    rank 13
+  ]
+  edge
+  [
+    source 496
+    target 327
+    rank 9
+  ]
+  edge
+  [
+    source 497
+    target 349
+    rank 1
+  ]
+  edge
+  [
+    source 497
+    target 411
+    rank 5
+  ]
+  edge
+  [
+    source 497
+    target 2
+    rank 11
+  ]
+  edge
+  [
+    source 497
+    target 12
+    rank 19
+  ]
+  edge
+  [
+    source 499
+    target 312
+    rank 5
+  ]
+  edge
+  [
+    source 500
+    target 399
+    rank 6
+  ]
+  edge
+  [
+    source 501
+    target 2
+    rank 5
+  ]
+  edge
+  [
+    source 501
+    target 241
+    rank 11
+  ]
+  edge
+  [
+    source 501
+    target 449
+    rank 15
+  ]
+  edge
+  [
+    source 501
+    target 19
+    rank 17
+  ]
+  edge
+  [
+    source 503
+    target 243
+    rank 2
+  ]
+  edge
+  [
+    source 504
+    target 2
+    rank 7
+  ]
+  edge
+  [
+    source 506
+    target 473
+    rank 4
+  ]
+  edge
+  [
+    source 513
+    target 70
+    rank 1
+  ]
+  edge
+  [
+    source 514
+    target 491
+    rank 9
+  ]
+  edge
+  [
+    source 515
+    target 449
+    rank 2
+  ]
+  edge
+  [
+    source 515
+    target 327
+    rank 9
+  ]
+  edge
+  [
+    source 515
+    target 375
+    rank 12
+  ]
+  edge
+  [
+    source 517
+    target 399
+    rank 1
+  ]
+  edge
+  [
+    source 517
+    target 449
+    rank 3
+  ]
+  edge
+  [
+    source 517
+    target 411
+    rank 9
+  ]
+  edge
+  [
+    source 517
+    target 214
+    rank 11
+  ]
+  edge
+  [
+    source 527
+    target 532
+    rank 1
+  ]
+  edge
+  [
+    source 527
+    target 515
+    rank 12
+  ]
+  edge
+  [
+    source 532
+    target 449
+    rank 1
+  ]
+  edge
+  [
+    source 532
+    target 327
+    rank 7
+  ]
+  edge
+  [
+    source 532
+    target 375
+    rank 9
+  ]
+  edge
+  [
+    source 532
+    target 319
+    rank 14
+  ]
+  edge
+  [
+    source 554
+    target 569
+    rank 3
+  ]
+  edge
+  [
+    source 554
+    target 573
+    rank 14
+  ]
+  edge
+  [
+    source 554
+    target 570
+    rank 18
+  ]
+  edge
+  [
+    source 558
+    target 569
+    rank 9
+  ]
+  edge
+  [
+    source 559
+    target 4
+    rank 10
+  ]
+  edge
+  [
+    source 559
+    target 367
+    rank 16
+  ]
+  edge
+  [
+    source 561
+    target 95
+    rank 2
+  ]
+  edge
+  [
+    source 564
+    target 500
+    rank 11
+  ]
+  edge
+  [
+    source 569
+    target 449
+    rank 4
+  ]
+  edge
+  [
+    source 569
+    target 573
+    rank 16
+  ]
+  edge
+  [
+    source 570
+    target 554
+    rank 6
+  ]
+  edge
+  [
+    source 570
+    target 573
+    rank 7
+  ]
+  edge
+  [
+    source 573
+    target 569
+    rank 1
+  ]
+  edge
+  [
+    source 573
+    target 554
+    rank 8
+  ]
+  edge
+  [
+    source 573
+    target 570
     rank 14
   ]
 ]

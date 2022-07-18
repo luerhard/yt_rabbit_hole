@@ -1,6 +1,10 @@
-graph [
+Creator "igraph version 1.3.1 Mon Jul 18 16:46:26 2022"
+Version 1
+graph
+[
   directed 1
-  node [
+  node
+  [
     id 0
     label "ucPoLHSav7A"
     step 0
@@ -15,20 +19,19 @@ graph [
     commentcount 3247
     duration "PT5M58S"
     indegree 102
-    cluster 1
+    ppinsult 0.11068413
+    ppflirtation 0.3935839
+    ppidentityattack 0.16080979
+    ppthreat 0.16879122
+    pptoxicity 0.20302857
+    ppsexuallyexplicit 0.07231705
+    ppprofanity 0.07935536
+    ppinflammatory 0.1686353
     sentiment -0.4767
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.07231705
-    PERSPECTIVE_FLIRTATION 0.3935839
-    PERSPECTIVE_INSULT 0.11068413
-    PERSPECTIVE_TOXICITY 0.20302857
-    PERSPECTIVE_IDENTITY_ATTACK 0.16080979
-    PERSPECTIVE_INFLAMMATORY 0.1686353
-    PERSPECTIVE_THREAT 0.16879122
-    PERSPECTIVE_PROFANITY 0.07935536
+    cluster 1
   ]
-  node [
+  node
+  [
     id 1
     label "QajOO6zUTW4"
     step 0
@@ -43,20 +46,19 @@ graph [
     commentcount 312
     duration "PT10M12S"
     indegree 59
+    ppinsult 0.0837422
+    ppflirtation 0.2929561
+    ppidentityattack 0.12042347
+    ppthreat 0.14331006
+    pptoxicity 0.058130227
+    ppsexuallyexplicit 0.036361873
+    ppprofanity 0.046880886
+    ppinflammatory 0.21544969
+    sentiment 0
     cluster 2
-    sentiment 0.0
-    leftright "L"
-    channeltags "Mainstream News|PartisanLeft|StateFunded"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.036361873
-    PERSPECTIVE_FLIRTATION 0.2929561
-    PERSPECTIVE_INSULT 0.0837422
-    PERSPECTIVE_TOXICITY 0.058130227
-    PERSPECTIVE_IDENTITY_ATTACK 0.12042347
-    PERSPECTIVE_INFLAMMATORY 0.21544969
-    PERSPECTIVE_THREAT 0.14331006
-    PERSPECTIVE_PROFANITY 0.046880886
   ]
-  node [
+  node
+  [
     id 2
     label "graevR96sqk"
     step 0
@@ -71,20 +73,19 @@ graph [
     commentcount 213
     duration "PT5M38S"
     indegree 49
+    ppinsult 0.04092108
+    ppflirtation 0.18332122
+    ppidentityattack 0.05128056
+    ppthreat 0.09149687
+    pptoxicity 0.017631676
+    ppsexuallyexplicit 0.027889546
+    ppprofanity 0.03350453
+    ppinflammatory 0.14702205
+    sentiment 0
     cluster 2
-    sentiment 0.0
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.027889546
-    PERSPECTIVE_FLIRTATION 0.18332122
-    PERSPECTIVE_INSULT 0.04092108
-    PERSPECTIVE_TOXICITY 0.017631676
-    PERSPECTIVE_IDENTITY_ATTACK 0.05128056
-    PERSPECTIVE_INFLAMMATORY 0.14702205
-    PERSPECTIVE_THREAT 0.09149687
-    PERSPECTIVE_PROFANITY 0.03350453
   ]
-  node [
+  node
+  [
     id 3
     label "ZXCXT57Swww"
     step 0
@@ -99,20 +100,19 @@ graph [
     commentcount 61
     duration "PT3M56S"
     indegree 15
+    ppinsult 0.05904513
+    ppflirtation 0.397056
+    ppidentityattack 0.12515894
+    ppthreat 0.30204508
+    pptoxicity 0.1731117
+    ppsexuallyexplicit 0.04696072
+    ppprofanity 0.05165492
+    ppinflammatory 0.021871759
+    sentiment 0
     cluster 2
-    sentiment 0.0
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.04696072
-    PERSPECTIVE_FLIRTATION 0.397056
-    PERSPECTIVE_INSULT 0.05904513
-    PERSPECTIVE_TOXICITY 0.1731117
-    PERSPECTIVE_IDENTITY_ATTACK 0.12515894
-    PERSPECTIVE_INFLAMMATORY 0.021871759
-    PERSPECTIVE_THREAT 0.30204508
-    PERSPECTIVE_PROFANITY 0.05165492
   ]
-  node [
+  node
+  [
     id 4
     label "rzUASFzT_2k"
     step 0
@@ -127,20 +127,19 @@ graph [
     commentcount 12185
     duration "PT8M1S"
     indegree 13
-    cluster 2
+    ppinsult 0.2784501
+    ppflirtation 0.36264694
+    ppidentityattack 0.13051021
+    ppthreat 0.14853315
+    pptoxicity 0.18253209
+    ppsexuallyexplicit 0.046430662
+    ppprofanity 0.068422735
+    ppinflammatory 0.20422302
     sentiment 0.1027
-    leftright "L"
-    channeltags "Mainstream News|PartisanLeft"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.046430662
-    PERSPECTIVE_FLIRTATION 0.36264694
-    PERSPECTIVE_INSULT 0.2784501
-    PERSPECTIVE_TOXICITY 0.18253209
-    PERSPECTIVE_IDENTITY_ATTACK 0.13051021
-    PERSPECTIVE_INFLAMMATORY 0.20422302
-    PERSPECTIVE_THREAT 0.14853315
-    PERSPECTIVE_PROFANITY 0.068422735
+    cluster 2
   ]
-  node [
+  node
+  [
     id 5
     label "tqb2D3SJiZ0"
     step 0
@@ -155,20 +154,19 @@ graph [
     commentcount 39
     duration "PT2M18S"
     indegree 5
-    cluster 3
+    ppinsult 0.016824527
+    ppflirtation 0.29911557
+    ppidentityattack 0.019303618
+    ppthreat 0.033761103
+    pptoxicity 0.016173938
+    ppsexuallyexplicit 0.08086266
+    ppprofanity 0.021154728
+    ppinflammatory 0.11281926
     sentiment -0.4019
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.08086266
-    PERSPECTIVE_FLIRTATION 0.29911557
-    PERSPECTIVE_INSULT 0.016824527
-    PERSPECTIVE_TOXICITY 0.016173938
-    PERSPECTIVE_IDENTITY_ATTACK 0.019303618
-    PERSPECTIVE_INFLAMMATORY 0.11281926
-    PERSPECTIVE_THREAT 0.033761103
-    PERSPECTIVE_PROFANITY 0.021154728
+    cluster 3
   ]
-  node [
+  node
+  [
     id 6
     label "vrKsTQpUp8w"
     step 0
@@ -183,20 +181,19 @@ graph [
     commentcount 1360
     duration "PT5M1S"
     indegree 22
-    cluster 2
+    ppinsult 0.12149433
+    ppflirtation 0.20849267
+    ppidentityattack 0.23831171
+    ppthreat 0.11320798
+    pptoxicity 0.08796701
+    ppsexuallyexplicit 0.027275626
+    ppprofanity 0.041483074
+    ppinflammatory 0.47742164
     sentiment 0.0258
-    leftright "R"
-    channeltags "PartisanRight"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.027275626
-    PERSPECTIVE_FLIRTATION 0.20849267
-    PERSPECTIVE_INSULT 0.12149433
-    PERSPECTIVE_TOXICITY 0.08796701
-    PERSPECTIVE_IDENTITY_ATTACK 0.23831171
-    PERSPECTIVE_INFLAMMATORY 0.47742164
-    PERSPECTIVE_THREAT 0.11320798
-    PERSPECTIVE_PROFANITY 0.041483074
+    cluster 2
   ]
-  node [
+  node
+  [
     id 7
     label "KYgoX8uWasE"
     step 0
@@ -211,20 +208,19 @@ graph [
     commentcount 3166
     duration "PT2M34S"
     indegree 28
-    cluster 2
+    ppinsult 0.040958695
+    ppflirtation 0.19859947
+    ppidentityattack 0.036724575
+    ppthreat 0.059782825
+    pptoxicity 0.024833864
+    ppsexuallyexplicit 0.023044687
+    ppprofanity 0.027742676
+    ppinflammatory 0.3380246
     sentiment -0.25
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.023044687
-    PERSPECTIVE_FLIRTATION 0.19859947
-    PERSPECTIVE_INSULT 0.040958695
-    PERSPECTIVE_TOXICITY 0.024833864
-    PERSPECTIVE_IDENTITY_ATTACK 0.036724575
-    PERSPECTIVE_INFLAMMATORY 0.3380246
-    PERSPECTIVE_THREAT 0.059782825
-    PERSPECTIVE_PROFANITY 0.027742676
+    cluster 2
   ]
-  node [
+  node
+  [
     id 8
     label "IHPL_Kp-9RA"
     step 0
@@ -239,20 +235,19 @@ graph [
     commentcount 1184
     duration "PT5M45S"
     indegree 58
-    cluster 4
+    ppinsult 0.045685418
+    ppflirtation 0.18768956
+    ppidentityattack 0.03850077
+    ppthreat 0.065297484
+    pptoxicity 0.014022041
+    ppsexuallyexplicit 0.019676754
+    ppprofanity 0.02339779
+    ppinflammatory 0.1961838
     sentiment 0.1779
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.019676754
-    PERSPECTIVE_FLIRTATION 0.18768956
-    PERSPECTIVE_INSULT 0.045685418
-    PERSPECTIVE_TOXICITY 0.014022041
-    PERSPECTIVE_IDENTITY_ATTACK 0.03850077
-    PERSPECTIVE_INFLAMMATORY 0.1961838
-    PERSPECTIVE_THREAT 0.065297484
-    PERSPECTIVE_PROFANITY 0.02339779
+    cluster 4
   ]
-  node [
+  node
+  [
     id 9
     label "eK83QqbNOmU"
     step 0
@@ -267,20 +262,19 @@ graph [
     commentcount 15304
     duration "PT16M42S"
     indegree 18
+    ppinsult 0.03601381
+    ppflirtation 0.23746534
+    ppidentityattack 0.03911217
+    ppthreat 0.1327076
+    pptoxicity 0.014993866
+    ppsexuallyexplicit 0.03502477
+    ppprofanity 0.03261562
+    ppinflammatory 0.12159153
+    sentiment 0
     cluster 2
-    sentiment 0.0
-    leftright "C"
-    channeltags NAN
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.03502477
-    PERSPECTIVE_FLIRTATION 0.23746534
-    PERSPECTIVE_INSULT 0.03601381
-    PERSPECTIVE_TOXICITY 0.014993866
-    PERSPECTIVE_IDENTITY_ATTACK 0.03911217
-    PERSPECTIVE_INFLAMMATORY 0.12159153
-    PERSPECTIVE_THREAT 0.1327076
-    PERSPECTIVE_PROFANITY 0.03261562
   ]
-  node [
+  node
+  [
     id 10
     label "SSTnN5bFyBk"
     step 0
@@ -295,20 +289,19 @@ graph [
     commentcount 38
     duration "PT1M38S"
     indegree 7
+    ppinsult 0.15978616
+    ppflirtation 0.29299194
+    ppidentityattack 0.2909384
+    ppthreat 0.6274689
+    pptoxicity 0.0813051
+    ppsexuallyexplicit 0.032889552
+    ppprofanity 0.09179301
+    ppinflammatory 0.13212596
+    sentiment 0
     cluster 2
-    sentiment 0.0
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.032889552
-    PERSPECTIVE_FLIRTATION 0.29299194
-    PERSPECTIVE_INSULT 0.15978616
-    PERSPECTIVE_TOXICITY 0.0813051
-    PERSPECTIVE_IDENTITY_ATTACK 0.2909384
-    PERSPECTIVE_INFLAMMATORY 0.13212596
-    PERSPECTIVE_THREAT 0.6274689
-    PERSPECTIVE_PROFANITY 0.09179301
   ]
-  node [
+  node
+  [
     id 11
     label "ZyLCT8F4AFs"
     step 0
@@ -323,20 +316,19 @@ graph [
     commentcount 29
     duration "PT5M52S"
     indegree 0
+    ppinsult 0.033240438
+    ppflirtation 0.23664948
+    ppidentityattack 0.05263628
+    ppthreat 0.077553615
+    pptoxicity 0.023803791
+    ppsexuallyexplicit 0.050462544
+    ppprofanity 0.045541137
+    ppinflammatory 0.16379489
+    sentiment 0
     cluster 2
-    sentiment 0.0
-    leftright ""
-    channeltags ""
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.050462544
-    PERSPECTIVE_FLIRTATION 0.23664948
-    PERSPECTIVE_INSULT 0.033240438
-    PERSPECTIVE_TOXICITY 0.023803791
-    PERSPECTIVE_IDENTITY_ATTACK 0.05263628
-    PERSPECTIVE_INFLAMMATORY 0.16379489
-    PERSPECTIVE_THREAT 0.077553615
-    PERSPECTIVE_PROFANITY 0.045541137
   ]
-  node [
+  node
+  [
     id 12
     label "CRjqSPSkNEo"
     step 0
@@ -351,20 +343,19 @@ graph [
     commentcount 783
     duration "PT2M8S"
     indegree 11
-    cluster 4
-    sentiment 0.0
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.034696177
-    PERSPECTIVE_FLIRTATION 0.24924535
-    PERSPECTIVE_INSULT 0.06161456
-    PERSPECTIVE_TOXICITY 0.03461955
-    PERSPECTIVE_IDENTITY_ATTACK 0.055464353
-    PERSPECTIVE_INFLAMMATORY 0.19428588
-    PERSPECTIVE_THREAT 0.1017583
-    PERSPECTIVE_PROFANITY 0.04166722
+    ppinsult 0.06161456
+    ppflirtation 0.24924535
+    ppidentityattack 0.055464353
+    ppthreat 0.1017583
+    pptoxicity 0.03461955
+    ppsexuallyexplicit 0.034696177
+    ppprofanity 0.04166722
+    ppinflammatory 0.19428588
+    sentiment 0
+    cluster 2
   ]
-  node [
+  node
+  [
     id 13
     label "_8ZcOWYsE7M"
     step 0
@@ -379,20 +370,19 @@ graph [
     commentcount 16424
     duration "PT12M33S"
     indegree 11
-    cluster 1
+    ppinsult 0.068587996
+    ppflirtation 0.39830172
+    ppidentityattack 0.12761809
+    ppthreat 0.11736097
+    pptoxicity 0.06492286
+    ppsexuallyexplicit 0.12550755
+    ppprofanity 0.07500296
+    ppinflammatory 0.2831581
     sentiment -0.1027
-    leftright "L"
-    channeltags "Socialist"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.12550755
-    PERSPECTIVE_FLIRTATION 0.39830172
-    PERSPECTIVE_INSULT 0.068587996
-    PERSPECTIVE_TOXICITY 0.06492286
-    PERSPECTIVE_IDENTITY_ATTACK 0.12761809
-    PERSPECTIVE_INFLAMMATORY 0.2831581
-    PERSPECTIVE_THREAT 0.11736097
-    PERSPECTIVE_PROFANITY 0.07500296
+    cluster 1
   ]
-  node [
+  node
+  [
     id 14
     label "x4Vxv9e3qW0"
     step 0
@@ -407,20 +397,19 @@ graph [
     commentcount 74
     duration "PT6M51S"
     indegree 7
-    cluster 2
+    ppinsult 0.022007592
+    ppflirtation 0.1871444
+    ppidentityattack 0.028781395
+    ppthreat 0.087566346
+    pptoxicity 0.023460433
+    ppsexuallyexplicit 0.02348149
+    ppprofanity 0.017827138
+    ppinflammatory 0.12136632
     sentiment -0.296
-    leftright ""
-    channeltags ""
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.02348149
-    PERSPECTIVE_FLIRTATION 0.1871444
-    PERSPECTIVE_INSULT 0.022007592
-    PERSPECTIVE_TOXICITY 0.023460433
-    PERSPECTIVE_IDENTITY_ATTACK 0.028781395
-    PERSPECTIVE_INFLAMMATORY 0.12136632
-    PERSPECTIVE_THREAT 0.087566346
-    PERSPECTIVE_PROFANITY 0.017827138
+    cluster 2
   ]
-  node [
+  node
+  [
     id 15
     label "D9zo-NucuXk"
     step 0
@@ -435,20 +424,19 @@ graph [
     commentcount 1395
     duration "PT2M50S"
     indegree 8
-    cluster 2
-    sentiment 0.0
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.03579639
-    PERSPECTIVE_FLIRTATION 0.25929847
-    PERSPECTIVE_INSULT 0.10557975
-    PERSPECTIVE_TOXICITY 0.15130237
-    PERSPECTIVE_IDENTITY_ATTACK 0.11765837
-    PERSPECTIVE_INFLAMMATORY 0.3554868
-    PERSPECTIVE_THREAT 0.09708457
-    PERSPECTIVE_PROFANITY 0.063785955
+    ppinsult 0.10557975
+    ppflirtation 0.25929847
+    ppidentityattack 0.11765837
+    ppthreat 0.09708457
+    pptoxicity 0.15130237
+    ppsexuallyexplicit 0.03579639
+    ppprofanity 0.063785955
+    ppinflammatory 0.3554868
+    sentiment 0
+    cluster 5
   ]
-  node [
+  node
+  [
     id 16
     label "tgWl37892qQ"
     step 0
@@ -463,20 +451,19 @@ graph [
     commentcount 377
     duration "PT3M16S"
     indegree 4
+    ppinsult 0.070105
+    ppflirtation 0.34940657
+    ppidentityattack 0.079156324
+    ppthreat 0.22279245
+    pptoxicity 0.13655609
+    ppsexuallyexplicit 0.04451228
+    ppprofanity 0.0471425
+    ppinflammatory 0.37166643
+    sentiment 0
     cluster 2
-    sentiment 0.0
-    leftright "C"
-    channeltags "Mainstream News|StateFunded"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.04451228
-    PERSPECTIVE_FLIRTATION 0.34940657
-    PERSPECTIVE_INSULT 0.070105
-    PERSPECTIVE_TOXICITY 0.13655609
-    PERSPECTIVE_IDENTITY_ATTACK 0.079156324
-    PERSPECTIVE_INFLAMMATORY 0.37166643
-    PERSPECTIVE_THREAT 0.22279245
-    PERSPECTIVE_PROFANITY 0.0471425
   ]
-  node [
+  node
+  [
     id 17
     label "4Dp71M9guFI"
     step 0
@@ -491,20 +478,19 @@ graph [
     commentcount 1782
     duration "PT5M37S"
     indegree 10
-    cluster 5
-    sentiment 0.0
-    leftright ""
-    channeltags ""
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.053268388
-    PERSPECTIVE_FLIRTATION 0.253411
-    PERSPECTIVE_INSULT 0.06966933
-    PERSPECTIVE_TOXICITY 0.029812546
-    PERSPECTIVE_IDENTITY_ATTACK 0.03592876
-    PERSPECTIVE_INFLAMMATORY 0.24764568
-    PERSPECTIVE_THREAT 0.12395586
-    PERSPECTIVE_PROFANITY 0.039561227
+    ppinsult 0.06966933
+    ppflirtation 0.253411
+    ppidentityattack 0.03592876
+    ppthreat 0.12395586
+    pptoxicity 0.029812546
+    ppsexuallyexplicit 0.053268388
+    ppprofanity 0.039561227
+    ppinflammatory 0.24764568
+    sentiment 0
+    cluster 3
   ]
-  node [
+  node
+  [
     id 18
     label "uXniD5SBX7s"
     step 0
@@ -519,20 +505,19 @@ graph [
     commentcount 6
     duration "PT3M35S"
     indegree 7
-    cluster 2
+    ppinsult 0.04126372
+    ppflirtation 0.4613181
+    ppidentityattack 0.038914986
+    ppthreat 0.14307347
+    pptoxicity 0.049212243
+    ppsexuallyexplicit 0.098525144
+    ppprofanity 0.053256664
+    ppinflammatory 0.24530096
     sentiment -0.5574
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.098525144
-    PERSPECTIVE_FLIRTATION 0.4613181
-    PERSPECTIVE_INSULT 0.04126372
-    PERSPECTIVE_TOXICITY 0.049212243
-    PERSPECTIVE_IDENTITY_ATTACK 0.038914986
-    PERSPECTIVE_INFLAMMATORY 0.24530096
-    PERSPECTIVE_THREAT 0.14307347
-    PERSPECTIVE_PROFANITY 0.053256664
+    cluster 2
   ]
-  node [
+  node
+  [
     id 19
     label "qgJcvTZyUng"
     step 0
@@ -547,20 +532,19 @@ graph [
     commentcount 1029
     duration "PT35S"
     indegree 2
+    ppinsult 0.051477235
+    ppflirtation 0.24737169
+    ppidentityattack 0.050492156
+    ppthreat 0.084734924
+    pptoxicity 0.07970683
+    ppsexuallyexplicit 0.03258944
+    ppprofanity 0.035134073
+    ppinflammatory 0.31897104
+    sentiment 0
     cluster 2
-    sentiment 0.0
-    leftright "R"
-    channeltags NAN
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.03258944
-    PERSPECTIVE_FLIRTATION 0.24737169
-    PERSPECTIVE_INSULT 0.051477235
-    PERSPECTIVE_TOXICITY 0.07970683
-    PERSPECTIVE_IDENTITY_ATTACK 0.050492156
-    PERSPECTIVE_INFLAMMATORY 0.31897104
-    PERSPECTIVE_THREAT 0.084734924
-    PERSPECTIVE_PROFANITY 0.035134073
   ]
-  node [
+  node
+  [
     id 20
     label "7ASgDL8Dymw"
     step 0
@@ -575,20 +559,19 @@ graph [
     commentcount 142
     duration "PT3M43S"
     indegree 7
-    cluster 6
-    sentiment 0.0
-    leftright "L"
-    channeltags "Mainstream News|PartisanLeft"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.09489708
-    PERSPECTIVE_FLIRTATION 0.25117403
-    PERSPECTIVE_INSULT 0.07970936
-    PERSPECTIVE_TOXICITY 0.02193547
-    PERSPECTIVE_IDENTITY_ATTACK 0.10926995
-    PERSPECTIVE_INFLAMMATORY 0.20140196
-    PERSPECTIVE_THREAT 0.2509116
-    PERSPECTIVE_PROFANITY 0.10186604
+    ppinsult 0.07970936
+    ppflirtation 0.25117403
+    ppidentityattack 0.10926995
+    ppthreat 0.2509116
+    pptoxicity 0.02193547
+    ppsexuallyexplicit 0.09489708
+    ppprofanity 0.10186604
+    ppinflammatory 0.20140196
+    sentiment 0
+    cluster 5
   ]
-  node [
+  node
+  [
     id 21
     label "BxNpCIMd-PY"
     step 0
@@ -603,20 +586,19 @@ graph [
     commentcount 1542
     duration "PT8M36S"
     indegree 27
+    ppinsult 0.079080425
+    ppflirtation 0.43873522
+    ppidentityattack 0.18715538
+    ppthreat 0.37970352
+    pptoxicity 0.07011723
+    ppsexuallyexplicit 0.058908667
+    ppprofanity 0.056193884
+    ppinflammatory 0.26272672
+    sentiment 0
     cluster 1
-    sentiment 0.0
-    leftright "C"
-    channeltags "Mainstream News|StateFunded"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.058908667
-    PERSPECTIVE_FLIRTATION 0.43873522
-    PERSPECTIVE_INSULT 0.079080425
-    PERSPECTIVE_TOXICITY 0.07011723
-    PERSPECTIVE_IDENTITY_ATTACK 0.18715538
-    PERSPECTIVE_INFLAMMATORY 0.26272672
-    PERSPECTIVE_THREAT 0.37970352
-    PERSPECTIVE_PROFANITY 0.056193884
   ]
-  node [
+  node
+  [
     id 22
     label "TxMx25OnJ0s"
     step 0
@@ -631,20 +613,19 @@ graph [
     commentcount 4991
     duration "PT2M44S"
     indegree 17
-    cluster 7
+    ppinsult 0.09920095
+    ppflirtation 0.22547682
+    ppidentityattack 0.18078946
+    ppthreat 0.18121274
+    pptoxicity 0.027237365
+    ppsexuallyexplicit 0.075561546
+    ppprofanity 0.07815081
+    ppinflammatory 0.43778783
     sentiment -0.2263
-    leftright "L"
-    channeltags "Mainstream News|PartisanLeft"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.075561546
-    PERSPECTIVE_FLIRTATION 0.22547682
-    PERSPECTIVE_INSULT 0.09920095
-    PERSPECTIVE_TOXICITY 0.027237365
-    PERSPECTIVE_IDENTITY_ATTACK 0.18078946
-    PERSPECTIVE_INFLAMMATORY 0.43778783
-    PERSPECTIVE_THREAT 0.18121274
-    PERSPECTIVE_PROFANITY 0.07815081
+    cluster 6
   ]
-  node [
+  node
+  [
     id 23
     label "SpFax8EojrA"
     step 0
@@ -659,20 +640,19 @@ graph [
     commentcount 3720
     duration "PT1M51S"
     indegree 10
-    cluster 2
+    ppinsult 0.036477942
+    ppflirtation 0.25243878
+    ppidentityattack 0.03631719
+    ppthreat 0.07539188
+    pptoxicity 0.013952625
+    ppsexuallyexplicit 0.02485447
+    ppprofanity 0.028286537
+    ppinflammatory 0.31509116
     sentiment -0.25
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.02485447
-    PERSPECTIVE_FLIRTATION 0.25243878
-    PERSPECTIVE_INSULT 0.036477942
-    PERSPECTIVE_TOXICITY 0.013952625
-    PERSPECTIVE_IDENTITY_ATTACK 0.03631719
-    PERSPECTIVE_INFLAMMATORY 0.31509116
-    PERSPECTIVE_THREAT 0.07539188
-    PERSPECTIVE_PROFANITY 0.028286537
+    cluster 2
   ]
-  node [
+  node
+  [
     id 24
     label "yDGSRr5xig4"
     step 0
@@ -687,20 +667,19 @@ graph [
     commentcount 289
     duration "PT2M6S"
     indegree 7
+    ppinsult 0.0930969
+    ppflirtation 0.35352266
+    ppidentityattack 0.13756828
+    ppthreat 0.4730664
+    pptoxicity 0.09118898
+    ppsexuallyexplicit 0.03796191
+    ppprofanity 0.064768076
+    ppinflammatory 0.09745882
+    sentiment 0
     cluster 2
-    sentiment 0.0
-    leftright ""
-    channeltags ""
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.03796191
-    PERSPECTIVE_FLIRTATION 0.35352266
-    PERSPECTIVE_INSULT 0.0930969
-    PERSPECTIVE_TOXICITY 0.09118898
-    PERSPECTIVE_IDENTITY_ATTACK 0.13756828
-    PERSPECTIVE_INFLAMMATORY 0.09745882
-    PERSPECTIVE_THREAT 0.4730664
-    PERSPECTIVE_PROFANITY 0.064768076
   ]
-  node [
+  node
+  [
     id 25
     label "Y_Xm6u1ihUk"
     step 0
@@ -715,20 +694,19 @@ graph [
     commentcount 54
     duration "PT4M17S"
     indegree 8
-    cluster 3
+    ppinsult 0.043102305
+    ppflirtation 0.35588706
+    ppidentityattack 0.05306193
+    ppthreat 0.09111146
+    pptoxicity 0.13521013
+    ppsexuallyexplicit 0.0787486
+    ppprofanity 0.03196453
+    ppinflammatory 0.21724643
     sentiment 0.2732
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.0787486
-    PERSPECTIVE_FLIRTATION 0.35588706
-    PERSPECTIVE_INSULT 0.043102305
-    PERSPECTIVE_TOXICITY 0.13521013
-    PERSPECTIVE_IDENTITY_ATTACK 0.05306193
-    PERSPECTIVE_INFLAMMATORY 0.21724643
-    PERSPECTIVE_THREAT 0.09111146
-    PERSPECTIVE_PROFANITY 0.03196453
+    cluster 3
   ]
-  node [
+  node
+  [
     id 26
     label "tAG0DBO9bjA"
     step 0
@@ -743,20 +721,19 @@ graph [
     commentcount 699
     duration "PT6M35S"
     indegree 11
+    ppinsult 0.027056644
+    ppflirtation 0.25383255
+    ppidentityattack 0.063437305
+    ppthreat 0.21431908
+    pptoxicity 0.049898956
+    ppsexuallyexplicit 0.029871821
+    ppprofanity 0.023309804
+    ppinflammatory 0.5680319
+    sentiment 0
     cluster 3
-    sentiment 0.0
-    leftright ""
-    channeltags ""
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.029871821
-    PERSPECTIVE_FLIRTATION 0.25383255
-    PERSPECTIVE_INSULT 0.027056644
-    PERSPECTIVE_TOXICITY 0.049898956
-    PERSPECTIVE_IDENTITY_ATTACK 0.063437305
-    PERSPECTIVE_INFLAMMATORY 0.5680319
-    PERSPECTIVE_THREAT 0.21431908
-    PERSPECTIVE_PROFANITY 0.023309804
   ]
-  node [
+  node
+  [
     id 27
     label "NJReJNNzh_0"
     step 0
@@ -771,20 +748,19 @@ graph [
     commentcount 72
     duration "PT8M1S"
     indegree 6
-    cluster 2
+    ppinsult 0.07710813
+    ppflirtation 0.28533182
+    ppidentityattack 0.14432825
+    ppthreat 0.11622953
+    pptoxicity 0.033246122
+    ppsexuallyexplicit 0.048109658
+    ppprofanity 0.063489795
+    ppinflammatory 0.2512594
     sentiment -0.25
-    leftright ""
-    channeltags ""
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.048109658
-    PERSPECTIVE_FLIRTATION 0.28533182
-    PERSPECTIVE_INSULT 0.07710813
-    PERSPECTIVE_TOXICITY 0.033246122
-    PERSPECTIVE_IDENTITY_ATTACK 0.14432825
-    PERSPECTIVE_INFLAMMATORY 0.2512594
-    PERSPECTIVE_THREAT 0.11622953
-    PERSPECTIVE_PROFANITY 0.063489795
+    cluster 2
   ]
-  node [
+  node
+  [
     id 28
     label "VKkeup-ZNlQ"
     step 0
@@ -799,20 +775,19 @@ graph [
     commentcount 95
     duration "PT3M17S"
     indegree 3
-    cluster 3
+    ppinsult 0.124886006
+    ppflirtation 0.40559864
+    ppidentityattack 0.09503819
+    ppthreat 0.12115873
+    pptoxicity 0.03616466
+    ppsexuallyexplicit 0.05176493
+    ppprofanity 0.064261705
+    ppinflammatory 0.42933303
     sentiment -0.2732
-    leftright ""
-    channeltags ""
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.05176493
-    PERSPECTIVE_FLIRTATION 0.40559864
-    PERSPECTIVE_INSULT 0.124886006
-    PERSPECTIVE_TOXICITY 0.03616466
-    PERSPECTIVE_IDENTITY_ATTACK 0.09503819
-    PERSPECTIVE_INFLAMMATORY 0.42933303
-    PERSPECTIVE_THREAT 0.12115873
-    PERSPECTIVE_PROFANITY 0.064261705
+    cluster 3
   ]
-  node [
+  node
+  [
     id 29
     label "IqH5zAHaRn0"
     step 0
@@ -827,20 +802,19 @@ graph [
     commentcount -1
     duration "PT2M6S"
     indegree 9
-    cluster 1
+    ppinsult 0.019534595
+    ppflirtation 0.34367508
+    ppidentityattack 0.03700627
+    ppthreat 0.16948028
+    pptoxicity 0.09065199
+    ppsexuallyexplicit 0.031877674
+    ppprofanity 0.02326589
+    ppinflammatory 0.353528
     sentiment 0.0772
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.031877674
-    PERSPECTIVE_FLIRTATION 0.34367508
-    PERSPECTIVE_INSULT 0.019534595
-    PERSPECTIVE_TOXICITY 0.09065199
-    PERSPECTIVE_IDENTITY_ATTACK 0.03700627
-    PERSPECTIVE_INFLAMMATORY 0.353528
-    PERSPECTIVE_THREAT 0.16948028
-    PERSPECTIVE_PROFANITY 0.02326589
+    cluster 1
   ]
-  node [
+  node
+  [
     id 30
     label "B_61BlBCTpE"
     step 0
@@ -855,20 +829,19 @@ graph [
     commentcount 97
     duration "PT2M22S"
     indegree 6
-    cluster 2
+    ppinsult 0.051672213
+    ppflirtation 0.3052026
+    ppidentityattack 0.124979235
+    ppthreat 0.21048582
+    pptoxicity 0.011037151
+    ppsexuallyexplicit 0.031251106
+    ppprofanity 0.048904892
+    ppinflammatory 0.16820444
     sentiment -0.3818
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.031251106
-    PERSPECTIVE_FLIRTATION 0.3052026
-    PERSPECTIVE_INSULT 0.051672213
-    PERSPECTIVE_TOXICITY 0.011037151
-    PERSPECTIVE_IDENTITY_ATTACK 0.124979235
-    PERSPECTIVE_INFLAMMATORY 0.16820444
-    PERSPECTIVE_THREAT 0.21048582
-    PERSPECTIVE_PROFANITY 0.048904892
+    cluster 2
   ]
-  node [
+  node
+  [
     id 31
     label "LT80RvFZ7T4"
     step 0
@@ -883,20 +856,19 @@ graph [
     commentcount 501
     duration "PT14M52S"
     indegree 4
+    ppinsult 0.36637458
+    ppflirtation 0.33407778
+    ppidentityattack 0.5448499
+    ppthreat 0.31121427
+    pptoxicity 0.09118898
+    ppsexuallyexplicit 0.120170735
+    ppprofanity 0.24737272
+    ppinflammatory 0.2770018
+    sentiment 0
     cluster 2
-    sentiment 0.0
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.120170735
-    PERSPECTIVE_FLIRTATION 0.33407778
-    PERSPECTIVE_INSULT 0.36637458
-    PERSPECTIVE_TOXICITY 0.09118898
-    PERSPECTIVE_IDENTITY_ATTACK 0.5448499
-    PERSPECTIVE_INFLAMMATORY 0.2770018
-    PERSPECTIVE_THREAT 0.31121427
-    PERSPECTIVE_PROFANITY 0.24737272
   ]
-  node [
+  node
+  [
     id 32
     label "8LLtwkh3rbQ"
     step 0
@@ -911,20 +883,19 @@ graph [
     commentcount 4
     duration "PT2M54S"
     indegree 2
+    ppinsult 0.031485885
+    ppflirtation 0.21838617
+    ppidentityattack 0.04098243
+    ppthreat 0.08245012
+    pptoxicity 0.022213135
+    ppsexuallyexplicit 0.033154175
+    ppprofanity 0.03118819
+    ppinflammatory 0.13532184
+    sentiment 0
     cluster 2
-    sentiment 0.0
-    leftright ""
-    channeltags ""
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.033154175
-    PERSPECTIVE_FLIRTATION 0.21838617
-    PERSPECTIVE_INSULT 0.031485885
-    PERSPECTIVE_TOXICITY 0.022213135
-    PERSPECTIVE_IDENTITY_ATTACK 0.04098243
-    PERSPECTIVE_INFLAMMATORY 0.13532184
-    PERSPECTIVE_THREAT 0.08245012
-    PERSPECTIVE_PROFANITY 0.03118819
   ]
-  node [
+  node
+  [
     id 33
     label "gWXQ2Dv-PJY"
     step 0
@@ -939,20 +910,19 @@ graph [
     commentcount 210
     duration "PT5M38S"
     indegree 20
-    cluster 1
-    sentiment 0.0
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.024903266
-    PERSPECTIVE_FLIRTATION 0.33364803
-    PERSPECTIVE_INSULT 0.04030819
-    PERSPECTIVE_TOXICITY 0.015549194
-    PERSPECTIVE_IDENTITY_ATTACK 0.021116864
-    PERSPECTIVE_INFLAMMATORY 0.11357697
-    PERSPECTIVE_THREAT 0.04653384
-    PERSPECTIVE_PROFANITY 0.022329861
+    ppinsult 0.04030819
+    ppflirtation 0.33364803
+    ppidentityattack 0.021116864
+    ppthreat 0.04653384
+    pptoxicity 0.015549194
+    ppsexuallyexplicit 0.024903266
+    ppprofanity 0.022329861
+    ppinflammatory 0.11357697
+    sentiment 0
+    cluster 7
   ]
-  node [
+  node
+  [
     id 34
     label "wr_hxM_t03M"
     step 0
@@ -967,20 +937,19 @@ graph [
     commentcount 194
     duration "PT3M5S"
     indegree 1
+    ppinsult 0.13762033
+    ppflirtation 0.24653104
+    ppidentityattack 0.20129843
+    ppthreat 0.4119578
+    pptoxicity 0.09709594
+    ppsexuallyexplicit 0.017378258
+    ppprofanity 0.060057558
+    ppinflammatory 0.26606157
+    sentiment 0
     cluster 8
-    sentiment 0.0
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.017378258
-    PERSPECTIVE_FLIRTATION 0.24653104
-    PERSPECTIVE_INSULT 0.13762033
-    PERSPECTIVE_TOXICITY 0.09709594
-    PERSPECTIVE_IDENTITY_ATTACK 0.20129843
-    PERSPECTIVE_INFLAMMATORY 0.26606157
-    PERSPECTIVE_THREAT 0.4119578
-    PERSPECTIVE_PROFANITY 0.060057558
   ]
-  node [
+  node
+  [
     id 35
     label "eFCPsLCL5Fw"
     step 0
@@ -995,20 +964,19 @@ graph [
     commentcount 1806
     duration "PT1M32S"
     indegree 1
-    cluster 5
-    sentiment 0.0
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.02716418
-    PERSPECTIVE_FLIRTATION 0.3179154
-    PERSPECTIVE_INSULT 0.11417495
-    PERSPECTIVE_TOXICITY 0.0825038
-    PERSPECTIVE_IDENTITY_ATTACK 0.12084108
-    PERSPECTIVE_INFLAMMATORY 0.26819244
-    PERSPECTIVE_THREAT 0.31318036
-    PERSPECTIVE_PROFANITY 0.049244266
+    ppinsult 0.11417495
+    ppflirtation 0.3179154
+    ppidentityattack 0.12084108
+    ppthreat 0.31318036
+    pptoxicity 0.0825038
+    ppsexuallyexplicit 0.02716418
+    ppprofanity 0.049244266
+    ppinflammatory 0.26819244
+    sentiment 0
+    cluster 3
   ]
-  node [
+  node
+  [
     id 36
     label "HncSgW7mMy0"
     step 0
@@ -1023,20 +991,19 @@ graph [
     commentcount 127
     duration "PT39S"
     indegree 3
+    ppinsult 0.024456115
+    ppflirtation 0.24526514
+    ppidentityattack 0.026341483
+    ppthreat 0.089865714
+    pptoxicity 0.012772553
+    ppsexuallyexplicit 0.022852963
+    ppprofanity 0.017014412
+    ppinflammatory 0.22123127
+    sentiment 0
     cluster 2
-    sentiment 0.0
-    leftright "L"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.022852963
-    PERSPECTIVE_FLIRTATION 0.24526514
-    PERSPECTIVE_INSULT 0.024456115
-    PERSPECTIVE_TOXICITY 0.012772553
-    PERSPECTIVE_IDENTITY_ATTACK 0.026341483
-    PERSPECTIVE_INFLAMMATORY 0.22123127
-    PERSPECTIVE_THREAT 0.089865714
-    PERSPECTIVE_PROFANITY 0.017014412
   ]
-  node [
+  node
+  [
     id 37
     label "3QDB-0jGKCI"
     step 0
@@ -1051,20 +1018,19 @@ graph [
     commentcount -1
     duration "PT1M41S"
     indegree 8
-    cluster 2
+    ppinsult 0.092026204
+    ppflirtation 0.34963948
+    ppidentityattack 0.12364927
+    ppthreat 0.23795469
+    pptoxicity 0.03187269
+    ppsexuallyexplicit 0.037675552
+    ppprofanity 0.053018257
+    ppinflammatory 0.14822775
     sentiment 0.34
-    leftright "L"
-    channeltags "Mainstream News|StateFunded"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.037675552
-    PERSPECTIVE_FLIRTATION 0.34963948
-    PERSPECTIVE_INSULT 0.092026204
-    PERSPECTIVE_TOXICITY 0.03187269
-    PERSPECTIVE_IDENTITY_ATTACK 0.12364927
-    PERSPECTIVE_INFLAMMATORY 0.14822775
-    PERSPECTIVE_THREAT 0.23795469
-    PERSPECTIVE_PROFANITY 0.053018257
+    cluster 2
   ]
-  node [
+  node
+  [
     id 38
     label "EnfFgWP-XCs"
     step 0
@@ -1079,20 +1045,19 @@ graph [
     commentcount 1023
     duration "PT6M48S"
     indegree 19
-    cluster 6
-    sentiment 0.0
-    leftright ""
-    channeltags ""
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.013854568
-    PERSPECTIVE_FLIRTATION 0.1937263
-    PERSPECTIVE_INSULT 0.02654194
-    PERSPECTIVE_TOXICITY 0.033932835
-    PERSPECTIVE_IDENTITY_ATTACK 0.029844467
-    PERSPECTIVE_INFLAMMATORY 0.26912698
-    PERSPECTIVE_THREAT 0.04493787
-    PERSPECTIVE_PROFANITY 0.010791191
+    ppinsult 0.02654194
+    ppflirtation 0.1937263
+    ppidentityattack 0.029844467
+    ppthreat 0.04493787
+    pptoxicity 0.033932835
+    ppsexuallyexplicit 0.013854568
+    ppprofanity 0.010791191
+    ppinflammatory 0.26912698
+    sentiment 0
+    cluster 5
   ]
-  node [
+  node
+  [
     id 39
     label "LnjY4NTWxTc"
     step 0
@@ -1107,20 +1072,19 @@ graph [
     commentcount 72
     duration "PT1M54S"
     indegree 2
-    cluster 9
+    ppinsult 0.07094454
+    ppflirtation 0.21566665
+    ppidentityattack 0.16724087
+    ppthreat 0.16261595
+    pptoxicity 0.023460433
+    ppsexuallyexplicit 0.03961067
+    ppprofanity 0.061502453
+    ppinflammatory 0.23574781
     sentiment -0.25
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.03961067
-    PERSPECTIVE_FLIRTATION 0.21566665
-    PERSPECTIVE_INSULT 0.07094454
-    PERSPECTIVE_TOXICITY 0.023460433
-    PERSPECTIVE_IDENTITY_ATTACK 0.16724087
-    PERSPECTIVE_INFLAMMATORY 0.23574781
-    PERSPECTIVE_THREAT 0.16261595
-    PERSPECTIVE_PROFANITY 0.061502453
+    cluster 9
   ]
-  node [
+  node
+  [
     id 40
     label "kIF9IWndLMo"
     step 0
@@ -1135,20 +1099,19 @@ graph [
     commentcount 104
     duration "PT3M26S"
     indegree 0
-    cluster 6
-    sentiment 0.0
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.023372645
-    PERSPECTIVE_FLIRTATION 0.19668475
-    PERSPECTIVE_INSULT 0.029387906
-    PERSPECTIVE_TOXICITY 0.013952625
-    PERSPECTIVE_IDENTITY_ATTACK 0.025174975
-    PERSPECTIVE_INFLAMMATORY 0.13114877
-    PERSPECTIVE_THREAT 0.061164018
-    PERSPECTIVE_PROFANITY 0.01946719
+    ppinsult 0.029387906
+    ppflirtation 0.19668475
+    ppidentityattack 0.025174975
+    ppthreat 0.061164018
+    pptoxicity 0.013952625
+    ppsexuallyexplicit 0.023372645
+    ppprofanity 0.01946719
+    ppinflammatory 0.13114877
+    sentiment 0
+    cluster 5
   ]
-  node [
+  node
+  [
     id 41
     label "3UwtCFh7SAc"
     step 0
@@ -1163,20 +1126,19 @@ graph [
     commentcount 2307
     duration "PT1M53S"
     indegree 6
-    cluster 2
+    ppinsult 0.025124243
+    ppflirtation 0.36516678
+    ppidentityattack 0.030650698
+    ppthreat 0.18074957
+    pptoxicity 0.03204437
+    ppsexuallyexplicit 0.030689966
+    ppprofanity 0.018954432
+    ppinflammatory 0.43767828
     sentiment -0.5574
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.030689966
-    PERSPECTIVE_FLIRTATION 0.36516678
-    PERSPECTIVE_INSULT 0.025124243
-    PERSPECTIVE_TOXICITY 0.03204437
-    PERSPECTIVE_IDENTITY_ATTACK 0.030650698
-    PERSPECTIVE_INFLAMMATORY 0.43767828
-    PERSPECTIVE_THREAT 0.18074957
-    PERSPECTIVE_PROFANITY 0.018954432
+    cluster 2
   ]
-  node [
+  node
+  [
     id 42
     label "E5D-cwxuylo"
     step 0
@@ -1191,20 +1153,19 @@ graph [
     commentcount 31
     duration "PT22S"
     indegree 1
-    cluster 5
-    sentiment 0.0
-    leftright ""
-    channeltags ""
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.04987202
-    PERSPECTIVE_FLIRTATION 0.37413493
-    PERSPECTIVE_INSULT 0.04121597
-    PERSPECTIVE_TOXICITY 0.019297661
-    PERSPECTIVE_IDENTITY_ATTACK 0.05065261
-    PERSPECTIVE_INFLAMMATORY 0.19197266
-    PERSPECTIVE_THREAT 0.15465242
-    PERSPECTIVE_PROFANITY 0.037296314
+    ppinsult 0.04121597
+    ppflirtation 0.37413493
+    ppidentityattack 0.05065261
+    ppthreat 0.15465242
+    pptoxicity 0.019297661
+    ppsexuallyexplicit 0.04987202
+    ppprofanity 0.037296314
+    ppinflammatory 0.19197266
+    sentiment 0
+    cluster 2
   ]
-  node [
+  node
+  [
     id 43
     label "_MNcQoxYVDg"
     step 0
@@ -1219,20 +1180,19 @@ graph [
     commentcount 374
     duration "PT2M29S"
     indegree 6
-    cluster 2
+    ppinsult 0.10426478
+    ppflirtation 0.23188551
+    ppidentityattack 0.16970234
+    ppthreat 0.15401268
+    pptoxicity 0.026207292
+    ppsexuallyexplicit 0.073980995
+    ppprofanity 0.09585316
+    ppinflammatory 0.31005764
     sentiment -0.2263
-    leftright "L"
-    channeltags "Mainstream News|PartisanLeft"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.073980995
-    PERSPECTIVE_FLIRTATION 0.23188551
-    PERSPECTIVE_INSULT 0.10426478
-    PERSPECTIVE_TOXICITY 0.026207292
-    PERSPECTIVE_IDENTITY_ATTACK 0.16970234
-    PERSPECTIVE_INFLAMMATORY 0.31005764
-    PERSPECTIVE_THREAT 0.15401268
-    PERSPECTIVE_PROFANITY 0.09585316
+    cluster 7
   ]
-  node [
+  node
+  [
     id 44
     label "jMOMq1_dMkw"
     step 0
@@ -1247,20 +1207,19 @@ graph [
     commentcount 2494
     duration "PT4M30S"
     indegree 10
-    cluster 2
+    ppinsult 0.030569954
+    ppflirtation 0.19482253
+    ppidentityattack 0.01878176
+    ppthreat 0.027375454
+    pptoxicity 0.020685982
+    ppsexuallyexplicit 0.020656867
+    ppprofanity 0.016810222
+    ppinflammatory 0.32744333
     sentiment 0.4019
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.020656867
-    PERSPECTIVE_FLIRTATION 0.19482253
-    PERSPECTIVE_INSULT 0.030569954
-    PERSPECTIVE_TOXICITY 0.020685982
-    PERSPECTIVE_IDENTITY_ATTACK 0.01878176
-    PERSPECTIVE_INFLAMMATORY 0.32744333
-    PERSPECTIVE_THREAT 0.027375454
-    PERSPECTIVE_PROFANITY 0.016810222
+    cluster 2
   ]
-  node [
+  node
+  [
     id 45
     label "Ait9LO5Wv8g"
     step 0
@@ -1275,20 +1234,19 @@ graph [
     commentcount 370
     duration "PT7M1S"
     indegree 11
-    cluster 6
-    sentiment 0.0
-    leftright ""
-    channeltags ""
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.038219895
-    PERSPECTIVE_FLIRTATION 0.355063
-    PERSPECTIVE_INSULT 0.117558725
-    PERSPECTIVE_TOXICITY 0.062925026
-    PERSPECTIVE_IDENTITY_ATTACK 0.29541513
-    PERSPECTIVE_INFLAMMATORY 0.08219937
-    PERSPECTIVE_THREAT 0.29868323
-    PERSPECTIVE_PROFANITY 0.037650622
+    ppinsult 0.117558725
+    ppflirtation 0.355063
+    ppidentityattack 0.29541513
+    ppthreat 0.29868323
+    pptoxicity 0.062925026
+    ppsexuallyexplicit 0.038219895
+    ppprofanity 0.037650622
+    ppinflammatory 0.08219937
+    sentiment 0
+    cluster 5
   ]
-  node [
+  node
+  [
     id 46
     label "ZN7nRgtX9r0"
     step 0
@@ -1303,20 +1261,19 @@ graph [
     commentcount 10248
     duration "PT7M48S"
     indegree 4
-    cluster 1
+    ppinsult 0.03265227
+    ppflirtation 0.3287586
+    ppidentityattack 0.06015582
+    ppthreat 0.129958
+    pptoxicity 0.019852988
+    ppsexuallyexplicit 0.056684393
+    ppprofanity 0.03327019
+    ppinflammatory 0.21096201
     sentiment 0.1779
-    leftright "L"
-    channeltags "Mainstream News|PartisanLeft"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.056684393
-    PERSPECTIVE_FLIRTATION 0.3287586
-    PERSPECTIVE_INSULT 0.03265227
-    PERSPECTIVE_TOXICITY 0.019852988
-    PERSPECTIVE_IDENTITY_ATTACK 0.06015582
-    PERSPECTIVE_INFLAMMATORY 0.21096201
-    PERSPECTIVE_THREAT 0.129958
-    PERSPECTIVE_PROFANITY 0.03327019
+    cluster 7
   ]
-  node [
+  node
+  [
     id 47
     label "iBK2m0ZI9Sk"
     step 0
@@ -1331,20 +1288,19 @@ graph [
     commentcount 5
     duration "PT26S"
     indegree 0
-    cluster 1
+    ppinsult 0.073246524
+    ppflirtation 0.17565562
+    ppidentityattack 0.11891021
+    ppthreat 0.16994374
+    pptoxicity 0.062125895
+    ppsexuallyexplicit 0.022178842
+    ppprofanity 0.055226646
+    ppinflammatory 0.40887782
     sentiment -0.5574
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.022178842
-    PERSPECTIVE_FLIRTATION 0.17565562
-    PERSPECTIVE_INSULT 0.073246524
-    PERSPECTIVE_TOXICITY 0.062125895
-    PERSPECTIVE_IDENTITY_ATTACK 0.11891021
-    PERSPECTIVE_INFLAMMATORY 0.40887782
-    PERSPECTIVE_THREAT 0.16994374
-    PERSPECTIVE_PROFANITY 0.055226646
+    cluster 1
   ]
-  node [
+  node
+  [
     id 48
     label "bjAPtBOAulo"
     step 0
@@ -1359,20 +1315,19 @@ graph [
     commentcount 5844
     duration "PT18M26S"
     indegree 2
+    ppinsult 0.053893197
+    ppflirtation 0.23227884
+    ppidentityattack 0.0723901
+    ppthreat 0.08983819
+    pptoxicity 0.012703137
+    ppsexuallyexplicit 0.068023846
+    ppprofanity 0.06627203
+    ppinflammatory 0.110623546
+    sentiment 0
     cluster 1
-    sentiment 0.0
-    leftright "C"
-    channeltags NAN
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.068023846
-    PERSPECTIVE_FLIRTATION 0.23227884
-    PERSPECTIVE_INSULT 0.053893197
-    PERSPECTIVE_TOXICITY 0.012703137
-    PERSPECTIVE_IDENTITY_ATTACK 0.0723901
-    PERSPECTIVE_INFLAMMATORY 0.110623546
-    PERSPECTIVE_THREAT 0.08983819
-    PERSPECTIVE_PROFANITY 0.06627203
   ]
-  node [
+  node
+  [
     id 49
     label "bji7HoGUd7c"
     step 0
@@ -1387,20 +1342,19 @@ graph [
     commentcount 204
     duration "PT2M20S"
     indegree 0
+    ppinsult 0.09378987
+    ppflirtation 0.37211245
+    ppidentityattack 0.076055
+    ppthreat 0.22352684
+    pptoxicity 0.065721996
+    ppsexuallyexplicit 0.14459902
+    ppprofanity 0.120151766
+    ppinflammatory 0.057000577
+    sentiment 0
     cluster 2
-    sentiment 0.0
-    leftright ""
-    channeltags ""
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.14459902
-    PERSPECTIVE_FLIRTATION 0.37211245
-    PERSPECTIVE_INSULT 0.09378987
-    PERSPECTIVE_TOXICITY 0.065721996
-    PERSPECTIVE_IDENTITY_ATTACK 0.076055
-    PERSPECTIVE_INFLAMMATORY 0.057000577
-    PERSPECTIVE_THREAT 0.22352684
-    PERSPECTIVE_PROFANITY 0.120151766
   ]
-  node [
+  node
+  [
     id 50
     label "tX3Pl5Zl6O0"
     step 0
@@ -1415,20 +1369,19 @@ graph [
     commentcount 111
     duration "PT3M34S"
     indegree 2
-    cluster 5
-    sentiment 0.0
-    leftright ""
-    channeltags ""
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.030871404
-    PERSPECTIVE_FLIRTATION 0.27699146
-    PERSPECTIVE_INSULT 0.04523522
-    PERSPECTIVE_TOXICITY 0.059728492
-    PERSPECTIVE_IDENTITY_ATTACK 0.10415177
-    PERSPECTIVE_INFLAMMATORY 0.21152517
-    PERSPECTIVE_THREAT 0.26693708
-    PERSPECTIVE_PROFANITY 0.03269653
+    ppinsult 0.04523522
+    ppflirtation 0.27699146
+    ppidentityattack 0.10415177
+    ppthreat 0.26693708
+    pptoxicity 0.059728492
+    ppsexuallyexplicit 0.030871404
+    ppprofanity 0.03269653
+    ppinflammatory 0.21152517
+    sentiment 0
+    cluster 3
   ]
-  node [
+  node
+  [
     id 51
     label "IMmVab5y_zM"
     step 0
@@ -1443,20 +1396,19 @@ graph [
     commentcount 3042
     duration "PT2M37S"
     indegree 20
+    ppinsult 0.06808528
+    ppflirtation 0.23963761
+    ppidentityattack 0.08702314
+    ppthreat 0.19093978
+    pptoxicity 0.058929358
+    ppsexuallyexplicit 0.021149626
+    ppprofanity 0.032710567
+    ppinflammatory 0.26823777
+    sentiment 0
     cluster 9
-    sentiment 0.0
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.021149626
-    PERSPECTIVE_FLIRTATION 0.23963761
-    PERSPECTIVE_INSULT 0.06808528
-    PERSPECTIVE_TOXICITY 0.058929358
-    PERSPECTIVE_IDENTITY_ATTACK 0.08702314
-    PERSPECTIVE_INFLAMMATORY 0.26823777
-    PERSPECTIVE_THREAT 0.19093978
-    PERSPECTIVE_PROFANITY 0.032710567
   ]
-  node [
+  node
+  [
     id 52
     label "377UvhOxL_s"
     step 0
@@ -1471,20 +1423,19 @@ graph [
     commentcount 4587
     duration "PT9M40S"
     indegree 35
+    ppinsult 0.030095067
+    ppflirtation 0.32928133
+    ppidentityattack 0.03473628
+    ppthreat 0.09813129
+    pptoxicity 0.033932835
+    ppsexuallyexplicit 0.048455343
+    ppprofanity 0.023785021
+    ppinflammatory 0.20945309
+    sentiment 0
     cluster 5
-    sentiment 0.0
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.048455343
-    PERSPECTIVE_FLIRTATION 0.32928133
-    PERSPECTIVE_INSULT 0.030095067
-    PERSPECTIVE_TOXICITY 0.033932835
-    PERSPECTIVE_IDENTITY_ATTACK 0.03473628
-    PERSPECTIVE_INFLAMMATORY 0.20945309
-    PERSPECTIVE_THREAT 0.09813129
-    PERSPECTIVE_PROFANITY 0.023785021
   ]
-  node [
+  node
+  [
     id 53
     label "cAxShqL53LI"
     step 0
@@ -1499,20 +1450,19 @@ graph [
     commentcount 383
     duration "PT2M31S"
     indegree 15
-    cluster 8
+    ppinsult 0.10102316
+    ppflirtation 0.3130594
+    ppidentityattack 0.10448985
+    ppthreat 0.14580634
+    pptoxicity 0.016035106
+    ppsexuallyexplicit 0.14341831
+    ppprofanity 0.12538204
+    ppinflammatory 0.2643324
     sentiment 0.2023
-    leftright "L"
-    channeltags "Mainstream News|PartisanLeft"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.14341831
-    PERSPECTIVE_FLIRTATION 0.3130594
-    PERSPECTIVE_INSULT 0.10102316
-    PERSPECTIVE_TOXICITY 0.016035106
-    PERSPECTIVE_IDENTITY_ATTACK 0.10448985
-    PERSPECTIVE_INFLAMMATORY 0.2643324
-    PERSPECTIVE_THREAT 0.14580634
-    PERSPECTIVE_PROFANITY 0.12538204
+    cluster 8
   ]
-  node [
+  node
+  [
     id 54
     label "n45cE6qOc7A"
     step 0
@@ -1527,20 +1477,19 @@ graph [
     commentcount 402
     duration "PT1M44S"
     indegree 0
-    cluster 5
-    sentiment 0.0
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.018754158
-    PERSPECTIVE_FLIRTATION 0.15750702
-    PERSPECTIVE_INSULT 0.085266195
-    PERSPECTIVE_TOXICITY 0.028954152
-    PERSPECTIVE_IDENTITY_ATTACK 0.096449964
-    PERSPECTIVE_INFLAMMATORY 0.3559577
-    PERSPECTIVE_THREAT 0.32729718
-    PERSPECTIVE_PROFANITY 0.049054526
+    ppinsult 0.085266195
+    ppflirtation 0.15750702
+    ppidentityattack 0.096449964
+    ppthreat 0.32729718
+    pptoxicity 0.028954152
+    ppsexuallyexplicit 0.018754158
+    ppprofanity 0.049054526
+    ppinflammatory 0.3559577
+    sentiment 0
+    cluster 3
   ]
-  node [
+  node
+  [
     id 55
     label "RjuA4okawaM"
     step 0
@@ -1555,20 +1504,19 @@ graph [
     commentcount 2953
     duration "PT6M44S"
     indegree 12
-    cluster 8
+    ppinsult 0.18872645
+    ppflirtation 0.3175982
+    ppidentityattack 0.260327
+    ppthreat 0.0832171
+    pptoxicity 0.052136723
+    ppsexuallyexplicit 0.05740225
+    ppprofanity 0.049320422
+    ppinflammatory 0.4999347
     sentiment -0.296
-    leftright "L"
-    channeltags "Mainstream News|MissingLinkMedia|PartisanLeft|SocialJustice"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.05740225
-    PERSPECTIVE_FLIRTATION 0.3175982
-    PERSPECTIVE_INSULT 0.18872645
-    PERSPECTIVE_TOXICITY 0.052136723
-    PERSPECTIVE_IDENTITY_ATTACK 0.260327
-    PERSPECTIVE_INFLAMMATORY 0.4999347
-    PERSPECTIVE_THREAT 0.0832171
-    PERSPECTIVE_PROFANITY 0.049320422
+    cluster 8
   ]
-  node [
+  node
+  [
     id 56
     label "bao62zIJOHY"
     step 0
@@ -1583,20 +1531,19 @@ graph [
     commentcount 1415
     duration "PT51S"
     indegree 0
+    ppinsult 0.05489104
+    ppflirtation 0.23137772
+    ppidentityattack 0.046769682
+    ppthreat 0.064327806
+    pptoxicity 0.0136749605
+    ppsexuallyexplicit 0.043704916
+    ppprofanity 0.04084071
+    ppinflammatory 0.20548993
+    sentiment 0
     cluster 9
-    sentiment 0.0
-    leftright "L"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.043704916
-    PERSPECTIVE_FLIRTATION 0.23137772
-    PERSPECTIVE_INSULT 0.05489104
-    PERSPECTIVE_TOXICITY 0.0136749605
-    PERSPECTIVE_IDENTITY_ATTACK 0.046769682
-    PERSPECTIVE_INFLAMMATORY 0.20548993
-    PERSPECTIVE_THREAT 0.064327806
-    PERSPECTIVE_PROFANITY 0.04084071
   ]
-  node [
+  node
+  [
     id 57
     label "pxjRozjul0o"
     step 0
@@ -1611,20 +1558,19 @@ graph [
     commentcount 990
     duration "PT3M35S"
     indegree 0
+    ppinsult 0.07879782
+    ppflirtation 0.40145504
+    ppidentityattack 0.09919659
+    ppthreat 0.4905438
+    pptoxicity 0.09172598
+    ppsexuallyexplicit 0.061611056
+    ppprofanity 0.06463603
+    ppinflammatory 0.28999728
+    sentiment 0
     cluster 9
-    sentiment 0.0
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.061611056
-    PERSPECTIVE_FLIRTATION 0.40145504
-    PERSPECTIVE_INSULT 0.07879782
-    PERSPECTIVE_TOXICITY 0.09172598
-    PERSPECTIVE_IDENTITY_ATTACK 0.09919659
-    PERSPECTIVE_INFLAMMATORY 0.28999728
-    PERSPECTIVE_THREAT 0.4905438
-    PERSPECTIVE_PROFANITY 0.06463603
   ]
-  node [
+  node
+  [
     id 58
     label "6WAUiSGDVBY"
     step 0
@@ -1639,20 +1585,19 @@ graph [
     commentcount 12858
     duration "PT3M23S"
     indegree 9
+    ppinsult 0.0092971595
+    ppflirtation 0.33939698
+    ppidentityattack 0.004865593
+    ppthreat 0.01525248
+    pptoxicity 0.026207292
+    ppsexuallyexplicit 0.028275821
+    ppprofanity 0.0055062138
+    ppinflammatory 0.33647048
+    sentiment 0
     cluster 2
-    sentiment 0.0
-    leftright "L"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.028275821
-    PERSPECTIVE_FLIRTATION 0.33939698
-    PERSPECTIVE_INSULT 0.0092971595
-    PERSPECTIVE_TOXICITY 0.026207292
-    PERSPECTIVE_IDENTITY_ATTACK 0.004865593
-    PERSPECTIVE_INFLAMMATORY 0.33647048
-    PERSPECTIVE_THREAT 0.01525248
-    PERSPECTIVE_PROFANITY 0.0055062138
   ]
-  node [
+  node
+  [
     id 59
     label "f7l5Bi-Q8K8"
     step 0
@@ -1667,21 +1612,20 @@ graph [
     commentcount 3652
     duration "PT2M6S"
     indegree 1
-    cluster 1
+    ppinsult 0.17400563
+    ppflirtation 0.27339643
+    ppidentityattack 0.14357057
+    ppthreat 0.20274323
+    pptoxicity 0.025005542
+    ppsexuallyexplicit 0.14385805
+    ppprofanity 0.14307362
+    ppinflammatory 0.22916937
     sentiment 0.296
-    leftright "L"
-    channeltags "Mainstream News|PartisanLeft"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.14385805
-    PERSPECTIVE_FLIRTATION 0.27339643
-    PERSPECTIVE_INSULT 0.17400563
-    PERSPECTIVE_TOXICITY 0.025005542
-    PERSPECTIVE_IDENTITY_ATTACK 0.14357057
-    PERSPECTIVE_INFLAMMATORY 0.22916937
-    PERSPECTIVE_THREAT 0.20274323
-    PERSPECTIVE_PROFANITY 0.14307362
+    cluster 1
   ]
-  node [
-    id 60
+  node
+  [
+    id 61
     label "4HsgKF2hagQ"
     step 0
     date "2022-01-13T21:06:36Z"
@@ -1695,21 +1639,20 @@ graph [
     commentcount 4257
     duration "PT8M42S"
     indegree 43
-    cluster 4
+    ppinsult 0.08553741
+    ppflirtation 0.35116947
+    ppidentityattack 0.14436077
+    ppthreat 0.2049975
+    pptoxicity 0.067320265
+    ppsexuallyexplicit 0.04128483
+    ppprofanity 0.05245724
+    ppinflammatory 0.15024287
     sentiment 0.4019
-    leftright "L"
-    channeltags "Mainstream News|PartisanLeft"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.04128483
-    PERSPECTIVE_FLIRTATION 0.35116947
-    PERSPECTIVE_INSULT 0.08553741
-    PERSPECTIVE_TOXICITY 0.067320265
-    PERSPECTIVE_IDENTITY_ATTACK 0.14436077
-    PERSPECTIVE_INFLAMMATORY 0.15024287
-    PERSPECTIVE_THREAT 0.2049975
-    PERSPECTIVE_PROFANITY 0.05245724
+    cluster 4
   ]
-  node [
-    id 61
+  node
+  [
+    id 63
     label "eBO6Tzjbq3A"
     step 0
     date "2021-11-04T23:46:04Z"
@@ -1723,21 +1666,20 @@ graph [
     commentcount 8099
     duration "PT3M4S"
     indegree 1
-    cluster 5
-    sentiment 0.0
-    leftright "L"
-    channeltags "Mainstream News|PartisanLeft"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.060995188
-    PERSPECTIVE_FLIRTATION 0.25779352
-    PERSPECTIVE_INSULT 0.05810753
-    PERSPECTIVE_TOXICITY 0.021380141
-    PERSPECTIVE_IDENTITY_ATTACK 0.044678465
-    PERSPECTIVE_INFLAMMATORY 0.101063006
-    PERSPECTIVE_THREAT 0.066874996
-    PERSPECTIVE_PROFANITY 0.08145278
+    ppinsult 0.05810753
+    ppflirtation 0.25779352
+    ppidentityattack 0.044678465
+    ppthreat 0.066874996
+    pptoxicity 0.021380141
+    ppsexuallyexplicit 0.060995188
+    ppprofanity 0.08145278
+    ppinflammatory 0.101063006
+    sentiment 0
+    cluster 7
   ]
-  node [
-    id 62
+  node
+  [
+    id 64
     label "AE3wlNYN5i0"
     step 0
     date "2021-12-09T14:00:02Z"
@@ -1751,21 +1693,20 @@ graph [
     commentcount 125
     duration "PT3M11S"
     indegree 2
-    cluster 10
-    sentiment 0.0
-    leftright "L"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.04744962
-    PERSPECTIVE_FLIRTATION 0.21835075
-    PERSPECTIVE_INSULT 0.10166998
-    PERSPECTIVE_TOXICITY 0.020824814
-    PERSPECTIVE_IDENTITY_ATTACK 0.056313563
-    PERSPECTIVE_INFLAMMATORY 0.34408858
-    PERSPECTIVE_THREAT 0.06978085
-    PERSPECTIVE_PROFANITY 0.060438983
+    ppinsult 0.10166998
+    ppflirtation 0.21835075
+    ppidentityattack 0.056313563
+    ppthreat 0.06978085
+    pptoxicity 0.020824814
+    ppsexuallyexplicit 0.04744962
+    ppprofanity 0.060438983
+    ppinflammatory 0.34408858
+    sentiment 0
+    cluster 9
   ]
-  node [
-    id 63
+  node
+  [
+    id 65
     label "Wb1O2s_xyJI"
     step 0
     date "2022-03-07T22:25:42Z"
@@ -1779,21 +1720,20 @@ graph [
     commentcount 4
     duration "PT2M1S"
     indegree 2
-    cluster 6
+    ppinsult 0.063698314
+    ppflirtation 0.23955595
+    ppidentityattack 0.11742712
+    ppthreat 0.11456015
+    pptoxicity 0.0495556
+    ppsexuallyexplicit 0.05134017
+    ppprofanity 0.059232343
+    ppinflammatory 0.29693288
     sentiment 0.4588
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.05134017
-    PERSPECTIVE_FLIRTATION 0.23955595
-    PERSPECTIVE_INSULT 0.063698314
-    PERSPECTIVE_TOXICITY 0.0495556
-    PERSPECTIVE_IDENTITY_ATTACK 0.11742712
-    PERSPECTIVE_INFLAMMATORY 0.29693288
-    PERSPECTIVE_THREAT 0.11456015
-    PERSPECTIVE_PROFANITY 0.059232343
+    cluster 6
   ]
-  node [
-    id 64
+  node
+  [
+    id 66
     label "Zp3h_N5Y_18"
     step 0
     date "2021-12-18T16:03:52Z"
@@ -1807,21 +1747,20 @@ graph [
     commentcount -1
     duration "PT1M19S"
     indegree 0
+    ppinsult 0.09660812
+    ppflirtation 0.31181034
+    ppidentityattack 0.055678815
+    ppthreat 0.06350254
+    pptoxicity 0.043375164
+    ppsexuallyexplicit 0.028751334
+    ppprofanity 0.033047445
+    ppinflammatory 0.26154113
+    sentiment 0
     cluster 4
-    sentiment 0.0
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.028751334
-    PERSPECTIVE_FLIRTATION 0.31181034
-    PERSPECTIVE_INSULT 0.09660812
-    PERSPECTIVE_TOXICITY 0.043375164
-    PERSPECTIVE_IDENTITY_ATTACK 0.055678815
-    PERSPECTIVE_INFLAMMATORY 0.26154113
-    PERSPECTIVE_THREAT 0.06350254
-    PERSPECTIVE_PROFANITY 0.033047445
   ]
-  node [
-    id 65
+  node
+  [
+    id 67
     label "jCU5C4SrIlI"
     step 0
     date "2021-10-19T00:48:15Z"
@@ -1835,21 +1774,20 @@ graph [
     commentcount 14749
     duration "PT2M31S"
     indegree 11
-    cluster 11
+    ppinsult 0.045430247
+    ppflirtation 0.32924214
+    ppidentityattack 0.039059542
+    ppthreat 0.11888321
+    pptoxicity 0.030842619
+    ppsexuallyexplicit 0.04673014
+    ppprofanity 0.03594304
+    ppinflammatory 0.35287783
     sentiment -0.25
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.04673014
-    PERSPECTIVE_FLIRTATION 0.32924214
-    PERSPECTIVE_INSULT 0.045430247
-    PERSPECTIVE_TOXICITY 0.030842619
-    PERSPECTIVE_IDENTITY_ATTACK 0.039059542
-    PERSPECTIVE_INFLAMMATORY 0.35287783
-    PERSPECTIVE_THREAT 0.11888321
-    PERSPECTIVE_PROFANITY 0.03594304
+    cluster 10
   ]
-  node [
-    id 66
+  node
+  [
+    id 68
     label "wKgWUMyEr7A"
     step 0
     date "2021-10-03T23:34:41Z"
@@ -1863,21 +1801,20 @@ graph [
     commentcount 524
     duration "PT2M23S"
     indegree 0
-    cluster 5
+    ppinsult 0.08709515
+    ppflirtation 0.2250878
+    ppidentityattack 0.13324906
+    ppthreat 0.09803029
+    pptoxicity 0.010481823
+    ppsexuallyexplicit 0.072329365
+    ppprofanity 0.08272696
+    ppinflammatory 0.06365002
     sentiment 0.0258
-    leftright "L"
-    channeltags "Mainstream News|PartisanLeft"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.072329365
-    PERSPECTIVE_FLIRTATION 0.2250878
-    PERSPECTIVE_INSULT 0.08709515
-    PERSPECTIVE_TOXICITY 0.010481823
-    PERSPECTIVE_IDENTITY_ATTACK 0.13324906
-    PERSPECTIVE_INFLAMMATORY 0.06365002
-    PERSPECTIVE_THREAT 0.09803029
-    PERSPECTIVE_PROFANITY 0.08272696
+    cluster 5
   ]
-  node [
-    id 67
+  node
+  [
+    id 69
     label "M3xZFcySAQ8"
     step 0
     date "2021-10-21T02:46:27Z"
@@ -1891,21 +1828,20 @@ graph [
     commentcount 4272
     duration "PT6M7S"
     indegree 6
-    cluster 9
+    ppinsult 0.061798718
+    ppflirtation 0.4834926
+    ppidentityattack 0.18920577
+    ppthreat 0.44599622
+    pptoxicity 0.0471521
+    ppsexuallyexplicit 0.20992671
+    ppprofanity 0.13002567
+    ppinflammatory 0.3086328
     sentiment -0.296
-    leftright "L"
-    channeltags "LateNightTalkShow|PartisanLeft|SocialJustice"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.20992671
-    PERSPECTIVE_FLIRTATION 0.4834926
-    PERSPECTIVE_INSULT 0.061798718
-    PERSPECTIVE_TOXICITY 0.0471521
-    PERSPECTIVE_IDENTITY_ATTACK 0.18920577
-    PERSPECTIVE_INFLAMMATORY 0.3086328
-    PERSPECTIVE_THREAT 0.44599622
-    PERSPECTIVE_PROFANITY 0.13002567
+    cluster 4
   ]
-  node [
-    id 68
+  node
+  [
+    id 70
     label "-d9qUqHCvDg"
     step 0
     date "2021-10-04T20:45:01Z"
@@ -1919,21 +1855,20 @@ graph [
     commentcount 9631
     duration "PT1M20S"
     indegree 0
-    cluster 10
-    sentiment 0.0
-    leftright ""
-    channeltags ""
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.09983963
-    PERSPECTIVE_FLIRTATION 0.41051665
-    PERSPECTIVE_INSULT 0.100305974
-    PERSPECTIVE_TOXICITY 0.0253489
-    PERSPECTIVE_IDENTITY_ATTACK 0.100603126
-    PERSPECTIVE_INFLAMMATORY 0.14037158
-    PERSPECTIVE_THREAT 0.17107014
-    PERSPECTIVE_PROFANITY 0.10676669
+    ppinsult 0.100305974
+    ppflirtation 0.41051665
+    ppidentityattack 0.100603126
+    ppthreat 0.17107014
+    pptoxicity 0.0253489
+    ppsexuallyexplicit 0.09983963
+    ppprofanity 0.10676669
+    ppinflammatory 0.14037158
+    sentiment 0
+    cluster 9
   ]
-  node [
-    id 69
+  node
+  [
+    id 71
     label "cqiPhpPeFVU"
     step 0
     date "2021-09-26T23:13:45Z"
@@ -1947,21 +1882,20 @@ graph [
     commentcount 293
     duration "PT2M11S"
     indegree 4
-    cluster 9
+    ppinsult 0.037463184
+    ppflirtation 0.23877491
+    ppidentityattack 0.03408067
+    ppthreat 0.12552099
+    pptoxicity 0.052935857
+    ppsexuallyexplicit 0.057425234
+    ppprofanity 0.056693424
+    ppinflammatory 0.18865612
     sentiment -0.2732
-    leftright "L"
-    channeltags "Mainstream News|PartisanLeft"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.057425234
-    PERSPECTIVE_FLIRTATION 0.23877491
-    PERSPECTIVE_INSULT 0.037463184
-    PERSPECTIVE_TOXICITY 0.052935857
-    PERSPECTIVE_IDENTITY_ATTACK 0.03408067
-    PERSPECTIVE_INFLAMMATORY 0.18865612
-    PERSPECTIVE_THREAT 0.12552099
-    PERSPECTIVE_PROFANITY 0.056693424
+    cluster 9
   ]
-  node [
-    id 70
+  node
+  [
+    id 72
     label "FYtWiJ0giAM"
     step 0
     date "2022-01-13T22:21:39Z"
@@ -1975,21 +1909,20 @@ graph [
     commentcount 697
     duration "PT1M19S"
     indegree 2
-    cluster 4
+    ppinsult 0.090744846
+    ppflirtation 0.29806703
+    ppidentityattack 0.17659566
+    ppthreat 0.30135614
+    pptoxicity 0.076110736
+    ppsexuallyexplicit 0.04308141
+    ppprofanity 0.07660995
+    ppinflammatory 0.14374
     sentiment 0.4019
-    leftright "L"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.04308141
-    PERSPECTIVE_FLIRTATION 0.29806703
-    PERSPECTIVE_INSULT 0.090744846
-    PERSPECTIVE_TOXICITY 0.076110736
-    PERSPECTIVE_IDENTITY_ATTACK 0.17659566
-    PERSPECTIVE_INFLAMMATORY 0.14374
-    PERSPECTIVE_THREAT 0.30135614
-    PERSPECTIVE_PROFANITY 0.07660995
+    cluster 4
   ]
-  node [
-    id 71
+  node
+  [
+    id 73
     label "jwCh9EkuHVc"
     step 0
     date "2022-02-09T07:25:44Z"
@@ -2003,21 +1936,20 @@ graph [
     commentcount 162
     duration "PT3M3S"
     indegree 0
-    cluster 12
-    sentiment 0.0
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.02239412
-    PERSPECTIVE_FLIRTATION 0.28972447
-    PERSPECTIVE_INSULT 0.0412213
-    PERSPECTIVE_TOXICITY 0.01492445
-    PERSPECTIVE_IDENTITY_ATTACK 0.04783647
-    PERSPECTIVE_INFLAMMATORY 0.28918174
-    PERSPECTIVE_THREAT 0.08456781
-    PERSPECTIVE_PROFANITY 0.019364867
+    ppinsult 0.0412213
+    ppflirtation 0.28972447
+    ppidentityattack 0.04783647
+    ppthreat 0.08456781
+    pptoxicity 0.01492445
+    ppsexuallyexplicit 0.02239412
+    ppprofanity 0.019364867
+    ppinflammatory 0.28918174
+    sentiment 0
+    cluster 11
   ]
-  node [
-    id 72
+  node
+  [
+    id 74
     label "4G3Hwohouzg"
     step 0
     date "2022-03-14T18:45:15Z"
@@ -2031,21 +1963,20 @@ graph [
     commentcount 104
     duration "PT2M10S"
     indegree 0
-    cluster 6
-    sentiment 0.0
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.023372645
-    PERSPECTIVE_FLIRTATION 0.19668475
-    PERSPECTIVE_INSULT 0.029387906
-    PERSPECTIVE_TOXICITY 0.013952625
-    PERSPECTIVE_IDENTITY_ATTACK 0.025174975
-    PERSPECTIVE_INFLAMMATORY 0.13114877
-    PERSPECTIVE_THREAT 0.061164018
-    PERSPECTIVE_PROFANITY 0.01946719
+    ppinsult 0.029387906
+    ppflirtation 0.19668475
+    ppidentityattack 0.025174975
+    ppthreat 0.061164018
+    pptoxicity 0.013952625
+    ppsexuallyexplicit 0.023372645
+    ppprofanity 0.01946719
+    ppinflammatory 0.13114877
+    sentiment 0
+    cluster 5
   ]
-  node [
-    id 73
+  node
+  [
+    id 75
     label "riIMqapAxfM"
     step 0
     date "2022-03-23T19:32:01Z"
@@ -2059,21 +1990,20 @@ graph [
     commentcount 100
     duration "PT1M22S"
     indegree 1
-    cluster 5
-    sentiment 0.0
-    leftright ""
-    channeltags ""
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.12791227
-    PERSPECTIVE_FLIRTATION 0.3282291
-    PERSPECTIVE_INSULT 0.05263042
-    PERSPECTIVE_TOXICITY 0.03994159
-    PERSPECTIVE_IDENTITY_ATTACK 0.13155319
-    PERSPECTIVE_INFLAMMATORY 0.23543675
-    PERSPECTIVE_THREAT 0.2797956
-    PERSPECTIVE_PROFANITY 0.118918
+    ppinsult 0.05263042
+    ppflirtation 0.3282291
+    ppidentityattack 0.13155319
+    ppthreat 0.2797956
+    pptoxicity 0.03994159
+    ppsexuallyexplicit 0.12791227
+    ppprofanity 0.118918
+    ppinflammatory 0.23543675
+    sentiment 0
+    cluster 3
   ]
-  node [
-    id 74
+  node
+  [
+    id 76
     label "6A3JPkQ-myc"
     step 0
     date "2021-08-23T23:55:42Z"
@@ -2087,21 +2017,20 @@ graph [
     commentcount 573
     duration "PT4M20S"
     indegree 1
-    cluster 2
+    ppinsult 0.027420284
+    ppflirtation 0.19843031
+    ppidentityattack 0.030669343
+    ppthreat 0.04601936
+    pptoxicity 0.011314815
+    ppsexuallyexplicit 0.01819322
+    ppprofanity 0.019867681
+    ppinflammatory 0.14519052
     sentiment 0.128
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.01819322
-    PERSPECTIVE_FLIRTATION 0.19843031
-    PERSPECTIVE_INSULT 0.027420284
-    PERSPECTIVE_TOXICITY 0.011314815
-    PERSPECTIVE_IDENTITY_ATTACK 0.030669343
-    PERSPECTIVE_INFLAMMATORY 0.14519052
-    PERSPECTIVE_THREAT 0.04601936
-    PERSPECTIVE_PROFANITY 0.019867681
+    cluster 2
   ]
-  node [
-    id 75
+  node
+  [
+    id 78
     label "R1x3wbzH0zc"
     step 0
     date "2022-07-09T02:56:06Z"
@@ -2115,21 +2044,20 @@ graph [
     commentcount -1
     duration "PT2M27S"
     indegree 5
+    ppinsult 0.10638584
+    ppflirtation 0.40767616
+    ppidentityattack 0.102566406
+    ppthreat 0.20564476
+    pptoxicity 0.14777246
+    ppsexuallyexplicit 0.2842889
+    ppprofanity 0.12894407
+    ppinflammatory 0.2735612
+    sentiment 0
     cluster 2
-    sentiment 0.0
-    leftright ""
-    channeltags ""
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.2842889
-    PERSPECTIVE_FLIRTATION 0.40767616
-    PERSPECTIVE_INSULT 0.10638584
-    PERSPECTIVE_TOXICITY 0.14777246
-    PERSPECTIVE_IDENTITY_ATTACK 0.102566406
-    PERSPECTIVE_INFLAMMATORY 0.2735612
-    PERSPECTIVE_THREAT 0.20564476
-    PERSPECTIVE_PROFANITY 0.12894407
   ]
-  node [
-    id 76
+  node
+  [
+    id 79
     label "A0l_I--7NAs"
     step 0
     date "2022-07-15T00:13:51Z"
@@ -2143,21 +2071,20 @@ graph [
     commentcount 10
     duration "PT2M15S"
     indegree 11
+    ppinsult 0.10388381
+    ppflirtation 0.1765231
+    ppidentityattack 0.12591042
+    ppthreat 0.29022452
+    pptoxicity 0.01228664
+    ppsexuallyexplicit 0.021276932
+    ppprofanity 0.05788025
+    ppinflammatory 0.44773728
+    sentiment 0
     cluster 3
-    sentiment 0.0
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.021276932
-    PERSPECTIVE_FLIRTATION 0.1765231
-    PERSPECTIVE_INSULT 0.10388381
-    PERSPECTIVE_TOXICITY 0.01228664
-    PERSPECTIVE_IDENTITY_ATTACK 0.12591042
-    PERSPECTIVE_INFLAMMATORY 0.44773728
-    PERSPECTIVE_THREAT 0.29022452
-    PERSPECTIVE_PROFANITY 0.05788025
   ]
-  node [
-    id 77
+  node
+  [
+    id 80
     label "GPCb4dj59tQ"
     step 0
     date "2021-11-19T15:46:49Z"
@@ -2171,21 +2098,20 @@ graph [
     commentcount 1113
     duration "PT3M24S"
     indegree 3
-    cluster 2
-    sentiment 0.0
-    leftright "L"
-    channeltags "Mainstream News|PartisanLeft"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.032943487
-    PERSPECTIVE_FLIRTATION 0.21808773
-    PERSPECTIVE_INSULT 0.05205398
-    PERSPECTIVE_TOXICITY 0.009857078
-    PERSPECTIVE_IDENTITY_ATTACK 0.075588696
-    PERSPECTIVE_INFLAMMATORY 0.19850902
-    PERSPECTIVE_THREAT 0.08878674
-    PERSPECTIVE_PROFANITY 0.028879222
+    ppinsult 0.05205398
+    ppflirtation 0.21808773
+    ppidentityattack 0.075588696
+    ppthreat 0.08878674
+    pptoxicity 0.009857078
+    ppsexuallyexplicit 0.032943487
+    ppprofanity 0.028879222
+    ppinflammatory 0.19850902
+    sentiment 0
+    cluster 6
   ]
-  node [
-    id 78
+  node
+  [
+    id 81
     label "Kt26szxRNB0"
     step 0
     date "2021-10-31T23:27:14Z"
@@ -2199,21 +2125,20 @@ graph [
     commentcount 1408
     duration "PT2M32S"
     indegree 1
-    cluster 12
-    sentiment 0.0
-    leftright "L"
-    channeltags "Mainstream News|PartisanLeft"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.13303293
-    PERSPECTIVE_FLIRTATION 0.2684832
-    PERSPECTIVE_INSULT 0.07732561
-    PERSPECTIVE_TOXICITY 0.011453647
-    PERSPECTIVE_IDENTITY_ATTACK 0.09201096
-    PERSPECTIVE_INFLAMMATORY 0.25865498
-    PERSPECTIVE_THREAT 0.13692245
-    PERSPECTIVE_PROFANITY 0.10160778
+    ppinsult 0.07732561
+    ppflirtation 0.2684832
+    ppidentityattack 0.09201096
+    ppthreat 0.13692245
+    pptoxicity 0.011453647
+    ppsexuallyexplicit 0.13303293
+    ppprofanity 0.10160778
+    ppinflammatory 0.25865498
+    sentiment 0
+    cluster 11
   ]
-  node [
-    id 79
+  node
+  [
+    id 82
     label "isr51ZmuJwc"
     step 0
     date "2021-10-20T04:20:46Z"
@@ -2227,21 +2152,20 @@ graph [
     commentcount 71
     duration "PT2M23S"
     indegree 3
-    cluster 10
+    ppinsult 0.09716767
+    ppflirtation 0.2600512
+    ppidentityattack 0.11544828
+    ppthreat 0.34630495
+    pptoxicity 0.065721996
+    ppsexuallyexplicit 0.04720992
+    ppprofanity 0.048254963
+    ppinflammatory 0.19860905
     sentiment -0.7579
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.04720992
-    PERSPECTIVE_FLIRTATION 0.2600512
-    PERSPECTIVE_INSULT 0.09716767
-    PERSPECTIVE_TOXICITY 0.065721996
-    PERSPECTIVE_IDENTITY_ATTACK 0.11544828
-    PERSPECTIVE_INFLAMMATORY 0.19860905
-    PERSPECTIVE_THREAT 0.34630495
-    PERSPECTIVE_PROFANITY 0.048254963
+    cluster 6
   ]
-  node [
-    id 80
+  node
+  [
+    id 84
     label "hItMw3DqUJ0"
     step 0
     date "2022-01-07T19:40:44Z"
@@ -2255,21 +2179,20 @@ graph [
     commentcount 603
     duration "PT1M53S"
     indegree 0
-    cluster 4
+    ppinsult 0.18886693
+    ppflirtation 0.34602812
+    ppidentityattack 0.10458957
+    ppthreat 0.6641035
+    pptoxicity 0.36805952
+    ppsexuallyexplicit 0.11052587
+    ppprofanity 0.12292647
+    ppinflammatory 0.64489174
     sentiment -0.5574
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.11052587
-    PERSPECTIVE_FLIRTATION 0.34602812
-    PERSPECTIVE_INSULT 0.18886693
-    PERSPECTIVE_TOXICITY 0.36805952
-    PERSPECTIVE_IDENTITY_ATTACK 0.10458957
-    PERSPECTIVE_INFLAMMATORY 0.64489174
-    PERSPECTIVE_THREAT 0.6641035
-    PERSPECTIVE_PROFANITY 0.12292647
+    cluster 4
   ]
-  node [
-    id 81
+  node
+  [
+    id 85
     label "yzpyq3LXTx0"
     step 0
     date "2021-12-12T05:17:36Z"
@@ -2283,21 +2206,20 @@ graph [
     commentcount 1120
     duration "PT3M54S"
     indegree 2
-    cluster 1
+    ppinsult 0.029092822
+    ppflirtation 0.25535065
+    ppidentityattack 0.06832543
+    ppthreat 0.16655484
+    pptoxicity 0.0358213
+    ppsexuallyexplicit 0.021548452
+    ppprofanity 0.03014909
+    ppinflammatory 0.032817278
     sentiment -0.2263
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.021548452
-    PERSPECTIVE_FLIRTATION 0.25535065
-    PERSPECTIVE_INSULT 0.029092822
-    PERSPECTIVE_TOXICITY 0.0358213
-    PERSPECTIVE_IDENTITY_ATTACK 0.06832543
-    PERSPECTIVE_INFLAMMATORY 0.032817278
-    PERSPECTIVE_THREAT 0.16655484
-    PERSPECTIVE_PROFANITY 0.03014909
+    cluster 1
   ]
-  node [
-    id 82
+  node
+  [
+    id 86
     label "Uw5Lwak8gXY"
     step 0
     date "2021-10-29T23:40:01Z"
@@ -2311,21 +2233,20 @@ graph [
     commentcount 4121
     duration "PT2M25S"
     indegree 14
+    ppinsult 0.16103168
+    ppflirtation 0.3832589
+    ppidentityattack 0.14434576
+    ppthreat 0.16394898
+    pptoxicity 0.040284947
+    ppsexuallyexplicit 0.1299932
+    ppprofanity 0.115880944
+    ppinflammatory 0.25958484
+    sentiment 0
     cluster 3
-    sentiment 0.0
-    leftright "L"
-    channeltags "Mainstream News|PartisanLeft"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.1299932
-    PERSPECTIVE_FLIRTATION 0.3832589
-    PERSPECTIVE_INSULT 0.16103168
-    PERSPECTIVE_TOXICITY 0.040284947
-    PERSPECTIVE_IDENTITY_ATTACK 0.14434576
-    PERSPECTIVE_INFLAMMATORY 0.25958484
-    PERSPECTIVE_THREAT 0.16394898
-    PERSPECTIVE_PROFANITY 0.115880944
   ]
-  node [
-    id 83
+  node
+  [
+    id 87
     label "WgvtobJZGcQ"
     step 0
     date "2021-12-09T05:12:11Z"
@@ -2339,21 +2260,20 @@ graph [
     commentcount -1
     duration "PT1M22S"
     indegree 5
+    ppinsult 0.10383404
+    ppflirtation 0.27618986
+    ppidentityattack 0.05167055
+    ppthreat 0.0529607
+    pptoxicity 0.031185975
+    ppsexuallyexplicit 0.029621296
+    ppprofanity 0.03982856
+    ppinflammatory 0.3135511
+    sentiment 0
     cluster 9
-    sentiment 0.0
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.029621296
-    PERSPECTIVE_FLIRTATION 0.27618986
-    PERSPECTIVE_INSULT 0.10383404
-    PERSPECTIVE_TOXICITY 0.031185975
-    PERSPECTIVE_IDENTITY_ATTACK 0.05167055
-    PERSPECTIVE_INFLAMMATORY 0.3135511
-    PERSPECTIVE_THREAT 0.0529607
-    PERSPECTIVE_PROFANITY 0.03982856
   ]
-  node [
-    id 84
+  node
+  [
+    id 88
     label "YQWm6pJ07mA"
     step 0
     date "2021-10-20T00:30:06Z"
@@ -2367,21 +2287,20 @@ graph [
     commentcount 2397
     duration "PT2M39S"
     indegree 3
-    cluster 10
+    ppinsult 0.057515204
+    ppflirtation 0.3856516
+    ppidentityattack 0.05633256
+    ppthreat 0.08895147
+    pptoxicity 0.06652113
+    ppsexuallyexplicit 0.08058461
+    ppprofanity 0.048778344
+    ppinflammatory 0.26362023
     sentiment -0.3818
-    leftright "L"
-    channeltags "Mainstream News|PartisanLeft"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.08058461
-    PERSPECTIVE_FLIRTATION 0.3856516
-    PERSPECTIVE_INSULT 0.057515204
-    PERSPECTIVE_TOXICITY 0.06652113
-    PERSPECTIVE_IDENTITY_ATTACK 0.05633256
-    PERSPECTIVE_INFLAMMATORY 0.26362023
-    PERSPECTIVE_THREAT 0.08895147
-    PERSPECTIVE_PROFANITY 0.048778344
+    cluster 6
   ]
-  node [
-    id 85
+  node
+  [
+    id 89
     label "f14K_QSMVZI"
     step 0
     date "2022-01-14T04:33:41Z"
@@ -2395,21 +2314,20 @@ graph [
     commentcount 929
     duration "PT2M20S"
     indegree 21
-    cluster 4
+    ppinsult 0.059628826
+    ppflirtation 0.2439416
+    ppidentityattack 0.06306931
+    ppthreat 0.08767952
+    pptoxicity 0.023803791
+    ppsexuallyexplicit 0.031675693
+    ppprofanity 0.041294727
+    ppinflammatory 0.1941173
     sentiment 0.4019
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.031675693
-    PERSPECTIVE_FLIRTATION 0.2439416
-    PERSPECTIVE_INSULT 0.059628826
-    PERSPECTIVE_TOXICITY 0.023803791
-    PERSPECTIVE_IDENTITY_ATTACK 0.06306931
-    PERSPECTIVE_INFLAMMATORY 0.1941173
-    PERSPECTIVE_THREAT 0.08767952
-    PERSPECTIVE_PROFANITY 0.041294727
+    cluster 4
   ]
-  node [
-    id 86
+  node
+  [
+    id 90
     label "1h5P6JpybYA"
     step 0
     date "2022-02-23T19:34:57Z"
@@ -2423,21 +2341,20 @@ graph [
     commentcount 43
     duration "PT3M45S"
     indegree 3
-    cluster 6
+    ppinsult 0.09738338
+    ppflirtation 0.27957338
+    ppidentityattack 0.1277176
+    ppthreat 0.110825025
+    pptoxicity 0.062925026
+    ppsexuallyexplicit 0.040010255
+    ppprofanity 0.065693066
+    ppinflammatory 0.18788445
     sentiment -0.296
-    leftright ""
-    channeltags ""
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.040010255
-    PERSPECTIVE_FLIRTATION 0.27957338
-    PERSPECTIVE_INSULT 0.09738338
-    PERSPECTIVE_TOXICITY 0.062925026
-    PERSPECTIVE_IDENTITY_ATTACK 0.1277176
-    PERSPECTIVE_INFLAMMATORY 0.18788445
-    PERSPECTIVE_THREAT 0.110825025
-    PERSPECTIVE_PROFANITY 0.065693066
+    cluster 5
   ]
-  node [
-    id 87
+  node
+  [
+    id 91
     label "27JDxX9sK6M"
     step 0
     date "2021-12-29T03:01:36Z"
@@ -2451,21 +2368,20 @@ graph [
     commentcount 3598
     duration "PT4M21S"
     indegree 14
+    ppinsult 0.07938741
+    ppflirtation 0.26691875
+    ppidentityattack 0.15318237
+    ppthreat 0.25331947
+    pptoxicity 0.028267438
+    ppsexuallyexplicit 0.040351328
+    ppprofanity 0.06279792
+    ppinflammatory 0.18986255
+    sentiment 0
     cluster 2
-    sentiment 0.0
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.040351328
-    PERSPECTIVE_FLIRTATION 0.26691875
-    PERSPECTIVE_INSULT 0.07938741
-    PERSPECTIVE_TOXICITY 0.028267438
-    PERSPECTIVE_IDENTITY_ATTACK 0.15318237
-    PERSPECTIVE_INFLAMMATORY 0.18986255
-    PERSPECTIVE_THREAT 0.25331947
-    PERSPECTIVE_PROFANITY 0.06279792
   ]
-  node [
-    id 88
+  node
+  [
+    id 92
     label "zgVo9i-xgwo"
     step 0
     date "2022-01-14T00:44:55Z"
@@ -2479,21 +2395,20 @@ graph [
     commentcount 6197
     duration "PT2M30S"
     indegree 16
-    cluster 4
+    ppinsult 0.06325057
+    ppflirtation 0.3434346
+    ppidentityattack 0.05053723
+    ppthreat 0.12729752
+    pptoxicity 0.03753809
+    ppsexuallyexplicit 0.117805876
+    ppprofanity 0.08707674
+    ppinflammatory 0.19868475
     sentiment 0.4019
-    leftright "L"
-    channeltags "Mainstream News|PartisanLeft"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.117805876
-    PERSPECTIVE_FLIRTATION 0.3434346
-    PERSPECTIVE_INSULT 0.06325057
-    PERSPECTIVE_TOXICITY 0.03753809
-    PERSPECTIVE_IDENTITY_ATTACK 0.05053723
-    PERSPECTIVE_INFLAMMATORY 0.19868475
-    PERSPECTIVE_THREAT 0.12729752
-    PERSPECTIVE_PROFANITY 0.08707674
+    cluster 4
   ]
-  node [
-    id 89
+  node
+  [
+    id 93
     label "tm3txJgv7Pw"
     step 0
     date "2022-02-17T16:09:53Z"
@@ -2507,21 +2422,20 @@ graph [
     commentcount 4083
     duration "PT1M26S"
     indegree 3
-    cluster 11
-    sentiment 0.0
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.022947242
-    PERSPECTIVE_FLIRTATION 0.24344201
-    PERSPECTIVE_INSULT 0.03063718
-    PERSPECTIVE_TOXICITY 0.10461388
-    PERSPECTIVE_IDENTITY_ATTACK 0.037732165
-    PERSPECTIVE_INFLAMMATORY 0.27282998
-    PERSPECTIVE_THREAT 0.0612199
-    PERSPECTIVE_PROFANITY 0.017836018
+    ppinsult 0.03063718
+    ppflirtation 0.24344201
+    ppidentityattack 0.037732165
+    ppthreat 0.0612199
+    pptoxicity 0.10461388
+    ppsexuallyexplicit 0.022947242
+    ppprofanity 0.017836018
+    ppinflammatory 0.27282998
+    sentiment 0
+    cluster 10
   ]
-  node [
-    id 90
+  node
+  [
+    id 94
     label "wppZ_Vp2hWw"
     step 0
     date "2021-10-01T21:18:05Z"
@@ -2535,21 +2449,20 @@ graph [
     commentcount 3723
     duration "PT2M8S"
     indegree 0
-    cluster 11
-    sentiment 0.0
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.034259714
-    PERSPECTIVE_FLIRTATION 0.25090185
-    PERSPECTIVE_INSULT 0.010014011
-    PERSPECTIVE_TOXICITY 0.021796638
-    PERSPECTIVE_IDENTITY_ATTACK 0.013701536
-    PERSPECTIVE_INFLAMMATORY 0.26381582
-    PERSPECTIVE_THREAT 0.05861512
-    PERSPECTIVE_PROFANITY 0.015548974
+    ppinsult 0.010014011
+    ppflirtation 0.25090185
+    ppidentityattack 0.013701536
+    ppthreat 0.05861512
+    pptoxicity 0.021796638
+    ppsexuallyexplicit 0.034259714
+    ppprofanity 0.015548974
+    ppinflammatory 0.26381582
+    sentiment 0
+    cluster 10
   ]
-  node [
-    id 91
+  node
+  [
+    id 95
     label "H6cu-OWWj_c"
     step 0
     date "2022-01-20T02:07:37Z"
@@ -2563,21 +2476,20 @@ graph [
     commentcount 51
     duration "PT1M51S"
     indegree 4
+    ppinsult 0.058263794
+    ppflirtation 0.26362318
+    ppidentityattack 0.057515137
+    ppthreat 0.09433216
+    pptoxicity 0.027065687
+    ppsexuallyexplicit 0.038717583
+    ppprofanity 0.03787155
+    ppinflammatory 0.16474561
+    sentiment 0
     cluster 2
-    sentiment 0.0
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.038717583
-    PERSPECTIVE_FLIRTATION 0.26362318
-    PERSPECTIVE_INSULT 0.058263794
-    PERSPECTIVE_TOXICITY 0.027065687
-    PERSPECTIVE_IDENTITY_ATTACK 0.057515137
-    PERSPECTIVE_INFLAMMATORY 0.16474561
-    PERSPECTIVE_THREAT 0.09433216
-    PERSPECTIVE_PROFANITY 0.03787155
   ]
-  node [
-    id 92
+  node
+  [
+    id 96
     label "I08PteHptR8"
     step 0
     date "2021-11-21T04:16:07Z"
@@ -2591,21 +2503,20 @@ graph [
     commentcount -1
     duration "PT2M16S"
     indegree 0
-    cluster 10
+    ppinsult 0.050915096
+    ppflirtation 0.21763512
+    ppidentityattack 0.050711747
+    ppthreat 0.15066254
+    pptoxicity 0.17957193
+    ppsexuallyexplicit 0.051725537
+    ppprofanity 0.06003963
+    ppinflammatory 0.4537295
     sentiment -0.4215
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.051725537
-    PERSPECTIVE_FLIRTATION 0.21763512
-    PERSPECTIVE_INSULT 0.050915096
-    PERSPECTIVE_TOXICITY 0.17957193
-    PERSPECTIVE_IDENTITY_ATTACK 0.050711747
-    PERSPECTIVE_INFLAMMATORY 0.4537295
-    PERSPECTIVE_THREAT 0.15066254
-    PERSPECTIVE_PROFANITY 0.06003963
+    cluster 9
   ]
-  node [
-    id 93
+  node
+  [
+    id 97
     label "xFlY64qUaZc"
     step 0
     date "2021-11-30T04:12:26Z"
@@ -2619,21 +2530,20 @@ graph [
     commentcount 37
     duration "PT2M41S"
     indegree 18
-    cluster 9
+    ppinsult 0.043257866
+    ppflirtation 0.26527435
+    ppidentityattack 0.09131346
+    ppthreat 0.14239715
+    pptoxicity 0.030155903
+    ppsexuallyexplicit 0.017323345
+    ppprofanity 0.030241322
+    ppinflammatory 0.15710135
     sentiment 0.4939
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.017323345
-    PERSPECTIVE_FLIRTATION 0.26527435
-    PERSPECTIVE_INSULT 0.043257866
-    PERSPECTIVE_TOXICITY 0.030155903
-    PERSPECTIVE_IDENTITY_ATTACK 0.09131346
-    PERSPECTIVE_INFLAMMATORY 0.15710135
-    PERSPECTIVE_THREAT 0.14239715
-    PERSPECTIVE_PROFANITY 0.030241322
+    cluster 9
   ]
-  node [
-    id 94
+  node
+  [
+    id 98
     label "emollluRyXE"
     step 0
     date "2022-02-27T23:49:54Z"
@@ -2647,21 +2557,20 @@ graph [
     commentcount 50
     duration "PT20S"
     indegree 3
-    cluster 6
+    ppinsult 0.025821356
+    ppflirtation 0.19153926
+    ppidentityattack 0.026115078
+    ppthreat 0.06566418
+    pptoxicity 0.014993866
+    ppsexuallyexplicit 0.018513707
+    ppprofanity 0.025491102
+    ppinflammatory 0.1562479
     sentiment 0.25
-    leftright ""
-    channeltags ""
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.018513707
-    PERSPECTIVE_FLIRTATION 0.19153926
-    PERSPECTIVE_INSULT 0.025821356
-    PERSPECTIVE_TOXICITY 0.014993866
-    PERSPECTIVE_IDENTITY_ATTACK 0.026115078
-    PERSPECTIVE_INFLAMMATORY 0.1562479
-    PERSPECTIVE_THREAT 0.06566418
-    PERSPECTIVE_PROFANITY 0.025491102
+    cluster 5
   ]
-  node [
-    id 95
+  node
+  [
+    id 99
     label "eS9en21zUQQ"
     step 0
     date "2022-01-26T22:07:33Z"
@@ -2675,21 +2584,20 @@ graph [
     commentcount 148
     duration "PT23M9S"
     indegree 0
+    ppinsult 0.086854026
+    ppflirtation 0.37534386
+    ppidentityattack 0.07910149
+    ppthreat 0.21705264
+    pptoxicity 0.020685982
+    ppsexuallyexplicit 0.052649915
+    ppprofanity 0.05679504
+    ppinflammatory 0.16409676
+    sentiment 0
     cluster 2
-    sentiment 0.0
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.052649915
-    PERSPECTIVE_FLIRTATION 0.37534386
-    PERSPECTIVE_INSULT 0.086854026
-    PERSPECTIVE_TOXICITY 0.020685982
-    PERSPECTIVE_IDENTITY_ATTACK 0.07910149
-    PERSPECTIVE_INFLAMMATORY 0.16409676
-    PERSPECTIVE_THREAT 0.21705264
-    PERSPECTIVE_PROFANITY 0.05679504
   ]
-  node [
-    id 96
+  node
+  [
+    id 100
     label "hUJYWEpIwJg"
     step 0
     date "2021-09-10T00:10:25Z"
@@ -2703,21 +2611,20 @@ graph [
     commentcount 55684
     duration "PT31M42S"
     indegree 18
+    ppinsult 0.11984944
+    ppflirtation 0.25161603
+    ppidentityattack 0.079436764
+    ppthreat 0.069547094
+    pptoxicity 0.043031808
+    ppsexuallyexplicit 0.045873962
+    ppprofanity 0.05505292
+    ppinflammatory 0.25792873
+    sentiment 0
     cluster 8
-    sentiment 0.0
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.045873962
-    PERSPECTIVE_FLIRTATION 0.25161603
-    PERSPECTIVE_INSULT 0.11984944
-    PERSPECTIVE_TOXICITY 0.043031808
-    PERSPECTIVE_IDENTITY_ATTACK 0.079436764
-    PERSPECTIVE_INFLAMMATORY 0.25792873
-    PERSPECTIVE_THREAT 0.069547094
-    PERSPECTIVE_PROFANITY 0.05505292
   ]
-  node [
-    id 97
+  node
+  [
+    id 101
     label "38_qGkKztFo"
     step 0
     date "2022-06-14T18:25:31Z"
@@ -2731,21 +2638,20 @@ graph [
     commentcount 413
     duration "PT56M46S"
     indegree 23
-    cluster 1
+    ppinsult 0.090036705
+    ppflirtation 0.42898014
+    ppidentityattack 0.17943196
+    ppthreat 0.26052767
+    pptoxicity 0.09978092
+    ppsexuallyexplicit 0.058661167
+    ppprofanity 0.04591238
+    ppinflammatory 0.6636731
     sentiment -0.2732
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.058661167
-    PERSPECTIVE_FLIRTATION 0.42898014
-    PERSPECTIVE_INSULT 0.090036705
-    PERSPECTIVE_TOXICITY 0.09978092
-    PERSPECTIVE_IDENTITY_ATTACK 0.17943196
-    PERSPECTIVE_INFLAMMATORY 0.6636731
-    PERSPECTIVE_THREAT 0.26052767
-    PERSPECTIVE_PROFANITY 0.04591238
+    cluster 1
   ]
-  node [
-    id 98
+  node
+  [
+    id 102
     label "RyV17K7fYWs"
     step 0
     date "2021-10-12T13:56:25Z"
@@ -2759,21 +2665,20 @@ graph [
     commentcount 863
     duration "PT3M13S"
     indegree 2
-    cluster 2
-    sentiment 0.0
-    leftright "L"
-    channeltags "Mainstream News|PartisanLeft|StateFunded"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.029526336
-    PERSPECTIVE_FLIRTATION 0.2884114
-    PERSPECTIVE_INSULT 0.12088773
-    PERSPECTIVE_TOXICITY 0.0717155
-    PERSPECTIVE_IDENTITY_ATTACK 0.116684586
-    PERSPECTIVE_INFLAMMATORY 0.59759897
-    PERSPECTIVE_THREAT 0.16954711
-    PERSPECTIVE_PROFANITY 0.049049314
+    ppinsult 0.12088773
+    ppflirtation 0.2884114
+    ppidentityattack 0.116684586
+    ppthreat 0.16954711
+    pptoxicity 0.0717155
+    ppsexuallyexplicit 0.029526336
+    ppprofanity 0.049049314
+    ppinflammatory 0.59759897
+    sentiment 0
+    cluster 5
   ]
-  node [
-    id 99
+  node
+  [
+    id 103
     label "D8DToL43y5I"
     step 0
     date "2022-03-11T17:42:17Z"
@@ -2787,21 +2692,20 @@ graph [
     commentcount 3137
     duration "PT1M31S"
     indegree 0
-    cluster 10
-    sentiment 0.0
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.060173735
-    PERSPECTIVE_FLIRTATION 0.40032786
-    PERSPECTIVE_INSULT 0.061798632
-    PERSPECTIVE_TOXICITY 0.043375164
-    PERSPECTIVE_IDENTITY_ATTACK 0.063148916
-    PERSPECTIVE_INFLAMMATORY 0.4398441
-    PERSPECTIVE_THREAT 0.15199544
-    PERSPECTIVE_PROFANITY 0.032663036
+    ppinsult 0.061798632
+    ppflirtation 0.40032786
+    ppidentityattack 0.063148916
+    ppthreat 0.15199544
+    pptoxicity 0.043375164
+    ppsexuallyexplicit 0.060173735
+    ppprofanity 0.032663036
+    ppinflammatory 0.4398441
+    sentiment 0
+    cluster 6
   ]
-  node [
-    id 100
+  node
+  [
+    id 105
     label "NGFheLIZqjM"
     step 0
     date "2022-02-17T01:12:30Z"
@@ -2815,21 +2719,20 @@ graph [
     commentcount 21
     duration "PT2M40S"
     indegree 0
+    ppinsult 0.044755105
+    ppflirtation 0.2352972
+    ppidentityattack 0.0454032
+    ppthreat 0.109939866
+    pptoxicity 0.025005542
+    ppsexuallyexplicit 0.051905196
+    ppprofanity 0.054203138
+    ppinflammatory 0.4043634
+    sentiment 0
     cluster 4
-    sentiment 0.0
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.051905196
-    PERSPECTIVE_FLIRTATION 0.2352972
-    PERSPECTIVE_INSULT 0.044755105
-    PERSPECTIVE_TOXICITY 0.025005542
-    PERSPECTIVE_IDENTITY_ATTACK 0.0454032
-    PERSPECTIVE_INFLAMMATORY 0.4043634
-    PERSPECTIVE_THREAT 0.109939866
-    PERSPECTIVE_PROFANITY 0.054203138
   ]
-  node [
-    id 101
+  node
+  [
+    id 106
     label "nVtTbrpKKVM"
     step 0
     date "2021-09-27T18:55:58Z"
@@ -2843,21 +2746,20 @@ graph [
     commentcount 4420
     duration "PT4M45S"
     indegree 3
-    cluster 10
+    ppinsult 0.042008754
+    ppflirtation 0.1518759
+    ppidentityattack 0.029590035
+    ppthreat 0.05944986
+    pptoxicity 0.0717155
+    ppsexuallyexplicit 0.020521272
+    ppprofanity 0.030433463
+    ppinflammatory 0.25392243
     sentiment 0.4939
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.020521272
-    PERSPECTIVE_FLIRTATION 0.1518759
-    PERSPECTIVE_INSULT 0.042008754
-    PERSPECTIVE_TOXICITY 0.0717155
-    PERSPECTIVE_IDENTITY_ATTACK 0.029590035
-    PERSPECTIVE_INFLAMMATORY 0.25392243
-    PERSPECTIVE_THREAT 0.05944986
-    PERSPECTIVE_PROFANITY 0.030433463
+    cluster 6
   ]
-  node [
-    id 102
+  node
+  [
+    id 107
     label "pIFfZyoajUQ"
     step 0
     date "2022-02-08T17:33:11Z"
@@ -2871,21 +2773,20 @@ graph [
     commentcount 1148
     duration "PT5M2S"
     indegree 4
-    cluster 12
+    ppinsult 0.117477685
+    ppflirtation 0.26375657
+    ppidentityattack 0.16909377
+    ppthreat 0.15942267
+    pptoxicity 0.0129808
+    ppsexuallyexplicit 0.05245715
+    ppprofanity 0.072377086
+    ppinflammatory 0.27454507
     sentiment -0.5574
-    leftright "L"
-    channeltags "Mainstream News|PartisanLeft"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.05245715
-    PERSPECTIVE_FLIRTATION 0.26375657
-    PERSPECTIVE_INSULT 0.117477685
-    PERSPECTIVE_TOXICITY 0.0129808
-    PERSPECTIVE_IDENTITY_ATTACK 0.16909377
-    PERSPECTIVE_INFLAMMATORY 0.27454507
-    PERSPECTIVE_THREAT 0.15942267
-    PERSPECTIVE_PROFANITY 0.072377086
+    cluster 11
   ]
-  node [
-    id 103
+  node
+  [
+    id 108
     label "rErC01cC0IE"
     step 0
     date "2022-02-24T11:29:45Z"
@@ -2899,21 +2800,20 @@ graph [
     commentcount 88
     duration "PT1M47S"
     indegree 3
-    cluster 6
-    sentiment 0.0
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.028240863
-    PERSPECTIVE_FLIRTATION 0.2775573
-    PERSPECTIVE_INSULT 0.043780126
-    PERSPECTIVE_TOXICITY 0.06132676
-    PERSPECTIVE_IDENTITY_ATTACK 0.09383412
-    PERSPECTIVE_INFLAMMATORY 0.19405104
-    PERSPECTIVE_THREAT 0.32158545
-    PERSPECTIVE_PROFANITY 0.038081642
+    ppinsult 0.043780126
+    ppflirtation 0.2775573
+    ppidentityattack 0.09383412
+    ppthreat 0.32158545
+    pptoxicity 0.06132676
+    ppsexuallyexplicit 0.028240863
+    ppprofanity 0.038081642
+    ppinflammatory 0.19405104
+    sentiment 0
+    cluster 5
   ]
-  node [
-    id 104
+  node
+  [
+    id 109
     label "BrWyZLGTgbg"
     step 0
     date "2021-09-25T18:30:06Z"
@@ -2927,21 +2827,20 @@ graph [
     commentcount 4222
     duration "PT4M5S"
     indegree 6
-    cluster 10
+    ppinsult 0.06290297
+    ppflirtation 0.35691738
+    ppidentityattack 0.113114856
+    ppthreat 0.12366165
+    pptoxicity 0.055333257
+    ppsexuallyexplicit 0.07565574
+    ppprofanity 0.06795958
+    ppinflammatory 0.2627243
     sentiment -0.2263
-    leftright "L"
-    channeltags "Mainstream News|PartisanLeft"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.07565574
-    PERSPECTIVE_FLIRTATION 0.35691738
-    PERSPECTIVE_INSULT 0.06290297
-    PERSPECTIVE_TOXICITY 0.055333257
-    PERSPECTIVE_IDENTITY_ATTACK 0.113114856
-    PERSPECTIVE_INFLAMMATORY 0.2627243
-    PERSPECTIVE_THREAT 0.12366165
-    PERSPECTIVE_PROFANITY 0.06795958
+    cluster 6
   ]
-  node [
-    id 105
+  node
+  [
+    id 110
     label "3yGEOWQXxKw"
     step 0
     date "2022-03-14T22:24:06Z"
@@ -2955,21 +2854,20 @@ graph [
     commentcount 44
     duration "PT2M9S"
     indegree 0
-    cluster 1
+    ppinsult 0.022916563
+    ppflirtation 0.24084124
+    ppidentityattack 0.023825986
+    ppthreat 0.07013899
+    pptoxicity 0.035649624
+    ppsexuallyexplicit 0.034786884
+    ppprofanity 0.025444278
+    ppinflammatory 0.31228405
     sentiment 0.5574
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.034786884
-    PERSPECTIVE_FLIRTATION 0.24084124
-    PERSPECTIVE_INSULT 0.022916563
-    PERSPECTIVE_TOXICITY 0.035649624
-    PERSPECTIVE_IDENTITY_ATTACK 0.023825986
-    PERSPECTIVE_INFLAMMATORY 0.31228405
-    PERSPECTIVE_THREAT 0.07013899
-    PERSPECTIVE_PROFANITY 0.025444278
+    cluster 1
   ]
-  node [
-    id 106
+  node
+  [
+    id 111
     label "1Mhh1Cw3WaA"
     step 0
     date "2021-12-06T10:10:09Z"
@@ -2983,21 +2881,20 @@ graph [
     commentcount 832
     duration "PT6M56S"
     indegree 4
-    cluster 4
+    ppinsult 0.11065706
+    ppflirtation 0.31672934
+    ppidentityattack 0.22430022
+    ppthreat 0.28717119
+    pptoxicity 0.1024659
+    ppsexuallyexplicit 0.07708947
+    ppprofanity 0.09713982
+    ppinflammatory 0.55806595
     sentiment -0.4767
-    leftright "C"
-    channeltags "Mainstream News|StateFunded"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.07708947
-    PERSPECTIVE_FLIRTATION 0.31672934
-    PERSPECTIVE_INSULT 0.11065706
-    PERSPECTIVE_TOXICITY 0.1024659
-    PERSPECTIVE_IDENTITY_ATTACK 0.22430022
-    PERSPECTIVE_INFLAMMATORY 0.55806595
-    PERSPECTIVE_THREAT 0.28717119
-    PERSPECTIVE_PROFANITY 0.09713982
+    cluster 4
   ]
-  node [
-    id 107
+  node
+  [
+    id 112
     label "bLSpeT7j_RI"
     step 0
     date "2022-01-17T22:21:25Z"
@@ -3011,21 +2908,20 @@ graph [
     commentcount 15
     duration "PT4M8S"
     indegree 0
+    ppinsult 0.039221015
+    ppflirtation 0.21430115
+    ppidentityattack 0.0423177
+    ppthreat 0.06699548
+    pptoxicity 0.008954669
+    ppsexuallyexplicit 0.02221501
+    ppprofanity 0.024832688
+    ppinflammatory 0.17970677
+    sentiment 0
     cluster 4
-    sentiment 0.0
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.02221501
-    PERSPECTIVE_FLIRTATION 0.21430115
-    PERSPECTIVE_INSULT 0.039221015
-    PERSPECTIVE_TOXICITY 0.008954669
-    PERSPECTIVE_IDENTITY_ATTACK 0.0423177
-    PERSPECTIVE_INFLAMMATORY 0.17970677
-    PERSPECTIVE_THREAT 0.06699548
-    PERSPECTIVE_PROFANITY 0.024832688
   ]
-  node [
-    id 108
+  node
+  [
+    id 113
     label "qHg1JhgUSBg"
     step 0
     date "2022-02-23T20:30:15Z"
@@ -3039,21 +2935,20 @@ graph [
     commentcount 43
     duration "PT5M35S"
     indegree 0
-    cluster 3
+    ppinsult 0.072057925
+    ppflirtation 0.38254744
+    ppidentityattack 0.13618234
+    ppthreat 0.48974591
+    pptoxicity 0.018464668
+    ppsexuallyexplicit 0.15295537
+    ppprofanity 0.119871624
+    ppinflammatory 0.5252428
     sentiment 0.2023
-    leftright ""
-    channeltags ""
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.15295537
-    PERSPECTIVE_FLIRTATION 0.38254744
-    PERSPECTIVE_INSULT 0.072057925
-    PERSPECTIVE_TOXICITY 0.018464668
-    PERSPECTIVE_IDENTITY_ATTACK 0.13618234
-    PERSPECTIVE_INFLAMMATORY 0.5252428
-    PERSPECTIVE_THREAT 0.48974591
-    PERSPECTIVE_PROFANITY 0.119871624
+    cluster 5
   ]
-  node [
-    id 109
+  node
+  [
+    id 114
     label "2n1rc1cX_3M"
     step 0
     date "2021-09-14T13:23:03Z"
@@ -3067,21 +2962,20 @@ graph [
     commentcount 45
     duration "PT1M59S"
     indegree 9
+    ppinsult 0.056188814
+    ppflirtation 0.4435772
+    ppidentityattack 0.08905415
+    ppthreat 0.26404467
+    pptoxicity 0.09709594
+    ppsexuallyexplicit 0.029681182
+    ppprofanity 0.025808817
+    ppinflammatory 0.25083447
+    sentiment 0
     cluster 8
-    sentiment 0.0
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.029681182
-    PERSPECTIVE_FLIRTATION 0.4435772
-    PERSPECTIVE_INSULT 0.056188814
-    PERSPECTIVE_TOXICITY 0.09709594
-    PERSPECTIVE_IDENTITY_ATTACK 0.08905415
-    PERSPECTIVE_INFLAMMATORY 0.25083447
-    PERSPECTIVE_THREAT 0.26404467
-    PERSPECTIVE_PROFANITY 0.025808817
   ]
-  node [
-    id 110
+  node
+  [
+    id 115
     label "LhrSXKna-og"
     step 0
     date "2021-11-18T17:26:11Z"
@@ -3095,21 +2989,20 @@ graph [
     commentcount 1946
     duration "PT42M51S"
     indegree 21
-    cluster 10
+    ppinsult 0.10772251
+    ppflirtation 0.33694082
+    ppidentityattack 0.11933088
+    ppthreat 0.09101544
+    pptoxicity 0.013952625
+    ppsexuallyexplicit 0.033888143
+    ppprofanity 0.049935676
+    ppinflammatory 0.27359986
     sentiment -0.0258
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.033888143
-    PERSPECTIVE_FLIRTATION 0.33694082
-    PERSPECTIVE_INSULT 0.10772251
-    PERSPECTIVE_TOXICITY 0.013952625
-    PERSPECTIVE_IDENTITY_ATTACK 0.11933088
-    PERSPECTIVE_INFLAMMATORY 0.27359986
-    PERSPECTIVE_THREAT 0.09101544
-    PERSPECTIVE_PROFANITY 0.049935676
+    cluster 9
   ]
-  node [
-    id 111
+  node
+  [
+    id 116
     label "I2SdASMISEQ"
     step 0
     date "2021-09-14T03:18:35Z"
@@ -3123,21 +3016,20 @@ graph [
     commentcount 110
     duration "PT1M29S"
     indegree 11
-    cluster 8
+    ppinsult 0.13230097
+    ppflirtation 0.35358578
+    ppidentityattack 0.13786384
+    ppthreat 0.124975555
+    pptoxicity 0.07211506
+    ppsexuallyexplicit 0.020322924
+    ppprofanity 0.024732212
+    ppinflammatory 0.2019962
     sentiment -0.296
-    leftright "R"
-    channeltags NAN
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.020322924
-    PERSPECTIVE_FLIRTATION 0.35358578
-    PERSPECTIVE_INSULT 0.13230097
-    PERSPECTIVE_TOXICITY 0.07211506
-    PERSPECTIVE_IDENTITY_ATTACK 0.13786384
-    PERSPECTIVE_INFLAMMATORY 0.2019962
-    PERSPECTIVE_THREAT 0.124975555
-    PERSPECTIVE_PROFANITY 0.024732212
+    cluster 8
   ]
-  node [
-    id 112
+  node
+  [
+    id 117
     label "W-iy208c0L8"
     step 0
     date "2022-04-15T23:57:01Z"
@@ -3151,21 +3043,20 @@ graph [
     commentcount 7
     duration "PT3M17S"
     indegree 0
-    cluster 2
+    ppinsult 0.056153048
+    ppflirtation 0.23324339
+    ppidentityattack 0.10307367
+    ppthreat 0.19415708
+    pptoxicity 0.030842619
+    ppsexuallyexplicit 0.0407325
+    ppprofanity 0.049510162
+    ppinflammatory 0.2907577
     sentiment -0.5106
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.0407325
-    PERSPECTIVE_FLIRTATION 0.23324339
-    PERSPECTIVE_INSULT 0.056153048
-    PERSPECTIVE_TOXICITY 0.030842619
-    PERSPECTIVE_IDENTITY_ATTACK 0.10307367
-    PERSPECTIVE_INFLAMMATORY 0.2907577
-    PERSPECTIVE_THREAT 0.19415708
-    PERSPECTIVE_PROFANITY 0.049510162
+    cluster 2
   ]
-  node [
-    id 113
+  node
+  [
+    id 118
     label "PiqIsmNlJGo"
     step 0
     date "2022-03-04T16:32:27Z"
@@ -3179,21 +3070,20 @@ graph [
     commentcount 72
     duration "PT48M55S"
     indegree 1
+    ppinsult 0.06978288
+    ppflirtation 0.30151793
+    ppidentityattack 0.11069268
+    ppthreat 0.12863246
+    pptoxicity 0.02809576
+    ppsexuallyexplicit 0.06133263
+    ppprofanity 0.06895272
+    ppinflammatory 0.26187798
+    sentiment 0
     cluster 2
-    sentiment 0.0
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.06133263
-    PERSPECTIVE_FLIRTATION 0.30151793
-    PERSPECTIVE_INSULT 0.06978288
-    PERSPECTIVE_TOXICITY 0.02809576
-    PERSPECTIVE_IDENTITY_ATTACK 0.11069268
-    PERSPECTIVE_INFLAMMATORY 0.26187798
-    PERSPECTIVE_THREAT 0.12863246
-    PERSPECTIVE_PROFANITY 0.06895272
   ]
-  node [
-    id 114
+  node
+  [
+    id 119
     label "HkBHezHrXk4"
     step 0
     date "2022-03-28T13:00:07Z"
@@ -3207,21 +3097,20 @@ graph [
     commentcount 389
     duration "PT4M50S"
     indegree 8
+    ppinsult 0.051355533
+    ppflirtation 0.22103012
+    ppidentityattack 0.045745477
+    ppthreat 0.15892372
+    pptoxicity 0.014577369
+    ppsexuallyexplicit 0.025042828
+    ppprofanity 0.034812592
+    ppinflammatory 0.5680319
+    sentiment 0
     cluster 2
-    sentiment 0.0
-    leftright "R"
-    channeltags "Mainstream News|PartisanRight"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.025042828
-    PERSPECTIVE_FLIRTATION 0.22103012
-    PERSPECTIVE_INSULT 0.051355533
-    PERSPECTIVE_TOXICITY 0.014577369
-    PERSPECTIVE_IDENTITY_ATTACK 0.045745477
-    PERSPECTIVE_INFLAMMATORY 0.5680319
-    PERSPECTIVE_THREAT 0.15892372
-    PERSPECTIVE_PROFANITY 0.034812592
   ]
-  node [
-    id 115
+  node
+  [
+    id 120
     label "c47SnqnFj6c"
     step 0
     date "2022-03-26T22:14:39Z"
@@ -3235,21 +3124,20 @@ graph [
     commentcount 78
     duration "PT45S"
     indegree 6
-    cluster 2
+    ppinsult 0.032435216
+    ppflirtation 0.2979469
+    ppidentityattack 0.05544599
+    ppthreat 0.111756824
+    pptoxicity 0.034104515
+    ppsexuallyexplicit 0.020410068
+    ppprofanity 0.020110317
+    ppinflammatory 0.3783544
     sentiment -0.2732
-    leftright ""
-    channeltags ""
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.020410068
-    PERSPECTIVE_FLIRTATION 0.2979469
-    PERSPECTIVE_INSULT 0.032435216
-    PERSPECTIVE_TOXICITY 0.034104515
-    PERSPECTIVE_IDENTITY_ATTACK 0.05544599
-    PERSPECTIVE_INFLAMMATORY 0.3783544
-    PERSPECTIVE_THREAT 0.111756824
-    PERSPECTIVE_PROFANITY 0.020110317
+    cluster 2
   ]
-  node [
-    id 116
+  node
+  [
+    id 121
     label "kKjJweLxMxk"
     step 0
     date "2022-02-22T23:35:58Z"
@@ -3263,21 +3151,20 @@ graph [
     commentcount 124
     duration "PT2M50S"
     indegree 1
+    ppinsult 0.08586142
+    ppflirtation 0.23488191
+    ppidentityattack 0.13115151
+    ppthreat 0.06568095
+    pptoxicity 0.12631269
+    ppsexuallyexplicit 0.036606003
+    ppprofanity 0.03251678
+    ppinflammatory 0.2877166
+    sentiment 0
     cluster 2
-    sentiment 0.0
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.036606003
-    PERSPECTIVE_FLIRTATION 0.23488191
-    PERSPECTIVE_INSULT 0.08586142
-    PERSPECTIVE_TOXICITY 0.12631269
-    PERSPECTIVE_IDENTITY_ATTACK 0.13115151
-    PERSPECTIVE_INFLAMMATORY 0.2877166
-    PERSPECTIVE_THREAT 0.06568095
-    PERSPECTIVE_PROFANITY 0.03251678
   ]
-  node [
-    id 117
+  node
+  [
+    id 122
     label "KnVVvAyyXks"
     step 0
     date "2021-11-01T05:09:49Z"
@@ -3291,21 +3178,20 @@ graph [
     commentcount 4102
     duration "PT3M53S"
     indegree 19
-    cluster 9
+    ppinsult 0.117079526
+    ppflirtation 0.41853386
+    ppidentityattack 0.21561703
+    ppthreat 0.59504056
+    pptoxicity 0.21362646
+    ppsexuallyexplicit 0.077327415
+    ppprofanity 0.09614259
+    ppinflammatory 0.30896756
     sentiment -0.4019
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.077327415
-    PERSPECTIVE_FLIRTATION 0.41853386
-    PERSPECTIVE_INSULT 0.117079526
-    PERSPECTIVE_TOXICITY 0.21362646
-    PERSPECTIVE_IDENTITY_ATTACK 0.21561703
-    PERSPECTIVE_INFLAMMATORY 0.30896756
-    PERSPECTIVE_THREAT 0.59504056
-    PERSPECTIVE_PROFANITY 0.09614259
+    cluster 9
   ]
-  node [
-    id 118
+  node
+  [
+    id 123
     label "um6h1tZcnxI"
     step 0
     date "2022-04-18T12:00:25Z"
@@ -3319,21 +3205,20 @@ graph [
     commentcount -1
     duration "PT6M26S"
     indegree 0
+    ppinsult 0.1260628
+    ppflirtation 0.34819743
+    ppidentityattack 0.08303808
+    ppthreat 0.3464925
+    pptoxicity 0.13565879
+    ppsexuallyexplicit 0.01609217
+    ppprofanity 0.03634801
+    ppinflammatory 0.26319292
+    sentiment 0
     cluster 2
-    sentiment 0.0
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.01609217
-    PERSPECTIVE_FLIRTATION 0.34819743
-    PERSPECTIVE_INSULT 0.1260628
-    PERSPECTIVE_TOXICITY 0.13565879
-    PERSPECTIVE_IDENTITY_ATTACK 0.08303808
-    PERSPECTIVE_INFLAMMATORY 0.26319292
-    PERSPECTIVE_THREAT 0.3464925
-    PERSPECTIVE_PROFANITY 0.03634801
   ]
-  node [
-    id 119
+  node
+  [
+    id 124
     label "BilSXcYHnUE"
     step 0
     date "2021-10-28T23:04:03Z"
@@ -3347,21 +3232,20 @@ graph [
     commentcount 3292
     duration "PT2M9S"
     indegree 21
-    cluster 9
+    ppinsult 0.060303766
+    ppflirtation 0.23172429
+    ppidentityattack 0.05834865
+    ppthreat 0.10637301
+    pptoxicity 0.05373499
+    ppsexuallyexplicit 0.028578654
+    ppprofanity 0.04373352
+    ppinflammatory 0.26846713
     sentiment -0.25
-    leftright "L"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.028578654
-    PERSPECTIVE_FLIRTATION 0.23172429
-    PERSPECTIVE_INSULT 0.060303766
-    PERSPECTIVE_TOXICITY 0.05373499
-    PERSPECTIVE_IDENTITY_ATTACK 0.05834865
-    PERSPECTIVE_INFLAMMATORY 0.26846713
-    PERSPECTIVE_THREAT 0.10637301
-    PERSPECTIVE_PROFANITY 0.04373352
+    cluster 9
   ]
-  node [
-    id 120
+  node
+  [
+    id 125
     label "V-hLUt-3z8E"
     step 0
     date "2021-10-01T21:58:50Z"
@@ -3375,21 +3259,20 @@ graph [
     commentcount 199
     duration "PT1M37S"
     indegree 0
-    cluster 7
+    ppinsult 0.027292699
+    ppflirtation 0.25633726
+    ppidentityattack 0.025734086
+    ppthreat 0.078852
+    pptoxicity 0.042001735
+    ppsexuallyexplicit 0.021485927
+    ppprofanity 0.018392434
+    ppinflammatory 0.23844247
     sentiment -0.25
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.021485927
-    PERSPECTIVE_FLIRTATION 0.25633726
-    PERSPECTIVE_INSULT 0.027292699
-    PERSPECTIVE_TOXICITY 0.042001735
-    PERSPECTIVE_IDENTITY_ATTACK 0.025734086
-    PERSPECTIVE_INFLAMMATORY 0.23844247
-    PERSPECTIVE_THREAT 0.078852
-    PERSPECTIVE_PROFANITY 0.018392434
+    cluster 6
   ]
-  node [
-    id 121
+  node
+  [
+    id 126
     label "CZnIweGi-go"
     step 0
     date "2021-10-06T00:04:27Z"
@@ -3403,21 +3286,20 @@ graph [
     commentcount 1534
     duration "PT2M42S"
     indegree 6
-    cluster 5
+    ppinsult 0.044204082
+    ppflirtation 0.19432846
+    ppidentityattack 0.07414713
+    ppthreat 0.117954396
+    pptoxicity 0.036508016
+    ppsexuallyexplicit 0.031993233
+    ppprofanity 0.03731307
+    ppinflammatory 0.17702465
     sentiment -0.25
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.031993233
-    PERSPECTIVE_FLIRTATION 0.19432846
-    PERSPECTIVE_INSULT 0.044204082
-    PERSPECTIVE_TOXICITY 0.036508016
-    PERSPECTIVE_IDENTITY_ATTACK 0.07414713
-    PERSPECTIVE_INFLAMMATORY 0.17702465
-    PERSPECTIVE_THREAT 0.117954396
-    PERSPECTIVE_PROFANITY 0.03731307
+    cluster 3
   ]
-  node [
-    id 122
+  node
+  [
+    id 127
     label "pINpKmDM_yM"
     step 0
     date "2021-11-20T13:24:39Z"
@@ -3431,21 +3313,20 @@ graph [
     commentcount 2546
     duration "PT6M11S"
     indegree 24
-    cluster 10
+    ppinsult 0.16461514
+    ppflirtation 0.45266783
+    ppidentityattack 0.1219779
+    ppthreat 0.29106295
+    pptoxicity 0.1473238
+    ppsexuallyexplicit 0.092326105
+    ppprofanity 0.13548894
+    ppinflammatory 0.43699953
     sentiment -0.25
-    leftright "C"
-    channeltags "Mainstream News|StateFunded"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.092326105
-    PERSPECTIVE_FLIRTATION 0.45266783
-    PERSPECTIVE_INSULT 0.16461514
-    PERSPECTIVE_TOXICITY 0.1473238
-    PERSPECTIVE_IDENTITY_ATTACK 0.1219779
-    PERSPECTIVE_INFLAMMATORY 0.43699953
-    PERSPECTIVE_THREAT 0.29106295
-    PERSPECTIVE_PROFANITY 0.13548894
+    cluster 6
   ]
-  node [
-    id 123
+  node
+  [
+    id 128
     label "M93jBn6awHU"
     step 0
     date "2022-02-28T00:04:38Z"
@@ -3459,21 +3340,20 @@ graph [
     commentcount 289
     duration "PT4M38S"
     indegree 5
-    cluster 6
-    sentiment 0.0
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.085267544
-    PERSPECTIVE_FLIRTATION 0.36653587
-    PERSPECTIVE_INSULT 0.09589718
-    PERSPECTIVE_TOXICITY 0.033246122
-    PERSPECTIVE_IDENTITY_ATTACK 0.17715342
-    PERSPECTIVE_INFLAMMATORY 0.2099446
-    PERSPECTIVE_THREAT 0.5191355
-    PERSPECTIVE_PROFANITY 0.10572023
+    ppinsult 0.09589718
+    ppflirtation 0.36653587
+    ppidentityattack 0.17715342
+    ppthreat 0.5191355
+    pptoxicity 0.033246122
+    ppsexuallyexplicit 0.085267544
+    ppprofanity 0.10572023
+    ppinflammatory 0.2099446
+    sentiment 0
+    cluster 5
   ]
-  node [
-    id 124
+  node
+  [
+    id 129
     label "Ui_4qI2ereU"
     step 0
     date "2021-09-23T04:17:39Z"
@@ -3487,21 +3367,20 @@ graph [
     commentcount 415
     duration "PT2M53S"
     indegree 1
-    cluster 5
+    ppinsult 0.06097457
+    ppflirtation 0.3078357
+    ppidentityattack 0.13316058
+    ppthreat 0.15926787
+    pptoxicity 0.052136723
+    ppsexuallyexplicit 0.027636643
+    ppprofanity 0.030699845
+    ppinflammatory 0.16364942
     sentiment 0.2263
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.027636643
-    PERSPECTIVE_FLIRTATION 0.3078357
-    PERSPECTIVE_INSULT 0.06097457
-    PERSPECTIVE_TOXICITY 0.052136723
-    PERSPECTIVE_IDENTITY_ATTACK 0.13316058
-    PERSPECTIVE_INFLAMMATORY 0.16364942
-    PERSPECTIVE_THREAT 0.15926787
-    PERSPECTIVE_PROFANITY 0.030699845
+    cluster 9
   ]
-  node [
-    id 125
+  node
+  [
+    id 130
     label "q7b7x6i8xII"
     step 0
     date "2021-08-12T00:30:24Z"
@@ -3515,21 +3394,20 @@ graph [
     commentcount 11262
     duration "PT3M30S"
     indegree 18
-    cluster 7
+    ppinsult 0.065836996
+    ppflirtation 0.20607252
+    ppidentityattack 0.09058905
+    ppthreat 0.09799515
+    pptoxicity 0.036851373
+    ppsexuallyexplicit 0.03263076
+    ppprofanity 0.048101373
+    ppinflammatory 0.28369325
     sentiment -0.25
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.03263076
-    PERSPECTIVE_FLIRTATION 0.20607252
-    PERSPECTIVE_INSULT 0.065836996
-    PERSPECTIVE_TOXICITY 0.036851373
-    PERSPECTIVE_IDENTITY_ATTACK 0.09058905
-    PERSPECTIVE_INFLAMMATORY 0.28369325
-    PERSPECTIVE_THREAT 0.09799515
-    PERSPECTIVE_PROFANITY 0.048101373
+    cluster 6
   ]
-  node [
-    id 126
+  node
+  [
+    id 131
     label "AzK4LwBKGWs"
     step 0
     date "2022-02-10T00:23:40Z"
@@ -3543,21 +3421,20 @@ graph [
     commentcount 1201
     duration "PT1H12M21S"
     indegree 6
+    ppinsult 0.06017627
+    ppflirtation 0.25096497
+    ppidentityattack 0.07837122
+    ppthreat 0.22906044
+    pptoxicity 0.04131502
+    ppsexuallyexplicit 0.029209135
+    ppprofanity 0.0272605
+    ppinflammatory 0.21084937
+    sentiment 0
     cluster 1
-    sentiment 0.0
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.029209135
-    PERSPECTIVE_FLIRTATION 0.25096497
-    PERSPECTIVE_INSULT 0.06017627
-    PERSPECTIVE_TOXICITY 0.04131502
-    PERSPECTIVE_IDENTITY_ATTACK 0.07837122
-    PERSPECTIVE_INFLAMMATORY 0.21084937
-    PERSPECTIVE_THREAT 0.22906044
-    PERSPECTIVE_PROFANITY 0.0272605
   ]
-  node [
-    id 127
+  node
+  [
+    id 132
     label "-4hj7fgs280"
     step 0
     date "2022-04-05T17:32:29Z"
@@ -3571,21 +3448,20 @@ graph [
     commentcount 489
     duration "PT3M58S"
     indegree 8
+    ppinsult 0.032568604
+    ppflirtation 0.30519956
+    ppidentityattack 0.025388198
+    ppthreat 0.034243375
+    pptoxicity 0.028267438
+    ppsexuallyexplicit 0.00834081
+    ppprofanity 0.0070010643
+    ppinflammatory 0.15606457
+    sentiment 0
     cluster 2
-    sentiment 0.0
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.00834081
-    PERSPECTIVE_FLIRTATION 0.30519956
-    PERSPECTIVE_INSULT 0.032568604
-    PERSPECTIVE_TOXICITY 0.028267438
-    PERSPECTIVE_IDENTITY_ATTACK 0.025388198
-    PERSPECTIVE_INFLAMMATORY 0.15606457
-    PERSPECTIVE_THREAT 0.034243375
-    PERSPECTIVE_PROFANITY 0.0070010643
   ]
-  node [
-    id 128
+  node
+  [
+    id 133
     label "CqumUAcrtXE"
     step 0
     date "2021-10-20T18:31:04Z"
@@ -3599,21 +3475,20 @@ graph [
     commentcount 3686
     duration "PT2M10S"
     indegree 2
-    cluster 7
+    ppinsult 0.12594946
+    ppflirtation 0.41158572
+    ppidentityattack 0.14770326
+    ppthreat 0.2705703
+    pptoxicity 0.103539884
+    ppsexuallyexplicit 0.122323066
+    ppprofanity 0.15032569
+    ppinflammatory 0.23828053
     sentiment 0.5106
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.122323066
-    PERSPECTIVE_FLIRTATION 0.41158572
-    PERSPECTIVE_INSULT 0.12594946
-    PERSPECTIVE_TOXICITY 0.103539884
-    PERSPECTIVE_IDENTITY_ATTACK 0.14770326
-    PERSPECTIVE_INFLAMMATORY 0.23828053
-    PERSPECTIVE_THREAT 0.2705703
-    PERSPECTIVE_PROFANITY 0.15032569
+    cluster 7
   ]
-  node [
-    id 129
+  node
+  [
+    id 134
     label "zGyWBpMUIfY"
     step 0
     date "2021-08-09T14:59:34Z"
@@ -3627,21 +3502,20 @@ graph [
     commentcount 772
     duration "PT2M5S"
     indegree 5
-    cluster 7
+    ppinsult 0.07434667
+    ppflirtation 0.3078061
+    ppidentityattack 0.17768246
+    ppthreat 0.28460348
+    pptoxicity 0.055333257
+    ppsexuallyexplicit 0.026086444
+    ppprofanity 0.04262757
+    ppinflammatory 0.22781885
     sentiment -0.25
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.026086444
-    PERSPECTIVE_FLIRTATION 0.3078061
-    PERSPECTIVE_INSULT 0.07434667
-    PERSPECTIVE_TOXICITY 0.055333257
-    PERSPECTIVE_IDENTITY_ATTACK 0.17768246
-    PERSPECTIVE_INFLAMMATORY 0.22781885
-    PERSPECTIVE_THREAT 0.28460348
-    PERSPECTIVE_PROFANITY 0.04262757
+    cluster 6
   ]
-  node [
-    id 130
+  node
+  [
+    id 135
     label "bNe4dGye7-U"
     step 0
     date "2022-01-22T04:16:16Z"
@@ -3655,21 +3529,20 @@ graph [
     commentcount 96
     duration "PT2M35S"
     indegree 0
-    cluster 10
-    sentiment 0.0
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.1075629
-    PERSPECTIVE_FLIRTATION 0.2701031
-    PERSPECTIVE_INSULT 0.060594235
-    PERSPECTIVE_TOXICITY 0.03599298
-    PERSPECTIVE_IDENTITY_ATTACK 0.07520442
-    PERSPECTIVE_INFLAMMATORY 0.23459035
-    PERSPECTIVE_THREAT 0.20203881
-    PERSPECTIVE_PROFANITY 0.08984275
+    ppinsult 0.060594235
+    ppflirtation 0.2701031
+    ppidentityattack 0.07520442
+    ppthreat 0.20203881
+    pptoxicity 0.03599298
+    ppsexuallyexplicit 0.1075629
+    ppprofanity 0.08984275
+    ppinflammatory 0.23459035
+    sentiment 0
+    cluster 4
   ]
-  node [
-    id 131
+  node
+  [
+    id 136
     label "YxtXj6J1Q74"
     step 0
     date "2021-06-23T14:30:10Z"
@@ -3683,21 +3556,20 @@ graph [
     commentcount 1475
     duration "PT2M5S"
     indegree 1
-    cluster 2
+    ppinsult 0.07248059
+    ppflirtation 0.2564261
+    ppidentityattack 0.06904537
+    ppthreat 0.2606193
+    pptoxicity 0.0825038
+    ppsexuallyexplicit 0.124975555
+    ppprofanity 0.10782874
+    ppinflammatory 0.29836914
     sentiment -0.7184
-    leftright "L"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.124975555
-    PERSPECTIVE_FLIRTATION 0.2564261
-    PERSPECTIVE_INSULT 0.07248059
-    PERSPECTIVE_TOXICITY 0.0825038
-    PERSPECTIVE_IDENTITY_ATTACK 0.06904537
-    PERSPECTIVE_INFLAMMATORY 0.29836914
-    PERSPECTIVE_THREAT 0.2606193
-    PERSPECTIVE_PROFANITY 0.10782874
+    cluster 5
   ]
-  node [
-    id 132
+  node
+  [
+    id 137
     label "4R4Zh0r-K_k"
     step 0
     date "2022-02-02T15:18:29Z"
@@ -3711,21 +3583,20 @@ graph [
     commentcount 89
     duration "PT1M17S"
     indegree 0
+    ppinsult 0.10976691
+    ppflirtation 0.30531263
+    ppidentityattack 0.06771959
+    ppthreat 0.115958124
+    pptoxicity 0.0741129
+    ppsexuallyexplicit 0.10632023
+    ppprofanity 0.10513689
+    ppinflammatory 0.40042877
+    sentiment 0
     cluster 4
-    sentiment 0.0
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.10632023
-    PERSPECTIVE_FLIRTATION 0.30531263
-    PERSPECTIVE_INSULT 0.10976691
-    PERSPECTIVE_TOXICITY 0.0741129
-    PERSPECTIVE_IDENTITY_ATTACK 0.06771959
-    PERSPECTIVE_INFLAMMATORY 0.40042877
-    PERSPECTIVE_THREAT 0.115958124
-    PERSPECTIVE_PROFANITY 0.10513689
   ]
-  node [
-    id 133
+  node
+  [
+    id 138
     label "NOZO7mJ7k8o"
     step 0
     date "2022-02-23T23:31:40Z"
@@ -3739,21 +3610,20 @@ graph [
     commentcount 82
     duration "PT3M4S"
     indegree 0
-    cluster 7
-    sentiment 0.0
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.018323198
-    PERSPECTIVE_FLIRTATION 0.18510984
-    PERSPECTIVE_INSULT 0.039108545
-    PERSPECTIVE_TOXICITY 0.011661896
-    PERSPECTIVE_IDENTITY_ATTACK 0.035973217
-    PERSPECTIVE_INFLAMMATORY 0.22470355
-    PERSPECTIVE_THREAT 0.028447535
-    PERSPECTIVE_PROFANITY 0.013304592
+    ppinsult 0.039108545
+    ppflirtation 0.18510984
+    ppidentityattack 0.035973217
+    ppthreat 0.028447535
+    pptoxicity 0.011661896
+    ppsexuallyexplicit 0.018323198
+    ppprofanity 0.013304592
+    ppinflammatory 0.22470355
+    sentiment 0
+    cluster 6
   ]
-  node [
-    id 134
+  node
+  [
+    id 139
     label "PQwjOeH5mnc"
     step 0
     date "2021-11-06T11:51:32Z"
@@ -3767,21 +3637,20 @@ graph [
     commentcount 45
     duration "PT39S"
     indegree 15
-    cluster 9
+    ppinsult 0.32281044
+    ppflirtation 0.4534111
+    ppidentityattack 0.32045
+    ppthreat 0.62583816
+    pptoxicity 0.07371333
+    ppsexuallyexplicit 0.08850838
+    ppprofanity 0.20481923
+    ppinflammatory 0.13663958
     sentiment -0.4404
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.08850838
-    PERSPECTIVE_FLIRTATION 0.4534111
-    PERSPECTIVE_INSULT 0.32281044
-    PERSPECTIVE_TOXICITY 0.07371333
-    PERSPECTIVE_IDENTITY_ATTACK 0.32045
-    PERSPECTIVE_INFLAMMATORY 0.13663958
-    PERSPECTIVE_THREAT 0.62583816
-    PERSPECTIVE_PROFANITY 0.20481923
+    cluster 9
   ]
-  node [
-    id 135
+  node
+  [
+    id 140
     label "SnrWCE2CmmY"
     step 0
     date "2021-10-18T23:41:53Z"
@@ -3795,21 +3664,20 @@ graph [
     commentcount -1
     duration "PT2M8S"
     indegree 1
-    cluster 11
+    ppinsult 0.0659277
+    ppflirtation 0.20101812
+    ppidentityattack 0.07503386
+    ppthreat 0.10451332
+    pptoxicity 0.06532243
+    ppsexuallyexplicit 0.027019724
+    ppprofanity 0.029645601
+    ppinflammatory 0.41651833
     sentiment -0.25
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.027019724
-    PERSPECTIVE_FLIRTATION 0.20101812
-    PERSPECTIVE_INSULT 0.0659277
-    PERSPECTIVE_TOXICITY 0.06532243
-    PERSPECTIVE_IDENTITY_ATTACK 0.07503386
-    PERSPECTIVE_INFLAMMATORY 0.41651833
-    PERSPECTIVE_THREAT 0.10451332
-    PERSPECTIVE_PROFANITY 0.029645601
+    cluster 10
   ]
-  node [
-    id 136
+  node
+  [
+    id 141
     label "E6yIxbsK5CM"
     step 0
     date "2021-09-28T02:05:01Z"
@@ -3823,21 +3691,20 @@ graph [
     commentcount 1219
     duration "PT2M22S"
     indegree 5
-    cluster 10
+    ppinsult 0.07670281
+    ppflirtation 0.22473651
+    ppidentityattack 0.06698691
+    ppthreat 0.3919394
+    pptoxicity 0.09548495
+    ppsexuallyexplicit 0.0345479
+    ppprofanity 0.05695976
+    ppinflammatory 0.3174089
     sentiment 0.25
-    leftright "L"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.0345479
-    PERSPECTIVE_FLIRTATION 0.22473651
-    PERSPECTIVE_INSULT 0.07670281
-    PERSPECTIVE_TOXICITY 0.09548495
-    PERSPECTIVE_IDENTITY_ATTACK 0.06698691
-    PERSPECTIVE_INFLAMMATORY 0.3174089
-    PERSPECTIVE_THREAT 0.3919394
-    PERSPECTIVE_PROFANITY 0.05695976
+    cluster 6
   ]
-  node [
-    id 137
+  node
+  [
+    id 142
     label "3l8LQ_ZqHRc"
     step 0
     date "2021-10-31T02:30:29Z"
@@ -3851,21 +3718,20 @@ graph [
     commentcount 124
     duration "PT1M19S"
     indegree 3
-    cluster 5
+    ppinsult 0.050542608
+    ppflirtation 0.3236181
+    ppidentityattack 0.079607084
+    ppthreat 0.0810315
+    pptoxicity 0.09709594
+    ppsexuallyexplicit 0.027554547
+    ppprofanity 0.024947634
+    ppinflammatory 0.23711772
     sentiment -0.2732
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.027554547
-    PERSPECTIVE_FLIRTATION 0.3236181
-    PERSPECTIVE_INSULT 0.050542608
-    PERSPECTIVE_TOXICITY 0.09709594
-    PERSPECTIVE_IDENTITY_ATTACK 0.079607084
-    PERSPECTIVE_INFLAMMATORY 0.23711772
-    PERSPECTIVE_THREAT 0.0810315
-    PERSPECTIVE_PROFANITY 0.024947634
+    cluster 9
   ]
-  node [
-    id 138
+  node
+  [
+    id 143
     label "xlAogwQakRI"
     step 0
     date "2021-12-02T13:10:45Z"
@@ -3879,21 +3745,20 @@ graph [
     commentcount 3831
     duration "PT6M"
     indegree 6
+    ppinsult 0.120575495
+    ppflirtation 0.3645591
+    ppidentityattack 0.14623523
+    ppthreat 0.2295593
+    pptoxicity 0.0801064
+    ppsexuallyexplicit 0.040158927
+    ppprofanity 0.06381611
+    ppinflammatory 0.12886372
+    sentiment 0
     cluster 2
-    sentiment 0.0
-    leftright "L"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.040158927
-    PERSPECTIVE_FLIRTATION 0.3645591
-    PERSPECTIVE_INSULT 0.120575495
-    PERSPECTIVE_TOXICITY 0.0801064
-    PERSPECTIVE_IDENTITY_ATTACK 0.14623523
-    PERSPECTIVE_INFLAMMATORY 0.12886372
-    PERSPECTIVE_THREAT 0.2295593
-    PERSPECTIVE_PROFANITY 0.06381611
   ]
-  node [
-    id 139
+  node
+  [
+    id 144
     label "icN3kMFq9wA"
     step 0
     date "2021-10-29T23:34:00Z"
@@ -3907,21 +3772,20 @@ graph [
     commentcount 36
     duration "PT2M55S"
     indegree 22
+    ppinsult 0.053094376
+    ppflirtation 0.291174
+    ppidentityattack 0.039784204
+    ppthreat 0.12527339
+    pptoxicity 0.04818217
+    ppsexuallyexplicit 0.03240203
+    ppprofanity 0.03739595
+    ppinflammatory 0.36281034
+    sentiment 0
     cluster 9
-    sentiment 0.0
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.03240203
-    PERSPECTIVE_FLIRTATION 0.291174
-    PERSPECTIVE_INSULT 0.053094376
-    PERSPECTIVE_TOXICITY 0.04818217
-    PERSPECTIVE_IDENTITY_ATTACK 0.039784204
-    PERSPECTIVE_INFLAMMATORY 0.36281034
-    PERSPECTIVE_THREAT 0.12527339
-    PERSPECTIVE_PROFANITY 0.03739595
   ]
-  node [
-    id 140
+  node
+  [
+    id 145
     label "EUDrf2Svt8o"
     step 0
     date "2021-08-21T00:34:22Z"
@@ -3935,21 +3799,20 @@ graph [
     commentcount 7755
     duration "PT3M18S"
     indegree 11
-    cluster 7
+    ppinsult 0.07569533
+    ppflirtation 0.3518623
+    ppidentityattack 0.16291176
+    ppthreat 0.24827445
+    pptoxicity 0.04165838
+    ppsexuallyexplicit 0.04164018
+    ppprofanity 0.046018753
+    ppinflammatory 0.25293592
     sentiment -0.25
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.04164018
-    PERSPECTIVE_FLIRTATION 0.3518623
-    PERSPECTIVE_INSULT 0.07569533
-    PERSPECTIVE_TOXICITY 0.04165838
-    PERSPECTIVE_IDENTITY_ATTACK 0.16291176
-    PERSPECTIVE_INFLAMMATORY 0.25293592
-    PERSPECTIVE_THREAT 0.24827445
-    PERSPECTIVE_PROFANITY 0.046018753
+    cluster 6
   ]
-  node [
-    id 141
+  node
+  [
+    id 146
     label "UUxJDaXSrmI"
     step 0
     date "2022-02-16T21:00:11Z"
@@ -3963,21 +3826,20 @@ graph [
     commentcount 22
     duration "PT2M44S"
     indegree 0
-    cluster 6
-    sentiment 0.0
-    leftright ""
-    channeltags ""
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.06616357
-    PERSPECTIVE_FLIRTATION 0.4097637
-    PERSPECTIVE_INSULT 0.09050713
-    PERSPECTIVE_TOXICITY 0.024662184
-    PERSPECTIVE_IDENTITY_ATTACK 0.24502987
-    PERSPECTIVE_INFLAMMATORY 0.16634752
-    PERSPECTIVE_THREAT 0.32883552
-    PERSPECTIVE_PROFANITY 0.052584477
+    ppinsult 0.09050713
+    ppflirtation 0.4097637
+    ppidentityattack 0.24502987
+    ppthreat 0.32883552
+    pptoxicity 0.024662184
+    ppsexuallyexplicit 0.06616357
+    ppprofanity 0.052584477
+    ppinflammatory 0.16634752
+    sentiment 0
+    cluster 5
   ]
-  node [
-    id 142
+  node
+  [
+    id 147
     label "JIyn4J7SZ0A"
     step 0
     date "2021-12-15T07:30:01Z"
@@ -3991,21 +3853,20 @@ graph [
     commentcount 162
     duration "PT3M30S"
     indegree 1
+    ppinsult 0.1579637
+    ppflirtation 0.45046288
+    ppidentityattack 0.24980563
+    ppthreat 0.28959844
+    pptoxicity 0.118584804
+    ppsexuallyexplicit 0.32318047
+    ppprofanity 0.20113456
+    ppinflammatory 0.09581472
+    sentiment 0
     cluster 2
-    sentiment 0.0
-    leftright "L"
-    channeltags "Mainstream News|PartisanLeft"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.32318047
-    PERSPECTIVE_FLIRTATION 0.45046288
-    PERSPECTIVE_INSULT 0.1579637
-    PERSPECTIVE_TOXICITY 0.118584804
-    PERSPECTIVE_IDENTITY_ATTACK 0.24980563
-    PERSPECTIVE_INFLAMMATORY 0.09581472
-    PERSPECTIVE_THREAT 0.28959844
-    PERSPECTIVE_PROFANITY 0.20113456
   ]
-  node [
-    id 143
+  node
+  [
+    id 149
     label "Tu5_uu3q2s0"
     step 0
     date "2021-12-22T07:21:36Z"
@@ -4019,21 +3880,20 @@ graph [
     commentcount 89
     duration "PT2M25S"
     indegree 0
-    cluster 6
+    ppinsult 0.117880285
+    ppflirtation 0.31493458
+    ppidentityattack 0.1423811
+    ppthreat 0.13593467
+    pptoxicity 0.02054715
+    ppsexuallyexplicit 0.10258883
+    ppprofanity 0.11796329
+    ppinflammatory 0.14043659
     sentiment -0.4404
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.10258883
-    PERSPECTIVE_FLIRTATION 0.31493458
-    PERSPECTIVE_INSULT 0.117880285
-    PERSPECTIVE_TOXICITY 0.02054715
-    PERSPECTIVE_IDENTITY_ATTACK 0.1423811
-    PERSPECTIVE_INFLAMMATORY 0.14043659
-    PERSPECTIVE_THREAT 0.13593467
-    PERSPECTIVE_PROFANITY 0.11796329
+    cluster 5
   ]
-  node [
-    id 144
+  node
+  [
+    id 150
     label "R8Q8NN5vClI"
     step 0
     date "2021-10-02T00:30:54Z"
@@ -4047,21 +3907,20 @@ graph [
     commentcount 11240
     duration "PT4M"
     indegree 1
-    cluster 11
-    sentiment 0.0
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.070868984
-    PERSPECTIVE_FLIRTATION 0.34888157
-    PERSPECTIVE_INSULT 0.06141911
-    PERSPECTIVE_TOXICITY 0.046122026
-    PERSPECTIVE_IDENTITY_ATTACK 0.09538081
-    PERSPECTIVE_INFLAMMATORY 0.2260093
-    PERSPECTIVE_THREAT 0.2667789
-    PERSPECTIVE_PROFANITY 0.07393746
+    ppinsult 0.06141911
+    ppflirtation 0.34888157
+    ppidentityattack 0.09538081
+    ppthreat 0.2667789
+    pptoxicity 0.046122026
+    ppsexuallyexplicit 0.070868984
+    ppprofanity 0.07393746
+    ppinflammatory 0.2260093
+    sentiment 0
+    cluster 10
   ]
-  node [
-    id 145
+  node
+  [
+    id 152
     label "zrZtE90MJAo"
     step 0
     date "2021-10-07T02:26:20Z"
@@ -4075,21 +3934,20 @@ graph [
     commentcount 2893
     duration "PT4M54S"
     indegree 0
-    cluster 10
-    sentiment 0.0
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.039723895
-    PERSPECTIVE_FLIRTATION 0.22722702
-    PERSPECTIVE_INSULT 0.05225448
-    PERSPECTIVE_TOXICITY 0.026207292
-    PERSPECTIVE_IDENTITY_ATTACK 0.057730686
-    PERSPECTIVE_INFLAMMATORY 0.29084766
-    PERSPECTIVE_THREAT 0.085091636
-    PERSPECTIVE_PROFANITY 0.04560016
+    ppinsult 0.05225448
+    ppflirtation 0.22722702
+    ppidentityattack 0.057730686
+    ppthreat 0.085091636
+    pptoxicity 0.026207292
+    ppsexuallyexplicit 0.039723895
+    ppprofanity 0.04560016
+    ppinflammatory 0.29084766
+    sentiment 0
+    cluster 6
   ]
-  node [
-    id 146
+  node
+  [
+    id 154
     label "1ktgmktTd-8"
     step 0
     date "2022-01-14T14:30:01Z"
@@ -4103,21 +3961,20 @@ graph [
     commentcount 225
     duration "PT6M4S"
     indegree 0
-    cluster 2
+    ppinsult 0.06541594
+    ppflirtation 0.24219792
+    ppidentityattack 0.08795595
+    ppthreat 0.106264055
+    pptoxicity 0.036851373
+    ppsexuallyexplicit 0.0687942
+    ppprofanity 0.060897533
+    ppinflammatory 0.31905702
     sentiment 0.1779
-    leftright "L"
-    channeltags "Mainstream News|PartisanLeft"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.0687942
-    PERSPECTIVE_FLIRTATION 0.24219792
-    PERSPECTIVE_INSULT 0.06541594
-    PERSPECTIVE_TOXICITY 0.036851373
-    PERSPECTIVE_IDENTITY_ATTACK 0.08795595
-    PERSPECTIVE_INFLAMMATORY 0.31905702
-    PERSPECTIVE_THREAT 0.106264055
-    PERSPECTIVE_PROFANITY 0.060897533
+    cluster 2
   ]
-  node [
-    id 147
+  node
+  [
+    id 155
     label "cnDfM8EMB9A"
     step 0
     date "2021-09-16T03:16:17Z"
@@ -4131,21 +3988,20 @@ graph [
     commentcount 2182
     duration "PT8M18S"
     indegree 60
-    cluster 10
-    sentiment 0.0
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.03892119
-    PERSPECTIVE_FLIRTATION 0.23175986
-    PERSPECTIVE_INSULT 0.06534864
-    PERSPECTIVE_TOXICITY 0.016104523
-    PERSPECTIVE_IDENTITY_ATTACK 0.08490211
-    PERSPECTIVE_INFLAMMATORY 0.43741196
-    PERSPECTIVE_THREAT 0.21537739
-    PERSPECTIVE_PROFANITY 0.047102783
+    ppinsult 0.06534864
+    ppflirtation 0.23175986
+    ppidentityattack 0.08490211
+    ppthreat 0.21537739
+    pptoxicity 0.016104523
+    ppsexuallyexplicit 0.03892119
+    ppprofanity 0.047102783
+    ppinflammatory 0.43741196
+    sentiment 0
+    cluster 9
   ]
-  node [
-    id 148
+  node
+  [
+    id 158
     label "VGD4vyogJsE"
     step 0
     date "2021-11-04T21:11:46Z"
@@ -4159,21 +4015,20 @@ graph [
     commentcount 78
     duration "PT2M53S"
     indegree 0
-    cluster 10
-    sentiment 0.0
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.042294163
-    PERSPECTIVE_FLIRTATION 0.26324132
-    PERSPECTIVE_INSULT 0.027695464
-    PERSPECTIVE_TOXICITY 0.03187269
-    PERSPECTIVE_IDENTITY_ATTACK 0.029325899
-    PERSPECTIVE_INFLAMMATORY 0.270214
-    PERSPECTIVE_THREAT 0.08130577
-    PERSPECTIVE_PROFANITY 0.027841248
+    ppinsult 0.027695464
+    ppflirtation 0.26324132
+    ppidentityattack 0.029325899
+    ppthreat 0.08130577
+    pptoxicity 0.03187269
+    ppsexuallyexplicit 0.042294163
+    ppprofanity 0.027841248
+    ppinflammatory 0.270214
+    sentiment 0
+    cluster 9
   ]
-  node [
-    id 149
+  node
+  [
+    id 160
     label "dmFl_w33wio"
     step 0
     date "2021-10-14T02:15:53Z"
@@ -4187,21 +4042,20 @@ graph [
     commentcount 166
     duration "PT2M59S"
     indegree 0
-    cluster 5
-    sentiment 0.0
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.065314025
-    PERSPECTIVE_FLIRTATION 0.2184436
-    PERSPECTIVE_INSULT 0.07148774
-    PERSPECTIVE_TOXICITY 0.01721518
-    PERSPECTIVE_IDENTITY_ATTACK 0.11695493
-    PERSPECTIVE_INFLAMMATORY 0.07111827
-    PERSPECTIVE_THREAT 0.09061803
-    PERSPECTIVE_PROFANITY 0.086132124
+    ppinsult 0.07148774
+    ppflirtation 0.2184436
+    ppidentityattack 0.11695493
+    ppthreat 0.09061803
+    pptoxicity 0.01721518
+    ppsexuallyexplicit 0.065314025
+    ppprofanity 0.086132124
+    ppinflammatory 0.07111827
+    sentiment 0
+    cluster 7
   ]
-  node [
-    id 150
+  node
+  [
+    id 161
     label "7dK4GVkxZJQ"
     step 0
     date "2022-01-13T20:41:55Z"
@@ -4215,21 +4069,20 @@ graph [
     commentcount 1579
     duration "PT2M26S"
     indegree 19
-    cluster 4
+    ppinsult 0.07102507
+    ppflirtation 0.28418076
+    ppidentityattack 0.06791136
+    ppthreat 0.14813703
+    pptoxicity 0.046122026
+    ppsexuallyexplicit 0.11752055
+    ppprofanity 0.094811216
+    ppinflammatory 0.2871917
     sentiment 0.4019
-    leftright "L"
-    channeltags "Mainstream News|PartisanLeft"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.11752055
-    PERSPECTIVE_FLIRTATION 0.28418076
-    PERSPECTIVE_INSULT 0.07102507
-    PERSPECTIVE_TOXICITY 0.046122026
-    PERSPECTIVE_IDENTITY_ATTACK 0.06791136
-    PERSPECTIVE_INFLAMMATORY 0.2871917
-    PERSPECTIVE_THREAT 0.14813703
-    PERSPECTIVE_PROFANITY 0.094811216
+    cluster 4
   ]
-  node [
-    id 151
+  node
+  [
+    id 162
     label "Cz_n2tjzlLM"
     step 0
     date "2021-09-10T03:07:28Z"
@@ -4243,21 +4096,20 @@ graph [
     commentcount 3970
     duration "PT2M29S"
     indegree 7
-    cluster 8
+    ppinsult 0.043550584
+    ppflirtation 0.29053986
+    ppidentityattack 0.07077002
+    ppthreat 0.14794889
+    pptoxicity 0.11085691
+    ppsexuallyexplicit 0.019900484
+    ppprofanity 0.025351755
+    ppinflammatory 0.25113106
     sentiment 0.128
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.019900484
-    PERSPECTIVE_FLIRTATION 0.29053986
-    PERSPECTIVE_INSULT 0.043550584
-    PERSPECTIVE_TOXICITY 0.11085691
-    PERSPECTIVE_IDENTITY_ATTACK 0.07077002
-    PERSPECTIVE_INFLAMMATORY 0.25113106
-    PERSPECTIVE_THREAT 0.14794889
-    PERSPECTIVE_PROFANITY 0.025351755
+    cluster 8
   ]
-  node [
-    id 152
+  node
+  [
+    id 163
     label "apRDrOwsaNE"
     step 0
     date "2021-10-29T02:38:48Z"
@@ -4271,21 +4123,20 @@ graph [
     commentcount 831
     duration "PT2M27S"
     indegree 2
-    cluster 9
+    ppinsult 0.049815904
+    ppflirtation 0.36523962
+    ppidentityattack 0.08087717
+    ppthreat 0.13431557
+    pptoxicity 0.10031791
+    ppsexuallyexplicit 0.059988875
+    ppprofanity 0.038691085
+    ppinflammatory 0.3145902
     sentiment -0.25
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.059988875
-    PERSPECTIVE_FLIRTATION 0.36523962
-    PERSPECTIVE_INSULT 0.049815904
-    PERSPECTIVE_TOXICITY 0.10031791
-    PERSPECTIVE_IDENTITY_ATTACK 0.08087717
-    PERSPECTIVE_INFLAMMATORY 0.3145902
-    PERSPECTIVE_THREAT 0.13431557
-    PERSPECTIVE_PROFANITY 0.038691085
+    cluster 9
   ]
-  node [
-    id 153
+  node
+  [
+    id 164
     label "trmhR0ql7TM"
     step 0
     date "2021-12-07T14:37:50Z"
@@ -4299,21 +4150,20 @@ graph [
     commentcount 1089
     duration "PT7M1S"
     indegree 4
-    cluster 10
-    sentiment 0.0
-    leftright "L"
-    channeltags "Mainstream News|PartisanLeft"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.043795217
-    PERSPECTIVE_FLIRTATION 0.22372678
-    PERSPECTIVE_INSULT 0.047238763
-    PERSPECTIVE_TOXICITY 0.009440582
-    PERSPECTIVE_IDENTITY_ATTACK 0.05032915
-    PERSPECTIVE_INFLAMMATORY 0.15665121
-    PERSPECTIVE_THREAT 0.11655036
-    PERSPECTIVE_PROFANITY 0.049226724
+    ppinsult 0.047238763
+    ppflirtation 0.22372678
+    ppidentityattack 0.05032915
+    ppthreat 0.11655036
+    pptoxicity 0.009440582
+    ppsexuallyexplicit 0.043795217
+    ppprofanity 0.049226724
+    ppinflammatory 0.15665121
+    sentiment 0
+    cluster 6
   ]
-  node [
-    id 154
+  node
+  [
+    id 166
     label "3BYFaTcjLuY"
     step 0
     date "2022-01-24T18:00:01Z"
@@ -4327,21 +4177,20 @@ graph [
     commentcount 41
     duration "PT1M58S"
     indegree 1
-    cluster 7
+    ppinsult 0.10096774
+    ppflirtation 0.16847993
+    ppidentityattack 0.11345387
+    ppthreat 0.29696962
+    pptoxicity 0.016937515
+    ppsexuallyexplicit 0.023102207
+    ppprofanity 0.058093432
+    ppinflammatory 0.26467878
     sentiment -0.25
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.023102207
-    PERSPECTIVE_FLIRTATION 0.16847993
-    PERSPECTIVE_INSULT 0.10096774
-    PERSPECTIVE_TOXICITY 0.016937515
-    PERSPECTIVE_IDENTITY_ATTACK 0.11345387
-    PERSPECTIVE_INFLAMMATORY 0.26467878
-    PERSPECTIVE_THREAT 0.29696962
-    PERSPECTIVE_PROFANITY 0.058093432
+    cluster 6
   ]
-  node [
-    id 155
+  node
+  [
+    id 167
     label "zA04GWjliXc"
     step 0
     date "2022-02-10T17:15:46Z"
@@ -4355,21 +4204,20 @@ graph [
     commentcount 1505
     duration "PT5M22S"
     indegree 7
-    cluster 5
+    ppinsult 0.03684852
+    ppflirtation 0.1886963
+    ppidentityattack 0.047522206
+    ppthreat 0.12737417
+    pptoxicity 0.040284947
+    ppsexuallyexplicit 0.038543724
+    ppprofanity 0.034322582
+    ppinflammatory 0.26456755
     sentiment -0.5267
-    leftright "R"
-    channeltags "Mainstream News|PartisanRight"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.038543724
-    PERSPECTIVE_FLIRTATION 0.1886963
-    PERSPECTIVE_INSULT 0.03684852
-    PERSPECTIVE_TOXICITY 0.040284947
-    PERSPECTIVE_IDENTITY_ATTACK 0.047522206
-    PERSPECTIVE_INFLAMMATORY 0.26456755
-    PERSPECTIVE_THREAT 0.12737417
-    PERSPECTIVE_PROFANITY 0.034322582
+    cluster 3
   ]
-  node [
-    id 156
+  node
+  [
+    id 168
     label "TQ_Xka_DTz0"
     step 0
     date "2022-05-10T03:26:52Z"
@@ -4383,21 +4231,20 @@ graph [
     commentcount 16
     duration "PT2M20S"
     indegree 0
+    ppinsult 0.07978358
+    ppflirtation 0.2230211
+    ppidentityattack 0.19271268
+    ppthreat 0.15618782
+    pptoxicity 0.118584804
+    ppsexuallyexplicit 0.051344853
+    ppprofanity 0.084186174
+    ppinflammatory 0.2165552
+    sentiment 0
     cluster 4
-    sentiment 0.0
-    leftright ""
-    channeltags ""
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.051344853
-    PERSPECTIVE_FLIRTATION 0.2230211
-    PERSPECTIVE_INSULT 0.07978358
-    PERSPECTIVE_TOXICITY 0.118584804
-    PERSPECTIVE_IDENTITY_ATTACK 0.19271268
-    PERSPECTIVE_INFLAMMATORY 0.2165552
-    PERSPECTIVE_THREAT 0.15618782
-    PERSPECTIVE_PROFANITY 0.084186174
   ]
-  node [
-    id 157
+  node
+  [
+    id 169
     label "VZiLeBG8Xus"
     step 0
     date "2022-03-29T16:22:05Z"
@@ -4411,21 +4258,20 @@ graph [
     commentcount 66
     duration "PT1M57S"
     indegree 3
+    ppinsult 0.08735676
+    ppflirtation 0.21125655
+    ppidentityattack 0.098342344
+    ppthreat 0.21123888
+    pptoxicity 0.051737156
+    ppsexuallyexplicit 0.0313864
+    ppprofanity 0.06837804
+    ppinflammatory 0.24898385
+    sentiment 0
     cluster 2
-    sentiment 0.0
-    leftright ""
-    channeltags ""
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.0313864
-    PERSPECTIVE_FLIRTATION 0.21125655
-    PERSPECTIVE_INSULT 0.08735676
-    PERSPECTIVE_TOXICITY 0.051737156
-    PERSPECTIVE_IDENTITY_ATTACK 0.098342344
-    PERSPECTIVE_INFLAMMATORY 0.24898385
-    PERSPECTIVE_THREAT 0.21123888
-    PERSPECTIVE_PROFANITY 0.06837804
   ]
-  node [
-    id 158
+  node
+  [
+    id 170
     label "YBfk2x5FW3E"
     step 0
     date "2022-01-07T14:15:58Z"
@@ -4439,21 +4285,20 @@ graph [
     commentcount 4042
     duration "PT2M2S"
     indegree 6
-    cluster 1
+    ppinsult 0.065976925
+    ppflirtation 0.38478395
+    ppidentityattack 0.11458487
+    ppthreat 0.23596416
+    pptoxicity 0.043031808
+    ppsexuallyexplicit 0.04930452
+    ppprofanity 0.052030604
+    ppinflammatory 0.20332764
     sentiment 0.2263
-    leftright "L"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.04930452
-    PERSPECTIVE_FLIRTATION 0.38478395
-    PERSPECTIVE_INSULT 0.065976925
-    PERSPECTIVE_TOXICITY 0.043031808
-    PERSPECTIVE_IDENTITY_ATTACK 0.11458487
-    PERSPECTIVE_INFLAMMATORY 0.20332764
-    PERSPECTIVE_THREAT 0.23596416
-    PERSPECTIVE_PROFANITY 0.052030604
+    cluster 1
   ]
-  node [
-    id 159
+  node
+  [
+    id 172
     label "Ya8er-4jQyo"
     step 0
     date "2022-03-24T16:08:14Z"
@@ -4467,21 +4312,20 @@ graph [
     commentcount 327
     duration "PT9M47S"
     indegree 0
+    ppinsult 0.042626295
+    ppflirtation 0.33384055
+    ppidentityattack 0.0656536
+    ppthreat 0.25045782
+    pptoxicity 0.03839648
+    ppsexuallyexplicit 0.050914086
+    ppprofanity 0.04994096
+    ppinflammatory 0.4668253
+    sentiment 0
     cluster 2
-    sentiment 0.0
-    leftright ""
-    channeltags ""
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.050914086
-    PERSPECTIVE_FLIRTATION 0.33384055
-    PERSPECTIVE_INSULT 0.042626295
-    PERSPECTIVE_TOXICITY 0.03839648
-    PERSPECTIVE_IDENTITY_ATTACK 0.0656536
-    PERSPECTIVE_INFLAMMATORY 0.4668253
-    PERSPECTIVE_THREAT 0.25045782
-    PERSPECTIVE_PROFANITY 0.04994096
   ]
-  node [
-    id 160
+  node
+  [
+    id 173
     label "4-zk_eDJ3ZA"
     step 0
     date "2022-01-23T11:46:12Z"
@@ -4495,21 +4339,20 @@ graph [
     commentcount 630
     duration "PT2M36S"
     indegree 3
-    cluster 7
+    ppinsult 0.05912775
+    ppflirtation 0.27624273
+    ppidentityattack 0.09154525
+    ppthreat 0.1244944
+    pptoxicity 0.079307266
+    ppsexuallyexplicit 0.02992646
+    ppprofanity 0.04571396
+    ppinflammatory 0.21568899
     sentiment -0.3182
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.02992646
-    PERSPECTIVE_FLIRTATION 0.27624273
-    PERSPECTIVE_INSULT 0.05912775
-    PERSPECTIVE_TOXICITY 0.079307266
-    PERSPECTIVE_IDENTITY_ATTACK 0.09154525
-    PERSPECTIVE_INFLAMMATORY 0.21568899
-    PERSPECTIVE_THREAT 0.1244944
-    PERSPECTIVE_PROFANITY 0.04571396
+    cluster 6
   ]
-  node [
-    id 161
+  node
+  [
+    id 174
     label "R4XDJ6hPSkk"
     step 0
     date "2021-12-09T15:09:40Z"
@@ -4523,21 +4366,20 @@ graph [
     commentcount 571
     duration "PT1M55S"
     indegree 4
+    ppinsult 0.106919274
+    ppflirtation 0.29232886
+    ppidentityattack 0.07602829
+    ppthreat 0.17968622
+    pptoxicity 0.06931809
+    ppsexuallyexplicit 0.038968403
+    ppprofanity 0.048733935
+    ppinflammatory 0.26659903
+    sentiment 0
     cluster 9
-    sentiment 0.0
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.038968403
-    PERSPECTIVE_FLIRTATION 0.29232886
-    PERSPECTIVE_INSULT 0.106919274
-    PERSPECTIVE_TOXICITY 0.06931809
-    PERSPECTIVE_IDENTITY_ATTACK 0.07602829
-    PERSPECTIVE_INFLAMMATORY 0.26659903
-    PERSPECTIVE_THREAT 0.17968622
-    PERSPECTIVE_PROFANITY 0.048733935
   ]
-  node [
-    id 162
+  node
+  [
+    id 175
     label "VfkNBpezWNI"
     step 0
     date "2022-02-07T00:04:28Z"
@@ -4551,21 +4393,20 @@ graph [
     commentcount 268
     duration "PT6M52S"
     indegree 2
-    cluster 5
-    sentiment 0.0
-    leftright ""
-    channeltags ""
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.13913283
-    PERSPECTIVE_FLIRTATION 0.5165056
-    PERSPECTIVE_INSULT 0.07391428
-    PERSPECTIVE_TOXICITY 0.039254878
-    PERSPECTIVE_IDENTITY_ATTACK 0.12436255
-    PERSPECTIVE_INFLAMMATORY 0.120964505
-    PERSPECTIVE_THREAT 0.3079553
-    PERSPECTIVE_PROFANITY 0.092709005
+    ppinsult 0.07391428
+    ppflirtation 0.5165056
+    ppidentityattack 0.12436255
+    ppthreat 0.3079553
+    pptoxicity 0.039254878
+    ppsexuallyexplicit 0.13913283
+    ppprofanity 0.092709005
+    ppinflammatory 0.120964505
+    sentiment 0
+    cluster 3
   ]
-  node [
-    id 163
+  node
+  [
+    id 176
     label "l5UoL7PQ1IQ"
     step 0
     date "2022-01-31T09:16:34Z"
@@ -4579,21 +4420,20 @@ graph [
     commentcount -1
     duration "PT51S"
     indegree 0
-    cluster 11
-    sentiment 0.0
-    leftright "R"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.09278021
-    PERSPECTIVE_FLIRTATION 0.3614369
-    PERSPECTIVE_INSULT 0.075653754
-    PERSPECTIVE_TOXICITY 0.14193995
-    PERSPECTIVE_IDENTITY_ATTACK 0.16302793
-    PERSPECTIVE_INFLAMMATORY 0.17317164
-    PERSPECTIVE_THREAT 0.271131
-    PERSPECTIVE_PROFANITY 0.07761127
+    ppinsult 0.075653754
+    ppflirtation 0.3614369
+    ppidentityattack 0.16302793
+    ppthreat 0.271131
+    pptoxicity 0.14193995
+    ppsexuallyexplicit 0.09278021
+    ppprofanity 0.07761127
+    ppinflammatory 0.17317164
+    sentiment 0
+    cluster 10
   ]
-  node [
-    id 164
+  node
+  [
+    id 177
     label "nsIvZZPjdWQ"
     step 0
     date "2021-12-09T17:37:02Z"
@@ -4607,21 +4447,20 @@ graph [
     commentcount 193
     duration "PT4M29S"
     indegree 3
+    ppinsult 0.07168799
+    ppflirtation 0.20798045
+    ppidentityattack 0.043497168
+    ppthreat 0.051009133
+    pptoxicity 0.031357653
+    ppsexuallyexplicit 0.02023474
+    ppprofanity 0.026241617
+    ppinflammatory 0.46463344
+    sentiment 0
     cluster 9
-    sentiment 0.0
-    leftright ""
-    channeltags ""
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.02023474
-    PERSPECTIVE_FLIRTATION 0.20798045
-    PERSPECTIVE_INSULT 0.07168799
-    PERSPECTIVE_TOXICITY 0.031357653
-    PERSPECTIVE_IDENTITY_ATTACK 0.043497168
-    PERSPECTIVE_INFLAMMATORY 0.46463344
-    PERSPECTIVE_THREAT 0.051009133
-    PERSPECTIVE_PROFANITY 0.026241617
   ]
-  node [
-    id 165
+  node
+  [
+    id 178
     label "5veSGk8VJxM"
     step 0
     date "2021-11-07T01:34:08Z"
@@ -4635,21 +4474,20 @@ graph [
     commentcount 121
     duration "PT58S"
     indegree 18
+    ppinsult 0.043931354
+    ppflirtation 0.22769623
+    ppidentityattack 0.048397012
+    ppthreat 0.07001389
+    pptoxicity 0.08850401
+    ppsexuallyexplicit 0.029102225
+    ppprofanity 0.031727366
+    ppinflammatory 0.3721251
+    sentiment 0
     cluster 9
-    sentiment 0.0
-    leftright "R"
-    channeltags NAN
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.029102225
-    PERSPECTIVE_FLIRTATION 0.22769623
-    PERSPECTIVE_INSULT 0.043931354
-    PERSPECTIVE_TOXICITY 0.08850401
-    PERSPECTIVE_IDENTITY_ATTACK 0.048397012
-    PERSPECTIVE_INFLAMMATORY 0.3721251
-    PERSPECTIVE_THREAT 0.07001389
-    PERSPECTIVE_PROFANITY 0.031727366
   ]
-  node [
-    id 166
+  node
+  [
+    id 179
     label "i6QOjLFH340"
     step 0
     date "2021-10-06T00:00:18Z"
@@ -4663,21 +4501,20 @@ graph [
     commentcount 1547
     duration "PT5M30S"
     indegree 0
+    ppinsult 0.042496696
+    ppflirtation 0.33350232
+    ppidentityattack 0.059240922
+    ppthreat 0.13174047
+    pptoxicity 0.027580723
+    ppsexuallyexplicit 0.07320226
+    ppprofanity 0.053046666
+    ppinflammatory 0.27429867
+    sentiment 0
     cluster 8
-    sentiment 0.0
-    leftright "L"
-    channeltags "Mainstream News|PartisanLeft"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.07320226
-    PERSPECTIVE_FLIRTATION 0.33350232
-    PERSPECTIVE_INSULT 0.042496696
-    PERSPECTIVE_TOXICITY 0.027580723
-    PERSPECTIVE_IDENTITY_ATTACK 0.059240922
-    PERSPECTIVE_INFLAMMATORY 0.27429867
-    PERSPECTIVE_THREAT 0.13174047
-    PERSPECTIVE_PROFANITY 0.053046666
   ]
-  node [
-    id 167
+  node
+  [
+    id 180
     label "f_VH15tX1tE"
     step 0
     date "2021-09-14T05:19:18Z"
@@ -4691,21 +4528,20 @@ graph [
     commentcount 163
     duration "PT2M26S"
     indegree 0
-    cluster 5
+    ppinsult 0.036907125
+    ppflirtation 0.4147046
+    ppidentityattack 0.09216098
+    ppthreat 0.23027852
+    pptoxicity 0.043031808
+    ppsexuallyexplicit 0.0372043
+    ppprofanity 0.034657735
+    ppinflammatory 0.15675898
     sentiment -0.2263
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.0372043
-    PERSPECTIVE_FLIRTATION 0.4147046
-    PERSPECTIVE_INSULT 0.036907125
-    PERSPECTIVE_TOXICITY 0.043031808
-    PERSPECTIVE_IDENTITY_ATTACK 0.09216098
-    PERSPECTIVE_INFLAMMATORY 0.15675898
-    PERSPECTIVE_THREAT 0.23027852
-    PERSPECTIVE_PROFANITY 0.034657735
+    cluster 1
   ]
-  node [
-    id 168
+  node
+  [
+    id 181
     label "9z698XaCnsA"
     step 0
     date "2022-03-04T12:27:08Z"
@@ -4719,21 +4555,20 @@ graph [
     commentcount 121
     duration "PT2M47S"
     indegree 0
+    ppinsult 0.1249481
+    ppflirtation 0.41314176
+    ppidentityattack 0.2620966
+    ppthreat 0.29429293
+    pptoxicity 0.048525527
+    ppsexuallyexplicit 0.04667347
+    ppprofanity 0.07423638
+    ppinflammatory 0.118529014
+    sentiment 0
     cluster 6
-    sentiment 0.0
-    leftright ""
-    channeltags ""
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.04667347
-    PERSPECTIVE_FLIRTATION 0.41314176
-    PERSPECTIVE_INSULT 0.1249481
-    PERSPECTIVE_TOXICITY 0.048525527
-    PERSPECTIVE_IDENTITY_ATTACK 0.2620966
-    PERSPECTIVE_INFLAMMATORY 0.118529014
-    PERSPECTIVE_THREAT 0.29429293
-    PERSPECTIVE_PROFANITY 0.07423638
   ]
-  node [
-    id 169
+  node
+  [
+    id 182
     label "Elcf9nQSiCA"
     step 0
     date "2021-10-26T18:00:03Z"
@@ -4747,21 +4582,20 @@ graph [
     commentcount 1877
     duration "PT5M34S"
     indegree 8
-    cluster 9
+    ppinsult 0.06436702
+    ppflirtation 0.32137984
+    ppidentityattack 0.14022306
+    ppthreat 0.4378257
+    pptoxicity 0.09279997
+    ppsexuallyexplicit 0.09951738
+    ppprofanity 0.091714755
+    ppinflammatory 0.355563
     sentiment -0.25
-    leftright "L"
-    channeltags "Mainstream News|PartisanLeft"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.09951738
-    PERSPECTIVE_FLIRTATION 0.32137984
-    PERSPECTIVE_INSULT 0.06436702
-    PERSPECTIVE_TOXICITY 0.09279997
-    PERSPECTIVE_IDENTITY_ATTACK 0.14022306
-    PERSPECTIVE_INFLAMMATORY 0.355563
-    PERSPECTIVE_THREAT 0.4378257
-    PERSPECTIVE_PROFANITY 0.091714755
+    cluster 4
   ]
-  node [
-    id 170
+  node
+  [
+    id 183
     label "MZoRS_NS1bs"
     step 0
     date "2022-01-13T23:16:54Z"
@@ -4775,21 +4609,20 @@ graph [
     commentcount -1
     duration "PT3M12S"
     indegree 1
-    cluster 4
+    ppinsult 0.14623478
+    ppflirtation 0.2525222
+    ppidentityattack 0.082011834
+    ppthreat 0.0644764
+    pptoxicity 0.02809576
+    ppsexuallyexplicit 0.04537111
+    ppprofanity 0.069061615
+    ppinflammatory 0.20787865
     sentiment 0.4019
-    leftright "C"
-    channeltags "Mainstream News|StateFunded"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.04537111
-    PERSPECTIVE_FLIRTATION 0.2525222
-    PERSPECTIVE_INSULT 0.14623478
-    PERSPECTIVE_TOXICITY 0.02809576
-    PERSPECTIVE_IDENTITY_ATTACK 0.082011834
-    PERSPECTIVE_INFLAMMATORY 0.20787865
-    PERSPECTIVE_THREAT 0.0644764
-    PERSPECTIVE_PROFANITY 0.069061615
+    cluster 4
   ]
-  node [
-    id 171
+  node
+  [
+    id 184
     label "ifkx-rGuYy0"
     step 0
     date "2022-01-07T13:30:10Z"
@@ -4803,21 +4636,20 @@ graph [
     commentcount 806
     duration "PT3M1S"
     indegree 0
-    cluster 4
+    ppinsult 0.10971586
+    ppflirtation 0.33667445
+    ppidentityattack 0.12629001
+    ppthreat 0.17643343
+    pptoxicity 0.021518974
+    ppsexuallyexplicit 0.14773412
+    ppprofanity 0.13341954
+    ppinflammatory 0.18441878
     sentiment 0.2263
-    leftright "L"
-    channeltags "Mainstream News|PartisanLeft"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.14773412
-    PERSPECTIVE_FLIRTATION 0.33667445
-    PERSPECTIVE_INSULT 0.10971586
-    PERSPECTIVE_TOXICITY 0.021518974
-    PERSPECTIVE_IDENTITY_ATTACK 0.12629001
-    PERSPECTIVE_INFLAMMATORY 0.18441878
-    PERSPECTIVE_THREAT 0.17643343
-    PERSPECTIVE_PROFANITY 0.13341954
+    cluster 4
   ]
-  node [
-    id 172
+  node
+  [
+    id 185
     label "4aboF0VD32I"
     step 0
     date "2021-11-29T18:41:54Z"
@@ -4831,21 +4663,20 @@ graph [
     commentcount 235
     duration "PT7M23S"
     indegree 18
-    cluster 9
+    ppinsult 0.017943157
+    ppflirtation 0.19531024
+    ppidentityattack 0.018977491
+    ppthreat 0.05367456
+    pptoxicity 0.010342991
+    ppsexuallyexplicit 0.017205201
+    ppprofanity 0.011165815
+    ppinflammatory 0.10702201
     sentiment 0.4939
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.017205201
-    PERSPECTIVE_FLIRTATION 0.19531024
-    PERSPECTIVE_INSULT 0.017943157
-    PERSPECTIVE_TOXICITY 0.010342991
-    PERSPECTIVE_IDENTITY_ATTACK 0.018977491
-    PERSPECTIVE_INFLAMMATORY 0.10702201
-    PERSPECTIVE_THREAT 0.05367456
-    PERSPECTIVE_PROFANITY 0.011165815
+    cluster 9
   ]
-  node [
-    id 173
+  node
+  [
+    id 186
     label "g521LRLFJZo"
     step 0
     date "2021-08-25T23:25:04Z"
@@ -4859,21 +4690,20 @@ graph [
     commentcount 1733
     duration "PT1M22S"
     indegree 7
-    cluster 7
+    ppinsult 0.0840265
+    ppflirtation 0.22493953
+    ppidentityattack 0.15716319
+    ppthreat 0.13767155
+    pptoxicity 0.037881445
+    ppsexuallyexplicit 0.04630725
+    ppprofanity 0.06725301
+    ppinflammatory 0.3803097
     sentiment -0.25
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.04630725
-    PERSPECTIVE_FLIRTATION 0.22493953
-    PERSPECTIVE_INSULT 0.0840265
-    PERSPECTIVE_TOXICITY 0.037881445
-    PERSPECTIVE_IDENTITY_ATTACK 0.15716319
-    PERSPECTIVE_INFLAMMATORY 0.3803097
-    PERSPECTIVE_THREAT 0.13767155
-    PERSPECTIVE_PROFANITY 0.06725301
+    cluster 6
   ]
-  node [
-    id 174
+  node
+  [
+    id 187
     label "TXVDYtPqvxg"
     step 0
     date "2022-02-15T11:41:28Z"
@@ -4887,21 +4717,20 @@ graph [
     commentcount 1115
     duration "PT8M33S"
     indegree 3
-    cluster 12
+    ppinsult 0.105462365
+    ppflirtation 0.3585186
+    ppidentityattack 0.22307825
+    ppthreat 0.2244451
+    pptoxicity 0.16551583
+    ppsexuallyexplicit 0.035474677
+    ppprofanity 0.04770466
+    ppinflammatory 0.16178975
     sentiment -0.4215
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.035474677
-    PERSPECTIVE_FLIRTATION 0.3585186
-    PERSPECTIVE_INSULT 0.105462365
-    PERSPECTIVE_TOXICITY 0.16551583
-    PERSPECTIVE_IDENTITY_ATTACK 0.22307825
-    PERSPECTIVE_INFLAMMATORY 0.16178975
-    PERSPECTIVE_THREAT 0.2244451
-    PERSPECTIVE_PROFANITY 0.04770466
+    cluster 11
   ]
-  node [
-    id 175
+  node
+  [
+    id 188
     label "t6yuxAwJtaM"
     step 0
     date "2022-01-13T23:37:25Z"
@@ -4915,21 +4744,20 @@ graph [
     commentcount 23
     duration "PT2M16S"
     indegree 23
-    cluster 4
+    ppinsult 0.04409339
+    ppflirtation 0.21713868
+    ppidentityattack 0.06909708
+    ppthreat 0.08389991
+    pptoxicity 0.0129808
+    ppsexuallyexplicit 0.036202095
+    ppprofanity 0.033009868
+    ppinflammatory 0.2660425
     sentiment 0.4019
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.036202095
-    PERSPECTIVE_FLIRTATION 0.21713868
-    PERSPECTIVE_INSULT 0.04409339
-    PERSPECTIVE_TOXICITY 0.0129808
-    PERSPECTIVE_IDENTITY_ATTACK 0.06909708
-    PERSPECTIVE_INFLAMMATORY 0.2660425
-    PERSPECTIVE_THREAT 0.08389991
-    PERSPECTIVE_PROFANITY 0.033009868
+    cluster 4
   ]
-  node [
-    id 176
+  node
+  [
+    id 189
     label "7rJWKS9X7kY"
     step 0
     date "2021-10-01T01:05:03Z"
@@ -4943,21 +4771,20 @@ graph [
     commentcount 1633
     duration "PT3M37S"
     indegree 3
+    ppinsult 0.07370049
+    ppflirtation 0.49575967
+    ppidentityattack 0.24545985
+    ppthreat 0.56952757
+    pptoxicity 0.03753809
+    ppsexuallyexplicit 0.23103046
+    ppprofanity 0.17032073
+    ppinflammatory 0.08431152
+    sentiment 0
     cluster 8
-    sentiment 0.0
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.23103046
-    PERSPECTIVE_FLIRTATION 0.49575967
-    PERSPECTIVE_INSULT 0.07370049
-    PERSPECTIVE_TOXICITY 0.03753809
-    PERSPECTIVE_IDENTITY_ATTACK 0.24545985
-    PERSPECTIVE_INFLAMMATORY 0.08431152
-    PERSPECTIVE_THREAT 0.56952757
-    PERSPECTIVE_PROFANITY 0.17032073
   ]
-  node [
-    id 177
+  node
+  [
+    id 190
     label "fzkoZeMbtvc"
     step 0
     date "2022-02-03T00:52:23Z"
@@ -4971,21 +4798,20 @@ graph [
     commentcount 16154
     duration "PT7M25S"
     indegree 13
-    cluster 12
+    ppinsult 0.115597494
+    ppflirtation 0.2741743
+    ppidentityattack 0.19493756
+    ppthreat 0.06849081
+    pptoxicity 0.031185975
+    ppsexuallyexplicit 0.053539027
+    ppprofanity 0.051346503
+    ppinflammatory 0.2721679
     sentiment -0.25
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.053539027
-    PERSPECTIVE_FLIRTATION 0.2741743
-    PERSPECTIVE_INSULT 0.115597494
-    PERSPECTIVE_TOXICITY 0.031185975
-    PERSPECTIVE_IDENTITY_ATTACK 0.19493756
-    PERSPECTIVE_INFLAMMATORY 0.2721679
-    PERSPECTIVE_THREAT 0.06849081
-    PERSPECTIVE_PROFANITY 0.051346503
+    cluster 11
   ]
-  node [
-    id 178
+  node
+  [
+    id 191
     label "vB2wnJIoAjU"
     step 0
     date "2021-12-11T02:04:13Z"
@@ -4999,21 +4825,20 @@ graph [
     commentcount 53
     duration "PT3M12S"
     indegree 2
-    cluster 10
-    sentiment 0.0
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.07395673
-    PERSPECTIVE_FLIRTATION 0.2394348
-    PERSPECTIVE_INSULT 0.10248636
-    PERSPECTIVE_TOXICITY 0.026894007
-    PERSPECTIVE_IDENTITY_ATTACK 0.12912351
-    PERSPECTIVE_INFLAMMATORY 0.1629348
-    PERSPECTIVE_THREAT 0.1502365
-    PERSPECTIVE_PROFANITY 0.09150563
+    ppinsult 0.10248636
+    ppflirtation 0.2394348
+    ppidentityattack 0.12912351
+    ppthreat 0.1502365
+    pptoxicity 0.026894007
+    ppsexuallyexplicit 0.07395673
+    ppprofanity 0.09150563
+    ppinflammatory 0.1629348
+    sentiment 0
+    cluster 6
   ]
-  node [
-    id 179
+  node
+  [
+    id 192
     label "tFIrN7J-Ouw"
     step 0
     date "2021-07-30T13:00:29Z"
@@ -5027,21 +4852,20 @@ graph [
     commentcount 475
     duration "PT21M51S"
     indegree 0
+    ppinsult 0.011664411
+    ppflirtation 0.2808394
+    ppidentityattack 0.00963627
+    ppthreat 0.07046965
+    pptoxicity 0.040284947
+    ppsexuallyexplicit 0.053711593
+    ppprofanity 0.014156971
+    ppinflammatory 0.26734212
+    sentiment 0
     cluster 1
-    sentiment 0.0
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.053711593
-    PERSPECTIVE_FLIRTATION 0.2808394
-    PERSPECTIVE_INSULT 0.011664411
-    PERSPECTIVE_TOXICITY 0.040284947
-    PERSPECTIVE_IDENTITY_ATTACK 0.00963627
-    PERSPECTIVE_INFLAMMATORY 0.26734212
-    PERSPECTIVE_THREAT 0.07046965
-    PERSPECTIVE_PROFANITY 0.014156971
   ]
-  node [
-    id 180
+  node
+  [
+    id 193
     label "AGpvXEAQ3m8"
     step 0
     date "2021-10-28T22:49:38Z"
@@ -5055,21 +4879,20 @@ graph [
     commentcount 193
     duration "PT2M3S"
     indegree 0
-    cluster 9
+    ppinsult 0.11769358
+    ppflirtation 0.4138541
+    ppidentityattack 0.116311684
+    ppthreat 0.24860321
+    pptoxicity 0.10956893
+    ppsexuallyexplicit 0.04678055
+    ppprofanity 0.045108765
+    ppinflammatory 0.5831165
     sentiment -0.2263
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.04678055
-    PERSPECTIVE_FLIRTATION 0.4138541
-    PERSPECTIVE_INSULT 0.11769358
-    PERSPECTIVE_TOXICITY 0.10956893
-    PERSPECTIVE_IDENTITY_ATTACK 0.116311684
-    PERSPECTIVE_INFLAMMATORY 0.5831165
-    PERSPECTIVE_THREAT 0.24860321
-    PERSPECTIVE_PROFANITY 0.045108765
+    cluster 9
   ]
-  node [
-    id 181
+  node
+  [
+    id 194
     label "hNIfrxmhcxE"
     step 0
     date "2022-01-21T14:44:56Z"
@@ -5083,21 +4906,20 @@ graph [
     commentcount 867
     duration "PT5M38S"
     indegree 5
-    cluster 2
-    sentiment 0.0
-    leftright "C"
-    channeltags "Mainstream News|StateFunded"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.07748131
-    PERSPECTIVE_FLIRTATION 0.3935067
-    PERSPECTIVE_INSULT 0.04482469
-    PERSPECTIVE_TOXICITY 0.1689685
-    PERSPECTIVE_IDENTITY_ATTACK 0.11330494
-    PERSPECTIVE_INFLAMMATORY 0.47105932
-    PERSPECTIVE_THREAT 0.2702874
-    PERSPECTIVE_PROFANITY 0.077178046
+    ppinsult 0.04482469
+    ppflirtation 0.3935067
+    ppidentityattack 0.11330494
+    ppthreat 0.2702874
+    pptoxicity 0.1689685
+    ppsexuallyexplicit 0.07748131
+    ppprofanity 0.077178046
+    ppinflammatory 0.47105932
+    sentiment 0
+    cluster 6
   ]
-  node [
-    id 182
+  node
+  [
+    id 196
     label "1rNXe8UvWyk"
     step 0
     date "2022-01-27T14:34:22Z"
@@ -5111,21 +4933,20 @@ graph [
     commentcount 337
     duration "PT3M19S"
     indegree 1
-    cluster 1
-    sentiment 0.0
-    leftright "L"
-    channeltags "Mainstream News|PartisanLeft|StateFunded"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.05630348
-    PERSPECTIVE_FLIRTATION 0.36287645
-    PERSPECTIVE_INSULT 0.029786766
-    PERSPECTIVE_TOXICITY 0.06971766
-    PERSPECTIVE_IDENTITY_ATTACK 0.053620387
-    PERSPECTIVE_INFLAMMATORY 0.1496582
-    PERSPECTIVE_THREAT 0.10010239
-    PERSPECTIVE_PROFANITY 0.026470838
+    ppinsult 0.029786766
+    ppflirtation 0.36287645
+    ppidentityattack 0.053620387
+    ppthreat 0.10010239
+    pptoxicity 0.06971766
+    ppsexuallyexplicit 0.05630348
+    ppprofanity 0.026470838
+    ppinflammatory 0.1496582
+    sentiment 0
+    cluster 7
   ]
-  node [
-    id 183
+  node
+  [
+    id 198
     label "e7YwLdogLn4"
     step 0
     date "2021-11-13T20:38:09Z"
@@ -5139,21 +4960,20 @@ graph [
     commentcount -1
     duration "PT1M30S"
     indegree 9
+    ppinsult 0.06277186
+    ppflirtation 0.4130112
+    ppidentityattack 0.043394394
+    ppthreat 0.05876594
+    pptoxicity 0.05493369
+    ppsexuallyexplicit 0.029200176
+    ppprofanity 0.023400916
+    ppinflammatory 0.21695112
+    sentiment 0
     cluster 9
-    sentiment 0.0
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.029200176
-    PERSPECTIVE_FLIRTATION 0.4130112
-    PERSPECTIVE_INSULT 0.06277186
-    PERSPECTIVE_TOXICITY 0.05493369
-    PERSPECTIVE_IDENTITY_ATTACK 0.043394394
-    PERSPECTIVE_INFLAMMATORY 0.21695112
-    PERSPECTIVE_THREAT 0.05876594
-    PERSPECTIVE_PROFANITY 0.023400916
   ]
-  node [
-    id 184
+  node
+  [
+    id 199
     label "sR1dbXtB_Dg"
     step 0
     date "2021-08-16T23:53:02Z"
@@ -5167,21 +4987,20 @@ graph [
     commentcount 1026
     duration "PT1M52S"
     indegree 0
-    cluster 6
-    sentiment 0.0
-    leftright "L"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.13358572
-    PERSPECTIVE_FLIRTATION 0.36417684
-    PERSPECTIVE_INSULT 0.12828965
-    PERSPECTIVE_TOXICITY 0.029125832
-    PERSPECTIVE_IDENTITY_ATTACK 0.10423073
-    PERSPECTIVE_INFLAMMATORY 0.3644636
-    PERSPECTIVE_THREAT 0.14466964
-    PERSPECTIVE_PROFANITY 0.13372451
+    ppinsult 0.12828965
+    ppflirtation 0.36417684
+    ppidentityattack 0.10423073
+    ppthreat 0.14466964
+    pptoxicity 0.029125832
+    ppsexuallyexplicit 0.13358572
+    ppprofanity 0.13372451
+    ppinflammatory 0.3644636
+    sentiment 0
+    cluster 5
   ]
-  node [
-    id 185
+  node
+  [
+    id 200
     label "5qaO6n5Ti8Q"
     step 0
     date "2022-06-14T13:49:50Z"
@@ -5195,21 +5014,20 @@ graph [
     commentcount 326
     duration "PT5M23S"
     indegree 31
-    cluster 1
-    sentiment 0.0
-    leftright "L"
-    channeltags "Mainstream News|PartisanLeft|StateFunded"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.018917052
-    PERSPECTIVE_FLIRTATION 0.2648247
-    PERSPECTIVE_INSULT 0.06544071
-    PERSPECTIVE_TOXICITY 0.016451603
-    PERSPECTIVE_IDENTITY_ATTACK 0.11636644
-    PERSPECTIVE_INFLAMMATORY 0.18550134
-    PERSPECTIVE_THREAT 0.076992944
-    PERSPECTIVE_PROFANITY 0.022881141
+    ppinsult 0.06544071
+    ppflirtation 0.2648247
+    ppidentityattack 0.11636644
+    ppthreat 0.076992944
+    pptoxicity 0.016451603
+    ppsexuallyexplicit 0.018917052
+    ppprofanity 0.022881141
+    ppinflammatory 0.18550134
+    sentiment 0
+    cluster 7
   ]
-  node [
-    id 186
+  node
+  [
+    id 201
     label "syBEbcZa7HE"
     step 0
     date "2021-12-07T14:12:17Z"
@@ -5223,21 +5041,20 @@ graph [
     commentcount 588
     duration "PT4M23S"
     indegree 4
+    ppinsult 0.07002211
+    ppflirtation 0.23930879
+    ppidentityattack 0.064102314
+    ppthreat 0.09974353
+    pptoxicity 0.0789077
+    ppsexuallyexplicit 0.045622677
+    ppprofanity 0.04411138
+    ppinflammatory 0.17638747
+    sentiment 0
     cluster 9
-    sentiment 0.0
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.045622677
-    PERSPECTIVE_FLIRTATION 0.23930879
-    PERSPECTIVE_INSULT 0.07002211
-    PERSPECTIVE_TOXICITY 0.0789077
-    PERSPECTIVE_IDENTITY_ATTACK 0.064102314
-    PERSPECTIVE_INFLAMMATORY 0.17638747
-    PERSPECTIVE_THREAT 0.09974353
-    PERSPECTIVE_PROFANITY 0.04411138
   ]
-  node [
-    id 187
+  node
+  [
+    id 202
     label "sz8AOwG51yg"
     step 0
     date "2021-10-28T23:50:21Z"
@@ -5251,21 +5068,20 @@ graph [
     commentcount 478
     duration "PT2M2S"
     indegree 1
+    ppinsult 0.18326929
+    ppflirtation 0.3558667
+    ppidentityattack 0.105745696
+    ppthreat 0.17550133
+    pptoxicity 0.025863936
+    ppsexuallyexplicit 0.15027699
+    ppprofanity 0.19282852
+    ppinflammatory 0.3386297
+    sentiment 0
     cluster 9
-    sentiment 0.0
-    leftright "L"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.15027699
-    PERSPECTIVE_FLIRTATION 0.3558667
-    PERSPECTIVE_INSULT 0.18326929
-    PERSPECTIVE_TOXICITY 0.025863936
-    PERSPECTIVE_IDENTITY_ATTACK 0.105745696
-    PERSPECTIVE_INFLAMMATORY 0.3386297
-    PERSPECTIVE_THREAT 0.17550133
-    PERSPECTIVE_PROFANITY 0.19282852
   ]
-  node [
-    id 188
+  node
+  [
+    id 203
     label "-dHZR1h9R1w"
     step 0
     date "2021-09-27T23:17:18Z"
@@ -5279,21 +5095,20 @@ graph [
     commentcount 4667
     duration "PT6M24S"
     indegree 11
-    cluster 10
-    sentiment 0.0
-    leftright "L"
-    channeltags "Mainstream News|PartisanLeft"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.025319654
-    PERSPECTIVE_FLIRTATION 0.21142626
-    PERSPECTIVE_INSULT 0.027555026
-    PERSPECTIVE_TOXICITY 0.054534122
-    PERSPECTIVE_IDENTITY_ATTACK 0.03182589
-    PERSPECTIVE_INFLAMMATORY 0.1792474
-    PERSPECTIVE_THREAT 0.0757249
-    PERSPECTIVE_PROFANITY 0.023123741
+    ppinsult 0.027555026
+    ppflirtation 0.21142626
+    ppidentityattack 0.03182589
+    ppthreat 0.0757249
+    pptoxicity 0.054534122
+    ppsexuallyexplicit 0.025319654
+    ppprofanity 0.023123741
+    ppinflammatory 0.1792474
+    sentiment 0
+    cluster 6
   ]
-  node [
-    id 189
+  node
+  [
+    id 204
     label "eAlPDAJsK3Q"
     step 0
     date "2021-11-07T03:34:05Z"
@@ -5307,21 +5122,20 @@ graph [
     commentcount 123
     duration "PT31S"
     indegree 0
-    cluster 9
+    ppinsult 0.048566617
+    ppflirtation 0.29362693
+    ppidentityattack 0.113663346
+    ppthreat 0.15351294
+    pptoxicity 0.057331093
+    ppsexuallyexplicit 0.033544444
+    ppprofanity 0.033503316
+    ppinflammatory 0.13784371
     sentiment -0.2263
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.033544444
-    PERSPECTIVE_FLIRTATION 0.29362693
-    PERSPECTIVE_INSULT 0.048566617
-    PERSPECTIVE_TOXICITY 0.057331093
-    PERSPECTIVE_IDENTITY_ATTACK 0.113663346
-    PERSPECTIVE_INFLAMMATORY 0.13784371
-    PERSPECTIVE_THREAT 0.15351294
-    PERSPECTIVE_PROFANITY 0.033503316
+    cluster 9
   ]
-  node [
-    id 190
+  node
+  [
+    id 205
     label "r8DD5J-KmbQ"
     step 0
     date "2021-12-07T02:25:41Z"
@@ -5335,21 +5149,20 @@ graph [
     commentcount 910
     duration "PT5M27S"
     indegree 0
-    cluster 10
+    ppinsult 0.055445753
+    ppflirtation 0.29361907
+    ppidentityattack 0.110753864
+    ppthreat 0.14492173
+    pptoxicity 0.017909339
+    ppsexuallyexplicit 0.04943581
+    ppprofanity 0.0543708
+    ppinflammatory 0.31738096
     sentiment 0.1027
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.04943581
-    PERSPECTIVE_FLIRTATION 0.29361907
-    PERSPECTIVE_INSULT 0.055445753
-    PERSPECTIVE_TOXICITY 0.017909339
-    PERSPECTIVE_IDENTITY_ATTACK 0.110753864
-    PERSPECTIVE_INFLAMMATORY 0.31738096
-    PERSPECTIVE_THREAT 0.14492173
-    PERSPECTIVE_PROFANITY 0.0543708
+    cluster 6
   ]
-  node [
-    id 191
+  node
+  [
+    id 206
     label "G9XnVYFhg3o"
     step 0
     date "2021-11-08T17:30:01Z"
@@ -5363,21 +5176,20 @@ graph [
     commentcount 782
     duration "PT9M4S"
     indegree 0
+    ppinsult 0.0713967
+    ppflirtation 0.30618846
+    ppidentityattack 0.1181887
+    ppthreat 0.17967126
+    pptoxicity 0.060927194
+    ppsexuallyexplicit 0.05184584
+    ppprofanity 0.06777982
+    ppinflammatory 0.13439895
+    sentiment 0
     cluster 9
-    sentiment 0.0
-    leftright "L"
-    channeltags "Mainstream News|PartisanLeft"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.05184584
-    PERSPECTIVE_FLIRTATION 0.30618846
-    PERSPECTIVE_INSULT 0.0713967
-    PERSPECTIVE_TOXICITY 0.060927194
-    PERSPECTIVE_IDENTITY_ATTACK 0.1181887
-    PERSPECTIVE_INFLAMMATORY 0.13439895
-    PERSPECTIVE_THREAT 0.17967126
-    PERSPECTIVE_PROFANITY 0.06777982
   ]
-  node [
-    id 192
+  node
+  [
+    id 207
     label "Wqj3KPAUN2M"
     step 0
     date "2022-01-31T18:51:37Z"
@@ -5391,21 +5203,20 @@ graph [
     commentcount 938
     duration "PT3M12S"
     indegree 13
+    ppinsult 0.11469406
+    ppflirtation 0.40659705
+    ppidentityattack 0.1191107
+    ppthreat 0.17792375
+    pptoxicity 0.03856816
+    ppsexuallyexplicit 0.11273173
+    ppprofanity 0.07869997
+    ppinflammatory 0.18073426
+    sentiment 0
     cluster 1
-    sentiment 0.0
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.11273173
-    PERSPECTIVE_FLIRTATION 0.40659705
-    PERSPECTIVE_INSULT 0.11469406
-    PERSPECTIVE_TOXICITY 0.03856816
-    PERSPECTIVE_IDENTITY_ATTACK 0.1191107
-    PERSPECTIVE_INFLAMMATORY 0.18073426
-    PERSPECTIVE_THREAT 0.17792375
-    PERSPECTIVE_PROFANITY 0.07869997
   ]
-  node [
-    id 193
+  node
+  [
+    id 208
     label "uESdMqFr4gM"
     step 0
     date "2021-08-06T23:42:26Z"
@@ -5419,21 +5230,20 @@ graph [
     commentcount 282
     duration "PT2M9S"
     indegree 3
+    ppinsult 0.10147416
+    ppflirtation 0.24336874
+    ppidentityattack 0.13550404
+    ppthreat 0.1296687
+    pptoxicity 0.05653196
+    ppsexuallyexplicit 0.07324525
+    ppprofanity 0.09835067
+    ppinflammatory 0.26970047
+    sentiment 0
     cluster 3
-    sentiment 0.0
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.07324525
-    PERSPECTIVE_FLIRTATION 0.24336874
-    PERSPECTIVE_INSULT 0.10147416
-    PERSPECTIVE_TOXICITY 0.05653196
-    PERSPECTIVE_IDENTITY_ATTACK 0.13550404
-    PERSPECTIVE_INFLAMMATORY 0.26970047
-    PERSPECTIVE_THREAT 0.1296687
-    PERSPECTIVE_PROFANITY 0.09835067
   ]
-  node [
-    id 194
+  node
+  [
+    id 209
     label "pEd2pcS1FP0"
     step 0
     date "2022-01-31T10:27:41Z"
@@ -5447,21 +5257,20 @@ graph [
     commentcount -1
     duration "PT2M41S"
     indegree 2
-    cluster 11
-    sentiment 0.0
-    leftright "L"
-    channeltags "Mainstream News|StateFunded"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.034077004
-    PERSPECTIVE_FLIRTATION 0.35190997
-    PERSPECTIVE_INSULT 0.03982236
-    PERSPECTIVE_TOXICITY 0.022773718
-    PERSPECTIVE_IDENTITY_ATTACK 0.073188104
-    PERSPECTIVE_INFLAMMATORY 0.19125609
-    PERSPECTIVE_THREAT 0.24467805
-    PERSPECTIVE_PROFANITY 0.03458643
+    ppinsult 0.03982236
+    ppflirtation 0.35190997
+    ppidentityattack 0.073188104
+    ppthreat 0.24467805
+    pptoxicity 0.022773718
+    ppsexuallyexplicit 0.034077004
+    ppprofanity 0.03458643
+    ppinflammatory 0.19125609
+    sentiment 0
+    cluster 10
   ]
-  node [
-    id 195
+  node
+  [
+    id 210
     label "dSggADcKpOM"
     step 0
     date "2021-11-08T11:56:20Z"
@@ -5475,21 +5284,20 @@ graph [
     commentcount 69
     duration "PT29S"
     indegree 0
-    cluster 9
+    ppinsult 0.06466184
+    ppflirtation 0.2830807
+    ppidentityattack 0.075490616
+    ppthreat 0.11401298
+    pptoxicity 0.029125832
+    ppsexuallyexplicit 0.049297865
+    ppprofanity 0.047688656
+    ppinflammatory 0.18239255
     sentiment -0.2263
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.049297865
-    PERSPECTIVE_FLIRTATION 0.2830807
-    PERSPECTIVE_INSULT 0.06466184
-    PERSPECTIVE_TOXICITY 0.029125832
-    PERSPECTIVE_IDENTITY_ATTACK 0.075490616
-    PERSPECTIVE_INFLAMMATORY 0.18239255
-    PERSPECTIVE_THREAT 0.11401298
-    PERSPECTIVE_PROFANITY 0.047688656
+    cluster 9
   ]
-  node [
-    id 196
+  node
+  [
+    id 211
     label "3ovNpL_pMqg"
     step 0
     date "2021-11-09T15:49:02Z"
@@ -5503,21 +5311,20 @@ graph [
     commentcount 272
     duration "PT3M26S"
     indegree 16
-    cluster 9
+    ppinsult 0.01744799
+    ppflirtation 0.23756453
+    ppidentityattack 0.018228974
+    ppthreat 0.10402311
+    pptoxicity 0.018742332
+    ppsexuallyexplicit 0.023283103
+    ppprofanity 0.02204982
+    ppinflammatory 0.07265802
     sentiment 0.4019
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.023283103
-    PERSPECTIVE_FLIRTATION 0.23756453
-    PERSPECTIVE_INSULT 0.01744799
-    PERSPECTIVE_TOXICITY 0.018742332
-    PERSPECTIVE_IDENTITY_ATTACK 0.018228974
-    PERSPECTIVE_INFLAMMATORY 0.07265802
-    PERSPECTIVE_THREAT 0.10402311
-    PERSPECTIVE_PROFANITY 0.02204982
+    cluster 9
   ]
-  node [
-    id 197
+  node
+  [
+    id 212
     label "umXphU36HvU"
     step 0
     date "2022-01-18T23:15:41Z"
@@ -5531,21 +5338,20 @@ graph [
     commentcount 27
     duration "PT4M14S"
     indegree 2
-    cluster 1
+    ppinsult 0.072972775
+    ppflirtation 0.24047448
+    ppidentityattack 0.107947506
+    ppthreat 0.1542892
+    pptoxicity 0.013536129
+    ppsexuallyexplicit 0.038358677
+    ppprofanity 0.052025817
+    ppinflammatory 0.16896358
     sentiment 0.296
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.038358677
-    PERSPECTIVE_FLIRTATION 0.24047448
-    PERSPECTIVE_INSULT 0.072972775
-    PERSPECTIVE_TOXICITY 0.013536129
-    PERSPECTIVE_IDENTITY_ATTACK 0.107947506
-    PERSPECTIVE_INFLAMMATORY 0.16896358
-    PERSPECTIVE_THREAT 0.1542892
-    PERSPECTIVE_PROFANITY 0.052025817
+    cluster 1
   ]
-  node [
-    id 198
+  node
+  [
+    id 213
     label "N032Z6YJYh8"
     step 0
     date "2021-09-16T16:07:09Z"
@@ -5559,21 +5365,20 @@ graph [
     commentcount 8508
     duration "PT4M48S"
     indegree 4
-    cluster 5
-    sentiment 0.0
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.022612799
-    PERSPECTIVE_FLIRTATION 0.17583224
-    PERSPECTIVE_INSULT 0.050006468
-    PERSPECTIVE_TOXICITY 0.10461388
-    PERSPECTIVE_IDENTITY_ATTACK 0.2019304
-    PERSPECTIVE_INFLAMMATORY 0.4389412
-    PERSPECTIVE_THREAT 0.022584356
-    PERSPECTIVE_PROFANITY 0.035502527
+    ppinsult 0.050006468
+    ppflirtation 0.17583224
+    ppidentityattack 0.2019304
+    ppthreat 0.022584356
+    pptoxicity 0.10461388
+    ppsexuallyexplicit 0.022612799
+    ppprofanity 0.035502527
+    ppinflammatory 0.4389412
+    sentiment 0
+    cluster 3
   ]
-  node [
-    id 199
+  node
+  [
+    id 215
     label "QjUskKTq_Qc"
     step 0
     date "2022-04-01T17:04:53Z"
@@ -5587,21 +5392,20 @@ graph [
     commentcount -1
     duration "PT2H2M56S"
     indegree 5
-    cluster 2
+    ppinsult 0.045396905
+    ppflirtation 0.2994846
+    ppidentityattack 0.06214601
+    ppthreat 0.10040603
+    pptoxicity 0.10956893
+    ppsexuallyexplicit 0.031382553
+    ppprofanity 0.027250977
+    ppinflammatory 0.20713706
     sentiment -0.1604
-    leftright ""
-    channeltags ""
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.031382553
-    PERSPECTIVE_FLIRTATION 0.2994846
-    PERSPECTIVE_INSULT 0.045396905
-    PERSPECTIVE_TOXICITY 0.10956893
-    PERSPECTIVE_IDENTITY_ATTACK 0.06214601
-    PERSPECTIVE_INFLAMMATORY 0.20713706
-    PERSPECTIVE_THREAT 0.10040603
-    PERSPECTIVE_PROFANITY 0.027250977
+    cluster 2
   ]
-  node [
-    id 200
+  node
+  [
+    id 216
     label "TmCF6mNEF58"
     step 0
     date "2022-01-23T17:16:08Z"
@@ -5615,21 +5419,20 @@ graph [
     commentcount -1
     duration "PT40M41S"
     indegree 0
-    cluster 7
-    sentiment 0.0
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.038484026
-    PERSPECTIVE_FLIRTATION 0.27670473
-    PERSPECTIVE_INSULT 0.07862523
-    PERSPECTIVE_TOXICITY 0.043031808
-    PERSPECTIVE_IDENTITY_ATTACK 0.121643655
-    PERSPECTIVE_INFLAMMATORY 0.18383156
-    PERSPECTIVE_THREAT 0.10503973
-    PERSPECTIVE_PROFANITY 0.031593744
+    ppinsult 0.07862523
+    ppflirtation 0.27670473
+    ppidentityattack 0.121643655
+    ppthreat 0.10503973
+    pptoxicity 0.043031808
+    ppsexuallyexplicit 0.038484026
+    ppprofanity 0.031593744
+    ppinflammatory 0.18383156
+    sentiment 0
+    cluster 6
   ]
-  node [
-    id 201
+  node
+  [
+    id 217
     label "rXSdH6MmANk"
     step 0
     date "2022-04-15T01:41:10Z"
@@ -5643,21 +5446,20 @@ graph [
     commentcount 195
     duration "PT22S"
     indegree 1
-    cluster 10
-    sentiment 0.0
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.02599714
-    PERSPECTIVE_FLIRTATION 0.26771387
-    PERSPECTIVE_INSULT 0.026066812
-    PERSPECTIVE_TOXICITY 0.014022041
-    PERSPECTIVE_IDENTITY_ATTACK 0.037379466
-    PERSPECTIVE_INFLAMMATORY 0.18179753
-    PERSPECTIVE_THREAT 0.087450944
-    PERSPECTIVE_PROFANITY 0.020725252
+    ppinsult 0.026066812
+    ppflirtation 0.26771387
+    ppidentityattack 0.037379466
+    ppthreat 0.087450944
+    pptoxicity 0.014022041
+    ppsexuallyexplicit 0.02599714
+    ppprofanity 0.020725252
+    ppinflammatory 0.18179753
+    sentiment 0
+    cluster 6
   ]
-  node [
-    id 202
+  node
+  [
+    id 218
     label "MOrCidT4S0s"
     step 0
     date "2022-02-08T22:45:00Z"
@@ -5671,21 +5473,20 @@ graph [
     commentcount 1777
     duration "PT7M31S"
     indegree 22
-    cluster 6
+    ppinsult 0.06358579
+    ppflirtation 0.22482303
+    ppidentityattack 0.15985884
+    ppthreat 0.17612027
+    pptoxicity 0.062125895
+    ppsexuallyexplicit 0.020926146
+    ppprofanity 0.038420934
+    ppinflammatory 0.31087318
     sentiment -0.25
-    leftright "C"
-    channeltags "Mainstream News|StateFunded"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.020926146
-    PERSPECTIVE_FLIRTATION 0.22482303
-    PERSPECTIVE_INSULT 0.06358579
-    PERSPECTIVE_TOXICITY 0.062125895
-    PERSPECTIVE_IDENTITY_ATTACK 0.15985884
-    PERSPECTIVE_INFLAMMATORY 0.31087318
-    PERSPECTIVE_THREAT 0.17612027
-    PERSPECTIVE_PROFANITY 0.038420934
+    cluster 6
   ]
-  node [
-    id 203
+  node
+  [
+    id 219
     label "QVxMZLv9Guk"
     step 0
     date "2022-03-11T02:08:36Z"
@@ -5699,21 +5500,20 @@ graph [
     commentcount 587
     duration "PT3M27S"
     indegree 0
+    ppinsult 0.020680625
+    ppflirtation 0.23180167
+    ppidentityattack 0.020397305
+    ppthreat 0.067358285
+    pptoxicity 0.010273575
+    ppsexuallyexplicit 0.050408207
+    ppprofanity 0.031178487
+    ppinflammatory 0.21891978
+    sentiment 0
     cluster 2
-    sentiment 0.0
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.050408207
-    PERSPECTIVE_FLIRTATION 0.23180167
-    PERSPECTIVE_INSULT 0.020680625
-    PERSPECTIVE_TOXICITY 0.010273575
-    PERSPECTIVE_IDENTITY_ATTACK 0.020397305
-    PERSPECTIVE_INFLAMMATORY 0.21891978
-    PERSPECTIVE_THREAT 0.067358285
-    PERSPECTIVE_PROFANITY 0.031178487
   ]
-  node [
-    id 204
+  node
+  [
+    id 221
     label "YVUz0H63ccM"
     step 0
     date "2022-03-14T12:53:58Z"
@@ -5727,21 +5527,20 @@ graph [
     commentcount 604
     duration "PT3M10S"
     indegree 0
-    cluster 5
-    sentiment 0.0
-    leftright ""
-    channeltags ""
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.17197576
-    PERSPECTIVE_FLIRTATION 0.4550096
-    PERSPECTIVE_INSULT 0.124184385
-    PERSPECTIVE_TOXICITY 0.023803791
-    PERSPECTIVE_IDENTITY_ATTACK 0.20398654
-    PERSPECTIVE_INFLAMMATORY 0.091834754
-    PERSPECTIVE_THREAT 0.3801605
-    PERSPECTIVE_PROFANITY 0.16650362
+    ppinsult 0.124184385
+    ppflirtation 0.4550096
+    ppidentityattack 0.20398654
+    ppthreat 0.3801605
+    pptoxicity 0.023803791
+    ppsexuallyexplicit 0.17197576
+    ppprofanity 0.16650362
+    ppinflammatory 0.091834754
+    sentiment 0
+    cluster 3
   ]
-  node [
-    id 205
+  node
+  [
+    id 222
     label "c9VZ8mYFHrk"
     step 0
     date "2021-12-30T17:32:28Z"
@@ -5755,21 +5554,20 @@ graph [
     commentcount 341
     duration "PT2M36S"
     indegree 1
+    ppinsult 0.11056139
+    ppflirtation 0.33593455
+    ppidentityattack 0.13150926
+    ppthreat 0.09949311
+    pptoxicity 0.016521018
+    ppsexuallyexplicit 0.054251187
+    ppprofanity 0.052954756
+    ppinflammatory 0.26378784
+    sentiment 0
     cluster 2
-    sentiment 0.0
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.054251187
-    PERSPECTIVE_FLIRTATION 0.33593455
-    PERSPECTIVE_INSULT 0.11056139
-    PERSPECTIVE_TOXICITY 0.016521018
-    PERSPECTIVE_IDENTITY_ATTACK 0.13150926
-    PERSPECTIVE_INFLAMMATORY 0.26378784
-    PERSPECTIVE_THREAT 0.09949311
-    PERSPECTIVE_PROFANITY 0.052954756
   ]
-  node [
-    id 206
+  node
+  [
+    id 223
     label "j1CsK7trotY"
     step 0
     date "2022-01-07T23:22:19Z"
@@ -5783,21 +5581,20 @@ graph [
     commentcount -1
     duration "PT11M28S"
     indegree 2
-    cluster 10
+    ppinsult 0.016837073
+    ppflirtation 0.21798554
+    ppidentityattack 0.025133822
+    ppthreat 0.076725915
+    pptoxicity 0.017909339
+    ppsexuallyexplicit 0.039433658
+    ppprofanity 0.026866931
+    ppinflammatory 0.16494937
     sentiment 0.5994
-    leftright "C"
-    channeltags "Mainstream News|StateFunded"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.039433658
-    PERSPECTIVE_FLIRTATION 0.21798554
-    PERSPECTIVE_INSULT 0.016837073
-    PERSPECTIVE_TOXICITY 0.017909339
-    PERSPECTIVE_IDENTITY_ATTACK 0.025133822
-    PERSPECTIVE_INFLAMMATORY 0.16494937
-    PERSPECTIVE_THREAT 0.076725915
-    PERSPECTIVE_PROFANITY 0.026866931
+    cluster 4
   ]
-  node [
-    id 207
+  node
+  [
+    id 224
     label "KH4obq94V_o"
     step 0
     date "2022-02-08T02:36:45Z"
@@ -5811,21 +5608,20 @@ graph [
     commentcount 1414
     duration "PT2M42S"
     indegree 9
-    cluster 1
+    ppinsult 0.15471654
+    ppflirtation 0.47968927
+    ppidentityattack 0.3584748
+    ppthreat 0.5828821
+    pptoxicity 0.08689302
+    ppsexuallyexplicit 0.17050767
+    ppprofanity 0.19253871
+    ppinflammatory 0.18728708
     sentiment -0.25
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.17050767
-    PERSPECTIVE_FLIRTATION 0.47968927
-    PERSPECTIVE_INSULT 0.15471654
-    PERSPECTIVE_TOXICITY 0.08689302
-    PERSPECTIVE_IDENTITY_ATTACK 0.3584748
-    PERSPECTIVE_INFLAMMATORY 0.18728708
-    PERSPECTIVE_THREAT 0.5828821
-    PERSPECTIVE_PROFANITY 0.19253871
+    cluster 7
   ]
-  node [
-    id 208
+  node
+  [
+    id 225
     label "aKjwgurYcqI"
     step 0
     date "2021-09-30T17:31:17Z"
@@ -5839,21 +5635,20 @@ graph [
     commentcount 1226
     duration "PT6M59S"
     indegree 40
-    cluster 6
+    ppinsult 0.043584097
+    ppflirtation 0.36979544
+    ppidentityattack 0.10272183
+    ppthreat 0.32359153
+    pptoxicity 0.061726328
+    ppsexuallyexplicit 0.020776229
+    ppprofanity 0.021918884
+    ppinflammatory 0.26126218
     sentiment 0.34
-    leftright ""
-    channeltags ""
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.020776229
-    PERSPECTIVE_FLIRTATION 0.36979544
-    PERSPECTIVE_INSULT 0.043584097
-    PERSPECTIVE_TOXICITY 0.061726328
-    PERSPECTIVE_IDENTITY_ATTACK 0.10272183
-    PERSPECTIVE_INFLAMMATORY 0.26126218
-    PERSPECTIVE_THREAT 0.32359153
-    PERSPECTIVE_PROFANITY 0.021918884
+    cluster 5
   ]
-  node [
-    id 209
+  node
+  [
+    id 227
     label "qYFuD6-XutU"
     step 0
     date "2022-02-16T17:23:47Z"
@@ -5867,21 +5662,20 @@ graph [
     commentcount 14
     duration "PT2M7S"
     indegree 1
-    cluster 5
+    ppinsult 0.05761012
+    ppflirtation 0.29299855
+    ppidentityattack 0.054808773
+    ppthreat 0.099996686
+    pptoxicity 0.034962907
+    ppsexuallyexplicit 0.061156455
+    ppprofanity 0.059804097
+    ppinflammatory 0.3386464
     sentiment 0.2732
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.061156455
-    PERSPECTIVE_FLIRTATION 0.29299855
-    PERSPECTIVE_INSULT 0.05761012
-    PERSPECTIVE_TOXICITY 0.034962907
-    PERSPECTIVE_IDENTITY_ATTACK 0.054808773
-    PERSPECTIVE_INFLAMMATORY 0.3386464
-    PERSPECTIVE_THREAT 0.099996686
-    PERSPECTIVE_PROFANITY 0.059804097
+    cluster 3
   ]
-  node [
-    id 210
+  node
+  [
+    id 228
     label "eh7d1r63-2A"
     step 0
     date "2021-10-13T17:00:17Z"
@@ -5895,21 +5689,20 @@ graph [
     commentcount 851
     duration "PT7M6S"
     indegree 13
+    ppinsult 0.028968593
+    ppflirtation 0.2522304
+    ppidentityattack 0.03406525
+    ppthreat 0.18015546
+    pptoxicity 0.04131502
+    ppsexuallyexplicit 0.033315446
+    ppprofanity 0.022018556
+    ppinflammatory 0.43784857
+    sentiment 0
     cluster 5
-    sentiment 0.0
-    leftright ""
-    channeltags ""
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.033315446
-    PERSPECTIVE_FLIRTATION 0.2522304
-    PERSPECTIVE_INSULT 0.028968593
-    PERSPECTIVE_TOXICITY 0.04131502
-    PERSPECTIVE_IDENTITY_ATTACK 0.03406525
-    PERSPECTIVE_INFLAMMATORY 0.43784857
-    PERSPECTIVE_THREAT 0.18015546
-    PERSPECTIVE_PROFANITY 0.022018556
   ]
-  node [
-    id 211
+  node
+  [
+    id 229
     label "cbrcspyDibw"
     step 0
     date "2022-03-15T21:28:36Z"
@@ -5923,21 +5716,20 @@ graph [
     commentcount 56
     duration "PT3M9S"
     indegree 0
-    cluster 1
+    ppinsult 0.2906038
+    ppflirtation 0.3931716
+    ppidentityattack 0.15447012
+    ppthreat 0.24485478
+    pptoxicity 0.30187345
+    ppsexuallyexplicit 0.067470096
+    ppprofanity 0.12117758
+    ppinflammatory 0.090890504
     sentiment -0.3818
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.067470096
-    PERSPECTIVE_FLIRTATION 0.3931716
-    PERSPECTIVE_INSULT 0.2906038
-    PERSPECTIVE_TOXICITY 0.30187345
-    PERSPECTIVE_IDENTITY_ATTACK 0.15447012
-    PERSPECTIVE_INFLAMMATORY 0.090890504
-    PERSPECTIVE_THREAT 0.24485478
-    PERSPECTIVE_PROFANITY 0.12117758
+    cluster 5
   ]
-  node [
-    id 212
+  node
+  [
+    id 230
     label "0wUXIrZQkbM"
     step 0
     date "2022-02-11T22:40:58Z"
@@ -5951,21 +5743,20 @@ graph [
     commentcount 66
     duration "PT2M31S"
     indegree 0
-    cluster 10
+    ppinsult 0.05423574
+    ppflirtation 0.2422294
+    ppidentityattack 0.1296801
+    ppthreat 0.5322389
+    pptoxicity 0.17661177
+    ppsexuallyexplicit 0.03722343
+    ppprofanity 0.05621579
+    ppinflammatory 0.33709884
     sentiment -0.34
-    leftright ""
-    channeltags ""
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.03722343
-    PERSPECTIVE_FLIRTATION 0.2422294
-    PERSPECTIVE_INSULT 0.05423574
-    PERSPECTIVE_TOXICITY 0.17661177
-    PERSPECTIVE_IDENTITY_ATTACK 0.1296801
-    PERSPECTIVE_INFLAMMATORY 0.33709884
-    PERSPECTIVE_THREAT 0.5322389
-    PERSPECTIVE_PROFANITY 0.05621579
+    cluster 6
   ]
-  node [
-    id 213
+  node
+  [
+    id 231
     label "rJsZNu4n1YU"
     step 0
     date "2022-01-25T22:23:17Z"
@@ -5979,21 +5770,20 @@ graph [
     commentcount 299
     duration "PT29S"
     indegree 0
+    ppinsult 0.054596167
+    ppflirtation 0.26855996
+    ppidentityattack 0.04438253
+    ppthreat 0.07540235
+    pptoxicity 0.14911842
+    ppsexuallyexplicit 0.03596805
+    ppprofanity 0.03525933
+    ppinflammatory 0.43833226
+    sentiment 0
     cluster 2
-    sentiment 0.0
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.03596805
-    PERSPECTIVE_FLIRTATION 0.26855996
-    PERSPECTIVE_INSULT 0.054596167
-    PERSPECTIVE_TOXICITY 0.14911842
-    PERSPECTIVE_IDENTITY_ATTACK 0.04438253
-    PERSPECTIVE_INFLAMMATORY 0.43833226
-    PERSPECTIVE_THREAT 0.07540235
-    PERSPECTIVE_PROFANITY 0.03525933
   ]
-  node [
-    id 214
+  node
+  [
+    id 232
     label "CSiKZ7yhHwQ"
     step 0
     date "2021-10-21T02:05:41Z"
@@ -6007,21 +5797,20 @@ graph [
     commentcount -1
     duration "PT1M49S"
     indegree 1
+    ppinsult 0.043719225
+    ppflirtation 0.25483745
+    ppidentityattack 0.061497398
+    ppthreat 0.11540656
+    pptoxicity 0.044748597
+    ppsexuallyexplicit 0.020566462
+    ppprofanity 0.020409625
+    ppinflammatory 0.3460114
+    sentiment 0
     cluster 5
-    sentiment 0.0
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.020566462
-    PERSPECTIVE_FLIRTATION 0.25483745
-    PERSPECTIVE_INSULT 0.043719225
-    PERSPECTIVE_TOXICITY 0.044748597
-    PERSPECTIVE_IDENTITY_ATTACK 0.061497398
-    PERSPECTIVE_INFLAMMATORY 0.3460114
-    PERSPECTIVE_THREAT 0.11540656
-    PERSPECTIVE_PROFANITY 0.020409625
   ]
-  node [
-    id 215
+  node
+  [
+    id 233
     label "gvDaJ8FKmjU"
     step 0
     date "2021-08-12T00:42:30Z"
@@ -6035,21 +5824,20 @@ graph [
     commentcount 1826
     duration "PT2M56S"
     indegree 1
-    cluster 10
+    ppinsult 0.015236465
+    ppflirtation 0.23742901
+    ppidentityattack 0.023667911
+    ppthreat 0.032833997
+    pptoxicity 0.021657806
+    ppsexuallyexplicit 0.033230305
+    ppprofanity 0.016350472
+    ppinflammatory 0.31860527
     sentiment 0.296
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.033230305
-    PERSPECTIVE_FLIRTATION 0.23742901
-    PERSPECTIVE_INSULT 0.015236465
-    PERSPECTIVE_TOXICITY 0.021657806
-    PERSPECTIVE_IDENTITY_ATTACK 0.023667911
-    PERSPECTIVE_INFLAMMATORY 0.31860527
-    PERSPECTIVE_THREAT 0.032833997
-    PERSPECTIVE_PROFANITY 0.016350472
+    cluster 6
   ]
-  node [
-    id 216
+  node
+  [
+    id 234
     label "JwZBe5EfCqA"
     step 0
     date "2021-08-15T23:05:00Z"
@@ -6063,21 +5851,20 @@ graph [
     commentcount 461
     duration "PT1M10S"
     indegree 0
-    cluster 7
+    ppinsult 0.08737657
+    ppflirtation 0.18344332
+    ppidentityattack 0.10712602
+    ppthreat 0.2674658
+    pptoxicity 0.023803791
+    ppsexuallyexplicit 0.06830583
+    ppprofanity 0.09131673
+    ppinflammatory 0.23556869
     sentiment -0.25
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.06830583
-    PERSPECTIVE_FLIRTATION 0.18344332
-    PERSPECTIVE_INSULT 0.08737657
-    PERSPECTIVE_TOXICITY 0.023803791
-    PERSPECTIVE_IDENTITY_ATTACK 0.10712602
-    PERSPECTIVE_INFLAMMATORY 0.23556869
-    PERSPECTIVE_THREAT 0.2674658
-    PERSPECTIVE_PROFANITY 0.09131673
+    cluster 6
   ]
-  node [
-    id 217
+  node
+  [
+    id 235
     label "9VYbIC9pfRI"
     step 0
     date "2021-08-16T21:18:59Z"
@@ -6091,21 +5878,20 @@ graph [
     commentcount 272
     duration "PT3M8S"
     indegree 0
-    cluster 1
+    ppinsult 0.04698307
+    ppflirtation 0.28528714
+    ppidentityattack 0.07999366
+    ppthreat 0.14479269
+    pptoxicity 0.018742332
+    ppsexuallyexplicit 0.024032522
+    ppprofanity 0.029190809
+    ppinflammatory 0.19807379
     sentiment -0.4019
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.024032522
-    PERSPECTIVE_FLIRTATION 0.28528714
-    PERSPECTIVE_INSULT 0.04698307
-    PERSPECTIVE_TOXICITY 0.018742332
-    PERSPECTIVE_IDENTITY_ATTACK 0.07999366
-    PERSPECTIVE_INFLAMMATORY 0.19807379
-    PERSPECTIVE_THREAT 0.14479269
-    PERSPECTIVE_PROFANITY 0.029190809
+    cluster 1
   ]
-  node [
-    id 218
+  node
+  [
+    id 236
     label "GKWWcKueCDA"
     step 0
     date "2021-11-16T00:52:49Z"
@@ -6119,21 +5905,20 @@ graph [
     commentcount 187
     duration "PT3M56S"
     indegree 0
-    cluster 9
+    ppinsult 0.06852993
+    ppflirtation 0.25263003
+    ppidentityattack 0.08275253
+    ppthreat 0.45011804
+    pptoxicity 0.035477944
+    ppsexuallyexplicit 0.029644279
+    ppprofanity 0.042789668
+    ppinflammatory 0.29195452
     sentiment -0.4588
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.029644279
-    PERSPECTIVE_FLIRTATION 0.25263003
-    PERSPECTIVE_INSULT 0.06852993
-    PERSPECTIVE_TOXICITY 0.035477944
-    PERSPECTIVE_IDENTITY_ATTACK 0.08275253
-    PERSPECTIVE_INFLAMMATORY 0.29195452
-    PERSPECTIVE_THREAT 0.45011804
-    PERSPECTIVE_PROFANITY 0.042789668
+    cluster 9
   ]
-  node [
-    id 219
+  node
+  [
+    id 237
     label "ewzLXEIcEaQ"
     step 0
     date "2022-06-14T15:14:48Z"
@@ -6147,21 +5932,20 @@ graph [
     commentcount 91
     duration "PT3M10S"
     indegree 12
-    cluster 1
+    ppinsult 0.050353333
+    ppflirtation 0.22370392
+    ppidentityattack 0.067467116
+    ppthreat 0.029996894
+    pptoxicity 0.017909339
+    ppsexuallyexplicit 0.025284637
+    ppprofanity 0.026634865
+    ppinflammatory 0.28364432
     sentiment -0.5106
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.025284637
-    PERSPECTIVE_FLIRTATION 0.22370392
-    PERSPECTIVE_INSULT 0.050353333
-    PERSPECTIVE_TOXICITY 0.017909339
-    PERSPECTIVE_IDENTITY_ATTACK 0.067467116
-    PERSPECTIVE_INFLAMMATORY 0.28364432
-    PERSPECTIVE_THREAT 0.029996894
-    PERSPECTIVE_PROFANITY 0.026634865
+    cluster 7
   ]
-  node [
-    id 220
+  node
+  [
+    id 238
     label "AW0ZsXrPsx0"
     step 0
     date "2022-02-15T15:15:24Z"
@@ -6175,21 +5959,20 @@ graph [
     commentcount 41
     duration "PT8M33S"
     indegree 0
-    cluster 12
+    ppinsult 0.035540808
+    ppflirtation 0.28587782
+    ppidentityattack 0.07669387
+    ppthreat 0.094159104
+    pptoxicity 0.07371333
+    ppsexuallyexplicit 0.021078717
+    ppprofanity 0.023796955
+    ppinflammatory 0.15145652
     sentiment -0.2263
-    leftright ""
-    channeltags ""
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.021078717
-    PERSPECTIVE_FLIRTATION 0.28587782
-    PERSPECTIVE_INSULT 0.035540808
-    PERSPECTIVE_TOXICITY 0.07371333
-    PERSPECTIVE_IDENTITY_ATTACK 0.07669387
-    PERSPECTIVE_INFLAMMATORY 0.15145652
-    PERSPECTIVE_THREAT 0.094159104
-    PERSPECTIVE_PROFANITY 0.023796955
+    cluster 1
   ]
-  node [
-    id 221
+  node
+  [
+    id 240
     label "0mzkqSEk-tw"
     step 0
     date "2022-01-02T23:37:04Z"
@@ -6203,21 +5986,20 @@ graph [
     commentcount 2287
     duration "PT2M33S"
     indegree 2
-    cluster 1
+    ppinsult 0.13270827
+    ppflirtation 0.32784328
+    ppidentityattack 0.24937886
+    ppthreat 0.7587887
+    pptoxicity 0.13386416
+    ppsexuallyexplicit 0.04669875
+    ppprofanity 0.099512525
+    ppinflammatory 0.17556101
     sentiment -0.3612
-    leftright "L"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.04669875
-    PERSPECTIVE_FLIRTATION 0.32784328
-    PERSPECTIVE_INSULT 0.13270827
-    PERSPECTIVE_TOXICITY 0.13386416
-    PERSPECTIVE_IDENTITY_ATTACK 0.24937886
-    PERSPECTIVE_INFLAMMATORY 0.17556101
-    PERSPECTIVE_THREAT 0.7587887
-    PERSPECTIVE_PROFANITY 0.099512525
+    cluster 1
   ]
-  node [
-    id 222
+  node
+  [
+    id 241
     label "cufRF3s8-2g"
     step 0
     date "2021-11-03T00:02:37Z"
@@ -6231,21 +6013,20 @@ graph [
     commentcount 1460
     duration "PT2M10S"
     indegree 2
-    cluster 12
-    sentiment 0.0
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.05714241
-    PERSPECTIVE_FLIRTATION 0.42549786
-    PERSPECTIVE_INSULT 0.05529617
-    PERSPECTIVE_TOXICITY 0.24242763
-    PERSPECTIVE_IDENTITY_ATTACK 0.1111529
-    PERSPECTIVE_INFLAMMATORY 0.2281378
-    PERSPECTIVE_THREAT 0.3117679
-    PERSPECTIVE_PROFANITY 0.042378873
+    ppinsult 0.05529617
+    ppflirtation 0.42549786
+    ppidentityattack 0.1111529
+    ppthreat 0.3117679
+    pptoxicity 0.24242763
+    ppsexuallyexplicit 0.05714241
+    ppprofanity 0.042378873
+    ppinflammatory 0.2281378
+    sentiment 0
+    cluster 11
   ]
-  node [
-    id 223
+  node
+  [
+    id 242
     label "qElHDXIHshI"
     step 0
     date "2021-09-29T03:28:05Z"
@@ -6259,21 +6040,20 @@ graph [
     commentcount 59
     duration "PT1M26S"
     indegree 2
-    cluster 1
+    ppinsult 0.06748653
+    ppflirtation 0.31668735
+    ppidentityattack 0.114209704
+    ppthreat 0.107462436
+    pptoxicity 0.022351967
+    ppsexuallyexplicit 0.03435789
+    ppprofanity 0.047753755
+    ppinflammatory 0.17722602
     sentiment 0.2732
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.03435789
-    PERSPECTIVE_FLIRTATION 0.31668735
-    PERSPECTIVE_INSULT 0.06748653
-    PERSPECTIVE_TOXICITY 0.022351967
-    PERSPECTIVE_IDENTITY_ATTACK 0.114209704
-    PERSPECTIVE_INFLAMMATORY 0.17722602
-    PERSPECTIVE_THREAT 0.107462436
-    PERSPECTIVE_PROFANITY 0.047753755
+    cluster 1
   ]
-  node [
-    id 224
+  node
+  [
+    id 243
     label "37fVbRMSGog"
     step 0
     date "2021-10-12T03:12:56Z"
@@ -6287,21 +6067,20 @@ graph [
     commentcount 6363
     duration "PT2M35S"
     indegree 3
-    cluster 9
-    sentiment 0.0
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.041691255
-    PERSPECTIVE_FLIRTATION 0.37723458
-    PERSPECTIVE_INSULT 0.11942982
-    PERSPECTIVE_TOXICITY 0.09118898
-    PERSPECTIVE_IDENTITY_ATTACK 0.21245852
-    PERSPECTIVE_INFLAMMATORY 0.16490658
-    PERSPECTIVE_THREAT 0.265198
-    PERSPECTIVE_PROFANITY 0.060807753
+    ppinsult 0.11942982
+    ppflirtation 0.37723458
+    ppidentityattack 0.21245852
+    ppthreat 0.265198
+    pptoxicity 0.09118898
+    ppsexuallyexplicit 0.041691255
+    ppprofanity 0.060807753
+    ppinflammatory 0.16490658
+    sentiment 0
+    cluster 5
   ]
-  node [
-    id 225
+  node
+  [
+    id 244
     label "Kuubx0P_3_0"
     step 0
     date "2021-10-15T15:29:59Z"
@@ -6315,21 +6094,20 @@ graph [
     commentcount 1276
     duration "PT3M44S"
     indegree 0
-    cluster 6
-    sentiment 0.0
-    leftright "L"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.033784762
-    PERSPECTIVE_FLIRTATION 0.27615896
-    PERSPECTIVE_INSULT 0.11762947
-    PERSPECTIVE_TOXICITY 0.043375164
-    PERSPECTIVE_IDENTITY_ATTACK 0.113910064
-    PERSPECTIVE_INFLAMMATORY 0.14834408
-    PERSPECTIVE_THREAT 0.08478642
-    PERSPECTIVE_PROFANITY 0.041133504
+    ppinsult 0.11762947
+    ppflirtation 0.27615896
+    ppidentityattack 0.113910064
+    ppthreat 0.08478642
+    pptoxicity 0.043375164
+    ppsexuallyexplicit 0.033784762
+    ppprofanity 0.041133504
+    ppinflammatory 0.14834408
+    sentiment 0
+    cluster 10
   ]
-  node [
-    id 226
+  node
+  [
+    id 245
     label "h2Ce7LCwDEo"
     step 0
     date "2022-01-31T21:03:31Z"
@@ -6343,21 +6121,20 @@ graph [
     commentcount 203
     duration "PT1M46S"
     indegree 5
-    cluster 1
+    ppinsult 0.112476215
+    ppflirtation 0.36502835
+    ppidentityattack 0.15540397
+    ppthreat 0.2160154
+    pptoxicity 0.11407687
+    ppsexuallyexplicit 0.053544767
+    ppprofanity 0.076955676
+    ppinflammatory 0.1059251
     sentiment -0.296
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.053544767
-    PERSPECTIVE_FLIRTATION 0.36502835
-    PERSPECTIVE_INSULT 0.112476215
-    PERSPECTIVE_TOXICITY 0.11407687
-    PERSPECTIVE_IDENTITY_ATTACK 0.15540397
-    PERSPECTIVE_INFLAMMATORY 0.1059251
-    PERSPECTIVE_THREAT 0.2160154
-    PERSPECTIVE_PROFANITY 0.076955676
+    cluster 1
   ]
-  node [
-    id 227
+  node
+  [
+    id 246
     label "_KoVeoxhAYo"
     step 0
     date "2021-10-20T23:56:33Z"
@@ -6371,21 +6148,20 @@ graph [
     commentcount 194
     duration "PT1M26S"
     indegree 7
-    cluster 9
+    ppinsult 0.17943777
+    ppflirtation 0.45355707
+    ppidentityattack 0.12075718
+    ppthreat 0.35359925
+    pptoxicity 0.15859914
+    ppsexuallyexplicit 0.101157755
+    ppprofanity 0.15455149
+    ppinflammatory 0.155867
     sentiment -0.2732
-    leftright "L"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.101157755
-    PERSPECTIVE_FLIRTATION 0.45355707
-    PERSPECTIVE_INSULT 0.17943777
-    PERSPECTIVE_TOXICITY 0.15859914
-    PERSPECTIVE_IDENTITY_ATTACK 0.12075718
-    PERSPECTIVE_INFLAMMATORY 0.155867
-    PERSPECTIVE_THREAT 0.35359925
-    PERSPECTIVE_PROFANITY 0.15455149
+    cluster 5
   ]
-  node [
-    id 228
+  node
+  [
+    id 247
     label "pi_xTbT2IS0"
     step 0
     date "2022-01-03T16:00:50Z"
@@ -6399,21 +6175,20 @@ graph [
     commentcount 6613
     duration "PT3M57S"
     indegree 2
+    ppinsult 0.049052816
+    ppflirtation 0.2163408
+    ppidentityattack 0.07904553
+    ppthreat 0.1574218
+    pptoxicity 0.020824814
+    ppsexuallyexplicit 0.058389977
+    ppprofanity 0.051609617
+    ppinflammatory 0.49799538
+    sentiment 0
     cluster 2
-    sentiment 0.0
-    leftright "L"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.058389977
-    PERSPECTIVE_FLIRTATION 0.2163408
-    PERSPECTIVE_INSULT 0.049052816
-    PERSPECTIVE_TOXICITY 0.020824814
-    PERSPECTIVE_IDENTITY_ATTACK 0.07904553
-    PERSPECTIVE_INFLAMMATORY 0.49799538
-    PERSPECTIVE_THREAT 0.1574218
-    PERSPECTIVE_PROFANITY 0.051609617
   ]
-  node [
-    id 229
+  node
+  [
+    id 248
     label "uSzfylpS-Qw"
     step 0
     date "2021-09-15T00:30:08Z"
@@ -6427,21 +6202,20 @@ graph [
     commentcount 1013
     duration "PT1M58S"
     indegree 0
-    cluster 10
+    ppinsult 0.11882335
+    ppflirtation 0.22805107
+    ppidentityattack 0.2205173
+    ppthreat 0.14491646
+    pptoxicity 0.05133759
+    ppsexuallyexplicit 0.093267515
+    ppprofanity 0.11052326
+    ppinflammatory 0.33232936
     sentiment -0.34
-    leftright "L"
-    channeltags "Mainstream News|PartisanLeft"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.093267515
-    PERSPECTIVE_FLIRTATION 0.22805107
-    PERSPECTIVE_INSULT 0.11882335
-    PERSPECTIVE_TOXICITY 0.05133759
-    PERSPECTIVE_IDENTITY_ATTACK 0.2205173
-    PERSPECTIVE_INFLAMMATORY 0.33232936
-    PERSPECTIVE_THREAT 0.14491646
-    PERSPECTIVE_PROFANITY 0.11052326
+    cluster 6
   ]
-  node [
-    id 230
+  node
+  [
+    id 249
     label "9X-bsoK3B_A"
     step 0
     date "2021-11-22T17:34:44Z"
@@ -6455,21 +6229,20 @@ graph [
     commentcount 65
     duration "PT1M48S"
     indegree 0
-    cluster 1
+    ppinsult 0.09470576
+    ppflirtation 0.34266883
+    ppidentityattack 0.17888345
+    ppthreat 0.1467189
+    pptoxicity 0.061726328
+    ppsexuallyexplicit 0.022900343
+    ppprofanity 0.030638264
+    ppinflammatory 0.1792217
     sentiment 0.2144
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.022900343
-    PERSPECTIVE_FLIRTATION 0.34266883
-    PERSPECTIVE_INSULT 0.09470576
-    PERSPECTIVE_TOXICITY 0.061726328
-    PERSPECTIVE_IDENTITY_ATTACK 0.17888345
-    PERSPECTIVE_INFLAMMATORY 0.1792217
-    PERSPECTIVE_THREAT 0.1467189
-    PERSPECTIVE_PROFANITY 0.030638264
+    cluster 1
   ]
-  node [
-    id 231
+  node
+  [
+    id 250
     label "Sbu8VaCj8G4"
     step 0
     date "2022-04-05T22:16:07Z"
@@ -6483,21 +6256,20 @@ graph [
     commentcount 44
     duration "PT2M5S"
     indegree 0
-    cluster 1
+    ppinsult 0.051333465
+    ppflirtation 0.23265888
+    ppidentityattack 0.1344795
+    ppthreat 0.16176513
+    pptoxicity 0.05613239
+    ppsexuallyexplicit 0.028723814
+    ppprofanity 0.03552419
+    ppinflammatory 0.29187217
     sentiment -0.3818
-    leftright ""
-    channeltags ""
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.028723814
-    PERSPECTIVE_FLIRTATION 0.23265888
-    PERSPECTIVE_INSULT 0.051333465
-    PERSPECTIVE_TOXICITY 0.05613239
-    PERSPECTIVE_IDENTITY_ATTACK 0.1344795
-    PERSPECTIVE_INFLAMMATORY 0.29187217
-    PERSPECTIVE_THREAT 0.16176513
-    PERSPECTIVE_PROFANITY 0.03552419
+    cluster 1
   ]
-  node [
-    id 232
+  node
+  [
+    id 251
     label "S1eUYWHBwyc"
     step 0
     date "2022-01-22T06:16:25Z"
@@ -6511,21 +6283,20 @@ graph [
     commentcount 77
     duration "PT2M2S"
     indegree 23
-    cluster 4
+    ppinsult 0.08586163
+    ppflirtation 0.27394858
+    ppidentityattack 0.06289641
+    ppthreat 0.118604206
+    pptoxicity 0.019158829
+    ppsexuallyexplicit 0.040188506
+    ppprofanity 0.02777986
+    ppinflammatory 0.16616039
     sentiment 0.0516
-    leftright ""
-    channeltags ""
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.040188506
-    PERSPECTIVE_FLIRTATION 0.27394858
-    PERSPECTIVE_INSULT 0.08586163
-    PERSPECTIVE_TOXICITY 0.019158829
-    PERSPECTIVE_IDENTITY_ATTACK 0.06289641
-    PERSPECTIVE_INFLAMMATORY 0.16616039
-    PERSPECTIVE_THREAT 0.118604206
-    PERSPECTIVE_PROFANITY 0.02777986
+    cluster 4
   ]
-  node [
-    id 233
+  node
+  [
+    id 252
     label "G97GTvQvGLs"
     step 0
     date "2021-11-08T19:38:57Z"
@@ -6539,21 +6310,20 @@ graph [
     commentcount 5549
     duration "PT1M32S"
     indegree 7
-    cluster 9
+    ppinsult 0.11240997
+    ppflirtation 0.29808533
+    ppidentityattack 0.19886784
+    ppthreat 0.32831922
+    pptoxicity 0.038911518
+    ppsexuallyexplicit 0.034610208
+    ppprofanity 0.065271966
+    ppinflammatory 0.16747758
     sentiment 0.25
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.034610208
-    PERSPECTIVE_FLIRTATION 0.29808533
-    PERSPECTIVE_INSULT 0.11240997
-    PERSPECTIVE_TOXICITY 0.038911518
-    PERSPECTIVE_IDENTITY_ATTACK 0.19886784
-    PERSPECTIVE_INFLAMMATORY 0.16747758
-    PERSPECTIVE_THREAT 0.32831922
-    PERSPECTIVE_PROFANITY 0.065271966
+    cluster 9
   ]
-  node [
-    id 234
+  node
+  [
+    id 253
     label "8VTvz_zScf0"
     step 0
     date "2022-01-13T22:59:01Z"
@@ -6567,21 +6337,20 @@ graph [
     commentcount 103
     duration "PT3M36S"
     indegree 29
-    cluster 4
+    ppinsult 0.03595685
+    ppflirtation 0.29754215
+    ppidentityattack 0.06696469
+    ppthreat 0.21049544
+    pptoxicity 0.11407687
+    ppsexuallyexplicit 0.023983922
+    ppprofanity 0.025504494
+    ppinflammatory 0.20711476
     sentiment 0.4019
-    leftright ""
-    channeltags ""
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.023983922
-    PERSPECTIVE_FLIRTATION 0.29754215
-    PERSPECTIVE_INSULT 0.03595685
-    PERSPECTIVE_TOXICITY 0.11407687
-    PERSPECTIVE_IDENTITY_ATTACK 0.06696469
-    PERSPECTIVE_INFLAMMATORY 0.20711476
-    PERSPECTIVE_THREAT 0.21049544
-    PERSPECTIVE_PROFANITY 0.025504494
+    cluster 4
   ]
-  node [
-    id 235
+  node
+  [
+    id 254
     label "pD50oB-hjqg"
     step 0
     date "2021-10-02T10:22:24Z"
@@ -6595,21 +6364,20 @@ graph [
     commentcount -1
     duration "PT1M28S"
     indegree 0
-    cluster 9
-    sentiment 0.0
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.057851512
-    PERSPECTIVE_FLIRTATION 0.2875604
-    PERSPECTIVE_INSULT 0.12039154
-    PERSPECTIVE_TOXICITY 0.035649624
-    PERSPECTIVE_IDENTITY_ATTACK 0.22525781
-    PERSPECTIVE_INFLAMMATORY 0.2440228
-    PERSPECTIVE_THREAT 0.2585344
-    PERSPECTIVE_PROFANITY 0.11172494
+    ppinsult 0.12039154
+    ppflirtation 0.2875604
+    ppidentityattack 0.22525781
+    ppthreat 0.2585344
+    pptoxicity 0.035649624
+    ppsexuallyexplicit 0.057851512
+    ppprofanity 0.11172494
+    ppinflammatory 0.2440228
+    sentiment 0
+    cluster 10
   ]
-  node [
-    id 236
+  node
+  [
+    id 255
     label "0vHq3LgUSrY"
     step 0
     date "2021-10-28T20:21:44Z"
@@ -6623,21 +6391,20 @@ graph [
     commentcount 83
     duration "PT1M50S"
     indegree 0
-    cluster 7
+    ppinsult 0.06304747
+    ppflirtation 0.23889503
+    ppidentityattack 0.14339939
+    ppthreat 0.1693995
+    pptoxicity 0.05852979
+    ppsexuallyexplicit 0.04498696
+    ppprofanity 0.05780965
+    ppinflammatory 0.28506675
     sentiment -0.25
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.04498696
-    PERSPECTIVE_FLIRTATION 0.23889503
-    PERSPECTIVE_INSULT 0.06304747
-    PERSPECTIVE_TOXICITY 0.05852979
-    PERSPECTIVE_IDENTITY_ATTACK 0.14339939
-    PERSPECTIVE_INFLAMMATORY 0.28506675
-    PERSPECTIVE_THREAT 0.1693995
-    PERSPECTIVE_PROFANITY 0.05780965
+    cluster 6
   ]
-  node [
-    id 237
+  node
+  [
+    id 256
     label "RWpddiFghxc"
     step 0
     date "2021-10-28T20:19:09Z"
@@ -6651,21 +6418,20 @@ graph [
     commentcount 1024
     duration "PT2M15S"
     indegree 0
-    cluster 10
-    sentiment 0.0
-    leftright ""
-    channeltags ""
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.032626674
-    PERSPECTIVE_FLIRTATION 0.23231766
-    PERSPECTIVE_INSULT 0.059693716
-    PERSPECTIVE_TOXICITY 0.016104523
-    PERSPECTIVE_IDENTITY_ATTACK 0.09970541
-    PERSPECTIVE_INFLAMMATORY 0.4380445
-    PERSPECTIVE_THREAT 0.08710845
-    PERSPECTIVE_PROFANITY 0.044044532
+    ppinsult 0.059693716
+    ppflirtation 0.23231766
+    ppidentityattack 0.09970541
+    ppthreat 0.08710845
+    pptoxicity 0.016104523
+    ppsexuallyexplicit 0.032626674
+    ppprofanity 0.044044532
+    ppinflammatory 0.4380445
+    sentiment 0
+    cluster 9
   ]
-  node [
-    id 238
+  node
+  [
+    id 257
     label "SZlB7g-xDGk"
     step 0
     date "2021-08-26T16:41:56Z"
@@ -6679,21 +6445,20 @@ graph [
     commentcount 12190
     duration "PT2M30S"
     indegree 15
-    cluster 7
+    ppinsult 0.13458066
+    ppflirtation 0.45331794
+    ppidentityattack 0.085952766
+    ppthreat 0.23618197
+    pptoxicity 0.14822112
+    ppsexuallyexplicit 0.07193734
+    ppprofanity 0.09392455
+    ppinflammatory 0.07600757
     sentiment -0.5574
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.07193734
-    PERSPECTIVE_FLIRTATION 0.45331794
-    PERSPECTIVE_INSULT 0.13458066
-    PERSPECTIVE_TOXICITY 0.14822112
-    PERSPECTIVE_IDENTITY_ATTACK 0.085952766
-    PERSPECTIVE_INFLAMMATORY 0.07600757
-    PERSPECTIVE_THREAT 0.23618197
-    PERSPECTIVE_PROFANITY 0.09392455
+    cluster 6
   ]
-  node [
-    id 239
+  node
+  [
+    id 258
     label "8SmJxLOySmg"
     step 0
     date "2022-02-01T01:16:44Z"
@@ -6707,21 +6472,20 @@ graph [
     commentcount -1
     duration "PT11M4S"
     indegree 5
-    cluster 7
+    ppinsult 0.12675121
+    ppflirtation 0.374882
+    ppidentityattack 0.18693991
+    ppthreat 0.25644344
+    pptoxicity 0.101391904
+    ppsexuallyexplicit 0.08523636
+    ppprofanity 0.11614713
+    ppinflammatory 0.115452774
     sentiment -0.296
-    leftright "L"
-    channeltags "Mainstream News|PartisanLeft|StateFunded"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.08523636
-    PERSPECTIVE_FLIRTATION 0.374882
-    PERSPECTIVE_INSULT 0.12675121
-    PERSPECTIVE_TOXICITY 0.101391904
-    PERSPECTIVE_IDENTITY_ATTACK 0.18693991
-    PERSPECTIVE_INFLAMMATORY 0.115452774
-    PERSPECTIVE_THREAT 0.25644344
-    PERSPECTIVE_PROFANITY 0.11614713
+    cluster 6
   ]
-  node [
-    id 240
+  node
+  [
+    id 260
     label "-IabsM0KTac"
     step 0
     date "2021-11-09T10:02:57Z"
@@ -6735,21 +6499,20 @@ graph [
     commentcount 148
     duration "PT1M1S"
     indegree 5
-    cluster 9
+    ppinsult 0.024143558
+    ppflirtation 0.18279237
+    ppidentityattack 0.038813334
+    ppthreat 0.054537784
+    pptoxicity 0.037023053
+    ppsexuallyexplicit 0.028726872
+    ppprofanity 0.024942854
+    ppinflammatory 0.25904298
     sentiment -0.25
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.028726872
-    PERSPECTIVE_FLIRTATION 0.18279237
-    PERSPECTIVE_INSULT 0.024143558
-    PERSPECTIVE_TOXICITY 0.037023053
-    PERSPECTIVE_IDENTITY_ATTACK 0.038813334
-    PERSPECTIVE_INFLAMMATORY 0.25904298
-    PERSPECTIVE_THREAT 0.054537784
-    PERSPECTIVE_PROFANITY 0.024942854
+    cluster 9
   ]
-  node [
-    id 241
+  node
+  [
+    id 261
     label "JuhfCT14J7c"
     step 0
     date "2022-01-14T04:54:31Z"
@@ -6763,21 +6526,20 @@ graph [
     commentcount 78
     duration "PT2M12S"
     indegree 0
-    cluster 4
+    ppinsult 0.07285712
+    ppflirtation 0.27978447
+    ppidentityattack 0.15800864
+    ppthreat 0.24502464
+    pptoxicity 0.09172598
+    ppsexuallyexplicit 0.030318977
+    ppprofanity 0.054607447
+    ppinflammatory 0.11551702
     sentiment 0.5574
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.030318977
-    PERSPECTIVE_FLIRTATION 0.27978447
-    PERSPECTIVE_INSULT 0.07285712
-    PERSPECTIVE_TOXICITY 0.09172598
-    PERSPECTIVE_IDENTITY_ATTACK 0.15800864
-    PERSPECTIVE_INFLAMMATORY 0.11551702
-    PERSPECTIVE_THREAT 0.24502464
-    PERSPECTIVE_PROFANITY 0.054607447
+    cluster 4
   ]
-  node [
-    id 242
+  node
+  [
+    id 262
     label "PG6bIyaHDNM"
     step 0
     date "2021-10-01T20:16:49Z"
@@ -6791,21 +6553,20 @@ graph [
     commentcount -1
     duration "PT4M56S"
     indegree 6
-    cluster 6
-    sentiment 0.0
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.033458192
-    PERSPECTIVE_FLIRTATION 0.2060161
-    PERSPECTIVE_INSULT 0.04258694
-    PERSPECTIVE_TOXICITY 0.016937515
-    PERSPECTIVE_IDENTITY_ATTACK 0.050650783
-    PERSPECTIVE_INFLAMMATORY 0.25915575
-    PERSPECTIVE_THREAT 0.09989543
-    PERSPECTIVE_PROFANITY 0.036226597
+    ppinsult 0.04258694
+    ppflirtation 0.2060161
+    ppidentityattack 0.050650783
+    ppthreat 0.09989543
+    pptoxicity 0.016937515
+    ppsexuallyexplicit 0.033458192
+    ppprofanity 0.036226597
+    ppinflammatory 0.25915575
+    sentiment 0
+    cluster 5
   ]
-  node [
-    id 243
+  node
+  [
+    id 263
     label "GSfVAXr0FVw"
     step 0
     date "2021-10-18T16:39:38Z"
@@ -6819,21 +6580,20 @@ graph [
     commentcount 1059
     duration "PT3M14S"
     indegree 8
-    cluster 11
+    ppinsult 0.095423356
+    ppflirtation 0.17577016
+    ppidentityattack 0.11403976
+    ppthreat 0.11629358
+    pptoxicity 0.03187269
+    ppsexuallyexplicit 0.023156628
+    ppprofanity 0.034202494
+    ppinflammatory 0.43821454
     sentiment -0.25
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.023156628
-    PERSPECTIVE_FLIRTATION 0.17577016
-    PERSPECTIVE_INSULT 0.095423356
-    PERSPECTIVE_TOXICITY 0.03187269
-    PERSPECTIVE_IDENTITY_ATTACK 0.11403976
-    PERSPECTIVE_INFLAMMATORY 0.43821454
-    PERSPECTIVE_THREAT 0.11629358
-    PERSPECTIVE_PROFANITY 0.034202494
+    cluster 10
   ]
-  node [
-    id 244
+  node
+  [
+    id 265
     label "4GD6pH6JAFE"
     step 0
     date "2022-01-14T19:00:01Z"
@@ -6847,21 +6607,20 @@ graph [
     commentcount 1013
     duration "PT7M36S"
     indegree 28
-    cluster 9
+    ppinsult 0.039145317
+    ppflirtation 0.29318646
+    ppidentityattack 0.052898247
+    ppthreat 0.3383917
+    pptoxicity 0.0813051
+    ppsexuallyexplicit 0.091385715
+    ppprofanity 0.07280917
+    ppinflammatory 0.43631488
     sentiment -0.2263
-    leftright "L"
-    channeltags "Mainstream News|PartisanLeft"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.091385715
-    PERSPECTIVE_FLIRTATION 0.29318646
-    PERSPECTIVE_INSULT 0.039145317
-    PERSPECTIVE_TOXICITY 0.0813051
-    PERSPECTIVE_IDENTITY_ATTACK 0.052898247
-    PERSPECTIVE_INFLAMMATORY 0.43631488
-    PERSPECTIVE_THREAT 0.3383917
-    PERSPECTIVE_PROFANITY 0.07280917
+    cluster 4
   ]
-  node [
-    id 245
+  node
+  [
+    id 266
     label "xuASydTUatI"
     step 0
     date "2022-02-08T17:21:59Z"
@@ -6875,21 +6634,20 @@ graph [
     commentcount 5060
     duration "PT13M14S"
     indegree 3
+    ppinsult 0.12167619
+    ppflirtation 0.22966428
+    ppidentityattack 0.12093054
+    ppthreat 0.0951311
+    pptoxicity 0.019852988
+    ppsexuallyexplicit 0.030938756
+    ppprofanity 0.04974621
+    ppinflammatory 0.39100564
+    sentiment 0
     cluster 1
-    sentiment 0.0
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.030938756
-    PERSPECTIVE_FLIRTATION 0.22966428
-    PERSPECTIVE_INSULT 0.12167619
-    PERSPECTIVE_TOXICITY 0.019852988
-    PERSPECTIVE_IDENTITY_ATTACK 0.12093054
-    PERSPECTIVE_INFLAMMATORY 0.39100564
-    PERSPECTIVE_THREAT 0.0951311
-    PERSPECTIVE_PROFANITY 0.04974621
   ]
-  node [
-    id 246
+  node
+  [
+    id 267
     label "uFoP1naF_kM"
     step 0
     date "2021-11-19T05:52:36Z"
@@ -6903,21 +6661,20 @@ graph [
     commentcount -1
     duration "PT11M55S"
     indegree 62
-    cluster 10
-    sentiment 0.0
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.02704256
-    PERSPECTIVE_FLIRTATION 0.3348629
-    PERSPECTIVE_INSULT 0.014706253
-    PERSPECTIVE_TOXICITY 0.123736724
-    PERSPECTIVE_IDENTITY_ATTACK 0.02292922
-    PERSPECTIVE_INFLAMMATORY 0.17928584
-    PERSPECTIVE_THREAT 0.12260884
-    PERSPECTIVE_PROFANITY 0.015368939
+    ppinsult 0.014706253
+    ppflirtation 0.3348629
+    ppidentityattack 0.02292922
+    ppthreat 0.12260884
+    pptoxicity 0.123736724
+    ppsexuallyexplicit 0.02704256
+    ppprofanity 0.015368939
+    ppinflammatory 0.17928584
+    sentiment 0
+    cluster 9
   ]
-  node [
-    id 247
+  node
+  [
+    id 268
     label "URGW7LtXI4I"
     step 0
     date "2021-10-02T14:55:12Z"
@@ -6931,21 +6688,20 @@ graph [
     commentcount 341
     duration "PT2M23S"
     indegree 0
-    cluster 11
-    sentiment 0.0
-    leftright "L"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.02320142
-    PERSPECTIVE_FLIRTATION 0.15339781
-    PERSPECTIVE_INSULT 0.049308322
-    PERSPECTIVE_TOXICITY 0.03187269
-    PERSPECTIVE_IDENTITY_ATTACK 0.061104883
-    PERSPECTIVE_INFLAMMATORY 0.2882571
-    PERSPECTIVE_THREAT 0.19762702
-    PERSPECTIVE_PROFANITY 0.03208459
+    ppinsult 0.049308322
+    ppflirtation 0.15339781
+    ppidentityattack 0.061104883
+    ppthreat 0.19762702
+    pptoxicity 0.03187269
+    ppsexuallyexplicit 0.02320142
+    ppprofanity 0.03208459
+    ppinflammatory 0.2882571
+    sentiment 0
+    cluster 10
   ]
-  node [
-    id 248
+  node
+  [
+    id 270
     label "eXKAWhMgrFI"
     step 0
     date "2022-06-14T18:54:18Z"
@@ -6959,21 +6715,20 @@ graph [
     commentcount 219
     duration "PT19M52S"
     indegree 8
-    cluster 1
-    sentiment 0.0
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.05568256
-    PERSPECTIVE_FLIRTATION 0.29698434
-    PERSPECTIVE_INSULT 0.08077503
-    PERSPECTIVE_TOXICITY 0.018325835
-    PERSPECTIVE_IDENTITY_ATTACK 0.17244154
-    PERSPECTIVE_INFLAMMATORY 0.22909833
-    PERSPECTIVE_THREAT 0.2810768
-    PERSPECTIVE_PROFANITY 0.065160334
+    ppinsult 0.08077503
+    ppflirtation 0.29698434
+    ppidentityattack 0.17244154
+    ppthreat 0.2810768
+    pptoxicity 0.018325835
+    ppsexuallyexplicit 0.05568256
+    ppprofanity 0.065160334
+    ppinflammatory 0.22909833
+    sentiment 0
+    cluster 7
   ]
-  node [
-    id 249
+  node
+  [
+    id 271
     label "FMKjQQyWc4E"
     step 0
     date "2021-09-12T22:58:14Z"
@@ -6987,21 +6742,20 @@ graph [
     commentcount 801
     duration "PT2M9S"
     indegree 6
+    ppinsult 0.13552164
+    ppflirtation 0.26094657
+    ppidentityattack 0.24600044
+    ppthreat 0.1170238
+    pptoxicity 0.09655894
+    ppsexuallyexplicit 0.028838955
+    ppprofanity 0.07664056
+    ppinflammatory 0.14024083
+    sentiment 0
     cluster 8
-    sentiment 0.0
-    leftright "L"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.028838955
-    PERSPECTIVE_FLIRTATION 0.26094657
-    PERSPECTIVE_INSULT 0.13552164
-    PERSPECTIVE_TOXICITY 0.09655894
-    PERSPECTIVE_IDENTITY_ATTACK 0.24600044
-    PERSPECTIVE_INFLAMMATORY 0.14024083
-    PERSPECTIVE_THREAT 0.1170238
-    PERSPECTIVE_PROFANITY 0.07664056
   ]
-  node [
-    id 250
+  node
+  [
+    id 272
     label "UvPUg25mYew"
     step 0
     date "2022-06-14T14:30:39Z"
@@ -7015,21 +6769,20 @@ graph [
     commentcount 23
     duration "PT5M2S"
     indegree 10
-    cluster 1
+    ppinsult 0.041302223
+    ppflirtation 0.24194318
+    ppidentityattack 0.05123446
+    ppthreat 0.17324966
+    pptoxicity 0.055333257
+    ppsexuallyexplicit 0.015806803
+    ppprofanity 0.02311011
+    ppinflammatory 0.14996092
     sentiment 0.4404
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.015806803
-    PERSPECTIVE_FLIRTATION 0.24194318
-    PERSPECTIVE_INSULT 0.041302223
-    PERSPECTIVE_TOXICITY 0.055333257
-    PERSPECTIVE_IDENTITY_ATTACK 0.05123446
-    PERSPECTIVE_INFLAMMATORY 0.14996092
-    PERSPECTIVE_THREAT 0.17324966
-    PERSPECTIVE_PROFANITY 0.02311011
+    cluster 7
   ]
-  node [
-    id 251
+  node
+  [
+    id 273
     label "0K3moO4QBEs"
     step 0
     date "2022-01-20T09:54:32Z"
@@ -7043,21 +6796,20 @@ graph [
     commentcount -1
     duration "PT9M45S"
     indegree 62
+    ppinsult 0.105589174
+    ppflirtation 0.4213337
+    ppidentityattack 0.14447261
+    ppthreat 0.6531065
+    pptoxicity 0.047495455
+    ppsexuallyexplicit 0.13391753
+    ppprofanity 0.16632935
+    ppinflammatory 0.33814618
+    sentiment 0
     cluster 1
-    sentiment 0.0
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.13391753
-    PERSPECTIVE_FLIRTATION 0.4213337
-    PERSPECTIVE_INSULT 0.105589174
-    PERSPECTIVE_TOXICITY 0.047495455
-    PERSPECTIVE_IDENTITY_ATTACK 0.14447261
-    PERSPECTIVE_INFLAMMATORY 0.33814618
-    PERSPECTIVE_THREAT 0.6531065
-    PERSPECTIVE_PROFANITY 0.16632935
   ]
-  node [
-    id 252
+  node
+  [
+    id 274
     label "ZOVP4m0fbRs"
     step 0
     date "2021-12-21T22:55:12Z"
@@ -7071,21 +6823,20 @@ graph [
     commentcount 836
     duration "PT3M32S"
     indegree 3
+    ppinsult 0.038494296
+    ppflirtation 0.18475303
+    ppidentityattack 0.05901535
+    ppthreat 0.06767269
+    pptoxicity 0.017423427
+    ppsexuallyexplicit 0.018842584
+    ppprofanity 0.02683226
+    ppinflammatory 0.21543644
+    sentiment 0
     cluster 2
-    sentiment 0.0
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.018842584
-    PERSPECTIVE_FLIRTATION 0.18475303
-    PERSPECTIVE_INSULT 0.038494296
-    PERSPECTIVE_TOXICITY 0.017423427
-    PERSPECTIVE_IDENTITY_ATTACK 0.05901535
-    PERSPECTIVE_INFLAMMATORY 0.21543644
-    PERSPECTIVE_THREAT 0.06767269
-    PERSPECTIVE_PROFANITY 0.02683226
   ]
-  node [
-    id 253
+  node
+  [
+    id 275
     label "gGNKEIvLcjg"
     step 0
     date "2021-10-21T03:53:42Z"
@@ -7099,21 +6850,20 @@ graph [
     commentcount 170
     duration "PT6M4S"
     indegree 0
+    ppinsult 0.02770845
+    ppflirtation 0.18844268
+    ppidentityattack 0.027277814
+    ppthreat 0.09333784
+    pptoxicity 0.012911384
+    ppsexuallyexplicit 0.023672357
+    ppprofanity 0.018964805
+    ppinflammatory 0.26402643
+    sentiment 0
     cluster 1
-    sentiment 0.0
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.023672357
-    PERSPECTIVE_FLIRTATION 0.18844268
-    PERSPECTIVE_INSULT 0.02770845
-    PERSPECTIVE_TOXICITY 0.012911384
-    PERSPECTIVE_IDENTITY_ATTACK 0.027277814
-    PERSPECTIVE_INFLAMMATORY 0.26402643
-    PERSPECTIVE_THREAT 0.09333784
-    PERSPECTIVE_PROFANITY 0.018964805
   ]
-  node [
-    id 254
+  node
+  [
+    id 276
     label "LX7hklb1nMs"
     step 0
     date "2022-03-24T21:51:18Z"
@@ -7127,21 +6877,20 @@ graph [
     commentcount 76
     duration "PT4M2S"
     indegree 2
-    cluster 6
+    ppinsult 0.06427205
+    ppflirtation 0.37072727
+    ppidentityattack 0.13478193
+    ppthreat 0.15394999
+    pptoxicity 0.04406188
+    ppsexuallyexplicit 0.05062145
+    ppprofanity 0.039533135
+    ppinflammatory 0.22197327
     sentiment 0.128
-    leftright ""
-    channeltags ""
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.05062145
-    PERSPECTIVE_FLIRTATION 0.37072727
-    PERSPECTIVE_INSULT 0.06427205
-    PERSPECTIVE_TOXICITY 0.04406188
-    PERSPECTIVE_IDENTITY_ATTACK 0.13478193
-    PERSPECTIVE_INFLAMMATORY 0.22197327
-    PERSPECTIVE_THREAT 0.15394999
-    PERSPECTIVE_PROFANITY 0.039533135
+    cluster 2
   ]
-  node [
-    id 255
+  node
+  [
+    id 277
     label "NGHvg_dllxY"
     step 0
     date "2022-02-10T19:30:03Z"
@@ -7155,21 +6904,20 @@ graph [
     commentcount 368
     duration "PT4M3S"
     indegree 0
-    cluster 2
+    ppinsult 0.108687945
+    ppflirtation 0.34723705
+    ppidentityattack 0.19731957
+    ppthreat 0.23475254
+    pptoxicity 0.013327881
+    ppsexuallyexplicit 0.06184902
+    ppprofanity 0.063379586
+    ppinflammatory 0.18950425
     sentiment -0.2263
-    leftright "L"
-    channeltags "Mainstream News|PartisanLeft"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.06184902
-    PERSPECTIVE_FLIRTATION 0.34723705
-    PERSPECTIVE_INSULT 0.108687945
-    PERSPECTIVE_TOXICITY 0.013327881
-    PERSPECTIVE_IDENTITY_ATTACK 0.19731957
-    PERSPECTIVE_INFLAMMATORY 0.18950425
-    PERSPECTIVE_THREAT 0.23475254
-    PERSPECTIVE_PROFANITY 0.063379586
+    cluster 2
   ]
-  node [
-    id 256
+  node
+  [
+    id 278
     label "98MpgpzUXco"
     step 0
     date "2021-11-06T02:30:26Z"
@@ -7183,21 +6931,20 @@ graph [
     commentcount 628
     duration "PT1M41S"
     indegree 0
-    cluster 6
+    ppinsult 0.1545678
+    ppflirtation 0.39582404
+    ppidentityattack 0.23227479
+    ppthreat 0.48185316
+    pptoxicity 0.049212243
+    ppsexuallyexplicit 0.04642883
+    ppprofanity 0.10029233
+    ppinflammatory 0.14907792
     sentiment -0.0644
-    leftright ""
-    channeltags ""
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.04642883
-    PERSPECTIVE_FLIRTATION 0.39582404
-    PERSPECTIVE_INSULT 0.1545678
-    PERSPECTIVE_TOXICITY 0.049212243
-    PERSPECTIVE_IDENTITY_ATTACK 0.23227479
-    PERSPECTIVE_INFLAMMATORY 0.14907792
-    PERSPECTIVE_THREAT 0.48185316
-    PERSPECTIVE_PROFANITY 0.10029233
+    cluster 5
   ]
-  node [
-    id 257
+  node
+  [
+    id 279
     label "lgM1OLSHVoM"
     step 0
     date "2021-08-03T23:10:25Z"
@@ -7211,21 +6958,20 @@ graph [
     commentcount 567
     duration "PT1M53S"
     indegree 2
-    cluster 5
+    ppinsult 0.088561825
+    ppflirtation 0.3614757
+    ppidentityattack 0.17521094
+    ppthreat 0.17507975
+    pptoxicity 0.14014533
+    ppsexuallyexplicit 0.04257035
+    ppprofanity 0.040197816
+    ppinflammatory 0.1531171
     sentiment -0.2023
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.04257035
-    PERSPECTIVE_FLIRTATION 0.3614757
-    PERSPECTIVE_INSULT 0.088561825
-    PERSPECTIVE_TOXICITY 0.14014533
-    PERSPECTIVE_IDENTITY_ATTACK 0.17521094
-    PERSPECTIVE_INFLAMMATORY 0.1531171
-    PERSPECTIVE_THREAT 0.17507975
-    PERSPECTIVE_PROFANITY 0.040197816
+    cluster 3
   ]
-  node [
-    id 258
+  node
+  [
+    id 281
     label "eEXEfBDA0hY"
     step 0
     date "2022-01-22T22:08:46Z"
@@ -7239,21 +6985,20 @@ graph [
     commentcount 288
     duration "PT1M31S"
     indegree 8
-    cluster 1
+    ppinsult 0.12144208
+    ppflirtation 0.34816778
+    ppidentityattack 0.12118826
+    ppthreat 0.17011124
+    pptoxicity 0.027580723
+    ppsexuallyexplicit 0.05648848
+    ppprofanity 0.058299497
+    ppinflammatory 0.21648756
     sentiment -0.2263
-    leftright "L"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.05648848
-    PERSPECTIVE_FLIRTATION 0.34816778
-    PERSPECTIVE_INSULT 0.12144208
-    PERSPECTIVE_TOXICITY 0.027580723
-    PERSPECTIVE_IDENTITY_ATTACK 0.12118826
-    PERSPECTIVE_INFLAMMATORY 0.21648756
-    PERSPECTIVE_THREAT 0.17011124
-    PERSPECTIVE_PROFANITY 0.058299497
+    cluster 1
   ]
-  node [
-    id 259
+  node
+  [
+    id 282
     label "VzX1EOyHECA"
     step 0
     date "2021-09-28T12:21:41Z"
@@ -7267,21 +7012,20 @@ graph [
     commentcount 2425
     duration "PT3M3S"
     indegree 0
-    cluster 10
-    sentiment 0.0
-    leftright "L"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.024932582
-    PERSPECTIVE_FLIRTATION 0.19058518
-    PERSPECTIVE_INSULT 0.048042938
-    PERSPECTIVE_TOXICITY 0.023117077
-    PERSPECTIVE_IDENTITY_ATTACK 0.060863294
-    PERSPECTIVE_INFLAMMATORY 0.22153728
-    PERSPECTIVE_THREAT 0.09415844
-    PERSPECTIVE_PROFANITY 0.030000204
+    ppinsult 0.048042938
+    ppflirtation 0.19058518
+    ppidentityattack 0.060863294
+    ppthreat 0.09415844
+    pptoxicity 0.023117077
+    ppsexuallyexplicit 0.024932582
+    ppprofanity 0.030000204
+    ppinflammatory 0.22153728
+    sentiment 0
+    cluster 6
   ]
-  node [
-    id 260
+  node
+  [
+    id 283
     label "7hgLHjk_nUM"
     step 0
     date "2022-02-12T04:44:24Z"
@@ -7295,21 +7039,20 @@ graph [
     commentcount -1
     duration "PT2M55S"
     indegree 1
-    cluster 2
-    sentiment 0.0
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.040781423
-    PERSPECTIVE_FLIRTATION 0.3351103
-    PERSPECTIVE_INSULT 0.04004657
-    PERSPECTIVE_TOXICITY 0.062925026
-    PERSPECTIVE_IDENTITY_ATTACK 0.04839864
-    PERSPECTIVE_INFLAMMATORY 0.45104122
-    PERSPECTIVE_THREAT 0.10264977
-    PERSPECTIVE_PROFANITY 0.029719207
+    ppinsult 0.04004657
+    ppflirtation 0.3351103
+    ppidentityattack 0.04839864
+    ppthreat 0.10264977
+    pptoxicity 0.062925026
+    ppsexuallyexplicit 0.040781423
+    ppprofanity 0.029719207
+    ppinflammatory 0.45104122
+    sentiment 0
+    cluster 5
   ]
-  node [
-    id 261
+  node
+  [
+    id 284
     label "wMuiXEaI_OI"
     step 0
     date "2022-02-09T23:13:51Z"
@@ -7323,21 +7066,20 @@ graph [
     commentcount -1
     duration "PT10M1S"
     indegree 20
+    ppinsult 0.045466125
+    ppflirtation 0.3214222
+    ppidentityattack 0.10867722
+    ppthreat 0.29738352
+    pptoxicity 0.09870692
+    ppsexuallyexplicit 0.07095165
+    ppprofanity 0.06033584
+    ppinflammatory 0.18417625
+    sentiment 0
     cluster 1
-    sentiment 0.0
-    leftright ""
-    channeltags ""
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.07095165
-    PERSPECTIVE_FLIRTATION 0.3214222
-    PERSPECTIVE_INSULT 0.045466125
-    PERSPECTIVE_TOXICITY 0.09870692
-    PERSPECTIVE_IDENTITY_ATTACK 0.10867722
-    PERSPECTIVE_INFLAMMATORY 0.18417625
-    PERSPECTIVE_THREAT 0.29738352
-    PERSPECTIVE_PROFANITY 0.06033584
   ]
-  node [
-    id 262
+  node
+  [
+    id 285
     label "Qg8cK6Lh-w8"
     step 0
     date "2022-02-23T11:30:24Z"
@@ -7351,21 +7093,20 @@ graph [
     commentcount 133
     duration "PT1M35S"
     indegree 1
-    cluster 7
-    sentiment 0.0
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.06638093
-    PERSPECTIVE_FLIRTATION 0.4617645
-    PERSPECTIVE_INSULT 0.04706422
-    PERSPECTIVE_TOXICITY 0.015479778
-    PERSPECTIVE_IDENTITY_ATTACK 0.056795347
-    PERSPECTIVE_INFLAMMATORY 0.17974229
-    PERSPECTIVE_THREAT 0.23987733
-    PERSPECTIVE_PROFANITY 0.046244744
+    ppinsult 0.04706422
+    ppflirtation 0.4617645
+    ppidentityattack 0.056795347
+    ppthreat 0.23987733
+    pptoxicity 0.015479778
+    ppsexuallyexplicit 0.06638093
+    ppprofanity 0.046244744
+    ppinflammatory 0.17974229
+    sentiment 0
+    cluster 8
   ]
-  node [
-    id 263
+  node
+  [
+    id 286
     label "PO44Gcj1ReY"
     step 0
     date "2021-10-30T10:51:35Z"
@@ -7379,21 +7120,20 @@ graph [
     commentcount 255
     duration "PT2M37S"
     indegree 0
-    cluster 9
+    ppinsult 0.056560148
+    ppflirtation 0.25360927
+    ppidentityattack 0.054473776
+    ppthreat 0.1936196
+    pptoxicity 0.055333257
+    ppsexuallyexplicit 0.053663198
+    ppprofanity 0.054631524
+    ppinflammatory 0.18556274
     sentiment -0.3182
-    leftright "C"
-    channeltags "Mainstream News|StateFunded"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.053663198
-    PERSPECTIVE_FLIRTATION 0.25360927
-    PERSPECTIVE_INSULT 0.056560148
-    PERSPECTIVE_TOXICITY 0.055333257
-    PERSPECTIVE_IDENTITY_ATTACK 0.054473776
-    PERSPECTIVE_INFLAMMATORY 0.18556274
-    PERSPECTIVE_THREAT 0.1936196
-    PERSPECTIVE_PROFANITY 0.054631524
+    cluster 9
   ]
-  node [
-    id 264
+  node
+  [
+    id 287
     label "O68UMMHt408"
     step 0
     date "2021-11-08T22:45:01Z"
@@ -7407,21 +7147,20 @@ graph [
     commentcount 520
     duration "PT3M13S"
     indegree 2
-    cluster 9
+    ppinsult 0.03348995
+    ppflirtation 0.23029353
+    ppidentityattack 0.031790216
+    ppthreat 0.06726349
+    pptoxicity 0.014646785
+    ppsexuallyexplicit 0.064242184
+    ppprofanity 0.04911379
+    ppinflammatory 0.17370516
     sentiment -0.2732
-    leftright "L"
-    channeltags "Mainstream News|PartisanLeft"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.064242184
-    PERSPECTIVE_FLIRTATION 0.23029353
-    PERSPECTIVE_INSULT 0.03348995
-    PERSPECTIVE_TOXICITY 0.014646785
-    PERSPECTIVE_IDENTITY_ATTACK 0.031790216
-    PERSPECTIVE_INFLAMMATORY 0.17370516
-    PERSPECTIVE_THREAT 0.06726349
-    PERSPECTIVE_PROFANITY 0.04911379
+    cluster 9
   ]
-  node [
-    id 265
+  node
+  [
+    id 288
     label "1lHhkWEG0D4"
     step 0
     date "2021-09-21T01:29:37Z"
@@ -7435,21 +7174,20 @@ graph [
     commentcount 17366
     duration "PT2M37S"
     indegree 2
-    cluster 5
+    ppinsult 0.032956608
+    ppflirtation 0.24580182
+    ppidentityattack 0.04962255
+    ppthreat 0.063842304
+    pptoxicity 0.04234509
+    ppsexuallyexplicit 0.036471248
+    ppprofanity 0.038475525
+    ppinflammatory 0.26555225
     sentiment -0.3182
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.036471248
-    PERSPECTIVE_FLIRTATION 0.24580182
-    PERSPECTIVE_INSULT 0.032956608
-    PERSPECTIVE_TOXICITY 0.04234509
-    PERSPECTIVE_IDENTITY_ATTACK 0.04962255
-    PERSPECTIVE_INFLAMMATORY 0.26555225
-    PERSPECTIVE_THREAT 0.063842304
-    PERSPECTIVE_PROFANITY 0.038475525
+    cluster 3
   ]
-  node [
-    id 266
+  node
+  [
+    id 289
     label "igi-CZtkyQs"
     step 0
     date "2022-01-14T23:19:15Z"
@@ -7463,21 +7201,20 @@ graph [
     commentcount 86
     duration "PT2M31S"
     indegree 22
-    cluster 4
+    ppinsult 0.11987588
+    ppflirtation 0.3184701
+    ppidentityattack 0.18886185
+    ppthreat 0.17507592
+    pptoxicity 0.06652113
+    ppsexuallyexplicit 0.023325842
+    ppprofanity 0.06358188
+    ppinflammatory 0.18142955
     sentiment 0.4939
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.023325842
-    PERSPECTIVE_FLIRTATION 0.3184701
-    PERSPECTIVE_INSULT 0.11987588
-    PERSPECTIVE_TOXICITY 0.06652113
-    PERSPECTIVE_IDENTITY_ATTACK 0.18886185
-    PERSPECTIVE_INFLAMMATORY 0.18142955
-    PERSPECTIVE_THREAT 0.17507592
-    PERSPECTIVE_PROFANITY 0.06358188
+    cluster 4
   ]
-  node [
-    id 267
+  node
+  [
+    id 290
     label "6cH-mK_6fPI"
     step 0
     date "2021-08-27T22:29:23Z"
@@ -7491,21 +7228,20 @@ graph [
     commentcount 839
     duration "PT3M52S"
     indegree 4
-    cluster 7
+    ppinsult 0.08614477
+    ppflirtation 0.20834802
+    ppidentityattack 0.052784443
+    ppthreat 0.08524839
+    pptoxicity 0.078108564
+    ppsexuallyexplicit 0.031859785
+    ppprofanity 0.029060274
+    ppinflammatory 0.27935326
     sentiment -0.6597
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.031859785
-    PERSPECTIVE_FLIRTATION 0.20834802
-    PERSPECTIVE_INSULT 0.08614477
-    PERSPECTIVE_TOXICITY 0.078108564
-    PERSPECTIVE_IDENTITY_ATTACK 0.052784443
-    PERSPECTIVE_INFLAMMATORY 0.27935326
-    PERSPECTIVE_THREAT 0.08524839
-    PERSPECTIVE_PROFANITY 0.029060274
+    cluster 6
   ]
-  node [
-    id 268
+  node
+  [
+    id 291
     label "4an7z5y7LI0"
     step 0
     date "2022-02-24T03:46:16Z"
@@ -7519,21 +7255,20 @@ graph [
     commentcount 107
     duration "PT2M6S"
     indegree 1
+    ppinsult 0.084066905
+    ppflirtation 0.29029205
+    ppidentityattack 0.13861386
+    ppthreat 0.32258084
+    pptoxicity 0.018187003
+    ppsexuallyexplicit 0.03920558
+    ppprofanity 0.051678292
+    ppinflammatory 0.23901634
+    sentiment 0
     cluster 1
-    sentiment 0.0
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.03920558
-    PERSPECTIVE_FLIRTATION 0.29029205
-    PERSPECTIVE_INSULT 0.084066905
-    PERSPECTIVE_TOXICITY 0.018187003
-    PERSPECTIVE_IDENTITY_ATTACK 0.13861386
-    PERSPECTIVE_INFLAMMATORY 0.23901634
-    PERSPECTIVE_THREAT 0.32258084
-    PERSPECTIVE_PROFANITY 0.051678292
   ]
-  node [
-    id 269
+  node
+  [
+    id 293
     label "z_RFRaMEq0w"
     step 0
     date "2021-08-04T16:06:55Z"
@@ -7547,21 +7282,20 @@ graph [
     commentcount 1855
     duration "PT2M11S"
     indegree 6
-    cluster 7
+    ppinsult 0.040616654
+    ppflirtation 0.26747692
+    ppidentityattack 0.038571026
+    ppthreat 0.08790101
+    pptoxicity 0.029469188
+    ppsexuallyexplicit 0.02732455
+    ppprofanity 0.024327802
+    ppinflammatory 0.31299794
     sentiment 0.296
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.02732455
-    PERSPECTIVE_FLIRTATION 0.26747692
-    PERSPECTIVE_INSULT 0.040616654
-    PERSPECTIVE_TOXICITY 0.029469188
-    PERSPECTIVE_IDENTITY_ATTACK 0.038571026
-    PERSPECTIVE_INFLAMMATORY 0.31299794
-    PERSPECTIVE_THREAT 0.08790101
-    PERSPECTIVE_PROFANITY 0.024327802
+    cluster 6
   ]
-  node [
-    id 270
+  node
+  [
+    id 294
     label "_8a5S5SiDfA"
     step 0
     date "2021-09-27T15:30:09Z"
@@ -7575,21 +7309,20 @@ graph [
     commentcount 888
     duration "PT6M30S"
     indegree 2
+    ppinsult 0.051421694
+    ppflirtation 0.25184107
+    ppidentityattack 0.10615565
+    ppthreat 0.25372434
+    pptoxicity 0.023117077
+    ppsexuallyexplicit 0.05567851
+    ppprofanity 0.06830014
+    ppinflammatory 0.27174264
+    sentiment 0
     cluster 9
-    sentiment 0.0
-    leftright "L"
-    channeltags "Mainstream News|PartisanLeft"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.05567851
-    PERSPECTIVE_FLIRTATION 0.25184107
-    PERSPECTIVE_INSULT 0.051421694
-    PERSPECTIVE_TOXICITY 0.023117077
-    PERSPECTIVE_IDENTITY_ATTACK 0.10615565
-    PERSPECTIVE_INFLAMMATORY 0.27174264
-    PERSPECTIVE_THREAT 0.25372434
-    PERSPECTIVE_PROFANITY 0.06830014
   ]
-  node [
-    id 271
+  node
+  [
+    id 295
     label "hh2Uc--DiOg"
     step 0
     date "2021-10-19T17:45:00Z"
@@ -7603,21 +7336,20 @@ graph [
     commentcount -1
     duration "PT3M3S"
     indegree 9
-    cluster 11
+    ppinsult 0.022405313
+    ppflirtation 0.20936371
+    ppidentityattack 0.02888084
+    ppthreat 0.11277946
+    pptoxicity 0.048525527
+    ppsexuallyexplicit 0.028977998
+    ppprofanity 0.022081917
+    ppinflammatory 0.27720854
     sentiment -0.3182
-    leftright "R"
-    channeltags "Mainstream News|PartisanRight"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.028977998
-    PERSPECTIVE_FLIRTATION 0.20936371
-    PERSPECTIVE_INSULT 0.022405313
-    PERSPECTIVE_TOXICITY 0.048525527
-    PERSPECTIVE_IDENTITY_ATTACK 0.02888084
-    PERSPECTIVE_INFLAMMATORY 0.27720854
-    PERSPECTIVE_THREAT 0.11277946
-    PERSPECTIVE_PROFANITY 0.022081917
+    cluster 10
   ]
-  node [
-    id 272
+  node
+  [
+    id 296
     label "vP_oQFaR1XY"
     step 0
     date "2022-07-15T19:59:10Z"
@@ -7631,21 +7363,20 @@ graph [
     commentcount 7
     duration "PT56S"
     indegree 8
+    ppinsult 0.057893552
+    ppflirtation 0.3124501
+    ppidentityattack 0.063595645
+    ppthreat 0.3704365
+    pptoxicity 0.022213135
+    ppsexuallyexplicit 0.18532455
+    ppprofanity 0.08563947
+    ppinflammatory 0.31270567
+    sentiment 0
     cluster 3
-    sentiment 0.0
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.18532455
-    PERSPECTIVE_FLIRTATION 0.3124501
-    PERSPECTIVE_INSULT 0.057893552
-    PERSPECTIVE_TOXICITY 0.022213135
-    PERSPECTIVE_IDENTITY_ATTACK 0.063595645
-    PERSPECTIVE_INFLAMMATORY 0.31270567
-    PERSPECTIVE_THREAT 0.3704365
-    PERSPECTIVE_PROFANITY 0.08563947
   ]
-  node [
-    id 273
+  node
+  [
+    id 297
     label "r6i3EGiZc08"
     step 0
     date "2021-08-24T00:17:37Z"
@@ -7659,21 +7390,20 @@ graph [
     commentcount 6600
     duration "PT4M2S"
     indegree 0
-    cluster 7
-    sentiment 0.0
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.09013315
-    PERSPECTIVE_FLIRTATION 0.41292125
-    PERSPECTIVE_INSULT 0.29347035
-    PERSPECTIVE_TOXICITY 0.27690583
-    PERSPECTIVE_IDENTITY_ATTACK 0.31998333
-    PERSPECTIVE_INFLAMMATORY 0.093073756
-    PERSPECTIVE_THREAT 0.34765583
-    PERSPECTIVE_PROFANITY 0.15494697
+    ppinsult 0.29347035
+    ppflirtation 0.41292125
+    ppidentityattack 0.31998333
+    ppthreat 0.34765583
+    pptoxicity 0.27690583
+    ppsexuallyexplicit 0.09013315
+    ppprofanity 0.15494697
+    ppinflammatory 0.093073756
+    sentiment 0
+    cluster 6
   ]
-  node [
-    id 274
+  node
+  [
+    id 298
     label "MVSlnkt8W94"
     step 0
     date "2022-02-23T23:16:36Z"
@@ -7687,21 +7417,20 @@ graph [
     commentcount 29
     duration "PT52S"
     indegree 0
+    ppinsult 0.084066905
+    ppflirtation 0.29029205
+    ppidentityattack 0.13861386
+    ppthreat 0.32258084
+    pptoxicity 0.019575324
+    ppsexuallyexplicit 0.03920558
+    ppprofanity 0.051678292
+    ppinflammatory 0.23901634
+    sentiment 0
     cluster 1
-    sentiment 0.0
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.03920558
-    PERSPECTIVE_FLIRTATION 0.29029205
-    PERSPECTIVE_INSULT 0.084066905
-    PERSPECTIVE_TOXICITY 0.019575324
-    PERSPECTIVE_IDENTITY_ATTACK 0.13861386
-    PERSPECTIVE_INFLAMMATORY 0.23901634
-    PERSPECTIVE_THREAT 0.32258084
-    PERSPECTIVE_PROFANITY 0.051678292
   ]
-  node [
-    id 275
+  node
+  [
+    id 299
     label "X_eK4dtho0k"
     step 0
     date "2021-10-01T17:42:59Z"
@@ -7715,21 +7444,20 @@ graph [
     commentcount 2251
     duration "PT28M14S"
     indegree 0
-    cluster 5
-    sentiment 0.0
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.01205937
-    PERSPECTIVE_FLIRTATION 0.24611723
-    PERSPECTIVE_INSULT 0.015929619
-    PERSPECTIVE_TOXICITY 0.058130227
-    PERSPECTIVE_IDENTITY_ATTACK 0.01692927
-    PERSPECTIVE_INFLAMMATORY 0.24604169
-    PERSPECTIVE_THREAT 0.03606662
-    PERSPECTIVE_PROFANITY 0.0100174975
+    ppinsult 0.015929619
+    ppflirtation 0.24611723
+    ppidentityattack 0.01692927
+    ppthreat 0.03606662
+    pptoxicity 0.058130227
+    ppsexuallyexplicit 0.01205937
+    ppprofanity 0.0100174975
+    ppinflammatory 0.24604169
+    sentiment 0
+    cluster 3
   ]
-  node [
-    id 276
+  node
+  [
+    id 300
     label "_ROTdgGLn5Q"
     step 0
     date "2021-08-25T01:36:23Z"
@@ -7743,21 +7471,20 @@ graph [
     commentcount 1245
     duration "PT2M"
     indegree 1
-    cluster 10
+    ppinsult 0.035649028
+    ppflirtation 0.2116657
+    ppidentityattack 0.06662604
+    ppthreat 0.08656043
+    pptoxicity 0.019019997
+    ppsexuallyexplicit 0.04024267
+    ppprofanity 0.05419172
+    ppinflammatory 0.19653043
     sentiment -0.25
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.04024267
-    PERSPECTIVE_FLIRTATION 0.2116657
-    PERSPECTIVE_INSULT 0.035649028
-    PERSPECTIVE_TOXICITY 0.019019997
-    PERSPECTIVE_IDENTITY_ATTACK 0.06662604
-    PERSPECTIVE_INFLAMMATORY 0.19653043
-    PERSPECTIVE_THREAT 0.08656043
-    PERSPECTIVE_PROFANITY 0.05419172
+    cluster 6
   ]
-  node [
-    id 277
+  node
+  [
+    id 302
     label "93OS4rejmv4"
     step 0
     date "2022-02-12T22:43:33Z"
@@ -7771,21 +7498,20 @@ graph [
     commentcount 582
     duration "PT2M15S"
     indegree 3
-    cluster 1
+    ppinsult 0.08019759
+    ppflirtation 0.3357161
+    ppidentityattack 0.11962164
+    ppthreat 0.2841214
+    pptoxicity 0.052935857
+    ppsexuallyexplicit 0.033740975
+    ppprofanity 0.036836617
+    ppinflammatory 0.37548336
     sentiment -0.5423
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.033740975
-    PERSPECTIVE_FLIRTATION 0.3357161
-    PERSPECTIVE_INSULT 0.08019759
-    PERSPECTIVE_TOXICITY 0.052935857
-    PERSPECTIVE_IDENTITY_ATTACK 0.11962164
-    PERSPECTIVE_INFLAMMATORY 0.37548336
-    PERSPECTIVE_THREAT 0.2841214
-    PERSPECTIVE_PROFANITY 0.036836617
+    cluster 7
   ]
-  node [
-    id 278
+  node
+  [
+    id 303
     label "vZ4N-_864LI"
     step 0
     date "2021-12-13T20:47:48Z"
@@ -7799,21 +7525,20 @@ graph [
     commentcount 2625
     duration "PT1M36S"
     indegree 0
-    cluster 4
+    ppinsult 0.13444218
+    ppflirtation 0.26815164
+    ppidentityattack 0.13058205
+    ppthreat 0.13210575
+    pptoxicity 0.032387726
+    ppsexuallyexplicit 0.078435645
+    ppprofanity 0.09514759
+    ppinflammatory 0.18109535
     sentiment 0.5994
-    leftright "L"
-    channeltags "Mainstream News|PartisanLeft"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.078435645
-    PERSPECTIVE_FLIRTATION 0.26815164
-    PERSPECTIVE_INSULT 0.13444218
-    PERSPECTIVE_TOXICITY 0.032387726
-    PERSPECTIVE_IDENTITY_ATTACK 0.13058205
-    PERSPECTIVE_INFLAMMATORY 0.18109535
-    PERSPECTIVE_THREAT 0.13210575
-    PERSPECTIVE_PROFANITY 0.09514759
+    cluster 4
   ]
-  node [
-    id 279
+  node
+  [
+    id 304
     label "xkTS2IIMZBc"
     step 0
     date "2021-09-30T08:30:13Z"
@@ -7827,21 +7552,20 @@ graph [
     commentcount -1
     duration "PT5M2S"
     indegree 4
-    cluster 5
-    sentiment 0.0
-    leftright "R"
-    channeltags "Mainstream News|PartisanRight"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.027251663
-    PERSPECTIVE_FLIRTATION 0.18276379
-    PERSPECTIVE_INSULT 0.05019286
-    PERSPECTIVE_TOXICITY 0.1334155
-    PERSPECTIVE_IDENTITY_ATTACK 0.17578629
-    PERSPECTIVE_INFLAMMATORY 0.29380432
-    PERSPECTIVE_THREAT 0.04532045
-    PERSPECTIVE_PROFANITY 0.04261128
+    ppinsult 0.05019286
+    ppflirtation 0.18276379
+    ppidentityattack 0.17578629
+    ppthreat 0.04532045
+    pptoxicity 0.1334155
+    ppsexuallyexplicit 0.027251663
+    ppprofanity 0.04261128
+    ppinflammatory 0.29380432
+    sentiment 0
+    cluster 3
   ]
-  node [
-    id 280
+  node
+  [
+    id 305
     label "f9bfGpd5-2k"
     step 0
     date "2022-04-12T00:30:05Z"
@@ -7855,21 +7579,20 @@ graph [
     commentcount 553
     duration "PT4M53S"
     indegree 5
+    ppinsult 0.069459274
+    ppflirtation 0.43447614
+    ppidentityattack 0.11674909
+    ppthreat 0.17394294
+    pptoxicity 0.22775516
+    ppsexuallyexplicit 0.09643017
+    ppprofanity 0.07895321
+    ppinflammatory 0.095341094
+    sentiment 0
     cluster 3
-    sentiment 0.0
-    leftright ""
-    channeltags ""
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.09643017
-    PERSPECTIVE_FLIRTATION 0.43447614
-    PERSPECTIVE_INSULT 0.069459274
-    PERSPECTIVE_TOXICITY 0.22775516
-    PERSPECTIVE_IDENTITY_ATTACK 0.11674909
-    PERSPECTIVE_INFLAMMATORY 0.095341094
-    PERSPECTIVE_THREAT 0.17394294
-    PERSPECTIVE_PROFANITY 0.07895321
   ]
-  node [
-    id 281
+  node
+  [
+    id 306
     label "Xf-trBgT8v8"
     step 0
     date "2022-02-06T00:49:16Z"
@@ -7883,21 +7606,20 @@ graph [
     commentcount -1
     duration "PT2M14S"
     indegree 0
-    cluster 1
+    ppinsult 0.19735529
+    ppflirtation 0.24617893
+    ppidentityattack 0.31576324
+    ppthreat 0.23077525
+    pptoxicity 0.060527626
+    ppsexuallyexplicit 0.030496985
+    ppprofanity 0.071217954
+    ppinflammatory 0.19397804
     sentiment -0.2263
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.030496985
-    PERSPECTIVE_FLIRTATION 0.24617893
-    PERSPECTIVE_INSULT 0.19735529
-    PERSPECTIVE_TOXICITY 0.060527626
-    PERSPECTIVE_IDENTITY_ATTACK 0.31576324
-    PERSPECTIVE_INFLAMMATORY 0.19397804
-    PERSPECTIVE_THREAT 0.23077525
-    PERSPECTIVE_PROFANITY 0.071217954
+    cluster 7
   ]
-  node [
-    id 282
+  node
+  [
+    id 307
     label "MORoYLtyepM"
     step 0
     date "2022-01-31T20:36:37Z"
@@ -7911,21 +7633,20 @@ graph [
     commentcount 834
     duration "PT2M50S"
     indegree 8
-    cluster 1
+    ppinsult 0.080112174
+    ppflirtation 0.3992048
+    ppidentityattack 0.04856798
+    ppthreat 0.113323055
+    pptoxicity 0.09333697
+    ppsexuallyexplicit 0.06715997
+    ppprofanity 0.030095525
+    ppinflammatory 0.26713794
     sentiment -0.296
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.06715997
-    PERSPECTIVE_FLIRTATION 0.3992048
-    PERSPECTIVE_INSULT 0.080112174
-    PERSPECTIVE_TOXICITY 0.09333697
-    PERSPECTIVE_IDENTITY_ATTACK 0.04856798
-    PERSPECTIVE_INFLAMMATORY 0.26713794
-    PERSPECTIVE_THREAT 0.113323055
-    PERSPECTIVE_PROFANITY 0.030095525
+    cluster 1
   ]
-  node [
-    id 283
+  node
+  [
+    id 308
     label "T6Km6wVosVU"
     step 0
     date "2022-03-23T23:39:19Z"
@@ -7939,21 +7660,20 @@ graph [
     commentcount 111
     duration "PT6M4S"
     indegree 0
-    cluster 2
+    ppinsult 0.054678075
+    ppflirtation 0.3075214
+    ppidentityattack 0.077659346
+    ppthreat 0.19606256
+    pptoxicity 0.013952625
+    ppsexuallyexplicit 0.05450696
+    ppprofanity 0.05400058
+    ppinflammatory 0.15354171
     sentiment 0.4215
-    leftright ""
-    channeltags ""
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.05450696
-    PERSPECTIVE_FLIRTATION 0.3075214
-    PERSPECTIVE_INSULT 0.054678075
-    PERSPECTIVE_TOXICITY 0.013952625
-    PERSPECTIVE_IDENTITY_ATTACK 0.077659346
-    PERSPECTIVE_INFLAMMATORY 0.15354171
-    PERSPECTIVE_THREAT 0.19606256
-    PERSPECTIVE_PROFANITY 0.05400058
+    cluster 2
   ]
-  node [
-    id 284
+  node
+  [
+    id 309
     label "VUTqv0pmT-U"
     step 0
     date "2022-01-28T07:47:22Z"
@@ -7967,21 +7687,20 @@ graph [
     commentcount 267
     duration "PT3M7S"
     indegree 7
-    cluster 1
+    ppinsult 0.14428954
+    ppflirtation 0.3307
+    ppidentityattack 0.08264429
+    ppthreat 0.3191723
+    pptoxicity 0.08850401
+    ppsexuallyexplicit 0.036985524
+    ppprofanity 0.12568034
+    ppinflammatory 0.073151514
     sentiment -0.4019
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.036985524
-    PERSPECTIVE_FLIRTATION 0.3307
-    PERSPECTIVE_INSULT 0.14428954
-    PERSPECTIVE_TOXICITY 0.08850401
-    PERSPECTIVE_IDENTITY_ATTACK 0.08264429
-    PERSPECTIVE_INFLAMMATORY 0.073151514
-    PERSPECTIVE_THREAT 0.3191723
-    PERSPECTIVE_PROFANITY 0.12568034
+    cluster 1
   ]
-  node [
-    id 285
+  node
+  [
+    id 311
     label "999rkDrfDtc"
     step 0
     date "2022-01-06T22:36:34Z"
@@ -7995,21 +7714,20 @@ graph [
     commentcount 918
     duration "PT2M47S"
     indegree 0
-    cluster 4
+    ppinsult 0.043663498
+    ppflirtation 0.28262025
+    ppidentityattack 0.091690436
+    ppthreat 0.28211868
+    pptoxicity 0.16344422
+    ppsexuallyexplicit 0.026093857
+    ppprofanity 0.034580622
+    ppinflammatory 0.13641506
     sentiment -0.5574
-    leftright ""
-    channeltags ""
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.026093857
-    PERSPECTIVE_FLIRTATION 0.28262025
-    PERSPECTIVE_INSULT 0.043663498
-    PERSPECTIVE_TOXICITY 0.16344422
-    PERSPECTIVE_IDENTITY_ATTACK 0.091690436
-    PERSPECTIVE_INFLAMMATORY 0.13641506
-    PERSPECTIVE_THREAT 0.28211868
-    PERSPECTIVE_PROFANITY 0.034580622
+    cluster 4
   ]
-  node [
-    id 286
+  node
+  [
+    id 312
     label "fNDeF2gjtkM"
     step 0
     date "2021-10-10T22:36:22Z"
@@ -8023,21 +7741,20 @@ graph [
     commentcount 1937
     duration "PT2M34S"
     indegree 3
-    cluster 7
-    sentiment 0.0
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.021513293
-    PERSPECTIVE_FLIRTATION 0.3136378
-    PERSPECTIVE_INSULT 0.018865105
-    PERSPECTIVE_TOXICITY 0.030842619
-    PERSPECTIVE_IDENTITY_ATTACK 0.035132278
-    PERSPECTIVE_INFLAMMATORY 0.069530495
-    PERSPECTIVE_THREAT 0.09900801
-    PERSPECTIVE_PROFANITY 0.01485502
+    ppinsult 0.018865105
+    ppflirtation 0.3136378
+    ppidentityattack 0.035132278
+    ppthreat 0.09900801
+    pptoxicity 0.030842619
+    ppsexuallyexplicit 0.021513293
+    ppprofanity 0.01485502
+    ppinflammatory 0.069530495
+    sentiment 0
+    cluster 6
   ]
-  node [
-    id 287
+  node
+  [
+    id 313
     label "IpZxKvNRZsU"
     step 0
     date "2021-12-27T23:28:23Z"
@@ -8051,21 +7768,20 @@ graph [
     commentcount 3513
     duration "PT9M54S"
     indegree 2
+    ppinsult 0.09942486
+    ppflirtation 0.29964754
+    ppidentityattack 0.21709278
+    ppthreat 0.26131505
+    pptoxicity 0.08689302
+    ppsexuallyexplicit 0.05921686
+    ppprofanity 0.07759782
+    ppinflammatory 0.093584724
+    sentiment 0
     cluster 2
-    sentiment 0.0
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.05921686
-    PERSPECTIVE_FLIRTATION 0.29964754
-    PERSPECTIVE_INSULT 0.09942486
-    PERSPECTIVE_TOXICITY 0.08689302
-    PERSPECTIVE_IDENTITY_ATTACK 0.21709278
-    PERSPECTIVE_INFLAMMATORY 0.093584724
-    PERSPECTIVE_THREAT 0.26131505
-    PERSPECTIVE_PROFANITY 0.07759782
   ]
-  node [
-    id 288
+  node
+  [
+    id 315
     label "DcIZGRRtzfI"
     step 0
     date "2022-03-24T01:13:48Z"
@@ -8079,21 +7795,20 @@ graph [
     commentcount 36
     duration "PT33S"
     indegree 0
-    cluster 1
+    ppinsult 0.020806331
+    ppflirtation 0.24319658
+    ppidentityattack 0.032305785
+    ppthreat 0.069254175
+    pptoxicity 0.0334178
+    ppsexuallyexplicit 0.02071676
+    ppprofanity 0.016724652
+    ppinflammatory 0.18458909
     sentiment 0.1027
-    leftright ""
-    channeltags ""
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.02071676
-    PERSPECTIVE_FLIRTATION 0.24319658
-    PERSPECTIVE_INSULT 0.020806331
-    PERSPECTIVE_TOXICITY 0.0334178
-    PERSPECTIVE_IDENTITY_ATTACK 0.032305785
-    PERSPECTIVE_INFLAMMATORY 0.18458909
-    PERSPECTIVE_THREAT 0.069254175
-    PERSPECTIVE_PROFANITY 0.016724652
+    cluster 1
   ]
-  node [
-    id 289
+  node
+  [
+    id 316
     label "sI6cL2A6bSM"
     step 0
     date "2021-12-06T04:52:42Z"
@@ -8107,21 +7822,20 @@ graph [
     commentcount 400
     duration "PT1M32S"
     indegree 0
-    cluster 7
+    ppinsult 0.23113824
+    ppflirtation 0.34262127
+    ppidentityattack 0.41344824
+    ppthreat 0.76173955
+    pptoxicity 0.09655894
+    ppsexuallyexplicit 0.13236502
+    ppprofanity 0.17092527
+    ppinflammatory 0.27056274
     sentiment -0.2263
-    leftright "C"
-    channeltags "Mainstream News|StateFunded"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.13236502
-    PERSPECTIVE_FLIRTATION 0.34262127
-    PERSPECTIVE_INSULT 0.23113824
-    PERSPECTIVE_TOXICITY 0.09655894
-    PERSPECTIVE_IDENTITY_ATTACK 0.41344824
-    PERSPECTIVE_INFLAMMATORY 0.27056274
-    PERSPECTIVE_THREAT 0.76173955
-    PERSPECTIVE_PROFANITY 0.17092527
+    cluster 6
   ]
-  node [
-    id 290
+  node
+  [
+    id 318
     label "x7Jc1EOb7eE"
     step 0
     date "2021-11-04T19:16:02Z"
@@ -8135,21 +7849,20 @@ graph [
     commentcount 999
     duration "PT24M41S"
     indegree 10
-    cluster 5
+    ppinsult 0.042804576
+    ppflirtation 0.47457376
+    ppidentityattack 0.02933978
+    ppthreat 0.12351617
+    pptoxicity 0.02262963
+    ppsexuallyexplicit 0.08694467
+    ppprofanity 0.03561517
+    ppinflammatory 0.2844476
     sentiment -0.2263
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.08694467
-    PERSPECTIVE_FLIRTATION 0.47457376
-    PERSPECTIVE_INSULT 0.042804576
-    PERSPECTIVE_TOXICITY 0.02262963
-    PERSPECTIVE_IDENTITY_ATTACK 0.02933978
-    PERSPECTIVE_INFLAMMATORY 0.2844476
-    PERSPECTIVE_THREAT 0.12351617
-    PERSPECTIVE_PROFANITY 0.03561517
+    cluster 9
   ]
-  node [
-    id 291
+  node
+  [
+    id 319
     label "oDHUm7tiSJU"
     step 0
     date "2022-01-08T05:30:08Z"
@@ -8163,21 +7876,20 @@ graph [
     commentcount 1035
     duration "PT5M36S"
     indegree 1
-    cluster 4
+    ppinsult 0.107915424
+    ppflirtation 0.24107422
+    ppidentityattack 0.16047956
+    ppthreat 0.2352399
+    pptoxicity 0.03856816
+    ppsexuallyexplicit 0.09116001
+    ppprofanity 0.10037265
+    ppinflammatory 0.19593747
     sentiment 0.4019
-    leftright "L"
-    channeltags "Mainstream News|PartisanLeft"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.09116001
-    PERSPECTIVE_FLIRTATION 0.24107422
-    PERSPECTIVE_INSULT 0.107915424
-    PERSPECTIVE_TOXICITY 0.03856816
-    PERSPECTIVE_IDENTITY_ATTACK 0.16047956
-    PERSPECTIVE_INFLAMMATORY 0.19593747
-    PERSPECTIVE_THREAT 0.2352399
-    PERSPECTIVE_PROFANITY 0.10037265
+    cluster 4
   ]
-  node [
-    id 292
+  node
+  [
+    id 320
     label "4zn1OPoqj0I"
     step 0
     date "2022-02-12T04:34:26Z"
@@ -8191,21 +7903,20 @@ graph [
     commentcount 80
     duration "PT21S"
     indegree 1
-    cluster 4
+    ppinsult 0.08068207
+    ppflirtation 0.2881636
+    ppidentityattack 0.21135937
+    ppthreat 0.20052381
+    pptoxicity 0.038911518
+    ppsexuallyexplicit 0.04978264
+    ppprofanity 0.077148095
+    ppinflammatory 0.1255367
     sentiment -0.2732
-    leftright ""
-    channeltags ""
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.04978264
-    PERSPECTIVE_FLIRTATION 0.2881636
-    PERSPECTIVE_INSULT 0.08068207
-    PERSPECTIVE_TOXICITY 0.038911518
-    PERSPECTIVE_IDENTITY_ATTACK 0.21135937
-    PERSPECTIVE_INFLAMMATORY 0.1255367
-    PERSPECTIVE_THREAT 0.20052381
-    PERSPECTIVE_PROFANITY 0.077148095
+    cluster 4
   ]
-  node [
-    id 293
+  node
+  [
+    id 321
     label "CVn6jXOiG_o"
     step 0
     date "2021-09-10T21:34:11Z"
@@ -8219,21 +7930,20 @@ graph [
     commentcount -1
     duration "PT2M12S"
     indegree 0
-    cluster 8
+    ppinsult 0.13749656
+    ppflirtation 0.28008634
+    ppidentityattack 0.11136225
+    ppthreat 0.45275018
+    pptoxicity 0.19634613
+    ppsexuallyexplicit 0.034948077
+    ppprofanity 0.0622304
+    ppinflammatory 0.279358
     sentiment -0.3182
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.034948077
-    PERSPECTIVE_FLIRTATION 0.28008634
-    PERSPECTIVE_INSULT 0.13749656
-    PERSPECTIVE_TOXICITY 0.19634613
-    PERSPECTIVE_IDENTITY_ATTACK 0.11136225
-    PERSPECTIVE_INFLAMMATORY 0.279358
-    PERSPECTIVE_THREAT 0.45275018
-    PERSPECTIVE_PROFANITY 0.0622304
+    cluster 8
   ]
-  node [
-    id 294
+  node
+  [
+    id 322
     label "5K3m3M6wP6s"
     step 0
     date "2022-02-15T11:55:09Z"
@@ -8247,21 +7957,20 @@ graph [
     commentcount -1
     duration "PT6M40S"
     indegree 0
-    cluster 1
+    ppinsult 0.13192333
+    ppflirtation 0.21866179
+    ppidentityattack 0.19628543
+    ppthreat 0.49215612
+    pptoxicity 0.12631269
+    ppsexuallyexplicit 0.047328055
+    ppprofanity 0.082895346
+    ppinflammatory 0.20520356
     sentiment -0.2732
-    leftright "L"
-    channeltags "Mainstream News|StateFunded"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.047328055
-    PERSPECTIVE_FLIRTATION 0.21866179
-    PERSPECTIVE_INSULT 0.13192333
-    PERSPECTIVE_TOXICITY 0.12631269
-    PERSPECTIVE_IDENTITY_ATTACK 0.19628543
-    PERSPECTIVE_INFLAMMATORY 0.20520356
-    PERSPECTIVE_THREAT 0.49215612
-    PERSPECTIVE_PROFANITY 0.082895346
+    cluster 1
   ]
-  node [
-    id 295
+  node
+  [
+    id 324
     label "kha0SCc1nuw"
     step 0
     date "2022-03-24T21:14:47Z"
@@ -8275,21 +7984,20 @@ graph [
     commentcount 20
     duration "PT2M59S"
     indegree 0
+    ppinsult 0.03360649
+    ppflirtation 0.21134272
+    ppidentityattack 0.02805413
+    ppthreat 0.052353043
+    pptoxicity 0.033761155
+    ppsexuallyexplicit 0.021353059
+    ppprofanity 0.020807562
+    ppinflammatory 0.25686106
+    sentiment 0
     cluster 2
-    sentiment 0.0
-    leftright ""
-    channeltags ""
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.021353059
-    PERSPECTIVE_FLIRTATION 0.21134272
-    PERSPECTIVE_INSULT 0.03360649
-    PERSPECTIVE_TOXICITY 0.033761155
-    PERSPECTIVE_IDENTITY_ATTACK 0.02805413
-    PERSPECTIVE_INFLAMMATORY 0.25686106
-    PERSPECTIVE_THREAT 0.052353043
-    PERSPECTIVE_PROFANITY 0.020807562
   ]
-  node [
-    id 296
+  node
+  [
+    id 325
     label "N53D_IktbXw"
     step 0
     date "2021-11-26T08:43:50Z"
@@ -8303,21 +8011,20 @@ graph [
     commentcount -1
     duration "PT5M43S"
     indegree 5
+    ppinsult 0.06973902
+    ppflirtation 0.4124437
+    ppidentityattack 0.2246552
+    ppthreat 0.48416948
+    pptoxicity 0.05613239
+    ppsexuallyexplicit 0.05004006
+    ppprofanity 0.07499718
+    ppinflammatory 0.23322064
+    sentiment 0
     cluster 1
-    sentiment 0.0
-    leftright ""
-    channeltags ""
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.05004006
-    PERSPECTIVE_FLIRTATION 0.4124437
-    PERSPECTIVE_INSULT 0.06973902
-    PERSPECTIVE_TOXICITY 0.05613239
-    PERSPECTIVE_IDENTITY_ATTACK 0.2246552
-    PERSPECTIVE_INFLAMMATORY 0.23322064
-    PERSPECTIVE_THREAT 0.48416948
-    PERSPECTIVE_PROFANITY 0.07499718
   ]
-  node [
-    id 297
+  node
+  [
+    id 327
     label "m7xH0_s94Rs"
     step 0
     date "2022-06-23T07:19:58Z"
@@ -8331,21 +8038,20 @@ graph [
     commentcount 6
     duration "PT1M23S"
     indegree 5
+    ppinsult 0.032865483
+    ppflirtation 0.26176113
+    ppidentityattack 0.050576434
+    ppthreat 0.15360357
+    pptoxicity 0.087430015
+    ppsexuallyexplicit 0.02721284
+    ppprofanity 0.024472693
+    ppinflammatory 0.46589962
+    sentiment 0
     cluster 1
-    sentiment 0.0
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.02721284
-    PERSPECTIVE_FLIRTATION 0.26176113
-    PERSPECTIVE_INSULT 0.032865483
-    PERSPECTIVE_TOXICITY 0.087430015
-    PERSPECTIVE_IDENTITY_ATTACK 0.050576434
-    PERSPECTIVE_INFLAMMATORY 0.46589962
-    PERSPECTIVE_THREAT 0.15360357
-    PERSPECTIVE_PROFANITY 0.024472693
   ]
-  node [
-    id 298
+  node
+  [
+    id 328
     label "Xgi45cwylVk"
     step 0
     date "2022-01-30T04:17:11Z"
@@ -8359,21 +8065,20 @@ graph [
     commentcount 3324
     duration "PT1M50S"
     indegree 0
-    cluster 1
+    ppinsult 0.060517345
+    ppflirtation 0.41355482
+    ppidentityattack 0.111774296
+    ppthreat 0.10114088
+    pptoxicity 0.02193547
+    ppsexuallyexplicit 0.04320627
+    ppprofanity 0.029193914
+    ppinflammatory 0.31277716
     sentiment -0.2263
-    leftright ""
-    channeltags ""
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.04320627
-    PERSPECTIVE_FLIRTATION 0.41355482
-    PERSPECTIVE_INSULT 0.060517345
-    PERSPECTIVE_TOXICITY 0.02193547
-    PERSPECTIVE_IDENTITY_ATTACK 0.111774296
-    PERSPECTIVE_INFLAMMATORY 0.31277716
-    PERSPECTIVE_THREAT 0.10114088
-    PERSPECTIVE_PROFANITY 0.029193914
+    cluster 7
   ]
-  node [
-    id 299
+  node
+  [
+    id 329
     label "FoaNdnYEXxI"
     step 0
     date "2022-01-24T00:19:41Z"
@@ -8387,21 +8092,20 @@ graph [
     commentcount 458
     duration "PT2M11S"
     indegree 5
-    cluster 7
-    sentiment 0.0
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.0974716
-    PERSPECTIVE_FLIRTATION 0.3296978
-    PERSPECTIVE_INSULT 0.24200936
-    PERSPECTIVE_TOXICITY 0.042001735
-    PERSPECTIVE_IDENTITY_ATTACK 0.45647463
-    PERSPECTIVE_INFLAMMATORY 0.29663038
-    PERSPECTIVE_THREAT 0.51328766
-    PERSPECTIVE_PROFANITY 0.15559308
+    ppinsult 0.24200936
+    ppflirtation 0.3296978
+    ppidentityattack 0.45647463
+    ppthreat 0.51328766
+    pptoxicity 0.042001735
+    ppsexuallyexplicit 0.0974716
+    ppprofanity 0.15559308
+    ppinflammatory 0.29663038
+    sentiment 0
+    cluster 6
   ]
-  node [
-    id 300
+  node
+  [
+    id 330
     label "UhB73F6CBOI"
     step 0
     date "2021-09-02T00:02:02Z"
@@ -8415,21 +8119,20 @@ graph [
     commentcount 6437
     duration "PT2M18S"
     indegree 0
+    ppinsult 0.05221715
+    ppflirtation 0.17967473
+    ppidentityattack 0.06772938
+    ppthreat 0.08345335
+    pptoxicity 0.03358948
+    ppsexuallyexplicit 0.025894912
+    ppprofanity 0.024908718
+    ppinflammatory 0.2021305
+    sentiment 0
     cluster 1
-    sentiment 0.0
-    leftright ""
-    channeltags ""
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.025894912
-    PERSPECTIVE_FLIRTATION 0.17967473
-    PERSPECTIVE_INSULT 0.05221715
-    PERSPECTIVE_TOXICITY 0.03358948
-    PERSPECTIVE_IDENTITY_ATTACK 0.06772938
-    PERSPECTIVE_INFLAMMATORY 0.2021305
-    PERSPECTIVE_THREAT 0.08345335
-    PERSPECTIVE_PROFANITY 0.024908718
   ]
-  node [
-    id 301
+  node
+  [
+    id 332
     label "_23H2sDDbJs"
     step 0
     date "2022-04-05T21:24:41Z"
@@ -8443,21 +8146,20 @@ graph [
     commentcount 239
     duration "PT1H18M18S"
     indegree 0
+    ppinsult 0.041549515
+    ppflirtation 0.3173338
+    ppidentityattack 0.028978752
+    ppthreat 0.15423702
+    pptoxicity 0.036336336
+    ppsexuallyexplicit 0.03349351
+    ppprofanity 0.027874393
+    ppinflammatory 0.13605945
+    sentiment 0
     cluster 1
-    sentiment 0.0
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.03349351
-    PERSPECTIVE_FLIRTATION 0.3173338
-    PERSPECTIVE_INSULT 0.041549515
-    PERSPECTIVE_TOXICITY 0.036336336
-    PERSPECTIVE_IDENTITY_ATTACK 0.028978752
-    PERSPECTIVE_INFLAMMATORY 0.13605945
-    PERSPECTIVE_THREAT 0.15423702
-    PERSPECTIVE_PROFANITY 0.027874393
   ]
-  node [
-    id 302
+  node
+  [
+    id 333
     label "oVXuXt6r2-A"
     step 0
     date "2021-11-03T13:16:43Z"
@@ -8471,21 +8173,20 @@ graph [
     commentcount 162
     duration "PT2M8S"
     indegree 0
+    ppinsult 0.048841473
+    ppflirtation 0.29478642
+    ppidentityattack 0.07102064
+    ppthreat 0.11784354
+    pptoxicity 0.008815838
+    ppsexuallyexplicit 0.08945278
+    ppprofanity 0.070439175
+    ppinflammatory 0.19295
+    sentiment 0
     cluster 9
-    sentiment 0.0
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.08945278
-    PERSPECTIVE_FLIRTATION 0.29478642
-    PERSPECTIVE_INSULT 0.048841473
-    PERSPECTIVE_TOXICITY 0.008815838
-    PERSPECTIVE_IDENTITY_ATTACK 0.07102064
-    PERSPECTIVE_INFLAMMATORY 0.19295
-    PERSPECTIVE_THREAT 0.11784354
-    PERSPECTIVE_PROFANITY 0.070439175
   ]
-  node [
-    id 303
+  node
+  [
+    id 334
     label "cIhVF8aZt1k"
     step 0
     date "2022-03-22T23:02:01Z"
@@ -8499,21 +8200,20 @@ graph [
     commentcount -1
     duration "PT54M35S"
     indegree 1
-    cluster 1
-    sentiment 0.0
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.090708114
-    PERSPECTIVE_FLIRTATION 0.25100887
-    PERSPECTIVE_INSULT 0.028914394
-    PERSPECTIVE_TOXICITY 0.027580723
-    PERSPECTIVE_IDENTITY_ATTACK 0.039896175
-    PERSPECTIVE_INFLAMMATORY 0.26260185
-    PERSPECTIVE_THREAT 0.09691847
-    PERSPECTIVE_PROFANITY 0.051137764
+    ppinsult 0.028914394
+    ppflirtation 0.25100887
+    ppidentityattack 0.039896175
+    ppthreat 0.09691847
+    pptoxicity 0.027580723
+    ppsexuallyexplicit 0.090708114
+    ppprofanity 0.051137764
+    ppinflammatory 0.26260185
+    sentiment 0
+    cluster 7
   ]
-  node [
-    id 304
+  node
+  [
+    id 336
     label "lPCEtaAJnvY"
     step 0
     date "2021-11-04T22:04:29Z"
@@ -8527,21 +8227,20 @@ graph [
     commentcount 2829
     duration "PT2M6S"
     indegree 0
+    ppinsult 0.03695049
+    ppflirtation 0.2109405
+    ppidentityattack 0.040242948
+    ppthreat 0.045661066
+    pptoxicity 0.03049926
+    ppsexuallyexplicit 0.01821476
+    ppprofanity 0.014076773
+    ppinflammatory 0.26603922
+    sentiment 0
     cluster 9
-    sentiment 0.0
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.01821476
-    PERSPECTIVE_FLIRTATION 0.2109405
-    PERSPECTIVE_INSULT 0.03695049
-    PERSPECTIVE_TOXICITY 0.03049926
-    PERSPECTIVE_IDENTITY_ATTACK 0.040242948
-    PERSPECTIVE_INFLAMMATORY 0.26603922
-    PERSPECTIVE_THREAT 0.045661066
-    PERSPECTIVE_PROFANITY 0.014076773
   ]
-  node [
-    id 305
+  node
+  [
+    id 337
     label "SFZtjxPT9NA"
     step 0
     date "2021-12-12T14:25:13Z"
@@ -8555,21 +8254,20 @@ graph [
     commentcount 491
     duration "PT3M14S"
     indegree 1
-    cluster 1
+    ppinsult 0.051100627
+    ppflirtation 0.27297184
+    ppidentityattack 0.07914126
+    ppthreat 0.20866859
+    pptoxicity 0.104076885
+    ppsexuallyexplicit 0.04789944
+    ppprofanity 0.04980967
+    ppinflammatory 0.2050829
     sentiment -0.6249
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.04789944
-    PERSPECTIVE_FLIRTATION 0.27297184
-    PERSPECTIVE_INSULT 0.051100627
-    PERSPECTIVE_TOXICITY 0.104076885
-    PERSPECTIVE_IDENTITY_ATTACK 0.07914126
-    PERSPECTIVE_INFLAMMATORY 0.2050829
-    PERSPECTIVE_THREAT 0.20866859
-    PERSPECTIVE_PROFANITY 0.04980967
+    cluster 1
   ]
-  node [
-    id 306
+  node
+  [
+    id 338
     label "4ab2rO4GEGA"
     step 0
     date "2021-11-30T16:59:51Z"
@@ -8583,21 +8281,20 @@ graph [
     commentcount 272
     duration "PT8M42S"
     indegree 4
-    cluster 2
+    ppinsult 0.05364301
+    ppflirtation 0.3320232
+    ppidentityattack 0.05929104
+    ppthreat 0.20337214
+    pptoxicity 0.10699297
+    ppsexuallyexplicit 0.059306853
+    ppprofanity 0.038419914
+    ppinflammatory 0.47856563
     sentiment -0.4215
-    leftright ""
-    channeltags ""
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.059306853
-    PERSPECTIVE_FLIRTATION 0.3320232
-    PERSPECTIVE_INSULT 0.05364301
-    PERSPECTIVE_TOXICITY 0.10699297
-    PERSPECTIVE_IDENTITY_ATTACK 0.05929104
-    PERSPECTIVE_INFLAMMATORY 0.47856563
-    PERSPECTIVE_THREAT 0.20337214
-    PERSPECTIVE_PROFANITY 0.038419914
+    cluster 2
   ]
-  node [
-    id 307
+  node
+  [
+    id 339
     label "h4NdSDLlMZ8"
     step 0
     date "2021-07-26T20:30:03Z"
@@ -8611,21 +8308,20 @@ graph [
     commentcount 382
     duration "PT3M46S"
     indegree 0
-    cluster 10
+    ppinsult 0.03958997
+    ppflirtation 0.22404265
+    ppidentityattack 0.06977665
+    ppthreat 0.08903145
+    pptoxicity 0.01263372
+    ppsexuallyexplicit 0.049156964
+    ppprofanity 0.041753568
+    ppinflammatory 0.1786097
     sentiment 0.1027
-    leftright "L"
-    channeltags "Mainstream News|PartisanLeft"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.049156964
-    PERSPECTIVE_FLIRTATION 0.22404265
-    PERSPECTIVE_INSULT 0.03958997
-    PERSPECTIVE_TOXICITY 0.01263372
-    PERSPECTIVE_IDENTITY_ATTACK 0.06977665
-    PERSPECTIVE_INFLAMMATORY 0.1786097
-    PERSPECTIVE_THREAT 0.08903145
-    PERSPECTIVE_PROFANITY 0.041753568
+    cluster 6
   ]
-  node [
-    id 308
+  node
+  [
+    id 340
     label "7T2e2eTDW6A"
     step 0
     date "2022-06-27T21:43:40Z"
@@ -8639,21 +8335,20 @@ graph [
     commentcount 230
     duration "PT2M"
     indegree 5
-    cluster 5
+    ppinsult 0.18054186
+    ppflirtation 0.3366786
+    ppidentityattack 0.123085
+    ppthreat 0.17699556
+    pptoxicity 0.02792408
+    ppsexuallyexplicit 0.14058496
+    ppprofanity 0.15026751
+    ppinflammatory 0.20839347
     sentiment -0.2732
-    leftright ""
-    channeltags ""
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.14058496
-    PERSPECTIVE_FLIRTATION 0.3366786
-    PERSPECTIVE_INSULT 0.18054186
-    PERSPECTIVE_TOXICITY 0.02792408
-    PERSPECTIVE_IDENTITY_ATTACK 0.123085
-    PERSPECTIVE_INFLAMMATORY 0.20839347
-    PERSPECTIVE_THREAT 0.17699556
-    PERSPECTIVE_PROFANITY 0.15026751
+    cluster 2
   ]
-  node [
-    id 309
+  node
+  [
+    id 341
     label "vNIYJShF9WI"
     step 0
     date "2022-01-14T01:14:54Z"
@@ -8667,21 +8362,20 @@ graph [
     commentcount 691
     duration "PT9M"
     indegree 11
-    cluster 10
-    sentiment 0.0
-    leftright "L"
-    channeltags "Mainstream News|PartisanLeft|StateFunded"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.029308127
-    PERSPECTIVE_FLIRTATION 0.20744684
-    PERSPECTIVE_INSULT 0.13553828
-    PERSPECTIVE_TOXICITY 0.1550967
-    PERSPECTIVE_IDENTITY_ATTACK 0.22547743
-    PERSPECTIVE_INFLAMMATORY 0.4369158
-    PERSPECTIVE_THREAT 0.091055095
-    PERSPECTIVE_PROFANITY 0.051196355
+    ppinsult 0.13553828
+    ppflirtation 0.20744684
+    ppidentityattack 0.22547743
+    ppthreat 0.091055095
+    pptoxicity 0.1550967
+    ppsexuallyexplicit 0.029308127
+    ppprofanity 0.051196355
+    ppinflammatory 0.4369158
+    sentiment 0
+    cluster 4
   ]
-  node [
-    id 310
+  node
+  [
+    id 342
     label "9g5aJy_sO40"
     step 0
     date "2022-01-31T17:30:40Z"
@@ -8695,21 +8389,20 @@ graph [
     commentcount 892
     duration "PT6M53S"
     indegree 12
-    cluster 1
+    ppinsult 0.18121697
+    ppflirtation 0.3764262
+    ppidentityattack 0.30093578
+    ppthreat 0.3259224
+    pptoxicity 0.11085691
+    ppsexuallyexplicit 0.03841169
+    ppprofanity 0.087257124
+    ppinflammatory 0.17463261
     sentiment -0.2263
-    leftright "L"
-    channeltags "Mainstream News|PartisanLeft|StateFunded"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.03841169
-    PERSPECTIVE_FLIRTATION 0.3764262
-    PERSPECTIVE_INSULT 0.18121697
-    PERSPECTIVE_TOXICITY 0.11085691
-    PERSPECTIVE_IDENTITY_ATTACK 0.30093578
-    PERSPECTIVE_INFLAMMATORY 0.17463261
-    PERSPECTIVE_THREAT 0.3259224
-    PERSPECTIVE_PROFANITY 0.087257124
+    cluster 1
   ]
-  node [
-    id 311
+  node
+  [
+    id 344
     label "kIqqz-60OqU"
     step 0
     date "2021-09-14T20:45:09Z"
@@ -8723,21 +8416,20 @@ graph [
     commentcount 12735
     duration "PT4M41S"
     indegree 4
+    ppinsult 0.19152741
+    ppflirtation 0.43101823
+    ppidentityattack 0.21162689
+    ppthreat 0.35095543
+    pptoxicity 0.21539254
+    ppsexuallyexplicit 0.122047536
+    ppprofanity 0.1089906
+    ppinflammatory 0.09520866
+    sentiment 0
     cluster 8
-    sentiment 0.0
-    leftright "R"
-    channeltags "Mainstream News|PartisanRight"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.122047536
-    PERSPECTIVE_FLIRTATION 0.43101823
-    PERSPECTIVE_INSULT 0.19152741
-    PERSPECTIVE_TOXICITY 0.21539254
-    PERSPECTIVE_IDENTITY_ATTACK 0.21162689
-    PERSPECTIVE_INFLAMMATORY 0.09520866
-    PERSPECTIVE_THREAT 0.35095543
-    PERSPECTIVE_PROFANITY 0.1089906
   ]
-  node [
-    id 312
+  node
+  [
+    id 345
     label "kEkiAn3ctLA"
     step 0
     date "2022-03-08T23:02:32Z"
@@ -8751,21 +8443,20 @@ graph [
     commentcount 189
     duration "PT20M39S"
     indegree 2
+    ppinsult 0.07869397
+    ppflirtation 0.31001198
+    ppidentityattack 0.08284633
+    ppthreat 0.19319442
+    pptoxicity 0.05493369
+    ppsexuallyexplicit 0.042716846
+    ppprofanity 0.030943094
+    ppinflammatory 0.26859814
+    sentiment 0
     cluster 4
-    sentiment 0.0
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.042716846
-    PERSPECTIVE_FLIRTATION 0.31001198
-    PERSPECTIVE_INSULT 0.07869397
-    PERSPECTIVE_TOXICITY 0.05493369
-    PERSPECTIVE_IDENTITY_ATTACK 0.08284633
-    PERSPECTIVE_INFLAMMATORY 0.26859814
-    PERSPECTIVE_THREAT 0.19319442
-    PERSPECTIVE_PROFANITY 0.030943094
   ]
-  node [
-    id 313
+  node
+  [
+    id 346
     label "i1kKlibXHgs"
     step 0
     date "2022-03-23T19:58:32Z"
@@ -8779,21 +8470,20 @@ graph [
     commentcount -1
     duration "PT5M12S"
     indegree 0
-    cluster 10
+    ppinsult 0.11987809
+    ppflirtation 0.32713735
+    ppidentityattack 0.16267061
+    ppthreat 0.32963723
+    pptoxicity 0.09763293
+    ppsexuallyexplicit 0.089095585
+    ppprofanity 0.0901748
+    ppinflammatory 0.44742993
     sentiment -0.2732
-    leftright ""
-    channeltags ""
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.089095585
-    PERSPECTIVE_FLIRTATION 0.32713735
-    PERSPECTIVE_INSULT 0.11987809
-    PERSPECTIVE_TOXICITY 0.09763293
-    PERSPECTIVE_IDENTITY_ATTACK 0.16267061
-    PERSPECTIVE_INFLAMMATORY 0.44742993
-    PERSPECTIVE_THREAT 0.32963723
-    PERSPECTIVE_PROFANITY 0.0901748
+    cluster 9
   ]
-  node [
-    id 314
+  node
+  [
+    id 348
     label "pVHPTkPmExY"
     step 0
     date "2021-10-05T08:14:32Z"
@@ -8807,21 +8497,20 @@ graph [
     commentcount 2386
     duration "PT7M59S"
     indegree 24
-    cluster 5
+    ppinsult 0.043544486
+    ppflirtation 0.2266993
+    ppidentityattack 0.0510047
+    ppthreat 0.19379035
+    pptoxicity 0.092262976
+    ppsexuallyexplicit 0.029202912
+    ppprofanity 0.03230127
+    ppinflammatory 0.29184267
     sentiment -0.25
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.029202912
-    PERSPECTIVE_FLIRTATION 0.2266993
-    PERSPECTIVE_INSULT 0.043544486
-    PERSPECTIVE_TOXICITY 0.092262976
-    PERSPECTIVE_IDENTITY_ATTACK 0.0510047
-    PERSPECTIVE_INFLAMMATORY 0.29184267
-    PERSPECTIVE_THREAT 0.19379035
-    PERSPECTIVE_PROFANITY 0.03230127
+    cluster 7
   ]
-  node [
-    id 315
+  node
+  [
+    id 349
     label "fjTrdcA44lE"
     step 0
     date "2022-03-24T13:14:57Z"
@@ -8835,21 +8524,20 @@ graph [
     commentcount -1
     duration "PT9M51S"
     indegree 11
+    ppinsult 0.093401425
+    ppflirtation 0.37845185
+    ppidentityattack 0.11633541
+    ppthreat 0.15890308
+    pptoxicity 0.0076010567
+    ppsexuallyexplicit 0.04679549
+    ppprofanity 0.07138569
+    ppinflammatory 0.23985237
+    sentiment 0
     cluster 2
-    sentiment 0.0
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.04679549
-    PERSPECTIVE_FLIRTATION 0.37845185
-    PERSPECTIVE_INSULT 0.093401425
-    PERSPECTIVE_TOXICITY 0.0076010567
-    PERSPECTIVE_IDENTITY_ATTACK 0.11633541
-    PERSPECTIVE_INFLAMMATORY 0.23985237
-    PERSPECTIVE_THREAT 0.15890308
-    PERSPECTIVE_PROFANITY 0.07138569
   ]
-  node [
-    id 316
+  node
+  [
+    id 354
     label "m5jCycoXFq8"
     step 0
     date "2022-01-31T20:12:29Z"
@@ -8863,21 +8551,20 @@ graph [
     commentcount -1
     duration "PT49S"
     indegree 6
+    ppinsult 0.09357536
+    ppflirtation 0.278165
+    ppidentityattack 0.1238195
+    ppthreat 0.091465324
+    pptoxicity 0.13835071
+    ppsexuallyexplicit 0.042131662
+    ppprofanity 0.073243335
+    ppinflammatory 0.27219233
+    sentiment 0
     cluster 1
-    sentiment 0.0
-    leftright "R"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.042131662
-    PERSPECTIVE_FLIRTATION 0.278165
-    PERSPECTIVE_INSULT 0.09357536
-    PERSPECTIVE_TOXICITY 0.13835071
-    PERSPECTIVE_IDENTITY_ATTACK 0.1238195
-    PERSPECTIVE_INFLAMMATORY 0.27219233
-    PERSPECTIVE_THREAT 0.091465324
-    PERSPECTIVE_PROFANITY 0.073243335
   ]
-  node [
-    id 317
+  node
+  [
+    id 356
     label "weuJy4nyTho"
     step 0
     date "2022-02-10T09:53:30Z"
@@ -8891,21 +8578,20 @@ graph [
     commentcount -1
     duration "PT1M18S"
     indegree 0
-    cluster 1
+    ppinsult 0.13326357
+    ppflirtation 0.28459042
+    ppidentityattack 0.25466686
+    ppthreat 0.57132566
+    pptoxicity 0.124380715
+    ppsexuallyexplicit 0.07711334
+    ppprofanity 0.109161325
+    ppinflammatory 0.26377264
     sentiment -0.2263
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.07711334
-    PERSPECTIVE_FLIRTATION 0.28459042
-    PERSPECTIVE_INSULT 0.13326357
-    PERSPECTIVE_TOXICITY 0.124380715
-    PERSPECTIVE_IDENTITY_ATTACK 0.25466686
-    PERSPECTIVE_INFLAMMATORY 0.26377264
-    PERSPECTIVE_THREAT 0.57132566
-    PERSPECTIVE_PROFANITY 0.109161325
+    cluster 1
   ]
-  node [
-    id 318
+  node
+  [
+    id 357
     label "ikMWL-0f-vI"
     step 0
     date "2021-10-20T01:13:55Z"
@@ -8919,21 +8605,20 @@ graph [
     commentcount 8293
     duration "PT6M37S"
     indegree 5
-    cluster 12
+    ppinsult 0.049307507
+    ppflirtation 0.27307954
+    ppidentityattack 0.09489846
+    ppthreat 0.086023144
+    pptoxicity 0.060927194
+    ppsexuallyexplicit 0.03839203
+    ppprofanity 0.049035463
+    ppinflammatory 0.32480836
     sentiment -0.3818
-    leftright "R"
-    channeltags "Mainstream News|PartisanRight"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.03839203
-    PERSPECTIVE_FLIRTATION 0.27307954
-    PERSPECTIVE_INSULT 0.049307507
-    PERSPECTIVE_TOXICITY 0.060927194
-    PERSPECTIVE_IDENTITY_ATTACK 0.09489846
-    PERSPECTIVE_INFLAMMATORY 0.32480836
-    PERSPECTIVE_THREAT 0.086023144
-    PERSPECTIVE_PROFANITY 0.049035463
+    cluster 11
   ]
-  node [
-    id 319
+  node
+  [
+    id 358
     label "FlO1vSjCqzg"
     step 0
     date "2022-03-30T07:48:09Z"
@@ -8947,21 +8632,20 @@ graph [
     commentcount -1
     duration "PT1M48S"
     indegree 3
+    ppinsult 0.015234465
+    ppflirtation 0.29175517
+    ppidentityattack 0.018411526
+    ppthreat 0.0776432
+    pptoxicity 0.14193995
+    ppsexuallyexplicit 0.017248105
+    ppprofanity 0.012494857
+    ppinflammatory 0.28752977
+    sentiment 0
     cluster 1
-    sentiment 0.0
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.017248105
-    PERSPECTIVE_FLIRTATION 0.29175517
-    PERSPECTIVE_INSULT 0.015234465
-    PERSPECTIVE_TOXICITY 0.14193995
-    PERSPECTIVE_IDENTITY_ATTACK 0.018411526
-    PERSPECTIVE_INFLAMMATORY 0.28752977
-    PERSPECTIVE_THREAT 0.0776432
-    PERSPECTIVE_PROFANITY 0.012494857
   ]
-  node [
-    id 320
+  node
+  [
+    id 359
     label "3wZrbmDv96E"
     step 0
     date "2022-02-09T19:58:42Z"
@@ -8975,21 +8659,20 @@ graph [
     commentcount 749
     duration "PT4M49S"
     indegree 1
-    cluster 12
+    ppinsult 0.12466635
+    ppflirtation 0.2561705
+    ppidentityattack 0.22874711
+    ppthreat 0.10959097
+    pptoxicity 0.051737156
+    ppsexuallyexplicit 0.034846526
+    ppprofanity 0.04665734
+    ppinflammatory 0.18935381
     sentiment -0.2263
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.034846526
-    PERSPECTIVE_FLIRTATION 0.2561705
-    PERSPECTIVE_INSULT 0.12466635
-    PERSPECTIVE_TOXICITY 0.051737156
-    PERSPECTIVE_IDENTITY_ATTACK 0.22874711
-    PERSPECTIVE_INFLAMMATORY 0.18935381
-    PERSPECTIVE_THREAT 0.10959097
-    PERSPECTIVE_PROFANITY 0.04665734
+    cluster 11
   ]
-  node [
-    id 321
+  node
+  [
+    id 360
     label "-rwNWgJYd2A"
     step 0
     date "2021-10-04T05:13:41Z"
@@ -9003,21 +8686,20 @@ graph [
     commentcount 146
     duration "PT1M56S"
     indegree 0
-    cluster 11
-    sentiment 0.0
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.046619695
-    PERSPECTIVE_FLIRTATION 0.3010002
-    PERSPECTIVE_INSULT 0.036894888
-    PERSPECTIVE_TOXICITY 0.022213135
-    PERSPECTIVE_IDENTITY_ATTACK 0.030990632
-    PERSPECTIVE_INFLAMMATORY 0.12162145
-    PERSPECTIVE_THREAT 0.07805394
-    PERSPECTIVE_PROFANITY 0.020837134
+    ppinsult 0.036894888
+    ppflirtation 0.3010002
+    ppidentityattack 0.030990632
+    ppthreat 0.07805394
+    pptoxicity 0.022213135
+    ppsexuallyexplicit 0.046619695
+    ppprofanity 0.020837134
+    ppinflammatory 0.12162145
+    sentiment 0
+    cluster 10
   ]
-  node [
-    id 322
+  node
+  [
+    id 361
     label "4csMa7bgYiA"
     step 0
     date "2021-11-02T20:04:07Z"
@@ -9031,21 +8713,20 @@ graph [
     commentcount -1
     duration "PT2M14S"
     indegree 0
-    cluster 9
+    ppinsult 0.12655719
+    ppflirtation 0.3396268
+    ppidentityattack 0.09768851
+    ppthreat 0.16253765
+    pptoxicity 0.10956893
+    ppsexuallyexplicit 0.0473319
+    ppprofanity 0.05680149
+    ppinflammatory 0.26890975
     sentiment -0.128
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.0473319
-    PERSPECTIVE_FLIRTATION 0.3396268
-    PERSPECTIVE_INSULT 0.12655719
-    PERSPECTIVE_TOXICITY 0.10956893
-    PERSPECTIVE_IDENTITY_ATTACK 0.09768851
-    PERSPECTIVE_INFLAMMATORY 0.26890975
-    PERSPECTIVE_THREAT 0.16253765
-    PERSPECTIVE_PROFANITY 0.05680149
+    cluster 9
   ]
-  node [
-    id 323
+  node
+  [
+    id 362
     label "q2-opQ2O-jQ"
     step 0
     date "2021-09-22T15:41:32Z"
@@ -9059,21 +8740,20 @@ graph [
     commentcount 2051
     duration "PT4M39S"
     indegree 0
-    cluster 1
+    ppinsult 0.09227231
+    ppflirtation 0.3415738
+    ppidentityattack 0.18733795
+    ppthreat 0.17072698
+    pptoxicity 0.05413456
+    ppsexuallyexplicit 0.0707516
+    ppprofanity 0.0929128
+    ppinflammatory 0.43837646
     sentiment -0.2263
-    leftright ""
-    channeltags ""
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.0707516
-    PERSPECTIVE_FLIRTATION 0.3415738
-    PERSPECTIVE_INSULT 0.09227231
-    PERSPECTIVE_TOXICITY 0.05413456
-    PERSPECTIVE_IDENTITY_ATTACK 0.18733795
-    PERSPECTIVE_INFLAMMATORY 0.43837646
-    PERSPECTIVE_THREAT 0.17072698
-    PERSPECTIVE_PROFANITY 0.0929128
+    cluster 1
   ]
-  node [
-    id 324
+  node
+  [
+    id 363
     label "fNKfhx9zmNU"
     step 0
     date "2021-11-08T06:30:14Z"
@@ -9087,21 +8767,20 @@ graph [
     commentcount 310
     duration "PT2M19S"
     indegree 0
+    ppinsult 0.054292526
+    ppflirtation 0.21463646
+    ppidentityattack 0.113101855
+    ppthreat 0.13224466
+    pptoxicity 0.027237365
+    ppsexuallyexplicit 0.060013257
+    ppprofanity 0.07198297
+    ppinflammatory 0.23528633
+    sentiment 0
     cluster 9
-    sentiment 0.0
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.060013257
-    PERSPECTIVE_FLIRTATION 0.21463646
-    PERSPECTIVE_INSULT 0.054292526
-    PERSPECTIVE_TOXICITY 0.027237365
-    PERSPECTIVE_IDENTITY_ATTACK 0.113101855
-    PERSPECTIVE_INFLAMMATORY 0.23528633
-    PERSPECTIVE_THREAT 0.13224466
-    PERSPECTIVE_PROFANITY 0.07198297
   ]
-  node [
-    id 325
+  node
+  [
+    id 365
     label "6mwWDPLaHXM"
     step 0
     date "2021-11-04T03:46:32Z"
@@ -9115,21 +8794,20 @@ graph [
     commentcount 46
     duration "PT37S"
     indegree 0
+    ppinsult 0.18511659
+    ppflirtation 0.3689506
+    ppidentityattack 0.18020865
+    ppthreat 0.37467644
+    pptoxicity 0.10300289
+    ppsexuallyexplicit 0.033462137
+    ppprofanity 0.07774111
+    ppinflammatory 0.20742603
+    sentiment 0
     cluster 9
-    sentiment 0.0
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.033462137
-    PERSPECTIVE_FLIRTATION 0.3689506
-    PERSPECTIVE_INSULT 0.18511659
-    PERSPECTIVE_TOXICITY 0.10300289
-    PERSPECTIVE_IDENTITY_ATTACK 0.18020865
-    PERSPECTIVE_INFLAMMATORY 0.20742603
-    PERSPECTIVE_THREAT 0.37467644
-    PERSPECTIVE_PROFANITY 0.07774111
   ]
-  node [
-    id 326
+  node
+  [
+    id 366
     label "jcs4KO52e-I"
     step 0
     date "2022-01-31T14:15:02Z"
@@ -9143,21 +8821,20 @@ graph [
     commentcount 578
     duration "PT1M7S"
     indegree 0
-    cluster 1
+    ppinsult 0.11145482
+    ppflirtation 0.45943227
+    ppidentityattack 0.18213601
+    ppthreat 0.2071087
+    pptoxicity 0.17957193
+    ppsexuallyexplicit 0.07157016
+    ppprofanity 0.08527845
+    ppinflammatory 0.04879328
     sentiment 0.2263
-    leftright "R"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.07157016
-    PERSPECTIVE_FLIRTATION 0.45943227
-    PERSPECTIVE_INSULT 0.11145482
-    PERSPECTIVE_TOXICITY 0.17957193
-    PERSPECTIVE_IDENTITY_ATTACK 0.18213601
-    PERSPECTIVE_INFLAMMATORY 0.04879328
-    PERSPECTIVE_THREAT 0.2071087
-    PERSPECTIVE_PROFANITY 0.08527845
+    cluster 1
   ]
-  node [
-    id 327
+  node
+  [
+    id 367
     label "WJBzJDkUuP4"
     step 0
     date "2021-08-12T22:39:03Z"
@@ -9171,21 +8848,20 @@ graph [
     commentcount -1
     duration "PT6M56S"
     indegree 0
-    cluster 6
+    ppinsult 0.03530312
+    ppflirtation 0.18573628
+    ppidentityattack 0.03680354
+    ppthreat 0.04952941
+    pptoxicity 0.010898319
+    ppsexuallyexplicit 0.03351896
+    ppprofanity 0.029011715
+    ppinflammatory 0.44304776
     sentiment 0.4215
-    leftright "C"
-    channeltags "Mainstream News|StateFunded"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.03351896
-    PERSPECTIVE_FLIRTATION 0.18573628
-    PERSPECTIVE_INSULT 0.03530312
-    PERSPECTIVE_TOXICITY 0.010898319
-    PERSPECTIVE_IDENTITY_ATTACK 0.03680354
-    PERSPECTIVE_INFLAMMATORY 0.44304776
-    PERSPECTIVE_THREAT 0.04952941
-    PERSPECTIVE_PROFANITY 0.029011715
+    cluster 5
   ]
-  node [
-    id 328
+  node
+  [
+    id 369
     label "0YL5suoECZo"
     step 0
     date "2022-01-31T11:58:09Z"
@@ -9199,21 +8875,20 @@ graph [
     commentcount 339
     duration "PT1M22S"
     indegree 2
-    cluster 7
+    ppinsult 0.06978472
+    ppflirtation 0.26449847
+    ppidentityattack 0.1411931
+    ppthreat 0.0928768
+    pptoxicity 0.017909339
+    ppsexuallyexplicit 0.022440264
+    ppprofanity 0.03366293
+    ppinflammatory 0.16707897
     sentiment -0.25
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.022440264
-    PERSPECTIVE_FLIRTATION 0.26449847
-    PERSPECTIVE_INSULT 0.06978472
-    PERSPECTIVE_TOXICITY 0.017909339
-    PERSPECTIVE_IDENTITY_ATTACK 0.1411931
-    PERSPECTIVE_INFLAMMATORY 0.16707897
-    PERSPECTIVE_THREAT 0.0928768
-    PERSPECTIVE_PROFANITY 0.03366293
+    cluster 6
   ]
-  node [
-    id 329
+  node
+  [
+    id 371
     label "eRioTicmXWM"
     step 0
     date "2022-06-17T22:20:35Z"
@@ -9227,21 +8902,20 @@ graph [
     commentcount 879
     duration "PT2M34S"
     indegree 3
-    cluster 10
+    ppinsult 0.080585055
+    ppflirtation 0.21577805
+    ppidentityattack 0.09475853
+    ppthreat 0.15867078
+    pptoxicity 0.013605545
+    ppsexuallyexplicit 0.029335344
+    ppprofanity 0.043932263
+    ppinflammatory 0.3204089
     sentiment -0.2263
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.029335344
-    PERSPECTIVE_FLIRTATION 0.21577805
-    PERSPECTIVE_INSULT 0.080585055
-    PERSPECTIVE_TOXICITY 0.013605545
-    PERSPECTIVE_IDENTITY_ATTACK 0.09475853
-    PERSPECTIVE_INFLAMMATORY 0.3204089
-    PERSPECTIVE_THREAT 0.15867078
-    PERSPECTIVE_PROFANITY 0.043932263
+    cluster 9
   ]
-  node [
-    id 330
+  node
+  [
+    id 372
     label "GHMikxCvsGI"
     step 0
     date "2021-11-09T01:13:58Z"
@@ -9255,21 +8929,20 @@ graph [
     commentcount 473
     duration "PT3M45S"
     indegree 3
-    cluster 9
+    ppinsult 0.082121514
+    ppflirtation 0.25680092
+    ppidentityattack 0.077614576
+    ppthreat 0.092323884
+    pptoxicity 0.024833864
+    ppsexuallyexplicit 0.025405245
+    ppprofanity 0.03442591
+    ppinflammatory 0.42635074
     sentiment -0.25
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.025405245
-    PERSPECTIVE_FLIRTATION 0.25680092
-    PERSPECTIVE_INSULT 0.082121514
-    PERSPECTIVE_TOXICITY 0.024833864
-    PERSPECTIVE_IDENTITY_ATTACK 0.077614576
-    PERSPECTIVE_INFLAMMATORY 0.42635074
-    PERSPECTIVE_THREAT 0.092323884
-    PERSPECTIVE_PROFANITY 0.03442591
+    cluster 9
   ]
-  node [
-    id 331
+  node
+  [
+    id 374
     label "1Vh-IBXLYK4"
     step 0
     date "2021-10-14T01:00:00Z"
@@ -9283,21 +8956,20 @@ graph [
     commentcount 4185
     duration "PT16M45S"
     indegree 1
-    cluster 8
+    ppinsult 0.05365251
+    ppflirtation 0.31665406
+    ppidentityattack 0.04646684
+    ppthreat 0.11515817
+    pptoxicity 0.0729142
+    ppsexuallyexplicit 0.07249226
+    ppprofanity 0.0601524
+    ppinflammatory 0.53935665
     sentiment -0.7269
-    leftright "L"
-    channeltags "LateNightTalkShow|PartisanLeft"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.07249226
-    PERSPECTIVE_FLIRTATION 0.31665406
-    PERSPECTIVE_INSULT 0.05365251
-    PERSPECTIVE_TOXICITY 0.0729142
-    PERSPECTIVE_IDENTITY_ATTACK 0.04646684
-    PERSPECTIVE_INFLAMMATORY 0.53935665
-    PERSPECTIVE_THREAT 0.11515817
-    PERSPECTIVE_PROFANITY 0.0601524
+    cluster 8
   ]
-  node [
-    id 332
+  node
+  [
+    id 375
     label "EwLXOR1SaKA"
     step 0
     date "2022-01-24T15:00:08Z"
@@ -9311,21 +8983,20 @@ graph [
     commentcount 2214
     duration "PT2M55S"
     indegree 1
-    cluster 7
+    ppinsult 0.07787317
+    ppflirtation 0.19900832
+    ppidentityattack 0.08959618
+    ppthreat 0.11498956
+    pptoxicity 0.059328925
+    ppsexuallyexplicit 0.039272662
+    ppprofanity 0.053537384
+    ppinflammatory 0.2273608
     sentiment -0.2263
-    leftright "R"
-    channeltags "Mainstream News|PartisanRight"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.039272662
-    PERSPECTIVE_FLIRTATION 0.19900832
-    PERSPECTIVE_INSULT 0.07787317
-    PERSPECTIVE_TOXICITY 0.059328925
-    PERSPECTIVE_IDENTITY_ATTACK 0.08959618
-    PERSPECTIVE_INFLAMMATORY 0.2273608
-    PERSPECTIVE_THREAT 0.11498956
-    PERSPECTIVE_PROFANITY 0.053537384
+    cluster 6
   ]
-  node [
-    id 333
+  node
+  [
+    id 376
     label "8PXo4Qce-dU"
     step 0
     date "2021-11-12T01:40:49Z"
@@ -9339,21 +9010,20 @@ graph [
     commentcount 254
     duration "PT28S"
     indegree 0
-    cluster 5
+    ppinsult 0.095724806
+    ppflirtation 0.21648026
+    ppidentityattack 0.12051398
+    ppthreat 0.18633664
+    pptoxicity 0.02124131
+    ppsexuallyexplicit 0.055054463
+    ppprofanity 0.07650928
+    ppinflammatory 0.27799565
     sentiment -0.25
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.055054463
-    PERSPECTIVE_FLIRTATION 0.21648026
-    PERSPECTIVE_INSULT 0.095724806
-    PERSPECTIVE_TOXICITY 0.02124131
-    PERSPECTIVE_IDENTITY_ATTACK 0.12051398
-    PERSPECTIVE_INFLAMMATORY 0.27799565
-    PERSPECTIVE_THREAT 0.18633664
-    PERSPECTIVE_PROFANITY 0.07650928
+    cluster 5
   ]
-  node [
-    id 334
+  node
+  [
+    id 377
     label "RNePAhQS7wQ"
     step 0
     date "2022-02-11T18:58:56Z"
@@ -9367,21 +9037,20 @@ graph [
     commentcount 27
     duration "PT19M1S"
     indegree 0
-    cluster 10
-    sentiment 0.0
-    leftright "L"
-    channeltags "MissingLinkMedia|PartisanLeft|SocialJustice"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.07095107
-    PERSPECTIVE_FLIRTATION 0.27670926
-    PERSPECTIVE_INSULT 0.05228735
-    PERSPECTIVE_TOXICITY 0.068918526
-    PERSPECTIVE_IDENTITY_ATTACK 0.09849244
-    PERSPECTIVE_INFLAMMATORY 0.27697283
-    PERSPECTIVE_THREAT 0.33686888
-    PERSPECTIVE_PROFANITY 0.08539522
+    ppinsult 0.05228735
+    ppflirtation 0.27670926
+    ppidentityattack 0.09849244
+    ppthreat 0.33686888
+    pptoxicity 0.068918526
+    ppsexuallyexplicit 0.07095107
+    ppprofanity 0.08539522
+    ppinflammatory 0.27697283
+    sentiment 0
+    cluster 6
   ]
-  node [
-    id 335
+  node
+  [
+    id 378
     label "pATsQD209Vw"
     step 0
     date "2021-09-13T18:30:39Z"
@@ -9395,21 +9064,20 @@ graph [
     commentcount 592
     duration "PT1M40S"
     indegree 0
+    ppinsult 0.15752213
+    ppflirtation 0.49793008
+    ppidentityattack 0.23197089
+    ppthreat 0.31733435
+    pptoxicity 0.06851897
+    ppsexuallyexplicit 0.07759894
+    ppprofanity 0.087130845
+    ppinflammatory 0.19654205
+    sentiment 0
     cluster 8
-    sentiment 0.0
-    leftright "L"
-    channeltags "Mainstream News|PartisanLeft"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.07759894
-    PERSPECTIVE_FLIRTATION 0.49793008
-    PERSPECTIVE_INSULT 0.15752213
-    PERSPECTIVE_TOXICITY 0.06851897
-    PERSPECTIVE_IDENTITY_ATTACK 0.23197089
-    PERSPECTIVE_INFLAMMATORY 0.19654205
-    PERSPECTIVE_THREAT 0.31733435
-    PERSPECTIVE_PROFANITY 0.087130845
   ]
-  node [
-    id 336
+  node
+  [
+    id 381
     label "OuJBHpj-oZc"
     step 0
     date "2021-11-18T05:03:58Z"
@@ -9423,21 +9091,20 @@ graph [
     commentcount 1573
     duration "PT3M36S"
     indegree 24
+    ppinsult 0.047160856
+    ppflirtation 0.25711116
+    ppidentityattack 0.040115952
+    ppthreat 0.083269775
+    pptoxicity 0.014507953
+    ppsexuallyexplicit 0.03371643
+    ppprofanity 0.037204843
+    ppinflammatory 0.16413316
+    sentiment 0
     cluster 9
-    sentiment 0.0
-    leftright "R"
-    channeltags "Mainstream News|PartisanRight"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.03371643
-    PERSPECTIVE_FLIRTATION 0.25711116
-    PERSPECTIVE_INSULT 0.047160856
-    PERSPECTIVE_TOXICITY 0.014507953
-    PERSPECTIVE_IDENTITY_ATTACK 0.040115952
-    PERSPECTIVE_INFLAMMATORY 0.16413316
-    PERSPECTIVE_THREAT 0.083269775
-    PERSPECTIVE_PROFANITY 0.037204843
   ]
-  node [
-    id 337
+  node
+  [
+    id 383
     label "qI9kOw4K6is"
     step 0
     date "2021-09-23T14:30:07Z"
@@ -9451,21 +9118,20 @@ graph [
     commentcount 36108
     duration "PT5M24S"
     indegree 8
-    cluster 5
-    sentiment 0.0
-    leftright "R"
-    channeltags "Mainstream News|PartisanRight"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.2406035
-    PERSPECTIVE_FLIRTATION 0.55724937
-    PERSPECTIVE_INSULT 0.13709436
-    PERSPECTIVE_TOXICITY 0.1539292
-    PERSPECTIVE_IDENTITY_ATTACK 0.20619404
-    PERSPECTIVE_INFLAMMATORY 0.13126437
-    PERSPECTIVE_THREAT 0.29510084
-    PERSPECTIVE_PROFANITY 0.1411454
+    ppinsult 0.13709436
+    ppflirtation 0.55724937
+    ppidentityattack 0.20619404
+    ppthreat 0.29510084
+    pptoxicity 0.1539292
+    ppsexuallyexplicit 0.2406035
+    ppprofanity 0.1411454
+    ppinflammatory 0.13126437
+    sentiment 0
+    cluster 3
   ]
-  node [
-    id 338
+  node
+  [
+    id 384
     label "g2pM9jM3AkY"
     step 0
     date "2022-01-14T03:42:34Z"
@@ -9479,21 +9145,20 @@ graph [
     commentcount -1
     duration "PT2M10S"
     indegree 0
-    cluster 1
+    ppinsult 0.06729634
+    ppflirtation 0.2033191
+    ppidentityattack 0.044272862
+    ppthreat 0.050096076
+    pptoxicity 0.042001735
+    ppsexuallyexplicit 0.018279118
+    ppprofanity 0.025738828
+    ppinflammatory 0.1979906
     sentiment -0.0516
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.018279118
-    PERSPECTIVE_FLIRTATION 0.2033191
-    PERSPECTIVE_INSULT 0.06729634
-    PERSPECTIVE_TOXICITY 0.042001735
-    PERSPECTIVE_IDENTITY_ATTACK 0.044272862
-    PERSPECTIVE_INFLAMMATORY 0.1979906
-    PERSPECTIVE_THREAT 0.050096076
-    PERSPECTIVE_PROFANITY 0.025738828
+    cluster 1
   ]
-  node [
-    id 339
+  node
+  [
+    id 385
     label "BkLAifHjBA4"
     step 0
     date "2021-09-15T20:32:38Z"
@@ -9507,21 +9172,20 @@ graph [
     commentcount 475
     duration "PT3M11S"
     indegree 7
+    ppinsult 0.06675517
+    ppflirtation 0.38054526
+    ppidentityattack 0.074071825
+    ppthreat 0.25401863
+    pptoxicity 0.02124131
+    ppsexuallyexplicit 0.09401983
+    ppprofanity 0.060527284
+    ppinflammatory 0.29347828
+    sentiment 0
     cluster 8
-    sentiment 0.0
-    leftright "L"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.09401983
-    PERSPECTIVE_FLIRTATION 0.38054526
-    PERSPECTIVE_INSULT 0.06675517
-    PERSPECTIVE_TOXICITY 0.02124131
-    PERSPECTIVE_IDENTITY_ATTACK 0.074071825
-    PERSPECTIVE_INFLAMMATORY 0.29347828
-    PERSPECTIVE_THREAT 0.25401863
-    PERSPECTIVE_PROFANITY 0.060527284
   ]
-  node [
-    id 340
+  node
+  [
+    id 386
     label "gzx8iXGKlxY"
     step 0
     date "2022-06-24T08:15:55Z"
@@ -9535,21 +9199,20 @@ graph [
     commentcount 50
     duration "PT2M57S"
     indegree 13
+    ppinsult 0.0940418
+    ppflirtation 0.27429426
+    ppidentityattack 0.050444037
+    ppthreat 0.17135508
+    pptoxicity 0.12631269
+    ppsexuallyexplicit 0.049084436
+    ppprofanity 0.0985347
+    ppinflammatory 0.33280095
+    sentiment 0
     cluster 1
-    sentiment 0.0
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.049084436
-    PERSPECTIVE_FLIRTATION 0.27429426
-    PERSPECTIVE_INSULT 0.0940418
-    PERSPECTIVE_TOXICITY 0.12631269
-    PERSPECTIVE_IDENTITY_ATTACK 0.050444037
-    PERSPECTIVE_INFLAMMATORY 0.33280095
-    PERSPECTIVE_THREAT 0.17135508
-    PERSPECTIVE_PROFANITY 0.0985347
   ]
-  node [
-    id 341
+  node
+  [
+    id 388
     label "HLm4Lgtxv8Q"
     step 0
     date "2022-06-02T09:23:04Z"
@@ -9563,21 +9226,20 @@ graph [
     commentcount -1
     duration "PT2M18S"
     indegree 13
-    cluster 1
+    ppinsult 0.10212626
+    ppflirtation 0.42752677
+    ppidentityattack 0.10107863
+    ppthreat 0.29342842
+    pptoxicity 0.09279997
+    ppsexuallyexplicit 0.0968171
+    ppprofanity 0.11120947
+    ppinflammatory 0.2016706
     sentiment 0.0772
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.0968171
-    PERSPECTIVE_FLIRTATION 0.42752677
-    PERSPECTIVE_INSULT 0.10212626
-    PERSPECTIVE_TOXICITY 0.09279997
-    PERSPECTIVE_IDENTITY_ATTACK 0.10107863
-    PERSPECTIVE_INFLAMMATORY 0.2016706
-    PERSPECTIVE_THREAT 0.29342842
-    PERSPECTIVE_PROFANITY 0.11120947
+    cluster 1
   ]
-  node [
-    id 342
+  node
+  [
+    id 389
     label "FSNikTmB6kM"
     step 0
     date "2022-06-14T07:20:23Z"
@@ -9591,21 +9253,20 @@ graph [
     commentcount -1
     duration "PT45M30S"
     indegree 2
-    cluster 1
+    ppinsult 0.037262835
+    ppflirtation 0.28606537
+    ppidentityattack 0.051360544
+    ppthreat 0.2546462
+    pptoxicity 0.014299706
+    ppsexuallyexplicit 0.02755548
+    ppprofanity 0.031089034
+    ppinflammatory 0.46454105
     sentiment -0.6908
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.02755548
-    PERSPECTIVE_FLIRTATION 0.28606537
-    PERSPECTIVE_INSULT 0.037262835
-    PERSPECTIVE_TOXICITY 0.014299706
-    PERSPECTIVE_IDENTITY_ATTACK 0.051360544
-    PERSPECTIVE_INFLAMMATORY 0.46454105
-    PERSPECTIVE_THREAT 0.2546462
-    PERSPECTIVE_PROFANITY 0.031089034
+    cluster 7
   ]
-  node [
-    id 343
+  node
+  [
+    id 391
     label "a44tWNShInU"
     step 0
     date "2022-01-05T23:43:24Z"
@@ -9619,21 +9280,20 @@ graph [
     commentcount 10
     duration "PT31S"
     indegree 0
-    cluster 10
+    ppinsult 0.06814311
+    ppflirtation 0.3626578
+    ppidentityattack 0.15904012
+    ppthreat 0.19594052
+    pptoxicity 0.10892494
+    ppsexuallyexplicit 0.048278157
+    ppprofanity 0.052480374
+    ppinflammatory 0.06633846
     sentiment 0.2732
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.048278157
-    PERSPECTIVE_FLIRTATION 0.3626578
-    PERSPECTIVE_INSULT 0.06814311
-    PERSPECTIVE_TOXICITY 0.10892494
-    PERSPECTIVE_IDENTITY_ATTACK 0.15904012
-    PERSPECTIVE_INFLAMMATORY 0.06633846
-    PERSPECTIVE_THREAT 0.19594052
-    PERSPECTIVE_PROFANITY 0.052480374
+    cluster 9
   ]
-  node [
-    id 344
+  node
+  [
+    id 392
     label "x22gAXxduJ0"
     step 0
     date "2022-06-29T17:30:06Z"
@@ -9647,21 +9307,20 @@ graph [
     commentcount 1283
     duration "PT13M54S"
     indegree 5
-    cluster 5
-    sentiment 0.0
-    leftright ""
-    channeltags ""
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.094923906
-    PERSPECTIVE_FLIRTATION 0.259139
-    PERSPECTIVE_INSULT 0.038726646
-    PERSPECTIVE_TOXICITY 0.03599298
-    PERSPECTIVE_IDENTITY_ATTACK 0.062145922
-    PERSPECTIVE_INFLAMMATORY 0.43731758
-    PERSPECTIVE_THREAT 0.08801796
-    PERSPECTIVE_PROFANITY 0.06164431
+    ppinsult 0.038726646
+    ppflirtation 0.259139
+    ppidentityattack 0.062145922
+    ppthreat 0.08801796
+    pptoxicity 0.03599298
+    ppsexuallyexplicit 0.094923906
+    ppprofanity 0.06164431
+    ppinflammatory 0.43731758
+    sentiment 0
+    cluster 2
   ]
-  node [
-    id 345
+  node
+  [
+    id 393
     label "R8DQhydjoOY"
     step 0
     date "2022-01-07T19:45:33Z"
@@ -9675,21 +9334,20 @@ graph [
     commentcount 922
     duration "PT4M29S"
     indegree 6
-    cluster 5
+    ppinsult 0.09798318
+    ppflirtation 0.31037682
+    ppidentityattack 0.14616378
+    ppthreat 0.24070325
+    pptoxicity 0.21186037
+    ppsexuallyexplicit 0.027892997
+    ppprofanity 0.0441488
+    ppinflammatory 0.18268034
     sentiment -0.4767
-    leftright "R"
-    channeltags "Mainstream News|PartisanRight"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.027892997
-    PERSPECTIVE_FLIRTATION 0.31037682
-    PERSPECTIVE_INSULT 0.09798318
-    PERSPECTIVE_TOXICITY 0.21186037
-    PERSPECTIVE_IDENTITY_ATTACK 0.14616378
-    PERSPECTIVE_INFLAMMATORY 0.18268034
-    PERSPECTIVE_THREAT 0.24070325
-    PERSPECTIVE_PROFANITY 0.0441488
+    cluster 5
   ]
-  node [
-    id 346
+  node
+  [
+    id 395
     label "tLgYRv1vaPQ"
     step 0
     date "2021-11-01T08:21:24Z"
@@ -9703,21 +9361,20 @@ graph [
     commentcount -1
     duration "PT2M32S"
     indegree 8
+    ppinsult 0.041248463
+    ppflirtation 0.22546162
+    ppidentityattack 0.11695118
+    ppthreat 0.31239817
+    pptoxicity 0.037023053
+    ppsexuallyexplicit 0.028328113
+    ppprofanity 0.041531045
+    ppinflammatory 0.1429968
+    sentiment 0
     cluster 9
-    sentiment 0.0
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.028328113
-    PERSPECTIVE_FLIRTATION 0.22546162
-    PERSPECTIVE_INSULT 0.041248463
-    PERSPECTIVE_TOXICITY 0.037023053
-    PERSPECTIVE_IDENTITY_ATTACK 0.11695118
-    PERSPECTIVE_INFLAMMATORY 0.1429968
-    PERSPECTIVE_THREAT 0.31239817
-    PERSPECTIVE_PROFANITY 0.041531045
   ]
-  node [
-    id 347
+  node
+  [
+    id 396
     label "FdviT1DNYfc"
     step 0
     date "2022-06-10T02:00:31Z"
@@ -9731,21 +9388,20 @@ graph [
     commentcount 62
     duration "PT1M39S"
     indegree 7
-    cluster 2
+    ppinsult 0.015820982
+    ppflirtation 0.19470735
+    ppidentityattack 0.01824539
+    ppthreat 0.05391074
+    pptoxicity 0.028267438
+    ppsexuallyexplicit 0.010461634
+    ppprofanity 0.01023377
+    ppinflammatory 0.2792896
     sentiment -0.3818
-    leftright "R"
-    channeltags "Mainstream News|PartisanRight"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.010461634
-    PERSPECTIVE_FLIRTATION 0.19470735
-    PERSPECTIVE_INSULT 0.015820982
-    PERSPECTIVE_TOXICITY 0.028267438
-    PERSPECTIVE_IDENTITY_ATTACK 0.01824539
-    PERSPECTIVE_INFLAMMATORY 0.2792896
-    PERSPECTIVE_THREAT 0.05391074
-    PERSPECTIVE_PROFANITY 0.01023377
+    cluster 2
   ]
-  node [
-    id 348
+  node
+  [
+    id 397
     label "SPDH2F4wG2Y"
     step 0
     date "2021-08-04T17:38:09Z"
@@ -9759,21 +9415,20 @@ graph [
     commentcount 1121
     duration "PT1M18S"
     indegree 0
-    cluster 5
+    ppinsult 0.16666749
+    ppflirtation 0.34604
+    ppidentityattack 0.31037357
+    ppthreat 0.40267116
+    pptoxicity 0.21627559
+    ppsexuallyexplicit 0.044869293
+    ppprofanity 0.09599031
+    ppinflammatory 0.35813868
     sentiment -0.7003
-    leftright "R"
-    channeltags "PartisanRight"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.044869293
-    PERSPECTIVE_FLIRTATION 0.34604
-    PERSPECTIVE_INSULT 0.16666749
-    PERSPECTIVE_TOXICITY 0.21627559
-    PERSPECTIVE_IDENTITY_ATTACK 0.31037357
-    PERSPECTIVE_INFLAMMATORY 0.35813868
-    PERSPECTIVE_THREAT 0.40267116
-    PERSPECTIVE_PROFANITY 0.09599031
+    cluster 5
   ]
-  node [
-    id 349
+  node
+  [
+    id 398
     label "ZJktf8qMcVQ"
     step 0
     date "2022-01-29T23:11:36Z"
@@ -9787,21 +9442,20 @@ graph [
     commentcount 1325
     duration "PT2M6S"
     indegree 5
-    cluster 7
+    ppinsult 0.092179306
+    ppflirtation 0.2087678
+    ppidentityattack 0.16104354
+    ppthreat 0.099144295
+    pptoxicity 0.03599298
+    ppsexuallyexplicit 0.031056534
+    ppprofanity 0.050848823
+    ppinflammatory 0.2731126
     sentiment -0.2263
-    leftright ""
-    channeltags ""
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.031056534
-    PERSPECTIVE_FLIRTATION 0.2087678
-    PERSPECTIVE_INSULT 0.092179306
-    PERSPECTIVE_TOXICITY 0.03599298
-    PERSPECTIVE_IDENTITY_ATTACK 0.16104354
-    PERSPECTIVE_INFLAMMATORY 0.2731126
-    PERSPECTIVE_THREAT 0.099144295
-    PERSPECTIVE_PROFANITY 0.050848823
+    cluster 6
   ]
-  node [
-    id 350
+  node
+  [
+    id 400
     label "oZa-_fEaDTA"
     step 0
     date "2022-01-05T06:00:14Z"
@@ -9815,21 +9469,20 @@ graph [
     commentcount 695
     duration "PT4M7S"
     indegree 7
-    cluster 2
+    ppinsult 0.06927284
+    ppflirtation 0.23246706
+    ppidentityattack 0.09302711
+    ppthreat 0.1696792
+    pptoxicity 0.0681194
+    ppsexuallyexplicit 0.03589688
+    ppprofanity 0.05500109
+    ppinflammatory 0.45297393
     sentiment -0.2263
-    leftright "R"
-    channeltags "Mainstream News|PartisanRight"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.03589688
-    PERSPECTIVE_FLIRTATION 0.23246706
-    PERSPECTIVE_INSULT 0.06927284
-    PERSPECTIVE_TOXICITY 0.0681194
-    PERSPECTIVE_IDENTITY_ATTACK 0.09302711
-    PERSPECTIVE_INFLAMMATORY 0.45297393
-    PERSPECTIVE_THREAT 0.1696792
-    PERSPECTIVE_PROFANITY 0.05500109
+    cluster 2
   ]
-  node [
-    id 351
+  node
+  [
+    id 401
     label "BgtG3_hDfgw"
     step 0
     date "2021-10-04T00:25:00Z"
@@ -9843,21 +9496,20 @@ graph [
     commentcount 6060
     duration "PT10M1S"
     indegree 8
-    cluster 11
-    sentiment 0.0
-    leftright ""
-    channeltags ""
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.023336416
-    PERSPECTIVE_FLIRTATION 0.22090042
-    PERSPECTIVE_INSULT 0.007579244
-    PERSPECTIVE_TOXICITY 0.0024816236
-    PERSPECTIVE_IDENTITY_ATTACK 0.017200017
-    PERSPECTIVE_INFLAMMATORY 0.17532656
-    PERSPECTIVE_THREAT 0.13066104
-    PERSPECTIVE_PROFANITY 0.017554658
+    ppinsult 0.007579244
+    ppflirtation 0.22090042
+    ppidentityattack 0.017200017
+    ppthreat 0.13066104
+    pptoxicity 0.0024816236
+    ppsexuallyexplicit 0.023336416
+    ppprofanity 0.017554658
+    ppinflammatory 0.17532656
+    sentiment 0
+    cluster 10
   ]
-  node [
-    id 352
+  node
+  [
+    id 402
     label "KXC6-wsDsBg"
     step 0
     date "2022-06-15T02:05:02Z"
@@ -9871,21 +9523,20 @@ graph [
     commentcount 273
     duration "PT1M57S"
     indegree 8
-    cluster 1
-    sentiment 0.0
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.052176617
-    PERSPECTIVE_FLIRTATION 0.22355434
-    PERSPECTIVE_INSULT 0.04185456
-    PERSPECTIVE_TOXICITY 0.030670939
-    PERSPECTIVE_IDENTITY_ATTACK 0.05611709
-    PERSPECTIVE_INFLAMMATORY 0.10938087
-    PERSPECTIVE_THREAT 0.10261811
-    PERSPECTIVE_PROFANITY 0.04074295
+    ppinsult 0.04185456
+    ppflirtation 0.22355434
+    ppidentityattack 0.05611709
+    ppthreat 0.10261811
+    pptoxicity 0.030670939
+    ppsexuallyexplicit 0.052176617
+    ppprofanity 0.04074295
+    ppinflammatory 0.10938087
+    sentiment 0
+    cluster 7
   ]
-  node [
-    id 353
+  node
+  [
+    id 403
     label "quG4JLaLiME"
     step 0
     date "2022-07-15T04:24:40Z"
@@ -9899,21 +9550,20 @@ graph [
     commentcount 33
     duration "PT2M39S"
     indegree 1
+    ppinsult 0.039888684
+    ppflirtation 0.34214243
+    ppidentityattack 0.05820454
+    ppthreat 0.11709856
+    pptoxicity 0.020408317
+    ppsexuallyexplicit 0.06619647
+    ppprofanity 0.030608343
+    ppinflammatory 0.19359015
+    sentiment 0
     cluster 3
-    sentiment 0.0
-    leftright ""
-    channeltags ""
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.06619647
-    PERSPECTIVE_FLIRTATION 0.34214243
-    PERSPECTIVE_INSULT 0.039888684
-    PERSPECTIVE_TOXICITY 0.020408317
-    PERSPECTIVE_IDENTITY_ATTACK 0.05820454
-    PERSPECTIVE_INFLAMMATORY 0.19359015
-    PERSPECTIVE_THREAT 0.11709856
-    PERSPECTIVE_PROFANITY 0.030608343
   ]
-  node [
-    id 354
+  node
+  [
+    id 404
     label "FE1dAYue0T8"
     step 0
     date "2021-09-14T04:05:58Z"
@@ -9927,21 +9577,20 @@ graph [
     commentcount -1
     duration "PT44M30S"
     indegree 2
-    cluster 1
+    ppinsult 0.07081194
+    ppflirtation 0.42677197
+    ppidentityattack 0.052010037
+    ppthreat 0.17439532
+    pptoxicity 0.014785618
+    ppsexuallyexplicit 0.024485229
+    ppprofanity 0.017267989
+    ppinflammatory 0.33215526
     sentiment -0.2263
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.024485229
-    PERSPECTIVE_FLIRTATION 0.42677197
-    PERSPECTIVE_INSULT 0.07081194
-    PERSPECTIVE_TOXICITY 0.014785618
-    PERSPECTIVE_IDENTITY_ATTACK 0.052010037
-    PERSPECTIVE_INFLAMMATORY 0.33215526
-    PERSPECTIVE_THREAT 0.17439532
-    PERSPECTIVE_PROFANITY 0.017267989
+    cluster 7
   ]
-  node [
-    id 355
+  node
+  [
+    id 405
     label "J1kP_6gavlc"
     step 0
     date "2022-04-06T08:37:21Z"
@@ -9955,21 +9604,20 @@ graph [
     commentcount 48
     duration "PT3M52S"
     indegree 12
-    cluster 1
+    ppinsult 0.07220264
+    ppflirtation 0.3532583
+    ppidentityattack 0.13016053
+    ppthreat 0.31470057
+    pptoxicity 0.10300289
+    ppsexuallyexplicit 0.1457184
+    ppprofanity 0.15087402
+    ppinflammatory 0.20861311
     sentiment 0.296
-    leftright ""
-    channeltags ""
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.1457184
-    PERSPECTIVE_FLIRTATION 0.3532583
-    PERSPECTIVE_INSULT 0.07220264
-    PERSPECTIVE_TOXICITY 0.10300289
-    PERSPECTIVE_IDENTITY_ATTACK 0.13016053
-    PERSPECTIVE_INFLAMMATORY 0.20861311
-    PERSPECTIVE_THREAT 0.31470057
-    PERSPECTIVE_PROFANITY 0.15087402
+    cluster 1
   ]
-  node [
-    id 356
+  node
+  [
+    id 406
     label "jLWun8a9P58"
     step 0
     date "2022-04-05T08:16:29Z"
@@ -9983,21 +9631,20 @@ graph [
     commentcount -1
     duration "PT3M29S"
     indegree 1
+    ppinsult 0.031606548
+    ppflirtation 0.33886716
+    ppidentityattack 0.04424465
+    ppthreat 0.14734864
+    pptoxicity 0.13835071
+    ppsexuallyexplicit 0.051553402
+    ppprofanity 0.05130252
+    ppinflammatory 0.24774069
+    sentiment 0
     cluster 1
-    sentiment 0.0
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.051553402
-    PERSPECTIVE_FLIRTATION 0.33886716
-    PERSPECTIVE_INSULT 0.031606548
-    PERSPECTIVE_TOXICITY 0.13835071
-    PERSPECTIVE_IDENTITY_ATTACK 0.04424465
-    PERSPECTIVE_INFLAMMATORY 0.24774069
-    PERSPECTIVE_THREAT 0.14734864
-    PERSPECTIVE_PROFANITY 0.05130252
   ]
-  node [
-    id 357
+  node
+  [
+    id 407
     label "kUW-voK40Fo"
     step 0
     date "2022-02-17T05:31:14Z"
@@ -10011,21 +9658,20 @@ graph [
     commentcount -1
     duration "PT3H8M36S"
     indegree 0
-    cluster 6
+    ppinsult 0.080028385
+    ppflirtation 0.28155074
+    ppidentityattack 0.14032426
+    ppthreat 0.10634671
+    pptoxicity 0.049898956
+    ppsexuallyexplicit 0.045969103
+    ppprofanity 0.04220512
+    ppinflammatory 0.17954165
     sentiment -0.2263
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.045969103
-    PERSPECTIVE_FLIRTATION 0.28155074
-    PERSPECTIVE_INSULT 0.080028385
-    PERSPECTIVE_TOXICITY 0.049898956
-    PERSPECTIVE_IDENTITY_ATTACK 0.14032426
-    PERSPECTIVE_INFLAMMATORY 0.17954165
-    PERSPECTIVE_THREAT 0.10634671
-    PERSPECTIVE_PROFANITY 0.04220512
+    cluster 6
   ]
-  node [
-    id 358
+  node
+  [
+    id 409
     label "Y1XS5RPzrs0"
     step 0
     date "2022-04-14T10:12:35Z"
@@ -10039,21 +9685,20 @@ graph [
     commentcount -1
     duration "PT1M50S"
     indegree 4
-    cluster 1
+    ppinsult 0.031689484
+    ppflirtation 0.33700597
+    ppidentityattack 0.10100206
+    ppthreat 0.26385978
+    pptoxicity 0.12180476
+    ppsexuallyexplicit 0.045709766
+    ppprofanity 0.044268273
+    ppinflammatory 0.22004217
     sentiment 0.3818
-    leftright ""
-    channeltags ""
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.045709766
-    PERSPECTIVE_FLIRTATION 0.33700597
-    PERSPECTIVE_INSULT 0.031689484
-    PERSPECTIVE_TOXICITY 0.12180476
-    PERSPECTIVE_IDENTITY_ATTACK 0.10100206
-    PERSPECTIVE_INFLAMMATORY 0.22004217
-    PERSPECTIVE_THREAT 0.26385978
-    PERSPECTIVE_PROFANITY 0.044268273
+    cluster 1
   ]
-  node [
-    id 359
+  node
+  [
+    id 411
     label "oE_wxaMM6po"
     step 0
     date "2022-01-03T18:20:54Z"
@@ -10067,21 +9712,20 @@ graph [
     commentcount 149
     duration "PT5M41S"
     indegree 1
+    ppinsult 0.23766153
+    ppflirtation 0.33410832
+    ppidentityattack 0.36472097
+    ppthreat 0.2605111
+    pptoxicity 0.19634613
+    ppsexuallyexplicit 0.18929921
+    ppprofanity 0.23015119
+    ppinflammatory 0.5330828
+    sentiment 0
     cluster 2
-    sentiment 0.0
-    leftright "R"
-    channeltags "MissingLinkMedia|PartisanRight|ReligiousConservative"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.18929921
-    PERSPECTIVE_FLIRTATION 0.33410832
-    PERSPECTIVE_INSULT 0.23766153
-    PERSPECTIVE_TOXICITY 0.19634613
-    PERSPECTIVE_IDENTITY_ATTACK 0.36472097
-    PERSPECTIVE_INFLAMMATORY 0.5330828
-    PERSPECTIVE_THREAT 0.2605111
-    PERSPECTIVE_PROFANITY 0.23015119
   ]
-  node [
-    id 360
+  node
+  [
+    id 412
     label "miQ6DsMkZD8"
     step 0
     date "2021-10-05T08:52:52Z"
@@ -10095,21 +9739,20 @@ graph [
     commentcount 7927
     duration "PT1M39S"
     indegree 6
-    cluster 11
-    sentiment 0.0
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.058062997
-    PERSPECTIVE_FLIRTATION 0.35840103
-    PERSPECTIVE_INSULT 0.08299759
-    PERSPECTIVE_TOXICITY 0.123736724
-    PERSPECTIVE_IDENTITY_ATTACK 0.091475025
-    PERSPECTIVE_INFLAMMATORY 0.25377756
-    PERSPECTIVE_THREAT 0.36836284
-    PERSPECTIVE_PROFANITY 0.07211075
+    ppinsult 0.08299759
+    ppflirtation 0.35840103
+    ppidentityattack 0.091475025
+    ppthreat 0.36836284
+    pptoxicity 0.123736724
+    ppsexuallyexplicit 0.058062997
+    ppprofanity 0.07211075
+    ppinflammatory 0.25377756
+    sentiment 0
+    cluster 10
   ]
-  node [
-    id 361
+  node
+  [
+    id 413
     label "CHUJzSoawsQ"
     step 0
     date "2021-11-09T04:16:08Z"
@@ -10123,21 +9766,20 @@ graph [
     commentcount 531
     duration "PT43S"
     indegree 0
-    cluster 7
+    ppinsult 0.028038125
+    ppflirtation 0.25181082
+    ppidentityattack 0.04102162
+    ppthreat 0.058581084
+    pptoxicity 0.0789077
+    ppsexuallyexplicit 0.025558706
+    ppprofanity 0.02422586
+    ppinflammatory 0.26420006
     sentiment -0.25
-    leftright ""
-    channeltags ""
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.025558706
-    PERSPECTIVE_FLIRTATION 0.25181082
-    PERSPECTIVE_INSULT 0.028038125
-    PERSPECTIVE_TOXICITY 0.0789077
-    PERSPECTIVE_IDENTITY_ATTACK 0.04102162
-    PERSPECTIVE_INFLAMMATORY 0.26420006
-    PERSPECTIVE_THREAT 0.058581084
-    PERSPECTIVE_PROFANITY 0.02422586
+    cluster 6
   ]
-  node [
-    id 362
+  node
+  [
+    id 414
     label "syomsggQcPU"
     step 0
     date "2021-09-22T08:39:09Z"
@@ -10151,21 +9793,20 @@ graph [
     commentcount 836
     duration "PT2M33S"
     indegree 2
-    cluster 11
-    sentiment 0.0
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.030856049
-    PERSPECTIVE_FLIRTATION 0.29363114
-    PERSPECTIVE_INSULT 0.0340846
-    PERSPECTIVE_TOXICITY 0.1250247
-    PERSPECTIVE_IDENTITY_ATTACK 0.028548434
-    PERSPECTIVE_INFLAMMATORY 0.20209537
-    PERSPECTIVE_THREAT 0.24070074
-    PERSPECTIVE_PROFANITY 0.030744044
+    ppinsult 0.0340846
+    ppflirtation 0.29363114
+    ppidentityattack 0.028548434
+    ppthreat 0.24070074
+    pptoxicity 0.1250247
+    ppsexuallyexplicit 0.030856049
+    ppprofanity 0.030744044
+    ppinflammatory 0.20209537
+    sentiment 0
+    cluster 10
   ]
-  node [
-    id 363
+  node
+  [
+    id 415
     label "-A2dbuK9fcc"
     step 0
     date "2022-03-15T02:00:00Z"
@@ -10179,21 +9820,20 @@ graph [
     commentcount 1778
     duration "PT1M52S"
     indegree 0
-    cluster 6
+    ppinsult 0.2288154
+    ppflirtation 0.413781
+    ppidentityattack 0.44211268
+    ppthreat 0.36362988
+    pptoxicity 0.22981352
+    ppsexuallyexplicit 0.1147016
+    ppprofanity 0.15179056
+    ppinflammatory 0.17409854
     sentiment -0.25
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.1147016
-    PERSPECTIVE_FLIRTATION 0.413781
-    PERSPECTIVE_INSULT 0.2288154
-    PERSPECTIVE_TOXICITY 0.22981352
-    PERSPECTIVE_IDENTITY_ATTACK 0.44211268
-    PERSPECTIVE_INFLAMMATORY 0.17409854
-    PERSPECTIVE_THREAT 0.36362988
-    PERSPECTIVE_PROFANITY 0.15179056
+    cluster 6
   ]
-  node [
-    id 364
+  node
+  [
+    id 416
     label "ipkCS0ea7Wc"
     step 0
     date "2021-07-30T13:45:02Z"
@@ -10207,21 +9847,20 @@ graph [
     commentcount 142
     duration "PT8M56S"
     indegree 1
-    cluster 5
+    ppinsult 0.13978249
+    ppflirtation 0.35798395
+    ppidentityattack 0.18701082
+    ppthreat 0.2042459
+    pptoxicity 0.015896274
+    ppsexuallyexplicit 0.22229198
+    ppprofanity 0.16424984
+    ppinflammatory 0.11919631
     sentiment -0.3818
-    leftright ""
-    channeltags ""
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.22229198
-    PERSPECTIVE_FLIRTATION 0.35798395
-    PERSPECTIVE_INSULT 0.13978249
-    PERSPECTIVE_TOXICITY 0.015896274
-    PERSPECTIVE_IDENTITY_ATTACK 0.18701082
-    PERSPECTIVE_INFLAMMATORY 0.11919631
-    PERSPECTIVE_THREAT 0.2042459
-    PERSPECTIVE_PROFANITY 0.16424984
+    cluster 5
   ]
-  node [
-    id 365
+  node
+  [
+    id 417
     label "5Do-CguTU9M"
     step 0
     date "2021-10-20T09:09:51Z"
@@ -10235,21 +9874,20 @@ graph [
     commentcount 238
     duration "PT3M25S"
     indegree 0
-    cluster 11
-    sentiment 0.0
-    leftright ""
-    channeltags ""
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.040812295
-    PERSPECTIVE_FLIRTATION 0.38010758
-    PERSPECTIVE_INSULT 0.020473178
-    PERSPECTIVE_TOXICITY 0.03994159
-    PERSPECTIVE_IDENTITY_ATTACK 0.021107921
-    PERSPECTIVE_INFLAMMATORY 0.18609886
-    PERSPECTIVE_THREAT 0.17768411
-    PERSPECTIVE_PROFANITY 0.027468456
+    ppinsult 0.020473178
+    ppflirtation 0.38010758
+    ppidentityattack 0.021107921
+    ppthreat 0.17768411
+    pptoxicity 0.03994159
+    ppsexuallyexplicit 0.040812295
+    ppprofanity 0.027468456
+    ppinflammatory 0.18609886
+    sentiment 0
+    cluster 10
   ]
-  node [
-    id 366
+  node
+  [
+    id 418
     label "O9yYXXxemPk"
     step 0
     date "2022-07-12T09:54:38Z"
@@ -10263,21 +9901,20 @@ graph [
     commentcount 0
     duration "PT2M24S"
     indegree 0
+    ppinsult 0.058812235
+    ppflirtation 0.5037202
+    ppidentityattack 0.066733986
+    ppthreat 0.22355777
+    pptoxicity 0.13521013
+    ppsexuallyexplicit 0.13552785
+    ppprofanity 0.08440458
+    ppinflammatory 0.35062292
+    sentiment 0
     cluster 3
-    sentiment 0.0
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.13552785
-    PERSPECTIVE_FLIRTATION 0.5037202
-    PERSPECTIVE_INSULT 0.058812235
-    PERSPECTIVE_TOXICITY 0.13521013
-    PERSPECTIVE_IDENTITY_ATTACK 0.066733986
-    PERSPECTIVE_INFLAMMATORY 0.35062292
-    PERSPECTIVE_THREAT 0.22355777
-    PERSPECTIVE_PROFANITY 0.08440458
   ]
-  node [
-    id 367
+  node
+  [
+    id 419
     label "_aKBdbpoyHg"
     step 0
     date "2022-07-13T12:45:00Z"
@@ -10291,21 +9928,20 @@ graph [
     commentcount 273
     duration "PT4M30S"
     indegree 9
+    ppinsult 0.034786254
+    ppflirtation 0.28055155
+    ppidentityattack 0.043000557
+    ppthreat 0.13049473
+    pptoxicity 0.04818217
+    ppsexuallyexplicit 0.039819263
+    ppprofanity 0.028851097
+    ppinflammatory 0.0064358856
+    sentiment 0
     cluster 3
-    sentiment 0.0
-    leftright "L"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.039819263
-    PERSPECTIVE_FLIRTATION 0.28055155
-    PERSPECTIVE_INSULT 0.034786254
-    PERSPECTIVE_TOXICITY 0.04818217
-    PERSPECTIVE_IDENTITY_ATTACK 0.043000557
-    PERSPECTIVE_INFLAMMATORY 0.0064358856
-    PERSPECTIVE_THREAT 0.13049473
-    PERSPECTIVE_PROFANITY 0.028851097
   ]
-  node [
-    id 368
+  node
+  [
+    id 420
     label "S9uE37pLpIw"
     step 0
     date "2022-01-30T08:19:01Z"
@@ -10319,21 +9955,20 @@ graph [
     commentcount 1525
     duration "PT2M15S"
     indegree 1
-    cluster 12
+    ppinsult 0.044964284
+    ppflirtation 0.2516636
+    ppidentityattack 0.0925399
+    ppthreat 0.045598194
+    pptoxicity 0.03599298
+    ppsexuallyexplicit 0.030677626
+    ppprofanity 0.020570885
+    ppinflammatory 0.29898775
     sentiment -0.25
-    leftright "C"
-    channeltags "Mainstream News|StateFunded"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.030677626
-    PERSPECTIVE_FLIRTATION 0.2516636
-    PERSPECTIVE_INSULT 0.044964284
-    PERSPECTIVE_TOXICITY 0.03599298
-    PERSPECTIVE_IDENTITY_ATTACK 0.0925399
-    PERSPECTIVE_INFLAMMATORY 0.29898775
-    PERSPECTIVE_THREAT 0.045598194
-    PERSPECTIVE_PROFANITY 0.020570885
+    cluster 11
   ]
-  node [
-    id 369
+  node
+  [
+    id 421
     label "o4mOt1-7DkY"
     step 0
     date "2022-01-08T19:30:02Z"
@@ -10347,21 +9982,20 @@ graph [
     commentcount 2000
     duration "PT6M22S"
     indegree 22
+    ppinsult 0.039644983
+    ppflirtation 0.2987455
+    ppidentityattack 0.101125516
+    ppthreat 0.15735196
+    pptoxicity 0.0741129
+    ppsexuallyexplicit 0.024631416
+    ppprofanity 0.030531539
+    ppinflammatory 0.14990759
+    sentiment 0
     cluster 4
-    sentiment 0.0
-    leftright "R"
-    channeltags "Mainstream News|PartisanRight"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.024631416
-    PERSPECTIVE_FLIRTATION 0.2987455
-    PERSPECTIVE_INSULT 0.039644983
-    PERSPECTIVE_TOXICITY 0.0741129
-    PERSPECTIVE_IDENTITY_ATTACK 0.101125516
-    PERSPECTIVE_INFLAMMATORY 0.14990759
-    PERSPECTIVE_THREAT 0.15735196
-    PERSPECTIVE_PROFANITY 0.030531539
   ]
-  node [
-    id 370
+  node
+  [
+    id 422
     label "-2eWn2Raw2Q"
     step 0
     date "2022-07-14T23:18:20Z"
@@ -10375,21 +10009,20 @@ graph [
     commentcount 342
     duration "PT9M48S"
     indegree 1
-    cluster 3
+    ppinsult 0.030006947
+    ppflirtation 0.24737163
+    ppidentityattack 0.037345003
+    ppthreat 0.171683
+    pptoxicity 0.054534122
+    ppsexuallyexplicit 0.059308004
+    ppprofanity 0.024635768
+    ppinflammatory 0.26503077
     sentiment 0.2023
-    leftright "L"
-    channeltags "Mainstream News|PartisanLeft|StateFunded"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.059308004
-    PERSPECTIVE_FLIRTATION 0.24737163
-    PERSPECTIVE_INSULT 0.030006947
-    PERSPECTIVE_TOXICITY 0.054534122
-    PERSPECTIVE_IDENTITY_ATTACK 0.037345003
-    PERSPECTIVE_INFLAMMATORY 0.26503077
-    PERSPECTIVE_THREAT 0.171683
-    PERSPECTIVE_PROFANITY 0.024635768
+    cluster 3
   ]
-  node [
-    id 371
+  node
+  [
+    id 423
     label "dZ9mLuOOJj4"
     step 0
     date "2021-09-13T22:45:01Z"
@@ -10403,21 +10036,20 @@ graph [
     commentcount 411
     duration "PT1H10M42S"
     indegree 0
-    cluster 8
+    ppinsult 0.06711769
+    ppflirtation 0.3589306
+    ppidentityattack 0.1341587
+    ppthreat 0.29886892
+    pptoxicity 0.13521013
+    ppsexuallyexplicit 0.14267159
+    ppprofanity 0.09230612
+    ppinflammatory 0.44198897
     sentiment 0.4939
-    leftright "L"
-    channeltags "PartisanLeft|SocialJustice"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.14267159
-    PERSPECTIVE_FLIRTATION 0.3589306
-    PERSPECTIVE_INSULT 0.06711769
-    PERSPECTIVE_TOXICITY 0.13521013
-    PERSPECTIVE_IDENTITY_ATTACK 0.1341587
-    PERSPECTIVE_INFLAMMATORY 0.44198897
-    PERSPECTIVE_THREAT 0.29886892
-    PERSPECTIVE_PROFANITY 0.09230612
+    cluster 8
   ]
-  node [
-    id 372
+  node
+  [
+    id 424
     label "f2xuoGCU6Bg"
     step 0
     date "2022-02-22T12:23:21Z"
@@ -10431,21 +10063,20 @@ graph [
     commentcount 1407
     duration "PT2M38S"
     indegree 2
+    ppinsult 0.14134333
+    ppflirtation 0.21532944
+    ppidentityattack 0.21956216
+    ppthreat 0.48581484
+    pptoxicity 0.05493369
+    ppsexuallyexplicit 0.037452858
+    ppprofanity 0.085640915
+    ppinflammatory 0.5680319
+    sentiment 0
     cluster 1
-    sentiment 0.0
-    leftright "R"
-    channeltags "Mainstream News|PartisanRight"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.037452858
-    PERSPECTIVE_FLIRTATION 0.21532944
-    PERSPECTIVE_INSULT 0.14134333
-    PERSPECTIVE_TOXICITY 0.05493369
-    PERSPECTIVE_IDENTITY_ATTACK 0.21956216
-    PERSPECTIVE_INFLAMMATORY 0.5680319
-    PERSPECTIVE_THREAT 0.48581484
-    PERSPECTIVE_PROFANITY 0.085640915
   ]
-  node [
-    id 373
+  node
+  [
+    id 425
     label "MEdg2acbVJ4"
     step 0
     date "2022-02-23T20:41:51Z"
@@ -10459,21 +10090,20 @@ graph [
     commentcount 95
     duration "PT7M32S"
     indegree 0
-    cluster 6
+    ppinsult 0.13394804
+    ppflirtation 0.37784156
+    ppidentityattack 0.12626371
+    ppthreat 0.54102546
+    pptoxicity 0.06332459
+    ppsexuallyexplicit 0.14577588
+    ppprofanity 0.15757817
+    ppinflammatory 0.37472323
     sentiment 0.2263
-    leftright ""
-    channeltags ""
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.14577588
-    PERSPECTIVE_FLIRTATION 0.37784156
-    PERSPECTIVE_INSULT 0.13394804
-    PERSPECTIVE_TOXICITY 0.06332459
-    PERSPECTIVE_IDENTITY_ATTACK 0.12626371
-    PERSPECTIVE_INFLAMMATORY 0.37472323
-    PERSPECTIVE_THREAT 0.54102546
-    PERSPECTIVE_PROFANITY 0.15757817
+    cluster 5
   ]
-  node [
-    id 374
+  node
+  [
+    id 427
     label "3lryJ2_umSg"
     step 0
     date "2021-09-10T18:57:44Z"
@@ -10487,21 +10117,20 @@ graph [
     commentcount 6877
     duration "PT14M15S"
     indegree 8
-    cluster 5
+    ppinsult 0.08453835
+    ppflirtation 0.3312015
+    ppidentityattack 0.08525078
+    ppthreat 0.4313834
+    pptoxicity 0.08170467
+    ppsexuallyexplicit 0.11429129
+    ppprofanity 0.101963356
+    ppinflammatory 0.47659883
     sentiment -0.0258
-    leftright ""
-    channeltags ""
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.11429129
-    PERSPECTIVE_FLIRTATION 0.3312015
-    PERSPECTIVE_INSULT 0.08453835
-    PERSPECTIVE_TOXICITY 0.08170467
-    PERSPECTIVE_IDENTITY_ATTACK 0.08525078
-    PERSPECTIVE_INFLAMMATORY 0.47659883
-    PERSPECTIVE_THREAT 0.4313834
-    PERSPECTIVE_PROFANITY 0.101963356
+    cluster 1
   ]
-  node [
-    id 375
+  node
+  [
+    id 428
     label "ttD_HV_gNmc"
     step 0
     date "2022-01-13T20:29:36Z"
@@ -10515,21 +10144,20 @@ graph [
     commentcount 1815
     duration "PT2M54S"
     indegree 31
-    cluster 4
+    ppinsult 0.060578227
+    ppflirtation 0.2893265
+    ppidentityattack 0.12925495
+    ppthreat 0.2308801
+    pptoxicity 0.07970683
+    ppsexuallyexplicit 0.031960588
+    ppprofanity 0.05247041
+    ppinflammatory 0.12119339
     sentiment 0.4019
-    leftright "R"
-    channeltags "Mainstream News|PartisanRight"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.031960588
-    PERSPECTIVE_FLIRTATION 0.2893265
-    PERSPECTIVE_INSULT 0.060578227
-    PERSPECTIVE_TOXICITY 0.07970683
-    PERSPECTIVE_IDENTITY_ATTACK 0.12925495
-    PERSPECTIVE_INFLAMMATORY 0.12119339
-    PERSPECTIVE_THREAT 0.2308801
-    PERSPECTIVE_PROFANITY 0.05247041
+    cluster 4
   ]
-  node [
-    id 376
+  node
+  [
+    id 429
     label "7L26ykJHfXQ"
     step 0
     date "2022-06-23T07:56:06Z"
@@ -10543,21 +10171,20 @@ graph [
     commentcount 6
     duration "PT3M5S"
     indegree 2
+    ppinsult 0.040187296
+    ppflirtation 0.35942233
+    ppidentityattack 0.04646995
+    ppthreat 0.09090031
+    pptoxicity 0.040628307
+    ppsexuallyexplicit 0.06452113
+    ppprofanity 0.052650977
+    ppinflammatory 0.2766116
+    sentiment 0
     cluster 1
-    sentiment 0.0
-    leftright ""
-    channeltags ""
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.06452113
-    PERSPECTIVE_FLIRTATION 0.35942233
-    PERSPECTIVE_INSULT 0.040187296
-    PERSPECTIVE_TOXICITY 0.040628307
-    PERSPECTIVE_IDENTITY_ATTACK 0.04646995
-    PERSPECTIVE_INFLAMMATORY 0.2766116
-    PERSPECTIVE_THREAT 0.09090031
-    PERSPECTIVE_PROFANITY 0.052650977
   ]
-  node [
-    id 377
+  node
+  [
+    id 431
     label "jAeQ0d0rlF8"
     step 0
     date "2022-07-16T00:02:31Z"
@@ -10571,21 +10198,20 @@ graph [
     commentcount 20
     duration "PT1M58S"
     indegree 3
-    cluster 3
+    ppinsult 0.05621051
+    ppflirtation 0.17200851
+    ppidentityattack 0.033883907
+    ppthreat 0.059558906
+    pptoxicity 0.0765103
+    ppsexuallyexplicit 0.019771898
+    ppprofanity 0.028388986
+    ppinflammatory 0.19779128
     sentiment 0.4939
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.019771898
-    PERSPECTIVE_FLIRTATION 0.17200851
-    PERSPECTIVE_INSULT 0.05621051
-    PERSPECTIVE_TOXICITY 0.0765103
-    PERSPECTIVE_IDENTITY_ATTACK 0.033883907
-    PERSPECTIVE_INFLAMMATORY 0.19779128
-    PERSPECTIVE_THREAT 0.059558906
-    PERSPECTIVE_PROFANITY 0.028388986
+    cluster 3
   ]
-  node [
-    id 378
+  node
+  [
+    id 432
     label "KWaHD54Rf-Y"
     step 0
     date "2021-11-07T07:55:05Z"
@@ -10599,21 +10225,20 @@ graph [
     commentcount 138
     duration "PT1M50S"
     indegree 9
-    cluster 9
+    ppinsult 0.035150792
+    ppflirtation 0.3888915
+    ppidentityattack 0.045364954
+    ppthreat 0.26062992
+    pptoxicity 0.089577995
+    ppsexuallyexplicit 0.057739202
+    ppprofanity 0.052624594
+    ppinflammatory 0.27434745
     sentiment -0.25
-    leftright ""
-    channeltags ""
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.057739202
-    PERSPECTIVE_FLIRTATION 0.3888915
-    PERSPECTIVE_INSULT 0.035150792
-    PERSPECTIVE_TOXICITY 0.089577995
-    PERSPECTIVE_IDENTITY_ATTACK 0.045364954
-    PERSPECTIVE_INFLAMMATORY 0.27434745
-    PERSPECTIVE_THREAT 0.26062992
-    PERSPECTIVE_PROFANITY 0.052624594
+    cluster 9
   ]
-  node [
-    id 379
+  node
+  [
+    id 434
     label "JLn4ykKdpG0"
     step 0
     date "2022-02-08T19:38:24Z"
@@ -10627,21 +10252,20 @@ graph [
     commentcount 2543
     duration "PT2M6S"
     indegree 2
-    cluster 2
-    sentiment 0.0
-    leftright ""
-    channeltags ""
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.04308518
-    PERSPECTIVE_FLIRTATION 0.40299955
-    PERSPECTIVE_INSULT 0.065170646
-    PERSPECTIVE_TOXICITY 0.011106567
-    PERSPECTIVE_IDENTITY_ATTACK 0.07378191
-    PERSPECTIVE_INFLAMMATORY 0.31057787
-    PERSPECTIVE_THREAT 0.26184103
-    PERSPECTIVE_PROFANITY 0.04369958
+    ppinsult 0.065170646
+    ppflirtation 0.40299955
+    ppidentityattack 0.07378191
+    ppthreat 0.26184103
+    pptoxicity 0.011106567
+    ppsexuallyexplicit 0.04308518
+    ppprofanity 0.04369958
+    ppinflammatory 0.31057787
+    sentiment 0
+    cluster 8
   ]
-  node [
-    id 380
+  node
+  [
+    id 435
     label "KBG9YHfl_Oo"
     step 0
     date "2022-07-13T21:50:38Z"
@@ -10655,21 +10279,20 @@ graph [
     commentcount 1
     duration "PT2M14S"
     indegree 1
-    cluster 3
+    ppinsult 0.03776626
+    ppflirtation 0.2891621
+    ppidentityattack 0.056155037
+    ppthreat 0.064987265
+    pptoxicity 0.015063282
+    ppsexuallyexplicit 0.030020861
+    ppprofanity 0.033813972
+    ppinflammatory 0.18137196
     sentiment -0.4767
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.030020861
-    PERSPECTIVE_FLIRTATION 0.2891621
-    PERSPECTIVE_INSULT 0.03776626
-    PERSPECTIVE_TOXICITY 0.015063282
-    PERSPECTIVE_IDENTITY_ATTACK 0.056155037
-    PERSPECTIVE_INFLAMMATORY 0.18137196
-    PERSPECTIVE_THREAT 0.064987265
-    PERSPECTIVE_PROFANITY 0.033813972
+    cluster 3
   ]
-  node [
-    id 381
+  node
+  [
+    id 437
     label "yosP8SAPmcs"
     step 0
     date "2022-04-08T14:08:35Z"
@@ -10683,21 +10306,20 @@ graph [
     commentcount 101
     duration "PT4M6S"
     indegree 0
-    cluster 8
+    ppinsult 0.03788322
+    ppflirtation 0.20678166
+    ppidentityattack 0.056259446
+    ppthreat 0.087320335
+    pptoxicity 0.017701091
+    ppsexuallyexplicit 0.0589247
+    ppprofanity 0.048179727
+    ppinflammatory 0.20986487
     sentiment 0.296
-    leftright ""
-    channeltags ""
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.0589247
-    PERSPECTIVE_FLIRTATION 0.20678166
-    PERSPECTIVE_INSULT 0.03788322
-    PERSPECTIVE_TOXICITY 0.017701091
-    PERSPECTIVE_IDENTITY_ATTACK 0.056259446
-    PERSPECTIVE_INFLAMMATORY 0.20986487
-    PERSPECTIVE_THREAT 0.087320335
-    PERSPECTIVE_PROFANITY 0.048179727
+    cluster 8
   ]
-  node [
-    id 382
+  node
+  [
+    id 438
     label "4fWwBk6TdLw"
     step 0
     date "2022-07-12T22:22:30Z"
@@ -10711,21 +10333,20 @@ graph [
     commentcount 7
     duration "PT1M32S"
     indegree 4
-    cluster 3
+    ppinsult 0.034209825
+    ppflirtation 0.16737418
+    ppidentityattack 0.037755262
+    ppthreat 0.04359069
+    pptoxicity 0.016382186
+    ppsexuallyexplicit 0.018603748
+    ppprofanity 0.020690406
+    ppinflammatory 0.14766973
     sentiment -0.4215
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.018603748
-    PERSPECTIVE_FLIRTATION 0.16737418
-    PERSPECTIVE_INSULT 0.034209825
-    PERSPECTIVE_TOXICITY 0.016382186
-    PERSPECTIVE_IDENTITY_ATTACK 0.037755262
-    PERSPECTIVE_INFLAMMATORY 0.14766973
-    PERSPECTIVE_THREAT 0.04359069
-    PERSPECTIVE_PROFANITY 0.020690406
+    cluster 3
   ]
-  node [
-    id 383
+  node
+  [
+    id 439
     label "FQczefQNt7w"
     step 0
     date "2022-02-21T11:31:43Z"
@@ -10739,21 +10360,20 @@ graph [
     commentcount 9118
     duration "PT6M39S"
     indegree 4
-    cluster 2
+    ppinsult 0.14977613
+    ppflirtation 0.22922704
+    ppidentityattack 0.18126749
+    ppthreat 0.1580054
+    pptoxicity 0.12695669
+    ppsexuallyexplicit 0.034665164
+    ppprofanity 0.06442956
+    ppinflammatory 0.50448006
     sentiment -0.5719
-    leftright "R"
-    channeltags "Mainstream News|PartisanRight"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.034665164
-    PERSPECTIVE_FLIRTATION 0.22922704
-    PERSPECTIVE_INSULT 0.14977613
-    PERSPECTIVE_TOXICITY 0.12695669
-    PERSPECTIVE_IDENTITY_ATTACK 0.18126749
-    PERSPECTIVE_INFLAMMATORY 0.50448006
-    PERSPECTIVE_THREAT 0.1580054
-    PERSPECTIVE_PROFANITY 0.06442956
+    cluster 2
   ]
-  node [
-    id 384
+  node
+  [
+    id 440
     label "ya-Ek6C2xV0"
     step 0
     date "2022-02-08T23:10:17Z"
@@ -10767,21 +10387,20 @@ graph [
     commentcount 810
     duration "PT3M57S"
     indegree 0
+    ppinsult 0.051681787
+    ppflirtation 0.17121997
+    ppidentityattack 0.03726578
+    ppthreat 0.079931155
+    pptoxicity 0.016937515
+    ppsexuallyexplicit 0.018015696
+    ppprofanity 0.024034036
+    ppinflammatory 0.34735167
+    sentiment 0
     cluster 1
-    sentiment 0.0
-    leftright ""
-    channeltags ""
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.018015696
-    PERSPECTIVE_FLIRTATION 0.17121997
-    PERSPECTIVE_INSULT 0.051681787
-    PERSPECTIVE_TOXICITY 0.016937515
-    PERSPECTIVE_IDENTITY_ATTACK 0.03726578
-    PERSPECTIVE_INFLAMMATORY 0.34735167
-    PERSPECTIVE_THREAT 0.079931155
-    PERSPECTIVE_PROFANITY 0.024034036
   ]
-  node [
-    id 385
+  node
+  [
+    id 441
     label "7xnoWh7wcz4"
     step 0
     date "2022-03-13T17:24:33Z"
@@ -10795,21 +10414,20 @@ graph [
     commentcount 78
     duration "PT25M14S"
     indegree 2
-    cluster 6
-    sentiment 0.0
-    leftright ""
-    channeltags ""
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.06638367
-    PERSPECTIVE_FLIRTATION 0.41009113
-    PERSPECTIVE_INSULT 0.020184534
-    PERSPECTIVE_TOXICITY 0.0012494888
-    PERSPECTIVE_IDENTITY_ATTACK 0.029231142
-    PERSPECTIVE_INFLAMMATORY 0.057371844
-    PERSPECTIVE_THREAT 0.17066275
-    PERSPECTIVE_PROFANITY 0.033147972
+    ppinsult 0.020184534
+    ppflirtation 0.41009113
+    ppidentityattack 0.029231142
+    ppthreat 0.17066275
+    pptoxicity 0.0012494888
+    ppsexuallyexplicit 0.06638367
+    ppprofanity 0.033147972
+    ppinflammatory 0.057371844
+    sentiment 0
+    cluster 5
   ]
-  node [
-    id 386
+  node
+  [
+    id 442
     label "fpSxz1Qw-7Y"
     step 0
     date "2022-01-25T20:48:22Z"
@@ -10823,21 +10441,20 @@ graph [
     commentcount 1785
     duration "PT2M38S"
     indegree 0
+    ppinsult 0.026121989
+    ppflirtation 0.35638124
+    ppidentityattack 0.048839163
+    ppthreat 0.12943892
+    pptoxicity 0.03187269
+    ppsexuallyexplicit 0.096289314
+    ppprofanity 0.038743883
+    ppinflammatory 0.3738333
+    sentiment 0
     cluster 4
-    sentiment 0.0
-    leftright ""
-    channeltags ""
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.096289314
-    PERSPECTIVE_FLIRTATION 0.35638124
-    PERSPECTIVE_INSULT 0.026121989
-    PERSPECTIVE_TOXICITY 0.03187269
-    PERSPECTIVE_IDENTITY_ATTACK 0.048839163
-    PERSPECTIVE_INFLAMMATORY 0.3738333
-    PERSPECTIVE_THREAT 0.12943892
-    PERSPECTIVE_PROFANITY 0.038743883
   ]
-  node [
-    id 387
+  node
+  [
+    id 444
     label "PNOEtyRVppg"
     step 0
     date "2022-01-11T05:05:43Z"
@@ -10851,21 +10468,20 @@ graph [
     commentcount 1
     duration "PT2M42S"
     indegree 0
+    ppinsult 0.029489083
+    ppflirtation 0.24942772
+    ppidentityattack 0.026203914
+    ppthreat 0.12201984
+    pptoxicity 0.018325835
+    ppsexuallyexplicit 0.031242907
+    ppprofanity 0.020981515
+    ppinflammatory 0.14013359
+    sentiment 0
     cluster 4
-    sentiment 0.0
-    leftright ""
-    channeltags ""
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.031242907
-    PERSPECTIVE_FLIRTATION 0.24942772
-    PERSPECTIVE_INSULT 0.029489083
-    PERSPECTIVE_TOXICITY 0.018325835
-    PERSPECTIVE_IDENTITY_ATTACK 0.026203914
-    PERSPECTIVE_INFLAMMATORY 0.14013359
-    PERSPECTIVE_THREAT 0.12201984
-    PERSPECTIVE_PROFANITY 0.020981515
   ]
-  node [
-    id 388
+  node
+  [
+    id 447
     label "borqfrOboQo"
     step 0
     date "2022-07-08T22:58:57Z"
@@ -10879,21 +10495,20 @@ graph [
     commentcount 1540
     duration "PT1M43S"
     indegree 5
+    ppinsult 0.048689798
+    ppflirtation 0.19722614
+    ppidentityattack 0.03696056
+    ppthreat 0.06566946
+    pptoxicity 0.14777246
+    ppsexuallyexplicit 0.03878531
+    ppprofanity 0.036708325
+    ppinflammatory 0.5271024
+    sentiment 0
     cluster 3
-    sentiment 0.0
-    leftright "L"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.03878531
-    PERSPECTIVE_FLIRTATION 0.19722614
-    PERSPECTIVE_INSULT 0.048689798
-    PERSPECTIVE_TOXICITY 0.14777246
-    PERSPECTIVE_IDENTITY_ATTACK 0.03696056
-    PERSPECTIVE_INFLAMMATORY 0.5271024
-    PERSPECTIVE_THREAT 0.06566946
-    PERSPECTIVE_PROFANITY 0.036708325
   ]
-  node [
-    id 389
+  node
+  [
+    id 448
     label "d4wmGQs2jlM"
     step 0
     date "2022-02-03T19:03:42Z"
@@ -10907,21 +10522,20 @@ graph [
     commentcount 41
     duration "PT1M19S"
     indegree 0
+    ppinsult 0.0577324
+    ppflirtation 0.27214548
+    ppidentityattack 0.11812375
+    ppthreat 0.13804972
+    pptoxicity 0.112788886
+    ppsexuallyexplicit 0.08067637
+    ppprofanity 0.059306428
+    ppinflammatory 0.28098458
+    sentiment 0
     cluster 1
-    sentiment 0.0
-    leftright "R"
-    channeltags "AntiSJW|Mainstream News|PartisanRight"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.08067637
-    PERSPECTIVE_FLIRTATION 0.27214548
-    PERSPECTIVE_INSULT 0.0577324
-    PERSPECTIVE_TOXICITY 0.112788886
-    PERSPECTIVE_IDENTITY_ATTACK 0.11812375
-    PERSPECTIVE_INFLAMMATORY 0.28098458
-    PERSPECTIVE_THREAT 0.13804972
-    PERSPECTIVE_PROFANITY 0.059306428
   ]
-  node [
-    id 390
+  node
+  [
+    id 449
     label "-_n_fZM1Cm8"
     step 0
     date "2022-01-31T10:42:17Z"
@@ -10935,21 +10549,20 @@ graph [
     commentcount 271
     duration "PT1M4S"
     indegree 0
-    cluster 1
+    ppinsult 0.11638262
+    ppflirtation 0.29965258
+    ppidentityattack 0.13406143
+    ppthreat 0.11685202
+    pptoxicity 0.082104236
+    ppsexuallyexplicit 0.034032367
+    ppprofanity 0.0875427
+    ppinflammatory 0.08648887
     sentiment 0.4767
-    leftright ""
-    channeltags ""
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.034032367
-    PERSPECTIVE_FLIRTATION 0.29965258
-    PERSPECTIVE_INSULT 0.11638262
-    PERSPECTIVE_TOXICITY 0.082104236
-    PERSPECTIVE_IDENTITY_ATTACK 0.13406143
-    PERSPECTIVE_INFLAMMATORY 0.08648887
-    PERSPECTIVE_THREAT 0.11685202
-    PERSPECTIVE_PROFANITY 0.0875427
+    cluster 1
   ]
-  node [
-    id 391
+  node
+  [
+    id 450
     label "LjquptV7neQ"
     step 0
     date "2022-01-10T22:48:27Z"
@@ -10963,21 +10576,20 @@ graph [
     commentcount 4
     duration "PT1M11S"
     indegree 0
-    cluster 4
-    sentiment 0.0
-    leftright ""
-    channeltags ""
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.017010923
-    PERSPECTIVE_FLIRTATION 0.22722208
-    PERSPECTIVE_INSULT 0.05457111
-    PERSPECTIVE_TOXICITY 0.0121478075
-    PERSPECTIVE_IDENTITY_ATTACK 0.04341162
-    PERSPECTIVE_INFLAMMATORY 0.35758954
-    PERSPECTIVE_THREAT 0.04838405
-    PERSPECTIVE_PROFANITY 0.01869437
+    ppinsult 0.05457111
+    ppflirtation 0.22722208
+    ppidentityattack 0.04341162
+    ppthreat 0.04838405
+    pptoxicity 0.0121478075
+    ppsexuallyexplicit 0.017010923
+    ppprofanity 0.01869437
+    ppinflammatory 0.35758954
+    sentiment 0
+    cluster 9
   ]
-  node [
-    id 392
+  node
+  [
+    id 451
     label "k0Rv-KgNWcw"
     step 0
     date "2022-07-14T10:58:10Z"
@@ -10991,21 +10603,20 @@ graph [
     commentcount -1
     duration "PT1M34S"
     indegree 4
-    cluster 3
+    ppinsult 0.065841496
+    ppflirtation 0.21521719
+    ppidentityattack 0.041972738
+    ppthreat 0.08686134
+    pptoxicity 0.031014297
+    ppsexuallyexplicit 0.035155904
+    ppprofanity 0.07043356
+    ppinflammatory 0.19157514
     sentiment 0.6908
-    leftright ""
-    channeltags ""
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.035155904
-    PERSPECTIVE_FLIRTATION 0.21521719
-    PERSPECTIVE_INSULT 0.065841496
-    PERSPECTIVE_TOXICITY 0.031014297
-    PERSPECTIVE_IDENTITY_ATTACK 0.041972738
-    PERSPECTIVE_INFLAMMATORY 0.19157514
-    PERSPECTIVE_THREAT 0.08686134
-    PERSPECTIVE_PROFANITY 0.07043356
+    cluster 3
   ]
-  node [
-    id 393
+  node
+  [
+    id 452
     label "eoVExuTECFY"
     step 0
     date "2022-01-06T20:39:08Z"
@@ -11019,21 +10630,20 @@ graph [
     commentcount 11
     duration "PT1M16S"
     indegree 0
+    ppinsult 0.10594819
+    ppflirtation 0.26024762
+    ppidentityattack 0.047643423
+    ppthreat 0.064229235
+    pptoxicity 0.019714156
+    ppsexuallyexplicit 0.05447415
+    ppprofanity 0.080087245
+    ppinflammatory 0.1626834
+    sentiment 0
     cluster 4
-    sentiment 0.0
-    leftright ""
-    channeltags ""
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.05447415
-    PERSPECTIVE_FLIRTATION 0.26024762
-    PERSPECTIVE_INSULT 0.10594819
-    PERSPECTIVE_TOXICITY 0.019714156
-    PERSPECTIVE_IDENTITY_ATTACK 0.047643423
-    PERSPECTIVE_INFLAMMATORY 0.1626834
-    PERSPECTIVE_THREAT 0.064229235
-    PERSPECTIVE_PROFANITY 0.080087245
   ]
-  node [
-    id 394
+  node
+  [
+    id 454
     label "osVj3-Qbp-Q"
     step 0
     date "2021-11-19T21:58:25Z"
@@ -11047,21 +10657,20 @@ graph [
     commentcount 49
     duration "PT1M36S"
     indegree 0
-    cluster 10
-    sentiment 0.0
-    leftright ""
-    channeltags ""
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.104690775
-    PERSPECTIVE_FLIRTATION 0.31297785
-    PERSPECTIVE_INSULT 0.050984476
-    PERSPECTIVE_TOXICITY 0.009509998
-    PERSPECTIVE_IDENTITY_ATTACK 0.047332473
-    PERSPECTIVE_INFLAMMATORY 0.08875853
-    PERSPECTIVE_THREAT 0.11976698
-    PERSPECTIVE_PROFANITY 0.06752801
+    ppinsult 0.050984476
+    ppflirtation 0.31297785
+    ppidentityattack 0.047332473
+    ppthreat 0.11976698
+    pptoxicity 0.009509998
+    ppsexuallyexplicit 0.104690775
+    ppprofanity 0.06752801
+    ppinflammatory 0.08875853
+    sentiment 0
+    cluster 9
   ]
-  node [
-    id 395
+  node
+  [
+    id 455
     label "hu_JM29vjvo"
     step 0
     date "2022-07-14T02:49:03Z"
@@ -11075,21 +10684,20 @@ graph [
     commentcount -1
     duration "PT4M29S"
     indegree 2
+    ppinsult 0.03032282
+    ppflirtation 0.18617108
+    ppidentityattack 0.016407128
+    ppthreat 0.042226877
+    pptoxicity 0.34388447
+    ppsexuallyexplicit 0.013854588
+    ppprofanity 0.0077327117
+    ppinflammatory 0.33214757
+    sentiment 0
     cluster 3
-    sentiment 0.0
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.013854588
-    PERSPECTIVE_FLIRTATION 0.18617108
-    PERSPECTIVE_INSULT 0.03032282
-    PERSPECTIVE_TOXICITY 0.34388447
-    PERSPECTIVE_IDENTITY_ATTACK 0.016407128
-    PERSPECTIVE_INFLAMMATORY 0.33214757
-    PERSPECTIVE_THREAT 0.042226877
-    PERSPECTIVE_PROFANITY 0.0077327117
   ]
-  node [
-    id 396
+  node
+  [
+    id 456
     label "Sp4tuLZFOZE"
     step 0
     date "2022-07-15T23:36:39Z"
@@ -11103,21 +10711,20 @@ graph [
     commentcount 34
     duration "PT3M12S"
     indegree 0
-    cluster 3
+    ppinsult 0.105430886
+    ppflirtation 0.44623944
+    ppidentityattack 0.17590018
+    ppthreat 0.27268004
+    pptoxicity 0.19042583
+    ppsexuallyexplicit 0.05591342
+    ppprofanity 0.076331414
+    ppinflammatory 0.063532405
     sentiment -0.296
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.05591342
-    PERSPECTIVE_FLIRTATION 0.44623944
-    PERSPECTIVE_INSULT 0.105430886
-    PERSPECTIVE_TOXICITY 0.19042583
-    PERSPECTIVE_IDENTITY_ATTACK 0.17590018
-    PERSPECTIVE_INFLAMMATORY 0.063532405
-    PERSPECTIVE_THREAT 0.27268004
-    PERSPECTIVE_PROFANITY 0.076331414
+    cluster 3
   ]
-  node [
-    id 397
+  node
+  [
+    id 458
     label "wTSdrTg7Hbc"
     step 0
     date "2022-01-13T23:45:02Z"
@@ -11131,21 +10738,20 @@ graph [
     commentcount 512
     duration "PT1M"
     indegree 0
-    cluster 4
+    ppinsult 0.0382787
+    ppflirtation 0.2161798
+    ppidentityattack 0.039908897
+    ppthreat 0.060817916
+    pptoxicity 0.030155903
+    ppsexuallyexplicit 0.047558475
+    ppprofanity 0.046106387
+    ppinflammatory 0.2008828
     sentiment 0.6908
-    leftright ""
-    channeltags ""
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.047558475
-    PERSPECTIVE_FLIRTATION 0.2161798
-    PERSPECTIVE_INSULT 0.0382787
-    PERSPECTIVE_TOXICITY 0.030155903
-    PERSPECTIVE_IDENTITY_ATTACK 0.039908897
-    PERSPECTIVE_INFLAMMATORY 0.2008828
-    PERSPECTIVE_THREAT 0.060817916
-    PERSPECTIVE_PROFANITY 0.046106387
+    cluster 4
   ]
-  node [
-    id 398
+  node
+  [
+    id 462
     label "rdqzQp_1u3Q"
     step 0
     date "2021-10-26T14:35:48Z"
@@ -11159,21 +10765,20 @@ graph [
     commentcount 21
     duration "PT5M17S"
     indegree 0
-    cluster 1
+    ppinsult 0.139275
+    ppflirtation 0.2714526
+    ppidentityattack 0.24885786
+    ppthreat 0.16147225
+    pptoxicity 0.013397297
+    ppsexuallyexplicit 0.08931664
+    ppprofanity 0.101134114
+    ppinflammatory 0.12059259
     sentiment 0.5106
-    leftright ""
-    channeltags ""
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.08931664
-    PERSPECTIVE_FLIRTATION 0.2714526
-    PERSPECTIVE_INSULT 0.139275
-    PERSPECTIVE_TOXICITY 0.013397297
-    PERSPECTIVE_IDENTITY_ATTACK 0.24885786
-    PERSPECTIVE_INFLAMMATORY 0.12059259
-    PERSPECTIVE_THREAT 0.16147225
-    PERSPECTIVE_PROFANITY 0.101134114
+    cluster 1
   ]
-  node [
-    id 399
+  node
+  [
+    id 463
     label "8zHVh7TJHqc"
     step 0
     date "2021-12-13T22:45:01Z"
@@ -11187,21 +10792,20 @@ graph [
     commentcount 700
     duration "PT2M53S"
     indegree 0
+    ppinsult 0.1321806
+    ppflirtation 0.52843267
+    ppidentityattack 0.14880471
+    ppthreat 0.44348523
+    pptoxicity 0.018048171
+    ppsexuallyexplicit 0.24976696
+    ppprofanity 0.1885821
+    ppinflammatory 0.26734588
+    sentiment 0
     cluster 9
-    sentiment 0.0
-    leftright ""
-    channeltags ""
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.24976696
-    PERSPECTIVE_FLIRTATION 0.52843267
-    PERSPECTIVE_INSULT 0.1321806
-    PERSPECTIVE_TOXICITY 0.018048171
-    PERSPECTIVE_IDENTITY_ATTACK 0.14880471
-    PERSPECTIVE_INFLAMMATORY 0.26734588
-    PERSPECTIVE_THREAT 0.44348523
-    PERSPECTIVE_PROFANITY 0.1885821
   ]
-  node [
-    id 400
+  node
+  [
+    id 465
     label "kyCgNqargUA"
     step 0
     date "2022-01-29T00:35:33Z"
@@ -11215,21 +10819,20 @@ graph [
     commentcount 6
     duration "PT2M50S"
     indegree 0
-    cluster 5
+    ppinsult 0.13882515
+    ppflirtation 0.34516975
+    ppidentityattack 0.13383457
+    ppthreat 0.25241014
+    pptoxicity 0.024662184
+    ppsexuallyexplicit 0.06631625
+    ppprofanity 0.085610695
+    ppinflammatory 0.25713187
     sentiment -0.2732
-    leftright ""
-    channeltags ""
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.06631625
-    PERSPECTIVE_FLIRTATION 0.34516975
-    PERSPECTIVE_INSULT 0.13882515
-    PERSPECTIVE_TOXICITY 0.024662184
-    PERSPECTIVE_IDENTITY_ATTACK 0.13383457
-    PERSPECTIVE_INFLAMMATORY 0.25713187
-    PERSPECTIVE_THREAT 0.25241014
-    PERSPECTIVE_PROFANITY 0.085610695
+    cluster 9
   ]
-  node [
-    id 401
+  node
+  [
+    id 468
     label "Tv6UyOaeQp0"
     step 0
     date "2022-07-14T00:00:15Z"
@@ -11243,21 +10846,20 @@ graph [
     commentcount 541
     duration "PT4M18S"
     indegree 4
-    cluster 3
+    ppinsult 0.31355965
+    ppflirtation 0.4270994
+    ppidentityattack 0.31384477
+    ppthreat 0.44391415
+    pptoxicity 0.263611
+    ppsexuallyexplicit 0.13450049
+    ppprofanity 0.13209419
+    ppinflammatory 0.0050340053
     sentiment -0.6249
-    leftright "C"
-    channeltags "Mainstream News"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.13450049
-    PERSPECTIVE_FLIRTATION 0.4270994
-    PERSPECTIVE_INSULT 0.31355965
-    PERSPECTIVE_TOXICITY 0.263611
-    PERSPECTIVE_IDENTITY_ATTACK 0.31384477
-    PERSPECTIVE_INFLAMMATORY 0.0050340053
-    PERSPECTIVE_THREAT 0.44391415
-    PERSPECTIVE_PROFANITY 0.13209419
+    cluster 3
   ]
-  node [
-    id 402
+  node
+  [
+    id 469
     label "lVfq83_BpZg"
     step 0
     date "2021-12-07T12:33:17Z"
@@ -11271,21 +10873,20 @@ graph [
     commentcount 68
     duration "PT1M35S"
     indegree 0
-    cluster 7
+    ppinsult 0.03152296
+    ppflirtation 0.18555154
+    ppidentityattack 0.03765293
+    ppthreat 0.05497888
+    pptoxicity 0.011661896
+    ppsexuallyexplicit 0.06887541
+    ppprofanity 0.049517076
+    ppinflammatory 0.3607562
     sentiment -0.25
-    leftright ""
-    channeltags ""
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.06887541
-    PERSPECTIVE_FLIRTATION 0.18555154
-    PERSPECTIVE_INSULT 0.03152296
-    PERSPECTIVE_TOXICITY 0.011661896
-    PERSPECTIVE_IDENTITY_ATTACK 0.03765293
-    PERSPECTIVE_INFLAMMATORY 0.3607562
-    PERSPECTIVE_THREAT 0.05497888
-    PERSPECTIVE_PROFANITY 0.049517076
+    cluster 6
   ]
-  node [
-    id 403
+  node
+  [
+    id 471
     label "2JQSVaV7zGw"
     step 0
     date "2022-02-18T02:16:16Z"
@@ -11299,21 +10900,20 @@ graph [
     commentcount 553
     duration "PT1M58S"
     indegree 0
-    cluster 6
+    ppinsult 0.052999116
+    ppflirtation 0.2535152
+    ppidentityattack 0.12905273
+    ppthreat 0.13550058
+    pptoxicity 0.033932835
+    ppsexuallyexplicit 0.020220013
+    ppprofanity 0.029654363
+    ppinflammatory 0.2678891
     sentiment 0.2023
-    leftright ""
-    channeltags ""
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.020220013
-    PERSPECTIVE_FLIRTATION 0.2535152
-    PERSPECTIVE_INSULT 0.052999116
-    PERSPECTIVE_TOXICITY 0.033932835
-    PERSPECTIVE_IDENTITY_ATTACK 0.12905273
-    PERSPECTIVE_INFLAMMATORY 0.2678891
-    PERSPECTIVE_THREAT 0.13550058
-    PERSPECTIVE_PROFANITY 0.029654363
+    cluster 5
   ]
-  node [
-    id 404
+  node
+  [
+    id 472
     label "JOYIQlRpZvk"
     step 0
     date "2021-10-02T20:09:29Z"
@@ -11327,21 +10927,20 @@ graph [
     commentcount 6
     duration "PT11M34S"
     indegree 0
-    cluster 10
-    sentiment 0.0
-    leftright ""
-    channeltags ""
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.036593158
-    PERSPECTIVE_FLIRTATION 0.2286541
-    PERSPECTIVE_INSULT 0.054419395
-    PERSPECTIVE_TOXICITY 0.018464668
-    PERSPECTIVE_IDENTITY_ATTACK 0.036575787
-    PERSPECTIVE_INFLAMMATORY 0.35972747
-    PERSPECTIVE_THREAT 0.09532769
-    PERSPECTIVE_PROFANITY 0.03340506
+    ppinsult 0.054419395
+    ppflirtation 0.2286541
+    ppidentityattack 0.036575787
+    ppthreat 0.09532769
+    pptoxicity 0.018464668
+    ppsexuallyexplicit 0.036593158
+    ppprofanity 0.03340506
+    ppinflammatory 0.35972747
+    sentiment 0
+    cluster 9
   ]
-  node [
-    id 405
+  node
+  [
+    id 474
     label "Epma6JyU7-E"
     step 0
     date "2022-07-15T22:48:55Z"
@@ -11355,21 +10954,20 @@ graph [
     commentcount 1
     duration "PT6M40S"
     indegree 0
-    cluster 3
+    ppinsult 0.11539095
+    ppflirtation 0.21223532
+    ppidentityattack 0.08651788
+    ppthreat 0.046849165
+    pptoxicity 0.112788886
+    ppsexuallyexplicit 0.01970141
+    ppprofanity 0.024716968
+    ppinflammatory 0.28432345
     sentiment -0.4767
-    leftright ""
-    channeltags ""
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.01970141
-    PERSPECTIVE_FLIRTATION 0.21223532
-    PERSPECTIVE_INSULT 0.11539095
-    PERSPECTIVE_TOXICITY 0.112788886
-    PERSPECTIVE_IDENTITY_ATTACK 0.08651788
-    PERSPECTIVE_INFLAMMATORY 0.28432345
-    PERSPECTIVE_THREAT 0.046849165
-    PERSPECTIVE_PROFANITY 0.024716968
+    cluster 3
   ]
-  node [
-    id 406
+  node
+  [
+    id 475
     label "tWBVne180Mg"
     step 0
     date "2021-10-15T18:45:05Z"
@@ -11383,21 +10981,20 @@ graph [
     commentcount 55
     duration "PT7M43S"
     indegree 0
-    cluster 5
+    ppinsult 0.12032549
+    ppflirtation 0.47494668
+    ppidentityattack 0.17886613
+    ppthreat 0.2468271
+    pptoxicity 0.039254878
+    ppsexuallyexplicit 0.047374334
+    ppprofanity 0.058330443
+    ppinflammatory 0.14346987
     sentiment 0.3182
-    leftright ""
-    channeltags ""
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.047374334
-    PERSPECTIVE_FLIRTATION 0.47494668
-    PERSPECTIVE_INSULT 0.12032549
-    PERSPECTIVE_TOXICITY 0.039254878
-    PERSPECTIVE_IDENTITY_ATTACK 0.17886613
-    PERSPECTIVE_INFLAMMATORY 0.14346987
-    PERSPECTIVE_THREAT 0.2468271
-    PERSPECTIVE_PROFANITY 0.058330443
+    cluster 5
   ]
-  node [
-    id 407
+  node
+  [
+    id 478
     label "wn4JNFkVXP8"
     step 0
     date "2022-07-11T08:41:49Z"
@@ -11411,21 +11008,20 @@ graph [
     commentcount 56
     duration "PT7M49S"
     indegree 2
-    cluster 1
+    ppinsult 0.014844724
+    ppflirtation 0.26667774
+    ppidentityattack 0.023429664
+    ppthreat 0.043846376
+    pptoxicity 0.16965903
+    ppsexuallyexplicit 0.044054803
+    ppprofanity 0.017849235
+    ppinflammatory 0.09477151
     sentiment -0.0516
-    leftright ""
-    channeltags ""
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.044054803
-    PERSPECTIVE_FLIRTATION 0.26667774
-    PERSPECTIVE_INSULT 0.014844724
-    PERSPECTIVE_TOXICITY 0.16965903
-    PERSPECTIVE_IDENTITY_ATTACK 0.023429664
-    PERSPECTIVE_INFLAMMATORY 0.09477151
-    PERSPECTIVE_THREAT 0.043846376
-    PERSPECTIVE_PROFANITY 0.017849235
+    cluster 1
   ]
-  node [
-    id 408
+  node
+  [
+    id 479
     label "SxNBpzUYyQM"
     step 0
     date "2022-07-15T15:18:07Z"
@@ -11439,21 +11035,20 @@ graph [
     commentcount 424
     duration "PT12M50S"
     indegree 1
+    ppinsult 0.097016945
+    ppflirtation 0.3830342
+    ppidentityattack 0.060094517
+    ppthreat 0.16793919
+    pptoxicity 0.026035614
+    ppsexuallyexplicit 0.062166817
+    ppprofanity 0.07326642
+    ppinflammatory 0.32067207
+    sentiment 0
     cluster 3
-    sentiment 0.0
-    leftright "R"
-    channeltags "AntiSJW|PartisanRight"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.062166817
-    PERSPECTIVE_FLIRTATION 0.3830342
-    PERSPECTIVE_INSULT 0.097016945
-    PERSPECTIVE_TOXICITY 0.026035614
-    PERSPECTIVE_IDENTITY_ATTACK 0.060094517
-    PERSPECTIVE_INFLAMMATORY 0.32067207
-    PERSPECTIVE_THREAT 0.16793919
-    PERSPECTIVE_PROFANITY 0.07326642
   ]
-  node [
-    id 409
+  node
+  [
+    id 481
     label "rzcagMKdoMc"
     step 0
     date "2022-07-11T14:10:35Z"
@@ -11467,21 +11062,20 @@ graph [
     commentcount 161
     duration "PT18M42S"
     indegree 1
-    cluster 2
+    ppinsult 0.1847809
+    ppflirtation 0.40026805
+    ppidentityattack 0.122852914
+    ppthreat 0.6033724
+    pptoxicity 0.26589394
+    ppsexuallyexplicit 0.09198934
+    ppprofanity 0.15731539
+    ppinflammatory 0.24583922
     sentiment -0.3612
-    leftright ""
-    channeltags ""
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.09198934
-    PERSPECTIVE_FLIRTATION 0.40026805
-    PERSPECTIVE_INSULT 0.1847809
-    PERSPECTIVE_TOXICITY 0.26589394
-    PERSPECTIVE_IDENTITY_ATTACK 0.122852914
-    PERSPECTIVE_INFLAMMATORY 0.24583922
-    PERSPECTIVE_THREAT 0.6033724
-    PERSPECTIVE_PROFANITY 0.15731539
+    cluster 2
   ]
-  node [
-    id 410
+  node
+  [
+    id 482
     label "IALVZfgXWL4"
     step 0
     date "2021-11-01T08:29:20Z"
@@ -11495,21 +11089,20 @@ graph [
     commentcount 31
     duration "PT2M45S"
     indegree 0
-    cluster 7
-    sentiment 0.0
-    leftright ""
-    channeltags ""
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.026236169
-    PERSPECTIVE_FLIRTATION 0.21530318
-    PERSPECTIVE_INSULT 0.6716253
-    PERSPECTIVE_TOXICITY 0.39230084
-    PERSPECTIVE_IDENTITY_ATTACK 0.20554586
-    PERSPECTIVE_INFLAMMATORY 0.27666372
-    PERSPECTIVE_THREAT 0.123927474
-    PERSPECTIVE_PROFANITY 0.19396743
+    ppinsult 0.6716253
+    ppflirtation 0.21530318
+    ppidentityattack 0.20554586
+    ppthreat 0.123927474
+    pptoxicity 0.39230084
+    ppsexuallyexplicit 0.026236169
+    ppprofanity 0.19396743
+    ppinflammatory 0.27666372
+    sentiment 0
+    cluster 6
   ]
-  node [
-    id 411
+  node
+  [
+    id 483
     label "bBQhPZbEjQU"
     step 0
     date "2021-10-28T22:00:11Z"
@@ -11523,21 +11116,20 @@ graph [
     commentcount 608
     duration "PT4M1S"
     indegree 3
-    cluster 9
+    ppinsult 0.09450113
+    ppflirtation 0.41748512
+    ppidentityattack 0.15479037
+    ppthreat 0.27038458
+    pptoxicity 0.10828095
+    ppsexuallyexplicit 0.076034896
+    ppprofanity 0.094870314
+    ppinflammatory 0.17939328
     sentiment 0.3612
-    leftright ""
-    channeltags ""
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.076034896
-    PERSPECTIVE_FLIRTATION 0.41748512
-    PERSPECTIVE_INSULT 0.09450113
-    PERSPECTIVE_TOXICITY 0.10828095
-    PERSPECTIVE_IDENTITY_ATTACK 0.15479037
-    PERSPECTIVE_INFLAMMATORY 0.17939328
-    PERSPECTIVE_THREAT 0.27038458
-    PERSPECTIVE_PROFANITY 0.094870314
+    cluster 9
   ]
-  node [
-    id 412
+  node
+  [
+    id 485
     label "KfiwtPiPq4s"
     step 0
     date "2022-07-15T21:16:45Z"
@@ -11551,21 +11143,20 @@ graph [
     commentcount -1
     duration "PT1M7S"
     indegree 0
+    ppinsult 0.04912385
+    ppflirtation 0.23439056
+    ppidentityattack 0.055746894
+    ppthreat 0.11943444
+    pptoxicity 0.057331093
+    ppsexuallyexplicit 0.10546011
+    ppprofanity 0.086627744
+    ppinflammatory 0.3062984
+    sentiment 0
     cluster 3
-    sentiment 0.0
-    leftright ""
-    channeltags ""
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.10546011
-    PERSPECTIVE_FLIRTATION 0.23439056
-    PERSPECTIVE_INSULT 0.04912385
-    PERSPECTIVE_TOXICITY 0.057331093
-    PERSPECTIVE_IDENTITY_ATTACK 0.055746894
-    PERSPECTIVE_INFLAMMATORY 0.3062984
-    PERSPECTIVE_THREAT 0.11943444
-    PERSPECTIVE_PROFANITY 0.086627744
   ]
-  node [
-    id 413
+  node
+  [
+    id 487
     label "FOMr07Zk4m8"
     step 0
     date "2022-07-13T06:25:02Z"
@@ -11579,21 +11170,20 @@ graph [
     commentcount 4
     duration "PT1H19M12S"
     indegree 0
-    cluster 3
+    ppinsult 0.111677855
+    ppflirtation 0.32879004
+    ppidentityattack 0.078918904
+    ppthreat 0.1597559
+    pptoxicity 0.044748597
+    ppsexuallyexplicit 0.024441984
+    ppprofanity 0.028693965
+    ppinflammatory 0.20749699
     sentiment 0.3182
-    leftright ""
-    channeltags ""
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.024441984
-    PERSPECTIVE_FLIRTATION 0.32879004
-    PERSPECTIVE_INSULT 0.111677855
-    PERSPECTIVE_TOXICITY 0.044748597
-    PERSPECTIVE_IDENTITY_ATTACK 0.078918904
-    PERSPECTIVE_INFLAMMATORY 0.20749699
-    PERSPECTIVE_THREAT 0.1597559
-    PERSPECTIVE_PROFANITY 0.028693965
+    cluster 3
   ]
-  node [
-    id 414
+  node
+  [
+    id 488
     label "-tTo4XixYCY"
     step 0
     date "2022-01-23T21:26:27Z"
@@ -11607,21 +11197,20 @@ graph [
     commentcount 8
     duration "PT2M47S"
     indegree 0
-    cluster 7
+    ppinsult 0.032591954
+    ppflirtation 0.20972677
+    ppidentityattack 0.040420495
+    ppthreat 0.09569044
+    pptoxicity 0.023460433
+    ppsexuallyexplicit 0.068420455
+    ppprofanity 0.05117567
+    ppinflammatory 0.25043
     sentiment -0.25
-    leftright ""
-    channeltags ""
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.068420455
-    PERSPECTIVE_FLIRTATION 0.20972677
-    PERSPECTIVE_INSULT 0.032591954
-    PERSPECTIVE_TOXICITY 0.023460433
-    PERSPECTIVE_IDENTITY_ATTACK 0.040420495
-    PERSPECTIVE_INFLAMMATORY 0.25043
-    PERSPECTIVE_THREAT 0.09569044
-    PERSPECTIVE_PROFANITY 0.05117567
+    cluster 6
   ]
-  node [
-    id 415
+  node
+  [
+    id 491
     label "WrAMzAmAW3g"
     step 0
     date "2021-10-20T16:46:00Z"
@@ -11635,21 +11224,20 @@ graph [
     commentcount 14
     duration "PT3M32S"
     indegree 0
-    cluster 7
-    sentiment 0.0
-    leftright ""
-    channeltags ""
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.08906292
-    PERSPECTIVE_FLIRTATION 0.26872453
-    PERSPECTIVE_INSULT 0.08528031
-    PERSPECTIVE_TOXICITY 0.03856816
-    PERSPECTIVE_IDENTITY_ATTACK 0.22166695
-    PERSPECTIVE_INFLAMMATORY 0.43654004
-    PERSPECTIVE_THREAT 0.45464537
-    PERSPECTIVE_PROFANITY 0.09488385
+    ppinsult 0.08528031
+    ppflirtation 0.26872453
+    ppidentityattack 0.22166695
+    ppthreat 0.45464537
+    pptoxicity 0.03856816
+    ppsexuallyexplicit 0.08906292
+    ppprofanity 0.09488385
+    ppinflammatory 0.43654004
+    sentiment 0
+    cluster 6
   ]
-  node [
-    id 416
+  node
+  [
+    id 492
     label "vQVfUibZwSI"
     step 0
     date "2022-07-12T22:07:03Z"
@@ -11663,21 +11251,20 @@ graph [
     commentcount 0
     duration "PT36M41S"
     indegree 1
-    cluster 3
+    ppinsult 0.036679454
+    ppflirtation 0.28012803
+    ppidentityattack 0.04359596
+    ppthreat 0.072543375
+    pptoxicity 0.0070457286
+    ppsexuallyexplicit 0.0637645
+    ppprofanity 0.050717417
+    ppinflammatory 0.2794839
     sentiment 0.128
-    leftright ""
-    channeltags ""
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.0637645
-    PERSPECTIVE_FLIRTATION 0.28012803
-    PERSPECTIVE_INSULT 0.036679454
-    PERSPECTIVE_TOXICITY 0.0070457286
-    PERSPECTIVE_IDENTITY_ATTACK 0.04359596
-    PERSPECTIVE_INFLAMMATORY 0.2794839
-    PERSPECTIVE_THREAT 0.072543375
-    PERSPECTIVE_PROFANITY 0.050717417
+    cluster 3
   ]
-  node [
-    id 417
+  node
+  [
+    id 493
     label "I3-Th8OsWZA"
     step 0
     date "2022-07-16T20:20:52Z"
@@ -11691,21 +11278,20 @@ graph [
     commentcount 0
     duration "PT1M"
     indegree 0
+    ppinsult 0.05129981
+    ppflirtation 0.2937271
+    ppidentityattack 0.072692655
+    ppthreat 0.09351794
+    pptoxicity 0.007844013
+    ppsexuallyexplicit 0.06991632
+    ppprofanity 0.05620764
+    ppinflammatory 0.03621499
+    sentiment 0
     cluster 3
-    sentiment 0.0
-    leftright ""
-    channeltags ""
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.06991632
-    PERSPECTIVE_FLIRTATION 0.2937271
-    PERSPECTIVE_INSULT 0.05129981
-    PERSPECTIVE_TOXICITY 0.007844013
-    PERSPECTIVE_IDENTITY_ATTACK 0.072692655
-    PERSPECTIVE_INFLAMMATORY 0.03621499
-    PERSPECTIVE_THREAT 0.09351794
-    PERSPECTIVE_PROFANITY 0.05620764
   ]
-  node [
-    id 418
+  node
+  [
+    id 495
     label "tntdGlEAMX4"
     step 0
     date "2022-07-18T03:51:06Z"
@@ -11719,21 +11305,20 @@ graph [
     commentcount 0
     duration "PT14M22S"
     indegree 0
+    ppinsult 0.116054915
+    ppflirtation 0.262389
+    ppidentityattack 0.078481294
+    ppthreat 0.16527186
+    pptoxicity 0.0042690868
+    ppsexuallyexplicit 0.06477673
+    ppprofanity 0.07563111
+    ppinflammatory 0.4379706
+    sentiment 0
     cluster 4
-    sentiment 0.0
-    leftright ""
-    channeltags ""
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.06477673
-    PERSPECTIVE_FLIRTATION 0.262389
-    PERSPECTIVE_INSULT 0.116054915
-    PERSPECTIVE_TOXICITY 0.0042690868
-    PERSPECTIVE_IDENTITY_ATTACK 0.078481294
-    PERSPECTIVE_INFLAMMATORY 0.4379706
-    PERSPECTIVE_THREAT 0.16527186
-    PERSPECTIVE_PROFANITY 0.07563111
   ]
-  node [
-    id 419
+  node
+  [
+    id 511
     label "fCTDygaUglI"
     step 0
     date "2022-07-17T22:15:44Z"
@@ -11747,21 +11332,20 @@ graph [
     commentcount 0
     duration "PT2M20S"
     indegree 0
+    ppinsult 0.034688428
+    ppflirtation 0.30334598
+    ppidentityattack 0.12510195
+    ppthreat 0.10427481
+    pptoxicity 0.07730943
+    ppsexuallyexplicit 0.059179656
+    ppprofanity 0.04194187
+    ppinflammatory 0.19084921
+    sentiment 0
     cluster 3
-    sentiment 0.0
-    leftright ""
-    channeltags ""
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.059179656
-    PERSPECTIVE_FLIRTATION 0.30334598
-    PERSPECTIVE_INSULT 0.034688428
-    PERSPECTIVE_TOXICITY 0.07730943
-    PERSPECTIVE_IDENTITY_ATTACK 0.12510195
-    PERSPECTIVE_INFLAMMATORY 0.19084921
-    PERSPECTIVE_THREAT 0.10427481
-    PERSPECTIVE_PROFANITY 0.04194187
   ]
-  node [
-    id 420
+  node
+  [
+    id 518
     label "wj7Ys732SiA"
     step 0
     date "2022-07-17T16:36:58Z"
@@ -11775,21 +11359,20 @@ graph [
     commentcount 53
     duration "PT3M18S"
     indegree 0
-    cluster 2
+    ppinsult 0.10786432
+    ppflirtation 0.451591
+    ppidentityattack 0.109745234
+    ppthreat 0.17087819
+    pptoxicity 0.04234509
+    ppsexuallyexplicit 0.117548704
+    ppprofanity 0.09033854
+    ppinflammatory 0.26358703
     sentiment -0.2263
-    leftright ""
-    channeltags ""
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.117548704
-    PERSPECTIVE_FLIRTATION 0.451591
-    PERSPECTIVE_INSULT 0.10786432
-    PERSPECTIVE_TOXICITY 0.04234509
-    PERSPECTIVE_IDENTITY_ATTACK 0.109745234
-    PERSPECTIVE_INFLAMMATORY 0.26358703
-    PERSPECTIVE_THREAT 0.17087819
-    PERSPECTIVE_PROFANITY 0.09033854
+    cluster 2
   ]
-  node [
-    id 421
+  node
+  [
+    id 527
     label "KcRVHbJJasc"
     step 0
     date "2022-07-16T20:06:38Z"
@@ -11803,21 +11386,20 @@ graph [
     commentcount 0
     duration "PT59S"
     indegree 1
-    cluster 5
-    sentiment 0.0
-    leftright ""
-    channeltags ""
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.17513166
-    PERSPECTIVE_FLIRTATION 0.51202977
-    PERSPECTIVE_INSULT 0.06129231
-    PERSPECTIVE_TOXICITY 0.02397547
-    PERSPECTIVE_IDENTITY_ATTACK 0.06012188
-    PERSPECTIVE_INFLAMMATORY 0.31092003
-    PERSPECTIVE_THREAT 0.18106799
-    PERSPECTIVE_PROFANITY 0.110128835
+    ppinsult 0.06129231
+    ppflirtation 0.51202977
+    ppidentityattack 0.06012188
+    ppthreat 0.18106799
+    pptoxicity 0.02397547
+    ppsexuallyexplicit 0.17513166
+    ppprofanity 0.110128835
+    ppinflammatory 0.31092003
+    sentiment 0
+    cluster 3
   ]
-  node [
-    id 422
+  node
+  [
+    id 531
     label "8xhJXU71RqI"
     step 0
     date "2022-07-15T22:13:17Z"
@@ -11831,21 +11413,20 @@ graph [
     commentcount 360
     duration "PT17M22S"
     indegree 1
-    cluster 3
+    ppinsult 0.09147899
+    ppflirtation 0.36422053
+    ppidentityattack 0.13859506
+    ppthreat 0.39670312
+    pptoxicity 0.10515087
+    ppsexuallyexplicit 0.11568119
+    ppprofanity 0.09513295
+    ppinflammatory 0.2734528
     sentiment -0.0516
-    leftright "R"
-    channeltags "AntiSJW|PartisanRight"
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.11568119
-    PERSPECTIVE_FLIRTATION 0.36422053
-    PERSPECTIVE_INSULT 0.09147899
-    PERSPECTIVE_TOXICITY 0.10515087
-    PERSPECTIVE_IDENTITY_ATTACK 0.13859506
-    PERSPECTIVE_INFLAMMATORY 0.2734528
-    PERSPECTIVE_THREAT 0.39670312
-    PERSPECTIVE_PROFANITY 0.09513295
+    cluster 3
   ]
-  node [
-    id 423
+  node
+  [
+    id 536
     label "LMOS7GYUcg8"
     step 0
     date "2022-07-16T19:26:03Z"
@@ -11859,6287 +11440,7539 @@ graph [
     commentcount 3
     duration "PT13M15S"
     indegree 0
-    cluster 5
-    sentiment 0.0
-    leftright ""
-    channeltags ""
-    PERSPECTIVE_SEXUALLY_EXPLICIT 0.09631426
-    PERSPECTIVE_FLIRTATION 0.3460622
-    PERSPECTIVE_INSULT 0.09967086
-    PERSPECTIVE_TOXICITY 0.044405237
-    PERSPECTIVE_IDENTITY_ATTACK 0.17568763
-    PERSPECTIVE_INFLAMMATORY 0.17859489
-    PERSPECTIVE_THREAT 0.18433584
-    PERSPECTIVE_PROFANITY 0.08339289
+    ppinsult 0.09967086
+    ppflirtation 0.3460622
+    ppidentityattack 0.17568763
+    ppthreat 0.18433584
+    pptoxicity 0.044405237
+    ppsexuallyexplicit 0.09631426
+    ppprofanity 0.08339289
+    ppinflammatory 0.17859489
+    sentiment 0
+    cluster 3
   ]
-  edge [
+  edge
+  [
     source 0
-    target 251
+    target 273
     rank 3
   ]
-  edge [
+  edge
+  [
     source 1
     target 0
     rank 7
   ]
-  edge [
+  edge
+  [
     source 1
     target 2
     rank 8
   ]
-  edge [
+  edge
+  [
     source 1
     target 3
     rank 13
   ]
-  edge [
+  edge
+  [
     source 2
     target 7
     rank 1
   ]
-  edge [
+  edge
+  [
     source 2
     target 0
     rank 4
   ]
-  edge [
+  edge
+  [
     source 2
-    target 251
+    target 273
     rank 9
   ]
-  edge [
+  edge
+  [
     source 2
     target 1
     rank 10
   ]
-  edge [
+  edge
+  [
     source 2
     target 6
     rank 12
   ]
-  edge [
+  edge
+  [
     source 2
     target 9
     rank 14
   ]
-  edge [
+  edge
+  [
     source 2
-    target 185
+    target 200
     rank 15
   ]
-  edge [
+  edge
+  [
     source 2
     target 3
     rank 18
   ]
-  edge [
+  edge
+  [
     source 3
     target 7
     rank 1
   ]
-  edge [
+  edge
+  [
     source 3
     target 2
     rank 5
   ]
-  edge [
+  edge
+  [
     source 3
     target 14
     rank 8
   ]
-  edge [
+  edge
+  [
     source 3
     target 0
     rank 9
   ]
-  edge [
+  edge
+  [
     source 3
     target 10
     rank 13
   ]
-  edge [
+  edge
+  [
     source 3
     target 9
     rank 17
   ]
-  edge [
+  edge
+  [
     source 4
     target 8
     rank 3
   ]
-  edge [
+  edge
+  [
     source 4
-    target 232
+    target 251
     rank 6
   ]
-  edge [
+  edge
+  [
     source 4
     target 9
     rank 10
   ]
-  edge [
+  edge
+  [
     source 4
     target 2
     rank 12
   ]
-  edge [
+  edge
+  [
     source 4
     target 1
     rank 14
   ]
-  edge [
+  edge
+  [
     source 4
-    target 266
+    target 289
     rank 16
   ]
-  edge [
+  edge
+  [
     source 4
     target 0
     rank 18
   ]
-  edge [
+  edge
+  [
     source 4
     target 3
     rank 19
   ]
-  edge [
+  edge
+  [
     source 5
     target 17
     rank 8
   ]
-  edge [
+  edge
+  [
     source 5
-    target 272
+    target 296
     rank 12
   ]
-  edge [
+  edge
+  [
     source 5
-    target 125
+    target 130
     rank 17
   ]
-  edge [
+  edge
+  [
     source 6
     target 7
     rank 1
   ]
-  edge [
+  edge
+  [
     source 6
     target 0
     rank 4
   ]
-  edge [
+  edge
+  [
     source 6
     target 2
     rank 5
   ]
-  edge [
+  edge
+  [
     source 6
-    target 251
+    target 273
     rank 9
   ]
-  edge [
+  edge
+  [
     source 6
     target 1
     rank 10
   ]
-  edge [
+  edge
+  [
     source 6
     target 9
     rank 11
   ]
-  edge [
+  edge
+  [
     source 6
     target 8
     rank 16
   ]
-  edge [
+  edge
+  [
     source 6
     target 3
     rank 17
   ]
-  edge [
+  edge
+  [
     source 7
-    target 238
+    target 257
     rank 7
   ]
-  edge [
+  edge
+  [
     source 7
-    target 251
+    target 273
     rank 9
   ]
-  edge [
+  edge
+  [
     source 7
-    target 199
+    target 215
     rank 10
   ]
-  edge [
+  edge
+  [
     source 7
     target 9
     rank 11
   ]
-  edge [
+  edge
+  [
     source 7
     target 0
     rank 17
   ]
-  edge [
+  edge
+  [
     source 7
     target 1
     rank 18
   ]
-  edge [
+  edge
+  [
     source 7
     target 2
     rank 19
   ]
-  edge [
+  edge
+  [
     source 8
     target 0
     rank 4
   ]
-  edge [
+  edge
+  [
     source 8
-    target 60
+    target 61
     rank 11
   ]
-  edge [
+  edge
+  [
     source 8
-    target 232
+    target 251
     rank 12
   ]
-  edge [
+  edge
+  [
     source 8
-    target 266
+    target 289
     rank 17
   ]
-  edge [
+  edge
+  [
     source 9
     target 0
     rank 1
   ]
-  edge [
+  edge
+  [
     source 9
     target 2
     rank 14
   ]
-  edge [
+  edge
+  [
     source 10
-    target 251
+    target 273
     rank 4
   ]
-  edge [
+  edge
+  [
     source 10
     target 2
     rank 5
   ]
-  edge [
+  edge
+  [
     source 10
     target 8
     rank 8
   ]
-  edge [
+  edge
+  [
     source 10
-    target 75
+    target 78
     rank 12
   ]
-  edge [
+  edge
+  [
     source 10
     target 0
     rank 13
   ]
-  edge [
+  edge
+  [
     source 10
     target 14
     rank 18
   ]
-  edge [
+  edge
+  [
     source 11
     target 0
     rank 3
   ]
-  edge [
+  edge
+  [
     source 11
-    target 75
+    target 78
     rank 5
   ]
-  edge [
+  edge
+  [
     source 11
     target 6
     rank 9
   ]
-  edge [
+  edge
+  [
     source 11
     target 37
     rank 11
   ]
-  edge [
+  edge
+  [
     source 12
     target 7
     rank 1
   ]
-  edge [
+  edge
+  [
     source 12
     target 24
     rank 6
   ]
-  edge [
+  edge
+  [
     source 12
-    target 266
+    target 289
     rank 8
   ]
-  edge [
+  edge
+  [
     source 12
     target 0
     rank 12
   ]
-  edge [
+  edge
+  [
     source 12
-    target 185
+    target 200
     rank 13
   ]
-  edge [
+  edge
+  [
     source 12
-    target 232
+    target 251
     rank 16
   ]
-  edge [
+  edge
+  [
     source 12
     target 2
     rank 20
   ]
-  edge [
+  edge
+  [
     source 13
     target 7
     rank 3
   ]
-  edge [
+  edge
+  [
     source 13
-    target 251
+    target 273
     rank 4
   ]
-  edge [
+  edge
+  [
     source 13
     target 0
     rank 6
   ]
-  edge [
+  edge
+  [
     source 14
-    target 75
+    target 78
     rank 2
   ]
-  edge [
+  edge
+  [
     source 14
-    target 409
+    target 481
     rank 4
   ]
-  edge [
+  edge
+  [
     source 14
     target 25
     rank 9
   ]
-  edge [
+  edge
+  [
     source 15
     target 0
     rank 3
   ]
-  edge [
+  edge
+  [
     source 15
     target 2
     rank 6
   ]
-  edge [
+  edge
+  [
     source 16
     target 7
     rank 1
   ]
-  edge [
+  edge
+  [
     source 16
-    target 344
+    target 392
     rank 10
   ]
-  edge [
+  edge
+  [
     source 16
     target 9
     rank 11
   ]
-  edge [
+  edge
+  [
     source 16
     target 0
     rank 12
   ]
-  edge [
+  edge
+  [
     source 16
     target 2
     rank 13
   ]
-  edge [
+  edge
+  [
     source 16
     target 1
     rank 20
   ]
-  edge [
+  edge
+  [
     source 18
-    target 75
+    target 78
     rank 5
   ]
-  edge [
+  edge
+  [
     source 18
-    target 185
+    target 200
     rank 19
   ]
-  edge [
+  edge
+  [
     source 19
     target 2
     rank 1
   ]
-  edge [
+  edge
+  [
     source 19
-    target 251
+    target 273
     rank 4
   ]
-  edge [
+  edge
+  [
     source 19
     target 9
     rank 5
   ]
-  edge [
+  edge
+  [
     source 19
-    target 199
+    target 215
     rank 7
   ]
-  edge [
+  edge
+  [
     source 19
-    target 232
+    target 251
     rank 8
   ]
-  edge [
+  edge
+  [
     source 19
-    target 266
+    target 289
     rank 9
   ]
-  edge [
+  edge
+  [
     source 19
     target 1
     rank 12
   ]
-  edge [
+  edge
+  [
     source 19
-    target 375
+    target 428
     rank 15
   ]
-  edge [
+  edge
+  [
     source 19
     target 6
     rank 16
   ]
-  edge [
+  edge
+  [
     source 20
-    target 251
+    target 273
     rank 1
   ]
-  edge [
+  edge
+  [
     source 20
-    target 254
+    target 276
     rank 7
   ]
-  edge [
+  edge
+  [
     source 20
     target 2
     rank 9
   ]
-  edge [
+  edge
+  [
     source 20
     target 15
     rank 20
   ]
-  edge [
+  edge
+  [
     source 21
     target 9
     rank 1
   ]
-  edge [
+  edge
+  [
     source 21
     target 0
     rank 4
   ]
-  edge [
+  edge
+  [
     source 21
-    target 251
+    target 273
     rank 11
   ]
-  edge [
+  edge
+  [
     source 21
     target 8
     rank 15
   ]
-  edge [
+  edge
+  [
     source 22
-    target 160
+    target 173
     rank 1
   ]
-  edge [
+  edge
+  [
     source 22
     target 7
     rank 3
   ]
-  edge [
+  edge
+  [
     source 22
-    target 299
+    target 329
     rank 10
   ]
-  edge [
+  edge
+  [
     source 22
-    target 238
+    target 257
     rank 16
   ]
-  edge [
+  edge
+  [
     source 22
-    target 251
+    target 273
     rank 17
   ]
-  edge [
+  edge
+  [
     source 23
     target 7
     rank 1
   ]
-  edge [
+  edge
+  [
     source 23
-    target 238
+    target 257
     rank 7
   ]
-  edge [
+  edge
+  [
     source 23
     target 27
     rank 8
   ]
-  edge [
+  edge
+  [
     source 23
     target 2
     rank 10
   ]
-  edge [
+  edge
+  [
     source 23
     target 8
     rank 11
   ]
-  edge [
+  edge
+  [
     source 23
     target 9
     rank 14
   ]
-  edge [
+  edge
+  [
     source 23
     target 1
     rank 18
   ]
-  edge [
+  edge
+  [
     source 24
     target 1
     rank 8
   ]
-  edge [
+  edge
+  [
     source 24
     target 12
     rank 18
   ]
-  edge [
+  edge
+  [
     source 25
     target 0
     rank 3
   ]
-  edge [
+  edge
+  [
     source 27
     target 7
     rank 2
   ]
-  edge [
+  edge
+  [
     source 27
-    target 350
+    target 400
     rank 6
   ]
-  edge [
+  edge
+  [
     source 27
     target 0
     rank 9
   ]
-  edge [
+  edge
+  [
     source 27
     target 6
     rank 14
   ]
-  edge [
+  edge
+  [
     source 27
     target 2
     rank 15
   ]
-  edge [
+  edge
+  [
     source 27
     target 18
     rank 18
   ]
-  edge [
+  edge
+  [
     source 27
     target 1
     rank 20
   ]
-  edge [
+  edge
+  [
     source 28
-    target 388
+    target 447
     rank 7
   ]
-  edge [
+  edge
+  [
     source 28
     target 2
     rank 12
   ]
-  edge [
+  edge
+  [
     source 28
-    target 299
+    target 329
     rank 14
   ]
-  edge [
+  edge
+  [
     source 28
-    target 367
+    target 419
     rank 19
   ]
-  edge [
+  edge
+  [
     source 29
     target 0
     rank 5
   ]
-  edge [
+  edge
+  [
     source 29
-    target 251
+    target 273
     rank 10
   ]
-  edge [
+  edge
+  [
     source 29
-    target 341
+    target 388
     rank 11
   ]
-  edge [
+  edge
+  [
     source 29
-    target 407
+    target 478
     rank 13
   ]
-  edge [
+  edge
+  [
     source 29
-    target 355
+    target 405
     rank 16
   ]
-  edge [
+  edge
+  [
     source 30
     target 2
     rank 2
   ]
-  edge [
+  edge
+  [
     source 30
     target 0
     rank 4
   ]
-  edge [
+  edge
+  [
     source 30
-    target 177
+    target 190
     rank 10
   ]
-  edge [
+  edge
+  [
     source 30
     target 1
     rank 18
   ]
-  edge [
+  edge
+  [
     source 31
     target 3
     rank 7
   ]
-  edge [
+  edge
+  [
     source 31
     target 0
     rank 10
   ]
-  edge [
+  edge
+  [
     source 31
     target 2
     rank 11
   ]
-  edge [
+  edge
+  [
     source 31
     target 1
     rank 15
   ]
-  edge [
+  edge
+  [
     source 31
     target 6
     rank 16
   ]
-  edge [
+  edge
+  [
     source 32
     target 2
     rank 3
   ]
-  edge [
+  edge
+  [
     source 32
     target 18
     rank 4
   ]
-  edge [
+  edge
+  [
     source 32
     target 9
     rank 8
   ]
-  edge [
+  edge
+  [
     source 32
     target 0
     rank 9
   ]
-  edge [
+  edge
+  [
     source 32
     target 24
     rank 10
   ]
-  edge [
+  edge
+  [
     source 32
     target 37
     rank 11
   ]
-  edge [
+  edge
+  [
     source 32
-    target 109
+    target 114
     rank 13
   ]
-  edge [
+  edge
+  [
     source 32
-    target 110
+    target 115
     rank 14
   ]
-  edge [
+  edge
+  [
     source 32
-    target 257
+    target 279
     rank 20
   ]
-  edge [
+  edge
+  [
     source 33
     target 2
     rank 4
   ]
-  edge [
+  edge
+  [
     source 33
     target 0
     rank 6
   ]
-  edge [
+  edge
+  [
     source 33
-    target 185
+    target 200
     rank 14
   ]
-  edge [
+  edge
+  [
     source 34
     target 0
     rank 2
   ]
-  edge [
+  edge
+  [
     source 34
     target 55
     rank 7
   ]
-  edge [
+  edge
+  [
     source 34
     target 1
     rank 8
   ]
-  edge [
+  edge
+  [
     source 34
-    target 185
+    target 200
     rank 15
   ]
-  edge [
+  edge
+  [
     source 35
     target 24
     rank 2
   ]
-  edge [
+  edge
+  [
     source 35
-    target 209
+    target 227
     rank 4
   ]
-  edge [
+  edge
+  [
     source 35
-    target 257
+    target 279
     rank 6
   ]
-  edge [
+  edge
+  [
     source 36
     target 2
     rank 4
   ]
-  edge [
+  edge
+  [
     source 36
-    target 254
+    target 276
     rank 10
   ]
-  edge [
+  edge
+  [
     source 36
     target 6
     rank 14
   ]
-  edge [
+  edge
+  [
     source 37
-    target 251
+    target 273
     rank 8
   ]
-  edge [
+  edge
+  [
     source 37
     target 2
     rank 9
   ]
-  edge [
+  edge
+  [
     source 37
     target 0
     rank 16
   ]
-  edge [
+  edge
+  [
     source 38
-    target 86
+    target 90
     rank 13
   ]
-  edge [
+  edge
+  [
     source 38
-    target 103
+    target 108
     rank 15
   ]
-  edge [
+  edge
+  [
     source 39
-    target 238
+    target 257
     rank 11
   ]
-  edge [
+  edge
+  [
     source 39
-    target 119
+    target 124
     rank 18
   ]
-  edge [
+  edge
+  [
     source 40
-    target 385
+    target 441
     rank 2
   ]
-  edge [
+  edge
+  [
     source 40
-    target 177
+    target 190
     rank 10
   ]
-  edge [
+  edge
+  [
     source 40
-    target 208
+    target 225
     rank 15
   ]
-  edge [
+  edge
+  [
     source 40
     target 45
     rank 17
   ]
-  edge [
+  edge
+  [
     source 40
     target 38
     rank 19
   ]
-  edge [
+  edge
+  [
     source 41
-    target 251
+    target 273
     rank 3
   ]
-  edge [
+  edge
+  [
     source 41
-    target 157
+    target 169
     rank 5
   ]
-  edge [
+  edge
+  [
     source 41
-    target 142
+    target 147
     rank 6
   ]
-  edge [
+  edge
+  [
     source 41
     target 18
     rank 7
   ]
-  edge [
+  edge
+  [
     source 41
     target 1
     rank 15
   ]
-  edge [
+  edge
+  [
     source 41
     target 0
     rank 16
   ]
-  edge [
+  edge
+  [
     source 41
-    target 202
+    target 218
     rank 20
   ]
-  edge [
+  edge
+  [
     source 42
     target 1
     rank 9
   ]
-  edge [
+  edge
+  [
     source 42
-    target 336
+    target 381
     rank 11
   ]
-  edge [
+  edge
+  [
     source 42
     target 12
     rank 12
   ]
-  edge [
+  edge
+  [
     source 42
-    target 76
+    target 79
     rank 14
   ]
-  edge [
+  edge
+  [
     source 42
-    target 308
+    target 340
     rank 17
   ]
-  edge [
+  edge
+  [
     source 42
-    target 345
+    target 393
     rank 20
   ]
-  edge [
+  edge
+  [
     source 43
     target 27
     rank 1
   ]
-  edge [
+  edge
+  [
     source 43
     target 7
     rank 2
   ]
-  edge [
+  edge
+  [
     source 43
     target 0
     rank 10
   ]
-  edge [
+  edge
+  [
     source 43
-    target 238
+    target 257
     rank 16
   ]
-  edge [
+  edge
+  [
     source 44
     target 1
     rank 7
   ]
-  edge [
+  edge
+  [
     source 44
     target 0
     rank 8
   ]
-  edge [
+  edge
+  [
     source 44
     target 6
     rank 10
   ]
-  edge [
+  edge
+  [
     source 44
     target 2
     rank 12
   ]
-  edge [
+  edge
+  [
     source 44
     target 3
     rank 13
   ]
-  edge [
+  edge
+  [
     source 44
     target 8
     rank 18
   ]
-  edge [
+  edge
+  [
     source 45
     target 38
     rank 9
   ]
-  edge [
+  edge
+  [
     source 45
-    target 103
+    target 108
     rank 11
   ]
-  edge [
+  edge
+  [
     source 46
-    target 251
+    target 273
     rank 2
   ]
-  edge [
+  edge
+  [
     source 46
     target 0
     rank 11
   ]
-  edge [
+  edge
+  [
     source 46
     target 1
     rank 13
   ]
-  edge [
+  edge
+  [
     source 46
-    target 196
+    target 211
     rank 15
   ]
-  edge [
+  edge
+  [
     source 46
-    target 185
+    target 200
     rank 17
   ]
-  edge [
+  edge
+  [
     source 47
-    target 125
+    target 130
     rank 3
   ]
-  edge [
+  edge
+  [
     source 47
-    target 372
+    target 424
     rank 13
   ]
-  edge [
+  edge
+  [
     source 48
     target 0
     rank 2
   ]
-  edge [
+  edge
+  [
     source 48
     target 9
     rank 3
   ]
-  edge [
+  edge
+  [
     source 48
-    target 258
+    target 281
     rank 6
   ]
-  edge [
+  edge
+  [
     source 49
     target 2
     rank 2
   ]
-  edge [
+  edge
+  [
     source 49
-    target 119
+    target 124
     rank 5
   ]
-  edge [
+  edge
+  [
     source 49
-    target 87
+    target 91
     rank 9
   ]
-  edge [
+  edge
+  [
     source 50
     target 17
     rank 4
   ]
-  edge [
+  edge
+  [
     source 50
-    target 73
+    target 75
     rank 10
   ]
-  edge [
+  edge
+  [
     source 51
-    target 93
+    target 97
     rank 3
   ]
-  edge [
+  edge
+  [
     source 51
-    target 196
+    target 211
     rank 15
   ]
-  edge [
+  edge
+  [
     source 51
-    target 139
+    target 144
     rank 19
   ]
-  edge [
+  edge
+  [
     source 52
-    target 345
+    target 393
     rank 19
   ]
-  edge [
+  edge
+  [
     source 53
-    target 296
+    target 325
     rank 13
   ]
-  edge [
+  edge
+  [
     source 53
     target 55
     rank 18
   ]
-  edge [
+  edge
+  [
     source 54
-    target 314
+    target 348
     rank 14
   ]
-  edge [
+  edge
+  [
     source 54
     target 35
     rank 18
   ]
-  edge [
+  edge
+  [
     source 55
-    target 224
+    target 243
     rank 2
   ]
-  edge [
+  edge
+  [
     source 55
-    target 331
+    target 374
     rank 17
   ]
-  edge [
+  edge
+  [
     source 55
-    target 111
+    target 116
     rank 18
   ]
-  edge [
+  edge
+  [
     source 55
-    target 147
+    target 155
     rank 19
   ]
-  edge [
+  edge
+  [
     source 56
-    target 117
+    target 122
     rank 13
   ]
-  edge [
+  edge
+  [
     source 56
-    target 119
+    target 124
     rank 15
   ]
-  edge [
+  edge
+  [
     source 57
-    target 93
+    target 97
     rank 6
   ]
-  edge [
+  edge
+  [
     source 57
     target 24
     rank 8
   ]
-  edge [
+  edge
+  [
     source 57
-    target 172
+    target 185
     rank 11
   ]
-  edge [
+  edge
+  [
     source 57
-    target 329
+    target 371
     rank 17
   ]
-  edge [
+  edge
+  [
     source 57
-    target 196
+    target 211
     rank 20
   ]
-  edge [
+  edge
+  [
     source 58
     target 2
     rank 2
   ]
-  edge [
+  edge
+  [
     source 58
     target 0
     rank 3
   ]
-  edge [
+  edge
+  [
     source 58
     target 8
     rank 13
   ]
-  edge [
+  edge
+  [
     source 58
-    target 138
+    target 143
     rank 15
   ]
-  edge [
+  edge
+  [
     source 58
-    target 87
+    target 91
     rank 16
   ]
-  edge [
+  edge
+  [
     source 59
     target 0
     rank 6
   ]
-  edge [
-    source 60
+  edge
+  [
+    source 61
     target 1
     rank 1
   ]
-  edge [
-    source 60
+  edge
+  [
+    source 61
     target 8
     rank 2
   ]
-  edge [
-    source 60
+  edge
+  [
+    source 61
     target 0
     rank 3
   ]
-  edge [
-    source 60
-    target 375
+  edge
+  [
+    source 61
+    target 428
     rank 4
   ]
-  edge [
-    source 60
+  edge
+  [
+    source 61
     target 3
     rank 5
   ]
-  edge [
-    source 60
-    target 234
+  edge
+  [
+    source 61
+    target 253
     rank 15
   ]
-  edge [
-    source 60
-    target 175
+  edge
+  [
+    source 61
+    target 188
     rank 17
   ]
-  edge [
-    source 61
-    target 117
+  edge
+  [
+    source 63
+    target 122
     rank 10
   ]
-  edge [
-    source 61
-    target 314
+  edge
+  [
+    source 63
+    target 348
     rank 14
   ]
-  edge [
-    source 62
-    target 296
+  edge
+  [
+    source 64
+    target 325
     rank 5
   ]
-  edge [
-    source 62
-    target 122
+  edge
+  [
+    source 64
+    target 127
     rank 12
   ]
-  edge [
-    source 62
-    target 147
+  edge
+  [
+    source 64
+    target 155
     rank 13
   ]
-  edge [
-    source 62
-    target 83
+  edge
+  [
+    source 64
+    target 87
     rank 14
   ]
-  edge [
-    source 63
+  edge
+  [
+    source 65
     target 0
     rank 6
   ]
-  edge [
-    source 63
-    target 251
+  edge
+  [
+    source 65
+    target 273
     rank 15
   ]
-  edge [
-    source 64
-    target 266
+  edge
+  [
+    source 66
+    target 289
     rank 4
   ]
-  edge [
-    source 64
-    target 233
+  edge
+  [
+    source 66
+    target 252
     rank 5
   ]
-  edge [
-    source 64
-    target 329
+  edge
+  [
+    source 66
+    target 371
     rank 6
   ]
-  edge [
-    source 64
-    target 232
+  edge
+  [
+    source 66
+    target 251
     rank 7
   ]
-  edge [
-    source 64
-    target 375
+  edge
+  [
+    source 66
+    target 428
     rank 12
   ]
-  edge [
-    source 64
+  edge
+  [
+    source 66
     target 8
     rank 13
   ]
-  edge [
-    source 64
+  edge
+  [
+    source 66
     target 22
     rank 18
   ]
-  edge [
-    source 64
-    target 234
+  edge
+  [
+    source 66
+    target 253
     rank 19
   ]
-  edge [
-    source 64
-    target 106
+  edge
+  [
+    source 66
+    target 111
     rank 20
   ]
-  edge [
-    source 65
-    target 271
+  edge
+  [
+    source 67
+    target 295
     rank 7
   ]
-  edge [
-    source 65
-    target 351
+  edge
+  [
+    source 67
+    target 401
     rank 12
   ]
-  edge [
-    source 65
-    target 243
+  edge
+  [
+    source 67
+    target 263
     rank 20
   ]
-  edge [
-    source 66
-    target 210
+  edge
+  [
+    source 68
+    target 228
     rank 11
   ]
-  edge [
-    source 66
-    target 345
+  edge
+  [
+    source 68
+    target 393
     rank 18
   ]
-  edge [
-    source 68
+  edge
+  [
+    source 70
     target 0
     rank 4
   ]
-  edge [
-    source 68
-    target 147
+  edge
+  [
+    source 70
+    target 155
     rank 19
   ]
-  edge [
-    source 69
+  edge
+  [
+    source 71
     target 20
     rank 17
   ]
-  edge [
-    source 70
-    target 266
+  edge
+  [
+    source 72
+    target 289
     rank 2
   ]
-  edge [
-    source 70
-    target 251
+  edge
+  [
+    source 72
+    target 273
     rank 3
   ]
-  edge [
-    source 70
-    target 232
+  edge
+  [
+    source 72
+    target 251
     rank 5
   ]
-  edge [
-    source 70
+  edge
+  [
+    source 72
     target 8
     rank 7
   ]
-  edge [
-    source 70
-    target 375
+  edge
+  [
+    source 72
+    target 428
     rank 11
   ]
-  edge [
-    source 70
-    target 234
+  edge
+  [
+    source 72
+    target 253
     rank 14
   ]
-  edge [
-    source 70
-    target 60
+  edge
+  [
+    source 72
+    target 61
     rank 20
   ]
-  edge [
-    source 71
+  edge
+  [
+    source 73
     target 7
     rank 2
   ]
-  edge [
-    source 71
+  edge
+  [
+    source 73
     target 0
     rank 4
   ]
-  edge [
-    source 71
-    target 177
+  edge
+  [
+    source 73
+    target 190
     rank 6
   ]
-  edge [
-    source 71
-    target 222
+  edge
+  [
+    source 73
+    target 241
     rank 8
   ]
-  edge [
-    source 71
+  edge
+  [
+    source 73
     target 8
     rank 9
   ]
-  edge [
-    source 72
-    target 125
+  edge
+  [
+    source 74
+    target 130
     rank 5
   ]
-  edge [
-    source 72
+  edge
+  [
+    source 74
     target 38
     rank 15
   ]
-  edge [
-    source 73
+  edge
+  [
+    source 75
     target 17
     rank 1
   ]
-  edge [
-    source 73
+  edge
+  [
+    source 75
     target 50
     rank 11
   ]
-  edge [
-    source 73
+  edge
+  [
+    source 75
     target 45
     rank 12
   ]
-  edge [
-    source 74
+  edge
+  [
+    source 76
     target 8
     rank 1
   ]
-  edge [
-    source 74
+  edge
+  [
+    source 76
     target 37
     rank 4
   ]
-  edge [
-    source 74
+  edge
+  [
+    source 76
     target 30
     rank 10
   ]
-  edge [
-    source 75
+  edge
+  [
+    source 78
     target 0
     rank 1
   ]
-  edge [
-    source 75
+  edge
+  [
+    source 78
     target 18
     rank 8
   ]
-  edge [
-    source 75
+  edge
+  [
+    source 78
     target 1
     rank 10
   ]
-  edge [
-    source 76
+  edge
+  [
+    source 79
     target 5
     rank 5
   ]
-  edge [
-    source 76
+  edge
+  [
+    source 79
     target 25
     rank 12
   ]
-  edge [
-    source 76
+  edge
+  [
+    source 79
     target 12
     rank 15
   ]
-  edge [
-    source 76
+  edge
+  [
+    source 79
     target 32
     rank 18
   ]
-  edge [
-    source 77
+  edge
+  [
+    source 80
     target 1
     rank 1
   ]
-  edge [
-    source 77
+  edge
+  [
+    source 80
     target 8
     rank 4
   ]
-  edge [
-    source 77
-    target 315
+  edge
+  [
+    source 80
+    target 349
     rank 12
   ]
-  edge [
-    source 77
-    target 181
+  edge
+  [
+    source 80
+    target 194
     rank 19
   ]
-  edge [
-    source 78
-    target 177
+  edge
+  [
+    source 81
+    target 190
     rank 7
   ]
-  edge [
-    source 79
-    target 122
+  edge
+  [
+    source 82
+    target 127
     rank 4
   ]
-  edge [
-    source 79
-    target 284
+  edge
+  [
+    source 82
+    target 309
     rank 5
   ]
-  edge [
-    source 80
+  edge
+  [
+    source 84
     target 8
     rank 1
   ]
-  edge [
-    source 81
+  edge
+  [
+    source 85
     target 7
     rank 1
   ]
-  edge [
-    source 81
-    target 251
+  edge
+  [
+    source 85
+    target 273
     rank 7
   ]
-  edge [
-    source 81
+  edge
+  [
+    source 85
     target 0
     rank 17
   ]
-  edge [
-    source 82
+  edge
+  [
+    source 86
     target 2
     rank 5
   ]
-  edge [
-    source 82
+  edge
+  [
+    source 86
     target 25
     rank 6
   ]
-  edge [
-    source 82
-    target 185
+  edge
+  [
+    source 86
+    target 200
     rank 7
   ]
-  edge [
-    source 82
+  edge
+  [
+    source 86
     target 8
     rank 12
   ]
-  edge [
-    source 82
-    target 177
+  edge
+  [
+    source 86
+    target 190
     rank 15
   ]
-  edge [
-    source 82
-    target 119
+  edge
+  [
+    source 86
+    target 124
     rank 17
   ]
-  edge [
-    source 83
-    target 251
+  edge
+  [
+    source 87
+    target 273
     rank 5
   ]
-  edge [
-    source 83
-    target 164
+  edge
+  [
+    source 87
+    target 177
     rank 6
   ]
-  edge [
-    source 83
-    target 110
+  edge
+  [
+    source 87
+    target 115
     rank 10
   ]
-  edge [
-    source 83
-    target 336
+  edge
+  [
+    source 87
+    target 381
     rank 13
   ]
-  edge [
-    source 83
-    target 62
+  edge
+  [
+    source 87
+    target 64
     rank 18
   ]
-  edge [
-    source 84
-    target 79
+  edge
+  [
+    source 88
+    target 82
     rank 7
   ]
-  edge [
-    source 84
-    target 65
+  edge
+  [
+    source 88
+    target 67
     rank 15
   ]
-  edge [
-    source 84
-    target 122
+  edge
+  [
+    source 88
+    target 127
     rank 18
   ]
-  edge [
-    source 85
-    target 375
+  edge
+  [
+    source 89
+    target 428
     rank 11
   ]
-  edge [
-    source 85
-    target 147
+  edge
+  [
+    source 89
+    target 155
     rank 12
   ]
-  edge [
-    source 85
-    target 60
+  edge
+  [
+    source 89
+    target 61
     rank 14
   ]
-  edge [
-    source 85
-    target 234
+  edge
+  [
+    source 89
+    target 253
     rank 18
   ]
-  edge [
-    source 86
+  edge
+  [
+    source 90
     target 20
     rank 8
   ]
-  edge [
-    source 87
+  edge
+  [
+    source 91
     target 2
     rank 9
   ]
-  edge [
-    source 88
+  edge
+  [
+    source 92
     target 8
     rank 4
   ]
-  edge [
-    source 88
-    target 266
+  edge
+  [
+    source 92
+    target 289
     rank 16
   ]
-  edge [
-    source 88
-    target 375
+  edge
+  [
+    source 92
+    target 428
     rank 18
   ]
-  edge [
-    source 89
+  edge
+  [
+    source 93
     target 0
     rank 1
   ]
-  edge [
-    source 89
+  edge
+  [
+    source 93
     target 2
     rank 3
   ]
-  edge [
-    source 89
-    target 65
+  edge
+  [
+    source 93
+    target 67
     rank 13
   ]
-  edge [
-    source 90
-    target 351
+  edge
+  [
+    source 94
+    target 401
     rank 16
   ]
-  edge [
-    source 90
-    target 271
+  edge
+  [
+    source 94
+    target 295
     rank 18
   ]
-  edge [
-    source 91
+  edge
+  [
+    source 95
     target 7
     rank 3
   ]
-  edge [
-    source 91
+  edge
+  [
+    source 95
     target 2
     rank 7
   ]
-  edge [
-    source 91
-    target 282
+  edge
+  [
+    source 95
+    target 307
     rank 10
   ]
-  edge [
-    source 91
+  edge
+  [
+    source 95
     target 3
     rank 14
   ]
-  edge [
-    source 91
+  edge
+  [
+    source 95
     target 8
     rank 17
   ]
-  edge [
-    source 91
-    target 232
+  edge
+  [
+    source 95
+    target 251
     rank 18
   ]
-  edge [
-    source 92
-    target 110
+  edge
+  [
+    source 96
+    target 115
     rank 4
   ]
-  edge [
-    source 92
-    target 147
+  edge
+  [
+    source 96
+    target 155
     rank 9
   ]
-  edge [
-    source 92
-    target 246
+  edge
+  [
+    source 96
+    target 267
     rank 17
   ]
-  edge [
-    source 93
-    target 266
+  edge
+  [
+    source 97
+    target 289
     rank 2
   ]
-  edge [
-    source 93
+  edge
+  [
+    source 97
     target 0
     rank 4
   ]
-  edge [
-    source 93
-    target 172
+  edge
+  [
+    source 97
+    target 185
     rank 6
   ]
-  edge [
-    source 93
-    target 110
+  edge
+  [
+    source 97
+    target 115
     rank 11
   ]
-  edge [
-    source 93
-    target 139
+  edge
+  [
+    source 97
+    target 144
     rank 12
   ]
-  edge [
-    source 93
-    target 246
+  edge
+  [
+    source 97
+    target 267
     rank 16
   ]
-  edge [
-    source 93
-    target 183
+  edge
+  [
+    source 97
+    target 198
     rank 19
   ]
-  edge [
-    source 93
-    target 83
+  edge
+  [
+    source 97
+    target 87
     rank 20
   ]
-  edge [
-    source 94
-    target 251
+  edge
+  [
+    source 98
+    target 273
     rank 2
   ]
-  edge [
-    source 94
-    target 202
+  edge
+  [
+    source 98
+    target 218
     rank 6
   ]
-  edge [
-    source 94
-    target 103
+  edge
+  [
+    source 98
+    target 108
     rank 9
   ]
-  edge [
-    source 94
+  edge
+  [
+    source 98
     target 20
     rank 14
   ]
-  edge [
-    source 94
-    target 246
+  edge
+  [
+    source 98
+    target 267
     rank 19
   ]
-  edge [
-    source 95
+  edge
+  [
+    source 99
     target 1
     rank 4
   ]
-  edge [
-    source 95
-    target 388
+  edge
+  [
+    source 99
+    target 447
     rank 6
   ]
-  edge [
-    source 95
+  edge
+  [
+    source 99
     target 3
     rank 10
   ]
-  edge [
-    source 95
-    target 75
+  edge
+  [
+    source 99
+    target 78
     rank 15
   ]
-  edge [
-    source 95
+  edge
+  [
+    source 99
     target 2
     rank 17
   ]
-  edge [
-    source 95
-    target 359
+  edge
+  [
+    source 99
+    target 411
     rank 19
   ]
-  edge [
-    source 96
-    target 339
+  edge
+  [
+    source 100
+    target 385
     rank 7
   ]
-  edge [
-    source 96
-    target 109
+  edge
+  [
+    source 100
+    target 114
     rank 8
   ]
-  edge [
-    source 96
-    target 111
+  edge
+  [
+    source 100
+    target 116
     rank 14
   ]
-  edge [
-    source 97
+  edge
+  [
+    source 101
     target 0
     rank 3
   ]
-  edge [
-    source 97
+  edge
+  [
+    source 101
     target 1
     rank 16
   ]
-  edge [
-    source 98
+  edge
+  [
+    source 102
     target 7
     rank 2
   ]
-  edge [
-    source 98
-    target 224
+  edge
+  [
+    source 102
+    target 243
     rank 3
   ]
-  edge [
-    source 98
+  edge
+  [
+    source 102
     target 9
     rank 8
   ]
-  edge [
-    source 98
+  edge
+  [
+    source 102
     target 15
     rank 17
   ]
-  edge [
-    source 99
-    target 122
+  edge
+  [
+    source 103
+    target 127
     rank 18
   ]
-  edge [
-    source 100
+  edge
+  [
+    source 105
     target 8
     rank 1
   ]
-  edge [
-    source 100
-    target 251
+  edge
+  [
+    source 105
+    target 273
     rank 3
   ]
-  edge [
-    source 100
-    target 261
+  edge
+  [
+    source 105
+    target 284
     rank 15
   ]
-  edge [
-    source 100
-    target 60
+  edge
+  [
+    source 105
+    target 61
     rank 17
   ]
-  edge [
-    source 100
-    target 89
+  edge
+  [
+    source 105
+    target 93
     rank 20
   ]
-  edge [
-    source 101
-    target 79
+  edge
+  [
+    source 106
+    target 82
     rank 4
   ]
-  edge [
-    source 101
-    target 136
+  edge
+  [
+    source 106
+    target 141
     rank 19
   ]
-  edge [
-    source 102
-    target 174
+  edge
+  [
+    source 107
+    target 187
     rank 8
   ]
-  edge [
-    source 103
+  edge
+  [
+    source 108
     target 20
     rank 1
   ]
-  edge [
-    source 103
-    target 110
+  edge
+  [
+    source 108
+    target 115
     rank 4
   ]
-  edge [
-    source 103
-    target 123
+  edge
+  [
+    source 108
+    target 128
     rank 9
   ]
-  edge [
-    source 103
-    target 86
+  edge
+  [
+    source 108
+    target 90
     rank 10
   ]
-  edge [
-    source 103
-    target 208
+  edge
+  [
+    source 108
+    target 225
     rank 12
   ]
-  edge [
-    source 104
-    target 122
+  edge
+  [
+    source 109
+    target 127
     rank 17
   ]
-  edge [
-    source 104
-    target 147
+  edge
+  [
+    source 109
+    target 155
     rank 18
   ]
-  edge [
-    source 105
+  edge
+  [
+    source 110
     target 27
     rank 5
   ]
-  edge [
-    source 105
-    target 251
+  edge
+  [
+    source 110
+    target 273
     rank 10
   ]
-  edge [
-    source 105
+  edge
+  [
+    source 110
     target 8
     rank 11
   ]
-  edge [
-    source 107
-    target 266
+  edge
+  [
+    source 112
+    target 289
     rank 3
   ]
-  edge [
-    source 107
-    target 232
+  edge
+  [
+    source 112
+    target 251
     rank 6
   ]
-  edge [
-    source 107
+  edge
+  [
+    source 112
     target 8
     rank 7
   ]
-  edge [
-    source 107
-    target 369
+  edge
+  [
+    source 112
+    target 421
     rank 18
   ]
-  edge [
-    source 108
+  edge
+  [
+    source 113
     target 45
     rank 12
   ]
-  edge [
-    source 108
+  edge
+  [
+    source 113
     target 26
     rank 14
   ]
-  edge [
-    source 109
-    target 79
+  edge
+  [
+    source 114
+    target 82
     rank 3
   ]
-  edge [
-    source 109
-    target 223
+  edge
+  [
+    source 114
+    target 242
     rank 5
   ]
-  edge [
-    source 109
+  edge
+  [
+    source 114
     target 1
     rank 11
   ]
-  edge [
-    source 109
-    target 339
+  edge
+  [
+    source 114
+    target 385
     rank 12
   ]
-  edge [
-    source 109
+  edge
+  [
+    source 114
     target 18
     rank 15
   ]
-  edge [
-    source 111
-    target 339
+  edge
+  [
+    source 116
+    target 385
     rank 9
   ]
-  edge [
-    source 111
-    target 109
+  edge
+  [
+    source 116
+    target 114
     rank 18
   ]
-  edge [
-    source 112
-    target 341
+  edge
+  [
+    source 117
+    target 388
     rank 1
   ]
-  edge [
-    source 112
+  edge
+  [
+    source 117
     target 24
     rank 2
   ]
-  edge [
-    source 112
+  edge
+  [
+    source 117
     target 1
     rank 6
   ]
-  edge [
-    source 112
+  edge
+  [
+    source 117
     target 37
     rank 7
   ]
-  edge [
-    source 112
+  edge
+  [
+    source 117
     target 12
     rank 12
   ]
-  edge [
-    source 112
-    target 347
+  edge
+  [
+    source 117
+    target 396
     rank 16
   ]
-  edge [
-    source 113
+  edge
+  [
+    source 118
     target 2
     rank 1
   ]
-  edge [
-    source 113
+  edge
+  [
+    source 118
     target 24
     rank 4
   ]
-  edge [
-    source 113
+  edge
+  [
+    source 118
     target 32
     rank 5
   ]
-  edge [
-    source 113
+  edge
+  [
+    source 118
     target 36
     rank 16
   ]
-  edge [
-    source 114
-    target 315
+  edge
+  [
+    source 119
+    target 349
     rank 8
   ]
-  edge [
-    source 114
-    target 157
+  edge
+  [
+    source 119
+    target 169
     rank 9
   ]
-  edge [
-    source 114
+  edge
+  [
+    source 119
     target 2
     rank 12
   ]
-  edge [
-    source 114
-    target 332
+  edge
+  [
+    source 119
+    target 375
     rank 18
   ]
-  edge [
-    source 115
+  edge
+  [
+    source 120
     target 2
     rank 2
   ]
-  edge [
-    source 115
-    target 114
+  edge
+  [
+    source 120
+    target 119
     rank 8
   ]
-  edge [
-    source 115
-    target 383
+  edge
+  [
+    source 120
+    target 439
     rank 10
   ]
-  edge [
-    source 115
-    target 251
+  edge
+  [
+    source 120
+    target 273
     rank 12
   ]
-  edge [
-    source 116
+  edge
+  [
+    source 121
     target 1
     rank 4
   ]
-  edge [
-    source 117
-    target 119
+  edge
+  [
+    source 122
+    target 124
     rank 9
   ]
-  edge [
-    source 117
-    target 378
+  edge
+  [
+    source 122
+    target 432
     rank 20
   ]
-  edge [
-    source 118
+  edge
+  [
+    source 123
     target 6
     rank 2
   ]
-  edge [
-    source 118
+  edge
+  [
+    source 123
     target 1
     rank 3
   ]
-  edge [
-    source 118
+  edge
+  [
+    source 123
     target 30
     rank 5
   ]
-  edge [
-    source 118
-    target 383
+  edge
+  [
+    source 123
+    target 439
     rank 7
   ]
-  edge [
-    source 118
-    target 315
+  edge
+  [
+    source 123
+    target 349
     rank 12
   ]
-  edge [
-    source 118
-    target 185
+  edge
+  [
+    source 123
+    target 200
     rank 13
   ]
-  edge [
-    source 118
-    target 202
+  edge
+  [
+    source 123
+    target 218
     rank 17
   ]
-  edge [
-    source 119
-    target 117
+  edge
+  [
+    source 124
+    target 122
     rank 6
   ]
-  edge [
-    source 119
-    target 346
+  edge
+  [
+    source 124
+    target 395
     rank 15
   ]
-  edge [
-    source 119
-    target 139
+  edge
+  [
+    source 124
+    target 144
     rank 19
   ]
-  edge [
-    source 120
-    target 267
+  edge
+  [
+    source 125
+    target 290
     rank 9
   ]
-  edge [
-    source 122
-    target 147
+  edge
+  [
+    source 127
+    target 155
     rank 17
   ]
-  edge [
-    source 122
-    target 246
+  edge
+  [
+    source 127
+    target 267
     rank 20
   ]
-  edge [
-    source 123
+  edge
+  [
+    source 128
     target 2
     rank 5
   ]
-  edge [
-    source 123
+  edge
+  [
+    source 128
     target 20
     rank 10
   ]
-  edge [
-    source 123
-    target 383
+  edge
+  [
+    source 128
+    target 439
     rank 12
   ]
-  edge [
-    source 124
+  edge
+  [
+    source 129
     target 7
     rank 2
   ]
-  edge [
-    source 125
-    target 140
+  edge
+  [
+    source 130
+    target 145
     rank 1
   ]
-  edge [
-    source 125
-    target 251
+  edge
+  [
+    source 130
+    target 273
     rank 5
   ]
-  edge [
-    source 125
-    target 173
+  edge
+  [
+    source 130
+    target 186
     rank 7
   ]
-  edge [
-    source 125
-    target 129
+  edge
+  [
+    source 130
+    target 134
     rank 8
   ]
-  edge [
-    source 125
+  edge
+  [
+    source 130
     target 0
     rank 13
   ]
-  edge [
-    source 125
-    target 238
+  edge
+  [
+    source 130
+    target 257
     rank 14
   ]
-  edge [
-    source 126
+  edge
+  [
+    source 131
     target 0
     rank 4
   ]
-  edge [
-    source 126
-    target 197
+  edge
+  [
+    source 131
+    target 212
     rank 19
   ]
-  edge [
-    source 127
+  edge
+  [
+    source 132
     target 0
     rank 2
   ]
-  edge [
-    source 127
+  edge
+  [
+    source 132
     target 6
     rank 6
   ]
-  edge [
-    source 127
-    target 315
+  edge
+  [
+    source 132
+    target 349
     rank 10
   ]
-  edge [
-    source 127
-    target 251
+  edge
+  [
+    source 132
+    target 273
     rank 14
   ]
-  edge [
-    source 127
+  edge
+  [
+    source 132
     target 30
     rank 16
   ]
-  edge [
-    source 127
-    target 185
+  edge
+  [
+    source 132
+    target 200
     rank 17
   ]
-  edge [
-    source 129
-    target 125
+  edge
+  [
+    source 134
+    target 130
     rank 4
   ]
-  edge [
-    source 129
-    target 238
+  edge
+  [
+    source 134
+    target 257
     rank 7
   ]
-  edge [
-    source 129
-    target 147
+  edge
+  [
+    source 134
+    target 155
     rank 9
   ]
-  edge [
-    source 129
-    target 140
+  edge
+  [
+    source 134
+    target 145
     rank 12
   ]
-  edge [
-    source 130
-    target 147
+  edge
+  [
+    source 135
+    target 155
     rank 4
   ]
-  edge [
-    source 130
-    target 244
+  edge
+  [
+    source 135
+    target 265
     rank 5
   ]
-  edge [
-    source 130
-    target 206
+  edge
+  [
+    source 135
+    target 223
     rank 12
   ]
-  edge [
-    source 130
-    target 309
+  edge
+  [
+    source 135
+    target 341
     rank 13
   ]
-  edge [
-    source 130
-    target 60
+  edge
+  [
+    source 135
+    target 61
     rank 14
   ]
-  edge [
-    source 130
-    target 246
+  edge
+  [
+    source 135
+    target 267
     rank 16
   ]
-  edge [
-    source 131
+  edge
+  [
+    source 136
     target 7
     rank 4
   ]
-  edge [
-    source 131
-    target 147
+  edge
+  [
+    source 136
+    target 155
     rank 12
   ]
-  edge [
-    source 131
+  edge
+  [
+    source 136
     target 15
     rank 13
   ]
-  edge [
-    source 131
-    target 98
+  edge
+  [
+    source 136
+    target 102
     rank 15
   ]
-  edge [
-    source 132
+  edge
+  [
+    source 137
     target 0
     rank 3
   ]
-  edge [
-    source 132
-    target 177
+  edge
+  [
+    source 137
+    target 190
     rank 6
   ]
-  edge [
-    source 132
+  edge
+  [
+    source 137
     target 8
     rank 7
   ]
-  edge [
-    source 132
-    target 251
+  edge
+  [
+    source 137
+    target 273
     rank 9
   ]
-  edge [
-    source 132
-    target 246
+  edge
+  [
+    source 137
+    target 267
     rank 13
   ]
-  edge [
-    source 132
-    target 60
+  edge
+  [
+    source 137
+    target 61
     rank 20
   ]
-  edge [
-    source 133
-    target 286
+  edge
+  [
+    source 138
+    target 312
     rank 3
   ]
-  edge [
-    source 133
-    target 125
+  edge
+  [
+    source 138
+    target 130
     rank 7
   ]
-  edge [
-    source 134
-    target 93
+  edge
+  [
+    source 139
+    target 97
     rank 1
   ]
-  edge [
-    source 134
-    target 172
+  edge
+  [
+    source 139
+    target 185
     rank 4
   ]
-  edge [
-    source 134
-    target 139
+  edge
+  [
+    source 139
+    target 144
     rank 6
   ]
-  edge [
-    source 134
-    target 196
+  edge
+  [
+    source 139
+    target 211
     rank 9
   ]
-  edge [
-    source 134
-    target 336
+  edge
+  [
+    source 139
+    target 381
     rank 15
   ]
-  edge [
-    source 134
-    target 165
+  edge
+  [
+    source 139
+    target 178
     rank 19
   ]
-  edge [
-    source 135
+  edge
+  [
+    source 140
     target 0
     rank 5
   ]
-  edge [
-    source 135
-    target 271
+  edge
+  [
+    source 140
+    target 295
     rank 7
   ]
-  edge [
-    source 135
-    target 351
+  edge
+  [
+    source 140
+    target 401
     rank 17
   ]
-  edge [
-    source 136
+  edge
+  [
+    source 141
     target 0
     rank 2
   ]
-  edge [
-    source 137
-    target 117
+  edge
+  [
+    source 142
+    target 122
     rank 12
   ]
-  edge [
-    source 137
-    target 110
+  edge
+  [
+    source 142
+    target 115
     rank 14
   ]
-  edge [
-    source 138
+  edge
+  [
+    source 143
     target 9
     rank 8
   ]
-  edge [
-    source 138
+  edge
+  [
+    source 143
     target 0
     rank 17
   ]
-  edge [
-    source 139
+  edge
+  [
+    source 144
     target 27
     rank 1
   ]
-  edge [
-    source 139
-    target 93
+  edge
+  [
+    source 144
+    target 97
     rank 2
   ]
-  edge [
-    source 139
-    target 350
+  edge
+  [
+    source 144
+    target 400
     rank 8
   ]
-  edge [
-    source 139
-    target 197
+  edge
+  [
+    source 144
+    target 212
     rank 14
   ]
-  edge [
-    source 139
-    target 183
+  edge
+  [
+    source 144
+    target 198
     rank 17
   ]
-  edge [
-    source 140
+  edge
+  [
+    source 145
     target 0
     rank 7
   ]
-  edge [
-    source 140
-    target 125
+  edge
+  [
+    source 145
+    target 130
     rank 8
   ]
-  edge [
-    source 140
-    target 173
+  edge
+  [
+    source 145
+    target 186
     rank 13
   ]
-  edge [
-    source 140
-    target 129
+  edge
+  [
+    source 145
+    target 134
     rank 14
   ]
-  edge [
-    source 140
-    target 238
+  edge
+  [
+    source 145
+    target 257
     rank 16
   ]
-  edge [
-    source 140
-    target 269
+  edge
+  [
+    source 145
+    target 293
     rank 19
   ]
-  edge [
-    source 140
-    target 215
+  edge
+  [
+    source 145
+    target 233
     rank 20
   ]
-  edge [
-    source 141
-    target 242
+  edge
+  [
+    source 146
+    target 262
     rank 7
   ]
-  edge [
-    source 141
+  edge
+  [
+    source 146
     target 45
     rank 11
   ]
-  edge [
-    source 143
-    target 208
+  edge
+  [
+    source 149
+    target 225
     rank 9
   ]
-  edge [
-    source 144
+  edge
+  [
+    source 150
     target 30
     rank 3
   ]
-  edge [
-    source 144
-    target 351
+  edge
+  [
+    source 150
+    target 401
     rank 5
   ]
-  edge [
-    source 144
-    target 65
+  edge
+  [
+    source 150
+    target 67
     rank 6
   ]
-  edge [
-    source 144
-    target 243
+  edge
+  [
+    source 150
+    target 263
     rank 12
   ]
-  edge [
-    source 144
-    target 271
+  edge
+  [
+    source 150
+    target 295
     rank 15
   ]
-  edge [
-    source 144
-    target 246
+  edge
+  [
+    source 150
+    target 267
     rank 17
   ]
-  edge [
-    source 144
-    target 122
+  edge
+  [
+    source 150
+    target 127
     rank 18
   ]
-  edge [
-    source 145
-    target 122
+  edge
+  [
+    source 152
+    target 127
     rank 19
   ]
-  edge [
-    source 146
+  edge
+  [
+    source 154
     target 2
     rank 3
   ]
-  edge [
-    source 146
-    target 232
+  edge
+  [
+    source 154
+    target 251
     rank 7
   ]
-  edge [
-    source 146
+  edge
+  [
+    source 154
     target 7
     rank 8
   ]
-  edge [
-    source 146
+  edge
+  [
+    source 154
     target 0
     rank 10
   ]
-  edge [
-    source 146
+  edge
+  [
+    source 154
     target 1
     rank 13
   ]
-  edge [
-    source 146
-    target 266
+  edge
+  [
+    source 154
+    target 289
     rank 14
   ]
-  edge [
-    source 146
+  edge
+  [
+    source 154
     target 3
     rank 17
   ]
-  edge [
-    source 147
-    target 6
-    rank 12
-  ]
-  edge [
-    source 147
-    target 329
-    rank 15
-  ]
-  edge [
-    source 147
-    target 290
-    rank 20
-  ]
-  edge [
-    source 148
-    target 0
-    rank 3
-  ]
-  edge [
-    source 148
-    target 110
-    rank 5
-  ]
-  edge [
-    source 149
-    target 128
-    rank 4
-  ]
-  edge [
-    source 149
-    target 147
-    rank 5
-  ]
-  edge [
-    source 149
-    target 314
-    rank 9
-  ]
-  edge [
-    source 150
-    target 8
-    rank 1
-  ]
-  edge [
-    source 150
-    target 0
-    rank 6
-  ]
-  edge [
-    source 150
-    target 375
-    rank 7
-  ]
-  edge [
-    source 150
-    target 232
-    rank 12
-  ]
-  edge [
-    source 150
-    target 15
-    rank 13
-  ]
-  edge [
-    source 150
-    target 6
-    rank 14
-  ]
-  edge [
-    source 150
-    target 210
-    rank 18
-  ]
-  edge [
-    source 150
-    target 266
-    rank 20
-  ]
-  edge [
-    source 151
-    target 339
-    rank 1
-  ]
-  edge [
-    source 152
-    target 0
-    rank 4
-  ]
-  edge [
-    source 152
-    target 117
-    rank 18
-  ]
-  edge [
-    source 154
-    target 251
-    rank 4
-  ]
-  edge [
-    source 154
-    target 8
-    rank 7
-  ]
-  edge [
-    source 154
-    target 181
-    rank 15
-  ]
-  edge [
+  edge
+  [
     source 155
-    target 114
-    rank 20
-  ]
-  edge [
-    source 156
-    target 0
-    rank 4
-  ]
-  edge [
-    source 156
-    target 8
-    rank 8
-  ]
-  edge [
-    source 156
-    target 60
-    rank 19
-  ]
-  edge [
-    source 157
-    target 2
-    rank 1
-  ]
-  edge [
-    source 157
-    target 382
-    rank 5
-  ]
-  edge [
-    source 157
-    target 55
-    rank 7
-  ]
-  edge [
-    source 157
     target 6
-    rank 10
-  ]
-  edge [
-    source 157
-    target 114
     rank 12
   ]
-  edge [
-    source 157
-    target 0
-    rank 16
+  edge
+  [
+    source 155
+    target 371
+    rank 15
   ]
-  edge [
-    source 158
-    target 251
-    rank 6
+  edge
+  [
+    source 155
+    target 318
+    rank 20
   ]
-  edge [
-    source 158
-    target 1
-    rank 11
-  ]
-  edge [
-    source 158
-    target 266
-    rank 14
-  ]
-  edge [
+  edge
+  [
     source 158
     target 0
-    rank 16
+    rank 3
   ]
-  edge [
-    source 159
-    target 1
-    rank 8
+  edge
+  [
+    source 158
+    target 115
+    rank 5
   ]
-  edge [
-    source 159
-    target 2
-    rank 12
-  ]
-  edge [
+  edge
+  [
     source 160
-    target 232
-    rank 6
+    target 133
+    rank 4
   ]
-  edge [
+  edge
+  [
     source 160
-    target 328
-    rank 16
-  ]
-  edge [
-    source 160
-    target 125
-    rank 18
-  ]
-  edge [
-    source 160
-    target 349
-    rank 19
-  ]
-  edge [
-    source 161
-    target 83
-    rank 8
-  ]
-  edge [
-    source 162
-    target 17
-    rank 10
-  ]
-  edge [
-    source 163
-    target 251
-    rank 1
-  ]
-  edge [
-    source 163
-    target 194
-    rank 7
-  ]
-  edge [
-    source 164
-    target 83
-    rank 10
-  ]
-  edge [
-    source 165
-    target 93
-    rank 1
-  ]
-  edge [
-    source 165
-    target 224
-    rank 2
-  ]
-  edge [
-    source 165
-    target 172
-    rank 8
-  ]
-  edge [
-    source 165
-    target 139
-    rank 15
-  ]
-  edge [
-    source 165
-    target 246
-    rank 17
-  ]
-  edge [
-    source 165
-    target 378
-    rank 18
-  ]
-  edge [
-    source 166
-    target 339
-    rank 5
-  ]
-  edge [
-    source 166
-    target 109
-    rank 6
-  ]
-  edge [
-    source 166
-    target 91
-    rank 11
-  ]
-  edge [
-    source 166
-    target 111
-    rank 14
-  ]
-  edge [
-    source 166
-    target 314
-    rank 17
-  ]
-  edge [
-    source 167
-    target 314
-    rank 16
-  ]
-  edge [
-    source 167
-    target 374
-    rank 17
-  ]
-  edge [
-    source 168
-    target 63
-    rank 2
-  ]
-  edge [
-    source 168
-    target 2
-    rank 3
-  ]
-  edge [
-    source 168
-    target 261
-    rank 5
-  ]
-  edge [
-    source 168
-    target 8
-    rank 11
-  ]
-  edge [
-    source 168
-    target 202
-    rank 13
-  ]
-  edge [
-    source 168
-    target 239
-    rank 20
-  ]
-  edge [
-    source 170
-    target 232
-    rank 4
-  ]
-  edge [
-    source 170
-    target 8
-    rank 10
-  ]
-  edge [
-    source 171
-    target 8
-    rank 2
-  ]
-  edge [
-    source 171
-    target 375
-    rank 10
-  ]
-  edge [
-    source 172
-    target 93
-    rank 1
-  ]
-  edge [
-    source 172
-    target 7
-    rank 2
-  ]
-  edge [
-    source 172
-    target 139
-    rank 14
-  ]
-  edge [
-    source 173
-    target 140
-    rank 3
-  ]
-  edge [
-    source 173
-    target 119
-    rank 5
-  ]
-  edge [
-    source 173
-    target 238
-    rank 13
-  ]
-  edge [
-    source 173
-    target 129
-    rank 15
-  ]
-  edge [
-    source 175
-    target 266
-    rank 1
-  ]
-  edge [
-    source 175
-    target 8
-    rank 3
-  ]
-  edge [
-    source 175
-    target 369
-    rank 7
-  ]
-  edge [
-    source 175
-    target 232
-    rank 8
-  ]
-  edge [
-    source 175
-    target 234
-    rank 9
-  ]
-  edge [
-    source 175
-    target 60
-    rank 17
-  ]
-  edge [
-    source 175
-    target 375
-    rank 18
-  ]
-  edge [
-    source 176
-    target 0
-    rank 8
-  ]
-  edge [
-    source 176
-    target 55
-    rank 14
-  ]
-  edge [
-    source 178
-    target 10
-    rank 1
-  ]
-  edge [
-    source 178
-    target 147
-    rank 9
-  ]
-  edge [
-    source 178
-    target 122
-    rank 14
-  ]
-  edge [
-    source 179
-    target 251
-    rank 2
-  ]
-  edge [
-    source 179
-    target 0
-    rank 10
-  ]
-  edge [
-    source 180
-    target 93
-    rank 2
-  ]
-  edge [
-    source 180
-    target 172
-    rank 14
-  ]
-  edge [
-    source 181
-    target 251
-    rank 18
-  ]
-  edge [
-    source 182
-    target 185
-    rank 8
-  ]
-  edge [
-    source 183
-    target 93
-    rank 2
-  ]
-  edge [
-    source 183
-    target 55
-    rank 7
-  ]
-  edge [
-    source 183
-    target 139
-    rank 8
-  ]
-  edge [
-    source 183
-    target 172
-    rank 11
-  ]
-  edge [
-    source 184
-    target 8
-    rank 3
-  ]
-  edge [
-    source 184
-    target 208
-    rank 10
-  ]
-  edge [
-    source 185
-    target 0
-    rank 3
-  ]
-  edge [
-    source 185
-    target 1
-    rank 11
-  ]
-  edge [
-    source 186
-    target 2
-    rank 1
-  ]
-  edge [
-    source 186
-    target 119
-    rank 15
-  ]
-  edge [
-    source 187
-    target 119
-    rank 7
-  ]
-  edge [
-    source 188
-    target 136
-    rank 5
-  ]
-  edge [
-    source 188
-    target 147
-    rank 8
-  ]
-  edge [
-    source 188
-    target 246
-    rank 13
-  ]
-  edge [
-    source 189
-    target 93
-    rank 1
-  ]
-  edge [
-    source 189
-    target 55
-    rank 2
-  ]
-  edge [
-    source 189
-    target 172
-    rank 4
-  ]
-  edge [
-    source 189
-    target 336
-    rank 14
-  ]
-  edge [
-    source 189
-    target 196
-    rank 17
-  ]
-  edge [
-    source 189
-    target 139
-    rank 19
-  ]
-  edge [
-    source 189
-    target 165
-    rank 20
-  ]
-  edge [
-    source 190
-    target 178
-    rank 13
-  ]
-  edge [
-    source 190
-    target 153
-    rank 16
-  ]
-  edge [
-    source 191
-    target 93
-    rank 2
-  ]
-  edge [
-    source 191
-    target 196
-    rank 4
-  ]
-  edge [
-    source 191
-    target 117
-    rank 6
-  ]
-  edge [
-    source 191
-    target 172
-    rank 8
-  ]
-  edge [
-    source 191
-    target 336
-    rank 12
-  ]
-  edge [
-    source 191
-    target 139
-    rank 16
-  ]
-  edge [
-    source 192
-    target 251
-    rank 3
-  ]
-  edge [
-    source 192
-    target 341
-    rank 4
-  ]
-  edge [
-    source 192
-    target 0
-    rank 19
-  ]
-  edge [
-    source 193
-    target 350
-    rank 2
-  ]
-  edge [
-    source 193
-    target 8
-    rank 6
-  ]
-  edge [
-    source 193
-    target 280
-    rank 17
-  ]
-  edge [
-    source 194
-    target 0
-    rank 8
-  ]
-  edge [
-    source 195
-    target 93
-    rank 1
-  ]
-  edge [
-    source 195
-    target 196
-    rank 5
-  ]
-  edge [
-    source 195
-    target 139
-    rank 7
-  ]
-  edge [
-    source 195
-    target 172
-    rank 15
-  ]
-  edge [
-    source 195
-    target 336
-    rank 18
-  ]
-  edge [
-    source 195
-    target 378
-    rank 20
-  ]
-  edge [
-    source 196
-    target 233
-    rank 4
-  ]
-  edge [
-    source 196
-    target 378
-    rank 17
-  ]
-  edge [
-    source 196
-    target 110
-    rank 20
-  ]
-  edge [
-    source 197
-    target 0
-    rank 2
-  ]
-  edge [
-    source 197
-    target 232
-    rank 5
-  ]
-  edge [
-    source 197
-    target 234
-    rank 18
-  ]
-  edge [
-    source 197
-    target 125
-    rank 20
-  ]
-  edge [
-    source 200
-    target 7
-    rank 1
-  ]
-  edge [
-    source 200
-    target 299
-    rank 3
-  ]
-  edge [
-    source 200
-    target 349
-    rank 6
-  ]
-  edge [
-    source 200
-    target 22
-    rank 15
-  ]
-  edge [
-    source 201
-    target 2
-    rank 1
-  ]
-  edge [
-    source 201
-    target 110
-    rank 8
-  ]
-  edge [
-    source 201
-    target 125
-    rank 11
-  ]
-  edge [
-    source 201
-    target 188
-    rank 15
-  ]
-  edge [
-    source 203
-    target 2
-    rank 2
-  ]
-  edge [
-    source 203
-    target 1
-    rank 6
-  ]
-  edge [
-    source 203
-    target 110
-    rank 10
-  ]
-  edge [
-    source 203
-    target 30
-    rank 15
-  ]
-  edge [
-    source 203
-    target 177
-    rank 16
-  ]
-  edge [
-    source 203
-    target 181
-    rank 17
-  ]
-  edge [
-    source 203
-    target 23
-    rank 20
-  ]
-  edge [
-    source 204
-    target 17
-    rank 1
-  ]
-  edge [
-    source 205
-    target 2
-    rank 1
-  ]
-  edge [
-    source 206
-    target 8
-    rank 15
-  ]
-  edge [
-    source 207
-    target 185
-    rank 3
-  ]
-  edge [
-    source 209
     target 155
-    rank 14
-  ]
-  edge [
-    source 209
-    target 121
-    rank 16
-  ]
-  edge [
-    source 210
-    target 17
-    rank 1
-  ]
-  edge [
-    source 211
-    target 122
-    rank 11
-  ]
-  edge [
-    source 211
-    target 60
-    rank 13
-  ]
-  edge [
-    source 211
-    target 38
-    rank 18
-  ]
-  edge [
-    source 211
-    target 261
-    rank 19
-  ]
-  edge [
-    source 212
-    target 0
-    rank 4
-  ]
-  edge [
-    source 212
-    target 110
     rank 5
   ]
-  edge [
-    source 212
-    target 121
-    rank 14
+  edge
+  [
+    source 160
+    target 348
+    rank 9
   ]
-  edge [
-    source 212
-    target 87
-    rank 15
-  ]
-  edge [
-    source 212
-    target 136
-    rank 16
-  ]
-  edge [
-    source 212
-    target 188
-    rank 20
-  ]
-  edge [
-    source 213
-    target 7
+  edge
+  [
+    source 161
+    target 8
     rank 1
   ]
-  edge [
-    source 213
-    target 27
-    rank 2
-  ]
-  edge [
-    source 213
-    target 266
+  edge
+  [
+    source 161
+    target 0
     rank 6
   ]
-  edge [
-    source 213
-    target 6
+  edge
+  [
+    source 161
+    target 428
     rank 7
   ]
-  edge [
-    source 213
-    target 37
-    rank 11
-  ]
-  edge [
-    source 213
-    target 232
-    rank 16
-  ]
-  edge [
-    source 213
-    target 23
-    rank 17
-  ]
-  edge [
-    source 214
-    target 210
-    rank 7
-  ]
-  edge [
-    source 214
-    target 147
-    rank 17
-  ]
-  edge [
-    source 215
-    target 136
-    rank 19
-  ]
-  edge [
-    source 216
-    target 269
-    rank 2
-  ]
-  edge [
-    source 216
-    target 129
-    rank 8
-  ]
-  edge [
-    source 216
-    target 267
-    rank 9
-  ]
-  edge [
-    source 216
-    target 238
-    rank 17
-  ]
-  edge [
-    source 216
-    target 173
-    rank 18
-  ]
-  edge [
-    source 216
-    target 140
-    rank 19
-  ]
-  edge [
-    source 217
-    target 0
-    rank 9
-  ]
-  edge [
-    source 217
+  edge
+  [
+    source 161
     target 251
-    rank 16
-  ]
-  edge [
-    source 218
-    target 93
-    rank 1
-  ]
-  edge [
-    source 218
-    target 172
-    rank 5
-  ]
-  edge [
-    source 218
-    target 18
-    rank 8
-  ]
-  edge [
-    source 218
-    target 55
-    rank 11
-  ]
-  edge [
-    source 218
-    target 139
-    rank 13
-  ]
-  edge [
-    source 218
-    target 336
-    rank 19
-  ]
-  edge [
-    source 219
-    target 185
-    rank 11
-  ]
-  edge [
-    source 219
-    target 352
-    rank 15
-  ]
-  edge [
-    source 219
-    target 1
-    rank 18
-  ]
-  edge [
-    source 219
-    target 250
-    rank 20
-  ]
-  edge [
-    source 220
-    target 0
-    rank 4
-  ]
-  edge [
-    source 220
-    target 177
-    rank 7
-  ]
-  edge [
-    source 220
-    target 261
-    rank 20
-  ]
-  edge [
-    source 221
-    target 0
-    rank 3
-  ]
-  edge [
-    source 222
-    target 117
-    rank 5
-  ]
-  edge [
-    source 224
-    target 227
-    rank 11
-  ]
-  edge [
-    source 225
-    target 208
-    rank 7
-  ]
-  edge [
-    source 225
-    target 135
-    rank 16
-  ]
-  edge [
-    source 225
-    target 111
-    rank 19
-  ]
-  edge [
-    source 226
-    target 282
-    rank 5
-  ]
-  edge [
-    source 226
-    target 0
-    rank 7
-  ]
-  edge [
-    source 226
-    target 25
-    rank 11
-  ]
-  edge [
-    source 226
-    target 1
-    rank 13
-  ]
-  edge [
-    source 226
-    target 284
-    rank 20
-  ]
-  edge [
-    source 227
-    target 119
-    rank 19
-  ]
-  edge [
-    source 229
-    target 122
-    rank 15
-  ]
-  edge [
-    source 230
-    target 147
-    rank 16
-  ]
-  edge [
-    source 230
-    target 21
-    rank 20
-  ]
-  edge [
-    source 231
-    target 251
-    rank 1
-  ]
-  edge [
-    source 231
-    target 8
     rank 12
   ]
-  edge [
-    source 232
-    target 1
-    rank 2
-  ]
-  edge [
-    source 232
-    target 266
-    rank 3
-  ]
-  edge [
-    source 232
-    target 233
-    rank 5
-  ]
-  edge [
-    source 232
-    target 8
-    rank 10
-  ]
-  edge [
-    source 232
-    target 234
-    rank 16
-  ]
-  edge [
-    source 232
-    target 375
-    rank 17
-  ]
-  edge [
-    source 233
-    target 7
-    rank 1
-  ]
-  edge [
-    source 233
-    target 196
-    rank 4
-  ]
-  edge [
-    source 233
-    target 240
-    rank 7
-  ]
-  edge [
-    source 233
-    target 147
-    rank 20
-  ]
-  edge [
-    source 234
-    target 8
-    rank 3
-  ]
-  edge [
-    source 234
-    target 266
-    rank 6
-  ]
-  edge [
-    source 234
-    target 0
-    rank 10
-  ]
-  edge [
-    source 234
-    target 55
-    rank 14
-  ]
-  edge [
-    source 234
-    target 369
-    rank 15
-  ]
-  edge [
-    source 234
-    target 232
-    rank 16
-  ]
-  edge [
-    source 234
-    target 250
-    rank 18
-  ]
-  edge [
-    source 234
-    target 375
-    rank 19
-  ]
-  edge [
-    source 235
-    target 20
-    rank 7
-  ]
-  edge [
-    source 235
-    target 351
-    rank 10
-  ]
-  edge [
-    source 235
-    target 119
-    rank 17
-  ]
-  edge [
-    source 236
-    target 267
-    rank 11
-  ]
-  edge [
-    source 236
-    target 139
-    rank 16
-  ]
-  edge [
-    source 237
-    target 147
-    rank 4
-  ]
-  edge [
-    source 237
-    target 185
-    rank 5
-  ]
-  edge [
-    source 237
-    target 110
-    rank 6
-  ]
-  edge [
-    source 237
-    target 246
-    rank 9
-  ]
-  edge [
-    source 238
-    target 140
-    rank 2
-  ]
-  edge [
-    source 238
-    target 129
-    rank 9
-  ]
-  edge [
-    source 238
-    target 242
-    rank 11
-  ]
-  edge [
-    source 238
-    target 122
-    rank 16
-  ]
-  edge [
-    source 238
-    target 269
-    rank 19
-  ]
-  edge [
-    source 239
-    target 6
-    rank 4
-  ]
-  edge [
-    source 239
-    target 349
-    rank 14
-  ]
-  edge [
-    source 240
-    target 7
-    rank 1
-  ]
-  edge [
-    source 240
-    target 233
-    rank 4
-  ]
-  edge [
-    source 240
-    target 238
-    rank 5
-  ]
-  edge [
-    source 240
-    target 196
-    rank 7
-  ]
-  edge [
-    source 240
-    target 202
-    rank 19
-  ]
-  edge [
-    source 241
-    target 0
-    rank 6
-  ]
-  edge [
-    source 241
-    target 266
-    rank 8
-  ]
-  edge [
-    source 241
-    target 234
-    rank 15
-  ]
-  edge [
-    source 241
-    target 60
-    rank 17
-  ]
-  edge [
-    source 241
-    target 157
-    rank 18
-  ]
-  edge [
-    source 243
-    target 65
-    rank 13
-  ]
-  edge [
-    source 243
-    target 271
-    rank 16
-  ]
-  edge [
-    source 244
-    target 8
-    rank 2
-  ]
-  edge [
-    source 244
-    target 67
-    rank 6
-  ]
-  edge [
-    source 244
-    target 264
-    rank 8
-  ]
-  edge [
-    source 244
-    target 169
-    rank 20
-  ]
-  edge [
-    source 245
-    target 251
-    rank 2
-  ]
-  edge [
-    source 245
-    target 6
-    rank 4
-  ]
-  edge [
-    source 246
-    target 0
-    rank 3
-  ]
-  edge [
-    source 246
-    target 9
-    rank 8
-  ]
-  edge [
-    source 246
-    target 251
-    rank 9
-  ]
-  edge [
-    source 246
-    target 29
-    rank 12
-  ]
-  edge [
-    source 246
-    target 250
-    rank 18
-  ]
-  edge [
-    source 247
-    target 251
-    rank 3
-  ]
-  edge [
-    source 247
-    target 351
-    rank 8
-  ]
-  edge [
-    source 247
-    target 271
-    rank 12
-  ]
-  edge [
-    source 248
-    target 185
-    rank 19
-  ]
-  edge [
-    source 249
-    target 55
-    rank 11
-  ]
-  edge [
-    source 249
-    target 111
-    rank 18
-  ]
-  edge [
-    source 250
-    target 0
-    rank 5
-  ]
-  edge [
-    source 250
-    target 9
-    rank 8
-  ]
-  edge [
-    source 251
-    target 0
-    rank 14
-  ]
-  edge [
-    source 252
-    target 7
-    rank 1
-  ]
-  edge [
-    source 252
-    target 228
-    rank 16
-  ]
-  edge [
-    source 253
-    target 251
-    rank 3
-  ]
-  edge [
-    source 254
-    target 2
-    rank 5
-  ]
-  edge [
-    source 254
-    target 63
-    rank 9
-  ]
-  edge [
-    source 254
-    target 251
-    rank 11
-  ]
-  edge [
-    source 254
-    target 114
-    rank 19
-  ]
-  edge [
-    source 254
-    target 8
-    rank 20
-  ]
-  edge [
-    source 255
-    target 1
-    rank 6
-  ]
-  edge [
-    source 256
-    target 38
-    rank 4
-  ]
-  edge [
-    source 256
-    target 208
-    rank 18
-  ]
-  edge [
-    source 257
-    target 208
-    rank 17
-  ]
-  edge [
-    source 257
-    target 198
-    rank 18
-  ]
-  edge [
-    source 258
-    target 0
-    rank 7
-  ]
-  edge [
-    source 258
-    target 282
-    rank 20
-  ]
-  edge [
-    source 259
-    target 136
-    rank 13
-  ]
-  edge [
-    source 259
-    target 188
-    rank 14
-  ]
-  edge [
-    source 260
-    target 2
-    rank 5
-  ]
-  edge [
-    source 260
+  edge
+  [
+    source 161
     target 15
-    rank 10
+    rank 13
   ]
-  edge [
-    source 261
-    target 1
+  edge
+  [
+    source 161
+    target 6
+    rank 14
+  ]
+  edge
+  [
+    source 161
+    target 228
+    rank 18
+  ]
+  edge
+  [
+    source 161
+    target 289
+    rank 20
+  ]
+  edge
+  [
+    source 162
+    target 385
+    rank 1
+  ]
+  edge
+  [
+    source 163
+    target 0
     rank 4
   ]
-  edge [
-    source 261
-    target 251
-    rank 6
+  edge
+  [
+    source 163
+    target 122
+    rank 18
   ]
-  edge [
-    source 261
-    target 29
+  edge
+  [
+    source 166
+    target 273
+    rank 4
+  ]
+  edge
+  [
+    source 166
+    target 8
     rank 7
   ]
-  edge [
-    source 261
-    target 199
-    rank 11
+  edge
+  [
+    source 166
+    target 194
+    rank 15
   ]
-  edge [
-    source 261
+  edge
+  [
+    source 167
+    target 119
+    rank 20
+  ]
+  edge
+  [
+    source 168
+    target 0
+    rank 4
+  ]
+  edge
+  [
+    source 168
+    target 8
+    rank 8
+  ]
+  edge
+  [
+    source 168
+    target 61
+    rank 19
+  ]
+  edge
+  [
+    source 169
+    target 2
+    rank 1
+  ]
+  edge
+  [
+    source 169
+    target 438
+    rank 5
+  ]
+  edge
+  [
+    source 169
+    target 55
+    rank 7
+  ]
+  edge
+  [
+    source 169
+    target 6
+    rank 10
+  ]
+  edge
+  [
+    source 169
+    target 119
+    rank 12
+  ]
+  edge
+  [
+    source 169
     target 0
     rank 16
   ]
-  edge [
-    source 262
-    target 286
-    rank 3
-  ]
-  edge [
-    source 262
-    target 379
+  edge
+  [
+    source 170
+    target 273
     rank 6
   ]
-  edge [
-    source 263
-    target 117
-    rank 8
-  ]
-  edge [
-    source 263
-    target 139
-    rank 9
-  ]
-  edge [
-    source 263
-    target 346
-    rank 13
-  ]
-  edge [
-    source 263
-    target 69
-    rank 17
-  ]
-  edge [
-    source 263
-    target 147
-    rank 20
-  ]
-  edge [
-    source 264
-    target 67
-    rank 4
-  ]
-  edge [
-    source 264
-    target 8
-    rank 5
-  ]
-  edge [
-    source 264
-    target 93
-    rank 6
-  ]
-  edge [
-    source 264
-    target 336
-    rank 7
-  ]
-  edge [
-    source 264
-    target 196
-    rank 8
-  ]
-  edge [
-    source 264
-    target 147
-    rank 15
-  ]
-  edge [
-    source 264
-    target 378
-    rank 20
-  ]
-  edge [
-    source 265
-    target 337
-    rank 2
-  ]
-  edge [
-    source 265
-    target 350
-    rank 14
-  ]
-  edge [
-    source 266
-    target 93
-    rank 2
-  ]
-  edge [
-    source 266
-    target 232
-    rank 5
-  ]
-  edge [
-    source 266
+  edge
+  [
+    source 170
     target 1
-    rank 10
-  ]
-  edge [
-    source 266
-    target 110
-    rank 12
-  ]
-  edge [
-    source 266
-    target 234
-    rank 17
-  ]
-  edge [
-    source 267
-    target 269
-    rank 2
-  ]
-  edge [
-    source 267
-    target 173
-    rank 8
-  ]
-  edge [
-    source 267
-    target 140
-    rank 14
-  ]
-  edge [
-    source 268
-    target 192
-    rank 20
-  ]
-  edge [
-    source 269
-    target 240
-    rank 3
-  ]
-  edge [
-    source 269
-    target 238
-    rank 4
-  ]
-  edge [
-    source 269
-    target 140
-    rank 10
-  ]
-  edge [
-    source 269
-    target 267
     rank 11
   ]
-  edge [
-    source 270
-    target 119
-    rank 5
+  edge
+  [
+    source 170
+    target 289
+    rank 14
   ]
-  edge [
-    source 270
-    target 147
+  edge
+  [
+    source 170
+    target 0
     rank 16
   ]
-  edge [
-    source 271
+  edge
+  [
+    source 172
+    target 1
+    rank 8
+  ]
+  edge
+  [
+    source 172
+    target 2
+    rank 12
+  ]
+  edge
+  [
+    source 173
+    target 251
+    rank 6
+  ]
+  edge
+  [
+    source 173
+    target 369
+    rank 16
+  ]
+  edge
+  [
+    source 173
+    target 130
+    rank 18
+  ]
+  edge
+  [
+    source 173
+    target 398
+    rank 19
+  ]
+  edge
+  [
+    source 174
+    target 87
+    rank 8
+  ]
+  edge
+  [
+    source 175
+    target 17
+    rank 10
+  ]
+  edge
+  [
+    source 176
+    target 273
+    rank 1
+  ]
+  edge
+  [
+    source 176
+    target 209
+    rank 7
+  ]
+  edge
+  [
+    source 177
+    target 87
+    rank 10
+  ]
+  edge
+  [
+    source 178
+    target 97
+    rank 1
+  ]
+  edge
+  [
+    source 178
     target 243
     rank 2
   ]
-  edge [
-    source 272
-    target 5
-    rank 1
+  edge
+  [
+    source 178
+    target 185
+    rank 8
   ]
-  edge [
-    source 272
-    target 17
-    rank 11
+  edge
+  [
+    source 178
+    target 144
+    rank 15
   ]
-  edge [
-    source 273
-    target 299
-    rank 2
-  ]
-  edge [
-    source 273
-    target 147
-    rank 14
-  ]
-  edge [
-    source 274
-    target 251
-    rank 6
-  ]
-  edge [
-    source 274
-    target 9
-    rank 7
-  ]
-  edge [
-    source 274
-    target 268
-    rank 9
-  ]
-  edge [
-    source 274
-    target 155
-    rank 11
-  ]
-  edge [
-    source 274
-    target 192
-    rank 20
-  ]
-  edge [
-    source 275
-    target 17
-    rank 4
-  ]
-  edge [
-    source 275
-    target 121
+  edge
+  [
+    source 178
+    target 267
     rank 17
   ]
-  edge [
-    source 275
-    target 65
-    rank 20
+  edge
+  [
+    source 178
+    target 432
+    rank 18
   ]
-  edge [
-    source 276
-    target 251
+  edge
+  [
+    source 179
+    target 385
+    rank 5
+  ]
+  edge
+  [
+    source 179
+    target 114
     rank 6
   ]
-  edge [
-    source 276
-    target 147
-    rank 10
-  ]
-  edge [
-    source 276
-    target 122
-    rank 12
-  ]
-  edge [
-    source 277
-    target 0
-    rank 4
-  ]
-  edge [
-    source 277
-    target 185
+  edge
+  [
+    source 179
+    target 95
     rank 11
   ]
-  edge [
-    source 278
-    target 8
-    rank 1
+  edge
+  [
+    source 179
+    target 116
+    rank 14
   ]
-  edge [
-    source 278
-    target 232
-    rank 2
+  edge
+  [
+    source 179
+    target 348
+    rank 17
   ]
-  edge [
-    source 278
-    target 375
-    rank 9
-  ]
-  edge [
-    source 278
-    target 234
-    rank 10
-  ]
-  edge [
-    source 278
-    target 369
-    rank 15
-  ]
-  edge [
-    source 279
-    target 155
+  edge
+  [
+    source 180
+    target 348
     rank 16
   ]
-  edge [
-    source 280
-    target 7
-    rank 3
+  edge
+  [
+    source 180
+    target 427
+    rank 17
   ]
-  edge [
-    source 280
-    target 193
-    rank 9
-  ]
-  edge [
-    source 281
-    target 185
+  edge
+  [
+    source 181
+    target 65
     rank 2
   ]
-  edge [
-    source 281
-    target 43
+  edge
+  [
+    source 181
+    target 2
+    rank 3
+  ]
+  edge
+  [
+    source 181
+    target 284
+    rank 5
+  ]
+  edge
+  [
+    source 181
+    target 8
+    rank 11
+  ]
+  edge
+  [
+    source 181
+    target 218
+    rank 13
+  ]
+  edge
+  [
+    source 181
+    target 258
+    rank 20
+  ]
+  edge
+  [
+    source 183
+    target 251
+    rank 4
+  ]
+  edge
+  [
+    source 183
+    target 8
+    rank 10
+  ]
+  edge
+  [
+    source 184
+    target 8
+    rank 2
+  ]
+  edge
+  [
+    source 184
+    target 428
+    rank 10
+  ]
+  edge
+  [
+    source 185
+    target 97
+    rank 1
+  ]
+  edge
+  [
+    source 185
+    target 7
+    rank 2
+  ]
+  edge
+  [
+    source 185
+    target 144
+    rank 14
+  ]
+  edge
+  [
+    source 186
+    target 145
+    rank 3
+  ]
+  edge
+  [
+    source 186
+    target 124
+    rank 5
+  ]
+  edge
+  [
+    source 186
+    target 257
+    rank 13
+  ]
+  edge
+  [
+    source 186
+    target 134
     rank 15
   ]
-  edge [
-    source 282
+  edge
+  [
+    source 188
+    target 289
+    rank 1
+  ]
+  edge
+  [
+    source 188
+    target 8
+    rank 3
+  ]
+  edge
+  [
+    source 188
+    target 421
+    rank 7
+  ]
+  edge
+  [
+    source 188
+    target 251
+    rank 8
+  ]
+  edge
+  [
+    source 188
+    target 253
+    rank 9
+  ]
+  edge
+  [
+    source 188
+    target 61
+    rank 17
+  ]
+  edge
+  [
+    source 188
+    target 428
+    rank 18
+  ]
+  edge
+  [
+    source 189
     target 0
     rank 8
   ]
-  edge [
-    source 282
-    target 251
-    rank 16
-  ]
-  edge [
-    source 283
-    target 2
-    rank 7
-  ]
-  edge [
-    source 284
-    target 0
-    rank 4
-  ]
-  edge [
-    source 284
-    target 258
-    rank 5
-  ]
-  edge [
-    source 284
-    target 117
-    rank 15
-  ]
-  edge [
-    source 284
-    target 316
-    rank 17
-  ]
-  edge [
-    source 285
-    target 251
-    rank 5
-  ]
-  edge [
-    source 285
-    target 8
-    rank 6
-  ]
-  edge [
-    source 285
-    target 110
-    rank 13
-  ]
-  edge [
-    source 285
-    target 60
-    rank 20
-  ]
-  edge [
-    source 286
-    target 128
-    rank 9
-  ]
-  edge [
-    source 286
-    target 122
-    rank 13
-  ]
-  edge [
-    source 287
-    target 205
-    rank 19
-  ]
-  edge [
-    source 288
-    target 0
-    rank 2
-  ]
-  edge [
-    source 288
-    target 8
-    rank 13
-  ]
-  edge [
-    source 289
-    target 238
-    rank 7
-  ]
-  edge [
-    source 290
-    target 196
+  edge
+  [
+    source 189
+    target 55
     rank 14
   ]
-  edge [
-    source 290
+  edge
+  [
+    source 191
+    target 10
+    rank 1
+  ]
+  edge
+  [
+    source 191
+    target 155
+    rank 9
+  ]
+  edge
+  [
+    source 191
+    target 127
+    rank 14
+  ]
+  edge
+  [
+    source 192
+    target 273
+    rank 2
+  ]
+  edge
+  [
+    source 192
+    target 0
+    rank 10
+  ]
+  edge
+  [
+    source 193
+    target 97
+    rank 2
+  ]
+  edge
+  [
+    source 193
+    target 185
+    rank 14
+  ]
+  edge
+  [
+    source 194
+    target 273
+    rank 18
+  ]
+  edge
+  [
+    source 196
+    target 200
+    rank 8
+  ]
+  edge
+  [
+    source 198
+    target 97
+    rank 2
+  ]
+  edge
+  [
+    source 198
+    target 55
+    rank 7
+  ]
+  edge
+  [
+    source 198
+    target 144
+    rank 8
+  ]
+  edge
+  [
+    source 198
+    target 185
+    rank 11
+  ]
+  edge
+  [
+    source 199
+    target 8
+    rank 3
+  ]
+  edge
+  [
+    source 199
+    target 225
+    rank 10
+  ]
+  edge
+  [
+    source 200
+    target 0
+    rank 3
+  ]
+  edge
+  [
+    source 200
+    target 1
+    rank 11
+  ]
+  edge
+  [
+    source 201
+    target 2
+    rank 1
+  ]
+  edge
+  [
+    source 201
     target 124
     rank 15
   ]
-  edge [
-    source 290
-    target 117
-    rank 20
+  edge
+  [
+    source 202
+    target 124
+    rank 7
   ]
-  edge [
-    source 291
-    target 266
-    rank 2
-  ]
-  edge [
-    source 291
-    target 232
+  edge
+  [
+    source 203
+    target 141
     rank 5
   ]
-  edge [
-    source 291
-    target 234
-    rank 7
-  ]
-  edge [
-    source 291
-    target 8
-    rank 15
-  ]
-  edge [
-    source 291
-    target 375
-    rank 18
-  ]
-  edge [
-    source 292
-    target 8
-    rank 1
-  ]
-  edge [
-    source 292
-    target 251
-    rank 2
-  ]
-  edge [
-    source 292
-    target 261
-    rank 7
-  ]
-  edge [
-    source 292
-    target 39
-    rank 10
-  ]
-  edge [
-    source 292
-    target 60
-    rank 11
-  ]
-  edge [
-    source 292
-    target 202
-    rank 12
-  ]
-  edge [
-    source 293
-    target 109
+  edge
+  [
+    source 203
+    target 155
     rank 8
   ]
-  edge [
-    source 293
-    target 111
-    rank 15
-  ]
-  edge [
-    source 294
-    target 251
-    rank 7
-  ]
-  edge [
-    source 295
-    target 251
-    rank 4
-  ]
-  edge [
-    source 295
-    target 114
-    rank 16
-  ]
-  edge [
-    source 295
-    target 2
-    rank 18
-  ]
-  edge [
-    source 296
-    target 341
-    rank 3
-  ]
-  edge [
-    source 296
-    target 9
-    rank 6
-  ]
-  edge [
-    source 296
-    target 0
-    rank 8
-  ]
-  edge [
-    source 296
-    target 29
-    rank 11
-  ]
-  edge [
-    source 296
-    target 6
-    rank 15
-  ]
-  edge [
-    source 296
-    target 251
-    rank 16
-  ]
-  edge [
-    source 297
-    target 0
-    rank 4
-  ]
-  edge [
-    source 297
-    target 341
-    rank 7
-  ]
-  edge [
-    source 297
-    target 2
-    rank 8
-  ]
-  edge [
-    source 297
-    target 6
-    rank 9
-  ]
-  edge [
-    source 297
-    target 199
+  edge
+  [
+    source 203
+    target 267
     rank 13
   ]
-  edge [
-    source 297
-    target 1
-    rank 17
+  edge
+  [
+    source 204
+    target 97
+    rank 1
   ]
-  edge [
-    source 298
+  edge
+  [
+    source 204
+    target 55
+    rank 2
+  ]
+  edge
+  [
+    source 204
     target 185
     rank 4
   ]
-  edge [
-    source 299
-    target 349
-    rank 10
+  edge
+  [
+    source 204
+    target 381
+    rank 14
   ]
-  edge [
-    source 299
-    target 154
-    rank 15
+  edge
+  [
+    source 204
+    target 211
+    rank 17
   ]
-  edge [
-    source 299
-    target 22
+  edge
+  [
+    source 204
+    target 144
     rank 19
   ]
-  edge [
-    source 300
+  edge
+  [
+    source 204
+    target 178
+    rank 20
+  ]
+  edge
+  [
+    source 205
+    target 191
+    rank 13
+  ]
+  edge
+  [
+    source 205
+    target 164
+    rank 16
+  ]
+  edge
+  [
+    source 206
+    target 97
+    rank 2
+  ]
+  edge
+  [
+    source 206
+    target 211
+    rank 4
+  ]
+  edge
+  [
+    source 206
+    target 122
+    rank 6
+  ]
+  edge
+  [
+    source 206
+    target 185
+    rank 8
+  ]
+  edge
+  [
+    source 206
+    target 381
+    rank 12
+  ]
+  edge
+  [
+    source 206
+    target 144
+    rank 16
+  ]
+  edge
+  [
+    source 207
+    target 273
+    rank 3
+  ]
+  edge
+  [
+    source 207
+    target 388
+    rank 4
+  ]
+  edge
+  [
+    source 207
+    target 0
+    rank 19
+  ]
+  edge
+  [
+    source 208
+    target 400
+    rank 2
+  ]
+  edge
+  [
+    source 208
+    target 8
+    rank 6
+  ]
+  edge
+  [
+    source 208
+    target 305
+    rank 17
+  ]
+  edge
+  [
+    source 209
+    target 0
+    rank 8
+  ]
+  edge
+  [
+    source 210
+    target 97
+    rank 1
+  ]
+  edge
+  [
+    source 210
+    target 211
+    rank 5
+  ]
+  edge
+  [
+    source 210
+    target 144
+    rank 7
+  ]
+  edge
+  [
+    source 210
+    target 185
+    rank 15
+  ]
+  edge
+  [
+    source 210
+    target 381
+    rank 18
+  ]
+  edge
+  [
+    source 210
+    target 432
+    rank 20
+  ]
+  edge
+  [
+    source 211
+    target 252
+    rank 4
+  ]
+  edge
+  [
+    source 211
+    target 432
+    rank 17
+  ]
+  edge
+  [
+    source 211
+    target 115
+    rank 20
+  ]
+  edge
+  [
+    source 212
+    target 0
+    rank 2
+  ]
+  edge
+  [
+    source 212
+    target 251
+    rank 5
+  ]
+  edge
+  [
+    source 212
+    target 253
+    rank 18
+  ]
+  edge
+  [
+    source 212
+    target 130
+    rank 20
+  ]
+  edge
+  [
+    source 216
+    target 7
+    rank 1
+  ]
+  edge
+  [
+    source 216
+    target 329
+    rank 3
+  ]
+  edge
+  [
+    source 216
+    target 398
+    rank 6
+  ]
+  edge
+  [
+    source 216
+    target 22
+    rank 15
+  ]
+  edge
+  [
+    source 217
+    target 2
+    rank 1
+  ]
+  edge
+  [
+    source 217
+    target 115
+    rank 8
+  ]
+  edge
+  [
+    source 217
+    target 130
+    rank 11
+  ]
+  edge
+  [
+    source 217
+    target 203
+    rank 15
+  ]
+  edge
+  [
+    source 219
+    target 2
+    rank 2
+  ]
+  edge
+  [
+    source 219
+    target 1
+    rank 6
+  ]
+  edge
+  [
+    source 219
+    target 115
+    rank 10
+  ]
+  edge
+  [
+    source 219
+    target 30
+    rank 15
+  ]
+  edge
+  [
+    source 219
+    target 190
+    rank 16
+  ]
+  edge
+  [
+    source 219
+    target 194
+    rank 17
+  ]
+  edge
+  [
+    source 219
+    target 23
+    rank 20
+  ]
+  edge
+  [
+    source 221
+    target 17
+    rank 1
+  ]
+  edge
+  [
+    source 222
+    target 2
+    rank 1
+  ]
+  edge
+  [
+    source 223
+    target 8
+    rank 15
+  ]
+  edge
+  [
+    source 224
+    target 200
+    rank 3
+  ]
+  edge
+  [
+    source 227
+    target 167
+    rank 14
+  ]
+  edge
+  [
+    source 227
+    target 126
+    rank 16
+  ]
+  edge
+  [
+    source 228
+    target 17
+    rank 1
+  ]
+  edge
+  [
+    source 229
+    target 127
+    rank 11
+  ]
+  edge
+  [
+    source 229
+    target 61
+    rank 13
+  ]
+  edge
+  [
+    source 229
+    target 38
+    rank 18
+  ]
+  edge
+  [
+    source 229
+    target 284
+    rank 19
+  ]
+  edge
+  [
+    source 230
+    target 0
+    rank 4
+  ]
+  edge
+  [
+    source 230
+    target 115
+    rank 5
+  ]
+  edge
+  [
+    source 230
+    target 126
+    rank 14
+  ]
+  edge
+  [
+    source 230
+    target 91
+    rank 15
+  ]
+  edge
+  [
+    source 230
+    target 141
+    rank 16
+  ]
+  edge
+  [
+    source 230
+    target 203
+    rank 20
+  ]
+  edge
+  [
+    source 231
+    target 7
+    rank 1
+  ]
+  edge
+  [
+    source 231
+    target 27
+    rank 2
+  ]
+  edge
+  [
+    source 231
+    target 289
+    rank 6
+  ]
+  edge
+  [
+    source 231
+    target 6
+    rank 7
+  ]
+  edge
+  [
+    source 231
+    target 37
+    rank 11
+  ]
+  edge
+  [
+    source 231
+    target 251
+    rank 16
+  ]
+  edge
+  [
+    source 231
+    target 23
+    rank 17
+  ]
+  edge
+  [
+    source 232
+    target 228
+    rank 7
+  ]
+  edge
+  [
+    source 232
+    target 155
+    rank 17
+  ]
+  edge
+  [
+    source 233
+    target 141
+    rank 19
+  ]
+  edge
+  [
+    source 234
+    target 293
+    rank 2
+  ]
+  edge
+  [
+    source 234
+    target 134
+    rank 8
+  ]
+  edge
+  [
+    source 234
+    target 290
+    rank 9
+  ]
+  edge
+  [
+    source 234
+    target 257
+    rank 17
+  ]
+  edge
+  [
+    source 234
+    target 186
+    rank 18
+  ]
+  edge
+  [
+    source 234
+    target 145
+    rank 19
+  ]
+  edge
+  [
+    source 235
+    target 0
+    rank 9
+  ]
+  edge
+  [
+    source 235
+    target 273
+    rank 16
+  ]
+  edge
+  [
+    source 236
+    target 97
+    rank 1
+  ]
+  edge
+  [
+    source 236
+    target 185
+    rank 5
+  ]
+  edge
+  [
+    source 236
+    target 18
+    rank 8
+  ]
+  edge
+  [
+    source 236
+    target 55
+    rank 11
+  ]
+  edge
+  [
+    source 236
+    target 144
+    rank 13
+  ]
+  edge
+  [
+    source 236
+    target 381
+    rank 19
+  ]
+  edge
+  [
+    source 237
+    target 200
+    rank 11
+  ]
+  edge
+  [
+    source 237
+    target 402
+    rank 15
+  ]
+  edge
+  [
+    source 237
+    target 1
+    rank 18
+  ]
+  edge
+  [
+    source 237
+    target 272
+    rank 20
+  ]
+  edge
+  [
+    source 238
+    target 0
+    rank 4
+  ]
+  edge
+  [
+    source 238
+    target 190
+    rank 7
+  ]
+  edge
+  [
+    source 238
+    target 284
+    rank 20
+  ]
+  edge
+  [
+    source 240
+    target 0
+    rank 3
+  ]
+  edge
+  [
+    source 241
+    target 122
+    rank 5
+  ]
+  edge
+  [
+    source 243
+    target 246
+    rank 11
+  ]
+  edge
+  [
+    source 244
+    target 225
+    rank 7
+  ]
+  edge
+  [
+    source 244
+    target 140
+    rank 16
+  ]
+  edge
+  [
+    source 244
+    target 116
+    rank 19
+  ]
+  edge
+  [
+    source 245
+    target 307
+    rank 5
+  ]
+  edge
+  [
+    source 245
+    target 0
+    rank 7
+  ]
+  edge
+  [
+    source 245
+    target 25
+    rank 11
+  ]
+  edge
+  [
+    source 245
+    target 1
+    rank 13
+  ]
+  edge
+  [
+    source 245
+    target 309
+    rank 20
+  ]
+  edge
+  [
+    source 246
+    target 124
+    rank 19
+  ]
+  edge
+  [
+    source 248
+    target 127
+    rank 15
+  ]
+  edge
+  [
+    source 249
+    target 155
+    rank 16
+  ]
+  edge
+  [
+    source 249
+    target 21
+    rank 20
+  ]
+  edge
+  [
+    source 250
+    target 273
+    rank 1
+  ]
+  edge
+  [
+    source 250
+    target 8
+    rank 12
+  ]
+  edge
+  [
+    source 251
+    target 1
+    rank 2
+  ]
+  edge
+  [
+    source 251
+    target 289
+    rank 3
+  ]
+  edge
+  [
+    source 251
+    target 252
+    rank 5
+  ]
+  edge
+  [
+    source 251
+    target 8
+    rank 10
+  ]
+  edge
+  [
+    source 251
+    target 253
+    rank 16
+  ]
+  edge
+  [
+    source 251
+    target 428
+    rank 17
+  ]
+  edge
+  [
+    source 252
+    target 7
+    rank 1
+  ]
+  edge
+  [
+    source 252
+    target 211
+    rank 4
+  ]
+  edge
+  [
+    source 252
+    target 260
+    rank 7
+  ]
+  edge
+  [
+    source 252
+    target 155
+    rank 20
+  ]
+  edge
+  [
+    source 253
+    target 8
+    rank 3
+  ]
+  edge
+  [
+    source 253
+    target 289
+    rank 6
+  ]
+  edge
+  [
+    source 253
+    target 0
+    rank 10
+  ]
+  edge
+  [
+    source 253
+    target 55
+    rank 14
+  ]
+  edge
+  [
+    source 253
+    target 421
+    rank 15
+  ]
+  edge
+  [
+    source 253
+    target 251
+    rank 16
+  ]
+  edge
+  [
+    source 253
+    target 272
+    rank 18
+  ]
+  edge
+  [
+    source 253
+    target 428
+    rank 19
+  ]
+  edge
+  [
+    source 254
+    target 20
+    rank 7
+  ]
+  edge
+  [
+    source 254
+    target 401
+    rank 10
+  ]
+  edge
+  [
+    source 254
+    target 124
+    rank 17
+  ]
+  edge
+  [
+    source 255
+    target 290
+    rank 11
+  ]
+  edge
+  [
+    source 255
+    target 144
+    rank 16
+  ]
+  edge
+  [
+    source 256
+    target 155
+    rank 4
+  ]
+  edge
+  [
+    source 256
+    target 200
+    rank 5
+  ]
+  edge
+  [
+    source 256
+    target 115
+    rank 6
+  ]
+  edge
+  [
+    source 256
+    target 267
+    rank 9
+  ]
+  edge
+  [
+    source 257
+    target 145
+    rank 2
+  ]
+  edge
+  [
+    source 257
+    target 134
+    rank 9
+  ]
+  edge
+  [
+    source 257
+    target 262
+    rank 11
+  ]
+  edge
+  [
+    source 257
+    target 127
+    rank 16
+  ]
+  edge
+  [
+    source 257
+    target 293
+    rank 19
+  ]
+  edge
+  [
+    source 258
+    target 6
+    rank 4
+  ]
+  edge
+  [
+    source 258
+    target 398
+    rank 14
+  ]
+  edge
+  [
+    source 260
+    target 7
+    rank 1
+  ]
+  edge
+  [
+    source 260
+    target 252
+    rank 4
+  ]
+  edge
+  [
+    source 260
+    target 257
+    rank 5
+  ]
+  edge
+  [
+    source 260
+    target 211
+    rank 7
+  ]
+  edge
+  [
+    source 260
+    target 218
+    rank 19
+  ]
+  edge
+  [
+    source 261
+    target 0
+    rank 6
+  ]
+  edge
+  [
+    source 261
+    target 289
+    rank 8
+  ]
+  edge
+  [
+    source 261
+    target 253
+    rank 15
+  ]
+  edge
+  [
+    source 261
+    target 61
+    rank 17
+  ]
+  edge
+  [
+    source 261
+    target 169
+    rank 18
+  ]
+  edge
+  [
+    source 263
+    target 67
+    rank 13
+  ]
+  edge
+  [
+    source 263
+    target 295
+    rank 16
+  ]
+  edge
+  [
+    source 265
+    target 8
+    rank 2
+  ]
+  edge
+  [
+    source 265
+    target 69
+    rank 6
+  ]
+  edge
+  [
+    source 265
+    target 287
+    rank 8
+  ]
+  edge
+  [
+    source 265
+    target 182
+    rank 20
+  ]
+  edge
+  [
+    source 266
+    target 273
+    rank 2
+  ]
+  edge
+  [
+    source 266
+    target 6
+    rank 4
+  ]
+  edge
+  [
+    source 267
+    target 0
+    rank 3
+  ]
+  edge
+  [
+    source 267
+    target 9
+    rank 8
+  ]
+  edge
+  [
+    source 267
+    target 273
+    rank 9
+  ]
+  edge
+  [
+    source 267
+    target 29
+    rank 12
+  ]
+  edge
+  [
+    source 267
+    target 272
+    rank 18
+  ]
+  edge
+  [
+    source 268
+    target 273
+    rank 3
+  ]
+  edge
+  [
+    source 268
+    target 401
+    rank 8
+  ]
+  edge
+  [
+    source 268
+    target 295
+    rank 12
+  ]
+  edge
+  [
+    source 270
+    target 200
+    rank 19
+  ]
+  edge
+  [
+    source 271
+    target 55
+    rank 11
+  ]
+  edge
+  [
+    source 271
+    target 116
+    rank 18
+  ]
+  edge
+  [
+    source 272
+    target 0
+    rank 5
+  ]
+  edge
+  [
+    source 272
+    target 9
+    rank 8
+  ]
+  edge
+  [
+    source 273
     target 0
     rank 14
   ]
-  edge [
-    source 300
-    target 251
+  edge
+  [
+    source 274
+    target 7
+    rank 1
+  ]
+  edge
+  [
+    source 274
+    target 247
+    rank 16
+  ]
+  edge
+  [
+    source 275
+    target 273
+    rank 3
+  ]
+  edge
+  [
+    source 276
+    target 2
+    rank 5
+  ]
+  edge
+  [
+    source 276
+    target 65
+    rank 9
+  ]
+  edge
+  [
+    source 276
+    target 273
+    rank 11
+  ]
+  edge
+  [
+    source 276
+    target 119
     rank 19
   ]
-  edge [
-    source 301
+  edge
+  [
+    source 276
+    target 8
+    rank 20
+  ]
+  edge
+  [
+    source 277
+    target 1
+    rank 6
+  ]
+  edge
+  [
+    source 278
+    target 38
+    rank 4
+  ]
+  edge
+  [
+    source 278
+    target 225
+    rank 18
+  ]
+  edge
+  [
+    source 279
+    target 225
+    rank 17
+  ]
+  edge
+  [
+    source 279
+    target 213
+    rank 18
+  ]
+  edge
+  [
+    source 281
+    target 0
+    rank 7
+  ]
+  edge
+  [
+    source 281
+    target 307
+    rank 20
+  ]
+  edge
+  [
+    source 282
+    target 141
+    rank 13
+  ]
+  edge
+  [
+    source 282
+    target 203
+    rank 14
+  ]
+  edge
+  [
+    source 283
+    target 2
+    rank 5
+  ]
+  edge
+  [
+    source 283
+    target 15
+    rank 10
+  ]
+  edge
+  [
+    source 284
+    target 1
+    rank 4
+  ]
+  edge
+  [
+    source 284
+    target 273
+    rank 6
+  ]
+  edge
+  [
+    source 284
+    target 29
+    rank 7
+  ]
+  edge
+  [
+    source 284
+    target 215
+    rank 11
+  ]
+  edge
+  [
+    source 284
+    target 0
+    rank 16
+  ]
+  edge
+  [
+    source 285
+    target 312
+    rank 3
+  ]
+  edge
+  [
+    source 285
+    target 434
+    rank 6
+  ]
+  edge
+  [
+    source 286
+    target 122
+    rank 8
+  ]
+  edge
+  [
+    source 286
+    target 144
+    rank 9
+  ]
+  edge
+  [
+    source 286
+    target 395
+    rank 13
+  ]
+  edge
+  [
+    source 286
+    target 71
+    rank 17
+  ]
+  edge
+  [
+    source 286
+    target 155
+    rank 20
+  ]
+  edge
+  [
+    source 287
+    target 69
+    rank 4
+  ]
+  edge
+  [
+    source 287
+    target 8
+    rank 5
+  ]
+  edge
+  [
+    source 287
+    target 97
+    rank 6
+  ]
+  edge
+  [
+    source 287
+    target 381
+    rank 7
+  ]
+  edge
+  [
+    source 287
+    target 211
+    rank 8
+  ]
+  edge
+  [
+    source 287
+    target 155
+    rank 15
+  ]
+  edge
+  [
+    source 287
+    target 432
+    rank 20
+  ]
+  edge
+  [
+    source 288
+    target 383
+    rank 2
+  ]
+  edge
+  [
+    source 288
+    target 400
+    rank 14
+  ]
+  edge
+  [
+    source 289
+    target 97
+    rank 2
+  ]
+  edge
+  [
+    source 289
+    target 251
+    rank 5
+  ]
+  edge
+  [
+    source 289
+    target 1
+    rank 10
+  ]
+  edge
+  [
+    source 289
+    target 115
+    rank 12
+  ]
+  edge
+  [
+    source 289
+    target 253
+    rank 17
+  ]
+  edge
+  [
+    source 290
+    target 293
+    rank 2
+  ]
+  edge
+  [
+    source 290
+    target 186
+    rank 8
+  ]
+  edge
+  [
+    source 290
+    target 145
+    rank 14
+  ]
+  edge
+  [
+    source 291
+    target 207
+    rank 20
+  ]
+  edge
+  [
+    source 293
+    target 260
+    rank 3
+  ]
+  edge
+  [
+    source 293
+    target 257
+    rank 4
+  ]
+  edge
+  [
+    source 293
+    target 145
+    rank 10
+  ]
+  edge
+  [
+    source 293
+    target 290
+    rank 11
+  ]
+  edge
+  [
+    source 294
+    target 124
+    rank 5
+  ]
+  edge
+  [
+    source 294
+    target 155
+    rank 16
+  ]
+  edge
+  [
+    source 295
+    target 263
+    rank 2
+  ]
+  edge
+  [
+    source 296
+    target 5
+    rank 1
+  ]
+  edge
+  [
+    source 296
+    target 17
+    rank 11
+  ]
+  edge
+  [
+    source 297
+    target 329
+    rank 2
+  ]
+  edge
+  [
+    source 297
+    target 155
+    rank 14
+  ]
+  edge
+  [
+    source 298
+    target 273
+    rank 6
+  ]
+  edge
+  [
+    source 298
+    target 9
+    rank 7
+  ]
+  edge
+  [
+    source 298
+    target 291
+    rank 9
+  ]
+  edge
+  [
+    source 298
+    target 167
+    rank 11
+  ]
+  edge
+  [
+    source 298
+    target 207
+    rank 20
+  ]
+  edge
+  [
+    source 299
+    target 17
+    rank 4
+  ]
+  edge
+  [
+    source 299
+    target 126
+    rank 17
+  ]
+  edge
+  [
+    source 299
+    target 67
+    rank 20
+  ]
+  edge
+  [
+    source 300
+    target 273
+    rank 6
+  ]
+  edge
+  [
+    source 300
+    target 155
+    rank 10
+  ]
+  edge
+  [
+    source 300
+    target 127
+    rank 12
+  ]
+  edge
+  [
+    source 302
+    target 0
+    rank 4
+  ]
+  edge
+  [
+    source 302
+    target 200
+    rank 11
+  ]
+  edge
+  [
+    source 303
+    target 8
+    rank 1
+  ]
+  edge
+  [
+    source 303
+    target 251
+    rank 2
+  ]
+  edge
+  [
+    source 303
+    target 428
+    rank 9
+  ]
+  edge
+  [
+    source 303
+    target 253
+    rank 10
+  ]
+  edge
+  [
+    source 303
+    target 421
+    rank 15
+  ]
+  edge
+  [
+    source 304
+    target 167
+    rank 16
+  ]
+  edge
+  [
+    source 305
     target 7
     rank 3
   ]
-  edge [
-    source 301
-    target 29
-    rank 8
+  edge
+  [
+    source 305
+    target 208
+    rank 9
   ]
-  edge [
-    source 302
-    target 233
+  edge
+  [
+    source 306
+    target 200
     rank 2
   ]
-  edge [
-    source 302
-    target 196
+  edge
+  [
+    source 306
+    target 43
+    rank 15
+  ]
+  edge
+  [
+    source 307
+    target 0
     rank 8
   ]
-  edge [
-    source 302
-    target 240
-    rank 11
+  edge
+  [
+    source 307
+    target 273
+    rank 16
   ]
-  edge [
-    source 302
-    target 117
-    rank 12
+  edge
+  [
+    source 308
+    target 2
+    rank 7
   ]
-  edge [
-    source 302
-    target 314
-    rank 14
+  edge
+  [
+    source 309
+    target 0
+    rank 4
   ]
-  edge [
-    source 302
+  edge
+  [
+    source 309
+    target 281
+    rank 5
+  ]
+  edge
+  [
+    source 309
+    target 122
+    rank 15
+  ]
+  edge
+  [
+    source 309
+    target 354
+    rank 17
+  ]
+  edge
+  [
+    source 311
+    target 273
+    rank 5
+  ]
+  edge
+  [
+    source 311
+    target 8
+    rank 6
+  ]
+  edge
+  [
+    source 311
+    target 115
+    rank 13
+  ]
+  edge
+  [
+    source 311
+    target 61
+    rank 20
+  ]
+  edge
+  [
+    source 312
+    target 133
+    rank 9
+  ]
+  edge
+  [
+    source 312
+    target 127
+    rank 13
+  ]
+  edge
+  [
+    source 313
     target 222
     rank 19
   ]
-  edge [
-    source 303
+  edge
+  [
+    source 315
     target 0
     rank 2
   ]
-  edge [
-    source 303
-    target 2
-    rank 3
+  edge
+  [
+    source 315
+    target 8
+    rank 13
   ]
-  edge [
-    source 303
-    target 185
-    rank 8
+  edge
+  [
+    source 316
+    target 257
+    rank 7
   ]
-  edge [
-    source 303
+  edge
+  [
+    source 318
+    target 211
+    rank 14
+  ]
+  edge
+  [
+    source 318
+    target 129
+    rank 15
+  ]
+  edge
+  [
+    source 318
+    target 122
+    rank 20
+  ]
+  edge
+  [
+    source 319
+    target 289
+    rank 2
+  ]
+  edge
+  [
+    source 319
     target 251
-    rank 9
+    rank 5
   ]
-  edge [
-    source 304
-    target 117
-    rank 6
+  edge
+  [
+    source 319
+    target 253
+    rank 7
   ]
-  edge [
-    source 304
-    target 246
+  edge
+  [
+    source 319
+    target 8
+    rank 15
+  ]
+  edge
+  [
+    source 319
+    target 428
+    rank 18
+  ]
+  edge
+  [
+    source 320
+    target 8
+    rank 1
+  ]
+  edge
+  [
+    source 320
+    target 273
+    rank 2
+  ]
+  edge
+  [
+    source 320
+    target 284
+    rank 7
+  ]
+  edge
+  [
+    source 320
+    target 39
+    rank 10
+  ]
+  edge
+  [
+    source 320
+    target 61
     rank 11
   ]
-  edge [
-    source 304
+  edge
+  [
+    source 320
+    target 218
+    rank 12
+  ]
+  edge
+  [
+    source 321
+    target 114
+    rank 8
+  ]
+  edge
+  [
+    source 321
+    target 116
+    rank 15
+  ]
+  edge
+  [
+    source 322
+    target 273
+    rank 7
+  ]
+  edge
+  [
+    source 324
+    target 273
+    rank 4
+  ]
+  edge
+  [
+    source 324
+    target 119
+    rank 16
+  ]
+  edge
+  [
+    source 324
+    target 2
+    rank 18
+  ]
+  edge
+  [
+    source 325
+    target 388
+    rank 3
+  ]
+  edge
+  [
+    source 325
+    target 9
+    rank 6
+  ]
+  edge
+  [
+    source 325
+    target 0
+    rank 8
+  ]
+  edge
+  [
+    source 325
+    target 29
+    rank 11
+  ]
+  edge
+  [
+    source 325
+    target 6
+    rank 15
+  ]
+  edge
+  [
+    source 325
+    target 273
+    rank 16
+  ]
+  edge
+  [
+    source 327
+    target 0
+    rank 4
+  ]
+  edge
+  [
+    source 327
+    target 388
+    rank 7
+  ]
+  edge
+  [
+    source 327
+    target 2
+    rank 8
+  ]
+  edge
+  [
+    source 327
+    target 6
+    rank 9
+  ]
+  edge
+  [
+    source 327
+    target 215
+    rank 13
+  ]
+  edge
+  [
+    source 327
+    target 1
+    rank 17
+  ]
+  edge
+  [
+    source 328
+    target 200
+    rank 4
+  ]
+  edge
+  [
+    source 329
+    target 398
+    rank 10
+  ]
+  edge
+  [
+    source 329
+    target 166
+    rank 15
+  ]
+  edge
+  [
+    source 329
+    target 22
+    rank 19
+  ]
+  edge
+  [
+    source 330
+    target 0
+    rank 14
+  ]
+  edge
+  [
+    source 330
+    target 273
+    rank 19
+  ]
+  edge
+  [
+    source 332
+    target 7
+    rank 3
+  ]
+  edge
+  [
+    source 332
+    target 29
+    rank 8
+  ]
+  edge
+  [
+    source 333
+    target 252
+    rank 2
+  ]
+  edge
+  [
+    source 333
+    target 211
+    rank 8
+  ]
+  edge
+  [
+    source 333
+    target 260
+    rank 11
+  ]
+  edge
+  [
+    source 333
     target 122
     rank 12
   ]
-  edge [
-    source 305
-    target 251
+  edge
+  [
+    source 333
+    target 348
+    rank 14
+  ]
+  edge
+  [
+    source 333
+    target 241
+    rank 19
+  ]
+  edge
+  [
+    source 334
+    target 0
+    rank 2
+  ]
+  edge
+  [
+    source 334
+    target 2
+    rank 3
+  ]
+  edge
+  [
+    source 334
+    target 200
+    rank 8
+  ]
+  edge
+  [
+    source 334
+    target 273
+    rank 9
+  ]
+  edge
+  [
+    source 336
+    target 122
+    rank 6
+  ]
+  edge
+  [
+    source 336
+    target 267
+    rank 11
+  ]
+  edge
+  [
+    source 336
+    target 127
+    rank 12
+  ]
+  edge
+  [
+    source 337
+    target 273
     rank 4
   ]
-  edge [
-    source 305
+  edge
+  [
+    source 337
     target 23
     rank 16
   ]
-  edge [
-    source 306
+  edge
+  [
+    source 338
     target 14
     rank 19
   ]
-  edge [
-    source 307
-    target 122
+  edge
+  [
+    source 339
+    target 127
     rank 16
   ]
-  edge [
-    source 308
+  edge
+  [
+    source 340
     target 1
     rank 7
   ]
-  edge [
-    source 308
-    target 344
+  edge
+  [
+    source 340
+    target 392
     rank 19
   ]
-  edge [
-    source 309
-    target 185
+  edge
+  [
+    source 341
+    target 200
     rank 18
   ]
-  edge [
-    source 310
-    target 185
+  edge
+  [
+    source 342
+    target 200
     rank 8
   ]
-  edge [
-    source 311
-    target 109
+  edge
+  [
+    source 344
+    target 114
     rank 4
   ]
-  edge [
-    source 311
-    target 339
+  edge
+  [
+    source 344
+    target 385
     rank 7
   ]
-  edge [
-    source 311
-    target 111
+  edge
+  [
+    source 344
+    target 116
     rank 11
   ]
-  edge [
-    source 312
-    target 60
+  edge
+  [
+    source 345
+    target 61
     rank 20
   ]
-  edge [
-    source 313
+  edge
+  [
+    source 346
     target 0
     rank 7
   ]
-  edge [
-    source 313
-    target 246
+  edge
+  [
+    source 346
+    target 267
     rank 18
   ]
-  edge [
-    source 314
-    target 341
+  edge
+  [
+    source 348
+    target 388
     rank 6
   ]
-  edge [
-    source 314
+  edge
+  [
+    source 348
     target 43
     rank 14
   ]
-  edge [
-    source 315
+  edge
+  [
+    source 349
     target 0
     rank 1
   ]
-  edge [
-    source 315
+  edge
+  [
+    source 349
     target 6
     rank 6
   ]
-  edge [
-    source 315
-    target 177
+  edge
+  [
+    source 349
+    target 190
     rank 9
   ]
-  edge [
-    source 315
-    target 185
+  edge
+  [
+    source 349
+    target 200
     rank 11
   ]
-  edge [
-    source 315
+  edge
+  [
+    source 349
     target 1
     rank 12
   ]
-  edge [
-    source 315
+  edge
+  [
+    source 349
     target 30
     rank 19
   ]
-  edge [
-    source 316
-    target 251
+  edge
+  [
+    source 354
+    target 273
     rank 1
   ]
-  edge [
-    source 316
+  edge
+  [
+    source 354
     target 0
     rank 10
   ]
-  edge [
-    source 316
-    target 284
+  edge
+  [
+    source 354
+    target 309
     rank 15
   ]
-  edge [
-    source 317
-    target 261
+  edge
+  [
+    source 356
+    target 284
     rank 10
   ]
-  edge [
-    source 318
+  edge
+  [
+    source 357
     target 7
     rank 2
   ]
-  edge [
-    source 318
-    target 238
+  edge
+  [
+    source 357
+    target 257
     rank 8
   ]
-  edge [
-    source 318
-    target 177
+  edge
+  [
+    source 357
+    target 190
     rank 11
   ]
-  edge [
-    source 319
+  edge
+  [
+    source 358
     target 0
     rank 1
   ]
-  edge [
-    source 319
-    target 376
+  edge
+  [
+    source 358
+    target 429
     rank 4
   ]
-  edge [
-    source 319
-    target 297
+  edge
+  [
+    source 358
+    target 327
     rank 9
   ]
-  edge [
-    source 319
-    target 360
+  edge
+  [
+    source 358
+    target 412
     rank 12
   ]
-  edge [
-    source 319
+  edge
+  [
+    source 358
     target 1
     rank 13
   ]
-  edge [
-    source 319
-    target 192
+  edge
+  [
+    source 358
+    target 207
     rank 18
   ]
-  edge [
-    source 320
-    target 177
+  edge
+  [
+    source 359
+    target 190
     rank 4
   ]
-  edge [
-    source 320
-    target 174
+  edge
+  [
+    source 359
+    target 187
     rank 13
   ]
-  edge [
-    source 321
-    target 360
+  edge
+  [
+    source 360
+    target 412
     rank 14
   ]
-  edge [
-    source 322
-    target 117
+  edge
+  [
+    source 361
+    target 122
     rank 2
   ]
-  edge [
-    source 322
-    target 147
+  edge
+  [
+    source 361
+    target 155
     rank 7
   ]
-  edge [
-    source 322
-    target 134
+  edge
+  [
+    source 361
+    target 139
     rank 16
   ]
-  edge [
-    source 322
+  edge
+  [
+    source 361
     target 51
     rank 18
   ]
-  edge [
-    source 323
+  edge
+  [
+    source 362
     target 7
     rank 1
   ]
-  edge [
-    source 323
-    target 251
+  edge
+  [
+    source 362
+    target 273
     rank 3
   ]
-  edge [
-    source 323
+  edge
+  [
+    source 362
     target 0
     rank 12
   ]
-  edge [
-    source 324
-    target 233
+  edge
+  [
+    source 363
+    target 252
     rank 1
   ]
-  edge [
-    source 324
-    target 196
+  edge
+  [
+    source 363
+    target 211
     rank 7
   ]
-  edge [
-    source 324
-    target 117
+  edge
+  [
+    source 363
+    target 122
     rank 10
   ]
-  edge [
-    source 324
-    target 240
+  edge
+  [
+    source 363
+    target 260
     rank 12
   ]
-  edge [
-    source 324
-    target 330
+  edge
+  [
+    source 363
+    target 372
     rank 17
   ]
-  edge [
-    source 325
-    target 93
+  edge
+  [
+    source 365
+    target 97
     rank 1
   ]
-  edge [
-    source 325
-    target 139
+  edge
+  [
+    source 365
+    target 144
     rank 7
   ]
-  edge [
-    source 325
-    target 119
+  edge
+  [
+    source 365
+    target 124
     rank 11
   ]
-  edge [
-    source 325
-    target 196
+  edge
+  [
+    source 365
+    target 211
     rank 12
   ]
-  edge [
-    source 326
-    target 251
+  edge
+  [
+    source 366
+    target 273
     rank 1
   ]
-  edge [
-    source 326
+  edge
+  [
+    source 366
     target 0
     rank 10
   ]
-  edge [
-    source 326
-    target 282
+  edge
+  [
+    source 366
+    target 307
     rank 11
   ]
-  edge [
-    source 326
-    target 284
+  edge
+  [
+    source 366
+    target 309
     rank 18
   ]
-  edge [
-    source 326
-    target 258
+  edge
+  [
+    source 366
+    target 281
     rank 20
   ]
-  edge [
-    source 327
-    target 208
+  edge
+  [
+    source 367
+    target 225
     rank 11
   ]
-  edge [
-    source 328
+  edge
+  [
+    source 369
     target 0
     rank 2
   ]
-  edge [
-    source 328
-    target 122
+  edge
+  [
+    source 369
+    target 127
     rank 13
   ]
-  edge [
-    source 329
+  edge
+  [
+    source 371
     target 1
     rank 11
   ]
-  edge [
-    source 330
+  edge
+  [
+    source 372
     target 7
     rank 1
   ]
-  edge [
-    source 330
-    target 240
+  edge
+  [
+    source 372
+    target 260
     rank 7
   ]
-  edge [
-    source 330
-    target 177
+  edge
+  [
+    source 372
+    target 190
     rank 11
   ]
-  edge [
-    source 330
-    target 233
+  edge
+  [
+    source 372
+    target 252
     rank 18
   ]
-  edge [
-    source 330
-    target 196
+  edge
+  [
+    source 372
+    target 211
     rank 19
   ]
-  edge [
-    source 332
-    target 299
+  edge
+  [
+    source 375
+    target 329
     rank 8
   ]
-  edge [
-    source 332
-    target 349
+  edge
+  [
+    source 375
+    target 398
     rank 9
   ]
-  edge [
-    source 333
-    target 208
+  edge
+  [
+    source 376
+    target 225
     rank 14
   ]
-  edge [
-    source 333
-    target 210
+  edge
+  [
+    source 376
+    target 228
     rank 15
   ]
-  edge [
-    source 334
-    target 202
+  edge
+  [
+    source 377
+    target 218
     rank 12
   ]
-  edge [
-    source 334
-    target 153
+  edge
+  [
+    source 377
+    target 164
     rank 17
   ]
-  edge [
-    source 334
-    target 188
+  edge
+  [
+    source 377
+    target 203
     rank 20
   ]
-  edge [
-    source 335
-    target 109
+  edge
+  [
+    source 378
+    target 114
     rank 10
   ]
-  edge [
-    source 335
-    target 111
+  edge
+  [
+    source 378
+    target 116
     rank 13
   ]
-  edge [
-    source 336
-    target 93
+  edge
+  [
+    source 381
+    target 97
     rank 4
   ]
-  edge [
-    source 336
-    target 172
+  edge
+  [
+    source 381
+    target 185
     rank 14
   ]
-  edge [
-    source 336
-    target 183
+  edge
+  [
+    source 381
+    target 198
     rank 16
   ]
-  edge [
-    source 336
+  edge
+  [
+    source 381
     target 51
     rank 20
   ]
-  edge [
-    source 337
+  edge
+  [
+    source 383
     target 0
     rank 9
   ]
-  edge [
-    source 337
-    target 265
+  edge
+  [
+    source 383
+    target 288
     rank 16
   ]
-  edge [
-    source 338
+  edge
+  [
+    source 384
     target 0
     rank 6
   ]
-  edge [
-    source 339
-    target 109
+  edge
+  [
+    source 385
+    target 114
     rank 10
   ]
-  edge [
-    source 339
-    target 147
+  edge
+  [
+    source 385
+    target 155
     rank 16
   ]
-  edge [
-    source 339
-    target 111
+  edge
+  [
+    source 385
+    target 116
     rank 20
   ]
-  edge [
-    source 340
+  edge
+  [
+    source 386
     target 0
     rank 3
   ]
-  edge [
-    source 340
-    target 341
+  edge
+  [
+    source 386
+    target 388
     rank 5
   ]
-  edge [
-    source 340
+  edge
+  [
+    source 386
     target 1
     rank 6
   ]
-  edge [
-    source 340
+  edge
+  [
+    source 386
     target 29
     rank 11
   ]
-  edge [
-    source 340
-    target 297
+  edge
+  [
+    source 386
+    target 327
     rank 16
   ]
-  edge [
-    source 341
-    target 251
+  edge
+  [
+    source 388
+    target 273
     rank 4
   ]
-  edge [
-    source 341
+  edge
+  [
+    source 388
     target 0
     rank 9
   ]
-  edge [
-    source 341
+  edge
+  [
+    source 388
     target 29
     rank 15
   ]
-  edge [
-    source 341
+  edge
+  [
+    source 388
     target 1
     rank 17
   ]
-  edge [
-    source 342
-    target 185
+  edge
+  [
+    source 389
+    target 200
     rank 19
   ]
-  edge [
-    source 343
-    target 125
+  edge
+  [
+    source 391
+    target 130
     rank 7
   ]
-  edge [
-    source 343
-    target 110
+  edge
+  [
+    source 391
+    target 115
     rank 17
   ]
-  edge [
-    source 346
-    target 117
+  edge
+  [
+    source 395
+    target 122
     rank 4
   ]
-  edge [
-    source 346
-    target 119
+  edge
+  [
+    source 395
+    target 124
     rank 6
   ]
-  edge [
-    source 347
+  edge
+  [
+    source 396
     target 0
     rank 4
   ]
-  edge [
-    source 347
+  edge
+  [
+    source 396
     target 2
     rank 10
   ]
-  edge [
-    source 348
-    target 210
+  edge
+  [
+    source 397
+    target 228
     rank 15
   ]
-  edge [
-    source 350
+  edge
+  [
+    source 400
     target 27
     rank 7
   ]
-  edge [
-    source 350
-    target 117
+  edge
+  [
+    source 400
+    target 122
     rank 8
   ]
-  edge [
-    source 350
+  edge
+  [
+    source 400
     target 1
     rank 16
   ]
-  edge [
-    source 352
+  edge
+  [
+    source 402
     target 24
     rank 3
   ]
-  edge [
-    source 352
-    target 185
+  edge
+  [
+    source 402
+    target 200
     rank 8
   ]
-  edge [
-    source 353
+  edge
+  [
+    source 403
     target 25
     rank 1
   ]
-  edge [
-    source 353
+  edge
+  [
+    source 403
     target 14
     rank 9
   ]
-  edge [
-    source 353
-    target 392
+  edge
+  [
+    source 403
+    target 451
     rank 11
   ]
-  edge [
-    source 354
-    target 185
+  edge
+  [
+    source 404
+    target 200
     rank 11
   ]
-  edge [
-    source 354
-    target 342
+  edge
+  [
+    source 404
+    target 389
     rank 15
   ]
-  edge [
-    source 355
+  edge
+  [
+    source 405
     target 0
     rank 4
   ]
-  edge [
-    source 355
+  edge
+  [
+    source 405
     target 29
     rank 6
   ]
-  edge [
-    source 355
-    target 341
+  edge
+  [
+    source 405
+    target 388
     rank 7
   ]
-  edge [
-    source 355
-    target 297
+  edge
+  [
+    source 405
+    target 327
     rank 14
   ]
-  edge [
-    source 355
-    target 376
+  edge
+  [
+    source 405
+    target 429
     rank 16
   ]
-  edge [
-    source 356
-    target 341
+  edge
+  [
+    source 406
+    target 388
     rank 4
   ]
-  edge [
-    source 356
-    target 296
+  edge
+  [
+    source 406
+    target 325
     rank 13
   ]
-  edge [
-    source 356
-    target 355
+  edge
+  [
+    source 406
+    target 405
     rank 20
   ]
-  edge [
-    source 357
-    target 202
+  edge
+  [
+    source 407
+    target 218
     rank 11
   ]
-  edge [
-    source 358
-    target 341
+  edge
+  [
+    source 409
+    target 388
     rank 1
   ]
-  edge [
-    source 358
+  edge
+  [
+    source 409
     target 0
     rank 3
   ]
-  edge [
-    source 358
+  edge
+  [
+    source 409
     target 29
     rank 8
   ]
-  edge [
-    source 358
-    target 192
+  edge
+  [
+    source 409
+    target 207
     rank 10
   ]
-  edge [
-    source 358
-    target 246
+  edge
+  [
+    source 409
+    target 267
     rank 11
   ]
-  edge [
-    source 358
-    target 319
+  edge
+  [
+    source 409
+    target 358
     rank 15
   ]
-  edge [
-    source 358
-    target 355
+  edge
+  [
+    source 409
+    target 405
     rank 18
   ]
-  edge [
-    source 358
-    target 261
+  edge
+  [
+    source 409
+    target 284
     rank 19
   ]
-  edge [
-    source 359
+  edge
+  [
+    source 411
     target 2
     rank 2
   ]
-  edge [
-    source 359
+  edge
+  [
+    source 411
     target 1
     rank 4
   ]
-  edge [
-    source 359
-    target 60
+  edge
+  [
+    source 411
+    target 61
     rank 9
   ]
-  edge [
-    source 359
-    target 309
+  edge
+  [
+    source 411
+    target 341
     rank 12
   ]
-  edge [
-    source 361
-    target 125
+  edge
+  [
+    source 413
+    target 130
     rank 12
   ]
-  edge [
-    source 361
-    target 140
+  edge
+  [
+    source 413
+    target 145
     rank 15
   ]
-  edge [
-    source 361
-    target 65
+  edge
+  [
+    source 413
+    target 67
     rank 17
   ]
-  edge [
-    source 362
-    target 360
+  edge
+  [
+    source 414
+    target 412
     rank 5
   ]
-  edge [
-    source 363
-    target 202
+  edge
+  [
+    source 415
+    target 218
     rank 9
   ]
-  edge [
-    source 364
+  edge
+  [
+    source 416
     target 52
     rank 12
   ]
-  edge [
-    source 364
-    target 208
+  edge
+  [
+    source 416
+    target 225
     rank 16
   ]
-  edge [
-    source 365
-    target 194
+  edge
+  [
+    source 417
+    target 209
     rank 1
   ]
-  edge [
-    source 365
-    target 360
+  edge
+  [
+    source 417
+    target 412
     rank 3
   ]
-  edge [
-    source 365
-    target 271
+  edge
+  [
+    source 417
+    target 295
     rank 7
   ]
-  edge [
-    source 365
-    target 147
+  edge
+  [
+    source 417
+    target 155
     rank 11
   ]
-  edge [
-    source 366
+  edge
+  [
+    source 418
     target 25
     rank 6
   ]
-  edge [
-    source 367
-    target 401
+  edge
+  [
+    source 419
+    target 468
     rank 9
   ]
-  edge [
-    source 368
-    target 174
+  edge
+  [
+    source 420
+    target 187
     rank 7
   ]
-  edge [
-    source 369
-    target 232
+  edge
+  [
+    source 421
+    target 251
     rank 3
   ]
-  edge [
-    source 369
+  edge
+  [
+    source 421
     target 8
     rank 5
   ]
-  edge [
-    source 369
-    target 375
+  edge
+  [
+    source 421
+    target 428
     rank 16
   ]
-  edge [
-    source 370
-    target 76
+  edge
+  [
+    source 422
+    target 79
     rank 16
   ]
-  edge [
-    source 371
-    target 109
+  edge
+  [
+    source 423
+    target 114
     rank 7
   ]
-  edge [
-    source 371
-    target 339
+  edge
+  [
+    source 423
+    target 385
     rank 12
   ]
-  edge [
-    source 371
-    target 111
+  edge
+  [
+    source 423
+    target 116
     rank 13
   ]
-  edge [
-    source 372
-    target 341
+  edge
+  [
+    source 424
+    target 388
     rank 1
   ]
-  edge [
-    source 372
+  edge
+  [
+    source 424
     target 0
     rank 2
   ]
-  edge [
-    source 372
-    target 251
+  edge
+  [
+    source 424
+    target 273
     rank 10
   ]
-  edge [
-    source 372
+  edge
+  [
+    source 424
     target 37
     rank 15
   ]
-  edge [
-    source 372
-    target 223
+  edge
+  [
+    source 424
+    target 242
     rank 19
   ]
-  edge [
-    source 372
-    target 250
+  edge
+  [
+    source 424
+    target 272
     rank 20
   ]
-  edge [
-    source 373
+  edge
+  [
+    source 425
     target 38
     rank 1
   ]
-  edge [
-    source 374
-    target 251
+  edge
+  [
+    source 427
+    target 273
     rank 2
   ]
-  edge [
-    source 374
+  edge
+  [
+    source 427
     target 0
     rank 4
   ]
-  edge [
-    source 374
-    target 344
+  edge
+  [
+    source 427
+    target 392
     rank 8
   ]
-  edge [
-    source 375
+  edge
+  [
+    source 428
     target 8
     rank 5
   ]
-  edge [
-    source 376
-    target 341
+  edge
+  [
+    source 429
+    target 388
     rank 3
   ]
-  edge [
-    source 377
-    target 401
+  edge
+  [
+    source 431
+    target 468
     rank 2
   ]
-  edge [
-    source 378
-    target 196
+  edge
+  [
+    source 432
+    target 211
     rank 1
   ]
-  edge [
-    source 378
-    target 117
+  edge
+  [
+    source 432
+    target 122
     rank 2
   ]
-  edge [
-    source 378
-    target 147
+  edge
+  [
+    source 432
+    target 155
     rank 19
   ]
-  edge [
-    source 379
-    target 315
+  edge
+  [
+    source 434
+    target 349
     rank 3
   ]
-  edge [
-    source 379
+  edge
+  [
+    source 434
     target 0
     rank 5
   ]
-  edge [
-    source 379
+  edge
+  [
+    source 434
     target 55
     rank 11
   ]
-  edge [
-    source 379
+  edge
+  [
+    source 434
     target 1
     rank 12
   ]
-  edge [
-    source 380
-    target 382
+  edge
+  [
+    source 435
+    target 438
     rank 5
   ]
-  edge [
-    source 381
+  edge
+  [
+    source 437
     target 55
     rank 8
   ]
-  edge [
-    source 381
+  edge
+  [
+    source 437
     target 1
     rank 10
   ]
-  edge [
-    source 382
-    target 272
+  edge
+  [
+    source 438
+    target 296
     rank 11
   ]
-  edge [
-    source 382
-    target 347
+  edge
+  [
+    source 438
+    target 396
     rank 12
   ]
-  edge [
-    source 382
-    target 193
+  edge
+  [
+    source 438
+    target 208
     rank 13
   ]
-  edge [
-    source 382
-    target 388
+  edge
+  [
+    source 438
+    target 447
     rank 17
   ]
-  edge [
-    source 384
-    target 251
+  edge
+  [
+    source 440
+    target 273
     rank 2
   ]
-  edge [
-    source 384
-    target 315
+  edge
+  [
+    source 440
+    target 349
     rank 5
   ]
-  edge [
-    source 384
-    target 245
+  edge
+  [
+    source 440
+    target 266
     rank 10
   ]
-  edge [
-    source 384
-    target 261
+  edge
+  [
+    source 440
+    target 284
     rank 14
   ]
-  edge [
-    source 384
-    target 310
+  edge
+  [
+    source 440
+    target 342
     rank 17
   ]
-  edge [
-    source 385
+  edge
+  [
+    source 441
     target 0
     rank 1
   ]
-  edge [
-    source 386
-    target 266
+  edge
+  [
+    source 442
+    target 289
     rank 3
   ]
-  edge [
-    source 386
-    target 232
+  edge
+  [
+    source 442
+    target 251
     rank 4
   ]
-  edge [
-    source 386
-    target 375
+  edge
+  [
+    source 442
+    target 428
     rank 13
   ]
-  edge [
-    source 386
-    target 234
+  edge
+  [
+    source 442
+    target 253
     rank 16
   ]
-  edge [
-    source 386
-    target 175
+  edge
+  [
+    source 442
+    target 188
     rank 17
   ]
-  edge [
-    source 386
-    target 88
+  edge
+  [
+    source 442
+    target 92
     rank 18
   ]
-  edge [
-    source 386
-    target 85
+  edge
+  [
+    source 442
+    target 89
     rank 20
   ]
-  edge [
-    source 387
-    target 234
+  edge
+  [
+    source 444
+    target 253
     rank 10
   ]
-  edge [
-    source 387
+  edge
+  [
+    source 444
     target 8
     rank 11
   ]
-  edge [
-    source 387
-    target 369
+  edge
+  [
+    source 444
+    target 421
     rank 19
   ]
-  edge [
-    source 387
-    target 375
+  edge
+  [
+    source 444
+    target 428
     rank 20
   ]
-  edge [
-    source 388
-    target 367
+  edge
+  [
+    source 447
+    target 419
     rank 14
   ]
-  edge [
-    source 389
-    target 251
+  edge
+  [
+    source 448
+    target 273
     rank 1
   ]
-  edge [
-    source 389
-    target 310
+  edge
+  [
+    source 448
+    target 342
     rank 20
   ]
-  edge [
-    source 390
-    target 251
+  edge
+  [
+    source 449
+    target 273
     rank 2
   ]
-  edge [
-    source 390
+  edge
+  [
+    source 449
     target 8
     rank 5
   ]
-  edge [
-    source 390
+  edge
+  [
+    source 449
     target 0
     rank 9
   ]
-  edge [
-    source 391
-    target 369
+  edge
+  [
+    source 450
+    target 421
     rank 7
   ]
-  edge [
-    source 391
-    target 336
+  edge
+  [
+    source 450
+    target 381
     rank 12
   ]
-  edge [
-    source 392
+  edge
+  [
+    source 451
     target 0
     rank 3
   ]
-  edge [
-    source 392
-    target 76
+  edge
+  [
+    source 451
+    target 79
     rank 5
   ]
-  edge [
-    source 392
-    target 125
+  edge
+  [
+    source 451
+    target 130
     rank 12
   ]
-  edge [
-    source 392
+  edge
+  [
+    source 451
     target 23
     rank 18
   ]
-  edge [
-    source 393
-    target 232
-    rank 2
-  ]
-  edge [
-    source 393
-    target 369
-    rank 5
-  ]
-  edge [
-    source 393
-    target 234
-    rank 7
-  ]
-  edge [
-    source 393
-    target 266
-    rank 8
-  ]
-  edge [
-    source 393
-    target 8
-    rank 9
-  ]
-  edge [
-    source 393
-    target 122
-    rank 15
-  ]
-  edge [
-    source 393
-    target 175
-    rank 16
-  ]
-  edge [
-    source 394
-    target 110
-    rank 5
-  ]
-  edge [
-    source 394
-    target 147
-    rank 12
-  ]
-  edge [
-    source 395
-    target 401
-    rank 7
-  ]
-  edge [
-    source 396
-    target 76
-    rank 14
-  ]
-  edge [
-    source 397
-    target 266
-    rank 2
-  ]
-  edge [
-    source 397
-    target 232
-    rank 3
-  ]
-  edge [
-    source 397
-    target 369
-    rank 8
-  ]
-  edge [
-    source 397
-    target 8
-    rank 10
-  ]
-  edge [
-    source 397
-    target 234
-    rank 16
-  ]
-  edge [
-    source 397
-    target 375
-    rank 17
-  ]
-  edge [
-    source 397
-    target 175
-    rank 19
-  ]
-  edge [
-    source 398
-    target 0
-    rank 1
-  ]
-  edge [
-    source 398
-    target 48
-    rank 20
-  ]
-  edge [
-    source 399
-    target 93
-    rank 3
-  ]
-  edge [
-    source 399
-    target 172
-    rank 7
-  ]
-  edge [
-    source 399
-    target 139
-    rank 11
-  ]
-  edge [
-    source 399
-    target 336
-    rank 12
-  ]
-  edge [
-    source 399
-    target 147
-    rank 14
-  ]
-  edge [
-    source 399
-    target 183
-    rank 17
-  ]
-  edge [
-    source 400
-    target 279
-    rank 3
-  ]
-  edge [
-    source 400
-    target 290
-    rank 6
-  ]
-  edge [
-    source 400
-    target 137
-    rank 20
-  ]
-  edge [
-    source 402
-    target 93
-    rank 4
-  ]
-  edge [
-    source 402
-    target 140
-    rank 10
-  ]
-  edge [
-    source 402
-    target 160
-    rank 16
-  ]
-  edge [
-    source 403
+  edge
+  [
+    source 452
     target 251
     rank 2
   ]
-  edge [
-    source 403
-    target 246
+  edge
+  [
+    source 452
+    target 421
+    rank 5
+  ]
+  edge
+  [
+    source 452
+    target 253
+    rank 7
+  ]
+  edge
+  [
+    source 452
+    target 289
+    rank 8
+  ]
+  edge
+  [
+    source 452
+    target 8
+    rank 9
+  ]
+  edge
+  [
+    source 452
+    target 127
+    rank 15
+  ]
+  edge
+  [
+    source 452
+    target 188
     rank 16
   ]
-  edge [
-    source 403
+  edge
+  [
+    source 454
+    target 115
+    rank 5
+  ]
+  edge
+  [
+    source 454
+    target 155
+    rank 12
+  ]
+  edge
+  [
+    source 455
+    target 468
+    rank 7
+  ]
+  edge
+  [
+    source 456
+    target 79
+    rank 14
+  ]
+  edge
+  [
+    source 458
+    target 289
+    rank 2
+  ]
+  edge
+  [
+    source 458
+    target 251
+    rank 3
+  ]
+  edge
+  [
+    source 458
+    target 421
+    rank 8
+  ]
+  edge
+  [
+    source 458
+    target 8
+    rank 10
+  ]
+  edge
+  [
+    source 458
+    target 253
+    rank 16
+  ]
+  edge
+  [
+    source 458
+    target 428
+    rank 17
+  ]
+  edge
+  [
+    source 458
+    target 188
+    rank 19
+  ]
+  edge
+  [
+    source 462
+    target 0
+    rank 1
+  ]
+  edge
+  [
+    source 462
+    target 48
+    rank 20
+  ]
+  edge
+  [
+    source 463
+    target 97
+    rank 3
+  ]
+  edge
+  [
+    source 463
+    target 185
+    rank 7
+  ]
+  edge
+  [
+    source 463
+    target 144
+    rank 11
+  ]
+  edge
+  [
+    source 463
+    target 381
+    rank 12
+  ]
+  edge
+  [
+    source 463
+    target 155
+    rank 14
+  ]
+  edge
+  [
+    source 463
+    target 198
+    rank 17
+  ]
+  edge
+  [
+    source 465
+    target 304
+    rank 3
+  ]
+  edge
+  [
+    source 465
+    target 318
+    rank 6
+  ]
+  edge
+  [
+    source 465
+    target 142
+    rank 20
+  ]
+  edge
+  [
+    source 469
+    target 97
+    rank 4
+  ]
+  edge
+  [
+    source 469
+    target 145
+    rank 10
+  ]
+  edge
+  [
+    source 469
+    target 173
+    rank 16
+  ]
+  edge
+  [
+    source 471
+    target 273
+    rank 2
+  ]
+  edge
+  [
+    source 471
+    target 267
+    rank 16
+  ]
+  edge
+  [
+    source 471
     target 38
     rank 18
   ]
-  edge [
-    source 404
-    target 147
+  edge
+  [
+    source 472
+    target 155
     rank 13
   ]
-  edge [
-    source 405
-    target 377
+  edge
+  [
+    source 474
+    target 431
     rank 12
   ]
-  edge [
-    source 406
-    target 210
+  edge
+  [
+    source 475
+    target 228
     rank 18
   ]
-  edge [
-    source 408
-    target 272
+  edge
+  [
+    source 479
+    target 296
     rank 10
   ]
-  edge [
-    source 408
+  edge
+  [
+    source 479
     target 5
     rank 13
   ]
-  edge [
-    source 408
-    target 422
+  edge
+  [
+    source 479
+    target 531
     rank 19
   ]
-  edge [
-    source 409
+  edge
+  [
+    source 481
     target 14
     rank 9
   ]
-  edge [
-    source 410
-    target 286
+  edge
+  [
+    source 482
+    target 312
     rank 2
   ]
-  edge [
-    source 410
-    target 125
+  edge
+  [
+    source 482
+    target 130
     rank 8
   ]
-  edge [
-    source 411
-    target 172
+  edge
+  [
+    source 483
+    target 185
     rank 3
   ]
-  edge [
-    source 411
-    target 110
+  edge
+  [
+    source 483
+    target 115
     rank 6
   ]
-  edge [
-    source 411
-    target 336
+  edge
+  [
+    source 483
+    target 381
     rank 8
   ]
-  edge [
-    source 411
+  edge
+  [
+    source 483
     target 51
     rank 10
   ]
-  edge [
-    source 411
-    target 147
+  edge
+  [
+    source 483
+    target 155
     rank 11
   ]
-  edge [
-    source 411
-    target 183
+  edge
+  [
+    source 483
+    target 198
     rank 19
   ]
-  edge [
-    source 412
+  edge
+  [
+    source 485
     target 9
     rank 8
   ]
-  edge [
-    source 412
-    target 76
+  edge
+  [
+    source 485
+    target 79
     rank 9
   ]
-  edge [
-    source 412
-    target 272
+  edge
+  [
+    source 485
+    target 296
     rank 11
   ]
-  edge [
-    source 412
+  edge
+  [
+    source 485
     target 26
     rank 20
   ]
-  edge [
-    source 413
-    target 401
+  edge
+  [
+    source 487
+    target 468
     rank 15
   ]
-  edge [
-    source 414
-    target 140
+  edge
+  [
+    source 488
+    target 145
     rank 6
   ]
-  edge [
-    source 414
-    target 173
+  edge
+  [
+    source 488
+    target 186
     rank 9
   ]
-  edge [
-    source 414
-    target 276
+  edge
+  [
+    source 488
+    target 300
     rank 10
   ]
-  edge [
-    source 414
-    target 125
+  edge
+  [
+    source 488
+    target 130
     rank 11
   ]
-  edge [
-    source 415
-    target 125
+  edge
+  [
+    source 491
+    target 130
     rank 18
   ]
-  edge [
-    source 416
-    target 76
+  edge
+  [
+    source 492
+    target 79
     rank 3
   ]
-  edge [
-    source 416
-    target 382
+  edge
+  [
+    source 492
+    target 438
     rank 6
   ]
-  edge [
-    source 416
-    target 272
+  edge
+  [
+    source 492
+    target 296
     rank 10
   ]
-  edge [
-    source 417
-    target 272
+  edge
+  [
+    source 493
+    target 296
     rank 5
   ]
-  edge [
-    source 418
+  edge
+  [
+    source 495
     target 8
     rank 12
   ]
-  edge [
-    source 419
-    target 380
+  edge
+  [
+    source 511
+    target 435
     rank 3
   ]
-  edge [
-    source 420
-    target 350
+  edge
+  [
+    source 518
+    target 400
     rank 9
   ]
-  edge [
-    source 421
+  edge
+  [
+    source 527
     target 17
     rank 3
   ]
-  edge [
-    source 421
-    target 162
+  edge
+  [
+    source 527
+    target 175
     rank 9
   ]
-  edge [
-    source 421
-    target 279
+  edge
+  [
+    source 527
+    target 304
     rank 10
   ]
-  edge [
-    source 421
-    target 337
+  edge
+  [
+    source 527
+    target 383
     rank 12
   ]
-  edge [
-    source 421
-    target 311
+  edge
+  [
+    source 527
+    target 344
     rank 15
   ]
-  edge [
-    source 423
-    target 272
+  edge
+  [
+    source 536
+    target 296
     rank 1
   ]
-  edge [
-    source 423
-    target 308
+  edge
+  [
+    source 536
+    target 340
     rank 8
   ]
-  edge [
-    source 423
-    target 421
+  edge
+  [
+    source 536
+    target 527
     rank 12
   ]
 ]
