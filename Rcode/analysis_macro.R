@@ -1,5 +1,6 @@
 library('ggplot2')
 
+
 theme_set(
   theme_classic() +
   theme(text=element_text(size=12, color='black', family="Open Sans"),
@@ -106,5 +107,6 @@ ggplot(df, aes(x=category, y=hub10_distance, label=name)) +
 
 summary(lm(gini ~ category + viewcount + size, data=df))
 summary(lm(avg_degree ~ category + viewcount + size, data=df))
-# problems: viewcount on video level related to indegree, 
+  # problems: viewcount on video level related to indegree, 
+
 
