@@ -110,3 +110,5 @@ summary(lm(avg_degree ~ category + viewcount + size, data=df))
   # problems: viewcount on video level related to indegree, 
 
 
+
+
