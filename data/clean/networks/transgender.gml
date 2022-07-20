@@ -1,4 +1,4 @@
-Creator "igraph version 1.3.1 Mon Jul 18 16:46:19 2022"
+Creator "igraph version 1.3.1 Wed Jul 20 15:27:57 2022"
 Version 1
 graph
 [
@@ -109,7 +109,7 @@ graph
     ppprofanity 0.12183137
     ppinflammatory 0.13430673
     sentiment 0
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -163,7 +163,7 @@ graph
     ppprofanity 0.234634
     ppinflammatory 0.68137896
     sentiment -0.2263
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -217,7 +217,7 @@ graph
     ppprofanity 0.361301
     ppinflammatory 0.36351487
     sentiment -0.2263
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -271,7 +271,7 @@ graph
     ppprofanity 0.27800396
     ppinflammatory 0.61503893
     sentiment 0.2263
-    cluster 6
+    cluster 3
   ]
   node
   [
@@ -379,7 +379,7 @@ graph
     ppprofanity 0.3096394
     ppinflammatory 0.44121498
     sentiment 0.4767
-    cluster 1
+    cluster 6
   ]
   node
   [
@@ -514,7 +514,7 @@ graph
     ppprofanity 0.3511377
     ppinflammatory 0.70818883
     sentiment -0.6597
-    cluster 8
+    cluster 3
   ]
   node
   [
@@ -757,7 +757,7 @@ graph
     ppprofanity 0.3072846
     ppinflammatory 0.748238
     sentiment 0.2263
-    cluster 6
+    cluster 3
   ]
   node
   [
@@ -946,7 +946,7 @@ graph
     ppprofanity 0.40086684
     ppinflammatory 0.10821129
     sentiment 0
-    cluster 8
+    cluster 3
   ]
   node
   [
@@ -1054,7 +1054,7 @@ graph
     ppprofanity 0.1626232
     ppinflammatory 0.38540593
     sentiment 0.8176
-    cluster 4
+    cluster 11
   ]
   node
   [
@@ -1135,7 +1135,7 @@ graph
     ppprofanity 0.16704229
     ppinflammatory 0.4638802
     sentiment -0.5106
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -1162,7 +1162,7 @@ graph
     ppprofanity 0.3559192
     ppinflammatory 0.34714255
     sentiment 0
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -1216,7 +1216,7 @@ graph
     ppprofanity 0.2295094
     ppinflammatory 0.4554524
     sentiment 0.2023
-    cluster 1
+    cluster 6
   ]
   node
   [
@@ -1243,7 +1243,7 @@ graph
     ppprofanity 0.15070327
     ppinflammatory 0.74187696
     sentiment 0
-    cluster 8
+    cluster 4
   ]
   node
   [
@@ -1378,7 +1378,7 @@ graph
     ppprofanity 0.2638554
     ppinflammatory 0.3480491
     sentiment 0
-    cluster 1
+    cluster 6
   ]
   node
   [
@@ -1486,7 +1486,7 @@ graph
     ppprofanity 0.115951054
     ppinflammatory 0.3537475
     sentiment 0
-    cluster 1
+    cluster 6
   ]
   node
   [
@@ -1621,7 +1621,7 @@ graph
     ppprofanity 0.1261998
     ppinflammatory 0.45384276
     sentiment 0.5859
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -1756,7 +1756,7 @@ graph
     ppprofanity 0.3489263
     ppinflammatory 0.48883775
     sentiment -0.4867
-    cluster 1
+    cluster 4
   ]
   node
   [
@@ -2026,7 +2026,7 @@ graph
     ppprofanity 0.1764895
     ppinflammatory 0.80801016
     sentiment 0.128
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -2188,7 +2188,7 @@ graph
     ppprofanity 0.0044291597
     ppinflammatory 0.3618814
     sentiment 0.5859
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -2269,7 +2269,7 @@ graph
     ppprofanity 0.088093184
     ppinflammatory 0.63071203
     sentiment 0.4019
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -2377,7 +2377,7 @@ graph
     ppprofanity 0.042066853
     ppinflammatory 0.6349093
     sentiment 0.5859
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -2620,7 +2620,7 @@ graph
     ppprofanity 0.1184355
     ppinflammatory 0.5554173
     sentiment 0
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -2701,7 +2701,7 @@ graph
     ppprofanity 0.50109076
     ppinflammatory 0.28002164
     sentiment -0.1877
-    cluster 1
+    cluster 4
   ]
   node
   [
@@ -2944,7 +2944,7 @@ graph
     ppprofanity 0.04860632
     ppinflammatory 0.45766428
     sentiment 0.34
-    cluster 8
+    cluster 4
   ]
   node
   [
@@ -3079,7 +3079,7 @@ graph
     ppprofanity 0.15695252
     ppinflammatory 0.67054373
     sentiment -0.5574
-    cluster 4
+    cluster 3
   ]
   node
   [
@@ -3133,7 +3133,7 @@ graph
     ppprofanity 0.108682774
     ppinflammatory 0.43077
     sentiment 0
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -3295,7 +3295,7 @@ graph
     ppprofanity 0.19116047
     ppinflammatory 0.44702157
     sentiment 0.2023
-    cluster 1
+    cluster 6
   ]
   node
   [
@@ -3538,7 +3538,7 @@ graph
     ppprofanity 0.21752585
     ppinflammatory 0.60478956
     sentiment 0
-    cluster 1
+    cluster 6
   ]
   node
   [
@@ -3754,7 +3754,7 @@ graph
     ppprofanity 0.033829883
     ppinflammatory 0.543627
     sentiment 0
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -3834,7 +3834,7 @@ graph
     ppsexuallyexplicit 0.18413574
     ppprofanity 0.21075523
     ppinflammatory 0.37048206
-    sentiment 0
+    sentiment -0.3182
     cluster 4
   ]
   node
@@ -3970,7 +3970,7 @@ graph
     ppprofanity 0.1902543
     ppinflammatory 0.546034
     sentiment 0
-    cluster 1
+    cluster 6
   ]
   node
   [
@@ -3997,7 +3997,7 @@ graph
     ppprofanity 0.2333341
     ppinflammatory 0.34076947
     sentiment 0.6486
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -4456,7 +4456,7 @@ graph
     ppprofanity 0.2411806
     ppinflammatory 0.28890768
     sentiment -0.2023
-    cluster 1
+    cluster 6
   ]
   node
   [
@@ -4618,7 +4618,7 @@ graph
     ppprofanity 0.51416105
     ppinflammatory 0.6636707
     sentiment 0
-    cluster 1
+    cluster 6
   ]
   node
   [
@@ -4861,7 +4861,7 @@ graph
     ppprofanity 0.12498962
     ppinflammatory 0.22685628
     sentiment -0.4019
-    cluster 1
+    cluster 6
   ]
   node
   [
@@ -4888,7 +4888,7 @@ graph
     ppprofanity 0.33362064
     ppinflammatory 0.72644943
     sentiment 0
-    cluster 1
+    cluster 6
   ]
   node
   [
@@ -4996,7 +4996,7 @@ graph
     ppprofanity 0.068707146
     ppinflammatory 0.19206387
     sentiment 0
-    cluster 1
+    cluster 6
   ]
   node
   [
@@ -5023,7 +5023,7 @@ graph
     ppprofanity 0.09472085
     ppinflammatory 0.44468582
     sentiment -0.25
-    cluster 1
+    cluster 4
   ]
   node
   [
@@ -5077,7 +5077,7 @@ graph
     ppprofanity 0.38768402
     ppinflammatory 0.30707315
     sentiment 0
-    cluster 1
+    cluster 6
   ]
   node
   [
@@ -5158,7 +5158,7 @@ graph
     ppprofanity 0.2243945
     ppinflammatory 0.62896967
     sentiment 0
-    cluster 8
+    cluster 4
   ]
   node
   [
@@ -5482,7 +5482,7 @@ graph
     ppprofanity 0.35823363
     ppinflammatory 0.5680319
     sentiment 0
-    cluster 1
+    cluster 6
   ]
   node
   [
@@ -5698,7 +5698,7 @@ graph
     ppprofanity 0.09324711
     ppinflammatory 0.43780988
     sentiment -0.4019
-    cluster 8
+    cluster 4
   ]
   node
   [
@@ -5779,7 +5779,7 @@ graph
     ppprofanity 0.52828574
     ppinflammatory 0.8150699
     sentiment 0
-    cluster 1
+    cluster 4
   ]
   node
   [
@@ -5914,7 +5914,7 @@ graph
     ppprofanity 0.19549544
     ppinflammatory 0.41740417
     sentiment -0.0772
-    cluster 1
+    cluster 6
   ]
   node
   [
@@ -6265,7 +6265,7 @@ graph
     ppprofanity 0.031131132
     ppinflammatory 0.11721278
     sentiment 0
-    cluster 1
+    cluster 4
   ]
   node
   [
@@ -6427,7 +6427,7 @@ graph
     ppprofanity 0.43213814
     ppinflammatory 0.44085902
     sentiment -0.5574
-    cluster 1
+    cluster 4
   ]
   node
   [
@@ -6454,7 +6454,7 @@ graph
     ppprofanity 0.500281
     ppinflammatory 0.63072383
     sentiment 0
-    cluster 8
+    cluster 4
   ]
   node
   [
@@ -6697,7 +6697,7 @@ graph
     ppprofanity 0.08310996
     ppinflammatory 0.41397405
     sentiment 0.4019
-    cluster 8
+    cluster 3
   ]
   node
   [
@@ -6751,7 +6751,7 @@ graph
     ppprofanity 0.12030107
     ppinflammatory 0.43761042
     sentiment 0
-    cluster 8
+    cluster 3
   ]
   node
   [
@@ -6967,7 +6967,7 @@ graph
     ppprofanity 0.21287522
     ppinflammatory 0.45367616
     sentiment 0
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -7183,7 +7183,7 @@ graph
     ppprofanity 0.37252194
     ppinflammatory 0.5934238
     sentiment 0
-    cluster 1
+    cluster 6
   ]
   node
   [
@@ -7237,7 +7237,7 @@ graph
     ppprofanity 0.19113721
     ppinflammatory 0.5680319
     sentiment 0
-    cluster 1
+    cluster 6
   ]
   node
   [
@@ -7561,7 +7561,7 @@ graph
     ppprofanity 0.5632587
     ppinflammatory 0.3835794
     sentiment 0.4019
-    cluster 1
+    cluster 4
   ]
   node
   [
@@ -7588,7 +7588,7 @@ graph
     ppprofanity 0.037535824
     ppinflammatory 0.41305542
     sentiment 0
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -7750,7 +7750,7 @@ graph
     ppprofanity 0.43612215
     ppinflammatory 0.111544155
     sentiment 0.25
-    cluster 1
+    cluster 6
   ]
   node
   [
@@ -7831,7 +7831,7 @@ graph
     ppprofanity 0.35683158
     ppinflammatory 0.0008748319
     sentiment 0
-    cluster 1
+    cluster 6
   ]
   node
   [
@@ -7912,7 +7912,7 @@ graph
     ppprofanity 0.26257673
     ppinflammatory 0.00816143
     sentiment 0
-    cluster 1
+    cluster 6
   ]
   node
   [
@@ -7966,7 +7966,7 @@ graph
     ppprofanity 0.301823
     ppinflammatory 0.40762156
     sentiment 0.4019
-    cluster 8
+    cluster 3
   ]
   node
   [
@@ -7993,7 +7993,7 @@ graph
     ppprofanity 0.2181864
     ppinflammatory 0.7115505
     sentiment 0
-    cluster 1
+    cluster 6
   ]
   node
   [
@@ -8155,7 +8155,7 @@ graph
     ppprofanity 0.4395961
     ppinflammatory 0.4403315
     sentiment -0.5106
-    cluster 3
+    cluster 4
   ]
   edge
   [

@@ -1,4 +1,4 @@
-Creator "igraph version 1.3.1 Mon Jul 18 16:44:22 2022"
+Creator "igraph version 1.3.1 Wed Jul 20 15:25:32 2022"
 Version 1
 graph
 [
@@ -1432,7 +1432,7 @@ graph
     ppprofanity 0.030259037
     ppinflammatory 0.07606272
     sentiment 0
-    cluster 9
+    cluster 7
   ]
   node
   [
@@ -1810,7 +1810,7 @@ graph
     ppprofanity 0.07329295
     ppinflammatory 0.012047125
     sentiment 0
-    cluster 9
+    cluster 2
   ]
   node
   [
@@ -1837,7 +1837,7 @@ graph
     ppprofanity 0.078257896
     ppinflammatory 0.0014558203
     sentiment 0
-    cluster 9
+    cluster 7
   ]
   node
   [
@@ -1945,7 +1945,7 @@ graph
     ppprofanity 0.14065035
     ppinflammatory 0.0074162693
     sentiment 0
-    cluster 9
+    cluster 7
   ]
   node
   [
@@ -2404,7 +2404,7 @@ graph
     ppprofanity 0.03146986
     ppinflammatory 0.07439266
     sentiment 0
-    cluster 9
+    cluster 7
   ]
   node
   [
@@ -2674,7 +2674,7 @@ graph
     ppprofanity 0.03873595
     ppinflammatory 0.014454255
     sentiment 0
-    cluster 9
+    cluster 7
   ]
   edge
   [
