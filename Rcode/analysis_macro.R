@@ -1,5 +1,5 @@
 library('ggplot2')
-
+library('stargazer')
 
 theme_set(
   theme_classic() +
@@ -32,6 +32,14 @@ df$category[df$name %in% science_topics] <- "science"
 df$category <- factor(df$category, levels=c("non-controversial","science","news","conspiracy"))
 
 df$name <- gsub("_"," ",df$name)
+
+## CREATE TABLE ----
+
+stargazer(
+  df[order(df$category,df$name),c('name','size_clean','size','viewcount')],
+  type="latex", summary=FALSE, rownames=FALSE, label="tab:networks",
+  caption="Complete list of networks collected for the study"
+)
 
 ## PLOTTING ----
 
