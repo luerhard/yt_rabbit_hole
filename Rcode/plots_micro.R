@@ -4,6 +4,9 @@ library('igraph')
 library('ggplot2')
 library('lme4')
 
+source('theme_ggplot.R')
+
+
 ## LOAD DATA ----
 
 network_files <- list.files(path="../data/clean/networks", pattern="*.gml", full.names=FALSE, recursive=FALSE)
@@ -41,9 +44,12 @@ df$name <- gsub("_"," ",df$name)
 
 df$viewcount <- df$viewcount / 10^4
 
-## ANALYSIS ----
 
-summary(lm(indegree ~ sentiment + viewcount, df))
+## PLOTTING ----
 
-mlm <- lmer(indegree ~ sentiment + viewcount + (1 | category) + (0 + sentiment | category), df)
-summary(mlm)
+ggplot(df, aes(x=category, y=sentiment, label=name, group=category)) +
+  stat_summary(fun = mean, geom = "bar", fill=palette4, color=palette4, lwd=.25) +
+  geom_abline(intercept=0, slope=0, size=0.25) +
+  ylab('Average sentiment') +
+  xlab(NULL) +
+  stat_summary(fun.data = mean_se, geom = "errorbar", width=.1, lwd=.25)

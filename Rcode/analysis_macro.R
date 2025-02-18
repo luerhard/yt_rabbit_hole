@@ -1,11 +1,8 @@
 library('ggplot2')
+library('patchwork')
 library('stargazer')
 
-theme_set(
-  theme_classic() +
-  theme(text=element_text(size=12, color='black', family="Open Sans"),
-        axis.text=element_text(size=12, color='black', family="Open Sans"))
-)
+source('theme_ggplot.R')
 
 ## READ DATA ----
 
@@ -24,99 +21,51 @@ science_topics <- c("game_theory","filter_bubbles","nft","climate_change",
   "monkeypox_virus","nanotechnology","blockchain","machine_learning","autism",
   "tourette_syndrome")
 
-df$category[df$name %in% conspiracy_topics] <- "conspiracy"
-df$category[df$name %in% noncontroversial_topics] <- "non-controversial"
-df$category[df$name %in% news_topics] <- "news"
-df$category[df$name %in% science_topics] <- "science"
+df$category[df$name %in% conspiracy_topics] <- "Conspiracy"
+df$category[df$name %in% noncontroversial_topics] <- "Non-controversial"
+df$category[df$name %in% news_topics] <- "News"
+df$category[df$name %in% science_topics] <- "Science"
 
-df$category <- factor(df$category, levels=c("non-controversial","science","news","conspiracy"))
+df$category <- factor(df$category, levels=c("Non-controversial","Science","News","Conspiracy"))
 
 df$name <- gsub("_"," ",df$name)
 
 ## CREATE TABLE ----
 
+sg_table <- df[order(df$category,df$name),c('name','size_clean','size','modularity','viewcount')]
+sg_table$size <- paste0(sg_table$size, " (", round(sg_table$size / sg_table$size_clean * 100),"%)")
+
 stargazer(
-  df[order(df$category,df$name),c('name','size_clean','size','viewcount')],
+  sg_table,
   type="latex", summary=FALSE, rownames=FALSE, label="tab:networks",
   caption="Complete list of networks collected for the study"
 )
 
-## PLOTTING ----
-
-ggplot(df, aes(x=category, y=size, label=name)) +
-  stat_summary(fun = mean, geom = "bar", fill='#BED1DB', color='black') + 
-  stat_summary(fun.data = mean_se, geom = "errorbar", width=.2) +
-  ylab('# of videos (LCC)') +
-  geom_text(color = '#658DA0', size=3, alpha=1)
-
-ggplot(df, aes(x=category, y=avg_degree_clean, label=name)) +
-  stat_summary(fun = mean, geom = "bar", fill='#BED1DB', color='black') + 
-  stat_summary(fun.data = mean_se, geom = "errorbar", width=.2) +
-  ylab('average degree (clean)') +
-  geom_text(color = '#658DA0', size=3, alpha=1)
-
-ggplot(df, aes(x=category, y=avg_degree, label=name)) +
-  stat_summary(fun = mean, geom = "bar", fill='#BED1DB', color='black') + 
-  stat_summary(fun.data = mean_se, geom = "errorbar", width=.2) +
-  ylab('average degree (LCC)') +
-  geom_text(color = '#658DA0', size=3, alpha=1)
-
-ggplot(df, aes(x=category, y=size_clean, label=name)) +
-  stat_summary(fun = mean, geom = "bar", fill='#BED1DB', color='black') + 
-  stat_summary(fun.data = mean_se, geom = "errorbar", width=.2) +
-  ylab('# of videos (clean)') +
-  geom_text(color = '#658DA0', size=3, alpha=1)
-
-ggplot(df, aes(x=category, y=isolates, label=name)) +
-  stat_summary(fun = mean, geom = "bar", fill='#BED1DB', color='black') + 
-  stat_summary(fun.data = mean_se, geom = "errorbar", width=.2) +
-  ylab('# isolates') +
-  geom_text(color = '#658DA0', size=3, alpha=1)
-
-ggplot(df, aes(x=category, y=modularity, label=name)) +
-  stat_summary(fun = mean, geom = "bar", fill='#BED1DB', color='black') + 
-  stat_summary(fun.data = mean_se, geom = "errorbar", width=.2) +
-  ylab('modularity') +
-  geom_text(color = '#658DA0', size=3, alpha=1)
-
-ggplot(df, aes(x=category, y=viewcount, label=name)) +
-  stat_summary(fun = mean, geom = "bar", fill='#BED1DB', color='black') + 
-  stat_summary(fun.data = mean_se, geom = "errorbar", width=.2) +
-  ylab('total # of views') +
-  geom_text(color = '#658DA0', size=3, alpha=1)
-
-ggplot(df, aes(x=category, y=gini_clean, label=name)) +
-  stat_summary(fun = mean, geom = "bar", fill='#BED1DB', color='black') + 
-  stat_summary(fun.data = mean_se, geom = "errorbar", width=.2) +
-  ylab('gini of viewcount (clean)') +
-  geom_text(color = '#658DA0', size=3, alpha=1)
-
-ggplot(df, aes(x=category, y=gini, label=name)) +
-  stat_summary(fun = mean, geom = "bar", fill='#BED1DB', color='black') + 
-  stat_summary(fun.data = mean_se, geom = "errorbar", width=.2) +
-  ylab('gini of viewcount (LCC)') +
-  geom_text(color = '#658DA0', size=3, alpha=1)
-
-ggplot(df, aes(x=category, y=avg_sentiment, label=name)) +
-  stat_summary(fun = mean, geom = "bar", fill='#BED1DB', color='black') + 
-  stat_summary(fun.data = mean_se, geom = "errorbar", width=.2) +
-  ylab('average sentiment') +
-  geom_text(color = '#658DA0', size=3, alpha=1)
-
-ggplot(df, aes(x=category, y=hub10_distance, label=name)) +
-  stat_summary(fun = mean, geom = "bar", fill='#BED1DB', color='black') + 
-  stat_summary(fun.data = mean_se, geom = "errorbar", width=.2) +
-  ylab('hub distance') +
-  geom_text(color = '#658DA0', size=3, alpha=1)
-
-
-
 ## STATISTICAL MODELS ----
 
-summary(lm(gini ~ category + viewcount + size, data=df))
-summary(lm(avg_degree ~ category + viewcount + size, data=df))
+df$viewcount <- df$viewcount / 10000000
+df$size <- df$size / 100
+
+#df$category <- relevel(df$category, ref = 4)
+
+summary(m_mod <- lm(modularity ~ category + log(viewcount) + size, data=df))
+summary(m_deg <- lm(avg_degree ~ category + log(viewcount) + size, data=df))
+#summary(m_gin <- lm(gini_clean       ~ category + log(viewcount) + size, data=df))
+summary(m_gin <- lm(gini       ~ category + log(viewcount) + size, data=df))
+# !!! add model on centralization? Is this possible?
+
+stargazer(m_mod, m_deg, m_gin, type="text",
+          title = c("OLS regression models on indicators of rabbit holes in the graphs"), 
+          dep.var.labels = c("Modularity", "Average degree", "Gini of degree distribution"),
+          
+          omit.stat = c("adj.rsq","ser"))
+
+stargazer(m_mod, m_deg, m_gin, type="latex", 
+          title = c("OLS regression models on indicators of rabbit holes in the graphs"), 
+          dep.var.labels = c("Modularity", "Average degree", "Gini of degree distribution"),
+          omit.stat = c("adj.rsq","ser"),
+          out="tab_macro_mods.tex")
   # problems: viewcount on video level related to indegree, 
 
 
-
-
+centr_degree(g, loops=F)

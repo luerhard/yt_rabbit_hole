@@ -50,6 +50,7 @@ get_network_metadata <- function(g, networkName=NA){
   ## COMPONENT SELECTION
   # identifying components
   components <- components(g)
+  degreedist <- igraph::degree(g, mode="in")
 
   MD1 <- data.frame(
     name = networkName,
@@ -59,7 +60,8 @@ get_network_metadata <- function(g, networkName=NA){
     isolates = sum(components$csize[components$csize==1]),
     avg_degree_clean = mean(degree(g)),
     viewcount_clean = sum(V(g)$view_count),
-    gini_clean = Gini(V(g)$view_count)
+    #gini_clean = Gini(V(g)$view_count)
+    gini_clean = Gini(degreedist)
   )
 
   # selecting largest connected component
@@ -72,12 +74,15 @@ get_network_metadata <- function(g, networkName=NA){
   # DEFINE HUBS
   hubs <- V(g)[order(V(g)$indegree,decreasing=T)][1:10]
 
+  degreedist <- igraph::degree(g, mode="in")
+  
   MD2 <- data.frame(
     no_clusters = length(unique(cl$membership)),
     modularity = cl$modularity[1],
     avg_degree = mean(degree(g)),
     viewcount = sum(V(g)$view_count),
-    gini = Gini(V(g)$view_count),
+    #gini = Gini(V(g)$view_count),
+    gini = Gini(degreedist),
     hub10_distance = mean(distances(g, hubs, hubs)),
     avg_sentiment = mean(V(g)$sentiment,na.rm=T)
   )
