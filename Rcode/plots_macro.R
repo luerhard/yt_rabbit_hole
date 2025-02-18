@@ -164,7 +164,7 @@ ggsave("../../plots/macro_gini.png", height=3.5, width=2.5, dpi=300)
 ggsave("../../plots/macro_isolates.png", height=3.5, width=2.5, dpi=300)
 
 (p1 + p2) / (p3 + p4) + plot_annotation(tag_levels = 'A') & theme(plot.tag.position  = c(.98, .98), plot.tag = element_text(face="bold"))
-ggsave("../../plots/macro.png", height=5, width=5, dpi=300)
+ggsave("../../plots/macro.png", height=5, width=4.6, dpi=300)
 
 
 # included in micro-level section

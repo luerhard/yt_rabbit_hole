@@ -116,7 +116,7 @@ ggplot(df_news,
   geom_text(stat = "stratum", aes(label = after_stat(stratum)), size = 3, color='white') +
   theme(panel.border=element_blank(),axis.text=element_blank(),axis.ticks=element_blank(),axis.title=element_blank()) +
   labs(subtitle="News")
-ggsave('../../plots/meso_alluvial_news.png', width=2.5, height=3.5, dpi=300)
+ggsave('../../plots/meso_alluvial_news.png', width=2.3, height=3.5, dpi=300)
 
 
 ## Science
@@ -141,7 +141,7 @@ ggplot(df_science,
   geom_text(stat = "stratum", aes(label = after_stat(stratum)), size = 3, color='white') +
   theme(panel.border=element_blank(),axis.text=element_blank(),axis.ticks=element_blank(),axis.title=element_blank()) +
   labs(subtitle="Science")
-ggsave('../../plots/meso_alluvial_science.png', width=2.5, height=3.5, dpi=300)
+ggsave('../../plots/meso_alluvial_science.png', width=2.3, height=3.5, dpi=300)
 
 
 ## Non-controversial
@@ -166,7 +166,7 @@ ggplot(df_nc,
   geom_text(stat = "stratum", aes(label = after_stat(stratum)), size = 3, color='white') +
   theme(panel.border=element_blank(),axis.text=element_blank(),axis.ticks=element_blank(),axis.title=element_blank()) +
   labs(subtitle="Non-controversial")
-ggsave('../../plots/meso_alluvial_nc.png', width=2.5, height=3.5, dpi=300)
+ggsave('../../plots/meso_alluvial_nc.png', width=2.3, height=3.5, dpi=300)
 
 
 ## Conspiracy
@@ -191,7 +191,7 @@ ggplot(df_conspiracy,
   geom_text(stat = "stratum", aes(label = after_stat(stratum)), size = 3, color='white') +
   theme(panel.border=element_blank(),axis.text=element_blank(),axis.ticks=element_blank(),axis.title=element_blank()) +
   labs(subtitle="Conspiracy")
-ggsave('../../plots/meso_alluvial_conspiracy.png', width=2.5, height=3.5, dpi=300)
+ggsave('../../plots/meso_alluvial_conspiracy.png', width=2.3, height=3.5, dpi=300)
 
 
 
@@ -263,7 +263,7 @@ ggplot(df_news,
   geom_text(stat = "stratum", aes(label = after_stat(stratum)), size = 3, color='white') +
   theme(panel.border=element_blank(),axis.text=element_blank(),axis.ticks=element_blank(),axis.title=element_blank()) +
   labs(subtitle="News")
-ggsave('../../plots/meso_alluvial_news.png', width=2.5, height=3.5, dpi=300)
+ggsave('../../plots/meso_alluvial_news.png', width=2.3, height=3.5, dpi=300)
 
 
 ## Science
@@ -288,7 +288,7 @@ ggplot(df_science,
   geom_text(stat = "stratum", aes(label = after_stat(stratum)), size = 3, color='white') +
   theme(panel.border=element_blank(),axis.text=element_blank(),axis.ticks=element_blank(),axis.title=element_blank()) +
   labs(subtitle="Science")
-ggsave('../../plots/meso_alluvial_science.png', width=2.5, height=3.5, dpi=300)
+ggsave('../../plots/meso_alluvial_science.png', width=2.3, height=3.5, dpi=300)
 
 
 ## Non-controversial
@@ -313,7 +313,7 @@ ggplot(df_nc,
   geom_text(stat = "stratum", aes(label = after_stat(stratum)), size = 3, color='white') +
   theme(panel.border=element_blank(),axis.text=element_blank(),axis.ticks=element_blank(),axis.title=element_blank()) +
   labs(subtitle="Non-controversial")
-ggsave('../../plots/meso_alluvial_nc.png', width=2.5, height=3.5, dpi=300)
+ggsave('../../plots/meso_alluvial_nc.png', width=2.3, height=3.5, dpi=300)
 
 
 ## Conspiracy
@@ -338,7 +338,7 @@ ggplot(df_conspiracy,
   geom_text(stat = "stratum", aes(label = after_stat(stratum)), size = 3, color='white') +
   theme(panel.border=element_blank(),axis.text=element_blank(),axis.ticks=element_blank(),axis.title=element_blank()) +
   labs(subtitle="Conspiracy")
-ggsave('../../plots/meso_alluvial_conspiracy.png', width=2.5, height=3.5, dpi=300)
+ggsave('../../plots/meso_alluvial_conspiracy.png', width=2.3, height=3.5, dpi=300)
 
 
 
