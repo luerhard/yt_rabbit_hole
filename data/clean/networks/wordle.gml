@@ -1,4 +1,4 @@
-Creator "igraph version 1.3.1 Wed Jul 20 15:28:20 2022"
+Creator "igraph version 0.10.10-81-g857a12506 Fri Feb  7 14:12:01 2025"
 Version 1
 graph
 [
@@ -10,7 +10,7 @@ graph
     step 0
     date "2022-07-14T09:25:16Z"
     title "Wordle 390 for July 14th"
-    description "What is today's Wordle for 07/14/2022 number 390 ? Join me and let's find out &#38; guess the answer together. Happy almost Friday!&#10;A new word daily, how do you like to play &#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. July 14th 2022&#10;&#10;Follow me on Twitter: https://twitter.com/emptyapartment3&#10;Join our Discord: https://discord.gg/9Py98RU&#10;Support/Buy me a &#34;coffee&#34;: https://ko-fi.com/emptyapartment&#10;&#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&#10;&#10;business contact: emptyapartmentgaming [at] gmail&#10;&#10;&#10;0:00 Intro&#10;0:23 First Guess&#10;1:30 Wordle?&#10;&#10;#wordle"
+    description "What is today's Wordle for 07/14/2022 number 390 ? Join me and let's find out &amp;#38; guess the answer together. Happy almost Friday!&amp;#10;A new word daily, how do you like to play &amp;#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. July 14th 2022&amp;#10;&amp;#10;Follow me on Twitter: https://twitter.com/emptyapartment3&amp;#10;Join our Discord: https://discord.gg/9Py98RU&amp;#10;Support/Buy me a &amp;#34;coffee&amp;#34;: https://ko-fi.com/emptyapartment&amp;#10;&amp;#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;business contact: emptyapartmentgaming [at] gmail&amp;#10;&amp;#10;&amp;#10;0:00 Intro&amp;#10;0:23 First Guess&amp;#10;1:30 Wordle?&amp;#10;&amp;#10;#wordle"
     channeltitle "Empty Apartment"
     channelid "UCEb4tjgeTW47bD66Xryzx0Q"
     favcount 0
@@ -29,6 +29,28 @@ graph
     ppinflammatory 0.09131996
     sentiment 0
     cluster 1
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -37,7 +59,7 @@ graph
     step 0
     date "2022-01-07T18:00:10Z"
     title "How To Play Wordle: The New Game Thats Taking The Internet By Storm"
-    description "Wordle is an addictive word game that has become a daily addition in many people&#8217;s lives. Players have six tries to guess a five-letter mystery word, and each time they guess a word, the game will tell you which, if any, of the letters are correct. NBC&#8217;s Gabi Schwartz reports for TODAY.&#10;&#10;&#187; Subscribe to TODAY: http://on.today.com/SubscribeToTODAY&#10;&#187; Watch the latest from TODAY: http://bit.ly/LatestTODAY&#10;&#10;About: TODAY brings you the latest headlines and expert tips on money, health and parenting. We wake up every morning to give you and your family all you need to start your day. If it matters to you, it matters to us. We are in the people business. Subscribe to our channel for exclusive TODAY archival footage &#38; our original web series.  &#10;&#10;Connect with TODAY Online!&#10;Visit TODAY's Website: http://on.today.com/ReadTODAY&#10;Find TODAY on Facebook: http://on.today.com/LikeTODAY&#10;Follow TODAY on Twitter: http://on.today.com/FollowTODAY&#10;Follow TODAY on Instagram: http://on.today.com/InstaTODAY&#10;&#10;#Wordle #TODAYShow #Wordgames"
+    description "Wordle is an addictive word game that has become a daily addition in many people&amp;#8217;s lives. Players have six tries to guess a five-letter mystery word, and each time they guess a word, the game will tell you which, if any, of the letters are correct. NBC&amp;#8217;s Gabi Schwartz reports for TODAY.&amp;#10;&amp;#10;&amp;#187; Subscribe to TODAY: http://on.today.com/SubscribeToTODAY&amp;#10;&amp;#187; Watch the latest from TODAY: http://bit.ly/LatestTODAY&amp;#10;&amp;#10;About: TODAY brings you the latest headlines and expert tips on money, health and parenting. We wake up every morning to give you and your family all you need to start your day. If it matters to you, it matters to us. We are in the people business. Subscribe to our channel for exclusive TODAY archival footage &amp;#38; our original web series.  &amp;#10;&amp;#10;Connect with TODAY Online!&amp;#10;Visit TODAY's Website: http://on.today.com/ReadTODAY&amp;#10;Find TODAY on Facebook: http://on.today.com/LikeTODAY&amp;#10;Follow TODAY on Twitter: http://on.today.com/FollowTODAY&amp;#10;Follow TODAY on Instagram: http://on.today.com/InstaTODAY&amp;#10;&amp;#10;#Wordle #TODAYShow #Wordgames"
     channeltitle "TODAY"
     channelid "UChDKyKQ59fYz3JO2fl0Z6sg"
     favcount 0
@@ -56,6 +78,28 @@ graph
     ppinflammatory 0.1722994
     sentiment 0.34
     cluster 2
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -64,7 +108,7 @@ graph
     step 0
     date "2022-02-10T16:00:24Z"
     title "How To Win At Wordle Every Time"
-    description "David Kwong, New York Times Crossword Constructor, instructs us on how to win at Wordle - the viral word puzzle that has been taking the internet (and Twitter) by storm. &#10;&#10;Credits: https://www.buzzfeed.com/bfmp/videos/150593&#10;&#10;Subscribe to BuzzFeed Multiplayer: https://bzfd.it/2kVnL0z&#10;&#10;BuzzFeed Multiplayer&#10;Home for all things gaming, cosplay, real-life recreations, real professionals playing games, challenges, and more! If this sounds like the stuff you&#8217;re into then please subscribe today!&#10;&#10;Love BuzzFeed Multiplayer? Get the merch! BUY NOW: https://bzfd.it/shopmultiplayeryoutube&#10;&#10;Follow us on Twitter: https://twitter.com/multiplayerBF&#10;Like us on Facebook: https://www.facebook.com/buzzfeedmultiplayer/&#10;&#10;GET MORE BUZZFEED:&#10;https://www.buzzfeed.com&#10;https://www.buzzfeed.com/videos&#10;https://www.youtube.com/buzzfeedvideo&#10;https://www.youtube.com/asis&#10;https://www.youtube.com/buzzfeedmultiplayer&#10;https://www.youtube.com/buzzfeedunsolvednetwork&#10;http://youtube.com/buzzfeedceleb&#10;https://www.youtube.com/perolike&#10;https://www.youtube.com/buzzfeedviolet&#10;https://www.youtube.com/goodful&#10;https://www.youtube.com/nifty&#10;https://www.youtube.com/buzzfeedtasty&#10;https://www.youtube.com/bringme&#10;https://www.youtube.com/abouttoeat&#10;&#10;SUBSCRIBE TO BUZZFEED NEWSLETTERS:&#10;https://www.buzzfeed.com/newsletters"
+    description "David Kwong, New York Times Crossword Constructor, instructs us on how to win at Wordle - the viral word puzzle that has been taking the internet (and Twitter) by storm. &amp;#10;&amp;#10;Credits: https://www.buzzfeed.com/bfmp/videos/150593&amp;#10;&amp;#10;Subscribe to BuzzFeed Multiplayer: https://bzfd.it/2kVnL0z&amp;#10;&amp;#10;BuzzFeed Multiplayer&amp;#10;Home for all things gaming, cosplay, real-life recreations, real professionals playing games, challenges, and more! If this sounds like the stuff you&amp;#8217;re into then please subscribe today!&amp;#10;&amp;#10;Love BuzzFeed Multiplayer? Get the merch! BUY NOW: https://bzfd.it/shopmultiplayeryoutube&amp;#10;&amp;#10;Follow us on Twitter: https://twitter.com/multiplayerBF&amp;#10;Like us on Facebook: https://www.facebook.com/buzzfeedmultiplayer/&amp;#10;&amp;#10;GET MORE BUZZFEED:&amp;#10;https://www.buzzfeed.com&amp;#10;https://www.buzzfeed.com/videos&amp;#10;https://www.youtube.com/buzzfeedvideo&amp;#10;https://www.youtube.com/asis&amp;#10;https://www.youtube.com/buzzfeedmultiplayer&amp;#10;https://www.youtube.com/buzzfeedunsolvednetwork&amp;#10;http://youtube.com/buzzfeedceleb&amp;#10;https://www.youtube.com/perolike&amp;#10;https://www.youtube.com/buzzfeedviolet&amp;#10;https://www.youtube.com/goodful&amp;#10;https://www.youtube.com/nifty&amp;#10;https://www.youtube.com/buzzfeedtasty&amp;#10;https://www.youtube.com/bringme&amp;#10;https://www.youtube.com/abouttoeat&amp;#10;&amp;#10;SUBSCRIBE TO BUZZFEED NEWSLETTERS:&amp;#10;https://www.buzzfeed.com/newsletters"
     channeltitle "BuzzFeed Multiplayer"
     channelid "UCBUVGPsJzc1U8SECMgBaMFw"
     favcount 0
@@ -83,6 +127,28 @@ graph
     ppinflammatory 0.18332227
     sentiment 0.5859
     cluster 2
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -91,7 +157,7 @@ graph
     step 0
     date "2022-02-10T15:17:09Z"
     title "The best Wordle strategy  according to science"
-    description "Wordle may seem like a word game, but really it&#8217;s a mathematical one. Rather than debate the best opening word, why not calculate it with information theory?&#10;&#10;As promised in the video, you can find the top 100 opening words for easy and hard mode, with stupid words included or excluded, here: https://steele.link/top-wordles&#10;&#10;&#10;# Video chapters&#10;&#10;00:00 INTRO&#10;01:33 MATHS&#10;02:45 ORDER/CHAOS&#10;06:22 SCARY LOGIC&#10;07:42 SOARE FAILS&#10;10:16 FIRST PLACE&#10;&#10;&#10;# Further viewing&#10;&#10;If this video wasn&#8217;t nerdy enough for you, @3Blue1Brown made a deeper dive into the mathematics of entropy as applied to Wordle which came out as I was editing this! Check it out here: https://www.youtube.com/watch?v=v68zYyaEmEA&#10;&#10;&#10;# Credits&#10;&#10;Many thanks to Tran Nguyen for all her help with this video&#8230;in particular, for inspiring the graphs showing the entropy of different opening words!&#10;&#10;Also many thanks to Jason Liszka for open-sourcing his Wordle-solving code, which I hacked mercilessly to do the calculations for this video: https://github.com/jliszka/wordle&#10;&#10;&#10;# And finally&#8230;&#10;&#10;Follow me on Twitter https://twitter.com/statto&#10;Follow me on Instagram https://www.instagram.com/andrewjsteele&#10;Like my page on Facebook https://www.facebook.com/DrAndrewSteele&#10;Read my book, Ageless: The new science of getting older without getting old https://ageless.link/"
+    description "Wordle may seem like a word game, but really it&amp;#8217;s a mathematical one. Rather than debate the best opening word, why not calculate it with information theory?&amp;#10;&amp;#10;As promised in the video, you can find the top 100 opening words for easy and hard mode, with stupid words included or excluded, here: https://steele.link/top-wordles&amp;#10;&amp;#10;&amp;#10;# Video chapters&amp;#10;&amp;#10;00:00 INTRO&amp;#10;01:33 MATHS&amp;#10;02:45 ORDER/CHAOS&amp;#10;06:22 SCARY LOGIC&amp;#10;07:42 SOARE FAILS&amp;#10;10:16 FIRST PLACE&amp;#10;&amp;#10;&amp;#10;# Further viewing&amp;#10;&amp;#10;If this video wasn&amp;#8217;t nerdy enough for you, @3Blue1Brown made a deeper dive into the mathematics of entropy as applied to Wordle which came out as I was editing this! Check it out here: https://www.youtube.com/watch?v=v68zYyaEmEA&amp;#10;&amp;#10;&amp;#10;# Credits&amp;#10;&amp;#10;Many thanks to Tran Nguyen for all her help with this video&amp;#8230;in particular, for inspiring the graphs showing the entropy of different opening words!&amp;#10;&amp;#10;Also many thanks to Jason Liszka for open-sourcing his Wordle-solving code, which I hacked mercilessly to do the calculations for this video: https://github.com/jliszka/wordle&amp;#10;&amp;#10;&amp;#10;# And finally&amp;#8230;&amp;#10;&amp;#10;Follow me on Twitter https://twitter.com/statto&amp;#10;Follow me on Instagram https://www.instagram.com/andrewjsteele&amp;#10;Like my page on Facebook https://www.facebook.com/DrAndrewSteele&amp;#10;Read my book, Ageless: The new science of getting older without getting old https://ageless.link/"
     channeltitle "Andrew Steele"
     channelid "UC-XYsDNh4-886rMNLnnwR_w"
     favcount 0
@@ -109,7 +175,29 @@ graph
     ppprofanity 0.05487867
     ppinflammatory 0.11096697
     sentiment 0.6369
-    cluster 3
+    cluster 2
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -118,7 +206,7 @@ graph
     step 0
     date "2022-01-14T04:43:45Z"
     title "Jimmy Fallon Attempts to Play Wordle | The Tonight Show Starring Jimmy Fallon"
-    description "Jimmy plays a game of Wordle where he has six chances to guess the day's secret five-letter word.&#10;&#10;The Tonight Show Starring Jimmy Fallon.  Stream now on Peacock: https://bit.ly/3gZJaNy&#10;&#10;Subscribe NOW to The Tonight Show Starring Jimmy Fallon: http://bit.ly/1nwT1aN&#10; &#10;Watch The Tonight Show Starring Jimmy Fallon Weeknights 11:35/10:35c&#10; &#10;Get more The Tonight Show Starring Jimmy Fallon: https://www.nbc.com/the-tonight-show&#10; &#10;JIMMY FALLON ON SOCIAL&#10;Follow Jimmy: http://Twitter.com/JimmyFallon&#10;Like Jimmy: https://Facebook.com/JimmyFallon&#10;Follow Jimmy: https://www.instagram.com/jimmyfallon/&#10; &#10;THE TONIGHT SHOW ON SOCIAL&#10;Follow The Tonight Show: http://Twitter.com/FallonTonight&#10;Like The Tonight Show: https://Facebook.com/FallonTonight&#10;Follow The Tonight Show: https://www.instagram.com/fallontonight/&#10;Tonight Show Tumblr: http://fallontonight.tumblr.com&#10; &#10;The Tonight Show Starring Jimmy Fallon features hilarious highlights from the show, including comedy sketches, music parodies, celebrity interviews, ridiculous games, and, of course, Jimmy's Thank You Notes and hashtags! You'll also find behind the scenes videos and other great web exclusives.&#10; &#10;GET MORE NBC&#10;NBC YouTube: http://bit.ly/1dM1qBH&#10;Like NBC: http://Facebook.com/NBC&#10;Follow NBC: http://Twitter.com/NBC&#10;NBC Instagram: http://instagram.com/nbc&#10;NBC Tumblr: http://nbctv.tumblr.com/&#10; &#10;Jimmy Fallon Attempts to Play Wordle | The Tonight Show Starring Jimmy Fallon&#10;http://www.youtube.com/fallontonight&#10;&#10;#FallonTonight&#10;#JimmyFallon"
+    description "Jimmy plays a game of Wordle where he has six chances to guess the day's secret five-letter word.&amp;#10;&amp;#10;The Tonight Show Starring Jimmy Fallon.  Stream now on Peacock: https://bit.ly/3gZJaNy&amp;#10;&amp;#10;Subscribe NOW to The Tonight Show Starring Jimmy Fallon: http://bit.ly/1nwT1aN&amp;#10; &amp;#10;Watch The Tonight Show Starring Jimmy Fallon Weeknights 11:35/10:35c&amp;#10; &amp;#10;Get more The Tonight Show Starring Jimmy Fallon: https://www.nbc.com/the-tonight-show&amp;#10; &amp;#10;JIMMY FALLON ON SOCIAL&amp;#10;Follow Jimmy: http://Twitter.com/JimmyFallon&amp;#10;Like Jimmy: https://Facebook.com/JimmyFallon&amp;#10;Follow Jimmy: https://www.instagram.com/jimmyfallon/&amp;#10; &amp;#10;THE TONIGHT SHOW ON SOCIAL&amp;#10;Follow The Tonight Show: http://Twitter.com/FallonTonight&amp;#10;Like The Tonight Show: https://Facebook.com/FallonTonight&amp;#10;Follow The Tonight Show: https://www.instagram.com/fallontonight/&amp;#10;Tonight Show Tumblr: http://fallontonight.tumblr.com&amp;#10; &amp;#10;The Tonight Show Starring Jimmy Fallon features hilarious highlights from the show, including comedy sketches, music parodies, celebrity interviews, ridiculous games, and, of course, Jimmy's Thank You Notes and hashtags! You'll also find behind the scenes videos and other great web exclusives.&amp;#10; &amp;#10;GET MORE NBC&amp;#10;NBC YouTube: http://bit.ly/1dM1qBH&amp;#10;Like NBC: http://Facebook.com/NBC&amp;#10;Follow NBC: http://Twitter.com/NBC&amp;#10;NBC Instagram: http://instagram.com/nbc&amp;#10;NBC Tumblr: http://nbctv.tumblr.com/&amp;#10; &amp;#10;Jimmy Fallon Attempts to Play Wordle | The Tonight Show Starring Jimmy Fallon&amp;#10;http://www.youtube.com/fallontonight&amp;#10;&amp;#10;#FallonTonight&amp;#10;#JimmyFallon"
     channeltitle "The Tonight Show Starring Jimmy Fallon"
     channelid "UC8-Th83bH_thdKZDJCrn88g"
     favcount 0
@@ -136,7 +224,29 @@ graph
     ppprofanity 0.12230811
     ppinflammatory 0.13504672
     sentiment 0.34
-    cluster 4
+    cluster 3
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -145,7 +255,7 @@ graph
     step 0
     date "2022-02-06T13:28:52Z"
     title "Solving Wordle using information theory"
-    description "An excuse to teach a lesson on information theory and entropy.&#10;Special thanks to these supporters: https://3b1b.co/lessons/wordle#thanks&#10;Help fund future projects: https://www.patreon.com/3blue1brown&#10;An equally valuable form of support is to simply share the videos.&#10;&#10;Contents:&#10;0:00 - What is Wordle?&#10;2:43 - Initial ideas&#10;8:04 - Information theory basics&#10;18:15 - Incorporating word frequencies&#10;27:49 - Final performance&#10;&#10;Original wordle site:&#10;https://www.powerlanguage.co.uk/wordle/&#10;&#10;Music by Vincent Rubinetti.&#10;https://www.vincentrubinetti.com/&#10;&#10;Shannon and von Neumann artwork by Kurt Bruns.&#10;https://www.instagram.com/p/CZpRKhMJnD6/&#10;&#10;Code for this video:&#10;https://github.com/3b1b/videos/tree/master/_2022/wordle&#10;&#10;These animations are largely made using a custom python library, manim.  See the FAQ comments here:&#10;https://www.3blue1brown.com/faq#manim&#10;https://github.com/3b1b/manim&#10;https://github.com/ManimCommunity/manim/&#10;&#10;You can find code for specific videos and projects here:&#10;https://github.com/3b1b/videos/&#10;&#10;------------------&#10;&#10;3blue1brown is a channel about animating math, in all senses of the word animate.  And you know the drill with YouTube, if you want to stay posted on new videos, subscribe: http://3b1b.co/subscribe&#10;&#10;Various social media stuffs:&#10;Website: https://www.3blue1brown.com&#10;Twitter: https://twitter.com/3blue1brown&#10;Reddit: https://www.reddit.com/r/3blue1brown&#10;Instagram: https://www.instagram.com/3blue1brown_animations/&#10;Patreon: https://patreon.com/3blue1brown&#10;Facebook: https://www.facebook.com/3blue1brown"
+    description "An excuse to teach a lesson on information theory and entropy.&amp;#10;Special thanks to these supporters: https://3b1b.co/lessons/wordle#thanks&amp;#10;Help fund future projects: https://www.patreon.com/3blue1brown&amp;#10;An equally valuable form of support is to simply share the videos.&amp;#10;&amp;#10;Contents:&amp;#10;0:00 - What is Wordle?&amp;#10;2:43 - Initial ideas&amp;#10;8:04 - Information theory basics&amp;#10;18:15 - Incorporating word frequencies&amp;#10;27:49 - Final performance&amp;#10;&amp;#10;Original wordle site:&amp;#10;https://www.powerlanguage.co.uk/wordle/&amp;#10;&amp;#10;Music by Vincent Rubinetti.&amp;#10;https://www.vincentrubinetti.com/&amp;#10;&amp;#10;Shannon and von Neumann artwork by Kurt Bruns.&amp;#10;https://www.instagram.com/p/CZpRKhMJnD6/&amp;#10;&amp;#10;Code for this video:&amp;#10;https://github.com/3b1b/videos/tree/master/_2022/wordle&amp;#10;&amp;#10;These animations are largely made using a custom python library, manim.  See the FAQ comments here:&amp;#10;https://www.3blue1brown.com/faq#manim&amp;#10;https://github.com/3b1b/manim&amp;#10;https://github.com/ManimCommunity/manim/&amp;#10;&amp;#10;You can find code for specific videos and projects here:&amp;#10;https://github.com/3b1b/videos/&amp;#10;&amp;#10;------------------&amp;#10;&amp;#10;3blue1brown is a channel about animating math, in all senses of the word animate.  And you know the drill with YouTube, if you want to stay posted on new videos, subscribe: http://3b1b.co/subscribe&amp;#10;&amp;#10;Various social media stuffs:&amp;#10;Website: https://www.3blue1brown.com&amp;#10;Twitter: https://twitter.com/3blue1brown&amp;#10;Reddit: https://www.reddit.com/r/3blue1brown&amp;#10;Instagram: https://www.instagram.com/3blue1brown_animations/&amp;#10;Patreon: https://patreon.com/3blue1brown&amp;#10;Facebook: https://www.facebook.com/3blue1brown"
     channeltitle "3Blue1Brown"
     channelid "UCYO_jab_esuFRV4b17AJtAw"
     favcount 0
@@ -164,6 +274,28 @@ graph
     ppinflammatory 0.085990116
     sentiment 0.34
     cluster 2
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -172,7 +304,7 @@ graph
     step 0
     date "2022-03-19T00:11:00Z"
     title "I played Wordle for a MONTH.."
-    description "Leave a like on the video!&#10;I played wordle every day for a month.. this is how it went.. what is my IQ?&#10;&#10;My Main Channel: https://www.youtube.com/user/ImSuda&#10;Twitter - https://twitter.com/imsuda&#10;Instagram - https://instagram.com/whossuda&#10;Discord Server - https://discordapp.com/invite/4pAyBbh&#10;Business inquiries - sudaversal@gmail.com"
+    description "Leave a like on the video!&amp;#10;I played wordle every day for a month.. this is how it went.. what is my IQ?&amp;#10;&amp;#10;My Main Channel: https://www.youtube.com/user/ImSuda&amp;#10;Twitter - https://twitter.com/imsuda&amp;#10;Instagram - https://instagram.com/whossuda&amp;#10;Discord Server - https://discordapp.com/invite/4pAyBbh&amp;#10;Business inquiries - sudaversal@gmail.com"
     channeltitle "Whos Suda"
     channelid "UCSFtC3tYbp6HUkpuSwtPD1Q"
     favcount 0
@@ -191,6 +323,28 @@ graph
     ppinflammatory 0.04678806
     sentiment 0.34
     cluster 4
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -199,7 +353,7 @@ graph
     step 0
     date "2022-07-13T22:15:58Z"
     title "So were all gonna get Wordle in TWO tries today?"
-    description "Go to https://www.shadyrays.com and use code OFFICE for 50% OFF 2+ pairs of premium polarized shades&#10;&#10;WARNING: Spoilers for July 13 Wordle.&#10;&#10;Jomboy Media office competes in weekly Wordle competition!"
+    description "Go to https://www.shadyrays.com and use code OFFICE for 50% OFF 2+ pairs of premium polarized shades&amp;#10;&amp;#10;WARNING: Spoilers for July 13 Wordle.&amp;#10;&amp;#10;Jomboy Media office competes in weekly Wordle competition!"
     channeltitle "JM Gaming (Jomboy Media)"
     channelid "UCk71IrRQyptFQBL_eEeS1uw"
     favcount 0
@@ -217,7 +371,29 @@ graph
     ppprofanity 0.06265603
     ppinflammatory 0.12149362
     sentiment 0
-    cluster 4
+    cluster 2
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -226,7 +402,7 @@ graph
     step 0
     date "2022-01-27T15:00:07Z"
     title "HOW TO PLAY WORDLE! The Word Game Going Viral | How To Play and Strategies to Win!"
-    description "Today we are of course covering HOW TO PLAY WORDLE! I have been sooo obsessed with this game lately. It truly has brought me so much joy and I hope it can bring you some joy as well. If you don't know what Wordle is, it's a word game going viral and taking over my social media and daily newsletters (seriously). I had to play and it's worth the hype if you're into word games. I want to show you how to play and strategies to win in this video. It's pretty easy to figure out once you play once, but I hope you learn something new from this video, or just enjoy the content. If you're reading this far, I hope you're a subscriber of mine and I appreciate your support as I took some time off. I'm back!&#10;&#10;HOW TO PLAY WORDLE! The Word Game Going Viral | How To Play and Strategies to Win!&#10;Claudia Carlucci&#10;&#10;Subscribe to my channel!: https://www.youtube.com/claudiacarlucci?sub_confirmation=1&#10;Subscribe to my second channel: https://www.youtube.com/channel/UC_p6xI7WF9vpPgY4HJ_FsVw?sub_confirmation=1&#10;&#10;Instagram: @claudiacarlucci&#10;I am a licensed real estate broker in Chicago at Compass. For real estate inquiries please contact claudia@modagrp.com&#10;&#10;My Equipment&#10;Camera - Canon EOS M50: https://amzn.to/2FMFvWo&#10;Microphone - Rode Video Micro: https://amzn.to/3eUX3gl&#10;Lights - https://amzn.to/366BGW5&#10;Tripod - https://amzn.to/3c31YfR&#10;&#10;*disclaimer: the above links are affiliate links. as an Amazon associate I may earn a small commission for qualifying purchases at no extra cost to you :)"
+    description "Today we are of course covering HOW TO PLAY WORDLE! I have been sooo obsessed with this game lately. It truly has brought me so much joy and I hope it can bring you some joy as well. If you don't know what Wordle is, it's a word game going viral and taking over my social media and daily newsletters (seriously). I had to play and it's worth the hype if you're into word games. I want to show you how to play and strategies to win in this video. It's pretty easy to figure out once you play once, but I hope you learn something new from this video, or just enjoy the content. If you're reading this far, I hope you're a subscriber of mine and I appreciate your support as I took some time off. I'm back!&amp;#10;&amp;#10;HOW TO PLAY WORDLE! The Word Game Going Viral | How To Play and Strategies to Win!&amp;#10;Claudia Carlucci&amp;#10;&amp;#10;Subscribe to my channel!: https://www.youtube.com/claudiacarlucci?sub_confirmation=1&amp;#10;Subscribe to my second channel: https://www.youtube.com/channel/UC_p6xI7WF9vpPgY4HJ_FsVw?sub_confirmation=1&amp;#10;&amp;#10;Instagram: @claudiacarlucci&amp;#10;I am a licensed real estate broker in Chicago at Compass. For real estate inquiries please contact claudia@modagrp.com&amp;#10;&amp;#10;My Equipment&amp;#10;Camera - Canon EOS M50: https://amzn.to/2FMFvWo&amp;#10;Microphone - Rode Video Micro: https://amzn.to/3eUX3gl&amp;#10;Lights - https://amzn.to/366BGW5&amp;#10;Tripod - https://amzn.to/3c31YfR&amp;#10;&amp;#10;*disclaimer: the above links are affiliate links. as an Amazon associate I may earn a small commission for qualifying purchases at no extra cost to you :)"
     channeltitle "How Do You Do?"
     channelid "UC3zJL4uNZoHFZ-MR-_QiRpA"
     favcount 0
@@ -244,7 +420,29 @@ graph
     ppprofanity 0.060953207
     ppinflammatory 0.13446666
     sentiment 0.8225
-    cluster 3
+    cluster 2
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -253,7 +451,7 @@ graph
     step 0
     date "2022-02-13T18:33:24Z"
     title "Oh, wait, actually the best Wordle opener is not "
-    description "Following up on the Worlde-solver (https://youtu.be/v68zYyaEmEA), discussing a minor bug and more details about how the best first word was chosen.&#10;Special thanks to these supporters: https://3b1b.co/lessons/wordle#thanks&#10;Help fund future projects: https://www.patreon.com/3blue1brown&#10;An equally valuable form of support is to simply share the videos.&#10;&#10;Contents:&#10;0:00 - The Bug&#10;3:31 - How the best first guess is chosen&#10;8:54 - Does this ruin the game?&#10;&#10;Nice post by Jonathan Olson on optimal wordle algorithms:&#10;https://jonathanolson.net/experiments/optimal-wordle-solutions&#10;&#10;More on optimal strategies:&#10;http://sonorouschocolate.com/notes/index.php?title=The_best_strategies_for_Wordle&#10;&#10;Code for this video:&#10;https://github.com/3b1b/videos/tree/master/_2022/wordle&#10;&#10;These animations are largely made using a custom python library, manim.  See the FAQ comments here:&#10;https://www.3blue1brown.com/faq#manim&#10;https://github.com/3b1b/manim&#10;https://github.com/ManimCommunity/manim/&#10;&#10;You can find code for specific videos and projects here:&#10;https://github.com/3b1b/videos/&#10;&#10;Music by Vincent Rubinetti.&#10;https://www.vincentrubinetti.com/&#10;&#10;Download the music on Bandcamp:&#10;https://vincerubinetti.bandcamp.com/album/the-music-of-3blue1brown&#10;&#10;Stream the music on Spotify:&#10;https://open.spotify.com/album/1dVyjwS8FBqXhRunaG5W5u&#10;&#10;------------------&#10;&#10;3blue1brown is a channel about animating math, in all senses of the word animate.  And you know the drill with YouTube, if you want to stay posted on new videos, subscribe: http://3b1b.co/subscribe&#10;&#10;Various social media stuffs:&#10;Website: https://www.3blue1brown.com&#10;Twitter: https://twitter.com/3blue1brown&#10;Reddit: https://www.reddit.com/r/3blue1brown&#10;Instagram: https://www.instagram.com/3blue1brown_animations/&#10;Patreon: https://patreon.com/3blue1brown&#10;Facebook: https://www.facebook.com/3blue1brown"
+    description "Following up on the Worlde-solver (https://youtu.be/v68zYyaEmEA), discussing a minor bug and more details about how the best first word was chosen.&amp;#10;Special thanks to these supporters: https://3b1b.co/lessons/wordle#thanks&amp;#10;Help fund future projects: https://www.patreon.com/3blue1brown&amp;#10;An equally valuable form of support is to simply share the videos.&amp;#10;&amp;#10;Contents:&amp;#10;0:00 - The Bug&amp;#10;3:31 - How the best first guess is chosen&amp;#10;8:54 - Does this ruin the game?&amp;#10;&amp;#10;Nice post by Jonathan Olson on optimal wordle algorithms:&amp;#10;https://jonathanolson.net/experiments/optimal-wordle-solutions&amp;#10;&amp;#10;More on optimal strategies:&amp;#10;http://sonorouschocolate.com/notes/index.php?title=The_best_strategies_for_Wordle&amp;#10;&amp;#10;Code for this video:&amp;#10;https://github.com/3b1b/videos/tree/master/_2022/wordle&amp;#10;&amp;#10;These animations are largely made using a custom python library, manim.  See the FAQ comments here:&amp;#10;https://www.3blue1brown.com/faq#manim&amp;#10;https://github.com/3b1b/manim&amp;#10;https://github.com/ManimCommunity/manim/&amp;#10;&amp;#10;You can find code for specific videos and projects here:&amp;#10;https://github.com/3b1b/videos/&amp;#10;&amp;#10;Music by Vincent Rubinetti.&amp;#10;https://www.vincentrubinetti.com/&amp;#10;&amp;#10;Download the music on Bandcamp:&amp;#10;https://vincerubinetti.bandcamp.com/album/the-music-of-3blue1brown&amp;#10;&amp;#10;Stream the music on Spotify:&amp;#10;https://open.spotify.com/album/1dVyjwS8FBqXhRunaG5W5u&amp;#10;&amp;#10;------------------&amp;#10;&amp;#10;3blue1brown is a channel about animating math, in all senses of the word animate.  And you know the drill with YouTube, if you want to stay posted on new videos, subscribe: http://3b1b.co/subscribe&amp;#10;&amp;#10;Various social media stuffs:&amp;#10;Website: https://www.3blue1brown.com&amp;#10;Twitter: https://twitter.com/3blue1brown&amp;#10;Reddit: https://www.reddit.com/r/3blue1brown&amp;#10;Instagram: https://www.instagram.com/3blue1brown_animations/&amp;#10;Patreon: https://patreon.com/3blue1brown&amp;#10;Facebook: https://www.facebook.com/3blue1brown"
     channeltitle "3Blue1Brown"
     channelid "UCYO_jab_esuFRV4b17AJtAw"
     favcount 0
@@ -271,7 +469,29 @@ graph
     ppprofanity 0.030146051
     ppinflammatory 0.09310788
     sentiment 0.6369
-    cluster 5
+    cluster 2
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -280,7 +500,7 @@ graph
     step 0
     date "2022-07-13T21:00:15Z"
     title "Can a FIZZY DRINK give me good luck with todays Wordle?"
-    description "#wordletoday&#10;Solving today's #Wordle #389 for Wednesday, July 13th.&#10;&#10;You can find my other 'Wordle-like' solves here - https://youtube.com/playlist?list=PL_HjFt2zdfHV33cIRgG7tm-AvnfUP9cMG&#10;&#10;Check out all my merch at https://stro.link/merch&#10;Become a member of the Stro-Solves YouTube channel - https://stro.link/join&#10;Come discuss these puzzles with us on discord - https://stro.link/discord"
+    description "#wordletoday&amp;#10;Solving today's #Wordle #389 for Wednesday, July 13th.&amp;#10;&amp;#10;You can find my other 'Wordle-like' solves here - https://youtube.com/playlist?list=PL_HjFt2zdfHV33cIRgG7tm-AvnfUP9cMG&amp;#10;&amp;#10;Check out all my merch at https://stro.link/merch&amp;#10;Become a member of the Stro-Solves YouTube channel - https://stro.link/join&amp;#10;Come discuss these puzzles with us on discord - https://stro.link/discord"
     channeltitle "Scott Stro-solves"
     channelid "UC8HHDytpZ-cs9bavTbgYfmA"
     favcount 0
@@ -298,7 +518,29 @@ graph
     ppprofanity 0.08983387
     ppinflammatory 0.07378501
     sentiment 0.7096
-    cluster 2
+    cluster 3
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -307,7 +549,7 @@ graph
     step 0
     date "2022-05-05T21:57:22Z"
     title "I played Wordle EVERYDAY for a Month.."
-    description "I simply can not stop playing Wordle.. It's addicting. Today's video I asked my friends to help me to see if we could solve it faster.. did it work? this took a month to record because it's hard getting my friends around..&#10;&#10;More Wordle: https://www.youtube.com/watch?v=_GwMEOOIqgI&#10;&#10;Friends in the video @Exzd @HyperNovaPuma @Tranium  &#10;&#10;Should we try and speedrun wordle? We would definitely get a world record. I don't use a Wordle Strategy because I think it takes the fun out of playing the game casually.&#10;&#10;My Main Channel: https://www.youtube.com/user/ImSuda&#10;Twitter - https://twitter.com/imsuda&#10;Instagram - https://instagram.com/whossuda&#10;Discord Server - https://discordapp.com/invite/4pAyBbh&#10;Business inquiries - sudaversal@gmail.com"
+    description "I simply can not stop playing Wordle.. It's addicting. Today's video I asked my friends to help me to see if we could solve it faster.. did it work? this took a month to record because it's hard getting my friends around..&amp;#10;&amp;#10;More Wordle: https://www.youtube.com/watch?v=_GwMEOOIqgI&amp;#10;&amp;#10;Friends in the video @Exzd @HyperNovaPuma @Tranium  &amp;#10;&amp;#10;Should we try and speedrun wordle? We would definitely get a world record. I don't use a Wordle Strategy because I think it takes the fun out of playing the game casually.&amp;#10;&amp;#10;My Main Channel: https://www.youtube.com/user/ImSuda&amp;#10;Twitter - https://twitter.com/imsuda&amp;#10;Instagram - https://instagram.com/whossuda&amp;#10;Discord Server - https://discordapp.com/invite/4pAyBbh&amp;#10;Business inquiries - sudaversal@gmail.com"
     channeltitle "Whos Suda"
     channelid "UCSFtC3tYbp6HUkpuSwtPD1Q"
     favcount 0
@@ -326,6 +568,28 @@ graph
     ppinflammatory 0.038622882
     sentiment 0.34
     cluster 4
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -334,7 +598,7 @@ graph
     step 0
     date "2022-03-11T20:00:03Z"
     title "Wordle Makeup Challenge!"
-    description "HI SISTERS! In today's video, I combined the VIRAL word game, WORDLE, that everyone has been playing, with my makeup routine! This was a ridiculous makeup challenge that included friends like Jojo Siwa, Brent Rivera, Nikkie Tutorials, and YOU guys! Enjoy!!&#10;&#10;&#127909; Previous Video &#187; https://youtu.be/TpHY1Oi068g&#10;&#128718; Subscribe to my channel &#38; hit the notification bell so you never miss an upload! &#187; http://bit.ly/JamesCharles for new videos!&#10;&#10;&#128158; Let's Be Sisters!&#10;Instagram &#187; http://instagram.com/jamescharles&#10;Facebook &#187; http://facebook.com/jamescharles&#10;TikTok &#187; http://tiktok.com/@jamescharles&#10;Twitter &#187; http://twitter.com/jamescharles&#10;&#10;&#128140; Business Inquiries &#187; business@spinandco.com&#10;&#10;&#128293; My Amazing Team&#10;Creative Director: Louis Gargiula&#10;http://instagram.com/louisgargiula&#10;Creative Assistant: Trevor Garcia&#10;http://instagram.com/igtrevor&#10;Editor: Ryan Allen&#10;http://www.instagram.com/helloxryan &#10;Graphics: Michael Rusakov&#10;http://instagram.com/michael.ny"
+    description "HI SISTERS! In today's video, I combined the VIRAL word game, WORDLE, that everyone has been playing, with my makeup routine! This was a ridiculous makeup challenge that included friends like Jojo Siwa, Brent Rivera, Nikkie Tutorials, and YOU guys! Enjoy!!&amp;#10;&amp;#10;&amp;#127909; Previous Video &amp;#187; https://youtu.be/TpHY1Oi068g&amp;#10;&amp;#128718; Subscribe to my channel &amp;#38; hit the notification bell so you never miss an upload! &amp;#187; http://bit.ly/JamesCharles for new videos!&amp;#10;&amp;#10;&amp;#128158; Let's Be Sisters!&amp;#10;Instagram &amp;#187; http://instagram.com/jamescharles&amp;#10;Facebook &amp;#187; http://facebook.com/jamescharles&amp;#10;TikTok &amp;#187; http://tiktok.com/@jamescharles&amp;#10;Twitter &amp;#187; http://twitter.com/jamescharles&amp;#10;&amp;#10;&amp;#128140; Business Inquiries &amp;#187; business@spinandco.com&amp;#10;&amp;#10;&amp;#128293; My Amazing Team&amp;#10;Creative Director: Louis Gargiula&amp;#10;http://instagram.com/louisgargiula&amp;#10;Creative Assistant: Trevor Garcia&amp;#10;http://instagram.com/igtrevor&amp;#10;Editor: Ryan Allen&amp;#10;http://www.instagram.com/helloxryan &amp;#10;Graphics: Michael Rusakov&amp;#10;http://instagram.com/michael.ny"
     channeltitle "James Charles"
     channelid "UCucot-Zp428OwkyRm2I7v2Q"
     favcount 0
@@ -352,7 +616,29 @@ graph
     ppprofanity 0.16813198
     ppinflammatory 0.17079501
     sentiment 0.0772
-    cluster 4
+    cluster 5
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -361,7 +647,7 @@ graph
     step 0
     date "2022-02-07T20:00:02Z"
     title "THE 11-LETTER WORDLE"
-    description "Everyone knows Wordle at this point. But I am not your average Wordle player. 5 letters is too easy. Today, I attempt the legendary 11-letter Wordle.&#10;&#10;Play this Yourself!&#10;https://hellowordl.net&#10;&#10;Full Stream&#10;https://youtu.be/ROOGsIS7vts&#10;&#10;Hall of Fame&#10;https://docs.google.com/document/d/1Sq9IKbYsCmOmuLh2aAirhrkx-8kmhGo2Hpp4ploZyAw/edit?usp=sharing&#10;&#10;&#11015;&#65039; My Other Stuff &#11015;&#65039;&#10;Second Channel&#10;http://youtube2.unsurpassablez.com&#10;Discord&#10;http://discord.unsurpassablez.com&#10;Tik Tok&#10;http://tiktok.unsurpassablez.com&#10;Instagram&#10;http://instagram.unsurpassablez.com&#10;Twitter&#10;http://twitter.unsurpassablez.com&#10;YouTube&#10;http://youtube.unsurpassablez.com&#10;Patreon&#10;http://patreon.unsurpassablez.com&#10;&#10;Get the Official UnsurpassableZ Merch!&#10;http://merch.unsurpassablez.com&#10;&#10;Play on Our Minecraft Server!&#10;mc.unsurpassablez.com&#10;&#10;Check Out the VOD Archive&#10;https://www.youtube.com/channel/UCab-4a0LqZ16mLPDyiUxhug&#10;&#10;Music from Harris Heller&#10;https://www.youtube.com/channel/UCQ6hCusHlsIDXqoTbbTHSUQ&#10;&#10;Outro Song&#10;https://www.youtube.com/watch?v=cT3zzbDUElgiR4&#10;&#10;Edited by Merwok&#10;&#10;Thumbnail by Therm"
+    description "Everyone knows Wordle at this point. But I am not your average Wordle player. 5 letters is too easy. Today, I attempt the legendary 11-letter Wordle.&amp;#10;&amp;#10;Play this Yourself!&amp;#10;https://hellowordl.net&amp;#10;&amp;#10;Full Stream&amp;#10;https://youtu.be/ROOGsIS7vts&amp;#10;&amp;#10;Hall of Fame&amp;#10;https://docs.google.com/document/d/1Sq9IKbYsCmOmuLh2aAirhrkx-8kmhGo2Hpp4ploZyAw/edit?usp=sharing&amp;#10;&amp;#10;&amp;#11015;&amp;#65039; My Other Stuff &amp;#11015;&amp;#65039;&amp;#10;Second Channel&amp;#10;http://youtube2.unsurpassablez.com&amp;#10;Discord&amp;#10;http://discord.unsurpassablez.com&amp;#10;Tik Tok&amp;#10;http://tiktok.unsurpassablez.com&amp;#10;Instagram&amp;#10;http://instagram.unsurpassablez.com&amp;#10;Twitter&amp;#10;http://twitter.unsurpassablez.com&amp;#10;YouTube&amp;#10;http://youtube.unsurpassablez.com&amp;#10;Patreon&amp;#10;http://patreon.unsurpassablez.com&amp;#10;&amp;#10;Get the Official UnsurpassableZ Merch!&amp;#10;http://merch.unsurpassablez.com&amp;#10;&amp;#10;Play on Our Minecraft Server!&amp;#10;mc.unsurpassablez.com&amp;#10;&amp;#10;Check Out the VOD Archive&amp;#10;https://www.youtube.com/channel/UCab-4a0LqZ16mLPDyiUxhug&amp;#10;&amp;#10;Music from Harris Heller&amp;#10;https://www.youtube.com/channel/UCQ6hCusHlsIDXqoTbbTHSUQ&amp;#10;&amp;#10;Outro Song&amp;#10;https://www.youtube.com/watch?v=cT3zzbDUElgiR4&amp;#10;&amp;#10;Edited by Merwok&amp;#10;&amp;#10;Thumbnail by Therm"
     channeltitle "UnsurpassableZ"
     channelid "UCnBVj0rivE8iamtAzeziO5Q"
     favcount 0
@@ -379,7 +665,29 @@ graph
     ppprofanity 0.036884766
     ppinflammatory 0.079554275
     sentiment 0
-    cluster 4
+    cluster 2
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -388,7 +696,7 @@ graph
     step 0
     date "2022-07-14T05:31:59Z"
     title "106 | my best #wordle yet"
-    description "#shorts #wordle #voidzy&#10;Follow me here:&#10;&#128038;Twitter - https://twitter.com/izvoidzy&#10;&#128247; Instagram - https://www.instagram.com/izvoidzy/"
+    description "#shorts #wordle #voidzy&amp;#10;Follow me here:&amp;#10;&amp;#128038;Twitter - https://twitter.com/izvoidzy&amp;#10;&amp;#128247; Instagram - https://www.instagram.com/izvoidzy/"
     channeltitle "Voidzy"
     channelid "UC5n0ZNTuygWphaeBgxEIjDA"
     favcount 0
@@ -406,7 +714,29 @@ graph
     ppprofanity 0.083906226
     ppinflammatory 0.13025792
     sentiment 0.6369
-    cluster 5
+    cluster 2
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -415,7 +745,7 @@ graph
     step 0
     date "2022-04-01T16:00:01Z"
     title "The Devious Mind Behind Wordle | The New Yorker Daily Shouts"
-    description "In this comedic short, the new Wordle producer derives immeasurable joy from watching people fail.&#10;&#10;Still haven&#8217;t subscribed to The New Yorker on YouTube &#9658;&#9658; &#13;&#10;http://bit.ly/newyorkeryoutubesub&#13;&#10; &#13;&#10;&#10;&#10;The Devious Mind Behind Wordle | The New Yorker Daily Shouts"
+    description "In this comedic short, the new Wordle producer derives immeasurable joy from watching people fail.&amp;#10;&amp;#10;Still haven&amp;#8217;t subscribed to The New Yorker on YouTube &amp;#9658;&amp;#9658; &amp;#13;&amp;#10;http://bit.ly/newyorkeryoutubesub&amp;#13;&amp;#10; &amp;#13;&amp;#10;&amp;#10;&amp;#10;The Devious Mind Behind Wordle | The New Yorker Daily Shouts"
     channeltitle "The New Yorker"
     channelid "UCsD-Qms-AkXDrsU962OicLw"
     favcount 0
@@ -433,7 +763,29 @@ graph
     ppprofanity 0.15221784
     ppinflammatory 0.15480864
     sentiment 0
-    cluster 4
+    cluster 2
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -442,7 +794,7 @@ graph
     step 0
     date "2022-07-14T22:58:24Z"
     title "SCOREs Wordle redemption!"
-    description "(Spoilers 390) For fun, I start with the previous two day's words and use a viewer suggestion for my 3rd!&#10;&#10;Play Wordle here: https://www.nytimes.com/games/wordle/index.html&#10;&#10;======= LIVE STREAMS =======&#10;I stream word games right here on YouTube every night (except Friday) at 7pm PDT! Subscribe and ring the bell and/or join my Discord to get notifications for when I go live!&#10;&#10;======= MEMBERS =======&#10;Join my channel at the Video Enthusiast tier or higher to see the full, uncut videos with my entire thought process!&#10;https://www.youtube.com/rangsk/join&#10;&#10;===== MERCH ===== &#10;You can also support me by buying my super cute merch! All items feature an artistic rendering of my dog Rocky with no other branding! They're super cute!&#10;&#10;Check out my store here: https://rangsks-merch.creator-spring.com/&#10;&#10;======= DISCORD =======&#10;Join my Discord server to hang out and talk about Wordle, Wordle-like games, and other kinds of puzzles like Sudoku.&#10;https://discord.gg/AEhpTG4z45&#10;&#10;#wordle #puzzle #word #game"
+    description "(Spoilers 390) For fun, I start with the previous two day's words and use a viewer suggestion for my 3rd!&amp;#10;&amp;#10;Play Wordle here: https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;======= LIVE STREAMS =======&amp;#10;I stream word games right here on YouTube every night (except Friday) at 7pm PDT! Subscribe and ring the bell and/or join my Discord to get notifications for when I go live!&amp;#10;&amp;#10;======= MEMBERS =======&amp;#10;Join my channel at the Video Enthusiast tier or higher to see the full, uncut videos with my entire thought process!&amp;#10;https://www.youtube.com/rangsk/join&amp;#10;&amp;#10;===== MERCH ===== &amp;#10;You can also support me by buying my super cute merch! All items feature an artistic rendering of my dog Rocky with no other branding! They're super cute!&amp;#10;&amp;#10;Check out my store here: https://rangsks-merch.creator-spring.com/&amp;#10;&amp;#10;======= DISCORD =======&amp;#10;Join my Discord server to hang out and talk about Wordle, Wordle-like games, and other kinds of puzzles like Sudoku.&amp;#10;https://discord.gg/AEhpTG4z45&amp;#10;&amp;#10;#wordle #puzzle #word #game"
     channeltitle "Rangsk"
     channelid "UC1RUqXOT_iaH4b7iXKRWhLw"
     favcount 0
@@ -460,7 +812,29 @@ graph
     ppprofanity 0.05979564
     ppinflammatory 0.0773647
     sentiment 0
-    cluster 6
+    cluster 3
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -469,7 +843,7 @@ graph
     step 0
     date "2022-07-12T09:54:40Z"
     title "Wordle 388 for July 12th"
-    description "What is today's Wordle for 07/12/2022 number 388 ? Join me and let's find out &#38; guess the answer together. Not too bad today, right?&#10;A new word daily, how do you like to play &#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. July 12th 2022&#10;&#10;Follow me on Twitter: https://twitter.com/emptyapartment3&#10;Join our Discord: https://discord.gg/9Py98RU&#10;Support/Buy me a &#34;coffee&#34;: https://ko-fi.com/emptyapartment&#10;&#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&#10;&#10;business contact: emptyapartmentgaming [at] gmail&#10;&#10;&#10;0:00 Intro&#10;0:19 First Guess&#10;1:55 Wordle?&#10;&#10;#wordle"
+    description "What is today's Wordle for 07/12/2022 number 388 ? Join me and let's find out &amp;#38; guess the answer together. Not too bad today, right?&amp;#10;A new word daily, how do you like to play &amp;#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. July 12th 2022&amp;#10;&amp;#10;Follow me on Twitter: https://twitter.com/emptyapartment3&amp;#10;Join our Discord: https://discord.gg/9Py98RU&amp;#10;Support/Buy me a &amp;#34;coffee&amp;#34;: https://ko-fi.com/emptyapartment&amp;#10;&amp;#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;business contact: emptyapartmentgaming [at] gmail&amp;#10;&amp;#10;&amp;#10;0:00 Intro&amp;#10;0:19 First Guess&amp;#10;1:55 Wordle?&amp;#10;&amp;#10;#wordle"
     channeltitle "Empty Apartment"
     channelid "UCEb4tjgeTW47bD66Xryzx0Q"
     favcount 0
@@ -488,6 +862,28 @@ graph
     ppinflammatory 0.09131996
     sentiment 0
     cluster 1
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -496,7 +892,7 @@ graph
     step 0
     date "2022-07-11T10:16:04Z"
     title "Wordle 387 for July 11th"
-    description "What is today's Wordle for 07/11/2022 number 387 ? Join me and let's find out &#38; guess the answer together. Not many letters today!&#10;A new word daily, how do you like to play &#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. July 11th 2022&#10;&#10;Follow me on Twitter: https://twitter.com/emptyapartment3&#10;Join our Discord: https://discord.gg/9Py98RU&#10;Support/Buy me a &#34;coffee&#34;: https://ko-fi.com/emptyapartment&#10;&#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&#10;&#10;business contact: emptyapartmentgaming [at] gmail&#10;&#10;&#10;0:00 Intro&#10;0:19 First Guess&#10;1:55 Gamma&#10;2:38 Wordle?&#10;&#10;#wordle"
+    description "What is today's Wordle for 07/11/2022 number 387 ? Join me and let's find out &amp;#38; guess the answer together. Not many letters today!&amp;#10;A new word daily, how do you like to play &amp;#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. July 11th 2022&amp;#10;&amp;#10;Follow me on Twitter: https://twitter.com/emptyapartment3&amp;#10;Join our Discord: https://discord.gg/9Py98RU&amp;#10;Support/Buy me a &amp;#34;coffee&amp;#34;: https://ko-fi.com/emptyapartment&amp;#10;&amp;#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;business contact: emptyapartmentgaming [at] gmail&amp;#10;&amp;#10;&amp;#10;0:00 Intro&amp;#10;0:19 First Guess&amp;#10;1:55 Gamma&amp;#10;2:38 Wordle?&amp;#10;&amp;#10;#wordle"
     channeltitle "Empty Apartment"
     channelid "UCEb4tjgeTW47bD66Xryzx0Q"
     favcount 0
@@ -515,6 +911,28 @@ graph
     ppinflammatory 0.09131996
     sentiment 0
     cluster 1
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -523,7 +941,7 @@ graph
     step 0
     date "2022-02-07T18:57:37Z"
     title "Annoying Orange - The WORDLE Challenge!"
-    description "&#127818;SUBSCRIBE TO Annoying Orange! &#9656; http://bit.ly/AOSub&#10;&#127818;SHIRTS and TOYS: http://annoyingorange.com&#10;&#10;&#128377;AO GAMING CHANNEL! &#9656; http://bit.ly/AOGaming&#10;&#128118;AO KIDS CHANNEL &#9656; http://bit.ly/AOKidsSubscribe&#10;&#10;&#127818;MERCH&#127818;&#10;SHIRTS and TOYS: http://annoyingorange.com&#10;SHIRTS: http://amzn.to/annoyingorange&#10;MUSIC: http://bit.ly/AOMusic&#10;&#10;&#127818;FOLLOW ME&#127818;&#10;TIKTOK: tiktok.com/@annoyingorangeao&#10;FACEBOOK: http://facebook.com/annoyingorange&#10;INSTAGRAM: http://instagram.com/annoyingorange&#10;TWITTER: http://twitter.com/annoyingorange&#10;&#10;#annoyingorange #jokes #animation"
+    description "&amp;#127818;SUBSCRIBE TO Annoying Orange! &amp;#9656; http://bit.ly/AOSub&amp;#10;&amp;#127818;SHIRTS and TOYS: http://annoyingorange.com&amp;#10;&amp;#10;&amp;#128377;AO GAMING CHANNEL! &amp;#9656; http://bit.ly/AOGaming&amp;#10;&amp;#128118;AO KIDS CHANNEL &amp;#9656; http://bit.ly/AOKidsSubscribe&amp;#10;&amp;#10;&amp;#127818;MERCH&amp;#127818;&amp;#10;SHIRTS and TOYS: http://annoyingorange.com&amp;#10;SHIRTS: http://amzn.to/annoyingorange&amp;#10;MUSIC: http://bit.ly/AOMusic&amp;#10;&amp;#10;&amp;#127818;FOLLOW ME&amp;#127818;&amp;#10;TIKTOK: tiktok.com/@annoyingorangeao&amp;#10;FACEBOOK: http://facebook.com/annoyingorange&amp;#10;INSTAGRAM: http://instagram.com/annoyingorange&amp;#10;TWITTER: http://twitter.com/annoyingorange&amp;#10;&amp;#10;#annoyingorange #jokes #animation"
     channeltitle "Annoying Orange"
     channelid "UCi-5OZ2tYuwMLIcEyOsbdRA"
     favcount 0
@@ -542,6 +960,28 @@ graph
     ppinflammatory 0.43714163
     sentiment -0.34
     cluster 4
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -550,7 +990,7 @@ graph
     step 0
     date "2022-04-08T21:45:00Z"
     title "BEST WORDLE IN THE WORLD!!! (Challenge)"
-    description "Today the @Regulars @Sigils @Biffle @Henwy @Nicovald take on an international Wordle Challenge and find out who has the best way with words!&#10;&#10;&#128276; SUBSCRIBE: https://www.youtube.com/channel/UCBUQrhWxiYIbDta0-3hL8Cw?sub_confirmation=1&#10;&#10;&#128204; MEET THE REGULARS:&#10;&#10145;&#65039;Biffle: https://www.youtube.com/BiffleWiffle&#10;&#10145;&#65039;Henwy: https://www.youtube.com/Henwy&#10;&#10145;&#65039;Nicovald: https://www.youtube.com/Nicovald&#10;&#10145;&#65039;Sigils: https://www.youtube.com/SigilsPlaysGames&#10;&#10;&#128142;OTHER SOCIALS&#10;&#128247; Instagram: https://www.instagram.com/regularsyt/&#10;&#128126; TikTok: https://www.tiktok.com/@regularsyt&#10;&#128038; Twitter: https://twitter.com/regularsyt&#10;&#10;&#10071;About the Regulars&#10071;&#10;The Regulars are a group of four YouTuber friends named: Biffle, Henwy, Nicovald, and Sigils. On this channel they will be doing a lot of: lifestyle, reactions, vlogs, and challenges!&#10;&#10;#Regulars #React&#10;&#10;BEST WORDLE IN THE WORLD!!! (Challenge)&#10;Regulars&#10;https://youtu.be/Ue5AirUGmsI"
+    description "Today the @Regulars @Sigils @Biffle @Henwy @Nicovald take on an international Wordle Challenge and find out who has the best way with words!&amp;#10;&amp;#10;&amp;#128276; SUBSCRIBE: https://www.youtube.com/channel/UCBUQrhWxiYIbDta0-3hL8Cw?sub_confirmation=1&amp;#10;&amp;#10;&amp;#128204; MEET THE REGULARS:&amp;#10;&amp;#10145;&amp;#65039;Biffle: https://www.youtube.com/BiffleWiffle&amp;#10;&amp;#10145;&amp;#65039;Henwy: https://www.youtube.com/Henwy&amp;#10;&amp;#10145;&amp;#65039;Nicovald: https://www.youtube.com/Nicovald&amp;#10;&amp;#10145;&amp;#65039;Sigils: https://www.youtube.com/SigilsPlaysGames&amp;#10;&amp;#10;&amp;#128142;OTHER SOCIALS&amp;#10;&amp;#128247; Instagram: https://www.instagram.com/regularsyt/&amp;#10;&amp;#128126; TikTok: https://www.tiktok.com/@regularsyt&amp;#10;&amp;#128038; Twitter: https://twitter.com/regularsyt&amp;#10;&amp;#10;&amp;#10071;About the Regulars&amp;#10071;&amp;#10;The Regulars are a group of four YouTuber friends named: Biffle, Henwy, Nicovald, and Sigils. On this channel they will be doing a lot of: lifestyle, reactions, vlogs, and challenges!&amp;#10;&amp;#10;#Regulars #React&amp;#10;&amp;#10;BEST WORDLE IN THE WORLD!!! (Challenge)&amp;#10;Regulars&amp;#10;https://youtu.be/Ue5AirUGmsI"
     channeltitle "Regulars"
     channelid "UCBUQrhWxiYIbDta0-3hL8Cw"
     favcount 0
@@ -569,6 +1009,28 @@ graph
     ppinflammatory 0.13569899
     sentiment 0.6705
     cluster 4
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -595,7 +1057,29 @@ graph
     ppprofanity 0.08483738
     ppinflammatory 0.05026893
     sentiment 0
-    cluster 7
+    cluster 6
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -604,7 +1088,7 @@ graph
     step 0
     date "2022-02-10T23:14:45Z"
     title "Wordle went too far.."
-    description "What is my IQ? I played Wordle every day for a week for this video. how did I do? did you get the words before me?&#10;&#10;Since this game, Squabble came out so I might try that out too. Enjoy your daily wordle video. &#10;LEAVE A LIKE!! Wordle Speedrun.. and NO i dont tweet out my wordles on twitter&#10;&#10;My Main Channel: https://www.youtube.com/user/ImSuda&#10;Twitter - https://twitter.com/imsuda&#10;Instagram - https://instagram.com/whossuda&#10;Discord Server - https://discordapp.com/invite/4pAyBbh&#10;Business inquiries - sudaversal@gmail.com"
+    description "What is my IQ? I played Wordle every day for a week for this video. how did I do? did you get the words before me?&amp;#10;&amp;#10;Since this game, Squabble came out so I might try that out too. Enjoy your daily wordle video. &amp;#10;LEAVE A LIKE!! Wordle Speedrun.. and NO i dont tweet out my wordles on twitter&amp;#10;&amp;#10;My Main Channel: https://www.youtube.com/user/ImSuda&amp;#10;Twitter - https://twitter.com/imsuda&amp;#10;Instagram - https://instagram.com/whossuda&amp;#10;Discord Server - https://discordapp.com/invite/4pAyBbh&amp;#10;Business inquiries - sudaversal@gmail.com"
     channeltitle "Whos Suda"
     channelid "UCSFtC3tYbp6HUkpuSwtPD1Q"
     favcount 0
@@ -623,6 +1107,28 @@ graph
     ppinflammatory 0.121355854
     sentiment 0
     cluster 4
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -631,7 +1137,7 @@ graph
     step 0
     date "2022-07-14T20:00:01Z"
     title "Wordle 390 - 14 July 2022 #Shorts"
-    description "Wordle is now hosted by the New York Times! Join me for the solve every day, and play it yourself here: &#10;https://www.nytimes.com/games/wordle/&#10;&#10;#Wordle&#10;#Shorts"
+    description "Wordle is now hosted by the New York Times! Join me for the solve every day, and play it yourself here: &amp;#10;https://www.nytimes.com/games/wordle/&amp;#10;&amp;#10;#Wordle&amp;#10;#Shorts"
     channeltitle "Chris Remo"
     channelid "UCAWnFCJGAP7YPti-gQSe1ng"
     favcount 0
@@ -649,7 +1155,29 @@ graph
     ppprofanity 0.050156817
     ppinflammatory 0.11776748
     sentiment 0
-    cluster 5
+    cluster 2
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -658,7 +1186,7 @@ graph
     step 0
     date "2022-02-23T22:45:00Z"
     title "TRYING CRAZY SECRET WORDLE GAMES"
-    description "Today the @Regulars @Sigils @Biffle @Henwy @Nicovald test their spelling skills in this Wordle showdown!!&#10;&#10;&#128276; SUBSCRIBE: https://www.youtube.com/channel/UCBUQrhWxiYIbDta0-3hL8Cw?sub_confirmation=1&#10;&#10;&#128204; MEET THE REGULARS:&#10;&#10145;&#65039;Biffle: https://www.youtube.com/BiffleWiffle&#10;&#10145;&#65039;Henwy: https://www.youtube.com/Henwy&#10;&#10145;&#65039;Nicovald: https://www.youtube.com/Nicovald&#10;&#10145;&#65039;Sigils: https://www.youtube.com/SigilsPlaysGames&#10;&#10;&#128142;OTHER SOCIALS&#10;&#128247; Instagram: https://www.instagram.com/regularsyt/&#10;&#128126; TikTok: https://www.tiktok.com/@regularsyt&#10;&#128038; Twitter: https://twitter.com/regularsyt&#10;&#10;&#10071;About the Regulars&#10071;&#10;The Regulars are a group of four YouTuber friends named: Biffle, Henwy, Nicovald, and Sigils. On this channel they will be doing a lot of: lifestyle, reactions, vlogs, and challenges!&#10;&#10;#Regulars #React&#10;&#10;TRYING CRAZY SECRET WORDLE GAMES&#10;https://youtu.be/0j1adhdv2EQ&#10;&#10;Regulars&#10;https://youtu.be/0j1adhdv2EQ"
+    description "Today the @Regulars @Sigils @Biffle @Henwy @Nicovald test their spelling skills in this Wordle showdown!!&amp;#10;&amp;#10;&amp;#128276; SUBSCRIBE: https://www.youtube.com/channel/UCBUQrhWxiYIbDta0-3hL8Cw?sub_confirmation=1&amp;#10;&amp;#10;&amp;#128204; MEET THE REGULARS:&amp;#10;&amp;#10145;&amp;#65039;Biffle: https://www.youtube.com/BiffleWiffle&amp;#10;&amp;#10145;&amp;#65039;Henwy: https://www.youtube.com/Henwy&amp;#10;&amp;#10145;&amp;#65039;Nicovald: https://www.youtube.com/Nicovald&amp;#10;&amp;#10145;&amp;#65039;Sigils: https://www.youtube.com/SigilsPlaysGames&amp;#10;&amp;#10;&amp;#128142;OTHER SOCIALS&amp;#10;&amp;#128247; Instagram: https://www.instagram.com/regularsyt/&amp;#10;&amp;#128126; TikTok: https://www.tiktok.com/@regularsyt&amp;#10;&amp;#128038; Twitter: https://twitter.com/regularsyt&amp;#10;&amp;#10;&amp;#10071;About the Regulars&amp;#10071;&amp;#10;The Regulars are a group of four YouTuber friends named: Biffle, Henwy, Nicovald, and Sigils. On this channel they will be doing a lot of: lifestyle, reactions, vlogs, and challenges!&amp;#10;&amp;#10;#Regulars #React&amp;#10;&amp;#10;TRYING CRAZY SECRET WORDLE GAMES&amp;#10;https://youtu.be/0j1adhdv2EQ&amp;#10;&amp;#10;Regulars&amp;#10;https://youtu.be/0j1adhdv2EQ"
     channeltitle "Regulars"
     channelid "UCBUQrhWxiYIbDta0-3hL8Cw"
     favcount 0
@@ -676,7 +1204,29 @@ graph
     ppprofanity 0.37958226
     ppinflammatory 0.28043693
     sentiment -0.34
-    cluster 4
+    cluster 3
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -703,7 +1253,29 @@ graph
     ppprofanity 0.059747547
     ppinflammatory 0.15825881
     sentiment 0.5859
-    cluster 6
+    cluster 7
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -712,7 +1284,7 @@ graph
     step 0
     date "2022-02-27T21:00:27Z"
     title "THIS IS THE BEST STARTER WORD TO USE IN WORDLE..."
-    description "&#128170; BECOME A MEMBER OF THE STREAM - https://youtube.com/timthetatman/join&#10;&#10;&#128176; DONATE: https://streamlabs.com/timthetatman/tip&#10;&#10;&#128073; Use Code - &#34;timthetatman&#34; in the item shop! #codpartner&#10;&#10;&#128073; JOIN THE DISCORD: https://discord.gg/timthetatman&#10;&#10;&#127909; More TimTheTatman: https://youtube.com/MoreTimTheTatman&#10;&#127909; TimTheTatman: https://youtube.com/TimTheTatman&#10;&#127909; TimTheTatman VODs: https://www.youtube.com/timthetatmanvods&#10;&#127909; TimTheTatman Shorts: https://youtube.com/TimTheTatmanShorts&#10;&#10;&#9654;&#65039;GET CONNECTED:&#10;&#128187;Website | https://timthetatman.com&#10;&#128038;Twitter | https://twitter.com/timthetatman&#10;&#128247;Instagram | https://www.instagram.com/timthetatman/&#10;&#128241;TikTok  | https://tiktok.com/@timthetatman&#10;&#10;&#128293;SPONSORS:&#10;NZXT | https://nzxt.co/TimNZXT&#10;LG Ultragear | https://bit.ly/3A5B0MZ&#10;Herman Miller | https://bit.ly/3tcJ9vV&#10;HyperX | http://hyperx.gg/timthetatman&#10;Chipotle | https://chipotle.com&#10;AT&#38;T | https://www.att.com/5g/consumer/&#10;FanDuel | https://fanduel.com/timthetatman&#10;Streamlabs | https://streamlabs.com/goprime?promo=timthetatman-441d-10&#10;&#10;&#11088;COMPLEXITY: http://col.vg/Tim&#10;&#10;OUTRO SONG:&#10;Getting Tipsy | Martin Landh&#10;&#10;THANKS FOR WATCHING!!&#10;&#10;-----------------------------------------------------------------------------------------------------------&#10;#timthetatman #podcast #Wordle"
+    description "&amp;#128170; BECOME A MEMBER OF THE STREAM - https://youtube.com/timthetatman/join&amp;#10;&amp;#10;&amp;#128176; DONATE: https://streamlabs.com/timthetatman/tip&amp;#10;&amp;#10;&amp;#128073; Use Code - &amp;#34;timthetatman&amp;#34; in the item shop! #codpartner&amp;#10;&amp;#10;&amp;#128073; JOIN THE DISCORD: https://discord.gg/timthetatman&amp;#10;&amp;#10;&amp;#127909; More TimTheTatman: https://youtube.com/MoreTimTheTatman&amp;#10;&amp;#127909; TimTheTatman: https://youtube.com/TimTheTatman&amp;#10;&amp;#127909; TimTheTatman VODs: https://www.youtube.com/timthetatmanvods&amp;#10;&amp;#127909; TimTheTatman Shorts: https://youtube.com/TimTheTatmanShorts&amp;#10;&amp;#10;&amp;#9654;&amp;#65039;GET CONNECTED:&amp;#10;&amp;#128187;Website | https://timthetatman.com&amp;#10;&amp;#128038;Twitter | https://twitter.com/timthetatman&amp;#10;&amp;#128247;Instagram | https://www.instagram.com/timthetatman/&amp;#10;&amp;#128241;TikTok  | https://tiktok.com/@timthetatman&amp;#10;&amp;#10;&amp;#128293;SPONSORS:&amp;#10;NZXT | https://nzxt.co/TimNZXT&amp;#10;LG Ultragear | https://bit.ly/3A5B0MZ&amp;#10;Herman Miller | https://bit.ly/3tcJ9vV&amp;#10;HyperX | http://hyperx.gg/timthetatman&amp;#10;Chipotle | https://chipotle.com&amp;#10;AT&amp;#38;T | https://www.att.com/5g/consumer/&amp;#10;FanDuel | https://fanduel.com/timthetatman&amp;#10;Streamlabs | https://streamlabs.com/goprime?promo=timthetatman-441d-10&amp;#10;&amp;#10;&amp;#11088;COMPLEXITY: http://col.vg/Tim&amp;#10;&amp;#10;OUTRO SONG:&amp;#10;Getting Tipsy | Martin Landh&amp;#10;&amp;#10;THANKS FOR WATCHING!!&amp;#10;&amp;#10;-----------------------------------------------------------------------------------------------------------&amp;#10;#timthetatman #podcast #Wordle"
     channeltitle "TimTheTatman Two"
     channelid "UCB2ahU2xIXD1Emto8sBNOow"
     favcount 0
@@ -730,7 +1302,29 @@ graph
     ppprofanity 0.039769776
     ppinflammatory 0.03356132
     sentiment 0.6369
-    cluster 2
+    cluster 3
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -739,7 +1333,7 @@ graph
     step 0
     date "2022-04-05T17:33:17Z"
     title "THE HARDEST WORDLE EVER!"
-    description "Do you play Wordle every day?&#10;&#10;Check out Talia: https://www.youtube.com/c/TaliaMarMusic&#10;&#10;My twitter: https://goo.gl/ugsA1Y&#10;Main Channel: https://www.youtube.com/miniminter&#10;&#10;IF YOU HAVE AN IDEA FOR A VIDEO, LET ME KNOW HERE: &#10;https://docs.google.com/forms/d/e/1FAIpQLScZd25ziP34yQSDoWKmYaCaFJooWNXn6kJchlbI4Xt3wMacnw/viewform?usp=sf_link&#10;&#10;Become A Member: https://www.youtube.com/user/MM7Games/join&#10;&#10;Sidemen Clothing: https://goo.gl/8RLHBR&#10;&#10;Sidemen Channels:&#10;Josh: https://goo.gl/VgeDWX&#10;Tobi: https://goo.gl/MqGC4K&#10;JJ: https://goo.gl/dxn9YW&#10;Vik: https://goo.gl/9xLpVD&#10;Ethan: https://goo.gl/5GBDTg&#10;Harry: https://goo.gl/nJHyMA&#10;&#10;Sidemen Book: https://goo.gl/wqFrjS&#10;&#10;My PC: http://bit.ly/miniminter&#10;&#10;Custom Controller: http://bit.ly/SideCCUK&#10;&#10;HOW I RECORD MY GAMEPLAY: http://e.lga.to/mm&#10;&#10;WHERE I GET MY CHAIR: http://www.gtomegaracing.com/gt-omega-pro-racing-office-chair-red-and-black-leather?tracking=53917aeedad00&#10;&#10;Video uploaded by&#10;Simon/Miniminter/mm7games"
+    description "Do you play Wordle every day?&amp;#10;&amp;#10;Check out Talia: https://www.youtube.com/c/TaliaMarMusic&amp;#10;&amp;#10;My twitter: https://goo.gl/ugsA1Y&amp;#10;Main Channel: https://www.youtube.com/miniminter&amp;#10;&amp;#10;IF YOU HAVE AN IDEA FOR A VIDEO, LET ME KNOW HERE: &amp;#10;https://docs.google.com/forms/d/e/1FAIpQLScZd25ziP34yQSDoWKmYaCaFJooWNXn6kJchlbI4Xt3wMacnw/viewform?usp=sf_link&amp;#10;&amp;#10;Become A Member: https://www.youtube.com/user/MM7Games/join&amp;#10;&amp;#10;Sidemen Clothing: https://goo.gl/8RLHBR&amp;#10;&amp;#10;Sidemen Channels:&amp;#10;Josh: https://goo.gl/VgeDWX&amp;#10;Tobi: https://goo.gl/MqGC4K&amp;#10;JJ: https://goo.gl/dxn9YW&amp;#10;Vik: https://goo.gl/9xLpVD&amp;#10;Ethan: https://goo.gl/5GBDTg&amp;#10;Harry: https://goo.gl/nJHyMA&amp;#10;&amp;#10;Sidemen Book: https://goo.gl/wqFrjS&amp;#10;&amp;#10;My PC: http://bit.ly/miniminter&amp;#10;&amp;#10;Custom Controller: http://bit.ly/SideCCUK&amp;#10;&amp;#10;HOW I RECORD MY GAMEPLAY: http://e.lga.to/mm&amp;#10;&amp;#10;WHERE I GET MY CHAIR: http://www.gtomegaracing.com/gt-omega-pro-racing-office-chair-red-and-black-leather?tracking=53917aeedad00&amp;#10;&amp;#10;Video uploaded by&amp;#10;Simon/Miniminter/mm7games"
     channeltitle "MM7Games"
     channelid "UCjB_adDAIxOL8GA4Y4OCt8g"
     favcount 0
@@ -758,6 +1352,28 @@ graph
     ppinflammatory 0.16422495
     sentiment 0
     cluster 4
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -766,7 +1382,7 @@ graph
     step 0
     date "2022-02-05T21:00:04Z"
     title "TIMTHETATMAN TRIES WORDLE FOR THE FIRST TIME!"
-    description "&#128170; BECOME A MEMBER OF THE STREAM - https://youtube.com/timthetatman/join&#10;&#10;&#128176; DONATE: https://streamlabs.com/timthetatman/tip&#10;&#10;&#128073; Use Code - &#34;timthetatman&#34; in the item shop! #codpartner&#10;&#10;&#128073; JOIN THE DISCORD: https://discord.gg/timthetatman&#10;&#10;&#127909; More TimTheTatman: https://youtube.com/MoreTimTheTatman&#10;&#127909; TimTheTatman: https://youtube.com/TimTheTatman&#10;&#127909; TimTheTatman VODs: https://www.youtube.com/timthetatmanvods&#10;&#127909; TimTheTatman Shorts: https://youtube.com/TimTheTatmanShorts&#10;&#10;&#9654;&#65039;GET CONNECTED:&#10;&#128187;Website | https://timthetatman.com&#10;&#128038;Twitter | https://twitter.com/timthetatman&#10;&#128247;Instagram | https://www.instagram.com/timthetatman/&#10;&#128241;TikTok  | https://tiktok.com/@timthetatman&#10;&#10;&#128293;SPONSORS:&#10;NZXT | https://nzxt.co/TimNZXT&#10;LG Ultragear | https://bit.ly/3A5B0MZ&#10;Herman Miller | https://bit.ly/3tcJ9vV&#10;HyperX | http://hyperx.gg/timthetatman&#10;Chipotle | https://chipotle.com&#10;AT&#38;T | https://www.att.com/5g/consumer/&#10;FanDuel | https://fanduel.com/timthetatman&#10;Streamlabs | https://streamlabs.com/goprime?promo=timthetatman-441d-10&#10;&#10;&#11088;COMPLEXITY: http://col.vg/Tim&#10;&#10;OUTRO SONG:&#10;Getting Tipsy | Martin Landh&#10;&#10;THANKS FOR WATCHING!!&#10;&#10;-----------------------------------------------------------------------------------------------------------&#10;#timthetatman #wordle #spelling"
+    description "&amp;#128170; BECOME A MEMBER OF THE STREAM - https://youtube.com/timthetatman/join&amp;#10;&amp;#10;&amp;#128176; DONATE: https://streamlabs.com/timthetatman/tip&amp;#10;&amp;#10;&amp;#128073; Use Code - &amp;#34;timthetatman&amp;#34; in the item shop! #codpartner&amp;#10;&amp;#10;&amp;#128073; JOIN THE DISCORD: https://discord.gg/timthetatman&amp;#10;&amp;#10;&amp;#127909; More TimTheTatman: https://youtube.com/MoreTimTheTatman&amp;#10;&amp;#127909; TimTheTatman: https://youtube.com/TimTheTatman&amp;#10;&amp;#127909; TimTheTatman VODs: https://www.youtube.com/timthetatmanvods&amp;#10;&amp;#127909; TimTheTatman Shorts: https://youtube.com/TimTheTatmanShorts&amp;#10;&amp;#10;&amp;#9654;&amp;#65039;GET CONNECTED:&amp;#10;&amp;#128187;Website | https://timthetatman.com&amp;#10;&amp;#128038;Twitter | https://twitter.com/timthetatman&amp;#10;&amp;#128247;Instagram | https://www.instagram.com/timthetatman/&amp;#10;&amp;#128241;TikTok  | https://tiktok.com/@timthetatman&amp;#10;&amp;#10;&amp;#128293;SPONSORS:&amp;#10;NZXT | https://nzxt.co/TimNZXT&amp;#10;LG Ultragear | https://bit.ly/3A5B0MZ&amp;#10;Herman Miller | https://bit.ly/3tcJ9vV&amp;#10;HyperX | http://hyperx.gg/timthetatman&amp;#10;Chipotle | https://chipotle.com&amp;#10;AT&amp;#38;T | https://www.att.com/5g/consumer/&amp;#10;FanDuel | https://fanduel.com/timthetatman&amp;#10;Streamlabs | https://streamlabs.com/goprime?promo=timthetatman-441d-10&amp;#10;&amp;#10;&amp;#11088;COMPLEXITY: http://col.vg/Tim&amp;#10;&amp;#10;OUTRO SONG:&amp;#10;Getting Tipsy | Martin Landh&amp;#10;&amp;#10;THANKS FOR WATCHING!!&amp;#10;&amp;#10;-----------------------------------------------------------------------------------------------------------&amp;#10;#timthetatman #wordle #spelling"
     channeltitle "TimTheTatman Two"
     channelid "UCB2ahU2xIXD1Emto8sBNOow"
     favcount 0
@@ -785,6 +1401,28 @@ graph
     ppinflammatory 0.1563057
     sentiment 0
     cluster 4
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -793,7 +1431,7 @@ graph
     step 0
     date "2022-02-04T14:32:47Z"
     title "An experts hacks for winning Wordle"
-    description "Sid, Dina, and Frank are joined by tech expert Marc Saltzman to learn the best tips and strategies on how to beat Wordle faster.&#10;&#10;From inside the studio to the streets in local communities, Breakfast Television offers a refreshing look at the day ahead &#8211; combining the latest in local news, weather and traffic with the biggest celebrity interviews, lifestyle trends, local community events, and big ticket giveaways.  Plus, stay connected all day with Breakfast Television&#8217;s videos, livestream and more at BreakfastTelevision.ca, and frequent Twitter, Facebook, and Instagram updates. We stream our full show LIVE on Monday-Friday from 6am-10am ET on our YouTube channel and Facebook page.    &#10;&#10;Connect with us on&#8230;  &#10;Twitter: @BreakfastTV  &#10;Instagram: @BreakfastTelevision  &#10;TikTok: @BreakfastTelevision  &#10;Facebook: https://www.facebook.com/BreakfastTelevision    &#10;&#10;Subscribe to our YouTube channel: https://bit.ly/32CPARn"
+    description "Sid, Dina, and Frank are joined by tech expert Marc Saltzman to learn the best tips and strategies on how to beat Wordle faster.&amp;#10;&amp;#10;From inside the studio to the streets in local communities, Breakfast Television offers a refreshing look at the day ahead &amp;#8211; combining the latest in local news, weather and traffic with the biggest celebrity interviews, lifestyle trends, local community events, and big ticket giveaways.  Plus, stay connected all day with Breakfast Television&amp;#8217;s videos, livestream and more at BreakfastTelevision.ca, and frequent Twitter, Facebook, and Instagram updates. We stream our full show LIVE on Monday-Friday from 6am-10am ET on our YouTube channel and Facebook page.    &amp;#10;&amp;#10;Connect with us on&amp;#8230;  &amp;#10;Twitter: @BreakfastTV  &amp;#10;Instagram: @BreakfastTelevision  &amp;#10;TikTok: @BreakfastTelevision  &amp;#10;Facebook: https://www.facebook.com/BreakfastTelevision    &amp;#10;&amp;#10;Subscribe to our YouTube channel: https://bit.ly/32CPARn"
     channeltitle "Breakfast Television"
     channelid "UCrygFy9ZCNFrR3vtElhXaJg"
     favcount 0
@@ -811,7 +1449,29 @@ graph
     ppprofanity 0.12179019
     ppinflammatory 0.18266165
     sentiment 0.5267
-    cluster 3
+    cluster 2
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -820,7 +1480,7 @@ graph
     step 0
     date "2022-04-08T22:52:06Z"
     title "I played Wordle for a WEEK.."
-    description "You guys really like my daily wordle huh? heres some more wordle for you.&#10;@Exzd and I played for a week straight to see if we'd do better with our brains combined.&#10;&#10;Previous Wordle Video: https://www.youtube.com/watch?v=srqPnVckJEk&#10;&#10;My Main Channel: https://www.youtube.com/user/ImSuda&#10;Twitter - https://twitter.com/imsuda&#10;Instagram - https://instagram.com/whossuda&#10;Discord Server - https://discordapp.com/invite/4pAyBbh&#10;Business inquiries - sudaversal@gmail.com&#10;I Played Wordle for a MONTH.."
+    description "You guys really like my daily wordle huh? heres some more wordle for you.&amp;#10;@Exzd and I played for a week straight to see if we'd do better with our brains combined.&amp;#10;&amp;#10;Previous Wordle Video: https://www.youtube.com/watch?v=srqPnVckJEk&amp;#10;&amp;#10;My Main Channel: https://www.youtube.com/user/ImSuda&amp;#10;Twitter - https://twitter.com/imsuda&amp;#10;Instagram - https://instagram.com/whossuda&amp;#10;Discord Server - https://discordapp.com/invite/4pAyBbh&amp;#10;Business inquiries - sudaversal@gmail.com&amp;#10;I Played Wordle for a MONTH.."
     channeltitle "Whos Suda"
     channelid "UCSFtC3tYbp6HUkpuSwtPD1Q"
     favcount 0
@@ -839,6 +1499,28 @@ graph
     ppinflammatory 0.012432039
     sentiment 0.34
     cluster 4
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -847,7 +1529,7 @@ graph
     step 0
     date "2022-02-26T19:00:10Z"
     title "I AM AN ABSOLUTE GOD AT WORDLE | Wordle Speedrun Challenge"
-    description "How many Wordle puzzles can I solve in 1 hour? &#10;&#10;WATCH ME LIVE: https://www.twitch.tv/thean1meman&#13;&#10;&#13;&#10;Twitter: https://twitter.com/TheAn1meMan&#13;&#10;Main Channel: https://www.youtube.com/user/TheAn1meMan&#10;&#10;Edited by @MudanTV &#10;&#10;#theanimeman #joey #wordle"
+    description "How many Wordle puzzles can I solve in 1 hour? &amp;#10;&amp;#10;WATCH ME LIVE: https://www.twitch.tv/thean1meman&amp;#13;&amp;#10;&amp;#13;&amp;#10;Twitter: https://twitter.com/TheAn1meMan&amp;#13;&amp;#10;Main Channel: https://www.youtube.com/user/TheAn1meMan&amp;#10;&amp;#10;Edited by @MudanTV &amp;#10;&amp;#10;#theanimeman #joey #wordle"
     channeltitle "Joey"
     channelid "UCxgJZxXviSbPbEMrsO6DpuQ"
     favcount 0
@@ -866,6 +1548,28 @@ graph
     ppinflammatory 0.039921556
     sentiment 0.34
     cluster 4
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -874,7 +1578,7 @@ graph
     step 0
     date "2022-06-30T00:49:47Z"
     title "New York Times chose a FAKE word for todays Wordle?!"
-    description "Go to https://www.shadyrays.com and use code OFFICE for 50% OFF 2+ pairs of premium polarized shades&#10;&#10;WARNING: Spoilers for June 29 Wordle.&#10;&#10;Jomboy Media office competes in weekly Wordle competition!"
+    description "Go to https://www.shadyrays.com and use code OFFICE for 50% OFF 2+ pairs of premium polarized shades&amp;#10;&amp;#10;WARNING: Spoilers for June 29 Wordle.&amp;#10;&amp;#10;Jomboy Media office competes in weekly Wordle competition!"
     channeltitle "JM Gaming (Jomboy Media)"
     channelid "UCk71IrRQyptFQBL_eEeS1uw"
     favcount 0
@@ -892,7 +1596,29 @@ graph
     ppprofanity 0.108805604
     ppinflammatory 0.13685167
     sentiment -0.4767
-    cluster 4
+    cluster 2
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -901,7 +1627,7 @@ graph
     step 0
     date "2022-06-05T09:52:40Z"
     title "The Wordle World Championship"
-    description "This is Jason Zuffranieri's new game, requiring the solving of 21 Wordles with a certain amount of connections between the answers!&#10;&#10;Here's the list of links to play the Wordles:&#10;https://mywordle.strivemath.com/?word=yosly &#10;https://mywordle.strivemath.com/?word=xflly &#10;https://mywordle.strivemath.com/?word=bzlwp &#10;https://mywordle.strivemath.com/?word=fiax &#10;https://mywordle.strivemath.com/?word=oosup &#10;https://mywordle.strivemath.com/?word=ywifwi &#10;https://mywordle.strivemath.com/?word=xoemz &#10;https://mywordle.strivemath.com/?word=eucrz &#10;https://mywordle.strivemath.com/?word=pfzdw &#10;https://mywordle.strivemath.com/?word=noklz &#10;https://mywordle.strivemath.com/?word=ovruv &#10;https://mywordle.strivemath.com/?word=zflp &#10;https://mywordle.strivemath.com/?word=ycjlyi &#10;https://mywordle.strivemath.com/?word=cizwlv &#10;https://mywordle.strivemath.com/?word=bctxd &#10;https://mywordle.strivemath.com/?word=noejpv &#10;https://mywordle.strivemath.com/?word=uiiw &#10;https://mywordle.strivemath.com/?word=rccxxi &#10;https://mywordle.strivemath.com/?word=lojwl &#10;https://mywordle.strivemath.com/?word=yscoz &#10;https://mywordle.strivemath.com/?word=lokwj&#10;&#10;And the scoring system:&#10;1 guess = 8 pts.&#10;2 guesses = 5 pts.&#10;3 guesses = 2 pts.&#10;4 guesses = 0 pts.&#10;5 guesses = -1 pts.&#10;6 guesses = -3 pts"
+    description "This is Jason Zuffranieri's new game, requiring the solving of 21 Wordles with a certain amount of connections between the answers!&amp;#10;&amp;#10;Here's the list of links to play the Wordles:&amp;#10;https://mywordle.strivemath.com/?word=yosly &amp;#10;https://mywordle.strivemath.com/?word=xflly &amp;#10;https://mywordle.strivemath.com/?word=bzlwp &amp;#10;https://mywordle.strivemath.com/?word=fiax &amp;#10;https://mywordle.strivemath.com/?word=oosup &amp;#10;https://mywordle.strivemath.com/?word=ywifwi &amp;#10;https://mywordle.strivemath.com/?word=xoemz &amp;#10;https://mywordle.strivemath.com/?word=eucrz &amp;#10;https://mywordle.strivemath.com/?word=pfzdw &amp;#10;https://mywordle.strivemath.com/?word=noklz &amp;#10;https://mywordle.strivemath.com/?word=ovruv &amp;#10;https://mywordle.strivemath.com/?word=zflp &amp;#10;https://mywordle.strivemath.com/?word=ycjlyi &amp;#10;https://mywordle.strivemath.com/?word=cizwlv &amp;#10;https://mywordle.strivemath.com/?word=bctxd &amp;#10;https://mywordle.strivemath.com/?word=noejpv &amp;#10;https://mywordle.strivemath.com/?word=uiiw &amp;#10;https://mywordle.strivemath.com/?word=rccxxi &amp;#10;https://mywordle.strivemath.com/?word=lojwl &amp;#10;https://mywordle.strivemath.com/?word=yscoz &amp;#10;https://mywordle.strivemath.com/?word=lokwj&amp;#10;&amp;#10;And the scoring system:&amp;#10;1 guess = 8 pts.&amp;#10;2 guesses = 5 pts.&amp;#10;3 guesses = 2 pts.&amp;#10;4 guesses = 0 pts.&amp;#10;5 guesses = -1 pts.&amp;#10;6 guesses = -3 pts"
     channeltitle "Cracking The Cryptic"
     channelid "UCC-UOdK8-mIjxBQm_ot1T-Q"
     favcount 0
@@ -919,7 +1645,29 @@ graph
     ppprofanity 0.045573685
     ppinflammatory 0.11164087
     sentiment 0.4404
-    cluster 7
+    cluster 3
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -928,7 +1676,7 @@ graph
     step 0
     date "2022-03-02T16:15:03Z"
     title "Kid Signals For Help by Playing Wordle Game."
-    description "Ricky's friend Cliff has been missing from school recently. Worried about his classmate, Ricky decides to go to Cliff's house to check on him. Mr. Jameson, Cliff's foster dad, invites Ricky inside to hang out. While the boys are playing the popular online game, Wordle, Cliff sends his friend a subtle but clear signal for help.&#10;&#10;Subscribe now &#10142; http://soulsnack.tv/SubscribeNow&#10;&#10;&#128165;RECOMMENDED POPULAR VIDEOS FOR YOU &#128165;&#10;Gold-Digger taking Advantage of Dying Husband &#10142; http://soulsnack.tv/GoldDigger-DyingHusband&#10;Police Arrest Black Grandma With Dementia  &#10142; https://soulsnack.tv/PoliceArrestGrandma&#10;Karen Calls Police on Kids Playing Basketball &#10142; http://soulsnack.tv/KarenBasketball&#10;Karen Attacks Arab Man. &#10142; https://soulsnack.tv/KarenAttacksArab&#10;Karen Calls Cops on Disabled Child &#10142; https://soulsnack.tv/KarenVsDisabledChild&#10;&#10;&#128165;Follow us on Social Media &#128165;&#10;Instagram &#10142; https://www.instagram.com/soulsnack&#10;Facebook &#10142; https://www.facebook.com/soulsnackofficial&#10;&#10;&#10;Starring&#10;Brewer Daniels&#10;Renato Nicastro&#10;Jacob Planes&#10;Garfield Wedderburn"
+    description "Ricky's friend Cliff has been missing from school recently. Worried about his classmate, Ricky decides to go to Cliff's house to check on him. Mr. Jameson, Cliff's foster dad, invites Ricky inside to hang out. While the boys are playing the popular online game, Wordle, Cliff sends his friend a subtle but clear signal for help.&amp;#10;&amp;#10;Subscribe now &amp;#10142; http://soulsnack.tv/SubscribeNow&amp;#10;&amp;#10;&amp;#128165;RECOMMENDED POPULAR VIDEOS FOR YOU &amp;#128165;&amp;#10;Gold-Digger taking Advantage of Dying Husband &amp;#10142; http://soulsnack.tv/GoldDigger-DyingHusband&amp;#10;Police Arrest Black Grandma With Dementia  &amp;#10142; https://soulsnack.tv/PoliceArrestGrandma&amp;#10;Karen Calls Police on Kids Playing Basketball &amp;#10142; http://soulsnack.tv/KarenBasketball&amp;#10;Karen Attacks Arab Man. &amp;#10142; https://soulsnack.tv/KarenAttacksArab&amp;#10;Karen Calls Cops on Disabled Child &amp;#10142; https://soulsnack.tv/KarenVsDisabledChild&amp;#10;&amp;#10;&amp;#128165;Follow us on Social Media &amp;#128165;&amp;#10;Instagram &amp;#10142; https://www.instagram.com/soulsnack&amp;#10;Facebook &amp;#10142; https://www.facebook.com/soulsnackofficial&amp;#10;&amp;#10;&amp;#10;Starring&amp;#10;Brewer Daniels&amp;#10;Renato Nicastro&amp;#10;Jacob Planes&amp;#10;Garfield Wedderburn"
     channeltitle "SoulSnack"
     channelid "UC4YUjbS2Ojr3CuxK8VuftCQ"
     favcount 0
@@ -947,6 +1695,28 @@ graph
     ppinflammatory 0.27483144
     sentiment 0.5423
     cluster 4
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -955,7 +1725,7 @@ graph
     step 0
     date "2022-07-13T22:32:55Z"
     title "A good Wordle SCORE!"
-    description "(Spoilers 389) For fun, I start with the previous two day's words and use a viewer suggestion for my 3rd!&#10;&#10;Play Wordle here: https://www.nytimes.com/games/wordle/index.html&#10;&#10;======= LIVE STREAMS =======&#10;I stream word games right here on YouTube every night (except Friday) at 7pm PDT! Subscribe and ring the bell and/or join my Discord to get notifications for when I go live!&#10;&#10;======= MEMBERS =======&#10;Join my channel at the Video Enthusiast tier or higher to see the full, uncut videos with my entire thought process!&#10;https://www.youtube.com/rangsk/join&#10;&#10;===== MERCH ===== &#10;You can also support me by buying my super cute merch! All items feature an artistic rendering of my dog Rocky with no other branding! They're super cute!&#10;&#10;Check out my store here: https://rangsks-merch.creator-spring.com/&#10;&#10;======= DISCORD =======&#10;Join my Discord server to hang out and talk about Wordle, Wordle-like games, and other kinds of puzzles like Sudoku.&#10;https://discord.gg/AEhpTG4z45&#10;&#10;#wordle #puzzle #word #game"
+    description "(Spoilers 389) For fun, I start with the previous two day's words and use a viewer suggestion for my 3rd!&amp;#10;&amp;#10;Play Wordle here: https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;======= LIVE STREAMS =======&amp;#10;I stream word games right here on YouTube every night (except Friday) at 7pm PDT! Subscribe and ring the bell and/or join my Discord to get notifications for when I go live!&amp;#10;&amp;#10;======= MEMBERS =======&amp;#10;Join my channel at the Video Enthusiast tier or higher to see the full, uncut videos with my entire thought process!&amp;#10;https://www.youtube.com/rangsk/join&amp;#10;&amp;#10;===== MERCH ===== &amp;#10;You can also support me by buying my super cute merch! All items feature an artistic rendering of my dog Rocky with no other branding! They're super cute!&amp;#10;&amp;#10;Check out my store here: https://rangsks-merch.creator-spring.com/&amp;#10;&amp;#10;======= DISCORD =======&amp;#10;Join my Discord server to hang out and talk about Wordle, Wordle-like games, and other kinds of puzzles like Sudoku.&amp;#10;https://discord.gg/AEhpTG4z45&amp;#10;&amp;#10;#wordle #puzzle #word #game"
     channeltitle "Rangsk"
     channelid "UC1RUqXOT_iaH4b7iXKRWhLw"
     favcount 0
@@ -973,7 +1743,29 @@ graph
     ppprofanity 0.06807634
     ppinflammatory 0.17127967
     sentiment 0.4404
-    cluster 6
+    cluster 3
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -982,7 +1774,7 @@ graph
     step 0
     date "2022-01-14T23:30:08Z"
     title "Wordle - Why I ALWAYS Guess the Same Four Words"
-    description "I found this Wordle strategy that is fast and easy to use. I always make the same guess for my first four words, so I don't have to stop and think about the clues. The magic happens on guess 5 and 6. I haven't yet found a word I can't solve with this strategy.&#10;&#10;This strategy is great for speed and simplicity, and is very reliable. However, when using it you won't often get the opportunity to solve words on guess 3 and 4.&#10;&#10;Wordle: https://www.powerlanguage.co.uk/wordle/&#10;WordGuessr: https://engaging-data.com/wordguessr-wordle/"
+    description "I found this Wordle strategy that is fast and easy to use. I always make the same guess for my first four words, so I don't have to stop and think about the clues. The magic happens on guess 5 and 6. I haven't yet found a word I can't solve with this strategy.&amp;#10;&amp;#10;This strategy is great for speed and simplicity, and is very reliable. However, when using it you won't often get the opportunity to solve words on guess 3 and 4.&amp;#10;&amp;#10;Wordle: https://www.powerlanguage.co.uk/wordle/&amp;#10;WordGuessr: https://engaging-data.com/wordguessr-wordle/"
     channeltitle "Archimedes"
     channelid "UCArTK0jU-pY9-MfksE-O7Pg"
     favcount 0
@@ -1000,7 +1792,29 @@ graph
     ppprofanity 0.09275186
     ppinflammatory 0.09228755
     sentiment 0
-    cluster 3
+    cluster 2
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -1009,7 +1823,7 @@ graph
     step 0
     date "2022-01-30T14:57:02Z"
     title "Wordle, the five-letter spelling addiction"
-    description "Correspondent Faith Salie (with a little help from New York Times crossword editor Will Shortz) fills us in on the new puzzle game that's taking the world by storm, one letter at a time.&#10;&#10;&#34;CBS Sunday Morning&#34; features stories on the arts, music, nature, entertainment, sports, history, science and Americana, and highlights unique human accomplishments and achievements. Check local listings for CBS Sunday Morning broadcast times.&#10;&#10;Subscribe to the &#34;CBS Sunday Morning&#34; YouTube channel: http://bit.ly/20gXwJT&#10;Get more of &#34;CBS Sunday Morning&#34;: http://cbsn.ws/1PlMmAz&#10;Follow &#34;CBS Sunday Morning&#34; on Instagram: http://bit.ly/23XunIh&#10;Like &#34;CBS Sunday Morning&#34; on Facebook: https://bit.ly/3sRgLPG&#10;Follow &#34;CBS Sunday Morning&#34; on Twitter: http://bit.ly/1RquoQb&#10;Subscribe to our newsletter: http://cbsn.ws/1RqHw7T&#10;Download the CBS News app: http://cbsn.ws/1Xb1WC8&#10;Try Paramount+ free: https://bit.ly/2OiW1kZ&#10;&#10;For video licensing inquiries, contact: licensing@veritone.com"
+    description "Correspondent Faith Salie (with a little help from New York Times crossword editor Will Shortz) fills us in on the new puzzle game that's taking the world by storm, one letter at a time.&amp;#10;&amp;#10;&amp;#34;CBS Sunday Morning&amp;#34; features stories on the arts, music, nature, entertainment, sports, history, science and Americana, and highlights unique human accomplishments and achievements. Check local listings for CBS Sunday Morning broadcast times.&amp;#10;&amp;#10;Subscribe to the &amp;#34;CBS Sunday Morning&amp;#34; YouTube channel: http://bit.ly/20gXwJT&amp;#10;Get more of &amp;#34;CBS Sunday Morning&amp;#34;: http://cbsn.ws/1PlMmAz&amp;#10;Follow &amp;#34;CBS Sunday Morning&amp;#34; on Instagram: http://bit.ly/23XunIh&amp;#10;Like &amp;#34;CBS Sunday Morning&amp;#34; on Facebook: https://bit.ly/3sRgLPG&amp;#10;Follow &amp;#34;CBS Sunday Morning&amp;#34; on Twitter: http://bit.ly/1RquoQb&amp;#10;Subscribe to our newsletter: http://cbsn.ws/1RqHw7T&amp;#10;Download the CBS News app: http://cbsn.ws/1Xb1WC8&amp;#10;Try Paramount+ free: https://bit.ly/2OiW1kZ&amp;#10;&amp;#10;For video licensing inquiries, contact: licensing@veritone.com"
     channeltitle "CBS Sunday Morning"
     channelid "UCVT1tPkR-fUVlO652EcO3ow"
     favcount 0
@@ -1028,6 +1842,28 @@ graph
     ppinflammatory 0.09285259
     sentiment 0
     cluster 2
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -1036,7 +1872,7 @@ graph
     step 0
     date "2022-02-11T13:00:15Z"
     title "A Whole New Wordle -  Parody"
-    description "Let me share my Wordle score with youu... but seriously, why that word on February 2nd?? #wordle #disney #parody&#10;&#10;__&#10;&#10;Thanks for being here! We&#8217;re Kim and Penn Holderness of The Holderness Family. We create original music, song parodies, and skits to poke fun of ourselves, the world we live in, and (hopefully) make you laugh. &#10;&#10;Shop our merch: https://shopholderness.com/ &#10;Learn about our book: https://theholdernessfamily.com/book/&#10;Listen to the podcast: https://theholdernessfamily.com/podcast/ &#10;&#10;Subscribe to Holderness Family Music: https://www.youtube.com/c/theholdernessfamily/ &#10;Laugh with us on Holderness Family Vlogs: https://www.youtube.com/c/HoldernessFamilyVlogs/ &#10;&#10;Follow us on your favorite channel!&#10;TikTok: https://www.tiktok.com/@theholdernessfamily &#10;Facebook: https://www.facebook.com/TheHoldernessfamily &#10;Instagram: https://www.instagram.com/theholdernessfamily/ &#10;&#10;Our viewers have become our family and we try our best to respond to comments. XO"
+    description "Let me share my Wordle score with youu... but seriously, why that word on February 2nd?? #wordle #disney #parody&amp;#10;&amp;#10;__&amp;#10;&amp;#10;Thanks for being here! We&amp;#8217;re Kim and Penn Holderness of The Holderness Family. We create original music, song parodies, and skits to poke fun of ourselves, the world we live in, and (hopefully) make you laugh. &amp;#10;&amp;#10;Shop our merch: https://shopholderness.com/ &amp;#10;Learn about our book: https://theholdernessfamily.com/book/&amp;#10;Listen to the podcast: https://theholdernessfamily.com/podcast/ &amp;#10;&amp;#10;Subscribe to Holderness Family Music: https://www.youtube.com/c/theholdernessfamily/ &amp;#10;Laugh with us on Holderness Family Vlogs: https://www.youtube.com/c/HoldernessFamilyVlogs/ &amp;#10;&amp;#10;Follow us on your favorite channel!&amp;#10;TikTok: https://www.tiktok.com/@theholdernessfamily &amp;#10;Facebook: https://www.facebook.com/TheHoldernessfamily &amp;#10;Instagram: https://www.instagram.com/theholdernessfamily/ &amp;#10;&amp;#10;Our viewers have become our family and we try our best to respond to comments. XO"
     channeltitle "The Holderness Family"
     channelid "UCl2axinLKd00nMBW6RTASag"
     favcount 0
@@ -1054,7 +1890,29 @@ graph
     ppprofanity 0.09246536
     ppinflammatory 0.00048270865
     sentiment 0
-    cluster 4
+    cluster 2
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -1063,7 +1921,7 @@ graph
     step 0
     date "2022-02-13T21:00:03Z"
     title "TIMTHETATMAN PROVES HES SMART (BEST WORDLE YET)"
-    description "TIMTHETATMAN PROVES HE'S SMART (BEST WORDLE YET)&#10;&#128170; BECOME A MEMBER OF THE STREAM - https://youtube.com/timthetatman/join&#10;&#10;&#128176; DONATE: https://streamlabs.com/timthetatman/tip&#10;&#10;&#128073; Use Code - &#34;timthetatman&#34; in the item shop! #codpartner&#10;&#10;&#128073; JOIN THE DISCORD: https://discord.gg/timthetatman&#10;&#10;&#127909; More TimTheTatman: https://youtube.com/MoreTimTheTatman&#10;&#127909; TimTheTatman: https://youtube.com/TimTheTatman&#10;&#127909; TimTheTatman VODs: https://www.youtube.com/timthetatmanvods&#10;&#127909; TimTheTatman Shorts: https://youtube.com/TimTheTatmanShorts&#10;&#10;&#9654;&#65039;GET CONNECTED:&#10;&#128187;Website | https://timthetatman.com&#10;&#128038;Twitter | https://twitter.com/timthetatman&#10;&#128247;Instagram | https://www.instagram.com/timthetatman/&#10;&#128241;TikTok  | https://tiktok.com/@timthetatman&#10;&#10;&#128293;SPONSORS:&#10;NZXT | https://nzxt.co/TimNZXT&#10;LG Ultragear | https://bit.ly/3A5B0MZ&#10;Herman Miller | https://bit.ly/3tcJ9vV&#10;HyperX | http://hyperx.gg/timthetatman&#10;Chipotle | https://chipotle.com&#10;AT&#38;T | https://www.att.com/5g/consumer/&#10;FanDuel | https://fanduel.com/timthetatman&#10;Streamlabs | https://streamlabs.com/goprime?promo=timthetatman-441d-10&#10;&#10;&#11088;COMPLEXITY: http://col.vg/Tim&#10;&#10;OUTRO SONG:&#10;Getting Tipsy | Martin Landh&#10;&#10;THANKS FOR WATCHING!!&#10;&#10;-----------------------------------------------------------------------------------------------------------&#10;#timthetatman #podcast #wordle"
+    description "TIMTHETATMAN PROVES HE'S SMART (BEST WORDLE YET)&amp;#10;&amp;#128170; BECOME A MEMBER OF THE STREAM - https://youtube.com/timthetatman/join&amp;#10;&amp;#10;&amp;#128176; DONATE: https://streamlabs.com/timthetatman/tip&amp;#10;&amp;#10;&amp;#128073; Use Code - &amp;#34;timthetatman&amp;#34; in the item shop! #codpartner&amp;#10;&amp;#10;&amp;#128073; JOIN THE DISCORD: https://discord.gg/timthetatman&amp;#10;&amp;#10;&amp;#127909; More TimTheTatman: https://youtube.com/MoreTimTheTatman&amp;#10;&amp;#127909; TimTheTatman: https://youtube.com/TimTheTatman&amp;#10;&amp;#127909; TimTheTatman VODs: https://www.youtube.com/timthetatmanvods&amp;#10;&amp;#127909; TimTheTatman Shorts: https://youtube.com/TimTheTatmanShorts&amp;#10;&amp;#10;&amp;#9654;&amp;#65039;GET CONNECTED:&amp;#10;&amp;#128187;Website | https://timthetatman.com&amp;#10;&amp;#128038;Twitter | https://twitter.com/timthetatman&amp;#10;&amp;#128247;Instagram | https://www.instagram.com/timthetatman/&amp;#10;&amp;#128241;TikTok  | https://tiktok.com/@timthetatman&amp;#10;&amp;#10;&amp;#128293;SPONSORS:&amp;#10;NZXT | https://nzxt.co/TimNZXT&amp;#10;LG Ultragear | https://bit.ly/3A5B0MZ&amp;#10;Herman Miller | https://bit.ly/3tcJ9vV&amp;#10;HyperX | http://hyperx.gg/timthetatman&amp;#10;Chipotle | https://chipotle.com&amp;#10;AT&amp;#38;T | https://www.att.com/5g/consumer/&amp;#10;FanDuel | https://fanduel.com/timthetatman&amp;#10;Streamlabs | https://streamlabs.com/goprime?promo=timthetatman-441d-10&amp;#10;&amp;#10;&amp;#11088;COMPLEXITY: http://col.vg/Tim&amp;#10;&amp;#10;OUTRO SONG:&amp;#10;Getting Tipsy | Martin Landh&amp;#10;&amp;#10;THANKS FOR WATCHING!!&amp;#10;&amp;#10;-----------------------------------------------------------------------------------------------------------&amp;#10;#timthetatman #podcast #wordle"
     channeltitle "TimTheTatman Two"
     channelid "UCB2ahU2xIXD1Emto8sBNOow"
     favcount 0
@@ -1082,6 +1940,28 @@ graph
     ppinflammatory 0.041591648
     sentiment 0.7845
     cluster 4
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -1090,7 +1970,7 @@ graph
     step 0
     date "2022-02-09T21:45:24Z"
     title "Pokimane STRUGGLES to solve the daily Wordle with chat"
-    description "Pokimane Wordle on 2022-02-09&#10;&#10;FOLLOW HER! https://www.twitch.tv/pokimane&#10;&#10;#pokimane #twitch #wordle"
+    description "Pokimane Wordle on 2022-02-09&amp;#10;&amp;#10;FOLLOW HER! https://www.twitch.tv/pokimane&amp;#10;&amp;#10;#pokimane #twitch #wordle"
     channeltitle "YEP TV"
     channelid "UCdWdhRK9irv3Al_k0DS7vrg"
     favcount 0
@@ -1109,6 +1989,28 @@ graph
     ppinflammatory 0.11288571
     sentiment -0.1779
     cluster 4
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -1117,7 +2019,7 @@ graph
     step 0
     date "2022-03-04T21:00:16Z"
     title "I BEAT THE WORDLE THAT NO ONE COULD GUESS..."
-    description "&#128170; BECOME A MEMBER OF THE STREAM - https://youtube.com/timthetatman/join&#10;&#10;&#128176; DONATE: https://streamlabs.com/timthetatman/tip&#10;&#10;&#128073; Use Code - &#34;timthetatman&#34; in the item shop! #codpartner&#10;&#10;&#128073; JOIN THE DISCORD: https://discord.gg/timthetatman&#10;&#10;&#127909; More TimTheTatman: https://youtube.com/MoreTimTheTatman&#10;&#127909; TimTheTatman: https://youtube.com/TimTheTatman&#10;&#127909; TimTheTatman VODs: https://www.youtube.com/timthetatmanvods&#10;&#127909; TimTheTatman Shorts: https://youtube.com/TimTheTatmanShorts&#10;&#10;&#9654;&#65039;GET CONNECTED:&#10;&#128187;Website | https://timthetatman.com&#10;&#128038;Twitter | https://twitter.com/timthetatman&#10;&#128247;Instagram | https://www.instagram.com/timthetatman/&#10;&#128241;TikTok  | https://tiktok.com/@timthetatman&#10;&#10;&#128293;SPONSORS:&#10;NZXT | https://nzxt.co/TimNZXT&#10;LG Ultragear | https://bit.ly/3A5B0MZ&#10;Herman Miller | https://bit.ly/3tcJ9vV&#10;HyperX | http://hyperx.gg/timthetatman&#10;Chipotle | https://chipotle.com&#10;AT&#38;T | https://www.att.com/5g/consumer/&#10;FanDuel | https://fanduel.com/timthetatman&#10;Streamlabs | https://streamlabs.com/goprime?promo=timthetatman-441d-10&#10;&#10;&#11088;COMPLEXITY: http://col.vg/Tim&#10;&#10;OUTRO SONG:&#10;Getting Tipsy | Martin Landh&#10;&#10;THANKS FOR WATCHING!!&#10;&#10;-----------------------------------------------------------------------------------------------------------&#10;#timthetatman #wordle #gaming"
+    description "&amp;#128170; BECOME A MEMBER OF THE STREAM - https://youtube.com/timthetatman/join&amp;#10;&amp;#10;&amp;#128176; DONATE: https://streamlabs.com/timthetatman/tip&amp;#10;&amp;#10;&amp;#128073; Use Code - &amp;#34;timthetatman&amp;#34; in the item shop! #codpartner&amp;#10;&amp;#10;&amp;#128073; JOIN THE DISCORD: https://discord.gg/timthetatman&amp;#10;&amp;#10;&amp;#127909; More TimTheTatman: https://youtube.com/MoreTimTheTatman&amp;#10;&amp;#127909; TimTheTatman: https://youtube.com/TimTheTatman&amp;#10;&amp;#127909; TimTheTatman VODs: https://www.youtube.com/timthetatmanvods&amp;#10;&amp;#127909; TimTheTatman Shorts: https://youtube.com/TimTheTatmanShorts&amp;#10;&amp;#10;&amp;#9654;&amp;#65039;GET CONNECTED:&amp;#10;&amp;#128187;Website | https://timthetatman.com&amp;#10;&amp;#128038;Twitter | https://twitter.com/timthetatman&amp;#10;&amp;#128247;Instagram | https://www.instagram.com/timthetatman/&amp;#10;&amp;#128241;TikTok  | https://tiktok.com/@timthetatman&amp;#10;&amp;#10;&amp;#128293;SPONSORS:&amp;#10;NZXT | https://nzxt.co/TimNZXT&amp;#10;LG Ultragear | https://bit.ly/3A5B0MZ&amp;#10;Herman Miller | https://bit.ly/3tcJ9vV&amp;#10;HyperX | http://hyperx.gg/timthetatman&amp;#10;Chipotle | https://chipotle.com&amp;#10;AT&amp;#38;T | https://www.att.com/5g/consumer/&amp;#10;FanDuel | https://fanduel.com/timthetatman&amp;#10;Streamlabs | https://streamlabs.com/goprime?promo=timthetatman-441d-10&amp;#10;&amp;#10;&amp;#11088;COMPLEXITY: http://col.vg/Tim&amp;#10;&amp;#10;OUTRO SONG:&amp;#10;Getting Tipsy | Martin Landh&amp;#10;&amp;#10;THANKS FOR WATCHING!!&amp;#10;&amp;#10;-----------------------------------------------------------------------------------------------------------&amp;#10;#timthetatman #wordle #gaming"
     channeltitle "TimTheTatman Two"
     channelid "UCB2ahU2xIXD1Emto8sBNOow"
     favcount 0
@@ -1136,6 +2038,28 @@ graph
     ppinflammatory 0.16608861
     sentiment -0.296
     cluster 4
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -1162,7 +2086,29 @@ graph
     ppprofanity 0.0831847
     ppinflammatory 0.050268915
     sentiment 0
-    cluster 7
+    cluster 6
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -1171,7 +2117,7 @@ graph
     step 0
     date "2022-05-22T17:30:01Z"
     title "WEIRDEST Wordle Ever! (Challenge)"
-    description "Today the @Regulars @Sigils @Nicovald @Biffle @Henwy test their Wordle game in another round of the world's best Wordle!&#10;&#10;&#128276; SUBSCRIBE: https://www.youtube.com/channel/UCBUQrhWxiYIbDta0-3hL8Cw?sub_confirmation=1&#10;&#10;&#128204; MEET THE REGULARS:&#10;&#10145;&#65039;Biffle: https://www.youtube.com/BiffleWiffle&#10;&#10145;&#65039;Henwy: https://www.youtube.com/Henwy&#10;&#10145;&#65039;Nicovald: https://www.youtube.com/Nicovald&#10;&#10145;&#65039;Sigils: https://www.youtube.com/SigilsPlaysGames&#10;&#10;&#128142;OTHER SOCIALS&#10;&#128247; Instagram: https://www.instagram.com/regularsyt/&#10;&#128126; TikTok: https://www.tiktok.com/@regularsyt&#10;&#128038; Twitter: https://twitter.com/regularsyt&#10;&#10;&#10071;About the Regulars&#10071;&#10;The Regulars are a group of four YouTuber friends named: Biffle, Henwy, Nicovald, and Sigils. On this channel they will be doing a lot of: lifestyle, reactions, vlogs, and challenges!&#10;&#10;#Regulars #React&#10;&#10;WEIRDEST Wordle Ever! (Challenge)&#10;Regulars&#10;https://youtu.be/BoXO8Coe-8U"
+    description "Today the @Regulars @Sigils @Nicovald @Biffle @Henwy test their Wordle game in another round of the world's best Wordle!&amp;#10;&amp;#10;&amp;#128276; SUBSCRIBE: https://www.youtube.com/channel/UCBUQrhWxiYIbDta0-3hL8Cw?sub_confirmation=1&amp;#10;&amp;#10;&amp;#128204; MEET THE REGULARS:&amp;#10;&amp;#10145;&amp;#65039;Biffle: https://www.youtube.com/BiffleWiffle&amp;#10;&amp;#10145;&amp;#65039;Henwy: https://www.youtube.com/Henwy&amp;#10;&amp;#10145;&amp;#65039;Nicovald: https://www.youtube.com/Nicovald&amp;#10;&amp;#10145;&amp;#65039;Sigils: https://www.youtube.com/SigilsPlaysGames&amp;#10;&amp;#10;&amp;#128142;OTHER SOCIALS&amp;#10;&amp;#128247; Instagram: https://www.instagram.com/regularsyt/&amp;#10;&amp;#128126; TikTok: https://www.tiktok.com/@regularsyt&amp;#10;&amp;#128038; Twitter: https://twitter.com/regularsyt&amp;#10;&amp;#10;&amp;#10071;About the Regulars&amp;#10071;&amp;#10;The Regulars are a group of four YouTuber friends named: Biffle, Henwy, Nicovald, and Sigils. On this channel they will be doing a lot of: lifestyle, reactions, vlogs, and challenges!&amp;#10;&amp;#10;#Regulars #React&amp;#10;&amp;#10;WEIRDEST Wordle Ever! (Challenge)&amp;#10;Regulars&amp;#10;https://youtu.be/BoXO8Coe-8U"
     channeltitle "Regulars"
     channelid "UCBUQrhWxiYIbDta0-3hL8Cw"
     favcount 0
@@ -1190,6 +2136,28 @@ graph
     ppinflammatory 0.124791436
     sentiment -0.1531
     cluster 4
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -1198,7 +2166,7 @@ graph
     step 0
     date "2022-07-03T04:00:08Z"
     title "Doug plays todays Wordle #379 for 07/03/2022"
-    description "It's July 3, 2022 and Doug is playing today's daily Wordle! #wordle&#10;&#10;&#10;Please, if you enjoyed this video, like and subscribe to my channel!&#10;&#10;I can also be found on Twitch!&#10;https://www.twitch.tv/dougmansland&#10;&#10;I'm also on Twitter!&#10;https://twitter.com/dougmansland&#10;&#10;If you enjoy Discord, I have one of those too!&#10;https://discord.gg/MVXvhvg2Zm&#10;&#10;For some reason, I also make Tik Tok videos!&#10;https://www.tiktok.com/@dougmansland?lang=en"
+    description "It's July 3, 2022 and Doug is playing today's daily Wordle! #wordle&amp;#10;&amp;#10;&amp;#10;Please, if you enjoyed this video, like and subscribe to my channel!&amp;#10;&amp;#10;I can also be found on Twitch!&amp;#10;https://www.twitch.tv/dougmansland&amp;#10;&amp;#10;I'm also on Twitter!&amp;#10;https://twitter.com/dougmansland&amp;#10;&amp;#10;If you enjoy Discord, I have one of those too!&amp;#10;https://discord.gg/MVXvhvg2Zm&amp;#10;&amp;#10;For some reason, I also make Tik Tok videos!&amp;#10;https://www.tiktok.com/@dougmansland?lang=en"
     channeltitle "DougMansLand"
     channelid "UCkiAm7y8MQCbFwpB-52QRtg"
     favcount 0
@@ -1216,7 +2184,29 @@ graph
     ppprofanity 0.106255814
     ppinflammatory 0.049881727
     sentiment 0.25
-    cluster 2
+    cluster 3
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -1225,7 +2215,7 @@ graph
     step 0
     date "2022-06-17T07:03:47Z"
     title "Wordle 363 for June 17th"
-    description "What is today's Wordle for 06/17/2022 number 363 ? Join me and let's find out &#38; guess the answer together. Great start! Haha&#10;A new word daily, how do you like to play &#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. June 17th 2022&#10;&#10;Follow me on Twitter: https://twitter.com/emptyapartment3&#10;Join our Discord: https://discord.gg/9Py98RU&#10;Support/Buy me a &#34;coffee&#34;: https://ko-fi.com/emptyapartment&#10;&#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&#10;&#10;business contact: emptyapartmentgaming [at] gmail&#10;&#10;&#10;0:00 Intro&#10;0:25 First Guess&#10;1:40 Wordle?&#10;&#10;#wordle"
+    description "What is today's Wordle for 06/17/2022 number 363 ? Join me and let's find out &amp;#38; guess the answer together. Great start! Haha&amp;#10;A new word daily, how do you like to play &amp;#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. June 17th 2022&amp;#10;&amp;#10;Follow me on Twitter: https://twitter.com/emptyapartment3&amp;#10;Join our Discord: https://discord.gg/9Py98RU&amp;#10;Support/Buy me a &amp;#34;coffee&amp;#34;: https://ko-fi.com/emptyapartment&amp;#10;&amp;#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;business contact: emptyapartmentgaming [at] gmail&amp;#10;&amp;#10;&amp;#10;0:00 Intro&amp;#10;0:25 First Guess&amp;#10;1:40 Wordle?&amp;#10;&amp;#10;#wordle"
     channeltitle "Empty Apartment"
     channelid "UCEb4tjgeTW47bD66Xryzx0Q"
     favcount 0
@@ -1244,6 +2234,28 @@ graph
     ppinflammatory 0.15883088
     sentiment 0
     cluster 1
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -1252,7 +2264,7 @@ graph
     step 0
     date "2022-03-27T20:08:19Z"
     title "A CANDY LOVERs Wordle"
-    description "Solving #Wordle #281 for Sunday, March 27th.&#10;&#10;Become a member of the Stro-Solves YouTube channel - https://www.youtube.com/channel/UC8HHDytpZ-cs9bavTbgYfmA/join&#10;&#10;You can find my other 'Wordle-like' solves here - https://youtube.com/playlist?list=PL_HjFt2zdfHV33cIRgG7tm-AvnfUP9cMG&#10;&#10;Come discuss these puzzles with us on discord - https://discord.gg/AEhpTG4z45"
+    description "Solving #Wordle #281 for Sunday, March 27th.&amp;#10;&amp;#10;Become a member of the Stro-Solves YouTube channel - https://www.youtube.com/channel/UC8HHDytpZ-cs9bavTbgYfmA/join&amp;#10;&amp;#10;You can find my other 'Wordle-like' solves here - https://youtube.com/playlist?list=PL_HjFt2zdfHV33cIRgG7tm-AvnfUP9cMG&amp;#10;&amp;#10;Come discuss these puzzles with us on discord - https://discord.gg/AEhpTG4z45"
     channeltitle "Scott Stro-solves"
     channelid "UC8HHDytpZ-cs9bavTbgYfmA"
     favcount 0
@@ -1270,7 +2282,29 @@ graph
     ppprofanity 0.56195766
     ppinflammatory 0.06216432
     sentiment 0.5267
-    cluster 6
+    cluster 3
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 1
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "C"
   ]
   node
   [
@@ -1279,7 +2313,7 @@ graph
     step 0
     date "2022-06-23T01:44:03Z"
     title "Were back to playing REGULAR Wordle!"
-    description "WARNING: contains spoilers for June 22 Wordle&#10;&#10;Jomboy Media office competes in weekly Wordle competition"
+    description "WARNING: contains spoilers for June 22 Wordle&amp;#10;&amp;#10;Jomboy Media office competes in weekly Wordle competition"
     channeltitle "JM Gaming (Jomboy Media)"
     channelid "UCk71IrRQyptFQBL_eEeS1uw"
     favcount 0
@@ -1297,7 +2331,29 @@ graph
     ppprofanity 0.06944286
     ppinflammatory 0.15127465
     sentiment 0.2023
-    cluster 4
+    cluster 2
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -1306,7 +2362,7 @@ graph
     step 0
     date "2022-06-22T08:23:03Z"
     title "Wordle 368 for June 22nd"
-    description "What is today's Wordle for 06/22/2022 number 368 ? Join me and let's find out &#38; guess the answer together. Not too bad!&#10;A new word daily, how do you like to play &#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. June 22nd 2022&#10;&#10;Follow me on Twitter: https://twitter.com/emptyapartment3&#10;Join our Discord: https://discord.gg/9Py98RU&#10;Support/Buy me a &#34;coffee&#34;: https://ko-fi.com/emptyapartment&#10;&#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&#10;&#10;business contact: emptyapartmentgaming [at] gmail&#10;&#10;&#10;0:00 Intro&#10;0:22 First Guess&#10;1:25 Wordle?&#10;&#10;#wordle"
+    description "What is today's Wordle for 06/22/2022 number 368 ? Join me and let's find out &amp;#38; guess the answer together. Not too bad!&amp;#10;A new word daily, how do you like to play &amp;#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. June 22nd 2022&amp;#10;&amp;#10;Follow me on Twitter: https://twitter.com/emptyapartment3&amp;#10;Join our Discord: https://discord.gg/9Py98RU&amp;#10;Support/Buy me a &amp;#34;coffee&amp;#34;: https://ko-fi.com/emptyapartment&amp;#10;&amp;#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;business contact: emptyapartmentgaming [at] gmail&amp;#10;&amp;#10;&amp;#10;0:00 Intro&amp;#10;0:22 First Guess&amp;#10;1:25 Wordle?&amp;#10;&amp;#10;#wordle"
     channeltitle "Empty Apartment"
     channelid "UCEb4tjgeTW47bD66Xryzx0Q"
     favcount 0
@@ -1324,7 +2380,29 @@ graph
     ppprofanity 0.05543821
     ppinflammatory 0.08318583
     sentiment 0
-    cluster 6
+    cluster 3
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -1333,7 +2411,7 @@ graph
     step 0
     date "2022-07-01T09:17:44Z"
     title "Wordle 377 for July 1st"
-    description "What is today's Wordle for 07/01/2022 number 377 ? Join me and let's find out &#38; guess the answer together. Happy July!&#10;A new word daily, how do you like to play &#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. July 1st 2022&#10;&#10;Follow me on Twitter: https://twitter.com/emptyapartment3&#10;Join our Discord: https://discord.gg/9Py98RU&#10;Support/Buy me a &#34;coffee&#34;: https://ko-fi.com/emptyapartment&#10;&#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&#10;&#10;business contact: emptyapartmentgaming [at] gmail&#10;&#10;&#10;0:00 Intro&#10;0:20 First Guess&#10;1:30 Wordle?&#10;&#10;#wordle"
+    description "What is today's Wordle for 07/01/2022 number 377 ? Join me and let's find out &amp;#38; guess the answer together. Happy July!&amp;#10;A new word daily, how do you like to play &amp;#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. July 1st 2022&amp;#10;&amp;#10;Follow me on Twitter: https://twitter.com/emptyapartment3&amp;#10;Join our Discord: https://discord.gg/9Py98RU&amp;#10;Support/Buy me a &amp;#34;coffee&amp;#34;: https://ko-fi.com/emptyapartment&amp;#10;&amp;#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;business contact: emptyapartmentgaming [at] gmail&amp;#10;&amp;#10;&amp;#10;0:00 Intro&amp;#10;0:20 First Guess&amp;#10;1:30 Wordle?&amp;#10;&amp;#10;#wordle"
     channeltitle "Empty Apartment"
     channelid "UCEb4tjgeTW47bD66Xryzx0Q"
     favcount 0
@@ -1352,6 +2430,28 @@ graph
     ppinflammatory 0.07119443
     sentiment 0
     cluster 1
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 1
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 1
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 1
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "L"
   ]
   node
   [
@@ -1360,7 +2460,7 @@ graph
     step 0
     date "2022-05-17T12:31:13Z"
     title "Wordle 332 for May 17th - Why Couldnt I Think of This Word?"
-    description "What is today's Wordle for 05/17/2022 number 332 ? Join me and let's find out &#38; guess the answer together. Get a little tripped up but we get there.&#10;A new word daily, how do you like to play &#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. May 17th 2022&#10;&#10;Follow me on Twitter: https://twitter.com/emptyapartment3&#10;Join our Discord: https://discord.gg/9Py98RU&#10;Buy me a coffee: https://ko-fi.com/emptyapartment&#10;&#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&#10;&#10;business contact: emptyapartmentgaming gmail&#10;&#10;&#10;0:00 Intro&#10;0:16 First Guess&#10;1:04 A Penny&#10;2:08 Wordle?&#10;&#10;#wordle"
+    description "What is today's Wordle for 05/17/2022 number 332 ? Join me and let's find out &amp;#38; guess the answer together. Get a little tripped up but we get there.&amp;#10;A new word daily, how do you like to play &amp;#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. May 17th 2022&amp;#10;&amp;#10;Follow me on Twitter: https://twitter.com/emptyapartment3&amp;#10;Join our Discord: https://discord.gg/9Py98RU&amp;#10;Buy me a coffee: https://ko-fi.com/emptyapartment&amp;#10;&amp;#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;business contact: emptyapartmentgaming gmail&amp;#10;&amp;#10;&amp;#10;0:00 Intro&amp;#10;0:16 First Guess&amp;#10;1:04 A Penny&amp;#10;2:08 Wordle?&amp;#10;&amp;#10;#wordle"
     channeltitle "Empty Apartment"
     channelid "UCEb4tjgeTW47bD66Xryzx0Q"
     favcount 0
@@ -1378,7 +2478,29 @@ graph
     ppprofanity 0.07459583
     ppinflammatory 0.03138782
     sentiment 0
-    cluster 6
+    cluster 7
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -1387,7 +2509,7 @@ graph
     step 0
     date "2022-04-14T04:00:04Z"
     title "Doug plays todays Wordle #299 for 04/14/2022"
-    description "It's April 14, 2022 and Doug is playing today's daily Wordle! &#10;&#10;&#10;Please, if you enjoyed this video, like and subscribe to my channel!&#10;&#10;I can also be found on Twitch!&#10;https://www.twitch.tv/dougmansland&#10;&#10;I'm also on Twitter!&#10;https://twitter.com/dougmansland&#10;&#10;If you enjoy Discord, I have one of those too!&#10;https://discord.gg/MVXvhvg2Zm&#10;&#10;For some reason, I also make Tik Tok videos!&#10;https://www.tiktok.com/@dougmansland?lang=en"
+    description "It's April 14, 2022 and Doug is playing today's daily Wordle! &amp;#10;&amp;#10;&amp;#10;Please, if you enjoyed this video, like and subscribe to my channel!&amp;#10;&amp;#10;I can also be found on Twitch!&amp;#10;https://www.twitch.tv/dougmansland&amp;#10;&amp;#10;I'm also on Twitter!&amp;#10;https://twitter.com/dougmansland&amp;#10;&amp;#10;If you enjoy Discord, I have one of those too!&amp;#10;https://discord.gg/MVXvhvg2Zm&amp;#10;&amp;#10;For some reason, I also make Tik Tok videos!&amp;#10;https://www.tiktok.com/@dougmansland?lang=en"
     channeltitle "DougMansLand"
     channelid "UCkiAm7y8MQCbFwpB-52QRtg"
     favcount 0
@@ -1405,7 +2527,29 @@ graph
     ppprofanity 0.050138548
     ppinflammatory 0.04988173
     sentiment 0.25
-    cluster 8
+    cluster 5
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -1414,7 +2558,7 @@ graph
     step 0
     date "2022-05-05T12:19:09Z"
     title "Wordle 320 for May 5th - Did You Get Trapped?"
-    description "What is today's Wordle for 05/05/2022 number 320 ? Join me and let's find out &#38; guess the answer together. Close call!&#10;A new word daily, how do you like to play &#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. May 5th 2022&#10;&#10;Follow me on Twitter: https://twitter.com/emptyapartment3&#10;Join our Discord: https://discord.gg/9Py98RU&#10;Buy me a coffee: https://streamelements.com/emptyapartment/tip&#10;&#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&#10;&#10;business contact: emptyapartmentgaming gmail&#10;&#10;&#10;0:00 Intro&#10;0:22 First Guess&#10;1:10 It Begins&#10;2:18 Wordle?&#10;&#10;#wordle"
+    description "What is today's Wordle for 05/05/2022 number 320 ? Join me and let's find out &amp;#38; guess the answer together. Close call!&amp;#10;A new word daily, how do you like to play &amp;#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. May 5th 2022&amp;#10;&amp;#10;Follow me on Twitter: https://twitter.com/emptyapartment3&amp;#10;Join our Discord: https://discord.gg/9Py98RU&amp;#10;Buy me a coffee: https://streamelements.com/emptyapartment/tip&amp;#10;&amp;#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;business contact: emptyapartmentgaming gmail&amp;#10;&amp;#10;&amp;#10;0:00 Intro&amp;#10;0:22 First Guess&amp;#10;1:10 It Begins&amp;#10;2:18 Wordle?&amp;#10;&amp;#10;#wordle"
     channeltitle "Empty Apartment"
     channelid "UCEb4tjgeTW47bD66Xryzx0Q"
     favcount 0
@@ -1432,7 +2576,29 @@ graph
     ppprofanity 0.024772665
     ppinflammatory 0.18664433
     sentiment -0.5267
-    cluster 1
+    cluster 7
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -1441,7 +2607,7 @@ graph
     step 0
     date "2022-05-24T22:30:02Z"
     title "Will this suggestion go splat?! #Wordle"
-    description "(Spoilers 339) For fun, I start with the previous two day's words and use a viewer suggestion for my 3rd!&#10;&#10;Play Wordle here: https://www.nytimes.com/games/wordle/index.html&#10;&#10;======= LIVE STREAMS =======&#10;I stream word games right here on YouTube every night (except Friday) at 7pm PDT! Subscribe and ring the bell and/or join my Discord to get notifications for when I go live!&#10;&#10;======= MEMBERS =======&#10;Join my channel at the Video Enthusiast tier or higher to see the full, uncut videos with my entire thought process!&#10;https://www.youtube.com/rangsk/join&#10;&#10;===== MERCH ===== &#10;You can also support me by buying my super cute merch! All items feature an artistic rendering of my dog Rocky with no other branding! They're super cute!&#10;&#10;Check out my store here: https://rangsks-merch.creator-spring.com/&#10;&#10;======= DISCORD =======&#10;Join my Discord server to hang out and talk about Wordle, Wordle-like games, and other kinds of puzzles like Sudoku.&#10;https://discord.gg/AEhpTG4z45&#10;&#10;#wordle #puzzle #word #game"
+    description "(Spoilers 339) For fun, I start with the previous two day's words and use a viewer suggestion for my 3rd!&amp;#10;&amp;#10;Play Wordle here: https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;======= LIVE STREAMS =======&amp;#10;I stream word games right here on YouTube every night (except Friday) at 7pm PDT! Subscribe and ring the bell and/or join my Discord to get notifications for when I go live!&amp;#10;&amp;#10;======= MEMBERS =======&amp;#10;Join my channel at the Video Enthusiast tier or higher to see the full, uncut videos with my entire thought process!&amp;#10;https://www.youtube.com/rangsk/join&amp;#10;&amp;#10;===== MERCH ===== &amp;#10;You can also support me by buying my super cute merch! All items feature an artistic rendering of my dog Rocky with no other branding! They're super cute!&amp;#10;&amp;#10;Check out my store here: https://rangsks-merch.creator-spring.com/&amp;#10;&amp;#10;======= DISCORD =======&amp;#10;Join my Discord server to hang out and talk about Wordle, Wordle-like games, and other kinds of puzzles like Sudoku.&amp;#10;https://discord.gg/AEhpTG4z45&amp;#10;&amp;#10;#wordle #puzzle #word #game"
     channeltitle "Rangsk"
     channelid "UC1RUqXOT_iaH4b7iXKRWhLw"
     favcount 0
@@ -1460,6 +2626,28 @@ graph
     ppinflammatory 0.26343626
     sentiment 0
     cluster 2
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -1468,7 +2656,7 @@ graph
     step 0
     date "2022-02-27T18:03:27Z"
     title "Wordle 253 for February 27th - What is Todays Wordle? 02/27/2022"
-    description "What is today's Wordle? Let's find out &#38; guess the answer together. Join me for today's 02/27/2022 Wordle number 253 . Sorry for the late upload!&#10;Everyone's new favorite game. A new word daily, how do you like to play &#38; what's your strategy? Thought I'd try uploading my guesses, hints, and answers, plus cool to archive it. February 27th 2022&#10;&#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&#10;&#10;0:00 Intro&#10;0:28 First Guess&#10;1:09 Sorry!&#10;2:40 Wordle!&#10;&#10;business contact: emptyapartmentgaming gmail&#10;&#10;#wordle #dailywordleclub"
+    description "What is today's Wordle? Let's find out &amp;#38; guess the answer together. Join me for today's 02/27/2022 Wordle number 253 . Sorry for the late upload!&amp;#10;Everyone's new favorite game. A new word daily, how do you like to play &amp;#38; what's your strategy? Thought I'd try uploading my guesses, hints, and answers, plus cool to archive it. February 27th 2022&amp;#10;&amp;#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;0:00 Intro&amp;#10;0:28 First Guess&amp;#10;1:09 Sorry!&amp;#10;2:40 Wordle!&amp;#10;&amp;#10;business contact: emptyapartmentgaming gmail&amp;#10;&amp;#10;#wordle #dailywordleclub"
     channeltitle "Empty Apartment"
     channelid "UCEb4tjgeTW47bD66Xryzx0Q"
     favcount 0
@@ -1486,7 +2674,29 @@ graph
     ppprofanity 0.09285347
     ppinflammatory 0.07566681
     sentiment 0
-    cluster 3
+    cluster 2
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -1495,7 +2705,7 @@ graph
     step 0
     date "2022-04-26T04:00:00Z"
     title "Doug plays todays Wordle #311 for 04/26/2022"
-    description "It's April 26, 2022 and Doug is playing today's daily Wordle! &#10;&#10;&#10;Please, if you enjoyed this video, like and subscribe to my channel!&#10;&#10;I can also be found on Twitch!&#10;https://www.twitch.tv/dougmansland&#10;&#10;I'm also on Twitter!&#10;https://twitter.com/dougmansland&#10;&#10;If you enjoy Discord, I have one of those too!&#10;https://discord.gg/MVXvhvg2Zm&#10;&#10;For some reason, I also make Tik Tok videos!&#10;https://www.tiktok.com/@dougmansland?lang=en"
+    description "It's April 26, 2022 and Doug is playing today's daily Wordle! &amp;#10;&amp;#10;&amp;#10;Please, if you enjoyed this video, like and subscribe to my channel!&amp;#10;&amp;#10;I can also be found on Twitch!&amp;#10;https://www.twitch.tv/dougmansland&amp;#10;&amp;#10;I'm also on Twitter!&amp;#10;https://twitter.com/dougmansland&amp;#10;&amp;#10;If you enjoy Discord, I have one of those too!&amp;#10;https://discord.gg/MVXvhvg2Zm&amp;#10;&amp;#10;For some reason, I also make Tik Tok videos!&amp;#10;https://www.tiktok.com/@dougmansland?lang=en"
     channeltitle "DougMansLand"
     channelid "UCkiAm7y8MQCbFwpB-52QRtg"
     favcount 0
@@ -1513,7 +2723,29 @@ graph
     ppprofanity 0.06203488
     ppinflammatory 0.049881727
     sentiment 0.25
-    cluster 8
+    cluster 5
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -1522,7 +2754,7 @@ graph
     step 0
     date "2022-07-10T21:24:51Z"
     title "Wordle 386 for July 10th"
-    description "What is today's Wordle for 07/10/2022 number 386 ? Join me and let's find out &#38; guess the answer together. Daily video streak lives on!&#10;A new word daily, how do you like to play &#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. July 10th 2022&#10;&#10;Follow me on Twitter: https://twitter.com/emptyapartment3&#10;Join our Discord: https://discord.gg/9Py98RU&#10;Support/Buy me a &#34;coffee&#34;: https://ko-fi.com/emptyapartment&#10;&#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&#10;&#10;business contact: emptyapartmentgaming [at] gmail&#10;&#10;&#10;#wordle"
+    description "What is today's Wordle for 07/10/2022 number 386 ? Join me and let's find out &amp;#38; guess the answer together. Daily video streak lives on!&amp;#10;A new word daily, how do you like to play &amp;#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. July 10th 2022&amp;#10;&amp;#10;Follow me on Twitter: https://twitter.com/emptyapartment3&amp;#10;Join our Discord: https://discord.gg/9Py98RU&amp;#10;Support/Buy me a &amp;#34;coffee&amp;#34;: https://ko-fi.com/emptyapartment&amp;#10;&amp;#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;business contact: emptyapartmentgaming [at] gmail&amp;#10;&amp;#10;&amp;#10;#wordle"
     channeltitle "Empty Apartment"
     channelid "UCEb4tjgeTW47bD66Xryzx0Q"
     favcount 0
@@ -1541,6 +2773,28 @@ graph
     ppinflammatory 0.09131996
     sentiment 0
     cluster 1
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -1549,7 +2803,7 @@ graph
     step 0
     date "2022-02-06T06:46:11Z"
     title "Wordle Feb 6th, 2022 - Can you guess the word?"
-    description "Hi everyone! Today Sean plays Wordle, a fun word logic puzzle.&#10;Can you get the word in fewer guesses? Give it a shot at the link below:&#10;https://www.powerlanguage.co.uk/wordle/"
+    description "Hi everyone! Today Sean plays Wordle, a fun word logic puzzle.&amp;#10;Can you get the word in fewer guesses? Give it a shot at the link below:&amp;#10;https://www.powerlanguage.co.uk/wordle/"
     channeltitle "Sean Plays"
     channelid "UCRlHYIOSfBDAVkz46rnglow"
     favcount 0
@@ -1567,7 +2821,29 @@ graph
     ppprofanity 0.023294007
     ppinflammatory 0.13071693
     sentiment 0
-    cluster 3
+    cluster 8
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -1576,7 +2852,7 @@ graph
     step 0
     date "2022-06-28T22:30:09Z"
     title "What not to do in Wordle..."
-    description "(Spoilers 374) For fun, I start with the previous two day's words and use a viewer suggestion for my 3rd!&#10;&#10;Play Wordle here: https://www.nytimes.com/games/wordle/index.html&#10;&#10;======= LIVE STREAMS =======&#10;I stream word games right here on YouTube every night (except Friday) at 7pm PDT! Subscribe and ring the bell and/or join my Discord to get notifications for when I go live!&#10;&#10;======= MEMBERS =======&#10;Join my channel at the Video Enthusiast tier or higher to see the full, uncut videos with my entire thought process!&#10;https://www.youtube.com/rangsk/join&#10;&#10;===== MERCH ===== &#10;You can also support me by buying my super cute merch! All items feature an artistic rendering of my dog Rocky with no other branding! They're super cute!&#10;&#10;Check out my store here: https://rangsks-merch.creator-spring.com/&#10;&#10;======= DISCORD =======&#10;Join my Discord server to hang out and talk about Wordle, Wordle-like games, and other kinds of puzzles like Sudoku.&#10;https://discord.gg/AEhpTG4z45&#10;&#10;#wordle #puzzle #word #game"
+    description "(Spoilers 374) For fun, I start with the previous two day's words and use a viewer suggestion for my 3rd!&amp;#10;&amp;#10;Play Wordle here: https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;======= LIVE STREAMS =======&amp;#10;I stream word games right here on YouTube every night (except Friday) at 7pm PDT! Subscribe and ring the bell and/or join my Discord to get notifications for when I go live!&amp;#10;&amp;#10;======= MEMBERS =======&amp;#10;Join my channel at the Video Enthusiast tier or higher to see the full, uncut videos with my entire thought process!&amp;#10;https://www.youtube.com/rangsk/join&amp;#10;&amp;#10;===== MERCH ===== &amp;#10;You can also support me by buying my super cute merch! All items feature an artistic rendering of my dog Rocky with no other branding! They're super cute!&amp;#10;&amp;#10;Check out my store here: https://rangsks-merch.creator-spring.com/&amp;#10;&amp;#10;======= DISCORD =======&amp;#10;Join my Discord server to hang out and talk about Wordle, Wordle-like games, and other kinds of puzzles like Sudoku.&amp;#10;https://discord.gg/AEhpTG4z45&amp;#10;&amp;#10;#wordle #puzzle #word #game"
     channeltitle "Rangsk"
     channelid "UC1RUqXOT_iaH4b7iXKRWhLw"
     favcount 0
@@ -1594,7 +2870,29 @@ graph
     ppprofanity 0.037957177
     ppinflammatory 0.16091543
     sentiment 0
-    cluster 6
+    cluster 3
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -1603,7 +2901,7 @@ graph
     step 0
     date "2022-07-08T22:33:03Z"
     title "Wordle II: SNORTs redemption"
-    description "(Spoilers 384) For fun, I start with the previous two day's words and use a viewer suggestion for my 3rd!&#10;&#10;Play Wordle here: https://www.nytimes.com/games/wordle/index.html&#10;&#10;======= LIVE STREAMS =======&#10;I stream word games right here on YouTube every night (except Friday) at 7pm PDT! Subscribe and ring the bell and/or join my Discord to get notifications for when I go live!&#10;&#10;======= MEMBERS =======&#10;Join my channel at the Video Enthusiast tier or higher to see the full, uncut videos with my entire thought process!&#10;https://www.youtube.com/rangsk/join&#10;&#10;===== MERCH ===== &#10;You can also support me by buying my super cute merch! All items feature an artistic rendering of my dog Rocky with no other branding! They're super cute!&#10;&#10;Check out my store here: https://rangsks-merch.creator-spring.com/&#10;&#10;======= DISCORD =======&#10;Join my Discord server to hang out and talk about Wordle, Wordle-like games, and other kinds of puzzles like Sudoku.&#10;https://discord.gg/AEhpTG4z45&#10;&#10;#wordle #puzzle #word #game"
+    description "(Spoilers 384) For fun, I start with the previous two day's words and use a viewer suggestion for my 3rd!&amp;#10;&amp;#10;Play Wordle here: https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;======= LIVE STREAMS =======&amp;#10;I stream word games right here on YouTube every night (except Friday) at 7pm PDT! Subscribe and ring the bell and/or join my Discord to get notifications for when I go live!&amp;#10;&amp;#10;======= MEMBERS =======&amp;#10;Join my channel at the Video Enthusiast tier or higher to see the full, uncut videos with my entire thought process!&amp;#10;https://www.youtube.com/rangsk/join&amp;#10;&amp;#10;===== MERCH ===== &amp;#10;You can also support me by buying my super cute merch! All items feature an artistic rendering of my dog Rocky with no other branding! They're super cute!&amp;#10;&amp;#10;Check out my store here: https://rangsks-merch.creator-spring.com/&amp;#10;&amp;#10;======= DISCORD =======&amp;#10;Join my Discord server to hang out and talk about Wordle, Wordle-like games, and other kinds of puzzles like Sudoku.&amp;#10;https://discord.gg/AEhpTG4z45&amp;#10;&amp;#10;#wordle #puzzle #word #game"
     channeltitle "Rangsk"
     channelid "UC1RUqXOT_iaH4b7iXKRWhLw"
     favcount 0
@@ -1621,7 +2919,29 @@ graph
     ppprofanity 0.04523499
     ppinflammatory 0.02742089
     sentiment 0
-    cluster 3
+    cluster 9
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -1630,7 +2950,7 @@ graph
     step 0
     date "2022-07-06T20:30:02Z"
     title "Jomboy Media competes in WARdle (MLB Wordle)"
-    description "Jomboy Media office members compete in WARdle, the baseball version of Wordle while at Arizona Spring Training!&#10;&#10;Link to play different daily WARdle: https://mlbpickle.com/"
+    description "Jomboy Media office members compete in WARdle, the baseball version of Wordle while at Arizona Spring Training!&amp;#10;&amp;#10;Link to play different daily WARdle: https://mlbpickle.com/"
     channeltitle "JM Gaming (Jomboy Media)"
     channelid "UCk71IrRQyptFQBL_eEeS1uw"
     favcount 0
@@ -1649,6 +2969,28 @@ graph
     ppinflammatory 0.14778756
     sentiment 0
     cluster 4
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -1657,7 +2999,7 @@ graph
     step 0
     date "2022-06-02T07:27:48Z"
     title "Wordle 348 for June 2nd - Whats Wordle?"
-    description "What is today's Wordle for 06/02/2022 number 348 ? Join me and let's find out &#38; guess the answer together. Took me a while but we got there!&#10;A new word daily, how do you like to play &#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. June 2nd 2022&#10;&#10;Follow me on Twitter: https://twitter.com/emptyapartment3&#10;Join our Discord: https://discord.gg/9Py98RU&#10;Support/Buy me a &#34;coffee&#34;: https://ko-fi.com/emptyapartment&#10;&#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&#10;&#10;business contact: emptyapartmentgaming [at] gmail&#10;&#10;&#10;0:00 Intro&#10;0:19 First Guess&#10;1:10 Spoonful&#10;2:00 Wordle?&#10;&#10;#wordle"
+    description "What is today's Wordle for 06/02/2022 number 348 ? Join me and let's find out &amp;#38; guess the answer together. Took me a while but we got there!&amp;#10;A new word daily, how do you like to play &amp;#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. June 2nd 2022&amp;#10;&amp;#10;Follow me on Twitter: https://twitter.com/emptyapartment3&amp;#10;Join our Discord: https://discord.gg/9Py98RU&amp;#10;Support/Buy me a &amp;#34;coffee&amp;#34;: https://ko-fi.com/emptyapartment&amp;#10;&amp;#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;business contact: emptyapartmentgaming [at] gmail&amp;#10;&amp;#10;&amp;#10;0:00 Intro&amp;#10;0:19 First Guess&amp;#10;1:10 Spoonful&amp;#10;2:00 Wordle?&amp;#10;&amp;#10;#wordle"
     channeltitle "Empty Apartment"
     channelid "UCEb4tjgeTW47bD66Xryzx0Q"
     favcount 0
@@ -1675,7 +3017,29 @@ graph
     ppprofanity 0.07422837
     ppinflammatory 0.055998772
     sentiment 0
-    cluster 2
+    cluster 3
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -1684,7 +3048,7 @@ graph
     step 0
     date "2022-01-26T06:17:15Z"
     title "Wordle Jan 26th, 2022 - Can you guess the word?"
-    description "Hi everyone! Today Sean plays Wordle, a fun word logic puzzle.&#10;Can you get the word in fewer guesses? Give it a shot at the link below:&#10;https://www.powerlanguage.co.uk/wordle/"
+    description "Hi everyone! Today Sean plays Wordle, a fun word logic puzzle.&amp;#10;Can you get the word in fewer guesses? Give it a shot at the link below:&amp;#10;https://www.powerlanguage.co.uk/wordle/"
     channeltitle "Sean Plays"
     channelid "UCRlHYIOSfBDAVkz46rnglow"
     favcount 0
@@ -1702,7 +3066,29 @@ graph
     ppprofanity 0.019094272
     ppinflammatory 0.1850161
     sentiment 0
-    cluster 3
+    cluster 8
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -1711,7 +3097,7 @@ graph
     step 0
     date "2022-07-06T04:00:14Z"
     title "Doug plays todays Wordle #382 for 07/06/2022"
-    description "It's July 6, 2022 and Doug is playing today's daily Wordle! #wordle&#10;&#10;&#10;Please, if you enjoyed this video, like and subscribe to my channel!&#10;&#10;I can also be found on Twitch!&#10;https://www.twitch.tv/dougmansland&#10;&#10;I'm also on Twitter!&#10;https://twitter.com/dougmansland&#10;&#10;If you enjoy Discord, I have one of those too!&#10;https://discord.gg/MVXvhvg2Zm&#10;&#10;For some reason, I also make Tik Tok videos!&#10;https://www.tiktok.com/@dougmansland?lang=en"
+    description "It's July 6, 2022 and Doug is playing today's daily Wordle! #wordle&amp;#10;&amp;#10;&amp;#10;Please, if you enjoyed this video, like and subscribe to my channel!&amp;#10;&amp;#10;I can also be found on Twitch!&amp;#10;https://www.twitch.tv/dougmansland&amp;#10;&amp;#10;I'm also on Twitter!&amp;#10;https://twitter.com/dougmansland&amp;#10;&amp;#10;If you enjoy Discord, I have one of those too!&amp;#10;https://discord.gg/MVXvhvg2Zm&amp;#10;&amp;#10;For some reason, I also make Tik Tok videos!&amp;#10;https://www.tiktok.com/@dougmansland?lang=en"
     channeltitle "DougMansLand"
     channelid "UCkiAm7y8MQCbFwpB-52QRtg"
     favcount 0
@@ -1729,7 +3115,29 @@ graph
     ppprofanity 0.06303074
     ppinflammatory 0.049881727
     sentiment 0.25
-    cluster 7
+    cluster 9
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -1738,7 +3146,7 @@ graph
     step 0
     date "2022-07-05T22:40:52Z"
     title "Donuts and Wordle - a great combination!"
-    description "(Spoilers 381) For fun, I start with the previous two day's words and use a viewer suggestion for my 3rd!&#10;&#10;Play Wordle here: https://www.nytimes.com/games/wordle/index.html&#10;&#10;======= LIVE STREAMS =======&#10;I stream word games right here on YouTube every night (except Friday) at 7pm PDT! Subscribe and ring the bell and/or join my Discord to get notifications for when I go live!&#10;&#10;======= MEMBERS =======&#10;Join my channel at the Video Enthusiast tier or higher to see the full, uncut videos with my entire thought process!&#10;https://www.youtube.com/rangsk/join&#10;&#10;===== MERCH ===== &#10;You can also support me by buying my super cute merch! All items feature an artistic rendering of my dog Rocky with no other branding! They're super cute!&#10;&#10;Check out my store here: https://rangsks-merch.creator-spring.com/&#10;&#10;======= DISCORD =======&#10;Join my Discord server to hang out and talk about Wordle, Wordle-like games, and other kinds of puzzles like Sudoku.&#10;https://discord.gg/AEhpTG4z45&#10;&#10;#wordle #puzzle #word #game"
+    description "(Spoilers 381) For fun, I start with the previous two day's words and use a viewer suggestion for my 3rd!&amp;#10;&amp;#10;Play Wordle here: https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;======= LIVE STREAMS =======&amp;#10;I stream word games right here on YouTube every night (except Friday) at 7pm PDT! Subscribe and ring the bell and/or join my Discord to get notifications for when I go live!&amp;#10;&amp;#10;======= MEMBERS =======&amp;#10;Join my channel at the Video Enthusiast tier or higher to see the full, uncut videos with my entire thought process!&amp;#10;https://www.youtube.com/rangsk/join&amp;#10;&amp;#10;===== MERCH ===== &amp;#10;You can also support me by buying my super cute merch! All items feature an artistic rendering of my dog Rocky with no other branding! They're super cute!&amp;#10;&amp;#10;Check out my store here: https://rangsks-merch.creator-spring.com/&amp;#10;&amp;#10;======= DISCORD =======&amp;#10;Join my Discord server to hang out and talk about Wordle, Wordle-like games, and other kinds of puzzles like Sudoku.&amp;#10;https://discord.gg/AEhpTG4z45&amp;#10;&amp;#10;#wordle #puzzle #word #game"
     channeltitle "Rangsk"
     channelid "UC1RUqXOT_iaH4b7iXKRWhLw"
     favcount 0
@@ -1756,7 +3164,29 @@ graph
     ppprofanity 0.03677717
     ppinflammatory 0.02859689
     sentiment 0.6249
-    cluster 7
+    cluster 9
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -1765,7 +3195,7 @@ graph
     step 0
     date "2022-05-19T04:00:00Z"
     title "Doug plays todays Wordle #334 for 05/19/2022"
-    description "It's May 19, 2022 and Doug is playing today's daily Wordle! &#10;&#10;&#10;Please, if you enjoyed this video, like and subscribe to my channel!&#10;&#10;I can also be found on Twitch!&#10;https://www.twitch.tv/dougmansland&#10;&#10;I'm also on Twitter!&#10;https://twitter.com/dougmansland&#10;&#10;If you enjoy Discord, I have one of those too!&#10;https://discord.gg/MVXvhvg2Zm&#10;&#10;For some reason, I also make Tik Tok videos!&#10;https://www.tiktok.com/@dougmansland?lang=en"
+    description "It's May 19, 2022 and Doug is playing today's daily Wordle! &amp;#10;&amp;#10;&amp;#10;Please, if you enjoyed this video, like and subscribe to my channel!&amp;#10;&amp;#10;I can also be found on Twitch!&amp;#10;https://www.twitch.tv/dougmansland&amp;#10;&amp;#10;I'm also on Twitter!&amp;#10;https://twitter.com/dougmansland&amp;#10;&amp;#10;If you enjoy Discord, I have one of those too!&amp;#10;https://discord.gg/MVXvhvg2Zm&amp;#10;&amp;#10;For some reason, I also make Tik Tok videos!&amp;#10;https://www.tiktok.com/@dougmansland?lang=en"
     channeltitle "DougMansLand"
     channelid "UCkiAm7y8MQCbFwpB-52QRtg"
     favcount 0
@@ -1783,7 +3213,29 @@ graph
     ppprofanity 0.08950199
     ppinflammatory 0.04988173
     sentiment 0.25
-    cluster 6
+    cluster 7
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -1792,7 +3244,7 @@ graph
     step 0
     date "2022-04-29T07:32:10Z"
     title "Wordle 314 for April 29th - What is Todays Wordle? 04/29/2022"
-    description "What is today's Wordle for 04/29/2022 number 314 ? Join me and let's find out &#38; guess the answer together. Should of had it in 3 guesses haha.&#10;A new word daily, how do you like to play &#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. April 29th 2022&#10;&#10;Follow me on Twitter: https://twitter.com/emptyapartment3&#10;Join our Discord: https://discord.gg/9Py98RU&#10;Buy me a coffee: https://streamelements.com/emptyapartment/tip&#10;&#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&#10;&#10;business contact: emptyapartmentgaming gmail&#10;&#10;&#10;0:00 Intro&#10;0:20 First Guess&#10;1:18 Wordle&#10;&#10;#wordle #dailywordleclub"
+    description "What is today's Wordle for 04/29/2022 number 314 ? Join me and let's find out &amp;#38; guess the answer together. Should of had it in 3 guesses haha.&amp;#10;A new word daily, how do you like to play &amp;#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. April 29th 2022&amp;#10;&amp;#10;Follow me on Twitter: https://twitter.com/emptyapartment3&amp;#10;Join our Discord: https://discord.gg/9Py98RU&amp;#10;Buy me a coffee: https://streamelements.com/emptyapartment/tip&amp;#10;&amp;#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;business contact: emptyapartmentgaming gmail&amp;#10;&amp;#10;&amp;#10;0:00 Intro&amp;#10;0:20 First Guess&amp;#10;1:18 Wordle&amp;#10;&amp;#10;#wordle #dailywordleclub"
     channeltitle "Empty Apartment"
     channelid "UCEb4tjgeTW47bD66Xryzx0Q"
     favcount 0
@@ -1811,6 +3263,28 @@ graph
     ppinflammatory 0.07276229
     sentiment 0
     cluster 1
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -1838,6 +3312,28 @@ graph
     ppinflammatory 0.02731225
     sentiment 0
     cluster 4
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -1846,7 +3342,7 @@ graph
     step 0
     date "2022-05-18T16:57:46Z"
     title "Whats the Hardest Answer in Wordle?"
-    description "If you're an avid Wordle player, you know that some words tend to make harder puzzles than others. But which one makes the hardest puzzle of them all? That's what I wanted to find out.&#10;&#10;Full Lists: https://pst.klgrth.io/paste/xzxe5&#10;Starting sets used: https://pst.klgrth.io/paste/wta9n&#10;&#10;Wordle Solver: https://jonathanolson.net/wordle-solver/&#10;3Blue1Brown's video: https://youtu.be/v68zYyaEmEA&#10;Twitter's Wordle Analysis: https://blog.twitter.com/engineering/en_us/topics/insights/2022/understanding-twitter-conversations--a-wordle-case-study&#10;&#10;&#10;Wordle Speedrun Discord: https://discord.gg/qnrCZu3Tux&#10;Leaderboard: https://docs.google.com/spreadsheets/u/0/d/1fhU2xFFS3XyKpX_HvlUTC8NQ8rSL9G0FEt6r8Xim_cQ/&#10;&#10;BGM (In order of appearance):&#10;Termite Capitol by Tristan Alric: https://www.youtube.com/watch?v=oILKKd80Hyg&#10;Work That Honey by Tristan Alric: https://www.youtube.com/watch?v=8D8Xj_0fNew&#10;Outskirts by Tristan Alric: https://www.youtube.com/watch?v=D5p4nYSkcgM&#10;Lands Untamed by Tristan Alric: https://www.youtube.com/watch?v=h3jhTub-HRo&#10;Reckless For Glory! by Tristan Alric: https://www.youtube.com/watch?v=f2xvnIDMJLE&#10;Mothiva's Grand Stand! by Tristan Alric: https://www.youtube.com/watch?v=G9mY227DoJY&#10;&#10;Hey, what are you doing all the way down here? Go watch the video, silly!"
+    description "If you're an avid Wordle player, you know that some words tend to make harder puzzles than others. But which one makes the hardest puzzle of them all? That's what I wanted to find out.&amp;#10;&amp;#10;Full Lists: https://pst.klgrth.io/paste/xzxe5&amp;#10;Starting sets used: https://pst.klgrth.io/paste/wta9n&amp;#10;&amp;#10;Wordle Solver: https://jonathanolson.net/wordle-solver/&amp;#10;3Blue1Brown's video: https://youtu.be/v68zYyaEmEA&amp;#10;Twitter's Wordle Analysis: https://blog.twitter.com/engineering/en_us/topics/insights/2022/understanding-twitter-conversations--a-wordle-case-study&amp;#10;&amp;#10;&amp;#10;Wordle Speedrun Discord: https://discord.gg/qnrCZu3Tux&amp;#10;Leaderboard: https://docs.google.com/spreadsheets/u/0/d/1fhU2xFFS3XyKpX_HvlUTC8NQ8rSL9G0FEt6r8Xim_cQ/&amp;#10;&amp;#10;BGM (In order of appearance):&amp;#10;Termite Capitol by Tristan Alric: https://www.youtube.com/watch?v=oILKKd80Hyg&amp;#10;Work That Honey by Tristan Alric: https://www.youtube.com/watch?v=8D8Xj_0fNew&amp;#10;Outskirts by Tristan Alric: https://www.youtube.com/watch?v=D5p4nYSkcgM&amp;#10;Lands Untamed by Tristan Alric: https://www.youtube.com/watch?v=h3jhTub-HRo&amp;#10;Reckless For Glory! by Tristan Alric: https://www.youtube.com/watch?v=f2xvnIDMJLE&amp;#10;Mothiva's Grand Stand! by Tristan Alric: https://www.youtube.com/watch?v=G9mY227DoJY&amp;#10;&amp;#10;Hey, what are you doing all the way down here? Go watch the video, silly!"
     channeltitle "Pokecheese"
     channelid "UCpMAvG3W-clxPhKFHG4VR3w"
     favcount 0
@@ -1864,7 +3360,29 @@ graph
     ppprofanity 0.079633914
     ppinflammatory 0.087226875
     sentiment 0
-    cluster 5
+    cluster 2
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -1891,7 +3409,29 @@ graph
     ppprofanity 0.05482106
     ppinflammatory 0.107804455
     sentiment 0
-    cluster 7
+    cluster 6
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -1900,7 +3440,7 @@ graph
     step 0
     date "2022-04-27T04:00:12Z"
     title "100th Episode Celebration! Wordle #312 for 04/27/2022"
-    description "It's April 27, 2022 and Doug is playing today's daily Wordle! &#10;&#10;&#10;Please, if you enjoyed this video, like and subscribe to my channel!&#10;&#10;I can also be found on Twitch!&#10;https://www.twitch.tv/dougmansland&#10;&#10;I'm also on Twitter!&#10;https://twitter.com/dougmansland&#10;&#10;If you enjoy Discord, I have one of those too!&#10;https://discord.gg/MVXvhvg2Zm&#10;&#10;For some reason, I also make Tik Tok videos!&#10;https://www.tiktok.com/@dougmansland?lang=en"
+    description "It's April 27, 2022 and Doug is playing today's daily Wordle! &amp;#10;&amp;#10;&amp;#10;Please, if you enjoyed this video, like and subscribe to my channel!&amp;#10;&amp;#10;I can also be found on Twitch!&amp;#10;https://www.twitch.tv/dougmansland&amp;#10;&amp;#10;I'm also on Twitter!&amp;#10;https://twitter.com/dougmansland&amp;#10;&amp;#10;If you enjoy Discord, I have one of those too!&amp;#10;https://discord.gg/MVXvhvg2Zm&amp;#10;&amp;#10;For some reason, I also make Tik Tok videos!&amp;#10;https://www.tiktok.com/@dougmansland?lang=en"
     channeltitle "DougMansLand"
     channelid "UCkiAm7y8MQCbFwpB-52QRtg"
     favcount 0
@@ -1918,7 +3458,29 @@ graph
     ppprofanity 0.07839197
     ppinflammatory 0.07759782
     sentiment 0
-    cluster 5
+    cluster 2
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -1927,7 +3489,7 @@ graph
     step 0
     date "2022-05-14T22:33:15Z"
     title "Im not winning any races today... #Wordle"
-    description "(Spoilers 329) For fun, I start with the previous two day's words and use a viewer suggestion for my 3rd!&#10;&#10;Play Wordle here: https://www.nytimes.com/games/wordle/index.html&#10;&#10;======= LIVE STREAMS =======&#10;I stream word games right here on YouTube every night (except Friday) at 7pm PDT! Subscribe and ring the bell and/or join my Discord to get notifications for when I go live!&#10;&#10;======= MEMBERS =======&#10;Join my channel at the Video Enthusiast tier or higher to see the full, uncut videos with my entire thought process!&#10;https://www.youtube.com/rangsk/join&#10;&#10;===== MERCH ===== &#10;You can also support me by buying my super cute merch! All items feature an artistic rendering of my dog Rocky with no other branding! They're super cute!&#10;&#10;Check out my store here: https://rangsks-merch.creator-spring.com/&#10;&#10;======= DISCORD =======&#10;Join my Discord server to hang out and talk about Wordle, Wordle-like games, and other kinds of puzzles like Sudoku.&#10;https://discord.gg/AEhpTG4z45&#10;&#10;#wordle #puzzle #word #game"
+    description "(Spoilers 329) For fun, I start with the previous two day's words and use a viewer suggestion for my 3rd!&amp;#10;&amp;#10;Play Wordle here: https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;======= LIVE STREAMS =======&amp;#10;I stream word games right here on YouTube every night (except Friday) at 7pm PDT! Subscribe and ring the bell and/or join my Discord to get notifications for when I go live!&amp;#10;&amp;#10;======= MEMBERS =======&amp;#10;Join my channel at the Video Enthusiast tier or higher to see the full, uncut videos with my entire thought process!&amp;#10;https://www.youtube.com/rangsk/join&amp;#10;&amp;#10;===== MERCH ===== &amp;#10;You can also support me by buying my super cute merch! All items feature an artistic rendering of my dog Rocky with no other branding! They're super cute!&amp;#10;&amp;#10;Check out my store here: https://rangsks-merch.creator-spring.com/&amp;#10;&amp;#10;======= DISCORD =======&amp;#10;Join my Discord server to hang out and talk about Wordle, Wordle-like games, and other kinds of puzzles like Sudoku.&amp;#10;https://discord.gg/AEhpTG4z45&amp;#10;&amp;#10;#wordle #puzzle #word #game"
     channeltitle "Rangsk"
     channelid "UC1RUqXOT_iaH4b7iXKRWhLw"
     favcount 0
@@ -1945,7 +3507,29 @@ graph
     ppprofanity 0.15645565
     ppinflammatory 0.06412781
     sentiment -0.4168
-    cluster 6
+    cluster 2
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -1954,7 +3538,7 @@ graph
     step 0
     date "2022-07-07T19:30:00Z"
     title "Can I solve todays Wordle in FEWER TRIES?"
-    description "#wordletoday&#10;Solving today's #Wordle #383 for Thursday, July 7th.&#10;&#10;You can find my other 'Wordle-like' solves here - https://youtube.com/playlist?list=PL_HjFt2zdfHV33cIRgG7tm-AvnfUP9cMG&#10;&#10;Check out all my merch at https://stro.link/merch&#10;Become a member of the Stro-Solves YouTube channel - https://stro.link/join&#10;Come discuss these puzzles with us on discord - https://stro.link/discord"
+    description "#wordletoday&amp;#10;Solving today's #Wordle #383 for Thursday, July 7th.&amp;#10;&amp;#10;You can find my other 'Wordle-like' solves here - https://youtube.com/playlist?list=PL_HjFt2zdfHV33cIRgG7tm-AvnfUP9cMG&amp;#10;&amp;#10;Check out all my merch at https://stro.link/merch&amp;#10;Become a member of the Stro-Solves YouTube channel - https://stro.link/join&amp;#10;Come discuss these puzzles with us on discord - https://stro.link/discord"
     channeltitle "Scott Stro-solves"
     channelid "UC8HHDytpZ-cs9bavTbgYfmA"
     favcount 0
@@ -1972,7 +3556,29 @@ graph
     ppprofanity 0.047090523
     ppinflammatory 0.0033448562
     sentiment 0.2023
-    cluster 3
+    cluster 9
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -1981,7 +3587,7 @@ graph
     step 0
     date "2022-07-04T09:00:01Z"
     title "Wordle in a Minute - 3rd July 2022 Full"
-    description "Here's the full, unedited version of Mark solving Wordle yesterday - in over a Minute! &#10;&#10;&#10;&#10;&#9654; YOU CAN ALSO TRY OUR ARROW SUDOKU APP &#9664; Here are the links: &#10;App Store: https://apps.apple.com/us/app/arrow-sudoku/id1568407537 &#10;Steam: https://store.steampowered.com/app/1613680/Arrow_Sudoku/ &#10;Android: https://play.google.com/store/apps/details?id=com.StudioGoya.ArrowSudoku &#10;&#10;&#9654;SEND US PUZZLES TO SOLVE/CONTACT US&#9664;&#10;crackingthecryptic@gmail.com&#10;Snailmail: Mark Goodliffe, Box 102, 56 Gloucester Road, London SW7 4UB&#10;&#10;&#9654;FOLLOW US&#9664;&#10;Twitter: #crypticcracking &#10;@crypticcracking&#10;Instagram (for how to solve daily clues from The Times): https://www.instagram.com/crackingthecryptic/?hl=en&#10;&#10;&#9654;Music&#9664;&#10;Tim McCaskey (Guitar) or Lucy Audrin (Piano) or Riffclown plays Mozart's Sonata no 16 (&#34;Sonata Facile&#34;)&#10;&#9654;SOFTWARE&#9664;&#10;Play the puzzle in the video by clicking the link under the video (above).  Thanks to Sam Cappleman-Lynes and Sven Neumann for their work.&#10;&#9654;Logo Design&#9664;&#10;Melvyn Mainini&#10;&#10;&#9654;Opening Credits Design&#9664;&#10;Joel Blundell&#10;&#10;&#9654;ABOUT US&#9664;&#10;Hi! We're Simon Anthony and Mark Goodliffe, two of the UK's most enthusiastic puzzle solvers. We have both represented the UK at the World Sudoku Championships and the World Puzzle Championships. We're also &#34;cryptic crossword&#34; aficionados. Mark is the twelve-time winner of The Times championship and Simon is the former record holder for most consecutive correct solutions to The Listener crossword. We hope we can help your puzzle solving while also introducing you to some of the world's best puzzles.&#10;&#10;Thank you for watching!&#10;Simon and Mark"
+    description "Here's the full, unedited version of Mark solving Wordle yesterday - in over a Minute! &amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#9654; YOU CAN ALSO TRY OUR ARROW SUDOKU APP &amp;#9664; Here are the links: &amp;#10;App Store: https://apps.apple.com/us/app/arrow-sudoku/id1568407537 &amp;#10;Steam: https://store.steampowered.com/app/1613680/Arrow_Sudoku/ &amp;#10;Android: https://play.google.com/store/apps/details?id=com.StudioGoya.ArrowSudoku &amp;#10;&amp;#10;&amp;#9654;SEND US PUZZLES TO SOLVE/CONTACT US&amp;#9664;&amp;#10;crackingthecryptic@gmail.com&amp;#10;Snailmail: Mark Goodliffe, Box 102, 56 Gloucester Road, London SW7 4UB&amp;#10;&amp;#10;&amp;#9654;FOLLOW US&amp;#9664;&amp;#10;Twitter: #crypticcracking &amp;#10;@crypticcracking&amp;#10;Instagram (for how to solve daily clues from The Times): https://www.instagram.com/crackingthecryptic/?hl=en&amp;#10;&amp;#10;&amp;#9654;Music&amp;#9664;&amp;#10;Tim McCaskey (Guitar) or Lucy Audrin (Piano) or Riffclown plays Mozart's Sonata no 16 (&amp;#34;Sonata Facile&amp;#34;)&amp;#10;&amp;#9654;SOFTWARE&amp;#9664;&amp;#10;Play the puzzle in the video by clicking the link under the video (above).  Thanks to Sam Cappleman-Lynes and Sven Neumann for their work.&amp;#10;&amp;#9654;Logo Design&amp;#9664;&amp;#10;Melvyn Mainini&amp;#10;&amp;#10;&amp;#9654;Opening Credits Design&amp;#9664;&amp;#10;Joel Blundell&amp;#10;&amp;#10;&amp;#9654;ABOUT US&amp;#9664;&amp;#10;Hi! We're Simon Anthony and Mark Goodliffe, two of the UK's most enthusiastic puzzle solvers. We have both represented the UK at the World Sudoku Championships and the World Puzzle Championships. We're also &amp;#34;cryptic crossword&amp;#34; aficionados. Mark is the twelve-time winner of The Times championship and Simon is the former record holder for most consecutive correct solutions to The Listener crossword. We hope we can help your puzzle solving while also introducing you to some of the world's best puzzles.&amp;#10;&amp;#10;Thank you for watching!&amp;#10;Simon and Mark"
     channeltitle "Cracking The Cryptic"
     channelid "UCC-UOdK8-mIjxBQm_ot1T-Q"
     favcount 0
@@ -1999,7 +3605,29 @@ graph
     ppprofanity 0.08949238
     ppinflammatory 0.14338084
     sentiment 0
-    cluster 7
+    cluster 6
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -2008,7 +3636,7 @@ graph
     step 0
     date "2022-05-01T17:34:47Z"
     title "Wordle 316 for May 1st - Streak Ender? - What is Todays Wordle?"
-    description "What is today's Wordle for 05/01/2022 number 316 ? Join me and let's find out &#38; guess the answer together. Wow a little luck and we got today's difficult word&#10;A new word daily, how do you like to play &#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. May 1st 2022&#10;&#10;Follow me on Twitter: https://twitter.com/emptyapartment3&#10;Join our Discord: https://discord.gg/9Py98RU&#10;Buy me a coffee: https://streamelements.com/emptyapartment/tip&#10;&#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&#10;&#10;business contact: emptyapartmentgaming gmail&#10;&#10;&#10;0:00 Intro&#10;0:19 First Guess&#10;1:05 Broom&#10;1:50 Wordle&#10;&#10;#wordle #dailywordleclub"
+    description "What is today's Wordle for 05/01/2022 number 316 ? Join me and let's find out &amp;#38; guess the answer together. Wow a little luck and we got today's difficult word&amp;#10;A new word daily, how do you like to play &amp;#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. May 1st 2022&amp;#10;&amp;#10;Follow me on Twitter: https://twitter.com/emptyapartment3&amp;#10;Join our Discord: https://discord.gg/9Py98RU&amp;#10;Buy me a coffee: https://streamelements.com/emptyapartment/tip&amp;#10;&amp;#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;business contact: emptyapartmentgaming gmail&amp;#10;&amp;#10;&amp;#10;0:00 Intro&amp;#10;0:19 First Guess&amp;#10;1:05 Broom&amp;#10;1:50 Wordle&amp;#10;&amp;#10;#wordle #dailywordleclub"
     channeltitle "Empty Apartment"
     channelid "UCEb4tjgeTW47bD66Xryzx0Q"
     favcount 0
@@ -2027,6 +3655,28 @@ graph
     ppinflammatory 0.03787867
     sentiment 0
     cluster 1
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -2035,7 +3685,7 @@ graph
     step 0
     date "2022-01-27T09:20:52Z"
     title "Wordle 222 for 01/27/2022 - What is Todays Wordle? January 27th"
-    description "What is today's Wordle? Let's find out &#38; guess the answer together. Join me for today's 01/27/2022 Wordle number 222. Thought we would have it in 3!&#10;Everyone's new favorite game. A new word daily, how do you like to play &#38; what's your strategy? Thought I'd try uploading my guesses and answers, plus cool to archive it. January 27th 2022&#10;&#10;Play for yourself at: https://www.powerlanguage.co.uk/wordle/&#10;&#10;0:00 Intro&#10;0:40 First Guess&#10;1:20 Moun?&#10;2:05 Wordle!&#10;&#10;&#10;#wordle #dailywordleclub"
+    description "What is today's Wordle? Let's find out &amp;#38; guess the answer together. Join me for today's 01/27/2022 Wordle number 222. Thought we would have it in 3!&amp;#10;Everyone's new favorite game. A new word daily, how do you like to play &amp;#38; what's your strategy? Thought I'd try uploading my guesses and answers, plus cool to archive it. January 27th 2022&amp;#10;&amp;#10;Play for yourself at: https://www.powerlanguage.co.uk/wordle/&amp;#10;&amp;#10;0:00 Intro&amp;#10;0:40 First Guess&amp;#10;1:20 Moun?&amp;#10;2:05 Wordle!&amp;#10;&amp;#10;&amp;#10;#wordle #dailywordleclub"
     channeltitle "Empty Apartment"
     channelid "UCEb4tjgeTW47bD66Xryzx0Q"
     favcount 0
@@ -2054,6 +3704,28 @@ graph
     ppinflammatory 0.06653313
     sentiment 0
     cluster 1
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -2062,7 +3734,7 @@ graph
     step 0
     date "2022-04-08T21:15:03Z"
     title "The Wordle GLITCH Everyone Is Worried About"
-    description "In today's video I'm telling you a very creepy story about the Wordle Game, since it's become incredibly popular around the world...Do you play?&#10;&#10;NEW Gnomes: https://jessiivee.com/collections/all/products/adopt-a-gnome&#10;&#10;Jessii's Bookshelf Channel: https://www.youtube.com/channel/UCqlcbMET5Hi9fsOqIB_FMDA&#10;&#10;My Sister&#8217;s Channel: &#10;https://www.youtube.com/channel/UCHRTAQE0BME7iDoBX4AGFqQ&#10;&#10;Moot&#8217;s Channel: &#10;https://www.youtube.com/channel/UCl996Nw0-d-eoDC91zpoyeQ&#10;&#10;My Vee Vlogs Channel:&#10;https://www.youtube.com/channel/UChZXvoEEyeO8bnx48s6prWw&#10;&#10;Learn More About YANA: https://jessiivee.com/pages/yana&#10;&#10;My Social Media:&#10;Insta: @Jessiivee https://www.instagram.com/jessiivee/&#10;Merch Insta: @jessiiveemerch &#10;Handmade Jewelry insta: @thewhimsywonders &#10;Twitter: @JessiiVee &#10;Facebook: https://www.facebook.com/jessiivee&#10;Snapchat: jessiiveesnaps&#10;&#10;Follow my inspirational YANA Insta: @yana_group&#10;&#10;PO BOX:&#10;Jessii Vee&#10;# 57012&#10;Brampton, Ontario&#10;Canada&#10;L6Z 0E7&#10;&#10;For business inquiries only:&#10;jessiivee @ outlook . com&#10;(Jessii does not personally see or respond to these emails, her management team does)"
+    description "In today's video I'm telling you a very creepy story about the Wordle Game, since it's become incredibly popular around the world...Do you play?&amp;#10;&amp;#10;NEW Gnomes: https://jessiivee.com/collections/all/products/adopt-a-gnome&amp;#10;&amp;#10;Jessii's Bookshelf Channel: https://www.youtube.com/channel/UCqlcbMET5Hi9fsOqIB_FMDA&amp;#10;&amp;#10;My Sister&amp;#8217;s Channel: &amp;#10;https://www.youtube.com/channel/UCHRTAQE0BME7iDoBX4AGFqQ&amp;#10;&amp;#10;Moot&amp;#8217;s Channel: &amp;#10;https://www.youtube.com/channel/UCl996Nw0-d-eoDC91zpoyeQ&amp;#10;&amp;#10;My Vee Vlogs Channel:&amp;#10;https://www.youtube.com/channel/UChZXvoEEyeO8bnx48s6prWw&amp;#10;&amp;#10;Learn More About YANA: https://jessiivee.com/pages/yana&amp;#10;&amp;#10;My Social Media:&amp;#10;Insta: @Jessiivee https://www.instagram.com/jessiivee/&amp;#10;Merch Insta: @jessiiveemerch &amp;#10;Handmade Jewelry insta: @thewhimsywonders &amp;#10;Twitter: @JessiiVee &amp;#10;Facebook: https://www.facebook.com/jessiivee&amp;#10;Snapchat: jessiiveesnaps&amp;#10;&amp;#10;Follow my inspirational YANA Insta: @yana_group&amp;#10;&amp;#10;PO BOX:&amp;#10;Jessii Vee&amp;#10;# 57012&amp;#10;Brampton, Ontario&amp;#10;Canada&amp;#10;L6Z 0E7&amp;#10;&amp;#10;For business inquiries only:&amp;#10;jessiivee @ outlook . com&amp;#10;(Jessii does not personally see or respond to these emails, her management team does)"
     channeltitle "Jessii Vee"
     channelid "UCghooJjCGtg2Kw2PSB9B0NA"
     favcount 0
@@ -2080,7 +3752,29 @@ graph
     ppprofanity 0.15281391
     ppinflammatory 0.13311808
     sentiment -0.296
-    cluster 6
+    cluster 1
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -2107,7 +3801,29 @@ graph
     ppprofanity 0.08408559
     ppinflammatory 0.063164264
     sentiment 0
-    cluster 7
+    cluster 6
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -2116,7 +3832,7 @@ graph
     step 0
     date "2022-07-06T07:37:29Z"
     title "Wordle 382 for July 6th"
-    description "What is today's Wordle for 07/06/2022 number 382 ? Join me and let's find out &#38; guess the answer together. The triple!&#10;A new word daily, how do you like to play &#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. July 6th 2022&#10;&#10;Follow me on Twitter: https://twitter.com/emptyapartment3&#10;Join our Discord: https://discord.gg/9Py98RU&#10;Support/Buy me a &#34;coffee&#34;: https://ko-fi.com/emptyapartment&#10;&#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&#10;&#10;business contact: emptyapartmentgaming [at] gmail&#10;&#10;&#10;0:00 Intro&#10;0:27 First Guess&#10;1:40 Wordle?&#10;&#10;#wordle"
+    description "What is today's Wordle for 07/06/2022 number 382 ? Join me and let's find out &amp;#38; guess the answer together. The triple!&amp;#10;A new word daily, how do you like to play &amp;#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. July 6th 2022&amp;#10;&amp;#10;Follow me on Twitter: https://twitter.com/emptyapartment3&amp;#10;Join our Discord: https://discord.gg/9Py98RU&amp;#10;Support/Buy me a &amp;#34;coffee&amp;#34;: https://ko-fi.com/emptyapartment&amp;#10;&amp;#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;business contact: emptyapartmentgaming [at] gmail&amp;#10;&amp;#10;&amp;#10;0:00 Intro&amp;#10;0:27 First Guess&amp;#10;1:40 Wordle?&amp;#10;&amp;#10;#wordle"
     channeltitle "Empty Apartment"
     channelid "UCEb4tjgeTW47bD66Xryzx0Q"
     favcount 0
@@ -2135,6 +3851,28 @@ graph
     ppinflammatory 0.06814345
     sentiment 0
     cluster 1
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -2143,7 +3881,7 @@ graph
     step 0
     date "2022-04-07T15:00:33Z"
     title "Wordle 292 - 7 Apr 2022 #Shorts"
-    description "Wordle is now hosted by the New York Times! Join me for the solve every day, and play it yourself here: &#10;https://www.nytimes.com/games/wordle/&#10;&#10;#Wordle&#10;#Shorts"
+    description "Wordle is now hosted by the New York Times! Join me for the solve every day, and play it yourself here: &amp;#10;https://www.nytimes.com/games/wordle/&amp;#10;&amp;#10;#Wordle&amp;#10;#Shorts"
     channeltitle "Chris Remo"
     channelid "UCAWnFCJGAP7YPti-gQSe1ng"
     favcount 0
@@ -2162,6 +3900,28 @@ graph
     ppinflammatory 0.06053222
     sentiment 0
     cluster 2
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -2170,7 +3930,7 @@ graph
     step 0
     date "2022-07-07T22:36:10Z"
     title "A terrible Wordle start. Can I recover?"
-    description "(Spoilers 383) For fun, I start with the previous two day's words and use a viewer suggestion for my 3rd!&#10;&#10;Play Wordle here: https://www.nytimes.com/games/wordle/index.html&#10;&#10;======= LIVE STREAMS =======&#10;I stream word games right here on YouTube every night (except Friday) at 7pm PDT! Subscribe and ring the bell and/or join my Discord to get notifications for when I go live!&#10;&#10;======= MEMBERS =======&#10;Join my channel at the Video Enthusiast tier or higher to see the full, uncut videos with my entire thought process!&#10;https://www.youtube.com/rangsk/join&#10;&#10;===== MERCH ===== &#10;You can also support me by buying my super cute merch! All items feature an artistic rendering of my dog Rocky with no other branding! They're super cute!&#10;&#10;Check out my store here: https://rangsks-merch.creator-spring.com/&#10;&#10;======= DISCORD =======&#10;Join my Discord server to hang out and talk about Wordle, Wordle-like games, and other kinds of puzzles like Sudoku.&#10;https://discord.gg/AEhpTG4z45&#10;&#10;#wordle #puzzle #word #game"
+    description "(Spoilers 383) For fun, I start with the previous two day's words and use a viewer suggestion for my 3rd!&amp;#10;&amp;#10;Play Wordle here: https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;======= LIVE STREAMS =======&amp;#10;I stream word games right here on YouTube every night (except Friday) at 7pm PDT! Subscribe and ring the bell and/or join my Discord to get notifications for when I go live!&amp;#10;&amp;#10;======= MEMBERS =======&amp;#10;Join my channel at the Video Enthusiast tier or higher to see the full, uncut videos with my entire thought process!&amp;#10;https://www.youtube.com/rangsk/join&amp;#10;&amp;#10;===== MERCH ===== &amp;#10;You can also support me by buying my super cute merch! All items feature an artistic rendering of my dog Rocky with no other branding! They're super cute!&amp;#10;&amp;#10;Check out my store here: https://rangsks-merch.creator-spring.com/&amp;#10;&amp;#10;======= DISCORD =======&amp;#10;Join my Discord server to hang out and talk about Wordle, Wordle-like games, and other kinds of puzzles like Sudoku.&amp;#10;https://discord.gg/AEhpTG4z45&amp;#10;&amp;#10;#wordle #puzzle #word #game"
     channeltitle "Rangsk"
     channelid "UC1RUqXOT_iaH4b7iXKRWhLw"
     favcount 0
@@ -2188,7 +3948,29 @@ graph
     ppprofanity 0.040273793
     ppinflammatory 0.31370208
     sentiment -0.4767
-    cluster 3
+    cluster 9
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -2197,7 +3979,7 @@ graph
     step 0
     date "2022-06-29T20:30:02Z"
     title "A CAT lovers Wordle"
-    description "#wordletoday&#10;Solving today's #Wordle #375 for Wednesday, June 29th.&#10;&#10;You can find my other 'Wordle-like' solves here - https://youtube.com/playlist?list=PL_HjFt2zdfHV33cIRgG7tm-AvnfUP9cMG&#10;&#10;Check out all my merch at https://stro.link/merch&#10;Become a member of the Stro-Solves YouTube channel - https://stro.link/join&#10;Come discuss these puzzles with us on discord - https://stro.link/discord"
+    description "#wordletoday&amp;#10;Solving today's #Wordle #375 for Wednesday, June 29th.&amp;#10;&amp;#10;You can find my other 'Wordle-like' solves here - https://youtube.com/playlist?list=PL_HjFt2zdfHV33cIRgG7tm-AvnfUP9cMG&amp;#10;&amp;#10;Check out all my merch at https://stro.link/merch&amp;#10;Become a member of the Stro-Solves YouTube channel - https://stro.link/join&amp;#10;Come discuss these puzzles with us on discord - https://stro.link/discord"
     channeltitle "Scott Stro-solves"
     channelid "UC8HHDytpZ-cs9bavTbgYfmA"
     favcount 0
@@ -2215,7 +3997,29 @@ graph
     ppprofanity 0.09390957
     ppinflammatory 0.084276825
     sentiment 0.5267
-    cluster 6
+    cluster 3
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -2224,7 +4028,7 @@ graph
     step 0
     date "2022-07-09T21:23:49Z"
     title "Is this an INSANE Wordle start?"
-    description "#wordletoday&#10;Solving today's #Wordle #385 for Saturday, July 9th.&#10;&#10;You can find my other 'Wordle-like' solves here - https://youtube.com/playlist?list=PL_HjFt2zdfHV33cIRgG7tm-AvnfUP9cMG&#10;&#10;Check out all my merch at https://stro.link/merch&#10;Become a member of the Stro-Solves YouTube channel - https://stro.link/join&#10;Come discuss these puzzles with us on discord - https://stro.link/discord"
+    description "#wordletoday&amp;#10;Solving today's #Wordle #385 for Saturday, July 9th.&amp;#10;&amp;#10;You can find my other 'Wordle-like' solves here - https://youtube.com/playlist?list=PL_HjFt2zdfHV33cIRgG7tm-AvnfUP9cMG&amp;#10;&amp;#10;Check out all my merch at https://stro.link/merch&amp;#10;Become a member of the Stro-Solves YouTube channel - https://stro.link/join&amp;#10;Come discuss these puzzles with us on discord - https://stro.link/discord"
     channeltitle "Scott Stro-solves"
     channelid "UC8HHDytpZ-cs9bavTbgYfmA"
     favcount 0
@@ -2242,7 +4046,29 @@ graph
     ppprofanity 0.101460055
     ppinflammatory 0.5751894
     sentiment -0.4019
-    cluster 3
+    cluster 9
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -2251,7 +4077,7 @@ graph
     step 0
     date "2022-05-09T07:31:51Z"
     title "Wordle 324 for May 9th - Whats Wordle?"
-    description "What is today's Wordle for 05/09/2022 number 324 ? Join me and let's find out &#38; guess the answer together. An easy one to start off the week!&#10;A new word daily, how do you like to play &#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. May 9th 2022&#10;&#10;Follow me on Twitter: https://twitter.com/emptyapartment3&#10;Join our Discord: https://discord.gg/9Py98RU&#10;Buy me a coffee: https://ko-fi.com/emptyapartment&#10;&#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&#10;&#10;business contact: emptyapartmentgaming gmail&#10;&#10;&#10;0:00 Intro&#10;0:18 First Guess&#10;0:50 Wordle?&#10;&#10;#wordle"
+    description "What is today's Wordle for 05/09/2022 number 324 ? Join me and let's find out &amp;#38; guess the answer together. An easy one to start off the week!&amp;#10;A new word daily, how do you like to play &amp;#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. May 9th 2022&amp;#10;&amp;#10;Follow me on Twitter: https://twitter.com/emptyapartment3&amp;#10;Join our Discord: https://discord.gg/9Py98RU&amp;#10;Buy me a coffee: https://ko-fi.com/emptyapartment&amp;#10;&amp;#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;business contact: emptyapartmentgaming gmail&amp;#10;&amp;#10;&amp;#10;0:00 Intro&amp;#10;0:18 First Guess&amp;#10;0:50 Wordle?&amp;#10;&amp;#10;#wordle"
     channeltitle "Empty Apartment"
     channelid "UCEb4tjgeTW47bD66Xryzx0Q"
     favcount 0
@@ -2270,6 +4096,28 @@ graph
     ppinflammatory 0.015744993
     sentiment 0
     cluster 1
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -2296,7 +4144,29 @@ graph
     ppprofanity 0.079179615
     ppinflammatory 0.05026893
     sentiment 0
-    cluster 7
+    cluster 6
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -2305,7 +4175,7 @@ graph
     step 0
     date "2022-06-07T04:00:04Z"
     title "Doug plays todays Wordle #353 for 06/07/2022"
-    description "It's June 7, 2022 and Doug is playing today's daily Wordle! &#10;&#10;&#10;Please, if you enjoyed this video, like and subscribe to my channel!&#10;&#10;I can also be found on Twitch!&#10;https://www.twitch.tv/dougmansland&#10;&#10;I'm also on Twitter!&#10;https://twitter.com/dougmansland&#10;&#10;If you enjoy Discord, I have one of those too!&#10;https://discord.gg/MVXvhvg2Zm&#10;&#10;For some reason, I also make Tik Tok videos!&#10;https://www.tiktok.com/@dougmansland?lang=en"
+    description "It's June 7, 2022 and Doug is playing today's daily Wordle! &amp;#10;&amp;#10;&amp;#10;Please, if you enjoyed this video, like and subscribe to my channel!&amp;#10;&amp;#10;I can also be found on Twitch!&amp;#10;https://www.twitch.tv/dougmansland&amp;#10;&amp;#10;I'm also on Twitter!&amp;#10;https://twitter.com/dougmansland&amp;#10;&amp;#10;If you enjoy Discord, I have one of those too!&amp;#10;https://discord.gg/MVXvhvg2Zm&amp;#10;&amp;#10;For some reason, I also make Tik Tok videos!&amp;#10;https://www.tiktok.com/@dougmansland?lang=en"
     channeltitle "DougMansLand"
     channelid "UCkiAm7y8MQCbFwpB-52QRtg"
     favcount 0
@@ -2323,7 +4193,29 @@ graph
     ppprofanity 0.057986528
     ppinflammatory 0.049881727
     sentiment 0.25
-    cluster 4
+    cluster 2
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -2350,7 +4242,29 @@ graph
     ppprofanity 0.10530697
     ppinflammatory 0.011503834
     sentiment 0
-    cluster 6
+    cluster 7
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -2359,7 +4273,7 @@ graph
     step 0
     date "2022-03-08T12:00:31Z"
     title "How to play Wordle"
-    description "Learn the rules to the online word game Wordle quickly and concisely - This video has no distractions, just the rules.&#10;&#10;Want to play? Check out the game here:&#10;https://link.triplesgames.com/Wordle&#10;&#10;RULES:&#10;The object of the game is to guess the hidden word in 6 guesses or less. Type in a word and press enter. All guesses must be real English words. After each guess each correct letter turns green and each correct letter in the wrong place turns yellow. Incorrect letters turn gray. Letters can be used more than once. Use these clues to help you guess the word. If you guess the correct word in 6 tries or less then you win. This game can only be played once per day. Check out the link in the description for where you can play it."
+    description "Learn the rules to the online word game Wordle quickly and concisely - This video has no distractions, just the rules.&amp;#10;&amp;#10;Want to play? Check out the game here:&amp;#10;https://link.triplesgames.com/Wordle&amp;#10;&amp;#10;RULES:&amp;#10;The object of the game is to guess the hidden word in 6 guesses or less. Type in a word and press enter. All guesses must be real English words. After each guess each correct letter turns green and each correct letter in the wrong place turns yellow. Incorrect letters turn gray. Letters can be used more than once. Use these clues to help you guess the word. If you guess the correct word in 6 tries or less then you win. This game can only be played once per day. Check out the link in the description for where you can play it."
     channeltitle "Triple S Games"
     channelid "UC5--Olk4nljSNeT5wXfTOuA"
     favcount 0
@@ -2378,6 +4292,28 @@ graph
     ppinflammatory 0.16501017
     sentiment 0.34
     cluster 2
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -2386,7 +4322,7 @@ graph
     step 0
     date "2022-04-10T16:25:29Z"
     title "Wordle 295 for April 10th - What is Todays Wordle? 04/10/2022"
-    description "What is today's Wordle for 04/10/2022 number 295 ? Join me and let's find out &#38; guess the answer together. Quick one today!&#10;A new word daily, how do you like to play &#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. April 10th 2022&#10;&#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&#10;&#10;0:00 Intro&#10;0:23 First Guess&#10;1:05 Wordle&#10;&#10;&#10;business contact: emptyapartmentgaming gmail&#10;&#10;#wordle #dailywordleclub"
+    description "What is today's Wordle for 04/10/2022 number 295 ? Join me and let's find out &amp;#38; guess the answer together. Quick one today!&amp;#10;A new word daily, how do you like to play &amp;#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. April 10th 2022&amp;#10;&amp;#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;0:00 Intro&amp;#10;0:23 First Guess&amp;#10;1:05 Wordle&amp;#10;&amp;#10;&amp;#10;business contact: emptyapartmentgaming gmail&amp;#10;&amp;#10;#wordle #dailywordleclub"
     channeltitle "Empty Apartment"
     channelid "UCEb4tjgeTW47bD66Xryzx0Q"
     favcount 0
@@ -2405,6 +4341,28 @@ graph
     ppinflammatory 0.07276229
     sentiment 0
     cluster 1
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -2413,7 +4371,7 @@ graph
     step 0
     date "2022-06-26T04:00:09Z"
     title "Doug plays todays Wordle #372 for 06/26/2022"
-    description "It's June 26, 2022 and Doug is playing today's daily Wordle! &#10;&#10;&#10;Please, if you enjoyed this video, like and subscribe to my channel!&#10;&#10;I can also be found on Twitch!&#10;https://www.twitch.tv/dougmansland&#10;&#10;I'm also on Twitter!&#10;https://twitter.com/dougmansland&#10;&#10;If you enjoy Discord, I have one of those too!&#10;https://discord.gg/MVXvhvg2Zm&#10;&#10;For some reason, I also make Tik Tok videos!&#10;https://www.tiktok.com/@dougmansland?lang=en"
+    description "It's June 26, 2022 and Doug is playing today's daily Wordle! &amp;#10;&amp;#10;&amp;#10;Please, if you enjoyed this video, like and subscribe to my channel!&amp;#10;&amp;#10;I can also be found on Twitch!&amp;#10;https://www.twitch.tv/dougmansland&amp;#10;&amp;#10;I'm also on Twitter!&amp;#10;https://twitter.com/dougmansland&amp;#10;&amp;#10;If you enjoy Discord, I have one of those too!&amp;#10;https://discord.gg/MVXvhvg2Zm&amp;#10;&amp;#10;For some reason, I also make Tik Tok videos!&amp;#10;https://www.tiktok.com/@dougmansland?lang=en"
     channeltitle "DougMansLand"
     channelid "UCkiAm7y8MQCbFwpB-52QRtg"
     favcount 0
@@ -2431,7 +4389,29 @@ graph
     ppprofanity 0.076343775
     ppinflammatory 0.049881727
     sentiment 0.25
-    cluster 6
+    cluster 3
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -2440,7 +4420,7 @@ graph
     step 0
     date "2022-06-22T04:00:17Z"
     title "Doug plays todays Wordle #368 for 06/22/2022"
-    description "It's June 22, 2022 and Doug is playing today's daily Wordle! &#10;&#10;&#10;Please, if you enjoyed this video, like and subscribe to my channel!&#10;&#10;I can also be found on Twitch!&#10;https://www.twitch.tv/dougmansland&#10;&#10;I'm also on Twitter!&#10;https://twitter.com/dougmansland&#10;&#10;If you enjoy Discord, I have one of those too!&#10;https://discord.gg/MVXvhvg2Zm&#10;&#10;For some reason, I also make Tik Tok videos!&#10;https://www.tiktok.com/@dougmansland?lang=en"
+    description "It's June 22, 2022 and Doug is playing today's daily Wordle! &amp;#10;&amp;#10;&amp;#10;Please, if you enjoyed this video, like and subscribe to my channel!&amp;#10;&amp;#10;I can also be found on Twitch!&amp;#10;https://www.twitch.tv/dougmansland&amp;#10;&amp;#10;I'm also on Twitter!&amp;#10;https://twitter.com/dougmansland&amp;#10;&amp;#10;If you enjoy Discord, I have one of those too!&amp;#10;https://discord.gg/MVXvhvg2Zm&amp;#10;&amp;#10;For some reason, I also make Tik Tok videos!&amp;#10;https://www.tiktok.com/@dougmansland?lang=en"
     channeltitle "DougMansLand"
     channelid "UCkiAm7y8MQCbFwpB-52QRtg"
     favcount 0
@@ -2458,7 +4438,29 @@ graph
     ppprofanity 0.09515784
     ppinflammatory 0.049881727
     sentiment 0.25
-    cluster 2
+    cluster 3
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -2467,7 +4469,7 @@ graph
     step 0
     date "2022-07-12T22:27:33Z"
     title "Getting Wordle help from LIONS!"
-    description "(Spoilers 388) For fun, I start with the previous two day's words and use a viewer suggestion for my 3rd!&#10;&#10;Play Wordle here: https://www.nytimes.com/games/wordle/index.html&#10;&#10;======= LIVE STREAMS =======&#10;I stream word games right here on YouTube every night (except Friday) at 7pm PDT! Subscribe and ring the bell and/or join my Discord to get notifications for when I go live!&#10;&#10;======= MEMBERS =======&#10;Join my channel at the Video Enthusiast tier or higher to see the full, uncut videos with my entire thought process!&#10;https://www.youtube.com/rangsk/join&#10;&#10;===== MERCH ===== &#10;You can also support me by buying my super cute merch! All items feature an artistic rendering of my dog Rocky with no other branding! They're super cute!&#10;&#10;Check out my store here: https://rangsks-merch.creator-spring.com/&#10;&#10;======= DISCORD =======&#10;Join my Discord server to hang out and talk about Wordle, Wordle-like games, and other kinds of puzzles like Sudoku.&#10;https://discord.gg/AEhpTG4z45&#10;&#10;#wordle #puzzle #word #game"
+    description "(Spoilers 388) For fun, I start with the previous two day's words and use a viewer suggestion for my 3rd!&amp;#10;&amp;#10;Play Wordle here: https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;======= LIVE STREAMS =======&amp;#10;I stream word games right here on YouTube every night (except Friday) at 7pm PDT! Subscribe and ring the bell and/or join my Discord to get notifications for when I go live!&amp;#10;&amp;#10;======= MEMBERS =======&amp;#10;Join my channel at the Video Enthusiast tier or higher to see the full, uncut videos with my entire thought process!&amp;#10;https://www.youtube.com/rangsk/join&amp;#10;&amp;#10;===== MERCH ===== &amp;#10;You can also support me by buying my super cute merch! All items feature an artistic rendering of my dog Rocky with no other branding! They're super cute!&amp;#10;&amp;#10;Check out my store here: https://rangsks-merch.creator-spring.com/&amp;#10;&amp;#10;======= DISCORD =======&amp;#10;Join my Discord server to hang out and talk about Wordle, Wordle-like games, and other kinds of puzzles like Sudoku.&amp;#10;https://discord.gg/AEhpTG4z45&amp;#10;&amp;#10;#wordle #puzzle #word #game"
     channeltitle "Rangsk"
     channelid "UC1RUqXOT_iaH4b7iXKRWhLw"
     favcount 0
@@ -2485,7 +4487,29 @@ graph
     ppprofanity 0.051183965
     ppinflammatory 0.18333589
     sentiment 0.4019
-    cluster 6
+    cluster 9
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -2494,7 +4518,7 @@ graph
     step 0
     date "2022-05-23T22:30:03Z"
     title "The suggestion that 46 people built! #Wordle"
-    description "(Spoilers 338) For fun, I start with the previous two day's words and use a viewer suggestion for my 3rd!&#10;&#10;Play Wordle here: https://www.nytimes.com/games/wordle/index.html&#10;&#10;======= LIVE STREAMS =======&#10;I stream word games right here on YouTube every night (except Friday) at 7pm PDT! Subscribe and ring the bell and/or join my Discord to get notifications for when I go live!&#10;&#10;======= MEMBERS =======&#10;Join my channel at the Video Enthusiast tier or higher to see the full, uncut videos with my entire thought process!&#10;https://www.youtube.com/rangsk/join&#10;&#10;===== MERCH ===== &#10;You can also support me by buying my super cute merch! All items feature an artistic rendering of my dog Rocky with no other branding! They're super cute!&#10;&#10;Check out my store here: https://rangsks-merch.creator-spring.com/&#10;&#10;======= DISCORD =======&#10;Join my Discord server to hang out and talk about Wordle, Wordle-like games, and other kinds of puzzles like Sudoku.&#10;https://discord.gg/AEhpTG4z45&#10;&#10;#wordle #puzzle #word #game"
+    description "(Spoilers 338) For fun, I start with the previous two day's words and use a viewer suggestion for my 3rd!&amp;#10;&amp;#10;Play Wordle here: https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;======= LIVE STREAMS =======&amp;#10;I stream word games right here on YouTube every night (except Friday) at 7pm PDT! Subscribe and ring the bell and/or join my Discord to get notifications for when I go live!&amp;#10;&amp;#10;======= MEMBERS =======&amp;#10;Join my channel at the Video Enthusiast tier or higher to see the full, uncut videos with my entire thought process!&amp;#10;https://www.youtube.com/rangsk/join&amp;#10;&amp;#10;===== MERCH ===== &amp;#10;You can also support me by buying my super cute merch! All items feature an artistic rendering of my dog Rocky with no other branding! They're super cute!&amp;#10;&amp;#10;Check out my store here: https://rangsks-merch.creator-spring.com/&amp;#10;&amp;#10;======= DISCORD =======&amp;#10;Join my Discord server to hang out and talk about Wordle, Wordle-like games, and other kinds of puzzles like Sudoku.&amp;#10;https://discord.gg/AEhpTG4z45&amp;#10;&amp;#10;#wordle #puzzle #word #game"
     channeltitle "Rangsk"
     channelid "UC1RUqXOT_iaH4b7iXKRWhLw"
     favcount 0
@@ -2512,7 +4536,29 @@ graph
     ppprofanity 0.050739534
     ppinflammatory 0.18158647
     sentiment 0
-    cluster 6
+    cluster 3
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -2521,7 +4567,7 @@ graph
     step 0
     date "2022-02-09T19:13:48Z"
     title "My Dad is the Best Wordle Player Ever"
-    description "SUBSCRIBE: https://bit.ly/2Jg9jc1&#10;&#10;If you wish to support the channel:&#10;Patreon: https://www.patreon.com/mattcolbo&#10;PayPal: https://bit.ly/3GV2xW6&#10;&#10;FOLLOW ME:&#10;Instagram: https://www.instagram.com/mattcolbo&#10;Twitter: https://twitter.com/MattColbo&#10;&#10;Thank you to Prospre for supporting the channel!&#10;https://prospre.io&#10;iOS: https://apple.co/3nOs8WU&#10;Google Play: https://play.google.com/store/apps/de...&#10;&#10;You can still get 2 months of your Artlist subscription free plus 100 assets of motion graphics by using the link:&#10;https://bit.ly/33EV3qY"
+    description "SUBSCRIBE: https://bit.ly/2Jg9jc1&amp;#10;&amp;#10;If you wish to support the channel:&amp;#10;Patreon: https://www.patreon.com/mattcolbo&amp;#10;PayPal: https://bit.ly/3GV2xW6&amp;#10;&amp;#10;FOLLOW ME:&amp;#10;Instagram: https://www.instagram.com/mattcolbo&amp;#10;Twitter: https://twitter.com/MattColbo&amp;#10;&amp;#10;Thank you to Prospre for supporting the channel!&amp;#10;https://prospre.io&amp;#10;iOS: https://apple.co/3nOs8WU&amp;#10;Google Play: https://play.google.com/store/apps/de...&amp;#10;&amp;#10;You can still get 2 months of your Artlist subscription free plus 100 assets of motion graphics by using the link:&amp;#10;https://bit.ly/33EV3qY"
     channeltitle "MattColbo"
     channelid "UCDyqjn-9rKdcAe0gTMAkqyg"
     favcount 0
@@ -2540,6 +4586,28 @@ graph
     ppinflammatory 0.05645959
     sentiment 0.6369
     cluster 4
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -2548,7 +4616,7 @@ graph
     step 0
     date "2022-06-26T09:46:53Z"
     title "Wordle 372 for June 26th"
-    description "What is today's Wordle for 06/26/2022 number 372 ? Join me and let's find out &#38; guess the answer together. A close one!&#10;A new word daily, how do you like to play &#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. June 26th 2022&#10;&#10;Follow me on Twitter: https://twitter.com/emptyapartment3&#10;Join our Discord: https://discord.gg/9Py98RU&#10;Support/Buy me a &#34;coffee&#34;: https://ko-fi.com/emptyapartment&#10;&#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&#10;&#10;business contact: emptyapartmentgaming [at] gmail&#10;&#10;&#10;0:00 Intro&#10;0:20 First Guess&#10;1:48 Wordle?&#10;&#10;#wordle"
+    description "What is today's Wordle for 06/26/2022 number 372 ? Join me and let's find out &amp;#38; guess the answer together. A close one!&amp;#10;A new word daily, how do you like to play &amp;#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. June 26th 2022&amp;#10;&amp;#10;Follow me on Twitter: https://twitter.com/emptyapartment3&amp;#10;Join our Discord: https://discord.gg/9Py98RU&amp;#10;Support/Buy me a &amp;#34;coffee&amp;#34;: https://ko-fi.com/emptyapartment&amp;#10;&amp;#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;business contact: emptyapartmentgaming [at] gmail&amp;#10;&amp;#10;&amp;#10;0:00 Intro&amp;#10;0:20 First Guess&amp;#10;1:48 Wordle?&amp;#10;&amp;#10;#wordle"
     channeltitle "Empty Apartment"
     channelid "UCEb4tjgeTW47bD66Xryzx0Q"
     favcount 0
@@ -2566,7 +4634,29 @@ graph
     ppprofanity 0.05009419
     ppinflammatory 0.15883087
     sentiment 0
-    cluster 6
+    cluster 3
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -2575,7 +4665,7 @@ graph
     step 0
     date "2022-02-09T21:00:15Z"
     title "TIMTHETATMAN ATTEMPTS FOODLE (WORDLE FOR FOOD)"
-    description "Check out Rillos video on how Foodle was made! - https://youtu.be/2TyJilM_21I&#10;&#10;&#128170; BECOME A MEMBER OF THE STREAM - https://youtube.com/timthetatman/join&#10;&#10;&#128176; DONATE: https://streamlabs.com/timthetatman/tip&#10;&#10;&#128073; Use Code - &#34;timthetatman&#34; in the item shop! #codpartner&#10;&#10;&#128073; JOIN THE DISCORD: https://discord.gg/timthetatman&#10;&#10;&#127909; More TimTheTatman: https://youtube.com/MoreTimTheTatman&#10;&#127909; TimTheTatman: https://youtube.com/TimTheTatman&#10;&#127909; TimTheTatman VODs: https://www.youtube.com/timthetatmanvods&#10;&#127909; TimTheTatman Shorts: https://youtube.com/TimTheTatmanShorts&#10;&#10;&#9654;&#65039;GET CONNECTED:&#10;&#128187;Website | https://timthetatman.com&#10;&#128038;Twitter | https://twitter.com/timthetatman&#10;&#128247;Instagram | https://www.instagram.com/timthetatman/&#10;&#128241;TikTok  | https://tiktok.com/@timthetatman&#10;&#10;&#128293;SPONSORS:&#10;NZXT | https://nzxt.co/TimNZXT&#10;LG Ultragear | https://bit.ly/3A5B0MZ&#10;Herman Miller | https://bit.ly/3tcJ9vV&#10;HyperX | http://hyperx.gg/timthetatman&#10;Chipotle | https://chipotle.com&#10;AT&#38;T | https://www.att.com/5g/consumer/&#10;FanDuel | https://fanduel.com/timthetatman&#10;Streamlabs | https://streamlabs.com/goprime?promo=timthetatman-441d-10&#10;&#10;&#11088;COMPLEXITY: http://col.vg/Tim&#10;&#10;OUTRO SONG:&#10;Getting Tipsy | Martin Landh&#10;&#10;THANKS FOR WATCHING!!&#10;&#10;-----------------------------------------------------------------------------------------------------------&#10;#timthetatman #podcast #Wordle"
+    description "Check out Rillos video on how Foodle was made! - https://youtu.be/2TyJilM_21I&amp;#10;&amp;#10;&amp;#128170; BECOME A MEMBER OF THE STREAM - https://youtube.com/timthetatman/join&amp;#10;&amp;#10;&amp;#128176; DONATE: https://streamlabs.com/timthetatman/tip&amp;#10;&amp;#10;&amp;#128073; Use Code - &amp;#34;timthetatman&amp;#34; in the item shop! #codpartner&amp;#10;&amp;#10;&amp;#128073; JOIN THE DISCORD: https://discord.gg/timthetatman&amp;#10;&amp;#10;&amp;#127909; More TimTheTatman: https://youtube.com/MoreTimTheTatman&amp;#10;&amp;#127909; TimTheTatman: https://youtube.com/TimTheTatman&amp;#10;&amp;#127909; TimTheTatman VODs: https://www.youtube.com/timthetatmanvods&amp;#10;&amp;#127909; TimTheTatman Shorts: https://youtube.com/TimTheTatmanShorts&amp;#10;&amp;#10;&amp;#9654;&amp;#65039;GET CONNECTED:&amp;#10;&amp;#128187;Website | https://timthetatman.com&amp;#10;&amp;#128038;Twitter | https://twitter.com/timthetatman&amp;#10;&amp;#128247;Instagram | https://www.instagram.com/timthetatman/&amp;#10;&amp;#128241;TikTok  | https://tiktok.com/@timthetatman&amp;#10;&amp;#10;&amp;#128293;SPONSORS:&amp;#10;NZXT | https://nzxt.co/TimNZXT&amp;#10;LG Ultragear | https://bit.ly/3A5B0MZ&amp;#10;Herman Miller | https://bit.ly/3tcJ9vV&amp;#10;HyperX | http://hyperx.gg/timthetatman&amp;#10;Chipotle | https://chipotle.com&amp;#10;AT&amp;#38;T | https://www.att.com/5g/consumer/&amp;#10;FanDuel | https://fanduel.com/timthetatman&amp;#10;Streamlabs | https://streamlabs.com/goprime?promo=timthetatman-441d-10&amp;#10;&amp;#10;&amp;#11088;COMPLEXITY: http://col.vg/Tim&amp;#10;&amp;#10;OUTRO SONG:&amp;#10;Getting Tipsy | Martin Landh&amp;#10;&amp;#10;THANKS FOR WATCHING!!&amp;#10;&amp;#10;-----------------------------------------------------------------------------------------------------------&amp;#10;#timthetatman #podcast #Wordle"
     channeltitle "TimTheTatman Two"
     channelid "UCB2ahU2xIXD1Emto8sBNOow"
     favcount 0
@@ -2594,6 +4684,28 @@ graph
     ppinflammatory 0.097077586
     sentiment 0
     cluster 4
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -2602,7 +4714,7 @@ graph
     step 0
     date "2022-07-14T04:00:22Z"
     title "Doug plays todays Wordle #390 for 07/14/2022"
-    description "It's July 14, 2022 and Doug is playing today's daily Wordle! #wordle&#10;&#10;&#10;Please, if you enjoyed this video, like and subscribe to my channel!&#10;&#10;I can also be found on Twitch!&#10;https://www.twitch.tv/dougmansland&#10;&#10;I'm also on Twitter!&#10;https://twitter.com/dougmansland&#10;&#10;If you enjoy Discord, I have one of those too!&#10;https://discord.gg/MVXvhvg2Zm"
+    description "It's July 14, 2022 and Doug is playing today's daily Wordle! #wordle&amp;#10;&amp;#10;&amp;#10;Please, if you enjoyed this video, like and subscribe to my channel!&amp;#10;&amp;#10;I can also be found on Twitch!&amp;#10;https://www.twitch.tv/dougmansland&amp;#10;&amp;#10;I'm also on Twitter!&amp;#10;https://twitter.com/dougmansland&amp;#10;&amp;#10;If you enjoy Discord, I have one of those too!&amp;#10;https://discord.gg/MVXvhvg2Zm"
     channeltitle "DougMansLand"
     channelid "UCkiAm7y8MQCbFwpB-52QRtg"
     favcount 0
@@ -2620,7 +4732,29 @@ graph
     ppprofanity 0.09316207
     ppinflammatory 0.049881727
     sentiment 0.25
-    cluster 8
+    cluster 5
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -2629,7 +4763,7 @@ graph
     step 0
     date "2022-07-14T15:02:53Z"
     title "when HEART wins wordle #shorts"
-    description "#wordle #391 Jul 15 #shorts &#10;start with HEART SPOIL and CUNDY for an easy win.&#10;Thanks for the suggestion!"
+    description "#wordle #391 Jul 15 #shorts &amp;#10;start with HEART SPOIL and CUNDY for an easy win.&amp;#10;Thanks for the suggestion!"
     channeltitle "FunkyD Plays"
     channelid "UCd9VuG9NIseCNul8dbSP11g"
     favcount 0
@@ -2647,7 +4781,29 @@ graph
     ppprofanity 0.07693878
     ppinflammatory 0.08965853
     sentiment 0.5719
-    cluster 4
+    cluster 3
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -2656,7 +4812,7 @@ graph
     step 0
     date "2022-04-01T21:15:01Z"
     title "Dons Wordle"
-    description "Solving #Wordle #286 for Friday, April 1st.&#10;&#10;Become a member of the Stro-Solves YouTube channel - https://www.youtube.com/channel/UC8HHDytpZ-cs9bavTbgYfmA/join&#10;&#10;You can find my other 'Wordle-like' solves here - https://youtube.com/playlist?list=PL_HjFt2zdfHV33cIRgG7tm-AvnfUP9cMG&#10;&#10;Come discuss these puzzles with us on discord - https://discord.gg/AEhpTG4z45"
+    description "Solving #Wordle #286 for Friday, April 1st.&amp;#10;&amp;#10;Become a member of the Stro-Solves YouTube channel - https://www.youtube.com/channel/UC8HHDytpZ-cs9bavTbgYfmA/join&amp;#10;&amp;#10;You can find my other 'Wordle-like' solves here - https://youtube.com/playlist?list=PL_HjFt2zdfHV33cIRgG7tm-AvnfUP9cMG&amp;#10;&amp;#10;Come discuss these puzzles with us on discord - https://discord.gg/AEhpTG4z45"
     channeltitle "Scott Stro-solves"
     channelid "UC8HHDytpZ-cs9bavTbgYfmA"
     favcount 0
@@ -2675,6 +4831,28 @@ graph
     ppinflammatory 0.28107756
     sentiment -0.4404
     cluster 1
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -2683,7 +4861,7 @@ graph
     step 0
     date "2022-06-10T04:00:22Z"
     title "Doug plays todays Wordle #356 for 06/10/2022"
-    description "It's June 10, 2022 and Doug is playing today's daily Wordle! &#10;&#10;&#10;Please, if you enjoyed this video, like and subscribe to my channel!&#10;&#10;I can also be found on Twitch!&#10;https://www.twitch.tv/dougmansland&#10;&#10;I'm also on Twitter!&#10;https://twitter.com/dougmansland&#10;&#10;If you enjoy Discord, I have one of those too!&#10;https://discord.gg/MVXvhvg2Zm&#10;&#10;For some reason, I also make Tik Tok videos!&#10;https://www.tiktok.com/@dougmansland?lang=en"
+    description "It's June 10, 2022 and Doug is playing today's daily Wordle! &amp;#10;&amp;#10;&amp;#10;Please, if you enjoyed this video, like and subscribe to my channel!&amp;#10;&amp;#10;I can also be found on Twitch!&amp;#10;https://www.twitch.tv/dougmansland&amp;#10;&amp;#10;I'm also on Twitter!&amp;#10;https://twitter.com/dougmansland&amp;#10;&amp;#10;If you enjoy Discord, I have one of those too!&amp;#10;https://discord.gg/MVXvhvg2Zm&amp;#10;&amp;#10;For some reason, I also make Tik Tok videos!&amp;#10;https://www.tiktok.com/@dougmansland?lang=en"
     channeltitle "DougMansLand"
     channelid "UCkiAm7y8MQCbFwpB-52QRtg"
     favcount 0
@@ -2701,7 +4879,29 @@ graph
     ppprofanity 0.04850286
     ppinflammatory 0.04988173
     sentiment 0.25
-    cluster 2
+    cluster 3
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -2710,7 +4910,7 @@ graph
     step 0
     date "2022-07-10T12:58:04Z"
     title "Wordle July 10 - Whats The Answer Today? Wordle 386"
-    description "What's the Wordle of the Day? Wordle Today 7/10/22 #wordle #dailywordle wordle 386 #wordle386&#10;https://www.twitch.tv/feelgoodkenny"
+    description "What's the Wordle of the Day? Wordle Today 7/10/22 #wordle #dailywordle wordle 386 #wordle386&amp;#10;https://www.twitch.tv/feelgoodkenny"
     channeltitle "FeelGoodKenny Gaming"
     channelid "UCN8UM9PE28fN77TDQvNRwHA"
     favcount 0
@@ -2728,7 +4928,29 @@ graph
     ppprofanity 0.071941346
     ppinflammatory 0.014345056
     sentiment 0
-    cluster 3
+    cluster 9
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -2737,7 +4959,7 @@ graph
     step 0
     date "2022-03-28T21:00:10Z"
     title "My DOG helps me solve todays Wordle"
-    description "Solving #Wordle #282 for Monday, March 28th.&#10;&#10;Become a member of the Stro-Solves YouTube channel - https://www.youtube.com/channel/UC8HHDytpZ-cs9bavTbgYfmA/join&#10;&#10;You can find my other 'Wordle-like' solves here - https://youtube.com/playlist?list=PL_HjFt2zdfHV33cIRgG7tm-AvnfUP9cMG&#10;&#10;Come discuss these puzzles with us on discord - https://discord.gg/AEhpTG4z45"
+    description "Solving #Wordle #282 for Monday, March 28th.&amp;#10;&amp;#10;Become a member of the Stro-Solves YouTube channel - https://www.youtube.com/channel/UC8HHDytpZ-cs9bavTbgYfmA/join&amp;#10;&amp;#10;You can find my other 'Wordle-like' solves here - https://youtube.com/playlist?list=PL_HjFt2zdfHV33cIRgG7tm-AvnfUP9cMG&amp;#10;&amp;#10;Come discuss these puzzles with us on discord - https://discord.gg/AEhpTG4z45"
     channeltitle "Scott Stro-solves"
     channelid "UC8HHDytpZ-cs9bavTbgYfmA"
     favcount 0
@@ -2755,7 +4977,29 @@ graph
     ppprofanity 0.3380293
     ppinflammatory 0.013116233
     sentiment 0.5267
-    cluster 6
+    cluster 3
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -2764,7 +5008,7 @@ graph
     step 0
     date "2022-03-30T20:30:06Z"
     title "Sometimes you just get lucky in Wordle!"
-    description "Solving #Wordle #284 for Wednesday, March 30th.&#10;&#10;Become a member of the Stro-Solves YouTube channel - https://www.youtube.com/channel/UC8HHDytpZ-cs9bavTbgYfmA/join&#10;&#10;You can find my other 'Wordle-like' solves here - https://youtube.com/playlist?list=PL_HjFt2zdfHV33cIRgG7tm-AvnfUP9cMG&#10;&#10;Come discuss these puzzles with us on discord - https://discord.gg/AEhpTG4z45"
+    description "Solving #Wordle #284 for Wednesday, March 30th.&amp;#10;&amp;#10;Become a member of the Stro-Solves YouTube channel - https://www.youtube.com/channel/UC8HHDytpZ-cs9bavTbgYfmA/join&amp;#10;&amp;#10;You can find my other 'Wordle-like' solves here - https://youtube.com/playlist?list=PL_HjFt2zdfHV33cIRgG7tm-AvnfUP9cMG&amp;#10;&amp;#10;Come discuss these puzzles with us on discord - https://discord.gg/AEhpTG4z45"
     channeltitle "Scott Stro-solves"
     channelid "UC8HHDytpZ-cs9bavTbgYfmA"
     favcount 0
@@ -2782,7 +5026,29 @@ graph
     ppprofanity 0.04820374
     ppinflammatory 0.20645295
     sentiment 0.4215
-    cluster 6
+    cluster 3
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -2791,7 +5057,7 @@ graph
     step 0
     date "2022-02-12T06:30:04Z"
     title "Toast WORDLE GOD STRAT with CHAT!"
-    description "Hope you enjoy the video and LIKE the video for more!&#10;&#10;Toast GOD in every game&#10;&#10;Please SUBSCRIBE, it would mean a lot to me --- https://bit.ly/ToastPOG&#10;&#10;Watch Disguised Toast stream -- https://www.twitch.tv/disguisedtoast&#10;&#10;Please contact me via email if you have any takedown requests.&#10;toastfansuniteyt@gmail.com"
+    description "Hope you enjoy the video and LIKE the video for more!&amp;#10;&amp;#10;Toast GOD in every game&amp;#10;&amp;#10;Please SUBSCRIBE, it would mean a lot to me --- https://bit.ly/ToastPOG&amp;#10;&amp;#10;Watch Disguised Toast stream -- https://www.twitch.tv/disguisedtoast&amp;#10;&amp;#10;Please contact me via email if you have any takedown requests.&amp;#10;toastfansuniteyt@gmail.com"
     channeltitle "Sprout Boy"
     channelid "UC8mykxI_isbfP_9uUmZuujA"
     favcount 0
@@ -2810,6 +5076,28 @@ graph
     ppinflammatory 0.25618136
     sentiment 0.2732
     cluster 4
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -2818,7 +5106,7 @@ graph
     step 0
     date "2022-06-30T22:30:53Z"
     title "I see what youre doing, Wordle..."
-    description "(Spoilers 376) For fun, I start with the previous two day's words and use a viewer suggestion for my 3rd!&#10;&#10;Play Wordle here: https://www.nytimes.com/games/wordle/index.html&#10;&#10;======= LIVE STREAMS =======&#10;I stream word games right here on YouTube every night (except Friday) at 7pm PDT! Subscribe and ring the bell and/or join my Discord to get notifications for when I go live!&#10;&#10;======= MEMBERS =======&#10;Join my channel at the Video Enthusiast tier or higher to see the full, uncut videos with my entire thought process!&#10;https://www.youtube.com/rangsk/join&#10;&#10;===== MERCH ===== &#10;You can also support me by buying my super cute merch! All items feature an artistic rendering of my dog Rocky with no other branding! They're super cute!&#10;&#10;Check out my store here: https://rangsks-merch.creator-spring.com/&#10;&#10;======= DISCORD =======&#10;Join my Discord server to hang out and talk about Wordle, Wordle-like games, and other kinds of puzzles like Sudoku.&#10;https://discord.gg/AEhpTG4z45&#10;&#10;#wordle #puzzle #word #game"
+    description "(Spoilers 376) For fun, I start with the previous two day's words and use a viewer suggestion for my 3rd!&amp;#10;&amp;#10;Play Wordle here: https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;======= LIVE STREAMS =======&amp;#10;I stream word games right here on YouTube every night (except Friday) at 7pm PDT! Subscribe and ring the bell and/or join my Discord to get notifications for when I go live!&amp;#10;&amp;#10;======= MEMBERS =======&amp;#10;Join my channel at the Video Enthusiast tier or higher to see the full, uncut videos with my entire thought process!&amp;#10;https://www.youtube.com/rangsk/join&amp;#10;&amp;#10;===== MERCH ===== &amp;#10;You can also support me by buying my super cute merch! All items feature an artistic rendering of my dog Rocky with no other branding! They're super cute!&amp;#10;&amp;#10;Check out my store here: https://rangsks-merch.creator-spring.com/&amp;#10;&amp;#10;======= DISCORD =======&amp;#10;Join my Discord server to hang out and talk about Wordle, Wordle-like games, and other kinds of puzzles like Sudoku.&amp;#10;https://discord.gg/AEhpTG4z45&amp;#10;&amp;#10;#wordle #puzzle #word #game"
     channeltitle "Rangsk"
     channelid "UC1RUqXOT_iaH4b7iXKRWhLw"
     favcount 0
@@ -2836,7 +5124,29 @@ graph
     ppprofanity 0.06220508
     ppinflammatory 0.15521845
     sentiment 0
-    cluster 7
+    cluster 2
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -2845,7 +5155,7 @@ graph
     step 0
     date "2022-03-30T08:23:45Z"
     title "Wordle 284 for March 30th - What is Todays Wordle? 03/30/2022"
-    description "What is today's Wordle for 03/30/2022 Wordle number 284 ? Join me and let's find out &#38; guess the answer together. So many possibilities!&#10;A new word daily, how do you like to play &#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. March 30th 2022&#10;&#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&#10;&#10;0:00 Intro&#10;0:34 First Guess&#10;2:21 Wordle&#10;&#10;&#10;business contact: emptyapartmentgaming gmail&#10;&#10;#wordle #dailywordleclub"
+    description "What is today's Wordle for 03/30/2022 Wordle number 284 ? Join me and let's find out &amp;#38; guess the answer together. So many possibilities!&amp;#10;A new word daily, how do you like to play &amp;#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. March 30th 2022&amp;#10;&amp;#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;0:00 Intro&amp;#10;0:34 First Guess&amp;#10;2:21 Wordle&amp;#10;&amp;#10;&amp;#10;business contact: emptyapartmentgaming gmail&amp;#10;&amp;#10;#wordle #dailywordleclub"
     channeltitle "Empty Apartment"
     channelid "UCEb4tjgeTW47bD66Xryzx0Q"
     favcount 0
@@ -2864,6 +5174,28 @@ graph
     ppinflammatory 0.098024055
     sentiment 0
     cluster 1
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -2890,7 +5222,29 @@ graph
     ppprofanity 0.1087197
     ppinflammatory 0.08274923
     sentiment 0
-    cluster 7
+    cluster 6
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -2899,7 +5253,7 @@ graph
     step 0
     date "2022-03-02T22:58:19Z"
     title "Jomboy office attempts to defeat the Wordle KING"
-    description "WARNING: contains spoilers for March 2 Wordle&#10;&#10;The Jomboy Media office members see who can guess today's Wordle in the fewest guesses."
+    description "WARNING: contains spoilers for March 2 Wordle&amp;#10;&amp;#10;The Jomboy Media office members see who can guess today's Wordle in the fewest guesses."
     channeltitle "JM Gaming (Jomboy Media)"
     channelid "UCk71IrRQyptFQBL_eEeS1uw"
     favcount 0
@@ -2918,6 +5272,28 @@ graph
     ppinflammatory 0.26357484
     sentiment -0.4588
     cluster 4
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -2926,7 +5302,7 @@ graph
     step 0
     date "2022-06-30T08:59:00Z"
     title "Wordle 376 for June 30th"
-    description "What is today's Wordle for 06/30/2022 number 376 ? Join me and let's find out &#38; guess the answer together. Goodbye JUne!&#10;A new word daily, how do you like to play &#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. June 30h 2022&#10;&#10;Follow me on Twitter: https://twitter.com/emptyapartment3&#10;Join our Discord: https://discord.gg/9Py98RU&#10;Support/Buy me a &#34;coffee&#34;: https://ko-fi.com/emptyapartment&#10;&#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&#10;&#10;business contact: emptyapartmentgaming [at] gmail&#10;&#10;&#10;0:00 Intro&#10;0:18 First Guess&#10;2:30 Wordle?&#10;&#10;#wordle"
+    description "What is today's Wordle for 06/30/2022 number 376 ? Join me and let's find out &amp;#38; guess the answer together. Goodbye JUne!&amp;#10;A new word daily, how do you like to play &amp;#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. June 30h 2022&amp;#10;&amp;#10;Follow me on Twitter: https://twitter.com/emptyapartment3&amp;#10;Join our Discord: https://discord.gg/9Py98RU&amp;#10;Support/Buy me a &amp;#34;coffee&amp;#34;: https://ko-fi.com/emptyapartment&amp;#10;&amp;#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;business contact: emptyapartmentgaming [at] gmail&amp;#10;&amp;#10;&amp;#10;0:00 Intro&amp;#10;0:18 First Guess&amp;#10;2:30 Wordle?&amp;#10;&amp;#10;#wordle"
     channeltitle "Empty Apartment"
     channelid "UCEb4tjgeTW47bD66Xryzx0Q"
     favcount 0
@@ -2945,6 +5321,28 @@ graph
     ppinflammatory 0.15883088
     sentiment 0
     cluster 1
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -2953,7 +5351,7 @@ graph
     step 0
     date "2022-03-26T21:00:09Z"
     title "This Wordle solve is WAY too long for a short..."
-    description "Solving #Wordle #280 for Saturday, March 26th.&#10;&#10;Become a member of the Stro-Solves YouTube channel - https://www.youtube.com/channel/UC8HHDytpZ-cs9bavTbgYfmA/join&#10;&#10;You can find my other 'Wordle-like' solves here - https://youtube.com/playlist?list=PL_HjFt2zdfHV33cIRgG7tm-AvnfUP9cMG&#10;&#10;Come discuss these puzzles with us on discord - https://discord.gg/AEhpTG4z45"
+    description "Solving #Wordle #280 for Saturday, March 26th.&amp;#10;&amp;#10;Become a member of the Stro-Solves YouTube channel - https://www.youtube.com/channel/UC8HHDytpZ-cs9bavTbgYfmA/join&amp;#10;&amp;#10;You can find my other 'Wordle-like' solves here - https://youtube.com/playlist?list=PL_HjFt2zdfHV33cIRgG7tm-AvnfUP9cMG&amp;#10;&amp;#10;Come discuss these puzzles with us on discord - https://discord.gg/AEhpTG4z45"
     channeltitle "Scott Stro-solves"
     channelid "UC8HHDytpZ-cs9bavTbgYfmA"
     favcount 0
@@ -2971,7 +5369,29 @@ graph
     ppprofanity 0.08792097
     ppinflammatory 0.18896598
     sentiment 0.2023
-    cluster 6
+    cluster 7
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -2980,7 +5400,7 @@ graph
     step 0
     date "2022-04-15T21:20:39Z"
     title "How to avoid the hard mode WORDLE TRAP"
-    description "Solving #Wordle #300 for Friday, April 15th.&#10;&#10;You can find my other 'Wordle-like' solves here - https://youtube.com/playlist?list=PL_HjFt2zdfHV33cIRgG7tm-AvnfUP9cMG&#10;&#10;Become a member of the Stro-Solves YouTube channel - https://stro.link/join&#10;&#10;Come discuss these puzzles with us on discord - https://stro.link/discord"
+    description "Solving #Wordle #300 for Friday, April 15th.&amp;#10;&amp;#10;You can find my other 'Wordle-like' solves here - https://youtube.com/playlist?list=PL_HjFt2zdfHV33cIRgG7tm-AvnfUP9cMG&amp;#10;&amp;#10;Become a member of the Stro-Solves YouTube channel - https://stro.link/join&amp;#10;&amp;#10;Come discuss these puzzles with us on discord - https://stro.link/discord"
     channeltitle "Scott Stro-solves"
     channelid "UC8HHDytpZ-cs9bavTbgYfmA"
     favcount 0
@@ -2998,7 +5418,29 @@ graph
     ppprofanity 0.16293034
     ppinflammatory 0.23282793
     sentiment -0.5994
-    cluster 8
+    cluster 7
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -3007,7 +5449,7 @@ graph
     step 0
     date "2022-04-28T21:30:03Z"
     title "A very appropriate Wordle start for this channel"
-    description "Solving #Wordle #313 for Thursday, April 27th.&#10;&#10;You can find my other 'Wordle-like' solves here - https://youtube.com/playlist?list=PL_HjFt2zdfHV33cIRgG7tm-AvnfUP9cMG&#10;&#10;Become a member of the Stro-Solves YouTube channel - https://stro.link/join&#10;&#10;Come discuss these puzzles with us on discord - https://stro.link/discord"
+    description "Solving #Wordle #313 for Thursday, April 27th.&amp;#10;&amp;#10;You can find my other 'Wordle-like' solves here - https://youtube.com/playlist?list=PL_HjFt2zdfHV33cIRgG7tm-AvnfUP9cMG&amp;#10;&amp;#10;Become a member of the Stro-Solves YouTube channel - https://stro.link/join&amp;#10;&amp;#10;Come discuss these puzzles with us on discord - https://stro.link/discord"
     channeltitle "Scott Stro-solves"
     channelid "UC8HHDytpZ-cs9bavTbgYfmA"
     favcount 0
@@ -3025,7 +5467,29 @@ graph
     ppprofanity 0.11627618
     ppinflammatory 0.21563387
     sentiment 0
-    cluster 6
+    cluster 3
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -3034,7 +5498,7 @@ graph
     step 0
     date "2022-06-18T20:34:33Z"
     title ""
-    description "#wordletoday&#10;Solving today's #Wordle #364 for Saturday, June 18th.&#10;&#10;You can find my other 'Wordle-like' solves here - https://youtube.com/playlist?list=PL_HjFt2zdfHV33cIRgG7tm-AvnfUP9cMG&#10;&#10;Check out all my merch at https://stro.link/merch&#10;Become a member of the Stro-Solves YouTube channel - https://stro.link/join&#10;Come discuss these puzzles with us on discord - https://stro.link/discord"
+    description "#wordletoday&amp;#10;Solving today's #Wordle #364 for Saturday, June 18th.&amp;#10;&amp;#10;You can find my other 'Wordle-like' solves here - https://youtube.com/playlist?list=PL_HjFt2zdfHV33cIRgG7tm-AvnfUP9cMG&amp;#10;&amp;#10;Check out all my merch at https://stro.link/merch&amp;#10;Become a member of the Stro-Solves YouTube channel - https://stro.link/join&amp;#10;Come discuss these puzzles with us on discord - https://stro.link/discord"
     channeltitle "Scott Stro-solves"
     channelid "UC8HHDytpZ-cs9bavTbgYfmA"
     favcount 0
@@ -3052,7 +5516,29 @@ graph
     ppprofanity 0.08153292
     ppinflammatory 0.08888331
     sentiment 0
-    cluster 2
+    cluster 3
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -3061,7 +5547,7 @@ graph
     step 0
     date "2022-06-15T07:38:49Z"
     title "Wordle 361 for June 15th"
-    description "What is today's Wordle for 06/15/2022 number 361 ? Join me and let's find out &#38; guess the answer together. This was a tough one!&#10;A new word daily, how do you like to play &#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. June 15th 2022&#10;&#10;Follow me on Twitter: https://twitter.com/emptyapartment3&#10;Join our Discord: https://discord.gg/9Py98RU&#10;Support/Buy me a &#34;coffee&#34;: https://ko-fi.com/emptyapartment&#10;&#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&#10;&#10;business contact: emptyapartmentgaming [at] gmail&#10;&#10;&#10;0:00 Intro&#10;0:21 First Guess&#10;1:15 Tripy&#10;1:58 Wordle?&#10;&#10;#wordle"
+    description "What is today's Wordle for 06/15/2022 number 361 ? Join me and let's find out &amp;#38; guess the answer together. This was a tough one!&amp;#10;A new word daily, how do you like to play &amp;#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. June 15th 2022&amp;#10;&amp;#10;Follow me on Twitter: https://twitter.com/emptyapartment3&amp;#10;Join our Discord: https://discord.gg/9Py98RU&amp;#10;Support/Buy me a &amp;#34;coffee&amp;#34;: https://ko-fi.com/emptyapartment&amp;#10;&amp;#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;business contact: emptyapartmentgaming [at] gmail&amp;#10;&amp;#10;&amp;#10;0:00 Intro&amp;#10;0:21 First Guess&amp;#10;1:15 Tripy&amp;#10;1:58 Wordle?&amp;#10;&amp;#10;#wordle"
     channeltitle "Empty Apartment"
     channelid "UCEb4tjgeTW47bD66Xryzx0Q"
     favcount 0
@@ -3080,6 +5566,28 @@ graph
     ppinflammatory 0.15883088
     sentiment 0
     cluster 1
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -3088,7 +5596,7 @@ graph
     step 0
     date "2022-06-12T04:00:08Z"
     title "Doug plays todays Wordle #358 for 06/12/2022"
-    description "It's June 12, 2022 and Doug is playing today's daily Wordle! &#10;&#10;&#10;Please, if you enjoyed this video, like and subscribe to my channel!&#10;&#10;I can also be found on Twitch!&#10;https://www.twitch.tv/dougmansland&#10;&#10;I'm also on Twitter!&#10;https://twitter.com/dougmansland&#10;&#10;If you enjoy Discord, I have one of those too!&#10;https://discord.gg/MVXvhvg2Zm&#10;&#10;For some reason, I also make Tik Tok videos!&#10;https://www.tiktok.com/@dougmansland?lang=en"
+    description "It's June 12, 2022 and Doug is playing today's daily Wordle! &amp;#10;&amp;#10;&amp;#10;Please, if you enjoyed this video, like and subscribe to my channel!&amp;#10;&amp;#10;I can also be found on Twitch!&amp;#10;https://www.twitch.tv/dougmansland&amp;#10;&amp;#10;I'm also on Twitter!&amp;#10;https://twitter.com/dougmansland&amp;#10;&amp;#10;If you enjoy Discord, I have one of those too!&amp;#10;https://discord.gg/MVXvhvg2Zm&amp;#10;&amp;#10;For some reason, I also make Tik Tok videos!&amp;#10;https://www.tiktok.com/@dougmansland?lang=en"
     channeltitle "DougMansLand"
     channelid "UCkiAm7y8MQCbFwpB-52QRtg"
     favcount 0
@@ -3106,7 +5614,29 @@ graph
     ppprofanity 0.05379837
     ppinflammatory 0.049881727
     sentiment 0.25
-    cluster 2
+    cluster 3
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -3115,7 +5645,7 @@ graph
     step 0
     date "2022-07-06T23:18:47Z"
     title "Youll be CHANTing the answer as I solve this Wordle..."
-    description "(Spoilers 382) For fun, I start with the previous two day's words and use a viewer suggestion for my 3rd!&#10;&#10;Play Wordle here: https://www.nytimes.com/games/wordle/index.html&#10;&#10;======= LIVE STREAMS =======&#10;I stream word games right here on YouTube every night (except Friday) at 7pm PDT! Subscribe and ring the bell and/or join my Discord to get notifications for when I go live!&#10;&#10;======= MEMBERS =======&#10;Join my channel at the Video Enthusiast tier or higher to see the full, uncut videos with my entire thought process!&#10;https://www.youtube.com/rangsk/join&#10;&#10;===== MERCH ===== &#10;You can also support me by buying my super cute merch! All items feature an artistic rendering of my dog Rocky with no other branding! They're super cute!&#10;&#10;Check out my store here: https://rangsks-merch.creator-spring.com/&#10;&#10;======= DISCORD =======&#10;Join my Discord server to hang out and talk about Wordle, Wordle-like games, and other kinds of puzzles like Sudoku.&#10;https://discord.gg/AEhpTG4z45&#10;&#10;#wordle #puzzle #word #game"
+    description "(Spoilers 382) For fun, I start with the previous two day's words and use a viewer suggestion for my 3rd!&amp;#10;&amp;#10;Play Wordle here: https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;======= LIVE STREAMS =======&amp;#10;I stream word games right here on YouTube every night (except Friday) at 7pm PDT! Subscribe and ring the bell and/or join my Discord to get notifications for when I go live!&amp;#10;&amp;#10;======= MEMBERS =======&amp;#10;Join my channel at the Video Enthusiast tier or higher to see the full, uncut videos with my entire thought process!&amp;#10;https://www.youtube.com/rangsk/join&amp;#10;&amp;#10;===== MERCH ===== &amp;#10;You can also support me by buying my super cute merch! All items feature an artistic rendering of my dog Rocky with no other branding! They're super cute!&amp;#10;&amp;#10;Check out my store here: https://rangsks-merch.creator-spring.com/&amp;#10;&amp;#10;======= DISCORD =======&amp;#10;Join my Discord server to hang out and talk about Wordle, Wordle-like games, and other kinds of puzzles like Sudoku.&amp;#10;https://discord.gg/AEhpTG4z45&amp;#10;&amp;#10;#wordle #puzzle #word #game"
     channeltitle "Rangsk"
     channelid "UC1RUqXOT_iaH4b7iXKRWhLw"
     favcount 0
@@ -3133,7 +5663,29 @@ graph
     ppprofanity 0.12127323
     ppinflammatory 0.051983267
     sentiment 0.2023
-    cluster 6
+    cluster 9
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -3142,7 +5694,7 @@ graph
     step 0
     date "2022-02-18T15:46:14Z"
     title "We Try Playing MUSICAL WORDLE"
-    description "Practice Apparel!: https://www.twosetapparel.com&#10;Follow TwoSet Apparel: https://www.instagram.com/twosetapparel/&#10;Submit your music memes: http://www.reddit.com/r/lingling40hrs&#10;***Passionate about Classical Music? Join our team! Go to this link: https://www.twosetviolin.com/apply &#10;_______________________________________&#10;&#10;S H O P: https://www.twosetapparel.com&#10;W E B S I T E: http://www.twosetviolin.com &#10;F A C E B O O K: http://www.facebook.com/twosetviolin &#10;I N S T A G R A M: http://www.instagram.com/twosetviolin&#10;T W I T T E R: http://www.twitter.com/twosetviolin &#10;T I K T O K: https://www.tiktok.com/@twosetviolin&#10;W E I B O: https://www.weibo.com/twosetviolinofficial"
+    description "Practice Apparel!: https://www.twosetapparel.com&amp;#10;Follow TwoSet Apparel: https://www.instagram.com/twosetapparel/&amp;#10;Submit your music memes: http://www.reddit.com/r/lingling40hrs&amp;#10;***Passionate about Classical Music? Join our team! Go to this link: https://www.twosetviolin.com/apply &amp;#10;_______________________________________&amp;#10;&amp;#10;S H O P: https://www.twosetapparel.com&amp;#10;W E B S I T E: http://www.twosetviolin.com &amp;#10;F A C E B O O K: http://www.facebook.com/twosetviolin &amp;#10;I N S T A G R A M: http://www.instagram.com/twosetviolin&amp;#10;T W I T T E R: http://www.twitter.com/twosetviolin &amp;#10;T I K T O K: https://www.tiktok.com/@twosetviolin&amp;#10;W E I B O: https://www.weibo.com/twosetviolinofficial"
     channeltitle "TwoSetViolin"
     channelid "UCAzKFALPuF_EPe-AEI0WFFw"
     favcount 0
@@ -3160,7 +5712,29 @@ graph
     ppprofanity 0.0744821
     ppinflammatory 0.16769579
     sentiment 0.2023
-    cluster 4
+    cluster 2
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -3169,7 +5743,7 @@ graph
     step 0
     date "2022-05-24T07:04:52Z"
     title "Wordle 339 for May 24th - What is Todays Wordle?"
-    description "What is today's Wordle for 05/24/2022 number 339 ? Join me and let's find out &#38; guess the answer together. For some reasona tricky word right?&#10;A new word daily, how do you like to play &#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. May 24th 2022&#10;&#10;Follow me on Twitter: https://twitter.com/emptyapartment3&#10;Join our Discord: https://discord.gg/9Py98RU&#10;Support/Buy me a &#34;coffee&#34;: https://ko-fi.com/emptyapartment&#10;&#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&#10;&#10;business contact: emptyapartmentgaming gmail&#10;&#10;&#10;0:00 Intro&#10;0:21 First Guess&#10;1:35 Wordle?&#10;&#10;#wordle"
+    description "What is today's Wordle for 05/24/2022 number 339 ? Join me and let's find out &amp;#38; guess the answer together. For some reasona tricky word right?&amp;#10;A new word daily, how do you like to play &amp;#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. May 24th 2022&amp;#10;&amp;#10;Follow me on Twitter: https://twitter.com/emptyapartment3&amp;#10;Join our Discord: https://discord.gg/9Py98RU&amp;#10;Support/Buy me a &amp;#34;coffee&amp;#34;: https://ko-fi.com/emptyapartment&amp;#10;&amp;#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;business contact: emptyapartmentgaming gmail&amp;#10;&amp;#10;&amp;#10;0:00 Intro&amp;#10;0:21 First Guess&amp;#10;1:35 Wordle?&amp;#10;&amp;#10;#wordle"
     channeltitle "Empty Apartment"
     channelid "UCEb4tjgeTW47bD66Xryzx0Q"
     favcount 0
@@ -3187,7 +5761,29 @@ graph
     ppprofanity 0.04714567
     ppinflammatory 0.07931957
     sentiment 0
-    cluster 1
+    cluster 2
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -3196,7 +5792,7 @@ graph
     step 0
     date "2022-01-28T08:08:06Z"
     title "Tough One Today! Wordle 223 for 01/28/2022 - January 28th"
-    description "What is today's Wordle? Let's find out &#38; guess the answer together. Join me for today's 01/28/2022 Wordle number 223. This was a tough one!&#10;Everyone's new favorite game. A new word daily, how do you like to play &#38; what's your strategy? Thought I'd try uploading my guesses and answers, plus cool to archive it. January 28th 2022&#10;&#10;Play for yourself at: https://www.powerlanguage.co.uk/wordle/&#10;&#10;0:00 Intro&#10;0:20 First Guess&#10;2:20 What's Lehrs?&#10;3:30 Wordle!&#10;&#10;business contact: emptyapartmentgaming gmail&#10;&#10;#wordle #dailywordleclub"
+    description "What is today's Wordle? Let's find out &amp;#38; guess the answer together. Join me for today's 01/28/2022 Wordle number 223. This was a tough one!&amp;#10;Everyone's new favorite game. A new word daily, how do you like to play &amp;#38; what's your strategy? Thought I'd try uploading my guesses and answers, plus cool to archive it. January 28th 2022&amp;#10;&amp;#10;Play for yourself at: https://www.powerlanguage.co.uk/wordle/&amp;#10;&amp;#10;0:00 Intro&amp;#10;0:20 First Guess&amp;#10;2:20 What's Lehrs?&amp;#10;3:30 Wordle!&amp;#10;&amp;#10;business contact: emptyapartmentgaming gmail&amp;#10;&amp;#10;#wordle #dailywordleclub"
     channeltitle "Empty Apartment"
     channelid "UCEb4tjgeTW47bD66Xryzx0Q"
     favcount 0
@@ -3215,6 +5811,28 @@ graph
     ppinflammatory 0.028080793
     sentiment -0.128
     cluster 1
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -3223,7 +5841,7 @@ graph
     step 0
     date "2022-01-19T21:54:14Z"
     title "FOX 13 Morning News team plays Wordle!"
-    description "Everybody is talking about Wordle, a new word puzzle game. So the FOX 13 Morning News team explains how Wordle works and plays the game!&#10;&#10;Subscribe to FOX 13 Seattle: https://www.youtube.com/c/fox13seattle?sub_confirmation=1&#10;&#10;Watch FOX 13 Seattle Live: https://www.q13fox.com/live&#10;&#10;FOX 13 Seattle is Western Washington's source for breaking news, weather, traffic, politics and sports. Home of Washington's Most Wanted and the official TV partner of the Seattle Seahawks, Sounders FC and Storm Basketball.&#10;&#10;Download the FOX 13 Seattle News App: https://q13fox.onelink.me/PeGO/7e4d2af8&#10;&#10;Download the FOX 13 Seattle Weather App: https://jckig.app.link/dlUcXuM2Peb&#10;&#10;Subscribe to FOX 13 Seattle newsletters: https://www.q13fox.com/newsletters&#10;&#10;Follow FOX 13 Seattle on Facebook: https://www.facebook.com/fox13seattle&#10;&#10;Follow FOX 13 Seattle on Twitter: https://twitter.com/fox13seattle&#10;&#10;Follow FOX 13 Seattle on Instagram: https://www.instagram.com/fox13seattle"
+    description "Everybody is talking about Wordle, a new word puzzle game. So the FOX 13 Morning News team explains how Wordle works and plays the game!&amp;#10;&amp;#10;Subscribe to FOX 13 Seattle: https://www.youtube.com/c/fox13seattle?sub_confirmation=1&amp;#10;&amp;#10;Watch FOX 13 Seattle Live: https://www.q13fox.com/live&amp;#10;&amp;#10;FOX 13 Seattle is Western Washington's source for breaking news, weather, traffic, politics and sports. Home of Washington's Most Wanted and the official TV partner of the Seattle Seahawks, Sounders FC and Storm Basketball.&amp;#10;&amp;#10;Download the FOX 13 Seattle News App: https://q13fox.onelink.me/PeGO/7e4d2af8&amp;#10;&amp;#10;Download the FOX 13 Seattle Weather App: https://jckig.app.link/dlUcXuM2Peb&amp;#10;&amp;#10;Subscribe to FOX 13 Seattle newsletters: https://www.q13fox.com/newsletters&amp;#10;&amp;#10;Follow FOX 13 Seattle on Facebook: https://www.facebook.com/fox13seattle&amp;#10;&amp;#10;Follow FOX 13 Seattle on Twitter: https://twitter.com/fox13seattle&amp;#10;&amp;#10;Follow FOX 13 Seattle on Instagram: https://www.instagram.com/fox13seattle"
     channeltitle "FOX 13 Seattle"
     channelid "UC5bKZHg4PzURMOWcvanl6nA"
     favcount 0
@@ -3242,6 +5860,28 @@ graph
     ppinflammatory 0.24556549
     sentiment 0.25
     cluster 2
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -3250,7 +5890,7 @@ graph
     step 0
     date "2022-01-23T18:24:43Z"
     title "SNL cold-open: Trump plays Wordle, Ted Cruz phrasing and Djokovic drama"
-    description "The &#34;Saturday Night Live&#34; cold-open on Jan. 22 took the form of a segment of Fox News&#8217; &#34;The Ingraham Angle,&#34; starring cast member Kate McKinnon as Laura Ingraham. Aidy Bryant played Sen. Ted Cruz (R-Tex.) and Pete Davidson portrayed tennis superstar Novak Djokovic.&#10;&#10;&#10;included Aidy Bryant playing Sen. Ted Cruz (R-Tex.) and Pete Davidson as tennis superstar Novak Djokovic. Subscribe to The Washington Post on YouTube: https://wapo.st/2QOdcqK&#10;&#10;Follow us:&#10;Twitter: https://twitter.com/washingtonpost&#10;Instagram: https://www.instagram.com/washingtonpost/&#10;Facebook: https://www.facebook.com/washingtonpost/"
+    description "The &amp;#34;Saturday Night Live&amp;#34; cold-open on Jan. 22 took the form of a segment of Fox News&amp;#8217; &amp;#34;The Ingraham Angle,&amp;#34; starring cast member Kate McKinnon as Laura Ingraham. Aidy Bryant played Sen. Ted Cruz (R-Tex.) and Pete Davidson portrayed tennis superstar Novak Djokovic.&amp;#10;&amp;#10;&amp;#10;included Aidy Bryant playing Sen. Ted Cruz (R-Tex.) and Pete Davidson as tennis superstar Novak Djokovic. Subscribe to The Washington Post on YouTube: https://wapo.st/2QOdcqK&amp;#10;&amp;#10;Follow us:&amp;#10;Twitter: https://twitter.com/washingtonpost&amp;#10;Instagram: https://www.instagram.com/washingtonpost/&amp;#10;Facebook: https://www.facebook.com/washingtonpost/"
     channeltitle "Washington Post"
     channelid "UCHd62-u_v4DvJ8TCFtpi4GA"
     favcount 0
@@ -3268,7 +5908,29 @@ graph
     ppprofanity 0.22710025
     ppinflammatory 0.041216288
     sentiment 0.25
-    cluster 4
+    cluster 3
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -3277,7 +5939,7 @@ graph
     step 0
     date "2022-01-20T15:25:57Z"
     title "Why is Everyone Playing Wordle?"
-    description "Why are there so many green and blue emojis al over Twitter? In this clip Marques explains what Wordle is to Andrew. This was recorded previously so it can't spoil the word of the day for you!&#10;&#10;Links:&#10;Full episode: https://bit.ly/3qECnAP&#10;Wordle: https://www.powerlanguage.co.uk/wordle/&#10;&#10;Twitters:&#10;https://twitter.com/wvfrm&#10;https://twitter.com/mkbhd&#10;https://twitter.com/andymanganelli&#10;https://twitter.com/DurvidImel&#10;https://twitter.com/AdamLukas17&#10;&#10;Instagram:&#10;https://www.instagram.com/wvfrmpodcast/&#10;&#10;Shop the merch:&#10;shop.mkbhd.com&#10;&#10;Join the Discord:&#10;https://discord.gg/mkbhd&#10;&#10;Music by 20syl:&#10;https://bit.ly/2S53xlC&#10;&#10;Waveform is part of the Vox Media Podcast Network."
+    description "Why are there so many green and blue emojis al over Twitter? In this clip Marques explains what Wordle is to Andrew. This was recorded previously so it can't spoil the word of the day for you!&amp;#10;&amp;#10;Links:&amp;#10;Full episode: https://bit.ly/3qECnAP&amp;#10;Wordle: https://www.powerlanguage.co.uk/wordle/&amp;#10;&amp;#10;Twitters:&amp;#10;https://twitter.com/wvfrm&amp;#10;https://twitter.com/mkbhd&amp;#10;https://twitter.com/andymanganelli&amp;#10;https://twitter.com/DurvidImel&amp;#10;https://twitter.com/AdamLukas17&amp;#10;&amp;#10;Instagram:&amp;#10;https://www.instagram.com/wvfrmpodcast/&amp;#10;&amp;#10;Shop the merch:&amp;#10;shop.mkbhd.com&amp;#10;&amp;#10;Join the Discord:&amp;#10;https://discord.gg/mkbhd&amp;#10;&amp;#10;Music by 20syl:&amp;#10;https://bit.ly/2S53xlC&amp;#10;&amp;#10;Waveform is part of the Vox Media Podcast Network."
     channeltitle "Waveform Clips"
     channelid "UCc_ycus0q7DSd85ZkmEY5ig"
     favcount 0
@@ -3295,7 +5957,29 @@ graph
     ppprofanity 0.03719704
     ppinflammatory 0.25494343
     sentiment 0.2023
-    cluster 1
+    cluster 2
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -3304,7 +5988,7 @@ graph
     step 0
     date "2022-04-11T16:07:59Z"
     title "Pokemon Wordle To Build A Team, Then We Battle!"
-    description "We use a Wordle like system to build a Pokemon team in Pokemon Sword and Shield, and then we battle! Someone may have found Arceus!&#10;&#10;Subscribe to ShadyPenguinn: http://bit.ly/subShadyPenguinn&#10;Join http://ShadyPenguinn.com for Early Access and More!&#10;The full Pokemon Challenges, and then we fight playlist! https://tinyurl.com/swshpc&#10;&#10;Ft.  @United Plays  / @UnitedGamer &#10;Edited by Angel: https://twitter.com/AngelReyesII&#10;&#10;Music:&#10;http://youtube.com/glitchxcity&#10;&#10;Mod credits:&#10;https://gamebanana.com/mods/251199&#10;https://gamebanana.com/mods/251220&#10;https://twitter.com/teamsubbit&#10;&#10;12 Pokemon Fused To Build a Team, Then We Battle! Ft @GameboyLuke &#10;https://youtu.be/keHSnydRc_A&#10;15 Random Pokemon Eggs To Build a Team, Then We Battle! Ft @United Plays  / @UnitedGamer &#10;https://youtu.be/24uZVrrg-kQ&#10;Pokemon Platinum Warp Race Ft @SmallAnt  &#10;https://youtu.be/UaCykjJKzfQ&#10;A Pokemon Youtuber thought I'd lose a random map race.. Ft @Patterrz &#10;https://youtu.be/KizvnpfyzY4&#10;&#10;SUBSCRIBE to the channel! http://bit.ly/subShadyPenguinn&#10;My Channel: http://www.youtube.com/shadypenguinn&#10;Twitter: http://twitter.com/shadypenguinn&#10;Twitch: http://twitch.tv/shadypenguinn&#10;Instagram: http://instagram.com/ShadyPenguinn&#10;&#10;#Pokemon #ShadyPenguinn #PokemonChallenges"
+    description "We use a Wordle like system to build a Pokemon team in Pokemon Sword and Shield, and then we battle! Someone may have found Arceus!&amp;#10;&amp;#10;Subscribe to ShadyPenguinn: http://bit.ly/subShadyPenguinn&amp;#10;Join http://ShadyPenguinn.com for Early Access and More!&amp;#10;The full Pokemon Challenges, and then we fight playlist! https://tinyurl.com/swshpc&amp;#10;&amp;#10;Ft.  @United Plays  / @UnitedGamer &amp;#10;Edited by Angel: https://twitter.com/AngelReyesII&amp;#10;&amp;#10;Music:&amp;#10;http://youtube.com/glitchxcity&amp;#10;&amp;#10;Mod credits:&amp;#10;https://gamebanana.com/mods/251199&amp;#10;https://gamebanana.com/mods/251220&amp;#10;https://twitter.com/teamsubbit&amp;#10;&amp;#10;12 Pokemon Fused To Build a Team, Then We Battle! Ft @GameboyLuke &amp;#10;https://youtu.be/keHSnydRc_A&amp;#10;15 Random Pokemon Eggs To Build a Team, Then We Battle! Ft @United Plays  / @UnitedGamer &amp;#10;https://youtu.be/24uZVrrg-kQ&amp;#10;Pokemon Platinum Warp Race Ft @SmallAnt  &amp;#10;https://youtu.be/UaCykjJKzfQ&amp;#10;A Pokemon Youtuber thought I'd lose a random map race.. Ft @Patterrz &amp;#10;https://youtu.be/KizvnpfyzY4&amp;#10;&amp;#10;SUBSCRIBE to the channel! http://bit.ly/subShadyPenguinn&amp;#10;My Channel: http://www.youtube.com/shadypenguinn&amp;#10;Twitter: http://twitter.com/shadypenguinn&amp;#10;Twitch: http://twitch.tv/shadypenguinn&amp;#10;Instagram: http://instagram.com/ShadyPenguinn&amp;#10;&amp;#10;#Pokemon #ShadyPenguinn #PokemonChallenges"
     channeltitle "shadypenguinn"
     channelid "UCU_mC__7H8NBJzX8ubMGY4Q"
     favcount 0
@@ -3322,7 +6006,29 @@ graph
     ppprofanity 0.047658943
     ppinflammatory 0.26779425
     sentiment -0.3818
-    cluster 5
+    cluster 2
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -3331,7 +6037,7 @@ graph
     step 0
     date "2022-07-09T04:00:31Z"
     title "Doug plays todays Wordle #385 for 07/09/2022"
-    description "It's July 9, 2022 and Doug is playing today's daily Wordle! #wordle&#10;&#10;&#10;Please, if you enjoyed this video, like and subscribe to my channel!&#10;&#10;I can also be found on Twitch!&#10;https://www.twitch.tv/dougmansland&#10;&#10;I'm also on Twitter!&#10;https://twitter.com/dougmansland&#10;&#10;If you enjoy Discord, I have one of those too!&#10;https://discord.gg/MVXvhvg2Zm"
+    description "It's July 9, 2022 and Doug is playing today's daily Wordle! #wordle&amp;#10;&amp;#10;&amp;#10;Please, if you enjoyed this video, like and subscribe to my channel!&amp;#10;&amp;#10;I can also be found on Twitch!&amp;#10;https://www.twitch.tv/dougmansland&amp;#10;&amp;#10;I'm also on Twitter!&amp;#10;https://twitter.com/dougmansland&amp;#10;&amp;#10;If you enjoy Discord, I have one of those too!&amp;#10;https://discord.gg/MVXvhvg2Zm"
     channeltitle "DougMansLand"
     channelid "UCkiAm7y8MQCbFwpB-52QRtg"
     favcount 0
@@ -3349,7 +6055,29 @@ graph
     ppprofanity 0.06873089
     ppinflammatory 0.049881727
     sentiment 0.25
-    cluster 8
+    cluster 5
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -3358,7 +6086,7 @@ graph
     step 0
     date "2022-06-19T21:00:06Z"
     title ""
-    description "#wordletoday&#10;Solving today's #Wordle #365 for Sunday, June 19th.&#10;&#10;You can find my other 'Wordle-like' solves here - https://youtube.com/playlist?list=PL_HjFt2zdfHV33cIRgG7tm-AvnfUP9cMG&#10;&#10;Check out all my merch at https://stro.link/merch&#10;Become a member of the Stro-Solves YouTube channel - https://stro.link/join&#10;Come discuss these puzzles with us on discord - https://stro.link/discord"
+    description "#wordletoday&amp;#10;Solving today's #Wordle #365 for Sunday, June 19th.&amp;#10;&amp;#10;You can find my other 'Wordle-like' solves here - https://youtube.com/playlist?list=PL_HjFt2zdfHV33cIRgG7tm-AvnfUP9cMG&amp;#10;&amp;#10;Check out all my merch at https://stro.link/merch&amp;#10;Become a member of the Stro-Solves YouTube channel - https://stro.link/join&amp;#10;Come discuss these puzzles with us on discord - https://stro.link/discord"
     channeltitle "Scott Stro-solves"
     channelid "UC8HHDytpZ-cs9bavTbgYfmA"
     favcount 0
@@ -3376,7 +6104,29 @@ graph
     ppprofanity 0.098321095
     ppinflammatory 0.03930087
     sentiment 0.5719
-    cluster 2
+    cluster 3
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -3385,7 +6135,7 @@ graph
     step 0
     date "2022-05-29T04:00:15Z"
     title "Doug plays todays Wordle #344 for 05/29/2022"
-    description "It's May 29, 2022 and Doug is playing today's daily Wordle! &#10;&#10;&#10;Please, if you enjoyed this video, like and subscribe to my channel!&#10;&#10;I can also be found on Twitch!&#10;https://www.twitch.tv/dougmansland&#10;&#10;I'm also on Twitter!&#10;https://twitter.com/dougmansland&#10;&#10;If you enjoy Discord, I have one of those too!&#10;https://discord.gg/MVXvhvg2Zm&#10;&#10;For some reason, I also make Tik Tok videos!&#10;https://www.tiktok.com/@dougmansland?lang=en"
+    description "It's May 29, 2022 and Doug is playing today's daily Wordle! &amp;#10;&amp;#10;&amp;#10;Please, if you enjoyed this video, like and subscribe to my channel!&amp;#10;&amp;#10;I can also be found on Twitch!&amp;#10;https://www.twitch.tv/dougmansland&amp;#10;&amp;#10;I'm also on Twitter!&amp;#10;https://twitter.com/dougmansland&amp;#10;&amp;#10;If you enjoy Discord, I have one of those too!&amp;#10;https://discord.gg/MVXvhvg2Zm&amp;#10;&amp;#10;For some reason, I also make Tik Tok videos!&amp;#10;https://www.tiktok.com/@dougmansland?lang=en"
     channeltitle "DougMansLand"
     channelid "UCkiAm7y8MQCbFwpB-52QRtg"
     favcount 0
@@ -3403,7 +6153,29 @@ graph
     ppprofanity 0.0806183
     ppinflammatory 0.049881727
     sentiment 0.25
-    cluster 8
+    cluster 5
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -3412,7 +6184,7 @@ graph
     step 0
     date "2022-07-07T04:00:12Z"
     title "Doug plays todays Wordle #383 for 07/07/2022"
-    description "It's July 7, 2022 and Doug is playing today's daily Wordle! #wordle&#10;&#10;&#10;Please, if you enjoyed this video, like and subscribe to my channel!&#10;&#10;I can also be found on Twitch!&#10;https://www.twitch.tv/dougmansland&#10;&#10;I'm also on Twitter!&#10;https://twitter.com/dougmansland&#10;&#10;If you enjoy Discord, I have one of those too!&#10;https://discord.gg/MVXvhvg2Zm"
+    description "It's July 7, 2022 and Doug is playing today's daily Wordle! #wordle&amp;#10;&amp;#10;&amp;#10;Please, if you enjoyed this video, like and subscribe to my channel!&amp;#10;&amp;#10;I can also be found on Twitch!&amp;#10;https://www.twitch.tv/dougmansland&amp;#10;&amp;#10;I'm also on Twitter!&amp;#10;https://twitter.com/dougmansland&amp;#10;&amp;#10;If you enjoy Discord, I have one of those too!&amp;#10;https://discord.gg/MVXvhvg2Zm"
     channeltitle "DougMansLand"
     channelid "UCkiAm7y8MQCbFwpB-52QRtg"
     favcount 0
@@ -3430,7 +6202,29 @@ graph
     ppprofanity 0.08094426
     ppinflammatory 0.049881727
     sentiment 0.25
-    cluster 8
+    cluster 5
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -3439,7 +6233,7 @@ graph
     step 0
     date "2022-06-16T22:33:48Z"
     title "Can I survive this Wordle challenge from my son?"
-    description "#wordletoday&#10;Solving today's #Wordle #362 for Thursday, June 16th.&#10;&#10;You can find my other 'Wordle-like' solves here - https://youtube.com/playlist?list=PL_HjFt2zdfHV33cIRgG7tm-AvnfUP9cMG&#10;&#10;Check out all my merch at https://stro.link/merch&#10;Become a member of the Stro-Solves YouTube channel - https://stro.link/join&#10;Come discuss these puzzles with us on discord - https://stro.link/discord"
+    description "#wordletoday&amp;#10;Solving today's #Wordle #362 for Thursday, June 16th.&amp;#10;&amp;#10;You can find my other 'Wordle-like' solves here - https://youtube.com/playlist?list=PL_HjFt2zdfHV33cIRgG7tm-AvnfUP9cMG&amp;#10;&amp;#10;Check out all my merch at https://stro.link/merch&amp;#10;Become a member of the Stro-Solves YouTube channel - https://stro.link/join&amp;#10;Come discuss these puzzles with us on discord - https://stro.link/discord"
     channeltitle "Scott Stro-solves"
     channelid "UC8HHDytpZ-cs9bavTbgYfmA"
     favcount 0
@@ -3457,7 +6251,29 @@ graph
     ppprofanity 0.05772248
     ppinflammatory 0.19318101
     sentiment 0.0964
-    cluster 2
+    cluster 3
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -3466,7 +6282,7 @@ graph
     step 0
     date "2022-03-19T10:04:20Z"
     title "Wordle 273 for March 19th - What is Todays Wordle? 03/19/2022"
-    description "What is today's Wordle for 03/19/2022 Wordle number 273 ? Join me and let's find out &#38; guess the answer together. Stunning!&#10;A new word daily, how do you like to play &#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. March 19th 2022&#10;&#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&#10;&#10;0:00 Intro&#10;0:29 First Guess&#10;1:45 Letter L&#10;2:55 Wordle&#10;&#10;&#10;business contact: emptyapartmentgaming gmail&#10;&#10;#wordle #dailywordleclub"
+    description "What is today's Wordle for 03/19/2022 Wordle number 273 ? Join me and let's find out &amp;#38; guess the answer together. Stunning!&amp;#10;A new word daily, how do you like to play &amp;#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. March 19th 2022&amp;#10;&amp;#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;0:00 Intro&amp;#10;0:29 First Guess&amp;#10;1:45 Letter L&amp;#10;2:55 Wordle&amp;#10;&amp;#10;&amp;#10;business contact: emptyapartmentgaming gmail&amp;#10;&amp;#10;#wordle #dailywordleclub"
     channeltitle "Empty Apartment"
     channelid "UCEb4tjgeTW47bD66Xryzx0Q"
     favcount 0
@@ -3485,6 +6301,28 @@ graph
     ppinflammatory 0.098024055
     sentiment 0
     cluster 1
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -3493,7 +6331,7 @@ graph
     step 0
     date "2022-04-27T21:52:30Z"
     title "Testing out a VERY popular Wordle suggestion"
-    description "Solving #Wordle #312 for Wednesday, April 27th.&#10;&#10;You can find my other 'Wordle-like' solves here - https://youtube.com/playlist?list=PL_HjFt2zdfHV33cIRgG7tm-AvnfUP9cMG&#10;&#10;Become a member of the Stro-Solves YouTube channel - https://stro.link/join&#10;&#10;Come discuss these puzzles with us on discord - https://stro.link/discord"
+    description "Solving #Wordle #312 for Wednesday, April 27th.&amp;#10;&amp;#10;You can find my other 'Wordle-like' solves here - https://youtube.com/playlist?list=PL_HjFt2zdfHV33cIRgG7tm-AvnfUP9cMG&amp;#10;&amp;#10;Become a member of the Stro-Solves YouTube channel - https://stro.link/join&amp;#10;&amp;#10;Come discuss these puzzles with us on discord - https://stro.link/discord"
     channeltitle "Scott Stro-solves"
     channelid "UC8HHDytpZ-cs9bavTbgYfmA"
     favcount 0
@@ -3511,7 +6349,29 @@ graph
     ppprofanity 0.052322995
     ppinflammatory 0.20251116
     sentiment 0.4754
-    cluster 6
+    cluster 3
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -3520,7 +6380,7 @@ graph
     step 0
     date "2022-06-06T04:00:03Z"
     title "Doug plays todays Wordle #352 for 06/06/2022"
-    description "It's June 6, 2022 and Doug is playing today's daily Wordle! &#10;&#10;&#10;Please, if you enjoyed this video, like and subscribe to my channel!&#10;&#10;I can also be found on Twitch!&#10;https://www.twitch.tv/dougmansland&#10;&#10;I'm also on Twitter!&#10;https://twitter.com/dougmansland&#10;&#10;If you enjoy Discord, I have one of those too!&#10;https://discord.gg/MVXvhvg2Zm&#10;&#10;For some reason, I also make Tik Tok videos!&#10;https://www.tiktok.com/@dougmansland?lang=en"
+    description "It's June 6, 2022 and Doug is playing today's daily Wordle! &amp;#10;&amp;#10;&amp;#10;Please, if you enjoyed this video, like and subscribe to my channel!&amp;#10;&amp;#10;I can also be found on Twitch!&amp;#10;https://www.twitch.tv/dougmansland&amp;#10;&amp;#10;I'm also on Twitter!&amp;#10;https://twitter.com/dougmansland&amp;#10;&amp;#10;If you enjoy Discord, I have one of those too!&amp;#10;https://discord.gg/MVXvhvg2Zm&amp;#10;&amp;#10;For some reason, I also make Tik Tok videos!&amp;#10;https://www.tiktok.com/@dougmansland?lang=en"
     channeltitle "DougMansLand"
     channelid "UCkiAm7y8MQCbFwpB-52QRtg"
     favcount 0
@@ -3538,7 +6398,29 @@ graph
     ppprofanity 0.04278843
     ppinflammatory 0.04988173
     sentiment 0.25
-    cluster 6
+    cluster 4
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -3547,7 +6429,7 @@ graph
     step 0
     date "2022-07-07T09:00:02Z"
     title "Wordle in a Minute - 6th July 2022 Full Length"
-    description "This is Wordle, but not in a minute as we know it. This is the unedited version of 6th July's Wordle solve&#10;&#10;&#9654; SUDOKU PAD - Our New App &#9664; NOW AVAILABLE - You can now input your own classic sudoku puzzles into our software using our new App! The app also comes with 12 handmade puzzles from us and it is NOW AVAILABLE at these links: &#10;iOS: https://apps.apple.com/us/app/svens-sudokupad/id1570622073 &#10;Steam: https://store.steampowered.com/app/1706870/Svens_SudokuPad/  &#10;Android: https://play.google.com/store/apps/details?id=com.svencodes.sudokupad&#10;On Amazon: Search for &#8220;SudokuPad&#8221;&#10;&#10;&#9654; OUR PATREON PAGE &#8211; JOIN THE COMMUNITY, SUPPORT US AND TRY OUR PUZZLE HUNTS&#9664;&#10;https://www.patreon.com/crackingthecryptic&#10;&#10;&#9654;Our merchandise is all here: &#9664;&#10;https://cracking-the-cryptic.creator-spring.com/&#10;&#10;&#9654; CTC FAN DISCORD SERVER&#9664;&#10;https://discord.gg/BbN89j5  &#10;&#10;&#9654; OUR BACK CATALOGUE &#8211; ALL CATEGORISED WITH LINKS!&#9664;&#10;https://tinyurl.com/CTCCatalogue&#10;&#10;&#9654; WHY NOT TRY OUR CLASSIC SUDOKU APP? &#9664;&#10;AppStore: https://apps.apple.com/us/app/classic-sudoku/id1488838275?ls=1&#10;Steam: https://store.steampowered.com/app/1188330/Classic_Sudoku/&#10;Android: https://play.google.com/store/apps/details?id=com.StudioGoya.ClassicSudoku&#38;hl=en_US&#10;&#10;&#9654; OUR KILLER SUDOKU IS ALSO AVAILABLE&#9664; &#10;AppStore: https://apps.apple.com/us/app/killer-sudoku-ctc/id1544165118  &#10;Steam: https://store.steampowered.com/app/1471910/Killer_Sudoku/ &#10;Android: https://play.google.com/store/apps/details?id=com.StudioGoya.KillerSudoku&#38;hl=en_US&#38;gl=US   &#10;&#10;&#9654; YOU CAN ALSO TRY OUR SANDWICH SUDOKU APP &#9664; &#10;AppStore: https://apps.apple.com/us/app/sandwich-sudoku/id1476116705?ls=1 &#10;Steam: https://store.steampowered.com/app/1117310/Sandwich_Sudoku/  &#10;Android: https://play.google.com/store/apps/details?id=com.StudioGoya.SandwichSudoku&#10;&#10;&#9654; TRY OUR CHESS SUDOKU APP&#9664;&#10;AppStore:  https://apps.apple.com/us/app/chess-sudoku/id1500654482?ls=1&#10;Steam: https://store.steampowered.com/app/1250560/Chess_Sudoku/&#10;Android: https://play.google.com/store/apps/details?id=com.StudioGoya.ChessSudoku&#38;hl=en_US&#10;&#10;&#9654; HERE&#8217;S WHERE YOU CAN TRY OUR MIRACLE SUDOKU APP&#9664;&#10;App Store: https://apps.apple.com/us/app/id1527363795 &#10;Steam: https://store.steampowered.com/app/1377260/Miracle_Sudoku/&#10;Android: https://play.google.com/store/apps/details?id=com.StudioGoya.MiracleSudokuCTC &#10;&#10;&#9654; THERMO SUDOKU is available too!&#9664;&#10;AppStore: https://apps.apple.com/us/app/thermo-sudoku/id1513994223  &#10;Android:  https://play.google.com/store/apps/details?id=com.StudioGoya.ThermoSudoku&#10;Steam: https://store.steampowered.com/app/1316390/Thermo_Sudoku/  &#10;Android:  https://play.google.com/store/apps/details?id=com.StudioGoya.ThermoSudoku&#10;&#10;&#9654; YOU CAN ALSO TRY OUR ARROW SUDOKU APP &#9664; Here are the links: &#10;App Store: https://apps.apple.com/us/app/arrow-sudoku/id1568407537 &#10;Steam: https://store.steampowered.com/app/1613680/Arrow_Sudoku/ &#10;Android: https://play.google.com/store/apps/details?id=com.StudioGoya.ArrowSudoku &#10;&#10;&#9654;SEND US PUZZLES TO SOLVE/CONTACT US&#9664;&#10;crackingthecryptic@gmail.com&#10;Snailmail: Mark Goodliffe, Box 102, 56 Gloucester Road, London SW7 4UB&#10;&#10;&#9654;FOLLOW US&#9664;&#10;Twitter: #crypticcracking &#10;@crypticcracking&#10;Instagram (for how to solve daily clues from The Times): https://www.instagram.com/crackingthecryptic/?hl=en&#10;&#10;&#9654;Music&#9664;&#10;Tim McCaskey (Guitar) or Lucy Audrin (Piano) or Riffclown plays Mozart's Sonata no 16 (&#34;Sonata Facile&#34;)&#10;&#9654;SOFTWARE&#9664;&#10;Play the puzzle in the video by clicking the link under the video (above).  Thanks to Sam Cappleman-Lynes and Sven Neumann for their work.&#10;&#9654;Logo Design&#9664;&#10;Melvyn Mainini&#10;&#10;&#9654;Opening Credits Design&#9664;&#10;Joel Blundell&#10;&#10;&#9654;ABOUT US&#9664;&#10;Hi! We're Simon Anthony and Mark Goodliffe, two of the UK's most enthusiastic puzzle solvers. We have both represented the UK at the World Sudoku Championships and the World Puzzle Championships. We're also &#34;cryptic crossword&#34; aficionados. Mark is the twelve-time winner of The Times championship and Simon is the former record holder for most consecutive correct solutions to The Listener crossword. We hope we can help your puzzle solving while also introducing you to some of the world's best puzzles.&#10;&#10;Thank you for watching!&#10;Simon and Mark"
+    description "This is Wordle, but not in a minute as we know it. This is the unedited version of 6th July's Wordle solve&amp;#10;&amp;#10;&amp;#9654; SUDOKU PAD - Our New App &amp;#9664; NOW AVAILABLE - You can now input your own classic sudoku puzzles into our software using our new App! The app also comes with 12 handmade puzzles from us and it is NOW AVAILABLE at these links: &amp;#10;iOS: https://apps.apple.com/us/app/svens-sudokupad/id1570622073 &amp;#10;Steam: https://store.steampowered.com/app/1706870/Svens_SudokuPad/  &amp;#10;Android: https://play.google.com/store/apps/details?id=com.svencodes.sudokupad&amp;#10;On Amazon: Search for &amp;#8220;SudokuPad&amp;#8221;&amp;#10;&amp;#10;&amp;#9654; OUR PATREON PAGE &amp;#8211; JOIN THE COMMUNITY, SUPPORT US AND TRY OUR PUZZLE HUNTS&amp;#9664;&amp;#10;https://www.patreon.com/crackingthecryptic&amp;#10;&amp;#10;&amp;#9654;Our merchandise is all here: &amp;#9664;&amp;#10;https://cracking-the-cryptic.creator-spring.com/&amp;#10;&amp;#10;&amp;#9654; CTC FAN DISCORD SERVER&amp;#9664;&amp;#10;https://discord.gg/BbN89j5  &amp;#10;&amp;#10;&amp;#9654; OUR BACK CATALOGUE &amp;#8211; ALL CATEGORISED WITH LINKS!&amp;#9664;&amp;#10;https://tinyurl.com/CTCCatalogue&amp;#10;&amp;#10;&amp;#9654; WHY NOT TRY OUR CLASSIC SUDOKU APP? &amp;#9664;&amp;#10;AppStore: https://apps.apple.com/us/app/classic-sudoku/id1488838275?ls=1&amp;#10;Steam: https://store.steampowered.com/app/1188330/Classic_Sudoku/&amp;#10;Android: https://play.google.com/store/apps/details?id=com.StudioGoya.ClassicSudoku&amp;#38;hl=en_US&amp;#10;&amp;#10;&amp;#9654; OUR KILLER SUDOKU IS ALSO AVAILABLE&amp;#9664; &amp;#10;AppStore: https://apps.apple.com/us/app/killer-sudoku-ctc/id1544165118  &amp;#10;Steam: https://store.steampowered.com/app/1471910/Killer_Sudoku/ &amp;#10;Android: https://play.google.com/store/apps/details?id=com.StudioGoya.KillerSudoku&amp;#38;hl=en_US&amp;#38;gl=US   &amp;#10;&amp;#10;&amp;#9654; YOU CAN ALSO TRY OUR SANDWICH SUDOKU APP &amp;#9664; &amp;#10;AppStore: https://apps.apple.com/us/app/sandwich-sudoku/id1476116705?ls=1 &amp;#10;Steam: https://store.steampowered.com/app/1117310/Sandwich_Sudoku/  &amp;#10;Android: https://play.google.com/store/apps/details?id=com.StudioGoya.SandwichSudoku&amp;#10;&amp;#10;&amp;#9654; TRY OUR CHESS SUDOKU APP&amp;#9664;&amp;#10;AppStore:  https://apps.apple.com/us/app/chess-sudoku/id1500654482?ls=1&amp;#10;Steam: https://store.steampowered.com/app/1250560/Chess_Sudoku/&amp;#10;Android: https://play.google.com/store/apps/details?id=com.StudioGoya.ChessSudoku&amp;#38;hl=en_US&amp;#10;&amp;#10;&amp;#9654; HERE&amp;#8217;S WHERE YOU CAN TRY OUR MIRACLE SUDOKU APP&amp;#9664;&amp;#10;App Store: https://apps.apple.com/us/app/id1527363795 &amp;#10;Steam: https://store.steampowered.com/app/1377260/Miracle_Sudoku/&amp;#10;Android: https://play.google.com/store/apps/details?id=com.StudioGoya.MiracleSudokuCTC &amp;#10;&amp;#10;&amp;#9654; THERMO SUDOKU is available too!&amp;#9664;&amp;#10;AppStore: https://apps.apple.com/us/app/thermo-sudoku/id1513994223  &amp;#10;Android:  https://play.google.com/store/apps/details?id=com.StudioGoya.ThermoSudoku&amp;#10;Steam: https://store.steampowered.com/app/1316390/Thermo_Sudoku/  &amp;#10;Android:  https://play.google.com/store/apps/details?id=com.StudioGoya.ThermoSudoku&amp;#10;&amp;#10;&amp;#9654; YOU CAN ALSO TRY OUR ARROW SUDOKU APP &amp;#9664; Here are the links: &amp;#10;App Store: https://apps.apple.com/us/app/arrow-sudoku/id1568407537 &amp;#10;Steam: https://store.steampowered.com/app/1613680/Arrow_Sudoku/ &amp;#10;Android: https://play.google.com/store/apps/details?id=com.StudioGoya.ArrowSudoku &amp;#10;&amp;#10;&amp;#9654;SEND US PUZZLES TO SOLVE/CONTACT US&amp;#9664;&amp;#10;crackingthecryptic@gmail.com&amp;#10;Snailmail: Mark Goodliffe, Box 102, 56 Gloucester Road, London SW7 4UB&amp;#10;&amp;#10;&amp;#9654;FOLLOW US&amp;#9664;&amp;#10;Twitter: #crypticcracking &amp;#10;@crypticcracking&amp;#10;Instagram (for how to solve daily clues from The Times): https://www.instagram.com/crackingthecryptic/?hl=en&amp;#10;&amp;#10;&amp;#9654;Music&amp;#9664;&amp;#10;Tim McCaskey (Guitar) or Lucy Audrin (Piano) or Riffclown plays Mozart's Sonata no 16 (&amp;#34;Sonata Facile&amp;#34;)&amp;#10;&amp;#9654;SOFTWARE&amp;#9664;&amp;#10;Play the puzzle in the video by clicking the link under the video (above).  Thanks to Sam Cappleman-Lynes and Sven Neumann for their work.&amp;#10;&amp;#9654;Logo Design&amp;#9664;&amp;#10;Melvyn Mainini&amp;#10;&amp;#10;&amp;#9654;Opening Credits Design&amp;#9664;&amp;#10;Joel Blundell&amp;#10;&amp;#10;&amp;#9654;ABOUT US&amp;#9664;&amp;#10;Hi! We're Simon Anthony and Mark Goodliffe, two of the UK's most enthusiastic puzzle solvers. We have both represented the UK at the World Sudoku Championships and the World Puzzle Championships. We're also &amp;#34;cryptic crossword&amp;#34; aficionados. Mark is the twelve-time winner of The Times championship and Simon is the former record holder for most consecutive correct solutions to The Listener crossword. We hope we can help your puzzle solving while also introducing you to some of the world's best puzzles.&amp;#10;&amp;#10;Thank you for watching!&amp;#10;Simon and Mark"
     channeltitle "Cracking The Cryptic"
     channelid "UCC-UOdK8-mIjxBQm_ot1T-Q"
     favcount 0
@@ -3565,7 +6447,29 @@ graph
     ppprofanity 0.0799106
     ppinflammatory 0.077300146
     sentiment 0
-    cluster 7
+    cluster 6
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -3574,7 +6478,7 @@ graph
     step 0
     date "2022-06-17T04:00:05Z"
     title "Doug plays todays Wordle #363 for 06/17/2022"
-    description "It's June 17, 2022 and Doug is playing today's daily Wordle! &#10;&#10;&#10;Please, if you enjoyed this video, like and subscribe to my channel!&#10;&#10;I can also be found on Twitch!&#10;https://www.twitch.tv/dougmansland&#10;&#10;I'm also on Twitter!&#10;https://twitter.com/dougmansland&#10;&#10;If you enjoy Discord, I have one of those too!&#10;https://discord.gg/MVXvhvg2Zm&#10;&#10;For some reason, I also make Tik Tok videos!&#10;https://www.tiktok.com/@dougmansland?lang=en"
+    description "It's June 17, 2022 and Doug is playing today's daily Wordle! &amp;#10;&amp;#10;&amp;#10;Please, if you enjoyed this video, like and subscribe to my channel!&amp;#10;&amp;#10;I can also be found on Twitch!&amp;#10;https://www.twitch.tv/dougmansland&amp;#10;&amp;#10;I'm also on Twitter!&amp;#10;https://twitter.com/dougmansland&amp;#10;&amp;#10;If you enjoy Discord, I have one of those too!&amp;#10;https://discord.gg/MVXvhvg2Zm&amp;#10;&amp;#10;For some reason, I also make Tik Tok videos!&amp;#10;https://www.tiktok.com/@dougmansland?lang=en"
     channeltitle "DougMansLand"
     channelid "UCkiAm7y8MQCbFwpB-52QRtg"
     favcount 0
@@ -3593,6 +6497,28 @@ graph
     ppinflammatory 0.04988173
     sentiment 0.25
     cluster 2
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -3601,7 +6527,7 @@ graph
     step 0
     date "2022-04-14T21:00:03Z"
     title "Becoming the Wordle God..."
-    description "if you got the word in less try's than us, then you haven't seen the sun in weeks. like who would have gotten that word.!?!?!&#10;&#10;BECOME A MEMBER! &#9742;&#65039;&#128242;&#10;https://www.youtube.com/channel/UCaXBVABul5XG6R1mF2YyVUQ/join&#10;&#10;DONATE TO THA STREAM! https://streamlabs.com/matthewmeagher/tip&#10;&#10;SHORT CHANNEL! - https://www.youtube.com/channel/UCPkQ_-_32a1z_UqBTQ49U6A&#10;Main Channel- https://www.youtube.com/c/MMG69&#10;&#10;Social Medias &#10;Meags -&#10;https://www.instagram.com/matthewmeagher/&#10;https://twitter.com/PapaMeagzz&#10;https://www.twitch.tv/mmg69&#10;&#10;Chase - &#10;https://www.instagram.com/chasemcphee/&#10;https://www.twitch.tv/chasemcphee"
+    description "if you got the word in less try's than us, then you haven't seen the sun in weeks. like who would have gotten that word.!?!?!&amp;#10;&amp;#10;BECOME A MEMBER! &amp;#9742;&amp;#65039;&amp;#128242;&amp;#10;https://www.youtube.com/channel/UCaXBVABul5XG6R1mF2YyVUQ/join&amp;#10;&amp;#10;DONATE TO THA STREAM! https://streamlabs.com/matthewmeagher/tip&amp;#10;&amp;#10;SHORT CHANNEL! - https://www.youtube.com/channel/UCPkQ_-_32a1z_UqBTQ49U6A&amp;#10;Main Channel- https://www.youtube.com/c/MMG69&amp;#10;&amp;#10;Social Medias &amp;#10;Meags -&amp;#10;https://www.instagram.com/matthewmeagher/&amp;#10;https://twitter.com/PapaMeagzz&amp;#10;https://www.twitch.tv/mmg69&amp;#10;&amp;#10;Chase - &amp;#10;https://www.instagram.com/chasemcphee/&amp;#10;https://www.twitch.tv/chasemcphee"
     channeltitle "MMG Live"
     channelid "UCaXBVABul5XG6R1mF2YyVUQ"
     favcount 0
@@ -3619,7 +6545,29 @@ graph
     ppprofanity 0.04916838
     ppinflammatory 0.3620175
     sentiment 0.2732
-    cluster 4
+    cluster 3
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -3628,7 +6576,7 @@ graph
     step 0
     date "2022-05-19T05:00:31Z"
     title "Most EMBARRASSING Wordle attempt ever..."
-    description "Go to https://www.shadyrays.com and use code OFFICE for 50% OFF 2+ pairs of premium polarized shades.&#10;&#10;It's still Wordle Wednesday somewhere, so WARNING: contains spoilers for May 19 Wordle&#10;&#10;Jomboy Media office competes in weekly Wordle competition"
+    description "Go to https://www.shadyrays.com and use code OFFICE for 50% OFF 2+ pairs of premium polarized shades.&amp;#10;&amp;#10;It's still Wordle Wednesday somewhere, so WARNING: contains spoilers for May 19 Wordle&amp;#10;&amp;#10;Jomboy Media office competes in weekly Wordle competition"
     channeltitle "JM Gaming (Jomboy Media)"
     channelid "UCk71IrRQyptFQBL_eEeS1uw"
     favcount 0
@@ -3647,6 +6595,28 @@ graph
     ppinflammatory 0.43968874
     sentiment -0.4391
     cluster 4
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -3655,7 +6625,7 @@ graph
     step 0
     date "2022-05-30T04:00:14Z"
     title "Doug plays todays Wordle #345 for 05/30/2022"
-    description "It's May 30, 2022 and Doug is playing today's daily Wordle! &#10;&#10;&#10;Please, if you enjoyed this video, like and subscribe to my channel!&#10;&#10;I can also be found on Twitch!&#10;https://www.twitch.tv/dougmansland&#10;&#10;I'm also on Twitter!&#10;https://twitter.com/dougmansland&#10;&#10;If you enjoy Discord, I have one of those too!&#10;https://discord.gg/MVXvhvg2Zm&#10;&#10;For some reason, I also make Tik Tok videos!&#10;https://www.tiktok.com/@dougmansland?lang=en"
+    description "It's May 30, 2022 and Doug is playing today's daily Wordle! &amp;#10;&amp;#10;&amp;#10;Please, if you enjoyed this video, like and subscribe to my channel!&amp;#10;&amp;#10;I can also be found on Twitch!&amp;#10;https://www.twitch.tv/dougmansland&amp;#10;&amp;#10;I'm also on Twitter!&amp;#10;https://twitter.com/dougmansland&amp;#10;&amp;#10;If you enjoy Discord, I have one of those too!&amp;#10;https://discord.gg/MVXvhvg2Zm&amp;#10;&amp;#10;For some reason, I also make Tik Tok videos!&amp;#10;https://www.tiktok.com/@dougmansland?lang=en"
     channeltitle "DougMansLand"
     channelid "UCkiAm7y8MQCbFwpB-52QRtg"
     favcount 0
@@ -3673,7 +6643,29 @@ graph
     ppprofanity 0.058084328
     ppinflammatory 0.049881727
     sentiment 0.25
-    cluster 8
+    cluster 7
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -3682,7 +6674,7 @@ graph
     step 0
     date "2022-07-14T05:24:35Z"
     title "Wordle July 14th, 2022 - Can you guess the word?"
-    description "Check back daily for new Wordle and other Word Puzzles!&#10;&#10;Hi everyone! Today Sean plays Wordle, a fun word logic puzzle.&#10;Can you get the word in fewer guesses? Give it a shot at the link below:&#10;https://www.nytimes.com/games/wordle/index.html&#10;&#10;And check your answers here with WordleBot!&#10;https://www.nytimes.com/interactive/2022/upshot/wordle-bot.html"
+    description "Check back daily for new Wordle and other Word Puzzles!&amp;#10;&amp;#10;Hi everyone! Today Sean plays Wordle, a fun word logic puzzle.&amp;#10;Can you get the word in fewer guesses? Give it a shot at the link below:&amp;#10;https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;And check your answers here with WordleBot!&amp;#10;https://www.nytimes.com/interactive/2022/upshot/wordle-bot.html"
     channeltitle "Sean Plays"
     channelid "UCRlHYIOSfBDAVkz46rnglow"
     favcount 0
@@ -3700,7 +6692,29 @@ graph
     ppprofanity 0.02298994
     ppinflammatory 0.15058535
     sentiment 0
-    cluster 3
+    cluster 8
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -3709,7 +6723,7 @@ graph
     step 0
     date "2022-04-04T19:00:06Z"
     title "I become a Globle Master!!! (Wordle but on a Globe)"
-    description "Today I do a week worth of the game globle in one video. This game is like Wordle but on a Globe&#10;Game: https://globle-game.com/&#10;&#10;Follow My socials: &#10;Sub here: https://bit.ly/3nAoWx7&#10;Twitter: https://twitter.com/TheGraveOnes&#10;Discord: https://discord.gg/9f9uudX&#10;Instagram: https://www.instagram.com/thegraveone/&#10;&#10;Patreon: https://www.patreon.com/thegraveone&#10;I'm a humble partner use my link for games: https://www.humblebundle.com/?partner=thegraveone&#10;Become A Member: https://www.youtube.com/channel/UCoT4D7MNJJDP36yYKSVayow/join&#10;&#10;&#10;#grave #thegraveone #globle"
+    description "Today I do a week worth of the game globle in one video. This game is like Wordle but on a Globe&amp;#10;Game: https://globle-game.com/&amp;#10;&amp;#10;Follow My socials: &amp;#10;Sub here: https://bit.ly/3nAoWx7&amp;#10;Twitter: https://twitter.com/TheGraveOnes&amp;#10;Discord: https://discord.gg/9f9uudX&amp;#10;Instagram: https://www.instagram.com/thegraveone/&amp;#10;&amp;#10;Patreon: https://www.patreon.com/thegraveone&amp;#10;I'm a humble partner use my link for games: https://www.humblebundle.com/?partner=thegraveone&amp;#10;Become A Member: https://www.youtube.com/channel/UCoT4D7MNJJDP36yYKSVayow/join&amp;#10;&amp;#10;&amp;#10;#grave #thegraveone #globle"
     channeltitle "TheGraveOne"
     channelid "UCoT4D7MNJJDP36yYKSVayow"
     favcount 0
@@ -3727,7 +6741,29 @@ graph
     ppprofanity 0.08159445
     ppinflammatory 0.14087583
     sentiment 0
-    cluster 6
+    cluster 7
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -3736,7 +6772,7 @@ graph
     step 0
     date "2022-04-24T20:40:45Z"
     title "A car lovers Wordle"
-    description "#shorts&#10;Solving #Wordle #309 for Friday, April 24th.&#10;&#10;You can find my other 'Wordle-like' solves here - https://youtube.com/playlist?list=PL_HjFt2zdfHV33cIRgG7tm-AvnfUP9cMG&#10;&#10;Become a member of the Stro-Solves YouTube channel - https://stro.link/join&#10;&#10;Come discuss these puzzles with us on discord - https://stro.link/discord"
+    description "#shorts&amp;#10;Solving #Wordle #309 for Friday, April 24th.&amp;#10;&amp;#10;You can find my other 'Wordle-like' solves here - https://youtube.com/playlist?list=PL_HjFt2zdfHV33cIRgG7tm-AvnfUP9cMG&amp;#10;&amp;#10;Become a member of the Stro-Solves YouTube channel - https://stro.link/join&amp;#10;&amp;#10;Come discuss these puzzles with us on discord - https://stro.link/discord"
     channeltitle "Scott Stro-solves"
     channelid "UC8HHDytpZ-cs9bavTbgYfmA"
     favcount 0
@@ -3755,6 +6791,28 @@ graph
     ppinflammatory 0.05512725
     sentiment 0.5267
     cluster 2
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -3763,7 +6821,7 @@ graph
     step 0
     date "2022-05-24T00:37:25Z"
     title "A Tutorial Wordle"
-    description "Solving #Wordle #338 for Monday, May 23rd.&#10;&#10;You can find my other 'Wordle-like' solves here - https://youtube.com/playlist?list=PL_HjFt2zdfHV33cIRgG7tm-AvnfUP9cMG&#10;&#10;Check out all my merch at https://stro.link/merch&#10;Become a member of the Stro-Solves YouTube channel - https://stro.link/join&#10;Come discuss these puzzles with us on discord - https://stro.link/discord"
+    description "Solving #Wordle #338 for Monday, May 23rd.&amp;#10;&amp;#10;You can find my other 'Wordle-like' solves here - https://youtube.com/playlist?list=PL_HjFt2zdfHV33cIRgG7tm-AvnfUP9cMG&amp;#10;&amp;#10;Check out all my merch at https://stro.link/merch&amp;#10;Become a member of the Stro-Solves YouTube channel - https://stro.link/join&amp;#10;Come discuss these puzzles with us on discord - https://stro.link/discord"
     channeltitle "Scott Stro-solves"
     channelid "UC8HHDytpZ-cs9bavTbgYfmA"
     favcount 0
@@ -3781,7 +6839,29 @@ graph
     ppprofanity 0.06730773
     ppinflammatory 0.10392994
     sentiment 0
-    cluster 2
+    cluster 3
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -3790,7 +6870,7 @@ graph
     step 0
     date "2022-04-21T22:28:51Z"
     title "A FOGGY Wordle"
-    description "Solving #Wordle #306 for Thursday, April 21st.&#10;&#10;You can find my other 'Wordle-like' solves here - https://youtube.com/playlist?list=PL_HjFt2zdfHV33cIRgG7tm-AvnfUP9cMG&#10;&#10;Become a member of the Stro-Solves YouTube channel - https://stro.link/join&#10;&#10;Come discuss these puzzles with us on discord - https://stro.link/discord"
+    description "Solving #Wordle #306 for Thursday, April 21st.&amp;#10;&amp;#10;You can find my other 'Wordle-like' solves here - https://youtube.com/playlist?list=PL_HjFt2zdfHV33cIRgG7tm-AvnfUP9cMG&amp;#10;&amp;#10;Become a member of the Stro-Solves YouTube channel - https://stro.link/join&amp;#10;&amp;#10;Come discuss these puzzles with us on discord - https://stro.link/discord"
     channeltitle "Scott Stro-solves"
     channelid "UC8HHDytpZ-cs9bavTbgYfmA"
     favcount 0
@@ -3808,7 +6888,29 @@ graph
     ppprofanity 0.59058255
     ppinflammatory 0.1293475
     sentiment 0
-    cluster 2
+    cluster 3
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -3817,7 +6919,7 @@ graph
     step 0
     date "2022-06-29T11:14:59Z"
     title "Wordle June 29th, 2022 - Can you guess the word?"
-    description "Check back daily for new Wordle and other Word Puzzles!&#10;&#10;Hi everyone! Today Sean plays Wordle, a fun word logic puzzle.&#10;Can you get the word in fewer guesses? Give it a shot at the link below:&#10;https://www.nytimes.com/games/wordle/index.html&#10;&#10;And check your answers here with WordleBot!&#10;https://www.nytimes.com/interactive/2022/upshot/wordle-bot.html"
+    description "Check back daily for new Wordle and other Word Puzzles!&amp;#10;&amp;#10;Hi everyone! Today Sean plays Wordle, a fun word logic puzzle.&amp;#10;Can you get the word in fewer guesses? Give it a shot at the link below:&amp;#10;https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;And check your answers here with WordleBot!&amp;#10;https://www.nytimes.com/interactive/2022/upshot/wordle-bot.html"
     channeltitle "Sean Plays"
     channelid "UCRlHYIOSfBDAVkz46rnglow"
     favcount 0
@@ -3835,7 +6937,29 @@ graph
     ppprofanity 0.016781641
     ppinflammatory 0.17345113
     sentiment 0
-    cluster 3
+    cluster 8
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -3844,7 +6968,7 @@ graph
     step 0
     date "2022-07-01T04:00:19Z"
     title "Doug plays todays Wordle #377 for 07/01/2022"
-    description "It's July 1, 2022 and Doug is playing today's daily Wordle! &#10;&#10;&#10;Please, if you enjoyed this video, like and subscribe to my channel!&#10;&#10;I can also be found on Twitch!&#10;https://www.twitch.tv/dougmansland&#10;&#10;I'm also on Twitter!&#10;https://twitter.com/dougmansland&#10;&#10;If you enjoy Discord, I have one of those too!&#10;https://discord.gg/MVXvhvg2Zm&#10;&#10;For some reason, I also make Tik Tok videos!&#10;https://www.tiktok.com/@dougmansland?lang=en"
+    description "It's July 1, 2022 and Doug is playing today's daily Wordle! &amp;#10;&amp;#10;&amp;#10;Please, if you enjoyed this video, like and subscribe to my channel!&amp;#10;&amp;#10;I can also be found on Twitch!&amp;#10;https://www.twitch.tv/dougmansland&amp;#10;&amp;#10;I'm also on Twitter!&amp;#10;https://twitter.com/dougmansland&amp;#10;&amp;#10;If you enjoy Discord, I have one of those too!&amp;#10;https://discord.gg/MVXvhvg2Zm&amp;#10;&amp;#10;For some reason, I also make Tik Tok videos!&amp;#10;https://www.tiktok.com/@dougmansland?lang=en"
     channeltitle "DougMansLand"
     channelid "UCkiAm7y8MQCbFwpB-52QRtg"
     favcount 0
@@ -3862,7 +6986,29 @@ graph
     ppprofanity 0.08973743
     ppinflammatory 0.049881727
     sentiment 0.25
-    cluster 2
+    cluster 3
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -3871,7 +7017,7 @@ graph
     step 0
     date "2022-06-09T22:00:52Z"
     title "Start Wordle TWICE, just to be sure"
-    description "#wordletoday&#10;Solving today's #Wordle #355 for Thursday, June 9th.&#10;&#10;Check out the LockPickingLawyer, who I referenced at the beginning (not affiliated with me, I'm just a fan): https://www.youtube.com/c/lockpickinglawyer&#10;&#10;You can find my other 'Wordle-like' solves here - https://youtube.com/playlist?list=PL_HjFt2zdfHV33cIRgG7tm-AvnfUP9cMG&#10;&#10;Check out all my merch at https://stro.link/merch&#10;Become a member of the Stro-Solves YouTube channel - https://stro.link/join&#10;Come discuss these puzzles with us on discord - https://stro.link/discord"
+    description "#wordletoday&amp;#10;Solving today's #Wordle #355 for Thursday, June 9th.&amp;#10;&amp;#10;Check out the LockPickingLawyer, who I referenced at the beginning (not affiliated with me, I'm just a fan): https://www.youtube.com/c/lockpickinglawyer&amp;#10;&amp;#10;You can find my other 'Wordle-like' solves here - https://youtube.com/playlist?list=PL_HjFt2zdfHV33cIRgG7tm-AvnfUP9cMG&amp;#10;&amp;#10;Check out all my merch at https://stro.link/merch&amp;#10;Become a member of the Stro-Solves YouTube channel - https://stro.link/join&amp;#10;Come discuss these puzzles with us on discord - https://stro.link/discord"
     channeltitle "Scott Stro-solves"
     channelid "UC8HHDytpZ-cs9bavTbgYfmA"
     favcount 0
@@ -3889,7 +7035,29 @@ graph
     ppprofanity 0.04615201
     ppinflammatory 0.19001174
     sentiment 0.3182
-    cluster 2
+    cluster 3
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -3898,7 +7066,7 @@ graph
     step 0
     date "2022-04-30T22:00:09Z"
     title "A Dads Wordle Start"
-    description "Solving #Wordle #315 for Saturday, April 30th.&#10;&#10;You can find my other 'Wordle-like' solves here - https://youtube.com/playlist?list=PL_HjFt2zdfHV33cIRgG7tm-AvnfUP9cMG&#10;&#10;Become a member of the Stro-Solves YouTube channel - https://stro.link/join&#10;&#10;Come discuss these puzzles with us on discord - https://stro.link/discord"
+    description "Solving #Wordle #315 for Saturday, April 30th.&amp;#10;&amp;#10;You can find my other 'Wordle-like' solves here - https://youtube.com/playlist?list=PL_HjFt2zdfHV33cIRgG7tm-AvnfUP9cMG&amp;#10;&amp;#10;Become a member of the Stro-Solves YouTube channel - https://stro.link/join&amp;#10;&amp;#10;Come discuss these puzzles with us on discord - https://stro.link/discord"
     channeltitle "Scott Stro-solves"
     channelid "UC8HHDytpZ-cs9bavTbgYfmA"
     favcount 0
@@ -3916,7 +7084,29 @@ graph
     ppprofanity 0.09433162
     ppinflammatory 0.105748534
     sentiment 0
-    cluster 2
+    cluster 3
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -3925,7 +7115,7 @@ graph
     step 0
     date "2022-05-23T04:00:10Z"
     title "Doug plays todays Wordle #338 for 05/23/2022"
-    description "It's May 23, 2022 and Doug is playing today's daily Wordle! &#10;&#10;&#10;Please, if you enjoyed this video, like and subscribe to my channel!&#10;&#10;I can also be found on Twitch!&#10;https://www.twitch.tv/dougmansland&#10;&#10;I'm also on Twitter!&#10;https://twitter.com/dougmansland&#10;&#10;If you enjoy Discord, I have one of those too!&#10;https://discord.gg/MVXvhvg2Zm&#10;&#10;For some reason, I also make Tik Tok videos!&#10;https://www.tiktok.com/@dougmansland?lang=en"
+    description "It's May 23, 2022 and Doug is playing today's daily Wordle! &amp;#10;&amp;#10;&amp;#10;Please, if you enjoyed this video, like and subscribe to my channel!&amp;#10;&amp;#10;I can also be found on Twitch!&amp;#10;https://www.twitch.tv/dougmansland&amp;#10;&amp;#10;I'm also on Twitter!&amp;#10;https://twitter.com/dougmansland&amp;#10;&amp;#10;If you enjoy Discord, I have one of those too!&amp;#10;https://discord.gg/MVXvhvg2Zm&amp;#10;&amp;#10;For some reason, I also make Tik Tok videos!&amp;#10;https://www.tiktok.com/@dougmansland?lang=en"
     channeltitle "DougMansLand"
     channelid "UCkiAm7y8MQCbFwpB-52QRtg"
     favcount 0
@@ -3943,7 +7133,29 @@ graph
     ppprofanity 0.07318854
     ppinflammatory 0.049881727
     sentiment 0.25
-    cluster 8
+    cluster 2
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -3952,7 +7164,7 @@ graph
     step 0
     date "2022-07-03T09:36:25Z"
     title "Wordle 379 for July 3rd"
-    description "What is today's Wordle for 07/03/2022 number 379 ? Join me and let's find out &#38; guess the answer together. Happy bday to wifey!&#10;A new word daily, how do you like to play &#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. July 3rd 2022&#10;&#10;Follow me on Twitter: https://twitter.com/emptyapartment3&#10;Join our Discord: https://discord.gg/9Py98RU&#10;Support/Buy me a &#34;coffee&#34;: https://ko-fi.com/emptyapartment&#10;&#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&#10;&#10;business contact: emptyapartmentgaming [at] gmail&#10;&#10;&#10;0:00 Intro&#10;0:27 First Guess&#10;1:40 Wordle?&#10;&#10;#wordle"
+    description "What is today's Wordle for 07/03/2022 number 379 ? Join me and let's find out &amp;#38; guess the answer together. Happy bday to wifey!&amp;#10;A new word daily, how do you like to play &amp;#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. July 3rd 2022&amp;#10;&amp;#10;Follow me on Twitter: https://twitter.com/emptyapartment3&amp;#10;Join our Discord: https://discord.gg/9Py98RU&amp;#10;Support/Buy me a &amp;#34;coffee&amp;#34;: https://ko-fi.com/emptyapartment&amp;#10;&amp;#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;business contact: emptyapartmentgaming [at] gmail&amp;#10;&amp;#10;&amp;#10;0:00 Intro&amp;#10;0:27 First Guess&amp;#10;1:40 Wordle?&amp;#10;&amp;#10;#wordle"
     channeltitle "Empty Apartment"
     channelid "UCEb4tjgeTW47bD66Xryzx0Q"
     favcount 0
@@ -3970,7 +7182,29 @@ graph
     ppprofanity 0.12517081
     ppinflammatory 0.07573675
     sentiment 0
-    cluster 3
+    cluster 1
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -3979,7 +7213,7 @@ graph
     step 0
     date "2022-04-26T20:19:54Z"
     title "The stream ends when I fail a Wordle"
-    description "Playing Infinidle until I lose (or have to pick my kids up from school)&#10;&#10;Support the stream - https://streamlabs.com/scottstrosahl&#10;You can also discuss these puzzles with me on discord - https://stro.link/discord&#10;Become a member of the channel at https://stro.link/join"
+    description "Playing Infinidle until I lose (or have to pick my kids up from school)&amp;#10;&amp;#10;Support the stream - https://streamlabs.com/scottstrosahl&amp;#10;You can also discuss these puzzles with me on discord - https://stro.link/discord&amp;#10;Become a member of the channel at https://stro.link/join"
     channeltitle "Scott Stro-solves"
     channelid "UC8HHDytpZ-cs9bavTbgYfmA"
     favcount 0
@@ -3998,6 +7232,28 @@ graph
     ppinflammatory 0.2177023
     sentiment -0.5423
     cluster 4
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -4006,7 +7262,7 @@ graph
     step 0
     date "2022-06-23T23:00:22Z"
     title "An inspired Wordle guess!"
-    description "(Spoilers 369) For fun, I start with the previous two day's words and use a viewer suggestion for my 3rd!&#10;&#10;Play Wordle here: https://www.nytimes.com/games/wordle/index.html&#10;&#10;Check out GeoJesser's channel here: https://www.youtube.com/c/GeoJesser&#10;&#10;======= LIVE STREAMS =======&#10;I stream word games right here on YouTube every night (except Friday) at 7pm PDT! Subscribe and ring the bell and/or join my Discord to get notifications for when I go live!&#10;&#10;======= MEMBERS =======&#10;Join my channel at the Video Enthusiast tier or higher to see the full, uncut videos with my entire thought process!&#10;https://www.youtube.com/rangsk/join&#10;&#10;===== MERCH ===== &#10;You can also support me by buying my super cute merch! All items feature an artistic rendering of my dog Rocky with no other branding! They're super cute!&#10;&#10;Check out my store here: https://rangsks-merch.creator-spring.com/&#10;&#10;======= DISCORD =======&#10;Join my Discord server to hang out and talk about Wordle, Wordle-like games, and other kinds of puzzles like Sudoku.&#10;https://discord.gg/AEhpTG4z45&#10;&#10;#wordle #puzzle #word #game"
+    description "(Spoilers 369) For fun, I start with the previous two day's words and use a viewer suggestion for my 3rd!&amp;#10;&amp;#10;Play Wordle here: https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;Check out GeoJesser's channel here: https://www.youtube.com/c/GeoJesser&amp;#10;&amp;#10;======= LIVE STREAMS =======&amp;#10;I stream word games right here on YouTube every night (except Friday) at 7pm PDT! Subscribe and ring the bell and/or join my Discord to get notifications for when I go live!&amp;#10;&amp;#10;======= MEMBERS =======&amp;#10;Join my channel at the Video Enthusiast tier or higher to see the full, uncut videos with my entire thought process!&amp;#10;https://www.youtube.com/rangsk/join&amp;#10;&amp;#10;===== MERCH ===== &amp;#10;You can also support me by buying my super cute merch! All items feature an artistic rendering of my dog Rocky with no other branding! They're super cute!&amp;#10;&amp;#10;Check out my store here: https://rangsks-merch.creator-spring.com/&amp;#10;&amp;#10;======= DISCORD =======&amp;#10;Join my Discord server to hang out and talk about Wordle, Wordle-like games, and other kinds of puzzles like Sudoku.&amp;#10;https://discord.gg/AEhpTG4z45&amp;#10;&amp;#10;#wordle #puzzle #word #game"
     channeltitle "Rangsk"
     channelid "UC1RUqXOT_iaH4b7iXKRWhLw"
     favcount 0
@@ -4024,7 +7280,29 @@ graph
     ppprofanity 0.030625954
     ppinflammatory 0.12251629
     sentiment 0.4939
-    cluster 6
+    cluster 3
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -4033,7 +7311,7 @@ graph
     step 0
     date "2022-05-12T07:49:36Z"
     title "Wordle 327 for May 12th - Watch Out for the Bees"
-    description "What is today's Wordle for 05/12/2022 number 327 ? Join me and let's find out &#38; guess the answer together. It should of been stung.&#10;A new word daily, how do you like to play &#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. May 12th 2022&#10;&#10;Follow me on Twitter: https://twitter.com/emptyapartment3&#10;Join our Discord: https://discord.gg/9Py98RU&#10;Buy me a coffee: https://ko-fi.com/emptyapartment&#10;&#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&#10;&#10;business contact: emptyapartmentgaming gmail&#10;&#10;&#10;0:00 Intro&#10;0:19 First Guess&#10;1:10 Shunk&#10;2:03 Wordle?&#10;&#10;#wordle"
+    description "What is today's Wordle for 05/12/2022 number 327 ? Join me and let's find out &amp;#38; guess the answer together. It should of been stung.&amp;#10;A new word daily, how do you like to play &amp;#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. May 12th 2022&amp;#10;&amp;#10;Follow me on Twitter: https://twitter.com/emptyapartment3&amp;#10;Join our Discord: https://discord.gg/9Py98RU&amp;#10;Buy me a coffee: https://ko-fi.com/emptyapartment&amp;#10;&amp;#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;business contact: emptyapartmentgaming gmail&amp;#10;&amp;#10;&amp;#10;0:00 Intro&amp;#10;0:19 First Guess&amp;#10;1:10 Shunk&amp;#10;2:03 Wordle?&amp;#10;&amp;#10;#wordle"
     channeltitle "Empty Apartment"
     channelid "UCEb4tjgeTW47bD66Xryzx0Q"
     favcount 0
@@ -4051,7 +7329,29 @@ graph
     ppprofanity 0.027322454
     ppinflammatory 0.19425936
     sentiment 0
-    cluster 1
+    cluster 7
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -4060,7 +7360,7 @@ graph
     step 0
     date "2022-03-22T09:14:29Z"
     title "Wordle 276 for March 22nd - What is Todays Wordle? 03/22/2022"
-    description "What is today's Wordle for 03/22/2022 Wordle number 276 ? Join me and let's find out &#38; guess the answer together. An odd word today!&#10;A new word daily, how do you like to play &#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. March 22nd 2022&#10;&#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&#10;&#10;0:00 Intro&#10;0:30 First Guess&#10;1:30 Score&#10;3:20 Wordle&#10;&#10;&#10;business contact: emptyapartmentgaming gmail&#10;&#10;#wordle #dailywordleclub"
+    description "What is today's Wordle for 03/22/2022 Wordle number 276 ? Join me and let's find out &amp;#38; guess the answer together. An odd word today!&amp;#10;A new word daily, how do you like to play &amp;#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. March 22nd 2022&amp;#10;&amp;#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;0:00 Intro&amp;#10;0:30 First Guess&amp;#10;1:30 Score&amp;#10;3:20 Wordle&amp;#10;&amp;#10;&amp;#10;business contact: emptyapartmentgaming gmail&amp;#10;&amp;#10;#wordle #dailywordleclub"
     channeltitle "Empty Apartment"
     channelid "UCEb4tjgeTW47bD66Xryzx0Q"
     favcount 0
@@ -4079,6 +7379,28 @@ graph
     ppinflammatory 0.09794327
     sentiment 0
     cluster 1
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -4087,7 +7409,7 @@ graph
     step 0
     date "2022-03-20T13:00:27Z"
     title "THE IMPOSSIBLE WORDLE WITH A FORFEIT!"
-    description "My twitch: https://www.twitch.tv/miniminter&#10;My insta: https://www.instagram.com/miniminter/&#10;My tiktok: https://www.tiktok.com/@miniminter&#10;My twitter: https://twitter.com/miniminter&#10;&#10;Main Channel: https://www.youtube.com/miniminter&#10;2nd Channel: https://www.youtube.com/user/MM7Games&#10;Shorts Channel: https://www.youtube.com/minimintershorts&#10;&#10;The Regulars:&#10;Talia: https://www.twitch.tv/taliamar&#10;Viz: https://www.twitch.tv/vizualizah&#10;Ellum: https://www.twitch.tv/ellum&#10;Milk: https://www.twitch.tv/milkinabag&#10;&#10;Sidemen Clothing: https://goo.gl/8RLHBR&#10;&#10;Sidemen Channels:&#10;Josh: https://goo.gl/VgeDWX&#10;Tobi: https://goo.gl/MqGC4K&#10;JJ: https://goo.gl/dxn9YW&#10;Vik: https://goo.gl/9xLpVD&#10;Ethan: https://goo.gl/5GBDTg&#10;Harry: https://goo.gl/nJHyMA&#10;&#10;My PC: http://bit.ly/miniminter&#10;&#10;Custom Controller: http://bit.ly/SideCCUK&#10;&#10;HOW I RECORD MY GAMEPLAY: http://e.lga.to/mm&#10;&#10;WHERE I GET MY CHAIR: http://www.gtomegaracing.com/gt-omega...&#10;&#10;Music from: https://artlist.io/&#10;&#10;Video uploaded by&#10;Simon/Miniminter/MiniminterClips"
+    description "My twitch: https://www.twitch.tv/miniminter&amp;#10;My insta: https://www.instagram.com/miniminter/&amp;#10;My tiktok: https://www.tiktok.com/@miniminter&amp;#10;My twitter: https://twitter.com/miniminter&amp;#10;&amp;#10;Main Channel: https://www.youtube.com/miniminter&amp;#10;2nd Channel: https://www.youtube.com/user/MM7Games&amp;#10;Shorts Channel: https://www.youtube.com/minimintershorts&amp;#10;&amp;#10;The Regulars:&amp;#10;Talia: https://www.twitch.tv/taliamar&amp;#10;Viz: https://www.twitch.tv/vizualizah&amp;#10;Ellum: https://www.twitch.tv/ellum&amp;#10;Milk: https://www.twitch.tv/milkinabag&amp;#10;&amp;#10;Sidemen Clothing: https://goo.gl/8RLHBR&amp;#10;&amp;#10;Sidemen Channels:&amp;#10;Josh: https://goo.gl/VgeDWX&amp;#10;Tobi: https://goo.gl/MqGC4K&amp;#10;JJ: https://goo.gl/dxn9YW&amp;#10;Vik: https://goo.gl/9xLpVD&amp;#10;Ethan: https://goo.gl/5GBDTg&amp;#10;Harry: https://goo.gl/nJHyMA&amp;#10;&amp;#10;My PC: http://bit.ly/miniminter&amp;#10;&amp;#10;Custom Controller: http://bit.ly/SideCCUK&amp;#10;&amp;#10;HOW I RECORD MY GAMEPLAY: http://e.lga.to/mm&amp;#10;&amp;#10;WHERE I GET MY CHAIR: http://www.gtomegaracing.com/gt-omega...&amp;#10;&amp;#10;Music from: https://artlist.io/&amp;#10;&amp;#10;Video uploaded by&amp;#10;Simon/Miniminter/MiniminterClips"
     channeltitle "MiniminterClips"
     channelid "UCzfVmyl18x2TTaWp0d5rBNQ"
     favcount 0
@@ -4106,6 +7428,28 @@ graph
     ppinflammatory 0.44083682
     sentiment 0
     cluster 4
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -4114,7 +7458,7 @@ graph
     step 0
     date "2022-04-07T08:33:15Z"
     title "Wordle 292 for April 7th - What is Todays Wordle? 04/07/2022"
-    description "What is today's Wordle for 04/07/2022 number 292 ? Join me and let's find out &#38; guess the answer together. Mr Wordle has been on a mean streak lately.&#10;A new word daily, how do you like to play &#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. April 7th 2022&#10;&#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&#10;&#10;0:00 Intro&#10;0:20 First Guess&#10;1:52 Wordle?&#10;&#10;business contact: emptyapartmentgaming gmail&#10;#wordle #dailywordleclub"
+    description "What is today's Wordle for 04/07/2022 number 292 ? Join me and let's find out &amp;#38; guess the answer together. Mr Wordle has been on a mean streak lately.&amp;#10;A new word daily, how do you like to play &amp;#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. April 7th 2022&amp;#10;&amp;#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;0:00 Intro&amp;#10;0:20 First Guess&amp;#10;1:52 Wordle?&amp;#10;&amp;#10;business contact: emptyapartmentgaming gmail&amp;#10;#wordle #dailywordleclub"
     channeltitle "Empty Apartment"
     channelid "UCEb4tjgeTW47bD66Xryzx0Q"
     favcount 0
@@ -4133,6 +7477,28 @@ graph
     ppinflammatory 0.07481038
     sentiment 0
     cluster 1
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -4141,7 +7507,7 @@ graph
     step 0
     date "2022-03-03T09:50:28Z"
     title "Wordle 257 for March 3rd - What is Todays Wordle? 03/03/2022"
-    description "What is today's Wordle? Let's find out &#38; guess the answer together. Join me for today's 03/03/2022 Wordle number 257 . Not too bad today!&#10;Everyone's new favorite game. A new word daily, how do you like to play &#38; what's your strategy? Thought I'd try uploading my guesses, hints, and answers, plus cool to archive it. March 3rd 2022&#10;&#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&#10;&#10;0:00 Intro&#10;0:33 First Guess&#10;1:30 Sturn?&#10;2:10 Wordle&#10;&#10;&#10;&#10;business contact: emptyapartmentgaming gmail&#10;&#10;#wordle #dailywordleclub"
+    description "What is today's Wordle? Let's find out &amp;#38; guess the answer together. Join me for today's 03/03/2022 Wordle number 257 . Not too bad today!&amp;#10;Everyone's new favorite game. A new word daily, how do you like to play &amp;#38; what's your strategy? Thought I'd try uploading my guesses, hints, and answers, plus cool to archive it. March 3rd 2022&amp;#10;&amp;#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;0:00 Intro&amp;#10;0:33 First Guess&amp;#10;1:30 Sturn?&amp;#10;2:10 Wordle&amp;#10;&amp;#10;&amp;#10;&amp;#10;business contact: emptyapartmentgaming gmail&amp;#10;&amp;#10;#wordle #dailywordleclub"
     channeltitle "Empty Apartment"
     channelid "UCEb4tjgeTW47bD66Xryzx0Q"
     favcount 0
@@ -4160,6 +7526,28 @@ graph
     ppinflammatory 0.15046944
     sentiment 0
     cluster 1
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -4168,7 +7556,7 @@ graph
     step 0
     date "2022-03-14T09:26:39Z"
     title "Wordle 268 for March 14th - What is Todays Wordle? 03/14/2022"
-    description "What is today's Wordle for 03/14/2022 Wordle number 268? Join me and let's find out &#38; guess the answer together. Meats for the win!&#10;A new word daily, how do you like to play &#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. March 14th 2022&#10;&#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&#10;&#10;0:00 Intro&#10;0:27 First Guess&#10;1:40 Steem&#10;2:30 Wordle&#10;&#10;&#10;business contact: emptyapartmentgaming gmail&#10;&#10;#wordle #dailywordleclub"
+    description "What is today's Wordle for 03/14/2022 Wordle number 268? Join me and let's find out &amp;#38; guess the answer together. Meats for the win!&amp;#10;A new word daily, how do you like to play &amp;#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. March 14th 2022&amp;#10;&amp;#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;0:00 Intro&amp;#10;0:27 First Guess&amp;#10;1:40 Steem&amp;#10;2:30 Wordle&amp;#10;&amp;#10;&amp;#10;business contact: emptyapartmentgaming gmail&amp;#10;&amp;#10;#wordle #dailywordleclub"
     channeltitle "Empty Apartment"
     channelid "UCEb4tjgeTW47bD66Xryzx0Q"
     favcount 0
@@ -4187,6 +7575,28 @@ graph
     ppinflammatory 0.098024055
     sentiment 0
     cluster 1
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -4195,7 +7605,7 @@ graph
     step 0
     date "2022-05-19T20:51:06Z"
     title "Making a lot of NOISE with todays Wordle"
-    description "Solving #Wordle #334 for Thursday, May 19th.&#10;&#10;You can find my other 'Wordle-like' solves here - https://youtube.com/playlist?list=PL_HjFt2zdfHV33cIRgG7tm-AvnfUP9cMG&#10;&#10;Check out all my merch at https://stro.link/merch&#10;Become a member of the Stro-Solves YouTube channel - https://stro.link/join&#10;Come discuss these puzzles with us on discord - https://stro.link/discord"
+    description "Solving #Wordle #334 for Thursday, May 19th.&amp;#10;&amp;#10;You can find my other 'Wordle-like' solves here - https://youtube.com/playlist?list=PL_HjFt2zdfHV33cIRgG7tm-AvnfUP9cMG&amp;#10;&amp;#10;Check out all my merch at https://stro.link/merch&amp;#10;Become a member of the Stro-Solves YouTube channel - https://stro.link/join&amp;#10;Come discuss these puzzles with us on discord - https://stro.link/discord"
     channeltitle "Scott Stro-solves"
     channelid "UC8HHDytpZ-cs9bavTbgYfmA"
     favcount 0
@@ -4213,7 +7623,29 @@ graph
     ppprofanity 0.14135523
     ppinflammatory 0.06159812
     sentiment 0
-    cluster 6
+    cluster 3
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -4222,7 +7654,7 @@ graph
     step 0
     date "2022-03-15T10:00:35Z"
     title "Wordle 269 for March 15th - What is Todays Wordle? 03/15/2022"
-    description "What is today's Wordle for 03/15/2022 Wordle number 269? Join me and let's find out &#38; guess the answer together. &#10;A new word daily, how do you like to play &#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. March 15th 2022&#10;&#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&#10;&#10;0:00 Intro&#10;0:25 First Guess&#10;2:15 Wordle&#10;&#10;&#10;business contact: emptyapartmentgaming gmail&#10;&#10;#wordle #dailywordleclub"
+    description "What is today's Wordle for 03/15/2022 Wordle number 269? Join me and let's find out &amp;#38; guess the answer together. &amp;#10;A new word daily, how do you like to play &amp;#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. March 15th 2022&amp;#10;&amp;#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;0:00 Intro&amp;#10;0:25 First Guess&amp;#10;2:15 Wordle&amp;#10;&amp;#10;&amp;#10;business contact: emptyapartmentgaming gmail&amp;#10;&amp;#10;#wordle #dailywordleclub"
     channeltitle "Empty Apartment"
     channelid "UCEb4tjgeTW47bD66Xryzx0Q"
     favcount 0
@@ -4241,6 +7673,28 @@ graph
     ppinflammatory 0.098024055
     sentiment 0
     cluster 1
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -4249,7 +7703,7 @@ graph
     step 0
     date "2022-04-28T04:00:01Z"
     title "Doug plays todays Wordle #313 for 04/28/2022"
-    description "It's April 28, 2022 and Doug is playing today's daily Wordle! &#10;&#10;&#10;Please, if you enjoyed this video, like and subscribe to my channel!&#10;&#10;I can also be found on Twitch!&#10;https://www.twitch.tv/dougmansland&#10;&#10;I'm also on Twitter!&#10;https://twitter.com/dougmansland&#10;&#10;If you enjoy Discord, I have one of those too!&#10;https://discord.gg/MVXvhvg2Zm&#10;&#10;For some reason, I also make Tik Tok videos!&#10;https://www.tiktok.com/@dougmansland?lang=en"
+    description "It's April 28, 2022 and Doug is playing today's daily Wordle! &amp;#10;&amp;#10;&amp;#10;Please, if you enjoyed this video, like and subscribe to my channel!&amp;#10;&amp;#10;I can also be found on Twitch!&amp;#10;https://www.twitch.tv/dougmansland&amp;#10;&amp;#10;I'm also on Twitter!&amp;#10;https://twitter.com/dougmansland&amp;#10;&amp;#10;If you enjoy Discord, I have one of those too!&amp;#10;https://discord.gg/MVXvhvg2Zm&amp;#10;&amp;#10;For some reason, I also make Tik Tok videos!&amp;#10;https://www.tiktok.com/@dougmansland?lang=en"
     channeltitle "DougMansLand"
     channelid "UCkiAm7y8MQCbFwpB-52QRtg"
     favcount 0
@@ -4267,7 +7721,29 @@ graph
     ppprofanity 0.0769922
     ppinflammatory 0.049881727
     sentiment 0.25
-    cluster 8
+    cluster 5
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -4276,7 +7752,7 @@ graph
     step 0
     date "2022-04-20T10:26:47Z"
     title "Wordle 305 for April 20th - What is Todays Wordle? 04/20/2022"
-    description "What is today's Wordle for 04/20/2022 number 305 ? Join me and let's find out &#38; guess the answer together. This one is kind of tough.&#10;A new word daily, how do you like to play &#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. April 20th 2022&#10;&#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&#10;&#10;0:00 Intro&#10;0:19 First Guess&#10;1:07 Don't Forget R&#10;2:02 Wordle!&#10;&#10;&#10;business contact: emptyapartmentgaming gmail&#10;&#10;#wordle #dailywordleclub"
+    description "What is today's Wordle for 04/20/2022 number 305 ? Join me and let's find out &amp;#38; guess the answer together. This one is kind of tough.&amp;#10;A new word daily, how do you like to play &amp;#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. April 20th 2022&amp;#10;&amp;#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;0:00 Intro&amp;#10;0:19 First Guess&amp;#10;1:07 Don't Forget R&amp;#10;2:02 Wordle!&amp;#10;&amp;#10;&amp;#10;business contact: emptyapartmentgaming gmail&amp;#10;&amp;#10;#wordle #dailywordleclub"
     channeltitle "Empty Apartment"
     channelid "UCEb4tjgeTW47bD66Xryzx0Q"
     favcount 0
@@ -4295,6 +7771,28 @@ graph
     ppinflammatory 0.07276229
     sentiment 0
     cluster 1
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -4303,7 +7801,7 @@ graph
     step 0
     date "2022-05-03T10:30:26Z"
     title "Wordle 318 for May 3rd - What is Todays Wordle?"
-    description "What is today's Wordle for 05/03/2022 number 318 ? Join me and let's find out &#38; guess the answer together. Don't really like milk much myself.&#10;A new word daily, how do you like to play &#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. May 3rd 2022&#10;&#10;Follow me on Twitter: https://twitter.com/emptyapartment3&#10;Join our Discord: https://discord.gg/9Py98RU&#10;Buy me a coffee: https://streamelements.com/emptyapartment/tip&#10;&#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&#10;&#10;business contact: emptyapartmentgaming gmail&#10;&#10;&#10;0:00 Intro&#10;0:20 First Guess&#10;1:20 Wordle?&#10;&#10;#wordle"
+    description "What is today's Wordle for 05/03/2022 number 318 ? Join me and let's find out &amp;#38; guess the answer together. Don't really like milk much myself.&amp;#10;A new word daily, how do you like to play &amp;#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. May 3rd 2022&amp;#10;&amp;#10;Follow me on Twitter: https://twitter.com/emptyapartment3&amp;#10;Join our Discord: https://discord.gg/9Py98RU&amp;#10;Buy me a coffee: https://streamelements.com/emptyapartment/tip&amp;#10;&amp;#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;business contact: emptyapartmentgaming gmail&amp;#10;&amp;#10;&amp;#10;0:00 Intro&amp;#10;0:20 First Guess&amp;#10;1:20 Wordle?&amp;#10;&amp;#10;#wordle"
     channeltitle "Empty Apartment"
     channelid "UCEb4tjgeTW47bD66Xryzx0Q"
     favcount 0
@@ -4322,6 +7820,28 @@ graph
     ppinflammatory 0.09137932
     sentiment 0
     cluster 1
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -4330,7 +7850,7 @@ graph
     step 0
     date "2022-04-05T13:38:30Z"
     title "Wordle April 5th, 2022 - Can you guess the word?"
-    description "Hi everyone! Today Sean plays Wordle, a fun word logic puzzle.&#10;Can you get the word in fewer guesses? Give it a shot at the link below:&#10;https://www.nytimes.com/games/wordle/index.html&#10;&#10;And check your answers here with SCOREDLE!&#10;https://scoredle.com/"
+    description "Hi everyone! Today Sean plays Wordle, a fun word logic puzzle.&amp;#10;Can you get the word in fewer guesses? Give it a shot at the link below:&amp;#10;https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;And check your answers here with SCOREDLE!&amp;#10;https://scoredle.com/"
     channeltitle "Sean Plays"
     channelid "UCRlHYIOSfBDAVkz46rnglow"
     favcount 0
@@ -4348,7 +7868,29 @@ graph
     ppprofanity 0.018989567
     ppinflammatory 0.1357699
     sentiment 0
-    cluster 3
+    cluster 2
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -4357,7 +7899,7 @@ graph
     step 0
     date "2022-01-12T16:00:12Z"
     title "Whats the Best Opening Wordle Word? It Depends on the Opponent | A Game Theory 101 Investigation"
-    description "Check out my books on Amazon (paid link): https://amzn.to/2SiQjlp&#10;&#10;Wordle is a game similar to Lingo, jotto, Mastermind, and cows and bulls. The player tries to guess a five letter word. If that word is wrong, the player learns which letters from the guessed word are in the correct word, and which letters are also in the correct position. After six wrong guesses, the player loses. You can play it here: https://www.powerlanguage.co.uk/wordle/&#10;&#10;What's the best first word? There are many popular ones, including ADIEU, AUDIO, RAISE, ATONE, and STARE. This video explains that the best word depends on whom you are playing against, and that a strategic opponent is different from an astrategic computer. In fact, the Wheel of Fortune bonus round is an application of the former case."
+    description "Check out my books on Amazon (paid link): https://amzn.to/2SiQjlp&amp;#10;&amp;#10;Wordle is a game similar to Lingo, jotto, Mastermind, and cows and bulls. The player tries to guess a five letter word. If that word is wrong, the player learns which letters from the guessed word are in the correct word, and which letters are also in the correct position. After six wrong guesses, the player loses. You can play it here: https://www.powerlanguage.co.uk/wordle/&amp;#10;&amp;#10;What's the best first word? There are many popular ones, including ADIEU, AUDIO, RAISE, ATONE, and STARE. This video explains that the best word depends on whom you are playing against, and that a strategic opponent is different from an astrategic computer. In fact, the Wheel of Fortune bonus round is an application of the former case."
     channeltitle "William Spaniel"
     channelid "UCJDIGW0ywWw9Kh9_vtwqxXA"
     favcount 0
@@ -4375,7 +7917,29 @@ graph
     ppprofanity 0.036360525
     ppinflammatory 0.056045566
     sentiment 0.6369
-    cluster 3
+    cluster 2
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -4384,7 +7948,7 @@ graph
     step 0
     date "2022-06-28T09:23:14Z"
     title "Wordle 374 for June 28th"
-    description "What is today's Wordle for 06/28/2022 number 374 ? Join me and let's find out &#38; guess the answer together. What a word!&#10;A new word daily, how do you like to play &#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. June 28th 2022&#10;&#10;Follow me on Twitter: https://twitter.com/emptyapartment3&#10;Join our Discord: https://discord.gg/9Py98RU&#10;Support/Buy me a &#34;coffee&#34;: https://ko-fi.com/emptyapartment&#10;&#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&#10;&#10;business contact: emptyapartmentgaming [at] gmail&#10;&#10;&#10;0:00 Intro&#10;0:19 First Guess&#10;1:30 Wordle?&#10;&#10;#wordle"
+    description "What is today's Wordle for 06/28/2022 number 374 ? Join me and let's find out &amp;#38; guess the answer together. What a word!&amp;#10;A new word daily, how do you like to play &amp;#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. June 28th 2022&amp;#10;&amp;#10;Follow me on Twitter: https://twitter.com/emptyapartment3&amp;#10;Join our Discord: https://discord.gg/9Py98RU&amp;#10;Support/Buy me a &amp;#34;coffee&amp;#34;: https://ko-fi.com/emptyapartment&amp;#10;&amp;#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;business contact: emptyapartmentgaming [at] gmail&amp;#10;&amp;#10;&amp;#10;0:00 Intro&amp;#10;0:19 First Guess&amp;#10;1:30 Wordle?&amp;#10;&amp;#10;#wordle"
     channeltitle "Empty Apartment"
     channelid "UCEb4tjgeTW47bD66Xryzx0Q"
     favcount 0
@@ -4403,6 +7967,28 @@ graph
     ppinflammatory 0.15883087
     sentiment 0
     cluster 1
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -4411,7 +7997,7 @@ graph
     step 0
     date "2022-03-06T08:10:51Z"
     title "Wordle 260 for March 6th - What is Todays Wordle? 03/06/2022"
-    description "What is today's Wordle? Let's find out &#38; guess the answer together. Join me for today's 03/06/2022 Wordle number 260 . Shoutout to hippos!&#10;A new word daily, how do you like to play &#38; what's your strategy? Thought I'd try uploading my guesses, hints, and answers, plus cool to archive it. March 6th 2022&#10;&#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&#10;&#10;0:00 Intro&#10;0:32 First Guess&#10;1:20 Though?&#10;2:20 Wordle&#10;&#10;business contact: emptyapartmentgaming gmail&#10;&#10;#wordle #dailywordleclub"
+    description "What is today's Wordle? Let's find out &amp;#38; guess the answer together. Join me for today's 03/06/2022 Wordle number 260 . Shoutout to hippos!&amp;#10;A new word daily, how do you like to play &amp;#38; what's your strategy? Thought I'd try uploading my guesses, hints, and answers, plus cool to archive it. March 6th 2022&amp;#10;&amp;#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;0:00 Intro&amp;#10;0:32 First Guess&amp;#10;1:20 Though?&amp;#10;2:20 Wordle&amp;#10;&amp;#10;business contact: emptyapartmentgaming gmail&amp;#10;&amp;#10;#wordle #dailywordleclub"
     channeltitle "Empty Apartment"
     channelid "UCEb4tjgeTW47bD66Xryzx0Q"
     favcount 0
@@ -4430,6 +8016,28 @@ graph
     ppinflammatory 0.12758052
     sentiment 0
     cluster 1
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -4438,7 +8046,7 @@ graph
     step 0
     date "2022-05-15T04:00:00Z"
     title "Doug plays todays Wordle #330 for 05/15/2022"
-    description "It's May 15, 2022 and Doug is playing today's daily Wordle! &#10;&#10;&#10;Please, if you enjoyed this video, like and subscribe to my channel!&#10;&#10;I can also be found on Twitch!&#10;https://www.twitch.tv/dougmansland&#10;&#10;I'm also on Twitter!&#10;https://twitter.com/dougmansland&#10;&#10;If you enjoy Discord, I have one of those too!&#10;https://discord.gg/MVXvhvg2Zm&#10;&#10;For some reason, I also make Tik Tok videos!&#10;https://www.tiktok.com/@dougmansland?lang=en"
+    description "It's May 15, 2022 and Doug is playing today's daily Wordle! &amp;#10;&amp;#10;&amp;#10;Please, if you enjoyed this video, like and subscribe to my channel!&amp;#10;&amp;#10;I can also be found on Twitch!&amp;#10;https://www.twitch.tv/dougmansland&amp;#10;&amp;#10;I'm also on Twitter!&amp;#10;https://twitter.com/dougmansland&amp;#10;&amp;#10;If you enjoy Discord, I have one of those too!&amp;#10;https://discord.gg/MVXvhvg2Zm&amp;#10;&amp;#10;For some reason, I also make Tik Tok videos!&amp;#10;https://www.tiktok.com/@dougmansland?lang=en"
     channeltitle "DougMansLand"
     channelid "UCkiAm7y8MQCbFwpB-52QRtg"
     favcount 0
@@ -4457,6 +8065,28 @@ graph
     ppinflammatory 0.049881727
     sentiment 0.25
     cluster 2
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -4465,7 +8095,7 @@ graph
     step 0
     date "2022-02-11T14:00:04Z"
     title "Why Is Wordle So Popular and Why Did The New York Times Buy It?"
-    description "Why Is Wordle So Popular and Why Did The New York Times Buy It? How do you play Wordle? How does Wordle make money? Is there a Wordle App for iOS and Android? How much did the New York Times pay for Wordle? Is Wordle free? What's the Wordle answer today? How much is a New York Times Games subscription? How does Wordle work? Will Wordle always be free? Did Reddit make Wordle? Did Josh Wardle make The Button and Place? How many languages is Wordle in? Can I play Wordle in Spanish? How can I download Wordle?&#10;&#10;We discuss the New York Times' multi-million dollar purchase of Wordle from creator Josh Wardle and what this means for the phenomenally popular spelling game. Here's How It Happened.&#10;&#10;Our Favorite Laptop: https://amzn.to/34yVqEh &#128187; &#10;Noise-Cancelling Headphones: https://amzn.to/3BdC17C &#127911; &#10;Studio Quality Mic: https://amzn.to/3gWKQK1 &#127897; &#10;&#10;#Wordle&#10;#NYT&#10;#HowItHappened&#10;&#10;&#9658; FTC Legal Disclaimer - Some links found in the description box of our videos may be affiliate links, meaning we may receive a small commission on sales you make through the link. This is at no extra cost to you to use our links/codes; it's just one more way to support us and our channel! :)"
+    description "Why Is Wordle So Popular and Why Did The New York Times Buy It? How do you play Wordle? How does Wordle make money? Is there a Wordle App for iOS and Android? How much did the New York Times pay for Wordle? Is Wordle free? What's the Wordle answer today? How much is a New York Times Games subscription? How does Wordle work? Will Wordle always be free? Did Reddit make Wordle? Did Josh Wardle make The Button and Place? How many languages is Wordle in? Can I play Wordle in Spanish? How can I download Wordle?&amp;#10;&amp;#10;We discuss the New York Times' multi-million dollar purchase of Wordle from creator Josh Wardle and what this means for the phenomenally popular spelling game. Here's How It Happened.&amp;#10;&amp;#10;Our Favorite Laptop: https://amzn.to/34yVqEh &amp;#128187; &amp;#10;Noise-Cancelling Headphones: https://amzn.to/3BdC17C &amp;#127911; &amp;#10;Studio Quality Mic: https://amzn.to/3gWKQK1 &amp;#127897; &amp;#10;&amp;#10;#Wordle&amp;#10;#NYT&amp;#10;#HowItHappened&amp;#10;&amp;#10;&amp;#9658; FTC Legal Disclaimer - Some links found in the description box of our videos may be affiliate links, meaning we may receive a small commission on sales you make through the link. This is at no extra cost to you to use our links/codes; it's just one more way to support us and our channel! :)"
     channeltitle "How It Happened"
     channelid "UCWIh8oCINUfP6JSDurR4Kcw"
     favcount 0
@@ -4484,6 +8114,28 @@ graph
     ppinflammatory 0.18470955
     sentiment 0.5598
     cluster 2
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -4492,7 +8144,7 @@ graph
     step 0
     date "2022-01-24T06:20:43Z"
     title "Wordle Jan 24th, 2022 - Can you guess the word?"
-    description "Hi everyone! Today Sean plays Wordle, a fun word logic puzzle.&#10;Can you get the word in fewer guesses? Give it a shot at the link below:&#10;https://www.powerlanguage.co.uk/wordle/"
+    description "Hi everyone! Today Sean plays Wordle, a fun word logic puzzle.&amp;#10;Can you get the word in fewer guesses? Give it a shot at the link below:&amp;#10;https://www.powerlanguage.co.uk/wordle/"
     channeltitle "Sean Plays"
     channelid "UCRlHYIOSfBDAVkz46rnglow"
     favcount 0
@@ -4510,7 +8162,29 @@ graph
     ppprofanity 0.021303186
     ppinflammatory 0.1850161
     sentiment 0
-    cluster 3
+    cluster 8
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -4519,7 +8193,7 @@ graph
     step 0
     date "2022-06-07T08:16:12Z"
     title "Wordle 353 for June 7th - Wait a Minute?"
-    description "What is today's Wordle for 06/07/2022 number 353 ? Join me and let's find out &#38; guess the answer together. Oddly familiar but still took 5 guesses.&#10;A new word daily, how do you like to play &#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. June 7th 2022&#10;&#10;Follow me on Twitter: https://twitter.com/emptyapartment3&#10;Join our Discord: https://discord.gg/9Py98RU&#10;Support/Buy me a &#34;coffee&#34;: https://ko-fi.com/emptyapartment&#10;&#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&#10;&#10;business contact: emptyapartmentgaming [at] gmail&#10;&#10;&#10;0:00 Intro&#10;0:21 First Guess&#10;1:45 Wordle?&#10;&#10;#wordle"
+    description "What is today's Wordle for 06/07/2022 number 353 ? Join me and let's find out &amp;#38; guess the answer together. Oddly familiar but still took 5 guesses.&amp;#10;A new word daily, how do you like to play &amp;#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. June 7th 2022&amp;#10;&amp;#10;Follow me on Twitter: https://twitter.com/emptyapartment3&amp;#10;Join our Discord: https://discord.gg/9Py98RU&amp;#10;Support/Buy me a &amp;#34;coffee&amp;#34;: https://ko-fi.com/emptyapartment&amp;#10;&amp;#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;business contact: emptyapartmentgaming [at] gmail&amp;#10;&amp;#10;&amp;#10;0:00 Intro&amp;#10;0:21 First Guess&amp;#10;1:45 Wordle?&amp;#10;&amp;#10;#wordle"
     channeltitle "Empty Apartment"
     channelid "UCEb4tjgeTW47bD66Xryzx0Q"
     favcount 0
@@ -4537,7 +8211,29 @@ graph
     ppprofanity 0.039960533
     ppinflammatory 0.12544686
     sentiment 0
-    cluster 2
+    cluster 3
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -4546,7 +8242,7 @@ graph
     step 0
     date "2022-03-11T09:18:52Z"
     title "Wordle 265 for March 11th - What is Todays Wordle? 03/11/2022"
-    description "What is today's Wordle? Let's find out &#38; guess the answer together. Join me for today's 03/11/2022 Wordle number 265 . A very close one today!&#10;A new word daily, how do you like to play &#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. March 11th 2022&#10;&#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&#10;&#10;0:00 Intro&#10;0:25 First Guess&#10;1:30 No Ranch&#10;2:30 Wordle&#10;&#10;business contact: emptyapartmentgaming gmail&#10;&#10;#wordle #dailywordleclub"
+    description "What is today's Wordle? Let's find out &amp;#38; guess the answer together. Join me for today's 03/11/2022 Wordle number 265 . A very close one today!&amp;#10;A new word daily, how do you like to play &amp;#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. March 11th 2022&amp;#10;&amp;#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;0:00 Intro&amp;#10;0:25 First Guess&amp;#10;1:30 No Ranch&amp;#10;2:30 Wordle&amp;#10;&amp;#10;business contact: emptyapartmentgaming gmail&amp;#10;&amp;#10;#wordle #dailywordleclub"
     channeltitle "Empty Apartment"
     channelid "UCEb4tjgeTW47bD66Xryzx0Q"
     favcount 0
@@ -4565,6 +8261,28 @@ graph
     ppinflammatory 0.098024055
     sentiment 0
     cluster 1
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -4573,7 +8291,7 @@ graph
     step 0
     date "2022-07-05T19:30:01Z"
     title "eldroW cimordnilaP | Palindromic Wordle"
-    description "#wordletoday&#10;Solving today's #Wordle #381 for Tuesday, July 5th.&#10;&#10;You can find my other 'Wordle-like' solves here - https://youtube.com/playlist?list=PL_HjFt2zdfHV33cIRgG7tm-AvnfUP9cMG&#10;&#10;Check out all my merch at https://stro.link/merch&#10;Become a member of the Stro-Solves YouTube channel - https://stro.link/join&#10;Come discuss these puzzles with us on discord - https://stro.link/discord"
+    description "#wordletoday&amp;#10;Solving today's #Wordle #381 for Tuesday, July 5th.&amp;#10;&amp;#10;You can find my other 'Wordle-like' solves here - https://youtube.com/playlist?list=PL_HjFt2zdfHV33cIRgG7tm-AvnfUP9cMG&amp;#10;&amp;#10;Check out all my merch at https://stro.link/merch&amp;#10;Become a member of the Stro-Solves YouTube channel - https://stro.link/join&amp;#10;Come discuss these puzzles with us on discord - https://stro.link/discord"
     channeltitle "Scott Stro-solves"
     channelid "UC8HHDytpZ-cs9bavTbgYfmA"
     favcount 0
@@ -4591,7 +8309,29 @@ graph
     ppprofanity 0.064044096
     ppinflammatory 0.066227436
     sentiment 0
-    cluster 1
+    cluster 9
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -4600,7 +8340,7 @@ graph
     step 0
     date "2022-05-04T11:01:58Z"
     title "Wordle 319 for May 4th - What is Todays Wordle?"
-    description "What is today's Wordle for 05/04/2022 number 319 ? Join me and let's find out &#38; guess the answer together. Fun one, happy Star Wars day.&#10;A new word daily, how do you like to play &#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. May 4th 2022&#10;&#10;Follow me on Twitter: https://twitter.com/emptyapartment3&#10;Join our Discord: https://discord.gg/9Py98RU&#10;Buy me a coffee: https://streamelements.com/emptyapartment/tip&#10;&#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&#10;&#10;business contact: emptyapartmentgaming gmail&#10;&#10;&#10;0:00 Intro&#10;0:21 First Guess&#10;1:30 Wordle?&#10;&#10;#wordle"
+    description "What is today's Wordle for 05/04/2022 number 319 ? Join me and let's find out &amp;#38; guess the answer together. Fun one, happy Star Wars day.&amp;#10;A new word daily, how do you like to play &amp;#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. May 4th 2022&amp;#10;&amp;#10;Follow me on Twitter: https://twitter.com/emptyapartment3&amp;#10;Join our Discord: https://discord.gg/9Py98RU&amp;#10;Buy me a coffee: https://streamelements.com/emptyapartment/tip&amp;#10;&amp;#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;business contact: emptyapartmentgaming gmail&amp;#10;&amp;#10;&amp;#10;0:00 Intro&amp;#10;0:21 First Guess&amp;#10;1:30 Wordle?&amp;#10;&amp;#10;#wordle"
     channeltitle "Empty Apartment"
     channelid "UCEb4tjgeTW47bD66Xryzx0Q"
     favcount 0
@@ -4619,6 +8359,28 @@ graph
     ppinflammatory 0.055703122
     sentiment 0
     cluster 1
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -4627,7 +8389,7 @@ graph
     step 0
     date "2022-06-15T23:11:10Z"
     title "Office determines the BEST Wordle starting word?!"
-    description "Custom Wordle: https://mywordle.strivemath.com/?word=yciqj&#10;&#10;Go to https://www.shadyrays.com and use code OFFICE for 50% OFF 2+ pairs of premium polarized shades&#10;&#10;Jomboy Media office competes in weekly Wordle competition!"
+    description "Custom Wordle: https://mywordle.strivemath.com/?word=yciqj&amp;#10;&amp;#10;Go to https://www.shadyrays.com and use code OFFICE for 50% OFF 2+ pairs of premium polarized shades&amp;#10;&amp;#10;Jomboy Media office competes in weekly Wordle competition!"
     channeltitle "JM Gaming (Jomboy Media)"
     channelid "UCk71IrRQyptFQBL_eEeS1uw"
     favcount 0
@@ -4646,6 +8408,28 @@ graph
     ppinflammatory 0.22117421
     sentiment 0.6369
     cluster 4
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -4654,7 +8438,7 @@ graph
     step 0
     date "2022-04-05T08:47:23Z"
     title "Wordle 290 for April 5th - STREAK ENDER? What is Todays Wordle? 04/05/2022"
-    description "What is today's Wordle for 04/05/2022 number 290 ? Join me and let's find out &#38; guess the answer together. It's another tough one with double same vowel.&#10;A new word daily, how do you like to play &#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. April 5th 2022&#10;&#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&#10;&#10;0:00 Intro&#10;0:20 First Guess&#10;1:05 Tamales!&#10;1:50 Wordle?&#10;&#10;business contact: emptyapartmentgaming gmail&#10;#wordle #dailywordleclub"
+    description "What is today's Wordle for 04/05/2022 number 290 ? Join me and let's find out &amp;#38; guess the answer together. It's another tough one with double same vowel.&amp;#10;A new word daily, how do you like to play &amp;#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. April 5th 2022&amp;#10;&amp;#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;0:00 Intro&amp;#10;0:20 First Guess&amp;#10;1:05 Tamales!&amp;#10;1:50 Wordle?&amp;#10;&amp;#10;business contact: emptyapartmentgaming gmail&amp;#10;#wordle #dailywordleclub"
     channeltitle "Empty Apartment"
     channelid "UCEb4tjgeTW47bD66Xryzx0Q"
     favcount 0
@@ -4673,6 +8457,28 @@ graph
     ppinflammatory 0.07589007
     sentiment 0
     cluster 1
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -4681,7 +8487,7 @@ graph
     step 0
     date "2022-07-04T04:00:26Z"
     title "Doug plays todays Wordle #380 for 07/04/2022"
-    description "It's July 4, 2022 and Doug is playing today's daily Wordle! #wordle&#10;&#10;&#10;Please, if you enjoyed this video, like and subscribe to my channel!&#10;&#10;I can also be found on Twitch!&#10;https://www.twitch.tv/dougmansland&#10;&#10;I'm also on Twitter!&#10;https://twitter.com/dougmansland&#10;&#10;If you enjoy Discord, I have one of those too!&#10;https://discord.gg/MVXvhvg2Zm&#10;&#10;For some reason, I also make Tik Tok videos!&#10;https://www.tiktok.com/@dougmansland?lang=en"
+    description "It's July 4, 2022 and Doug is playing today's daily Wordle! #wordle&amp;#10;&amp;#10;&amp;#10;Please, if you enjoyed this video, like and subscribe to my channel!&amp;#10;&amp;#10;I can also be found on Twitch!&amp;#10;https://www.twitch.tv/dougmansland&amp;#10;&amp;#10;I'm also on Twitter!&amp;#10;https://twitter.com/dougmansland&amp;#10;&amp;#10;If you enjoy Discord, I have one of those too!&amp;#10;https://discord.gg/MVXvhvg2Zm&amp;#10;&amp;#10;For some reason, I also make Tik Tok videos!&amp;#10;https://www.tiktok.com/@dougmansland?lang=en"
     channeltitle "DougMansLand"
     channelid "UCkiAm7y8MQCbFwpB-52QRtg"
     favcount 0
@@ -4699,7 +8505,29 @@ graph
     ppprofanity 0.06962299
     ppinflammatory 0.049881727
     sentiment 0.25
-    cluster 3
+    cluster 9
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -4708,7 +8536,7 @@ graph
     step 0
     date "2022-04-18T04:00:11Z"
     title "Doug plays todays Wordle #303 for 04/18/2022"
-    description "It's April 18, 2022 and Doug is playing today's daily Wordle! &#10;&#10;&#10;Please, if you enjoyed this video, like and subscribe to my channel!&#10;&#10;I can also be found on Twitch!&#10;https://www.twitch.tv/dougmansland&#10;&#10;I'm also on Twitter!&#10;https://twitter.com/dougmansland&#10;&#10;If you enjoy Discord, I have one of those too!&#10;https://discord.gg/MVXvhvg2Zm&#10;&#10;For some reason, I also make Tik Tok videos!&#10;https://www.tiktok.com/@dougmansland?lang=en"
+    description "It's April 18, 2022 and Doug is playing today's daily Wordle! &amp;#10;&amp;#10;&amp;#10;Please, if you enjoyed this video, like and subscribe to my channel!&amp;#10;&amp;#10;I can also be found on Twitch!&amp;#10;https://www.twitch.tv/dougmansland&amp;#10;&amp;#10;I'm also on Twitter!&amp;#10;https://twitter.com/dougmansland&amp;#10;&amp;#10;If you enjoy Discord, I have one of those too!&amp;#10;https://discord.gg/MVXvhvg2Zm&amp;#10;&amp;#10;For some reason, I also make Tik Tok videos!&amp;#10;https://www.tiktok.com/@dougmansland?lang=en"
     channeltitle "DougMansLand"
     channelid "UCkiAm7y8MQCbFwpB-52QRtg"
     favcount 0
@@ -4726,7 +8554,29 @@ graph
     ppprofanity 0.06829911
     ppinflammatory 0.049881727
     sentiment 0.25
-    cluster 8
+    cluster 5
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -4735,7 +8585,7 @@ graph
     step 0
     date "2022-04-24T04:00:17Z"
     title "Doug plays todays Wordle #309 for 04/24/2022"
-    description "It's April 24, 2022 and Doug is playing today's daily Wordle! &#10;&#10;&#10;Please, if you enjoyed this video, like and subscribe to my channel!&#10;&#10;I can also be found on Twitch!&#10;https://www.twitch.tv/dougmansland&#10;&#10;I'm also on Twitter!&#10;https://twitter.com/dougmansland&#10;&#10;If you enjoy Discord, I have one of those too!&#10;https://discord.gg/MVXvhvg2Zm&#10;&#10;For some reason, I also make Tik Tok videos!&#10;https://www.tiktok.com/@dougmansland?lang=en"
+    description "It's April 24, 2022 and Doug is playing today's daily Wordle! &amp;#10;&amp;#10;&amp;#10;Please, if you enjoyed this video, like and subscribe to my channel!&amp;#10;&amp;#10;I can also be found on Twitch!&amp;#10;https://www.twitch.tv/dougmansland&amp;#10;&amp;#10;I'm also on Twitter!&amp;#10;https://twitter.com/dougmansland&amp;#10;&amp;#10;If you enjoy Discord, I have one of those too!&amp;#10;https://discord.gg/MVXvhvg2Zm&amp;#10;&amp;#10;For some reason, I also make Tik Tok videos!&amp;#10;https://www.tiktok.com/@dougmansland?lang=en"
     channeltitle "DougMansLand"
     channelid "UCkiAm7y8MQCbFwpB-52QRtg"
     favcount 0
@@ -4753,7 +8603,29 @@ graph
     ppprofanity 0.056447245
     ppinflammatory 0.049881727
     sentiment 0.25
-    cluster 8
+    cluster 5
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -4762,7 +8634,7 @@ graph
     step 0
     date "2022-02-21T08:04:46Z"
     title "Wordle 247 for February 21st - What is Todays Wordle? 02/21/2022"
-    description "What is today's Wordle? Let's find out &#38; guess the answer together. Join me for today's 02/21/2022 Wordle number 247 . They took it easy on us today, either though I should of 3rd guessed it ha.&#10;Everyone's new favorite game. A new word daily, how do you like to play &#38; what's your strategy? Thought I'd try uploading my guesses, hints, and answers, plus cool to archive it. February 21st 2022&#10;&#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&#10;&#10;0:00 Intro&#10;0:26 First Guess&#10;1:50 Wordle!&#10;&#10;business contact: emptyapartmentgaming gmail&#10;&#10;#wordle #dailywordleclub"
+    description "What is today's Wordle? Let's find out &amp;#38; guess the answer together. Join me for today's 02/21/2022 Wordle number 247 . They took it easy on us today, either though I should of 3rd guessed it ha.&amp;#10;Everyone's new favorite game. A new word daily, how do you like to play &amp;#38; what's your strategy? Thought I'd try uploading my guesses, hints, and answers, plus cool to archive it. February 21st 2022&amp;#10;&amp;#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;0:00 Intro&amp;#10;0:26 First Guess&amp;#10;1:50 Wordle!&amp;#10;&amp;#10;business contact: emptyapartmentgaming gmail&amp;#10;&amp;#10;#wordle #dailywordleclub"
     channeltitle "Empty Apartment"
     channelid "UCEb4tjgeTW47bD66Xryzx0Q"
     favcount 0
@@ -4780,7 +8652,29 @@ graph
     ppprofanity 0.07918261
     ppinflammatory 0.083662674
     sentiment 0
-    cluster 1
+    cluster 2
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -4789,7 +8683,7 @@ graph
     step 0
     date "2022-01-26T08:53:07Z"
     title "Wordle 221 for 01/26/2022 - What is Todays Wordle? January 26th"
-    description "What is today's Wordle? Let's find out &#38; guess the answer together. Join me for today's 01/26/2022 Wordle number 221. This one was fairly okay!&#10;Everyone's new favorite game. A new word daily, how do you like to play &#38; what's your strategy? Thought I'd try uploading my guesses and answers, plus cool to archive it. January 26th 2022&#10;&#10;Play for yourself at: https://www.powerlanguage.co.uk/wordle/&#10;&#10;0:00 Intro&#10;0:30 First Guess&#10;1:50 Thanks!&#10;2:56 Wordle?&#10;&#10;&#10;#wordle #dailywordleclub"
+    description "What is today's Wordle? Let's find out &amp;#38; guess the answer together. Join me for today's 01/26/2022 Wordle number 221. This one was fairly okay!&amp;#10;Everyone's new favorite game. A new word daily, how do you like to play &amp;#38; what's your strategy? Thought I'd try uploading my guesses and answers, plus cool to archive it. January 26th 2022&amp;#10;&amp;#10;Play for yourself at: https://www.powerlanguage.co.uk/wordle/&amp;#10;&amp;#10;0:00 Intro&amp;#10;0:30 First Guess&amp;#10;1:50 Thanks!&amp;#10;2:56 Wordle?&amp;#10;&amp;#10;&amp;#10;#wordle #dailywordleclub"
     channeltitle "Empty Apartment"
     channelid "UCEb4tjgeTW47bD66Xryzx0Q"
     favcount 0
@@ -4808,6 +8702,28 @@ graph
     ppinflammatory 0.06653313
     sentiment 0
     cluster 1
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -4816,7 +8732,7 @@ graph
     step 0
     date "2022-07-10T22:45:56Z"
     title "Getting Wordle help from a BURLY bear!"
-    description "(Spoilers 386) For fun, I start with the previous two day's words and use a viewer suggestion for my 3rd!&#10;&#10;Play Wordle here: https://www.nytimes.com/games/wordle/index.html&#10;&#10;======= LIVE STREAMS =======&#10;I stream word games right here on YouTube every night (except Friday) at 7pm PDT! Subscribe and ring the bell and/or join my Discord to get notifications for when I go live!&#10;&#10;======= MEMBERS =======&#10;Join my channel at the Video Enthusiast tier or higher to see the full, uncut videos with my entire thought process!&#10;https://www.youtube.com/rangsk/join&#10;&#10;===== MERCH ===== &#10;You can also support me by buying my super cute merch! All items feature an artistic rendering of my dog Rocky with no other branding! They're super cute!&#10;&#10;Check out my store here: https://rangsks-merch.creator-spring.com/&#10;&#10;======= DISCORD =======&#10;Join my Discord server to hang out and talk about Wordle, Wordle-like games, and other kinds of puzzles like Sudoku.&#10;https://discord.gg/AEhpTG4z45&#10;&#10;#wordle #puzzle #word #game"
+    description "(Spoilers 386) For fun, I start with the previous two day's words and use a viewer suggestion for my 3rd!&amp;#10;&amp;#10;Play Wordle here: https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;======= LIVE STREAMS =======&amp;#10;I stream word games right here on YouTube every night (except Friday) at 7pm PDT! Subscribe and ring the bell and/or join my Discord to get notifications for when I go live!&amp;#10;&amp;#10;======= MEMBERS =======&amp;#10;Join my channel at the Video Enthusiast tier or higher to see the full, uncut videos with my entire thought process!&amp;#10;https://www.youtube.com/rangsk/join&amp;#10;&amp;#10;===== MERCH ===== &amp;#10;You can also support me by buying my super cute merch! All items feature an artistic rendering of my dog Rocky with no other branding! They're super cute!&amp;#10;&amp;#10;Check out my store here: https://rangsks-merch.creator-spring.com/&amp;#10;&amp;#10;======= DISCORD =======&amp;#10;Join my Discord server to hang out and talk about Wordle, Wordle-like games, and other kinds of puzzles like Sudoku.&amp;#10;https://discord.gg/AEhpTG4z45&amp;#10;&amp;#10;#wordle #puzzle #word #game"
     channeltitle "Rangsk"
     channelid "UC1RUqXOT_iaH4b7iXKRWhLw"
     favcount 0
@@ -4834,7 +8750,29 @@ graph
     ppprofanity 0.042738166
     ppinflammatory 0.45293698
     sentiment 0.4019
-    cluster 6
+    cluster 9
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -4843,7 +8781,7 @@ graph
     step 0
     date "2022-04-22T04:00:09Z"
     title "Doug plays todays Wordle #307 for 04/22/2022"
-    description "It's April 22, 2022 and Doug is playing today's daily Wordle! &#10;&#10;&#10;Please, if you enjoyed this video, like and subscribe to my channel!&#10;&#10;I can also be found on Twitch!&#10;https://www.twitch.tv/dougmansland&#10;&#10;I'm also on Twitter!&#10;https://twitter.com/dougmansland&#10;&#10;If you enjoy Discord, I have one of those too!&#10;https://discord.gg/MVXvhvg2Zm&#10;&#10;For some reason, I also make Tik Tok videos!&#10;https://www.tiktok.com/@dougmansland?lang=en"
+    description "It's April 22, 2022 and Doug is playing today's daily Wordle! &amp;#10;&amp;#10;&amp;#10;Please, if you enjoyed this video, like and subscribe to my channel!&amp;#10;&amp;#10;I can also be found on Twitch!&amp;#10;https://www.twitch.tv/dougmansland&amp;#10;&amp;#10;I'm also on Twitter!&amp;#10;https://twitter.com/dougmansland&amp;#10;&amp;#10;If you enjoy Discord, I have one of those too!&amp;#10;https://discord.gg/MVXvhvg2Zm&amp;#10;&amp;#10;For some reason, I also make Tik Tok videos!&amp;#10;https://www.tiktok.com/@dougmansland?lang=en"
     channeltitle "DougMansLand"
     channelid "UCkiAm7y8MQCbFwpB-52QRtg"
     favcount 0
@@ -4861,7 +8799,29 @@ graph
     ppprofanity 0.060685173
     ppinflammatory 0.049881727
     sentiment 0.25
-    cluster 8
+    cluster 5
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -4870,7 +8830,7 @@ graph
     step 0
     date "2022-02-10T08:55:03Z"
     title "Wordle 236 for February 10th - What is Todays Wordle? 02/10/2022"
-    description "What is today's Wordle? Let's find out &#38; guess the answer together. Join me for today's 02/10/2022 Wordle number 236 .  Took me a while to piece together all those vowels lol.&#10;Everyone's new favorite game. A new word daily, how do you like to play &#38; what's your strategy? Thought I'd try uploading my guesses and answers, plus cool to archive it. February 10th 2022&#10;&#10;Play for yourself at: https://www.powerlanguage.co.uk/wordle/&#10;&#10;0:00 Intro&#10;0:26 First Guess&#10;1:16 Mango&#10;2:28 Wordle!&#10;&#10;business contact: emptyapartmentgaming gmail&#10;&#10;#wordle #dailywordleclub."
+    description "What is today's Wordle? Let's find out &amp;#38; guess the answer together. Join me for today's 02/10/2022 Wordle number 236 .  Took me a while to piece together all those vowels lol.&amp;#10;Everyone's new favorite game. A new word daily, how do you like to play &amp;#38; what's your strategy? Thought I'd try uploading my guesses and answers, plus cool to archive it. February 10th 2022&amp;#10;&amp;#10;Play for yourself at: https://www.powerlanguage.co.uk/wordle/&amp;#10;&amp;#10;0:00 Intro&amp;#10;0:26 First Guess&amp;#10;1:16 Mango&amp;#10;2:28 Wordle!&amp;#10;&amp;#10;business contact: emptyapartmentgaming gmail&amp;#10;&amp;#10;#wordle #dailywordleclub."
     channeltitle "Empty Apartment"
     channelid "UCEb4tjgeTW47bD66Xryzx0Q"
     favcount 0
@@ -4889,6 +8849,28 @@ graph
     ppinflammatory 0.07566681
     sentiment 0
     cluster 1
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -4897,7 +8879,7 @@ graph
     step 0
     date "2022-02-20T09:55:01Z"
     title "Wordle 246 for February 20th - Very Hard! - What is Todays Wordle? 02/20/2022"
-    description "What is today's Wordle? Let's find out &#38; guess the answer together. Join me for today's 02/20/2022 Wordle number 246 .  Yo this word is pretty evil going to trip up a lot of guesses.&#10;Everyone's new favorite game. A new word daily, how do you like to play &#38; what's your strategy? Thought I'd try uploading my guesses and answers, plus cool to archive it. February 20th 2022&#10;&#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&#10;&#10;0:00 Intro&#10;0:28 First Guess&#10;1:30 Wacko&#10;3:00 Wordle!&#10;&#10;business contact: emptyapartmentgaming gmail&#10;&#10;#wordle #dailywordleclub"
+    description "What is today's Wordle? Let's find out &amp;#38; guess the answer together. Join me for today's 02/20/2022 Wordle number 246 .  Yo this word is pretty evil going to trip up a lot of guesses.&amp;#10;Everyone's new favorite game. A new word daily, how do you like to play &amp;#38; what's your strategy? Thought I'd try uploading my guesses and answers, plus cool to archive it. February 20th 2022&amp;#10;&amp;#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;0:00 Intro&amp;#10;0:28 First Guess&amp;#10;1:30 Wacko&amp;#10;3:00 Wordle!&amp;#10;&amp;#10;business contact: emptyapartmentgaming gmail&amp;#10;&amp;#10;#wordle #dailywordleclub"
     channeltitle "Empty Apartment"
     channelid "UCEb4tjgeTW47bD66Xryzx0Q"
     favcount 0
@@ -4916,6 +8898,28 @@ graph
     ppinflammatory 0.07487263
     sentiment -0.1761
     cluster 1
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -4924,7 +8928,7 @@ graph
     step 0
     date "2022-02-10T19:36:46Z"
     title "If I get the word wrong, the video ends - Wordle"
-    description "I tried alright&#10;&#10;Strem: https://www.twitch.tv/parashocklive&#10;I have twitter: https://twitter.com/ParashockX&#10;If you want to support me: https://www.patreon.com/ParashockX"
+    description "I tried alright&amp;#10;&amp;#10;Strem: https://www.twitch.tv/parashocklive&amp;#10;I have twitter: https://twitter.com/ParashockX&amp;#10;If you want to support me: https://www.patreon.com/ParashockX"
     channeltitle "ParashockX"
     channelid "UCKUnB5P0cdfnufPCKkGecqQ"
     favcount 0
@@ -4942,7 +8946,29 @@ graph
     ppprofanity 0.1278763
     ppinflammatory 0.06714585
     sentiment -0.4767
-    cluster 4
+    cluster 2
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -4951,7 +8977,7 @@ graph
     step 0
     date "2022-07-09T15:28:11Z"
     title "Wordle July 9th, 2022 - Can you guess the word?"
-    description "Check back daily for new Wordle and other Word Puzzles!&#10;&#10;Hi everyone! Today Sean plays Wordle, a fun word logic puzzle.&#10;Can you get the word in fewer guesses? Give it a shot at the link below:&#10;https://www.nytimes.com/games/wordle/index.html&#10;&#10;And check your answers here with WordleBot!&#10;https://www.nytimes.com/interactive/2022/upshot/wordle-bot.html"
+    description "Check back daily for new Wordle and other Word Puzzles!&amp;#10;&amp;#10;Hi everyone! Today Sean plays Wordle, a fun word logic puzzle.&amp;#10;Can you get the word in fewer guesses? Give it a shot at the link below:&amp;#10;https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;And check your answers here with WordleBot!&amp;#10;https://www.nytimes.com/interactive/2022/upshot/wordle-bot.html"
     channeltitle "Sean Plays"
     channelid "UCRlHYIOSfBDAVkz46rnglow"
     favcount 0
@@ -4969,7 +8995,29 @@ graph
     ppprofanity 0.020126212
     ppinflammatory 0.080352776
     sentiment 0
-    cluster 3
+    cluster 8
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -4978,7 +9026,7 @@ graph
     step 0
     date "2022-03-25T10:15:03Z"
     title "Wordle 279 for March 25th - What is Todays Wordle? 03/25/2022"
-    description "What is today's Wordle for 03/25/2022 Wordle number 279 ? Join me and let's find out &#38; guess the answer together. &#10;A new word daily, how do you like to play &#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. March 24th 2022&#10;&#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&#10;&#10;0:00 Intro&#10;0:30 First Guess&#10;2:30 Wordle&#10;&#10;&#10;business contact: emptyapartmentgaming gmail&#10;&#10;#wordle #dailywordleclub"
+    description "What is today's Wordle for 03/25/2022 Wordle number 279 ? Join me and let's find out &amp;#38; guess the answer together. &amp;#10;A new word daily, how do you like to play &amp;#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. March 24th 2022&amp;#10;&amp;#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;0:00 Intro&amp;#10;0:30 First Guess&amp;#10;2:30 Wordle&amp;#10;&amp;#10;&amp;#10;business contact: emptyapartmentgaming gmail&amp;#10;&amp;#10;#wordle #dailywordleclub"
     channeltitle "Empty Apartment"
     channelid "UCEb4tjgeTW47bD66Xryzx0Q"
     favcount 0
@@ -4997,6 +9045,28 @@ graph
     ppinflammatory 0.098024055
     sentiment 0
     cluster 1
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -5005,7 +9075,7 @@ graph
     step 0
     date "2022-03-16T09:06:12Z"
     title "Wordle 270 for March 16th - What is Todays Wordle? 03/16/2022"
-    description "What is today's Wordle for 03/16/2022 Wordle number 270 ? Join me and let's find out &#38; guess the answer together. So many possibilities! &#10;A new word daily, how do you like to play &#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. March 16th 2022&#10;&#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&#10;&#10;0:00 Intro&#10;0:29 First Guess&#10;1:10 Drink Water&#10;2:20 Wordle&#10;&#10;&#10;business contact: emptyapartmentgaming gmail&#10;&#10;#wordle #dailywordleclub"
+    description "What is today's Wordle for 03/16/2022 Wordle number 270 ? Join me and let's find out &amp;#38; guess the answer together. So many possibilities! &amp;#10;A new word daily, how do you like to play &amp;#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. March 16th 2022&amp;#10;&amp;#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;0:00 Intro&amp;#10;0:29 First Guess&amp;#10;1:10 Drink Water&amp;#10;2:20 Wordle&amp;#10;&amp;#10;&amp;#10;business contact: emptyapartmentgaming gmail&amp;#10;&amp;#10;#wordle #dailywordleclub"
     channeltitle "Empty Apartment"
     channelid "UCEb4tjgeTW47bD66Xryzx0Q"
     favcount 0
@@ -5024,6 +9094,28 @@ graph
     ppinflammatory 0.098024055
     sentiment 0
     cluster 1
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -5032,7 +9124,7 @@ graph
     step 0
     date "2022-04-14T12:16:01Z"
     title "Wordle 299 for April 14th - Hard? Maybe? What is Todays Wordle? 04/14/2022"
-    description "What is today's Wordle for 04/14/2022 number 299 ? Join me and let's find out &#38; guess the answer together. I struggled more than I should have on this one lol.&#10;A new word daily, how do you like to play &#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. April 14th 2022&#10;&#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&#10;&#10;0:00 Intro&#10;0:18 First Guess&#10;1:50 Wordle!&#10;&#10;&#10;business contact: emptyapartmentgaming gmail&#10;&#10;#wordle #dailywordleclub"
+    description "What is today's Wordle for 04/14/2022 number 299 ? Join me and let's find out &amp;#38; guess the answer together. I struggled more than I should have on this one lol.&amp;#10;A new word daily, how do you like to play &amp;#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. April 14th 2022&amp;#10;&amp;#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;0:00 Intro&amp;#10;0:18 First Guess&amp;#10;1:50 Wordle!&amp;#10;&amp;#10;&amp;#10;business contact: emptyapartmentgaming gmail&amp;#10;&amp;#10;#wordle #dailywordleclub"
     channeltitle "Empty Apartment"
     channelid "UCEb4tjgeTW47bD66Xryzx0Q"
     favcount 0
@@ -5051,6 +9143,28 @@ graph
     ppinflammatory 0.098837905
     sentiment -0.1027
     cluster 1
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -5059,7 +9173,7 @@ graph
     step 0
     date "2022-07-12T04:33:21Z"
     title "Taking Wordle in a whole new direction!"
-    description "Solving today's #verticle for Monday, July 11th. Verticle is like #wordle, but your guesses are vertical. Be sure to check out the rules to make sure you understand how it works. You can try Verticle yourself at https://verticle.herokuapp.com/&#10;&#10;You can find my other 'Wordle-like' solves here - https://youtube.com/playlist?list=PL_HjFt2zdfHV33cIRgG7tm-AvnfUP9cMG&#10;&#10;Check out all my merch at https://stro.link/merch&#10;Become a member of the Stro-Solves YouTube channel - https://stro.link/join&#10;Come discuss these puzzles with us on discord - https://stro.link/discord"
+    description "Solving today's #verticle for Monday, July 11th. Verticle is like #wordle, but your guesses are vertical. Be sure to check out the rules to make sure you understand how it works. You can try Verticle yourself at https://verticle.herokuapp.com/&amp;#10;&amp;#10;You can find my other 'Wordle-like' solves here - https://youtube.com/playlist?list=PL_HjFt2zdfHV33cIRgG7tm-AvnfUP9cMG&amp;#10;&amp;#10;Check out all my merch at https://stro.link/merch&amp;#10;Become a member of the Stro-Solves YouTube channel - https://stro.link/join&amp;#10;Come discuss these puzzles with us on discord - https://stro.link/discord"
     channeltitle "Scott Stro-solves"
     channelid "UC8HHDytpZ-cs9bavTbgYfmA"
     favcount 0
@@ -5077,7 +9191,29 @@ graph
     ppprofanity 0.038231082
     ppinflammatory 0.16307522
     sentiment 0
-    cluster 6
+    cluster 3
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -5086,7 +9222,7 @@ graph
     step 0
     date "2022-04-09T20:48:43Z"
     title "What is a PAR in Wordle?"
-    description "#shorts&#10;Solving #Wordle #294 for Saturday, April 9th.&#10;&#10;You can find my other 'Wordle-like' solves here - https://youtube.com/playlist?list=PL_HjFt2zdfHV33cIRgG7tm-AvnfUP9cMG&#10;&#10;Become a member of the Stro-Solves YouTube channel - https://www.youtube.com/channel/UC8HHDytpZ-cs9bavTbgYfmA/join&#10;&#10;Come discuss these puzzles with us on discord - https://stro.link/discord"
+    description "#shorts&amp;#10;Solving #Wordle #294 for Saturday, April 9th.&amp;#10;&amp;#10;You can find my other 'Wordle-like' solves here - https://youtube.com/playlist?list=PL_HjFt2zdfHV33cIRgG7tm-AvnfUP9cMG&amp;#10;&amp;#10;Become a member of the Stro-Solves YouTube channel - https://www.youtube.com/channel/UC8HHDytpZ-cs9bavTbgYfmA/join&amp;#10;&amp;#10;Come discuss these puzzles with us on discord - https://stro.link/discord"
     channeltitle "Scott Stro-solves"
     channelid "UC8HHDytpZ-cs9bavTbgYfmA"
     favcount 0
@@ -5104,7 +9240,29 @@ graph
     ppprofanity 0.07979208
     ppinflammatory 0.21737152
     sentiment 0
-    cluster 2
+    cluster 3
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -5113,7 +9271,7 @@ graph
     step 0
     date "2022-05-16T04:00:07Z"
     title "Doug plays todays Wordle #331 for 05/16/2022"
-    description "It's May 16, 2022 and Doug is playing today's daily Wordle! &#10;&#10;&#10;Please, if you enjoyed this video, like and subscribe to my channel!&#10;&#10;I can also be found on Twitch!&#10;https://www.twitch.tv/dougmansland&#10;&#10;I'm also on Twitter!&#10;https://twitter.com/dougmansland&#10;&#10;If you enjoy Discord, I have one of those too!&#10;https://discord.gg/MVXvhvg2Zm&#10;&#10;For some reason, I also make Tik Tok videos!&#10;https://www.tiktok.com/@dougmansland?lang=en"
+    description "It's May 16, 2022 and Doug is playing today's daily Wordle! &amp;#10;&amp;#10;&amp;#10;Please, if you enjoyed this video, like and subscribe to my channel!&amp;#10;&amp;#10;I can also be found on Twitch!&amp;#10;https://www.twitch.tv/dougmansland&amp;#10;&amp;#10;I'm also on Twitter!&amp;#10;https://twitter.com/dougmansland&amp;#10;&amp;#10;If you enjoy Discord, I have one of those too!&amp;#10;https://discord.gg/MVXvhvg2Zm&amp;#10;&amp;#10;For some reason, I also make Tik Tok videos!&amp;#10;https://www.tiktok.com/@dougmansland?lang=en"
     channeltitle "DougMansLand"
     channelid "UCkiAm7y8MQCbFwpB-52QRtg"
     favcount 0
@@ -5132,6 +9290,28 @@ graph
     ppinflammatory 0.049881727
     sentiment 0.25
     cluster 2
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -5140,7 +9320,7 @@ graph
     step 0
     date "2022-04-01T09:17:19Z"
     title "Wordle 286 for April 1st - What is Todays Wordle? 04/01/2022"
-    description "What is today's Wordle for 04/01/2022 Wordle number 286 ? Join me and let's find out &#38; guess the answer together. Got to start the streak back up!&#10;A new word daily, how do you like to play &#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. April 1st 2022&#10;&#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&#10;&#10;0:00 Intro&#10;0:45 First Guess&#10;2:25 Wordle?&#10;&#10;&#10;business contact: emptyapartmentgaming gmail&#10;&#10;#wordle #dailywordleclub"
+    description "What is today's Wordle for 04/01/2022 Wordle number 286 ? Join me and let's find out &amp;#38; guess the answer together. Got to start the streak back up!&amp;#10;A new word daily, how do you like to play &amp;#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. April 1st 2022&amp;#10;&amp;#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;0:00 Intro&amp;#10;0:45 First Guess&amp;#10;2:25 Wordle?&amp;#10;&amp;#10;&amp;#10;business contact: emptyapartmentgaming gmail&amp;#10;&amp;#10;#wordle #dailywordleclub"
     channeltitle "Empty Apartment"
     channelid "UCEb4tjgeTW47bD66Xryzx0Q"
     favcount 0
@@ -5159,6 +9339,28 @@ graph
     ppinflammatory 0.07600394
     sentiment 0
     cluster 1
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -5167,7 +9369,7 @@ graph
     step 0
     date "2022-06-09T22:54:05Z"
     title "When greys attack! #Wordle"
-    description "(Spoilers 355) For fun, I start with the previous two day's words and use a viewer suggestion for my 3rd!&#10;&#10;Play Wordle here: https://www.nytimes.com/games/wordle/index.html&#10;&#10;======= LIVE STREAMS =======&#10;I stream word games right here on YouTube every night (except Friday) at 7pm PDT! Subscribe and ring the bell and/or join my Discord to get notifications for when I go live!&#10;&#10;======= MEMBERS =======&#10;Join my channel at the Video Enthusiast tier or higher to see the full, uncut videos with my entire thought process!&#10;https://www.youtube.com/rangsk/join&#10;&#10;===== MERCH ===== &#10;You can also support me by buying my super cute merch! All items feature an artistic rendering of my dog Rocky with no other branding! They're super cute!&#10;&#10;Check out my store here: https://rangsks-merch.creator-spring.com/&#10;&#10;======= DISCORD =======&#10;Join my Discord server to hang out and talk about Wordle, Wordle-like games, and other kinds of puzzles like Sudoku.&#10;https://discord.gg/AEhpTG4z45&#10;&#10;#wordle #puzzle #word #game"
+    description "(Spoilers 355) For fun, I start with the previous two day's words and use a viewer suggestion for my 3rd!&amp;#10;&amp;#10;Play Wordle here: https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;======= LIVE STREAMS =======&amp;#10;I stream word games right here on YouTube every night (except Friday) at 7pm PDT! Subscribe and ring the bell and/or join my Discord to get notifications for when I go live!&amp;#10;&amp;#10;======= MEMBERS =======&amp;#10;Join my channel at the Video Enthusiast tier or higher to see the full, uncut videos with my entire thought process!&amp;#10;https://www.youtube.com/rangsk/join&amp;#10;&amp;#10;===== MERCH ===== &amp;#10;You can also support me by buying my super cute merch! All items feature an artistic rendering of my dog Rocky with no other branding! They're super cute!&amp;#10;&amp;#10;Check out my store here: https://rangsks-merch.creator-spring.com/&amp;#10;&amp;#10;======= DISCORD =======&amp;#10;Join my Discord server to hang out and talk about Wordle, Wordle-like games, and other kinds of puzzles like Sudoku.&amp;#10;https://discord.gg/AEhpTG4z45&amp;#10;&amp;#10;#wordle #puzzle #word #game"
     channeltitle "Rangsk"
     channelid "UC1RUqXOT_iaH4b7iXKRWhLw"
     favcount 0
@@ -5185,7 +9387,29 @@ graph
     ppprofanity 0.12461498
     ppinflammatory 0.19145058
     sentiment -0.4767
-    cluster 2
+    cluster 3
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -5194,7 +9418,7 @@ graph
     step 0
     date "2022-06-27T09:37:43Z"
     title "Wordle 373 for June 27th"
-    description "What is today's Wordle for 06/27/2022 number 373 ? Join me and let's find out &#38; guess the answer together. Thanks Terry!&#10;A new word daily, how do you like to play &#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. June 27th 2022&#10;&#10;Follow me on Twitter: https://twitter.com/emptyapartment3&#10;Join our Discord: https://discord.gg/9Py98RU&#10;Support/Buy me a &#34;coffee&#34;: https://ko-fi.com/emptyapartment&#10;&#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&#10;&#10;business contact: emptyapartmentgaming [at] gmail&#10;&#10;&#10;0:00 Intro&#10;0:19 First Guess&#10;1:30 Wordle?&#10;&#10;#wordle"
+    description "What is today's Wordle for 06/27/2022 number 373 ? Join me and let's find out &amp;#38; guess the answer together. Thanks Terry!&amp;#10;A new word daily, how do you like to play &amp;#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. June 27th 2022&amp;#10;&amp;#10;Follow me on Twitter: https://twitter.com/emptyapartment3&amp;#10;Join our Discord: https://discord.gg/9Py98RU&amp;#10;Support/Buy me a &amp;#34;coffee&amp;#34;: https://ko-fi.com/emptyapartment&amp;#10;&amp;#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;business contact: emptyapartmentgaming [at] gmail&amp;#10;&amp;#10;&amp;#10;0:00 Intro&amp;#10;0:19 First Guess&amp;#10;1:30 Wordle?&amp;#10;&amp;#10;#wordle"
     channeltitle "Empty Apartment"
     channelid "UCEb4tjgeTW47bD66Xryzx0Q"
     favcount 0
@@ -5213,6 +9437,28 @@ graph
     ppinflammatory 0.15883088
     sentiment 0
     cluster 1
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -5221,7 +9467,7 @@ graph
     step 0
     date "2022-05-25T22:07:49Z"
     title "Wordle puts the office in a spin cycle again!"
-    description "WARNING: contains spoilers for May 25 Wordle&#10;&#10;Jomboy Media office competes in weekly Wordle competition"
+    description "WARNING: contains spoilers for May 25 Wordle&amp;#10;&amp;#10;Jomboy Media office competes in weekly Wordle competition"
     channeltitle "JM Gaming (Jomboy Media)"
     channelid "UCk71IrRQyptFQBL_eEeS1uw"
     favcount 0
@@ -5240,6 +9486,28 @@ graph
     ppinflammatory 0.29161382
     sentiment 0
     cluster 4
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -5248,7 +9516,7 @@ graph
     step 0
     date "2022-04-30T21:53:32Z"
     title "Wordle - Answer Today #316 : 1 May 2022"
-    description "This is today's solution to the viral Wordle Game #316&#10;Wordle Answer for Today&#10;01 May 2022&#10;&#10;Wordle Solver: https://solvewordle.habeeb.in/&#10;&#10;Did you find the mystery word for today?&#10;Do share your score.&#10;&#10;How to play wordle?&#10;You have 6 attempts to find the hidden word!&#10;Here's the link to playing the viral wordle game: https://www.nytimes.com/games/wordle&#10;&#10;Now start typing in any 5 letter word.&#10;After each attempt, press enter to submit.&#10;&#10;The colors on the tiles give you these clues:&#10;Green - the letter guessed is right and at the right place.&#10;Yellow - the letter guessed is right but at the wrong place. &#10;Grey - The letter is not part of the word&#10;&#10;Happy guessing guys for this viral combination of a crossword and sudoku puzzle.&#10;&#10;#wordle #wordleanswer #todayswordle #wordlesolution #wordle25April #dailywordle #wordleoftheday  #wordle310 #wordleclue #wordlegame #wordletipsandtricks #wordlepuzzle #whatiswordle #howtoplaywordle #dailywordleanswer #solvewordlefast #habinafi"
+    description "This is today's solution to the viral Wordle Game #316&amp;#10;Wordle Answer for Today&amp;#10;01 May 2022&amp;#10;&amp;#10;Wordle Solver: https://solvewordle.habeeb.in/&amp;#10;&amp;#10;Did you find the mystery word for today?&amp;#10;Do share your score.&amp;#10;&amp;#10;How to play wordle?&amp;#10;You have 6 attempts to find the hidden word!&amp;#10;Here's the link to playing the viral wordle game: https://www.nytimes.com/games/wordle&amp;#10;&amp;#10;Now start typing in any 5 letter word.&amp;#10;After each attempt, press enter to submit.&amp;#10;&amp;#10;The colors on the tiles give you these clues:&amp;#10;Green - the letter guessed is right and at the right place.&amp;#10;Yellow - the letter guessed is right but at the wrong place. &amp;#10;Grey - The letter is not part of the word&amp;#10;&amp;#10;Happy guessing guys for this viral combination of a crossword and sudoku puzzle.&amp;#10;&amp;#10;#wordle #wordleanswer #todayswordle #wordlesolution #wordle25April #dailywordle #wordleoftheday  #wordle310 #wordleclue #wordlegame #wordletipsandtricks #wordlepuzzle #whatiswordle #howtoplaywordle #dailywordleanswer #solvewordlefast #habinafi"
     channeltitle "Habi Nafi"
     channelid "UC9zBTgGGtn-n13lG-NgOm2g"
     favcount 0
@@ -5267,6 +9535,28 @@ graph
     ppinflammatory 0.047181744
     sentiment 0
     cluster 2
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -5275,7 +9565,7 @@ graph
     step 0
     date "2022-01-18T17:38:33Z"
     title "How to Play Wordle"
-    description "#wordle #game #tiktok&#10;&#10;Play Wordle at https://www.powerlanguage.co.uk/wordle/&#10;&#10;Find me on TikTok - https://www.tiktok.com/@leaderoflearning"
+    description "#wordle #game #tiktok&amp;#10;&amp;#10;Play Wordle at https://www.powerlanguage.co.uk/wordle/&amp;#10;&amp;#10;Find me on TikTok - https://www.tiktok.com/@leaderoflearning"
     channeltitle "Dr. Dan Kreiness / Leader of Learning"
     channelid "UCKgJQSNWAdYEOOse22Bv59A"
     favcount 0
@@ -5294,6 +9584,28 @@ graph
     ppinflammatory 0.16501017
     sentiment 0.34
     cluster 2
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -5302,7 +9614,7 @@ graph
     step 0
     date "2022-05-18T06:44:57Z"
     title "Wordle 333 for May 18th - Triple 3s Wordle?"
-    description "What is today's Wordle for 05/18/2022 number 333 ? Join me and let's find out &#38; guess the answer together. Not too bad today!&#10;A new word daily, how do you like to play &#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. May 18th 2022&#10;&#10;Follow me on Twitter: https://twitter.com/emptyapartment3&#10;Join our Discord: https://discord.gg/9Py98RU&#10;Buy me a coffee: https://ko-fi.com/emptyapartment&#10;&#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&#10;&#10;business contact: emptyapartmentgaming gmail&#10;&#10;&#10;0:00 Intro&#10;0:22 First Guess&#10;1:30 Wordle? &#10;&#10;#wordle"
+    description "What is today's Wordle for 05/18/2022 number 333 ? Join me and let's find out &amp;#38; guess the answer together. Not too bad today!&amp;#10;A new word daily, how do you like to play &amp;#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. May 18th 2022&amp;#10;&amp;#10;Follow me on Twitter: https://twitter.com/emptyapartment3&amp;#10;Join our Discord: https://discord.gg/9Py98RU&amp;#10;Buy me a coffee: https://ko-fi.com/emptyapartment&amp;#10;&amp;#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;business contact: emptyapartmentgaming gmail&amp;#10;&amp;#10;&amp;#10;0:00 Intro&amp;#10;0:22 First Guess&amp;#10;1:30 Wordle? &amp;#10;&amp;#10;#wordle"
     channeltitle "Empty Apartment"
     channelid "UCEb4tjgeTW47bD66Xryzx0Q"
     favcount 0
@@ -5320,7 +9632,29 @@ graph
     ppprofanity 0.04411313
     ppinflammatory 0.021700151
     sentiment 0
-    cluster 6
+    cluster 7
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -5329,7 +9663,7 @@ graph
     step 0
     date "2022-06-20T04:00:02Z"
     title "Doug plays todays Wordle #366 for 06/20/2022"
-    description "It's June 20, 2022 and Doug is playing today's daily Wordle! &#10;&#10;&#10;Please, if you enjoyed this video, like and subscribe to my channel!&#10;&#10;I can also be found on Twitch!&#10;https://www.twitch.tv/dougmansland&#10;&#10;I'm also on Twitter!&#10;https://twitter.com/dougmansland&#10;&#10;If you enjoy Discord, I have one of those too!&#10;https://discord.gg/MVXvhvg2Zm&#10;&#10;For some reason, I also make Tik Tok videos!&#10;https://www.tiktok.com/@dougmansland?lang=en"
+    description "It's June 20, 2022 and Doug is playing today's daily Wordle! &amp;#10;&amp;#10;&amp;#10;Please, if you enjoyed this video, like and subscribe to my channel!&amp;#10;&amp;#10;I can also be found on Twitch!&amp;#10;https://www.twitch.tv/dougmansland&amp;#10;&amp;#10;I'm also on Twitter!&amp;#10;https://twitter.com/dougmansland&amp;#10;&amp;#10;If you enjoy Discord, I have one of those too!&amp;#10;https://discord.gg/MVXvhvg2Zm&amp;#10;&amp;#10;For some reason, I also make Tik Tok videos!&amp;#10;https://www.tiktok.com/@dougmansland?lang=en"
     channeltitle "DougMansLand"
     channelid "UCkiAm7y8MQCbFwpB-52QRtg"
     favcount 0
@@ -5347,7 +9681,29 @@ graph
     ppprofanity 0.11506483
     ppinflammatory 0.049881727
     sentiment 0.25
-    cluster 4
+    cluster 3
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -5356,7 +9712,7 @@ graph
     step 0
     date "2022-05-01T19:19:13Z"
     title "A Wordle for Mr. Craine"
-    description "Solving #Wordle #316 for Sunday, May 1st.&#10;&#10;You can find my other 'Wordle-like' solves here - https://youtube.com/playlist?list=PL_HjFt2zdfHV33cIRgG7tm-AvnfUP9cMG&#10;&#10;Become a member of the Stro-Solves YouTube channel - https://stro.link/join&#10;&#10;Come discuss these puzzles with us on discord - https://stro.link/discord"
+    description "Solving #Wordle #316 for Sunday, May 1st.&amp;#10;&amp;#10;You can find my other 'Wordle-like' solves here - https://youtube.com/playlist?list=PL_HjFt2zdfHV33cIRgG7tm-AvnfUP9cMG&amp;#10;&amp;#10;Become a member of the Stro-Solves YouTube channel - https://stro.link/join&amp;#10;&amp;#10;Come discuss these puzzles with us on discord - https://stro.link/discord"
     channeltitle "Scott Stro-solves"
     channelid "UC8HHDytpZ-cs9bavTbgYfmA"
     favcount 0
@@ -5374,7 +9730,29 @@ graph
     ppprofanity 0.028853906
     ppinflammatory 0.16156727
     sentiment 0
-    cluster 2
+    cluster 3
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -5383,7 +9761,7 @@ graph
     step 0
     date "2022-05-27T08:32:37Z"
     title "Wordle 342 for May 27th - Now Thats a Tricky Word!"
-    description "What is today's Wordle for 05/27/2022 number 342 ? Join me and let's find out &#38; guess the answer together. Took me a while!&#10;A new word daily, how do you like to play &#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. May 27th 2022&#10;&#10;Follow me on Twitter: https://twitter.com/emptyapartment3&#10;Join our Discord: https://discord.gg/9Py98RU&#10;Support/Buy me a &#34;coffee&#34;: https://ko-fi.com/emptyapartment&#10;&#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&#10;&#10;business contact: emptyapartmentgaming gmail&#10;&#10;&#10;0:00 Intro&#10;0:25 First Guess&#10;1:53 Wordle?&#10;&#10;#wordle"
+    description "What is today's Wordle for 05/27/2022 number 342 ? Join me and let's find out &amp;#38; guess the answer together. Took me a while!&amp;#10;A new word daily, how do you like to play &amp;#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. May 27th 2022&amp;#10;&amp;#10;Follow me on Twitter: https://twitter.com/emptyapartment3&amp;#10;Join our Discord: https://discord.gg/9Py98RU&amp;#10;Support/Buy me a &amp;#34;coffee&amp;#34;: https://ko-fi.com/emptyapartment&amp;#10;&amp;#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;business contact: emptyapartmentgaming gmail&amp;#10;&amp;#10;&amp;#10;0:00 Intro&amp;#10;0:25 First Guess&amp;#10;1:53 Wordle?&amp;#10;&amp;#10;#wordle"
     channeltitle "Empty Apartment"
     channelid "UCEb4tjgeTW47bD66Xryzx0Q"
     favcount 0
@@ -5402,6 +9780,28 @@ graph
     ppinflammatory 0.10325422
     sentiment -0.1531
     cluster 1
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -5410,7 +9810,7 @@ graph
     step 0
     date "2022-05-01T09:59:41Z"
     title "How To Speed Run Wordle"
-    description "*** BONUS VIDEO ***&#10;We've been recommended this version of Wordle where the challenge is to solve as many Wordles as possible in 3 minutes...  Simon gives it a try, with mixed results!!&#10;&#10;You can play it at the link below: &#10;&#10;https://speedordle.com/&#10;&#10;&#9654; NEW PATREON CONTENT &#9664;&#10;New Sudoku Hunt releasing this afternoon (4pm UK time!) - check it out!&#10;&#10;Qinlux' incredible new sudoku hunt has just been released.  Get your entries in by 5 May for a chance to win a prize.&#10;&#10;Philip Newman's video explaining advanced classic sudoku techniques as well as how to solve his monster puzzle Palpatine's Design is OUT.&#10;&#10;Also Simon's solve of the new Phistomefel logic puzzle, Slitherlink Liars, is also available now.&#10;&#10;You can join us on Patreon for as little as $2/month here:  &#10;&#10;https://www.patreon.com/crackingthecryptic&#10;&#10;&#9654; Contact Us &#9664;&#10;&#10;Twitter:  @Cracking The Cryptic  &#10;email: crackingthecryptic@gmail.com&#10;&#10;Our PO Box address:&#10;&#10;Simon Anthony &#38; Mark Goodliffe &#10;Box 102&#10;56 Gloucester Road &#10;London&#10;SW7 4UB&#10;&#10;(Please note to use our real names rather than 'Cracking The Cryptic'.)&#10;&#10;&#9654; SUDOKU PAD - Our New App  &#9664;&#10;&#10;It's OUT on Windows (released yesterday!) via Steam here:&#10;https://store.steampowered.com/app/1706870/Svens_SudokuPad/&#10;&#10;You can now input your own classic sudoku puzzles into our software using our new App!  The app also comes with 12 handmade puzzles from us and we're also releasing occasional bonus puzzles too.  Already available on IOS and Android.&#10;&#10;**************************************************************&#10;&#10;&#9654; OUR ARROW SUDOKU APP IS OUT ON ALL PLATFORMS!&#10;Here are the links:&#10;Steam:&#10;https://store.steampowered.com/app/1613680/Arrow_Sudoku/&#10;App Store:&#10;https://apps.apple.com/us/app/arrow-sudoku/id1568407537&#10;Google Play:&#10;https://play.google.com/store/apps/details?id=com.StudioGoya.ArrowSudoku&#10;&#10;&#9654; OUR KILLER SUDOKU APP IS OUT ON ALL PLATFORMS&#9664;&#10;https://apps.apple.com/us/app/killer-sudoku-ctc/id1544165118&#10;&#10;https://store.steampowered.com/app/1471910/Killer_Sudoku/&#10;https://play.google.com/store/apps/details?id=com.StudioGoya.KillerSudoku&#38;hl=en_US&#38;gl=US&#10;&#10;&#9654;  SIMON REACTION BOARD (!) &#9664;&#10;With thanks to Andrea for creating this :)&#10;https://simonreacts.avris.it/&#10;&#10;&#9654; CTC FAN DISCORD SERVER&#9664;&#10;https://discord.gg/BbN89j5&#10;&#10;NEW:  Guide To Our Discord Server:&#10;https://tinyurl.com/CTCDiscordGuide&#10;&#10;&#9654; OUR BACK CATALOGUE &#8211; ALL CATEGORISED WITH LINKS!&#9664;&#10;https://tinyurl.com/CTCCatalogue&#10;&#10;&#9654; *NEW* CRACKING THE CRYPTIC MERCHANDISE&#9664; &#10;https://teespring.com/en-GB/stores/cracking-the-cryptic&#10;&#10;&#9654;TRY OUR CLASSIC SUDOKU APP&#9664;&#10;AppStore: https://apps.apple.com/us/app/classic-sudoku/id1488838275?ls=1&#10;Steam: https://store.steampowered.com/app/1188330/Classic_Sudoku/&#10;Android: https://play.google.com/store/apps/details?id=com.StudioGoya.ClassicSudoku&#38;hl=en_US&#10;&#10;&#9654;TRY OUR SANDWICH SUDOKU APP&#9664;&#10;AppStore: https://apps.apple.com/us/app/sandwich-sudoku/id1476116705?ls=1 &#10;Steam: https://store.steampowered.com/app/1117310/Sandwich_Sudoku/  &#10;Android: https://play.google.com/store/apps/details?id=com.StudioGoya.SandwichSudoku&#10;&#10;&#9654;SEND US PUZZLES TO SOLVE/CONTACT US&#9664;&#10;crackingthecryptic@gmail.com&#10;&#10;&#9654;FOLLOW US&#9664;&#10;Twitter: #crypticcracking &#10;@crypticcracking&#10;Instagram (for how to solve daily clues from The Times): https://www.instagram.com/crackingthecryptic/?hl=en&#10;&#10;&#9654;Logo Design&#9664;&#10;Melvyn Mainini"
+    description "*** BONUS VIDEO ***&amp;#10;We've been recommended this version of Wordle where the challenge is to solve as many Wordles as possible in 3 minutes...  Simon gives it a try, with mixed results!!&amp;#10;&amp;#10;You can play it at the link below: &amp;#10;&amp;#10;https://speedordle.com/&amp;#10;&amp;#10;&amp;#9654; NEW PATREON CONTENT &amp;#9664;&amp;#10;New Sudoku Hunt releasing this afternoon (4pm UK time!) - check it out!&amp;#10;&amp;#10;Qinlux' incredible new sudoku hunt has just been released.  Get your entries in by 5 May for a chance to win a prize.&amp;#10;&amp;#10;Philip Newman's video explaining advanced classic sudoku techniques as well as how to solve his monster puzzle Palpatine's Design is OUT.&amp;#10;&amp;#10;Also Simon's solve of the new Phistomefel logic puzzle, Slitherlink Liars, is also available now.&amp;#10;&amp;#10;You can join us on Patreon for as little as $2/month here:  &amp;#10;&amp;#10;https://www.patreon.com/crackingthecryptic&amp;#10;&amp;#10;&amp;#9654; Contact Us &amp;#9664;&amp;#10;&amp;#10;Twitter:  @Cracking The Cryptic  &amp;#10;email: crackingthecryptic@gmail.com&amp;#10;&amp;#10;Our PO Box address:&amp;#10;&amp;#10;Simon Anthony &amp;#38; Mark Goodliffe &amp;#10;Box 102&amp;#10;56 Gloucester Road &amp;#10;London&amp;#10;SW7 4UB&amp;#10;&amp;#10;(Please note to use our real names rather than 'Cracking The Cryptic'.)&amp;#10;&amp;#10;&amp;#9654; SUDOKU PAD - Our New App  &amp;#9664;&amp;#10;&amp;#10;It's OUT on Windows (released yesterday!) via Steam here:&amp;#10;https://store.steampowered.com/app/1706870/Svens_SudokuPad/&amp;#10;&amp;#10;You can now input your own classic sudoku puzzles into our software using our new App!  The app also comes with 12 handmade puzzles from us and we're also releasing occasional bonus puzzles too.  Already available on IOS and Android.&amp;#10;&amp;#10;**************************************************************&amp;#10;&amp;#10;&amp;#9654; OUR ARROW SUDOKU APP IS OUT ON ALL PLATFORMS!&amp;#10;Here are the links:&amp;#10;Steam:&amp;#10;https://store.steampowered.com/app/1613680/Arrow_Sudoku/&amp;#10;App Store:&amp;#10;https://apps.apple.com/us/app/arrow-sudoku/id1568407537&amp;#10;Google Play:&amp;#10;https://play.google.com/store/apps/details?id=com.StudioGoya.ArrowSudoku&amp;#10;&amp;#10;&amp;#9654; OUR KILLER SUDOKU APP IS OUT ON ALL PLATFORMS&amp;#9664;&amp;#10;https://apps.apple.com/us/app/killer-sudoku-ctc/id1544165118&amp;#10;&amp;#10;https://store.steampowered.com/app/1471910/Killer_Sudoku/&amp;#10;https://play.google.com/store/apps/details?id=com.StudioGoya.KillerSudoku&amp;#38;hl=en_US&amp;#38;gl=US&amp;#10;&amp;#10;&amp;#9654;  SIMON REACTION BOARD (!) &amp;#9664;&amp;#10;With thanks to Andrea for creating this :)&amp;#10;https://simonreacts.avris.it/&amp;#10;&amp;#10;&amp;#9654; CTC FAN DISCORD SERVER&amp;#9664;&amp;#10;https://discord.gg/BbN89j5&amp;#10;&amp;#10;NEW:  Guide To Our Discord Server:&amp;#10;https://tinyurl.com/CTCDiscordGuide&amp;#10;&amp;#10;&amp;#9654; OUR BACK CATALOGUE &amp;#8211; ALL CATEGORISED WITH LINKS!&amp;#9664;&amp;#10;https://tinyurl.com/CTCCatalogue&amp;#10;&amp;#10;&amp;#9654; *NEW* CRACKING THE CRYPTIC MERCHANDISE&amp;#9664; &amp;#10;https://teespring.com/en-GB/stores/cracking-the-cryptic&amp;#10;&amp;#10;&amp;#9654;TRY OUR CLASSIC SUDOKU APP&amp;#9664;&amp;#10;AppStore: https://apps.apple.com/us/app/classic-sudoku/id1488838275?ls=1&amp;#10;Steam: https://store.steampowered.com/app/1188330/Classic_Sudoku/&amp;#10;Android: https://play.google.com/store/apps/details?id=com.StudioGoya.ClassicSudoku&amp;#38;hl=en_US&amp;#10;&amp;#10;&amp;#9654;TRY OUR SANDWICH SUDOKU APP&amp;#9664;&amp;#10;AppStore: https://apps.apple.com/us/app/sandwich-sudoku/id1476116705?ls=1 &amp;#10;Steam: https://store.steampowered.com/app/1117310/Sandwich_Sudoku/  &amp;#10;Android: https://play.google.com/store/apps/details?id=com.StudioGoya.SandwichSudoku&amp;#10;&amp;#10;&amp;#9654;SEND US PUZZLES TO SOLVE/CONTACT US&amp;#9664;&amp;#10;crackingthecryptic@gmail.com&amp;#10;&amp;#10;&amp;#9654;FOLLOW US&amp;#9664;&amp;#10;Twitter: #crypticcracking &amp;#10;@crypticcracking&amp;#10;Instagram (for how to solve daily clues from The Times): https://www.instagram.com/crackingthecryptic/?hl=en&amp;#10;&amp;#10;&amp;#9654;Logo Design&amp;#9664;&amp;#10;Melvyn Mainini"
     channeltitle "Cracking The Cryptic"
     channelid "UCC-UOdK8-mIjxBQm_ot1T-Q"
     favcount 0
@@ -5428,7 +9828,29 @@ graph
     ppprofanity 0.058818735
     ppinflammatory 0.18363649
     sentiment 0
-    cluster 7
+    cluster 6
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -5437,7 +9859,7 @@ graph
     step 0
     date "2022-04-30T23:58:58Z"
     title "The healing power of DINOS! #Wordle"
-    description "(Spoilers 315) For fun, I start with the previous two day's words and use a viewer suggestion for my 3rd!&#10;&#10;Watch the full video here: https://youtu.be/H-lbGdDWJ7w&#10;&#10;Play Wordle here: https://www.nytimes.com/games/wordle/index.html&#10;&#10;======= LIVE STREAMS =======&#10;I stream word games right here on YouTube every night (except Friday) at 7pm PDT! Subscribe and ring the bell and/or join my Discord to get notifications for when I go live!&#10;&#10;======= MEMBERS =======&#10;Join my channel at the Video Enthusiast tier or higher to see the full, uncut videos with my entire thought process!&#10;https://www.youtube.com/rangsk/join&#10;&#10;===== MERCH ===== &#10;You can also support me by buying my super cute merch! All items feature an artistic rendering of my dog Rocky with no other branding! They're super cute!&#10;&#10;Check out my store here: https://rangsks-merch.creator-spring.com/&#10;&#10;If you order before April 30th, 2022 you can use promo code ROCKY5 to save 5% at checkout!&#10;&#10;======= DISCORD =======&#10;Join my Discord server to hang out and talk about Wordle, Wordle-like games, and other kinds of puzzles like Sudoku.&#10;https://discord.gg/AEhpTG4z45&#10;&#10;#wordle #puzzle #word #game"
+    description "(Spoilers 315) For fun, I start with the previous two day's words and use a viewer suggestion for my 3rd!&amp;#10;&amp;#10;Watch the full video here: https://youtu.be/H-lbGdDWJ7w&amp;#10;&amp;#10;Play Wordle here: https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;======= LIVE STREAMS =======&amp;#10;I stream word games right here on YouTube every night (except Friday) at 7pm PDT! Subscribe and ring the bell and/or join my Discord to get notifications for when I go live!&amp;#10;&amp;#10;======= MEMBERS =======&amp;#10;Join my channel at the Video Enthusiast tier or higher to see the full, uncut videos with my entire thought process!&amp;#10;https://www.youtube.com/rangsk/join&amp;#10;&amp;#10;===== MERCH ===== &amp;#10;You can also support me by buying my super cute merch! All items feature an artistic rendering of my dog Rocky with no other branding! They're super cute!&amp;#10;&amp;#10;Check out my store here: https://rangsks-merch.creator-spring.com/&amp;#10;&amp;#10;If you order before April 30th, 2022 you can use promo code ROCKY5 to save 5% at checkout!&amp;#10;&amp;#10;======= DISCORD =======&amp;#10;Join my Discord server to hang out and talk about Wordle, Wordle-like games, and other kinds of puzzles like Sudoku.&amp;#10;https://discord.gg/AEhpTG4z45&amp;#10;&amp;#10;#wordle #puzzle #word #game"
     channeltitle "Rangsk"
     channelid "UC1RUqXOT_iaH4b7iXKRWhLw"
     favcount 0
@@ -5455,7 +9877,29 @@ graph
     ppprofanity 0.022963589
     ppinflammatory 0.19639874
     sentiment 0
-    cluster 6
+    cluster 3
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -5464,7 +9908,7 @@ graph
     step 0
     date "2022-04-21T04:00:05Z"
     title "Doug plays todays Wordle #306 for 04/21/2022"
-    description "It's April 21, 2022 and Doug is playing today's daily Wordle! &#10;&#10;&#10;Please, if you enjoyed this video, like and subscribe to my channel!&#10;&#10;I can also be found on Twitch!&#10;https://www.twitch.tv/dougmansland&#10;&#10;I'm also on Twitter!&#10;https://twitter.com/dougmansland&#10;&#10;If you enjoy Discord, I have one of those too!&#10;https://discord.gg/MVXvhvg2Zm&#10;&#10;For some reason, I also make Tik Tok videos!&#10;https://www.tiktok.com/@dougmansland?lang=en"
+    description "It's April 21, 2022 and Doug is playing today's daily Wordle! &amp;#10;&amp;#10;&amp;#10;Please, if you enjoyed this video, like and subscribe to my channel!&amp;#10;&amp;#10;I can also be found on Twitch!&amp;#10;https://www.twitch.tv/dougmansland&amp;#10;&amp;#10;I'm also on Twitter!&amp;#10;https://twitter.com/dougmansland&amp;#10;&amp;#10;If you enjoy Discord, I have one of those too!&amp;#10;https://discord.gg/MVXvhvg2Zm&amp;#10;&amp;#10;For some reason, I also make Tik Tok videos!&amp;#10;https://www.tiktok.com/@dougmansland?lang=en"
     channeltitle "DougMansLand"
     channelid "UCkiAm7y8MQCbFwpB-52QRtg"
     favcount 0
@@ -5482,7 +9926,29 @@ graph
     ppprofanity 0.05718449
     ppinflammatory 0.049881727
     sentiment 0.25
-    cluster 7
+    cluster 6
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -5491,7 +9957,7 @@ graph
     step 0
     date "2022-01-28T06:51:12Z"
     title "Wordle Jan 28th, 2022 - Can you guess the word?"
-    description "Hi everyone! Today Sean plays Wordle, a fun word logic puzzle.&#10;Can you get the word in fewer guesses? Give it a shot at the link below:&#10;https://www.powerlanguage.co.uk/wordle/"
+    description "Hi everyone! Today Sean plays Wordle, a fun word logic puzzle.&amp;#10;Can you get the word in fewer guesses? Give it a shot at the link below:&amp;#10;https://www.powerlanguage.co.uk/wordle/"
     channeltitle "Sean Plays"
     channelid "UCRlHYIOSfBDAVkz46rnglow"
     favcount 0
@@ -5509,7 +9975,29 @@ graph
     ppprofanity 0.017849127
     ppinflammatory 0.1850161
     sentiment 0
-    cluster 3
+    cluster 2
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -5518,7 +10006,7 @@ graph
     step 0
     date "2022-04-21T03:34:29Z"
     title "Win $100 for getting Wordle in TWO guesses!"
-    description "Get 20% OFF + Free shipping with code OFFICE at https://www.manscaped.com&#10;&#10;WARNING: contains spoilers for April 20 Wordle&#10;&#10;The Jomboy Media office members see who can guess today's Wordle in the fewest guesses."
+    description "Get 20% OFF + Free shipping with code OFFICE at https://www.manscaped.com&amp;#10;&amp;#10;WARNING: contains spoilers for April 20 Wordle&amp;#10;&amp;#10;The Jomboy Media office members see who can guess today's Wordle in the fewest guesses."
     channeltitle "JM Gaming (Jomboy Media)"
     channelid "UCk71IrRQyptFQBL_eEeS1uw"
     favcount 0
@@ -5537,6 +10025,28 @@ graph
     ppinflammatory 0.086412095
     sentiment 0.5859
     cluster 4
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -5545,7 +10055,7 @@ graph
     step 0
     date "2022-07-05T04:00:23Z"
     title "Doug plays todays Wordle #381 for 07/05/2022"
-    description "It's July 5, 2022 and Doug is playing today's daily Wordle! #wordle&#10;&#10;&#10;Please, if you enjoyed this video, like and subscribe to my channel!&#10;&#10;I can also be found on Twitch!&#10;https://www.twitch.tv/dougmansland&#10;&#10;I'm also on Twitter!&#10;https://twitter.com/dougmansland&#10;&#10;If you enjoy Discord, I have one of those too!&#10;https://discord.gg/MVXvhvg2Zm&#10;&#10;For some reason, I also make Tik Tok videos!&#10;https://www.tiktok.com/@dougmansland?lang=en"
+    description "It's July 5, 2022 and Doug is playing today's daily Wordle! #wordle&amp;#10;&amp;#10;&amp;#10;Please, if you enjoyed this video, like and subscribe to my channel!&amp;#10;&amp;#10;I can also be found on Twitch!&amp;#10;https://www.twitch.tv/dougmansland&amp;#10;&amp;#10;I'm also on Twitter!&amp;#10;https://twitter.com/dougmansland&amp;#10;&amp;#10;If you enjoy Discord, I have one of those too!&amp;#10;https://discord.gg/MVXvhvg2Zm&amp;#10;&amp;#10;For some reason, I also make Tik Tok videos!&amp;#10;https://www.tiktok.com/@dougmansland?lang=en"
     channeltitle "DougMansLand"
     channelid "UCkiAm7y8MQCbFwpB-52QRtg"
     favcount 0
@@ -5563,7 +10073,29 @@ graph
     ppprofanity 0.068489246
     ppinflammatory 0.049881727
     sentiment 0.25
-    cluster 3
+    cluster 2
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -5572,7 +10104,7 @@ graph
     step 0
     date "2022-06-18T22:23:23Z"
     title "This Wordle solve was SUITE!"
-    description "(Spoilers 364) For fun, I start with the previous two day's words and use a viewer suggestion for my 3rd!&#10;&#10;Play Wordle here: https://www.nytimes.com/games/wordle/index.html&#10;&#10;======= LIVE STREAMS =======&#10;I stream word games right here on YouTube every night (except Friday) at 7pm PDT! Subscribe and ring the bell and/or join my Discord to get notifications for when I go live!&#10;&#10;======= MEMBERS =======&#10;Join my channel at the Video Enthusiast tier or higher to see the full, uncut videos with my entire thought process!&#10;https://www.youtube.com/rangsk/join&#10;&#10;===== MERCH ===== &#10;You can also support me by buying my super cute merch! All items feature an artistic rendering of my dog Rocky with no other branding! They're super cute!&#10;&#10;Check out my store here: https://rangsks-merch.creator-spring.com/&#10;&#10;======= DISCORD =======&#10;Join my Discord server to hang out and talk about Wordle, Wordle-like games, and other kinds of puzzles like Sudoku.&#10;https://discord.gg/AEhpTG4z45&#10;&#10;#wordle #puzzle #word #game"
+    description "(Spoilers 364) For fun, I start with the previous two day's words and use a viewer suggestion for my 3rd!&amp;#10;&amp;#10;Play Wordle here: https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;======= LIVE STREAMS =======&amp;#10;I stream word games right here on YouTube every night (except Friday) at 7pm PDT! Subscribe and ring the bell and/or join my Discord to get notifications for when I go live!&amp;#10;&amp;#10;======= MEMBERS =======&amp;#10;Join my channel at the Video Enthusiast tier or higher to see the full, uncut videos with my entire thought process!&amp;#10;https://www.youtube.com/rangsk/join&amp;#10;&amp;#10;===== MERCH ===== &amp;#10;You can also support me by buying my super cute merch! All items feature an artistic rendering of my dog Rocky with no other branding! They're super cute!&amp;#10;&amp;#10;Check out my store here: https://rangsks-merch.creator-spring.com/&amp;#10;&amp;#10;======= DISCORD =======&amp;#10;Join my Discord server to hang out and talk about Wordle, Wordle-like games, and other kinds of puzzles like Sudoku.&amp;#10;https://discord.gg/AEhpTG4z45&amp;#10;&amp;#10;#wordle #puzzle #word #game"
     channeltitle "Rangsk"
     channelid "UC1RUqXOT_iaH4b7iXKRWhLw"
     favcount 0
@@ -5590,7 +10122,29 @@ graph
     ppprofanity 0.10287801
     ppinflammatory 0.122268386
     sentiment 0.2023
-    cluster 6
+    cluster 3
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -5599,7 +10153,7 @@ graph
     step 0
     date "2022-03-20T05:36:20Z"
     title "Wordle March 20th, 2022 - Can you guess the word?"
-    description "Hi everyone! Today Sean plays Wordle, a fun word logic puzzle.&#10;Can you get the word in fewer guesses? Give it a shot at the link below:&#10;https://www.nytimes.com/games/wordle/index.html&#10;&#10;And check your answers here with SCOREDLE!&#10;https://scoredle.com/"
+    description "Hi everyone! Today Sean plays Wordle, a fun word logic puzzle.&amp;#10;Can you get the word in fewer guesses? Give it a shot at the link below:&amp;#10;https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;And check your answers here with SCOREDLE!&amp;#10;https://scoredle.com/"
     channeltitle "Sean Plays"
     channelid "UCRlHYIOSfBDAVkz46rnglow"
     favcount 0
@@ -5617,7 +10171,29 @@ graph
     ppprofanity 0.020559698
     ppinflammatory 0.20460115
     sentiment 0
-    cluster 3
+    cluster 2
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -5626,7 +10202,7 @@ graph
     step 0
     date "2022-07-03T15:50:50Z"
     title "I Need To Talk About This... Wordle July 3 - Whats The Answer Today? Wordle 379"
-    description "0:00 Intro - I Need to Talk&#10;2:49 Wordle Solve&#10;4:19 Let's Talk Some More&#10;What's the Wordle of the Day? Wordle Today 7/03/22 #wordle #dailywordle wordle 379 #wordle379&#10;https://www.twitch.tv/feelgoodkenny"
+    description "0:00 Intro - I Need to Talk&amp;#10;2:49 Wordle Solve&amp;#10;4:19 Let's Talk Some More&amp;#10;What's the Wordle of the Day? Wordle Today 7/03/22 #wordle #dailywordle wordle 379 #wordle379&amp;#10;https://www.twitch.tv/feelgoodkenny"
     channeltitle "FeelGoodKenny Gaming"
     channelid "UCN8UM9PE28fN77TDQvNRwHA"
     favcount 0
@@ -5644,7 +10220,29 @@ graph
     ppprofanity 0.06335828
     ppinflammatory 0.01356322
     sentiment 0
-    cluster 3
+    cluster 9
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -5653,7 +10251,7 @@ graph
     step 0
     date "2022-02-23T10:18:28Z"
     title "Wordle 249 for February 23rd - What is Todays Wordle? 02/23/2022"
-    description "What is today's Wordle? Let's find out &#38; guess the answer together. Join me for today's 02/23/2022 Wordle number 249 . Again with the 1 off guess.&#10;Everyone's new favorite game. A new word daily, how do you like to play &#38; what's your strategy? Thought I'd try uploading my guesses, hints, and answers, plus cool to archive it. February 23rd 2022&#10;&#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&#10;&#10;0:00 Intro&#10;0:30 First Guess&#10;1:45 Thank you!&#10;2:20 Wordle!&#10;&#10;business contact: emptyapartmentgaming gmail&#10;&#10;#wordle #dailywordleclub"
+    description "What is today's Wordle? Let's find out &amp;#38; guess the answer together. Join me for today's 02/23/2022 Wordle number 249 . Again with the 1 off guess.&amp;#10;Everyone's new favorite game. A new word daily, how do you like to play &amp;#38; what's your strategy? Thought I'd try uploading my guesses, hints, and answers, plus cool to archive it. February 23rd 2022&amp;#10;&amp;#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;0:00 Intro&amp;#10;0:30 First Guess&amp;#10;1:45 Thank you!&amp;#10;2:20 Wordle!&amp;#10;&amp;#10;business contact: emptyapartmentgaming gmail&amp;#10;&amp;#10;#wordle #dailywordleclub"
     channeltitle "Empty Apartment"
     channelid "UCEb4tjgeTW47bD66Xryzx0Q"
     favcount 0
@@ -5672,6 +10270,28 @@ graph
     ppinflammatory 0.056133665
     sentiment 0
     cluster 1
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -5680,7 +10300,7 @@ graph
     step 0
     date "2022-01-12T17:23:58Z"
     title "Wordle 101 with Pro Michael Kosta | The Daily Show"
-    description "What is Wordle and how do you play? Michael Kosta explains. #DailyShow #Wordle #MichaelKosta&#10;&#10;Subscribe to The Daily Show:&#10;https://www.youtube.com/channel/UCwWhs_6x42TyRM4Wstoq8HA/?sub_confirmation=1 &#10;&#10;Follow The Daily Show:&#10;Twitter: https://twitter.com/TheDailyShow&#10;Facebook: https://www.facebook.com/thedailyshow&#10;Instagram: https://www.instagram.com/thedailyshow&#10;&#10;Stream full episodes of The Daily Show on Paramount+: http://www.paramountplus.com/?ftag=PPM-05-10aei0b&#10;&#10;Follow Comedy Central:&#10;Twitter: https://twitter.com/ComedyCentral&#10;Facebook: https://www.facebook.com/ComedyCentral&#10;Instagram: https://www.instagram.com/comedycentral&#10;&#10;About The Daily Show:&#10;Trevor Noah and The Daily Show correspondents tackle the biggest stories in news, politics and pop culture.&#10;&#10;The Daily Show with Trevor Noah airs weeknights at 11/10c on Comedy Central."
+    description "What is Wordle and how do you play? Michael Kosta explains. #DailyShow #Wordle #MichaelKosta&amp;#10;&amp;#10;Subscribe to The Daily Show:&amp;#10;https://www.youtube.com/channel/UCwWhs_6x42TyRM4Wstoq8HA/?sub_confirmation=1 &amp;#10;&amp;#10;Follow The Daily Show:&amp;#10;Twitter: https://twitter.com/TheDailyShow&amp;#10;Facebook: https://www.facebook.com/thedailyshow&amp;#10;Instagram: https://www.instagram.com/thedailyshow&amp;#10;&amp;#10;Stream full episodes of The Daily Show on Paramount+: http://www.paramountplus.com/?ftag=PPM-05-10aei0b&amp;#10;&amp;#10;Follow Comedy Central:&amp;#10;Twitter: https://twitter.com/ComedyCentral&amp;#10;Facebook: https://www.facebook.com/ComedyCentral&amp;#10;Instagram: https://www.instagram.com/comedycentral&amp;#10;&amp;#10;About The Daily Show:&amp;#10;Trevor Noah and The Daily Show correspondents tackle the biggest stories in news, politics and pop culture.&amp;#10;&amp;#10;The Daily Show with Trevor Noah airs weeknights at 11/10c on Comedy Central."
     channeltitle "The Daily Show with Trevor Noah"
     channelid "UCwWhs_6x42TyRM4Wstoq8HA"
     favcount 0
@@ -5698,7 +10318,29 @@ graph
     ppprofanity 0.12747496
     ppinflammatory 0.13781452
     sentiment 0
-    cluster 4
+    cluster 3
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -5707,7 +10349,7 @@ graph
     step 0
     date "2022-06-08T20:56:32Z"
     title "Today Im USING THESE WORDS for my Wordle"
-    description "#wordletoday&#10;Solving today's #Wordle #354 for Wednesday, June 8th.&#10;&#10;You can find my other 'Wordle-like' solves here - https://youtube.com/playlist?list=PL_HjFt2zdfHV33cIRgG7tm-AvnfUP9cMG&#10;&#10;Check out all my merch at https://stro.link/merch&#10;Become a member of the Stro-Solves YouTube channel - https://stro.link/join&#10;Come discuss these puzzles with us on discord - https://stro.link/discord"
+    description "#wordletoday&amp;#10;Solving today's #Wordle #354 for Wednesday, June 8th.&amp;#10;&amp;#10;You can find my other 'Wordle-like' solves here - https://youtube.com/playlist?list=PL_HjFt2zdfHV33cIRgG7tm-AvnfUP9cMG&amp;#10;&amp;#10;Check out all my merch at https://stro.link/merch&amp;#10;Become a member of the Stro-Solves YouTube channel - https://stro.link/join&amp;#10;Come discuss these puzzles with us on discord - https://stro.link/discord"
     channeltitle "Scott Stro-solves"
     channelid "UC8HHDytpZ-cs9bavTbgYfmA"
     favcount 0
@@ -5725,7 +10367,29 @@ graph
     ppprofanity 0.117690794
     ppinflammatory 0.030084321
     sentiment 0
-    cluster 2
+    cluster 3
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -5734,7 +10398,7 @@ graph
     step 0
     date "2022-01-07T03:30:13Z"
     title "How To Always Win Wordle"
-    description "I wrote some code to see if there's a strategy to guarantee you'll always win Wordle. There is... but it's not what you'd call memorable. Maybe print it into a book, idk.&#10;&#10;And then there's Hard Mode...&#10;&#10;Answers for easy mode: https://github.com/andrew-t/gaming-wordle/blob/main/easy.json&#10;Answers for hard mode: https://github.com/andrew-t/gaming-wordle/blob/main/hard.json"
+    description "I wrote some code to see if there's a strategy to guarantee you'll always win Wordle. There is... but it's not what you'd call memorable. Maybe print it into a book, idk.&amp;#10;&amp;#10;And then there's Hard Mode...&amp;#10;&amp;#10;Answers for easy mode: https://github.com/andrew-t/gaming-wordle/blob/main/easy.json&amp;#10;Answers for hard mode: https://github.com/andrew-t/gaming-wordle/blob/main/hard.json"
     channeltitle "Andrew Taylor"
     channelid "UCgTMAgV934hP5TMEB04LnWA"
     favcount 0
@@ -5753,6 +10417,28 @@ graph
     ppinflammatory 0.13032807
     sentiment 0.5859
     cluster 2
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -5761,7 +10447,7 @@ graph
     step 0
     date "2022-05-22T16:00:23Z"
     title "Is this the best start for Wordle? Lets try it!"
-    description "My solver thinks this is the best generic three word start:&#10;TABLE&#10;CRIMP&#10;SYNOD&#10;&#10;But how will a human do?&#10;&#10;Play Wordle Unlimited here: https://wordleunlimited.org/&#10;&#10;======= LIVE STREAMS =======&#10;I stream word games right here on YouTube every night (except Friday) at 7pm PDT! Subscribe and ring the bell and/or join my Discord to get notifications for when I go live!&#10;&#10;======= MEMBERS =======&#10;Join my channel as a member for perks! Video Enthusiasts get to see my uncut Wordle solves! https://www.youtube.com/rangsk/join&#10;&#10;===== SUPER THANKS / DONATIONS =====&#10;&#10;If you want to support me and get a special highlighted comment, then you can purchase a Super Thanks using the heart button below the video. Alternatively, you can donate via Streamlabs using this link: https://www.streamlabs.com/rangsk1&#10;&#10;===== MERCH ===== &#10;You can also support me by buying my super cute merch! All items feature an artistic rendering of my dog Rocky with no other branding! They're super cute!&#10;&#10;Check out my store here: https://rangsks-merch.creator-spring.com/&#10;&#10;======= DISCORD =======&#10;Join my Discord server to hang out and talk about Wordle, Wordle-like games, and other kinds of puzzles like Sudoku.&#10;https://discord.gg/AEhpTG4z45&#10;&#10;#wordle #puzzle #word #game"
+    description "My solver thinks this is the best generic three word start:&amp;#10;TABLE&amp;#10;CRIMP&amp;#10;SYNOD&amp;#10;&amp;#10;But how will a human do?&amp;#10;&amp;#10;Play Wordle Unlimited here: https://wordleunlimited.org/&amp;#10;&amp;#10;======= LIVE STREAMS =======&amp;#10;I stream word games right here on YouTube every night (except Friday) at 7pm PDT! Subscribe and ring the bell and/or join my Discord to get notifications for when I go live!&amp;#10;&amp;#10;======= MEMBERS =======&amp;#10;Join my channel as a member for perks! Video Enthusiasts get to see my uncut Wordle solves! https://www.youtube.com/rangsk/join&amp;#10;&amp;#10;===== SUPER THANKS / DONATIONS =====&amp;#10;&amp;#10;If you want to support me and get a special highlighted comment, then you can purchase a Super Thanks using the heart button below the video. Alternatively, you can donate via Streamlabs using this link: https://www.streamlabs.com/rangsk1&amp;#10;&amp;#10;===== MERCH ===== &amp;#10;You can also support me by buying my super cute merch! All items feature an artistic rendering of my dog Rocky with no other branding! They're super cute!&amp;#10;&amp;#10;Check out my store here: https://rangsks-merch.creator-spring.com/&amp;#10;&amp;#10;======= DISCORD =======&amp;#10;Join my Discord server to hang out and talk about Wordle, Wordle-like games, and other kinds of puzzles like Sudoku.&amp;#10;https://discord.gg/AEhpTG4z45&amp;#10;&amp;#10;#wordle #puzzle #word #game"
     channeltitle "Rangsk"
     channelid "UC1RUqXOT_iaH4b7iXKRWhLw"
     favcount 0
@@ -5779,7 +10465,29 @@ graph
     ppprofanity 0.047857016
     ppinflammatory 0.1973082
     sentiment 0.6369
-    cluster 6
+    cluster 3
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -5788,7 +10496,7 @@ graph
     step 0
     date "2022-01-15T12:07:47Z"
     title "Wordle Game Kaise Khele? | How to Play Wordle on Any Device, Strategy to Win"
-    description "How to play wordle? You can play wordle on any device regardless of the operating system. In this video, I'll show you how to play wordle on Android, iPhone, Windows computer or any device that can run the internet via a browser. I'll also show you the strategy to win by playing a live wordle game. After winning the game, we shall discuss how to share the results of the game on Twitter, Whatsapp, Facebook or any other application of your choice. &#10;&#10;Don't miss out on the fun and watch this full Wordle tutorial in Hindi. Find other videos on channel from these links: &#10;How to download BGMI: https://www.youtube.com/watch?v=QXl8Rqae4I8&#10;&#10;#wordle #twitter #onlinegame #easyapps"
+    description "How to play wordle? You can play wordle on any device regardless of the operating system. In this video, I'll show you how to play wordle on Android, iPhone, Windows computer or any device that can run the internet via a browser. I'll also show you the strategy to win by playing a live wordle game. After winning the game, we shall discuss how to share the results of the game on Twitter, Whatsapp, Facebook or any other application of your choice. &amp;#10;&amp;#10;Don't miss out on the fun and watch this full Wordle tutorial in Hindi. Find other videos on channel from these links: &amp;#10;How to download BGMI: https://www.youtube.com/watch?v=QXl8Rqae4I8&amp;#10;&amp;#10;#wordle #twitter #onlinegame #easyapps"
     channeltitle "Easy Apps"
     channelid "UCbfdcLIx_xKQirDdfDtxp5g"
     favcount 0
@@ -5807,6 +10515,28 @@ graph
     ppinflammatory 0.03409853
     sentiment 0.7351
     cluster 2
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -5815,7 +10545,7 @@ graph
     step 0
     date "2022-06-18T05:55:29Z"
     title "Wordle June 18th, 2022 - Can you guess the word?"
-    description "Check back daily for new Wordle and other Word Puzzles!&#10;&#10;Hi everyone! Today Sean plays Wordle, a fun word logic puzzle.&#10;Can you get the word in fewer guesses? Give it a shot at the link below:&#10;https://www.nytimes.com/games/wordle/index.html&#10;&#10;And check your answers here with WordleBot!&#10;https://www.nytimes.com/interactive/2022/upshot/wordle-bot.html"
+    description "Check back daily for new Wordle and other Word Puzzles!&amp;#10;&amp;#10;Hi everyone! Today Sean plays Wordle, a fun word logic puzzle.&amp;#10;Can you get the word in fewer guesses? Give it a shot at the link below:&amp;#10;https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;And check your answers here with WordleBot!&amp;#10;https://www.nytimes.com/interactive/2022/upshot/wordle-bot.html"
     channeltitle "Sean Plays"
     channelid "UCRlHYIOSfBDAVkz46rnglow"
     favcount 0
@@ -5833,7 +10563,29 @@ graph
     ppprofanity 0.019330593
     ppinflammatory 0.17345113
     sentiment 0
-    cluster 4
+    cluster 3
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -5842,7 +10594,7 @@ graph
     step 0
     date "2022-05-08T11:40:37Z"
     title "Wordle 323 for May 8th - Mom Whats This Word?"
-    description "What is today's Wordle for 05/08/2022 number 323 for mother's day? Join me and let's find out &#38; guess the answer together. Welp that's a word...&#10;A new word daily, how do you like to play &#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. May 8th 2022&#10;&#10;Follow me on Twitter: https://twitter.com/emptyapartment3&#10;Join our Discord: https://discord.gg/9Py98RU&#10;Buy me a coffee: https://streamelements.com/emptyapartment/tip&#10;&#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&#10;&#10;business contact: emptyapartmentgaming gmail&#10;&#10;&#10;0:00 Intro&#10;0:21 First Guess&#10;0:56 Thanks Moms&#10;2:07 4 Months!&#10;2:55 Wordle?&#10;&#10;#wordle"
+    description "What is today's Wordle for 05/08/2022 number 323 for mother's day? Join me and let's find out &amp;#38; guess the answer together. Welp that's a word...&amp;#10;A new word daily, how do you like to play &amp;#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. May 8th 2022&amp;#10;&amp;#10;Follow me on Twitter: https://twitter.com/emptyapartment3&amp;#10;Join our Discord: https://discord.gg/9Py98RU&amp;#10;Buy me a coffee: https://streamelements.com/emptyapartment/tip&amp;#10;&amp;#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;business contact: emptyapartmentgaming gmail&amp;#10;&amp;#10;&amp;#10;0:00 Intro&amp;#10;0:21 First Guess&amp;#10;0:56 Thanks Moms&amp;#10;2:07 4 Months!&amp;#10;2:55 Wordle?&amp;#10;&amp;#10;#wordle"
     channeltitle "Empty Apartment"
     channelid "UCEb4tjgeTW47bD66Xryzx0Q"
     favcount 0
@@ -5861,6 +10613,28 @@ graph
     ppinflammatory 0.0859613
     sentiment 0
     cluster 1
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -5869,7 +10643,7 @@ graph
     step 0
     date "2022-03-27T04:00:04Z"
     title "Doug plays todays Wordle! #281 for 03/27/2022"
-    description "It's March 27, 2022 and Doug is playing today's daily Wordle! &#10;&#10;&#10;Please, if you enjoyed this video, like and subscribe to my channel!&#10;&#10;I can also be found on Twitch!&#10;https://www.twitch.tv/dougmansland&#10;&#10;I'm also on Twitter!&#10;https://twitter.com/dougmansland&#10;&#10;If you enjoy Discord, I have one of those too!&#10;https://discord.gg/MVXvhvg2Zm&#10;&#10;For some reason, I also make Tik Tok videos!&#10;https://www.tiktok.com/@dougmansland?lang=en"
+    description "It's March 27, 2022 and Doug is playing today's daily Wordle! &amp;#10;&amp;#10;&amp;#10;Please, if you enjoyed this video, like and subscribe to my channel!&amp;#10;&amp;#10;I can also be found on Twitch!&amp;#10;https://www.twitch.tv/dougmansland&amp;#10;&amp;#10;I'm also on Twitter!&amp;#10;https://twitter.com/dougmansland&amp;#10;&amp;#10;If you enjoy Discord, I have one of those too!&amp;#10;https://discord.gg/MVXvhvg2Zm&amp;#10;&amp;#10;For some reason, I also make Tik Tok videos!&amp;#10;https://www.tiktok.com/@dougmansland?lang=en"
     channeltitle "DougMansLand"
     channelid "UCkiAm7y8MQCbFwpB-52QRtg"
     favcount 0
@@ -5887,7 +10661,29 @@ graph
     ppprofanity 0.05220002
     ppinflammatory 0.029634507
     sentiment 0.25
-    cluster 8
+    cluster 5
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -5896,7 +10692,7 @@ graph
     step 0
     date "2022-03-28T09:42:10Z"
     title "Wordle 282 for March 28th - What is Todays Wordle? 03/28/2022"
-    description "What is today's Wordle for 03/28/2022 Wordle number 282 ? Join me and let's find out &#38; guess the answer together. A bit easier today, sorta.&#10;A new word daily, how do you like to play &#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. March 28th 2022&#10;&#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&#10;&#10;0:00 Intro&#10;0:29 First Guess&#10;1:55 Wordle&#10;&#10;&#10;business contact: emptyapartmentgaming gmail&#10;&#10;#wordle #dailywordleclub"
+    description "What is today's Wordle for 03/28/2022 Wordle number 282 ? Join me and let's find out &amp;#38; guess the answer together. A bit easier today, sorta.&amp;#10;A new word daily, how do you like to play &amp;#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. March 28th 2022&amp;#10;&amp;#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;0:00 Intro&amp;#10;0:29 First Guess&amp;#10;1:55 Wordle&amp;#10;&amp;#10;&amp;#10;business contact: emptyapartmentgaming gmail&amp;#10;&amp;#10;#wordle #dailywordleclub"
     channeltitle "Empty Apartment"
     channelid "UCEb4tjgeTW47bD66Xryzx0Q"
     favcount 0
@@ -5915,6 +10711,28 @@ graph
     ppinflammatory 0.098024055
     sentiment 0
     cluster 1
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -5923,7 +10741,7 @@ graph
     step 0
     date "2022-04-25T23:47:14Z"
     title "This was a tough one! #Wordle"
-    description "(Spoilers 310) For fun, I start with the previous two day's words and use a viewer suggestion for my 3rd!&#10;&#10;Play Wordle here: https://www.nytimes.com/games/wordle/index.html&#10;&#10;======= LIVE STREAMS =======&#10;I stream word games right here on YouTube every night (except Friday) at 7pm PDT! Subscribe and ring the bell and/or join my Discord to get notifications for when I go live!&#10;&#10;======= MEMBERS =======&#10;Join my channel at the Video Enthusiast tier or higher to see the full, uncut videos with my entire thought process!&#10;https://www.youtube.com/rangsk/join&#10;&#10;===== MERCH ===== &#10;You can also support me by buying my super cute merch! All items feature an artistic rendering of my dog Rocky with no other branding! They're super cute!&#10;&#10;Check out my store here: https://rangsks-merch.creator-spring.com/&#10;&#10;If you order before April 30th, 2022 you can use promo code ROCKY5 to save 5% at checkout!&#10;&#10;======= DISCORD =======&#10;Join my Discord server to hang out and talk about Wordle, Wordle-like games, and other kinds of puzzles like Sudoku.&#10;https://discord.gg/AEhpTG4z45&#10;&#10;#wordle #shorts #puzzle #word #game"
+    description "(Spoilers 310) For fun, I start with the previous two day's words and use a viewer suggestion for my 3rd!&amp;#10;&amp;#10;Play Wordle here: https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;======= LIVE STREAMS =======&amp;#10;I stream word games right here on YouTube every night (except Friday) at 7pm PDT! Subscribe and ring the bell and/or join my Discord to get notifications for when I go live!&amp;#10;&amp;#10;======= MEMBERS =======&amp;#10;Join my channel at the Video Enthusiast tier or higher to see the full, uncut videos with my entire thought process!&amp;#10;https://www.youtube.com/rangsk/join&amp;#10;&amp;#10;===== MERCH ===== &amp;#10;You can also support me by buying my super cute merch! All items feature an artistic rendering of my dog Rocky with no other branding! They're super cute!&amp;#10;&amp;#10;Check out my store here: https://rangsks-merch.creator-spring.com/&amp;#10;&amp;#10;If you order before April 30th, 2022 you can use promo code ROCKY5 to save 5% at checkout!&amp;#10;&amp;#10;======= DISCORD =======&amp;#10;Join my Discord server to hang out and talk about Wordle, Wordle-like games, and other kinds of puzzles like Sudoku.&amp;#10;https://discord.gg/AEhpTG4z45&amp;#10;&amp;#10;#wordle #shorts #puzzle #word #game"
     channeltitle "Rangsk"
     channelid "UC1RUqXOT_iaH4b7iXKRWhLw"
     favcount 0
@@ -5941,7 +10759,29 @@ graph
     ppprofanity 0.04660479
     ppinflammatory 0.14148581
     sentiment -0.128
-    cluster 6
+    cluster 3
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -5950,7 +10790,7 @@ graph
     step 0
     date "2022-07-08T20:00:22Z"
     title "Wordle 384 - 8 July 2022 #Shorts"
-    description "Wordle is now hosted by the New York Times! Join me for the solve every day, and play it yourself here: &#10;https://www.nytimes.com/games/wordle/&#10;&#10;#Wordle&#10;#Shorts"
+    description "Wordle is now hosted by the New York Times! Join me for the solve every day, and play it yourself here: &amp;#10;https://www.nytimes.com/games/wordle/&amp;#10;&amp;#10;#Wordle&amp;#10;#Shorts"
     channeltitle "Chris Remo"
     channelid "UCAWnFCJGAP7YPti-gQSe1ng"
     favcount 0
@@ -5968,7 +10808,29 @@ graph
     ppprofanity 0.038669933
     ppinflammatory 0.119906805
     sentiment 0
-    cluster 5
+    cluster 9
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -5977,7 +10839,7 @@ graph
     step 0
     date "2022-02-16T01:12:15Z"
     title "Pokimane solves the daily Wordle in ONLY 2 GUESSES"
-    description "Pokimane plays Wordle with chat and solves it in two guesses!&#10;&#10;FOLLOW HER! https://www.twitch.tv/pokimane&#10;&#10;#poki #pokimane #wordle"
+    description "Pokimane plays Wordle with chat and solves it in two guesses!&amp;#10;&amp;#10;FOLLOW HER! https://www.twitch.tv/pokimane&amp;#10;&amp;#10;#poki #pokimane #wordle"
     channeltitle "YEP TV"
     channelid "UCdWdhRK9irv3Al_k0DS7vrg"
     favcount 0
@@ -5996,6 +10858,28 @@ graph
     ppinflammatory 0.07367316
     sentiment 0.2732
     cluster 4
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -6004,7 +10888,7 @@ graph
     step 0
     date "2022-03-25T10:00:01Z"
     title "Wordle NOT in a Minute! 24th March 2022"
-    description "Mark tries to solve Wordle in a Minute from yesterday - the emphasis is on &#34;tries&#34; today. #NotaShort&#10;&#10;Check out our channel here.&#10;&#10;&#10;&#9654; OUR PATREON PAGE &#8211; JOIN THE COMMUNITY, SUPPORT US AND TRY OUR PUZZLE HUNTS&#9664;&#10;https://www.patreon.com/crackingthecryptic&#10;&#10;&#9654;Our merchandise is all here: &#9664;&#10;https://cracking-the-cryptic.creator-spring.com/&#10;&#10;&#9654; CTC FAN DISCORD SERVER&#9664;&#10;https://discord.gg/BbN89j5  &#10;&#10;&#9654; OUR BACK CATALOGUE &#8211; ALL CATEGORISED WITH LINKS!&#9664;&#10;https://tinyurl.com/CTCCatalogue"
+    description "Mark tries to solve Wordle in a Minute from yesterday - the emphasis is on &amp;#34;tries&amp;#34; today. #NotaShort&amp;#10;&amp;#10;Check out our channel here.&amp;#10;&amp;#10;&amp;#10;&amp;#9654; OUR PATREON PAGE &amp;#8211; JOIN THE COMMUNITY, SUPPORT US AND TRY OUR PUZZLE HUNTS&amp;#9664;&amp;#10;https://www.patreon.com/crackingthecryptic&amp;#10;&amp;#10;&amp;#9654;Our merchandise is all here: &amp;#9664;&amp;#10;https://cracking-the-cryptic.creator-spring.com/&amp;#10;&amp;#10;&amp;#9654; CTC FAN DISCORD SERVER&amp;#9664;&amp;#10;https://discord.gg/BbN89j5  &amp;#10;&amp;#10;&amp;#9654; OUR BACK CATALOGUE &amp;#8211; ALL CATEGORISED WITH LINKS!&amp;#9664;&amp;#10;https://tinyurl.com/CTCCatalogue"
     channeltitle "Cracking The Cryptic"
     channelid "UCC-UOdK8-mIjxBQm_ot1T-Q"
     favcount 0
@@ -6022,7 +10906,29 @@ graph
     ppprofanity 0.10698613
     ppinflammatory 0.13469933
     sentiment 0
-    cluster 7
+    cluster 6
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -6031,7 +10937,7 @@ graph
     step 0
     date "2022-06-16T04:00:13Z"
     title "Doug plays todays Wordle #362 for 06/16/2022"
-    description "It's June 16, 2022 and Doug is playing today's daily Wordle! &#10;&#10;&#10;Please, if you enjoyed this video, like and subscribe to my channel!&#10;&#10;I can also be found on Twitch!&#10;https://www.twitch.tv/dougmansland&#10;&#10;I'm also on Twitter!&#10;https://twitter.com/dougmansland&#10;&#10;If you enjoy Discord, I have one of those too!&#10;https://discord.gg/MVXvhvg2Zm&#10;&#10;For some reason, I also make Tik Tok videos!&#10;https://www.tiktok.com/@dougmansland?lang=en"
+    description "It's June 16, 2022 and Doug is playing today's daily Wordle! &amp;#10;&amp;#10;&amp;#10;Please, if you enjoyed this video, like and subscribe to my channel!&amp;#10;&amp;#10;I can also be found on Twitch!&amp;#10;https://www.twitch.tv/dougmansland&amp;#10;&amp;#10;I'm also on Twitter!&amp;#10;https://twitter.com/dougmansland&amp;#10;&amp;#10;If you enjoy Discord, I have one of those too!&amp;#10;https://discord.gg/MVXvhvg2Zm&amp;#10;&amp;#10;For some reason, I also make Tik Tok videos!&amp;#10;https://www.tiktok.com/@dougmansland?lang=en"
     channeltitle "DougMansLand"
     channelid "UCkiAm7y8MQCbFwpB-52QRtg"
     favcount 0
@@ -6049,7 +10955,29 @@ graph
     ppprofanity 0.06275079
     ppinflammatory 0.049881727
     sentiment 0.25
-    cluster 2
+    cluster 3
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -6058,7 +10986,7 @@ graph
     step 0
     date "2022-06-19T07:50:49Z"
     title "Wordle 365 for June 19th"
-    description "What is today's Wordle for 06/19/2022 number 365 ? Join me and let's find out &#38; guess the answer together. Happy Father's Day!&#10;A new word daily, how do you like to play &#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. June 19th 2022&#10;&#10;Follow me on Twitter: https://twitter.com/emptyapartment3&#10;Join our Discord: https://discord.gg/9Py98RU&#10;Support/Buy me a &#34;coffee&#34;: https://ko-fi.com/emptyapartment&#10;&#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&#10;&#10;business contact: emptyapartmentgaming [at] gmail&#10;&#10;&#10;0:00 Intro&#10;0:20 First Guess&#10;1:10 Wordle?&#10;&#10;#wordle"
+    description "What is today's Wordle for 06/19/2022 number 365 ? Join me and let's find out &amp;#38; guess the answer together. Happy Father's Day!&amp;#10;A new word daily, how do you like to play &amp;#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. June 19th 2022&amp;#10;&amp;#10;Follow me on Twitter: https://twitter.com/emptyapartment3&amp;#10;Join our Discord: https://discord.gg/9Py98RU&amp;#10;Support/Buy me a &amp;#34;coffee&amp;#34;: https://ko-fi.com/emptyapartment&amp;#10;&amp;#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;business contact: emptyapartmentgaming [at] gmail&amp;#10;&amp;#10;&amp;#10;0:00 Intro&amp;#10;0:20 First Guess&amp;#10;1:10 Wordle?&amp;#10;&amp;#10;#wordle"
     channeltitle "Empty Apartment"
     channelid "UCEb4tjgeTW47bD66Xryzx0Q"
     favcount 0
@@ -6076,7 +11004,29 @@ graph
     ppprofanity 0.055191893
     ppinflammatory 0.15883088
     sentiment 0
-    cluster 2
+    cluster 3
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -6085,7 +11035,7 @@ graph
     step 0
     date "2022-04-21T15:00:25Z"
     title "Wordle 306 - 21 Apr 2022 #Shorts"
-    description "Wordle is now hosted by the New York Times! Join me for the solve every day, and play it yourself here: &#10;https://www.nytimes.com/games/wordle/&#10;&#10;#Wordle&#10;#Shorts"
+    description "Wordle is now hosted by the New York Times! Join me for the solve every day, and play it yourself here: &amp;#10;https://www.nytimes.com/games/wordle/&amp;#10;&amp;#10;#Wordle&amp;#10;#Shorts"
     channeltitle "Chris Remo"
     channelid "UCAWnFCJGAP7YPti-gQSe1ng"
     favcount 0
@@ -6103,7 +11053,29 @@ graph
     ppprofanity 0.048850436
     ppinflammatory 0.10804425
     sentiment 0
-    cluster 5
+    cluster 2
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -6112,7 +11084,7 @@ graph
     step 0
     date "2022-02-08T10:38:41Z"
     title "How Wordle was created "
-    description "Who playing Wordle? Surely the guy was drunk and never thought it would catch on &#129396;&#10;&#10;Merch &#128073;&#128073; https://linktr.ee/jimmyrees&#10;&#10;#wordle #howwordlewascreated #wordlecreator #lols #theguywhodecides"
+    description "Who playing Wordle? Surely the guy was drunk and never thought it would catch on &amp;#129396;&amp;#10;&amp;#10;Merch &amp;#128073;&amp;#128073; https://linktr.ee/jimmyrees&amp;#10;&amp;#10;#wordle #howwordlewascreated #wordlecreator #lols #theguywhodecides"
     channeltitle "Jimmy Rees"
     channelid "UCwa2SUnyx1dxC6cXtvJAtbA"
     favcount 0
@@ -6130,7 +11102,29 @@ graph
     ppprofanity 0.20330893
     ppinflammatory 0.0068634246
     sentiment 0.25
-    cluster 2
+    cluster 4
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -6139,7 +11133,7 @@ graph
     step 0
     date "2022-02-17T19:29:07Z"
     title "Toast WORDLE GOD and WORDLE GENIUS against CHAT! ft. chats reactions"
-    description "Hope you enjoy the video and LIKE the video for more!&#10;&#10;Please SUBSCRIBE, it would mean a lot to me --- https://bit.ly/ToastPOG&#10;&#10;Watch Disguised Toast stream -- https://www.twitch.tv/disguisedtoast&#10;&#10;Please contact me via email if you have any takedown requests.&#10;toastfansuniteyt@gmail.com"
+    description "Hope you enjoy the video and LIKE the video for more!&amp;#10;&amp;#10;Please SUBSCRIBE, it would mean a lot to me --- https://bit.ly/ToastPOG&amp;#10;&amp;#10;Watch Disguised Toast stream -- https://www.twitch.tv/disguisedtoast&amp;#10;&amp;#10;Please contact me via email if you have any takedown requests.&amp;#10;toastfansuniteyt@gmail.com"
     channeltitle "Sprout Boy"
     channelid "UC8mykxI_isbfP_9uUmZuujA"
     favcount 0
@@ -6158,6 +11152,28 @@ graph
     ppinflammatory 0.051180087
     sentiment 0.2732
     cluster 4
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -6166,7 +11182,7 @@ graph
     step 0
     date "2022-03-27T06:09:17Z"
     title "Wordle March 27th, 2022 - Can you guess the word?"
-    description "Hi everyone! Today Sean plays Wordle, a fun word logic puzzle.&#10;Can you get the word in fewer guesses? Give it a shot at the link below:&#10;https://www.nytimes.com/games/wordle/index.html&#10;&#10;And check your answers here with SCOREDLE!&#10;https://scoredle.com/"
+    description "Hi everyone! Today Sean plays Wordle, a fun word logic puzzle.&amp;#10;Can you get the word in fewer guesses? Give it a shot at the link below:&amp;#10;https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;And check your answers here with SCOREDLE!&amp;#10;https://scoredle.com/"
     channeltitle "Sean Plays"
     channelid "UCRlHYIOSfBDAVkz46rnglow"
     favcount 0
@@ -6184,7 +11200,29 @@ graph
     ppprofanity 0.018073484
     ppinflammatory 0.20460115
     sentiment 0
-    cluster 3
+    cluster 8
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -6193,7 +11231,7 @@ graph
     step 0
     date "2022-07-09T18:52:10Z"
     title "Wordle 385 for July 9th"
-    description "What is today's Wordle for 07/09/2022 number 385 ? Join me and let's find out &#38; guess the answer together. The tough words continue?&#10;A new word daily, how do you like to play &#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. July 9th 2022&#10;&#10;Follow me on Twitter: https://twitter.com/emptyapartment3&#10;Join our Discord: https://discord.gg/9Py98RU&#10;Support/Buy me a &#34;coffee&#34;: https://ko-fi.com/emptyapartment&#10;&#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&#10;&#10;business contact: emptyapartmentgaming [at] gmail&#10;&#10;&#10;0:00 Intro&#10;0:20 First Guess&#10;1:58 Wordle?&#10;&#10;#wordle"
+    description "What is today's Wordle for 07/09/2022 number 385 ? Join me and let's find out &amp;#38; guess the answer together. The tough words continue?&amp;#10;A new word daily, how do you like to play &amp;#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. July 9th 2022&amp;#10;&amp;#10;Follow me on Twitter: https://twitter.com/emptyapartment3&amp;#10;Join our Discord: https://discord.gg/9Py98RU&amp;#10;Support/Buy me a &amp;#34;coffee&amp;#34;: https://ko-fi.com/emptyapartment&amp;#10;&amp;#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;business contact: emptyapartmentgaming [at] gmail&amp;#10;&amp;#10;&amp;#10;0:00 Intro&amp;#10;0:20 First Guess&amp;#10;1:58 Wordle?&amp;#10;&amp;#10;#wordle"
     channeltitle "Empty Apartment"
     channelid "UCEb4tjgeTW47bD66Xryzx0Q"
     favcount 0
@@ -6212,6 +11250,28 @@ graph
     ppinflammatory 0.031592116
     sentiment 0
     cluster 1
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -6220,7 +11280,7 @@ graph
     step 0
     date "2022-03-17T11:00:16Z"
     title "Wordle and its Children - Solved in 12 minutes!"
-    description "Mark tries Wordle, Quordle, Octordle, Sedecordle and Worldle - check out this string of results!&#10;&#10;&#9654; SUDOKU PAD - Our New App &#9664; NOW AVAILABLE - You can now input your own classic sudoku puzzles into our software using our new App! The app also comes with 12 handmade puzzles from us and it is NOW AVAILABLE at these links: &#10;iOS: https://apps.apple.com/us/app/svens-sudokupad/id1570622073 &#10;Steam: https://store.steampowered.com/app/1706870/Svens_SudokuPad/  &#10;Android: https://play.google.com/store/apps/details?id=com.svencodes.sudokupad&#10;On Amazon: Search for &#8220;SudokuPad&#8221;&#10;&#10;&#9654; OUR PATREON PAGE &#8211; JOIN THE COMMUNITY, SUPPORT US AND TRY OUR PUZZLE HUNTS&#9664;&#10;https://www.patreon.com/crackingthecryptic&#10;&#10;&#9654;Our merchandise is all here: &#9664;&#10;https://cracking-the-cryptic.creator-spring.com/&#10;&#10;&#9654; CTC FAN DISCORD SERVER&#9664;&#10;https://discord.gg/BbN89j5  &#10;&#10;&#9654; OUR BACK CATALOGUE &#8211; ALL CATEGORISED WITH LINKS!&#9664;&#10;https://tinyurl.com/CTCCatalogue&#10;&#10;&#9654; WHY NOT TRY OUR CLASSIC SUDOKU APP? &#9664;&#10;AppStore: https://apps.apple.com/us/app/classic-sudoku/id1488838275?ls=1&#10;Steam: https://store.steampowered.com/app/1188330/Classic_Sudoku/&#10;Android: https://play.google.com/store/apps/details?id=com.StudioGoya.ClassicSudoku&#38;hl=en_US&#10;&#10;&#9654; OUR KILLER SUDOKU IS ALSO AVAILABLE&#9664; &#10;AppStore: https://apps.apple.com/us/app/killer-sudoku-ctc/id1544165118  &#10;Steam: https://store.steampowered.com/app/1471910/Killer_Sudoku/ &#10;Android: https://play.google.com/store/apps/details?id=com.StudioGoya.KillerSudoku&#38;hl=en_US&#38;gl=US   &#10;&#10;&#9654; YOU CAN ALSO TRY OUR SANDWICH SUDOKU APP &#9664; &#10;AppStore: https://apps.apple.com/us/app/sandwich-sudoku/id1476116705?ls=1 &#10;Steam: https://store.steampowered.com/app/1117310/Sandwich_Sudoku/  &#10;Android: https://play.google.com/store/apps/details?id=com.StudioGoya.SandwichSudoku&#10;&#10;&#9654; TRY OUR CHESS SUDOKU APP&#9664;&#10;AppStore:  https://apps.apple.com/us/app/chess-sudoku/id1500654482?ls=1&#10;Steam: https://store.steampowered.com/app/1250560/Chess_Sudoku/&#10;Android: https://play.google.com/store/apps/details?id=com.StudioGoya.ChessSudoku&#38;hl=en_US&#10;&#10;&#9654; HERE&#8217;S WHERE YOU CAN TRY OUR MIRACLE SUDOKU APP&#9664;&#10;App Store: https://apps.apple.com/us/app/id1527363795 &#10;Steam: https://store.steampowered.com/app/1377260/Miracle_Sudoku/&#10;Android: https://play.google.com/store/apps/details?id=com.StudioGoya.MiracleSudokuCTC &#10;&#10;&#9654; THERMO SUDOKU is available too!&#9664;&#10;AppStore: https://apps.apple.com/us/app/thermo-sudoku/id1513994223  &#10;Android:  https://play.google.com/store/apps/details?id=com.StudioGoya.ThermoSudoku&#10;Steam: https://store.steampowered.com/app/1316390/Thermo_Sudoku/  &#10;Android:  https://play.google.com/store/apps/details?id=com.StudioGoya.ThermoSudoku&#10;&#10;&#9654; YOU CAN ALSO TRY OUR ARROW SUDOKU APP &#9664; Here are the links: &#10;App Store: https://apps.apple.com/us/app/arrow-sudoku/id1568407537 &#10;Steam: https://store.steampowered.com/app/1613680/Arrow_Sudoku/ &#10;Android: https://play.google.com/store/apps/details?id=com.StudioGoya.ArrowSudoku &#10;The PDF of our book is now available! If you backed the Kickstarter, go to the Jellybeangames email receipt, where there is a button to download the pdf. Delivery of the physical book has now occurred, and we hope to open up the book to further orders soon.  The Kickstarter page: https://www.kickstarter.com/projects/peterchayward/cracking-the-cryptics-greatest-hits/description  &#10;&#10;&#9654;SEND US PUZZLES TO SOLVE/CONTACT US&#9664;&#10;crackingthecryptic@gmail.com&#10;Snailmail: Mark Goodliffe, Box 102, 56 Gloucester Road, London SW7 4UB&#10;&#10;&#9654;FOLLOW US&#9664;&#10;Twitter: #crypticcracking &#10;@crypticcracking&#10;Instagram (for how to solve daily clues from The Times): https://www.instagram.com/crackingthecryptic/?hl=en&#10;&#10;&#9654;Music&#9664;&#10;Tim McCaskey (Guitar) or Lucy Audrin (Piano) or Riffclown plays Mozart's Sonata no 16 (&#34;Sonata Facile&#34;)&#10;&#9654;SOFTWARE&#9664;&#10;Play the puzzle in the video by clicking the link under the video (above).  Thanks to Sam Cappleman-Lynes and Sven Neumann for their work.&#10;&#9654;Logo Design&#9664;&#10;Melvyn Mainini&#10;&#10;&#9654;Opening Credits Design&#9664;&#10;Joel Blundell&#10;&#10;&#9654;ABOUT US&#9664;&#10;Hi! We're Simon Anthony and Mark Goodliffe, two of the UK's most enthusiastic puzzle solvers. We have both represented the UK at the World Sudoku Championships and the World Puzzle Championships. We're also &#34;cryptic crossword&#34; aficionados. Mark is the twelve-time winner of The Times championship and Simon is the former record holder for most consecutive correct solutions to The Listener crossword. We hope we can help your puzzle solving while also introducing you to some of the world's best puzzles.&#10;&#10;Thank you for watching!&#10;Simon and Mark"
+    description "Mark tries Wordle, Quordle, Octordle, Sedecordle and Worldle - check out this string of results!&amp;#10;&amp;#10;&amp;#9654; SUDOKU PAD - Our New App &amp;#9664; NOW AVAILABLE - You can now input your own classic sudoku puzzles into our software using our new App! The app also comes with 12 handmade puzzles from us and it is NOW AVAILABLE at these links: &amp;#10;iOS: https://apps.apple.com/us/app/svens-sudokupad/id1570622073 &amp;#10;Steam: https://store.steampowered.com/app/1706870/Svens_SudokuPad/  &amp;#10;Android: https://play.google.com/store/apps/details?id=com.svencodes.sudokupad&amp;#10;On Amazon: Search for &amp;#8220;SudokuPad&amp;#8221;&amp;#10;&amp;#10;&amp;#9654; OUR PATREON PAGE &amp;#8211; JOIN THE COMMUNITY, SUPPORT US AND TRY OUR PUZZLE HUNTS&amp;#9664;&amp;#10;https://www.patreon.com/crackingthecryptic&amp;#10;&amp;#10;&amp;#9654;Our merchandise is all here: &amp;#9664;&amp;#10;https://cracking-the-cryptic.creator-spring.com/&amp;#10;&amp;#10;&amp;#9654; CTC FAN DISCORD SERVER&amp;#9664;&amp;#10;https://discord.gg/BbN89j5  &amp;#10;&amp;#10;&amp;#9654; OUR BACK CATALOGUE &amp;#8211; ALL CATEGORISED WITH LINKS!&amp;#9664;&amp;#10;https://tinyurl.com/CTCCatalogue&amp;#10;&amp;#10;&amp;#9654; WHY NOT TRY OUR CLASSIC SUDOKU APP? &amp;#9664;&amp;#10;AppStore: https://apps.apple.com/us/app/classic-sudoku/id1488838275?ls=1&amp;#10;Steam: https://store.steampowered.com/app/1188330/Classic_Sudoku/&amp;#10;Android: https://play.google.com/store/apps/details?id=com.StudioGoya.ClassicSudoku&amp;#38;hl=en_US&amp;#10;&amp;#10;&amp;#9654; OUR KILLER SUDOKU IS ALSO AVAILABLE&amp;#9664; &amp;#10;AppStore: https://apps.apple.com/us/app/killer-sudoku-ctc/id1544165118  &amp;#10;Steam: https://store.steampowered.com/app/1471910/Killer_Sudoku/ &amp;#10;Android: https://play.google.com/store/apps/details?id=com.StudioGoya.KillerSudoku&amp;#38;hl=en_US&amp;#38;gl=US   &amp;#10;&amp;#10;&amp;#9654; YOU CAN ALSO TRY OUR SANDWICH SUDOKU APP &amp;#9664; &amp;#10;AppStore: https://apps.apple.com/us/app/sandwich-sudoku/id1476116705?ls=1 &amp;#10;Steam: https://store.steampowered.com/app/1117310/Sandwich_Sudoku/  &amp;#10;Android: https://play.google.com/store/apps/details?id=com.StudioGoya.SandwichSudoku&amp;#10;&amp;#10;&amp;#9654; TRY OUR CHESS SUDOKU APP&amp;#9664;&amp;#10;AppStore:  https://apps.apple.com/us/app/chess-sudoku/id1500654482?ls=1&amp;#10;Steam: https://store.steampowered.com/app/1250560/Chess_Sudoku/&amp;#10;Android: https://play.google.com/store/apps/details?id=com.StudioGoya.ChessSudoku&amp;#38;hl=en_US&amp;#10;&amp;#10;&amp;#9654; HERE&amp;#8217;S WHERE YOU CAN TRY OUR MIRACLE SUDOKU APP&amp;#9664;&amp;#10;App Store: https://apps.apple.com/us/app/id1527363795 &amp;#10;Steam: https://store.steampowered.com/app/1377260/Miracle_Sudoku/&amp;#10;Android: https://play.google.com/store/apps/details?id=com.StudioGoya.MiracleSudokuCTC &amp;#10;&amp;#10;&amp;#9654; THERMO SUDOKU is available too!&amp;#9664;&amp;#10;AppStore: https://apps.apple.com/us/app/thermo-sudoku/id1513994223  &amp;#10;Android:  https://play.google.com/store/apps/details?id=com.StudioGoya.ThermoSudoku&amp;#10;Steam: https://store.steampowered.com/app/1316390/Thermo_Sudoku/  &amp;#10;Android:  https://play.google.com/store/apps/details?id=com.StudioGoya.ThermoSudoku&amp;#10;&amp;#10;&amp;#9654; YOU CAN ALSO TRY OUR ARROW SUDOKU APP &amp;#9664; Here are the links: &amp;#10;App Store: https://apps.apple.com/us/app/arrow-sudoku/id1568407537 &amp;#10;Steam: https://store.steampowered.com/app/1613680/Arrow_Sudoku/ &amp;#10;Android: https://play.google.com/store/apps/details?id=com.StudioGoya.ArrowSudoku &amp;#10;The PDF of our book is now available! If you backed the Kickstarter, go to the Jellybeangames email receipt, where there is a button to download the pdf. Delivery of the physical book has now occurred, and we hope to open up the book to further orders soon.  The Kickstarter page: https://www.kickstarter.com/projects/peterchayward/cracking-the-cryptics-greatest-hits/description  &amp;#10;&amp;#10;&amp;#9654;SEND US PUZZLES TO SOLVE/CONTACT US&amp;#9664;&amp;#10;crackingthecryptic@gmail.com&amp;#10;Snailmail: Mark Goodliffe, Box 102, 56 Gloucester Road, London SW7 4UB&amp;#10;&amp;#10;&amp;#9654;FOLLOW US&amp;#9664;&amp;#10;Twitter: #crypticcracking &amp;#10;@crypticcracking&amp;#10;Instagram (for how to solve daily clues from The Times): https://www.instagram.com/crackingthecryptic/?hl=en&amp;#10;&amp;#10;&amp;#9654;Music&amp;#9664;&amp;#10;Tim McCaskey (Guitar) or Lucy Audrin (Piano) or Riffclown plays Mozart's Sonata no 16 (&amp;#34;Sonata Facile&amp;#34;)&amp;#10;&amp;#9654;SOFTWARE&amp;#9664;&amp;#10;Play the puzzle in the video by clicking the link under the video (above).  Thanks to Sam Cappleman-Lynes and Sven Neumann for their work.&amp;#10;&amp;#9654;Logo Design&amp;#9664;&amp;#10;Melvyn Mainini&amp;#10;&amp;#10;&amp;#9654;Opening Credits Design&amp;#9664;&amp;#10;Joel Blundell&amp;#10;&amp;#10;&amp;#9654;ABOUT US&amp;#9664;&amp;#10;Hi! We're Simon Anthony and Mark Goodliffe, two of the UK's most enthusiastic puzzle solvers. We have both represented the UK at the World Sudoku Championships and the World Puzzle Championships. We're also &amp;#34;cryptic crossword&amp;#34; aficionados. Mark is the twelve-time winner of The Times championship and Simon is the former record holder for most consecutive correct solutions to The Listener crossword. We hope we can help your puzzle solving while also introducing you to some of the world's best puzzles.&amp;#10;&amp;#10;Thank you for watching!&amp;#10;Simon and Mark"
     channeltitle "Cracking The Cryptic"
     channelid "UCC-UOdK8-mIjxBQm_ot1T-Q"
     favcount 0
@@ -6238,7 +11298,29 @@ graph
     ppprofanity 0.0700482
     ppinflammatory 0.20095639
     sentiment 0.2732
-    cluster 7
+    cluster 6
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -6247,7 +11329,7 @@ graph
     step 0
     date "2022-03-24T00:06:03Z"
     title "Record setting Wordle contest in the Jomboy office!"
-    description "WARNING: contains spoilers for March 23 Wordle&#10;&#10;The Jomboy Media office members see who can guess today's Wordle in the fewest guesses."
+    description "WARNING: contains spoilers for March 23 Wordle&amp;#10;&amp;#10;The Jomboy Media office members see who can guess today's Wordle in the fewest guesses."
     channeltitle "JM Gaming (Jomboy Media)"
     channelid "UCk71IrRQyptFQBL_eEeS1uw"
     favcount 0
@@ -6266,6 +11348,28 @@ graph
     ppinflammatory 0.28678274
     sentiment 0
     cluster 4
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -6274,7 +11378,7 @@ graph
     step 0
     date "2022-02-13T10:01:28Z"
     title "Wordle 239 for February 13th - What is Todays Wordle? 02/13/2022"
-    description "What is today's Wordle? Let's find out &#38; guess the answer together. Join me for today's 02/13/2022 Wordle number 239 .  Proud I was able to still get this on 4th guess after the first few words lol.&#10;Everyone's new favorite game. A new word daily, how do you like to play &#38; what's your strategy? Thought I'd try uploading my guesses and answers, plus cool to archive it. February 13th 2022&#10;&#10;Play for yourself at: https://www.powerlanguage.co.uk/wordle/&#10;&#10;0:00 Intro&#10;0:28 First Guess&#10;1:33 Super Bowl&#10;2:50 Wordle!&#10;&#10;business contact: emptyapartmentgaming gmail&#10;&#10;#wordle #dailywordleclub"
+    description "What is today's Wordle? Let's find out &amp;#38; guess the answer together. Join me for today's 02/13/2022 Wordle number 239 .  Proud I was able to still get this on 4th guess after the first few words lol.&amp;#10;Everyone's new favorite game. A new word daily, how do you like to play &amp;#38; what's your strategy? Thought I'd try uploading my guesses and answers, plus cool to archive it. February 13th 2022&amp;#10;&amp;#10;Play for yourself at: https://www.powerlanguage.co.uk/wordle/&amp;#10;&amp;#10;0:00 Intro&amp;#10;0:28 First Guess&amp;#10;1:33 Super Bowl&amp;#10;2:50 Wordle!&amp;#10;&amp;#10;business contact: emptyapartmentgaming gmail&amp;#10;&amp;#10;#wordle #dailywordleclub"
     channeltitle "Empty Apartment"
     channelid "UCEb4tjgeTW47bD66Xryzx0Q"
     favcount 0
@@ -6293,6 +11397,28 @@ graph
     ppinflammatory 0.07566681
     sentiment 0
     cluster 1
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -6301,7 +11427,7 @@ graph
     step 0
     date "2022-02-13T15:00:06Z"
     title "The Word that Beats Wordle"
-    description "#shorts&#10;&#10;SUBSCRIBE &#9658; https://goo.gl/yYbVnZ &#10;&#10;&#9654; Check out my gear on Kit: https://kit.co/JackGordonYT&#10;&#10;Instagram: instagram.com/JackGordonYT&#10;Twitter: twitter.com/JackGordonYT&#10;&#10;THIS IS THE MUSIC I USE (highly recommend if you want actually good royalty free stuff): &#10;Personal Plan: http://share.epidemicsound.com/Jack&#10;Commercial Plan: http://share.epidemicsound.com/jackgordon&#10;&#10;Email: jackgordonyt@gmail.com&#10;&#10;(these are affiliates meaning I may earn commissions if you purchase. Helps support the channel, thank you!)&#10;GEAR: &#10;Main Camera: Canon C100&#10;Budget Camera I use all the time: https://amzn.to/3fjxqHv&#10;favorite Casey Neistat-style wide lens: https://amzn.to/2TOgnFW&#10;Cheap Fancy-looking lens: https://amzn.to/3zZNeqF&#10;Main Lens I use for EVERYTHING: https://amzn.to/3j5RNJf&#10;this is the Tripod you want: https://amzn.to/3zWYdRI&#10;Video Head for smoooooth B Roll: https://amzn.to/3ihXq85&#10;Drone (Solid deal!!): https://amzn.to/3yg8oAk&#10;Camera Backpack: https://amzn.to/3xmFKfS&#10;Solid Microphone (it's what every Youtuber uses!): https://amzn.to/3zVkQpx&#10;Old mic (still great!): https://amzn.to/3je5oy6&#10;Phone (good deal these days!): https://amzn.to/3ln9xCN&#10;THE BEST budget lighting: https://amzn.to/37fOZ6R&#10;You NEED this soft box for it: https://amzn.to/3ifszcf&#10;helpful vlog setup: https://amzn.to/3likHIE&#10;Editing Laptop: https://amzn.to/3jcXe9l&#10;Editing Software: Final Cut Pro X"
+    description "#shorts&amp;#10;&amp;#10;SUBSCRIBE &amp;#9658; https://goo.gl/yYbVnZ &amp;#10;&amp;#10;&amp;#9654; Check out my gear on Kit: https://kit.co/JackGordonYT&amp;#10;&amp;#10;Instagram: instagram.com/JackGordonYT&amp;#10;Twitter: twitter.com/JackGordonYT&amp;#10;&amp;#10;THIS IS THE MUSIC I USE (highly recommend if you want actually good royalty free stuff): &amp;#10;Personal Plan: http://share.epidemicsound.com/Jack&amp;#10;Commercial Plan: http://share.epidemicsound.com/jackgordon&amp;#10;&amp;#10;Email: jackgordonyt@gmail.com&amp;#10;&amp;#10;(these are affiliates meaning I may earn commissions if you purchase. Helps support the channel, thank you!)&amp;#10;GEAR: &amp;#10;Main Camera: Canon C100&amp;#10;Budget Camera I use all the time: https://amzn.to/3fjxqHv&amp;#10;favorite Casey Neistat-style wide lens: https://amzn.to/2TOgnFW&amp;#10;Cheap Fancy-looking lens: https://amzn.to/3zZNeqF&amp;#10;Main Lens I use for EVERYTHING: https://amzn.to/3j5RNJf&amp;#10;this is the Tripod you want: https://amzn.to/3zWYdRI&amp;#10;Video Head for smoooooth B Roll: https://amzn.to/3ihXq85&amp;#10;Drone (Solid deal!!): https://amzn.to/3yg8oAk&amp;#10;Camera Backpack: https://amzn.to/3xmFKfS&amp;#10;Solid Microphone (it's what every Youtuber uses!): https://amzn.to/3zVkQpx&amp;#10;Old mic (still great!): https://amzn.to/3je5oy6&amp;#10;Phone (good deal these days!): https://amzn.to/3ln9xCN&amp;#10;THE BEST budget lighting: https://amzn.to/37fOZ6R&amp;#10;You NEED this soft box for it: https://amzn.to/3ifszcf&amp;#10;helpful vlog setup: https://amzn.to/3likHIE&amp;#10;Editing Laptop: https://amzn.to/3jcXe9l&amp;#10;Editing Software: Final Cut Pro X"
     channeltitle "Jack Gordon"
     channelid "UCLxpvEHi22zim8PqIwPmUog"
     favcount 0
@@ -6319,7 +11445,29 @@ graph
     ppprofanity 0.06443255
     ppinflammatory 0.14147198
     sentiment 0
-    cluster 6
+    cluster 7
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -6328,7 +11476,7 @@ graph
     step 0
     date "2022-02-23T14:09:32Z"
     title "The 7 Stages of Wordle"
-    description "It&#8217;s a slippery slope."
+    description "It&amp;#8217;s a slippery slope."
     channeltitle "Matt Mitchell"
     channelid "UCRAoLjIeDYFOSuXFImfecqg"
     favcount 0
@@ -6346,7 +11494,29 @@ graph
     ppprofanity 0.0874356
     ppinflammatory 0.072354324
     sentiment 0
-    cluster 4
+    cluster 3
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -6355,7 +11525,7 @@ graph
     step 0
     date "2022-06-25T04:00:10Z"
     title "Doug plays todays Wordle #371 for 06/25/2022"
-    description "It's June 25, 2022 and Doug is playing today's daily Wordle! &#10;&#10;&#10;Please, if you enjoyed this video, like and subscribe to my channel!&#10;&#10;I can also be found on Twitch!&#10;https://www.twitch.tv/dougmansland&#10;&#10;I'm also on Twitter!&#10;https://twitter.com/dougmansland&#10;&#10;If you enjoy Discord, I have one of those too!&#10;https://discord.gg/MVXvhvg2Zm&#10;&#10;For some reason, I also make Tik Tok videos!&#10;https://www.tiktok.com/@dougmansland?lang=en"
+    description "It's June 25, 2022 and Doug is playing today's daily Wordle! &amp;#10;&amp;#10;&amp;#10;Please, if you enjoyed this video, like and subscribe to my channel!&amp;#10;&amp;#10;I can also be found on Twitch!&amp;#10;https://www.twitch.tv/dougmansland&amp;#10;&amp;#10;I'm also on Twitter!&amp;#10;https://twitter.com/dougmansland&amp;#10;&amp;#10;If you enjoy Discord, I have one of those too!&amp;#10;https://discord.gg/MVXvhvg2Zm&amp;#10;&amp;#10;For some reason, I also make Tik Tok videos!&amp;#10;https://www.tiktok.com/@dougmansland?lang=en"
     channeltitle "DougMansLand"
     channelid "UCkiAm7y8MQCbFwpB-52QRtg"
     favcount 0
@@ -6374,6 +11544,28 @@ graph
     ppinflammatory 0.049881727
     sentiment 0.25
     cluster 2
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -6382,7 +11574,7 @@ graph
     step 0
     date "2022-03-18T05:18:30Z"
     title "Wordle March 18th, 2022 - Can you guess the word?"
-    description "Hi everyone! Today Sean plays Wordle, a fun word logic puzzle.&#10;Can you get the word in fewer guesses? Give it a shot at the link below:&#10;https://www.nytimes.com/games/wordle/index.html&#10;&#10;And check your answers here with SCOREDLE!&#10;https://scoredle.com/"
+    description "Hi everyone! Today Sean plays Wordle, a fun word logic puzzle.&amp;#10;Can you get the word in fewer guesses? Give it a shot at the link below:&amp;#10;https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;And check your answers here with SCOREDLE!&amp;#10;https://scoredle.com/"
     channeltitle "Sean Plays"
     channelid "UCRlHYIOSfBDAVkz46rnglow"
     favcount 0
@@ -6400,7 +11592,29 @@ graph
     ppprofanity 0.021938821
     ppinflammatory 0.20460115
     sentiment 0
-    cluster 3
+    cluster 8
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -6409,7 +11623,7 @@ graph
     step 0
     date "2022-06-23T04:00:02Z"
     title "Doug plays todays Wordle #369 for 06/23/2022"
-    description "It's June 23, 2022 and Doug is playing today's daily Wordle! &#10;&#10;&#10;Please, if you enjoyed this video, like and subscribe to my channel!&#10;&#10;I can also be found on Twitch!&#10;https://www.twitch.tv/dougmansland&#10;&#10;I'm also on Twitter!&#10;https://twitter.com/dougmansland&#10;&#10;If you enjoy Discord, I have one of those too!&#10;https://discord.gg/MVXvhvg2Zm&#10;&#10;For some reason, I also make Tik Tok videos!&#10;https://www.tiktok.com/@dougmansland?lang=en"
+    description "It's June 23, 2022 and Doug is playing today's daily Wordle! &amp;#10;&amp;#10;&amp;#10;Please, if you enjoyed this video, like and subscribe to my channel!&amp;#10;&amp;#10;I can also be found on Twitch!&amp;#10;https://www.twitch.tv/dougmansland&amp;#10;&amp;#10;I'm also on Twitter!&amp;#10;https://twitter.com/dougmansland&amp;#10;&amp;#10;If you enjoy Discord, I have one of those too!&amp;#10;https://discord.gg/MVXvhvg2Zm&amp;#10;&amp;#10;For some reason, I also make Tik Tok videos!&amp;#10;https://www.tiktok.com/@dougmansland?lang=en"
     channeltitle "DougMansLand"
     channelid "UCkiAm7y8MQCbFwpB-52QRtg"
     favcount 0
@@ -6427,7 +11641,29 @@ graph
     ppprofanity 0.062456638
     ppinflammatory 0.049881727
     sentiment 0.25
-    cluster 2
+    cluster 3
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -6436,7 +11672,7 @@ graph
     step 0
     date "2022-05-25T07:46:37Z"
     title "Wordle 340 for May 25th - What is Todays Wordle?"
-    description "What is today's Wordle for 05/25/2022 number 340 ? Join me and let's find out &#38; guess the answer together. Don't forget your V's!&#10;A new word daily, how do you like to play &#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. May 25th 2022&#10;&#10;Follow me on Twitter: https://twitter.com/emptyapartment3&#10;Join our Discord: https://discord.gg/9Py98RU&#10;Support/Buy me a &#34;coffee&#34;: https://ko-fi.com/emptyapartment&#10;&#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&#10;&#10;business contact: emptyapartmentgaming gmail&#10;&#10;&#10;0:00 Intro&#10;0:19 First Guess&#10;1:17 Wordle?&#10;&#10;#wordle"
+    description "What is today's Wordle for 05/25/2022 number 340 ? Join me and let's find out &amp;#38; guess the answer together. Don't forget your V's!&amp;#10;A new word daily, how do you like to play &amp;#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. May 25th 2022&amp;#10;&amp;#10;Follow me on Twitter: https://twitter.com/emptyapartment3&amp;#10;Join our Discord: https://discord.gg/9Py98RU&amp;#10;Support/Buy me a &amp;#34;coffee&amp;#34;: https://ko-fi.com/emptyapartment&amp;#10;&amp;#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;business contact: emptyapartmentgaming gmail&amp;#10;&amp;#10;&amp;#10;0:00 Intro&amp;#10;0:19 First Guess&amp;#10;1:17 Wordle?&amp;#10;&amp;#10;#wordle"
     channeltitle "Empty Apartment"
     channelid "UCEb4tjgeTW47bD66Xryzx0Q"
     favcount 0
@@ -6454,7 +11690,29 @@ graph
     ppprofanity 0.04484345
     ppinflammatory 0.07931957
     sentiment 0
-    cluster 2
+    cluster 1
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -6463,7 +11721,7 @@ graph
     step 0
     date "2022-03-02T08:08:39Z"
     title "Wordle 256 for March 2nd - What is Todays Wordle? 03/02/2022"
-    description "What is today's Wordle? Let's find out &#38; guess the answer together. Join me for today's 03/02/2022 Wordle number 256 . Tansy eats up my 3rd guess!&#10;Everyone's new favorite game. A new word daily, how do you like to play &#38; what's your strategy? Thought I'd try uploading my guesses, hints, and answers, plus cool to archive it. March 2nd 2022&#10;&#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&#10;&#10;0:00 Intro&#10;0:31 First Guess&#10;1:50 Wordle!&#10;&#10;&#10;business contact: emptyapartmentgaming gmail&#10;&#10;#wordle #dailywordleclub"
+    description "What is today's Wordle? Let's find out &amp;#38; guess the answer together. Join me for today's 03/02/2022 Wordle number 256 . Tansy eats up my 3rd guess!&amp;#10;Everyone's new favorite game. A new word daily, how do you like to play &amp;#38; what's your strategy? Thought I'd try uploading my guesses, hints, and answers, plus cool to archive it. March 2nd 2022&amp;#10;&amp;#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;0:00 Intro&amp;#10;0:31 First Guess&amp;#10;1:50 Wordle!&amp;#10;&amp;#10;&amp;#10;business contact: emptyapartmentgaming gmail&amp;#10;&amp;#10;#wordle #dailywordleclub"
     channeltitle "Empty Apartment"
     channelid "UCEb4tjgeTW47bD66Xryzx0Q"
     favcount 0
@@ -6482,6 +11740,28 @@ graph
     ppinflammatory 0.121333666
     sentiment 0
     cluster 1
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -6490,7 +11770,7 @@ graph
     step 0
     date "2022-07-08T04:00:13Z"
     title "Doug plays todays Wordle #384 for 07/08/2022"
-    description "It's July 8, 2022 and Doug is playing today's daily Wordle! #wordle&#10;&#10;&#10;Please, if you enjoyed this video, like and subscribe to my channel!&#10;&#10;I can also be found on Twitch!&#10;https://www.twitch.tv/dougmansland&#10;&#10;I'm also on Twitter!&#10;https://twitter.com/dougmansland&#10;&#10;If you enjoy Discord, I have one of those too!&#10;https://discord.gg/MVXvhvg2Zm"
+    description "It's July 8, 2022 and Doug is playing today's daily Wordle! #wordle&amp;#10;&amp;#10;&amp;#10;Please, if you enjoyed this video, like and subscribe to my channel!&amp;#10;&amp;#10;I can also be found on Twitch!&amp;#10;https://www.twitch.tv/dougmansland&amp;#10;&amp;#10;I'm also on Twitter!&amp;#10;https://twitter.com/dougmansland&amp;#10;&amp;#10;If you enjoy Discord, I have one of those too!&amp;#10;https://discord.gg/MVXvhvg2Zm"
     channeltitle "DougMansLand"
     channelid "UCkiAm7y8MQCbFwpB-52QRtg"
     favcount 0
@@ -6508,7 +11788,29 @@ graph
     ppprofanity 0.13679905
     ppinflammatory 0.049881727
     sentiment 0.25
-    cluster 8
+    cluster 5
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -6517,7 +11819,7 @@ graph
     step 0
     date "2022-04-03T04:00:26Z"
     title "Doug plays todays Wordle! #288 for 04/03/2022"
-    description "It's April 3, 2022 and Doug is playing today's daily Wordle! &#10;&#10;&#10;Please, if you enjoyed this video, like and subscribe to my channel!&#10;&#10;I can also be found on Twitch!&#10;https://www.twitch.tv/dougmansland&#10;&#10;I'm also on Twitter!&#10;https://twitter.com/dougmansland&#10;&#10;If you enjoy Discord, I have one of those too!&#10;https://discord.gg/MVXvhvg2Zm&#10;&#10;For some reason, I also make Tik Tok videos!&#10;https://www.tiktok.com/@dougmansland?lang=en"
+    description "It's April 3, 2022 and Doug is playing today's daily Wordle! &amp;#10;&amp;#10;&amp;#10;Please, if you enjoyed this video, like and subscribe to my channel!&amp;#10;&amp;#10;I can also be found on Twitch!&amp;#10;https://www.twitch.tv/dougmansland&amp;#10;&amp;#10;I'm also on Twitter!&amp;#10;https://twitter.com/dougmansland&amp;#10;&amp;#10;If you enjoy Discord, I have one of those too!&amp;#10;https://discord.gg/MVXvhvg2Zm&amp;#10;&amp;#10;For some reason, I also make Tik Tok videos!&amp;#10;https://www.tiktok.com/@dougmansland?lang=en"
     channeltitle "DougMansLand"
     channelid "UCkiAm7y8MQCbFwpB-52QRtg"
     favcount 0
@@ -6535,7 +11837,29 @@ graph
     ppprofanity 0.073617965
     ppinflammatory 0.029634507
     sentiment 0.25
-    cluster 8
+    cluster 5
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -6544,7 +11868,7 @@ graph
     step 0
     date "2022-03-02T16:00:16Z"
     title "JackSucksAtGeography plays Geography Wordle (Globle  Worldle)"
-    description "JackSucksAtGeography plays Geography Wordle (Globle &#38; Worldle)&#10;Original video: https://youtu.be/nCWhIwFp6KY&#10;Do you have an idea for a JackSucksAtClip's video? Submit it here: https://forms.gle/dC2XLpkDnW8BMdw4A&#10;#shorts"
+    description "JackSucksAtGeography plays Geography Wordle (Globle &amp;#38; Worldle)&amp;#10;Original video: https://youtu.be/nCWhIwFp6KY&amp;#10;Do you have an idea for a JackSucksAtClip's video? Submit it here: https://forms.gle/dC2XLpkDnW8BMdw4A&amp;#10;#shorts"
     channeltitle "JackSucksAtClips"
     channelid "UCUXNOmIdsoyd5fh5TZHHO5Q"
     favcount 0
@@ -6562,7 +11886,29 @@ graph
     ppprofanity 0.6144554
     ppinflammatory 0.040483844
     sentiment 0.25
-    cluster 6
+    cluster 7
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -6571,7 +11917,7 @@ graph
     step 0
     date "2022-02-18T09:54:26Z"
     title "Wordle 244 for February 18th - What is Todays Wordle? 02/18/2022"
-    description "What is today's Wordle? Let's find out &#38; guess the answer together. Join me for today's 02/18/2022 Wordle number 244 .  This was a tough one! &#10;Everyone's new favorite game. A new word daily, how do you like to play &#38; what's your strategy? Thought I'd try uploading my guesses and answers, plus cool to archive it. February 18th 2022&#10;&#10;Play for yourself at: https://www.powerlanguage.co.uk/wordle/&#10;&#10;0:00 Intro&#10;0:28 First Guess&#10;1:20 Comet&#10;3:20 Wordle!&#10;&#10;business contact: emptyapartmentgaming gmail&#10;&#10;#wordle #dailywordleclub"
+    description "What is today's Wordle? Let's find out &amp;#38; guess the answer together. Join me for today's 02/18/2022 Wordle number 244 .  This was a tough one! &amp;#10;Everyone's new favorite game. A new word daily, how do you like to play &amp;#38; what's your strategy? Thought I'd try uploading my guesses and answers, plus cool to archive it. February 18th 2022&amp;#10;&amp;#10;Play for yourself at: https://www.powerlanguage.co.uk/wordle/&amp;#10;&amp;#10;0:00 Intro&amp;#10;0:28 First Guess&amp;#10;1:20 Comet&amp;#10;3:20 Wordle!&amp;#10;&amp;#10;business contact: emptyapartmentgaming gmail&amp;#10;&amp;#10;#wordle #dailywordleclub"
     channeltitle "Empty Apartment"
     channelid "UCEb4tjgeTW47bD66Xryzx0Q"
     favcount 0
@@ -6590,6 +11936,28 @@ graph
     ppinflammatory 0.07566681
     sentiment 0
     cluster 1
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -6598,7 +11966,7 @@ graph
     step 0
     date "2022-01-18T07:18:49Z"
     title " - Wordle - How to Play?"
-    description "game link: https://www.powerlanguage.co.uk/wordle/&#10;&#10;Wordle is the most exciting popular game now which has caught many people's attention. What is Wordle? How to Play Wordle? Find our in my video. &#10;Thank you, LIKE SHARE, SUBSCRIBE, Keep Supporting, Keep Motivating! &#10;&#9989; LET'S CONNECT!&#10; Twitter &#9658; https://twitter.com/techtamizha &#10;Instagram &#9658; https://www.instagram.com/lakshmirajan/ &#10;Facebook &#9658; https://www.facebook.com/TechTamizha/&#10;#TechTamizha"
+    description "game link: https://www.powerlanguage.co.uk/wordle/&amp;#10;&amp;#10;Wordle is the most exciting popular game now which has caught many people's attention. What is Wordle? How to Play Wordle? Find our in my video. &amp;#10;Thank you, LIKE SHARE, SUBSCRIBE, Keep Supporting, Keep Motivating! &amp;#10;&amp;#9989; LET'S CONNECT!&amp;#10; Twitter &amp;#9658; https://twitter.com/techtamizha &amp;#10;Instagram &amp;#9658; https://www.instagram.com/lakshmirajan/ &amp;#10;Facebook &amp;#9658; https://www.facebook.com/TechTamizha/&amp;#10;#TechTamizha"
     channeltitle "Tech Tamizha"
     channelid "UCs-2DhK0sAghcpVCap0cH2g"
     favcount 0
@@ -6617,6 +11985,28 @@ graph
     ppinflammatory 0.09865108
     sentiment 0.34
     cluster 2
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -6625,7 +12015,7 @@ graph
     step 0
     date "2022-02-17T15:30:02Z"
     title "Is Wordle Getting Harder?"
-    description "Wordle, the popular online word-guessing game, was bought by The New York Times in late January. Since then, many have questioned if the addicting game has gotten more difficult. NBC&#8217;s Joe Fryer reports for TODAY to get everyone&#8217;s puzzling questions answered.&#10;&#10;&#187; Subscribe to TODAY: http://on.today.com/SubscribeToTODAY&#10;&#187; Watch the latest from TODAY: http://bit.ly/LatestTODAY&#10;About: TODAY brings you the latest headlines and expert tips on money, health and parenting. We wake up every morning to give you and your family all you need to start your day. If it matters to you, it matters to us. We are in the people business. Subscribe to our channel for exclusive TODAY archival footage &#38; our original web series.  &#10;&#10;Connect with TODAY Online!&#10;Visit TODAY's Website: http://on.today.com/ReadTODAY&#10;Find TODAY on Facebook: http://on.today.com/LikeTODAY&#10;Follow TODAY on Twitter: http://on.today.com/FollowTODAY&#10;Follow TODAY on Instagram: http://on.today.com/InstaTODAY&#10;&#10;#Wordle #NYT #Games"
+    description "Wordle, the popular online word-guessing game, was bought by The New York Times in late January. Since then, many have questioned if the addicting game has gotten more difficult. NBC&amp;#8217;s Joe Fryer reports for TODAY to get everyone&amp;#8217;s puzzling questions answered.&amp;#10;&amp;#10;&amp;#187; Subscribe to TODAY: http://on.today.com/SubscribeToTODAY&amp;#10;&amp;#187; Watch the latest from TODAY: http://bit.ly/LatestTODAY&amp;#10;About: TODAY brings you the latest headlines and expert tips on money, health and parenting. We wake up every morning to give you and your family all you need to start your day. If it matters to you, it matters to us. We are in the people business. Subscribe to our channel for exclusive TODAY archival footage &amp;#38; our original web series.  &amp;#10;&amp;#10;Connect with TODAY Online!&amp;#10;Visit TODAY's Website: http://on.today.com/ReadTODAY&amp;#10;Find TODAY on Facebook: http://on.today.com/LikeTODAY&amp;#10;Follow TODAY on Twitter: http://on.today.com/FollowTODAY&amp;#10;Follow TODAY on Instagram: http://on.today.com/InstaTODAY&amp;#10;&amp;#10;#Wordle #NYT #Games"
     channeltitle "TODAY"
     channelid "UChDKyKQ59fYz3JO2fl0Z6sg"
     favcount 0
@@ -6644,6 +12034,28 @@ graph
     ppinflammatory 0.20373172
     sentiment 0
     cluster 2
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -6652,7 +12064,7 @@ graph
     step 0
     date "2022-07-09T22:28:48Z"
     title "I left my Wordle in the rain and now its RUSTY!"
-    description "(Spoilers 385) For fun, I start with the previous two day's words and use a viewer suggestion for my 3rd!&#10;&#10;Play Wordle here: https://www.nytimes.com/games/wordle/index.html&#10;&#10;======= LIVE STREAMS =======&#10;I stream word games right here on YouTube every night (except Friday) at 7pm PDT! Subscribe and ring the bell and/or join my Discord to get notifications for when I go live!&#10;&#10;======= MEMBERS =======&#10;Join my channel at the Video Enthusiast tier or higher to see the full, uncut videos with my entire thought process!&#10;https://www.youtube.com/rangsk/join&#10;&#10;===== MERCH ===== &#10;You can also support me by buying my super cute merch! All items feature an artistic rendering of my dog Rocky with no other branding! They're super cute!&#10;&#10;Check out my store here: https://rangsks-merch.creator-spring.com/&#10;&#10;======= DISCORD =======&#10;Join my Discord server to hang out and talk about Wordle, Wordle-like games, and other kinds of puzzles like Sudoku.&#10;https://discord.gg/AEhpTG4z45&#10;&#10;#wordle #puzzle #word #game"
+    description "(Spoilers 385) For fun, I start with the previous two day's words and use a viewer suggestion for my 3rd!&amp;#10;&amp;#10;Play Wordle here: https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;======= LIVE STREAMS =======&amp;#10;I stream word games right here on YouTube every night (except Friday) at 7pm PDT! Subscribe and ring the bell and/or join my Discord to get notifications for when I go live!&amp;#10;&amp;#10;======= MEMBERS =======&amp;#10;Join my channel at the Video Enthusiast tier or higher to see the full, uncut videos with my entire thought process!&amp;#10;https://www.youtube.com/rangsk/join&amp;#10;&amp;#10;===== MERCH ===== &amp;#10;You can also support me by buying my super cute merch! All items feature an artistic rendering of my dog Rocky with no other branding! They're super cute!&amp;#10;&amp;#10;Check out my store here: https://rangsks-merch.creator-spring.com/&amp;#10;&amp;#10;======= DISCORD =======&amp;#10;Join my Discord server to hang out and talk about Wordle, Wordle-like games, and other kinds of puzzles like Sudoku.&amp;#10;https://discord.gg/AEhpTG4z45&amp;#10;&amp;#10;#wordle #puzzle #word #game"
     channeltitle "Rangsk"
     channelid "UC1RUqXOT_iaH4b7iXKRWhLw"
     favcount 0
@@ -6670,7 +12082,29 @@ graph
     ppprofanity 0.07332977
     ppinflammatory 0.08714247
     sentiment 0
-    cluster 3
+    cluster 9
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -6679,7 +12113,7 @@ graph
     step 0
     date "2022-05-16T09:14:15Z"
     title "Wordle 331 for May 16th - Tricky!"
-    description "What is today's Wordle for 05/16/2022 number 331 ? Join me and let's find out &#38; guess the answer together. There's a V in there!&#10;A new word daily, how do you like to play &#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. May 16th 2022&#10;&#10;Follow me on Twitter: https://twitter.com/emptyapartment3&#10;Join our Discord: https://discord.gg/9Py98RU&#10;Buy me a coffee: https://ko-fi.com/emptyapartment&#10;&#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&#10;&#10;business contact: emptyapartmentgaming gmail&#10;&#10;&#10;0:00 Intro&#10;0:18 First Guess&#10;1:50 Wordle?&#10;&#10;#wordle"
+    description "What is today's Wordle for 05/16/2022 number 331 ? Join me and let's find out &amp;#38; guess the answer together. There's a V in there!&amp;#10;A new word daily, how do you like to play &amp;#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. May 16th 2022&amp;#10;&amp;#10;Follow me on Twitter: https://twitter.com/emptyapartment3&amp;#10;Join our Discord: https://discord.gg/9Py98RU&amp;#10;Buy me a coffee: https://ko-fi.com/emptyapartment&amp;#10;&amp;#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;business contact: emptyapartmentgaming gmail&amp;#10;&amp;#10;&amp;#10;0:00 Intro&amp;#10;0:18 First Guess&amp;#10;1:50 Wordle?&amp;#10;&amp;#10;#wordle"
     channeltitle "Empty Apartment"
     channelid "UCEb4tjgeTW47bD66Xryzx0Q"
     favcount 0
@@ -6698,6 +12132,28 @@ graph
     ppinflammatory 0.045064222
     sentiment -0.1531
     cluster 2
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -6706,7 +12162,7 @@ graph
     step 0
     date "2022-06-16T07:52:33Z"
     title "Wordle 362 for June 16th"
-    description "What is today's Wordle for 06/16/2022 number 362 ? Join me and let's find out &#38; guess the answer together. Lots of good words today lol.&#10;A new word daily, how do you like to play &#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. June 16th 2022&#10;&#10;Follow me on Twitter: https://twitter.com/emptyapartment3&#10;Join our Discord: https://discord.gg/9Py98RU&#10;Support/Buy me a &#34;coffee&#34;: https://ko-fi.com/emptyapartment&#10;&#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&#10;&#10;business contact: emptyapartmentgaming [at] gmail&#10;&#10;&#10;0:00 Intro&#10;0:19 First Guess&#10;1:45 Wordle?&#10;&#10;#wordle"
+    description "What is today's Wordle for 06/16/2022 number 362 ? Join me and let's find out &amp;#38; guess the answer together. Lots of good words today lol.&amp;#10;A new word daily, how do you like to play &amp;#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. June 16th 2022&amp;#10;&amp;#10;Follow me on Twitter: https://twitter.com/emptyapartment3&amp;#10;Join our Discord: https://discord.gg/9Py98RU&amp;#10;Support/Buy me a &amp;#34;coffee&amp;#34;: https://ko-fi.com/emptyapartment&amp;#10;&amp;#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;business contact: emptyapartmentgaming [at] gmail&amp;#10;&amp;#10;&amp;#10;0:00 Intro&amp;#10;0:19 First Guess&amp;#10;1:45 Wordle?&amp;#10;&amp;#10;#wordle"
     channeltitle "Empty Apartment"
     channelid "UCEb4tjgeTW47bD66Xryzx0Q"
     favcount 0
@@ -6724,7 +12180,29 @@ graph
     ppprofanity 0.05564578
     ppinflammatory 0.15883085
     sentiment 0
-    cluster 2
+    cluster 7
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -6751,7 +12229,29 @@ graph
     ppprofanity 0.0796506
     ppinflammatory 0.036911096
     sentiment 0
-    cluster 7
+    cluster 6
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -6760,7 +12260,7 @@ graph
     step 0
     date "2022-04-08T07:38:02Z"
     title "Wordle 293 for April 8th - What is Todays Wordle? 04/08/2022 - 3 Months of Wordle!"
-    description "What is today's Wordle for 04/08/2022 number 293 ? Join me and let's find out &#38; guess the answer together. Thank you all for watching over the past 3 months.&#10;A new word daily, how do you like to play &#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. April 8th 2022&#10;&#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&#10;&#10;0:00 Intro&#10;0:32 First Guess&#10;1:42 Thank you&#10;2:15 Wordle?&#10;&#10;business contact: emptyapartmentgaming gmail&#10;&#10;#wordle #dailywordleclub"
+    description "What is today's Wordle for 04/08/2022 number 293 ? Join me and let's find out &amp;#38; guess the answer together. Thank you all for watching over the past 3 months.&amp;#10;A new word daily, how do you like to play &amp;#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. April 8th 2022&amp;#10;&amp;#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;0:00 Intro&amp;#10;0:32 First Guess&amp;#10;1:42 Thank you&amp;#10;2:15 Wordle?&amp;#10;&amp;#10;business contact: emptyapartmentgaming gmail&amp;#10;&amp;#10;#wordle #dailywordleclub"
     channeltitle "Empty Apartment"
     channelid "UCEb4tjgeTW47bD66Xryzx0Q"
     favcount 0
@@ -6779,6 +12279,28 @@ graph
     ppinflammatory 0.043790307
     sentiment 0
     cluster 1
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -6787,7 +12309,7 @@ graph
     step 0
     date "2022-04-15T20:06:49Z"
     title "Wordle - Answer Today #301 : 16 April 2022"
-    description "This is today's solution to the viral Wordle Game #301&#10;Wordle Answer for Today&#10;16 April 2022&#10;&#10;Wordle Solver: https://solvewordle.habeeb.in/&#10;&#10;Did you find the mystery word for today?&#10;Do share your score.&#10;&#10;How to play wordle?&#10;You have 6 attempts to find the hidden word!&#10;Here's the link to playing the viral wordle game: https://www.nytimes.com/games/wordle&#10;&#10;Now start typing in any 5 letter word.&#10;After each attempt, press enter to submit.&#10;&#10;The colors on the tiles give you these clues:&#10;Green - the letter guessed is right and at the right place.&#10;Yellow - the letter guessed is right but at the wrong place. &#10;Grey - The letter is not part of the word&#10;&#10;Happy guessing guys for this viral combination of a crossword and sudoku puzzle.&#10;&#10;#wordle #wordleanswer #todayswordle #wordlesolution #wordle2April #dailywordle #wordleoftheday  #wordle298 #wordleclue #wordlegame #wordletipsandtricks #wordlepuzzle #whatiswordle #howtoplaywordle #dailywordleanswer #solvewordlefast #habinafi"
+    description "This is today's solution to the viral Wordle Game #301&amp;#10;Wordle Answer for Today&amp;#10;16 April 2022&amp;#10;&amp;#10;Wordle Solver: https://solvewordle.habeeb.in/&amp;#10;&amp;#10;Did you find the mystery word for today?&amp;#10;Do share your score.&amp;#10;&amp;#10;How to play wordle?&amp;#10;You have 6 attempts to find the hidden word!&amp;#10;Here's the link to playing the viral wordle game: https://www.nytimes.com/games/wordle&amp;#10;&amp;#10;Now start typing in any 5 letter word.&amp;#10;After each attempt, press enter to submit.&amp;#10;&amp;#10;The colors on the tiles give you these clues:&amp;#10;Green - the letter guessed is right and at the right place.&amp;#10;Yellow - the letter guessed is right but at the wrong place. &amp;#10;Grey - The letter is not part of the word&amp;#10;&amp;#10;Happy guessing guys for this viral combination of a crossword and sudoku puzzle.&amp;#10;&amp;#10;#wordle #wordleanswer #todayswordle #wordlesolution #wordle2April #dailywordle #wordleoftheday  #wordle298 #wordleclue #wordlegame #wordletipsandtricks #wordlepuzzle #whatiswordle #howtoplaywordle #dailywordleanswer #solvewordlefast #habinafi"
     channeltitle "Habi Nafi"
     channelid "UC9zBTgGGtn-n13lG-NgOm2g"
     favcount 0
@@ -6805,7 +12327,29 @@ graph
     ppprofanity 0.092801444
     ppinflammatory 0.035517916
     sentiment 0
-    cluster 5
+    cluster 2
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -6814,7 +12358,7 @@ graph
     step 0
     date "2022-03-01T07:14:39Z"
     title "Wordle March 1st, 2022 - Can you guess the word?"
-    description "Hi everyone! Today Sean plays Wordle, a fun word logic puzzle.&#10;Can you get the word in fewer guesses? Give it a shot at the link below:&#10;https://www.nytimes.com/games/wordle/index.html&#10;&#10;And check your answers here with SCOREDLE!&#10;https://scoredle.com/"
+    description "Hi everyone! Today Sean plays Wordle, a fun word logic puzzle.&amp;#10;Can you get the word in fewer guesses? Give it a shot at the link below:&amp;#10;https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;And check your answers here with SCOREDLE!&amp;#10;https://scoredle.com/"
     channeltitle "Sean Plays"
     channelid "UCRlHYIOSfBDAVkz46rnglow"
     favcount 0
@@ -6832,7 +12376,29 @@ graph
     ppprofanity 0.020393956
     ppinflammatory 0.24142814
     sentiment 0
-    cluster 3
+    cluster 8
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -6841,7 +12407,7 @@ graph
     step 0
     date "2022-02-07T09:52:36Z"
     title "Wordle 233 for February 7th - What is Todays Wordle? 02/07/2022"
-    description "What is today's Wordle? Let's find out &#38; guess the answer together. Join me for today's 02/07/2022 Wordle number 233 . Got stuck for a bit but we got there!&#10;Everyone's new favorite game. A new word daily, how do you like to play &#38; what's your strategy? Thought I'd try uploading my guesses and answers, plus cool to archive it. February 7th 2022&#10;&#10;Play for yourself at: https://www.powerlanguage.co.uk/wordle/&#10;&#10;0:00 Intro&#10;0:32 First Guess&#10;1:22 Dont Be Rudes&#10;2:21 Word Smart?&#10;2:46 Wordle!&#10;&#10;business contact: emptyapartmentgaming gmail&#10;&#10;#wordle #dailywordleclub"
+    description "What is today's Wordle? Let's find out &amp;#38; guess the answer together. Join me for today's 02/07/2022 Wordle number 233 . Got stuck for a bit but we got there!&amp;#10;Everyone's new favorite game. A new word daily, how do you like to play &amp;#38; what's your strategy? Thought I'd try uploading my guesses and answers, plus cool to archive it. February 7th 2022&amp;#10;&amp;#10;Play for yourself at: https://www.powerlanguage.co.uk/wordle/&amp;#10;&amp;#10;0:00 Intro&amp;#10;0:32 First Guess&amp;#10;1:22 Dont Be Rudes&amp;#10;2:21 Word Smart?&amp;#10;2:46 Wordle!&amp;#10;&amp;#10;business contact: emptyapartmentgaming gmail&amp;#10;&amp;#10;#wordle #dailywordleclub"
     channeltitle "Empty Apartment"
     channelid "UCEb4tjgeTW47bD66Xryzx0Q"
     favcount 0
@@ -6860,6 +12426,28 @@ graph
     ppinflammatory 0.08188531
     sentiment 0
     cluster 1
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -6868,7 +12456,7 @@ graph
     step 0
     date "2022-04-12T22:00:15Z"
     title "MMGs First Ever WORDLE..!"
-    description "try and get the word before we do!! we will being these wordles probably every stream now so get in there!!!&#10;&#10;BECOME A MEMBER! &#9742;&#65039;&#128242;&#10;https://www.youtube.com/channel/UCaXBVABul5XG6R1mF2YyVUQ/join&#10;&#10;DONATE TO THA STREAM! https://streamlabs.com/matthewmeagher/tip&#10;&#10;SHORT CHANNEL! - https://www.youtube.com/channel/UCPkQ_-_32a1z_UqBTQ49U6A&#10;Main Channel- https://www.youtube.com/c/MMG69&#10;&#10;Social Medias &#10;Meags -&#10;https://www.instagram.com/matthewmeagher/&#10;https://twitter.com/PapaMeagzz&#10;https://www.twitch.tv/mmg69&#10;&#10;Chase - &#10;https://www.instagram.com/chasemcphee/&#10;https://www.twitch.tv/chasemcphee"
+    description "try and get the word before we do!! we will being these wordles probably every stream now so get in there!!!&amp;#10;&amp;#10;BECOME A MEMBER! &amp;#9742;&amp;#65039;&amp;#128242;&amp;#10;https://www.youtube.com/channel/UCaXBVABul5XG6R1mF2YyVUQ/join&amp;#10;&amp;#10;DONATE TO THA STREAM! https://streamlabs.com/matthewmeagher/tip&amp;#10;&amp;#10;SHORT CHANNEL! - https://www.youtube.com/channel/UCPkQ_-_32a1z_UqBTQ49U6A&amp;#10;Main Channel- https://www.youtube.com/c/MMG69&amp;#10;&amp;#10;Social Medias &amp;#10;Meags -&amp;#10;https://www.instagram.com/matthewmeagher/&amp;#10;https://twitter.com/PapaMeagzz&amp;#10;https://www.twitch.tv/mmg69&amp;#10;&amp;#10;Chase - &amp;#10;https://www.instagram.com/chasemcphee/&amp;#10;https://www.twitch.tv/chasemcphee"
     channeltitle "MMG Live"
     channelid "UCaXBVABul5XG6R1mF2YyVUQ"
     favcount 0
@@ -6886,7 +12474,29 @@ graph
     ppprofanity 0.040755585
     ppinflammatory 0.108629495
     sentiment 0
-    cluster 4
+    cluster 3
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -6895,7 +12505,7 @@ graph
     step 0
     date "2022-07-08T23:30:11Z"
     title "A Wordle TRIAL"
-    description "#wordletoday #shorts&#10;Solving today's #Wordle #384 for Friday, July 8th.&#10;&#10;You can find my other 'Wordle-like' solves here - https://youtube.com/playlist?list=PL_HjFt2zdfHV33cIRgG7tm-AvnfUP9cMG&#10;&#10;Check out all my merch at https://stro.link/merch&#10;Become a member of the Stro-Solves YouTube channel - https://stro.link/join&#10;Come discuss these puzzles with us on discord - https://stro.link/discord"
+    description "#wordletoday #shorts&amp;#10;Solving today's #Wordle #384 for Friday, July 8th.&amp;#10;&amp;#10;You can find my other 'Wordle-like' solves here - https://youtube.com/playlist?list=PL_HjFt2zdfHV33cIRgG7tm-AvnfUP9cMG&amp;#10;&amp;#10;Check out all my merch at https://stro.link/merch&amp;#10;Become a member of the Stro-Solves YouTube channel - https://stro.link/join&amp;#10;Come discuss these puzzles with us on discord - https://stro.link/discord"
     channeltitle "Scott Stro-solves"
     channelid "UC8HHDytpZ-cs9bavTbgYfmA"
     favcount 0
@@ -6913,7 +12523,29 @@ graph
     ppprofanity 0.10617774
     ppinflammatory 0.18869723
     sentiment 0
-    cluster 8
+    cluster 5
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -6922,7 +12554,7 @@ graph
     step 0
     date "2022-01-30T07:06:54Z"
     title "Wordle 225 for January 30th - What is Todays Wordle? 01/30/2022"
-    description "What is today's Wordle? Let's find out &#38; guess the answer together. Join me for today's 01/30/2022 Wordle number 225 . I do not know why the word took forever for me to see ha.&#10;Everyone's new favorite game. A new word daily, how do you like to play &#38; what's your strategy? Thought I'd try uploading my guesses and answers, plus cool to archive it. January 30th 2022&#10;&#10;Play for yourself at: https://www.powerlanguage.co.uk/wordle/&#10;&#10;0:00 Intro&#10;0:30 First Guess&#10;2:35 Wordle?&#10;&#10;business contact: emptyapartmentgaming gmail&#10;&#10;#wordle #dailywordleclub"
+    description "What is today's Wordle? Let's find out &amp;#38; guess the answer together. Join me for today's 01/30/2022 Wordle number 225 . I do not know why the word took forever for me to see ha.&amp;#10;Everyone's new favorite game. A new word daily, how do you like to play &amp;#38; what's your strategy? Thought I'd try uploading my guesses and answers, plus cool to archive it. January 30th 2022&amp;#10;&amp;#10;Play for yourself at: https://www.powerlanguage.co.uk/wordle/&amp;#10;&amp;#10;0:00 Intro&amp;#10;0:30 First Guess&amp;#10;2:35 Wordle?&amp;#10;&amp;#10;business contact: emptyapartmentgaming gmail&amp;#10;&amp;#10;#wordle #dailywordleclub"
     channeltitle "Empty Apartment"
     channelid "UCEb4tjgeTW47bD66Xryzx0Q"
     favcount 0
@@ -6941,6 +12573,28 @@ graph
     ppinflammatory 0.07547864
     sentiment 0
     cluster 1
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -6949,7 +12603,7 @@ graph
     step 0
     date "2022-04-28T07:23:03Z"
     title "Wordle 313 for April 28th - Hard s Wordle? 04/28/2022"
-    description "What is today's Wordle for 04/27/2022 number 313 ? Join me and let's find out &#38; guess the answer together. Not very often that you'll a Z word!&#10;A new word daily, how do you like to play &#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. April 28th 2022&#10;&#10;Follow me on Twitter: https://twitter.com/emptyapartment3&#10;Join our Discord: https://discord.gg/9Py98RU&#10;Buy me a coffee: https://streamelements.com/emptyapartment/tip&#10;&#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&#10;&#10;business contact: emptyapartmentgaming gmail&#10;&#10;&#10;0:00 Intro&#10;0:18 First Guess&#10;1:05 Chasing T&#10;1:53 Wordle!&#10;&#10;#wordle #dailywordleclub"
+    description "What is today's Wordle for 04/27/2022 number 313 ? Join me and let's find out &amp;#38; guess the answer together. Not very often that you'll a Z word!&amp;#10;A new word daily, how do you like to play &amp;#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. April 28th 2022&amp;#10;&amp;#10;Follow me on Twitter: https://twitter.com/emptyapartment3&amp;#10;Join our Discord: https://discord.gg/9Py98RU&amp;#10;Buy me a coffee: https://streamelements.com/emptyapartment/tip&amp;#10;&amp;#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;business contact: emptyapartmentgaming gmail&amp;#10;&amp;#10;&amp;#10;0:00 Intro&amp;#10;0:18 First Guess&amp;#10;1:05 Chasing T&amp;#10;1:53 Wordle!&amp;#10;&amp;#10;#wordle #dailywordleclub"
     channeltitle "Empty Apartment"
     channelid "UCEb4tjgeTW47bD66Xryzx0Q"
     favcount 0
@@ -6967,7 +12621,29 @@ graph
     ppprofanity 0.17456748
     ppinflammatory 0.009423327
     sentiment -0.1027
-    cluster 3
+    cluster 2
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -6976,7 +12652,7 @@ graph
     step 0
     date "2022-06-09T04:00:20Z"
     title "Doug plays todays Wordle #355 for 06/09/2022"
-    description "It's June 9, 2022 and Doug is playing today's daily Wordle! &#10;&#10;&#10;Please, if you enjoyed this video, like and subscribe to my channel!&#10;&#10;I can also be found on Twitch!&#10;https://www.twitch.tv/dougmansland&#10;&#10;I'm also on Twitter!&#10;https://twitter.com/dougmansland&#10;&#10;If you enjoy Discord, I have one of those too!&#10;https://discord.gg/MVXvhvg2Zm&#10;&#10;For some reason, I also make Tik Tok videos!&#10;https://www.tiktok.com/@dougmansland?lang=en"
+    description "It's June 9, 2022 and Doug is playing today's daily Wordle! &amp;#10;&amp;#10;&amp;#10;Please, if you enjoyed this video, like and subscribe to my channel!&amp;#10;&amp;#10;I can also be found on Twitch!&amp;#10;https://www.twitch.tv/dougmansland&amp;#10;&amp;#10;I'm also on Twitter!&amp;#10;https://twitter.com/dougmansland&amp;#10;&amp;#10;If you enjoy Discord, I have one of those too!&amp;#10;https://discord.gg/MVXvhvg2Zm&amp;#10;&amp;#10;For some reason, I also make Tik Tok videos!&amp;#10;https://www.tiktok.com/@dougmansland?lang=en"
     channeltitle "DougMansLand"
     channelid "UCkiAm7y8MQCbFwpB-52QRtg"
     favcount 0
@@ -6994,7 +12670,29 @@ graph
     ppprofanity 0.046305973
     ppinflammatory 0.049881727
     sentiment 0.25
-    cluster 2
+    cluster 3
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -7003,7 +12701,7 @@ graph
     step 0
     date "2022-04-10T04:00:23Z"
     title "Doug plays todays Wordle #295 for 04/10/2022"
-    description "It's April 10, 2022 and Doug is playing today's daily Wordle! &#10;&#10;&#10;Please, if you enjoyed this video, like and subscribe to my channel!&#10;&#10;I can also be found on Twitch!&#10;https://www.twitch.tv/dougmansland&#10;&#10;I'm also on Twitter!&#10;https://twitter.com/dougmansland&#10;&#10;If you enjoy Discord, I have one of those too!&#10;https://discord.gg/MVXvhvg2Zm&#10;&#10;For some reason, I also make Tik Tok videos!&#10;https://www.tiktok.com/@dougmansland?lang=en"
+    description "It's April 10, 2022 and Doug is playing today's daily Wordle! &amp;#10;&amp;#10;&amp;#10;Please, if you enjoyed this video, like and subscribe to my channel!&amp;#10;&amp;#10;I can also be found on Twitch!&amp;#10;https://www.twitch.tv/dougmansland&amp;#10;&amp;#10;I'm also on Twitter!&amp;#10;https://twitter.com/dougmansland&amp;#10;&amp;#10;If you enjoy Discord, I have one of those too!&amp;#10;https://discord.gg/MVXvhvg2Zm&amp;#10;&amp;#10;For some reason, I also make Tik Tok videos!&amp;#10;https://www.tiktok.com/@dougmansland?lang=en"
     channeltitle "DougMansLand"
     channelid "UCkiAm7y8MQCbFwpB-52QRtg"
     favcount 0
@@ -7021,7 +12719,29 @@ graph
     ppprofanity 0.049435154
     ppinflammatory 0.049881727
     sentiment 0.25
-    cluster 8
+    cluster 5
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -7030,7 +12750,7 @@ graph
     step 0
     date "2022-03-21T08:19:08Z"
     title "Wordle 275 for March 21st - What is Todays Wordle? 03/21/2022"
-    description "What is today's Wordle for 03/21/2022 Wordle number 275 ? Join me and let's find out &#38; guess the answer together. A common word today!&#10;A new word daily, how do you like to play &#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. March 21st 2022&#10;&#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&#10;&#10;0:25 Intro&#10;0:28 First Guess&#10;1:30 Remix&#10;2:40 Wordle&#10;&#10;&#10;business contact: emptyapartmentgaming gmail&#10;&#10;#wordle #dailywordleclub"
+    description "What is today's Wordle for 03/21/2022 Wordle number 275 ? Join me and let's find out &amp;#38; guess the answer together. A common word today!&amp;#10;A new word daily, how do you like to play &amp;#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. March 21st 2022&amp;#10;&amp;#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;0:25 Intro&amp;#10;0:28 First Guess&amp;#10;1:30 Remix&amp;#10;2:40 Wordle&amp;#10;&amp;#10;&amp;#10;business contact: emptyapartmentgaming gmail&amp;#10;&amp;#10;#wordle #dailywordleclub"
     channeltitle "Empty Apartment"
     channelid "UCEb4tjgeTW47bD66Xryzx0Q"
     favcount 0
@@ -7048,7 +12768,29 @@ graph
     ppprofanity 0.09662622
     ppinflammatory 0.12258939
     sentiment 0
-    cluster 3
+    cluster 2
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -7057,7 +12799,7 @@ graph
     step 0
     date "2022-07-12T13:14:18Z"
     title "Wordle July 12th, 2022 - Can you guess the word?"
-    description "Check back daily for new Wordle and other Word Puzzles!&#10;&#10;Hi everyone! Today Sean plays Wordle, a fun word logic puzzle.&#10;Can you get the word in fewer guesses? Give it a shot at the link below:&#10;https://www.nytimes.com/games/wordle/index.html&#10;&#10;And check your answers here with WordleBot!&#10;https://www.nytimes.com/interactive/2022/upshot/wordle-bot.html"
+    description "Check back daily for new Wordle and other Word Puzzles!&amp;#10;&amp;#10;Hi everyone! Today Sean plays Wordle, a fun word logic puzzle.&amp;#10;Can you get the word in fewer guesses? Give it a shot at the link below:&amp;#10;https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;And check your answers here with WordleBot!&amp;#10;https://www.nytimes.com/interactive/2022/upshot/wordle-bot.html"
     channeltitle "Sean Plays"
     channelid "UCRlHYIOSfBDAVkz46rnglow"
     favcount 0
@@ -7075,7 +12817,29 @@ graph
     ppprofanity 0.017096702
     ppinflammatory 0.15058532
     sentiment 0
-    cluster 3
+    cluster 8
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -7084,7 +12848,7 @@ graph
     step 0
     date "2022-01-22T14:00:05Z"
     title "Wordle: Best Starting Word"
-    description "Wordle is sweeping the Internet.  Wordle: Best Starting Word will give you a leg up when selecting the best starting word for wordle. If you want to know how to play the wordle word game, you need to be able to select the best starting word. #wordle #wordlestrategy #wordlefirstword &#10;&#10;The game is so popular, the New York Times purchased it. A common misspelling of wordle is wortle or wortel. Let's face it; wordle sounds like wortle or wortel.  &#10;&#10;Wordle game instructions start with a blank screen, so it helps to have strategically pick that first word rather than randomly selecting any five-letter word. Wordle and accounts payable often go together. The wordle starting word is critical when it comes to success in playing the game. &#10;&#10;Wordle rules limit you to six chances to guess the five-letter word. It may seem impossible, but many are doing it in even fewer guesses. What is wordle? The newest and probably most popular of all internet word games, wordle game is attracting all sorts of professionals. This game has been featured several times on Saturday Night Live (SNL), on many TV shows including various morning shows and the Tonight Show with Jimmy Fallon and in many articles including publications such as the New York Times, Washington Post, USA Today.&#10;&#10;Wordle tips begin with selecting the right first word. This presentation includes where to find wordle. How to play wordle begins with selecting the wordle starting word. It should be part of everyone&#8217;s wordle strategy. Wordle is occasionally misspelled as wordel. The wordle game online is free, that&#8217;s right wordle is free. So, to everyone who asks is wordle free, the answer is yes. Likewise, the answer to how much does wordle cost, is nothing! There is a new wordle game every day, but only one. &#10;&#10;Wordle wordle is a word puzzle, an online relatively easy word puzzle, if you follow some basic strategies, you will win wordle. How to win wordle is simply a matter of combining a little knowledge with some operational savvy.&#10;&#10;Get information about the just-published Wordle: The Rules, Strategy and Expert Tips&#10;Kindle Link: https://www.ap-now.com/snip/111.htm&#10;Print Link: https://www.ap-now.com/snip/112.htm &#10;&#10;The Wordle Information Page: https://www.ap-now.com/public/Wordle-Information-Page.cfm&#10;&#10;Link to How to Play Wordle: https://youtu.be/U3Qi4UBaKKw  &#10;Link to Episode 130 on Digital Currencies: https://youtu.be/I45FEn0vnI8&#10;Learn more about AP Now at www.ap-now.com"
+    description "Wordle is sweeping the Internet.  Wordle: Best Starting Word will give you a leg up when selecting the best starting word for wordle. If you want to know how to play the wordle word game, you need to be able to select the best starting word. #wordle #wordlestrategy #wordlefirstword &amp;#10;&amp;#10;The game is so popular, the New York Times purchased it. A common misspelling of wordle is wortle or wortel. Let's face it; wordle sounds like wortle or wortel.  &amp;#10;&amp;#10;Wordle game instructions start with a blank screen, so it helps to have strategically pick that first word rather than randomly selecting any five-letter word. Wordle and accounts payable often go together. The wordle starting word is critical when it comes to success in playing the game. &amp;#10;&amp;#10;Wordle rules limit you to six chances to guess the five-letter word. It may seem impossible, but many are doing it in even fewer guesses. What is wordle? The newest and probably most popular of all internet word games, wordle game is attracting all sorts of professionals. This game has been featured several times on Saturday Night Live (SNL), on many TV shows including various morning shows and the Tonight Show with Jimmy Fallon and in many articles including publications such as the New York Times, Washington Post, USA Today.&amp;#10;&amp;#10;Wordle tips begin with selecting the right first word. This presentation includes where to find wordle. How to play wordle begins with selecting the wordle starting word. It should be part of everyone&amp;#8217;s wordle strategy. Wordle is occasionally misspelled as wordel. The wordle game online is free, that&amp;#8217;s right wordle is free. So, to everyone who asks is wordle free, the answer is yes. Likewise, the answer to how much does wordle cost, is nothing! There is a new wordle game every day, but only one. &amp;#10;&amp;#10;Wordle wordle is a word puzzle, an online relatively easy word puzzle, if you follow some basic strategies, you will win wordle. How to win wordle is simply a matter of combining a little knowledge with some operational savvy.&amp;#10;&amp;#10;Get information about the just-published Wordle: The Rules, Strategy and Expert Tips&amp;#10;Kindle Link: https://www.ap-now.com/snip/111.htm&amp;#10;Print Link: https://www.ap-now.com/snip/112.htm &amp;#10;&amp;#10;The Wordle Information Page: https://www.ap-now.com/public/Wordle-Information-Page.cfm&amp;#10;&amp;#10;Link to How to Play Wordle: https://youtu.be/U3Qi4UBaKKw  &amp;#10;Link to Episode 130 on Digital Currencies: https://youtu.be/I45FEn0vnI8&amp;#10;Learn more about AP Now at www.ap-now.com"
     channeltitle "AP Now"
     channelid "UC1_51mIdja4KL9cSOdfmFbA"
     favcount 0
@@ -7102,7 +12866,29 @@ graph
     ppprofanity 0.06212511
     ppinflammatory 0.0803295
     sentiment 0.6369
-    cluster 3
+    cluster 2
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -7111,7 +12897,7 @@ graph
     step 0
     date "2022-07-04T10:15:22Z"
     title "Wordle 380 for July 4th"
-    description "What is today's Wordle for 07/04/2022 number 380 ? Join me and let's find out &#38; guess the answer together. Happy 4th&#10;A new word daily, how do you like to play &#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. July 4th 2022&#10;&#10;Follow me on Twitter: https://twitter.com/emptyapartment3&#10;Join our Discord: https://discord.gg/9Py98RU&#10;Support/Buy me a &#34;coffee&#34;: https://ko-fi.com/emptyapartment&#10;&#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&#10;&#10;business contact: emptyapartmentgaming [at] gmail&#10;&#10;&#10;0:00 Intro&#10;0:20 First Guess&#10;0:55 Cake Success&#10;2:30 Wordle?&#10;&#10;#wordle"
+    description "What is today's Wordle for 07/04/2022 number 380 ? Join me and let's find out &amp;#38; guess the answer together. Happy 4th&amp;#10;A new word daily, how do you like to play &amp;#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. July 4th 2022&amp;#10;&amp;#10;Follow me on Twitter: https://twitter.com/emptyapartment3&amp;#10;Join our Discord: https://discord.gg/9Py98RU&amp;#10;Support/Buy me a &amp;#34;coffee&amp;#34;: https://ko-fi.com/emptyapartment&amp;#10;&amp;#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;business contact: emptyapartmentgaming [at] gmail&amp;#10;&amp;#10;&amp;#10;0:00 Intro&amp;#10;0:20 First Guess&amp;#10;0:55 Cake Success&amp;#10;2:30 Wordle?&amp;#10;&amp;#10;#wordle"
     channeltitle "Empty Apartment"
     channelid "UCEb4tjgeTW47bD66Xryzx0Q"
     favcount 0
@@ -7129,7 +12915,29 @@ graph
     ppprofanity 0.059707493
     ppinflammatory 0.050170913
     sentiment 0
-    cluster 1
+    cluster 9
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -7138,7 +12946,7 @@ graph
     step 0
     date "2022-07-09T09:00:32Z"
     title "Wordle in a Minute - 8th July 2022"
-    description "Can Mark improve on his recent &#34;Wordle in a Minute&#34; performance? Find out here"
+    description "Can Mark improve on his recent &amp;#34;Wordle in a Minute&amp;#34; performance? Find out here"
     channeltitle "Cracking The Cryptic"
     channelid "UCC-UOdK8-mIjxBQm_ot1T-Q"
     favcount 0
@@ -7156,7 +12964,29 @@ graph
     ppprofanity 0.07645221
     ppinflammatory 0.033393536
     sentiment 0
-    cluster 7
+    cluster 6
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 1
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 1
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "L"
   ]
   node
   [
@@ -7165,7 +12995,7 @@ graph
     step 0
     date "2022-02-06T09:55:39Z"
     title "Wordle 232 for February 6th - What is Todays Wordle? 02/06/2022"
-    description "What is today's Wordle? Let's find out &#38; guess the answer together. Join me for today's 02/06/2022 Wordle number 232 . This was sort of a tricky one but got the double letter ha.&#10;Everyone's new favorite game. A new word daily, how do you like to play &#38; what's your strategy? Thought I'd try uploading my guesses and answers, plus cool to archive it. February 6th 2022&#10;&#10;Play for yourself at: https://www.powerlanguage.co.uk/wordle/&#10;&#10;0:00 Intro&#10;0:31 First Guess&#10;2:03 3k!&#10;2:21 Banana Split&#10;3:30 Wordle?&#10;&#10;business contact: emptyapartmentgaming gmail&#10;&#10;#wordle #dailywordleclub"
+    description "What is today's Wordle? Let's find out &amp;#38; guess the answer together. Join me for today's 02/06/2022 Wordle number 232 . This was sort of a tricky one but got the double letter ha.&amp;#10;Everyone's new favorite game. A new word daily, how do you like to play &amp;#38; what's your strategy? Thought I'd try uploading my guesses and answers, plus cool to archive it. February 6th 2022&amp;#10;&amp;#10;Play for yourself at: https://www.powerlanguage.co.uk/wordle/&amp;#10;&amp;#10;0:00 Intro&amp;#10;0:31 First Guess&amp;#10;2:03 3k!&amp;#10;2:21 Banana Split&amp;#10;3:30 Wordle?&amp;#10;&amp;#10;business contact: emptyapartmentgaming gmail&amp;#10;&amp;#10;#wordle #dailywordleclub"
     channeltitle "Empty Apartment"
     channelid "UCEb4tjgeTW47bD66Xryzx0Q"
     favcount 0
@@ -7184,6 +13014,28 @@ graph
     ppinflammatory 0.07196606
     sentiment 0
     cluster 1
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -7192,7 +13044,7 @@ graph
     step 0
     date "2022-06-25T10:02:08Z"
     title "Wordle 371 for June 25th"
-    description "What is today's Wordle for 06/25/2022 number 371 ? Join me and let's find out &#38; guess the answer together. Possibly a tricky one today!&#10;A new word daily, how do you like to play &#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. June 25th 2022&#10;&#10;Follow me on Twitter: https://twitter.com/emptyapartment3&#10;Join our Discord: https://discord.gg/9Py98RU&#10;Support/Buy me a &#34;coffee&#34;: https://ko-fi.com/emptyapartment&#10;&#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&#10;&#10;business contact: emptyapartmentgaming [at] gmail&#10;&#10;&#10;0:00 Intro&#10;0:20 First Guess&#10;1:45 Wordle?&#10;&#10;#wordle"
+    description "What is today's Wordle for 06/25/2022 number 371 ? Join me and let's find out &amp;#38; guess the answer together. Possibly a tricky one today!&amp;#10;A new word daily, how do you like to play &amp;#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. June 25th 2022&amp;#10;&amp;#10;Follow me on Twitter: https://twitter.com/emptyapartment3&amp;#10;Join our Discord: https://discord.gg/9Py98RU&amp;#10;Support/Buy me a &amp;#34;coffee&amp;#34;: https://ko-fi.com/emptyapartment&amp;#10;&amp;#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;business contact: emptyapartmentgaming [at] gmail&amp;#10;&amp;#10;&amp;#10;0:00 Intro&amp;#10;0:20 First Guess&amp;#10;1:45 Wordle?&amp;#10;&amp;#10;#wordle"
     channeltitle "Empty Apartment"
     channelid "UCEb4tjgeTW47bD66Xryzx0Q"
     favcount 0
@@ -7211,6 +13063,28 @@ graph
     ppinflammatory 0.15883088
     sentiment 0
     cluster 1
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -7219,7 +13093,7 @@ graph
     step 0
     date "2022-03-23T09:36:43Z"
     title "Wordle 277 for March 23rd - What is Todays Wordle? 03/23/2022"
-    description "What is today's Wordle for 03/23/2022 Wordle number 277 ? Join me and let's find out &#38; guess the answer together. Almost got me!&#10;A new word daily, how do you like to play &#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. March 23rd 2022&#10;&#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&#10;&#10;0:00 Intro&#10;0:33 First Guess&#10;1:38 No Greens&#10;2:55 Wordle&#10;&#10;&#10;business contact: emptyapartmentgaming gmail&#10;&#10;#wordle #dailywordleclub"
+    description "What is today's Wordle for 03/23/2022 Wordle number 277 ? Join me and let's find out &amp;#38; guess the answer together. Almost got me!&amp;#10;A new word daily, how do you like to play &amp;#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. March 23rd 2022&amp;#10;&amp;#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;0:00 Intro&amp;#10;0:33 First Guess&amp;#10;1:38 No Greens&amp;#10;2:55 Wordle&amp;#10;&amp;#10;&amp;#10;business contact: emptyapartmentgaming gmail&amp;#10;&amp;#10;#wordle #dailywordleclub"
     channeltitle "Empty Apartment"
     channelid "UCEb4tjgeTW47bD66Xryzx0Q"
     favcount 0
@@ -7238,6 +13112,28 @@ graph
     ppinflammatory 0.095837004
     sentiment 0
     cluster 1
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -7246,7 +13142,7 @@ graph
     step 0
     date "2022-03-10T08:33:02Z"
     title "The Worlds Worst Wordle Player"
-    description "https://www.trybooking.com/events/landing/856052&#10;- shi selling out so get on it"
+    description "https://www.trybooking.com/events/landing/856052&amp;#10;- shi selling out so get on it"
     channeltitle "Fairbairn Films"
     channelid "UCFrj6EBhnHlWqmvuwH1Ue4g"
     favcount 0
@@ -7265,6 +13161,28 @@ graph
     ppinflammatory 0.116562314
     sentiment -0.6249
     cluster 4
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -7273,7 +13191,7 @@ graph
     step 0
     date "2022-06-27T04:00:19Z"
     title "Doug plays todays Wordle #373 for 06/27/2022"
-    description "It's June 27, 2022 and Doug is playing today's daily Wordle! &#10;&#10;&#10;Please, if you enjoyed this video, like and subscribe to my channel!&#10;&#10;I can also be found on Twitch!&#10;https://www.twitch.tv/dougmansland&#10;&#10;I'm also on Twitter!&#10;https://twitter.com/dougmansland&#10;&#10;If you enjoy Discord, I have one of those too!&#10;https://discord.gg/MVXvhvg2Zm&#10;&#10;For some reason, I also make Tik Tok videos!&#10;https://www.tiktok.com/@dougmansland?lang=en"
+    description "It's June 27, 2022 and Doug is playing today's daily Wordle! &amp;#10;&amp;#10;&amp;#10;Please, if you enjoyed this video, like and subscribe to my channel!&amp;#10;&amp;#10;I can also be found on Twitch!&amp;#10;https://www.twitch.tv/dougmansland&amp;#10;&amp;#10;I'm also on Twitter!&amp;#10;https://twitter.com/dougmansland&amp;#10;&amp;#10;If you enjoy Discord, I have one of those too!&amp;#10;https://discord.gg/MVXvhvg2Zm&amp;#10;&amp;#10;For some reason, I also make Tik Tok videos!&amp;#10;https://www.tiktok.com/@dougmansland?lang=en"
     channeltitle "DougMansLand"
     channelid "UCkiAm7y8MQCbFwpB-52QRtg"
     favcount 0
@@ -7291,7 +13209,29 @@ graph
     ppprofanity 0.086366974
     ppinflammatory 0.049881727
     sentiment 0.25
-    cluster 3
+    cluster 2
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -7300,7 +13240,7 @@ graph
     step 0
     date "2022-04-12T04:00:18Z"
     title "Doug plays todays Wordle #297 for 04/12/2022"
-    description "It's April 12, 2022 and Doug is playing today's daily Wordle! &#10;&#10;&#10;Please, if you enjoyed this video, like and subscribe to my channel!&#10;&#10;I can also be found on Twitch!&#10;https://www.twitch.tv/dougmansland&#10;&#10;I'm also on Twitter!&#10;https://twitter.com/dougmansland&#10;&#10;If you enjoy Discord, I have one of those too!&#10;https://discord.gg/MVXvhvg2Zm&#10;&#10;For some reason, I also make Tik Tok videos!&#10;https://www.tiktok.com/@dougmansland?lang=en"
+    description "It's April 12, 2022 and Doug is playing today's daily Wordle! &amp;#10;&amp;#10;&amp;#10;Please, if you enjoyed this video, like and subscribe to my channel!&amp;#10;&amp;#10;I can also be found on Twitch!&amp;#10;https://www.twitch.tv/dougmansland&amp;#10;&amp;#10;I'm also on Twitter!&amp;#10;https://twitter.com/dougmansland&amp;#10;&amp;#10;If you enjoy Discord, I have one of those too!&amp;#10;https://discord.gg/MVXvhvg2Zm&amp;#10;&amp;#10;For some reason, I also make Tik Tok videos!&amp;#10;https://www.tiktok.com/@dougmansland?lang=en"
     channeltitle "DougMansLand"
     channelid "UCkiAm7y8MQCbFwpB-52QRtg"
     favcount 0
@@ -7318,7 +13258,29 @@ graph
     ppprofanity 0.056021564
     ppinflammatory 0.049881727
     sentiment 0.25
-    cluster 8
+    cluster 5
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -7327,7 +13289,7 @@ graph
     step 0
     date "2022-01-23T06:20:25Z"
     title "Wordle Jan 23rd, 2022 - Can you guess the word?"
-    description "Hi everyone! Today Sean plays Wordle, a fun word logic puzzle.&#10;Can you get the word in fewer guesses? Give it a shot at the link below:&#10;https://www.powerlanguage.co.uk/wordle/"
+    description "Hi everyone! Today Sean plays Wordle, a fun word logic puzzle.&amp;#10;Can you get the word in fewer guesses? Give it a shot at the link below:&amp;#10;https://www.powerlanguage.co.uk/wordle/"
     channeltitle "Sean Plays"
     channelid "UCRlHYIOSfBDAVkz46rnglow"
     favcount 0
@@ -7345,7 +13307,29 @@ graph
     ppprofanity 0.027993789
     ppinflammatory 0.12916496
     sentiment 0
-    cluster 3
+    cluster 2
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -7354,7 +13338,7 @@ graph
     step 0
     date "2022-05-16T22:30:01Z"
     title "Did ewe get this one? It shorn took me a while! #Wordle"
-    description "(Spoilers 331) For fun, I start with the previous two day's words and use a viewer suggestion for my 3rd!&#10;&#10;Play Wordle here: https://www.nytimes.com/games/wordle/index.html&#10;&#10;======= LIVE STREAMS =======&#10;I stream word games right here on YouTube every night (except Friday) at 7pm PDT! Subscribe and ring the bell and/or join my Discord to get notifications for when I go live!&#10;&#10;======= MEMBERS =======&#10;Join my channel at the Video Enthusiast tier or higher to see the full, uncut videos with my entire thought process!&#10;https://www.youtube.com/rangsk/join&#10;&#10;===== MERCH ===== &#10;You can also support me by buying my super cute merch! All items feature an artistic rendering of my dog Rocky with no other branding! They're super cute!&#10;&#10;Check out my store here: https://rangsks-merch.creator-spring.com/&#10;&#10;======= DISCORD =======&#10;Join my Discord server to hang out and talk about Wordle, Wordle-like games, and other kinds of puzzles like Sudoku.&#10;https://discord.gg/AEhpTG4z45&#10;&#10;#wordle #puzzle #word #game"
+    description "(Spoilers 331) For fun, I start with the previous two day's words and use a viewer suggestion for my 3rd!&amp;#10;&amp;#10;Play Wordle here: https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;======= LIVE STREAMS =======&amp;#10;I stream word games right here on YouTube every night (except Friday) at 7pm PDT! Subscribe and ring the bell and/or join my Discord to get notifications for when I go live!&amp;#10;&amp;#10;======= MEMBERS =======&amp;#10;Join my channel at the Video Enthusiast tier or higher to see the full, uncut videos with my entire thought process!&amp;#10;https://www.youtube.com/rangsk/join&amp;#10;&amp;#10;===== MERCH ===== &amp;#10;You can also support me by buying my super cute merch! All items feature an artistic rendering of my dog Rocky with no other branding! They're super cute!&amp;#10;&amp;#10;Check out my store here: https://rangsks-merch.creator-spring.com/&amp;#10;&amp;#10;======= DISCORD =======&amp;#10;Join my Discord server to hang out and talk about Wordle, Wordle-like games, and other kinds of puzzles like Sudoku.&amp;#10;https://discord.gg/AEhpTG4z45&amp;#10;&amp;#10;#wordle #puzzle #word #game"
     channeltitle "Rangsk"
     channelid "UC1RUqXOT_iaH4b7iXKRWhLw"
     favcount 0
@@ -7372,7 +13356,29 @@ graph
     ppprofanity 0.08281123
     ppinflammatory 0.34884596
     sentiment 0
-    cluster 6
+    cluster 3
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -7381,8 +13387,8 @@ graph
     step 0
     date "2022-02-08T02:00:25Z"
     title "Toast Shares his 5HEAD Wordle Strat | A Beginners Guide"
-    description "Toast Teaches Chat on How to Play Wordle&#10;&#10;Check out and Subscribe to:&#10;Disguised Toast&#10;Main: https://www.youtube.com/c/DisguisedToast/channels&#10;Disguised Toast 2: https://www.youtube.com/channel/UCfl_9KvN0Mjre_JmSDmbBlA"
-    channeltitle "Daily OTV &#38; Friends "
+    description "Toast Teaches Chat on How to Play Wordle&amp;#10;&amp;#10;Check out and Subscribe to:&amp;#10;Disguised Toast&amp;#10;Main: https://www.youtube.com/c/DisguisedToast/channels&amp;#10;Disguised Toast 2: https://www.youtube.com/channel/UCfl_9KvN0Mjre_JmSDmbBlA"
+    channeltitle "Daily OTV &amp;#38; Friends "
     channelid "UCgm0WXsqCfvmN6jEH536hjw"
     favcount 0
     viewcount 6677
@@ -7399,7 +13405,29 @@ graph
     ppprofanity 0.08342375
     ppinflammatory 0.055313043
     sentiment 0.296
-    cluster 4
+    cluster 2
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -7408,7 +13436,7 @@ graph
     step 0
     date "2022-02-11T09:04:46Z"
     title "Wordle 237 for February 11th - What is Todays Wordle? 02/11/2022"
-    description "What is today's Wordle? Let's find out &#38; guess the answer together. Join me for today's 02/11/2022 Wordle number 237 .  Tough starting U word!&#10;Everyone's new favorite game. A new word daily, how do you like to play &#38; what's your strategy? Thought I'd try uploading my guesses and answers, plus cool to archive it. February 11th 2022&#10;&#10;Play for yourself at: https://www.powerlanguage.co.uk/wordle/&#10;&#10;0:00 Intro&#10;0:30 First Guess&#10;1:40 Honeydew?&#10;2:30 Wordle!&#10;&#10;business contact: emptyapartmentgaming gmail&#10;&#10;#wordle #dailywordleclub"
+    description "What is today's Wordle? Let's find out &amp;#38; guess the answer together. Join me for today's 02/11/2022 Wordle number 237 .  Tough starting U word!&amp;#10;Everyone's new favorite game. A new word daily, how do you like to play &amp;#38; what's your strategy? Thought I'd try uploading my guesses and answers, plus cool to archive it. February 11th 2022&amp;#10;&amp;#10;Play for yourself at: https://www.powerlanguage.co.uk/wordle/&amp;#10;&amp;#10;0:00 Intro&amp;#10;0:30 First Guess&amp;#10;1:40 Honeydew?&amp;#10;2:30 Wordle!&amp;#10;&amp;#10;business contact: emptyapartmentgaming gmail&amp;#10;&amp;#10;#wordle #dailywordleclub"
     channeltitle "Empty Apartment"
     channelid "UCEb4tjgeTW47bD66Xryzx0Q"
     favcount 0
@@ -7427,6 +13455,28 @@ graph
     ppinflammatory 0.07566681
     sentiment 0
     cluster 1
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 1
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 1
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "L"
   ]
   node
   [
@@ -7435,7 +13485,7 @@ graph
     step 0
     date "2022-06-14T04:00:12Z"
     title "Doug plays todays Wordle #360 for 06/14/2022"
-    description "It's June 14, 2022 and Doug is playing today's daily Wordle! &#10;&#10;&#10;Please, if you enjoyed this video, like and subscribe to my channel!&#10;&#10;I can also be found on Twitch!&#10;https://www.twitch.tv/dougmansland&#10;&#10;I'm also on Twitter!&#10;https://twitter.com/dougmansland&#10;&#10;If you enjoy Discord, I have one of those too!&#10;https://discord.gg/MVXvhvg2Zm&#10;&#10;For some reason, I also make Tik Tok videos!&#10;https://www.tiktok.com/@dougmansland?lang=en"
+    description "It's June 14, 2022 and Doug is playing today's daily Wordle! &amp;#10;&amp;#10;&amp;#10;Please, if you enjoyed this video, like and subscribe to my channel!&amp;#10;&amp;#10;I can also be found on Twitch!&amp;#10;https://www.twitch.tv/dougmansland&amp;#10;&amp;#10;I'm also on Twitter!&amp;#10;https://twitter.com/dougmansland&amp;#10;&amp;#10;If you enjoy Discord, I have one of those too!&amp;#10;https://discord.gg/MVXvhvg2Zm&amp;#10;&amp;#10;For some reason, I also make Tik Tok videos!&amp;#10;https://www.tiktok.com/@dougmansland?lang=en"
     channeltitle "DougMansLand"
     channelid "UCkiAm7y8MQCbFwpB-52QRtg"
     favcount 0
@@ -7453,7 +13503,29 @@ graph
     ppprofanity 0.089114
     ppinflammatory 0.049881727
     sentiment 0.25
-    cluster 2
+    cluster 3
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 1
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "L"
   ]
   node
   [
@@ -7462,7 +13534,7 @@ graph
     step 0
     date "2022-07-05T08:21:55Z"
     title "Wordle 381 for July 5th"
-    description "What is today's Wordle for 07/05/2022 number 381 ? Join me and let's find out &#38; guess the answer together. I could go for a cookie.&#10;A new word daily, how do you like to play &#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. July 5th 2022&#10;&#10;Follow me on Twitter: https://twitter.com/emptyapartment3&#10;Join our Discord: https://discord.gg/9Py98RU&#10;Support/Buy me a &#34;coffee&#34;: https://ko-fi.com/emptyapartment&#10;&#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&#10;&#10;business contact: emptyapartmentgaming [at] gmail&#10;&#10;&#10;0:00 Intro&#10;0:20 First Guess&#10;1:30 Wordle?&#10;&#10;#wordle"
+    description "What is today's Wordle for 07/05/2022 number 381 ? Join me and let's find out &amp;#38; guess the answer together. I could go for a cookie.&amp;#10;A new word daily, how do you like to play &amp;#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. July 5th 2022&amp;#10;&amp;#10;Follow me on Twitter: https://twitter.com/emptyapartment3&amp;#10;Join our Discord: https://discord.gg/9Py98RU&amp;#10;Support/Buy me a &amp;#34;coffee&amp;#34;: https://ko-fi.com/emptyapartment&amp;#10;&amp;#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;business contact: emptyapartmentgaming [at] gmail&amp;#10;&amp;#10;&amp;#10;0:00 Intro&amp;#10;0:20 First Guess&amp;#10;1:30 Wordle?&amp;#10;&amp;#10;#wordle"
     channeltitle "Empty Apartment"
     channelid "UCEb4tjgeTW47bD66Xryzx0Q"
     favcount 0
@@ -7481,6 +13553,28 @@ graph
     ppinflammatory 0.061218224
     sentiment 0
     cluster 1
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 1
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "L"
   ]
   node
   [
@@ -7489,7 +13583,7 @@ graph
     step 0
     date "2022-04-16T04:00:08Z"
     title "Doug plays todays Wordle #301 for 04/16/2022"
-    description "It's April 16, 2022 and Doug is playing today's daily Wordle! &#10;&#10;&#10;Please, if you enjoyed this video, like and subscribe to my channel!&#10;&#10;I can also be found on Twitch!&#10;https://www.twitch.tv/dougmansland&#10;&#10;I'm also on Twitter!&#10;https://twitter.com/dougmansland&#10;&#10;If you enjoy Discord, I have one of those too!&#10;https://discord.gg/MVXvhvg2Zm&#10;&#10;For some reason, I also make Tik Tok videos!&#10;https://www.tiktok.com/@dougmansland?lang=en"
+    description "It's April 16, 2022 and Doug is playing today's daily Wordle! &amp;#10;&amp;#10;&amp;#10;Please, if you enjoyed this video, like and subscribe to my channel!&amp;#10;&amp;#10;I can also be found on Twitch!&amp;#10;https://www.twitch.tv/dougmansland&amp;#10;&amp;#10;I'm also on Twitter!&amp;#10;https://twitter.com/dougmansland&amp;#10;&amp;#10;If you enjoy Discord, I have one of those too!&amp;#10;https://discord.gg/MVXvhvg2Zm&amp;#10;&amp;#10;For some reason, I also make Tik Tok videos!&amp;#10;https://www.tiktok.com/@dougmansland?lang=en"
     channeltitle "DougMansLand"
     channelid "UCkiAm7y8MQCbFwpB-52QRtg"
     favcount 0
@@ -7507,7 +13601,29 @@ graph
     ppprofanity 0.11056229
     ppinflammatory 0.049881727
     sentiment 0.25
-    cluster 8
+    cluster 5
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -7516,7 +13632,7 @@ graph
     step 0
     date "2022-03-08T08:57:23Z"
     title "Wordle 262 for March 8th - What is Todays Wordle? 03/08/2022 - 2 Months of Daily Wordle!"
-    description "What is today's Wordle? Let's find out &#38; guess the answer together. Join me for today's 03/08/2022 Wordle number 262 . Today marks 2 months of doing these daily wordle videos! Thanks everyone.&#10;A new word daily, how do you like to play &#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. March 8th 2022&#10;&#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&#10;&#10;0:00 Intro&#10;0:28 First Guess&#10;1:30 Thank you!&#10;2:15 Wordle&#10;&#10;business contact: emptyapartmentgaming gmail&#10;&#10;#wordle #dailywordleclub"
+    description "What is today's Wordle? Let's find out &amp;#38; guess the answer together. Join me for today's 03/08/2022 Wordle number 262 . Today marks 2 months of doing these daily wordle videos! Thanks everyone.&amp;#10;A new word daily, how do you like to play &amp;#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. March 8th 2022&amp;#10;&amp;#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;0:00 Intro&amp;#10;0:28 First Guess&amp;#10;1:30 Thank you!&amp;#10;2:15 Wordle&amp;#10;&amp;#10;business contact: emptyapartmentgaming gmail&amp;#10;&amp;#10;#wordle #dailywordleclub"
     channeltitle "Empty Apartment"
     channelid "UCEb4tjgeTW47bD66Xryzx0Q"
     favcount 0
@@ -7535,6 +13651,28 @@ graph
     ppinflammatory 0.089052096
     sentiment 0
     cluster 1
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -7543,7 +13681,7 @@ graph
     step 0
     date "2022-06-30T04:00:19Z"
     title "Doug plays todays Wordle #376 for 06/30/2022"
-    description "It's June 30, 2022 and Doug is playing today's daily Wordle! &#10;&#10;&#10;Please, if you enjoyed this video, like and subscribe to my channel!&#10;&#10;I can also be found on Twitch!&#10;https://www.twitch.tv/dougmansland&#10;&#10;I'm also on Twitter!&#10;https://twitter.com/dougmansland&#10;&#10;If you enjoy Discord, I have one of those too!&#10;https://discord.gg/MVXvhvg2Zm&#10;&#10;For some reason, I also make Tik Tok videos!&#10;https://www.tiktok.com/@dougmansland?lang=en"
+    description "It's June 30, 2022 and Doug is playing today's daily Wordle! &amp;#10;&amp;#10;&amp;#10;Please, if you enjoyed this video, like and subscribe to my channel!&amp;#10;&amp;#10;I can also be found on Twitch!&amp;#10;https://www.twitch.tv/dougmansland&amp;#10;&amp;#10;I'm also on Twitter!&amp;#10;https://twitter.com/dougmansland&amp;#10;&amp;#10;If you enjoy Discord, I have one of those too!&amp;#10;https://discord.gg/MVXvhvg2Zm&amp;#10;&amp;#10;For some reason, I also make Tik Tok videos!&amp;#10;https://www.tiktok.com/@dougmansland?lang=en"
     channeltitle "DougMansLand"
     channelid "UCkiAm7y8MQCbFwpB-52QRtg"
     favcount 0
@@ -7561,7 +13699,29 @@ graph
     ppprofanity 0.068967395
     ppinflammatory 0.049881727
     sentiment 0.25
-    cluster 6
+    cluster 9
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -7570,7 +13730,7 @@ graph
     step 0
     date "2022-05-19T07:39:23Z"
     title "Wordle 334 for May 19th - Sorta Tricky Mr. Wordle"
-    description "What is today's Wordle for 05/19/2022 number 334 ? Join me and let's find out &#38; guess the answer together. Sorta tricky one today with the double letter S&#10;A new word daily, how do you like to play &#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. May 19th 2022&#10;&#10;Follow me on Twitter: https://twitter.com/emptyapartment3&#10;Join our Discord: https://discord.gg/9Py98RU&#10;Buy me a coffee: https://ko-fi.com/emptyapartment&#10;&#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&#10;&#10;business contact: emptyapartmentgaming gmail&#10;&#10;&#10;0:00 Intro&#10;0:22 First Guess&#10;1:19 I Can't Swim&#10;2:20 Wordle? &#10;&#10;#wordle"
+    description "What is today's Wordle for 05/19/2022 number 334 ? Join me and let's find out &amp;#38; guess the answer together. Sorta tricky one today with the double letter S&amp;#10;A new word daily, how do you like to play &amp;#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. May 19th 2022&amp;#10;&amp;#10;Follow me on Twitter: https://twitter.com/emptyapartment3&amp;#10;Join our Discord: https://discord.gg/9Py98RU&amp;#10;Buy me a coffee: https://ko-fi.com/emptyapartment&amp;#10;&amp;#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;business contact: emptyapartmentgaming gmail&amp;#10;&amp;#10;&amp;#10;0:00 Intro&amp;#10;0:22 First Guess&amp;#10;1:19 I Can't Swim&amp;#10;2:20 Wordle? &amp;#10;&amp;#10;#wordle"
     channeltitle "Empty Apartment"
     channelid "UCEb4tjgeTW47bD66Xryzx0Q"
     favcount 0
@@ -7588,7 +13748,29 @@ graph
     ppprofanity 0.023790482
     ppinflammatory 0.07384566
     sentiment -0.079
-    cluster 6
+    cluster 7
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -7597,7 +13779,7 @@ graph
     step 0
     date "2022-02-06T17:54:27Z"
     title "Live coding a WORDLE clone (5 hrs) | HTML Sass JS"
-    description "&#128165; Hit that subscribe button (for SCIENCE!) and we'll see how many people actually sub from this video &#128514;&#10;&#10;Source code on GitHub: https://github.com/thecodercoder/wordle-clone&#10;Live demo here: https://thecodercoder.github.io/wordle-clone/&#10;Boilerplate files (if you don't want to use the generator): https://github.com/thecodercoder/frontend-boilerplate&#10;&#10;&#128293; My course: Responsive Design for Beginners! https://coder-coder.com/responsive/&#10;&#10;&#128187; Become a full-stack web dev with Zero to Mastery: https://academy.zerotomastery.io/a/aff_338z7xnj/external?affcode=441520_ti97uk6b&#10;&#10;&#10;In this video I'll show you how I research and build a Wordle clone from scratch with HTML, Sass, and JavaScript.&#10;&#10;0:00 - Intro&#10;0:49 - Tea break&#10;0:53 - Set up boilerplate project files&#10;2:07 - Research and taking notes&#10;32:57 - HTML and Sass&#10;52:37 - JS: detect keypress&#10;1:20:28 - Save typed guess&#10;1:38:14 - Update tiles with letters and backspace&#10;2:07:07 - Choose random solution word&#10;2:23:05 - Submit guess and evaluate&#10;2:43:27 - Flip tile animation&#10;3:38:27 - Increment guesses&#10;4:25:26 - Win tile animation&#10;&#10;&#10;____________________________&#10;&#10;&#10;SUPPORT THE CHANNEL&#10;&#11088; Join channel members and get perks: https://www.youtube.com/channel/UCzNf0liwUzMN6_pixbQlMhQ/join&#10;&#128079;&#127997; Hit the THANKS button in any video!&#10;&#127912; Get my VS Code theme: https://marketplace.visualstudio.com/items?itemName=CoderCoder.codercoder-dark-theme&#10;&#10;&#10;WANT TO LEARN WEB DEV?&#10;Check out my courses:&#10;&#127775; Responsive Design for Beginners: https://coder-coder.com/responsive/&#10;&#127775; Gulp for Beginners: https://coder-coder.com/gulp-course/&#10;&#10;&#10;RECOMMENDATIONS&#10;&#9000; My keyboard, Vissles V84 -- https://vissles.com/?ref=mu96kxst5w -- &#128293; get 10% off with code THECODERCODER -- &#10;&#128187;  Other gear -- https://www.amazon.com/shop/thecodercoder?listId=1LMCKGUTMVYXD&#10;&#128218; My Favorite Books -- https://coder-coder.com/best-web-development-books/&#10;&#128250; My Favorite Courses -- https://coder-coder.com/best-web-development-courses/&#10;&#10;&#10;&#128317; FOLLOW CODER CODER&#10;Blog -- https://coder-coder.com/ &#10;Twitter -- https://twitter.com/thecodercoder&#10;Instagram --  https://www.instagram.com/thecodercoder&#10;&#10;&#10;#webdevelopment #coding #programming"
+    description "&amp;#128165; Hit that subscribe button (for SCIENCE!) and we'll see how many people actually sub from this video &amp;#128514;&amp;#10;&amp;#10;Source code on GitHub: https://github.com/thecodercoder/wordle-clone&amp;#10;Live demo here: https://thecodercoder.github.io/wordle-clone/&amp;#10;Boilerplate files (if you don't want to use the generator): https://github.com/thecodercoder/frontend-boilerplate&amp;#10;&amp;#10;&amp;#128293; My course: Responsive Design for Beginners! https://coder-coder.com/responsive/&amp;#10;&amp;#10;&amp;#128187; Become a full-stack web dev with Zero to Mastery: https://academy.zerotomastery.io/a/aff_338z7xnj/external?affcode=441520_ti97uk6b&amp;#10;&amp;#10;&amp;#10;In this video I'll show you how I research and build a Wordle clone from scratch with HTML, Sass, and JavaScript.&amp;#10;&amp;#10;0:00 - Intro&amp;#10;0:49 - Tea break&amp;#10;0:53 - Set up boilerplate project files&amp;#10;2:07 - Research and taking notes&amp;#10;32:57 - HTML and Sass&amp;#10;52:37 - JS: detect keypress&amp;#10;1:20:28 - Save typed guess&amp;#10;1:38:14 - Update tiles with letters and backspace&amp;#10;2:07:07 - Choose random solution word&amp;#10;2:23:05 - Submit guess and evaluate&amp;#10;2:43:27 - Flip tile animation&amp;#10;3:38:27 - Increment guesses&amp;#10;4:25:26 - Win tile animation&amp;#10;&amp;#10;&amp;#10;____________________________&amp;#10;&amp;#10;&amp;#10;SUPPORT THE CHANNEL&amp;#10;&amp;#11088; Join channel members and get perks: https://www.youtube.com/channel/UCzNf0liwUzMN6_pixbQlMhQ/join&amp;#10;&amp;#128079;&amp;#127997; Hit the THANKS button in any video!&amp;#10;&amp;#127912; Get my VS Code theme: https://marketplace.visualstudio.com/items?itemName=CoderCoder.codercoder-dark-theme&amp;#10;&amp;#10;&amp;#10;WANT TO LEARN WEB DEV?&amp;#10;Check out my courses:&amp;#10;&amp;#127775; Responsive Design for Beginners: https://coder-coder.com/responsive/&amp;#10;&amp;#127775; Gulp for Beginners: https://coder-coder.com/gulp-course/&amp;#10;&amp;#10;&amp;#10;RECOMMENDATIONS&amp;#10;&amp;#9000; My keyboard, Vissles V84 -- https://vissles.com/?ref=mu96kxst5w -- &amp;#128293; get 10% off with code THECODERCODER -- &amp;#10;&amp;#128187;  Other gear -- https://www.amazon.com/shop/thecodercoder?listId=1LMCKGUTMVYXD&amp;#10;&amp;#128218; My Favorite Books -- https://coder-coder.com/best-web-development-books/&amp;#10;&amp;#128250; My Favorite Courses -- https://coder-coder.com/best-web-development-courses/&amp;#10;&amp;#10;&amp;#10;&amp;#128317; FOLLOW CODER CODER&amp;#10;Blog -- https://coder-coder.com/ &amp;#10;Twitter -- https://twitter.com/thecodercoder&amp;#10;Instagram --  https://www.instagram.com/thecodercoder&amp;#10;&amp;#10;&amp;#10;#webdevelopment #coding #programming"
     channeltitle "Coder Coder"
     channelid "UCzNf0liwUzMN6_pixbQlMhQ"
     favcount 0
@@ -7615,7 +13797,29 @@ graph
     ppprofanity 0.068445
     ppinflammatory 0.041641492
     sentiment 0
-    cluster 4
+    cluster 3
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -7624,7 +13828,7 @@ graph
     step 0
     date "2022-05-15T18:00:08Z"
     title "Wordle 330 - 15 May 2022 #Shorts"
-    description "Wordle is now hosted by the New York Times! Join me for the solve every day, and play it yourself here: &#10;https://www.nytimes.com/games/wordle/&#10;&#10;#Wordle&#10;#Shorts"
+    description "Wordle is now hosted by the New York Times! Join me for the solve every day, and play it yourself here: &amp;#10;https://www.nytimes.com/games/wordle/&amp;#10;&amp;#10;#Wordle&amp;#10;#Shorts"
     channeltitle "Chris Remo"
     channelid "UCAWnFCJGAP7YPti-gQSe1ng"
     favcount 0
@@ -7643,6 +13847,28 @@ graph
     ppinflammatory 0.18928744
     sentiment 0
     cluster 2
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -7651,7 +13877,7 @@ graph
     step 0
     date "2022-02-14T09:58:24Z"
     title "Wordle 240 for February 14th - What is Todays Wordle? 02/14/2022"
-    description "What is today's Wordle? Let's find out &#38; guess the answer together. Join me for today's 02/14/2022 Wordle number 240 .  Happy Valentine's Day! Man they really gave us a tough one for vday huh?&#10;Everyone's new favorite game. A new word daily, how do you like to play &#38; what's your strategy? Thought I'd try uploading my guesses and answers, plus cool to archive it. February 14th 2022&#10;&#10;Play for yourself at: https://www.powerlanguage.co.uk/wordle/&#10;&#10;0:00 Happy Valentine's Day&#10;0:44 First Guess&#10;1:40 Cupid?&#10;3:05 Wordle!&#10;&#10;business contact: emptyapartmentgaming gmail&#10;&#10;*Thank you to thatcheekychick on Reddit for the poem&#10;&#10;#wordle #dailywordleclub"
+    description "What is today's Wordle? Let's find out &amp;#38; guess the answer together. Join me for today's 02/14/2022 Wordle number 240 .  Happy Valentine's Day! Man they really gave us a tough one for vday huh?&amp;#10;Everyone's new favorite game. A new word daily, how do you like to play &amp;#38; what's your strategy? Thought I'd try uploading my guesses and answers, plus cool to archive it. February 14th 2022&amp;#10;&amp;#10;Play for yourself at: https://www.powerlanguage.co.uk/wordle/&amp;#10;&amp;#10;0:00 Happy Valentine's Day&amp;#10;0:44 First Guess&amp;#10;1:40 Cupid?&amp;#10;3:05 Wordle!&amp;#10;&amp;#10;business contact: emptyapartmentgaming gmail&amp;#10;&amp;#10;*Thank you to thatcheekychick on Reddit for the poem&amp;#10;&amp;#10;#wordle #dailywordleclub"
     channeltitle "Empty Apartment"
     channelid "UCEb4tjgeTW47bD66Xryzx0Q"
     favcount 0
@@ -7669,7 +13895,29 @@ graph
     ppprofanity 0.09391855
     ppinflammatory 0.07566681
     sentiment 0
-    cluster 1
+    cluster 4
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -7678,7 +13926,7 @@ graph
     step 0
     date "2022-07-14T20:05:24Z"
     title "Wordle July 14 - Whats The Answer Today? Wordle 390"
-    description "What's the Wordle of the Day? Wordle Today 7/14/22 #wordle #dailywordle wordle 390 #wordle390&#10;https://www.twitch.tv/feelgoodkenny"
+    description "What's the Wordle of the Day? Wordle Today 7/14/22 #wordle #dailywordle wordle 390 #wordle390&amp;#10;https://www.twitch.tv/feelgoodkenny"
     channeltitle "FeelGoodKenny Gaming"
     channelid "UCN8UM9PE28fN77TDQvNRwHA"
     favcount 0
@@ -7696,7 +13944,29 @@ graph
     ppprofanity 0.09599131
     ppinflammatory 0.014345056
     sentiment 0
-    cluster 4
+    cluster 9
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -7705,7 +13975,7 @@ graph
     step 0
     date "2022-03-03T22:59:20Z"
     title "Wordle Speedrun: 4-11 letters in 4:38.40"
-    description "Neat category, turns out when you make the words longer they get pretty hard to solve!&#10;&#10;Really sloppy/early run but it's currently second on the leaderboard so it gets uploaded. Still a huge gap for first.&#10;&#10;Wordle Speedrun Discord: https://discord.gg/qnrCZu3Tux&#10;Leaderboard: https://docs.google.com/spreadsheets/u/0/d/1fhU2xFFS3XyKpX_HvlUTC8NQ8rSL9G0FEt6r8Xim_cQ/"
+    description "Neat category, turns out when you make the words longer they get pretty hard to solve!&amp;#10;&amp;#10;Really sloppy/early run but it's currently second on the leaderboard so it gets uploaded. Still a huge gap for first.&amp;#10;&amp;#10;Wordle Speedrun Discord: https://discord.gg/qnrCZu3Tux&amp;#10;Leaderboard: https://docs.google.com/spreadsheets/u/0/d/1fhU2xFFS3XyKpX_HvlUTC8NQ8rSL9G0FEt6r8Xim_cQ/"
     channeltitle "Pokecheese"
     channelid "UCpMAvG3W-clxPhKFHG4VR3w"
     favcount 0
@@ -7723,7 +13993,29 @@ graph
     ppprofanity 0.04662914
     ppinflammatory 0.00941903
     sentiment 0
-    cluster 5
+    cluster 2
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -7750,7 +14042,29 @@ graph
     ppprofanity 0.032096524
     ppinflammatory 0.1401435
     sentiment 0
-    cluster 6
+    cluster 3
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -7759,7 +14073,7 @@ graph
     step 0
     date "2022-04-20T15:00:18Z"
     title "Wordle 305 - 20 Apr 2022 #Shorts"
-    description "Wordle is now hosted by the New York Times! Join me for the solve every day, and play it yourself here: &#10;https://www.nytimes.com/games/wordle/&#10;&#10;#Wordle&#10;#Shorts"
+    description "Wordle is now hosted by the New York Times! Join me for the solve every day, and play it yourself here: &amp;#10;https://www.nytimes.com/games/wordle/&amp;#10;&amp;#10;#Wordle&amp;#10;#Shorts"
     channeltitle "Chris Remo"
     channelid "UCAWnFCJGAP7YPti-gQSe1ng"
     favcount 0
@@ -7777,7 +14091,29 @@ graph
     ppprofanity 0.04398515
     ppinflammatory 0.10804425
     sentiment 0
-    cluster 5
+    cluster 2
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -7786,8 +14122,8 @@ graph
     step 0
     date "2022-02-09T21:30:00Z"
     title "Pokimane Attempts to Play Wordle"
-    description "Credits:&#10;Pokimane | https://twitch.tv/pokimane&#10;&#10;OfflineTV Roster:&#10;Scarra | https://twitter.com/scarra&#10;Pokimane | https://twitter.com/pokimanelol&#10;LilyPichu | https://twitter.com/LilyPichu&#10;Disguised Toast l https://twitter.com/DisguisedToast&#10;Michael Reeves l https://twitter.com/michaelreeves&#10;QuarterJade | https://twitter.com/QuarterJade&#10;Masayoshi | https://twitter.com/ItzMasayoshi&#10;Sydeon | https://twitter.com/Sydeon&#10;&#10;Social links:&#10;https://www.reddit.com/r/offlineTV&#10;https://www.instagram.com/OfflineTV&#10;https://www.twitter.com/OfflineTV&#10;https://www.facebook.com/OfflineTVgg&#10;&#10;Discord Server:&#10;https://discord.gg/EsrzURe&#10;&#10;#pokimane #shorts"
-    channeltitle "OfflineTV &#38; Friends Clips"
+    description "Credits:&amp;#10;Pokimane | https://twitch.tv/pokimane&amp;#10;&amp;#10;OfflineTV Roster:&amp;#10;Scarra | https://twitter.com/scarra&amp;#10;Pokimane | https://twitter.com/pokimanelol&amp;#10;LilyPichu | https://twitter.com/LilyPichu&amp;#10;Disguised Toast l https://twitter.com/DisguisedToast&amp;#10;Michael Reeves l https://twitter.com/michaelreeves&amp;#10;QuarterJade | https://twitter.com/QuarterJade&amp;#10;Masayoshi | https://twitter.com/ItzMasayoshi&amp;#10;Sydeon | https://twitter.com/Sydeon&amp;#10;&amp;#10;Social links:&amp;#10;https://www.reddit.com/r/offlineTV&amp;#10;https://www.instagram.com/OfflineTV&amp;#10;https://www.twitter.com/OfflineTV&amp;#10;https://www.facebook.com/OfflineTVgg&amp;#10;&amp;#10;Discord Server:&amp;#10;https://discord.gg/EsrzURe&amp;#10;&amp;#10;#pokimane #shorts"
+    channeltitle "OfflineTV &amp;#38; Friends Clips"
     channelid "UChMjrHbYZTqD1M8kS9G5U9g"
     favcount 0
     viewcount 13023132
@@ -7805,6 +14141,28 @@ graph
     ppinflammatory 0.16288522
     sentiment 0.34
     cluster 4
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -7813,7 +14171,7 @@ graph
     step 0
     date "2022-02-17T09:01:35Z"
     title "Wordle 243 for February 17th - What is Todays Wordle? 02/17/2022"
-    description "What is today's Wordle? Let's find out &#38; guess the answer together. Join me for today's 02/17/2022 Wordle number 243 .  Maybe should have gotten this delicious word on the 3rd guess.&#10;Everyone's new favorite game. A new word daily, how do you like to play &#38; what's your strategy? Thought I'd try uploading my guesses and answers, plus cool to archive it. February 17th 2022&#10;&#10;Play for yourself at: https://www.powerlanguage.co.uk/wordle/&#10;&#10;0:00 Intro&#10;0:28 First Guess&#10;1:20 An S Word&#10;2:15 Wordle!&#10;&#10;business contact: emptyapartmentgaming gmail&#10;&#10;#wordle #dailywordleclub"
+    description "What is today's Wordle? Let's find out &amp;#38; guess the answer together. Join me for today's 02/17/2022 Wordle number 243 .  Maybe should have gotten this delicious word on the 3rd guess.&amp;#10;Everyone's new favorite game. A new word daily, how do you like to play &amp;#38; what's your strategy? Thought I'd try uploading my guesses and answers, plus cool to archive it. February 17th 2022&amp;#10;&amp;#10;Play for yourself at: https://www.powerlanguage.co.uk/wordle/&amp;#10;&amp;#10;0:00 Intro&amp;#10;0:28 First Guess&amp;#10;1:20 An S Word&amp;#10;2:15 Wordle!&amp;#10;&amp;#10;business contact: emptyapartmentgaming gmail&amp;#10;&amp;#10;#wordle #dailywordleclub"
     channeltitle "Empty Apartment"
     channelid "UCEb4tjgeTW47bD66Xryzx0Q"
     favcount 0
@@ -7832,6 +14190,28 @@ graph
     ppinflammatory 0.07566681
     sentiment 0
     cluster 1
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -7840,7 +14220,7 @@ graph
     step 0
     date "2022-02-08T09:25:30Z"
     title "Wordle 234 for February 8th - What is Todays Wordle? 02/08/2022 - One Month of Wordle!"
-    description "What is today's Wordle? Let's find out &#38; guess the answer together. Join me for today's 02/08/2022 Wordle number 234 . With this it's one month of daily wordle videos without a miss. Thanks all!&#10;Everyone's new favorite game. A new word daily, how do you like to play &#38; what's your strategy? Thought I'd try uploading my guesses and answers, plus cool to archive it. February 8th 2022&#10;&#10;Play for yourself at: https://www.powerlanguage.co.uk/wordle/&#10;&#10;0:00 Intro&#10;0:27 First Guess&#10;1:22 Flame?&#10;1:45 One Month!&#10;2:20 Wordle!&#10;&#10;business contact: emptyapartmentgaming gmail&#10;&#10;#wordle #dailywordleclub"
+    description "What is today's Wordle? Let's find out &amp;#38; guess the answer together. Join me for today's 02/08/2022 Wordle number 234 . With this it's one month of daily wordle videos without a miss. Thanks all!&amp;#10;Everyone's new favorite game. A new word daily, how do you like to play &amp;#38; what's your strategy? Thought I'd try uploading my guesses and answers, plus cool to archive it. February 8th 2022&amp;#10;&amp;#10;Play for yourself at: https://www.powerlanguage.co.uk/wordle/&amp;#10;&amp;#10;0:00 Intro&amp;#10;0:27 First Guess&amp;#10;1:22 Flame?&amp;#10;1:45 One Month!&amp;#10;2:20 Wordle!&amp;#10;&amp;#10;business contact: emptyapartmentgaming gmail&amp;#10;&amp;#10;#wordle #dailywordleclub"
     channeltitle "Empty Apartment"
     channelid "UCEb4tjgeTW47bD66Xryzx0Q"
     favcount 0
@@ -7859,6 +14239,28 @@ graph
     ppinflammatory 0.069994226
     sentiment 0
     cluster 1
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -7867,7 +14269,7 @@ graph
     step 0
     date "2022-04-07T13:25:49Z"
     title "Wordle April 7th, 2022 - Can you guess the word?"
-    description "Hi everyone! Today Sean plays Wordle, a fun word logic puzzle.&#10;Can you get the word in fewer guesses? Give it a shot at the link below:&#10;https://www.nytimes.com/games/wordle/index.html&#10;&#10;And check your answers here with SCOREDLE!&#10;https://scoredle.com/"
+    description "Hi everyone! Today Sean plays Wordle, a fun word logic puzzle.&amp;#10;Can you get the word in fewer guesses? Give it a shot at the link below:&amp;#10;https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;And check your answers here with SCOREDLE!&amp;#10;https://scoredle.com/"
     channeltitle "Sean Plays"
     channelid "UCRlHYIOSfBDAVkz46rnglow"
     favcount 0
@@ -7885,7 +14287,29 @@ graph
     ppprofanity 0.019954605
     ppinflammatory 0.14641109
     sentiment 0
-    cluster 3
+    cluster 8
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -7894,7 +14318,7 @@ graph
     step 0
     date "2022-02-22T09:18:16Z"
     title "Wordle 248 for February 22nd - What is Todays Wordle? 02/22/2022"
-    description "What is today's Wordle? Let's find out &#38; guess the answer together. Join me for today's 02/22/2022 Wordle number 248 . Wordle was a little nicer to us today!&#10;Everyone's new favorite game. A new word daily, how do you like to play &#38; what's your strategy? Thought I'd try uploading my guesses, hints, and answers, plus cool to archive it. February 22nd 2022&#10;&#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&#10;&#10;0:00 Intro&#10;0:33 First Guess&#10;1:05 Thick Burger&#10;1:55 Wordle!&#10;&#10;business contact: emptyapartmentgaming gmail&#10;&#10;#wordle #dailywordleclub"
+    description "What is today's Wordle? Let's find out &amp;#38; guess the answer together. Join me for today's 02/22/2022 Wordle number 248 . Wordle was a little nicer to us today!&amp;#10;Everyone's new favorite game. A new word daily, how do you like to play &amp;#38; what's your strategy? Thought I'd try uploading my guesses, hints, and answers, plus cool to archive it. February 22nd 2022&amp;#10;&amp;#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;0:00 Intro&amp;#10;0:33 First Guess&amp;#10;1:05 Thick Burger&amp;#10;1:55 Wordle!&amp;#10;&amp;#10;business contact: emptyapartmentgaming gmail&amp;#10;&amp;#10;#wordle #dailywordleclub"
     channeltitle "Empty Apartment"
     channelid "UCEb4tjgeTW47bD66Xryzx0Q"
     favcount 0
@@ -7913,6 +14337,28 @@ graph
     ppinflammatory 0.067350924
     sentiment 0
     cluster 1
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -7921,7 +14367,7 @@ graph
     step 0
     date "2022-07-13T04:00:00Z"
     title "Doug plays todays Wordle #389 for 07/13/2022"
-    description "It's July 13, 2022 and Doug is playing today's daily Wordle! #wordle&#10;&#10;&#10;Please, if you enjoyed this video, like and subscribe to my channel!&#10;&#10;I can also be found on Twitch!&#10;https://www.twitch.tv/dougmansland&#10;&#10;I'm also on Twitter!&#10;https://twitter.com/dougmansland&#10;&#10;If you enjoy Discord, I have one of those too!&#10;https://discord.gg/MVXvhvg2Zm"
+    description "It's July 13, 2022 and Doug is playing today's daily Wordle! #wordle&amp;#10;&amp;#10;&amp;#10;Please, if you enjoyed this video, like and subscribe to my channel!&amp;#10;&amp;#10;I can also be found on Twitch!&amp;#10;https://www.twitch.tv/dougmansland&amp;#10;&amp;#10;I'm also on Twitter!&amp;#10;https://twitter.com/dougmansland&amp;#10;&amp;#10;If you enjoy Discord, I have one of those too!&amp;#10;https://discord.gg/MVXvhvg2Zm"
     channeltitle "DougMansLand"
     channelid "UCkiAm7y8MQCbFwpB-52QRtg"
     favcount 0
@@ -7939,7 +14385,29 @@ graph
     ppprofanity 0.07242365
     ppinflammatory 0.049881727
     sentiment 0.25
-    cluster 8
+    cluster 5
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -7948,7 +14416,7 @@ graph
     step 0
     date "2022-07-07T13:06:49Z"
     title "Wordle July 7th, 2022 - Can you guess the word?"
-    description "Check back daily for new Wordle and other Word Puzzles!&#10;&#10;Hi everyone! Today Sean plays Wordle, a fun word logic puzzle.&#10;Can you get the word in fewer guesses? Give it a shot at the link below:&#10;https://www.nytimes.com/games/wordle/index.html&#10;&#10;And check your answers here with WordleBot!&#10;https://www.nytimes.com/interactive/2022/upshot/wordle-bot.html"
+    description "Check back daily for new Wordle and other Word Puzzles!&amp;#10;&amp;#10;Hi everyone! Today Sean plays Wordle, a fun word logic puzzle.&amp;#10;Can you get the word in fewer guesses? Give it a shot at the link below:&amp;#10;https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;And check your answers here with WordleBot!&amp;#10;https://www.nytimes.com/interactive/2022/upshot/wordle-bot.html"
     channeltitle "Sean Plays"
     channelid "UCRlHYIOSfBDAVkz46rnglow"
     favcount 0
@@ -7966,7 +14434,29 @@ graph
     ppprofanity 0.018754836
     ppinflammatory 0.11680791
     sentiment 0
-    cluster 3
+    cluster 8
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -7975,7 +14465,7 @@ graph
     step 0
     date "2022-06-15T04:00:03Z"
     title "Doug plays todays Wordle #361 for 06/15/2022"
-    description "It's June 15, 2022 and Doug is playing today's daily Wordle! &#10;&#10;&#10;Please, if you enjoyed this video, like and subscribe to my channel!&#10;&#10;I can also be found on Twitch!&#10;https://www.twitch.tv/dougmansland&#10;&#10;I'm also on Twitter!&#10;https://twitter.com/dougmansland&#10;&#10;If you enjoy Discord, I have one of those too!&#10;https://discord.gg/MVXvhvg2Zm&#10;&#10;For some reason, I also make Tik Tok videos!&#10;https://www.tiktok.com/@dougmansland?lang=en"
+    description "It's June 15, 2022 and Doug is playing today's daily Wordle! &amp;#10;&amp;#10;&amp;#10;Please, if you enjoyed this video, like and subscribe to my channel!&amp;#10;&amp;#10;I can also be found on Twitch!&amp;#10;https://www.twitch.tv/dougmansland&amp;#10;&amp;#10;I'm also on Twitter!&amp;#10;https://twitter.com/dougmansland&amp;#10;&amp;#10;If you enjoy Discord, I have one of those too!&amp;#10;https://discord.gg/MVXvhvg2Zm&amp;#10;&amp;#10;For some reason, I also make Tik Tok videos!&amp;#10;https://www.tiktok.com/@dougmansland?lang=en"
     channeltitle "DougMansLand"
     channelid "UCkiAm7y8MQCbFwpB-52QRtg"
     favcount 0
@@ -7993,7 +14483,29 @@ graph
     ppprofanity 0.06495292
     ppinflammatory 0.049881727
     sentiment 0.25
-    cluster 4
+    cluster 2
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -8002,7 +14514,7 @@ graph
     step 0
     date "2022-05-11T09:01:29Z"
     title "Wordle 326 for May 11th - Purple OR Green Grapes?"
-    description "What is today's Wordle for 05/11/2022 number 326 ? Join me and let's find out &#38; guess the answer together. Gets a little messy after that good first guess but we get there!&#10;A new word daily, how do you like to play &#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. May 11th 2022&#10;&#10;Follow me on Twitter: https://twitter.com/emptyapartment3&#10;Join our Discord: https://discord.gg/9Py98RU&#10;Buy me a coffee: https://ko-fi.com/emptyapartment&#10;&#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&#10;&#10;business contact: emptyapartmentgaming gmail&#10;&#10;&#10;0:00 Intro&#10;0:21 First Guess&#10;1:10 Magic&#10;1:58 Wordle?&#10;&#10;#wordle"
+    description "What is today's Wordle for 05/11/2022 number 326 ? Join me and let's find out &amp;#38; guess the answer together. Gets a little messy after that good first guess but we get there!&amp;#10;A new word daily, how do you like to play &amp;#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. May 11th 2022&amp;#10;&amp;#10;Follow me on Twitter: https://twitter.com/emptyapartment3&amp;#10;Join our Discord: https://discord.gg/9Py98RU&amp;#10;Buy me a coffee: https://ko-fi.com/emptyapartment&amp;#10;&amp;#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;business contact: emptyapartmentgaming gmail&amp;#10;&amp;#10;&amp;#10;0:00 Intro&amp;#10;0:21 First Guess&amp;#10;1:10 Magic&amp;#10;1:58 Wordle?&amp;#10;&amp;#10;#wordle"
     channeltitle "Empty Apartment"
     channelid "UCEb4tjgeTW47bD66Xryzx0Q"
     favcount 0
@@ -8020,7 +14532,29 @@ graph
     ppprofanity 0.01325747
     ppinflammatory 0.20780848
     sentiment 0
-    cluster 1
+    cluster 2
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -8029,7 +14563,7 @@ graph
     step 0
     date "2022-07-02T19:00:30Z"
     title "Wordle 378 - 2 July 2022 #Shorts"
-    description "Wordle is now hosted by the New York Times! Join me for the solve every day, and play it yourself here: &#10;https://www.nytimes.com/games/wordle/&#10;&#10;#Wordle&#10;#Shorts"
+    description "Wordle is now hosted by the New York Times! Join me for the solve every day, and play it yourself here: &amp;#10;https://www.nytimes.com/games/wordle/&amp;#10;&amp;#10;#Wordle&amp;#10;#Shorts"
     channeltitle "Chris Remo"
     channelid "UCAWnFCJGAP7YPti-gQSe1ng"
     favcount 0
@@ -8047,7 +14581,29 @@ graph
     ppprofanity 0.04112874
     ppinflammatory 0.1260014
     sentiment 0
-    cluster 7
+    cluster 9
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -8056,7 +14612,7 @@ graph
     step 0
     date "2022-07-11T13:18:48Z"
     title "Wordle July 11th, 2022 - Can you guess the word?"
-    description "Check back daily for new Wordle and other Word Puzzles!&#10;&#10;Hi everyone! Today Sean plays Wordle, a fun word logic puzzle.&#10;Can you get the word in fewer guesses? Give it a shot at the link below:&#10;https://www.nytimes.com/games/wordle/index.html&#10;&#10;And check your answers here with WordleBot!&#10;https://www.nytimes.com/interactive/2022/upshot/wordle-bot.html"
+    description "Check back daily for new Wordle and other Word Puzzles!&amp;#10;&amp;#10;Hi everyone! Today Sean plays Wordle, a fun word logic puzzle.&amp;#10;Can you get the word in fewer guesses? Give it a shot at the link below:&amp;#10;https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;And check your answers here with WordleBot!&amp;#10;https://www.nytimes.com/interactive/2022/upshot/wordle-bot.html"
     channeltitle "Sean Plays"
     channelid "UCRlHYIOSfBDAVkz46rnglow"
     favcount 0
@@ -8074,7 +14630,29 @@ graph
     ppprofanity 0.022970816
     ppinflammatory 0.15058535
     sentiment 0
-    cluster 3
+    cluster 8
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -8083,7 +14661,7 @@ graph
     step 0
     date "2022-02-02T05:00:04Z"
     title "New York Times Buys Game  In A Seven-Figure Deal"
-    description "The New York Times recently bought the game &#8220;Wordle&#8221; for a seven-figure sum from creator Josh Wardle. NBC News&#8217; Joshua Johnson is joined by the general manager of games at the New York Times, Jonathan Knight to discuss possible changes to the game under new ownership.&#160;&#10;&#187; Subscribe to NBC News: http://nbcnews.to/SubscribeToNBC&#10;&#187; Watch more NBC video: http://bit.ly/MoreNBCNews&#10;&#10;NBC News Digital is a collection of innovative and powerful news brands that deliver compelling, diverse and engaging news stories. NBC News Digital features NBCNews.com, MSNBC.com, TODAY.com, Nightly News, Meet the Press, Dateline, and the existing apps and digital extensions of these respective properties.  We deliver the best in breaking news, live video coverage, original journalism and segments from your favorite NBC News Shows.&#10;&#10;Connect with NBC News Online!&#10;NBC News App: https://smart.link/5d0cd9df61b80&#10;Breaking News Alerts: https://link.nbcnews.com/join/5cj/breaking-news-signup?cid=sm_npd_nn_yt_bn-clip_190621&#10;Visit NBCNews.Com: http://nbcnews.to/ReadNBC&#10;Find NBC News on Facebook: http://nbcnews.to/LikeNBC&#10;Follow NBC News on Twitter: http://nbcnews.to/FollowNBC&#10;&#10;#NBCNews #Wordle #NYTimes"
+    description "The New York Times recently bought the game &amp;#8220;Wordle&amp;#8221; for a seven-figure sum from creator Josh Wardle. NBC News&amp;#8217; Joshua Johnson is joined by the general manager of games at the New York Times, Jonathan Knight to discuss possible changes to the game under new ownership.&amp;#160;&amp;#10;&amp;#187; Subscribe to NBC News: http://nbcnews.to/SubscribeToNBC&amp;#10;&amp;#187; Watch more NBC video: http://bit.ly/MoreNBCNews&amp;#10;&amp;#10;NBC News Digital is a collection of innovative and powerful news brands that deliver compelling, diverse and engaging news stories. NBC News Digital features NBCNews.com, MSNBC.com, TODAY.com, Nightly News, Meet the Press, Dateline, and the existing apps and digital extensions of these respective properties.  We deliver the best in breaking news, live video coverage, original journalism and segments from your favorite NBC News Shows.&amp;#10;&amp;#10;Connect with NBC News Online!&amp;#10;NBC News App: https://smart.link/5d0cd9df61b80&amp;#10;Breaking News Alerts: https://link.nbcnews.com/join/5cj/breaking-news-signup?cid=sm_npd_nn_yt_bn-clip_190621&amp;#10;Visit NBCNews.Com: http://nbcnews.to/ReadNBC&amp;#10;Find NBC News on Facebook: http://nbcnews.to/LikeNBC&amp;#10;Follow NBC News on Twitter: http://nbcnews.to/FollowNBC&amp;#10;&amp;#10;#NBCNews #Wordle #NYTimes"
     channeltitle "NBC News"
     channelid "UCeY0bbntWzzVIaj2z3QigXg"
     favcount 0
@@ -8102,6 +14680,28 @@ graph
     ppinflammatory 0.09101698
     sentiment 0
     cluster 2
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -8110,7 +14710,7 @@ graph
     step 0
     date "2022-02-20T19:30:02Z"
     title "CAN YOU BEAT MY WORDLE RECORD?"
-    description "THE BEST BITS from my livestreams on twitch!&#10;Be sure to like and subscribe if you enjoy the video!&#10;&#10;Follow me on Twitch: http://twitch.tv/TBJZL&#10;Subscribe to my Main Channel: http://youtube.com/TBJZL&#10;Subscribe to my Gaming Channel: http://youtube.com/TBJZLPlays&#10;&#10;Follow Me On Twitter: http://www.twitter.com/tobjizzle&#10;Like the Facebook: http://www.facebook.com/TBJZL&#10;&#10;How I capture my gameplay: https://e.lga.to/tbjzl&#10;&#10;Feedback, as always, is appreciated &#9829;"
+    description "THE BEST BITS from my livestreams on twitch!&amp;#10;Be sure to like and subscribe if you enjoy the video!&amp;#10;&amp;#10;Follow me on Twitch: http://twitch.tv/TBJZL&amp;#10;Subscribe to my Main Channel: http://youtube.com/TBJZL&amp;#10;Subscribe to my Gaming Channel: http://youtube.com/TBJZLPlays&amp;#10;&amp;#10;Follow Me On Twitter: http://www.twitter.com/tobjizzle&amp;#10;Like the Facebook: http://www.facebook.com/TBJZL&amp;#10;&amp;#10;How I capture my gameplay: https://e.lga.to/tbjzl&amp;#10;&amp;#10;Feedback, as always, is appreciated &amp;#9829;"
     channeltitle "TBJZLClips"
     channelid "UCHzt25lbU7zmU4PwMMRf16A"
     favcount 0
@@ -8129,6 +14729,28 @@ graph
     ppinflammatory 0.18188445
     sentiment 0
     cluster 4
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -8137,7 +14759,7 @@ graph
     step 0
     date "2022-03-12T20:15:00Z"
     title "Its Wordle... But For Geography!? (Very Hard)"
-    description "Hikaru plays the geography based Wordle based spin-off Worldle and finds it way more difficult than he thought it would be. &#10;&#10;&#128085; NEW MERCH &#9658; https://streamlabs.com/gmhikaru/merch&#10;&#10;&#9823;&#65039; LEARN CHESS  &#38; PLAY WITH ME &#9658; https://go.chess.com/hikaru &#10;&#10;&#127873; GIVE &#128142; CHESS &#9658; https://www.chess.com/membership/gift?ref_id=15448422&#10;&#10;&#127916; CLIPS CHANNEL &#9658; https://www.youtube.com/c/GMHikaruClips?sub_confirmation=1&#10;&#10;&#127902;&#65039; MORE GMHIKARU &#9658; https://www.youtube.com/c/moregmhikaru?sub_confirmation=1&#10;&#10;&#128156; TWITCH &#9658; https://www.twitch.tv/gmhikaru&#10;&#10;&#128150; INSTAGRAM &#9658; https://www.instagram.com/gmhikaru/&#10;&#10;&#128038; TWITTER &#9658; https://twitter.com/gmhikaru&#10;&#10;&#10024; TIKTOK &#9658; https://www.tiktok.com/@hikarugm&#10;&#10;&#128155; DISCORD &#9658; https://discord.com/invite/aeaqK6g&#10;&#10;&#128153; FACEBOOK  &#9658;  https://facebook.com/GMHikaru&#10;&#10;&#128154; SUPPORT  &#9658; https://streamlabs.com/gmhikaru&#10;&#10;&#129315; REDDIT &#9658; https://www.reddit.com/r/HikaruNakamura/&#10;&#10;&#9473;&#9473;&#9473;&#9473;&#9473;&#9473;&#9473;&#9473;&#9473;&#9473;&#9473;&#9473;&#9473;&#10;&#10;&#127909; Edit and &#127912; Thumbnail &#9658; Jaron  https://twitter.com/jaroniscaring&#10;&#128076;Channel Management  &#9658; Team Hikaru&#10;&#128231; Business inquiries &#9658; TeamHikaru@WMEAgency.com OR teamgmhikaru@gmail.com&#10;&#10;#gmhikaru #chess #worldle"
+    description "Hikaru plays the geography based Wordle based spin-off Worldle and finds it way more difficult than he thought it would be. &amp;#10;&amp;#10;&amp;#128085; NEW MERCH &amp;#9658; https://streamlabs.com/gmhikaru/merch&amp;#10;&amp;#10;&amp;#9823;&amp;#65039; LEARN CHESS  &amp;#38; PLAY WITH ME &amp;#9658; https://go.chess.com/hikaru &amp;#10;&amp;#10;&amp;#127873; GIVE &amp;#128142; CHESS &amp;#9658; https://www.chess.com/membership/gift?ref_id=15448422&amp;#10;&amp;#10;&amp;#127916; CLIPS CHANNEL &amp;#9658; https://www.youtube.com/c/GMHikaruClips?sub_confirmation=1&amp;#10;&amp;#10;&amp;#127902;&amp;#65039; MORE GMHIKARU &amp;#9658; https://www.youtube.com/c/moregmhikaru?sub_confirmation=1&amp;#10;&amp;#10;&amp;#128156; TWITCH &amp;#9658; https://www.twitch.tv/gmhikaru&amp;#10;&amp;#10;&amp;#128150; INSTAGRAM &amp;#9658; https://www.instagram.com/gmhikaru/&amp;#10;&amp;#10;&amp;#128038; TWITTER &amp;#9658; https://twitter.com/gmhikaru&amp;#10;&amp;#10;&amp;#10024; TIKTOK &amp;#9658; https://www.tiktok.com/@hikarugm&amp;#10;&amp;#10;&amp;#128155; DISCORD &amp;#9658; https://discord.com/invite/aeaqK6g&amp;#10;&amp;#10;&amp;#128153; FACEBOOK  &amp;#9658;  https://facebook.com/GMHikaru&amp;#10;&amp;#10;&amp;#128154; SUPPORT  &amp;#9658; https://streamlabs.com/gmhikaru&amp;#10;&amp;#10;&amp;#129315; REDDIT &amp;#9658; https://www.reddit.com/r/HikaruNakamura/&amp;#10;&amp;#10;&amp;#9473;&amp;#9473;&amp;#9473;&amp;#9473;&amp;#9473;&amp;#9473;&amp;#9473;&amp;#9473;&amp;#9473;&amp;#9473;&amp;#9473;&amp;#9473;&amp;#9473;&amp;#10;&amp;#10;&amp;#127909; Edit and &amp;#127912; Thumbnail &amp;#9658; Jaron  https://twitter.com/jaroniscaring&amp;#10;&amp;#128076;Channel Management  &amp;#9658; Team Hikaru&amp;#10;&amp;#128231; Business inquiries &amp;#9658; TeamHikaru@WMEAgency.com OR teamgmhikaru@gmail.com&amp;#10;&amp;#10;#gmhikaru #chess #worldle"
     channeltitle "GMHikaru"
     channelid "UCweCc7bSMX5J4jEH7HFImng"
     favcount 0
@@ -8155,7 +14777,29 @@ graph
     ppprofanity 0.07983368
     ppinflammatory 0.08290442
     sentiment -0.2592
-    cluster 6
+    cluster 7
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -8164,7 +14808,7 @@ graph
     step 0
     date "2022-06-13T21:40:45Z"
     title "Hoping for some CURRY magic in the Wordle FINALs"
-    description "#wordletoday&#10;Solving today's #Wordle #359 for Monday, June 13th.&#10;&#10;You can find my other 'Wordle-like' solves here - https://youtube.com/playlist?list=PL_HjFt2zdfHV33cIRgG7tm-AvnfUP9cMG&#10;&#10;Check out all my merch at https://stro.link/merch&#10;Become a member of the Stro-Solves YouTube channel - https://stro.link/join&#10;Come discuss these puzzles with us on discord - https://stro.link/discord"
+    description "#wordletoday&amp;#10;Solving today's #Wordle #359 for Monday, June 13th.&amp;#10;&amp;#10;You can find my other 'Wordle-like' solves here - https://youtube.com/playlist?list=PL_HjFt2zdfHV33cIRgG7tm-AvnfUP9cMG&amp;#10;&amp;#10;Check out all my merch at https://stro.link/merch&amp;#10;Become a member of the Stro-Solves YouTube channel - https://stro.link/join&amp;#10;Come discuss these puzzles with us on discord - https://stro.link/discord"
     channeltitle "Scott Stro-solves"
     channelid "UC8HHDytpZ-cs9bavTbgYfmA"
     favcount 0
@@ -8182,7 +14826,29 @@ graph
     ppprofanity 0.10540094
     ppinflammatory 0.20494996
     sentiment 0.4215
-    cluster 2
+    cluster 3
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -8191,7 +14857,7 @@ graph
     step 0
     date "2022-01-27T13:56:05Z"
     title "Wordle: What Is It And How To Play?"
-    description "Wordle is a huge craze right now, with hundreds of thousands of people across the globe competing to guess the same five-letter word each day. Why are you staying behind? We explain everything you need to know about Wordle.&#10;&#10;About NDTV: NDTV brings you unbiased and comprehensive coverage of news and entertainment programmes in India and abroad. NDTV delivers reliable information across all platforms: TV, Internet and Mobile.&#10; &#10;Follow us on Social Media:&#10;Like us on Facebook: https://www.facebook.com/ndtv/&#10;Follow us on Twitter: https://twitter.com/ndtv/  &#10;Follow us on Koo: https://www.kooapp.com/profile/ndtv &#10;Follow us on Instagram: https://www.instagram.com/ndtv/&#10;Join NDTV on Telegram Messenger: https://t.me/NDTVbot/?start=hi&#10; &#10;Follow us on Google News for Breaking and Latest News Updates:&#10;NDTV: https://bit.ly/3e5ngbP&#10;NDTV India (Hindi News): https://bit.ly/3mNVwMY&#10; &#10;Download NDTV Mobile Apps: http://www.ndtv.com/page/apps&#10;&#10;#NDTVBeeps #Wordle #HowToVideo"
+    description "Wordle is a huge craze right now, with hundreds of thousands of people across the globe competing to guess the same five-letter word each day. Why are you staying behind? We explain everything you need to know about Wordle.&amp;#10;&amp;#10;About NDTV: NDTV brings you unbiased and comprehensive coverage of news and entertainment programmes in India and abroad. NDTV delivers reliable information across all platforms: TV, Internet and Mobile.&amp;#10; &amp;#10;Follow us on Social Media:&amp;#10;Like us on Facebook: https://www.facebook.com/ndtv/&amp;#10;Follow us on Twitter: https://twitter.com/ndtv/  &amp;#10;Follow us on Koo: https://www.kooapp.com/profile/ndtv &amp;#10;Follow us on Instagram: https://www.instagram.com/ndtv/&amp;#10;Join NDTV on Telegram Messenger: https://t.me/NDTVbot/?start=hi&amp;#10; &amp;#10;Follow us on Google News for Breaking and Latest News Updates:&amp;#10;NDTV: https://bit.ly/3e5ngbP&amp;#10;NDTV India (Hindi News): https://bit.ly/3mNVwMY&amp;#10; &amp;#10;Download NDTV Mobile Apps: http://www.ndtv.com/page/apps&amp;#10;&amp;#10;#NDTVBeeps #Wordle #HowToVideo"
     channeltitle "NDTV"
     channelid "UCZFMm1mMw0F81Z37aaEzTUA"
     favcount 0
@@ -8210,6 +14876,28 @@ graph
     ppinflammatory 0.097421765
     sentiment 0.34
     cluster 2
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -8218,7 +14906,7 @@ graph
     step 0
     date "2022-04-23T05:40:02Z"
     title "Wordle April 23rd, 2022 - Can you guess the word?"
-    description "Hi everyone! Today Sean plays Wordle, a fun word logic puzzle.&#10;Can you get the word in fewer guesses? Give it a shot at the link below:&#10;https://www.nytimes.com/games/wordle/index.html&#10;&#10;And check your answers here with WordleBot!&#10;https://www.nytimes.com/interactive/2022/upshot/wordle-bot.html"
+    description "Hi everyone! Today Sean plays Wordle, a fun word logic puzzle.&amp;#10;Can you get the word in fewer guesses? Give it a shot at the link below:&amp;#10;https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;And check your answers here with WordleBot!&amp;#10;https://www.nytimes.com/interactive/2022/upshot/wordle-bot.html"
     channeltitle "Sean Plays"
     channelid "UCRlHYIOSfBDAVkz46rnglow"
     favcount 0
@@ -8236,7 +14924,29 @@ graph
     ppprofanity 0.02116511
     ppinflammatory 0.13410906
     sentiment 0
-    cluster 3
+    cluster 8
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -8245,7 +14955,7 @@ graph
     step 0
     date "2022-05-02T07:36:58Z"
     title "Wordle 317 for May 2nd - What is Todays Wordle?"
-    description "What is today's Wordle for 05/02/2022 number 317 ? Join me and let's find out &#38; guess the answer together. Nice and easy today!&#10;A new word daily, how do you like to play &#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. May 2nd 2022&#10;&#10;Follow me on Twitter: https://twitter.com/emptyapartment3&#10;Join our Discord: https://discord.gg/9Py98RU&#10;Buy me a coffee: https://streamelements.com/emptyapartment/tip&#10;&#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&#10;&#10;business contact: emptyapartmentgaming gmail&#10;&#10;&#10;0:00 Intro&#10;0:18 First Guess&#10;1:22 Wordle&#10;&#10;#wordle #dailywordleclub"
+    description "What is today's Wordle for 05/02/2022 number 317 ? Join me and let's find out &amp;#38; guess the answer together. Nice and easy today!&amp;#10;A new word daily, how do you like to play &amp;#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. May 2nd 2022&amp;#10;&amp;#10;Follow me on Twitter: https://twitter.com/emptyapartment3&amp;#10;Join our Discord: https://discord.gg/9Py98RU&amp;#10;Buy me a coffee: https://streamelements.com/emptyapartment/tip&amp;#10;&amp;#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;business contact: emptyapartmentgaming gmail&amp;#10;&amp;#10;&amp;#10;0:00 Intro&amp;#10;0:18 First Guess&amp;#10;1:22 Wordle&amp;#10;&amp;#10;#wordle #dailywordleclub"
     channeltitle "Empty Apartment"
     channelid "UCEb4tjgeTW47bD66Xryzx0Q"
     favcount 0
@@ -8264,6 +14974,28 @@ graph
     ppinflammatory 0.078234866
     sentiment 0
     cluster 1
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -8272,7 +15004,7 @@ graph
     step 0
     date "2022-05-07T04:00:24Z"
     title "Doug plays todays Wordle #322 for 05/07/2022"
-    description "It's May 7, 2022 and Doug is playing today's daily Wordle! &#10;&#10;&#10;Please, if you enjoyed this video, like and subscribe to my channel!&#10;&#10;I can also be found on Twitch!&#10;https://www.twitch.tv/dougmansland&#10;&#10;I'm also on Twitter!&#10;https://twitter.com/dougmansland&#10;&#10;If you enjoy Discord, I have one of those too!&#10;https://discord.gg/MVXvhvg2Zm&#10;&#10;For some reason, I also make Tik Tok videos!&#10;https://www.tiktok.com/@dougmansland?lang=en"
+    description "It's May 7, 2022 and Doug is playing today's daily Wordle! &amp;#10;&amp;#10;&amp;#10;Please, if you enjoyed this video, like and subscribe to my channel!&amp;#10;&amp;#10;I can also be found on Twitch!&amp;#10;https://www.twitch.tv/dougmansland&amp;#10;&amp;#10;I'm also on Twitter!&amp;#10;https://twitter.com/dougmansland&amp;#10;&amp;#10;If you enjoy Discord, I have one of those too!&amp;#10;https://discord.gg/MVXvhvg2Zm&amp;#10;&amp;#10;For some reason, I also make Tik Tok videos!&amp;#10;https://www.tiktok.com/@dougmansland?lang=en"
     channeltitle "DougMansLand"
     channelid "UCkiAm7y8MQCbFwpB-52QRtg"
     favcount 0
@@ -8290,7 +15022,29 @@ graph
     ppprofanity 0.055324487
     ppinflammatory 0.049881727
     sentiment 0.25
-    cluster 8
+    cluster 5
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -8299,7 +15053,7 @@ graph
     step 0
     date "2022-06-20T07:00:26Z"
     title "Wordle 366 for June 20th"
-    description "What is today's Wordle for 06/20/2022 number 366 ? Join me and let's find out &#38; guess the answer together. Took me a while with these letters!&#10;A new word daily, how do you like to play &#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. June 20th 2022&#10;&#10;Follow me on Twitter: https://twitter.com/emptyapartment3&#10;Join our Discord: https://discord.gg/9Py98RU&#10;Support/Buy me a &#34;coffee&#34;: https://ko-fi.com/emptyapartment&#10;&#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&#10;&#10;business contact: emptyapartmentgaming [at] gmail&#10;&#10;&#10;0:00 Intro&#10;0:20 First Guess&#10;1:45 Wordle?&#10;&#10;#wordle"
+    description "What is today's Wordle for 06/20/2022 number 366 ? Join me and let's find out &amp;#38; guess the answer together. Took me a while with these letters!&amp;#10;A new word daily, how do you like to play &amp;#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. June 20th 2022&amp;#10;&amp;#10;Follow me on Twitter: https://twitter.com/emptyapartment3&amp;#10;Join our Discord: https://discord.gg/9Py98RU&amp;#10;Support/Buy me a &amp;#34;coffee&amp;#34;: https://ko-fi.com/emptyapartment&amp;#10;&amp;#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;business contact: emptyapartmentgaming [at] gmail&amp;#10;&amp;#10;&amp;#10;0:00 Intro&amp;#10;0:20 First Guess&amp;#10;1:45 Wordle?&amp;#10;&amp;#10;#wordle"
     channeltitle "Empty Apartment"
     channelid "UCEb4tjgeTW47bD66Xryzx0Q"
     favcount 0
@@ -8318,6 +15072,28 @@ graph
     ppinflammatory 0.15883088
     sentiment 0
     cluster 1
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -8326,7 +15102,7 @@ graph
     step 0
     date "2022-07-12T21:10:53Z"
     title "This Ended My Streak of 164 (My First Loss) - Wordle July 12 - Whats The Answer Today? Wordle 388"
-    description "What's the Wordle of the Day? Wordle Today 7/12/22 #wordle #dailywordle wordle 388 #wordle388&#10;https://www.twitch.tv/feelgoodkenny"
+    description "What's the Wordle of the Day? Wordle Today 7/12/22 #wordle #dailywordle wordle 388 #wordle388&amp;#10;https://www.twitch.tv/feelgoodkenny"
     channeltitle "FeelGoodKenny Gaming"
     channelid "UCN8UM9PE28fN77TDQvNRwHA"
     favcount 0
@@ -8344,7 +15120,29 @@ graph
     ppprofanity 0.06544742
     ppinflammatory 0.0005016897
     sentiment -0.3182
-    cluster 3
+    cluster 9
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -8353,7 +15151,7 @@ graph
     step 0
     date "2022-07-12T19:00:09Z"
     title "Wordle 388 - Am I Being Trolled!? - 12 July 2022 #Shorts"
-    description "Wordle is now hosted by the New York Times! Join me for the solve every day, and play it yourself here: &#10;https://www.nytimes.com/games/wordle/&#10;&#10;#Wordle&#10;#Shorts"
+    description "Wordle is now hosted by the New York Times! Join me for the solve every day, and play it yourself here: &amp;#10;https://www.nytimes.com/games/wordle/&amp;#10;&amp;#10;#Wordle&amp;#10;#Shorts"
     channeltitle "Chris Remo"
     channelid "UCAWnFCJGAP7YPti-gQSe1ng"
     favcount 0
@@ -8371,7 +15169,29 @@ graph
     ppprofanity 0.11740247
     ppinflammatory 0.08576903
     sentiment 0
-    cluster 5
+    cluster 2
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -8380,7 +15200,7 @@ graph
     step 0
     date "2022-02-08T18:06:51Z"
     title "I Coded A Custom Wordle For TimTheTatman (Foodle)"
-    description "I coded a custom version of Wordle for TimTheTatman! Worlde but it's entirely food themed.&#10;&#10;Play Foodle: http://rillo.tv/&#10;All my links! &#9658; https://wlo.link/@rillo&#10;&#10;Special thanks to Wipz for reaching out AND for editing the first section of Tim clips :)&#10;Also thanks to my chat for troubleshooting some bugs with me while I was streaming the coding of this!"
+    description "I coded a custom version of Wordle for TimTheTatman! Worlde but it's entirely food themed.&amp;#10;&amp;#10;Play Foodle: http://rillo.tv/&amp;#10;All my links! &amp;#9658; https://wlo.link/@rillo&amp;#10;&amp;#10;Special thanks to Wipz for reaching out AND for editing the first section of Tim clips :)&amp;#10;Also thanks to my chat for troubleshooting some bugs with me while I was streaming the coding of this!"
     channeltitle "Rillo"
     channelid "UCyw_mtuNzMhpNFBY8huBxIw"
     favcount 0
@@ -8398,7 +15218,29 @@ graph
     ppprofanity 0.056193482
     ppinflammatory 0.0034107128
     sentiment 0
-    cluster 4
+    cluster 2
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -8407,7 +15249,7 @@ graph
     step 0
     date "2022-03-11T06:55:57Z"
     title "Wordle March 11th, 2022 - Can you guess the word?"
-    description "Hi everyone! Today Sean plays Wordle, a fun word logic puzzle.&#10;Can you get the word in fewer guesses? Give it a shot at the link below:&#10;https://www.nytimes.com/games/wordle/index.html&#10;&#10;And check your answers here with SCOREDLE!&#10;https://scoredle.com/"
+    description "Hi everyone! Today Sean plays Wordle, a fun word logic puzzle.&amp;#10;Can you get the word in fewer guesses? Give it a shot at the link below:&amp;#10;https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;And check your answers here with SCOREDLE!&amp;#10;https://scoredle.com/"
     channeltitle "Sean Plays"
     channelid "UCRlHYIOSfBDAVkz46rnglow"
     favcount 0
@@ -8425,7 +15267,29 @@ graph
     ppprofanity 0.022590725
     ppinflammatory 0.20460115
     sentiment 0
-    cluster 3
+    cluster 2
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -8434,7 +15298,7 @@ graph
     step 0
     date "2022-04-02T20:28:04Z"
     title "Wordle - Answer Today #288 : 3 April 2022"
-    description "This is today's solution to the viral Wordle Game #288&#10;Wordle Answer for Today&#10;3 April 2022&#10;&#10;Wordle Solver: https://solvewordle.habeeb.in/&#10;&#10;Did you find the mystery word for today?&#10;Do share your score.&#10;&#10;How to play wordle?&#10;You have 6 attempts to find the hidden word!&#10;Here's the link to playing the viral wordle game: https://www.nytimes.com/games/wordle&#10;&#10;Now start typing in any 5 letter word.&#10;After each attempt, press enter to submit.&#10;&#10;The colors on the tiles give you these clues:&#10;Green - the letter guessed is right and at the right place.&#10;Yellow - the letter guessed is right but at the wrong place. &#10;Grey - The letter is not part of the word&#10;&#10;Happy guessing guys for this viral combination of a crossword and sudoku puzzle.&#10;&#10;#wordle #wordleanswer #todayswordle #wordlesolution #wordle2April #dailywordle #wordleoftheday  #wordle286 #wordleclue #wordlegame #wordletipsandtricks #wordlepuzzle #whatiswordle #howtoplaywordle #dailywordleanswer #solvewordlefast #habinafi"
+    description "This is today's solution to the viral Wordle Game #288&amp;#10;Wordle Answer for Today&amp;#10;3 April 2022&amp;#10;&amp;#10;Wordle Solver: https://solvewordle.habeeb.in/&amp;#10;&amp;#10;Did you find the mystery word for today?&amp;#10;Do share your score.&amp;#10;&amp;#10;How to play wordle?&amp;#10;You have 6 attempts to find the hidden word!&amp;#10;Here's the link to playing the viral wordle game: https://www.nytimes.com/games/wordle&amp;#10;&amp;#10;Now start typing in any 5 letter word.&amp;#10;After each attempt, press enter to submit.&amp;#10;&amp;#10;The colors on the tiles give you these clues:&amp;#10;Green - the letter guessed is right and at the right place.&amp;#10;Yellow - the letter guessed is right but at the wrong place. &amp;#10;Grey - The letter is not part of the word&amp;#10;&amp;#10;Happy guessing guys for this viral combination of a crossword and sudoku puzzle.&amp;#10;&amp;#10;#wordle #wordleanswer #todayswordle #wordlesolution #wordle2April #dailywordle #wordleoftheday  #wordle286 #wordleclue #wordlegame #wordletipsandtricks #wordlepuzzle #whatiswordle #howtoplaywordle #dailywordleanswer #solvewordlefast #habinafi"
     channeltitle "Habi Nafi"
     channelid "UC9zBTgGGtn-n13lG-NgOm2g"
     favcount 0
@@ -8452,7 +15316,29 @@ graph
     ppprofanity 0.07100232
     ppinflammatory 0.036990408
     sentiment 0
-    cluster 6
+    cluster 7
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -8461,7 +15347,7 @@ graph
     step 0
     date "2022-02-15T10:33:42Z"
     title "Wordle 241 for February 15th - What is Todays Wordle? 02/15/2022"
-    description "What is today's Wordle? Let's find out &#38; guess the answer together. Join me for today's 02/15/2022 Wordle number 241 .  The 2nd guess was huge for us!&#10;Everyone's new favorite game. A new word daily, how do you like to play &#38; what's your strategy? Thought I'd try uploading my guesses and answers, plus cool to archive it. February 15th 2022&#10;&#10;Play for yourself at: https://www.powerlanguage.co.uk/wordle/&#10;&#10;0:00 Intro&#10;0:30 First Guess&#10;1:10 Arose&#10;1:48 Wordle!&#10;&#10;business contact: emptyapartmentgaming gmail&#10;&#10;#wordle #dailywordleclub"
+    description "What is today's Wordle? Let's find out &amp;#38; guess the answer together. Join me for today's 02/15/2022 Wordle number 241 .  The 2nd guess was huge for us!&amp;#10;Everyone's new favorite game. A new word daily, how do you like to play &amp;#38; what's your strategy? Thought I'd try uploading my guesses and answers, plus cool to archive it. February 15th 2022&amp;#10;&amp;#10;Play for yourself at: https://www.powerlanguage.co.uk/wordle/&amp;#10;&amp;#10;0:00 Intro&amp;#10;0:30 First Guess&amp;#10;1:10 Arose&amp;#10;1:48 Wordle!&amp;#10;&amp;#10;business contact: emptyapartmentgaming gmail&amp;#10;&amp;#10;#wordle #dailywordleclub"
     channeltitle "Empty Apartment"
     channelid "UCEb4tjgeTW47bD66Xryzx0Q"
     favcount 0
@@ -8480,6 +15366,28 @@ graph
     ppinflammatory 0.07566681
     sentiment 0
     cluster 1
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -8488,7 +15396,7 @@ graph
     step 0
     date "2022-02-09T09:31:43Z"
     title "Wordle 235 for February 9th - What is Todays Wordle? 02/09/2022"
-    description "What is today's Wordle? Let's find out &#38; guess the answer together. Join me for today's 02/09/2022 Wordle number 235 .  I thought I had it on that 3rd guess!&#10;Everyone's new favorite game. A new word daily, how do you like to play &#38; what's your strategy? Thought I'd try uploading my guesses and answers, plus cool to archive it. February 9th 2022&#10;&#10;Play for yourself at: https://www.powerlanguage.co.uk/wordle/&#10;&#10;0:00 Intro&#10;0:30 First Guess&#10;1:30 Flour?&#10;2:30 Wordle!&#10;&#10;business contact: emptyapartmentgaming gmail&#10;&#10;#wordle #dailywordleclub"
+    description "What is today's Wordle? Let's find out &amp;#38; guess the answer together. Join me for today's 02/09/2022 Wordle number 235 .  I thought I had it on that 3rd guess!&amp;#10;Everyone's new favorite game. A new word daily, how do you like to play &amp;#38; what's your strategy? Thought I'd try uploading my guesses and answers, plus cool to archive it. February 9th 2022&amp;#10;&amp;#10;Play for yourself at: https://www.powerlanguage.co.uk/wordle/&amp;#10;&amp;#10;0:00 Intro&amp;#10;0:30 First Guess&amp;#10;1:30 Flour?&amp;#10;2:30 Wordle!&amp;#10;&amp;#10;business contact: emptyapartmentgaming gmail&amp;#10;&amp;#10;#wordle #dailywordleclub"
     channeltitle "Empty Apartment"
     channelid "UCEb4tjgeTW47bD66Xryzx0Q"
     favcount 0
@@ -8507,6 +15415,28 @@ graph
     ppinflammatory 0.059837125
     sentiment 0
     cluster 1
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -8533,7 +15463,29 @@ graph
     ppprofanity 0.08352251
     ppinflammatory 0.086339176
     sentiment 0
-    cluster 7
+    cluster 6
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -8542,7 +15494,7 @@ graph
     step 0
     date "2022-03-10T08:43:03Z"
     title "Wordle 264 for March 10th - What is Todays Wordle? 03/10/2022"
-    description "What is today's Wordle? Let's find out &#38; guess the answer together. Join me for today's 03/10/2022 Wordle number 264 . Happy Super Mario Day, we cut the guesses a little close today.&#10;A new word daily, how do you like to play &#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. March 10th 2022&#10;&#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&#10;&#10;0:00 Intro&#10;0:25 First Guess&#10;1:18 Shame&#10;2:05 Wordle&#10;&#10;business contact: emptyapartmentgaming gmail&#10;&#10;#wordle #dailywordleclub"
+    description "What is today's Wordle? Let's find out &amp;#38; guess the answer together. Join me for today's 03/10/2022 Wordle number 264 . Happy Super Mario Day, we cut the guesses a little close today.&amp;#10;A new word daily, how do you like to play &amp;#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. March 10th 2022&amp;#10;&amp;#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;0:00 Intro&amp;#10;0:25 First Guess&amp;#10;1:18 Shame&amp;#10;2:05 Wordle&amp;#10;&amp;#10;business contact: emptyapartmentgaming gmail&amp;#10;&amp;#10;#wordle #dailywordleclub"
     channeltitle "Empty Apartment"
     channelid "UCEb4tjgeTW47bD66Xryzx0Q"
     favcount 0
@@ -8561,6 +15513,28 @@ graph
     ppinflammatory 0.098024055
     sentiment 0
     cluster 1
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -8569,7 +15543,7 @@ graph
     step 0
     date "2022-06-21T08:58:10Z"
     title "Wordle 367 for June 21st"
-    description "What is today's Wordle for 06/21/2022 number 367 ? Join me and let's find out &#38; guess the answer together. Took me a while with these letters!&#10;A new word daily, how do you like to play &#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. June 21st 2022&#10;&#10;Follow me on Twitter: https://twitter.com/emptyapartment3&#10;Join our Discord: https://discord.gg/9Py98RU&#10;Support/Buy me a &#34;coffee&#34;: https://ko-fi.com/emptyapartment&#10;&#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&#10;&#10;business contact: emptyapartmentgaming [at] gmail&#10;&#10;&#10;0:00 Intro&#10;0:20 First Guess&#10;1:30 Wordle?&#10;&#10;#wordle"
+    description "What is today's Wordle for 06/21/2022 number 367 ? Join me and let's find out &amp;#38; guess the answer together. Took me a while with these letters!&amp;#10;A new word daily, how do you like to play &amp;#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. June 21st 2022&amp;#10;&amp;#10;Follow me on Twitter: https://twitter.com/emptyapartment3&amp;#10;Join our Discord: https://discord.gg/9Py98RU&amp;#10;Support/Buy me a &amp;#34;coffee&amp;#34;: https://ko-fi.com/emptyapartment&amp;#10;&amp;#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;business contact: emptyapartmentgaming [at] gmail&amp;#10;&amp;#10;&amp;#10;0:00 Intro&amp;#10;0:20 First Guess&amp;#10;1:30 Wordle?&amp;#10;&amp;#10;#wordle"
     channeltitle "Empty Apartment"
     channelid "UCEb4tjgeTW47bD66Xryzx0Q"
     favcount 0
@@ -8587,7 +15561,29 @@ graph
     ppprofanity 0.055618584
     ppinflammatory 0.13923532
     sentiment 0
-    cluster 6
+    cluster 3
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -8596,7 +15592,7 @@ graph
     step 0
     date "2022-04-19T13:35:51Z"
     title "Wordle April 19th, 2022 - Can you guess the word?"
-    description "Hi everyone! Today Sean plays Wordle, a fun word logic puzzle.&#10;Can you get the word in fewer guesses? Give it a shot at the link below:&#10;https://www.nytimes.com/games/wordle/index.html&#10;&#10;And check your answers here with WordleBot!&#10;https://www.nytimes.com/interactive/2022/upshot/wordle-bot.html"
+    description "Hi everyone! Today Sean plays Wordle, a fun word logic puzzle.&amp;#10;Can you get the word in fewer guesses? Give it a shot at the link below:&amp;#10;https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;And check your answers here with WordleBot!&amp;#10;https://www.nytimes.com/interactive/2022/upshot/wordle-bot.html"
     channeltitle "Sean Plays"
     channelid "UCRlHYIOSfBDAVkz46rnglow"
     favcount 0
@@ -8614,7 +15610,29 @@ graph
     ppprofanity 0.019750515
     ppinflammatory 0.17752393
     sentiment 0
-    cluster 3
+    cluster 8
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -8623,7 +15641,7 @@ graph
     step 0
     date "2022-03-10T23:01:52Z"
     title "*NEW* Fortnite WORDLE! (EXTRA HARD) "
-    description "*NEW* Fortnite WORDLE! (EXTRA HARD) &#128561;&#10;&#128153; Use code &#34;ALIA&#34; to be shown in my videos!&#10;Hit &#128077; LIKE and &#9989; Subscribe - Thank you!&#10;&#10;Hey there - I'm Ali-A! I make Fortnite videos on everything new - Updates, live events, new skins and more. To make sure you don't miss any of the latest Fortnite news and updates, make sure to hit &#34;SUBSCRIBE&#34; to be notified every time I upload. Thanks - Enjoy the video! :D&#10;&#10;#UseCodeAliA&#10;&#10;&#10134; Ali-A Fortnite Maps! &#10134;&#10;&#128296; Ali-A Gun Game!                         -   9378-2655-7894&#10;&#128296; Ali-A World!                                 -    6799-0061-6728&#10;&#128296; Ali-A Box Fight 1v1                    -    2345-5663-8681&#10;&#128296; Ali-A Box Fight 2v2 to 5v5        -    2066-1508-4270&#10;&#128296; Ali-A Box Fight 16 Players        -    0354-3907-1263&#10;&#128296; Ali-A Box Fight 16 (Respawn)  -    7211-0450-1109&#10;&#10;&#10134; Follow me! &#10134;&#10;&#128216; Facebook - http://facebook.com/AliAarmy&#10;&#128037; Twitter - http://www.twitter.com/OMGitsAliA&#10;&#127925; TikTok - https://tiktok.com/@alia&#10;&#128248; Instagram - http://instagram.com/AliA&#10;&#128126; Join the Ali-A Discord - https://discord.gg/AliA&#10;&#128085; Ali-A Merch - http://Ali-A.shop&#10;&#10;&#10134; The equipment I use! &#10134;&#10;&#127911; The headset I use - https://www.turtlebeach.com/&#10;&#128247; How I record my gameplay - http://e.lga.to/a&#10;&#128377; Improve your aim (10% off) - http://www.kontrolfreek.com/discount/ali-a&#10;&#127918; My controller - https://scuf.co/AliA (Use &#34;ALIA&#34; for discount)&#10;&#128047; My Gaming gear - https://en.roccat.org/ (Code &#34;ALIA&#34; for 10% off)&#10;&#128176; Cheapest games - https://www.g2a.com/r/AliA&#10;&#10;&#10134; Intro Music (Listen/Download here) &#10134; &#10;&#127925; https://youtube.com/FutureHouseMusic&#10;&#127926; https://www.youtube.com/SpinninRec&#10;&#10;Subscribe for more videos!&#10;- Ali-A&#10;&#10;&#10;---&#10;Video uploaded &#38; owned by Ali-A. (PG, Family Friendly + No Swearing!)"
+    description "*NEW* Fortnite WORDLE! (EXTRA HARD) &amp;#128561;&amp;#10;&amp;#128153; Use code &amp;#34;ALIA&amp;#34; to be shown in my videos!&amp;#10;Hit &amp;#128077; LIKE and &amp;#9989; Subscribe - Thank you!&amp;#10;&amp;#10;Hey there - I'm Ali-A! I make Fortnite videos on everything new - Updates, live events, new skins and more. To make sure you don't miss any of the latest Fortnite news and updates, make sure to hit &amp;#34;SUBSCRIBE&amp;#34; to be notified every time I upload. Thanks - Enjoy the video! :D&amp;#10;&amp;#10;#UseCodeAliA&amp;#10;&amp;#10;&amp;#10134; Ali-A Fortnite Maps! &amp;#10134;&amp;#10;&amp;#128296; Ali-A Gun Game!                         -   9378-2655-7894&amp;#10;&amp;#128296; Ali-A World!                                 -    6799-0061-6728&amp;#10;&amp;#128296; Ali-A Box Fight 1v1                    -    2345-5663-8681&amp;#10;&amp;#128296; Ali-A Box Fight 2v2 to 5v5        -    2066-1508-4270&amp;#10;&amp;#128296; Ali-A Box Fight 16 Players        -    0354-3907-1263&amp;#10;&amp;#128296; Ali-A Box Fight 16 (Respawn)  -    7211-0450-1109&amp;#10;&amp;#10;&amp;#10134; Follow me! &amp;#10134;&amp;#10;&amp;#128216; Facebook - http://facebook.com/AliAarmy&amp;#10;&amp;#128037; Twitter - http://www.twitter.com/OMGitsAliA&amp;#10;&amp;#127925; TikTok - https://tiktok.com/@alia&amp;#10;&amp;#128248; Instagram - http://instagram.com/AliA&amp;#10;&amp;#128126; Join the Ali-A Discord - https://discord.gg/AliA&amp;#10;&amp;#128085; Ali-A Merch - http://Ali-A.shop&amp;#10;&amp;#10;&amp;#10134; The equipment I use! &amp;#10134;&amp;#10;&amp;#127911; The headset I use - https://www.turtlebeach.com/&amp;#10;&amp;#128247; How I record my gameplay - http://e.lga.to/a&amp;#10;&amp;#128377; Improve your aim (10% off) - http://www.kontrolfreek.com/discount/ali-a&amp;#10;&amp;#127918; My controller - https://scuf.co/AliA (Use &amp;#34;ALIA&amp;#34; for discount)&amp;#10;&amp;#128047; My Gaming gear - https://en.roccat.org/ (Code &amp;#34;ALIA&amp;#34; for 10% off)&amp;#10;&amp;#128176; Cheapest games - https://www.g2a.com/r/AliA&amp;#10;&amp;#10;&amp;#10134; Intro Music (Listen/Download here) &amp;#10134; &amp;#10;&amp;#127925; https://youtube.com/FutureHouseMusic&amp;#10;&amp;#127926; https://www.youtube.com/SpinninRec&amp;#10;&amp;#10;Subscribe for more videos!&amp;#10;- Ali-A&amp;#10;&amp;#10;&amp;#10;---&amp;#10;Video uploaded &amp;#38; owned by Ali-A. (PG, Family Friendly + No Swearing!)"
     channeltitle "Ali-A"
     channelid "UCYVinkwSX7szARULgYpvhLw"
     favcount 0
@@ -8642,6 +15660,28 @@ graph
     ppinflammatory 0.06365296
     sentiment -0.1027
     cluster 4
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -8650,7 +15690,7 @@ graph
     step 0
     date "2022-04-04T15:00:05Z"
     title "Wordle 289 - 4 Apr 2022 #Shorts"
-    description "Wordle is now hosted by the New York Times! Join me for the solve every day, and play it yourself here: &#10;https://www.nytimes.com/games/wordle/&#10;&#10;#Wordle&#10;#Shorts"
+    description "Wordle is now hosted by the New York Times! Join me for the solve every day, and play it yourself here: &amp;#10;https://www.nytimes.com/games/wordle/&amp;#10;&amp;#10;#Wordle&amp;#10;#Shorts"
     channeltitle "Chris Remo"
     channelid "UCAWnFCJGAP7YPti-gQSe1ng"
     favcount 0
@@ -8668,7 +15708,29 @@ graph
     ppprofanity 0.034350313
     ppinflammatory 0.114224404
     sentiment 0
-    cluster 5
+    cluster 2
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -8696,6 +15758,28 @@ graph
     ppinflammatory 0.2525983
     sentiment 0
     cluster 2
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -8704,7 +15788,7 @@ graph
     step 0
     date "2022-04-17T20:21:31Z"
     title "Lets Play WARDLE! (Wordle with MLB Players)"
-    description "PLAY WARDLE: https://wardle.app/&#10;FOLLOW JEREMY: https://twitter.com/MLBRandomStats&#10;FOLLOW ZACHARY: https://twitter.com/ZacharySEllis&#10;Support my work! https://www.patreon.com/foolishbaseball&#10;Buy merch! https://shop.jomboymedia.com/collections/foolish-baseball&#10;&#10;00:00 - Intro&#10;00:40 - The Rules&#10;03:37 - Monday April 11&#10;08:58 - Tuesday April 12&#10;12:01 - Wednesday April 13&#10;16:23 - Thursday April 14&#10;19:32 - Friday April 15&#10;21:16 - Saturday April 16&#10;24:04 - Sunday April 17"
+    description "PLAY WARDLE: https://wardle.app/&amp;#10;FOLLOW JEREMY: https://twitter.com/MLBRandomStats&amp;#10;FOLLOW ZACHARY: https://twitter.com/ZacharySEllis&amp;#10;Support my work! https://www.patreon.com/foolishbaseball&amp;#10;Buy merch! https://shop.jomboymedia.com/collections/foolish-baseball&amp;#10;&amp;#10;00:00 - Intro&amp;#10;00:40 - The Rules&amp;#10;03:37 - Monday April 11&amp;#10;08:58 - Tuesday April 12&amp;#10;12:01 - Wednesday April 13&amp;#10;16:23 - Thursday April 14&amp;#10;19:32 - Friday April 15&amp;#10;21:16 - Saturday April 16&amp;#10;24:04 - Sunday April 17"
     channeltitle "Foolish Bailey"
     channelid "UCGob7q-tONG83_39Rj1M8Cw"
     favcount 0
@@ -8722,7 +15806,29 @@ graph
     ppprofanity 0.17965941
     ppinflammatory 0.1073112
     sentiment 0.34
-    cluster 2
+    cluster 3
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -8731,7 +15837,7 @@ graph
     step 0
     date "2022-03-15T13:00:21Z"
     title "Build a Wordle Clone in ReactJS - Best React Project"
-    description "The first 1,000 people to use this link will get a 1 month free trial of Skillshare: https://skl.sh/pedrotech03221&#10;&#10;In this video I will be going over how to build a Wordle Clone using React. &#10;&#10;Word Bank: https://github.com/machadop1407/Wordle-Clone-React/blob/main/src/wordle-bank.txt&#10;Code: https://github.com/machadop1407/Wordle-Clone-React&#10;&#10;Topics You Will Learn:&#10;- Advanced React, React Hooks: UseState, UseEffect&#10;- State Management - UseContext, Context API&#10;- React/Javascript Logic, Wordle&#10;&#10;Join our Discord: https://discord.gg/WE92Cqs6Vk&#10;&#128640;  Learn ReactJS By Building 6 Projects: https://codedamn.com/learn/reactjs-projects&#10;&#128025; GraphQL Course: https://codedamn.com/learn/graphql-for-beginners&#10;&#10;Social&#10;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#10;Linkedin: https://www.linkedin.com/in/machadop1407/&#10;Instagram: https://www.instagram.com/_pedro.machado_&#10;Github: https://github.com/machadop1407&#10;&#10;Business Email: pedro@pedrotech.co&#10;&#10;Tags:&#10;- ReactJS Tutorial&#10;- ReactJS and MySQL&#10;- NodeJS Tutorial&#10;- Wordle&#10;&#10;Timestamps &#10;00:00 | Demo&#10;02:45 | Sponsorship&#10;03:34 | Setting Up Board&#10;23:02 | Keyboard&#10;55:13 | Coloring Letters&#10;01:03:06 | Getting Words From Word Bank&#10;01:20:29 | Game Over&#10;&#10;#reactjs #wordle"
+    description "The first 1,000 people to use this link will get a 1 month free trial of Skillshare: https://skl.sh/pedrotech03221&amp;#10;&amp;#10;In this video I will be going over how to build a Wordle Clone using React. &amp;#10;&amp;#10;Word Bank: https://github.com/machadop1407/Wordle-Clone-React/blob/main/src/wordle-bank.txt&amp;#10;Code: https://github.com/machadop1407/Wordle-Clone-React&amp;#10;&amp;#10;Topics You Will Learn:&amp;#10;- Advanced React, React Hooks: UseState, UseEffect&amp;#10;- State Management - UseContext, Context API&amp;#10;- React/Javascript Logic, Wordle&amp;#10;&amp;#10;Join our Discord: https://discord.gg/WE92Cqs6Vk&amp;#10;&amp;#128640;  Learn ReactJS By Building 6 Projects: https://codedamn.com/learn/reactjs-projects&amp;#10;&amp;#128025; GraphQL Course: https://codedamn.com/learn/graphql-for-beginners&amp;#10;&amp;#10;Social&amp;#10;&amp;#9644;&amp;#9644;&amp;#9644;&amp;#9644;&amp;#9644;&amp;#9644;&amp;#9644;&amp;#9644;&amp;#9644;&amp;#9644;&amp;#9644;&amp;#9644;&amp;#9644;&amp;#9644;&amp;#9644;&amp;#9644;&amp;#9644;&amp;#9644;&amp;#9644;&amp;#9644;&amp;#9644;&amp;#9644;&amp;#9644;&amp;#9644;&amp;#9644;&amp;#9644;&amp;#10;Linkedin: https://www.linkedin.com/in/machadop1407/&amp;#10;Instagram: https://www.instagram.com/_pedro.machado_&amp;#10;Github: https://github.com/machadop1407&amp;#10;&amp;#10;Business Email: pedro@pedrotech.co&amp;#10;&amp;#10;Tags:&amp;#10;- ReactJS Tutorial&amp;#10;- ReactJS and MySQL&amp;#10;- NodeJS Tutorial&amp;#10;- Wordle&amp;#10;&amp;#10;Timestamps &amp;#10;00:00 | Demo&amp;#10;02:45 | Sponsorship&amp;#10;03:34 | Setting Up Board&amp;#10;23:02 | Keyboard&amp;#10;55:13 | Coloring Letters&amp;#10;01:03:06 | Getting Words From Word Bank&amp;#10;01:20:29 | Game Over&amp;#10;&amp;#10;#reactjs #wordle"
     channeltitle "PedroTech"
     channelid "UC8S4rDRZn6Z_StJ-hh7ph8g"
     favcount 0
@@ -8749,7 +15855,29 @@ graph
     ppprofanity 0.05011548
     ppinflammatory 0.11074841
     sentiment 0.6369
-    cluster 4
+    cluster 3
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -8758,7 +15886,7 @@ graph
     step 0
     date "2022-07-09T12:30:12Z"
     title "Wordle July 9 - Whats The Answer Today? Wordle 385"
-    description "What's the Wordle of the Day? Wordle Today 7/09/22 #wordle #dailywordle wordle 385 #wordle385&#10;https://www.twitch.tv/feelgoodkenny"
+    description "What's the Wordle of the Day? Wordle Today 7/09/22 #wordle #dailywordle wordle 385 #wordle385&amp;#10;https://www.twitch.tv/feelgoodkenny"
     channeltitle "FeelGoodKenny Gaming"
     channelid "UCN8UM9PE28fN77TDQvNRwHA"
     favcount 0
@@ -8776,7 +15904,29 @@ graph
     ppprofanity 0.09727521
     ppinflammatory 0.012427385
     sentiment 0
-    cluster 3
+    cluster 9
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -8785,7 +15935,7 @@ graph
     step 0
     date "2022-06-24T04:00:16Z"
     title "Doug plays todays Wordle #370 for 06/24/2022"
-    description "It's June 24, 2022 and Doug is playing today's daily Wordle! &#10;&#10;&#10;Please, if you enjoyed this video, like and subscribe to my channel!&#10;&#10;I can also be found on Twitch!&#10;https://www.twitch.tv/dougmansland&#10;&#10;I'm also on Twitter!&#10;https://twitter.com/dougmansland&#10;&#10;If you enjoy Discord, I have one of those too!&#10;https://discord.gg/MVXvhvg2Zm&#10;&#10;For some reason, I also make Tik Tok videos!&#10;https://www.tiktok.com/@dougmansland?lang=en"
+    description "It's June 24, 2022 and Doug is playing today's daily Wordle! &amp;#10;&amp;#10;&amp;#10;Please, if you enjoyed this video, like and subscribe to my channel!&amp;#10;&amp;#10;I can also be found on Twitch!&amp;#10;https://www.twitch.tv/dougmansland&amp;#10;&amp;#10;I'm also on Twitter!&amp;#10;https://twitter.com/dougmansland&amp;#10;&amp;#10;If you enjoy Discord, I have one of those too!&amp;#10;https://discord.gg/MVXvhvg2Zm&amp;#10;&amp;#10;For some reason, I also make Tik Tok videos!&amp;#10;https://www.tiktok.com/@dougmansland?lang=en"
     channeltitle "DougMansLand"
     channelid "UCkiAm7y8MQCbFwpB-52QRtg"
     favcount 0
@@ -8803,7 +15953,29 @@ graph
     ppprofanity 0.070969746
     ppinflammatory 0.049881727
     sentiment 0.25
-    cluster 1
+    cluster 2
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -8812,7 +15984,7 @@ graph
     step 0
     date "2022-01-25T09:22:52Z"
     title "Wordle 220 for 01/25/2022 - What is Todays Wordle? January 25th"
-    description "What is today's Wordle? Let's find out &#38; guess the answer together. Join me for today's 01/25/2022 Wordle number 220. Today was a tasty one.&#10;Everyone's new favorite game. A new word daily, how do you like to play &#38; what's your strategy? Thought I'd try uploading my guesses and answers, plus cool to archive it. January 25th 2022&#10;&#10;Play for yourself at: https://www.powerlanguage.co.uk/wordle/&#10;&#10;0:00 Intro&#10;0:22 First Guess&#10;1:20 Pancakes?&#10;2:00 Wordle?&#10;&#10;&#10;#wordle #dailywordleclub"
+    description "What is today's Wordle? Let's find out &amp;#38; guess the answer together. Join me for today's 01/25/2022 Wordle number 220. Today was a tasty one.&amp;#10;Everyone's new favorite game. A new word daily, how do you like to play &amp;#38; what's your strategy? Thought I'd try uploading my guesses and answers, plus cool to archive it. January 25th 2022&amp;#10;&amp;#10;Play for yourself at: https://www.powerlanguage.co.uk/wordle/&amp;#10;&amp;#10;0:00 Intro&amp;#10;0:22 First Guess&amp;#10;1:20 Pancakes?&amp;#10;2:00 Wordle?&amp;#10;&amp;#10;&amp;#10;#wordle #dailywordleclub"
     channeltitle "Empty Apartment"
     channelid "UCEb4tjgeTW47bD66Xryzx0Q"
     favcount 0
@@ -8831,6 +16003,28 @@ graph
     ppinflammatory 0.06653313
     sentiment 0
     cluster 1
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -8857,7 +16051,29 @@ graph
     ppprofanity 0.053873565
     ppinflammatory 0.12514485
     sentiment 0
-    cluster 7
+    cluster 6
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -8866,7 +16082,7 @@ graph
     step 0
     date "2022-06-19T22:51:07Z"
     title ""
-    description "(Spoilers 365) usually I start with the previous two day's words and use a viewer suggestion for my 3rd, but today is Wordle's Birthday so I start with something special instead!&#10;&#10;Play Wordle here: https://www.nytimes.com/games/wordle/index.html&#10;&#10;======= LIVE STREAMS =======&#10;I stream word games right here on YouTube every night (except Friday) at 7pm PDT! Subscribe and ring the bell and/or join my Discord to get notifications for when I go live!&#10;&#10;======= MEMBERS =======&#10;Join my channel at the Video Enthusiast tier or higher to see the full, uncut videos with my entire thought process!&#10;https://www.youtube.com/rangsk/join&#10;&#10;===== MERCH ===== &#10;You can also support me by buying my super cute merch! All items feature an artistic rendering of my dog Rocky with no other branding! They're super cute!&#10;&#10;Check out my store here: https://rangsks-merch.creator-spring.com/&#10;&#10;======= DISCORD =======&#10;Join my Discord server to hang out and talk about Wordle, Wordle-like games, and other kinds of puzzles like Sudoku.&#10;https://discord.gg/AEhpTG4z45&#10;&#10;#wordle #puzzle #word #game"
+    description "(Spoilers 365) usually I start with the previous two day's words and use a viewer suggestion for my 3rd, but today is Wordle's Birthday so I start with something special instead!&amp;#10;&amp;#10;Play Wordle here: https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;======= LIVE STREAMS =======&amp;#10;I stream word games right here on YouTube every night (except Friday) at 7pm PDT! Subscribe and ring the bell and/or join my Discord to get notifications for when I go live!&amp;#10;&amp;#10;======= MEMBERS =======&amp;#10;Join my channel at the Video Enthusiast tier or higher to see the full, uncut videos with my entire thought process!&amp;#10;https://www.youtube.com/rangsk/join&amp;#10;&amp;#10;===== MERCH ===== &amp;#10;You can also support me by buying my super cute merch! All items feature an artistic rendering of my dog Rocky with no other branding! They're super cute!&amp;#10;&amp;#10;Check out my store here: https://rangsks-merch.creator-spring.com/&amp;#10;&amp;#10;======= DISCORD =======&amp;#10;Join my Discord server to hang out and talk about Wordle, Wordle-like games, and other kinds of puzzles like Sudoku.&amp;#10;https://discord.gg/AEhpTG4z45&amp;#10;&amp;#10;#wordle #puzzle #word #game"
     channeltitle "Rangsk"
     channelid "UC1RUqXOT_iaH4b7iXKRWhLw"
     favcount 0
@@ -8884,7 +16100,29 @@ graph
     ppprofanity 0.13079596
     ppinflammatory 0.024759792
     sentiment 0.5719
-    cluster 6
+    cluster 3
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -8893,7 +16131,7 @@ graph
     step 0
     date "2022-04-24T14:08:31Z"
     title "Wordle April 24th, 2022 - Can you guess the word?"
-    description "Hi everyone! Today Sean plays Wordle, a fun word logic puzzle.&#10;Can you get the word in fewer guesses? Give it a shot at the link below:&#10;https://www.nytimes.com/games/wordle/index.html&#10;&#10;And check your answers here with WordleBot!&#10;https://www.nytimes.com/interactive/2022/upshot/wordle-bot.html"
+    description "Hi everyone! Today Sean plays Wordle, a fun word logic puzzle.&amp;#10;Can you get the word in fewer guesses? Give it a shot at the link below:&amp;#10;https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;And check your answers here with WordleBot!&amp;#10;https://www.nytimes.com/interactive/2022/upshot/wordle-bot.html"
     channeltitle "Sean Plays"
     channelid "UCRlHYIOSfBDAVkz46rnglow"
     favcount 0
@@ -8911,7 +16149,29 @@ graph
     ppprofanity 0.02009978
     ppinflammatory 0.17752393
     sentiment 0
-    cluster 3
+    cluster 8
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -8920,7 +16180,7 @@ graph
     step 0
     date "2022-04-20T20:10:12Z"
     title "Wordle - Answer Today #306 : 21 April 2022"
-    description "This is today's solution to the viral Wordle Game #306&#10;Wordle Answer for Today&#10;21 April 2022&#10;&#10;Wordle Solver: https://solvewordle.habeeb.in/&#10;&#10;Did you find the mystery word for today?&#10;Do share your score.&#10;&#10;How to play wordle?&#10;You have 6 attempts to find the hidden word!&#10;Here's the link to playing the viral wordle game: https://www.nytimes.com/games/wordle&#10;&#10;Now start typing in any 5 letter word.&#10;After each attempt, press enter to submit.&#10;&#10;The colors on the tiles give you these clues:&#10;Green - the letter guessed is right and at the right place.&#10;Yellow - the letter guessed is right but at the wrong place. &#10;Grey - The letter is not part of the word&#10;&#10;Happy guessing guys for this viral combination of a crossword and sudoku puzzle.&#10;&#10;#wordle #wordleanswer #todayswordle #wordlesolution #wordle2April #dailywordle #wordleoftheday  #wordle298 #wordleclue #wordlegame #wordletipsandtricks #wordlepuzzle #whatiswordle #howtoplaywordle #dailywordleanswer #solvewordlefast #habinafi"
+    description "This is today's solution to the viral Wordle Game #306&amp;#10;Wordle Answer for Today&amp;#10;21 April 2022&amp;#10;&amp;#10;Wordle Solver: https://solvewordle.habeeb.in/&amp;#10;&amp;#10;Did you find the mystery word for today?&amp;#10;Do share your score.&amp;#10;&amp;#10;How to play wordle?&amp;#10;You have 6 attempts to find the hidden word!&amp;#10;Here's the link to playing the viral wordle game: https://www.nytimes.com/games/wordle&amp;#10;&amp;#10;Now start typing in any 5 letter word.&amp;#10;After each attempt, press enter to submit.&amp;#10;&amp;#10;The colors on the tiles give you these clues:&amp;#10;Green - the letter guessed is right and at the right place.&amp;#10;Yellow - the letter guessed is right but at the wrong place. &amp;#10;Grey - The letter is not part of the word&amp;#10;&amp;#10;Happy guessing guys for this viral combination of a crossword and sudoku puzzle.&amp;#10;&amp;#10;#wordle #wordleanswer #todayswordle #wordlesolution #wordle2April #dailywordle #wordleoftheday  #wordle298 #wordleclue #wordlegame #wordletipsandtricks #wordlepuzzle #whatiswordle #howtoplaywordle #dailywordleanswer #solvewordlefast #habinafi"
     channeltitle "Habi Nafi"
     channelid "UC9zBTgGGtn-n13lG-NgOm2g"
     favcount 0
@@ -8938,7 +16198,29 @@ graph
     ppprofanity 0.06622239
     ppinflammatory 0.035517916
     sentiment 0
-    cluster 4
+    cluster 2
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -8947,7 +16229,7 @@ graph
     step 0
     date "2022-04-04T08:39:05Z"
     title "Wordle 289 for April 4th - Tough One! What is Todays Wordle? 04/04/2022"
-    description "What is today's Wordle for 04/04/2022 Wordle number 289 ? Join me and let's find out &#38; guess the answer together. Tough one today but Shawn saved me.&#10;A new word daily, how do you like to play &#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. April 4th 2022&#10;&#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&#10;&#10;0:00 Intro&#10;0:29 First Guess&#10;1:05 Shawn?&#10;1:55 Wordle!&#10;&#10;business contact: emptyapartmentgaming gmail&#10;#wordle #dailywordleclub"
+    description "What is today's Wordle for 04/04/2022 Wordle number 289 ? Join me and let's find out &amp;#38; guess the answer together. Tough one today but Shawn saved me.&amp;#10;A new word daily, how do you like to play &amp;#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. April 4th 2022&amp;#10;&amp;#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;0:00 Intro&amp;#10;0:29 First Guess&amp;#10;1:05 Shawn?&amp;#10;1:55 Wordle!&amp;#10;&amp;#10;business contact: emptyapartmentgaming gmail&amp;#10;#wordle #dailywordleclub"
     channeltitle "Empty Apartment"
     channelid "UCEb4tjgeTW47bD66Xryzx0Q"
     favcount 0
@@ -8966,6 +16248,28 @@ graph
     ppinflammatory 0.08678802
     sentiment -0.128
     cluster 1
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -8974,7 +16278,7 @@ graph
     step 0
     date "2022-03-04T16:00:20Z"
     title "Wordle 258 - 4 Mar 2022 #Shorts"
-    description "Wordle is now hosted by the New York Times! Join me for the solve every day, and play it yourself here: &#10;https://www.nytimes.com/games/wordle/&#10;&#10;#Wordle&#10;#Shorts"
+    description "Wordle is now hosted by the New York Times! Join me for the solve every day, and play it yourself here: &amp;#10;https://www.nytimes.com/games/wordle/&amp;#10;&amp;#10;#Wordle&amp;#10;#Shorts"
     channeltitle "Chris Remo"
     channelid "UCAWnFCJGAP7YPti-gQSe1ng"
     favcount 0
@@ -8992,7 +16296,29 @@ graph
     ppprofanity 0.043433562
     ppinflammatory 0.12679213
     sentiment 0
-    cluster 5
+    cluster 2
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -9001,7 +16327,7 @@ graph
     step 0
     date "2022-06-08T07:35:19Z"
     title "Wordle 354 for June 8th - 3rd Times a Charm?"
-    description "What is today's Wordle for 06/08/2022 number 354 ? Join me and let's find out &#38; guess the answer together. Thank you all so much for 5 months!&#10;A new word daily, how do you like to play &#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. June 8th 2022&#10;&#10;Follow me on Twitter: https://twitter.com/emptyapartment3&#10;Join our Discord: https://discord.gg/9Py98RU&#10;Support/Buy me a &#34;coffee&#34;: https://ko-fi.com/emptyapartment&#10;&#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&#10;&#10;business contact: emptyapartmentgaming [at] gmail&#10;&#10;&#10;0:00 Intro&#10;0:21 First Guess&#10;1:08 5 Months! &#10;1:40 Wordle?&#10;&#10;#wordle"
+    description "What is today's Wordle for 06/08/2022 number 354 ? Join me and let's find out &amp;#38; guess the answer together. Thank you all so much for 5 months!&amp;#10;A new word daily, how do you like to play &amp;#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. June 8th 2022&amp;#10;&amp;#10;Follow me on Twitter: https://twitter.com/emptyapartment3&amp;#10;Join our Discord: https://discord.gg/9Py98RU&amp;#10;Support/Buy me a &amp;#34;coffee&amp;#34;: https://ko-fi.com/emptyapartment&amp;#10;&amp;#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;business contact: emptyapartmentgaming [at] gmail&amp;#10;&amp;#10;&amp;#10;0:00 Intro&amp;#10;0:21 First Guess&amp;#10;1:08 5 Months! &amp;#10;1:40 Wordle?&amp;#10;&amp;#10;#wordle"
     channeltitle "Empty Apartment"
     channelid "UCEb4tjgeTW47bD66Xryzx0Q"
     favcount 0
@@ -9019,7 +16345,29 @@ graph
     ppprofanity 0.039256617
     ppinflammatory 0.1409893
     sentiment 0.4019
-    cluster 2
+    cluster 3
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -9028,7 +16376,7 @@ graph
     step 0
     date "2022-05-25T16:00:14Z"
     title "Wordle 340 - 25 May 2022 #Shorts"
-    description "Wordle is now hosted by the New York Times! Join me for the solve every day, and play it yourself here: &#10;https://www.nytimes.com/games/wordle/&#10;&#10;#Wordle&#10;#Shorts"
+    description "Wordle is now hosted by the New York Times! Join me for the solve every day, and play it yourself here: &amp;#10;https://www.nytimes.com/games/wordle/&amp;#10;&amp;#10;#Wordle&amp;#10;#Shorts"
     channeltitle "Chris Remo"
     channelid "UCAWnFCJGAP7YPti-gQSe1ng"
     favcount 0
@@ -9047,6 +16395,28 @@ graph
     ppinflammatory 0.18928744
     sentiment 0
     cluster 2
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -9073,7 +16443,29 @@ graph
     ppprofanity 0.037180655
     ppinflammatory 0.16674612
     sentiment 0.5859
-    cluster 3
+    cluster 7
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -9082,7 +16474,7 @@ graph
     step 0
     date "2022-01-31T22:46:10Z"
     title "The New York Times Games acquires Wordle"
-    description "Sara Eisen reports on 'Closing Bell' that The New York Times has acquired the word game Wordle. For access to live and exclusive video from CNBC subscribe to CNBC PRO: https://cnb.cx/2NGeIvi&#160;&#10;&#10;&#187; Subscribe to CNBC TV: https://cnb.cx/SubscribeCNBCtelevision&#10;&#187; Subscribe to CNBC: https://cnb.cx/SubscribeCNBC&#10;&#10;Turn to CNBC TV for the latest stock market news and analysis. From market futures to live price updates CNBC is the leader in business news worldwide.&#10; &#10;The News with Shepard Smith is CNBC&#8217;s daily news podcast providing deep, non-partisan coverage and perspective on the day&#8217;s most important stories. Available to listen by 8:30pm ET / 5:30pm PT daily beginning September 30: https://www.cnbc.com/2020/09/29/the-news-with-shepard-smith-podcast.html?__source=youtube%7Cshepsmith%7Cpodcast&#160;&#10;&#160;&#10;Connect with CNBC News Online&#10;Get the latest news: http://www.cnbc.com/&#10;Follow CNBC on LinkedIn: https://cnb.cx/LinkedInCNBC&#10;Follow CNBC News on Facebook: https://cnb.cx/LikeCNBC&#10;Follow CNBC News on Twitter: https://cnb.cx/FollowCNBC&#10;Follow CNBC News on Instagram: https://cnb.cx/InstagramCNBC&#10;&#10;https://www.cnbc.com/select/best-credit-cards/&#160;&#10;&#10;#CNBC&#10;#CNBCTV"
+    description "Sara Eisen reports on 'Closing Bell' that The New York Times has acquired the word game Wordle. For access to live and exclusive video from CNBC subscribe to CNBC PRO: https://cnb.cx/2NGeIvi&amp;#160;&amp;#10;&amp;#10;&amp;#187; Subscribe to CNBC TV: https://cnb.cx/SubscribeCNBCtelevision&amp;#10;&amp;#187; Subscribe to CNBC: https://cnb.cx/SubscribeCNBC&amp;#10;&amp;#10;Turn to CNBC TV for the latest stock market news and analysis. From market futures to live price updates CNBC is the leader in business news worldwide.&amp;#10; &amp;#10;The News with Shepard Smith is CNBC&amp;#8217;s daily news podcast providing deep, non-partisan coverage and perspective on the day&amp;#8217;s most important stories. Available to listen by 8:30pm ET / 5:30pm PT daily beginning September 30: https://www.cnbc.com/2020/09/29/the-news-with-shepard-smith-podcast.html?__source=youtube%7Cshepsmith%7Cpodcast&amp;#160;&amp;#10;&amp;#160;&amp;#10;Connect with CNBC News Online&amp;#10;Get the latest news: http://www.cnbc.com/&amp;#10;Follow CNBC on LinkedIn: https://cnb.cx/LinkedInCNBC&amp;#10;Follow CNBC News on Facebook: https://cnb.cx/LikeCNBC&amp;#10;Follow CNBC News on Twitter: https://cnb.cx/FollowCNBC&amp;#10;Follow CNBC News on Instagram: https://cnb.cx/InstagramCNBC&amp;#10;&amp;#10;https://www.cnbc.com/select/best-credit-cards/&amp;#160;&amp;#10;&amp;#10;#CNBC&amp;#10;#CNBCTV"
     channeltitle "CNBC Television"
     channelid "UCrp_UI8XtuYfpiqluWLD7Lw"
     favcount 0
@@ -9101,6 +16493,28 @@ graph
     ppinflammatory 0.11782738
     sentiment 0
     cluster 2
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -9109,7 +16523,7 @@ graph
     step 0
     date "2022-07-11T19:00:17Z"
     title "Wordle 387 - 11 July 2022 #Shorts"
-    description "Wordle is now hosted by the New York Times! Join me for the solve every day, and play it yourself here: &#10;https://www.nytimes.com/games/wordle/&#10;&#10;#Wordle&#10;#Shorts"
+    description "Wordle is now hosted by the New York Times! Join me for the solve every day, and play it yourself here: &amp;#10;https://www.nytimes.com/games/wordle/&amp;#10;&amp;#10;#Wordle&amp;#10;#Shorts"
     channeltitle "Chris Remo"
     channelid "UCAWnFCJGAP7YPti-gQSe1ng"
     favcount 0
@@ -9127,7 +16541,29 @@ graph
     ppprofanity 0.10162616
     ppinflammatory 0.11776747
     sentiment 0
-    cluster 3
+    cluster 9
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -9136,7 +16572,7 @@ graph
     step 0
     date "2022-02-24T10:03:35Z"
     title "Wordle 250 for February 24th- What is Todays Wordle? 02/24/2022"
-    description "What is today's Wordle? Let's find out &#38; guess the answer together. Join me for today's 02/24/2022 Wordle number 250 . Felt lucky to get this in 4 guesses!&#10;Everyone's new favorite game. A new word daily, how do you like to play &#38; what's your strategy? Thought I'd try uploading my guesses, hints, and answers, plus cool to archive it. February 24th 2022&#10;&#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&#10;&#10;0:00 Intro&#10;0:33 First Guess&#10;1:45 Boney&#10;2:55 Wordle!&#10;&#10;business contact: emptyapartmentgaming gmail&#10;&#10;#wordle #dailywordleclub"
+    description "What is today's Wordle? Let's find out &amp;#38; guess the answer together. Join me for today's 02/24/2022 Wordle number 250 . Felt lucky to get this in 4 guesses!&amp;#10;Everyone's new favorite game. A new word daily, how do you like to play &amp;#38; what's your strategy? Thought I'd try uploading my guesses, hints, and answers, plus cool to archive it. February 24th 2022&amp;#10;&amp;#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;0:00 Intro&amp;#10;0:33 First Guess&amp;#10;1:45 Boney&amp;#10;2:55 Wordle!&amp;#10;&amp;#10;business contact: emptyapartmentgaming gmail&amp;#10;&amp;#10;#wordle #dailywordleclub"
     channeltitle "Empty Apartment"
     channelid "UCEb4tjgeTW47bD66Xryzx0Q"
     favcount 0
@@ -9155,6 +16591,28 @@ graph
     ppinflammatory 0.07566681
     sentiment 0
     cluster 1
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -9163,7 +16621,7 @@ graph
     step 0
     date "2022-07-06T19:47:32Z"
     title "Wordle July 6 - Whats The Answer Today? Wordle 382"
-    description "What's the Wordle of the Day? Wordle Today 7/06/22 #wordle #dailywordle wordle 382 #wordle382&#10;https://www.twitch.tv/feelgoodkenny"
+    description "What's the Wordle of the Day? Wordle Today 7/06/22 #wordle #dailywordle wordle 382 #wordle382&amp;#10;https://www.twitch.tv/feelgoodkenny"
     channeltitle "FeelGoodKenny Gaming"
     channelid "UCN8UM9PE28fN77TDQvNRwHA"
     favcount 0
@@ -9181,7 +16639,29 @@ graph
     ppprofanity 0.08142664
     ppinflammatory 0.009428696
     sentiment 0
-    cluster 3
+    cluster 9
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -9190,7 +16670,7 @@ graph
     step 0
     date "2022-07-04T14:52:11Z"
     title "Wordle July 4 - Whats The Answer Today? Wordle 380"
-    description "What's the Wordle of the Day? Wordle Today 7/04/22 #wordle #dailywordle wordle 380 #wordle380&#10;https://www.twitch.tv/feelgoodkenny"
+    description "What's the Wordle of the Day? Wordle Today 7/04/22 #wordle #dailywordle wordle 380 #wordle380&amp;#10;https://www.twitch.tv/feelgoodkenny"
     channeltitle "FeelGoodKenny Gaming"
     channelid "UCN8UM9PE28fN77TDQvNRwHA"
     favcount 0
@@ -9208,7 +16688,29 @@ graph
     ppprofanity 0.08695977
     ppinflammatory 0.009998063
     sentiment 0
-    cluster 3
+    cluster 9
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -9217,7 +16719,7 @@ graph
     step 0
     date "2022-07-04T15:02:21Z"
     title "Wordle July 4th, 2022 - Can you guess the word?"
-    description "Check back daily for new Wordle and other Word Puzzles!&#10;&#10;Hi everyone! Today Sean plays Wordle, a fun word logic puzzle.&#10;Can you get the word in fewer guesses? Give it a shot at the link below:&#10;https://www.nytimes.com/games/wordle/index.html&#10;&#10;And check your answers here with WordleBot!&#10;https://www.nytimes.com/interactive/2022/upshot/wordle-bot.html"
+    description "Check back daily for new Wordle and other Word Puzzles!&amp;#10;&amp;#10;Hi everyone! Today Sean plays Wordle, a fun word logic puzzle.&amp;#10;Can you get the word in fewer guesses? Give it a shot at the link below:&amp;#10;https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;And check your answers here with WordleBot!&amp;#10;https://www.nytimes.com/interactive/2022/upshot/wordle-bot.html"
     channeltitle "Sean Plays"
     channelid "UCRlHYIOSfBDAVkz46rnglow"
     favcount 0
@@ -9235,7 +16737,29 @@ graph
     ppprofanity 0.019789107
     ppinflammatory 0.085190125
     sentiment 0
-    cluster 3
+    cluster 9
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -9244,7 +16768,7 @@ graph
     step 0
     date "2022-04-26T18:04:09Z"
     title "Wordle 311 for April 26th - What is Todays Wordle? 04/26/2022"
-    description "What is today's Wordle for 04/26/2022 number 311 ? Join me and let's find out &#38; guess the answer together. Not too bad? Right?&#10;A new word daily, how do you like to play &#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. April 26th 2022&#10;&#10;Follow me on Twitter: https://twitter.com/emptyapartment3&#10;Join our Discord: https://discord.gg/9Py98RU&#10;Buy me a coffee: https://streamelements.com/emptyapartment/tip&#10;&#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&#10;&#10;business contact: emptyapartmentgaming gmail&#10;&#10;&#10;0:00 Intro&#10;0:22 First Guess&#10;1:48 Wordle!&#10;&#10;#wordle #dailywordleclub"
+    description "What is today's Wordle for 04/26/2022 number 311 ? Join me and let's find out &amp;#38; guess the answer together. Not too bad? Right?&amp;#10;A new word daily, how do you like to play &amp;#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. April 26th 2022&amp;#10;&amp;#10;Follow me on Twitter: https://twitter.com/emptyapartment3&amp;#10;Join our Discord: https://discord.gg/9Py98RU&amp;#10;Buy me a coffee: https://streamelements.com/emptyapartment/tip&amp;#10;&amp;#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;business contact: emptyapartmentgaming gmail&amp;#10;&amp;#10;&amp;#10;0:00 Intro&amp;#10;0:22 First Guess&amp;#10;1:48 Wordle!&amp;#10;&amp;#10;#wordle #dailywordleclub"
     channeltitle "Empty Apartment"
     channelid "UCEb4tjgeTW47bD66Xryzx0Q"
     favcount 0
@@ -9263,6 +16787,28 @@ graph
     ppinflammatory 0.07276229
     sentiment 0
     cluster 1
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -9271,7 +16817,7 @@ graph
     step 0
     date "2022-07-11T20:00:08Z"
     title "Wordle July 11 - Whats The Answer Today? Wordle 387"
-    description "What's the Wordle of the Day? Wordle Today 7/11/22 #wordle #dailywordle wordle 387 #wordle387&#10;https://www.twitch.tv/feelgoodkenny"
+    description "What's the Wordle of the Day? Wordle Today 7/11/22 #wordle #dailywordle wordle 387 #wordle387&amp;#10;https://www.twitch.tv/feelgoodkenny"
     channeltitle "FeelGoodKenny Gaming"
     channelid "UCN8UM9PE28fN77TDQvNRwHA"
     favcount 0
@@ -9289,7 +16835,29 @@ graph
     ppprofanity 0.16309893
     ppinflammatory 0.014345056
     sentiment 0
-    cluster 3
+    cluster 9
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -9298,7 +16866,7 @@ graph
     step 0
     date "2022-05-28T04:00:23Z"
     title "Doug plays todays Wordle #343 for 05/28/2022"
-    description "It's May 28, 2022 and Doug is playing today's daily Wordle! &#10;&#10;&#10;Please, if you enjoyed this video, like and subscribe to my channel!&#10;&#10;I can also be found on Twitch!&#10;https://www.twitch.tv/dougmansland&#10;&#10;I'm also on Twitter!&#10;https://twitter.com/dougmansland&#10;&#10;If you enjoy Discord, I have one of those too!&#10;https://discord.gg/MVXvhvg2Zm&#10;&#10;For some reason, I also make Tik Tok videos!&#10;https://www.tiktok.com/@dougmansland?lang=en"
+    description "It's May 28, 2022 and Doug is playing today's daily Wordle! &amp;#10;&amp;#10;&amp;#10;Please, if you enjoyed this video, like and subscribe to my channel!&amp;#10;&amp;#10;I can also be found on Twitch!&amp;#10;https://www.twitch.tv/dougmansland&amp;#10;&amp;#10;I'm also on Twitter!&amp;#10;https://twitter.com/dougmansland&amp;#10;&amp;#10;If you enjoy Discord, I have one of those too!&amp;#10;https://discord.gg/MVXvhvg2Zm&amp;#10;&amp;#10;For some reason, I also make Tik Tok videos!&amp;#10;https://www.tiktok.com/@dougmansland?lang=en"
     channeltitle "DougMansLand"
     channelid "UCkiAm7y8MQCbFwpB-52QRtg"
     favcount 0
@@ -9316,7 +16884,29 @@ graph
     ppprofanity 0.07861455
     ppinflammatory 0.049881727
     sentiment 0.25
-    cluster 8
+    cluster 5
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -9325,7 +16915,7 @@ graph
     step 0
     date "2022-06-10T08:49:24Z"
     title "Wordle 356 for June 10th - Tricky, Tricky!"
-    description "What is today's Wordle for 06/10/2022 number 356 ? Join me and let's find out &#38; guess the answer together. Quite a tricky one today! Wasn't sure.&#10;A new word daily, how do you like to play &#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. June 10th 2022&#10;&#10;Follow me on Twitter: https://twitter.com/emptyapartment3&#10;Join our Discord: https://discord.gg/9Py98RU&#10;Support/Buy me a &#34;coffee&#34;: https://ko-fi.com/emptyapartment&#10;&#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&#10;&#10;business contact: emptyapartmentgaming [at] gmail&#10;&#10;&#10;0:00 Intro&#10;0:20 First Guess&#10;1:10 Pesto Sauce&#10;1:45 Wordle?&#10;&#10;#wordle"
+    description "What is today's Wordle for 06/10/2022 number 356 ? Join me and let's find out &amp;#38; guess the answer together. Quite a tricky one today! Wasn't sure.&amp;#10;A new word daily, how do you like to play &amp;#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. June 10th 2022&amp;#10;&amp;#10;Follow me on Twitter: https://twitter.com/emptyapartment3&amp;#10;Join our Discord: https://discord.gg/9Py98RU&amp;#10;Support/Buy me a &amp;#34;coffee&amp;#34;: https://ko-fi.com/emptyapartment&amp;#10;&amp;#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;business contact: emptyapartmentgaming [at] gmail&amp;#10;&amp;#10;&amp;#10;0:00 Intro&amp;#10;0:20 First Guess&amp;#10;1:10 Pesto Sauce&amp;#10;1:45 Wordle?&amp;#10;&amp;#10;#wordle"
     channeltitle "Empty Apartment"
     channelid "UCEb4tjgeTW47bD66Xryzx0Q"
     favcount 0
@@ -9343,7 +16933,29 @@ graph
     ppprofanity 0.023913236
     ppinflammatory 0.047798123
     sentiment -0.296
-    cluster 2
+    cluster 3
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -9352,8 +16964,8 @@ graph
     step 0
     date "2022-02-21T21:26:26Z"
     title "Pokimane Attempts to Play Wordle Yet Again"
-    description "Credits:&#10;Pokimane | https://twitch.tv/pokimane&#10;&#10;OfflineTV Roster:&#10;Scarra | https://twitter.com/scarra&#10;Pokimane | https://twitter.com/pokimanelol&#10;LilyPichu | https://twitter.com/LilyPichu&#10;Disguised Toast l https://twitter.com/DisguisedToast&#10;Michael Reeves l https://twitter.com/michaelreeves&#10;QuarterJade | https://twitter.com/QuarterJade&#10;Masayoshi | https://twitter.com/ItzMasayoshi&#10;Sydeon | https://twitter.com/Sydeon&#10;&#10;Social links:&#10;https://www.reddit.com/r/offlineTV&#10;https://www.instagram.com/OfflineTV&#10;https://www.twitter.com/OfflineTV&#10;https://www.facebook.com/OfflineTVgg&#10;&#10;Discord Server:&#10;https://discord.gg/EsrzURe&#10;&#10;#pokimane #shorts"
-    channeltitle "OfflineTV &#38; Friends Clips"
+    description "Credits:&amp;#10;Pokimane | https://twitch.tv/pokimane&amp;#10;&amp;#10;OfflineTV Roster:&amp;#10;Scarra | https://twitter.com/scarra&amp;#10;Pokimane | https://twitter.com/pokimanelol&amp;#10;LilyPichu | https://twitter.com/LilyPichu&amp;#10;Disguised Toast l https://twitter.com/DisguisedToast&amp;#10;Michael Reeves l https://twitter.com/michaelreeves&amp;#10;QuarterJade | https://twitter.com/QuarterJade&amp;#10;Masayoshi | https://twitter.com/ItzMasayoshi&amp;#10;Sydeon | https://twitter.com/Sydeon&amp;#10;&amp;#10;Social links:&amp;#10;https://www.reddit.com/r/offlineTV&amp;#10;https://www.instagram.com/OfflineTV&amp;#10;https://www.twitter.com/OfflineTV&amp;#10;https://www.facebook.com/OfflineTVgg&amp;#10;&amp;#10;Discord Server:&amp;#10;https://discord.gg/EsrzURe&amp;#10;&amp;#10;#pokimane #shorts"
+    channeltitle "OfflineTV &amp;#38; Friends Clips"
     channelid "UChMjrHbYZTqD1M8kS9G5U9g"
     favcount 0
     viewcount 2449121
@@ -9371,6 +16983,28 @@ graph
     ppinflammatory 0.17530105
     sentiment 0.34
     cluster 4
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -9379,7 +17013,7 @@ graph
     step 0
     date "2022-05-27T16:00:27Z"
     title "Wordle 342 - 27 May 2022 #Shorts"
-    description "Wordle is now hosted by the New York Times! Join me for the solve every day, and play it yourself here: &#10;https://www.nytimes.com/games/wordle/&#10;&#10;#Wordle&#10;#Shorts"
+    description "Wordle is now hosted by the New York Times! Join me for the solve every day, and play it yourself here: &amp;#10;https://www.nytimes.com/games/wordle/&amp;#10;&amp;#10;#Wordle&amp;#10;#Shorts"
     channeltitle "Chris Remo"
     channelid "UCAWnFCJGAP7YPti-gQSe1ng"
     favcount 0
@@ -9397,7 +17031,29 @@ graph
     ppprofanity 0.044683557
     ppinflammatory 0.18928744
     sentiment 0
-    cluster 5
+    cluster 2
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -9406,7 +17062,7 @@ graph
     step 0
     date "2022-02-01T14:00:24Z"
     title "Hacking Wordle - How to Get the Daily Word in 1 Guess with Code"
-    description "In this video, we hack the Wordle word puzzle game to get the daily word on the first guess - every single time.&#10;&#10;Link to the Wordle Puzzle Solver featured in the video: https://github.com/Justintime50/algorithms/blob/main/algorithms/sorting/wordle_solver.py&#10;&#10;Wordle Daily Puzzle: https://www.powerlanguage.co.uk/wordle/&#10;&#10;* Get $10 of free Crypto: coinbase.com/join/hammon_9usz?src=ios-link&#10;* Get $5 with Venmo: https://get.venmo.com/EgcJ1Mivtkb&#10;* Check out my website: https://justinpaulhammond.com&#10;* Check out my GitHub: https://github.com/justintime50"
+    description "In this video, we hack the Wordle word puzzle game to get the daily word on the first guess - every single time.&amp;#10;&amp;#10;Link to the Wordle Puzzle Solver featured in the video: https://github.com/Justintime50/algorithms/blob/main/algorithms/sorting/wordle_solver.py&amp;#10;&amp;#10;Wordle Daily Puzzle: https://www.powerlanguage.co.uk/wordle/&amp;#10;&amp;#10;* Get $10 of free Crypto: coinbase.com/join/hammon_9usz?src=ios-link&amp;#10;* Get $5 with Venmo: https://get.venmo.com/EgcJ1Mivtkb&amp;#10;* Check out my website: https://justinpaulhammond.com&amp;#10;* Check out my GitHub: https://github.com/justintime50"
     channeltitle "Justin Hammond"
     channelid "UC0F_hIbw9uf3nkK3c01obIA"
     favcount 0
@@ -9424,7 +17080,29 @@ graph
     ppprofanity 0.112827554
     ppinflammatory 0.1993765
     sentiment 0
-    cluster 3
+    cluster 2
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -9433,7 +17111,7 @@ graph
     step 0
     date "2022-07-03T06:07:17Z"
     title "Wordle July 3rd, 2022 - Can you guess the word?"
-    description "Check back daily for new Wordle and other Word Puzzles!&#10;&#10;Hi everyone! Today Sean plays Wordle, a fun word logic puzzle.&#10;Can you get the word in fewer guesses? Give it a shot at the link below:&#10;https://www.nytimes.com/games/wordle/index.html&#10;&#10;And check your answers here with WordleBot!&#10;https://www.nytimes.com/interactive/2022/upshot/wordle-bot.html"
+    description "Check back daily for new Wordle and other Word Puzzles!&amp;#10;&amp;#10;Hi everyone! Today Sean plays Wordle, a fun word logic puzzle.&amp;#10;Can you get the word in fewer guesses? Give it a shot at the link below:&amp;#10;https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;And check your answers here with WordleBot!&amp;#10;https://www.nytimes.com/interactive/2022/upshot/wordle-bot.html"
     channeltitle "Sean Plays"
     channelid "UCRlHYIOSfBDAVkz46rnglow"
     favcount 0
@@ -9451,7 +17129,29 @@ graph
     ppprofanity 0.024897283
     ppinflammatory 0.10991952
     sentiment 0
-    cluster 3
+    cluster 9
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -9460,7 +17160,7 @@ graph
     step 0
     date "2022-05-21T07:34:36Z"
     title "Wordle 336 for May 21st - Great Guess??"
-    description "What is today's Wordle for 05/21/2022 number 336 ? Join me and let's find out &#38; guess the answer together. A good 2nd guess helps us get this one in 3?&#10;A new word daily, how do you like to play &#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. May 21st 2022&#10;&#10;Follow me on Twitter: https://twitter.com/emptyapartment3&#10;Join our Discord: https://discord.gg/9Py98RU&#10;Support/Buy me a &#34;coffee&#34;: https://ko-fi.com/emptyapartment&#10;&#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&#10;&#10;business contact: emptyapartmentgaming gmail&#10;&#10;&#10;0:00 Intro&#10;0:20 First Guess&#10;1:30 Wordle?&#10;&#10;#wordle"
+    description "What is today's Wordle for 05/21/2022 number 336 ? Join me and let's find out &amp;#38; guess the answer together. A good 2nd guess helps us get this one in 3?&amp;#10;A new word daily, how do you like to play &amp;#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. May 21st 2022&amp;#10;&amp;#10;Follow me on Twitter: https://twitter.com/emptyapartment3&amp;#10;Join our Discord: https://discord.gg/9Py98RU&amp;#10;Support/Buy me a &amp;#34;coffee&amp;#34;: https://ko-fi.com/emptyapartment&amp;#10;&amp;#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;business contact: emptyapartmentgaming gmail&amp;#10;&amp;#10;&amp;#10;0:00 Intro&amp;#10;0:20 First Guess&amp;#10;1:30 Wordle?&amp;#10;&amp;#10;#wordle"
     channeltitle "Empty Apartment"
     channelid "UCEb4tjgeTW47bD66Xryzx0Q"
     favcount 0
@@ -9478,7 +17178,29 @@ graph
     ppprofanity 0.010944258
     ppinflammatory 0.07658648
     sentiment 0.6249
-    cluster 3
+    cluster 2
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -9487,7 +17209,7 @@ graph
     step 0
     date "2022-06-11T21:32:05Z"
     title "Getting my hair done at the Wordle salon!"
-    description "(Spoilers 357) For fun, I start with the previous two day's words and use a viewer suggestion for my 3rd!&#10;&#10;Play Wordle here: https://www.nytimes.com/games/wordle/index.html&#10;&#10;======= LIVE STREAMS =======&#10;I stream word games right here on YouTube every night (except Friday) at 7pm PDT! Subscribe and ring the bell and/or join my Discord to get notifications for when I go live!&#10;&#10;======= MEMBERS =======&#10;Join my channel at the Video Enthusiast tier or higher to see the full, uncut videos with my entire thought process!&#10;https://www.youtube.com/rangsk/join&#10;&#10;===== MERCH ===== &#10;You can also support me by buying my super cute merch! All items feature an artistic rendering of my dog Rocky with no other branding! They're super cute!&#10;&#10;Check out my store here: https://rangsks-merch.creator-spring.com/&#10;&#10;======= DISCORD =======&#10;Join my Discord server to hang out and talk about Wordle, Wordle-like games, and other kinds of puzzles like Sudoku.&#10;https://discord.gg/AEhpTG4z45&#10;&#10;#wordle #puzzle #word #game"
+    description "(Spoilers 357) For fun, I start with the previous two day's words and use a viewer suggestion for my 3rd!&amp;#10;&amp;#10;Play Wordle here: https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;======= LIVE STREAMS =======&amp;#10;I stream word games right here on YouTube every night (except Friday) at 7pm PDT! Subscribe and ring the bell and/or join my Discord to get notifications for when I go live!&amp;#10;&amp;#10;======= MEMBERS =======&amp;#10;Join my channel at the Video Enthusiast tier or higher to see the full, uncut videos with my entire thought process!&amp;#10;https://www.youtube.com/rangsk/join&amp;#10;&amp;#10;===== MERCH ===== &amp;#10;You can also support me by buying my super cute merch! All items feature an artistic rendering of my dog Rocky with no other branding! They're super cute!&amp;#10;&amp;#10;Check out my store here: https://rangsks-merch.creator-spring.com/&amp;#10;&amp;#10;======= DISCORD =======&amp;#10;Join my Discord server to hang out and talk about Wordle, Wordle-like games, and other kinds of puzzles like Sudoku.&amp;#10;https://discord.gg/AEhpTG4z45&amp;#10;&amp;#10;#wordle #puzzle #word #game"
     channeltitle "Rangsk"
     channelid "UC1RUqXOT_iaH4b7iXKRWhLw"
     favcount 0
@@ -9505,7 +17227,29 @@ graph
     ppprofanity 0.06263887
     ppinflammatory 0.24608326
     sentiment 0
-    cluster 6
+    cluster 3
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -9514,7 +17258,7 @@ graph
     step 0
     date "2022-05-10T16:53:35Z"
     title "Doug plays todays Wordle #325 05/10/2022 UPDATED WORD"
-    description "PLEASE NOTE: For the second day in a row, the New York Times has seen fit to change today's Wordle solution. I was given the information by our amazing producer Cassandra Hammerstone who insisted we re-record this episode before I read any comments or had today's &#34;real&#34; word spoiled.&#10;&#10;It's May 10, 2022 and Doug is playing today's daily Wordle! &#10;&#10;&#10;Please, if you enjoyed this video, like and subscribe to my channel!&#10;&#10;I can also be found on Twitch!&#10;https://www.twitch.tv/dougmansland&#10;&#10;I'm also on Twitter!&#10;https://twitter.com/dougmansland&#10;&#10;If you enjoy Discord, I have one of those too!&#10;https://discord.gg/MVXvhvg2Zm&#10;&#10;For some reason, I also make Tik Tok videos!&#10;https://www.tiktok.com/@dougmansland?lang=en"
+    description "PLEASE NOTE: For the second day in a row, the New York Times has seen fit to change today's Wordle solution. I was given the information by our amazing producer Cassandra Hammerstone who insisted we re-record this episode before I read any comments or had today's &amp;#34;real&amp;#34; word spoiled.&amp;#10;&amp;#10;It's May 10, 2022 and Doug is playing today's daily Wordle! &amp;#10;&amp;#10;&amp;#10;Please, if you enjoyed this video, like and subscribe to my channel!&amp;#10;&amp;#10;I can also be found on Twitch!&amp;#10;https://www.twitch.tv/dougmansland&amp;#10;&amp;#10;I'm also on Twitter!&amp;#10;https://twitter.com/dougmansland&amp;#10;&amp;#10;If you enjoy Discord, I have one of those too!&amp;#10;https://discord.gg/MVXvhvg2Zm&amp;#10;&amp;#10;For some reason, I also make Tik Tok videos!&amp;#10;https://www.tiktok.com/@dougmansland?lang=en"
     channeltitle "DougMansLand"
     channelid "UCkiAm7y8MQCbFwpB-52QRtg"
     favcount 0
@@ -9532,7 +17276,29 @@ graph
     ppprofanity 0.06754729
     ppinflammatory 0.02202673
     sentiment 0.25
-    cluster 8
+    cluster 5
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -9541,7 +17307,7 @@ graph
     step 0
     date "2022-04-21T11:38:10Z"
     title "Wordle April 21st, 2022 - Can you guess the word?"
-    description "Hi everyone! Today Sean plays Wordle, a fun word logic puzzle.&#10;Can you get the word in fewer guesses? Give it a shot at the link below:&#10;https://www.nytimes.com/games/wordle/index.html&#10;&#10;And check your answers here with WordleBot!&#10;https://www.nytimes.com/interactive/2022/upshot/wordle-bot.html"
+    description "Hi everyone! Today Sean plays Wordle, a fun word logic puzzle.&amp;#10;Can you get the word in fewer guesses? Give it a shot at the link below:&amp;#10;https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;And check your answers here with WordleBot!&amp;#10;https://www.nytimes.com/interactive/2022/upshot/wordle-bot.html"
     channeltitle "Sean Plays"
     channelid "UCRlHYIOSfBDAVkz46rnglow"
     favcount 0
@@ -9559,7 +17325,29 @@ graph
     ppprofanity 0.016860304
     ppinflammatory 0.16433872
     sentiment 0
-    cluster 3
+    cluster 8
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -9568,7 +17356,7 @@ graph
     step 0
     date "2022-05-23T17:07:15Z"
     title "Who wants some Wordle Waffles!?"
-    description "Solving the #Waffle for May 23rd.&#10;Waffle is a #wordle variant where you have to swap the letters to form words.&#10;&#10;You can try Waffle yourself at https://wafflegame.net/&#10;&#10;You can find my other 'Wordle-like' solves here - https://youtube.com/playlist?list=PL_HjFt2zdfHV33cIRgG7tm-AvnfUP9cMG&#10;&#10;Check out all my merch - https://stro.link/merch&#10;Come discuss this puzzle with us on discord - https://stro.link/discord&#10;Become a member of the Stro-Solves YouTube channel - https://stro.link/join"
+    description "Solving the #Waffle for May 23rd.&amp;#10;Waffle is a #wordle variant where you have to swap the letters to form words.&amp;#10;&amp;#10;You can try Waffle yourself at https://wafflegame.net/&amp;#10;&amp;#10;You can find my other 'Wordle-like' solves here - https://youtube.com/playlist?list=PL_HjFt2zdfHV33cIRgG7tm-AvnfUP9cMG&amp;#10;&amp;#10;Check out all my merch - https://stro.link/merch&amp;#10;Come discuss this puzzle with us on discord - https://stro.link/discord&amp;#10;Become a member of the Stro-Solves YouTube channel - https://stro.link/join"
     channeltitle "Scott Stro-solves"
     channelid "UC8HHDytpZ-cs9bavTbgYfmA"
     favcount 0
@@ -9586,7 +17374,29 @@ graph
     ppprofanity 0.10720915
     ppinflammatory 0.2650856
     sentiment 0
-    cluster 2
+    cluster 3
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -9595,7 +17405,7 @@ graph
     step 0
     date "2022-05-07T09:17:17Z"
     title "Wordle 322 for May 7th - Where Does This Go?"
-    description "What is today's Wordle for 05/07/2022 number 322 ? Join me and let's find out &#38; guess the answer together. Where does this D go?&#10;A new word daily, how do you like to play &#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. May 7th 2022&#10;&#10;Follow me on Twitter: https://twitter.com/emptyapartment3&#10;Join our Discord: https://discord.gg/9Py98RU&#10;Buy me a coffee: https://streamelements.com/emptyapartment/tip&#10;&#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&#10;&#10;business contact: emptyapartmentgaming gmail&#10;&#10;&#10;0:00 Intro&#10;0:19 First Guess&#10;1:57 Wordle?&#10;&#10;#wordle"
+    description "What is today's Wordle for 05/07/2022 number 322 ? Join me and let's find out &amp;#38; guess the answer together. Where does this D go?&amp;#10;A new word daily, how do you like to play &amp;#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. May 7th 2022&amp;#10;&amp;#10;Follow me on Twitter: https://twitter.com/emptyapartment3&amp;#10;Join our Discord: https://discord.gg/9Py98RU&amp;#10;Buy me a coffee: https://streamelements.com/emptyapartment/tip&amp;#10;&amp;#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;business contact: emptyapartmentgaming gmail&amp;#10;&amp;#10;&amp;#10;0:00 Intro&amp;#10;0:19 First Guess&amp;#10;1:57 Wordle?&amp;#10;&amp;#10;#wordle"
     channeltitle "Empty Apartment"
     channelid "UCEb4tjgeTW47bD66Xryzx0Q"
     favcount 0
@@ -9613,7 +17423,29 @@ graph
     ppprofanity 0.036082078
     ppinflammatory 0.14495377
     sentiment 0
-    cluster 1
+    cluster 7
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -9622,7 +17454,7 @@ graph
     step 0
     date "2022-06-11T08:07:20Z"
     title "Wordle 357 for June 11th - My Brain"
-    description "What is today's Wordle for 06/11/2022 number 357 ? Join me and let's find out &#38; guess the answer together. Not sure why my brain didn't register the double O lol.&#10;A new word daily, how do you like to play &#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. June 11th 2022&#10;&#10;Follow me on Twitter: https://twitter.com/emptyapartment3&#10;Join our Discord: https://discord.gg/9Py98RU&#10;Support/Buy me a &#34;coffee&#34;: https://ko-fi.com/emptyapartment&#10;&#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&#10;&#10;business contact: emptyapartmentgaming [at] gmail&#10;&#10;&#10;0:00 Intro&#10;0:18 First Guess&#10;1:20 Can't Think&#10;2:20 Wordle?&#10;&#10;#wordle"
+    description "What is today's Wordle for 06/11/2022 number 357 ? Join me and let's find out &amp;#38; guess the answer together. Not sure why my brain didn't register the double O lol.&amp;#10;A new word daily, how do you like to play &amp;#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. June 11th 2022&amp;#10;&amp;#10;Follow me on Twitter: https://twitter.com/emptyapartment3&amp;#10;Join our Discord: https://discord.gg/9Py98RU&amp;#10;Support/Buy me a &amp;#34;coffee&amp;#34;: https://ko-fi.com/emptyapartment&amp;#10;&amp;#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;business contact: emptyapartmentgaming [at] gmail&amp;#10;&amp;#10;&amp;#10;0:00 Intro&amp;#10;0:18 First Guess&amp;#10;1:20 Can't Think&amp;#10;2:20 Wordle?&amp;#10;&amp;#10;#wordle"
     channeltitle "Empty Apartment"
     channelid "UCEb4tjgeTW47bD66Xryzx0Q"
     favcount 0
@@ -9640,7 +17472,29 @@ graph
     ppprofanity 0.15055129
     ppinflammatory 0.4453918
     sentiment 0
-    cluster 2
+    cluster 3
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -9649,7 +17503,7 @@ graph
     step 0
     date "2022-04-09T15:00:24Z"
     title "Wordle 294 - 9 Apr 2022 #Shorts"
-    description "Wordle is now hosted by the New York Times! Join me for the solve every day, and play it yourself here: &#10;https://www.nytimes.com/games/wordle/&#10;&#10;#Wordle&#10;#Shorts"
+    description "Wordle is now hosted by the New York Times! Join me for the solve every day, and play it yourself here: &amp;#10;https://www.nytimes.com/games/wordle/&amp;#10;&amp;#10;#Wordle&amp;#10;#Shorts"
     channeltitle "Chris Remo"
     channelid "UCAWnFCJGAP7YPti-gQSe1ng"
     favcount 0
@@ -9667,7 +17521,29 @@ graph
     ppprofanity 0.04079763
     ppinflammatory 0.10065707
     sentiment 0
-    cluster 4
+    cluster 2
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -9676,7 +17552,7 @@ graph
     step 0
     date "2022-04-13T20:38:55Z"
     title "Wordle - Answer Today #299 : 14 April 2022"
-    description "This is today's solution to the viral Wordle Game #299&#10;Wordle Answer for Today&#10;14 April 2022&#10;&#10;Wordle Solver: https://solvewordle.habeeb.in/&#10;&#10;Did you find the mystery word for today?&#10;Do share your score.&#10;&#10;How to play wordle?&#10;You have 6 attempts to find the hidden word!&#10;Here's the link to playing the viral wordle game: https://www.nytimes.com/games/wordle&#10;&#10;Now start typing in any 5 letter word.&#10;After each attempt, press enter to submit.&#10;&#10;The colors on the tiles give you these clues:&#10;Green - the letter guessed is right and at the right place.&#10;Yellow - the letter guessed is right but at the wrong place. &#10;Grey - The letter is not part of the word&#10;&#10;Happy guessing guys for this viral combination of a crossword and sudoku puzzle.&#10;&#10;#wordle #wordleanswer #todayswordle #wordlesolution #wordle2April #dailywordle #wordleoftheday  #wordle298 #wordleclue #wordlegame #wordletipsandtricks #wordlepuzzle #whatiswordle #howtoplaywordle #dailywordleanswer #solvewordlefast #habinafi"
+    description "This is today's solution to the viral Wordle Game #299&amp;#10;Wordle Answer for Today&amp;#10;14 April 2022&amp;#10;&amp;#10;Wordle Solver: https://solvewordle.habeeb.in/&amp;#10;&amp;#10;Did you find the mystery word for today?&amp;#10;Do share your score.&amp;#10;&amp;#10;How to play wordle?&amp;#10;You have 6 attempts to find the hidden word!&amp;#10;Here's the link to playing the viral wordle game: https://www.nytimes.com/games/wordle&amp;#10;&amp;#10;Now start typing in any 5 letter word.&amp;#10;After each attempt, press enter to submit.&amp;#10;&amp;#10;The colors on the tiles give you these clues:&amp;#10;Green - the letter guessed is right and at the right place.&amp;#10;Yellow - the letter guessed is right but at the wrong place. &amp;#10;Grey - The letter is not part of the word&amp;#10;&amp;#10;Happy guessing guys for this viral combination of a crossword and sudoku puzzle.&amp;#10;&amp;#10;#wordle #wordleanswer #todayswordle #wordlesolution #wordle2April #dailywordle #wordleoftheday  #wordle298 #wordleclue #wordlegame #wordletipsandtricks #wordlepuzzle #whatiswordle #howtoplaywordle #dailywordleanswer #solvewordlefast #habinafi"
     channeltitle "Habi Nafi"
     channelid "UC9zBTgGGtn-n13lG-NgOm2g"
     favcount 0
@@ -9694,7 +17570,29 @@ graph
     ppprofanity 0.06978522
     ppinflammatory 0.035517916
     sentiment 0
-    cluster 8
+    cluster 7
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -9703,7 +17601,7 @@ graph
     step 0
     date "2022-05-08T20:43:04Z"
     title "Wordle - Answer Today #324 : 9 May 2022"
-    description "This is today's solution to the viral Wordle Game #324&#10;Wordle Answer for Today&#10;09 May 2022&#10;&#10;Wordle Solver: https://solvewordle.habeeb.in/&#10;&#10;Did you find the mystery word for today?&#10;Do share your score.&#10;&#10;How to play wordle?&#10;You have 6 attempts to find the hidden word!&#10;Here's the link to playing the viral wordle game: https://www.nytimes.com/games/wordle&#10;&#10;Now start typing in any 5 letter word.&#10;After each attempt, press enter to submit.&#10;&#10;The colors on the tiles give you these clues:&#10;Green - the letter guessed is right and at the right place.&#10;Yellow - the letter guessed is right but at the wrong place. &#10;Grey - The letter is not part of the word&#10;&#10;Happy guessing guys for this viral combination of a crossword and sudoku puzzle.&#10;&#10;#wordle #wordleanswer #todayswordle #wordlesolution #wordle25April #dailywordle #wordleoftheday  #wordle310 #wordleclue #wordlegame #wordletipsandtricks #wordlepuzzle #whatiswordle #howtoplaywordle #dailywordleanswer #solvewordlefast #habinafi"
+    description "This is today's solution to the viral Wordle Game #324&amp;#10;Wordle Answer for Today&amp;#10;09 May 2022&amp;#10;&amp;#10;Wordle Solver: https://solvewordle.habeeb.in/&amp;#10;&amp;#10;Did you find the mystery word for today?&amp;#10;Do share your score.&amp;#10;&amp;#10;How to play wordle?&amp;#10;You have 6 attempts to find the hidden word!&amp;#10;Here's the link to playing the viral wordle game: https://www.nytimes.com/games/wordle&amp;#10;&amp;#10;Now start typing in any 5 letter word.&amp;#10;After each attempt, press enter to submit.&amp;#10;&amp;#10;The colors on the tiles give you these clues:&amp;#10;Green - the letter guessed is right and at the right place.&amp;#10;Yellow - the letter guessed is right but at the wrong place. &amp;#10;Grey - The letter is not part of the word&amp;#10;&amp;#10;Happy guessing guys for this viral combination of a crossword and sudoku puzzle.&amp;#10;&amp;#10;#wordle #wordleanswer #todayswordle #wordlesolution #wordle25April #dailywordle #wordleoftheday  #wordle310 #wordleclue #wordlegame #wordletipsandtricks #wordlepuzzle #whatiswordle #howtoplaywordle #dailywordleanswer #solvewordlefast #habinafi"
     channeltitle "Habi Nafi"
     channelid "UC9zBTgGGtn-n13lG-NgOm2g"
     favcount 0
@@ -9721,7 +17619,29 @@ graph
     ppprofanity 0.040680595
     ppinflammatory 0.06488482
     sentiment 0
-    cluster 6
+    cluster 3
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -9730,7 +17650,7 @@ graph
     step 0
     date "2022-01-30T17:22:57Z"
     title "Wordle + Math = Nerdle!"
-    description "Hi everyone! Today Sean plays Nerdle, a fun word logic puzzle.&#10;Can you get the word in fewer guesses? &#10;&#10;Give it a shot at the link below:&#10;http://nerdlegame.com/&#10;&#10;or check out Wordle here:&#10;https://www.powerlanguage.co.uk/wordle/"
+    description "Hi everyone! Today Sean plays Nerdle, a fun word logic puzzle.&amp;#10;Can you get the word in fewer guesses? &amp;#10;&amp;#10;Give it a shot at the link below:&amp;#10;http://nerdlegame.com/&amp;#10;&amp;#10;or check out Wordle here:&amp;#10;https://www.powerlanguage.co.uk/wordle/"
     channeltitle "Sean Plays"
     channelid "UCRlHYIOSfBDAVkz46rnglow"
     favcount 0
@@ -9748,7 +17668,29 @@ graph
     ppprofanity 0.29266703
     ppinflammatory 0.20131502
     sentiment 0
-    cluster 3
+    cluster 8
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -9757,7 +17699,7 @@ graph
     step 0
     date "2022-04-22T03:52:06Z"
     title "WORDLE #307"
-    description "Play along and try to guess the correct word!! Join The TASTE BUDS - http://www.youtube.com/user/TasteCanada?sub_confirmation=1&#10;&#10;NEW MERCH - https://teespring.com/en-GB/stores/taste-gaming&#10;&#10;My Streaming Channel - Taste Streaming - https://www.youtube.com/channel/UCJUhE14WfObFjlUqaw2xnuQ&#10;&#10;My Relaxation Channel - TasteSerenity - Calming Soothing Music + Sleep Sounds&#10;https://www.youtube.com/channel/UC835jpIQFNESnVVbyApk5sA&#10;&#10;FIND ME HERE:&#10;https://twitter.com/Taste_Gaming                                            &#10;Discord Server - https://discord.gg/4NynzP6&#10;Instragram - https://www.instagram.com/tastegamingcanada&#10;&#10;Outro Song - Solstice Arcanum by Marcus Leblanc    &#10;Marcus's Youtube Channel - https://www.youtube.com/watch?v=iiGftGTR-hY&#10;Marcus's Reverbnation site - https://www.reverbnation.com/marcusleblanc&#10;Marcus's Spotify - https://open.spotify.com/artist/6fg3FT1v17D6Z8fRnBOrwJ&#10;&#10;MY PATREON - https://www.patreon.com/TasteGaming&#10;&#10;Molly Mcbutters channel ( My awesome dog/Rest in Peace sweet girl ) - https://www.youtube.com/channel/UCKxskSz2oCCPH70Sidcw35Q&#10;&#10;To Donate -  https://streamlabs.com/tastegaming&#10;&#10;About my channel - I do not swear in my videos. It focuses on delivering a fun time no matter what type of game i am playing. &#10;&#10;Video Upload Schedule - I try to upload at least 1 video per day, everyday."
+    description "Play along and try to guess the correct word!! Join The TASTE BUDS - http://www.youtube.com/user/TasteCanada?sub_confirmation=1&amp;#10;&amp;#10;NEW MERCH - https://teespring.com/en-GB/stores/taste-gaming&amp;#10;&amp;#10;My Streaming Channel - Taste Streaming - https://www.youtube.com/channel/UCJUhE14WfObFjlUqaw2xnuQ&amp;#10;&amp;#10;My Relaxation Channel - TasteSerenity - Calming Soothing Music + Sleep Sounds&amp;#10;https://www.youtube.com/channel/UC835jpIQFNESnVVbyApk5sA&amp;#10;&amp;#10;FIND ME HERE:&amp;#10;https://twitter.com/Taste_Gaming                                            &amp;#10;Discord Server - https://discord.gg/4NynzP6&amp;#10;Instragram - https://www.instagram.com/tastegamingcanada&amp;#10;&amp;#10;Outro Song - Solstice Arcanum by Marcus Leblanc    &amp;#10;Marcus's Youtube Channel - https://www.youtube.com/watch?v=iiGftGTR-hY&amp;#10;Marcus's Reverbnation site - https://www.reverbnation.com/marcusleblanc&amp;#10;Marcus's Spotify - https://open.spotify.com/artist/6fg3FT1v17D6Z8fRnBOrwJ&amp;#10;&amp;#10;MY PATREON - https://www.patreon.com/TasteGaming&amp;#10;&amp;#10;Molly Mcbutters channel ( My awesome dog/Rest in Peace sweet girl ) - https://www.youtube.com/channel/UCKxskSz2oCCPH70Sidcw35Q&amp;#10;&amp;#10;To Donate -  https://streamlabs.com/tastegaming&amp;#10;&amp;#10;About my channel - I do not swear in my videos. It focuses on delivering a fun time no matter what type of game i am playing. &amp;#10;&amp;#10;Video Upload Schedule - I try to upload at least 1 video per day, everyday."
     channeltitle "Taste Gaming"
     channelid "UCkZR9ulW-aSFWtAZz5-QZXA"
     favcount 0
@@ -9775,7 +17717,29 @@ graph
     ppprofanity 0.079404905
     ppinflammatory 0.06541965
     sentiment 0
-    cluster 4
+    cluster 2
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -9784,7 +17748,7 @@ graph
     step 0
     date "2022-05-19T22:30:01Z"
     title "Will this apt suggestion help me? #Wordle"
-    description "(Spoilers 334) For fun, I start with the previous two day's words and use a viewer suggestion for my 3rd!&#10;&#10;Play Wordle here: https://www.nytimes.com/games/wordle/index.html&#10;&#10;======= LIVE STREAMS =======&#10;I stream word games right here on YouTube every night (except Friday) at 7pm PDT! Subscribe and ring the bell and/or join my Discord to get notifications for when I go live!&#10;&#10;======= MEMBERS =======&#10;Join my channel at the Video Enthusiast tier or higher to see the full, uncut videos with my entire thought process!&#10;https://www.youtube.com/rangsk/join&#10;&#10;===== MERCH ===== &#10;You can also support me by buying my super cute merch! All items feature an artistic rendering of my dog Rocky with no other branding! They're super cute!&#10;&#10;Check out my store here: https://rangsks-merch.creator-spring.com/&#10;&#10;======= DISCORD =======&#10;Join my Discord server to hang out and talk about Wordle, Wordle-like games, and other kinds of puzzles like Sudoku.&#10;https://discord.gg/AEhpTG4z45&#10;&#10;#wordle #puzzle #word #game"
+    description "(Spoilers 334) For fun, I start with the previous two day's words and use a viewer suggestion for my 3rd!&amp;#10;&amp;#10;Play Wordle here: https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;======= LIVE STREAMS =======&amp;#10;I stream word games right here on YouTube every night (except Friday) at 7pm PDT! Subscribe and ring the bell and/or join my Discord to get notifications for when I go live!&amp;#10;&amp;#10;======= MEMBERS =======&amp;#10;Join my channel at the Video Enthusiast tier or higher to see the full, uncut videos with my entire thought process!&amp;#10;https://www.youtube.com/rangsk/join&amp;#10;&amp;#10;===== MERCH ===== &amp;#10;You can also support me by buying my super cute merch! All items feature an artistic rendering of my dog Rocky with no other branding! They're super cute!&amp;#10;&amp;#10;Check out my store here: https://rangsks-merch.creator-spring.com/&amp;#10;&amp;#10;======= DISCORD =======&amp;#10;Join my Discord server to hang out and talk about Wordle, Wordle-like games, and other kinds of puzzles like Sudoku.&amp;#10;https://discord.gg/AEhpTG4z45&amp;#10;&amp;#10;#wordle #puzzle #word #game"
     channeltitle "Rangsk"
     channelid "UC1RUqXOT_iaH4b7iXKRWhLw"
     favcount 0
@@ -9802,7 +17766,29 @@ graph
     ppprofanity 0.071485594
     ppinflammatory 0.1472993
     sentiment 0.4019
-    cluster 6
+    cluster 3
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -9811,7 +17797,7 @@ graph
     step 0
     date "2022-04-19T20:31:13Z"
     title "Wordle April 19 - Whats The Answer Today? Wordle 304"
-    description "What's the Wordle of the Day? Wordle Today 4/19/22 #wordle #dailywordle wordle 3034 #wordle304&#10;https://www.twitch.tv/feelgoodkenny"
+    description "What's the Wordle of the Day? Wordle Today 4/19/22 #wordle #dailywordle wordle 3034 #wordle304&amp;#10;https://www.twitch.tv/feelgoodkenny"
     channeltitle "FeelGoodKenny Gaming"
     channelid "UCN8UM9PE28fN77TDQvNRwHA"
     favcount 0
@@ -9829,7 +17815,29 @@ graph
     ppprofanity 0.08326435
     ppinflammatory 0.017008586
     sentiment 0
-    cluster 4
+    cluster 9
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -9838,7 +17846,7 @@ graph
     step 0
     date "2022-03-04T16:41:56Z"
     title "How to Make Your Own Wordle-style Game"
-    description "Thanks to Flippity.net it is easy to create your own Wordle-style game to share with your students. Watch this video to learn how. &#10;&#128212; 50 Tech Tuesday Tips!&#10;https://byrne-instructional-media-llc.ck.page/products/50-tech-tuesday-tips-for-t?promo=2E5F9F50FB&#10;...&#10;&#9993; Subscribe to my weekly newsletter: &#9993; &#10;https://practicaledtech.com/weekly-newsletter/&#10;...&#10;&#127979; Take a course with me: &#127979;&#10;https://practicaledtech.com/on-demand-pd/&#10;&#10;#games #edtech #wordle"
+    description "Thanks to Flippity.net it is easy to create your own Wordle-style game to share with your students. Watch this video to learn how. &amp;#10;&amp;#128212; 50 Tech Tuesday Tips!&amp;#10;https://byrne-instructional-media-llc.ck.page/products/50-tech-tuesday-tips-for-t?promo=2E5F9F50FB&amp;#10;...&amp;#10;&amp;#9993; Subscribe to my weekly newsletter: &amp;#9993; &amp;#10;https://practicaledtech.com/weekly-newsletter/&amp;#10;...&amp;#10;&amp;#127979; Take a course with me: &amp;#127979;&amp;#10;https://practicaledtech.com/on-demand-pd/&amp;#10;&amp;#10;#games #edtech #wordle"
     channeltitle "Richard Byrne"
     channelid "UCylhHbAUoqgdN-XQpJPobOg"
     favcount 0
@@ -9856,7 +17864,29 @@ graph
     ppprofanity 0.10140764
     ppinflammatory 0.18164253
     sentiment 0
-    cluster 4
+    cluster 3
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -9865,7 +17895,7 @@ graph
     step 0
     date "2022-03-13T02:38:33Z"
     title "Wordle 15 for March 13th - What is Todays Wordle? 03/13/2022"
-    description "What is today's Wordle? Let's find out &#38; guess the answer together. Join me for today's 03/13/2022 Wordle number 14 . Got stuck for a bit but we got there! Everyone's new favorite game. A new word daily, how do you like to play &#38; what's your strategy? Thought I'd try uploading my guesses and answers, plus cool to archive it. March 13th 2022 Play for yourself at: https://www.powerlanguage.co.uk/wordle/ Enjoy the best gaming videos from variety of games. Like and subscribe to our channel for more! #wordle #dailywordleclub #shorts #wordle #youtube shorts&#10;wordle today&#10;todays wordle&#10;today's wordle"
+    description "What is today's Wordle? Let's find out &amp;#38; guess the answer together. Join me for today's 03/13/2022 Wordle number 14 . Got stuck for a bit but we got there! Everyone's new favorite game. A new word daily, how do you like to play &amp;#38; what's your strategy? Thought I'd try uploading my guesses and answers, plus cool to archive it. March 13th 2022 Play for yourself at: https://www.powerlanguage.co.uk/wordle/ Enjoy the best gaming videos from variety of games. Like and subscribe to our channel for more! #wordle #dailywordleclub #shorts #wordle #youtube shorts&amp;#10;wordle today&amp;#10;todays wordle&amp;#10;today's wordle"
     channeltitle "Wordle"
     channelid "UCmWYLX_cTtqxqcbSdFWNNYA"
     favcount 0
@@ -9883,7 +17913,29 @@ graph
     ppprofanity 0.09368475
     ppinflammatory 0.10169917
     sentiment 0
-    cluster 5
+    cluster 2
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -9892,7 +17944,7 @@ graph
     step 0
     date "2022-05-03T04:00:04Z"
     title "Doug plays todays Wordle #318 for 05/03/2022"
-    description "It's May 3, 2022 and Doug is playing today's daily Wordle! &#10;&#10;&#10;Please, if you enjoyed this video, like and subscribe to my channel!&#10;&#10;I can also be found on Twitch!&#10;https://www.twitch.tv/dougmansland&#10;&#10;I'm also on Twitter!&#10;https://twitter.com/dougmansland&#10;&#10;If you enjoy Discord, I have one of those too!&#10;https://discord.gg/MVXvhvg2Zm&#10;&#10;For some reason, I also make Tik Tok videos!&#10;https://www.tiktok.com/@dougmansland?lang=en"
+    description "It's May 3, 2022 and Doug is playing today's daily Wordle! &amp;#10;&amp;#10;&amp;#10;Please, if you enjoyed this video, like and subscribe to my channel!&amp;#10;&amp;#10;I can also be found on Twitch!&amp;#10;https://www.twitch.tv/dougmansland&amp;#10;&amp;#10;I'm also on Twitter!&amp;#10;https://twitter.com/dougmansland&amp;#10;&amp;#10;If you enjoy Discord, I have one of those too!&amp;#10;https://discord.gg/MVXvhvg2Zm&amp;#10;&amp;#10;For some reason, I also make Tik Tok videos!&amp;#10;https://www.tiktok.com/@dougmansland?lang=en"
     channeltitle "DougMansLand"
     channelid "UCkiAm7y8MQCbFwpB-52QRtg"
     favcount 0
@@ -9910,7 +17962,29 @@ graph
     ppprofanity 0.07702065
     ppinflammatory 0.049881727
     sentiment 0.25
-    cluster 8
+    cluster 5
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -9919,7 +17993,7 @@ graph
     step 0
     date "2022-04-17T14:16:18Z"
     title "Wordle April 17th, 2022 - Can you guess the word?"
-    description "Hi everyone! Today Sean plays Wordle, a fun word logic puzzle.&#10;Can you get the word in fewer guesses? Give it a shot at the link below:&#10;https://www.nytimes.com/games/wordle/index.html&#10;&#10;And check your answers here with WordleBot!&#10;https://www.nytimes.com/interactive/2022/upshot/wordle-bot.html"
+    description "Hi everyone! Today Sean plays Wordle, a fun word logic puzzle.&amp;#10;Can you get the word in fewer guesses? Give it a shot at the link below:&amp;#10;https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;And check your answers here with WordleBot!&amp;#10;https://www.nytimes.com/interactive/2022/upshot/wordle-bot.html"
     channeltitle "Sean Plays"
     channelid "UCRlHYIOSfBDAVkz46rnglow"
     favcount 0
@@ -9937,7 +18011,29 @@ graph
     ppprofanity 0.016124645
     ppinflammatory 0.17752393
     sentiment 0
-    cluster 3
+    cluster 8
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -9946,7 +18042,7 @@ graph
     step 0
     date "2022-07-01T23:04:50Z"
     title "Happy Canada Day! I use an unrelated Wordle suggestion "
-    description "(Spoilers 377) For fun, I start with the previous two day's words and use a viewer suggestion for my 3rd!&#10;&#10;Play Wordle here: https://www.nytimes.com/games/wordle/index.html&#10;&#10;======= LIVE STREAMS =======&#10;I stream word games right here on YouTube every night (except Friday) at 7pm PDT! Subscribe and ring the bell and/or join my Discord to get notifications for when I go live!&#10;&#10;======= MEMBERS =======&#10;Join my channel at the Video Enthusiast tier or higher to see the full, uncut videos with my entire thought process!&#10;https://www.youtube.com/rangsk/join&#10;&#10;===== MERCH ===== &#10;You can also support me by buying my super cute merch! All items feature an artistic rendering of my dog Rocky with no other branding! They're super cute!&#10;&#10;Check out my store here: https://rangsks-merch.creator-spring.com/&#10;&#10;======= DISCORD =======&#10;Join my Discord server to hang out and talk about Wordle, Wordle-like games, and other kinds of puzzles like Sudoku.&#10;https://discord.gg/AEhpTG4z45&#10;&#10;#wordle #puzzle #word #game"
+    description "(Spoilers 377) For fun, I start with the previous two day's words and use a viewer suggestion for my 3rd!&amp;#10;&amp;#10;Play Wordle here: https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;======= LIVE STREAMS =======&amp;#10;I stream word games right here on YouTube every night (except Friday) at 7pm PDT! Subscribe and ring the bell and/or join my Discord to get notifications for when I go live!&amp;#10;&amp;#10;======= MEMBERS =======&amp;#10;Join my channel at the Video Enthusiast tier or higher to see the full, uncut videos with my entire thought process!&amp;#10;https://www.youtube.com/rangsk/join&amp;#10;&amp;#10;===== MERCH ===== &amp;#10;You can also support me by buying my super cute merch! All items feature an artistic rendering of my dog Rocky with no other branding! They're super cute!&amp;#10;&amp;#10;Check out my store here: https://rangsks-merch.creator-spring.com/&amp;#10;&amp;#10;======= DISCORD =======&amp;#10;Join my Discord server to hang out and talk about Wordle, Wordle-like games, and other kinds of puzzles like Sudoku.&amp;#10;https://discord.gg/AEhpTG4z45&amp;#10;&amp;#10;#wordle #puzzle #word #game"
     channeltitle "Rangsk"
     channelid "UC1RUqXOT_iaH4b7iXKRWhLw"
     favcount 0
@@ -9964,7 +18060,29 @@ graph
     ppprofanity 0.034179848
     ppinflammatory 0.050730374
     sentiment 0.5719
-    cluster 5
+    cluster 9
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -9991,7 +18109,29 @@ graph
     ppprofanity 0.16618735
     ppinflammatory 0.02061941
     sentiment 0.7037
-    cluster 3
+    cluster 2
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -10000,7 +18140,7 @@ graph
     step 0
     date "2022-02-23T23:45:17Z"
     title "No, The New York Times did not make Wordle harder"
-    description "Every word was pre-determined by the original creator, and The New York Times did not add any new words. We looked at the source code for both games to confirm that's the case.&#10;&#10;READ MORE: https://www.verifythis.com/article/news/verify/technology-verify/no-new-york-times-wordle-not-harder/536-c86100f6-2ec0-487a-a790-fda530c5d443&#10;&#10;------------------------------&#10;At VERIFY, we're answering your questions about what's true and false. Visit our website at verifythis.com&#10;If you've seen a viral claim online and you're not sure whether it's true, let us know!  Email questions@verifythis.com or text us at 202-410-8808.&#10;Find us on social @verifythis.&#10;Facebook: https://www.facebook.com/verifythis&#10;Twitter: https://twitter.com/VerifyThis&#10;Instagram: https://www.instagram.com/verifythis/"
+    description "Every word was pre-determined by the original creator, and The New York Times did not add any new words. We looked at the source code for both games to confirm that's the case.&amp;#10;&amp;#10;READ MORE: https://www.verifythis.com/article/news/verify/technology-verify/no-new-york-times-wordle-not-harder/536-c86100f6-2ec0-487a-a790-fda530c5d443&amp;#10;&amp;#10;------------------------------&amp;#10;At VERIFY, we're answering your questions about what's true and false. Visit our website at verifythis.com&amp;#10;If you've seen a viral claim online and you're not sure whether it's true, let us know!  Email questions@verifythis.com or text us at 202-410-8808.&amp;#10;Find us on social @verifythis.&amp;#10;Facebook: https://www.facebook.com/verifythis&amp;#10;Twitter: https://twitter.com/VerifyThis&amp;#10;Instagram: https://www.instagram.com/verifythis/"
     channeltitle "VERIFY"
     channelid "UCnI90RlIs3yUCDCSVLLGeUA"
     favcount 0
@@ -10019,6 +18159,28 @@ graph
     ppinflammatory 0.19656429
     sentiment -0.296
     cluster 2
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -10027,7 +18189,7 @@ graph
     step 0
     date "2022-07-01T10:26:11Z"
     title "Wordle July 1st, 2022 - Can you guess the word?"
-    description "Check back daily for new Wordle and other Word Puzzles!&#10;&#10;Hi everyone! Today Sean plays Wordle, a fun word logic puzzle.&#10;Can you get the word in fewer guesses? Give it a shot at the link below:&#10;https://www.nytimes.com/games/wordle/index.html&#10;&#10;And check your answers here with WordleBot!&#10;https://www.nytimes.com/interactive/2022/upshot/wordle-bot.html"
+    description "Check back daily for new Wordle and other Word Puzzles!&amp;#10;&amp;#10;Hi everyone! Today Sean plays Wordle, a fun word logic puzzle.&amp;#10;Can you get the word in fewer guesses? Give it a shot at the link below:&amp;#10;https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;And check your answers here with WordleBot!&amp;#10;https://www.nytimes.com/interactive/2022/upshot/wordle-bot.html"
     channeltitle "Sean Plays"
     channelid "UCRlHYIOSfBDAVkz46rnglow"
     favcount 0
@@ -10045,7 +18207,29 @@ graph
     ppprofanity 0.018799856
     ppinflammatory 0.14625798
     sentiment 0
-    cluster 3
+    cluster 8
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -10054,7 +18238,7 @@ graph
     step 0
     date "2022-05-27T13:36:22Z"
     title "Wordle May 27th, 2022 - Can you guess the word?"
-    description "Hi everyone! Today Sean plays Wordle, a fun word logic puzzle.&#10;Can you get the word in fewer guesses? Give it a shot at the link below:&#10;https://www.nytimes.com/games/wordle/index.html&#10;&#10;And check your answers here with WordleBot!&#10;https://www.nytimes.com/interactive/2022/upshot/wordle-bot.html"
+    description "Hi everyone! Today Sean plays Wordle, a fun word logic puzzle.&amp;#10;Can you get the word in fewer guesses? Give it a shot at the link below:&amp;#10;https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;And check your answers here with WordleBot!&amp;#10;https://www.nytimes.com/interactive/2022/upshot/wordle-bot.html"
     channeltitle "Sean Plays"
     channelid "UCRlHYIOSfBDAVkz46rnglow"
     favcount 0
@@ -10072,7 +18256,29 @@ graph
     ppprofanity 0.014165734
     ppinflammatory 0.18407358
     sentiment 0
-    cluster 3
+    cluster 8
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -10081,7 +18287,7 @@ graph
     step 0
     date "2022-05-15T15:21:28Z"
     title "Wordle 330 for May 15th - Red Light, Green Light"
-    description "What is today's Wordle for 05/15/2022 number 330 ? Join me and let's find out &#38; guess the answer together. Sorta tough one!&#10;A new word daily, how do you like to play &#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. May 15th 2022&#10;&#10;Follow me on Twitter: https://twitter.com/emptyapartment3&#10;Join our Discord: https://discord.gg/9Py98RU&#10;Buy me a coffee: https://ko-fi.com/emptyapartment&#10;&#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&#10;&#10;business contact: emptyapartmentgaming gmail&#10;&#10;&#10;0:00 Intro&#10;0:20 First Guess&#10;1:20 Thinking&#10;2:05 Wordle?&#10;&#10;#wordle"
+    description "What is today's Wordle for 05/15/2022 number 330 ? Join me and let's find out &amp;#38; guess the answer together. Sorta tough one!&amp;#10;A new word daily, how do you like to play &amp;#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. May 15th 2022&amp;#10;&amp;#10;Follow me on Twitter: https://twitter.com/emptyapartment3&amp;#10;Join our Discord: https://discord.gg/9Py98RU&amp;#10;Buy me a coffee: https://ko-fi.com/emptyapartment&amp;#10;&amp;#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;business contact: emptyapartmentgaming gmail&amp;#10;&amp;#10;&amp;#10;0:00 Intro&amp;#10;0:20 First Guess&amp;#10;1:20 Thinking&amp;#10;2:05 Wordle?&amp;#10;&amp;#10;#wordle"
     channeltitle "Empty Apartment"
     channelid "UCEb4tjgeTW47bD66Xryzx0Q"
     favcount 0
@@ -10099,7 +18305,29 @@ graph
     ppprofanity 0.023361275
     ppinflammatory 0.14708395
     sentiment 0
-    cluster 6
+    cluster 7
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -10108,7 +18336,7 @@ graph
     step 0
     date "2022-07-12T16:42:18Z"
     title "Is this BY FAR the BEST Wordle start?"
-    description "Pretty good&#10;&#10;Try Wordle for yourself here: https://www.nytimes.com/games/wordle/index.html&#10;&#10;#shorts"
+    description "Pretty good&amp;#10;&amp;#10;Try Wordle for yourself here: https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;#shorts"
     channeltitle "Nuglem"
     channelid "UC0c00NoG3QXAjB4_ItuVTcg"
     favcount 0
@@ -10127,6 +18355,28 @@ graph
     ppinflammatory 0.29072762
     sentiment 0.6369
     cluster 4
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -10135,7 +18385,7 @@ graph
     step 0
     date "2022-02-02T06:10:53Z"
     title "SPOILER ALERT: Wordle of the Day for 2/2/22 ... Wordle has been sold to the New York Times"
-    description "Hi folks! I&#8217;m Suzy, the Gaming Guru--offering help with Wordle (https://www.powerlanguage.co.uk/wordle/), Best Fiends, Candy Crush, and other games. I&#8217;m working on making audio talkthroughs of levels that feature tips, hints, tricks, and strategies."
+    description "Hi folks! I&amp;#8217;m Suzy, the Gaming Guru--offering help with Wordle (https://www.powerlanguage.co.uk/wordle/), Best Fiends, Candy Crush, and other games. I&amp;#8217;m working on making audio talkthroughs of levels that feature tips, hints, tricks, and strategies."
     channeltitle "Suzy Fuller"
     channelid "UCIiRirw2hsjvmSWBlSoMcRw"
     favcount 0
@@ -10153,7 +18403,29 @@ graph
     ppprofanity 0.10560966
     ppinflammatory 0.2073046
     sentiment 0.296
-    cluster 3
+    cluster 2
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -10162,7 +18434,7 @@ graph
     step 0
     date "2022-05-30T20:49:53Z"
     title "Great suggestion, good solve, awful webcam! #Wordle"
-    description "(Spoilers 345) For fun, I start with the previous two day's words and use a viewer suggestion for my 3rd!&#10;&#10;Play Wordle here: https://www.nytimes.com/games/wordle/index.html&#10;&#10;======= LIVE STREAMS =======&#10;I stream word games right here on YouTube every night (except Friday) at 7pm PDT! Subscribe and ring the bell and/or join my Discord to get notifications for when I go live!&#10;&#10;======= MEMBERS =======&#10;Join my channel at the Video Enthusiast tier or higher to see the full, uncut videos with my entire thought process!&#10;https://www.youtube.com/rangsk/join&#10;&#10;===== MERCH ===== &#10;You can also support me by buying my super cute merch! All items feature an artistic rendering of my dog Rocky with no other branding! They're super cute!&#10;&#10;Check out my store here: https://rangsks-merch.creator-spring.com/&#10;&#10;======= DISCORD =======&#10;Join my Discord server to hang out and talk about Wordle, Wordle-like games, and other kinds of puzzles like Sudoku.&#10;https://discord.gg/AEhpTG4z45&#10;&#10;#wordle #puzzle #word #game"
+    description "(Spoilers 345) For fun, I start with the previous two day's words and use a viewer suggestion for my 3rd!&amp;#10;&amp;#10;Play Wordle here: https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;======= LIVE STREAMS =======&amp;#10;I stream word games right here on YouTube every night (except Friday) at 7pm PDT! Subscribe and ring the bell and/or join my Discord to get notifications for when I go live!&amp;#10;&amp;#10;======= MEMBERS =======&amp;#10;Join my channel at the Video Enthusiast tier or higher to see the full, uncut videos with my entire thought process!&amp;#10;https://www.youtube.com/rangsk/join&amp;#10;&amp;#10;===== MERCH ===== &amp;#10;You can also support me by buying my super cute merch! All items feature an artistic rendering of my dog Rocky with no other branding! They're super cute!&amp;#10;&amp;#10;Check out my store here: https://rangsks-merch.creator-spring.com/&amp;#10;&amp;#10;======= DISCORD =======&amp;#10;Join my Discord server to hang out and talk about Wordle, Wordle-like games, and other kinds of puzzles like Sudoku.&amp;#10;https://discord.gg/AEhpTG4z45&amp;#10;&amp;#10;#wordle #puzzle #word #game"
     channeltitle "Rangsk"
     channelid "UC1RUqXOT_iaH4b7iXKRWhLw"
     favcount 0
@@ -10180,7 +18452,29 @@ graph
     ppprofanity 0.16062382
     ppinflammatory 0.15342054
     sentiment 0.7003
-    cluster 6
+    cluster 3
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -10189,7 +18483,7 @@ graph
     step 0
     date "2022-05-02T22:30:06Z"
     title "A shining suggestion! #Wordle #Shorts"
-    description "(Spoilers 317) For fun, I start with the previous two day's words and use a viewer suggestion for my 3rd!&#10;&#10;Play Wordle here: https://www.nytimes.com/games/wordle/index.html&#10;&#10;======= LIVE STREAMS =======&#10;I stream word games right here on YouTube every night (except Friday) at 7pm PDT! Subscribe and ring the bell and/or join my Discord to get notifications for when I go live!&#10;&#10;======= MEMBERS =======&#10;Join my channel at the Video Enthusiast tier or higher to see the full, uncut videos with my entire thought process!&#10;https://www.youtube.com/rangsk/join&#10;&#10;===== MERCH ===== &#10;You can also support me by buying my super cute merch! All items feature an artistic rendering of my dog Rocky with no other branding! They're super cute!&#10;&#10;Check out my store here: https://rangsks-merch.creator-spring.com/&#10;&#10;If you order before April 30th, 2022 you can use promo code ROCKY5 to save 5% at checkout!&#10;&#10;======= DISCORD =======&#10;Join my Discord server to hang out and talk about Wordle, Wordle-like games, and other kinds of puzzles like Sudoku.&#10;https://discord.gg/AEhpTG4z45&#10;&#10;#wordle #shorts #puzzle #word #game"
+    description "(Spoilers 317) For fun, I start with the previous two day's words and use a viewer suggestion for my 3rd!&amp;#10;&amp;#10;Play Wordle here: https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;======= LIVE STREAMS =======&amp;#10;I stream word games right here on YouTube every night (except Friday) at 7pm PDT! Subscribe and ring the bell and/or join my Discord to get notifications for when I go live!&amp;#10;&amp;#10;======= MEMBERS =======&amp;#10;Join my channel at the Video Enthusiast tier or higher to see the full, uncut videos with my entire thought process!&amp;#10;https://www.youtube.com/rangsk/join&amp;#10;&amp;#10;===== MERCH ===== &amp;#10;You can also support me by buying my super cute merch! All items feature an artistic rendering of my dog Rocky with no other branding! They're super cute!&amp;#10;&amp;#10;Check out my store here: https://rangsks-merch.creator-spring.com/&amp;#10;&amp;#10;If you order before April 30th, 2022 you can use promo code ROCKY5 to save 5% at checkout!&amp;#10;&amp;#10;======= DISCORD =======&amp;#10;Join my Discord server to hang out and talk about Wordle, Wordle-like games, and other kinds of puzzles like Sudoku.&amp;#10;https://discord.gg/AEhpTG4z45&amp;#10;&amp;#10;#wordle #shorts #puzzle #word #game"
     channeltitle "Rangsk"
     channelid "UC1RUqXOT_iaH4b7iXKRWhLw"
     favcount 0
@@ -10207,7 +18501,29 @@ graph
     ppprofanity 0.017806318
     ppinflammatory 0.14317796
     sentiment 0
-    cluster 6
+    cluster 9
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -10216,7 +18532,7 @@ graph
     step 0
     date "2022-06-20T06:57:01Z"
     title "Wordle Hard Starting Word Challenge 31 - QUEUE!"
-    description "It's time for another Wordle Hard Starting Word Challenge! This time, I'm challenged to solve a word puzzle starting with QUEUE! Will I solve it??&#10;&#10;Feel free to join in and suggest a painfully hard starting word in the comments below, and know that if it's a valid word, you will keep me up at night, compelled to film myself playing them! &#10;&#10;&#10;Please, if you enjoyed this video, like and subscribe to my channel!&#10;&#10;I can also be found on Twitch!&#10;https://www.twitch.tv/dougmansland&#10;&#10;I'm also on Twitter!&#10;https://twitter.com/dougmansland&#10;&#10;If you enjoy Discord, I have one of those too!&#10;https://discord.gg/MVXvhvg2Zm"
+    description "It's time for another Wordle Hard Starting Word Challenge! This time, I'm challenged to solve a word puzzle starting with QUEUE! Will I solve it??&amp;#10;&amp;#10;Feel free to join in and suggest a painfully hard starting word in the comments below, and know that if it's a valid word, you will keep me up at night, compelled to film myself playing them! &amp;#10;&amp;#10;&amp;#10;Please, if you enjoyed this video, like and subscribe to my channel!&amp;#10;&amp;#10;I can also be found on Twitch!&amp;#10;https://www.twitch.tv/dougmansland&amp;#10;&amp;#10;I'm also on Twitter!&amp;#10;https://twitter.com/dougmansland&amp;#10;&amp;#10;If you enjoy Discord, I have one of those too!&amp;#10;https://discord.gg/MVXvhvg2Zm"
     channeltitle "DougMansLand"
     channelid "UCkiAm7y8MQCbFwpB-52QRtg"
     favcount 0
@@ -10234,7 +18550,29 @@ graph
     ppprofanity 0.09060588
     ppinflammatory 0.102021396
     sentiment -0.0258
-    cluster 2
+    cluster 3
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -10243,7 +18581,7 @@ graph
     step 0
     date "2022-03-13T05:00:11Z"
     title "Doug plays todays Wordle! #267 for 03/13/2022"
-    description "It's March 13, 2022 and Doug is playing today's daily Wordle! &#10;&#10;&#10;Please, if you enjoyed this video, like and subscribe to my channel!&#10;&#10;I can also be found on Twitch!&#10;https://www.twitch.tv/dougmansland&#10;&#10;I'm also on Twitter!&#10;https://twitter.com/dougmansland&#10;&#10;If you enjoy Discord, I have one of those too!&#10;https://discord.gg/MVXvhvg2Zm&#10;&#10;For some reason, I also make Tik Tok videos!&#10;https://www.tiktok.com/@dougmansland?lang=en"
+    description "It's March 13, 2022 and Doug is playing today's daily Wordle! &amp;#10;&amp;#10;&amp;#10;Please, if you enjoyed this video, like and subscribe to my channel!&amp;#10;&amp;#10;I can also be found on Twitch!&amp;#10;https://www.twitch.tv/dougmansland&amp;#10;&amp;#10;I'm also on Twitter!&amp;#10;https://twitter.com/dougmansland&amp;#10;&amp;#10;If you enjoy Discord, I have one of those too!&amp;#10;https://discord.gg/MVXvhvg2Zm&amp;#10;&amp;#10;For some reason, I also make Tik Tok videos!&amp;#10;https://www.tiktok.com/@dougmansland?lang=en"
     channeltitle "DougMansLand"
     channelid "UCkiAm7y8MQCbFwpB-52QRtg"
     favcount 0
@@ -10261,7 +18599,29 @@ graph
     ppprofanity 0.06686224
     ppinflammatory 0.029634507
     sentiment 0.25
-    cluster 8
+    cluster 5
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -10270,7 +18630,7 @@ graph
     step 0
     date "2022-02-14T16:00:01Z"
     title "Wordle 240 - 14 Feb 2022 #Shorts"
-    description "Wordle is now hosted by the New York Times! Join me for the solve every day, and play it yourself here: &#10;https://www.nytimes.com/games/wordle/&#10;&#10;#Wordle&#10;#Shorts"
+    description "Wordle is now hosted by the New York Times! Join me for the solve every day, and play it yourself here: &amp;#10;https://www.nytimes.com/games/wordle/&amp;#10;&amp;#10;#Wordle&amp;#10;#Shorts"
     channeltitle "Chris Remo"
     channelid "UCAWnFCJGAP7YPti-gQSe1ng"
     favcount 0
@@ -10288,7 +18648,29 @@ graph
     ppprofanity 0.049044732
     ppinflammatory 0.13167989
     sentiment 0
-    cluster 5
+    cluster 2
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -10297,7 +18679,7 @@ graph
     step 0
     date "2022-06-08T22:20:14Z"
     title "The cutest Wordle suggestion!"
-    description "(Spoilers 354) For fun, I start with the previous two day's words and use a viewer suggestion for my 3rd!&#10;&#10;Play Wordle here: https://www.nytimes.com/games/wordle/index.html&#10;&#10;======= LIVE STREAMS =======&#10;I stream word games right here on YouTube every night (except Friday) at 7pm PDT! Subscribe and ring the bell and/or join my Discord to get notifications for when I go live!&#10;&#10;======= MEMBERS =======&#10;Join my channel at the Video Enthusiast tier or higher to see the full, uncut videos with my entire thought process!&#10;https://www.youtube.com/rangsk/join&#10;&#10;===== MERCH ===== &#10;You can also support me by buying my super cute merch! All items feature an artistic rendering of my dog Rocky with no other branding! They're super cute!&#10;&#10;Check out my store here: https://rangsks-merch.creator-spring.com/&#10;&#10;======= DISCORD =======&#10;Join my Discord server to hang out and talk about Wordle, Wordle-like games, and other kinds of puzzles like Sudoku.&#10;https://discord.gg/AEhpTG4z45&#10;&#10;#wordle #puzzle #word #game"
+    description "(Spoilers 354) For fun, I start with the previous two day's words and use a viewer suggestion for my 3rd!&amp;#10;&amp;#10;Play Wordle here: https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;======= LIVE STREAMS =======&amp;#10;I stream word games right here on YouTube every night (except Friday) at 7pm PDT! Subscribe and ring the bell and/or join my Discord to get notifications for when I go live!&amp;#10;&amp;#10;======= MEMBERS =======&amp;#10;Join my channel at the Video Enthusiast tier or higher to see the full, uncut videos with my entire thought process!&amp;#10;https://www.youtube.com/rangsk/join&amp;#10;&amp;#10;===== MERCH ===== &amp;#10;You can also support me by buying my super cute merch! All items feature an artistic rendering of my dog Rocky with no other branding! They're super cute!&amp;#10;&amp;#10;Check out my store here: https://rangsks-merch.creator-spring.com/&amp;#10;&amp;#10;======= DISCORD =======&amp;#10;Join my Discord server to hang out and talk about Wordle, Wordle-like games, and other kinds of puzzles like Sudoku.&amp;#10;https://discord.gg/AEhpTG4z45&amp;#10;&amp;#10;#wordle #puzzle #word #game"
     channeltitle "Rangsk"
     channelid "UC1RUqXOT_iaH4b7iXKRWhLw"
     favcount 0
@@ -10315,7 +18697,29 @@ graph
     ppprofanity 0.056674052
     ppinflammatory 0.2542685
     sentiment 0.5859
-    cluster 2
+    cluster 3
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -10324,7 +18728,7 @@ graph
     step 0
     date "2022-04-22T20:29:42Z"
     title "Wordle - Answer Today #308 : 23 April 2022"
-    description "This is today's solution to the viral Wordle Game #308&#10;Wordle Answer for Today&#10;23 April 2022&#10;&#10;Wordle Solver: https://solvewordle.habeeb.in/&#10;&#10;Did you find the mystery word for today?&#10;Do share your score.&#10;&#10;How to play wordle?&#10;You have 6 attempts to find the hidden word!&#10;Here's the link to playing the viral wordle game: https://www.nytimes.com/games/wordle&#10;&#10;Now start typing in any 5 letter word.&#10;After each attempt, press enter to submit.&#10;&#10;The colors on the tiles give you these clues:&#10;Green - the letter guessed is right and at the right place.&#10;Yellow - the letter guessed is right but at the wrong place. &#10;Grey - The letter is not part of the word&#10;&#10;Happy guessing guys for this viral combination of a crossword and sudoku puzzle.&#10;&#10;#wordle #wordleanswer #todayswordle #wordlesolution #wordle2April #dailywordle #wordleoftheday  #wordle298 #wordleclue #wordlegame #wordletipsandtricks #wordlepuzzle #whatiswordle #howtoplaywordle #dailywordleanswer #solvewordlefast #habinafi"
+    description "This is today's solution to the viral Wordle Game #308&amp;#10;Wordle Answer for Today&amp;#10;23 April 2022&amp;#10;&amp;#10;Wordle Solver: https://solvewordle.habeeb.in/&amp;#10;&amp;#10;Did you find the mystery word for today?&amp;#10;Do share your score.&amp;#10;&amp;#10;How to play wordle?&amp;#10;You have 6 attempts to find the hidden word!&amp;#10;Here's the link to playing the viral wordle game: https://www.nytimes.com/games/wordle&amp;#10;&amp;#10;Now start typing in any 5 letter word.&amp;#10;After each attempt, press enter to submit.&amp;#10;&amp;#10;The colors on the tiles give you these clues:&amp;#10;Green - the letter guessed is right and at the right place.&amp;#10;Yellow - the letter guessed is right but at the wrong place. &amp;#10;Grey - The letter is not part of the word&amp;#10;&amp;#10;Happy guessing guys for this viral combination of a crossword and sudoku puzzle.&amp;#10;&amp;#10;#wordle #wordleanswer #todayswordle #wordlesolution #wordle2April #dailywordle #wordleoftheday  #wordle298 #wordleclue #wordlegame #wordletipsandtricks #wordlepuzzle #whatiswordle #howtoplaywordle #dailywordleanswer #solvewordlefast #habinafi"
     channeltitle "Habi Nafi"
     channelid "UC9zBTgGGtn-n13lG-NgOm2g"
     favcount 0
@@ -10342,7 +18746,29 @@ graph
     ppprofanity 0.06255352
     ppinflammatory 0.035517916
     sentiment 0
-    cluster 3
+    cluster 2
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -10351,7 +18777,7 @@ graph
     step 0
     date "2022-02-01T20:54:28Z"
     title "I am the Worlds Best Wordle Player"
-    description "Yes, you can speedrun Wordle, and no, you can't do more than 1 run per day.&#10;&#10;LIVE &#9654; https://www.twitch.tv/lugswo&#10;DISCORD &#9654; https://discord.gg/VTtp9fGApe&#10;TWITTER &#9654; https://twitter.com/lugswo&#10;&#10;LINKS TO THE GAMES:&#10;Wordle - https://www.powerlanguage.co.uk/wordle/&#10;Letterle - https://edjefferson.com/letterle/&#10;Sweardle - https://sweardle.com/&#10;Absurdle - https://qntm.org/files/absurdle/absurdle.html&#10;Squirdle - https://squirdle.fireblend.com/&#10;&#10;Outro Music: Coalescence from Risk of Rain&#10;&#10;Thank you so much for watching!  Subscribe for more and follow me on Twitch if you wanna watch live!&#10;&#10;#Lugswo #wordle #stream"
+    description "Yes, you can speedrun Wordle, and no, you can't do more than 1 run per day.&amp;#10;&amp;#10;LIVE &amp;#9654; https://www.twitch.tv/lugswo&amp;#10;DISCORD &amp;#9654; https://discord.gg/VTtp9fGApe&amp;#10;TWITTER &amp;#9654; https://twitter.com/lugswo&amp;#10;&amp;#10;LINKS TO THE GAMES:&amp;#10;Wordle - https://www.powerlanguage.co.uk/wordle/&amp;#10;Letterle - https://edjefferson.com/letterle/&amp;#10;Sweardle - https://sweardle.com/&amp;#10;Absurdle - https://qntm.org/files/absurdle/absurdle.html&amp;#10;Squirdle - https://squirdle.fireblend.com/&amp;#10;&amp;#10;Outro Music: Coalescence from Risk of Rain&amp;#10;&amp;#10;Thank you so much for watching!  Subscribe for more and follow me on Twitch if you wanna watch live!&amp;#10;&amp;#10;#Lugswo #wordle #stream"
     channeltitle "Lugswo"
     channelid "UC4gLhh4nv0QQCieopnV48TA"
     favcount 0
@@ -10370,6 +18796,28 @@ graph
     ppinflammatory 0.06280286
     sentiment 0.6369
     cluster 4
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -10378,7 +18826,7 @@ graph
     step 0
     date "2022-06-23T17:03:00Z"
     title "Wordle 369 for June 23rd"
-    description "What is today's Wordle for 06/23/2022 number 369 ? Join me and let's find out &#38; guess the answer together. Nice and easy today!&#10;A new word daily, how do you like to play &#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. June 23rd 2022&#10;&#10;Follow me on Twitter: https://twitter.com/emptyapartment3&#10;Join our Discord: https://discord.gg/9Py98RU&#10;Support/Buy me a &#34;coffee&#34;: https://ko-fi.com/emptyapartment&#10;&#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&#10;&#10;business contact: emptyapartmentgaming [at] gmail&#10;&#10;&#10;0:00 Intro&#10;0:18 First Guess&#10;1:05 Wordle?&#10;&#10;#wordle"
+    description "What is today's Wordle for 06/23/2022 number 369 ? Join me and let's find out &amp;#38; guess the answer together. Nice and easy today!&amp;#10;A new word daily, how do you like to play &amp;#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. June 23rd 2022&amp;#10;&amp;#10;Follow me on Twitter: https://twitter.com/emptyapartment3&amp;#10;Join our Discord: https://discord.gg/9Py98RU&amp;#10;Support/Buy me a &amp;#34;coffee&amp;#34;: https://ko-fi.com/emptyapartment&amp;#10;&amp;#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;business contact: emptyapartmentgaming [at] gmail&amp;#10;&amp;#10;&amp;#10;0:00 Intro&amp;#10;0:18 First Guess&amp;#10;1:05 Wordle?&amp;#10;&amp;#10;#wordle"
     channeltitle "Empty Apartment"
     channelid "UCEb4tjgeTW47bD66Xryzx0Q"
     favcount 0
@@ -10396,7 +18844,29 @@ graph
     ppprofanity 0.089731075
     ppinflammatory 0.07274931
     sentiment 0
-    cluster 6
+    cluster 3
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -10405,7 +18875,7 @@ graph
     step 0
     date "2022-04-13T13:42:35Z"
     title "Wordle April 13th, 2022 - Can you guess the word?"
-    description "Hi everyone! Today Sean plays Wordle, a fun word logic puzzle.&#10;Can you get the word in fewer guesses? Give it a shot at the link below:&#10;https://www.nytimes.com/games/wordle/index.html&#10;&#10;And check your answers here with WordleBot!&#10;https://www.nytimes.com/interactive/2022/upshot/wordle-bot.html"
+    description "Hi everyone! Today Sean plays Wordle, a fun word logic puzzle.&amp;#10;Can you get the word in fewer guesses? Give it a shot at the link below:&amp;#10;https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;And check your answers here with WordleBot!&amp;#10;https://www.nytimes.com/interactive/2022/upshot/wordle-bot.html"
     channeltitle "Sean Plays"
     channelid "UCRlHYIOSfBDAVkz46rnglow"
     favcount 0
@@ -10423,7 +18893,29 @@ graph
     ppprofanity 0.019971354
     ppinflammatory 0.17752393
     sentiment 0
-    cluster 3
+    cluster 8
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -10432,7 +18924,7 @@ graph
     step 0
     date "2022-02-26T14:00:12Z"
     title "Wordle Best Starting Word Revisited [How to Win More]"
-    description "Wordle is sweeping the Internet. Wordle: Best Starting Word Revisited will help you when selecting the best starting word for wordle if you want to win more. If you want to know how to play the wordle word game, how to win at wordle, you need to be able to select the best starting word.&#10;&#10;Wordle game instructions start with a blank screen, so it helps to have strategically pick that first word rather than randomly selecting any five-letter word. Wordle and accounts payable often go together. The #wordle beginning word is critical when it comes to success in playing the game. Use the correct first word and you have a shot at occasionally winning in two rounds. #wordlestrategy #wordlestartingword&#10;&#10;Wordle rules limit you to six chances to guess the five-letter word. It may seem impossible, but many are doing it in even fewer guesses. The wordle Best starting word revisited helps you select the wordle best starting word.&#10;The best starting word for wordle depends upon your strategy. There are several and the wordle starting word for each is examined in this discussion. The best wordle starter is sometimes not what you&#8217;d expect. &#10;&#10;The best wordle words start with the best wordle start starting word. The best wordle start word should be part of your best wordle strategy. The wordle best beginning word takes some thought. The beginning strategy is selecting the wordle best first word. That is the first step in learning how to wordle.&#10;The best wordle words start with the best wordle start starting word. The best wordle start word should be part of your best wordle strategy. The wordle best beginning word takes some thought. The beginning strategy is selecting the wordle best first word. That is the first step in learning how to wordle. The wordle best starting word to win more is often not what you&#8217;d expect. Plus the wordle strategy to win more is not the same as the wordle strategy to win faster. Also, there is really no wordle strategy to win every game. But the wordle best first word to win more is a step in that direction and is one of our wordle first word tips.&#10;&#10;Link to The Book: Wordle: The Rules, Strategy and Expert Tips&#10;https://www.ap-now.com/snip/111.htm&#10;&#10;Link to the Wordle Play List:&#10;https://www.youtube.com/playlist?list=PLtL6rWSXZ-HefxYm4ymJ0RSWKFC_c9Lys &#10;Link to Wordle: Picking the Best First Word&#10;https://youtu.be/BGAPtxljHqY&#10;&#10;Interested in learning more about issues impacting accounts payable. &#10;Sign up for AP Now&#8217;s free ezine at: www.ap-now.com&#10;Host: Mary Schaeffer (www.ap-now.com)"
+    description "Wordle is sweeping the Internet. Wordle: Best Starting Word Revisited will help you when selecting the best starting word for wordle if you want to win more. If you want to know how to play the wordle word game, how to win at wordle, you need to be able to select the best starting word.&amp;#10;&amp;#10;Wordle game instructions start with a blank screen, so it helps to have strategically pick that first word rather than randomly selecting any five-letter word. Wordle and accounts payable often go together. The #wordle beginning word is critical when it comes to success in playing the game. Use the correct first word and you have a shot at occasionally winning in two rounds. #wordlestrategy #wordlestartingword&amp;#10;&amp;#10;Wordle rules limit you to six chances to guess the five-letter word. It may seem impossible, but many are doing it in even fewer guesses. The wordle Best starting word revisited helps you select the wordle best starting word.&amp;#10;The best starting word for wordle depends upon your strategy. There are several and the wordle starting word for each is examined in this discussion. The best wordle starter is sometimes not what you&amp;#8217;d expect. &amp;#10;&amp;#10;The best wordle words start with the best wordle start starting word. The best wordle start word should be part of your best wordle strategy. The wordle best beginning word takes some thought. The beginning strategy is selecting the wordle best first word. That is the first step in learning how to wordle.&amp;#10;The best wordle words start with the best wordle start starting word. The best wordle start word should be part of your best wordle strategy. The wordle best beginning word takes some thought. The beginning strategy is selecting the wordle best first word. That is the first step in learning how to wordle. The wordle best starting word to win more is often not what you&amp;#8217;d expect. Plus the wordle strategy to win more is not the same as the wordle strategy to win faster. Also, there is really no wordle strategy to win every game. But the wordle best first word to win more is a step in that direction and is one of our wordle first word tips.&amp;#10;&amp;#10;Link to The Book: Wordle: The Rules, Strategy and Expert Tips&amp;#10;https://www.ap-now.com/snip/111.htm&amp;#10;&amp;#10;Link to the Wordle Play List:&amp;#10;https://www.youtube.com/playlist?list=PLtL6rWSXZ-HefxYm4ymJ0RSWKFC_c9Lys &amp;#10;Link to Wordle: Picking the Best First Word&amp;#10;https://youtu.be/BGAPtxljHqY&amp;#10;&amp;#10;Interested in learning more about issues impacting accounts payable. &amp;#10;Sign up for AP Now&amp;#8217;s free ezine at: www.ap-now.com&amp;#10;Host: Mary Schaeffer (www.ap-now.com)"
     channeltitle "AP Now"
     channelid "UC1_51mIdja4KL9cSOdfmFbA"
     favcount 0
@@ -10450,7 +18942,29 @@ graph
     ppprofanity 0.040733382
     ppinflammatory 0.14065413
     sentiment 0.8402
-    cluster 3
+    cluster 2
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -10459,7 +18973,7 @@ graph
     step 0
     date "2022-04-25T15:00:13Z"
     title "Wordle 310 - 25 Apr 2022 #Shorts"
-    description "Wordle is now hosted by the New York Times! Join me for the solve every day, and play it yourself here: &#10;https://www.nytimes.com/games/wordle/&#10;&#10;#Wordle&#10;#Shorts"
+    description "Wordle is now hosted by the New York Times! Join me for the solve every day, and play it yourself here: &amp;#10;https://www.nytimes.com/games/wordle/&amp;#10;&amp;#10;#Wordle&amp;#10;#Shorts"
     channeltitle "Chris Remo"
     channelid "UCAWnFCJGAP7YPti-gQSe1ng"
     favcount 0
@@ -10477,7 +18991,29 @@ graph
     ppprofanity 0.042825818
     ppinflammatory 0.10804425
     sentiment 0
-    cluster 5
+    cluster 2
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -10486,7 +19022,7 @@ graph
     step 0
     date "2022-01-29T10:00:04Z"
     title "Wordle 224 for 01/29/2022 - What is Todays Wordle? January 29th"
-    description "What is today's Wordle? Let's find out &#38; guess the answer together. Join me for today's 01/29/2022 Wordle number 224. Wow did not expect that...&#10;Everyone's new favorite game. A new word daily, how do you like to play &#38; what's your strategy? Thought I'd try uploading my guesses and answers, plus cool to archive it. January 29th 2022&#10;&#10;Play for yourself at: https://www.powerlanguage.co.uk/wordle/&#10;&#10;0:00 Intro&#10;0:30 First Guess&#10;0:50 Wordle??&#10;&#10;business contact: emptyapartmentgaming gmail&#10;&#10;#wordle #dailywordleclub"
+    description "What is today's Wordle? Let's find out &amp;#38; guess the answer together. Join me for today's 01/29/2022 Wordle number 224. Wow did not expect that...&amp;#10;Everyone's new favorite game. A new word daily, how do you like to play &amp;#38; what's your strategy? Thought I'd try uploading my guesses and answers, plus cool to archive it. January 29th 2022&amp;#10;&amp;#10;Play for yourself at: https://www.powerlanguage.co.uk/wordle/&amp;#10;&amp;#10;0:00 Intro&amp;#10;0:30 First Guess&amp;#10;0:50 Wordle??&amp;#10;&amp;#10;business contact: emptyapartmentgaming gmail&amp;#10;&amp;#10;#wordle #dailywordleclub"
     channeltitle "Empty Apartment"
     channelid "UCEb4tjgeTW47bD66Xryzx0Q"
     favcount 0
@@ -10505,6 +19041,28 @@ graph
     ppinflammatory 0.06653313
     sentiment 0
     cluster 1
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -10513,7 +19071,7 @@ graph
     step 0
     date "2022-03-23T20:00:12Z"
     title "Wordle 277 - 23 Mar 2022 #Shorts"
-    description "Wordle is now hosted by the New York Times! Join me for the solve every day, and play it yourself here: &#10;https://www.nytimes.com/games/wordle/&#10;&#10;#Wordle&#10;#Shorts"
+    description "Wordle is now hosted by the New York Times! Join me for the solve every day, and play it yourself here: &amp;#10;https://www.nytimes.com/games/wordle/&amp;#10;&amp;#10;#Wordle&amp;#10;#Shorts"
     channeltitle "Chris Remo"
     channelid "UCAWnFCJGAP7YPti-gQSe1ng"
     favcount 0
@@ -10531,7 +19089,29 @@ graph
     ppprofanity 0.051250212
     ppinflammatory 0.13753098
     sentiment 0
-    cluster 5
+    cluster 2
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -10540,7 +19120,7 @@ graph
     step 0
     date "2022-01-25T06:22:21Z"
     title "SS 01 - How to Play Wordle | Wordle Tamil Tutorial | Wordle Explanation | KaKis Talkies"
-    description "#Wordle #Wordleanswer #Wordle231&#10;&#10;The formal intro - 0:07&#10;Wordle&#2985;&#3006;? - 0:46&#10;Tutorial aka Screen Recording Starts - 1:07&#10;&#2951;&#2997;&#3021;&#2995;&#3019;&#2980;&#3006;&#2985;&#3021; - 6:36&#10;&#10;Wordle Link - https://www.powerlanguage.co.uk/wordle/&#10;&#10;Here is the first episode in my new series Samooga Sevai aka Social Service aka SS where i try to help my viewers with few things i know. In this first episode i talk about the latest internet phenomenon/sensation/viral game wordle. A simple word game which has become a recent obsession for many and a startling puzzler for few which it is not. See the video and i hope it will help you understand and play wordle. Have the same fun as others.&#10;&#10;Default Description &#10;&#10;Kaki's Talkies is my narcissistic space - youtube channel to review movies, sing songs, share my thoughts on various unwanted topics aimed only to entertain and share. or you can just subscribe to watch all the movie reviews, tamil, telugu, hindi, malayalam, english and all the other language movies which has subtitles. &#10;&#10;Subscribe - Share - Like - Comment&#10;&#10;Twitter @karthickkrishna&#10;&#10;insta @karthickkrishnacs&#10;&#10;Facebook - https://www.facebook.com/karthickkrishna"
+    description "#Wordle #Wordleanswer #Wordle231&amp;#10;&amp;#10;The formal intro - 0:07&amp;#10;Wordle&amp;#2985;&amp;#3006;? - 0:46&amp;#10;Tutorial aka Screen Recording Starts - 1:07&amp;#10;&amp;#2951;&amp;#2997;&amp;#3021;&amp;#2995;&amp;#3019;&amp;#2980;&amp;#3006;&amp;#2985;&amp;#3021; - 6:36&amp;#10;&amp;#10;Wordle Link - https://www.powerlanguage.co.uk/wordle/&amp;#10;&amp;#10;Here is the first episode in my new series Samooga Sevai aka Social Service aka SS where i try to help my viewers with few things i know. In this first episode i talk about the latest internet phenomenon/sensation/viral game wordle. A simple word game which has become a recent obsession for many and a startling puzzler for few which it is not. See the video and i hope it will help you understand and play wordle. Have the same fun as others.&amp;#10;&amp;#10;Default Description &amp;#10;&amp;#10;Kaki's Talkies is my narcissistic space - youtube channel to review movies, sing songs, share my thoughts on various unwanted topics aimed only to entertain and share. or you can just subscribe to watch all the movie reviews, tamil, telugu, hindi, malayalam, english and all the other language movies which has subtitles. &amp;#10;&amp;#10;Subscribe - Share - Like - Comment&amp;#10;&amp;#10;Twitter @karthickkrishna&amp;#10;&amp;#10;insta @karthickkrishnacs&amp;#10;&amp;#10;Facebook - https://www.facebook.com/karthickkrishna"
     channeltitle "KaKi's Talkies"
     channelid "UC3Rey0d4AtvWyHVu0SC-VXA"
     favcount 0
@@ -10559,6 +19139,28 @@ graph
     ppinflammatory 0.0038164128
     sentiment 0.34
     cluster 2
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -10567,7 +19169,7 @@ graph
     step 0
     date "2022-03-10T06:45:35Z"
     title "Wordle March 10th, 2022 - Can you guess the word?"
-    description "Hi everyone! Today Sean plays Wordle, a fun word logic puzzle.&#10;Can you get the word in fewer guesses? Give it a shot at the link below:&#10;https://www.nytimes.com/games/wordle/index.html&#10;&#10;And check your answers here with SCOREDLE!&#10;https://scoredle.com/"
+    description "Hi everyone! Today Sean plays Wordle, a fun word logic puzzle.&amp;#10;Can you get the word in fewer guesses? Give it a shot at the link below:&amp;#10;https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;And check your answers here with SCOREDLE!&amp;#10;https://scoredle.com/"
     channeltitle "Sean Plays"
     channelid "UCRlHYIOSfBDAVkz46rnglow"
     favcount 0
@@ -10585,7 +19187,29 @@ graph
     ppprofanity 0.022985851
     ppinflammatory 0.20460115
     sentiment 0
-    cluster 3
+    cluster 8
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -10612,7 +19236,29 @@ graph
     ppprofanity 0.05808939
     ppinflammatory 0.07402042
     sentiment 0
-    cluster 7
+    cluster 6
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -10639,7 +19285,29 @@ graph
     ppprofanity 0.081578895
     ppinflammatory 0.026177203
     sentiment 0
-    cluster 3
+    cluster 9
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -10648,7 +19316,7 @@ graph
     step 0
     date "2022-06-12T08:18:24Z"
     title "Wordle 358 for June 12th - Whats Wordle?"
-    description "What is today's Wordle for 06/12/2022 number 358 ? Join me and let's find out &#38; guess the answer together. Felt nice to get a good guess ha.&#10;A new word daily, how do you like to play &#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. June 12th 2022&#10;&#10;Follow me on Twitter: https://twitter.com/emptyapartment3&#10;Join our Discord: https://discord.gg/9Py98RU&#10;Support/Buy me a &#34;coffee&#34;: https://ko-fi.com/emptyapartment&#10;&#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&#10;&#10;business contact: emptyapartmentgaming [at] gmail&#10;&#10;&#10;0:00 Intro&#10;0:18 First Guess&#10;1:20 Wordle?&#10;&#10;#wordle"
+    description "What is today's Wordle for 06/12/2022 number 358 ? Join me and let's find out &amp;#38; guess the answer together. Felt nice to get a good guess ha.&amp;#10;A new word daily, how do you like to play &amp;#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. June 12th 2022&amp;#10;&amp;#10;Follow me on Twitter: https://twitter.com/emptyapartment3&amp;#10;Join our Discord: https://discord.gg/9Py98RU&amp;#10;Support/Buy me a &amp;#34;coffee&amp;#34;: https://ko-fi.com/emptyapartment&amp;#10;&amp;#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;business contact: emptyapartmentgaming [at] gmail&amp;#10;&amp;#10;&amp;#10;0:00 Intro&amp;#10;0:18 First Guess&amp;#10;1:20 Wordle?&amp;#10;&amp;#10;#wordle"
     channeltitle "Empty Apartment"
     channelid "UCEb4tjgeTW47bD66Xryzx0Q"
     favcount 0
@@ -10666,7 +19334,29 @@ graph
     ppprofanity 0.081251785
     ppinflammatory 0.04465213
     sentiment 0
-    cluster 2
+    cluster 3
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -10675,7 +19365,7 @@ graph
     step 0
     date "2022-03-29T04:00:09Z"
     title "Doug plays todays Wordle! #283 for 03/29/2022"
-    description "It's March 29, 2022 and Doug is playing today's daily Wordle! &#10;&#10;&#10;Please, if you enjoyed this video, like and subscribe to my channel!&#10;&#10;I can also be found on Twitch!&#10;https://www.twitch.tv/dougmansland&#10;&#10;I'm also on Twitter!&#10;https://twitter.com/dougmansland&#10;&#10;If you enjoy Discord, I have one of those too!&#10;https://discord.gg/MVXvhvg2Zm&#10;&#10;For some reason, I also make Tik Tok videos!&#10;https://www.tiktok.com/@dougmansland?lang=en"
+    description "It's March 29, 2022 and Doug is playing today's daily Wordle! &amp;#10;&amp;#10;&amp;#10;Please, if you enjoyed this video, like and subscribe to my channel!&amp;#10;&amp;#10;I can also be found on Twitch!&amp;#10;https://www.twitch.tv/dougmansland&amp;#10;&amp;#10;I'm also on Twitter!&amp;#10;https://twitter.com/dougmansland&amp;#10;&amp;#10;If you enjoy Discord, I have one of those too!&amp;#10;https://discord.gg/MVXvhvg2Zm&amp;#10;&amp;#10;For some reason, I also make Tik Tok videos!&amp;#10;https://www.tiktok.com/@dougmansland?lang=en"
     channeltitle "DougMansLand"
     channelid "UCkiAm7y8MQCbFwpB-52QRtg"
     favcount 0
@@ -10693,7 +19383,29 @@ graph
     ppprofanity 0.055812076
     ppinflammatory 0.029634507
     sentiment 0.25
-    cluster 8
+    cluster 5
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -10720,7 +19432,29 @@ graph
     ppprofanity 0.05541563
     ppinflammatory 0.09603057
     sentiment 0
-    cluster 7
+    cluster 6
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -10729,7 +19463,7 @@ graph
     step 0
     date "2022-07-06T12:56:31Z"
     title "Wordle July 6th, 2022 - Can you guess the word?"
-    description "Check back daily for new Wordle and other Word Puzzles!&#10;&#10;Hi everyone! Today Sean plays Wordle, a fun word logic puzzle.&#10;Can you get the word in fewer guesses? Give it a shot at the link below:&#10;https://www.nytimes.com/games/wordle/index.html&#10;&#10;And check your answers here with WordleBot!&#10;https://www.nytimes.com/interactive/2022/upshot/wordle-bot.html"
+    description "Check back daily for new Wordle and other Word Puzzles!&amp;#10;&amp;#10;Hi everyone! Today Sean plays Wordle, a fun word logic puzzle.&amp;#10;Can you get the word in fewer guesses? Give it a shot at the link below:&amp;#10;https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;And check your answers here with WordleBot!&amp;#10;https://www.nytimes.com/interactive/2022/upshot/wordle-bot.html"
     channeltitle "Sean Plays"
     channelid "UCRlHYIOSfBDAVkz46rnglow"
     favcount 0
@@ -10747,7 +19481,29 @@ graph
     ppprofanity 0.019119639
     ppinflammatory 0.121353425
     sentiment 0
-    cluster 3
+    cluster 9
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -10756,7 +19512,7 @@ graph
     step 0
     date "2022-02-23T16:00:00Z"
     title "Wordle 249 - 23 Feb 2022 #Shorts"
-    description "Wordle is now hosted by the New York Times! Join me for the solve every day, and play it yourself here: &#10;https://www.nytimes.com/games/wordle/&#10;&#10;#Wordle&#10;#Shorts"
+    description "Wordle is now hosted by the New York Times! Join me for the solve every day, and play it yourself here: &amp;#10;https://www.nytimes.com/games/wordle/&amp;#10;&amp;#10;#Wordle&amp;#10;#Shorts"
     channeltitle "Chris Remo"
     channelid "UCAWnFCJGAP7YPti-gQSe1ng"
     favcount 0
@@ -10774,7 +19530,29 @@ graph
     ppprofanity 0.056531366
     ppinflammatory 0.13167989
     sentiment 0
-    cluster 5
+    cluster 2
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -10783,7 +19561,7 @@ graph
     step 0
     date "2022-06-24T15:00:30Z"
     title "I Turned Wordle Into a Twitter Bot"
-    description "I challenged myself to recreate Wordle as a Twitter bot in just 3 hours, using the Twitter bot API! &#10;&#10;WATCH LIVE &#9658; https://www.twitch.tv/polymars&#10;&#8594; Main Channel - https://youtube.com/polymars&#10;&#8594; Twitter - https://twitter.com/PolyMarsYT&#10;&#8594; Instagram - https://www.instagram.com/polymarsdev/&#10;&#8594; Discord - https://discord.gg/sGecnxuwxu&#10;&#10;--If you liked this video, here are similar ones you might enjoy!---&#10;&#10;PolyMars - Making a Game With Twitter's Bot API&#10;https://youtu.be/cREl1kB6hRs&#10;PolyMars - Making a Game With Discord's Bot API&#10;https://youtu.be/0fWdU8JCT6Y&#10;Whos Suda - I played Wordle for a MONTH..&#10;https://youtu.be/srqPnVckJEk&#10;Jabrils - i fixed the world's most popular game's biggest mistake&#10;https://youtu.be/gt68aCEb15E&#10;PolyMars - Making a Game With C++ and SDL2&#10;https://youtu.be/iEn0ozP-jxc&#10;PolyMars - Learning SDL2 in 48 Hours - GMTK Game Jam 2020&#10;https://youtu.be/EAMHQfCGymg&#10;PolyMars - Best Python Game Wins $1000 - Game Making Challenge&#10;https://youtu.be/PC_pAgJopIA&#10;CodyCantEatThis - I Made Pokemon Red &#38; Blue but its 3D&#10;https://youtu.be/0Id0LQj7pIs&#10;Dani - Adding a Giant Crab to my Game So Netflix doesn't Sue me&#10;https://youtu.be/iP_F_k2rtpg"
+    description "I challenged myself to recreate Wordle as a Twitter bot in just 3 hours, using the Twitter bot API! &amp;#10;&amp;#10;WATCH LIVE &amp;#9658; https://www.twitch.tv/polymars&amp;#10;&amp;#8594; Main Channel - https://youtube.com/polymars&amp;#10;&amp;#8594; Twitter - https://twitter.com/PolyMarsYT&amp;#10;&amp;#8594; Instagram - https://www.instagram.com/polymarsdev/&amp;#10;&amp;#8594; Discord - https://discord.gg/sGecnxuwxu&amp;#10;&amp;#10;--If you liked this video, here are similar ones you might enjoy!---&amp;#10;&amp;#10;PolyMars - Making a Game With Twitter's Bot API&amp;#10;https://youtu.be/cREl1kB6hRs&amp;#10;PolyMars - Making a Game With Discord's Bot API&amp;#10;https://youtu.be/0fWdU8JCT6Y&amp;#10;Whos Suda - I played Wordle for a MONTH..&amp;#10;https://youtu.be/srqPnVckJEk&amp;#10;Jabrils - i fixed the world's most popular game's biggest mistake&amp;#10;https://youtu.be/gt68aCEb15E&amp;#10;PolyMars - Making a Game With C++ and SDL2&amp;#10;https://youtu.be/iEn0ozP-jxc&amp;#10;PolyMars - Learning SDL2 in 48 Hours - GMTK Game Jam 2020&amp;#10;https://youtu.be/EAMHQfCGymg&amp;#10;PolyMars - Best Python Game Wins $1000 - Game Making Challenge&amp;#10;https://youtu.be/PC_pAgJopIA&amp;#10;CodyCantEatThis - I Made Pokemon Red &amp;#38; Blue but its 3D&amp;#10;https://youtu.be/0Id0LQj7pIs&amp;#10;Dani - Adding a Giant Crab to my Game So Netflix doesn't Sue me&amp;#10;https://youtu.be/iP_F_k2rtpg"
     channeltitle "PolyMars++"
     channelid "UCud4SwNoVHIi-f40pcmBKnA"
     favcount 0
@@ -10801,7 +19579,29 @@ graph
     ppprofanity 0.09651601
     ppinflammatory 0.13267346
     sentiment 0
-    cluster 6
+    cluster 7
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -10810,7 +19610,7 @@ graph
     step 0
     date "2022-04-06T22:30:07Z"
     title "Persistence pays off! #Wordle #Shorts"
-    description "(Spoilers 291) For fun, I start with the previous two day's words!&#10;&#10;Play Wordle here: https://www.nytimes.com/games/wordle/index.html&#10;&#10;======= LIVE STREAMS =======&#10;I stream word games right here on YouTube every night (except Friday) at 7pm PDT! Subscribe and ring the bell and/or join my Discord to get notifications for when I go live!&#10;&#10;======= MEMBERS =======&#10;Join my channel at the Video Enthusiast tier or higher to see the full, uncut videos with my entire thought process!&#10;https://www.youtube.com/rangsk/join&#10;&#10;===== MERCH ===== &#10;You can also support me by buying my super cute merch! All items feature an artistic rendering of my dog Rocky with no other branding! They're super cute!&#10;&#10;Check out my store here: https://rangsks-merch.creator-spring.com/&#10;&#10;If you order before April 30th, 2022 you can use promo code ROCKY5 to save 5% at checkout!&#10;&#10;======= DISCORD =======&#10;Join my Discord server to hang out and talk about Wordle, Wordle-like games, and other kinds of puzzles like Sudoku.&#10;https://discord.gg/AEhpTG4z45&#10;&#10;#wordle #shorts #puzzle #word #game"
+    description "(Spoilers 291) For fun, I start with the previous two day's words!&amp;#10;&amp;#10;Play Wordle here: https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;======= LIVE STREAMS =======&amp;#10;I stream word games right here on YouTube every night (except Friday) at 7pm PDT! Subscribe and ring the bell and/or join my Discord to get notifications for when I go live!&amp;#10;&amp;#10;======= MEMBERS =======&amp;#10;Join my channel at the Video Enthusiast tier or higher to see the full, uncut videos with my entire thought process!&amp;#10;https://www.youtube.com/rangsk/join&amp;#10;&amp;#10;===== MERCH ===== &amp;#10;You can also support me by buying my super cute merch! All items feature an artistic rendering of my dog Rocky with no other branding! They're super cute!&amp;#10;&amp;#10;Check out my store here: https://rangsks-merch.creator-spring.com/&amp;#10;&amp;#10;If you order before April 30th, 2022 you can use promo code ROCKY5 to save 5% at checkout!&amp;#10;&amp;#10;======= DISCORD =======&amp;#10;Join my Discord server to hang out and talk about Wordle, Wordle-like games, and other kinds of puzzles like Sudoku.&amp;#10;https://discord.gg/AEhpTG4z45&amp;#10;&amp;#10;#wordle #shorts #puzzle #word #game"
     channeltitle "Rangsk"
     channelid "UC1RUqXOT_iaH4b7iXKRWhLw"
     favcount 0
@@ -10828,7 +19628,29 @@ graph
     ppprofanity 0.05689392
     ppinflammatory 0.13379174
     sentiment 0
-    cluster 6
+    cluster 3
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -10837,7 +19659,7 @@ graph
     step 0
     date "2022-02-26T16:00:12Z"
     title "5 Reasons WORDLE is a Psychological MASTERPIECE"
-    description "Why is WORDLE so viral? Let's break down this accidental masterpiece of human psychology.&#10;&#10;#nudge #behavioralscience #wordle #behavioraleconomics&#10;&#10;Follow me!&#10;Behavioral Science Instagram: @petebitsofficial&#10;Instagram: @petejudo&#10;Twitter: @petejudo&#10;LinkedIn: Peter Judodihardjo"
+    description "Why is WORDLE so viral? Let's break down this accidental masterpiece of human psychology.&amp;#10;&amp;#10;#nudge #behavioralscience #wordle #behavioraleconomics&amp;#10;&amp;#10;Follow me!&amp;#10;Behavioral Science Instagram: @petebitsofficial&amp;#10;Instagram: @petejudo&amp;#10;Twitter: @petejudo&amp;#10;LinkedIn: Peter Judodihardjo"
     channeltitle "Pete Judo"
     channelid "UC20iyvAXUZPraEqCAk0zDbw"
     favcount 0
@@ -10855,7 +19677,29 @@ graph
     ppprofanity 0.15571687
     ppinflammatory 0.19341366
     sentiment 0.6249
-    cluster 5
+    cluster 2
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -10864,7 +19708,7 @@ graph
     step 0
     date "2022-05-01T17:00:31Z"
     title "Wordle 316 - 1 May 2022 #Shorts"
-    description "Wordle is now hosted by the New York Times! Join me for the solve every day, and play it yourself here: &#10;https://www.nytimes.com/games/wordle/&#10;&#10;#Wordle&#10;#Shorts"
+    description "Wordle is now hosted by the New York Times! Join me for the solve every day, and play it yourself here: &amp;#10;https://www.nytimes.com/games/wordle/&amp;#10;&amp;#10;#Wordle&amp;#10;#Shorts"
     channeltitle "Chris Remo"
     channelid "UCAWnFCJGAP7YPti-gQSe1ng"
     favcount 0
@@ -10882,7 +19726,29 @@ graph
     ppprofanity 0.03574828
     ppinflammatory 0.16507109
     sentiment 0
-    cluster 5
+    cluster 9
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -10891,7 +19757,7 @@ graph
     step 0
     date "2022-03-27T19:36:28Z"
     title "Wordle 281 for March 27th - Can I Buy a Vowel? What is Todays Wordle? 03/27/2022"
-    description "What is today's Wordle for 03/27/2022 Wordle number 281 ? Join me and let's find out &#38; guess the answer together. What? No Vowels?&#10;A new word daily, how do you like to play &#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. March 27th 2022&#10;&#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&#10;&#10;0:00 Intro&#10;0:29 First Guess&#10;2:33 Wordle&#10;&#10;&#10;business contact: emptyapartmentgaming gmail&#10;&#10;#wordle #dailywordleclub"
+    description "What is today's Wordle for 03/27/2022 Wordle number 281 ? Join me and let's find out &amp;#38; guess the answer together. What? No Vowels?&amp;#10;A new word daily, how do you like to play &amp;#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. March 27th 2022&amp;#10;&amp;#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;0:00 Intro&amp;#10;0:29 First Guess&amp;#10;2:33 Wordle&amp;#10;&amp;#10;&amp;#10;business contact: emptyapartmentgaming gmail&amp;#10;&amp;#10;#wordle #dailywordleclub"
     channeltitle "Empty Apartment"
     channelid "UCEb4tjgeTW47bD66Xryzx0Q"
     favcount 0
@@ -10910,6 +19776,28 @@ graph
     ppinflammatory 0.28009692
     sentiment 0
     cluster 1
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -10918,7 +19806,7 @@ graph
     step 0
     date "2022-02-26T11:59:08Z"
     title "STIZZ-atraa | Sinatraa tries Wordle"
-    description "Sinatraa plays Wordle...&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;#valorant, #Sinatraa, #SinatraaandProd, #Sinatraa&#38;Prod, #Tarik, #TenZ"
+    description "Sinatraa plays Wordle...&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;#valorant, #Sinatraa, #SinatraaandProd, #Sinatraa&amp;#38;Prod, #Tarik, #TenZ"
     channeltitle "DaNKeChick'n"
     channelid "UCmh_2mDv-i5FeWr-NaL9EHg"
     favcount 0
@@ -10936,7 +19824,29 @@ graph
     ppprofanity 0.14672029
     ppinflammatory 0.030924125
     sentiment 0
-    cluster 4
+    cluster 3
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -10945,7 +19855,7 @@ graph
     step 0
     date "2022-04-12T15:00:08Z"
     title "Wordle 297 - 12 Apr 2022 #Shorts"
-    description "Wordle is now hosted by the New York Times! Join me for the solve every day, and play it yourself here: &#10;https://www.nytimes.com/games/wordle/&#10;&#10;#Wordle&#10;#Shorts"
+    description "Wordle is now hosted by the New York Times! Join me for the solve every day, and play it yourself here: &amp;#10;https://www.nytimes.com/games/wordle/&amp;#10;&amp;#10;#Wordle&amp;#10;#Shorts"
     channeltitle "Chris Remo"
     channelid "UCAWnFCJGAP7YPti-gQSe1ng"
     favcount 0
@@ -10963,7 +19873,29 @@ graph
     ppprofanity 0.050528694
     ppinflammatory 0.10804425
     sentiment 0
-    cluster 5
+    cluster 2
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -10990,7 +19922,29 @@ graph
     ppprofanity 0.062453035
     ppinflammatory 0.0940374
     sentiment 0
-    cluster 7
+    cluster 6
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -10999,7 +19953,7 @@ graph
     step 0
     date "2022-03-23T21:41:23Z"
     title "My 1st Time Playing the NFL Version of Wordle -- Weddle #1"
-    description "weddlegame.com&#10;&#10;twitter: @ckbirds&#10;&#10;Thanks for watching"
+    description "weddlegame.com&amp;#10;&amp;#10;twitter: @ckbirds&amp;#10;&amp;#10;Thanks for watching"
     channeltitle "Ck the 2nd"
     channelid "UCsGOpYqmxubIHXcP6Njs8cg"
     favcount 0
@@ -11017,7 +19971,29 @@ graph
     ppprofanity 0.041159872
     ppinflammatory 0.15646353
     sentiment 0.2023
-    cluster 3
+    cluster 7
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -11026,7 +20002,7 @@ graph
     step 0
     date "2022-01-23T20:19:20Z"
     title "Wordle, explained. #shorts"
-    description "Do you play? This is the story of how wordle started #shorts&#10;&#10;&#10;OUR FREE NEWSLETTER: http://www.ThePublishPress.com&#10;&#10;OUR ONLINE COURSE: &#10;&#127916;  Make better YouTube Videos: http://moment.8ocm68.net/keM6z&#10;&#10;WHAT WE USE TO MAKE VIDEOS:&#10;&#127909;  Our YouTube Camera Gear: https://amzn.to/3coHTR2&#10;&#127925;  Where we get our Music (amazing for Creators): http://share.mscbd.fm/colinandsamir&#10;&#127897;  Our Podcast Gear: https://amzn.to/2YpfPVC&#10;&#10;&#128200;  Our Most Popular YouTube Videos&#10;&#127916;  Why Mr Beast will be A Billionaire: https://youtu.be/oopD9FX7a_c&#10;&#127916;  Why David Dobrik Laughs so Much: https://youtu.be/fjZSLHvkg14&#10;&#127916;  Airrack&#8217;s $17,000 Gamble: https://youtu.be/kzBU9gEHx_M&#10;&#10;RECOMMENDED Reading&#10;&#128212;  Growth Hacker Marketing by Ryan Holiday: https://amzn.to/3r3jmFl&#10;&#128211;  The Practice by Seth Godin: https://amzn.to/3coyrgA&#10;&#128211;  This is Marketing by Seth Godin: https://amzn.to/3aeg8bf&#10;&#10;&#127897; Listen to the show &#10;iTunes: https://apple.co/2K1pYhu&#10;Spotify: https://spoti.fi/2OnTmBC&#10;&#10;GET IN TOUCH&#10;&#127757; Our website - www.colinandsamir.com &#10;&#127757; Advertise With Us - partnerships@publishprojects.com&#10; &#10;Join Our Community&#10;&#128248; Instagram - https://instagram.com/colinandsamir&#10;&#128038; Twitter - https://twitter.com/ColinandSamir&#10;&#127916;  Clips Channel - https://bit.ly/3b4mfk9&#10;&#10;WHO ARE WE:&#10;We&#8217;re Colin and Samir, creators based out of Los Angeles California. We make videos about the creator economy, and the lessons we&#8217;ve learned over 10 years of being on YouTube. We also interview creators and try and get to the bottom of what&#8217;s working on YouTube and where the creator economy is headed. We are currently working on building education with creators, if you want to learn more, sign up for our weekly newsletter. &#10;&#10;Ask us a Question:&#10;Tweet us @colinandsamir or email us at Colinandsamir@gmail.com - if your email is long, we might not read it, but you never know&#8230;"
+    description "Do you play? This is the story of how wordle started #shorts&amp;#10;&amp;#10;&amp;#10;OUR FREE NEWSLETTER: http://www.ThePublishPress.com&amp;#10;&amp;#10;OUR ONLINE COURSE: &amp;#10;&amp;#127916;  Make better YouTube Videos: http://moment.8ocm68.net/keM6z&amp;#10;&amp;#10;WHAT WE USE TO MAKE VIDEOS:&amp;#10;&amp;#127909;  Our YouTube Camera Gear: https://amzn.to/3coHTR2&amp;#10;&amp;#127925;  Where we get our Music (amazing for Creators): http://share.mscbd.fm/colinandsamir&amp;#10;&amp;#127897;  Our Podcast Gear: https://amzn.to/2YpfPVC&amp;#10;&amp;#10;&amp;#128200;  Our Most Popular YouTube Videos&amp;#10;&amp;#127916;  Why Mr Beast will be A Billionaire: https://youtu.be/oopD9FX7a_c&amp;#10;&amp;#127916;  Why David Dobrik Laughs so Much: https://youtu.be/fjZSLHvkg14&amp;#10;&amp;#127916;  Airrack&amp;#8217;s $17,000 Gamble: https://youtu.be/kzBU9gEHx_M&amp;#10;&amp;#10;RECOMMENDED Reading&amp;#10;&amp;#128212;  Growth Hacker Marketing by Ryan Holiday: https://amzn.to/3r3jmFl&amp;#10;&amp;#128211;  The Practice by Seth Godin: https://amzn.to/3coyrgA&amp;#10;&amp;#128211;  This is Marketing by Seth Godin: https://amzn.to/3aeg8bf&amp;#10;&amp;#10;&amp;#127897; Listen to the show &amp;#10;iTunes: https://apple.co/2K1pYhu&amp;#10;Spotify: https://spoti.fi/2OnTmBC&amp;#10;&amp;#10;GET IN TOUCH&amp;#10;&amp;#127757; Our website - www.colinandsamir.com &amp;#10;&amp;#127757; Advertise With Us - partnerships@publishprojects.com&amp;#10; &amp;#10;Join Our Community&amp;#10;&amp;#128248; Instagram - https://instagram.com/colinandsamir&amp;#10;&amp;#128038; Twitter - https://twitter.com/ColinandSamir&amp;#10;&amp;#127916;  Clips Channel - https://bit.ly/3b4mfk9&amp;#10;&amp;#10;WHO ARE WE:&amp;#10;We&amp;#8217;re Colin and Samir, creators based out of Los Angeles California. We make videos about the creator economy, and the lessons we&amp;#8217;ve learned over 10 years of being on YouTube. We also interview creators and try and get to the bottom of what&amp;#8217;s working on YouTube and where the creator economy is headed. We are currently working on building education with creators, if you want to learn more, sign up for our weekly newsletter. &amp;#10;&amp;#10;Ask us a Question:&amp;#10;Tweet us @colinandsamir or email us at Colinandsamir@gmail.com - if your email is long, we might not read it, but you never know&amp;#8230;"
     channeltitle "Colin and Samir"
     channelid "UCamLstJyCa-t5gfZegxsFMw"
     favcount 0
@@ -11044,7 +20020,29 @@ graph
     ppprofanity 0.037679594
     ppinflammatory 0.04283689
     sentiment 0
-    cluster 4
+    cluster 7
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -11053,7 +20051,7 @@ graph
     step 0
     date "2022-05-22T07:46:03Z"
     title "Wordle 337 for May 22nd - 6 is better than 7"
-    description "What is today's Wordle for 05/22/2022 number 337 ? Join me and let's find out &#38; guess the answer together. Cutting it close!&#10;A new word daily, how do you like to play &#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. May 22nd 2022&#10;&#10;Follow me on Twitter: https://twitter.com/emptyapartment3&#10;Join our Discord: https://discord.gg/9Py98RU&#10;Support/Buy me a &#34;coffee&#34;: https://ko-fi.com/emptyapartment&#10;&#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&#10;&#10;business contact: emptyapartmentgaming gmail&#10;&#10;&#10;0:00 Intro&#10;0:18 First Guess&#10;1:05 Donor&#10;1:55 Wordle&#10;&#10;#wordle"
+    description "What is today's Wordle for 05/22/2022 number 337 ? Join me and let's find out &amp;#38; guess the answer together. Cutting it close!&amp;#10;A new word daily, how do you like to play &amp;#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. May 22nd 2022&amp;#10;&amp;#10;Follow me on Twitter: https://twitter.com/emptyapartment3&amp;#10;Join our Discord: https://discord.gg/9Py98RU&amp;#10;Support/Buy me a &amp;#34;coffee&amp;#34;: https://ko-fi.com/emptyapartment&amp;#10;&amp;#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;business contact: emptyapartmentgaming gmail&amp;#10;&amp;#10;&amp;#10;0:00 Intro&amp;#10;0:18 First Guess&amp;#10;1:05 Donor&amp;#10;1:55 Wordle&amp;#10;&amp;#10;#wordle"
     channeltitle "Empty Apartment"
     channelid "UCEb4tjgeTW47bD66Xryzx0Q"
     favcount 0
@@ -11071,7 +20069,29 @@ graph
     ppprofanity 0.029386656
     ppinflammatory 0.05048483
     sentiment 0.4404
-    cluster 1
+    cluster 2
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -11080,7 +20100,7 @@ graph
     step 0
     date "2022-03-01T05:00:19Z"
     title "Doug plays todays Wordle! #255 for 03/01/2022"
-    description "It's March 1, 2022 and Doug is playing today's daily Wordle! &#10;&#10;&#10;Please, if you enjoyed this video, like and subscribe to my channel!&#10;&#10;I can also be found on Twitch!&#10;https://www.twitch.tv/dougmansland&#10;&#10;I'm also on Twitter!&#10;https://twitter.com/dougmansland&#10;&#10;If you enjoy Discord, I have one of those too!&#10;https://discord.gg/MVXvhvg2Zm&#10;&#10;For some reason, I also make Tik Tok videos!&#10;https://www.tiktok.com/@dougmansland?lang=en"
+    description "It's March 1, 2022 and Doug is playing today's daily Wordle! &amp;#10;&amp;#10;&amp;#10;Please, if you enjoyed this video, like and subscribe to my channel!&amp;#10;&amp;#10;I can also be found on Twitch!&amp;#10;https://www.twitch.tv/dougmansland&amp;#10;&amp;#10;I'm also on Twitter!&amp;#10;https://twitter.com/dougmansland&amp;#10;&amp;#10;If you enjoy Discord, I have one of those too!&amp;#10;https://discord.gg/MVXvhvg2Zm&amp;#10;&amp;#10;For some reason, I also make Tik Tok videos!&amp;#10;https://www.tiktok.com/@dougmansland?lang=en"
     channeltitle "DougMansLand"
     channelid "UCkiAm7y8MQCbFwpB-52QRtg"
     favcount 0
@@ -11098,7 +20118,29 @@ graph
     ppprofanity 0.045140926
     ppinflammatory 0.029634504
     sentiment 0.25
-    cluster 8
+    cluster 5
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -11125,7 +20167,29 @@ graph
     ppprofanity 0.09579198
     ppinflammatory 0.02731225
     sentiment 0
-    cluster 3
+    cluster 2
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -11152,7 +20216,29 @@ graph
     ppprofanity 0.043849777
     ppinflammatory 0.15947054
     sentiment 0
-    cluster 7
+    cluster 6
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -11161,7 +20247,7 @@ graph
     step 0
     date "2022-07-13T23:11:49Z"
     title "A Wordle with FRENCH FRIES"
-    description "McDonald&#8217;s fries ftw&#10;&#10;Try Wordle for yourself here: https://www.nytimes.com/games/wordle/index.html&#10;&#10;#shorts"
+    description "McDonald&amp;#8217;s fries ftw&amp;#10;&amp;#10;Try Wordle for yourself here: https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;#shorts"
     channeltitle "Nuglem"
     channelid "UC0c00NoG3QXAjB4_ItuVTcg"
     favcount 0
@@ -11180,6 +20266,28 @@ graph
     ppinflammatory 0.17516683
     sentiment 0
     cluster 4
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -11188,7 +20296,7 @@ graph
     step 0
     date "2022-04-14T22:30:00Z"
     title "This one took but a stime of effort! #Wordle #Shorts"
-    description "(Spoilers 299) For fun, I start with the previous two day's words and use a viewer suggestion for my 3rd!&#10;&#10;Play Wordle here: https://www.nytimes.com/games/wordle/index.html&#10;&#10;======= LIVE STREAMS =======&#10;I stream word games right here on YouTube every night (except Friday) at 7pm PDT! Subscribe and ring the bell and/or join my Discord to get notifications for when I go live!&#10;&#10;======= MEMBERS =======&#10;Join my channel at the Video Enthusiast tier or higher to see the full, uncut videos with my entire thought process!&#10;https://www.youtube.com/rangsk/join&#10;&#10;===== MERCH ===== &#10;You can also support me by buying my super cute merch! All items feature an artistic rendering of my dog Rocky with no other branding! They're super cute!&#10;&#10;Check out my store here: https://rangsks-merch.creator-spring.com/&#10;&#10;If you order before April 30th, 2022 you can use promo code ROCKY5 to save 5% at checkout!&#10;&#10;======= DISCORD =======&#10;Join my Discord server to hang out and talk about Wordle, Wordle-like games, and other kinds of puzzles like Sudoku.&#10;https://discord.gg/AEhpTG4z45&#10;&#10;#wordle #shorts #puzzle #word #game"
+    description "(Spoilers 299) For fun, I start with the previous two day's words and use a viewer suggestion for my 3rd!&amp;#10;&amp;#10;Play Wordle here: https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;======= LIVE STREAMS =======&amp;#10;I stream word games right here on YouTube every night (except Friday) at 7pm PDT! Subscribe and ring the bell and/or join my Discord to get notifications for when I go live!&amp;#10;&amp;#10;======= MEMBERS =======&amp;#10;Join my channel at the Video Enthusiast tier or higher to see the full, uncut videos with my entire thought process!&amp;#10;https://www.youtube.com/rangsk/join&amp;#10;&amp;#10;===== MERCH ===== &amp;#10;You can also support me by buying my super cute merch! All items feature an artistic rendering of my dog Rocky with no other branding! They're super cute!&amp;#10;&amp;#10;Check out my store here: https://rangsks-merch.creator-spring.com/&amp;#10;&amp;#10;If you order before April 30th, 2022 you can use promo code ROCKY5 to save 5% at checkout!&amp;#10;&amp;#10;======= DISCORD =======&amp;#10;Join my Discord server to hang out and talk about Wordle, Wordle-like games, and other kinds of puzzles like Sudoku.&amp;#10;https://discord.gg/AEhpTG4z45&amp;#10;&amp;#10;#wordle #shorts #puzzle #word #game"
     channeltitle "Rangsk"
     channelid "UC1RUqXOT_iaH4b7iXKRWhLw"
     favcount 0
@@ -11206,7 +20314,29 @@ graph
     ppprofanity 0.02370664
     ppinflammatory 0.14598103
     sentiment 0
-    cluster 6
+    cluster 7
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -11215,7 +20345,7 @@ graph
     step 0
     date "2022-04-14T20:30:16Z"
     title "Wordle - Answer Today #300 : 15 April 2022"
-    description "This is today's solution to the viral Wordle Game #300&#10;Wordle Answer for Today&#10;15 April 2022&#10;&#10;Wordle Solver: https://solvewordle.habeeb.in/&#10;&#10;Did you find the mystery word for today?&#10;Do share your score.&#10;&#10;How to play wordle?&#10;You have 6 attempts to find the hidden word!&#10;Here's the link to playing the viral wordle game: https://www.nytimes.com/games/wordle&#10;&#10;Now start typing in any 5 letter word.&#10;After each attempt, press enter to submit.&#10;&#10;The colors on the tiles give you these clues:&#10;Green - the letter guessed is right and at the right place.&#10;Yellow - the letter guessed is right but at the wrong place. &#10;Grey - The letter is not part of the word&#10;&#10;Happy guessing guys for this viral combination of a crossword and sudoku puzzle.&#10;&#10;#wordle #wordleanswer #todayswordle #wordlesolution #wordle2April #dailywordle #wordleoftheday  #wordle298 #wordleclue #wordlegame #wordletipsandtricks #wordlepuzzle #whatiswordle #howtoplaywordle #dailywordleanswer #solvewordlefast #habinafi"
+    description "This is today's solution to the viral Wordle Game #300&amp;#10;Wordle Answer for Today&amp;#10;15 April 2022&amp;#10;&amp;#10;Wordle Solver: https://solvewordle.habeeb.in/&amp;#10;&amp;#10;Did you find the mystery word for today?&amp;#10;Do share your score.&amp;#10;&amp;#10;How to play wordle?&amp;#10;You have 6 attempts to find the hidden word!&amp;#10;Here's the link to playing the viral wordle game: https://www.nytimes.com/games/wordle&amp;#10;&amp;#10;Now start typing in any 5 letter word.&amp;#10;After each attempt, press enter to submit.&amp;#10;&amp;#10;The colors on the tiles give you these clues:&amp;#10;Green - the letter guessed is right and at the right place.&amp;#10;Yellow - the letter guessed is right but at the wrong place. &amp;#10;Grey - The letter is not part of the word&amp;#10;&amp;#10;Happy guessing guys for this viral combination of a crossword and sudoku puzzle.&amp;#10;&amp;#10;#wordle #wordleanswer #todayswordle #wordlesolution #wordle2April #dailywordle #wordleoftheday  #wordle298 #wordleclue #wordlegame #wordletipsandtricks #wordlepuzzle #whatiswordle #howtoplaywordle #dailywordleanswer #solvewordlefast #habinafi"
     channeltitle "Habi Nafi"
     channelid "UC9zBTgGGtn-n13lG-NgOm2g"
     favcount 0
@@ -11233,7 +20363,29 @@ graph
     ppprofanity 0.04661829
     ppinflammatory 0.035517916
     sentiment 0
-    cluster 6
+    cluster 3
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -11242,7 +20394,7 @@ graph
     step 0
     date "2022-02-04T19:29:57Z"
     title "Wordle 10 Word Speedrun in 1:05.09 (Former World Record)"
-    description "Try for yourself: https://hellowordl.net/&#10;&#10;To explain my confusion at the end: I miscounted and did 11 words not realizing the run was already over, and I choked a bit on the final word so I was pretty surprised to see a 1:05. I thought maybe I split twice somewhere so I stopped recording and went to check the video, turns out I just can't count.&#10;&#10;Wordle Speedrun discord: https://discord.gg/qnrCZu3Tux&#10;Leaderboard: https://docs.google.com/spreadsheets/u/0/d/1fhU2xFFS3XyKpX_HvlUTC8NQ8rSL9G0FEt6r8Xim_cQ/"
+    description "Try for yourself: https://hellowordl.net/&amp;#10;&amp;#10;To explain my confusion at the end: I miscounted and did 11 words not realizing the run was already over, and I choked a bit on the final word so I was pretty surprised to see a 1:05. I thought maybe I split twice somewhere so I stopped recording and went to check the video, turns out I just can't count.&amp;#10;&amp;#10;Wordle Speedrun discord: https://discord.gg/qnrCZu3Tux&amp;#10;Leaderboard: https://docs.google.com/spreadsheets/u/0/d/1fhU2xFFS3XyKpX_HvlUTC8NQ8rSL9G0FEt6r8Xim_cQ/"
     channeltitle "Pokecheese"
     channelid "UCpMAvG3W-clxPhKFHG4VR3w"
     favcount 0
@@ -11260,7 +20412,29 @@ graph
     ppprofanity 0.008310856
     ppinflammatory 0.019668916
     sentiment 0
-    cluster 3
+    cluster 2
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -11269,7 +20443,7 @@ graph
     step 0
     date "2022-04-04T15:25:07Z"
     title "Dont Use ADIEU! [Big Wordle Hack!]"
-    description "Don't Use ADIEU   (Use This Instead!)   Wordle Tips&#10;Here are some tips to beat the daily wordle puzzle.  &#10;&#10;PuzzlingGames has tons of puzzle games, brain teasers, rubik's cubes, board games classics, and more.  puzzles for kids, brain teaser for adults, game cubes, speed cubes, family board games, and much more.  casino games, card games, solitaire card games, puzzle apps and rubik's cube solving. &#10;====================================&#10;&#10;&#10145;&#65039; Hundreds of Rubik&#8217;s Cubes, Puzzle Games, Solutions FREE SHIPPING:  https://bit.ly/36mBNwg&#10;&#10;&#10145;&#65039; MAKE MONEY GAMING!!! - https://bit.ly/3jPObgg&#10;&#10;&#10145;&#65039; World Of Warcraft Secrets Exposed - Make 20k Gold in 1 Hour! -  https://bit.ly/36fuIhh&#10;&#10;&#10145;&#65039;  Rubik&#8217;s Cube Variety Pack!  20 Rotational Puzzles!  - https://bit.ly/3gWSPGk&#10;&#10;===============================&#10;&#10;Subscribe for puzzle games! and more!&#10;https://www.youtube.com/channel/UC9-GaHeWMZRyKNJUeUXfxfA?sub_confirmation=1&#10;&#128293; &#9830; And Don't forget to leave a like! &#9830; &#128293; &#10;=============================&#10;&#10032; FOLLOW US &#10032; &#10;FACEBOOK&#9656;   https://www.facebook.com/puzzlinggames&#10;TWITTER&#9656;     https://twitter.com/puzzlinggames&#10;WEBSITE&#9656; https://puzzlinggames.net/&#10;==============================&#10;People ask me for my favorite speedcubes.  &#10;Here you go! &#10;https://amzn.to/2ELTf3t &#10;&#10;=============================&#10;&#128076;1000&#8217;s of Other VIDEOS and PLAYLISTS&#128076;&#10;RUBIK'S CUBE PLAYLIST - https://www.youtube.com/playlist?list=PLIrK-8DuwP1XdZzZ7WbgL7VhAhp8S1kka&#10;BACKGAMMON - https://www.youtube.com/watch?v=0A0tEg-bYY4&#38;list=PLIrK-8DuwP1Wbzzq9dVyvp58uyjxu-z4M&#10;SUDOKU -  https://www.youtube.com/watch?v=1i-R75TPwRA&#38;list=PLIrK-8DuwP1WS6g6FhghA3UHz4dFxcGXc&#10;BOARDGAMES - https://www.youtube.com/playlist?list=PLIrK-8DuwP1UQzR3mqjE6w8WusiPZ1N1F&#10;CARD GAMES - https://www.youtube.com/playlist?list=PLIrK-8DuwP1Wpev1rwPIPleTxMYmSAeA_ &#10;PUZZLE APPS -  https://www.youtube.com/playlist?list=PLIrK-8DuwP1WgVN2k4GGqSiBHdBiuIfrp&#10;CANDY CRUSH GAMES -   https://www.youtube.com/playlist?list=PLIrK-8DuwP1XR_mbQrCv7l98qEBKUriaX&#10;Have a suggestion?  Let me know in the comments &#10;=================================&#10;This channel is a labor of love.   &#10;Become a Pateron member and get exclusive content and more!&#10;https://www.patreon.com/bePatron?u=2510870&#10;&#10;&#10;What I use to grow on YouTube&#10;Vid-IQ -  Keyword SEO  - https://vidiq.com/tvgeyser &#10;Canva - Great Thumbnails   - https://bit.ly/3KZWql0  &#10;Prodvigate - Get Your Videos Discovered  - https://prdvgt.com/TVGEY59125  &#10;Fiverr  - Video Making Services - https://fvrr.co/3o0m5QV&#10;Ultimate Course To Quit Your Day Job - https://bit.ly/33YnIrD &#10;Graphics, Transitions, Viz Effects   - https://bit.ly/35PzEwd &#10;You Tube Mastery and Monetization  - https://www.digistore24.com/redir/299134/GeyserTV/ &#10;Hire or Be A Freelancers for Anything - https://bit.ly/3JzseMu &#10;&#10;&#10;&#10;&#10;============================&#10;Want to Collaborate?  &#10;Check us out at puzzlinggames.net &#10;For business inquiries and Features: funnyfamilyfilms@gmail.com&#10;And make sure you subscribe to my channel!&#10;#wordle #wordletips #bestwordleword&#10;&#10;keywords for our this video wordle,wordle best first word,wordle strategy,wordle strategy first word,wordle game,how to play wordle,wordle how to play,how to win wordle,wordle expert tips,wordle game strategy,wordle today,wordle gameplay,how to win at wordle,wordle strategy words,wordle starting word,wordle daily,wordle tricks,wordle daily word challenge,wordle for beginners"
+    description "Don't Use ADIEU   (Use This Instead!)   Wordle Tips&amp;#10;Here are some tips to beat the daily wordle puzzle.  &amp;#10;&amp;#10;PuzzlingGames has tons of puzzle games, brain teasers, rubik's cubes, board games classics, and more.  puzzles for kids, brain teaser for adults, game cubes, speed cubes, family board games, and much more.  casino games, card games, solitaire card games, puzzle apps and rubik's cube solving. &amp;#10;====================================&amp;#10;&amp;#10;&amp;#10145;&amp;#65039; Hundreds of Rubik&amp;#8217;s Cubes, Puzzle Games, Solutions FREE SHIPPING:  https://bit.ly/36mBNwg&amp;#10;&amp;#10;&amp;#10145;&amp;#65039; MAKE MONEY GAMING!!! - https://bit.ly/3jPObgg&amp;#10;&amp;#10;&amp;#10145;&amp;#65039; World Of Warcraft Secrets Exposed - Make 20k Gold in 1 Hour! -  https://bit.ly/36fuIhh&amp;#10;&amp;#10;&amp;#10145;&amp;#65039;  Rubik&amp;#8217;s Cube Variety Pack!  20 Rotational Puzzles!  - https://bit.ly/3gWSPGk&amp;#10;&amp;#10;===============================&amp;#10;&amp;#10;Subscribe for puzzle games! and more!&amp;#10;https://www.youtube.com/channel/UC9-GaHeWMZRyKNJUeUXfxfA?sub_confirmation=1&amp;#10;&amp;#128293; &amp;#9830; And Don't forget to leave a like! &amp;#9830; &amp;#128293; &amp;#10;=============================&amp;#10;&amp;#10032; FOLLOW US &amp;#10032; &amp;#10;FACEBOOK&amp;#9656;   https://www.facebook.com/puzzlinggames&amp;#10;TWITTER&amp;#9656;     https://twitter.com/puzzlinggames&amp;#10;WEBSITE&amp;#9656; https://puzzlinggames.net/&amp;#10;==============================&amp;#10;People ask me for my favorite speedcubes.  &amp;#10;Here you go! &amp;#10;https://amzn.to/2ELTf3t &amp;#10;&amp;#10;=============================&amp;#10;&amp;#128076;1000&amp;#8217;s of Other VIDEOS and PLAYLISTS&amp;#128076;&amp;#10;RUBIK'S CUBE PLAYLIST - https://www.youtube.com/playlist?list=PLIrK-8DuwP1XdZzZ7WbgL7VhAhp8S1kka&amp;#10;BACKGAMMON - https://www.youtube.com/watch?v=0A0tEg-bYY4&amp;#38;list=PLIrK-8DuwP1Wbzzq9dVyvp58uyjxu-z4M&amp;#10;SUDOKU -  https://www.youtube.com/watch?v=1i-R75TPwRA&amp;#38;list=PLIrK-8DuwP1WS6g6FhghA3UHz4dFxcGXc&amp;#10;BOARDGAMES - https://www.youtube.com/playlist?list=PLIrK-8DuwP1UQzR3mqjE6w8WusiPZ1N1F&amp;#10;CARD GAMES - https://www.youtube.com/playlist?list=PLIrK-8DuwP1Wpev1rwPIPleTxMYmSAeA_ &amp;#10;PUZZLE APPS -  https://www.youtube.com/playlist?list=PLIrK-8DuwP1WgVN2k4GGqSiBHdBiuIfrp&amp;#10;CANDY CRUSH GAMES -   https://www.youtube.com/playlist?list=PLIrK-8DuwP1XR_mbQrCv7l98qEBKUriaX&amp;#10;Have a suggestion?  Let me know in the comments &amp;#10;=================================&amp;#10;This channel is a labor of love.   &amp;#10;Become a Pateron member and get exclusive content and more!&amp;#10;https://www.patreon.com/bePatron?u=2510870&amp;#10;&amp;#10;&amp;#10;What I use to grow on YouTube&amp;#10;Vid-IQ -  Keyword SEO  - https://vidiq.com/tvgeyser &amp;#10;Canva - Great Thumbnails   - https://bit.ly/3KZWql0  &amp;#10;Prodvigate - Get Your Videos Discovered  - https://prdvgt.com/TVGEY59125  &amp;#10;Fiverr  - Video Making Services - https://fvrr.co/3o0m5QV&amp;#10;Ultimate Course To Quit Your Day Job - https://bit.ly/33YnIrD &amp;#10;Graphics, Transitions, Viz Effects   - https://bit.ly/35PzEwd &amp;#10;You Tube Mastery and Monetization  - https://www.digistore24.com/redir/299134/GeyserTV/ &amp;#10;Hire or Be A Freelancers for Anything - https://bit.ly/3JzseMu &amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;============================&amp;#10;Want to Collaborate?  &amp;#10;Check us out at puzzlinggames.net &amp;#10;For business inquiries and Features: funnyfamilyfilms@gmail.com&amp;#10;And make sure you subscribe to my channel!&amp;#10;#wordle #wordletips #bestwordleword&amp;#10;&amp;#10;keywords for our this video wordle,wordle best first word,wordle strategy,wordle strategy first word,wordle game,how to play wordle,wordle how to play,how to win wordle,wordle expert tips,wordle game strategy,wordle today,wordle gameplay,how to win at wordle,wordle strategy words,wordle starting word,wordle daily,wordle tricks,wordle daily word challenge,wordle for beginners"
     channeltitle "Puzzling Games"
     channelid "UC9-GaHeWMZRyKNJUeUXfxfA"
     favcount 0
@@ -11287,7 +20461,29 @@ graph
     ppprofanity 0.16219807
     ppinflammatory 0.43911424
     sentiment 0
-    cluster 3
+    cluster 2
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -11296,7 +20492,7 @@ graph
     step 0
     date "2022-02-26T07:51:52Z"
     title "Wordle Feb 26th, 2022 - Can you guess the word?"
-    description "Hi everyone! Today Sean plays Wordle, a fun word logic puzzle.&#10;Can you get the word in fewer guesses? Give it a shot at the link below:&#10;https://www.nytimes.com/games/wordle/index.html"
+    description "Hi everyone! Today Sean plays Wordle, a fun word logic puzzle.&amp;#10;Can you get the word in fewer guesses? Give it a shot at the link below:&amp;#10;https://www.nytimes.com/games/wordle/index.html"
     channeltitle "Sean Plays"
     channelid "UCRlHYIOSfBDAVkz46rnglow"
     favcount 0
@@ -11314,7 +20510,29 @@ graph
     ppprofanity 0.019400578
     ppinflammatory 0.15471438
     sentiment 0
-    cluster 3
+    cluster 8
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -11341,7 +20559,29 @@ graph
     ppprofanity 0.06309703
     ppinflammatory 0.15849546
     sentiment 0
-    cluster 7
+    cluster 6
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -11350,7 +20590,7 @@ graph
     step 0
     date "2022-01-10T09:16:02Z"
     title "Wordle for 01/10/2022 - 205 - What is Todays Wordle? January 10th"
-    description "What is today's Wordle? Let's find out &#38; guess together. Join me for today's 01/10/2022 Wordle number 205. Things got a little dicey there in the middle and almost failed.&#10;Everyone's new favorite game. A new word daily, how do you like to play &#38; what's your strategy? Thought I'd try uploading my guesses, plus cool to archive it. January 10 2022&#10;&#10;Play for yourself at: https://www.powerlanguage.co.uk/wordle/&#10;&#10;0:00 Intro&#10;0:20 First Guess&#10;2:30 Emery?&#10;3:35 Wordle!&#10;&#10;&#10;#wordle #dailywordleclub"
+    description "What is today's Wordle? Let's find out &amp;#38; guess together. Join me for today's 01/10/2022 Wordle number 205. Things got a little dicey there in the middle and almost failed.&amp;#10;Everyone's new favorite game. A new word daily, how do you like to play &amp;#38; what's your strategy? Thought I'd try uploading my guesses, plus cool to archive it. January 10 2022&amp;#10;&amp;#10;Play for yourself at: https://www.powerlanguage.co.uk/wordle/&amp;#10;&amp;#10;0:00 Intro&amp;#10;0:20 First Guess&amp;#10;2:30 Emery?&amp;#10;3:35 Wordle!&amp;#10;&amp;#10;&amp;#10;#wordle #dailywordleclub"
     channeltitle "Empty Apartment"
     channelid "UCEb4tjgeTW47bD66Xryzx0Q"
     favcount 0
@@ -11368,7 +20608,29 @@ graph
     ppprofanity 0.0570502
     ppinflammatory 0.060221877
     sentiment 0
-    cluster 6
+    cluster 7
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -11377,7 +20639,7 @@ graph
     step 0
     date "2022-03-20T17:58:34Z"
     title "Wordle 274 for March 20th - What is Todays Wordle? 03/20/2022"
-    description "What is today's Wordle for 03/20/2022 Wordle number 274 ? Join me and let's find out &#38; guess the answer together. Double vowel word!&#10;A new word daily, how do you like to play &#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. March 20th 2022&#10;&#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&#10;&#10;0:25 Intro&#10;0:29 First Guess&#10;2:40 Wordle&#10;&#10;&#10;business contact: emptyapartmentgaming gmail&#10;&#10;#wordle #dailywordleclub"
+    description "What is today's Wordle for 03/20/2022 Wordle number 274 ? Join me and let's find out &amp;#38; guess the answer together. Double vowel word!&amp;#10;A new word daily, how do you like to play &amp;#38; what's your strategy? Thought I'd try uploading my guesses, hints, clue, and answers, plus cool to archive it. March 20th 2022&amp;#10;&amp;#10;Play for yourself at: https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;0:25 Intro&amp;#10;0:29 First Guess&amp;#10;2:40 Wordle&amp;#10;&amp;#10;&amp;#10;business contact: emptyapartmentgaming gmail&amp;#10;&amp;#10;#wordle #dailywordleclub"
     channeltitle "Empty Apartment"
     channelid "UCEb4tjgeTW47bD66Xryzx0Q"
     favcount 0
@@ -11396,6 +20658,28 @@ graph
     ppinflammatory 0.098024055
     sentiment 0
     cluster 1
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -11404,7 +20688,7 @@ graph
     step 0
     date "2022-03-22T21:11:05Z"
     title "Can I survive this Wordle challenge!?"
-    description "#shorts&#10;Solving #Wordle #276 for Tuesday, March 22nd.&#10;&#10;Become a member of the Stro-Solves YouTube channel - https://www.youtube.com/channel/UC8HHDytpZ-cs9bavTbgYfmA/join&#10;&#10;You can find my other 'Wordle-like' solves here - https://youtube.com/playlist?list=PL_HjFt2zdfHV33cIRgG7tm-AvnfUP9cMG&#10;&#10;Come discuss these puzzles with us on discord - https://discord.gg/AEhpTG4z45"
+    description "#shorts&amp;#10;Solving #Wordle #276 for Tuesday, March 22nd.&amp;#10;&amp;#10;Become a member of the Stro-Solves YouTube channel - https://www.youtube.com/channel/UC8HHDytpZ-cs9bavTbgYfmA/join&amp;#10;&amp;#10;You can find my other 'Wordle-like' solves here - https://youtube.com/playlist?list=PL_HjFt2zdfHV33cIRgG7tm-AvnfUP9cMG&amp;#10;&amp;#10;Come discuss these puzzles with us on discord - https://discord.gg/AEhpTG4z45"
     channeltitle "Scott Stro-solves"
     channelid "UC8HHDytpZ-cs9bavTbgYfmA"
     favcount 0
@@ -11422,7 +20706,29 @@ graph
     ppprofanity 0.08148694
     ppinflammatory 0.2135579
     sentiment 0.0964
-    cluster 6
+    cluster 7
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 1
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "L"
   ]
   node
   [
@@ -11449,7 +20755,29 @@ graph
     ppprofanity 0.05625751
     ppinflammatory 0.07402037
     sentiment 0
-    cluster 7
+    cluster 6
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -11458,7 +20786,7 @@ graph
     step 0
     date "2022-01-30T01:20:10Z"
     title "Build a Wordle Clone in JavaScript HTML CSS"
-    description "A beginner friendly HTML, CSS, JavaScript Tutorial on how to build the viral online game, wordle!&#10;Learn how to build build a wordle clone!&#10;&#10;Part 2: https://youtu.be/MM9FAV_CEkU&#10;&#10;Code: https://github.com/ImKennyYip/Wordle&#10;Demo: https://imkennyyip.github.io/Wordle/&#10;&#10;#wordle #wordleclone #wordletutorial #codingtutorial #codinggametutorial"
+    description "A beginner friendly HTML, CSS, JavaScript Tutorial on how to build the viral online game, wordle!&amp;#10;Learn how to build build a wordle clone!&amp;#10;&amp;#10;Part 2: https://youtu.be/MM9FAV_CEkU&amp;#10;&amp;#10;Code: https://github.com/ImKennyYip/Wordle&amp;#10;Demo: https://imkennyyip.github.io/Wordle/&amp;#10;&amp;#10;#wordle #wordleclone #wordletutorial #codingtutorial #codinggametutorial"
     channeltitle "Kenny Yip Coding"
     channelid "UCdZQlE28wAgm6SKX_u9_L-Q"
     favcount 0
@@ -11476,7 +20804,29 @@ graph
     ppprofanity 0.09535016
     ppinflammatory 0.061146744
     sentiment 0
-    cluster 4
+    cluster 3
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -11485,7 +20835,7 @@ graph
     step 0
     date "2022-07-11T20:11:30Z"
     title "Drink a SLURPEE while solving todays Wordle"
-    description "Yum&#10;&#10;Try Wordle for yourself here: https://www.nytimes.com/games/wordle/index.html&#10;&#10;#shorts"
+    description "Yum&amp;#10;&amp;#10;Try Wordle for yourself here: https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;#shorts"
     channeltitle "Nuglem"
     channelid "UC0c00NoG3QXAjB4_ItuVTcg"
     favcount 0
@@ -11504,6 +20854,28 @@ graph
     ppinflammatory 0.18862295
     sentiment 0.34
     cluster 4
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -11512,7 +20884,7 @@ graph
     step 0
     date "2022-07-14T03:45:00Z"
     title "I Played Wordle to create the Ultimate Pokemon Team (then Battled my Friends)"
-    description "In this video, 3 of my friends and I used Wordle to make the best Pokemon teams! Then we battled!&#10;&#10;Friends in video:&#10;@dreamsWGH &#10;@Twecker &#10;@Qwillinallthefish &#10;&#10;WATCH ME LIVE &#9658; https://www.twitch.tv/PoisonUnderscore&#10;MY TWITTER &#9658;https://www.twitter.com/OfficialPoison_&#10;MY INSTAGRAM &#9658; https://www.instagram.com/PoisonUnderscore&#10;MY DISCORD &#9658; https://discord.gg/qFwcYVAHv4&#10;MY SUBREDDIT &#9658; https://www.reddit.com/r/PoisonUnderscore/&#10;MY TIKTOK &#9658; https://www.tiktok.com/@poisonunderscore?&#10;MERCH &#9658; https://merch.streamelements.com/poisonunderscore&#10;&#10;&#10;edited by: Myself&#10;&#10;#poisonunderscore #pokemon #wordle"
+    description "In this video, 3 of my friends and I used Wordle to make the best Pokemon teams! Then we battled!&amp;#10;&amp;#10;Friends in video:&amp;#10;@dreamsWGH &amp;#10;@Twecker &amp;#10;@Qwillinallthefish &amp;#10;&amp;#10;WATCH ME LIVE &amp;#9658; https://www.twitch.tv/PoisonUnderscore&amp;#10;MY TWITTER &amp;#9658;https://www.twitter.com/OfficialPoison_&amp;#10;MY INSTAGRAM &amp;#9658; https://www.instagram.com/PoisonUnderscore&amp;#10;MY DISCORD &amp;#9658; https://discord.gg/qFwcYVAHv4&amp;#10;MY SUBREDDIT &amp;#9658; https://www.reddit.com/r/PoisonUnderscore/&amp;#10;MY TIKTOK &amp;#9658; https://www.tiktok.com/@poisonunderscore?&amp;#10;MERCH &amp;#9658; https://merch.streamelements.com/poisonunderscore&amp;#10;&amp;#10;&amp;#10;edited by: Myself&amp;#10;&amp;#10;#poisonunderscore #pokemon #wordle"
     channeltitle "PoisonUnderscore"
     channelid "UCpmqXd1JgstUBNMnOA1b3ew"
     favcount 0
@@ -11530,7 +20902,29 @@ graph
     ppprofanity 0.09523147
     ppinflammatory 0.056599
     sentiment 0.6597
-    cluster 5
+    cluster 2
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -11539,7 +20933,7 @@ graph
     step 0
     date "2022-07-05T23:03:51Z"
     title "Wordle 382 solution - 6th July 2022"
-    description "Wordle 382 5/6&#10;&#10;&#11036;&#11036;&#11036;&#11036;&#129000;&#10;&#11036;&#129000;&#11036;&#11036;&#11036;&#10;&#11036;&#11036;&#129001;&#11036;&#11036;&#10;&#129001;&#129001;&#129001;&#11036;&#11036;&#10;&#129001;&#129001;&#129001;&#129001;&#129001;&#10;&#10;Triple repeated letter is a nasty trick"
+    description "Wordle 382 5/6&amp;#10;&amp;#10;&amp;#11036;&amp;#11036;&amp;#11036;&amp;#11036;&amp;#129000;&amp;#10;&amp;#11036;&amp;#129000;&amp;#11036;&amp;#11036;&amp;#11036;&amp;#10;&amp;#11036;&amp;#11036;&amp;#129001;&amp;#11036;&amp;#11036;&amp;#10;&amp;#129001;&amp;#129001;&amp;#129001;&amp;#11036;&amp;#11036;&amp;#10;&amp;#129001;&amp;#129001;&amp;#129001;&amp;#129001;&amp;#129001;&amp;#10;&amp;#10;Triple repeated letter is a nasty trick"
     channeltitle "Wordle Solutions "
     channelid "UCObJnWUGhJ8s9s53fqnJ1FQ"
     favcount 0
@@ -11557,7 +20951,29 @@ graph
     ppprofanity 0.053973425
     ppinflammatory 0.10692782
     sentiment 0.3182
-    cluster 2
+    cluster 4
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 1
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 1
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "L"
   ]
   node
   [
@@ -11566,7 +20982,7 @@ graph
     step 0
     date "2022-07-14T05:41:38Z"
     title "Dons LIES"
-    description "Pinocchio smh&#10;&#10;Try Fibble for yourself here: https://fibble.xyz/&#10;&#10;#shorts"
+    description "Pinocchio smh&amp;#10;&amp;#10;Try Fibble for yourself here: https://fibble.xyz/&amp;#10;&amp;#10;#shorts"
     channeltitle "Nuglem"
     channelid "UC0c00NoG3QXAjB4_ItuVTcg"
     favcount 0
@@ -11585,6 +21001,28 @@ graph
     ppinflammatory 0.44399723
     sentiment -0.3304
     cluster 4
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -11593,7 +21031,7 @@ graph
     step 0
     date "2022-07-13T13:05:43Z"
     title "Wordle July 13th, 2022 - Can you guess the word?"
-    description "Check back daily for new Wordle and other Word Puzzles!&#10;&#10;Hi everyone! Today Sean plays Wordle, a fun word logic puzzle.&#10;Can you get the word in fewer guesses? Give it a shot at the link below:&#10;https://www.nytimes.com/games/wordle/index.html&#10;&#10;And check your answers here with WordleBot!&#10;https://www.nytimes.com/interactive/2022/upshot/wordle-bot.html"
+    description "Check back daily for new Wordle and other Word Puzzles!&amp;#10;&amp;#10;Hi everyone! Today Sean plays Wordle, a fun word logic puzzle.&amp;#10;Can you get the word in fewer guesses? Give it a shot at the link below:&amp;#10;https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;And check your answers here with WordleBot!&amp;#10;https://www.nytimes.com/interactive/2022/upshot/wordle-bot.html"
     channeltitle "Sean Plays"
     channelid "UCRlHYIOSfBDAVkz46rnglow"
     favcount 0
@@ -11611,7 +21049,29 @@ graph
     ppprofanity 0.017953552
     ppinflammatory 0.15058535
     sentiment 0
-    cluster 3
+    cluster 8
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -11638,7 +21098,29 @@ graph
     ppprofanity 0.6133453
     ppinflammatory 0.11582447
     sentiment -0.5423
-    cluster 1
+    cluster 7
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -11647,7 +21129,7 @@ graph
     step 0
     date "2022-07-09T22:30:05Z"
     title "Use your VOICE, SPEAK the answer! (July 9, 2022) #wordle #shorts"
-    description "This is the Wordle for July 9, 2022 (#385)&#10;&#10;If you'd like to suggest a second word, remember that I always use the previous day's answer as a starting word. I like the second word to be thematic (if possible) but also reasonable! &#10;&#10;Have a suggestion for a word game or GeoGuessr map? Leave it in the comments!&#10;&#10;Don't forget to like and subscribe!&#10;&#10;Do you like cat photos? Blooper reels? Bonus content? Join my Patreon! https://www.patreon.com/GeoJesser"
+    description "This is the Wordle for July 9, 2022 (#385)&amp;#10;&amp;#10;If you'd like to suggest a second word, remember that I always use the previous day's answer as a starting word. I like the second word to be thematic (if possible) but also reasonable! &amp;#10;&amp;#10;Have a suggestion for a word game or GeoGuessr map? Leave it in the comments!&amp;#10;&amp;#10;Don't forget to like and subscribe!&amp;#10;&amp;#10;Do you like cat photos? Blooper reels? Bonus content? Join my Patreon! https://www.patreon.com/GeoJesser"
     channeltitle "GeoJesser"
     channelid "UCRyiHJfVzO4Hz32m7d8_2Jg"
     favcount 0
@@ -11665,7 +21147,29 @@ graph
     ppprofanity 0.16965348
     ppinflammatory 0.11969226
     sentiment 0
-    cluster 3
+    cluster 9
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -11675,7 +21179,7 @@ graph
     date "2022-07-09T04:06:53Z"
     title "Wordle 385 3/6"
     description "Watch how a computer program solves daily #Wordle puzzles."
-    channeltitle "&#23431;&#20043;&#36947;"
+    channeltitle "&amp;#23431;&amp;#20043;&amp;#36947;"
     channelid "UC1cOJ_V57bPzjgCsXl0hyHw"
     favcount 0
     viewcount 11
@@ -11692,7 +21196,29 @@ graph
     ppprofanity 0.1306688
     ppinflammatory 0.077958375
     sentiment 0
-    cluster 3
+    cluster 9
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -11719,7 +21245,29 @@ graph
     ppprofanity 0.07589488
     ppinflammatory 0.02731225
     sentiment 0
-    cluster 3
+    cluster 9
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -11728,7 +21276,7 @@ graph
     step 0
     date "2022-07-13T23:03:32Z"
     title "Wordle 390 solution - 14th July 2022"
-    description "Wordle 390 5/6&#10;&#10;&#11036;&#11036;&#129000;&#129001;&#11036;&#10;&#129000;&#129001;&#11036;&#129001;&#11036;&#10;&#11036;&#129001;&#11036;&#129001;&#129001;&#10;&#11036;&#129001;&#129001;&#129001;&#129001;&#10;&#129001;&#129001;&#129001;&#129001;&#129001;"
+    description "Wordle 390 5/6&amp;#10;&amp;#10;&amp;#11036;&amp;#11036;&amp;#129000;&amp;#129001;&amp;#11036;&amp;#10;&amp;#129000;&amp;#129001;&amp;#11036;&amp;#129001;&amp;#11036;&amp;#10;&amp;#11036;&amp;#129001;&amp;#11036;&amp;#129001;&amp;#129001;&amp;#10;&amp;#11036;&amp;#129001;&amp;#129001;&amp;#129001;&amp;#129001;&amp;#10;&amp;#129001;&amp;#129001;&amp;#129001;&amp;#129001;&amp;#129001;"
     channeltitle "Wordle Solutions "
     channelid "UCObJnWUGhJ8s9s53fqnJ1FQ"
     favcount 0
@@ -11746,7 +21294,29 @@ graph
     ppprofanity 0.07907303
     ppinflammatory 0.10744285
     sentiment 0.3182
-    cluster 2
+    cluster 4
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -11755,8 +21325,8 @@ graph
     step 0
     date "2022-07-11T08:19:52Z"
     title "Todays Wordle #387 #Wordle #July11 #shorts #aPuzzleEnthusiast #ape"
-    description "Solving #wordle for  July11&#10;NYTimes wordle game: https://www.nytimes.com/games/wordle/index.html&#10;&#10;Starting wordle with the same word for a month!&#10;&#10;#mental #gym #shorts&#10;#wordleJuly11"
-    channeltitle "A Puzzle Enthusiast &#129513;"
+    description "Solving #wordle for  July11&amp;#10;NYTimes wordle game: https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;Starting wordle with the same word for a month!&amp;#10;&amp;#10;#mental #gym #shorts&amp;#10;#wordleJuly11"
+    channeltitle "A Puzzle Enthusiast &amp;#129513;"
     channelid "UCF1fVQfrm5s39EaqMd1IBnA"
     favcount 0
     viewcount 2592
@@ -11773,7 +21343,29 @@ graph
     ppprofanity 0.3442285
     ppinflammatory 0.111000694
     sentiment 0
-    cluster 7
+    cluster 6
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -11782,7 +21374,7 @@ graph
     step 0
     date "2022-07-13T14:57:32Z"
     title "Wordle July 14 2022 Today Answer"
-    description "Wordle July 14 2022 Answer (Puzzle 390)&#10;Wordle Game July 14 2022 Answer (The New York Times)&#10;Please Subscribe: https://bit.ly/2yKPat5&#10;&#10;Wordle July 14 2022 Answer on Website: https://dazepuzzle.com/wordle-july-14-2022/&#10;&#10;Twitter &#128073; https://twitter.com/DazePuzzle &#10;Facebook &#128073; https://www.facebook.com/dazepuzzlegame&#10;&#10;Play It Online: https://www.nytimes.com/games/wordle/index.html&#10;&#10;#Wordle #WordleOnline #WordleJuly142022 #WordleAnswer&#10;#WordleAnswerToday #WordleDailyPuzzle #WordleAnswerJuly14&#10;&#10;Wordle, wordle 14 july, Wordle Game Online, July 14 2022 Wordle Answer, wordle July 14, Wordle Answer Today, Wordle Daily Puzzle, Wordle Answer July 14, wordle answer 14 july 2022, wordle daily puzzle today, july 14 wordle, wordle 14th July, wordle clue, wordle word july 14"
+    description "Wordle July 14 2022 Answer (Puzzle 390)&amp;#10;Wordle Game July 14 2022 Answer (The New York Times)&amp;#10;Please Subscribe: https://bit.ly/2yKPat5&amp;#10;&amp;#10;Wordle July 14 2022 Answer on Website: https://dazepuzzle.com/wordle-july-14-2022/&amp;#10;&amp;#10;Twitter &amp;#128073; https://twitter.com/DazePuzzle &amp;#10;Facebook &amp;#128073; https://www.facebook.com/dazepuzzlegame&amp;#10;&amp;#10;Play It Online: https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;#Wordle #WordleOnline #WordleJuly142022 #WordleAnswer&amp;#10;#WordleAnswerToday #WordleDailyPuzzle #WordleAnswerJuly14&amp;#10;&amp;#10;Wordle, wordle 14 july, Wordle Game Online, July 14 2022 Wordle Answer, wordle July 14, Wordle Answer Today, Wordle Daily Puzzle, Wordle Answer July 14, wordle answer 14 july 2022, wordle daily puzzle today, july 14 wordle, wordle 14th July, wordle clue, wordle word july 14"
     channeltitle "BrainGameTips"
     channelid "UCFXe-CmfuZTpXroXRqpy5uQ"
     favcount 0
@@ -11800,7 +21392,29 @@ graph
     ppprofanity 0.06017925
     ppinflammatory 0.10373519
     sentiment 0
-    cluster 5
+    cluster 2
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -11809,7 +21423,7 @@ graph
     step 0
     date "2022-07-13T13:15:10Z"
     title "IMPOSSIBLE WORDLE pt3"
-    description "Subscribe for more!&#10;&#10;Business Inquires: business7wg@gmail.com&#10;&#10;&#127775;&#183;.&#183;&#180;&#175;`&#183;.&#183;&#127775; Social Media &#127775;&#183;.&#183;&#180;&#175;`&#183;.&#183;&#127775;&#10;&#127918; Twitch: https://www.twitch.tv/The7WorldsGaming&#10;&#128038; Twitter: https://twitter.com/The7WG&#10;&#127917; Facebook: https://www.facebook.com/The7WG&#10;&#128247; Instagram: https://www.instagram.com/The7WG &#10;&#128241;  Discord: https://discord.gg/4Ha8bMm&#10;6&#10;                            &#9733;&#183;.&#183;&#180;&#175;`&#183;.&#183;&#9733; SPANISH&#9733;&#183;.&#183;&#180;&#175;`&#183;.&#183;&#9733;&#10;&#127790;SPANISH YT Channel: http://bit.ly/The7WGSpanish&#10;&#10;&#10;#shorts  #The7WG #The7WorldsGaming"
+    description "Subscribe for more!&amp;#10;&amp;#10;Business Inquires: business7wg@gmail.com&amp;#10;&amp;#10;&amp;#127775;&amp;#183;.&amp;#183;&amp;#180;&amp;#175;`&amp;#183;.&amp;#183;&amp;#127775; Social Media &amp;#127775;&amp;#183;.&amp;#183;&amp;#180;&amp;#175;`&amp;#183;.&amp;#183;&amp;#127775;&amp;#10;&amp;#127918; Twitch: https://www.twitch.tv/The7WorldsGaming&amp;#10;&amp;#128038; Twitter: https://twitter.com/The7WG&amp;#10;&amp;#127917; Facebook: https://www.facebook.com/The7WG&amp;#10;&amp;#128247; Instagram: https://www.instagram.com/The7WG &amp;#10;&amp;#128241;  Discord: https://discord.gg/4Ha8bMm&amp;#10;6&amp;#10;                            &amp;#9733;&amp;#183;.&amp;#183;&amp;#180;&amp;#175;`&amp;#183;.&amp;#183;&amp;#9733; SPANISH&amp;#9733;&amp;#183;.&amp;#183;&amp;#180;&amp;#175;`&amp;#183;.&amp;#183;&amp;#9733;&amp;#10;&amp;#127790;SPANISH YT Channel: http://bit.ly/The7WGSpanish&amp;#10;&amp;#10;&amp;#10;#shorts  #The7WG #The7WorldsGaming"
     channeltitle "The7WG Shorts"
     channelid "UCP_oXo6so3vGTrpCvRj7zWA"
     favcount 0
@@ -11827,7 +21441,29 @@ graph
     ppprofanity 0.07871941
     ppinflammatory 0.13955437
     sentiment 0
-    cluster 1
+    cluster 2
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -11836,7 +21472,7 @@ graph
     step 0
     date "2022-07-11T19:03:30Z"
     title "Wordle - Hard Mode - #387 - 2022-07-11"
-    description "Join me on the Puzzle Plaza Discord!&#10;Invite link: https://discord.gg/AEhpTG4z45&#10;My channel: https://discord.com/channels/843010657568817162/955938506956492810&#10;&#10;#wordle #shorts #hardmode"
+    description "Join me on the Puzzle Plaza Discord!&amp;#10;Invite link: https://discord.gg/AEhpTG4z45&amp;#10;My channel: https://discord.com/channels/843010657568817162/955938506956492810&amp;#10;&amp;#10;#wordle #shorts #hardmode"
     channeltitle "theasylm"
     channelid "UCaTvJP4oH7o7n6SeBi7Vb3A"
     favcount 0
@@ -11854,7 +21490,29 @@ graph
     ppprofanity 0.086071715
     ppinflammatory 0.079933405
     sentiment -0.1027
-    cluster 5
+    cluster 3
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 1
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "L"
   ]
   node
   [
@@ -11863,8 +21521,8 @@ graph
     step 0
     date "2022-07-14T08:22:21Z"
     title "CROSSWORDLE #176 - #Wordle IN REVERSE #July14 #aPuzzleEnthusiast #ape"
-    description "Daily Crosswordle #176 July 14, 2022&#10;&#10;Please use the link below to play!&#10;https://crosswordle.vercel.app/?daily=1&#10;&#10;#Wordle"
-    channeltitle "A Puzzle Enthusiast &#129513;"
+    description "Daily Crosswordle #176 July 14, 2022&amp;#10;&amp;#10;Please use the link below to play!&amp;#10;https://crosswordle.vercel.app/?daily=1&amp;#10;&amp;#10;#Wordle"
+    channeltitle "A Puzzle Enthusiast &amp;#129513;"
     channelid "UCF1fVQfrm5s39EaqMd1IBnA"
     favcount 0
     viewcount 263
@@ -11881,7 +21539,29 @@ graph
     ppprofanity 0.5090818
     ppinflammatory 0.25094935
     sentiment 0
-    cluster 7
+    cluster 6
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -11890,7 +21570,7 @@ graph
     step 0
     date "2022-07-13T01:31:55Z"
     title "Wordle 389 - July 13 2022 Answer | Wisdom Frost Gaming"
-    description "Wordle 389 - 13 July 2022 Answer | Wisdom Frost Gaming #shorts #wordle &#10;&#10;&#10;Website to Play this Game: https://www.powerlanguage.co.uk/wordle&#10;&#10;How to Play: &#10;&#10;Guess the WORDLE in 6 tries.&#10;&#10;Each guess must be a valid 5 letter word. Hit the enter button&#10;&#10;to submit. After each guess, the color of the tiles will change to show&#10;&#10;how close your guess was to the word.&#10;&#10;A new WORDLE will be available each day!&#10;&#10;00:00 Wordle Begin"
+    description "Wordle 389 - 13 July 2022 Answer | Wisdom Frost Gaming #shorts #wordle &amp;#10;&amp;#10;&amp;#10;Website to Play this Game: https://www.powerlanguage.co.uk/wordle&amp;#10;&amp;#10;How to Play: &amp;#10;&amp;#10;Guess the WORDLE in 6 tries.&amp;#10;&amp;#10;Each guess must be a valid 5 letter word. Hit the enter button&amp;#10;&amp;#10;to submit. After each guess, the color of the tiles will change to show&amp;#10;&amp;#10;how close your guess was to the word.&amp;#10;&amp;#10;A new WORDLE will be available each day!&amp;#10;&amp;#10;00:00 Wordle Begin"
     channeltitle "Wisdom Frost Gaming"
     channelid "UCOFWJ3zz7r-gxdVDMc0rObw"
     favcount 0
@@ -11908,7 +21588,29 @@ graph
     ppprofanity 0.049513422
     ppinflammatory 0.03355896
     sentiment 0.5267
-    cluster 4
+    cluster 2
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -11917,7 +21619,7 @@ graph
     step 0
     date "2022-07-11T18:49:58Z"
     title "Wordle 388 for July 12 - What Is Todays Wordle - What is the Wordle for Today - Wordle Answer Today"
-    description "What Is The Wordle Word? - What Wordle Word is Todays Wordle? - Today&#8217;s Wordle hasn&#8217;t been a very tricky/tricksy one than Yesterday&#8217;s Wordle though Wordle game is getting harder day by day. Watch out for Wordle Today - Todays Wordle doesn&#8217;t seem to be a Hard Tricksy Wordle for any!&#10;&#10;Wordle 388 Answer Revealed - What is Wordle 388? - What's Today's Wordle? - Wordle Today Answer - Wordle Of The Day - Today Wordle Answer - Todays Wordle Answer - What is Today's Wordle Answer - Can You Guess The Word - What Is The Wordle for July 12 - What&#8217;s The Wordle Today - What&#8217;s The Wordle for Today - Wordle For Today - Wordle Solution - Wordle Today Word Hint - This is the NYT Wordle or New York Times (NYT) Daily Wordle Puzzle #388 Answer/Solution/Word/Answer Word for Tuesday, 12th July, 2022 (12 July/July 12/July 12th, 2022 (07/12/2022) or (7/12/22) or (7/12/2022) or (7-12-22) or (7-12-2022) or (07/12/2022) or (7/12/22) or (7-12-22) or (07-12-2022). So, 12th of July Wordle. Don&#8217;t misspelled this Viral Word Puzzle Word Guessing Wordle Game as Worlde, Wordel, Wrodle, Wordl. &#10;&#10;What Is the Word for July 12? - This is Wordle Today 388, Wordle 388 Today, Wordle Answer Today, Daily Word Game Wordle 388 Answer for July 12, Wordle 388 Answer Today July 12, Wordle Answer Today 388, Wordle Answer 388, Wordle 12 July Answer, Wordle July 12 Answer, Wordle Answer July 12, Wordle Answer 12 July, Wordle July 12, Wordle 12 July, July 12 Wordle, 12 July Wordle, Wordle July 12th, Wordle 12th July, 12th July Wordle, July 12th Wordle, Wordle 7/12/22, Wordle 07/12/2022, Wordle 7/12/22, Wordle 07/12/2022, Wordle 7-12-22, Wordle 7-12-22, Wordle 07-12-2022, Wordle 07-12-2022, Wordle Solution for July 12.&#10;&#10;Wordle Spoiler! - Today's Wordle Puzzle 388th Answer! And I thought why not sharing my Best Wordle Strategy with you all so that you can get Wordle Rules - What are the rules to Wordle?, Wordle Clues, Wordle Hints, Wordle Tips, Wordle Help, Wordle Tutorial, Wordle Hack, Wordle Reaction, Wordle Starting Word, What does today's Wordle start with?, What words have been used in Wordle?, What is the best word to start with in Wordle?, What is the most popular 5 letter word?, Is Wordle the same for everyone? to try out your Wordle Guesses and Wordle Tries! This Wordle Guide will help you to know What&#8217;s Wordle, What is Wordle, Wordle Gameplay Walkthrough, How to Wordle, Wordle How to, How does Wordle work?, How to Play Wordle, Wordle How to Play, How to Solve Wordle Puzzle, Wordle How to Solve, Wordle How to Win, How to Win at Wordle Every Time, Wordle Cheating, How to Cheat at Wordle. Even my Wordle Strategy suits best for the Wordle in a Minute or Wordle in 1 Minute Challenge.&#10;&#10;I am inspired by the channels  @Scott Stro-solves   @Empty Apartment   @DougMansLand  &#10;&#10;0:02 1st Guess&#10;0:10 2nd Guess&#10;0:22 3rd Guess&#10;0:29 Wordle of The Day&#10;&#10;What website is Wordle on? Wordle Game Link created by Josh Wardle: https://www.nytimes.com/games/wordle/index.html &#10;&#10;Where do I find Daily Wordle? - SUBSCRIBE my channel to get the Wordle Winning Word as the Daily Wordle Game Solution as I am setting up an Wordle Playlist &#38; Wordle Archive in case you need Past Wordles, Wordle Answer Yesterday and also all the wordles of the previous days!&#10;&#10;&#12527;&#12540;&#12489;&#12523;, &#12527;&#12540;&#12489;&#12523; 388, wordle388, 388wordle, Wordle 388th, 388 Wordle, 388th Wordle, Wordle daily, Word Puzzle Game, New York Times Wordle, NYT Wordle, Wordle NYT, Wordle NY Times, NYT, NY Times, NY Times Wordle, Leo July 2022, Wordle Bot, Wordle API, Viral Wordle, Wordle App, Wordle Download, Free Wordle Word Puzzle, Puzzles In English, Wordle Unlimited Unblocked, Wordle Online, Wordle Finder, Wordle Generator, Wordle 2, Wordle Solver, Wordle Geography, World Wordle, wordle gameplay, wordle 388 answer today, gameplay, wordle today, today&#8217;s wordle, what&#8217;s wordle, word guess, wordl, wordel, wordle playthrough, wordle solution, wordle today answer, wordle 7/12/22, wordle 12/7/22, 12/07, 12th of July, wordle 07/12/22, 07/12, 7/12, wordle today july 12, wordle 388 hint, viral word game, viral wordle, todays wordle, wordle today answer, what is todays wordle, wordle game play, wordle game, wordle new york times, Wordle Answer 388, Wordle Answer July 12,Wordle 12 July Answer,Wordle 388 Answer Today,wordle388,388wordle,Wordle 388th,388 Wordle,388th Wordle,Wordle #388,Wordle Puzzle 388,Wordle Puzzle #388,Wordle Game 388,Wordle Game #388,Wordle 388 for July 12th,Wordle 388 for 12th July,Wordle 388 for July 12,Wordle 388 for 12 July,Wordle 12 July,Wordle July 12,12 July Wordle,July 12 Wordle,12th July Wordle,July 12th Wordle,Wordle July 12th,Wordle 12th July,Wordle Answer Word 07/12/2022,Wordle Today July 12,Wordle Today 12 July,Wordle 12 July 2022,Wordle 12th July 2022,Wordle July 12 2022,Wordle July 12th 2022,Wordle 7/12/22,Wordle 07/12/2022, The Wordle for Today, What's The Wordle Today&#10;&#10;#wordle&#10;#gaming&#10;#dailywordleclub&#10;#wordle388&#10;#wordletoday&#10;#todayswordle"
+    description "What Is The Wordle Word? - What Wordle Word is Todays Wordle? - Today&amp;#8217;s Wordle hasn&amp;#8217;t been a very tricky/tricksy one than Yesterday&amp;#8217;s Wordle though Wordle game is getting harder day by day. Watch out for Wordle Today - Todays Wordle doesn&amp;#8217;t seem to be a Hard Tricksy Wordle for any!&amp;#10;&amp;#10;Wordle 388 Answer Revealed - What is Wordle 388? - What's Today's Wordle? - Wordle Today Answer - Wordle Of The Day - Today Wordle Answer - Todays Wordle Answer - What is Today's Wordle Answer - Can You Guess The Word - What Is The Wordle for July 12 - What&amp;#8217;s The Wordle Today - What&amp;#8217;s The Wordle for Today - Wordle For Today - Wordle Solution - Wordle Today Word Hint - This is the NYT Wordle or New York Times (NYT) Daily Wordle Puzzle #388 Answer/Solution/Word/Answer Word for Tuesday, 12th July, 2022 (12 July/July 12/July 12th, 2022 (07/12/2022) or (7/12/22) or (7/12/2022) or (7-12-22) or (7-12-2022) or (07/12/2022) or (7/12/22) or (7-12-22) or (07-12-2022). So, 12th of July Wordle. Don&amp;#8217;t misspelled this Viral Word Puzzle Word Guessing Wordle Game as Worlde, Wordel, Wrodle, Wordl. &amp;#10;&amp;#10;What Is the Word for July 12? - This is Wordle Today 388, Wordle 388 Today, Wordle Answer Today, Daily Word Game Wordle 388 Answer for July 12, Wordle 388 Answer Today July 12, Wordle Answer Today 388, Wordle Answer 388, Wordle 12 July Answer, Wordle July 12 Answer, Wordle Answer July 12, Wordle Answer 12 July, Wordle July 12, Wordle 12 July, July 12 Wordle, 12 July Wordle, Wordle July 12th, Wordle 12th July, 12th July Wordle, July 12th Wordle, Wordle 7/12/22, Wordle 07/12/2022, Wordle 7/12/22, Wordle 07/12/2022, Wordle 7-12-22, Wordle 7-12-22, Wordle 07-12-2022, Wordle 07-12-2022, Wordle Solution for July 12.&amp;#10;&amp;#10;Wordle Spoiler! - Today's Wordle Puzzle 388th Answer! And I thought why not sharing my Best Wordle Strategy with you all so that you can get Wordle Rules - What are the rules to Wordle?, Wordle Clues, Wordle Hints, Wordle Tips, Wordle Help, Wordle Tutorial, Wordle Hack, Wordle Reaction, Wordle Starting Word, What does today's Wordle start with?, What words have been used in Wordle?, What is the best word to start with in Wordle?, What is the most popular 5 letter word?, Is Wordle the same for everyone? to try out your Wordle Guesses and Wordle Tries! This Wordle Guide will help you to know What&amp;#8217;s Wordle, What is Wordle, Wordle Gameplay Walkthrough, How to Wordle, Wordle How to, How does Wordle work?, How to Play Wordle, Wordle How to Play, How to Solve Wordle Puzzle, Wordle How to Solve, Wordle How to Win, How to Win at Wordle Every Time, Wordle Cheating, How to Cheat at Wordle. Even my Wordle Strategy suits best for the Wordle in a Minute or Wordle in 1 Minute Challenge.&amp;#10;&amp;#10;I am inspired by the channels  @Scott Stro-solves   @Empty Apartment   @DougMansLand  &amp;#10;&amp;#10;0:02 1st Guess&amp;#10;0:10 2nd Guess&amp;#10;0:22 3rd Guess&amp;#10;0:29 Wordle of The Day&amp;#10;&amp;#10;What website is Wordle on? Wordle Game Link created by Josh Wardle: https://www.nytimes.com/games/wordle/index.html &amp;#10;&amp;#10;Where do I find Daily Wordle? - SUBSCRIBE my channel to get the Wordle Winning Word as the Daily Wordle Game Solution as I am setting up an Wordle Playlist &amp;#38; Wordle Archive in case you need Past Wordles, Wordle Answer Yesterday and also all the wordles of the previous days!&amp;#10;&amp;#10;&amp;#12527;&amp;#12540;&amp;#12489;&amp;#12523;, &amp;#12527;&amp;#12540;&amp;#12489;&amp;#12523; 388, wordle388, 388wordle, Wordle 388th, 388 Wordle, 388th Wordle, Wordle daily, Word Puzzle Game, New York Times Wordle, NYT Wordle, Wordle NYT, Wordle NY Times, NYT, NY Times, NY Times Wordle, Leo July 2022, Wordle Bot, Wordle API, Viral Wordle, Wordle App, Wordle Download, Free Wordle Word Puzzle, Puzzles In English, Wordle Unlimited Unblocked, Wordle Online, Wordle Finder, Wordle Generator, Wordle 2, Wordle Solver, Wordle Geography, World Wordle, wordle gameplay, wordle 388 answer today, gameplay, wordle today, today&amp;#8217;s wordle, what&amp;#8217;s wordle, word guess, wordl, wordel, wordle playthrough, wordle solution, wordle today answer, wordle 7/12/22, wordle 12/7/22, 12/07, 12th of July, wordle 07/12/22, 07/12, 7/12, wordle today july 12, wordle 388 hint, viral word game, viral wordle, todays wordle, wordle today answer, what is todays wordle, wordle game play, wordle game, wordle new york times, Wordle Answer 388, Wordle Answer July 12,Wordle 12 July Answer,Wordle 388 Answer Today,wordle388,388wordle,Wordle 388th,388 Wordle,388th Wordle,Wordle #388,Wordle Puzzle 388,Wordle Puzzle #388,Wordle Game 388,Wordle Game #388,Wordle 388 for July 12th,Wordle 388 for 12th July,Wordle 388 for July 12,Wordle 388 for 12 July,Wordle 12 July,Wordle July 12,12 July Wordle,July 12 Wordle,12th July Wordle,July 12th Wordle,Wordle July 12th,Wordle 12th July,Wordle Answer Word 07/12/2022,Wordle Today July 12,Wordle Today 12 July,Wordle 12 July 2022,Wordle 12th July 2022,Wordle July 12 2022,Wordle July 12th 2022,Wordle 7/12/22,Wordle 07/12/2022, The Wordle for Today, What's The Wordle Today&amp;#10;&amp;#10;#wordle&amp;#10;#gaming&amp;#10;#dailywordleclub&amp;#10;#wordle388&amp;#10;#wordletoday&amp;#10;#todayswordle"
     channeltitle "Daily TuTs"
     channelid "UCCd4hltxlSaM_lL_wNQK73g"
     favcount 0
@@ -11935,7 +21637,29 @@ graph
     ppprofanity 0.059993614
     ppinflammatory 0.02166369
     sentiment 0
-    cluster 6
+    cluster 7
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -11962,7 +21686,29 @@ graph
     ppprofanity 0.15046096
     ppinflammatory 0.0365474
     sentiment 0.5719
-    cluster 3
+    cluster 2
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 1
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 1
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 1
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "L"
   ]
   node
   [
@@ -11971,7 +21717,7 @@ graph
     step 0
     date "2022-07-13T11:44:11Z"
     title "Wednesdays Wordle in 30 seconds! #wordle #speedrun"
-    description "Solving Wordle #389 (Wednesday, July 13, 2022) in 30 seconds.&#10;&#10;Play along at: https://www.nytimes.com/games/wordle/index.html&#10;&#10;Soundtrack: The Hunter by Audionautix&#10;&#10;The Hunter by Audionautix is licensed under a Creative Commons Attribution 4.0 license. https://creativecommons.org/licenses/by/4.0/&#10;&#10;Artist: http://audionautix.com/"
+    description "Solving Wordle #389 (Wednesday, July 13, 2022) in 30 seconds.&amp;#10;&amp;#10;Play along at: https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;Soundtrack: The Hunter by Audionautix&amp;#10;&amp;#10;The Hunter by Audionautix is licensed under a Creative Commons Attribution 4.0 license. https://creativecommons.org/licenses/by/4.0/&amp;#10;&amp;#10;Artist: http://audionautix.com/"
     channeltitle "Finland Taipan"
     channelid "UCpBmme4H42ItS930_YAFI-A"
     favcount 0
@@ -11989,7 +21735,29 @@ graph
     ppprofanity 0.049032137
     ppinflammatory 0.07270112
     sentiment 0
-    cluster 5
+    cluster 2
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -11998,7 +21766,7 @@ graph
     step 0
     date "2022-07-14T22:37:53Z"
     title "Pokemon Wordle 7/14/2022 #shorts"
-    description "If you're new, consider subscribing - https://www.youtube.com/channel/UCQaIfeubRY62HYp67o60azg?&#10;&#10;Pokemon Wordle - https://a.fireblend.com/&#10;-----------------------------------------------------------------------------------------------------------------------------------------------------------------&#10;What's going on guys, I'm BloodyAbsol, call me Brock and welcome to my short. A Short is a video under one minute long, and in the vertical format. This time, I decided to make a series of Shorts where I play Pokemon Wordle.....everday....&#10;-----------------------------------------------------------------------------------------------------------------------------------------------------------------&#10;Follow Me on Twitter - https://twitter.com/BloodyAbsol_YT&#10;&#10;Follow Me on TikTok - https://www.tiktok.com/@bloody_absol?is_copy_url=1&#38;is_from_webapp=v1&#38;lang=en&#10;-----------------------------------------------------------------------------------------------------------------------------------------------------------------&#10;#pokemon #shorts  #new  #wordle  #words  #daily"
+    description "If you're new, consider subscribing - https://www.youtube.com/channel/UCQaIfeubRY62HYp67o60azg?&amp;#10;&amp;#10;Pokemon Wordle - https://a.fireblend.com/&amp;#10;-----------------------------------------------------------------------------------------------------------------------------------------------------------------&amp;#10;What's going on guys, I'm BloodyAbsol, call me Brock and welcome to my short. A Short is a video under one minute long, and in the vertical format. This time, I decided to make a series of Shorts where I play Pokemon Wordle.....everday....&amp;#10;-----------------------------------------------------------------------------------------------------------------------------------------------------------------&amp;#10;Follow Me on Twitter - https://twitter.com/BloodyAbsol_YT&amp;#10;&amp;#10;Follow Me on TikTok - https://www.tiktok.com/@bloody_absol?is_copy_url=1&amp;#38;is_from_webapp=v1&amp;#38;lang=en&amp;#10;-----------------------------------------------------------------------------------------------------------------------------------------------------------------&amp;#10;#pokemon #shorts  #new  #wordle  #words  #daily"
     channeltitle "BloodyAbsol"
     channelid "UCQaIfeubRY62HYp67o60azg"
     favcount 0
@@ -12016,7 +21784,29 @@ graph
     ppprofanity 0.09423105
     ppinflammatory 0.06817183
     sentiment 0
-    cluster 5
+    cluster 2
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -12025,7 +21815,7 @@ graph
     step 0
     date "2022-07-12T22:30:02Z"
     title "Madam, Im Adam (July 12, 2022) #wordle #shorts"
-    description "This is the Wordle for July 12, 2022 (#388)&#10;&#10;If you'd like to suggest a second word, remember that I always use the previous day's answer as a starting word. I like the second word to be thematic (if possible) but also reasonable! &#10;&#10;Have a suggestion for a word game or GeoGuessr map? Leave it in the comments!&#10;&#10;Don't forget to like and subscribe!&#10;&#10;Do you like cat photos? Blooper reels? Bonus content? Join my Patreon! https://www.patreon.com/GeoJesser"
+    description "This is the Wordle for July 12, 2022 (#388)&amp;#10;&amp;#10;If you'd like to suggest a second word, remember that I always use the previous day's answer as a starting word. I like the second word to be thematic (if possible) but also reasonable! &amp;#10;&amp;#10;Have a suggestion for a word game or GeoGuessr map? Leave it in the comments!&amp;#10;&amp;#10;Don't forget to like and subscribe!&amp;#10;&amp;#10;Do you like cat photos? Blooper reels? Bonus content? Join my Patreon! https://www.patreon.com/GeoJesser"
     channeltitle "GeoJesser"
     channelid "UCRyiHJfVzO4Hz32m7d8_2Jg"
     favcount 0
@@ -12043,7 +21833,29 @@ graph
     ppprofanity 0.10736792
     ppinflammatory 0.019155188
     sentiment 0
-    cluster 6
+    cluster 3
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -12070,7 +21882,29 @@ graph
     ppprofanity 0.03430149
     ppinflammatory 0.037042838
     sentiment 0
-    cluster 2
+    cluster 3
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -12097,7 +21931,29 @@ graph
     ppprofanity 0.12049477
     ppinflammatory 0.074499175
     sentiment 0.4404
-    cluster 1
+    cluster 7
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -12106,8 +21962,8 @@ graph
     step 0
     date "2022-07-13T08:16:23Z"
     title "What is the Wordle answer today 241?"
-    description "What Is The Wordle Answer Today 241?&#10;&#10;&#10;----------&#10;&#10;James Webb (2022, July 2.) What is the Wordle answer today 241?&#10;    WHYS.video&#10;&#10;Copyright 2022 James Webb"
-    channeltitle "Gaming&#183;WHYS"
+    description "What Is The Wordle Answer Today 241?&amp;#10;&amp;#10;&amp;#10;----------&amp;#10;&amp;#10;James Webb (2022, July 2.) What is the Wordle answer today 241?&amp;#10;    WHYS.video&amp;#10;&amp;#10;Copyright 2022 James Webb"
+    channeltitle "Gaming&amp;#183;WHYS"
     channelid "UC8OYJe45LGmyWpu9gNSxpvA"
     favcount 0
     viewcount 10
@@ -12125,6 +21981,28 @@ graph
     ppinflammatory 0.087067306
     sentiment 0
     cluster 4
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -12133,7 +22011,7 @@ graph
     step 0
     date "2022-07-11T21:00:34Z"
     title "We are the Best POETL players of All-Time (NBA Wordle)"
-    description "While the boys went to college and know a lot about the #NBA, the one thing they do lack is the ability to spell. If you read any description, you'll know what I'm talking about. So today's episode is a torture method, that its funny: Wordle, but with NBA player names. Fortunately, the boys are the smartest individuals on the planet and know EVERY NBA player so it wasn't hard (sarcasm). Watch the boys suffer and #comment if you enjoyed.&#10;&#10;If you enjoyed please #like and #subscribe &#10;&#10;Check out our podcast: linktr.ee/gymclasspod&#10;&#10;Larry Birdle: https://larrybirdle.com/&#10;Poetl: https://poeltl.dunk.town/&#10;&#10;Socials:&#10;&#10;Twitter: https://twitter.com/gymclasspod&#10;Instagram: https://instagram.com/gymclass_allstars&#10;&#10;For business inquiries contact us at: gymclassallstarspod@gmail.com"
+    description "While the boys went to college and know a lot about the #NBA, the one thing they do lack is the ability to spell. If you read any description, you'll know what I'm talking about. So today's episode is a torture method, that its funny: Wordle, but with NBA player names. Fortunately, the boys are the smartest individuals on the planet and know EVERY NBA player so it wasn't hard (sarcasm). Watch the boys suffer and #comment if you enjoyed.&amp;#10;&amp;#10;If you enjoyed please #like and #subscribe &amp;#10;&amp;#10;Check out our podcast: linktr.ee/gymclasspod&amp;#10;&amp;#10;Larry Birdle: https://larrybirdle.com/&amp;#10;Poetl: https://poeltl.dunk.town/&amp;#10;&amp;#10;Socials:&amp;#10;&amp;#10;Twitter: https://twitter.com/gymclasspod&amp;#10;Instagram: https://instagram.com/gymclass_allstars&amp;#10;&amp;#10;For business inquiries contact us at: gymclassallstarspod@gmail.com"
     channeltitle "Gym Class All-Stars"
     channelid "UCQV1pkOXSD0AC94SWxJrZ6Q"
     favcount 0
@@ -12152,6 +22030,28 @@ graph
     ppinflammatory 0.13764638
     sentiment 0.6369
     cluster 4
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -12160,7 +22060,7 @@ graph
     step 0
     date "2022-07-13T14:57:17Z"
     title "#389 -WORDLE-SOLUTION-JULY-13TH-2022"
-    description "https://www.nytimes.com/games/wordle/index.html&#10;&#10;This is my attempt at the solution to the Wordle for July 13th, 2022.&#10; &#10;- You have 6 chances to guess the correct word.&#10;- If a letter turns black that means it is an incorrect letter.&#10;- If a letter turn yellow that means it is a correct letter, but in an incorrect position.&#10;- If a letter turns green then it is a correct letter in a correct position."
+    description "https://www.nytimes.com/games/wordle/index.html&amp;#10;&amp;#10;This is my attempt at the solution to the Wordle for July 13th, 2022.&amp;#10; &amp;#10;- You have 6 chances to guess the correct word.&amp;#10;- If a letter turns black that means it is an incorrect letter.&amp;#10;- If a letter turn yellow that means it is a correct letter, but in an incorrect position.&amp;#10;- If a letter turns green then it is a correct letter in a correct position."
     channeltitle "Orrin Castillo"
     channelid "UC6GSfLPnbRtkzA_imgIN1Gg"
     favcount 0
@@ -12178,7 +22078,29 @@ graph
     ppprofanity 0.056372516
     ppinflammatory 0.07874604
     sentiment 0
-    cluster 5
+    cluster 2
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -12205,7 +22127,29 @@ graph
     ppprofanity 0.08362339
     ppinflammatory 0.07816691
     sentiment 0
-    cluster 1
+    cluster 2
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   node
   [
@@ -12214,7 +22158,7 @@ graph
     step 0
     date "2022-04-19T09:18:32Z"
     title "Wordle but its only dirty words..."
-    description "Disguised Toast takes on the challenge to beat every Wordle spinoff that he can find. Among them are Nerdle, Squirdle, Heardle and many more.&#10;&#10;Subscribe to Disguised Toast! &#9658;http://bit.ly/1cRxhZa&#10;&#10;Watch me Live on Twitch! &#9658; https://twitch.tv/disguisedtoast&#10;Visit our Website! &#9658; http://disguisedtoast.com&#10;Like us on Facebook! &#9658; http://facebook.com/DisguisedToast&#10;Follow on Instagram! &#9658; http://instagram.com/DisguisedToast&#10;Follow on Twitter! &#9658; http://twitter.com/DisguisedToast&#10;&#10;Ls Theme &#9658; RiftiBeats&#10;Outro Track &#9658; &#34;French Toast&#34; by Drew.0 (https://youtube.com/c/drew0), co-written and produced by Steven Tran (https://instagram.com/snk_tran )&#10;&#10;Edited by: https://twitter.com/otriggad&#10;&#10;#DisguisedToast #OfflineTV #Wordle"
+    description "Disguised Toast takes on the challenge to beat every Wordle spinoff that he can find. Among them are Nerdle, Squirdle, Heardle and many more.&amp;#10;&amp;#10;Subscribe to Disguised Toast! &amp;#9658;http://bit.ly/1cRxhZa&amp;#10;&amp;#10;Watch me Live on Twitch! &amp;#9658; https://twitch.tv/disguisedtoast&amp;#10;Visit our Website! &amp;#9658; http://disguisedtoast.com&amp;#10;Like us on Facebook! &amp;#9658; http://facebook.com/DisguisedToast&amp;#10;Follow on Instagram! &amp;#9658; http://instagram.com/DisguisedToast&amp;#10;Follow on Twitter! &amp;#9658; http://twitter.com/DisguisedToast&amp;#10;&amp;#10;Ls Theme &amp;#9658; RiftiBeats&amp;#10;Outro Track &amp;#9658; &amp;#34;French Toast&amp;#34; by Drew.0 (https://youtube.com/c/drew0), co-written and produced by Steven Tran (https://instagram.com/snk_tran )&amp;#10;&amp;#10;Edited by: https://twitter.com/otriggad&amp;#10;&amp;#10;#DisguisedToast #OfflineTV #Wordle"
     channeltitle "Disguised Toast"
     channelid "UCUT8RoNBTJvwW1iErP6-b-A"
     favcount 0
@@ -12233,6 +22177,28 @@ graph
     ppinflammatory 0.10673548
     sentiment -0.5927
     cluster 4
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
+    leftright "FALSE"
   ]
   edge
   [

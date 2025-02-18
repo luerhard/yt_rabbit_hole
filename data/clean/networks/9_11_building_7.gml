@@ -1,4 +1,4 @@
-Creator "igraph version 1.3.1 Wed Jul 20 15:25:37 2022"
+Creator "igraph version 0.10.10-81-g857a12506 Fri Feb  7 14:12:04 2025"
 Version 1
 graph
 [
@@ -10,7 +10,7 @@ graph
     step 0
     date "2009-01-29T07:10:42Z"
     title "NIST Video: Why the Building (WTC7) Fell"
-    description "The National Institute of Standards and Technology (NIST) conducted an extensive three-year scientific and technical investigation of the Sept. 11, 2001, collapse of the 47-story World Trade Center building 7 (WTC 7) in New York City. This video describes the results of this study, which concluded that fires on multiple floors in WTC 7--which were uncontrolled but otherwise similar to fires experienced in other tall buildings--caused an extraordinary event. Heating of floor beams and girders caused a critical support column to fail, initiating a fire-induced progressive collapse that brought the building down.&#13;&#10;&#13;&#10;For more info visit:&#13;&#10;https://www.nist.gov/topics/disaster-failure-studies/world-trade-center-disaster-study&#10;http://www.nist.gov/public_affairs/factsheet/wtc_qa_082108.cfm"
+    description "The National Institute of Standards and Technology (NIST) conducted an extensive three-year scientific and technical investigation of the Sept. 11, 2001, collapse of the 47-story World Trade Center building 7 (WTC 7) in New York City. This video describes the results of this study, which concluded that fires on multiple floors in WTC 7--which were uncontrolled but otherwise similar to fires experienced in other tall buildings--caused an extraordinary event. Heating of floor beams and girders caused a critical support column to fail, initiating a fire-induced progressive collapse that brought the building down.&amp;#13;&amp;#10;&amp;#13;&amp;#10;For more info visit:&amp;#13;&amp;#10;https://www.nist.gov/topics/disaster-failure-studies/world-trade-center-disaster-study&amp;#10;http://www.nist.gov/public_affairs/factsheet/wtc_qa_082108.cfm"
     channeltitle "National Institute of Standards and Technology"
     channelid "UCelItQpbih_hBrNSA5cRZyw"
     favcount 0
@@ -29,6 +29,28 @@ graph
     ppinflammatory 0.19035281
     sentiment 0
     cluster 1
+    leftright "C"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 1
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -37,7 +59,7 @@ graph
     step 0
     date "2015-07-21T14:15:50Z"
     title "Building weakened by WTC attack collapses"
-    description "(11 Sep 2001) &#13;&#10;1. Wide of Building Seven of World Trade Center complex collapsing&#13;&#10;2. Wide shot of people running away from collapsing building&#13;&#10;3. Pan up to rubble and dust&#13;&#10;STORYLINE:&#13;&#10;A third building in New York's World Trade Center collapsed late on Tuesday - seven hours after the complex's twin towers were destroyed in a suicide air attack.&#13;&#10;Known as Building Seven of the World Trade Center complex, it sent billowing clouds of dust and rubble into the city skyline.&#13;&#10;Emergency crews had expected the building to collapse and had evacuated the area. &#13;&#10;There were no reports of injuries after the office tower fell.&#13;&#10;The third building is a smaller one compared with the twin towers.&#13;&#10;Flames and plumes were seen spewing from the high-rise before it collapsed.&#13;&#10;The twin towers were built respectively in 1972 and 1973.&#13;&#10;&#13;&#10;Find out more about AP Archive: http://www.aparchive.com/HowWeWork &#13;&#10;Twitter: https://twitter.com/AP_Archive &#13;&#10;Facebook: https://www.facebook.com/APArchives &#8203;&#8203;&#13;&#10;Instagram: https://www.instagram.com/APNews/&#13;&#10;&#13;&#10;&#13;&#10;You can license this story through AP Archive: http://www.aparchive.com/metadata/youtube/a2a2b319ac9bfee67685e500164d85db"
+    description "(11 Sep 2001) &amp;#13;&amp;#10;1. Wide of Building Seven of World Trade Center complex collapsing&amp;#13;&amp;#10;2. Wide shot of people running away from collapsing building&amp;#13;&amp;#10;3. Pan up to rubble and dust&amp;#13;&amp;#10;STORYLINE:&amp;#13;&amp;#10;A third building in New York's World Trade Center collapsed late on Tuesday - seven hours after the complex's twin towers were destroyed in a suicide air attack.&amp;#13;&amp;#10;Known as Building Seven of the World Trade Center complex, it sent billowing clouds of dust and rubble into the city skyline.&amp;#13;&amp;#10;Emergency crews had expected the building to collapse and had evacuated the area. &amp;#13;&amp;#10;There were no reports of injuries after the office tower fell.&amp;#13;&amp;#10;The third building is a smaller one compared with the twin towers.&amp;#13;&amp;#10;Flames and plumes were seen spewing from the high-rise before it collapsed.&amp;#13;&amp;#10;The twin towers were built respectively in 1972 and 1973.&amp;#13;&amp;#10;&amp;#13;&amp;#10;Find out more about AP Archive: http://www.aparchive.com/HowWeWork &amp;#13;&amp;#10;Twitter: https://twitter.com/AP_Archive &amp;#13;&amp;#10;Facebook: https://www.facebook.com/APArchives &amp;#8203;&amp;#8203;&amp;#13;&amp;#10;Instagram: https://www.instagram.com/APNews/&amp;#13;&amp;#10;&amp;#13;&amp;#10;&amp;#13;&amp;#10;You can license this story through AP Archive: http://www.aparchive.com/metadata/youtube/a2a2b319ac9bfee67685e500164d85db"
     channeltitle "AP Archive"
     channelid "UCHTK-2W11Vh1V4uwofOfR4w"
     favcount 0
@@ -55,7 +77,29 @@ graph
     ppprofanity 0.10405702
     ppinflammatory 0.5998812
     sentiment -0.765
-    cluster 1
+    cluster 2
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -64,7 +108,7 @@ graph
     step 0
     date "2015-07-21T14:55:04Z"
     title "Usa: New York: World Trade 7 Building Collapse, Japan: Yokohama: Mock Stadium Collapse Staged For Wo"
-    description "(9 Feb 2002) Title:  USA: New York: World Trade 7 building collapse&#13;&#10;Story No.:   G00479&#13;&#10;Source:       APTN&#13;&#10;Date:     11 Sep 01&#13;&#10;Title:  Japan: Yokohama: Mock stadium collapse staged for World Cup&#13;&#10;Story No.:   328952&#13;&#10;Source:       APTN&#13;&#10;Date:     09 Feb 02&#13;&#10;&#13;&#10;Find out more about AP Archive: http://www.aparchive.com/HowWeWork &#13;&#10;Twitter: https://twitter.com/AP_Archive &#13;&#10;Facebook: https://www.facebook.com/APArchives &#8203;&#8203;&#13;&#10;Instagram: https://www.instagram.com/APNews/&#13;&#10;&#13;&#10;&#13;&#10;You can license this story through AP Archive: http://www.aparchive.com/metadata/youtube/4f42a4362c796a86facd0a544e88ecdc"
+    description "(9 Feb 2002) Title:  USA: New York: World Trade 7 building collapse&amp;#13;&amp;#10;Story No.:   G00479&amp;#13;&amp;#10;Source:       APTN&amp;#13;&amp;#10;Date:     11 Sep 01&amp;#13;&amp;#10;Title:  Japan: Yokohama: Mock stadium collapse staged for World Cup&amp;#13;&amp;#10;Story No.:   328952&amp;#13;&amp;#10;Source:       APTN&amp;#13;&amp;#10;Date:     09 Feb 02&amp;#13;&amp;#10;&amp;#13;&amp;#10;Find out more about AP Archive: http://www.aparchive.com/HowWeWork &amp;#13;&amp;#10;Twitter: https://twitter.com/AP_Archive &amp;#13;&amp;#10;Facebook: https://www.facebook.com/APArchives &amp;#8203;&amp;#8203;&amp;#13;&amp;#10;Instagram: https://www.instagram.com/APNews/&amp;#13;&amp;#10;&amp;#13;&amp;#10;&amp;#13;&amp;#10;You can license this story through AP Archive: http://www.aparchive.com/metadata/youtube/4f42a4362c796a86facd0a544e88ecdc"
     channeltitle "AP Archive"
     channelid "UCHTK-2W11Vh1V4uwofOfR4w"
     favcount 0
@@ -82,7 +126,29 @@ graph
     ppprofanity 0.058418177
     ppinflammatory 0.12192228
     sentiment -0.8481
-    cluster 1
+    cluster 2
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -109,7 +175,29 @@ graph
     ppprofanity 0.14253904
     ppinflammatory 0.1751558
     sentiment -0.2023
-    cluster 1
+    cluster 3
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -118,7 +206,7 @@ graph
     step 0
     date "2020-11-20T14:27:29Z"
     title "Forensic Engineering World Trade Center 7 | CSI | Forensics Talks Ep12 | ft. Dr. Leroy Hulsey"
-    description "&#128309;FREE Online Webinar | Recon-3D Iphone LIDAR 4 Forensics&#10;&#10;Learn how you can get started with 3D scanning using your iPhone 12/13 Pro and iPad Lidar enabled devices.&#10;&#10;May 5, 2022 | 2 pm EST&#10;&#10;Register now |  www.ai2-3d.com/webinar  &#10;&#10;Forensics Talks host, Eugene Liscio from Ai2 - 3D talked with Dr. Leroy Hulsey. &#10;&#10;He is a Professor Emeritus at the University of Alaska Fairbanks who has been investigating the failure of the WTC7 building which was the third building to have collapsed on September 11, 2001.  &#10;A recent study from Dr. Hulsey and his colleagues from the University of Alaska Fairbanks challenges the official explanation from NIST.  Dr. Hulsey explained to us his findings from his 3 year study of the collapse of WTC7.&#10;.&#10;Watch other episodes of Forensics Talks:&#10;&#10;What is the Science of Violence?  - ft. Dr Geoff Desmoulin&#10;https://youtu.be/mxNJ076t4tc&#10;&#10;How cognitive bias can influence forensic experts?  - ft. Dr Itiel Dror &#10;https://youtu.be/h6gvTnUIMpg&#10;&#10;Virtual Reality uses for Forensics - ft. Alex Harvey from RiVR&#10;https://youtu.be/RIDvUm2li1I&#10;&#10;What is the Science of Crime Shooting Reconstructions? - ft. Matt Noedel&#10;https://youtu.be/vkO1ccZEsX0&#10;&#10;Why 3D technologies are so important for Forensics? - ft. Mark Johnson&#10;https://youtu.be/NVt_J66Hi-E&#10;.&#10;Still haven&#8217;t subscribed to 3D Forensics on YouTube? &#9658;&#9658; https://www.youtube.com/user/Forensic...&#10;.&#10;Follow us on Instagram @3dforensics&#10;Follow us on Linkedin https://www.linkedin.com/company/ai2_3d&#10;&#10;.&#10;#forensicscience #forensics #forensicfiles #forensic  #photogrametry #3dmodeling&#10;#vr #crimesceneinvestigator #csi #wtc #wtc7 #wtccollapse #september11 #forensicengineering #wtcinvestigation"
+    description "&amp;#128309;FREE Online Webinar | Recon-3D Iphone LIDAR 4 Forensics&amp;#10;&amp;#10;Learn how you can get started with 3D scanning using your iPhone 12/13 Pro and iPad Lidar enabled devices.&amp;#10;&amp;#10;May 5, 2022 | 2 pm EST&amp;#10;&amp;#10;Register now |  www.ai2-3d.com/webinar  &amp;#10;&amp;#10;Forensics Talks host, Eugene Liscio from Ai2 - 3D talked with Dr. Leroy Hulsey. &amp;#10;&amp;#10;He is a Professor Emeritus at the University of Alaska Fairbanks who has been investigating the failure of the WTC7 building which was the third building to have collapsed on September 11, 2001.  &amp;#10;A recent study from Dr. Hulsey and his colleagues from the University of Alaska Fairbanks challenges the official explanation from NIST.  Dr. Hulsey explained to us his findings from his 3 year study of the collapse of WTC7.&amp;#10;.&amp;#10;Watch other episodes of Forensics Talks:&amp;#10;&amp;#10;What is the Science of Violence?  - ft. Dr Geoff Desmoulin&amp;#10;https://youtu.be/mxNJ076t4tc&amp;#10;&amp;#10;How cognitive bias can influence forensic experts?  - ft. Dr Itiel Dror &amp;#10;https://youtu.be/h6gvTnUIMpg&amp;#10;&amp;#10;Virtual Reality uses for Forensics - ft. Alex Harvey from RiVR&amp;#10;https://youtu.be/RIDvUm2li1I&amp;#10;&amp;#10;What is the Science of Crime Shooting Reconstructions? - ft. Matt Noedel&amp;#10;https://youtu.be/vkO1ccZEsX0&amp;#10;&amp;#10;Why 3D technologies are so important for Forensics? - ft. Mark Johnson&amp;#10;https://youtu.be/NVt_J66Hi-E&amp;#10;.&amp;#10;Still haven&amp;#8217;t subscribed to 3D Forensics on YouTube? &amp;#9658;&amp;#9658; https://www.youtube.com/user/Forensic...&amp;#10;.&amp;#10;Follow us on Instagram @3dforensics&amp;#10;Follow us on Linkedin https://www.linkedin.com/company/ai2_3d&amp;#10;&amp;#10;.&amp;#10;#forensicscience #forensics #forensicfiles #forensic  #photogrametry #3dmodeling&amp;#10;#vr #crimesceneinvestigator #csi #wtc #wtc7 #wtccollapse #september11 #forensicengineering #wtcinvestigation"
     channeltitle "3D Forensics"
     channelid "UCRPrxDEPJj6F_l3pR_ajmiw"
     favcount 0
@@ -136,7 +224,29 @@ graph
     ppprofanity 0.029266642
     ppinflammatory 0.006934843
     sentiment 0
-    cluster 2
+    cluster 4
+    leftright "L"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 1
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -145,7 +255,7 @@ graph
     step 0
     date "2018-09-07T13:47:23Z"
     title "N.J. Burkett reporting as Twin Towers begin to collapse on September 11, 2001"
-    description "Raw video from the attack on the Twin Towers on September 11, 2001.&#10;&#10;More coverage:  https://7ny.tv/2wKnbWj"
+    description "Raw video from the attack on the Twin Towers on September 11, 2001.&amp;#10;&amp;#10;More coverage:  https://7ny.tv/2wKnbWj"
     channeltitle "Eyewitness News ABC7NY"
     channelid "UCrlIS7z20CnVaCrMvdkig_g"
     favcount 0
@@ -163,7 +273,29 @@ graph
     ppprofanity 0.12294926
     ppinflammatory 0.27456263
     sentiment -0.4939
-    cluster 3
+    cluster 1
+    leftright "L"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 1
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -172,7 +304,7 @@ graph
     step 0
     date "2009-08-31T15:43:23Z"
     title "Explosive 9/11 Claims | National Geographic"
-    description "Could the towers have been brought down by controlled demolition? Blasting a college dorm helps answer that question.&#10;&#10145; Subscribe: http://bit.ly/NatGeoSubscribe&#10;&#10;About National Geographic:&#10;National Geographic is the world's premium destination for science, exploration, and adventure. Through their world-class scientists, photographers, journalists, and filmmakers, Nat Geo gets you closer to the stories that matter and past the edge of what's possible.&#10;&#10;Get More National Geographic:&#10;Official Site: http://bit.ly/NatGeoOfficialSite&#10;Facebook: http://bit.ly/FBNatGeo&#10;Twitter: http://bit.ly/NatGeoTwitter&#10;Instagram: http://bit.ly/NatGeoInsta&#10;&#10;9/11: Science and Conspiracy : http://channel.nationalgeographic.com/episode/9-11-science-and-conspiracy-4067/Overview&#10;&#10;Explosive 9/11 Claims | National Geographic&#10;https://youtu.be/FeasKVBFySw&#10;&#10;National Geographic&#10;https://www.youtube.com/natgeo"
+    description "Could the towers have been brought down by controlled demolition? Blasting a college dorm helps answer that question.&amp;#10;&amp;#10145; Subscribe: http://bit.ly/NatGeoSubscribe&amp;#10;&amp;#10;About National Geographic:&amp;#10;National Geographic is the world's premium destination for science, exploration, and adventure. Through their world-class scientists, photographers, journalists, and filmmakers, Nat Geo gets you closer to the stories that matter and past the edge of what's possible.&amp;#10;&amp;#10;Get More National Geographic:&amp;#10;Official Site: http://bit.ly/NatGeoOfficialSite&amp;#10;Facebook: http://bit.ly/FBNatGeo&amp;#10;Twitter: http://bit.ly/NatGeoTwitter&amp;#10;Instagram: http://bit.ly/NatGeoInsta&amp;#10;&amp;#10;9/11: Science and Conspiracy : http://channel.nationalgeographic.com/episode/9-11-science-and-conspiracy-4067/Overview&amp;#10;&amp;#10;Explosive 9/11 Claims | National Geographic&amp;#10;https://youtu.be/FeasKVBFySw&amp;#10;&amp;#10;National Geographic&amp;#10;https://www.youtube.com/natgeo"
     channeltitle "National Geographic"
     channelid "UCpVm7bg6pXKo1Pr6k5kxG9A"
     favcount 0
@@ -190,7 +322,29 @@ graph
     ppprofanity 0.16209958
     ppinflammatory 0.41298217
     sentiment 0
-    cluster 4
+    cluster 5
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -199,7 +353,7 @@ graph
     step 0
     date "2019-01-22T18:00:01Z"
     title "Chilling Footage Inside the World Trade Center Right After 9/11 Attacks | Channel 4"
-    description "A rare glimpse of what the World Trade Center Building 7 looked like after the South Tower collapsed.&#10;&#10;Subscribe to Channel 4 Docs: https://bit.ly/2IzNJyi&#10;Watch the FULL documentary on All 4: https://bit.ly/2M7jm43&#10;&#10;Watch the True Crime: Unravelled playlist here:&#10;https://www.youtube.com/playlist?list=PLiC_gpE7y050VqtPCgHAMhORqSWqhZiL0&#10;&#10;Watch the True Crime playlist here:&#10;https://www.youtube.com/playlist?list=PLiC_gpE7y051qpKtiQg7wOCN3BjgLP3wt&#10;&#10;Watch the 24 Hours in Police Custody playlist here:&#10;https://www.youtube.com/playlist?list=PLiC_gpE7y051cnB1ckaz3Z0oxSMVRsG7J&#10;&#10;Watch the 24 Hours In A&#38;E playlist here:&#10;https://youtu.be/xXyqaL8CDEU?list=PLiC_gpE7y051uPem0F3XQTWc02q_H8e6t&#10;&#10;Watch the Geordie Hospital playlist here:&#10;https://youtu.be/v5Foi7mJbxE?list=PLiC_gpE7y050Tp3tfMgday-_gCYXBvHjC&#10;&#10;Watch the True Stories playlist here:&#10;https://youtu.be/_YVPNBx8PBs?list=PLiC_gpE7y051TAP_WXaYv6ydC0o3FABRC&#10;&#10;Watch the How To Get Rich playlist here:&#10;https://youtu.be/vpUhgcape-8?list=PLiC_gpE7y053MavXzZXiZJJdHSnNHMzA-&#10;&#10;Watch the My Body, My Rules playlist here:&#10;https://youtu.be/cxhvopXOfAY?list=PLiC_gpE7y052N7TLhLEbyOTiZg6IKh7WT&#10;&#10;Watch the Murder Island playlist here:&#10;https://www.youtube.com/playlist?list=PLiC_gpE7y052hA-6y_Rx7jDf1QV-i5zd2&#10;&#10;Watch the Secret Services playlist here:&#10;https://youtu.be/Gy3Dc2IsTsw?list=PLiC_gpE7y051XrtY98CEYcsANEaAR5STz&#10;&#10;#911 #September11 #WorldTradeCenter #Channel4Documentary #Channel4Docs #All4"
+    description "A rare glimpse of what the World Trade Center Building 7 looked like after the South Tower collapsed.&amp;#10;&amp;#10;Subscribe to Channel 4 Docs: https://bit.ly/2IzNJyi&amp;#10;Watch the FULL documentary on All 4: https://bit.ly/2M7jm43&amp;#10;&amp;#10;Watch the True Crime: Unravelled playlist here:&amp;#10;https://www.youtube.com/playlist?list=PLiC_gpE7y050VqtPCgHAMhORqSWqhZiL0&amp;#10;&amp;#10;Watch the True Crime playlist here:&amp;#10;https://www.youtube.com/playlist?list=PLiC_gpE7y051qpKtiQg7wOCN3BjgLP3wt&amp;#10;&amp;#10;Watch the 24 Hours in Police Custody playlist here:&amp;#10;https://www.youtube.com/playlist?list=PLiC_gpE7y051cnB1ckaz3Z0oxSMVRsG7J&amp;#10;&amp;#10;Watch the 24 Hours In A&amp;#38;E playlist here:&amp;#10;https://youtu.be/xXyqaL8CDEU?list=PLiC_gpE7y051uPem0F3XQTWc02q_H8e6t&amp;#10;&amp;#10;Watch the Geordie Hospital playlist here:&amp;#10;https://youtu.be/v5Foi7mJbxE?list=PLiC_gpE7y050Tp3tfMgday-_gCYXBvHjC&amp;#10;&amp;#10;Watch the True Stories playlist here:&amp;#10;https://youtu.be/_YVPNBx8PBs?list=PLiC_gpE7y051TAP_WXaYv6ydC0o3FABRC&amp;#10;&amp;#10;Watch the How To Get Rich playlist here:&amp;#10;https://youtu.be/vpUhgcape-8?list=PLiC_gpE7y053MavXzZXiZJJdHSnNHMzA-&amp;#10;&amp;#10;Watch the My Body, My Rules playlist here:&amp;#10;https://youtu.be/cxhvopXOfAY?list=PLiC_gpE7y052N7TLhLEbyOTiZg6IKh7WT&amp;#10;&amp;#10;Watch the Murder Island playlist here:&amp;#10;https://www.youtube.com/playlist?list=PLiC_gpE7y052hA-6y_Rx7jDf1QV-i5zd2&amp;#10;&amp;#10;Watch the Secret Services playlist here:&amp;#10;https://youtu.be/Gy3Dc2IsTsw?list=PLiC_gpE7y051XrtY98CEYcsANEaAR5STz&amp;#10;&amp;#10;#911 #September11 #WorldTradeCenter #Channel4Documentary #Channel4Docs #All4"
     channeltitle "Channel 4 Documentaries"
     channelid "UCooTDp-fERMGRHIQ4VL4qlg"
     favcount 0
@@ -217,7 +371,29 @@ graph
     ppprofanity 0.14904605
     ppinflammatory 0.27115774
     sentiment -0.4588
-    cluster 1
+    cluster 2
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -226,7 +402,7 @@ graph
     step 0
     date "2018-09-07T13:44:52Z"
     title "Cameraman caught in aftermath of Twin Towers collapse on 9/11"
-    description "Raw video from the attack on the Twin Towers on September 11, 2001.&#10;&#10;More coverage: https://7ny.tv/2wKnbWj"
+    description "Raw video from the attack on the Twin Towers on September 11, 2001.&amp;#10;&amp;#10;More coverage: https://7ny.tv/2wKnbWj"
     channeltitle "Eyewitness News ABC7NY"
     channelid "UCrlIS7z20CnVaCrMvdkig_g"
     favcount 0
@@ -244,7 +420,29 @@ graph
     ppprofanity 0.15679047
     ppinflammatory 0.39753383
     sentiment -0.4939
-    cluster 3
+    cluster 1
+    leftright "C"
+    AntiSJW 0
+    AntiTheist 1
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -253,7 +451,7 @@ graph
     step 0
     date "2020-09-23T11:00:03Z"
     title "How Did Jet Fuel Melt The Steel Beams In The Twin Towers? | Blowing-Up History"
-    description "When it was completed in 1973, the World Trade Centre was the tallest building in the world, thanks to many of its revolutionary construction methods. But none of these methods was enough to survive the attacks on September 11th where jet fuel fires led to a weakening of the steel that held the structure together, and ultimately caused both buildings to collapse.&#10;&#10;Subscribe to Discovery UK for more great clips:&#13;&#10;http://www.youtube.com/subscription_center?add_user=DiscoveryTV&#13;&#10;&#13;&#10;Follow Discovery UK on Twitter:&#13;&#10;http://www.twitter.com/DiscoveryUK"
+    description "When it was completed in 1973, the World Trade Centre was the tallest building in the world, thanks to many of its revolutionary construction methods. But none of these methods was enough to survive the attacks on September 11th where jet fuel fires led to a weakening of the steel that held the structure together, and ultimately caused both buildings to collapse.&amp;#10;&amp;#10;Subscribe to Discovery UK for more great clips:&amp;#13;&amp;#10;http://www.youtube.com/subscription_center?add_user=DiscoveryTV&amp;#13;&amp;#10;&amp;#13;&amp;#10;Follow Discovery UK on Twitter:&amp;#13;&amp;#10;http://www.twitter.com/DiscoveryUK"
     channeltitle "Discovery UK"
     channelid "UC9cGX5x0_EXkdfmWlvPbu3g"
     favcount 0
@@ -271,7 +469,29 @@ graph
     ppprofanity 0.04555541
     ppinflammatory 0.44802442
     sentiment 0
-    cluster 4
+    cluster 5
+    leftright "C"
+    AntiSJW 0
+    AntiTheist 1
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -280,7 +500,7 @@ graph
     step 0
     date "2015-08-28T17:53:33Z"
     title "This Computer Simulation Explains How the Twin Towers Fell"
-    description "To understand what happened to the Twin Towers on 9/11, a scientist set up an elaborate computer simulation of the event. It ended up not just predicting the manner of the collapse, but also its speed.&#10;&#10;Watch the Full Episode with your FREE trial for Smithsonian Channel Plus by signing up today at https://watch.smithsonianchannel.com/&#10;&#10;From: THE MISSING EVIDENCE: 9/11 Secret Explosions  in the Towers&#10;http://bit.ly/1hhMyEr"
+    description "To understand what happened to the Twin Towers on 9/11, a scientist set up an elaborate computer simulation of the event. It ended up not just predicting the manner of the collapse, but also its speed.&amp;#10;&amp;#10;Watch the Full Episode with your FREE trial for Smithsonian Channel Plus by signing up today at https://watch.smithsonianchannel.com/&amp;#10;&amp;#10;From: THE MISSING EVIDENCE: 9/11 Secret Explosions  in the Towers&amp;#10;http://bit.ly/1hhMyEr"
     channeltitle "Smithsonian Channel"
     channelid "UCWqPRUsJlZaDp-PVbqEch9g"
     favcount 0
@@ -298,7 +518,29 @@ graph
     ppprofanity 0.06639302
     ppinflammatory 0.26343685
     sentiment 0
-    cluster 5
+    cluster 6
+    leftright "C"
+    AntiSJW 0
+    AntiTheist 1
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -307,7 +549,7 @@ graph
     step 0
     date "2016-09-08T19:01:51Z"
     title "The Falling Man | Behind The Photo | 100 Photos | TIME"
-    description "Most images of 9/11 depict destruction on a massive scale. But Richard Drew&#8217;s quiet picture of one man falling from the towers conveys the tragedy of every life lost that day. &#10;Subscribe to TIME&#9658;&#9658; http://po.st/SubscribeTIME&#10;&#10;In this unprecedented exploration of 100 photographs that shaped the human experience, TIME goes behind each spectacular image to reveal how and why it changed the course of history. &#10;&#10;Order the book now at the TIME Shop.&#10;http://po.st/TIME100Photos&#10;&#10;Visit the complete multimedia experience at http://100photos.time.com/&#10;&#10;CONNECT WITH TIME&#10;Web: http://time.com/&#10;Twitter: https://twitter.com/TIME&#10;Facebook: https://www.facebook.com/time &#10;Google+: https://plus.google.com/+TIME/videos&#10;Instagram: https://www.instagram.com/time/?hl=en&#10;Magazine: http://time.com/magazine/&#10;Newsletter: time.com/newsletter&#10;&#10;ABOUT TIME&#10;With 24/7 reporting, TIME puts the global news of the day into context&#8212;shaping the conversation and illuminating the common ground in its own distinct style. Analytical and insightful, lively and engaging, TIME tells the larger story about the world we live in. Subscribe for daily world news, interviews, science, technology, politics, health, entertainment, and business updates, as well as exclusive videos from TIME&#8217;s Person of the Year, TIME 100 and more by TIME&#8217;s acclaimed writers, producers and editors.&#10;&#10;The Falling Man | Behind The Photo | 100 Photos | TIME&#10;https://www.youtube.com/user/TimeMagazine"
+    description "Most images of 9/11 depict destruction on a massive scale. But Richard Drew&amp;#8217;s quiet picture of one man falling from the towers conveys the tragedy of every life lost that day. &amp;#10;Subscribe to TIME&amp;#9658;&amp;#9658; http://po.st/SubscribeTIME&amp;#10;&amp;#10;In this unprecedented exploration of 100 photographs that shaped the human experience, TIME goes behind each spectacular image to reveal how and why it changed the course of history. &amp;#10;&amp;#10;Order the book now at the TIME Shop.&amp;#10;http://po.st/TIME100Photos&amp;#10;&amp;#10;Visit the complete multimedia experience at http://100photos.time.com/&amp;#10;&amp;#10;CONNECT WITH TIME&amp;#10;Web: http://time.com/&amp;#10;Twitter: https://twitter.com/TIME&amp;#10;Facebook: https://www.facebook.com/time &amp;#10;Google+: https://plus.google.com/+TIME/videos&amp;#10;Instagram: https://www.instagram.com/time/?hl=en&amp;#10;Magazine: http://time.com/magazine/&amp;#10;Newsletter: time.com/newsletter&amp;#10;&amp;#10;ABOUT TIME&amp;#10;With 24/7 reporting, TIME puts the global news of the day into context&amp;#8212;shaping the conversation and illuminating the common ground in its own distinct style. Analytical and insightful, lively and engaging, TIME tells the larger story about the world we live in. Subscribe for daily world news, interviews, science, technology, politics, health, entertainment, and business updates, as well as exclusive videos from TIME&amp;#8217;s Person of the Year, TIME 100 and more by TIME&amp;#8217;s acclaimed writers, producers and editors.&amp;#10;&amp;#10;The Falling Man | Behind The Photo | 100 Photos | TIME&amp;#10;https://www.youtube.com/user/TimeMagazine"
     channeltitle "TIME"
     channelid "UC8Su5vZCXWRag13H53zWVwA"
     favcount 0
@@ -325,7 +567,29 @@ graph
     ppprofanity 0.038726933
     ppinflammatory 0.08311779
     sentiment -0.1531
-    cluster 3
+    cluster 1
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -334,7 +598,7 @@ graph
     step 0
     date "2021-09-09T18:30:42Z"
     title "The Five BIGGEST 9/11 Conspiracy Theories DEBUNKED Forever | JOE Features"
-    description "After twenty years, conspiracy theories about what happened on 9/11 are STILL running wild. So we're attempted to take five of the biggest theories, and get them debunked FOREVER.&#10;&#10;On September 11, 2001, four passenger jets bound for California were hijacked and crashed into sites across the east coast of America. &#10;&#10;In total, nearly 3,000 people were killed and tens of thousands more injured when planes hit the World Trade Center, the Pentagon, and a field in Pennsylvania.&#10;________________________________________________&#10;&#10; FOLLOW JOE:&#10;&#10;&#9658; Twitter - https://twitter.com/JOE_co_uk&#10;&#9658; Facebook - https://www.facebook.com/www.JOE.co.uk&#10;&#9658; Instagram - https://www.instagram.com/JOE_co_uk&#10;&#10;FOLLOW FOOTBALL JOE:&#10;&#10;&#9658; Twitter - https://twitter.com/FootballJOE&#10;&#9658; Instagram - https://www.instagram.com/FootballJOE&#10;&#9658; TikTok - https://www.tiktok.com/@FootballJOE&#10;&#10;FOLLOW POLITICS JOE:&#10;&#10;&#9658; YouTube - https://www.youtube.com/PoliticsJOE&#10;&#9658; Twitter - https://twitter.com/PoliticsJOE_UK&#10;&#10;FOLLOW RUGBY JOE:&#10;&#10;&#9658; Instagram - https://www.instagram.com/RugbyJOE&#10;&#9658; House of Rugby Facebook Group - https://www.facebook.com/groups/394374224458441/&#10;&#9658; Twitter - https://twitter.com/RugbyJOE_UK&#10;&#10;FOLLOW MMA JOE:&#10;&#10;&#9658; Instagram - https://www.instagram.com/MMA.JOE&#10;&#10;FOLLOW SPORTS JOE:&#10;&#10;&#9658; Twitter - https://twitter.com/SportsJOE_UK&#10;&#9658; Facebook - https://www.facebook.com/www.SportsJOE.co.uk&#10;&#10;FOLLOW COMEDY JOE:&#10;&#10;&#9658; Facebook - https://www.facebook.com/ComedyJOEpage&#10;&#10;FOLLOW FIT JOE:&#10;&#10;&#9658; Facebook - https://www.facebook.com/fitnessonjoe/&#10;&#10;FOLLOW GAMING JOE:&#10;&#10;&#9658; Instagram - https://www.instagram.com/gamingjoe/"
+    description "After twenty years, conspiracy theories about what happened on 9/11 are STILL running wild. So we're attempted to take five of the biggest theories, and get them debunked FOREVER.&amp;#10;&amp;#10;On September 11, 2001, four passenger jets bound for California were hijacked and crashed into sites across the east coast of America. &amp;#10;&amp;#10;In total, nearly 3,000 people were killed and tens of thousands more injured when planes hit the World Trade Center, the Pentagon, and a field in Pennsylvania.&amp;#10;________________________________________________&amp;#10;&amp;#10; FOLLOW JOE:&amp;#10;&amp;#10;&amp;#9658; Twitter - https://twitter.com/JOE_co_uk&amp;#10;&amp;#9658; Facebook - https://www.facebook.com/www.JOE.co.uk&amp;#10;&amp;#9658; Instagram - https://www.instagram.com/JOE_co_uk&amp;#10;&amp;#10;FOLLOW FOOTBALL JOE:&amp;#10;&amp;#10;&amp;#9658; Twitter - https://twitter.com/FootballJOE&amp;#10;&amp;#9658; Instagram - https://www.instagram.com/FootballJOE&amp;#10;&amp;#9658; TikTok - https://www.tiktok.com/@FootballJOE&amp;#10;&amp;#10;FOLLOW POLITICS JOE:&amp;#10;&amp;#10;&amp;#9658; YouTube - https://www.youtube.com/PoliticsJOE&amp;#10;&amp;#9658; Twitter - https://twitter.com/PoliticsJOE_UK&amp;#10;&amp;#10;FOLLOW RUGBY JOE:&amp;#10;&amp;#10;&amp;#9658; Instagram - https://www.instagram.com/RugbyJOE&amp;#10;&amp;#9658; House of Rugby Facebook Group - https://www.facebook.com/groups/394374224458441/&amp;#10;&amp;#9658; Twitter - https://twitter.com/RugbyJOE_UK&amp;#10;&amp;#10;FOLLOW MMA JOE:&amp;#10;&amp;#10;&amp;#9658; Instagram - https://www.instagram.com/MMA.JOE&amp;#10;&amp;#10;FOLLOW SPORTS JOE:&amp;#10;&amp;#10;&amp;#9658; Twitter - https://twitter.com/SportsJOE_UK&amp;#10;&amp;#9658; Facebook - https://www.facebook.com/www.SportsJOE.co.uk&amp;#10;&amp;#10;FOLLOW COMEDY JOE:&amp;#10;&amp;#10;&amp;#9658; Facebook - https://www.facebook.com/ComedyJOEpage&amp;#10;&amp;#10;FOLLOW FIT JOE:&amp;#10;&amp;#10;&amp;#9658; Facebook - https://www.facebook.com/fitnessonjoe/&amp;#10;&amp;#10;FOLLOW GAMING JOE:&amp;#10;&amp;#10;&amp;#9658; Instagram - https://www.instagram.com/gamingjoe/"
     channeltitle "JOE"
     channelid "UCOYXMJcUXo58HmJN1vuzKUA"
     favcount 0
@@ -352,7 +616,29 @@ graph
     ppprofanity 0.084587194
     ppinflammatory 0.35638168
     sentiment -0.5267
-    cluster 4
+    cluster 5
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -361,7 +647,7 @@ graph
     step 0
     date "2011-09-09T17:31:43Z"
     title "Unique, rare 9/11 material shot from the Hudson"
-    description "This unique material was shot from one of the boats that ended up evacuating about half a million people from Lower Manhattan on 9/11. Shot for RTL Extra.&#10;Also check out our other 9/11 documentaries:&#10;The Window Cleaner of the WTC: https://www.youtube.com/watch?v=L2PMT3TdBxM&#10;The Jumpers of 9/11: https://www.youtube.com/watch?v=ZXcsBLcVc5o&#10;Unique 9/11 video's collected: http://www.youtube.com/watch?v=N3-jMknIKnQ&#10;Interview last 9/11 survivor: http://www.youtube.com/watch?v=oyrZg9gzn4I"
+    description "This unique material was shot from one of the boats that ended up evacuating about half a million people from Lower Manhattan on 9/11. Shot for RTL Extra.&amp;#10;Also check out our other 9/11 documentaries:&amp;#10;The Window Cleaner of the WTC: https://www.youtube.com/watch?v=L2PMT3TdBxM&amp;#10;The Jumpers of 9/11: https://www.youtube.com/watch?v=ZXcsBLcVc5o&amp;#10;Unique 9/11 video's collected: http://www.youtube.com/watch?v=N3-jMknIKnQ&amp;#10;Interview last 9/11 survivor: http://www.youtube.com/watch?v=oyrZg9gzn4I"
     channeltitle "RTL Nieuws New York"
     channelid "UCtiNZyyK5ISP3usAe_L5qMw"
     favcount 0
@@ -379,7 +665,29 @@ graph
     ppprofanity 0.10086169
     ppinflammatory 0.2821268
     sentiment 0
-    cluster 5
+    cluster 6
+    leftright "R"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 1
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -406,7 +714,29 @@ graph
     ppprofanity 0.1211243
     ppinflammatory 0.040152904
     sentiment 0
-    cluster 4
+    cluster 5
+    leftright "R"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 1
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -415,7 +745,7 @@ graph
     step 0
     date "2018-09-11T13:03:28Z"
     title "9/11: As Events Unfold"
-    description "The events of 9/11 as they unfolded through actual audio of First Responders, Air Traffic Controllers, Dispatch Personnel, Airline Employees, Pilots, Citizens, Pilots, and Terrorists.&#10;&#10;Connect with TSA on Social Media:&#10;&#8226;&#160;Follow TSA on Twitter: https://twitter.com/TSA&#10;&#8226;&#160;Like TSA on Facebook: https://www.facebook.com/TSA&#10;&#8226;&#160;Follow TSA on Instagram: https://www.instagram.com/TSA&#10;&#8226;&#160;Tweet to AskTSA on Twitter: https://twitter.com/AskTSA&#10;&#8226;&#160;Message AskTSA on Facebook: https://www.facebook.com/AskTSA&#10;&#10;Learn more: http://www.tsa.gov"
+    description "The events of 9/11 as they unfolded through actual audio of First Responders, Air Traffic Controllers, Dispatch Personnel, Airline Employees, Pilots, Citizens, Pilots, and Terrorists.&amp;#10;&amp;#10;Connect with TSA on Social Media:&amp;#10;&amp;#8226;&amp;#160;Follow TSA on Twitter: https://twitter.com/TSA&amp;#10;&amp;#8226;&amp;#160;Like TSA on Facebook: https://www.facebook.com/TSA&amp;#10;&amp;#8226;&amp;#160;Follow TSA on Instagram: https://www.instagram.com/TSA&amp;#10;&amp;#8226;&amp;#160;Tweet to AskTSA on Twitter: https://twitter.com/AskTSA&amp;#10;&amp;#8226;&amp;#160;Message AskTSA on Facebook: https://www.facebook.com/AskTSA&amp;#10;&amp;#10;Learn more: http://www.tsa.gov"
     channeltitle "TSA"
     channelid "UCEVIKvawdzP2ewYeYp6UegQ"
     favcount 0
@@ -433,7 +763,29 @@ graph
     ppprofanity 0.081911765
     ppinflammatory 0.08196009
     sentiment 0
-    cluster 3
+    cluster 1
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -442,7 +794,7 @@ graph
     step 0
     date "2010-08-30T18:20:21Z"
     title "When the Towers Fell | National Geographic"
-    description "Giuliani describes what it was like to live through the ten seconds in which the south tower caved in and fell to the ground.&#10;&#10145; Subscribe: http://bit.ly/NatGeoSubscribe&#10;&#10;About National Geographic:&#10;National Geographic is the world's premium destination for science, exploration, and adventure. Through their world-class scientists, photographers, journalists, and filmmakers, Nat Geo gets you closer to the stories that matter and past the edge of what's possible.&#10;&#10;Get More National Geographic:&#10;Official Site: http://bit.ly/NatGeoOfficialSite&#10;Facebook: http://bit.ly/FBNatGeo&#10;Twitter: http://bit.ly/NatGeoTwitter&#10;Instagram: http://bit.ly/NatGeoInsta&#10;&#10;Giuliani's 9/11: http://channel.nationalgeographic.com/episode/giuliani-s-9-11-4981/Overview&#10;&#10;When the Towers Fell | National Geographic&#10;https://youtu.be/ieIFtjnBfJU&#10;&#10;National Geographic&#10;https://www.youtube.com/natgeo"
+    description "Giuliani describes what it was like to live through the ten seconds in which the south tower caved in and fell to the ground.&amp;#10;&amp;#10145; Subscribe: http://bit.ly/NatGeoSubscribe&amp;#10;&amp;#10;About National Geographic:&amp;#10;National Geographic is the world's premium destination for science, exploration, and adventure. Through their world-class scientists, photographers, journalists, and filmmakers, Nat Geo gets you closer to the stories that matter and past the edge of what's possible.&amp;#10;&amp;#10;Get More National Geographic:&amp;#10;Official Site: http://bit.ly/NatGeoOfficialSite&amp;#10;Facebook: http://bit.ly/FBNatGeo&amp;#10;Twitter: http://bit.ly/NatGeoTwitter&amp;#10;Instagram: http://bit.ly/NatGeoInsta&amp;#10;&amp;#10;Giuliani's 9/11: http://channel.nationalgeographic.com/episode/giuliani-s-9-11-4981/Overview&amp;#10;&amp;#10;When the Towers Fell | National Geographic&amp;#10;https://youtu.be/ieIFtjnBfJU&amp;#10;&amp;#10;National Geographic&amp;#10;https://www.youtube.com/natgeo"
     channeltitle "National Geographic"
     channelid "UCpVm7bg6pXKo1Pr6k5kxG9A"
     favcount 0
@@ -460,7 +812,29 @@ graph
     ppprofanity 0.1226106
     ppinflammatory 0.28839105
     sentiment 0
-    cluster 3
+    cluster 1
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -469,7 +843,7 @@ graph
     step 0
     date "2020-09-11T04:45:00Z"
     title "What happened on September 11, 2001? | 9/11 attacks"
-    description "What happened on September 11, 2001? | 9/11 attacks &#10;&#10;On September 11, 2001, two planes were flown into the famous twin towers of the World Trade Center in New York City. 19 terrorists associated with the Islamic extremist group al-Qaeda hijacked four airplanes and carried out suicide attacks against targets in the United States. The third plane hit the Pentagon just outside Washington, DC, and the fourth plane crashed in a field in Pennsylvania. Over 3,000 people were killed during the 9/11 terrorist attacks. The 9/11 attack triggered major US initiatives to combat terrorism.&#10;&#10;#US911Attack #911Anniversary #US&#10;&#10;About Channel: &#10;&#10;WION -The World is One News, examines global issues with in-depth analysis. We provide much more than the news of the day. Our aim to empower people to explore their world. With our Global headquarters in New Delhi, we bring you news on the hour, by the hour. We deliver information that is not biased. We are journalists who are neutral to the core and non-partisan when it comes to the politics of the world. People are tired of biased reportage and we stand for a globalised united world. So for us the World is truly One.&#10; &#10;Please keep discussions on this channel clean and respectful and refrain from using racist or sexist slurs as well as personal insults.&#10;&#10;Subscribe to our channel at https://goo.gl/JfY3NI&#10;Check out our website: http://www.wionews.com&#10;Connect with us on our social media handles:&#10;Facebook: https://www.facebook.com/WIONews&#10;Twitter: https://twitter.com/WIONews&#10;&#10;Follow us on Google News for latest updates&#10;&#10;Zee News:- https://bit.ly/2Ac5G60&#10;Zee Bussiness:- https://bit.ly/36vI2xa&#10;DNA India:- https://bit.ly/2ZDuLRY&#10;WION: https://bit.ly/3gnDb5J&#10;Zee News Apps : https://bit.ly/ZeeNewsApps"
+    description "What happened on September 11, 2001? | 9/11 attacks &amp;#10;&amp;#10;On September 11, 2001, two planes were flown into the famous twin towers of the World Trade Center in New York City. 19 terrorists associated with the Islamic extremist group al-Qaeda hijacked four airplanes and carried out suicide attacks against targets in the United States. The third plane hit the Pentagon just outside Washington, DC, and the fourth plane crashed in a field in Pennsylvania. Over 3,000 people were killed during the 9/11 terrorist attacks. The 9/11 attack triggered major US initiatives to combat terrorism.&amp;#10;&amp;#10;#US911Attack #911Anniversary #US&amp;#10;&amp;#10;About Channel: &amp;#10;&amp;#10;WION -The World is One News, examines global issues with in-depth analysis. We provide much more than the news of the day. Our aim to empower people to explore their world. With our Global headquarters in New Delhi, we bring you news on the hour, by the hour. We deliver information that is not biased. We are journalists who are neutral to the core and non-partisan when it comes to the politics of the world. People are tired of biased reportage and we stand for a globalised united world. So for us the World is truly One.&amp;#10; &amp;#10;Please keep discussions on this channel clean and respectful and refrain from using racist or sexist slurs as well as personal insults.&amp;#10;&amp;#10;Subscribe to our channel at https://goo.gl/JfY3NI&amp;#10;Check out our website: http://www.wionews.com&amp;#10;Connect with us on our social media handles:&amp;#10;Facebook: https://www.facebook.com/WIONews&amp;#10;Twitter: https://twitter.com/WIONews&amp;#10;&amp;#10;Follow us on Google News for latest updates&amp;#10;&amp;#10;Zee News:- https://bit.ly/2Ac5G60&amp;#10;Zee Bussiness:- https://bit.ly/36vI2xa&amp;#10;DNA India:- https://bit.ly/2ZDuLRY&amp;#10;WION: https://bit.ly/3gnDb5J&amp;#10;Zee News Apps : https://bit.ly/ZeeNewsApps"
     channeltitle "WION"
     channelid "UC_gUM8rL-Lrg6O3adPW9K1g"
     favcount 0
@@ -487,7 +861,29 @@ graph
     ppprofanity 0.09584834
     ppinflammatory 0.10999225
     sentiment -0.4404
-    cluster 3
+    cluster 1
+    leftright "C"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 1
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -496,7 +892,7 @@ graph
     step 0
     date "2017-09-11T15:56:50Z"
     title "WTC7 Simulation Evaluation - World Trade Center 7 Collapse Research Study"
-    description "Simulated with completely new developed software designed for structural simulation, this revision of the old WTC 7 simulation attempt serves as validation case for the BCB software.&#10;&#10;New in this simulation compared to the old one:&#10;- Multiple constraints per connection are used to represent individual degrees of freedom (DOF)&#10;- Breaking thresholds are computed from real world parameters&#10;- Correct steel thicknesses and beam dimensions are used&#10;- Plastic deformation is now simulated&#10;&#10;While this simulation of World Trade Center 7 is still not 'perfect' it resembles much better the specific characteristics observed in the documentation of reality than the older model. This simulation confirms mostly the findings of NIST, it is safe to say that the columns 79 to 81 were the first columns which gave way because the removal of other columns led to much different collapses. More than that is hardly determinable, such a system behaves just to chaotic to tell what exact connection failed first. In this regard NIST might be wrong by declaring a specific failure point. However, I consider this not being an important question given the fact how compromised the structure around these three columns must have been exposed to fire for hours, a situation beyond any imaginable safety design specification.&#10;&#10;Having said that, I want to emphasize that this video is not intended to prove or disprove 9/11 conspiracy theories. I'm deleting comments that include hate speech, so you better think twice before starting an argument about the reasons of 9/11 here. Instead, I recommend to read a neutral source like: https://en.wikipedia.org/wiki/9/11_conspiracy_theories to get some pros and cons instead of watching YouTube videos.&#10;&#10;This is a private project. There are no third parties involved. There is no scientific report available. No peer review has taken place. Thanks for watching.&#10;&#10;Old simulations from 2014: https://youtu.be/MSlIFXw3EGg&#10;WTC 1 from 2011: https://youtu.be/4_J7ak_IZXk&#10;&#10;Simulation Stats&#10;----------------&#10;Element count: 28228&#10;Constraint count: 702962&#10;Simulation time: 10 h + 1 h building constraints&#10;Render time: real-time&#10;&#10;Model Specs&#10;-----------&#10;Group 'Concrete' mass: 100654 t and 93 kg&#10;Group 'Steel beams' mass: 22942 t and 844 kg&#10;Group 'Steel trusses' mass: 765 t and 292 kg&#10;Group 'Facade' mass: 4341 t and 782 kg&#10;Group 'Facade roof' mass: 147 t and 608 kg&#10;Total mass: 128851 t and 619 kg&#10;&#10;Credits &#38; Links&#10;---------------&#10;Simulation and visualization by Kostack Studio&#10;http://kostackstudio.de&#10;&#10;3D software Blender: https://www.blender.org&#10;Simulated with Bullet Constraints Builder (BCB): https://github.com/KaiKostack/bullet-constraints-builder&#10;Supported by Fracture Modifier build for better performance: http://blenderartists.org/forum/showthread.php?343637-Custom-Build-Blender-Fracture-Modifier&#10;&#10;Software developed within INACHUS: http://www.inachus.eu&#10;(Keywords: H2020, InvestEUresearch, EU-funded research, science)&#10;at Laurea University of Applied Sciences LUAS, Finland:&#10;https://inachuslaurea.wordpress.com"
+    description "Simulated with completely new developed software designed for structural simulation, this revision of the old WTC 7 simulation attempt serves as validation case for the BCB software.&amp;#10;&amp;#10;New in this simulation compared to the old one:&amp;#10;- Multiple constraints per connection are used to represent individual degrees of freedom (DOF)&amp;#10;- Breaking thresholds are computed from real world parameters&amp;#10;- Correct steel thicknesses and beam dimensions are used&amp;#10;- Plastic deformation is now simulated&amp;#10;&amp;#10;While this simulation of World Trade Center 7 is still not 'perfect' it resembles much better the specific characteristics observed in the documentation of reality than the older model. This simulation confirms mostly the findings of NIST, it is safe to say that the columns 79 to 81 were the first columns which gave way because the removal of other columns led to much different collapses. More than that is hardly determinable, such a system behaves just to chaotic to tell what exact connection failed first. In this regard NIST might be wrong by declaring a specific failure point. However, I consider this not being an important question given the fact how compromised the structure around these three columns must have been exposed to fire for hours, a situation beyond any imaginable safety design specification.&amp;#10;&amp;#10;Having said that, I want to emphasize that this video is not intended to prove or disprove 9/11 conspiracy theories. I'm deleting comments that include hate speech, so you better think twice before starting an argument about the reasons of 9/11 here. Instead, I recommend to read a neutral source like: https://en.wikipedia.org/wiki/9/11_conspiracy_theories to get some pros and cons instead of watching YouTube videos.&amp;#10;&amp;#10;This is a private project. There are no third parties involved. There is no scientific report available. No peer review has taken place. Thanks for watching.&amp;#10;&amp;#10;Old simulations from 2014: https://youtu.be/MSlIFXw3EGg&amp;#10;WTC 1 from 2011: https://youtu.be/4_J7ak_IZXk&amp;#10;&amp;#10;Simulation Stats&amp;#10;----------------&amp;#10;Element count: 28228&amp;#10;Constraint count: 702962&amp;#10;Simulation time: 10 h + 1 h building constraints&amp;#10;Render time: real-time&amp;#10;&amp;#10;Model Specs&amp;#10;-----------&amp;#10;Group 'Concrete' mass: 100654 t and 93 kg&amp;#10;Group 'Steel beams' mass: 22942 t and 844 kg&amp;#10;Group 'Steel trusses' mass: 765 t and 292 kg&amp;#10;Group 'Facade' mass: 4341 t and 782 kg&amp;#10;Group 'Facade roof' mass: 147 t and 608 kg&amp;#10;Total mass: 128851 t and 619 kg&amp;#10;&amp;#10;Credits &amp;#38; Links&amp;#10;---------------&amp;#10;Simulation and visualization by Kostack Studio&amp;#10;http://kostackstudio.de&amp;#10;&amp;#10;3D software Blender: https://www.blender.org&amp;#10;Simulated with Bullet Constraints Builder (BCB): https://github.com/KaiKostack/bullet-constraints-builder&amp;#10;Supported by Fracture Modifier build for better performance: http://blenderartists.org/forum/showthread.php?343637-Custom-Build-Blender-Fracture-Modifier&amp;#10;&amp;#10;Software developed within INACHUS: http://www.inachus.eu&amp;#10;(Keywords: H2020, InvestEUresearch, EU-funded research, science)&amp;#10;at Laurea University of Applied Sciences LUAS, Finland:&amp;#10;https://inachuslaurea.wordpress.com"
     channeltitle "Kostack Studio"
     channelid "UCozprHAh-CPdkla4E4MtOIA"
     favcount 0
@@ -514,7 +910,29 @@ graph
     ppprofanity 0.056792885
     ppinflammatory 0.14129496
     sentiment -0.4939
-    cluster 5
+    cluster 2
+    leftright "C"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 1
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -541,7 +959,29 @@ graph
     ppprofanity 0.15738238
     ppinflammatory 0.1639004
     sentiment 0
-    cluster 4
+    cluster 3
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -550,7 +990,7 @@ graph
     step 0
     date "2016-09-08T18:10:32Z"
     title "Was 9/11 an Inside Job?"
-    description "On September 11th, 2001 nearly 3,000 people died in what is to this date the worst terrorist attack in American history. From the day of the attacks, conspiracy theories ran rampant ranging from claims that the US government let the attacks happened, to orchestrating them itself, to the real perpetrators being lizards from space. Today, we take a look at the strange world of 9/11 conspiracy theories.&#10;&#10;Step Back is made possible by the generous contributions of viewers like you, consider helping at https://www.patreon.com/stepbackhistory&#10;&#10;Learn more about when history meets conspiracy theory here: https://www.youtube.com/watch?v=mR3tdy4m7eo&#38;list=PLnpoOo7lhNnEAi75mgBjZ2ESW8WXOuqAj&#10;&#10;Read More (I make a commission if you used these links): &#10;-Popular Mechanics, Debunking 9/11 Myths: Why Conspiracy Theories Can't Stand Up to the Facts(2006) http://amzn.to/2bWkYi9&#10;- Sid Jacobson and Ernie Col&#243;n, The 9/11 Report: A Graphic Adaptation (2006) http://amzn.to/2cbNqbD&#10;- Jonathan Kay,  Among the Truthers: A Journey Through America's Growing Conspiracist Underground (2011) http://amzn.to/2ccth7z&#10;&#10;Resources on technical 9/11 claims:&#10;http://www.debunking911.com/&#10;http://ae911truth.info/wordpress/&#10;&#10;Step Back is a history channel releasing videos biweekly that endeavors to go past the names, dates, and battles you might find elsewhere. It invites you to take a step back, consider the past and how it connects to today. We search for the quirky, unconventional, and just plain weird parts of our collective story.&#10;&#10;SUBSCRIBE and join us!&#10;https://www.youtube.com/channel/UCxTdWpLJurbGlFMWOwXWG_A&#10;&#10;I would like to thank the following patrons for their support of this video:&#10;-Robbie Harris&#10;-and Mom and Dad&#10;&#10;Credits:&#10;&#10;Photos:&#10;Se&#241;or Supersol2016&#10;Reckon&#10;Dean11122&#10;Aspensti&#10;Damon D'Amato&#10;9/11 Photos&#10;nrkbeta&#10;Azeri&#10;Rafael Matsunaga&#10;Fanghong Fanghong&#10;Kevinalbania&#10;everyone's idle&#10;Schuyler S.&#10;MacMax&#10;Jeff Kubina&#10;Nanashinodensyaku&#10;Fred the Oyster&#10;Presidenza della Repubblica&#10;Noofa2401&#10;http://www.canadafreepress.com/&#10;g4ll4is&#10;Miami Workers Center&#10;Ipankonin&#10;Steven Depolo&#10;readingcapital&#10;Beny Shlevich&#10;Jim Linwood&#10;FrigeEnterprises&#10;DonkeyHotey&#10;Anthony Quintano&#10;Robert J. Fisch&#10;Erwin Lux&#10;&#10;Music:&#10;Irregular by Kevin MacLeod is licensed under a Creative Commons Attribution licence (https://creativecommons.org/licenses/by/4.0/)&#10;Source: http://incompetech.com/music/royalty-free/?keywords=irregular&#10;Artist: http://incompetech.com/&#10;Long Note Three by Kevin MacLeod is licensed under a Creative Commons Attribution licence (https://creativecommons.org/licenses/by/4.0/)&#10;Source: http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100424&#10;Artist: http://incompetech.com/&#10;&#10;-~-~~-~~~-~~-~-&#10;Please watch: &#34;Is America REALLY a Democracy?&#34; &#10;https://www.youtube.com/watch?v=sxAML92SCwU&#10;-~-~~-~~~-~~-~-"
+    description "On September 11th, 2001 nearly 3,000 people died in what is to this date the worst terrorist attack in American history. From the day of the attacks, conspiracy theories ran rampant ranging from claims that the US government let the attacks happened, to orchestrating them itself, to the real perpetrators being lizards from space. Today, we take a look at the strange world of 9/11 conspiracy theories.&amp;#10;&amp;#10;Step Back is made possible by the generous contributions of viewers like you, consider helping at https://www.patreon.com/stepbackhistory&amp;#10;&amp;#10;Learn more about when history meets conspiracy theory here: https://www.youtube.com/watch?v=mR3tdy4m7eo&amp;#38;list=PLnpoOo7lhNnEAi75mgBjZ2ESW8WXOuqAj&amp;#10;&amp;#10;Read More (I make a commission if you used these links): &amp;#10;-Popular Mechanics, Debunking 9/11 Myths: Why Conspiracy Theories Can't Stand Up to the Facts(2006) http://amzn.to/2bWkYi9&amp;#10;- Sid Jacobson and Ernie Col&amp;#243;n, The 9/11 Report: A Graphic Adaptation (2006) http://amzn.to/2cbNqbD&amp;#10;- Jonathan Kay,  Among the Truthers: A Journey Through America's Growing Conspiracist Underground (2011) http://amzn.to/2ccth7z&amp;#10;&amp;#10;Resources on technical 9/11 claims:&amp;#10;http://www.debunking911.com/&amp;#10;http://ae911truth.info/wordpress/&amp;#10;&amp;#10;Step Back is a history channel releasing videos biweekly that endeavors to go past the names, dates, and battles you might find elsewhere. It invites you to take a step back, consider the past and how it connects to today. We search for the quirky, unconventional, and just plain weird parts of our collective story.&amp;#10;&amp;#10;SUBSCRIBE and join us!&amp;#10;https://www.youtube.com/channel/UCxTdWpLJurbGlFMWOwXWG_A&amp;#10;&amp;#10;I would like to thank the following patrons for their support of this video:&amp;#10;-Robbie Harris&amp;#10;-and Mom and Dad&amp;#10;&amp;#10;Credits:&amp;#10;&amp;#10;Photos:&amp;#10;Se&amp;#241;or Supersol2016&amp;#10;Reckon&amp;#10;Dean11122&amp;#10;Aspensti&amp;#10;Damon D'Amato&amp;#10;9/11 Photos&amp;#10;nrkbeta&amp;#10;Azeri&amp;#10;Rafael Matsunaga&amp;#10;Fanghong Fanghong&amp;#10;Kevinalbania&amp;#10;everyone's idle&amp;#10;Schuyler S.&amp;#10;MacMax&amp;#10;Jeff Kubina&amp;#10;Nanashinodensyaku&amp;#10;Fred the Oyster&amp;#10;Presidenza della Repubblica&amp;#10;Noofa2401&amp;#10;http://www.canadafreepress.com/&amp;#10;g4ll4is&amp;#10;Miami Workers Center&amp;#10;Ipankonin&amp;#10;Steven Depolo&amp;#10;readingcapital&amp;#10;Beny Shlevich&amp;#10;Jim Linwood&amp;#10;FrigeEnterprises&amp;#10;DonkeyHotey&amp;#10;Anthony Quintano&amp;#10;Robert J. Fisch&amp;#10;Erwin Lux&amp;#10;&amp;#10;Music:&amp;#10;Irregular by Kevin MacLeod is licensed under a Creative Commons Attribution licence (https://creativecommons.org/licenses/by/4.0/)&amp;#10;Source: http://incompetech.com/music/royalty-free/?keywords=irregular&amp;#10;Artist: http://incompetech.com/&amp;#10;Long Note Three by Kevin MacLeod is licensed under a Creative Commons Attribution licence (https://creativecommons.org/licenses/by/4.0/)&amp;#10;Source: http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100424&amp;#10;Artist: http://incompetech.com/&amp;#10;&amp;#10;-~-~~-~~~-~~-~-&amp;#10;Please watch: &amp;#34;Is America REALLY a Democracy?&amp;#34; &amp;#10;https://www.youtube.com/watch?v=sxAML92SCwU&amp;#10;-~-~~-~~~-~~-~-"
     channeltitle "Step Back"
     channelid "UCxTdWpLJurbGlFMWOwXWG_A"
     favcount 0
@@ -568,7 +1008,29 @@ graph
     ppprofanity 0.010565339
     ppinflammatory 0.30780974
     sentiment 0
-    cluster 4
+    cluster 5
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -595,7 +1057,29 @@ graph
     ppprofanity 0.085843235
     ppinflammatory 0.41907933
     sentiment 0
-    cluster 3
+    cluster 1
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -604,7 +1088,7 @@ graph
     step 0
     date "2021-09-10T17:04:06Z"
     title "9/11: How Americas worst terror attack unfolded"
-    description "On September 11, 2001, 2,973 people died and thousands were injured as two hi-jacked planes flew into the twin towers of the World Trade Center in New York City.&#10; &#10;Twenty years later, the events of 9/11 continue to shape the US and the world.&#10;&#10;SUBSCRIBE to our YouTube channel for more videos: http://www.youtube.com/skynews&#10; &#10;Follow us on Twitter: https://twitter.com/skynews &#10; &#10;Like us on Facebook: https://www.facebook.com/skynews&#10; &#10;Follow us on Instagram: https://www.instagram.com/skynews&#10; &#10;For more content go to http://news.sky.com and download our apps: &#10; &#10;Apple: https://itunes.apple.com/gb/app/sky-news/id316391924?mt=8&#10; &#10;Android https://play.google.com/store/apps/details?id=com.bskyb.skynews.android&#38;hl=en_GB&#10;&#10;Sky News videos are now available in Spanish here/Los video de Sky News est&#225;n disponibles en espa&#241;ol aqu&#237; https://www.youtube.com/channel/skynewsespanol"
+    description "On September 11, 2001, 2,973 people died and thousands were injured as two hi-jacked planes flew into the twin towers of the World Trade Center in New York City.&amp;#10; &amp;#10;Twenty years later, the events of 9/11 continue to shape the US and the world.&amp;#10;&amp;#10;SUBSCRIBE to our YouTube channel for more videos: http://www.youtube.com/skynews&amp;#10; &amp;#10;Follow us on Twitter: https://twitter.com/skynews &amp;#10; &amp;#10;Like us on Facebook: https://www.facebook.com/skynews&amp;#10; &amp;#10;Follow us on Instagram: https://www.instagram.com/skynews&amp;#10; &amp;#10;For more content go to http://news.sky.com and download our apps: &amp;#10; &amp;#10;Apple: https://itunes.apple.com/gb/app/sky-news/id316391924?mt=8&amp;#10; &amp;#10;Android https://play.google.com/store/apps/details?id=com.bskyb.skynews.android&amp;#38;hl=en_GB&amp;#10;&amp;#10;Sky News videos are now available in Spanish here/Los video de Sky News est&amp;#225;n disponibles en espa&amp;#241;ol aqu&amp;#237; https://www.youtube.com/channel/skynewsespanol"
     channeltitle "Sky News"
     channelid "UCoMdktPbSTixAyNGwb-UYkQ"
     favcount 0
@@ -622,7 +1106,29 @@ graph
     ppprofanity 0.16912577
     ppinflammatory 0.55764985
     sentiment -0.891
-    cluster 3
+    cluster 1
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -631,7 +1137,7 @@ graph
     step 0
     date "2021-09-08T12:17:28Z"
     title "How 9/11  conspiracy theories fueled the war on reality | Opinion"
-    description "Conspiracy theories blaming George W. Bush for the Sept. 11, 2001, terrorist attacks have been debunked, yet millions of Americans still believe them. When Osama bin Laden was the obvious &#34;outsider,&#34; why did so many people turn against Bush and what does it say about U.S. society today? In this short film, conspiracy theory researchers Evan Laine and Raju Parakkal connect the dots between 9/11 &#34;trutherism&#34; and the &#34;Big Lie.&#34; #September11 #911 #washingtonpost&#10;&#10;Director/Producer: Kate Woodsome&#10;Associate Producer: David Byler&#10;Editors: Andrew van Baal, George M. Murphy&#10;Director of Photography: Jay Miller&#10;First Assistant Camera: Aly Spengler&#10;Motion Graphics Editor: Danielle Kunitz&#10;&#10;. Read more: https://wapo.st/3DZGH28. Subscribe to The Washington Post on YouTube: https://wapo.st/2QOdcqK&#10;&#10;Follow us:&#10;Twitter: https://twitter.com/washingtonpost&#10;Instagram: https://www.instagram.com/washingtonpost/&#10;Facebook: https://www.facebook.com/washingtonpost/"
+    description "Conspiracy theories blaming George W. Bush for the Sept. 11, 2001, terrorist attacks have been debunked, yet millions of Americans still believe them. When Osama bin Laden was the obvious &amp;#34;outsider,&amp;#34; why did so many people turn against Bush and what does it say about U.S. society today? In this short film, conspiracy theory researchers Evan Laine and Raju Parakkal connect the dots between 9/11 &amp;#34;trutherism&amp;#34; and the &amp;#34;Big Lie.&amp;#34; #September11 #911 #washingtonpost&amp;#10;&amp;#10;Director/Producer: Kate Woodsome&amp;#10;Associate Producer: David Byler&amp;#10;Editors: Andrew van Baal, George M. Murphy&amp;#10;Director of Photography: Jay Miller&amp;#10;First Assistant Camera: Aly Spengler&amp;#10;Motion Graphics Editor: Danielle Kunitz&amp;#10;&amp;#10;. Read more: https://wapo.st/3DZGH28. Subscribe to The Washington Post on YouTube: https://wapo.st/2QOdcqK&amp;#10;&amp;#10;Follow us:&amp;#10;Twitter: https://twitter.com/washingtonpost&amp;#10;Instagram: https://www.instagram.com/washingtonpost/&amp;#10;Facebook: https://www.facebook.com/washingtonpost/"
     channeltitle "Washington Post"
     channelid "UCHd62-u_v4DvJ8TCFtpi4GA"
     favcount 0
@@ -649,7 +1155,29 @@ graph
     ppprofanity 0.05565239
     ppinflammatory 0.1957758
     sentiment -0.8074
-    cluster 4
+    cluster 5
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -658,7 +1186,7 @@ graph
     step 0
     date "2014-09-09T19:53:51Z"
     title "Shocking: the jumpers of 9/11"
-    description "Over twee dagen herdenken de Amerikanen de slachtoffers van 9/11. Maar er is een groep slachtoffers waar ze in Amerika liever niet over praten: de mensen die z&#233;lf uit de brandende Twin Towers sprongen. Voor de vele religieuze Amerikanen is zo'n zelfverkozen dood een taboe."
+    description "Over twee dagen herdenken de Amerikanen de slachtoffers van 9/11. Maar er is een groep slachtoffers waar ze in Amerika liever niet over praten: de mensen die z&amp;#233;lf uit de brandende Twin Towers sprongen. Voor de vele religieuze Amerikanen is zo'n zelfverkozen dood een taboe."
     channeltitle "RTL Nieuws New York"
     channelid "UCtiNZyyK5ISP3usAe_L5qMw"
     favcount 0
@@ -676,7 +1204,29 @@ graph
     ppprofanity 0.083145075
     ppinflammatory 0.27260262
     sentiment -0.4019
-    cluster 3
+    cluster 1
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -703,7 +1253,29 @@ graph
     ppprofanity 0.05275553
     ppinflammatory 0.17706144
     sentiment -0.4404
-    cluster 4
+    cluster 3
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -730,7 +1302,29 @@ graph
     ppprofanity 0.18195298
     ppinflammatory 0.2746272
     sentiment -0.4939
-    cluster 3
+    cluster 1
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -739,7 +1333,7 @@ graph
     step 0
     date "2019-09-11T21:31:39Z"
     title "7 Video Games That PREDICTED 9/11 (CREEPY)"
-    description "7 Video Games That PREDICTED the FUTURE... CREEPY. &#10;&#10;&#129094; Follow me on Twitter - https://twitter.com/ZacCoxTV&#10;&#129094; Follow my Instagram - http://instagram.com/ZacCoxTV&#10;&#129094; Like My Facebook - https://www.facebook.com/ZacCoxTV/&#10;&#129094; Add Me on Snapchat - https://www.snapchat.com/add/joserican&#10;&#10;MY DISCORD!&#10;&#9679; https://t.co/UY7USyMmiY&#10;&#10;Between 1989 and April 2001, there were 7 games that predicted the future and what would happen on September 11, 2001. This is insanely creepy."
+    description "7 Video Games That PREDICTED the FUTURE... CREEPY. &amp;#10;&amp;#10;&amp;#129094; Follow me on Twitter - https://twitter.com/ZacCoxTV&amp;#10;&amp;#129094; Follow my Instagram - http://instagram.com/ZacCoxTV&amp;#10;&amp;#129094; Like My Facebook - https://www.facebook.com/ZacCoxTV/&amp;#10;&amp;#129094; Add Me on Snapchat - https://www.snapchat.com/add/joserican&amp;#10;&amp;#10;MY DISCORD!&amp;#10;&amp;#9679; https://t.co/UY7USyMmiY&amp;#10;&amp;#10;Between 1989 and April 2001, there were 7 games that predicted the future and what would happen on September 11, 2001. This is insanely creepy."
     channeltitle "ZacCoxTV"
     channelid "UC2pdmlMIATaSfaxNuRTL4OA"
     favcount 0
@@ -757,7 +1351,29 @@ graph
     ppprofanity 0.22688475
     ppinflammatory 0.23374635
     sentiment 0
-    cluster 3
+    cluster 1
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -784,7 +1400,29 @@ graph
     ppprofanity 0.14940783
     ppinflammatory 0.20093597
     sentiment 0
-    cluster 3
+    cluster 1
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -793,7 +1431,7 @@ graph
     step 0
     date "2012-09-18T06:38:27Z"
     title "Ventura"
-    description "Former Gov. Jesse Ventura gets into a heated argument with Piers Morgan about 9/11 and the government's response.&#10;&#10;More from this interview here:&#10;http://www.youtube.com/watch?v=gZJrqMqdprI&#10;http://www.youtube.com/watch?v=BIUGfCLlxpc&#10;&#10;For more CNN videos, check out our YouTube channel at http://www.youtube.com/cnn&#10;&#10;Marianne Williamson entertained 9/11 conspiracy theories in 2012 interview&#10;https://www.cnn.com/2019/09/19/politics/marianne-williamson-911-conspiracy-theories-kfile/index.html"
+    description "Former Gov. Jesse Ventura gets into a heated argument with Piers Morgan about 9/11 and the government's response.&amp;#10;&amp;#10;More from this interview here:&amp;#10;http://www.youtube.com/watch?v=gZJrqMqdprI&amp;#10;http://www.youtube.com/watch?v=BIUGfCLlxpc&amp;#10;&amp;#10;For more CNN videos, check out our YouTube channel at http://www.youtube.com/cnn&amp;#10;&amp;#10;Marianne Williamson entertained 9/11 conspiracy theories in 2012 interview&amp;#10;https://www.cnn.com/2019/09/19/politics/marianne-williamson-911-conspiracy-theories-kfile/index.html"
     channeltitle "CNN"
     channelid "UCupvZG-5ko_eiXAupbDfxWw"
     favcount 0
@@ -811,7 +1449,29 @@ graph
     ppprofanity 0.11007838
     ppinflammatory 0.03562792
     sentiment 0
-    cluster 4
+    cluster 3
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -820,7 +1480,7 @@ graph
     step 0
     date "2015-08-04T04:56:43Z"
     title "World Trade Center and how it collapsed"
-    description "Please watch: &#34;UNSWTV: Entertaining your curiosity&#34; &#10;https://www.youtube.com/watch?v=bQ7UO8nxiL0&#10;-~-~~-~~~-~~-~-&#10;&#10;Subscribe now to UNSWTV: http//:www.youtube.com/unsw&#10;&#10;What caused the collapse of the World Trade Center? How could buildings and cities be better evacuated in the event of a bombing? Find out in this latest episode of Catastrophic Science, the series exploring the life-saving research resulting from catastrophes."
+    description "Please watch: &amp;#34;UNSWTV: Entertaining your curiosity&amp;#34; &amp;#10;https://www.youtube.com/watch?v=bQ7UO8nxiL0&amp;#10;-~-~~-~~~-~~-~-&amp;#10;&amp;#10;Subscribe now to UNSWTV: http//:www.youtube.com/unsw&amp;#10;&amp;#10;What caused the collapse of the World Trade Center? How could buildings and cities be better evacuated in the event of a bombing? Find out in this latest episode of Catastrophic Science, the series exploring the life-saving research resulting from catastrophes."
     channeltitle "UNSW"
     channelid "UCGlpjRTn0sFRbgm_BMledhg"
     favcount 0
@@ -838,7 +1498,29 @@ graph
     ppprofanity 0.052199572
     ppinflammatory 0.29412284
     sentiment -0.2732
-    cluster 3
+    cluster 1
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -847,7 +1529,7 @@ graph
     step 0
     date "2018-09-07T13:41:23Z"
     title "Crowds run for shelter during September 11th attacks in NYC"
-    description "Raw video from the attack on the Twin Towers on September 11, 2001.&#10;&#10;More coverage: https://7ny.tv/2wKnbWj"
+    description "Raw video from the attack on the Twin Towers on September 11, 2001.&amp;#10;&amp;#10;More coverage: https://7ny.tv/2wKnbWj"
     channeltitle "Eyewitness News ABC7NY"
     channelid "UCrlIS7z20CnVaCrMvdkig_g"
     favcount 0
@@ -865,7 +1547,29 @@ graph
     ppprofanity 0.15429613
     ppinflammatory 0.13836516
     sentiment -0.4404
-    cluster 3
+    cluster 1
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -874,7 +1578,7 @@ graph
     step 0
     date "2021-09-01T09:00:12Z"
     title "9/11: George Bush breaks down his very public initial reaction - BBC"
-    description "Subscribe and &#128276; to the BBC &#128073; https://bit.ly/BBCYouTubeSub&#10;Watch the BBC first on iPlayer &#128073; https://bbc.in/iPlayer-Home September 11 attacks: President George Bush Finds Out About the Attack on the South Tower&#10;&#10;On September 11th 2001, the United States came under attack. The George Bush administration describe the morning that changed the world forever.&#10;&#10;#BBC #911 #BBCiPlayer&#10;&#10;9/11: Inside the President's War Room | Streaming now | BBC iPlayer&#10;&#10;All our TV channels and S4C are available to watch live through BBC iPlayer, although some programmes may not be available to stream online due to rights. If you would like to read more on what types of programmes are available to watch live, check the 'Are all programmes that are broadcast available on BBC iPlayer?' FAQ &#128073; https://bbc.in/2m8ks6v."
+    description "Subscribe and &amp;#128276; to the BBC &amp;#128073; https://bit.ly/BBCYouTubeSub&amp;#10;Watch the BBC first on iPlayer &amp;#128073; https://bbc.in/iPlayer-Home September 11 attacks: President George Bush Finds Out About the Attack on the South Tower&amp;#10;&amp;#10;On September 11th 2001, the United States came under attack. The George Bush administration describe the morning that changed the world forever.&amp;#10;&amp;#10;#BBC #911 #BBCiPlayer&amp;#10;&amp;#10;9/11: Inside the President's War Room | Streaming now | BBC iPlayer&amp;#10;&amp;#10;All our TV channels and S4C are available to watch live through BBC iPlayer, although some programmes may not be available to stream online due to rights. If you would like to read more on what types of programmes are available to watch live, check the 'Are all programmes that are broadcast available on BBC iPlayer?' FAQ &amp;#128073; https://bbc.in/2m8ks6v."
     channeltitle "BBC"
     channelid "UCCj956IF62FbT7Gouszaj9w"
     favcount 0
@@ -892,7 +1596,29 @@ graph
     ppprofanity 0.0463938
     ppinflammatory 0.19320971
     sentiment 0
-    cluster 3
+    cluster 1
+    leftright "R"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 1
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -919,7 +1645,29 @@ graph
     ppprofanity 0.25425717
     ppinflammatory 0.12178077
     sentiment -0.4939
-    cluster 1
+    cluster 2
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -946,7 +1694,29 @@ graph
     ppprofanity 0.111558445
     ppinflammatory 0.14249332
     sentiment -0.4939
-    cluster 4
+    cluster 3
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -955,7 +1725,7 @@ graph
     step 0
     date "2021-09-09T01:49:17Z"
     title "Official 20 Year Time-Lapse - Rebuilding the World Trade Center"
-    description "This unique film documents two decades of the rescue, recovery and rebuilding at the World Trade Center site in New York City. It is the longest running time-lapse project in the company&#8217;s history, including never-before-seen EarthCam footage spanning 20 years. &#10;&#10;EarthCam has been on site since 2001 when EarthCam CEO &#38; Founder, Brian Cury, installed a webcam just days after the attacks to webcast the rescue mission to the families of the missing. As rescue became recovery and eventually rebuilding, EarthCam set to work to develop new robotic DSLR camera technology necessary to document this revered 16 acre site in the highest resolution possible. &#10;&#10;Every few minutes for 20 years, panoramic images captured the transformation of downtown Manhattan from over 100 viewing angles, totaling 13.3 million individual photos. &#10;&#10;&#8220;We appreciate EarthCam&#8217;s unprecedented contribution of 20 years of historic images, which have meticulously recorded the rebuilding that transformed this sacred space,&#8221; said 9/11 Memorial President and CEO Alice M. Greenwald, &#8220;This creative time-lapse both honors the legacy of those who were killed and embodies hope for the future, as we see these remarkable new structures that surround the Memorial as evidence of lower Manhattan&#8217;s resilience and renewal.&#8221;&#10;&#10;All two decades of content, in addition to the original EarthCam camera have been donated to the National September 11 Memorial &#38; Museum.&#10;&#10;&#8220;This is an emotional milestone for EarthCam, as the history of the company has been so intertwined with this site.&#8221; said Brian Cury, CEO and Founder of EarthCam, &#8220;We&#8217;re grateful to many partners, friends, and to the extraordinary team at EarthCam whose dedication and passion supported this effort over the past 20 years, so that we may share this historic archive and honor the lives lost due to the September 11th attacks.&#8221;&#10;&#10;Produced &#38; Directed by Brian Cury&#10;&#10;Archival Producers: Lana Moskalyova &#38; Juan Navas&#10;&#10;Webcam Technology: Bill Sharp, Colin Sheehan, Dylan Stark, Michael Winfield&#10;&#10;Editors: Travis Cooper &#38; Brian Cury &#10;&#10;Special Thanks: &#10;Riese Restaurants, Millenium Hilton New York Downtown, Port Authority of New York and New Jersey, St. Nicholas Greek Orthodox Church and National Shrine, Empire State Realty Trust, Hyatt Regency Jersey City On The Hudson, The Statue of Liberty - Ellis Island Foundation, Inc., National Park Service, Kaitlyn Leubling, Daniel Ortiz, Madison Housel, Joseph Alon, Kyle Storm, Taylor Smith, Joseph Nizza, Amanda Valentin, Charles Dilkes, Lisa Kelly, Jason Brossa, Todd Maloof"
+    description "This unique film documents two decades of the rescue, recovery and rebuilding at the World Trade Center site in New York City. It is the longest running time-lapse project in the company&amp;#8217;s history, including never-before-seen EarthCam footage spanning 20 years. &amp;#10;&amp;#10;EarthCam has been on site since 2001 when EarthCam CEO &amp;#38; Founder, Brian Cury, installed a webcam just days after the attacks to webcast the rescue mission to the families of the missing. As rescue became recovery and eventually rebuilding, EarthCam set to work to develop new robotic DSLR camera technology necessary to document this revered 16 acre site in the highest resolution possible. &amp;#10;&amp;#10;Every few minutes for 20 years, panoramic images captured the transformation of downtown Manhattan from over 100 viewing angles, totaling 13.3 million individual photos. &amp;#10;&amp;#10;&amp;#8220;We appreciate EarthCam&amp;#8217;s unprecedented contribution of 20 years of historic images, which have meticulously recorded the rebuilding that transformed this sacred space,&amp;#8221; said 9/11 Memorial President and CEO Alice M. Greenwald, &amp;#8220;This creative time-lapse both honors the legacy of those who were killed and embodies hope for the future, as we see these remarkable new structures that surround the Memorial as evidence of lower Manhattan&amp;#8217;s resilience and renewal.&amp;#8221;&amp;#10;&amp;#10;All two decades of content, in addition to the original EarthCam camera have been donated to the National September 11 Memorial &amp;#38; Museum.&amp;#10;&amp;#10;&amp;#8220;This is an emotional milestone for EarthCam, as the history of the company has been so intertwined with this site.&amp;#8221; said Brian Cury, CEO and Founder of EarthCam, &amp;#8220;We&amp;#8217;re grateful to many partners, friends, and to the extraordinary team at EarthCam whose dedication and passion supported this effort over the past 20 years, so that we may share this historic archive and honor the lives lost due to the September 11th attacks.&amp;#8221;&amp;#10;&amp;#10;Produced &amp;#38; Directed by Brian Cury&amp;#10;&amp;#10;Archival Producers: Lana Moskalyova &amp;#38; Juan Navas&amp;#10;&amp;#10;Webcam Technology: Bill Sharp, Colin Sheehan, Dylan Stark, Michael Winfield&amp;#10;&amp;#10;Editors: Travis Cooper &amp;#38; Brian Cury &amp;#10;&amp;#10;Special Thanks: &amp;#10;Riese Restaurants, Millenium Hilton New York Downtown, Port Authority of New York and New Jersey, St. Nicholas Greek Orthodox Church and National Shrine, Empire State Realty Trust, Hyatt Regency Jersey City On The Hudson, The Statue of Liberty - Ellis Island Foundation, Inc., National Park Service, Kaitlyn Leubling, Daniel Ortiz, Madison Housel, Joseph Alon, Kyle Storm, Taylor Smith, Joseph Nizza, Amanda Valentin, Charles Dilkes, Lisa Kelly, Jason Brossa, Todd Maloof"
     channeltitle "EarthCam"
     channelid "UC6qrG3W8SMK0jior2olka3g"
     favcount 0
@@ -973,7 +1743,29 @@ graph
     ppprofanity 0.022550264
     ppinflammatory 0.32773304
     sentiment 0
-    cluster 2
+    cluster 1
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -982,7 +1774,7 @@ graph
     step 0
     date "2015-05-29T05:07:20Z"
     title "Official 11 Year Time-Lapse Movie of One World Trade Center"
-    description "Update: Watch EarthCam's latest September 2021 release here: &#10;https://youtu.be/nLqFZNfTmU4&#10;&#34;EarthCam Premieres 20 Year 9/11 Anniversary Time-Lapse Film, &#8216;Never Forgotten&#8217; &#10;Documenting two decades of the rescue, recovery and rebuilding at the World Trade Center site&#34;&#10;&#10;&#10;In recognition of the opening of One World Observatory in New York City, we have released a special edition of our One World Trade Center video. Watch and share this commemorative time-lapse showing the building progress from October 2004 to Memorial Day 2015. Over the past 11 years, EarthCam&#8217;s construction cameras captured hundreds of thousands of high definition images and our Creative Team hand-edited the footage to create this exclusive movie.&#10;&#10;Produced and Directed by Brian Cury, EarthCam's CEO &#38; Founder, &#34;It's our mission to continue to document this for future generations, so people can see what it took to rebuild these important 16 acres.&#34;"
+    description "Update: Watch EarthCam's latest September 2021 release here: &amp;#10;https://youtu.be/nLqFZNfTmU4&amp;#10;&amp;#34;EarthCam Premieres 20 Year 9/11 Anniversary Time-Lapse Film, &amp;#8216;Never Forgotten&amp;#8217; &amp;#10;Documenting two decades of the rescue, recovery and rebuilding at the World Trade Center site&amp;#34;&amp;#10;&amp;#10;&amp;#10;In recognition of the opening of One World Observatory in New York City, we have released a special edition of our One World Trade Center video. Watch and share this commemorative time-lapse showing the building progress from October 2004 to Memorial Day 2015. Over the past 11 years, EarthCam&amp;#8217;s construction cameras captured hundreds of thousands of high definition images and our Creative Team hand-edited the footage to create this exclusive movie.&amp;#10;&amp;#10;Produced and Directed by Brian Cury, EarthCam's CEO &amp;#38; Founder, &amp;#34;It's our mission to continue to document this for future generations, so people can see what it took to rebuild these important 16 acres.&amp;#34;"
     channeltitle "EarthCam"
     channelid "UC6qrG3W8SMK0jior2olka3g"
     favcount 0
@@ -1000,7 +1792,29 @@ graph
     ppprofanity 0.021883577
     ppinflammatory 0.20349294
     sentiment 0
-    cluster 2
+    cluster 4
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -1009,7 +1823,7 @@ graph
     step 0
     date "2021-08-30T12:00:17Z"
     title "9/11: The moment the world changed 20 years on | Under Investigation"
-    description "Subscribe here: http://9Soci.al/chmP50wA97J Full Episodes: https://9now.app.link/uNP4qBkmN6 | 9/11 - 20 Years On&#10;&#10;It was the day that shook the world &#8211; September 11, 2001, now forever known as 9/11. Twenty years on, Under Investigation returns to the very moment the world changed to investigate what went wrong and reveal what experts fear is yet to come.&#10;&#10;WATCH more of 60 Minutes Australia: https://www.60minutes.com.au &#10;LIKE 60 Minutes Australia on Facebook: https://www.facebook.com/60Minutes9 &#10;FOLLOW 60 Minutes Australia on Twitter: https://twitter.com/60Mins &#10;FOLLOW 60 Minutes Australia on Instagram: https://www.instagram.com/60minutes9&#10;&#10;For forty years, 60 Minutes have been telling Australians the world&#8217;s greatest stories. Tales that changed history, our nation and our lives. Reporters Liz Hayes, Tom Steinfort, Tara Brown, Liam Bartlett and Sarah Abo look past the headlines because there is always a bigger picture. Sundays are for 60 Minutes.&#10;&#10;#60MinutesAustralia"
+    description "Subscribe here: http://9Soci.al/chmP50wA97J Full Episodes: https://9now.app.link/uNP4qBkmN6 | 9/11 - 20 Years On&amp;#10;&amp;#10;It was the day that shook the world &amp;#8211; September 11, 2001, now forever known as 9/11. Twenty years on, Under Investigation returns to the very moment the world changed to investigate what went wrong and reveal what experts fear is yet to come.&amp;#10;&amp;#10;WATCH more of 60 Minutes Australia: https://www.60minutes.com.au &amp;#10;LIKE 60 Minutes Australia on Facebook: https://www.facebook.com/60Minutes9 &amp;#10;FOLLOW 60 Minutes Australia on Twitter: https://twitter.com/60Mins &amp;#10;FOLLOW 60 Minutes Australia on Instagram: https://www.instagram.com/60minutes9&amp;#10;&amp;#10;For forty years, 60 Minutes have been telling Australians the world&amp;#8217;s greatest stories. Tales that changed history, our nation and our lives. Reporters Liz Hayes, Tom Steinfort, Tara Brown, Liam Bartlett and Sarah Abo look past the headlines because there is always a bigger picture. Sundays are for 60 Minutes.&amp;#10;&amp;#10;#60MinutesAustralia"
     channeltitle "60 Minutes Australia"
     channelid "UC0L1suV8pVgO4pCAIBNGx5w"
     favcount 0
@@ -1027,7 +1841,29 @@ graph
     ppprofanity 0.044029642
     ppinflammatory 0.27663562
     sentiment 0
-    cluster 3
+    cluster 1
+    leftright "L"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 1
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -1036,7 +1872,7 @@ graph
     step 0
     date "2021-09-19T14:47:47Z"
     title "The 9/11 Attacks | What actually happened? | America | Dhruv Rathee"
-    description "The morning of September 11th in America was quite unlike anything seen before. The events in USA were a world changing event. The World Trade Centre used to be an iconic building in New York, which collapsed. In total, there were a total of four different planes hijackings. United Airlines flight 93 is the most outstanding of those four since we saw an amazing heroic gesture. But the whole incident, permanently caused some changes across the world. In this mini- documentary video, I describe the sequences of events during the 9/11 and how these events changed the world forever. &#10;&#10;Hirect is India&#8217;s 1st App-based hiring platform where you can chat directly with startup founders and CXOs as well as schedule your interview within minutes. Join Hirect today and take a step towards your dream job - https://hirect.page.link/Qd86&#10;&#10;Sources for further reading: &#10;Link to USA Patriot Act of 2001: https://www.govinfo.gov/content/pkg/PLAW-107publ56/pdf/PLAW-107publ56.pdf&#10;Consequences of 9/11: https://www.pri.org/stories/2016-09-12/data-hate-crimes-against-muslims-increased-after-911&#10;Balbir&#8217;s Story: https://www.ndtv.com/world-news/brother-of-sikh-man-killed-in-9-11-hate-attack-shares-message-of-unity-2537867&#10;&#10;Support my work and join as a member to get exclusive stuff:&#10;1. On Patreon: https://www.patreon.com/dhruvrathee&#10;2. On Youtube: https://www.youtube.com/channel/UC-CS...&#10;&#10;---------------------------------------------------- &#10;DOWNLOAD MY APP: &#10;&#128241;Android app: https://play.google.com/store/apps/details?id=com.arStudios.dhruvRatheeApp&#38;hl=en&#38;gl=US&#10;&#128241;iOS App: https://apps.apple.com/ie/app/dhruv-rathee/id1553920898&#10;&#10;MY FAVOURITE EQUIPMENT: &#10;&#127909; Studio Camera: https://amzn.to/2McQ8Vs&#10;&#128270; Studio Camera Lens: https://amzn.to/365fYSs&#10;&#128248; Vlogging Camera: https://amzn.to/2Y6hoaP&#10;&#129378; Vlogging Tripod: https://amzn.to/2KKdcuq&#10;&#127897; Podcast Mic: https://amzn.to/3qLPkpq&#10;&#10;MY FAVOURITE BOOKS: &#10;&#128214; Sapiens - https://amzn.to/38QX56d&#10;&#128214; Homo Deus - https://amzn.to/3o1nzIB&#10;&#128214; Mahatma Gandhi - https://amzn.to/3n5fQYN&#10;&#128214; Juli&#8217;s Hindi Learning Book - https://amzn.to/3bhAcvx&#10;&#10;FOLLOW ME ON:&#10;&#128233; Telegram: https://t.me/dhruvratheechannel &#10;&#128248; Instagram: http://www.instagram.com/dhruvrathee&#10;&#128038;  Twitter: http://www.twitter.com/dhruv_rathee&#10;&#9654;&#65039; Youtube Channel: http://www.youtube.com/dhruvrathee&#10;&#127910; Vlog Channel: http://www.youtube.com/dhruvratheevlogs&#10;&#10;MORE VIDEOS:&#10;&#128506; Ground Reports: https://youtube.com/playlist?list=PL8828Z-IEhFElbtrrY3CmUILpKDw4c7N_&#10;&#127482;&#127475; International Issues: https://youtube.com/playlist?list=PL8828Z-IEhFFs3hT95-ZnEHDyLduo40FU&#10;&#128178; Finance Videos: https://youtube.com/playlist?list=PL8828Z-IEhFEG47-MiL0G7Mh6J-T8eBoq&#10;&#128218; Educational Videos: https://youtube.com/playlist?list=PL8828Z-IEhFGAg0WRVHxHtHjHdIAlj5hA&#10;&#127470;&#127475; Indian Issues: https://youtube.com/playlist?list=PL8828Z-IEhFErzy-eKRAiTta0GLrzn6fM&#10;&#127910; My Vlogs: http://www.youtube.com/dhruvratheevlogs&#10;----------------------------------------------------"
+    description "The morning of September 11th in America was quite unlike anything seen before. The events in USA were a world changing event. The World Trade Centre used to be an iconic building in New York, which collapsed. In total, there were a total of four different planes hijackings. United Airlines flight 93 is the most outstanding of those four since we saw an amazing heroic gesture. But the whole incident, permanently caused some changes across the world. In this mini- documentary video, I describe the sequences of events during the 9/11 and how these events changed the world forever. &amp;#10;&amp;#10;Hirect is India&amp;#8217;s 1st App-based hiring platform where you can chat directly with startup founders and CXOs as well as schedule your interview within minutes. Join Hirect today and take a step towards your dream job - https://hirect.page.link/Qd86&amp;#10;&amp;#10;Sources for further reading: &amp;#10;Link to USA Patriot Act of 2001: https://www.govinfo.gov/content/pkg/PLAW-107publ56/pdf/PLAW-107publ56.pdf&amp;#10;Consequences of 9/11: https://www.pri.org/stories/2016-09-12/data-hate-crimes-against-muslims-increased-after-911&amp;#10;Balbir&amp;#8217;s Story: https://www.ndtv.com/world-news/brother-of-sikh-man-killed-in-9-11-hate-attack-shares-message-of-unity-2537867&amp;#10;&amp;#10;Support my work and join as a member to get exclusive stuff:&amp;#10;1. On Patreon: https://www.patreon.com/dhruvrathee&amp;#10;2. On Youtube: https://www.youtube.com/channel/UC-CS...&amp;#10;&amp;#10;---------------------------------------------------- &amp;#10;DOWNLOAD MY APP: &amp;#10;&amp;#128241;Android app: https://play.google.com/store/apps/details?id=com.arStudios.dhruvRatheeApp&amp;#38;hl=en&amp;#38;gl=US&amp;#10;&amp;#128241;iOS App: https://apps.apple.com/ie/app/dhruv-rathee/id1553920898&amp;#10;&amp;#10;MY FAVOURITE EQUIPMENT: &amp;#10;&amp;#127909; Studio Camera: https://amzn.to/2McQ8Vs&amp;#10;&amp;#128270; Studio Camera Lens: https://amzn.to/365fYSs&amp;#10;&amp;#128248; Vlogging Camera: https://amzn.to/2Y6hoaP&amp;#10;&amp;#129378; Vlogging Tripod: https://amzn.to/2KKdcuq&amp;#10;&amp;#127897; Podcast Mic: https://amzn.to/3qLPkpq&amp;#10;&amp;#10;MY FAVOURITE BOOKS: &amp;#10;&amp;#128214; Sapiens - https://amzn.to/38QX56d&amp;#10;&amp;#128214; Homo Deus - https://amzn.to/3o1nzIB&amp;#10;&amp;#128214; Mahatma Gandhi - https://amzn.to/3n5fQYN&amp;#10;&amp;#128214; Juli&amp;#8217;s Hindi Learning Book - https://amzn.to/3bhAcvx&amp;#10;&amp;#10;FOLLOW ME ON:&amp;#10;&amp;#128233; Telegram: https://t.me/dhruvratheechannel &amp;#10;&amp;#128248; Instagram: http://www.instagram.com/dhruvrathee&amp;#10;&amp;#128038;  Twitter: http://www.twitter.com/dhruv_rathee&amp;#10;&amp;#9654;&amp;#65039; Youtube Channel: http://www.youtube.com/dhruvrathee&amp;#10;&amp;#127910; Vlog Channel: http://www.youtube.com/dhruvratheevlogs&amp;#10;&amp;#10;MORE VIDEOS:&amp;#10;&amp;#128506; Ground Reports: https://youtube.com/playlist?list=PL8828Z-IEhFElbtrrY3CmUILpKDw4c7N_&amp;#10;&amp;#127482;&amp;#127475; International Issues: https://youtube.com/playlist?list=PL8828Z-IEhFFs3hT95-ZnEHDyLduo40FU&amp;#10;&amp;#128178; Finance Videos: https://youtube.com/playlist?list=PL8828Z-IEhFEG47-MiL0G7Mh6J-T8eBoq&amp;#10;&amp;#128218; Educational Videos: https://youtube.com/playlist?list=PL8828Z-IEhFGAg0WRVHxHtHjHdIAlj5hA&amp;#10;&amp;#127470;&amp;#127475; Indian Issues: https://youtube.com/playlist?list=PL8828Z-IEhFErzy-eKRAiTta0GLrzn6fM&amp;#10;&amp;#127910; My Vlogs: http://www.youtube.com/dhruvratheevlogs&amp;#10;----------------------------------------------------"
     channeltitle "Dhruv Rathee"
     channelid "UC-CSyyi47VX1lD9zyeABW3w"
     favcount 0
@@ -1054,7 +1890,29 @@ graph
     ppprofanity 0.10281372
     ppinflammatory 0.27450314
     sentiment -0.4404
-    cluster 6
+    cluster 7
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -1063,7 +1921,7 @@ graph
     step 0
     date "2021-09-05T11:30:07Z"
     title "The miracle man of 9/11: How he survived the twin towers collapse | 60 Minutes Australia"
-    description "Subscribe here: http://9Soci.al/chmP50wA97J Full Episodes: https://9now.app.link/uNP4qBkmN6 | Miracle Man (2021)&#10;&#10;The evil that occurred on September 11, 2001, will never be forgotten. On that horrible day, the world changed forever. There was so much destruction, so much loss, that even now, 20 years on, it&#8217;s hard to comprehend the magnitude of what happened. But out of the utter despair, there were also incredible stories of heroism and survival - none more extraordinary than that of New Yorker Pasquale Buzzelli; a miracle man whose spirit continues to offer hope to us all.&#10;&#10;WATCH more of 60 Minutes Australia: https://www.60minutes.com.au &#10;LIKE 60 Minutes Australia on Facebook: https://www.facebook.com/60Minutes9 &#10;FOLLOW 60 Minutes Australia on Twitter: https://twitter.com/60Mins &#10;FOLLOW 60 Minutes Australia on Instagram: https://www.instagram.com/60minutes9&#10;&#10;For forty years, 60 Minutes have been telling Australians the world&#8217;s greatest stories. Tales that changed history, our nation and our lives. Reporters Liz Hayes, Tom Steinfort, Tara Brown, Liam Bartlett and Sarah Abo look past the headlines because there is always a bigger picture. Sundays are for 60 Minutes.&#10;&#10;#60MinutesAustralia"
+    description "Subscribe here: http://9Soci.al/chmP50wA97J Full Episodes: https://9now.app.link/uNP4qBkmN6 | Miracle Man (2021)&amp;#10;&amp;#10;The evil that occurred on September 11, 2001, will never be forgotten. On that horrible day, the world changed forever. There was so much destruction, so much loss, that even now, 20 years on, it&amp;#8217;s hard to comprehend the magnitude of what happened. But out of the utter despair, there were also incredible stories of heroism and survival - none more extraordinary than that of New Yorker Pasquale Buzzelli; a miracle man whose spirit continues to offer hope to us all.&amp;#10;&amp;#10;WATCH more of 60 Minutes Australia: https://www.60minutes.com.au &amp;#10;LIKE 60 Minutes Australia on Facebook: https://www.facebook.com/60Minutes9 &amp;#10;FOLLOW 60 Minutes Australia on Twitter: https://twitter.com/60Mins &amp;#10;FOLLOW 60 Minutes Australia on Instagram: https://www.instagram.com/60minutes9&amp;#10;&amp;#10;For forty years, 60 Minutes have been telling Australians the world&amp;#8217;s greatest stories. Tales that changed history, our nation and our lives. Reporters Liz Hayes, Tom Steinfort, Tara Brown, Liam Bartlett and Sarah Abo look past the headlines because there is always a bigger picture. Sundays are for 60 Minutes.&amp;#10;&amp;#10;#60MinutesAustralia"
     channeltitle "60 Minutes Australia"
     channelid "UC0L1suV8pVgO4pCAIBNGx5w"
     favcount 0
@@ -1081,7 +1939,29 @@ graph
     ppprofanity 0.12547742
     ppinflammatory 0.17189796
     sentiment 0.5994
-    cluster 2
+    cluster 1
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -1108,7 +1988,29 @@ graph
     ppprofanity 0.055432793
     ppinflammatory 0.07096656
     sentiment 0
-    cluster 7
+    cluster 3
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -1117,7 +2019,7 @@ graph
     step 0
     date "2016-09-11T21:33:41Z"
     title "Photojournalist Survived Close Call with South Tower Collapse on 9/11 | NBC News"
-    description "New York Daily News photojournalist David Handschuh was taking pictures near the South Tower when it collapsed, throwing him half a block and shattering his leg. One of his rescuers is still unidentified.&#10;&#187; Subscribe to NBC News: http://nbcnews.to/SubscribeToNBC&#10;&#187; Watch more NBC video: http://bit.ly/MoreNBCNews&#10;&#10;NBC News is a leading source of global news and information. Here you will find clips from NBC Nightly News, Meet The Press, and our original series Debunker, Flashback, Nerdwatch, and Show Me. Subscribe to our channel for news stories, technology, politics, health, entertainment, science, business, and exclusive NBC investigations.&#10;&#10;Connect with NBC News Online!&#10;Visit NBCNews.Com: http://nbcnews.to/ReadNBC&#10;Find NBC News on Facebook: http://nbcnews.to/LikeNBC&#10;Follow NBC News on Twitter: http://nbcnews.to/FollowNBC&#10;Follow NBC News on Google+: http://nbcnews.to/PlusNBC&#10;Follow NBC News on Instagram: http://nbcnews.to/InstaNBC&#10;Follow NBC News on Pinterest: http://nbcnews.to/PinNBC&#10;&#10;Photojournalist Survived Close Call with South Tower Collapse on 9/11 | NBC News"
+    description "New York Daily News photojournalist David Handschuh was taking pictures near the South Tower when it collapsed, throwing him half a block and shattering his leg. One of his rescuers is still unidentified.&amp;#10;&amp;#187; Subscribe to NBC News: http://nbcnews.to/SubscribeToNBC&amp;#10;&amp;#187; Watch more NBC video: http://bit.ly/MoreNBCNews&amp;#10;&amp;#10;NBC News is a leading source of global news and information. Here you will find clips from NBC Nightly News, Meet The Press, and our original series Debunker, Flashback, Nerdwatch, and Show Me. Subscribe to our channel for news stories, technology, politics, health, entertainment, science, business, and exclusive NBC investigations.&amp;#10;&amp;#10;Connect with NBC News Online!&amp;#10;Visit NBCNews.Com: http://nbcnews.to/ReadNBC&amp;#10;Find NBC News on Facebook: http://nbcnews.to/LikeNBC&amp;#10;Follow NBC News on Twitter: http://nbcnews.to/FollowNBC&amp;#10;Follow NBC News on Google+: http://nbcnews.to/PlusNBC&amp;#10;Follow NBC News on Instagram: http://nbcnews.to/InstaNBC&amp;#10;Follow NBC News on Pinterest: http://nbcnews.to/PinNBC&amp;#10;&amp;#10;Photojournalist Survived Close Call with South Tower Collapse on 9/11 | NBC News"
     channeltitle "NBC News"
     channelid "UCeY0bbntWzzVIaj2z3QigXg"
     favcount 0
@@ -1135,7 +2037,29 @@ graph
     ppprofanity 0.084174864
     ppinflammatory 0.17081241
     sentiment 0.0258
-    cluster 3
+    cluster 1
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -1144,7 +2068,7 @@ graph
     step 0
     date "2021-08-31T07:52:06Z"
     title "BBC Announces Collapse of World Trade Center Building 7"
-    description "LIVE looking south, 4:58 - 5:20PM, September 11, 2001&#10;&#10;We have condensed this into a 3-minute version. The BBC clairvoyant collapse announcements began approximately 23 minutes before the actual collapse.&#10;&#10;World Trade Center Building 7, also known as the Saloman Brothers Building, or WTC 7,  stands in the background until the BBC &#34;loses the feed from lower Manhattan&#34; 6 minutes before the actual collapse in this live shot.&#10;On February 28, 2007, 911Truth.Org confirmed the authenticity of the timecode with the the Television Archive at Archive.org after blog writer 911veritas at 911blogger.com announced the anomaly on February 26th. Controversy ensued with the Head of BBC News.&#10;https://911truth.org/bbc-clairvoyant-collapse/"
+    description "LIVE looking south, 4:58 - 5:20PM, September 11, 2001&amp;#10;&amp;#10;We have condensed this into a 3-minute version. The BBC clairvoyant collapse announcements began approximately 23 minutes before the actual collapse.&amp;#10;&amp;#10;World Trade Center Building 7, also known as the Saloman Brothers Building, or WTC 7,  stands in the background until the BBC &amp;#34;loses the feed from lower Manhattan&amp;#34; 6 minutes before the actual collapse in this live shot.&amp;#10;On February 28, 2007, 911Truth.Org confirmed the authenticity of the timecode with the the Television Archive at Archive.org after blog writer 911veritas at 911blogger.com announced the anomaly on February 26th. Controversy ensued with the Head of BBC News.&amp;#10;https://911truth.org/bbc-clairvoyant-collapse/"
     channeltitle "911Truth.Org"
     channelid "UCkzrK00rXfQdR-UCwQUP6jw"
     favcount 0
@@ -1162,7 +2086,29 @@ graph
     ppprofanity 0.07409734
     ppinflammatory 0.2622813
     sentiment -0.4939
-    cluster 1
+    cluster 2
+    leftright "R"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -1171,7 +2117,7 @@ graph
     step 0
     date "2021-08-15T12:03:53Z"
     title "Tallest Building Demolitions in the World"
-    description "The Worlds Tallest Building Demolitions. In this video, we go over the tallest building demolitions in history, including the demolition of the Meena Plaza, AfE Tower, and Ocean Tower. For more skyscraper &#38; megaproject content be sure to subscribe to Top Luxury. Thanks for watching this video: Tallest Building Demolitions in the World&#10;&#10;Check Out These Videos:&#10;Size Comparison of World's Tallest Skyscrapers&#10;https://youtu.be/opYiuj2i-K8&#10;&#10;Most Expensive Construction Mistakes in the World&#10;https://youtu.be/o5FAGSPvtJ0&#10;&#10;World's Biggest Energy Megaprojects&#10;https://youtu.be/Wp02tB7UDec&#10;&#10;#Buildings #Megaprojects #Construction&#10;&#10;0:00 Tallest Building Demolitions in the World&#10;0:16 Ocean Tower Demolition&#10;1:59 Landmark Tower Demolition&#10;3:27 AfE Tower Demolition&#10;4:53 Building in Xi'an City&#10;6:03 J.L. Hudson's Department Store&#10;7:12 Brayton Point Power Station&#10;8:20 Meena Plaza&#10;9:34 Power Station Westerholt&#10;&#10;Contact us:&#10;topluxuryinfo[at]gmail.com"
+    description "The Worlds Tallest Building Demolitions. In this video, we go over the tallest building demolitions in history, including the demolition of the Meena Plaza, AfE Tower, and Ocean Tower. For more skyscraper &amp;#38; megaproject content be sure to subscribe to Top Luxury. Thanks for watching this video: Tallest Building Demolitions in the World&amp;#10;&amp;#10;Check Out These Videos:&amp;#10;Size Comparison of World's Tallest Skyscrapers&amp;#10;https://youtu.be/opYiuj2i-K8&amp;#10;&amp;#10;Most Expensive Construction Mistakes in the World&amp;#10;https://youtu.be/o5FAGSPvtJ0&amp;#10;&amp;#10;World's Biggest Energy Megaprojects&amp;#10;https://youtu.be/Wp02tB7UDec&amp;#10;&amp;#10;#Buildings #Megaprojects #Construction&amp;#10;&amp;#10;0:00 Tallest Building Demolitions in the World&amp;#10;0:16 Ocean Tower Demolition&amp;#10;1:59 Landmark Tower Demolition&amp;#10;3:27 AfE Tower Demolition&amp;#10;4:53 Building in Xi'an City&amp;#10;6:03 J.L. Hudson's Department Store&amp;#10;7:12 Brayton Point Power Station&amp;#10;8:20 Meena Plaza&amp;#10;9:34 Power Station Westerholt&amp;#10;&amp;#10;Contact us:&amp;#10;topluxuryinfo[at]gmail.com"
     channeltitle "Top Luxury"
     channelid "UC6TY36Ys_J6UPKd75TpRuUw"
     favcount 0
@@ -1189,7 +2135,29 @@ graph
     ppprofanity 0.055237316
     ppinflammatory 0.48255354
     sentiment 0
-    cluster 2
+    cluster 4
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -1198,7 +2166,7 @@ graph
     step 0
     date "2012-01-27T00:32:39Z"
     title "Joe Rogan and Rosie Talk 9/11 Conspiracy Theory | The Rosie Show | Oprah Winfrey Network"
-    description "Joe Rogan isn't afraid to get down to the bottom of things on his podcast, The Joe Rogan Experience. Watch as he and Rosie discuss a conspiracy theory surrounding the fall of Tower 7 on September 11, 2001. For more on #TheRosieShow, visit Oprah.com.&#10;&#10;Find OWN on TV at http://www.oprah.com/FindOWN&#10;&#10;#OWNTV #TheRosieShow #RosieODonnell&#10;SUBSCRIBE: http://bit.ly/1vqD1PN&#10;&#10;Download the Watch OWN App: http://bit.ly/2hr1nX2&#10;&#10;About OWN:&#10;Oprah Winfrey Network is the first and only network named for, and inspired by, a single iconic leader.  Oprah Winfrey's heart and creative instincts inform the brand -- and the magnetism of the channel.&#10;&#10;Winfrey provides leadership in programming and attracts superstar talent to join her in primetime, building a global community of like-minded viewers and leading that community to connect on social media and beyond.  OWN is a singular destination on cable.  Depth with edge. Heart. Star power. Connection.  And endless possibilities.&#10;&#10;Discover OWN TV:&#10;Find OWN on you TV!: http://bit.ly/1wJ0ugI&#10;Our Fantastic Lineup: http://bit.ly/1qMi2jE&#10;&#10;Connect with OWN Online:&#10;Visit the OWN WEBSITE: http://bit.ly/1qMi2jE&#10;Like OWN on FACEBOOK: http://on.fb.me/1AXYujp&#10;Follow OWN on TWITTER: http://bit.ly/1sJin8Y&#10;Follow OWN on INSTAGRAM: http://bit.ly/LnqzMz&#10;Follow OWN on PINTEREST: http://bit.ly/2dvfPeN&#10;&#10;Joe Rogan and Rosie Talk 9/11 Conspiracy Theory | The Rosie Show | Oprah Winfrey Network&#10;http://www.youtube.com/user/OWN"
+    description "Joe Rogan isn't afraid to get down to the bottom of things on his podcast, The Joe Rogan Experience. Watch as he and Rosie discuss a conspiracy theory surrounding the fall of Tower 7 on September 11, 2001. For more on #TheRosieShow, visit Oprah.com.&amp;#10;&amp;#10;Find OWN on TV at http://www.oprah.com/FindOWN&amp;#10;&amp;#10;#OWNTV #TheRosieShow #RosieODonnell&amp;#10;SUBSCRIBE: http://bit.ly/1vqD1PN&amp;#10;&amp;#10;Download the Watch OWN App: http://bit.ly/2hr1nX2&amp;#10;&amp;#10;About OWN:&amp;#10;Oprah Winfrey Network is the first and only network named for, and inspired by, a single iconic leader.  Oprah Winfrey's heart and creative instincts inform the brand -- and the magnetism of the channel.&amp;#10;&amp;#10;Winfrey provides leadership in programming and attracts superstar talent to join her in primetime, building a global community of like-minded viewers and leading that community to connect on social media and beyond.  OWN is a singular destination on cable.  Depth with edge. Heart. Star power. Connection.  And endless possibilities.&amp;#10;&amp;#10;Discover OWN TV:&amp;#10;Find OWN on you TV!: http://bit.ly/1wJ0ugI&amp;#10;Our Fantastic Lineup: http://bit.ly/1qMi2jE&amp;#10;&amp;#10;Connect with OWN Online:&amp;#10;Visit the OWN WEBSITE: http://bit.ly/1qMi2jE&amp;#10;Like OWN on FACEBOOK: http://on.fb.me/1AXYujp&amp;#10;Follow OWN on TWITTER: http://bit.ly/1sJin8Y&amp;#10;Follow OWN on INSTAGRAM: http://bit.ly/LnqzMz&amp;#10;Follow OWN on PINTEREST: http://bit.ly/2dvfPeN&amp;#10;&amp;#10;Joe Rogan and Rosie Talk 9/11 Conspiracy Theory | The Rosie Show | Oprah Winfrey Network&amp;#10;http://www.youtube.com/user/OWN"
     channeltitle "OWN"
     channelid "UCKBnlTTgEnhIXv_c4LvvyMQ"
     favcount 0
@@ -1216,7 +2184,29 @@ graph
     ppprofanity 0.04660384
     ppinflammatory 0.29247972
     sentiment -0.5267
-    cluster 4
+    cluster 3
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -1225,7 +2215,7 @@ graph
     step 0
     date "2019-09-09T17:00:49Z"
     title "Fire did not cause World Trade Center Building 7 collapse, UAF study suggests"
-    description "It's been a point of controversy for more than a decade. Now, researchers from the University of Alaska Fairbanks are weighing in.&#10;&#10;World Trade Center Building 7 was not struck by a plane, but collapsed hours after the twin towers on Sept. 11, 2001. A draft report released this week by researchers at UAF suggests that the fall was not a result of fires, despite the findings of the National Institute for Standards and Technology, an agency of the U.S. Department of Commerce, in 2008."
+    description "It's been a point of controversy for more than a decade. Now, researchers from the University of Alaska Fairbanks are weighing in.&amp;#10;&amp;#10;World Trade Center Building 7 was not struck by a plane, but collapsed hours after the twin towers on Sept. 11, 2001. A draft report released this week by researchers at UAF suggests that the fall was not a result of fires, despite the findings of the National Institute for Standards and Technology, an agency of the U.S. Department of Commerce, in 2008."
     channeltitle "Liz Raines"
     channelid "UC5J8U17JGBFBaZDI1CwyHIw"
     favcount 0
@@ -1243,7 +2233,29 @@ graph
     ppprofanity 0.029676966
     ppinflammatory 0.16289249
     sentiment -0.6808
-    cluster 4
+    cluster 3
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -1252,7 +2264,7 @@ graph
     step 0
     date "2016-02-02T18:35:05Z"
     title "9/11 Building 7"
-    description "Provided to YouTube by CDBaby&#10;&#10;9/11 Building 7 &#183; Martin Noakes&#10;&#10;9/11 Building 7&#10;&#10;&#8471; 2016 Martin Noakes&#10;&#10;Released on: 2016-01-25&#10;&#10;Auto-generated by YouTube."
+    description "Provided to YouTube by CDBaby&amp;#10;&amp;#10;9/11 Building 7 &amp;#183; Martin Noakes&amp;#10;&amp;#10;9/11 Building 7&amp;#10;&amp;#10;&amp;#8471; 2016 Martin Noakes&amp;#10;&amp;#10;Released on: 2016-01-25&amp;#10;&amp;#10;Auto-generated by YouTube."
     channeltitle "Martin Noakes - Topic"
     channelid "UC6cWCkkwdIQPbUJQW3uCM4A"
     favcount 0
@@ -1271,6 +2283,28 @@ graph
     ppinflammatory 0.12957713
     sentiment 0
     cluster 8
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -1279,7 +2313,7 @@ graph
     step 0
     date "2016-07-05T11:29:25Z"
     title "9/11 Building 7 (So out There Mix)"
-    description "Provided to YouTube by CDBaby&#10;&#10;9/11 Building 7 (So out There Mix) &#183; Martin Noakes&#10;&#10;Life Is Just a Ride&#10;&#10;&#8471; 2016 Meaningful Music Ltd&#10;&#10;Released on: 2016-07-06&#10;&#10;Auto-generated by YouTube."
+    description "Provided to YouTube by CDBaby&amp;#10;&amp;#10;9/11 Building 7 (So out There Mix) &amp;#183; Martin Noakes&amp;#10;&amp;#10;Life Is Just a Ride&amp;#10;&amp;#10;&amp;#8471; 2016 Meaningful Music Ltd&amp;#10;&amp;#10;Released on: 2016-07-06&amp;#10;&amp;#10;Auto-generated by YouTube."
     channeltitle "Martin Noakes - Topic"
     channelid "UC6cWCkkwdIQPbUJQW3uCM4A"
     favcount 0
@@ -1298,6 +2332,28 @@ graph
     ppinflammatory 0.1656017
     sentiment 0
     cluster 8
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -1306,7 +2362,7 @@ graph
     step 0
     date "2011-09-10T06:22:57Z"
     title "9/11 ATC Transcripts  Audio - FAA NORAD Tapes"
-    description "Click to subscribe! http://bit.ly/subAIRBOYD &#10;&#10;Courtesy: Rutgers Law Review &#10;&#10;A New Type of War - The Story of the FAA and NORAD Response to the September 11, 2001 Attacks Full PDF transcript here: http://bit.ly/pANwPq &#10;&#10;http://www.rutgerslawreview.com/2011/a-new-type-of-war/&#10;&#10;Video transcript is not 100% synched, but included for reference.  &#10;&#10;AIRBOYD - &#10;&#10; AIRBOYD #AvGeek #911"
+    description "Click to subscribe! http://bit.ly/subAIRBOYD &amp;#10;&amp;#10;Courtesy: Rutgers Law Review &amp;#10;&amp;#10;A New Type of War - The Story of the FAA and NORAD Response to the September 11, 2001 Attacks Full PDF transcript here: http://bit.ly/pANwPq &amp;#10;&amp;#10;http://www.rutgerslawreview.com/2011/a-new-type-of-war/&amp;#10;&amp;#10;Video transcript is not 100% synched, but included for reference.  &amp;#10;&amp;#10;AIRBOYD - &amp;#10;&amp;#10; AIRBOYD #AvGeek #911"
     channeltitle "AIRBOYD"
     channelid "UClyDDqcDsXp3KQ7J5gyIMuQ"
     favcount 0
@@ -1324,7 +2380,29 @@ graph
     ppprofanity 0.19180293
     ppinflammatory 0.18588147
     sentiment 0
-    cluster 3
+    cluster 1
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -1333,7 +2411,7 @@ graph
     step 0
     date "2013-09-21T07:32:09Z"
     title "30-Second Reel of Building 7 Collapse Footage"
-    description "World Trade Center Building 7&#10;5:20pm, September 11, 2001"
+    description "World Trade Center Building 7&amp;#10;5:20pm, September 11, 2001"
     channeltitle "ReThink911"
     channelid "UC7vihttb7JVxqw1HvW3yDFw"
     favcount 0
@@ -1351,7 +2429,29 @@ graph
     ppprofanity 0.12626469
     ppinflammatory 0.1493102
     sentiment -0.4939
-    cluster 8
+    cluster 2
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -1360,7 +2460,7 @@ graph
     step 0
     date "2008-11-02T02:21:11Z"
     title "9/11: WTC Building 7 collapse video compilation"
-    description "Compiled views of WTC Building 7's collapse on 9/11/01, my 4th such compilation the last couple years as newer video has emerged. Contains new video taken from northwest showing the west side of the building, released 10/31/08 by anonymous source. See here for details: http://911blogger.com/node/18358 &#10;Download compilation DivX here: http://xenomorph.s3.amazonaws.com/WTC7_Compilation4.avi&#10;Recommended 9/11 research: &#10;http://www.historycommons.org/project.jsp?project=911_project&#10;http://www.globalresearch.ca/&#10;http://www.911research.wtc7.net/&#10;http://www.ae911truth.org/&#10;http://www.stj911.org/&#10;http://www.pilotsfor911truth.org/&#10;http://www.infowars.com/&#10;http://www.whatreallyhappened.com/&#10;http://www.911blogger.com/&#10;http://www.loosechange911.com/&#10;http://www.911revisited.com/&#10;http://www.wtc7.net/&#10;http://www.journalof911studies.com/&#10;http://www.patriotsquestion911.com/ &#10;http://www.wearechange.org/ &#10;http://www.911conspiracy.tv/"
+    description "Compiled views of WTC Building 7's collapse on 9/11/01, my 4th such compilation the last couple years as newer video has emerged. Contains new video taken from northwest showing the west side of the building, released 10/31/08 by anonymous source. See here for details: http://911blogger.com/node/18358 &amp;#10;Download compilation DivX here: http://xenomorph.s3.amazonaws.com/WTC7_Compilation4.avi&amp;#10;Recommended 9/11 research: &amp;#10;http://www.historycommons.org/project.jsp?project=911_project&amp;#10;http://www.globalresearch.ca/&amp;#10;http://www.911research.wtc7.net/&amp;#10;http://www.ae911truth.org/&amp;#10;http://www.stj911.org/&amp;#10;http://www.pilotsfor911truth.org/&amp;#10;http://www.infowars.com/&amp;#10;http://www.whatreallyhappened.com/&amp;#10;http://www.911blogger.com/&amp;#10;http://www.loosechange911.com/&amp;#10;http://www.911revisited.com/&amp;#10;http://www.wtc7.net/&amp;#10;http://www.journalof911studies.com/&amp;#10;http://www.patriotsquestion911.com/ &amp;#10;http://www.wearechange.org/ &amp;#10;http://www.911conspiracy.tv/"
     channeltitle "Nathan Flach"
     channelid "UCSvrNB1pHmW4C5vpv-1BgUA"
     favcount 0
@@ -1379,6 +2479,28 @@ graph
     ppinflammatory 0.082855776
     sentiment -0.4939
     cluster 8
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -1387,7 +2509,7 @@ graph
     step 0
     date "2014-09-12T04:32:37Z"
     title "Vardaat - Vaardat: How Osama bin Laden planned 9/11? (FULL)"
-    description "A series of four coordinated terrorist attacks by terrorist group al-Qaeda upon the US in New York City and the Washington, D.C. on September 11, 2001, stunned the world. The mastermind of the attacks was Osama bin Laden. How did he plan it? Know the truth behind 9/11!&#10;&#10;For more news subscribe to Aajtak: http://www.youtube.com/channel/UCt4t-jeY85JegMlZ-E5UWtA"
+    description "A series of four coordinated terrorist attacks by terrorist group al-Qaeda upon the US in New York City and the Washington, D.C. on September 11, 2001, stunned the world. The mastermind of the attacks was Osama bin Laden. How did he plan it? Know the truth behind 9/11!&amp;#10;&amp;#10;For more news subscribe to Aajtak: http://www.youtube.com/channel/UCt4t-jeY85JegMlZ-E5UWtA"
     channeltitle "Aaj Tak"
     channelid "UCt4t-jeY85JegMlZ-E5UWtA"
     favcount 0
@@ -1405,7 +2527,29 @@ graph
     ppprofanity 0.23401588
     ppinflammatory 0.51832414
     sentiment 0
-    cluster 6
+    cluster 7
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -1432,7 +2576,29 @@ graph
     ppprofanity 0.13880107
     ppinflammatory 0.18442382
     sentiment -0.34
-    cluster 4
+    cluster 5
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -1441,7 +2607,7 @@ graph
     step 0
     date "2021-09-09T17:33:31Z"
     title "Building 7  Twin Towers / Remembering 9/11 - Archive Footage Part 3"
-    description "When 9-11 occurred, 20 years ago, it devastated our Nation. It was the first attack on US soil since Pearl Harbor, in 1941. Seeing it all unfold was extremely shocking. I began recording various news stories with my VCR, and now (after 20 years) I&#8217;m sharing what I recorded with the World. So many questions left un-answered, even after all this time. Will we ever know the truth of what happened that day? Time will tell. For now, may we remember those who were killed, those who sacrificed their lives to save others, those left behind who&#8217;s lives were changed forever, and the way we came together as a Nation. #9-11 #building7 #remembering9-11"
+    description "When 9-11 occurred, 20 years ago, it devastated our Nation. It was the first attack on US soil since Pearl Harbor, in 1941. Seeing it all unfold was extremely shocking. I began recording various news stories with my VCR, and now (after 20 years) I&amp;#8217;m sharing what I recorded with the World. So many questions left un-answered, even after all this time. Will we ever know the truth of what happened that day? Time will tell. For now, may we remember those who were killed, those who sacrificed their lives to save others, those left behind who&amp;#8217;s lives were changed forever, and the way we came together as a Nation. #9-11 #building7 #remembering9-11"
     channeltitle "unclevroomvroom"
     channelid "UCbrqdj5yDaTOPISwwmWZR7A"
     favcount 0
@@ -1459,7 +2625,29 @@ graph
     ppprofanity 0.1558332
     ppinflammatory 0.08493297
     sentiment 0
-    cluster 3
+    cluster 1
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -1468,7 +2656,7 @@ graph
     step 0
     date "2019-09-10T22:09:51Z"
     title "#911Truth Part 14: Building 7 Turning to Dust for Over 7 Hours (Fast Forward 45X Speed)"
-    description "In #911Truth Part 14 I have compiled together in chronological order what may very well be the most complete picture of what actually happened to Building 7: which is it got turned to dust gradually from inside out for 7 hours before falling like a hollowed out shell. World Trade Center 7 (also referred to as WTC 7, Salomon Brothers building, or &#8220;Building 7&#8221;) has been far too often used erroneously (intentionally and unintentionally) as &#8220;proof&#8221; of conventional controlled demolition; and often by only showing the few seconds where it falls down (albeit extremely quietly leaving very little rubble or seismic impact or projectiles as would be expected from anything conventional). But removing all mainstream and &#8220;mainstream alternative&#8221; narratives aside, our eyes show us exactly what happened&#8230;&#10;&#10;I have stitched together 8 videos and sped up the majority at 45X speed to give a complete and concise view of Building 7 turning into dust, much like the rest of World Trade Center complex (which consisted of 7 buildings in total including the Twin Towers WTC 1 and 2). A full description and screenshots of the main events in each video is shown in the accompanying Hive post: https://peakd.com/history/@mes/911truth-part-14-building-7-turning-to-dust-for-over-7-hours-fast-forward-45x-speed&#10;&#10;The original videos with sound are shown in the following &#8220;EnhancedWTCVideos&#8221; YouTube channel, and which obtains the videos from a Freedom of Information Act (FOIA) request from the National Institute of (coverup) Science and (coverup) Technology (NIST). They are listed below along with the timestamps.&#10;&#10;1. @ 0:00 &#8211; WTC 7 not dustifying until WTC 1 falls at 10:28:22 AM.&#10;   - https://youtu.be/Gkg8_k263dI&#10;2. @ 1:11 &#8211; Better angle of WTC 7 beginning to dustify after WTC 1 falls.&#10;   - https://youtu.be/5vev0LfjtyM&#10;3. @ 2:50 &#8211; Dustification of WTC 7 at unconfirmed time: Likely 1 PM to 2 PM.&#10;   - https://youtu.be/QmiROP2mFkA&#10;4. @ 5:01 &#8211; Dustification of WTC 7 from: 1:59:53 PM to 2:50:09 PM.&#10;   - https://youtu.be/WeemmQEMmGo&#10;5. @ 6:22 &#8211; Dustification of WTC 7 from one side at unconfirmed time: between 3 PM and 4 PM?&#10;   - https://youtu.be/iPCFTWkR3x8&#10;6. @ 7:59 &#8211; Dustification and fall of WTC 7 from 5:05:45 PM to 6:00:05 PM.&#10;   - https://youtu.be/YDafE3I2uTA&#10;   - WTC 7 falls at about 5:20:52 PM (dustification of about 7 hours).&#10;7. @ 9:41 &#8211; WTC 7 rubble still fuming/dustifying at unconfirmed time: September 12th or 13th?&#10;   - https://youtu.be/-xddmqwuivs&#10;8. @ 11:19 &#8211; WTC 7 rubble still fuming/dustifying at unconfirmed time: September 18th or 19th?&#10;   - https://youtu.be/9fryX_4yfAc&#10;&#10;At the end of the 8th video and overall video in general, I have included what appears to be a memorial to the firefighters that lost their lives during 9/11&#8230; #NeverForget&#10;&#10;Stay tuned for #911Truth Part 15...&#10;&#10;Related Videos: &#10;&#10;&#9992;&#65039;#911Truth Part 8: North Tower Literally Turning to Dust (Fast Forward 45X Speed): https://peakd.com/terrorism/@mes/911truth-part-8-north-tower-literally-turning-to-dust-fast-forward-45x-speed&#10;&#9992;&#65039;#911Truth Part 9: North &#38; South Towers Literally Turning to Dust (Fast Forward 45X Speed): https://peakd.com/terrorism/@mes/911truth-part-9-north-and-south-towers-literally-turning-to-dust-fast-forward-45x-speed&#10;&#9992;&#65039;#911Truth Part 13: Helicopter Footage of the Twin Towers Turning to Dust (Fast Forward 45X Speed): https://peakd.com/history/@mes/911truth-part-13-helicopter-footage-of-the-twin-towers-turning-to-dust-fast-forward-45x-speed&#10;&#10;#911Truth video series: https://peakd.com/truth/@mes/911&#10;#MESScience video series: https://mes.fm/science-playlist&#10;#MESExperiments video series: https://peakd.com/mesexperiments/@mes/list&#10;#AntiGravity video series: https://peakd.com/antigravity/@mes/series&#10;#FreeEnergy video series: https://mes.fm/freeenergy-playlist .&#10;&#10;------------------------------------------------------&#10;&#10;SUBSCRIBE via EMAIL: https://mes.fm/subscribe&#10;&#10;DONATE! &#661; &#8226;&#7461;&#8226;&#660; https://mes.fm/donate&#10;&#10;Like, Subscribe, Favorite, and Comment Below! &#10;&#10;Follow us on:&#10;&#10;MES Truth: https://mes.fm/truth&#10;Official Website: https://MES.fm&#10;Hive: https://peakd.com/@mes&#10;&#10;MORE Links: https://linktr.ee/matheasy&#10;&#10;Email me: contact@mes.fm&#10;&#10;Free Calculators: https://mes.fm/calculators&#10;&#10;BMI Calculator: https://bmicalculator.mes.fm&#10;Grade Calculator: https://gradecalculator.mes.fm&#10;Mortgage Calculator: https://mortgagecalculator.mes.fm&#10;Percentage Calculator: https://percentagecalculator.mes.fm&#10;&#10;Free Online Tools: https://mes.fm/tools&#10;&#10;iPhone and Android Apps: https://mes.fm/mobile-apps"
+    description "In #911Truth Part 14 I have compiled together in chronological order what may very well be the most complete picture of what actually happened to Building 7: which is it got turned to dust gradually from inside out for 7 hours before falling like a hollowed out shell. World Trade Center 7 (also referred to as WTC 7, Salomon Brothers building, or &amp;#8220;Building 7&amp;#8221;) has been far too often used erroneously (intentionally and unintentionally) as &amp;#8220;proof&amp;#8221; of conventional controlled demolition; and often by only showing the few seconds where it falls down (albeit extremely quietly leaving very little rubble or seismic impact or projectiles as would be expected from anything conventional). But removing all mainstream and &amp;#8220;mainstream alternative&amp;#8221; narratives aside, our eyes show us exactly what happened&amp;#8230;&amp;#10;&amp;#10;I have stitched together 8 videos and sped up the majority at 45X speed to give a complete and concise view of Building 7 turning into dust, much like the rest of World Trade Center complex (which consisted of 7 buildings in total including the Twin Towers WTC 1 and 2). A full description and screenshots of the main events in each video is shown in the accompanying Hive post: https://peakd.com/history/@mes/911truth-part-14-building-7-turning-to-dust-for-over-7-hours-fast-forward-45x-speed&amp;#10;&amp;#10;The original videos with sound are shown in the following &amp;#8220;EnhancedWTCVideos&amp;#8221; YouTube channel, and which obtains the videos from a Freedom of Information Act (FOIA) request from the National Institute of (coverup) Science and (coverup) Technology (NIST). They are listed below along with the timestamps.&amp;#10;&amp;#10;1. @ 0:00 &amp;#8211; WTC 7 not dustifying until WTC 1 falls at 10:28:22 AM.&amp;#10;   - https://youtu.be/Gkg8_k263dI&amp;#10;2. @ 1:11 &amp;#8211; Better angle of WTC 7 beginning to dustify after WTC 1 falls.&amp;#10;   - https://youtu.be/5vev0LfjtyM&amp;#10;3. @ 2:50 &amp;#8211; Dustification of WTC 7 at unconfirmed time: Likely 1 PM to 2 PM.&amp;#10;   - https://youtu.be/QmiROP2mFkA&amp;#10;4. @ 5:01 &amp;#8211; Dustification of WTC 7 from: 1:59:53 PM to 2:50:09 PM.&amp;#10;   - https://youtu.be/WeemmQEMmGo&amp;#10;5. @ 6:22 &amp;#8211; Dustification of WTC 7 from one side at unconfirmed time: between 3 PM and 4 PM?&amp;#10;   - https://youtu.be/iPCFTWkR3x8&amp;#10;6. @ 7:59 &amp;#8211; Dustification and fall of WTC 7 from 5:05:45 PM to 6:00:05 PM.&amp;#10;   - https://youtu.be/YDafE3I2uTA&amp;#10;   - WTC 7 falls at about 5:20:52 PM (dustification of about 7 hours).&amp;#10;7. @ 9:41 &amp;#8211; WTC 7 rubble still fuming/dustifying at unconfirmed time: September 12th or 13th?&amp;#10;   - https://youtu.be/-xddmqwuivs&amp;#10;8. @ 11:19 &amp;#8211; WTC 7 rubble still fuming/dustifying at unconfirmed time: September 18th or 19th?&amp;#10;   - https://youtu.be/9fryX_4yfAc&amp;#10;&amp;#10;At the end of the 8th video and overall video in general, I have included what appears to be a memorial to the firefighters that lost their lives during 9/11&amp;#8230; #NeverForget&amp;#10;&amp;#10;Stay tuned for #911Truth Part 15...&amp;#10;&amp;#10;Related Videos: &amp;#10;&amp;#10;&amp;#9992;&amp;#65039;#911Truth Part 8: North Tower Literally Turning to Dust (Fast Forward 45X Speed): https://peakd.com/terrorism/@mes/911truth-part-8-north-tower-literally-turning-to-dust-fast-forward-45x-speed&amp;#10;&amp;#9992;&amp;#65039;#911Truth Part 9: North &amp;#38; South Towers Literally Turning to Dust (Fast Forward 45X Speed): https://peakd.com/terrorism/@mes/911truth-part-9-north-and-south-towers-literally-turning-to-dust-fast-forward-45x-speed&amp;#10;&amp;#9992;&amp;#65039;#911Truth Part 13: Helicopter Footage of the Twin Towers Turning to Dust (Fast Forward 45X Speed): https://peakd.com/history/@mes/911truth-part-13-helicopter-footage-of-the-twin-towers-turning-to-dust-fast-forward-45x-speed&amp;#10;&amp;#10;#911Truth video series: https://peakd.com/truth/@mes/911&amp;#10;#MESScience video series: https://mes.fm/science-playlist&amp;#10;#MESExperiments video series: https://peakd.com/mesexperiments/@mes/list&amp;#10;#AntiGravity video series: https://peakd.com/antigravity/@mes/series&amp;#10;#FreeEnergy video series: https://mes.fm/freeenergy-playlist .&amp;#10;&amp;#10;------------------------------------------------------&amp;#10;&amp;#10;SUBSCRIBE via EMAIL: https://mes.fm/subscribe&amp;#10;&amp;#10;DONATE! &amp;#661; &amp;#8226;&amp;#7461;&amp;#8226;&amp;#660; https://mes.fm/donate&amp;#10;&amp;#10;Like, Subscribe, Favorite, and Comment Below! &amp;#10;&amp;#10;Follow us on:&amp;#10;&amp;#10;MES Truth: https://mes.fm/truth&amp;#10;Official Website: https://MES.fm&amp;#10;Hive: https://peakd.com/@mes&amp;#10;&amp;#10;MORE Links: https://linktr.ee/matheasy&amp;#10;&amp;#10;Email me: contact@mes.fm&amp;#10;&amp;#10;Free Calculators: https://mes.fm/calculators&amp;#10;&amp;#10;BMI Calculator: https://bmicalculator.mes.fm&amp;#10;Grade Calculator: https://gradecalculator.mes.fm&amp;#10;Mortgage Calculator: https://mortgagecalculator.mes.fm&amp;#10;Percentage Calculator: https://percentagecalculator.mes.fm&amp;#10;&amp;#10;Free Online Tools: https://mes.fm/tools&amp;#10;&amp;#10;iPhone and Android Apps: https://mes.fm/mobile-apps"
     channeltitle "Math Easy Solutions"
     channelid "UCUUBq1GPBvvGNz7dpgO14Ow"
     favcount 0
@@ -1486,7 +2674,29 @@ graph
     ppprofanity 0.07138299
     ppinflammatory 0.08038353
     sentiment 0.3182
-    cluster 7
+    cluster 9
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -1495,7 +2705,7 @@ graph
     step 0
     date "2021-08-07T22:54:05Z"
     title "World Trade Center Building 7, New York City, 9-11-01, Wheres The Jet Fuel That Melted These Beams?"
-    description "What do you think happened here if it is the &#34;professional's&#34; narrative that only jet fuel can superheat steel enough for it to catastrophically fail in unison?"
+    description "What do you think happened here if it is the &amp;#34;professional's&amp;#34; narrative that only jet fuel can superheat steel enough for it to catastrophically fail in unison?"
     channeltitle "Globalists Are Traitor Scum"
     channelid "UCPI0IsXyqiibAfF3QAdzSbg"
     favcount 0
@@ -1513,7 +2723,29 @@ graph
     ppprofanity 0.08574636
     ppinflammatory 0.1971881
     sentiment 0
-    cluster 3
+    cluster 1
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -1522,7 +2754,7 @@ graph
     step 0
     date "2017-06-15T00:57:42Z"
     title "See Building 7 Collapsing on 9/11 For Absolutely No Reason At All"
-    description "With only a handful of little office fires and hit by nothing, what caused Building 7 to go into free-fall and collapse to the ground? Ummm...you tell me.I'll give you a hint, it wasn't airplanes or fires.&#10;&#10;READ MORE: http://www.nowtheendbegins.com/didnt-blaze-grenfell-towers-yesterday-make-fall-just-like-building-7-world-trade-center/"
+    description "With only a handful of little office fires and hit by nothing, what caused Building 7 to go into free-fall and collapse to the ground? Ummm...you tell me.I'll give you a hint, it wasn't airplanes or fires.&amp;#10;&amp;#10;READ MORE: http://www.nowtheendbegins.com/didnt-blaze-grenfell-towers-yesterday-make-fall-just-like-building-7-world-trade-center/"
     channeltitle "Now The End Begins"
     channelid "UCWaSnCxBPg6OuC_3EbdCeMg"
     favcount 0
@@ -1540,7 +2772,29 @@ graph
     ppprofanity 0.044511396
     ppinflammatory 0.44765493
     sentiment -0.5709
-    cluster 4
+    cluster 3
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -1549,7 +2803,7 @@ graph
     step 0
     date "2017-09-08T07:15:43Z"
     title "Building 7 Explained: The Tube That Crumpled"
-    description "**THIS VIDEO HAS BEEN UPDATED**&#10;Please watch: https://youtu.be/nP3TNHPCIVU&#10;&#10;Comments on this older video will no longer be approved and will not appear here. Watch the new video and comment there instead, please.&#10;-----&#10;&#10;Long-debunked talking points:&#10;&#10;1. &#34;7WTC collapsed into its own footprint.&#34; There is no evidence of that. The animation at 5:00 is scale-accurate: The east face of the frame tipped that much to the north (the smaller building shown is Fiterman Hall). Meanwhile, the west face appears to have rotated to the south. The photos at the end of the video disprove the &#34;footprint&#34; talking point.&#10;&#10;2. &#34;Thousands of architects and engineers disagree.&#34; Actual skyscraper experts don't disagree. I made comedy out of the petition put forward by Architects &#38; Engineers for 9/11 Truth: https://youtu.be/lpEnvGBfgnI&#10;&#10;3. &#34;A collapse with (a brief period of) freefall violates the laws of physics.&#34; Point to one paper in a peer-reviewed journal that supports this claim. I apparently violated the same laws in this experiment: https://twitter.com/edwardcurrent/status/924052742338834432&#10;&#10;4. &#34;WTC7's collapse and fire were totally different from the Tehran building&#34; Yes, and the difference in their collapses is explained beginning at 3:34. They were also very different in size and mass https://www.metabunk.org/attachments/20170119-095743-d00ca-jpg.24118/ which affected not only their collapses but also how their fires appeared from the outside. WTC7 as seen from the south was also a raging fire https://www.youtube.com/watch?v=8k0-CFGP9ZQ . &#10;&#10;5. &#34;Professor Dr. Leroy Hulsey Ph.D. of the University of Alaska's two-year study&#8230;&#34; With funding by Architects &#38; Engineers for 9/11 Truth, Hulsey (an expert on bridges, not buildings, who had never done fire analysis) and two graduate students computer-modeled two floors where NIST found that collapse initiation *might* have taken place, and found scenarios where the collapse did not initiate. AE911Truth would like you to believe that fire, therefore, was ruled out. This is *not* a scientific conclusion, it's a sensational statement bought and paid for by a 9/11 profiteering group. The study has been comprehensively debunked at https://www.metabunk.org/debunked-uaf-study-shows-wtc7-could-not-have-collapsed-from-fire.t9056/.&#10;&#10;6. &#34;Witnesses heard explosions.&#34; Lots of things explode in fires: transformers, gas lines, water lines, air compressors, fire extinguishers, propane tanks, refrigeration systems. An &#34;explosion sound&#34; is different from the high-brisance detonation necessary to cut even one 14&#34; x 22&#34; steel column of a major skyscraper (let alone 58&#8211;82 of them), which would exceed 140 decibels a half mile away and be clearly audible from New Jersey. Meanwhile, seismographs picked up the collapse of the interior (preceding the collapse of the exterior frame), but no detonations. Regardless, such blasts would be loudly audible on all of the camera footage, seconds before the collapse began. There's nothing on the tapes.&#10;This is how demolitions actually sound: https://www.youtube.com/watch?v=eem7d58gjno&#10;Here are 12&#34; steel pins failing, producing &#34;explosion&#34; sounds: (at 0:40)&#10;https://youtu.be/ZXr1IeWbP10?t=40&#10;&#10;7. &#34;The BBC reported that WTC7 had collapsed before it actually did.&#34; There was confusion and chaos on 9/11. Firefighters had cleared the area, because 7WTC was at risk of collapsing ( https://sites.google.com/site/wtc7lies/eyewitnessaccountsofthewithdrawalfromwtc?pageId=104443402069968647957 ). This was misreported by Reuters. BBC explains (at 43:32): https://youtu.be/vZbMfTtHkYM?t=43m32s Anyway, that's a far less complicated explanation than that the BBC or Reuters were in on a conspiracy, and/or made a massive on-air blunder in a secret operation that remains perfectly covered up 19 years later.&#10;&#10;8. &#34;Larry Silverstein confessed to demolishing the building when he said it was pulled.&#34; He said the firefighting was pulled out. Watch FDNY chief Daniel Nigro discuss this decision (at 22:09): https://youtu.be/vZbMfTtHkYM?t=22m9s &#10;&#34;Pull&#34; is not a term used in demolition except to yank small buildings down with cables. Silverstein didn't confess to massive insurance fraud in a scheduled sit-down PBS interview, only for that confession to be ignored by the insurers. One of the dumbest talking points ever.&#10;&#10;9. &#34;You must be paid by the government to make these videos.&#34; And your standards for evidence must be extremely low, if you're willing to convince yourself that this wild claim is true. (It's not. I make nothing from these videos.)&#10;&#10;10. &#34;Why not just set steel buildings on fire when they need to be demolished, instead of using explosives?&#34; Because they might land on other buildings and destroy them, as WTC7 did. And maybe set them on fire, too. Setting a skyscraper on fire in a city, and letting it belch out toxic smoke from burning plastics for hours, is a very stupid idea. Okay, this is officially the dumbest talking point ever."
+    description "**THIS VIDEO HAS BEEN UPDATED**&amp;#10;Please watch: https://youtu.be/nP3TNHPCIVU&amp;#10;&amp;#10;Comments on this older video will no longer be approved and will not appear here. Watch the new video and comment there instead, please.&amp;#10;-----&amp;#10;&amp;#10;Long-debunked talking points:&amp;#10;&amp;#10;1. &amp;#34;7WTC collapsed into its own footprint.&amp;#34; There is no evidence of that. The animation at 5:00 is scale-accurate: The east face of the frame tipped that much to the north (the smaller building shown is Fiterman Hall). Meanwhile, the west face appears to have rotated to the south. The photos at the end of the video disprove the &amp;#34;footprint&amp;#34; talking point.&amp;#10;&amp;#10;2. &amp;#34;Thousands of architects and engineers disagree.&amp;#34; Actual skyscraper experts don't disagree. I made comedy out of the petition put forward by Architects &amp;#38; Engineers for 9/11 Truth: https://youtu.be/lpEnvGBfgnI&amp;#10;&amp;#10;3. &amp;#34;A collapse with (a brief period of) freefall violates the laws of physics.&amp;#34; Point to one paper in a peer-reviewed journal that supports this claim. I apparently violated the same laws in this experiment: https://twitter.com/edwardcurrent/status/924052742338834432&amp;#10;&amp;#10;4. &amp;#34;WTC7's collapse and fire were totally different from the Tehran building&amp;#34; Yes, and the difference in their collapses is explained beginning at 3:34. They were also very different in size and mass https://www.metabunk.org/attachments/20170119-095743-d00ca-jpg.24118/ which affected not only their collapses but also how their fires appeared from the outside. WTC7 as seen from the south was also a raging fire https://www.youtube.com/watch?v=8k0-CFGP9ZQ . &amp;#10;&amp;#10;5. &amp;#34;Professor Dr. Leroy Hulsey Ph.D. of the University of Alaska's two-year study&amp;#8230;&amp;#34; With funding by Architects &amp;#38; Engineers for 9/11 Truth, Hulsey (an expert on bridges, not buildings, who had never done fire analysis) and two graduate students computer-modeled two floors where NIST found that collapse initiation *might* have taken place, and found scenarios where the collapse did not initiate. AE911Truth would like you to believe that fire, therefore, was ruled out. This is *not* a scientific conclusion, it's a sensational statement bought and paid for by a 9/11 profiteering group. The study has been comprehensively debunked at https://www.metabunk.org/debunked-uaf-study-shows-wtc7-could-not-have-collapsed-from-fire.t9056/.&amp;#10;&amp;#10;6. &amp;#34;Witnesses heard explosions.&amp;#34; Lots of things explode in fires: transformers, gas lines, water lines, air compressors, fire extinguishers, propane tanks, refrigeration systems. An &amp;#34;explosion sound&amp;#34; is different from the high-brisance detonation necessary to cut even one 14&amp;#34; x 22&amp;#34; steel column of a major skyscraper (let alone 58&amp;#8211;82 of them), which would exceed 140 decibels a half mile away and be clearly audible from New Jersey. Meanwhile, seismographs picked up the collapse of the interior (preceding the collapse of the exterior frame), but no detonations. Regardless, such blasts would be loudly audible on all of the camera footage, seconds before the collapse began. There's nothing on the tapes.&amp;#10;This is how demolitions actually sound: https://www.youtube.com/watch?v=eem7d58gjno&amp;#10;Here are 12&amp;#34; steel pins failing, producing &amp;#34;explosion&amp;#34; sounds: (at 0:40)&amp;#10;https://youtu.be/ZXr1IeWbP10?t=40&amp;#10;&amp;#10;7. &amp;#34;The BBC reported that WTC7 had collapsed before it actually did.&amp;#34; There was confusion and chaos on 9/11. Firefighters had cleared the area, because 7WTC was at risk of collapsing ( https://sites.google.com/site/wtc7lies/eyewitnessaccountsofthewithdrawalfromwtc?pageId=104443402069968647957 ). This was misreported by Reuters. BBC explains (at 43:32): https://youtu.be/vZbMfTtHkYM?t=43m32s Anyway, that's a far less complicated explanation than that the BBC or Reuters were in on a conspiracy, and/or made a massive on-air blunder in a secret operation that remains perfectly covered up 19 years later.&amp;#10;&amp;#10;8. &amp;#34;Larry Silverstein confessed to demolishing the building when he said it was pulled.&amp;#34; He said the firefighting was pulled out. Watch FDNY chief Daniel Nigro discuss this decision (at 22:09): https://youtu.be/vZbMfTtHkYM?t=22m9s &amp;#10;&amp;#34;Pull&amp;#34; is not a term used in demolition except to yank small buildings down with cables. Silverstein didn't confess to massive insurance fraud in a scheduled sit-down PBS interview, only for that confession to be ignored by the insurers. One of the dumbest talking points ever.&amp;#10;&amp;#10;9. &amp;#34;You must be paid by the government to make these videos.&amp;#34; And your standards for evidence must be extremely low, if you're willing to convince yourself that this wild claim is true. (It's not. I make nothing from these videos.)&amp;#10;&amp;#10;10. &amp;#34;Why not just set steel buildings on fire when they need to be demolished, instead of using explosives?&amp;#34; Because they might land on other buildings and destroy them, as WTC7 did. And maybe set them on fire, too. Setting a skyscraper on fire in a city, and letting it belch out toxic smoke from burning plastics for hours, is a very stupid idea. Okay, this is officially the dumbest talking point ever."
     channeltitle "EdwardCurrent"
     channelid "UC20U2rjFhakOCOlvJn0MAGg"
     favcount 0
@@ -1567,7 +2821,29 @@ graph
     ppprofanity 0.12048806
     ppinflammatory 0.117643096
     sentiment 0
-    cluster 8
+    cluster 10
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -1576,7 +2852,7 @@ graph
     step 0
     date "2021-09-08T13:52:10Z"
     title "Building 7 on 9/11 - Compiled Footage of WTC Building 7s Collapse (23 angles)"
-    description "#September11 #NeverForget #Building7 #WTC7&#10;Many angles of the collapse of World Trade Center Building 7 on 9/11. Building 7 was a 47-story building, it was not hit by a plane and suffered limited damage from the Twin Towers collapse. And yet it did collapse at around 5:20pm on September 11, 2001, into its own footprint, at free fall acceleration 'speed', through the path of most resistance.&#10;&#10;This video is published for educational purposes under the section 107 of the Copyright Act, commonly known as &#34;Fair use&#34;. And to make sure we never forget about Building 7."
+    description "#September11 #NeverForget #Building7 #WTC7&amp;#10;Many angles of the collapse of World Trade Center Building 7 on 9/11. Building 7 was a 47-story building, it was not hit by a plane and suffered limited damage from the Twin Towers collapse. And yet it did collapse at around 5:20pm on September 11, 2001, into its own footprint, at free fall acceleration 'speed', through the path of most resistance.&amp;#10;&amp;#10;This video is published for educational purposes under the section 107 of the Copyright Act, commonly known as &amp;#34;Fair use&amp;#34;. And to make sure we never forget about Building 7."
     channeltitle "fulstakk"
     channelid "UCXsJUFX-bXQdRd7FwAWO5-g"
     favcount 0
@@ -1594,7 +2870,29 @@ graph
     ppprofanity 0.1216573
     ppinflammatory 0.0705085
     sentiment -0.4939
-    cluster 1
+    cluster 3
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -1621,7 +2919,29 @@ graph
     ppprofanity 0.0638142
     ppinflammatory 0.45216432
     sentiment -0.4939
-    cluster 1
+    cluster 3
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -1630,7 +2950,7 @@ graph
     step 0
     date "2014-04-27T15:07:39Z"
     title "BBC Reported Building 7 Collapse 20 Minutes Before It Fell"
-    description "A video from the archives shows the BBC reporting on the collapse of WTC Building 7 over twenty minutes before it fell at 5:20pm on the afternoon of 9/11. The incredible footage shows BBC reporter Jane Standley talking about the collapse of the Salomon Brothers Building while it remains standing in the live shot behind her head. How did the BBC know that it was going to collapse? And why did they report the collapse when it is clearly standing in the background?&#10;&#10;if nothing else then its Just one more reason not to pay the BBC licence fee as to continue to do so would be directly funding of a terrorist organisation, and there are Laws against that kind of thing. Or perhaps it was just a simple &#34;mistake&#34; by the BBC?&#10;&#10;check out : http://www.bbc.co.uk/blogs/legacy/theeditors/2007/02/part_of_the_conspiracy.html"
+    description "A video from the archives shows the BBC reporting on the collapse of WTC Building 7 over twenty minutes before it fell at 5:20pm on the afternoon of 9/11. The incredible footage shows BBC reporter Jane Standley talking about the collapse of the Salomon Brothers Building while it remains standing in the live shot behind her head. How did the BBC know that it was going to collapse? And why did they report the collapse when it is clearly standing in the background?&amp;#10;&amp;#10;if nothing else then its Just one more reason not to pay the BBC licence fee as to continue to do so would be directly funding of a terrorist organisation, and there are Laws against that kind of thing. Or perhaps it was just a simple &amp;#34;mistake&amp;#34; by the BBC?&amp;#10;&amp;#10;check out : http://www.bbc.co.uk/blogs/legacy/theeditors/2007/02/part_of_the_conspiracy.html"
     channeltitle "ichabod smith"
     channelid "UCFwZddeOgn59IXApQxfnLwQ"
     favcount 0
@@ -1648,7 +2968,29 @@ graph
     ppprofanity 0.07405348
     ppinflammatory 0.1114959
     sentiment -0.4939
-    cluster 4
+    cluster 5
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -1657,7 +2999,7 @@ graph
     step 0
     date "2011-10-08T16:51:33Z"
     title "9/11 WTC Building 7"
-    description "http://www.youtube.com/watch?v=hZEvA8BCoBw&#13;&#10;&#13;&#10;http://www.youtube.com/watch?v=4ICXDkc7zoU&#13;&#10;&#13;&#10;NIST NCSTAR1-A: Final Report on the Collapse of World Trade Center Building 7. NIST."
+    description "http://www.youtube.com/watch?v=hZEvA8BCoBw&amp;#13;&amp;#10;&amp;#13;&amp;#10;http://www.youtube.com/watch?v=4ICXDkc7zoU&amp;#13;&amp;#10;&amp;#13;&amp;#10;NIST NCSTAR1-A: Final Report on the Collapse of World Trade Center Building 7. NIST."
     channeltitle "krikkosnack"
     channelid "UCwJ2pBPf3mB3wYDD1RvbOOQ"
     favcount 0
@@ -1675,7 +3017,29 @@ graph
     ppprofanity 0.08402304
     ppinflammatory 0.1885903
     sentiment 0
-    cluster 4
+    cluster 3
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -1684,7 +3048,7 @@ graph
     step 0
     date "2013-12-28T14:36:17Z"
     title "BUILDING 7 COLLAPSED AT 5:21:10 PM ON SEPTEMBER 11, 2001"
-    description "Building 7 was a 47-story skyscraper and was part of the World Trade Center complex. Built in 1984, it would have been the tallest high-rise in 33 states in the United States. It collapsed at 5:21:10 pm on September 11, 2001. It was not hit by an airplane and suffered minimal damage compared to other buildings much closer to the Twin Towers.&#10;&#10;7 Facts about Building 7&#10;&#10;1) If fire caused Building 7 to collapse, it would be the first ever fire-induced collapse of a steel-frame high-rise.&#10;&#10;2) Building 7's collapse was not mentioned in the 9/11 Commission Report.&#10;&#10;3) According to a Zogby poll in 2006, 43% of Americans did not know about Building 7.&#10;&#10;4) It took the federal government seven years to conduct an investigation and issue a report for Building 7.&#10;&#10;5) 2,800+ architects and engineers have signed a petition calling for a new investigation into the destruction of Building 7, specifying that it should include a full inquiry into the possible use of explosives.&#10;&#10;6) Numerous witnesses say the possibility of demolishing Building 7 was widely discussed by emergency personnel at the scene and advocated by the building's owner.&#10;&#10;7) Building 7 housed several intelligence and law enforcement agencies, and the NYC Office of Emergency Management's Emergency Operations Center, more commonly known as &#34;Giuliani's Bunker&#34;.&#10;&#10;Edit by Thomas Koitzsch :)"
+    description "Building 7 was a 47-story skyscraper and was part of the World Trade Center complex. Built in 1984, it would have been the tallest high-rise in 33 states in the United States. It collapsed at 5:21:10 pm on September 11, 2001. It was not hit by an airplane and suffered minimal damage compared to other buildings much closer to the Twin Towers.&amp;#10;&amp;#10;7 Facts about Building 7&amp;#10;&amp;#10;1) If fire caused Building 7 to collapse, it would be the first ever fire-induced collapse of a steel-frame high-rise.&amp;#10;&amp;#10;2) Building 7's collapse was not mentioned in the 9/11 Commission Report.&amp;#10;&amp;#10;3) According to a Zogby poll in 2006, 43% of Americans did not know about Building 7.&amp;#10;&amp;#10;4) It took the federal government seven years to conduct an investigation and issue a report for Building 7.&amp;#10;&amp;#10;5) 2,800+ architects and engineers have signed a petition calling for a new investigation into the destruction of Building 7, specifying that it should include a full inquiry into the possible use of explosives.&amp;#10;&amp;#10;6) Numerous witnesses say the possibility of demolishing Building 7 was widely discussed by emergency personnel at the scene and advocated by the building's owner.&amp;#10;&amp;#10;7) Building 7 housed several intelligence and law enforcement agencies, and the NYC Office of Emergency Management's Emergency Operations Center, more commonly known as &amp;#34;Giuliani's Bunker&amp;#34;.&amp;#10;&amp;#10;Edit by Thomas Koitzsch :)"
     channeltitle "NewEarthWorld"
     channelid "UCn0OkeW4lBi88evVw4Cbqow"
     favcount 0
@@ -1702,7 +3066,29 @@ graph
     ppprofanity 0.16402905
     ppinflammatory 0.044446982
     sentiment -0.2732
-    cluster 7
+    cluster 2
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -1729,7 +3115,29 @@ graph
     ppprofanity 0.10020148
     ppinflammatory 0.14536294
     sentiment 0.3612
-    cluster 8
+    cluster 10
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -1738,7 +3146,7 @@ graph
     step 0
     date "2011-09-01T19:35:49Z"
     title "9/11 Building 7 - Martin Noakes"
-    description "Written &#38; recorded in 2007 - From the album Life is Just a Ride - Featured in the multi-award winning film Sieranevada  (21 awards to date -  https://www.imdb.com/title/tt4466490/awards?ref_=tt_awd) - by internationally acclaimed director - Cristi Puiu. Available on Spotify and other platforms. Please rate, comment &#38; forward to your friends.&#10;&#10;Many thanks to anyone who supports my work...&#10;&#10;Finally, here's a link to the opening ceremony for the premier of Sieranevada (Which my wife &#38; I attended) at the Cannes Film Festival  - May 2016 - https://www.youtube.com/watch?v=Iy0MJgB45eE &#10;&#10;Chord Chart - http://www.911building7.co.uk/ChordCh...&#10;&#10;Lyrics:&#10;There's a million reasons why I don't believe it.&#10;There's a million reasons why it can't be true.&#10;Open fire can't melt steel, it's not hot enough.&#10;&#10;(It's nothing new it's not a mystery, check out the Reichstag Germany).&#10;&#10;There's a million questions still remain unanswered.&#10;There's a million questions still to be resolved.&#10;Out of nineteen Muslim guys, seven still remained alive.&#10;&#10;(It's nothing new it's not a mystery, check out the USS Liberty)&#10;&#10;CHORUS&#10;&#10;9/11, 9/11, what went down with building 7?&#10;It's a mystery to this day.&#10;The building fell with such precision,&#10;Freefall speed no reasons given,&#10;Like the towers it just fell.&#10;And fire's not enough,&#10;No way hot enough to bring 'em down.&#10;&#10;The Project for the New American Century (PNAC),&#10;Was added to a year before that day.&#10;It states in order to proceed, &#10;A modern day Pearl Harbor it would need.&#10;&#10;(In Vietnam it was just the same, the Gulf of Tonkin took the blame.)&#10;&#10;9/11 set them free - The Project for the New American Century.&#10;(It's just a lie it's a conspiracy, Cold War, Bird Flu, W.M.D)&#10;&#10;CHORUS&#10;9/11, 9/11, what went down with building 7?&#10;It's a mystery to this day.&#10;The building fell with such precision,&#10;Freefall speed no reasons given,&#10;Like the towers it just fell.&#10;And fire's not enough,&#10;No way hot enough to bring 'em down.&#10;&#10;We've gotta stand up,&#10;We've gotta be strong,&#10;We've got to hold our nerve until the job is done&#10;And they've made a KILLING.&#10;They don't care about the BLOOD that they're spilling.&#10;&#10;Oh!&#10;&#10;9/11, 9/11, what went down with building 7?&#10;Ever since that fateful day.&#10;Our civil rights have disappeared,&#10;A global Fascist state draws near,&#10;And our freedom slips away.&#10;And they don't give a stuff!&#10;They've made that clear enough&#10;So now it's up to us, to bring 'em down...&#10;&#10;*IMPORTANT Syria Chemical Attack is a False Flag event EXACTLY like 9/11 - https://www.youtube.com/watch?v=Bdnr32H34T4 &#10;&#10;&#10;9/11 documentaries:&#10;https://topdocumentaryfilms.com/911-mysteries/ - 9/11 mysteries&#10;https://www.youtube.com/watch?v=Y9o7n2nugmc - 9/11 Ripple Effect&#10;http://www.youtube.com/watch?v=quTifl... - Loose Change&#10;&#10;Agenda 21 Link - http://www.youtube.com/watch?v=x5dvBH...&#10;Agenda 21 Link - http://www.youtube.com/watch?v=TzEEgt..."
+    description "Written &amp;#38; recorded in 2007 - From the album Life is Just a Ride - Featured in the multi-award winning film Sieranevada  (21 awards to date -  https://www.imdb.com/title/tt4466490/awards?ref_=tt_awd) - by internationally acclaimed director - Cristi Puiu. Available on Spotify and other platforms. Please rate, comment &amp;#38; forward to your friends.&amp;#10;&amp;#10;Many thanks to anyone who supports my work...&amp;#10;&amp;#10;Finally, here's a link to the opening ceremony for the premier of Sieranevada (Which my wife &amp;#38; I attended) at the Cannes Film Festival  - May 2016 - https://www.youtube.com/watch?v=Iy0MJgB45eE &amp;#10;&amp;#10;Chord Chart - http://www.911building7.co.uk/ChordCh...&amp;#10;&amp;#10;Lyrics:&amp;#10;There's a million reasons why I don't believe it.&amp;#10;There's a million reasons why it can't be true.&amp;#10;Open fire can't melt steel, it's not hot enough.&amp;#10;&amp;#10;(It's nothing new it's not a mystery, check out the Reichstag Germany).&amp;#10;&amp;#10;There's a million questions still remain unanswered.&amp;#10;There's a million questions still to be resolved.&amp;#10;Out of nineteen Muslim guys, seven still remained alive.&amp;#10;&amp;#10;(It's nothing new it's not a mystery, check out the USS Liberty)&amp;#10;&amp;#10;CHORUS&amp;#10;&amp;#10;9/11, 9/11, what went down with building 7?&amp;#10;It's a mystery to this day.&amp;#10;The building fell with such precision,&amp;#10;Freefall speed no reasons given,&amp;#10;Like the towers it just fell.&amp;#10;And fire's not enough,&amp;#10;No way hot enough to bring 'em down.&amp;#10;&amp;#10;The Project for the New American Century (PNAC),&amp;#10;Was added to a year before that day.&amp;#10;It states in order to proceed, &amp;#10;A modern day Pearl Harbor it would need.&amp;#10;&amp;#10;(In Vietnam it was just the same, the Gulf of Tonkin took the blame.)&amp;#10;&amp;#10;9/11 set them free - The Project for the New American Century.&amp;#10;(It's just a lie it's a conspiracy, Cold War, Bird Flu, W.M.D)&amp;#10;&amp;#10;CHORUS&amp;#10;9/11, 9/11, what went down with building 7?&amp;#10;It's a mystery to this day.&amp;#10;The building fell with such precision,&amp;#10;Freefall speed no reasons given,&amp;#10;Like the towers it just fell.&amp;#10;And fire's not enough,&amp;#10;No way hot enough to bring 'em down.&amp;#10;&amp;#10;We've gotta stand up,&amp;#10;We've gotta be strong,&amp;#10;We've got to hold our nerve until the job is done&amp;#10;And they've made a KILLING.&amp;#10;They don't care about the BLOOD that they're spilling.&amp;#10;&amp;#10;Oh!&amp;#10;&amp;#10;9/11, 9/11, what went down with building 7?&amp;#10;Ever since that fateful day.&amp;#10;Our civil rights have disappeared,&amp;#10;A global Fascist state draws near,&amp;#10;And our freedom slips away.&amp;#10;And they don't give a stuff!&amp;#10;They've made that clear enough&amp;#10;So now it's up to us, to bring 'em down...&amp;#10;&amp;#10;*IMPORTANT Syria Chemical Attack is a False Flag event EXACTLY like 9/11 - https://www.youtube.com/watch?v=Bdnr32H34T4 &amp;#10;&amp;#10;&amp;#10;9/11 documentaries:&amp;#10;https://topdocumentaryfilms.com/911-mysteries/ - 9/11 mysteries&amp;#10;https://www.youtube.com/watch?v=Y9o7n2nugmc - 9/11 Ripple Effect&amp;#10;http://www.youtube.com/watch?v=quTifl... - Loose Change&amp;#10;&amp;#10;Agenda 21 Link - http://www.youtube.com/watch?v=x5dvBH...&amp;#10;Agenda 21 Link - http://www.youtube.com/watch?v=TzEEgt..."
     channeltitle "marndin"
     channelid "UCyKCTr1DsfA_rbw5HBvHFKA"
     favcount 0
@@ -1757,6 +3165,28 @@ graph
     ppinflammatory 0.05836035
     sentiment 0
     cluster 8
+    leftright "R"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -1783,7 +3213,29 @@ graph
     ppprofanity 0.0652833
     ppinflammatory 0.088867635
     sentiment -0.34
-    cluster 8
+    cluster 10
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -1792,7 +3244,7 @@ graph
     step 0
     date "2019-09-10T07:30:29Z"
     title "Unseen Building 7 demolition footage on 9 /11"
-    description "Footage clearly shows that explosive charges were used to &#34;drop&#34; building 7.&#10;&#10;If these charges were used, when were they put in place? No one would have been allowed into a burning building to place them, so they must have been placed before the building caught fire.&#10;&#10;Planning and placing charges takes days, not hours, to prepare."
+    description "Footage clearly shows that explosive charges were used to &amp;#34;drop&amp;#34; building 7.&amp;#10;&amp;#10;If these charges were used, when were they put in place? No one would have been allowed into a burning building to place them, so they must have been placed before the building caught fire.&amp;#10;&amp;#10;Planning and placing charges takes days, not hours, to prepare."
     channeltitle "Dave Stewart"
     channelid "UCbVurFbwYy7sUCqLKtpYEPA"
     favcount 0
@@ -1810,7 +3262,29 @@ graph
     ppprofanity 0.17675981
     ppinflammatory 0.19305025
     sentiment 0
-    cluster 3
+    cluster 1
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -1837,7 +3311,29 @@ graph
     ppprofanity 0.09660943
     ppinflammatory 0.12131029
     sentiment -0.4939
-    cluster 3
+    cluster 9
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -1846,7 +3342,7 @@ graph
     step 0
     date "2015-11-21T04:26:32Z"
     title "World Trade Center Building 7 Evaluation Introduction"
-    description "http://WTC7Evaluation.org &#10;&#10;World Trade Center Building 7 Evaluation is an engineering study at the University of Alaska Fairbanks (UAF) using finite element modeling to evaluate the possible causes of World Trade Center Building 7&#8217;s collapse. The study is being conducted by Dr. J. Leroy Hulsey, Chair of UAF's Civil and Environmental Engineering Department, and two Ph.D. research assistants. Professionals from the fields of structural engineering, civil engineering,  mechanical engineering, architecture, building design and construction, physics, math, and science, as well as everyday citizens, are invited to get involved. Every aspect of the scientific process will be posted on http://WTC7Evaluation.org. The study is being crowd-funded by the nonprofit organization Architects &#38; Engineers for 9/11 Truth.&#10;&#10;For more information visit http://WTC7Evaluation.org&#10;&#10;Subscribe to stay updated, and please share with your colleagues."
+    description "http://WTC7Evaluation.org &amp;#10;&amp;#10;World Trade Center Building 7 Evaluation is an engineering study at the University of Alaska Fairbanks (UAF) using finite element modeling to evaluate the possible causes of World Trade Center Building 7&amp;#8217;s collapse. The study is being conducted by Dr. J. Leroy Hulsey, Chair of UAF's Civil and Environmental Engineering Department, and two Ph.D. research assistants. Professionals from the fields of structural engineering, civil engineering,  mechanical engineering, architecture, building design and construction, physics, math, and science, as well as everyday citizens, are invited to get involved. Every aspect of the scientific process will be posted on http://WTC7Evaluation.org. The study is being crowd-funded by the nonprofit organization Architects &amp;#38; Engineers for 9/11 Truth.&amp;#10;&amp;#10;For more information visit http://WTC7Evaluation.org&amp;#10;&amp;#10;Subscribe to stay updated, and please share with your colleagues."
     channeltitle "World Trade Center Building 7 Evaluation"
     channelid "UCs1XnA-qqMEAUS-gQN5I5Qw"
     favcount 0
@@ -1864,7 +3360,29 @@ graph
     ppprofanity 0.041383978
     ppinflammatory 0.102684364
     sentiment 0
-    cluster 2
+    cluster 1
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -1891,7 +3409,29 @@ graph
     ppprofanity 0.116926745
     ppinflammatory 0.158926
     sentiment 0
-    cluster 1
+    cluster 3
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -1900,7 +3440,7 @@ graph
     step 0
     date "2010-11-02T21:35:04Z"
     title "Building What? Building 7"
-    description "BuildingWhat? TV Ad Is On The Air Now in New York City.&#13;&#10;&#13;&#10;NEW YORK CITY &#8212; The NYC Coalition for Accountability Now (NYC CAN) is launching a television ad campaign on Election Day in New York City calling for an investigation into the destruction of World Trade Center Building 7, the third building to collapse on 9-11. Building 7 came down at 5:20 in the afternoon although it had not been hit by an aircraft.&#13;&#10;&#13;&#10;    * A d v e r t i s e m e n t&#13;&#10;    *&#13;&#10;&#13;&#10;The ad, which is entitled &#34;BuildingWhat?&#34; and can be viewed at BuildingWhat.org, will air 350+ times from November 2 through November 10 and is estimated to be seen by millions of viewers in the New York Metropolitan Area, reaching core target audiences multiple times. The ad will appear on thirteen channels including MSNBC, CNN, Comedy Central, HGTV, Logo TV, Bio TV, Versus TV, MSG, Sports NY, VH1, HLN, CNBC and Bravo.&#13;&#10;&#13;&#10;NYC CAN's goal is to generate public pressure on the New York City Council to open an investigation into the destruction of Building 7, which until 9-11 housed the City's Emergency Operations Center, also known as &#34;Mayor Giuliani's bunker.&#34;&#13;&#10;&#13;&#10;Having A Supply Of Healthy Foods That Last Just Makes Sense (AD)&#13;&#10;&#13;&#10;    &#34;We've been educating the City Council about Building 7 and the need for a new investigation for the past six months,&#34; said Bob McIlvaine, father of Bobby McIlvaine and one of the 9/11 family members who appear in the ad. &#34;We are asking them now to do something about it.&#34;&#13;&#10;&#13;&#10;Patricia Perry, mother of NYPD officer John Perry, opens the ad saying, &#34;Most people don't know that a third tower fell on September 11th.&#34; Footage of Building 7&#8242;s destruction begins to play while other 9/11 family members explain that 1,200 architects and engineers have examined the evidence and disagree with the official report issued by the National Institute of Standards and Technology (NIST), which concluded that office fires brought down Building 7. This would mark the first and only time in history that fire has caused a steel-framed skyscraper to collapse. The ad closes by asking viewers to go to BuildingWhat.org to learn more.&#13;&#10;&#13;&#10;The &#34;BuildingWhat?&#34; campaign is also being sponsored by the group of architects and engineers referred to in the ad. According to their website, www.AE911Truth.org, they now number 1,346 verified architectural and engineering professionals who have put their professional reputations on the line to publicly voice their disagreement with NIST's findings.&#13;&#10;&#13;&#10;&#34;The most irrefutable evidence is the free fall descent of the building,&#34; said Anthony Szamboti, a mechanical engineer in the aerospace industry. &#34;You can't go from zero movement to free fall acceleration instantaneously without an external force simultaneously removing all of the columns in the lower part of the building. If the upper structure has to do any work crushing what's below it, it's going to slow down.&#34; According to Mr. Szamboti, NIST acknowledges in its report that the building underwent free fall, but it does not explain how.&#13;&#10;&#13;&#10;For more information and to view the TV ad, go to: www.BuildingWhat.org"
+    description "BuildingWhat? TV Ad Is On The Air Now in New York City.&amp;#13;&amp;#10;&amp;#13;&amp;#10;NEW YORK CITY &amp;#8212; The NYC Coalition for Accountability Now (NYC CAN) is launching a television ad campaign on Election Day in New York City calling for an investigation into the destruction of World Trade Center Building 7, the third building to collapse on 9-11. Building 7 came down at 5:20 in the afternoon although it had not been hit by an aircraft.&amp;#13;&amp;#10;&amp;#13;&amp;#10;    * A d v e r t i s e m e n t&amp;#13;&amp;#10;    *&amp;#13;&amp;#10;&amp;#13;&amp;#10;The ad, which is entitled &amp;#34;BuildingWhat?&amp;#34; and can be viewed at BuildingWhat.org, will air 350+ times from November 2 through November 10 and is estimated to be seen by millions of viewers in the New York Metropolitan Area, reaching core target audiences multiple times. The ad will appear on thirteen channels including MSNBC, CNN, Comedy Central, HGTV, Logo TV, Bio TV, Versus TV, MSG, Sports NY, VH1, HLN, CNBC and Bravo.&amp;#13;&amp;#10;&amp;#13;&amp;#10;NYC CAN's goal is to generate public pressure on the New York City Council to open an investigation into the destruction of Building 7, which until 9-11 housed the City's Emergency Operations Center, also known as &amp;#34;Mayor Giuliani's bunker.&amp;#34;&amp;#13;&amp;#10;&amp;#13;&amp;#10;Having A Supply Of Healthy Foods That Last Just Makes Sense (AD)&amp;#13;&amp;#10;&amp;#13;&amp;#10;    &amp;#34;We've been educating the City Council about Building 7 and the need for a new investigation for the past six months,&amp;#34; said Bob McIlvaine, father of Bobby McIlvaine and one of the 9/11 family members who appear in the ad. &amp;#34;We are asking them now to do something about it.&amp;#34;&amp;#13;&amp;#10;&amp;#13;&amp;#10;Patricia Perry, mother of NYPD officer John Perry, opens the ad saying, &amp;#34;Most people don't know that a third tower fell on September 11th.&amp;#34; Footage of Building 7&amp;#8242;s destruction begins to play while other 9/11 family members explain that 1,200 architects and engineers have examined the evidence and disagree with the official report issued by the National Institute of Standards and Technology (NIST), which concluded that office fires brought down Building 7. This would mark the first and only time in history that fire has caused a steel-framed skyscraper to collapse. The ad closes by asking viewers to go to BuildingWhat.org to learn more.&amp;#13;&amp;#10;&amp;#13;&amp;#10;The &amp;#34;BuildingWhat?&amp;#34; campaign is also being sponsored by the group of architects and engineers referred to in the ad. According to their website, www.AE911Truth.org, they now number 1,346 verified architectural and engineering professionals who have put their professional reputations on the line to publicly voice their disagreement with NIST's findings.&amp;#13;&amp;#10;&amp;#13;&amp;#10;&amp;#34;The most irrefutable evidence is the free fall descent of the building,&amp;#34; said Anthony Szamboti, a mechanical engineer in the aerospace industry. &amp;#34;You can't go from zero movement to free fall acceleration instantaneously without an external force simultaneously removing all of the columns in the lower part of the building. If the upper structure has to do any work crushing what's below it, it's going to slow down.&amp;#34; According to Mr. Szamboti, NIST acknowledges in its report that the building underwent free fall, but it does not explain how.&amp;#13;&amp;#10;&amp;#13;&amp;#10;For more information and to view the TV ad, go to: www.BuildingWhat.org"
     channeltitle "kalifornya1"
     channelid "UCWyj_8DNYPBGl2s2fiBOocg"
     favcount 0
@@ -1918,7 +3458,29 @@ graph
     ppprofanity 0.031985193
     ppinflammatory 0.13105069
     sentiment 0
-    cluster 4
+    cluster 3
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -1945,7 +3507,29 @@ graph
     ppprofanity 0.1086457
     ppinflammatory 0.13213705
     sentiment 0
-    cluster 3
+    cluster 8
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -1972,7 +3556,29 @@ graph
     ppprofanity 0.13708939
     ppinflammatory 0.17624503
     sentiment -0.4939
-    cluster 1
+    cluster 2
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -1981,7 +3587,7 @@ graph
     step 0
     date "2019-09-03T00:48:56Z"
     title "WTC Building 7 Falls on 9/11 (2008 release)"
-    description "The NIST report finally explained it in 2008. (Time should say 5:20) Converted original file to HD with video enhancer and virtual dub. &#34;Do YOU work in a large office building?&#34; LOL https://www.youtube.com/watch?v=L7U22m9xLrQ Thanks, James. FYI all, perhaps the best WTC7 compilation video is here: https://www.youtube.com/watch?v=JnLcUxV1dPo"
+    description "The NIST report finally explained it in 2008. (Time should say 5:20) Converted original file to HD with video enhancer and virtual dub. &amp;#34;Do YOU work in a large office building?&amp;#34; LOL https://www.youtube.com/watch?v=L7U22m9xLrQ Thanks, James. FYI all, perhaps the best WTC7 compilation video is here: https://www.youtube.com/watch?v=JnLcUxV1dPo"
     channeltitle "CTV911"
     channelid "UC2ps2FIYIIgtv8rJN5N7mMA"
     favcount 0
@@ -1999,7 +3605,29 @@ graph
     ppprofanity 0.07820854
     ppinflammatory 0.14967844
     sentiment 0
-    cluster 8
+    cluster 10
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -2008,7 +3636,7 @@ graph
     step 0
     date "2022-07-01T08:00:26Z"
     title "9/11: An Architects Guide Part 1 - Building 7 (12/7/21) [TRUNCATED - SEE DESCRIPTION]"
-    description "[[[   IMPORTANT NOTE: YouTube has removed our channels unpredictably, citing &#34;hate speech&#34; while offering no specifics. We have trimmed this video down to a short teaser to discourage YouTube from censoring it. Watch this complete video on Rokfin: https://www.rokfin.com/post/88087/911-An-Architects-Guide--Part-1-World-Trade-Center-7-12721-webinar--R-Gage or on our other video platforms: https://richardgage911.org/#platform-icons   ]]]&#10;&#10;&#10;9/11: An Architect&#8217;s Guide | Part 1 - World Trade Center 7&#10;Course Number: RG911-AAG-OD1&#10;&#10;Live three-part webinar series. Each part is about 1 1/2 hours long&#10;&#10;Richard Gage, AIA, Architect is dedicated to conducting research and providing education about the complete destruction of the three World Trade Center skyscrapers, my courses provide the technical knowledge and analytical framework with which to evaluate the most likely cause of those building failures.&#10;&#10;Course Description:&#10;&#10;In Part 1 of &#8220;9/11: An Architect&#8217;s Guide,&#8221; Richard Gage, AIA, provides an overview of the most important and readily understandable evidence regarding the destruction of World Trade Center Building 7 (WTC 7), a 47-story high-rise that was not struck by an airplane.&#10;The damage WTC 7 suffered from the collapse of the North Tower was found to be inconsequential. It had fires that were similar to those that have occurred previously in high-rise buildings. Yet it fell symmetrically into its own footprint in the manner of a typical controlled demolition.&#10;In 2008, the National Institute of Standards and Technology (NIST) concluded that WTC 7&#8217;s destruction was caused by normal office fires that burned &#8220;at temperatures hundreds of degrees below those typically considered in design practice for establishing structural fire resistance ratings.&#8221;&#10;Is NIST&#8217;s explanation for this unprecedented structural failure valid? Decide for yourself after watching this informative one-hour presentation. Using the information presented, you will be able to evaluate which of the two hypotheses &#8212; fire-induced failure or controlled demolition &#8212; is more consistent with the evidence.&#10;&#10;Learning Objectives:&#10;&#10;Participants will be able to:&#10;1. Describe the characteristics of building fires and the aspects of high-rise design that contribute to make fire-induced failure in steel-framed high-rise buildings a rare occurrence.&#10;2. Recognize the distinct features associated with fire-induced failure and the distinct features associated with the procedure of controlled demolition.&#10;3. Describe step-by-step the series of structural failures that the National Institute of Standards and Technology found to be the most likely cause of the collapse of World Trade Center Building 7.&#10;4. Analyze the physical evidence and dynamics of Building 7&#8217;s collapse according to how consistent they are with the competing hypotheses of fire-induced failure and controlled demolition.&#10;&#10;For more information: visit https://RichardGage911.org&#8203;&#10;Content Managed by ContentSafe.co"
+    description "[[[   IMPORTANT NOTE: YouTube has removed our channels unpredictably, citing &amp;#34;hate speech&amp;#34; while offering no specifics. We have trimmed this video down to a short teaser to discourage YouTube from censoring it. Watch this complete video on Rokfin: https://www.rokfin.com/post/88087/911-An-Architects-Guide--Part-1-World-Trade-Center-7-12721-webinar--R-Gage or on our other video platforms: https://richardgage911.org/#platform-icons   ]]]&amp;#10;&amp;#10;&amp;#10;9/11: An Architect&amp;#8217;s Guide | Part 1 - World Trade Center 7&amp;#10;Course Number: RG911-AAG-OD1&amp;#10;&amp;#10;Live three-part webinar series. Each part is about 1 1/2 hours long&amp;#10;&amp;#10;Richard Gage, AIA, Architect is dedicated to conducting research and providing education about the complete destruction of the three World Trade Center skyscrapers, my courses provide the technical knowledge and analytical framework with which to evaluate the most likely cause of those building failures.&amp;#10;&amp;#10;Course Description:&amp;#10;&amp;#10;In Part 1 of &amp;#8220;9/11: An Architect&amp;#8217;s Guide,&amp;#8221; Richard Gage, AIA, provides an overview of the most important and readily understandable evidence regarding the destruction of World Trade Center Building 7 (WTC 7), a 47-story high-rise that was not struck by an airplane.&amp;#10;The damage WTC 7 suffered from the collapse of the North Tower was found to be inconsequential. It had fires that were similar to those that have occurred previously in high-rise buildings. Yet it fell symmetrically into its own footprint in the manner of a typical controlled demolition.&amp;#10;In 2008, the National Institute of Standards and Technology (NIST) concluded that WTC 7&amp;#8217;s destruction was caused by normal office fires that burned &amp;#8220;at temperatures hundreds of degrees below those typically considered in design practice for establishing structural fire resistance ratings.&amp;#8221;&amp;#10;Is NIST&amp;#8217;s explanation for this unprecedented structural failure valid? Decide for yourself after watching this informative one-hour presentation. Using the information presented, you will be able to evaluate which of the two hypotheses &amp;#8212; fire-induced failure or controlled demolition &amp;#8212; is more consistent with the evidence.&amp;#10;&amp;#10;Learning Objectives:&amp;#10;&amp;#10;Participants will be able to:&amp;#10;1. Describe the characteristics of building fires and the aspects of high-rise design that contribute to make fire-induced failure in steel-framed high-rise buildings a rare occurrence.&amp;#10;2. Recognize the distinct features associated with fire-induced failure and the distinct features associated with the procedure of controlled demolition.&amp;#10;3. Describe step-by-step the series of structural failures that the National Institute of Standards and Technology found to be the most likely cause of the collapse of World Trade Center Building 7.&amp;#10;4. Analyze the physical evidence and dynamics of Building 7&amp;#8217;s collapse according to how consistent they are with the competing hypotheses of fire-induced failure and controlled demolition.&amp;#10;&amp;#10;For more information: visit https://RichardGage911.org&amp;#8203;&amp;#10;Content Managed by ContentSafe.co"
     channeltitle "RichardGage911WTC"
     channelid "UCxf4b9mDWZf-TXw2y3X-zug"
     favcount 0
@@ -2026,7 +3654,29 @@ graph
     ppprofanity 0.0908407
     ppinflammatory 0.005000001
     sentiment 0
-    cluster 2
+    cluster 4
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -2035,7 +3685,7 @@ graph
     step 0
     date "2016-09-27T12:17:33Z"
     title "World Trade Center Building 7 on September 11, 2001"
-    description "&#19990;&#30028;&#36031;&#26131;&#12475;&#12531;&#12479;&#12540;&#31532;7&#12499;&#12523;&#12288;&#20154;&#24037;&#29190;&#30772;&#10;911&#12450;&#12513;&#12522;&#12459;&#33258;&#20316;&#33258;&#28436;&#12486;&#12525;"
+    description "&amp;#19990;&amp;#30028;&amp;#36031;&amp;#26131;&amp;#12475;&amp;#12531;&amp;#12479;&amp;#12540;&amp;#31532;7&amp;#12499;&amp;#12523;&amp;#12288;&amp;#20154;&amp;#24037;&amp;#29190;&amp;#30772;&amp;#10;911&amp;#12450;&amp;#12513;&amp;#12522;&amp;#12459;&amp;#33258;&amp;#20316;&amp;#33258;&amp;#28436;&amp;#12486;&amp;#12525;"
     channeltitle "minnaminoru"
     channelid "UCeE2EPgVhYWxlKA19GJopFw"
     favcount 0
@@ -2053,7 +3703,29 @@ graph
     ppprofanity 0.1009284
     ppinflammatory 0.07030904
     sentiment 0
-    cluster 2
+    cluster 4
+    leftright "L"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 1
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 1
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -2080,7 +3752,29 @@ graph
     ppprofanity 0.15343778
     ppinflammatory 0.16967866
     sentiment -0.4939
-    cluster 7
+    cluster 9
+    leftright "R"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 1
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 1
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -2089,7 +3783,7 @@ graph
     step 0
     date "2018-03-26T19:05:11Z"
     title "What caused WTC Building 7 to collapse? - Prof Simon investigates."
-    description "WATCH THE UPDATE....New information for YOU the viewers.&#10;&#10;I'm trying to answer HOW this happened not WHY.  &#10;&#10;&#10;&#10;&#10;People asked me to look at the collapse of World Trade Center Building 7.  Interesting data is available that shows clearly how the building broke.  We also look at the aircraft that hit the Pentagon. Planes are strong but only have a thin skin, so self destruct upon impact.  Let me share with information with you and I appreciate your comments.   &#10;&#10;Here is another film describing the building collapse:&#10;https://www.youtube.com/watch?v=4LUDXpMhkNk&#10;&#10;I dedicate this film to the brave men and women who died, that terrible day.&#10;&#10;Prof Simon.&#10;&#10;&#10;Please comment, click like if you do and subscribe for more films. &#10;Let me make a film with you.....via Patreon. click on the link above."
+    description "WATCH THE UPDATE....New information for YOU the viewers.&amp;#10;&amp;#10;I'm trying to answer HOW this happened not WHY.  &amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;People asked me to look at the collapse of World Trade Center Building 7.  Interesting data is available that shows clearly how the building broke.  We also look at the aircraft that hit the Pentagon. Planes are strong but only have a thin skin, so self destruct upon impact.  Let me share with information with you and I appreciate your comments.   &amp;#10;&amp;#10;Here is another film describing the building collapse:&amp;#10;https://www.youtube.com/watch?v=4LUDXpMhkNk&amp;#10;&amp;#10;I dedicate this film to the brave men and women who died, that terrible day.&amp;#10;&amp;#10;Prof Simon.&amp;#10;&amp;#10;&amp;#10;Please comment, click like if you do and subscribe for more films. &amp;#10;Let me make a film with you.....via Patreon. click on the link above."
     channeltitle "Professor Simon Holland"
     channelid "UCd6qylQWz49LNjE4xrKf3RA"
     favcount 0
@@ -2107,7 +3801,29 @@ graph
     ppprofanity 0.019346984
     ppinflammatory 0.14250103
     sentiment -0.4939
-    cluster 5
+    cluster 2
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -2134,7 +3850,29 @@ graph
     ppprofanity 0.048531488
     ppinflammatory 0.2882493
     sentiment -0.4939
-    cluster 3
+    cluster 6
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -2161,7 +3899,29 @@ graph
     ppprofanity 0.07613032
     ppinflammatory 0.07314091
     sentiment 0
-    cluster 5
+    cluster 6
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -2170,7 +3930,7 @@ graph
     step 0
     date "2020-09-23T13:23:50Z"
     title "9/11: WTC Building 7 Collapses Without a Plane Hitting It"
-    description "If you don't believe the Twin Towers were a controlled demolition, wait til you see WTC Building 7 just ''fall by itself''.&#10;Please download this video before Youtube/Google deletes it, like they keep doing to 9/11 truth videos. Thank you."
+    description "If you don't believe the Twin Towers were a controlled demolition, wait til you see WTC Building 7 just ''fall by itself''.&amp;#10;Please download this video before Youtube/Google deletes it, like they keep doing to 9/11 truth videos. Thank you."
     channeltitle "therealvsfake"
     channelid "UCveF5lwYZHn2q_UcRtC6Wqg"
     favcount 0
@@ -2188,7 +3948,29 @@ graph
     ppprofanity 0.15434039
     ppinflammatory 0.19649114
     sentiment -0.296
-    cluster 4
+    cluster 3
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -2215,7 +3997,29 @@ graph
     ppprofanity 0.15266156
     ppinflammatory 0.111278415
     sentiment 0
-    cluster 3
+    cluster 1
+    leftright "C"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 1
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -2224,7 +4028,7 @@ graph
     step 0
     date "2021-09-07T22:23:11Z"
     title "Building 7 on 9/11 - Compiled Footage of WTC Building 7s Collapse"
-    description "#September11 #NeverForget #Building7 #WTC7&#10;Many angles of the collapse of World Trade Center Building 7 on 9/11. This video has no sound (intentional) so we can focus on the images showing the free fall collapse of what was a 47-story building. It was not hit by a plane and suffered limited damage from the Twin Towers collapse, and yet it did collapse at around 5:25pm on September 11, 2001."
+    description "#September11 #NeverForget #Building7 #WTC7&amp;#10;Many angles of the collapse of World Trade Center Building 7 on 9/11. This video has no sound (intentional) so we can focus on the images showing the free fall collapse of what was a 47-story building. It was not hit by a plane and suffered limited damage from the Twin Towers collapse, and yet it did collapse at around 5:25pm on September 11, 2001."
     channeltitle "fulstakk"
     channelid "UCXsJUFX-bXQdRd7FwAWO5-g"
     favcount 0
@@ -2242,7 +4046,29 @@ graph
     ppprofanity 0.14511597
     ppinflammatory 0.12685843
     sentiment -0.4939
-    cluster 2
+    cluster 6
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -2269,7 +4095,29 @@ graph
     ppprofanity 0.099551976
     ppinflammatory 0.11629662
     sentiment 0
-    cluster 1
+    cluster 3
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -2278,7 +4126,7 @@ graph
     step 0
     date "2011-09-02T09:45:19Z"
     title "9 11 10th Anniversary Campaign by Remember Building 7 - mirror"
-    description "Uploaded by TheAlexJonesChannel on Sep 2, 2011 &#13;&#10;&#13;&#10;This ad will appear on TV screens across the New York Metropolitan Area. Make your donation for the 10th Anniversary today.&#13;&#10;http://rememberbuilding7.org/10/&#13;&#10;&#13;&#10;&#13;&#10;[ Donation to &#34;10th Anniversary Ad Campaign&#34;.] &#13;&#10;http://www2.ae911truth.org/b7advert/?redir=b7advert"
+    description "Uploaded by TheAlexJonesChannel on Sep 2, 2011 &amp;#13;&amp;#10;&amp;#13;&amp;#10;This ad will appear on TV screens across the New York Metropolitan Area. Make your donation for the 10th Anniversary today.&amp;#13;&amp;#10;http://rememberbuilding7.org/10/&amp;#13;&amp;#10;&amp;#13;&amp;#10;&amp;#13;&amp;#10;[ Donation to &amp;#34;10th Anniversary Ad Campaign&amp;#34;.] &amp;#13;&amp;#10;http://www2.ae911truth.org/b7advert/?redir=b7advert"
     channeltitle "rondygal"
     channelid "UCrFDqx_826yYZBRrAcKB-4Q"
     favcount 0
@@ -2296,7 +4144,29 @@ graph
     ppprofanity 0.0597469
     ppinflammatory 0.2644424
     sentiment 0
-    cluster 1
+    cluster 2
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -2323,7 +4193,29 @@ graph
     ppprofanity 0.09760187
     ppinflammatory 0.5299244
     sentiment 0
-    cluster 4
+    cluster 3
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -2332,7 +4224,7 @@ graph
     step 0
     date "2010-07-29T13:41:18Z"
     title "9-11 ABC News - ground zero, no fires in building #7 before collapse, melted cars"
-    description "ABC news uses seditious nuclear words 'ground zero' in this September 11 coverage at the end of the day. Besides, a ground zero responder describes that there were no fires in building #7 before its collapse, but mentions a truck 'putting water' on the WTC-7 - which is the standard and the well-known procedure in demolition industry: all structures are always doused with water to minimize dust release during their controlled demolition. For more information visit www.911thology.com  or   www.911thology.cn&#10;Please, consider donating: &#10;http://911thology.com/donations_details.html&#10;Full version of my book on 9/11thology: &#8220;Third Truth about 9/11&#8221; (free to download, but not free to read!):  http://www.911thology.com"
+    description "ABC news uses seditious nuclear words 'ground zero' in this September 11 coverage at the end of the day. Besides, a ground zero responder describes that there were no fires in building #7 before its collapse, but mentions a truck 'putting water' on the WTC-7 - which is the standard and the well-known procedure in demolition industry: all structures are always doused with water to minimize dust release during their controlled demolition. For more information visit www.911thology.com  or   www.911thology.cn&amp;#10;Please, consider donating: &amp;#10;http://911thology.com/donations_details.html&amp;#10;Full version of my book on 9/11thology: &amp;#8220;Third Truth about 9/11&amp;#8221; (free to download, but not free to read!):  http://www.911thology.com"
     channeltitle "Dimitri Khalezov"
     channelid "UCLYScy2-yp-8_0S4J0t_3cA"
     favcount 0
@@ -2350,7 +4242,29 @@ graph
     ppprofanity 0.050995126
     ppinflammatory 0.18499503
     sentiment -0.6597
-    cluster 4
+    cluster 3
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -2359,7 +4273,7 @@ graph
     step 0
     date "2008-03-16T20:56:23Z"
     title "Building 7 Collapses Live on MSNBC"
-    description "**COPYRIGHT &#169;2001, MSNBC**&#13;&#10;&#13;&#10;MSNBC's Ashleigh Banfield was interviewing a downtown resident live on the air when Building 7 collapsed at 5:20 pm."
+    description "**COPYRIGHT &amp;#169;2001, MSNBC**&amp;#13;&amp;#10;&amp;#13;&amp;#10;MSNBC's Ashleigh Banfield was interviewing a downtown resident live on the air when Building 7 collapsed at 5:20 pm."
     channeltitle "ConspiracyWorld"
     channelid "UCnkQWO6VfGYyXyvgCp4AopA"
     favcount 0
@@ -2377,7 +4291,29 @@ graph
     ppprofanity 0.09933724
     ppinflammatory 0.4139432
     sentiment -0.296
-    cluster 1
+    cluster 2
+    leftright "L"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 1
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 1
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -2404,7 +4340,29 @@ graph
     ppprofanity 0.09546061
     ppinflammatory 0.13847126
     sentiment -0.4939
-    cluster 4
+    cluster 3
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -2431,7 +4389,29 @@ graph
     ppprofanity 0.082708724
     ppinflammatory 0.25458267
     sentiment 0.5106
-    cluster 5
+    cluster 6
+    leftright "R"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 1
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 1
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -2440,7 +4420,7 @@ graph
     step 0
     date "2011-03-29T11:52:11Z"
     title "9/11 WTC Building 7 Ad,Families Want Answers"
-    description "Please Help make this NEW TV Ad go viral on Internet,Facebook,Twitter etc.&#13;&#10;&#13;&#10;What is Building 7?&#13;&#10;Building 7 was a 47-story skyscraper that was part of the World Trade Center complex. It would have been the tallest high-rise in 33 states. It collapsed at 5:20 pm on September 11, 2001. It was not hit by an airplane and suffered minimal damage compared to other buildings much closer to the Twin Towers.&#13;&#10;&#13;&#10;We are pleased and tremendously excited to share this groundbreaking TV ad with you for the first time. We hope, with your help, to be able to show it to one million New Yorkers one month from now. Please go to BuildingWhat.org to watch the ad and please donate generously. Every $750 we raise is enough for another spot to reach another 10,000 people. Your donation will be fully tax-deductible. 5% of it will go to the WTC Rescuers Foundation. And 5% of it will be matched by another generous donor. http://buildingwhat.org/&#13;&#10;&#13;&#10;Architects And Engineers For 9/11 Truth&#13;&#10;http://www.ae911truth.org/&#13;&#10;***********************************************************&#13;&#10;*Disclaimer-BuildingWhat.org provides no endorsement of the amy2x Channel or the use of its work on it."
+    description "Please Help make this NEW TV Ad go viral on Internet,Facebook,Twitter etc.&amp;#13;&amp;#10;&amp;#13;&amp;#10;What is Building 7?&amp;#13;&amp;#10;Building 7 was a 47-story skyscraper that was part of the World Trade Center complex. It would have been the tallest high-rise in 33 states. It collapsed at 5:20 pm on September 11, 2001. It was not hit by an airplane and suffered minimal damage compared to other buildings much closer to the Twin Towers.&amp;#13;&amp;#10;&amp;#13;&amp;#10;We are pleased and tremendously excited to share this groundbreaking TV ad with you for the first time. We hope, with your help, to be able to show it to one million New Yorkers one month from now. Please go to BuildingWhat.org to watch the ad and please donate generously. Every $750 we raise is enough for another spot to reach another 10,000 people. Your donation will be fully tax-deductible. 5% of it will go to the WTC Rescuers Foundation. And 5% of it will be matched by another generous donor. http://buildingwhat.org/&amp;#13;&amp;#10;&amp;#13;&amp;#10;Architects And Engineers For 9/11 Truth&amp;#13;&amp;#10;http://www.ae911truth.org/&amp;#13;&amp;#10;***********************************************************&amp;#13;&amp;#10;*Disclaimer-BuildingWhat.org provides no endorsement of the amy2x Channel or the use of its work on it."
     channeltitle "Yeshua is Messiah-SUBSCRIBE Please"
     channelid "UCoVe9mQo1w4yesQVn067iyQ"
     favcount 0
@@ -2458,7 +4438,29 @@ graph
     ppprofanity 0.066322155
     ppinflammatory 0.1462495
     sentiment 0.0772
-    cluster 4
+    cluster 3
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -2467,7 +4469,7 @@ graph
     step 0
     date "2013-11-10T17:33:52Z"
     title "BBC WORLD - REMEMBER BUILDING 7"
-    description "An astounding video uncovered from the youtube archives shows the BBC reporting &#10;on the collapse of WTC Building 7 over twenty minutes before it fell at 5:20pm on &#10;the afternoon of more 9/11. &#10;&#10;The incredible footage shows BBC reporter Jane Standley talking about the collapse &#10;of the Salomon Brothers Building while it remains standing in the &#10;live shot behind her head. &#10;&#10;How did the BBC know that it was going to collapse? &#10;&#10;And why did they report the collapse when it is clearly standing in the background?&#10;&#10;Edit by Thomas Koitzsch"
+    description "An astounding video uncovered from the youtube archives shows the BBC reporting &amp;#10;on the collapse of WTC Building 7 over twenty minutes before it fell at 5:20pm on &amp;#10;the afternoon of more 9/11. &amp;#10;&amp;#10;The incredible footage shows BBC reporter Jane Standley talking about the collapse &amp;#10;of the Salomon Brothers Building while it remains standing in the &amp;#10;live shot behind her head. &amp;#10;&amp;#10;How did the BBC know that it was going to collapse? &amp;#10;&amp;#10;And why did they report the collapse when it is clearly standing in the background?&amp;#10;&amp;#10;Edit by Thomas Koitzsch"
     channeltitle "NewEarthWorld"
     channelid "UCn0OkeW4lBi88evVw4Cbqow"
     favcount 0
@@ -2485,7 +4487,29 @@ graph
     ppprofanity 0.07839333
     ppinflammatory 0.11841629
     sentiment 0
-    cluster 1
+    cluster 2
+    leftright "C"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 1
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -2494,7 +4518,7 @@ graph
     step 0
     date "2006-06-05T17:25:21Z"
     title "WTC Owner Larry Silverstein gave order to  Building 7"
-    description "In America Rebuilds, a PBS documentary, World Trade Center owner Larry Silverstein admits to giving the order to &#34;pull&#34; building seven.  What is the significance of this, you may ask?  It takes weeks to set up a controlled demolition and on 9-11, Mr. Silverstein did not have weeks of preparation unless he knew building needed to be brought down due to a terrorist attack ahead of time."
+    description "In America Rebuilds, a PBS documentary, World Trade Center owner Larry Silverstein admits to giving the order to &amp;#34;pull&amp;#34; building seven.  What is the significance of this, you may ask?  It takes weeks to set up a controlled demolition and on 9-11, Mr. Silverstein did not have weeks of preparation unless he knew building needed to be brought down due to a terrorist attack ahead of time."
     channeltitle "Veggivore"
     channelid "UCfMBDT1QXLQf4U_A0tBADUQ"
     favcount 0
@@ -2512,7 +4536,29 @@ graph
     ppprofanity 0.101397835
     ppinflammatory 0.013564287
     sentiment 0
-    cluster 1
+    cluster 2
+    leftright "C"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 1
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -2521,7 +4567,7 @@ graph
     step 0
     date "2016-09-14T20:04:28Z"
     title "Steve Spak Building 7 Footage"
-    description "This is Steve Spak&#8217;s footage of World Trade Center 7 on 9/11 prior to its collapse."
+    description "This is Steve Spak&amp;#8217;s footage of World Trade Center 7 on 9/11 prior to its collapse."
     channeltitle "OffGuardian"
     channelid "UCKoUcSx89qaC4E8l1aYhNAw"
     favcount 0
@@ -2539,7 +4585,29 @@ graph
     ppprofanity 0.31277445
     ppinflammatory 0.12909509
     sentiment 0
-    cluster 8
+    cluster 10
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -2566,7 +4634,29 @@ graph
     ppprofanity 0.043599863
     ppinflammatory 0.07461089
     sentiment -0.3182
-    cluster 8
+    cluster 10
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -2575,7 +4665,7 @@ graph
     step 0
     date "2020-09-23T13:29:04Z"
     title "9/11 Inside Job: WTC Building 7 Collapses Without A Plane Hitting It"
-    description "Controlled Demolition. &#10;What is the excuse for this then smh"
+    description "Controlled Demolition. &amp;#10;What is the excuse for this then smh"
     channeltitle "Becky"
     channelid "UCE1hMMIhSh9Y-Q5EUwQXZ_g"
     favcount 0
@@ -2593,7 +4683,29 @@ graph
     ppprofanity 0.12636146
     ppinflammatory 0.4887378
     sentiment -0.296
-    cluster 5
+    cluster 6
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -2602,7 +4714,7 @@ graph
     step 0
     date "2015-10-27T02:58:02Z"
     title " by Martin Noakes"
-    description "Martin Noakes is a singer, songwriter and music producer from England and he has written a catchy light rock pop song entitle &#34;9/11 Building 7.&#34; He's also put together an excellent video that views the World Trade Center collapse in the context of the long history of worldwide false flag events to start wars."
+    description "Martin Noakes is a singer, songwriter and music producer from England and he has written a catchy light rock pop song entitle &amp;#34;9/11 Building 7.&amp;#34; He's also put together an excellent video that views the World Trade Center collapse in the context of the long history of worldwide false flag events to start wars."
     channeltitle "Wayne Coste"
     channelid "UCAIBvrNSUYJDjOCRi-c8csw"
     favcount 0
@@ -2620,7 +4732,29 @@ graph
     ppprofanity 0.080394976
     ppinflammatory 0.0050361874
     sentiment 0
-    cluster 2
+    cluster 4
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -2629,7 +4763,7 @@ graph
     step 0
     date "2007-10-08T20:15:07Z"
     title "WTC7 - World Trade Center Building 7 on History Channel"
-    description "Re-encoded Xenomorph911's download of WTC7 to 320x240 framebased XviD (audio removed).&#13;&#10;&#13;&#10;You can find his original high quality 640x480 at :&#13;&#10;&#13;&#10;http://www.megaupload.com/?d=8QY2IHVR&#13;&#10;&#13;&#10;On YouTube at :&#13;&#10;&#13;&#10;http://www.youtube.com/watch?v=QhCf-gAhOCw&#13;&#10;&#13;&#10;Please watch Xenomorph911's great selection of 9/11 Truth videos at :&#13;&#10;&#13;&#10;http://www.youtube.com/user/Xenomorph911&#13;&#10;&#13;&#10;---&#13;&#10;&#13;&#10;To know more about 9/11, please visit...&#13;&#10;&#13;&#10;- http://www.911blogger.com/&#13;&#10;- http://www.pilotsfor911truth.org/&#13;&#10;- http://loosechange911.com&#13;&#10;- http://thepentacon.com/&#13;&#10;&#13;&#10;There are many others, including...&#13;&#10;&#13;&#10;Architects &#38; Engineers for 9/11 Truth&#13;&#10;http://www.ae911truth.org/&#13;&#10;--&#13;&#10;Scholars for 9/11 Truth &#38; Justice&#13;&#10;http://stj911.org/&#13;&#10;--&#13;&#10;Senior Military, Intelligence, Law Enforcement and Government Officials Question the 9/11 Commission Report&#13;&#10;http://patriotsquestion911.com/&#13;&#10;&#13;&#10;--- Thanks and best wishes"
+    description "Re-encoded Xenomorph911's download of WTC7 to 320x240 framebased XviD (audio removed).&amp;#13;&amp;#10;&amp;#13;&amp;#10;You can find his original high quality 640x480 at :&amp;#13;&amp;#10;&amp;#13;&amp;#10;http://www.megaupload.com/?d=8QY2IHVR&amp;#13;&amp;#10;&amp;#13;&amp;#10;On YouTube at :&amp;#13;&amp;#10;&amp;#13;&amp;#10;http://www.youtube.com/watch?v=QhCf-gAhOCw&amp;#13;&amp;#10;&amp;#13;&amp;#10;Please watch Xenomorph911's great selection of 9/11 Truth videos at :&amp;#13;&amp;#10;&amp;#13;&amp;#10;http://www.youtube.com/user/Xenomorph911&amp;#13;&amp;#10;&amp;#13;&amp;#10;---&amp;#13;&amp;#10;&amp;#13;&amp;#10;To know more about 9/11, please visit...&amp;#13;&amp;#10;&amp;#13;&amp;#10;- http://www.911blogger.com/&amp;#13;&amp;#10;- http://www.pilotsfor911truth.org/&amp;#13;&amp;#10;- http://loosechange911.com&amp;#13;&amp;#10;- http://thepentacon.com/&amp;#13;&amp;#10;&amp;#13;&amp;#10;There are many others, including...&amp;#13;&amp;#10;&amp;#13;&amp;#10;Architects &amp;#38; Engineers for 9/11 Truth&amp;#13;&amp;#10;http://www.ae911truth.org/&amp;#13;&amp;#10;--&amp;#13;&amp;#10;Scholars for 9/11 Truth &amp;#38; Justice&amp;#13;&amp;#10;http://stj911.org/&amp;#13;&amp;#10;--&amp;#13;&amp;#10;Senior Military, Intelligence, Law Enforcement and Government Officials Question the 9/11 Commission Report&amp;#13;&amp;#10;http://patriotsquestion911.com/&amp;#13;&amp;#10;&amp;#13;&amp;#10;--- Thanks and best wishes"
     channeltitle "911veritas"
     channelid "UC9Nwy5gypl5Ci3VGkT91IUg"
     favcount 0
@@ -2647,7 +4781,29 @@ graph
     ppprofanity 0.02560424
     ppinflammatory 0.26369184
     sentiment 0
-    cluster 4
+    cluster 3
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -2656,7 +4812,7 @@ graph
     step 0
     date "2015-11-26T01:59:30Z"
     title "World Trade Center Building 7 Evaluation Introduction"
-    description "http://WTC7Evaluation.org &#10;&#10;World Trade Center Building 7 Evaluation is an engineering study at the University of Alaska Fairbanks (UAF) using finite element modeling to evaluate the possible causes of World Trade Center Building 7&#8217;s collapse. The study is being conducted by Dr. J. Leroy Hulsey, Chair of UAF's Civil and Environmental Engineering Department, and two Ph.D. research assistants. Professionals from the fields of structural engineering, civil engineering, mechanical engineering, architecture, building design and construction, physics, math, and science, as well as everyday citizens, are invited to get involved. Every aspect of the scientific process will be posted onhttp://WTC7Evaluation.org. The study is being crowd-funded by the nonprofit organization Architects &#38; Engineers for 9/11 Truth.&#10;&#10;For more information visit http://WTC7Evaluation.org&#10;&#10;Subscribe to stay updated, and please share with your colleagues"
+    description "http://WTC7Evaluation.org &amp;#10;&amp;#10;World Trade Center Building 7 Evaluation is an engineering study at the University of Alaska Fairbanks (UAF) using finite element modeling to evaluate the possible causes of World Trade Center Building 7&amp;#8217;s collapse. The study is being conducted by Dr. J. Leroy Hulsey, Chair of UAF's Civil and Environmental Engineering Department, and two Ph.D. research assistants. Professionals from the fields of structural engineering, civil engineering, mechanical engineering, architecture, building design and construction, physics, math, and science, as well as everyday citizens, are invited to get involved. Every aspect of the scientific process will be posted onhttp://WTC7Evaluation.org. The study is being crowd-funded by the nonprofit organization Architects &amp;#38; Engineers for 9/11 Truth.&amp;#10;&amp;#10;For more information visit http://WTC7Evaluation.org&amp;#10;&amp;#10;Subscribe to stay updated, and please share with your colleagues"
     channeltitle "AE911Truth"
     channelid "UCL-c_zvZ3lhlU7NU1ikxgmQ"
     favcount 0
@@ -2674,7 +4830,29 @@ graph
     ppprofanity 0.041383978
     ppinflammatory 0.102684364
     sentiment 0
-    cluster 2
+    cluster 4
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -2701,7 +4879,29 @@ graph
     ppprofanity 0.31277445
     ppinflammatory 0.12909509
     sentiment 0
-    cluster 8
+    cluster 2
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -2728,7 +4928,29 @@ graph
     ppprofanity 0.13729778
     ppinflammatory 0.19968176
     sentiment -0.4939
-    cluster 3
+    cluster 1
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -2737,7 +4959,7 @@ graph
     step 0
     date "2020-04-19T15:17:42Z"
     title "9 11 Building 7 Collapse. Explosions and close-up."
-    description "Building 7 was the first steel framed skyscraper in history to be brought down purely by fire (according to the government, burning office furnishings caused the collapse).  No aircraft came near the building. Other steel-framed skyscrapers have experienced far more serious fires than Building 7.&#10;WTC 7 fell straight down, which necessitated that all of the load-bearing columns be broken at the same moment. Inflicting such damage with the precision required to prevent a building from toppling and damaging adjacent buildings is what the science of controlled demolition is all about. No random events, such as the debris damage and fires envisioned by the official reports, or explosions from fuel tanks proposed by some, could be expected to result in such a tidy and complete collapse.&#10;WTC 7 fell precipitously, at a rate closely approaching the speed of gravitational free-fall. That necessitated the sudden removal of structure near ground level that would have impeded its descent.&#10;The collapse of WTC 7 exhibited all of the features of a standard controlled demolition. To suppose that a cause other than controlled demolition could produce an event with all of the features uniquely characteristic of controlled demolition defies logic."
+    description "Building 7 was the first steel framed skyscraper in history to be brought down purely by fire (according to the government, burning office furnishings caused the collapse).  No aircraft came near the building. Other steel-framed skyscrapers have experienced far more serious fires than Building 7.&amp;#10;WTC 7 fell straight down, which necessitated that all of the load-bearing columns be broken at the same moment. Inflicting such damage with the precision required to prevent a building from toppling and damaging adjacent buildings is what the science of controlled demolition is all about. No random events, such as the debris damage and fires envisioned by the official reports, or explosions from fuel tanks proposed by some, could be expected to result in such a tidy and complete collapse.&amp;#10;WTC 7 fell precipitously, at a rate closely approaching the speed of gravitational free-fall. That necessitated the sudden removal of structure near ground level that would have impeded its descent.&amp;#10;The collapse of WTC 7 exhibited all of the features of a standard controlled demolition. To suppose that a cause other than controlled demolition could produce an event with all of the features uniquely characteristic of controlled demolition defies logic."
     channeltitle "Waking up the World"
     channelid "UCl4QVzxRmSHK2hScoNglk9Q"
     favcount 0
@@ -2755,7 +4977,29 @@ graph
     ppprofanity 0.13437524
     ppinflammatory 0.2672172
     sentiment -0.4939
-    cluster 3
+    cluster 1
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -2782,7 +5026,29 @@ graph
     ppprofanity 0.069857344
     ppinflammatory 0.12499331
     sentiment 0
-    cluster 5
+    cluster 2
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -2791,7 +5057,7 @@ graph
     step 0
     date "2012-08-31T02:22:23Z"
     title "WTC 7 Freefall - World Trade Center Building 7 Collapse"
-    description "Most people have never seen footage of WTC Building 7's notorious freefall collapse on September 11, 2001. It was only broadcast a few times on that tragic day. In 2013, polls suggest that when people see the footage of its collapse many suspect it was a controlled demolition. Over 3000 licensed and professional architects and engineers are calling for a new investigation of World Trade Center Building 7 and the Twin Towers (WTC 1 and WTC 2) at Architects &#38; Engineers For 9/11 Truth. There are professional and general public petitions being signed there at www.ae911truth.org. The YouGov poll information is available here: https://yougov.co.uk/news/2013/09/12/new-poll-finds-most-americans-open-alternative-911&#10;&#10;Subscribe to the channel here for more videos and updates, including this &#34;Most Watched&#34; and &#34;Most Shared&#34; 9/11 documentary broadcast on public television in Colorado and through the PBS national website when it was released in 2012:&#10;https://youtu.be/1l-8PFk8j5I&#10;&#10;Check out WTC 7 Evaluation with Dr. Leroy Hulsey at the University of Alaska Fairbanks for updates on his breakthrough finite element analysis report of WTC Building 7. Using advanced mathematics, he and two of his PhD students are using two different software systems to examine and calculate all of the possibilities which could explain WTC 7's symmetrical, freefall collapse into its own footprint at 5:20pm on 9/11:&#10;http://www.wtc7evaluation.org&#10;Project trailer on YouTube:&#10;https://youtu.be/C-VNjYXU-CE"
+    description "Most people have never seen footage of WTC Building 7's notorious freefall collapse on September 11, 2001. It was only broadcast a few times on that tragic day. In 2013, polls suggest that when people see the footage of its collapse many suspect it was a controlled demolition. Over 3000 licensed and professional architects and engineers are calling for a new investigation of World Trade Center Building 7 and the Twin Towers (WTC 1 and WTC 2) at Architects &amp;#38; Engineers For 9/11 Truth. There are professional and general public petitions being signed there at www.ae911truth.org. The YouGov poll information is available here: https://yougov.co.uk/news/2013/09/12/new-poll-finds-most-americans-open-alternative-911&amp;#10;&amp;#10;Subscribe to the channel here for more videos and updates, including this &amp;#34;Most Watched&amp;#34; and &amp;#34;Most Shared&amp;#34; 9/11 documentary broadcast on public television in Colorado and through the PBS national website when it was released in 2012:&amp;#10;https://youtu.be/1l-8PFk8j5I&amp;#10;&amp;#10;Check out WTC 7 Evaluation with Dr. Leroy Hulsey at the University of Alaska Fairbanks for updates on his breakthrough finite element analysis report of WTC Building 7. Using advanced mathematics, he and two of his PhD students are using two different software systems to examine and calculate all of the possibilities which could explain WTC 7's symmetrical, freefall collapse into its own footprint at 5:20pm on 9/11:&amp;#10;http://www.wtc7evaluation.org&amp;#10;Project trailer on YouTube:&amp;#10;https://youtu.be/C-VNjYXU-CE"
     channeltitle "Francis Battaglia"
     channelid "UCUf5rYCAnI0Mg5trbmWEkSQ"
     favcount 0
@@ -2809,7 +5075,29 @@ graph
     ppprofanity 0.08453592
     ppinflammatory 0.43668368
     sentiment -0.4939
-    cluster 7
+    cluster 1
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -2818,7 +5106,7 @@ graph
     step 0
     date "2020-04-17T20:28:03Z"
     title "SEVEN Official Teaser (2020) | World Trade Center Building 7"
-    description "&#8220;SEVEN&#8221; is a documentary about the extraordinary conclusions of the University of Alaska Fairbanks study on the destruction of World Trade Center Building 7 and the epic failure of our institutions to tell the truth.&#10;&#10;Subscribe for updates on the upcoming release of the film. For more information and to receive email updates, visit https://AE911Truth.org.&#10;&#10;Make a gift to help promote the film&#8217;s release.&#10;https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&#38;hosted_button_id=HHJ5MTUWJW4PQ&#38;source=url"
+    description "&amp;#8220;SEVEN&amp;#8221; is a documentary about the extraordinary conclusions of the University of Alaska Fairbanks study on the destruction of World Trade Center Building 7 and the epic failure of our institutions to tell the truth.&amp;#10;&amp;#10;Subscribe for updates on the upcoming release of the film. For more information and to receive email updates, visit https://AE911Truth.org.&amp;#10;&amp;#10;Make a gift to help promote the film&amp;#8217;s release.&amp;#10;https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;#38;hosted_button_id=HHJ5MTUWJW4PQ&amp;#38;source=url"
     channeltitle "AE911Truth"
     channelid "UCL-c_zvZ3lhlU7NU1ikxgmQ"
     favcount 0
@@ -2836,7 +5124,29 @@ graph
     ppprofanity 0.045323227
     ppinflammatory 0.076051235
     sentiment -0.25
-    cluster 1
+    cluster 2
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -2863,7 +5173,29 @@ graph
     ppprofanity 0.08046756
     ppinflammatory 0.07380345
     sentiment -0.6486
-    cluster 4
+    cluster 3
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -2872,7 +5204,7 @@ graph
     step 0
     date "2009-09-08T21:28:05Z"
     title "9/11: Caught on Tape: WTC Building 7 Damaged by Falling Debris from Twin Towers (Earlier Version)"
-    description "NEW VERSION AT    /watch?v=nEgPNNcdtu4&#13;&#10;&#13;&#10;This ABC News Video from 9/11 shows damage to the upper floors of WTC7, from debris falling from the collapse of the WTC twin towers.  Far greater damage down near the street is NOT visible from this angle with smoke.  However, this proves that WTC Bldg 7 was struck by debris from the WTC twin towers collapse.   SEE UPDATED VERSION    http://www.youtube.com/watch?v=p3_wCKwPAlo"
+    description "NEW VERSION AT    /watch?v=nEgPNNcdtu4&amp;#13;&amp;#10;&amp;#13;&amp;#10;This ABC News Video from 9/11 shows damage to the upper floors of WTC7, from debris falling from the collapse of the WTC twin towers.  Far greater damage down near the street is NOT visible from this angle with smoke.  However, this proves that WTC Bldg 7 was struck by debris from the WTC twin towers collapse.   SEE UPDATED VERSION    http://www.youtube.com/watch?v=p3_wCKwPAlo"
     channeltitle "JonathonMoseley"
     channelid "UCEnUwXx5OQCbJdOYMmucB5Q"
     favcount 0
@@ -2890,7 +5222,29 @@ graph
     ppprofanity 0.052587833
     ppinflammatory 0.26741466
     sentiment -0.5423
-    cluster 3
+    cluster 8
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -2917,7 +5271,29 @@ graph
     ppprofanity 0.17485867
     ppinflammatory 0.010525752
     sentiment -0.4939
-    cluster 7
+    cluster 3
+    leftright "R"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 1
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -2944,7 +5320,29 @@ graph
     ppprofanity 0.08275999
     ppinflammatory 0.26398245
     sentiment 0.296
-    cluster 3
+    cluster 1
+    leftright "R"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 1
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -2971,7 +5369,29 @@ graph
     ppprofanity 0.13289674
     ppinflammatory 0.4404486
     sentiment 0
-    cluster 5
+    cluster 6
+    leftright "R"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 1
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -2980,7 +5400,7 @@ graph
     step 0
     date "2014-09-10T17:00:39Z"
     title "building 7 collapse video (9/11 NYC Digital Billboard Ad 2014 mock-up)"
-    description "WTC 7 Collapse Video mock-up digital billboard ad, September 2014.&#10;&#10;This skyscraper collapsed in free fall at 5:20pm on 9/11. Share this, and learn more at http://rethink911.org"
+    description "WTC 7 Collapse Video mock-up digital billboard ad, September 2014.&amp;#10;&amp;#10;This skyscraper collapsed in free fall at 5:20pm on 9/11. Share this, and learn more at http://rethink911.org"
     channeltitle "Francis Battaglia"
     channelid "UCUf5rYCAnI0Mg5trbmWEkSQ"
     favcount 0
@@ -2998,7 +5418,29 @@ graph
     ppprofanity 0.1844791
     ppinflammatory 0.23511867
     sentiment -0.4939
-    cluster 5
+    cluster 2
+    leftright "R"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 1
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -3007,7 +5449,7 @@ graph
     step 0
     date "2021-09-06T16:21:52Z"
     title "Building 7 Explained: Comprehensive Final Edition"
-    description "The last word on the collapse of the original 7 World Trade Center on September 11, 2001. Running down the mainstream engineering explanation, debunking common Truther myths, and answering frequently asked questions. Comments may be intentionally demolished...make your own video if you want to spread misinformation about this engineering disaster, or about anything else.&#10;&#10;Interesting video #1: ABC News reports some time in the afternoon that 7 World Trade Center is expected to collapse due to fire: https://youtu.be/vrSCQeJb2CI?t=20&#10;&#10;Interesting video #2: Building 7 collapses in the background during a live interview. Notice how the sight of the building coming down startles people, but no one seemed to notice any sounds from demolition detonations that were supposedly taking down what would be the tallest building ever imploded in the world. Also this angle gives you a good idea of the height of Building 7 &#8212; it was a very tall office building by any city's standards. (Warning to sensitive viewers, emotionally intense) https://www.youtube.com/watch?v=_5XAUUnBYpY&#10;&#10;Thank you for supporting me on Patreon: http://patreon.com/edwardcurrent"
+    description "The last word on the collapse of the original 7 World Trade Center on September 11, 2001. Running down the mainstream engineering explanation, debunking common Truther myths, and answering frequently asked questions. Comments may be intentionally demolished...make your own video if you want to spread misinformation about this engineering disaster, or about anything else.&amp;#10;&amp;#10;Interesting video #1: ABC News reports some time in the afternoon that 7 World Trade Center is expected to collapse due to fire: https://youtu.be/vrSCQeJb2CI?t=20&amp;#10;&amp;#10;Interesting video #2: Building 7 collapses in the background during a live interview. Notice how the sight of the building coming down startles people, but no one seemed to notice any sounds from demolition detonations that were supposedly taking down what would be the tallest building ever imploded in the world. Also this angle gives you a good idea of the height of Building 7 &amp;#8212; it was a very tall office building by any city's standards. (Warning to sensitive viewers, emotionally intense) https://www.youtube.com/watch?v=_5XAUUnBYpY&amp;#10;&amp;#10;Thank you for supporting me on Patreon: http://patreon.com/edwardcurrent"
     channeltitle "EdwardCurrent"
     channelid "UC20U2rjFhakOCOlvJn0MAGg"
     favcount 0
@@ -3025,7 +5467,29 @@ graph
     ppprofanity 0.027690848
     ppinflammatory 0.019715566
     sentiment 0.25
-    cluster 2
+    cluster 4
+    leftright "R"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 1
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -3052,7 +5516,29 @@ graph
     ppprofanity 0.049949523
     ppinflammatory 0.22606605
     sentiment -0.4939
-    cluster 7
+    cluster 9
+    leftright "R"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 1
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -3061,7 +5547,7 @@ graph
     step 0
     date "2017-01-17T09:55:17Z"
     title "9/11 Building 7 Controlled Demolition Compilation 100% Proof"
-    description "Here's a compilation of the building 7 controlled demolition or &#34;collapse&#34; that occurred on 9/11. The official narrative is that a fire was burning inside this building and this is the reason it collapsed. I call bullshit, this looks identical to a controlled demolition."
+    description "Here's a compilation of the building 7 controlled demolition or &amp;#34;collapse&amp;#34; that occurred on 9/11. The official narrative is that a fire was burning inside this building and this is the reason it collapsed. I call bullshit, this looks identical to a controlled demolition."
     channeltitle "Official Narrative Questioned"
     channelid "UCD0tggCOYPjmzBizldLsb0w"
     favcount 0
@@ -3079,7 +5565,29 @@ graph
     ppprofanity 0.054803487
     ppinflammatory 0.14001906
     sentiment 0
-    cluster 4
+    cluster 3
+    leftright "R"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 1
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -3088,7 +5596,7 @@ graph
     step 0
     date "2019-09-11T12:25:30Z"
     title "(HD) Building 7 Collapse / WTC7 Collapse / World Trade Center Building 7"
-    description "9/11/01-9/11/19&#10;&#10;18th Anniversary of America's Fascist Coup&#10;&#10;#WTC7 #Building7 #WorldTradeCenter #September11 #AE911Truth #building7collapse&#10;&#10;AE911Truth.org (Architects and Engineers for 9/11 Truth)"
+    description "9/11/01-9/11/19&amp;#10;&amp;#10;18th Anniversary of America's Fascist Coup&amp;#10;&amp;#10;#WTC7 #Building7 #WorldTradeCenter #September11 #AE911Truth #building7collapse&amp;#10;&amp;#10;AE911Truth.org (Architects and Engineers for 9/11 Truth)"
     channeltitle "ThisWeekInFascism"
     channelid "UCifMC6kFVQcYeU6QBOK-wZg"
     favcount 0
@@ -3106,7 +5614,29 @@ graph
     ppprofanity 0.046623588
     ppinflammatory 0.14615047
     sentiment -0.7506
-    cluster 1
+    cluster 2
+    leftright "R"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 1
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -3115,7 +5645,7 @@ graph
     step 0
     date "2012-12-26T00:40:33Z"
     title "WKAJ TV Trailer - The Men In Building 7"
-    description "The most taboo subject in corporate media history, 9/11. In the Salomon Brothers Building, also known as WTC Building 7, there was an emergency bunker for the mayor and a bomb proof command center on the 23rd floor. A Case of AWOL or honest mistakes?&#10;Thanks to Josh Woodward for the perfectly timed piece to this trailer."
+    description "The most taboo subject in corporate media history, 9/11. In the Salomon Brothers Building, also known as WTC Building 7, there was an emergency bunker for the mayor and a bomb proof command center on the 23rd floor. A Case of AWOL or honest mistakes?&amp;#10;Thanks to Josh Woodward for the perfectly timed piece to this trailer."
     channeltitle "WKAJ TV"
     channelid "UCTjNx2MU2ZSFd4_LgvlIjBA"
     favcount 0
@@ -3133,7 +5663,29 @@ graph
     ppprofanity 0.09533629
     ppinflammatory 0.5097777
     sentiment 0
-    cluster 3
+    cluster 1
+    leftright "R"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 1
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -3142,7 +5694,7 @@ graph
     step 0
     date "2022-06-30T07:45:57Z"
     title "9/11: An Architects Guide Part 1 - Building 7 (11/2/21) [TRUNCATED - SEE DESCRIPTION]"
-    description "[[[   IMPORTANT NOTE: YouTube has removed our channels unpredictably, citing &#34;hate speech&#34; while offering no specifics. We have trimmed this video down to a short teaser to discourage YouTube from censoring it. Watch this complete video on Rokfin: https://www.rokfin.com/post/87864/911-An-Architects-Guide--Part-1-World-Trade-Center-7-11221-webinar--R-Gage or on our other video platforms: https://richardgage911.org/#platform-icons   ]]]&#10;&#10;&#10;9/11: An Architect&#8217;s Guide | Part 1 - World Trade Center 7&#10;Course Number: RG911-AAG-OD1&#10;&#10;Live three-part webinar series. Each part is about 1 1/2 hours long&#10;&#10;Richard Gage, AIA, Architect is dedicated to conducting research and providing education about the complete destruction of the three World Trade Center skyscrapers, my courses provide the technical knowledge and analytical framework with which to evaluate the most likely cause of those building failures.&#10;&#10;Course Description:&#10;&#10;In Part 1 of &#8220;9/11: An Architect&#8217;s Guide,&#8221; Richard Gage, AIA, provides an overview of the most important evidence regarding the destruction of World Trade Center Building 7 (WTC 7), a 47-story high-rise that was not struck by an airplane.&#10;The damage WTC 7 suffered from the collapse of the North Tower was found to be inconsequential. It had fires that were similar to those that have occurred previously in high-rise buildings. Yet it fell symmetrically into its own footprint in the manner of a typical controlled demolition.&#10;In 2008, the National Institute of Standards and Technology (NIST) concluded that WTC 7&#8217;s destruction was caused by normal office fires that burned &#8220;at temperatures hundreds of degrees below those typically considered in design practice for establishing structural fire resistance ratings.&#8221;&#10;Is NIST&#8217;s explanation for this unprecedented structural failure valid? Decide for yourself after watching this informative one-hour presentation. Using the information presented, you will be able to evaluate which of the two hypotheses &#8212; fire-induced failure or controlled demolition &#8212; is more consistent with the evidence.&#10;&#10;Learning Objectives:&#10;&#10;Participants will be able to:&#10;1. Describe the characteristics of building fires and the aspects of high-rise design that contribute to make fire-induced failure in steel-framed high-rise buildings a rare occurrence.&#10;2. Recognize the distinct features associated with fire-induced failure and the distinct features associated with the procedure of controlled demolition.&#10;3. Describe step-by-step the series of structural failures that the National Institute of Standards and Technology found to be the most likely cause of the collapse of World Trade Center Building 7.&#10;4. Analyze the physical evidence and dynamics of Building 7&#8217;s collapse according to how consistent they are with the competing hypotheses of fire-induced failure and controlled demolition.&#10;&#10;For more information: visit https://RichardGage911.org&#8203;&#10;&#8203;&#10;Content Managed by ContentSafe.co"
+    description "[[[   IMPORTANT NOTE: YouTube has removed our channels unpredictably, citing &amp;#34;hate speech&amp;#34; while offering no specifics. We have trimmed this video down to a short teaser to discourage YouTube from censoring it. Watch this complete video on Rokfin: https://www.rokfin.com/post/87864/911-An-Architects-Guide--Part-1-World-Trade-Center-7-11221-webinar--R-Gage or on our other video platforms: https://richardgage911.org/#platform-icons   ]]]&amp;#10;&amp;#10;&amp;#10;9/11: An Architect&amp;#8217;s Guide | Part 1 - World Trade Center 7&amp;#10;Course Number: RG911-AAG-OD1&amp;#10;&amp;#10;Live three-part webinar series. Each part is about 1 1/2 hours long&amp;#10;&amp;#10;Richard Gage, AIA, Architect is dedicated to conducting research and providing education about the complete destruction of the three World Trade Center skyscrapers, my courses provide the technical knowledge and analytical framework with which to evaluate the most likely cause of those building failures.&amp;#10;&amp;#10;Course Description:&amp;#10;&amp;#10;In Part 1 of &amp;#8220;9/11: An Architect&amp;#8217;s Guide,&amp;#8221; Richard Gage, AIA, provides an overview of the most important evidence regarding the destruction of World Trade Center Building 7 (WTC 7), a 47-story high-rise that was not struck by an airplane.&amp;#10;The damage WTC 7 suffered from the collapse of the North Tower was found to be inconsequential. It had fires that were similar to those that have occurred previously in high-rise buildings. Yet it fell symmetrically into its own footprint in the manner of a typical controlled demolition.&amp;#10;In 2008, the National Institute of Standards and Technology (NIST) concluded that WTC 7&amp;#8217;s destruction was caused by normal office fires that burned &amp;#8220;at temperatures hundreds of degrees below those typically considered in design practice for establishing structural fire resistance ratings.&amp;#8221;&amp;#10;Is NIST&amp;#8217;s explanation for this unprecedented structural failure valid? Decide for yourself after watching this informative one-hour presentation. Using the information presented, you will be able to evaluate which of the two hypotheses &amp;#8212; fire-induced failure or controlled demolition &amp;#8212; is more consistent with the evidence.&amp;#10;&amp;#10;Learning Objectives:&amp;#10;&amp;#10;Participants will be able to:&amp;#10;1. Describe the characteristics of building fires and the aspects of high-rise design that contribute to make fire-induced failure in steel-framed high-rise buildings a rare occurrence.&amp;#10;2. Recognize the distinct features associated with fire-induced failure and the distinct features associated with the procedure of controlled demolition.&amp;#10;3. Describe step-by-step the series of structural failures that the National Institute of Standards and Technology found to be the most likely cause of the collapse of World Trade Center Building 7.&amp;#10;4. Analyze the physical evidence and dynamics of Building 7&amp;#8217;s collapse according to how consistent they are with the competing hypotheses of fire-induced failure and controlled demolition.&amp;#10;&amp;#10;For more information: visit https://RichardGage911.org&amp;#8203;&amp;#10;&amp;#8203;&amp;#10;Content Managed by ContentSafe.co"
     channeltitle "RichardGage911WTC"
     channelid "UCxf4b9mDWZf-TXw2y3X-zug"
     favcount 0
@@ -3160,7 +5712,29 @@ graph
     ppprofanity 0.09716927
     ppinflammatory 0.005000001
     sentiment 0
-    cluster 4
+    cluster 5
+    leftright "R"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 1
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -3169,7 +5743,7 @@ graph
     step 0
     date "2022-04-29T00:01:21Z"
     title "Structural engineer Larry Cooper gets standing ovation presenting Building 7 to local ASCE group"
-    description "This week on 9/11 Free Fall, retired structural engineer Larry Cooper joins host Andy Steele to give an update on the presentation he made last week to the SunCoast Branch of the Florida Section of the American Society of Civil Engineers.&#10;&#10;Larry spoke to the group about the collapse of World Trade Center Building 7 and the 2020 University of Alaska Fairbanks report. He received a standing ovation from the 22 engineers in attendance, two-thirds of whom had not previously heard of Building 7.&#10;&#10;Hear all about Larry&#8217;s experience on this week&#8217;s episode of 9/11 Free Fall.&#10;&#10;To learn more, visit https://AE911Truth.org."
+    description "This week on 9/11 Free Fall, retired structural engineer Larry Cooper joins host Andy Steele to give an update on the presentation he made last week to the SunCoast Branch of the Florida Section of the American Society of Civil Engineers.&amp;#10;&amp;#10;Larry spoke to the group about the collapse of World Trade Center Building 7 and the 2020 University of Alaska Fairbanks report. He received a standing ovation from the 22 engineers in attendance, two-thirds of whom had not previously heard of Building 7.&amp;#10;&amp;#10;Hear all about Larry&amp;#8217;s experience on this week&amp;#8217;s episode of 9/11 Free Fall.&amp;#10;&amp;#10;To learn more, visit https://AE911Truth.org."
     channeltitle "AE911Truth"
     channelid "UCL-c_zvZ3lhlU7NU1ikxgmQ"
     favcount 0
@@ -3187,7 +5761,29 @@ graph
     ppprofanity 0.03839866
     ppinflammatory 0.086222894
     sentiment 0
-    cluster 2
+    cluster 4
+    leftright "R"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 1
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -3214,7 +5810,29 @@ graph
     ppprofanity 0.07889187
     ppinflammatory 0.15076858
     sentiment -0.4939
-    cluster 5
+    cluster 2
+    leftright "R"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 1
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -3241,7 +5859,29 @@ graph
     ppprofanity 0.019143838
     ppinflammatory 0.15342449
     sentiment -0.6808
-    cluster 8
+    cluster 2
+    leftright "R"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 1
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -3250,7 +5890,7 @@ graph
     step 0
     date "2016-08-20T14:24:32Z"
     title "9:45 New Footage Of 9 11 With police saying building 7 will fall next before it fell"
-    description "At 9:45 in this video the police officer states that the 3rd building is going to fall down next. He said this before it fell and no plane hit it, so why did he say this and how did he know?&#10;There was no way for this officer to know that a third building would fall but he did and they have it on video."
+    description "At 9:45 in this video the police officer states that the 3rd building is going to fall down next. He said this before it fell and no plane hit it, so why did he say this and how did he know?&amp;#10;There was no way for this officer to know that a third building would fall but he did and they have it on video."
     channeltitle "Reality Decoded"
     channelid "UCKVTP_4gllRRWlyBS_XOn4w"
     favcount 0
@@ -3269,6 +5909,28 @@ graph
     ppinflammatory 0.148129
     sentiment 0
     cluster 8
+    leftright "R"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 1
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -3295,7 +5957,29 @@ graph
     ppprofanity 0.07686937
     ppinflammatory 0.03255748
     sentiment 0
-    cluster 2
+    cluster 4
+    leftright "R"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 1
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -3322,7 +6006,29 @@ graph
     ppprofanity 0.047918987
     ppinflammatory 0.13661978
     sentiment -0.6908
-    cluster 7
+    cluster 3
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -3331,7 +6037,7 @@ graph
     step 0
     date "2013-03-23T22:37:21Z"
     title "WTC 9/11 Building 7 - CLEARLY DETONATED! 2013 NEW FOOTAGE OF EXPLOSIONS!"
-    description "BUILDING SEVEN DETONATED.. NEW FOOTAGE.. MAKE VIRAL ALL!!!!&#10;&#10;MAKE VIRAL ALL!!"
+    description "BUILDING SEVEN DETONATED.. NEW FOOTAGE.. MAKE VIRAL ALL!!!!&amp;#10;&amp;#10;MAKE VIRAL ALL!!"
     channeltitle "TheGoldenAgeOfUs"
     channelid "UCZ9GoO534PwljBp-FHuLYaw"
     favcount 0
@@ -3349,7 +6055,29 @@ graph
     ppprofanity 0.10299203
     ppinflammatory 0.3119741
     sentiment 0.4019
-    cluster 7
+    cluster 3
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -3376,7 +6104,29 @@ graph
     ppprofanity 0.055657607
     ppinflammatory 0.020635583
     sentiment 0
-    cluster 2
+    cluster 4
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -3385,7 +6135,7 @@ graph
     step 0
     date "2022-07-03T02:59:04Z"
     title "Raw Unfiltered Building 7 Control Demolition"
-    description "#WTC7 #unfiltered  &#10;FOX recording looks different from all other recordings of Building 7 Control Demolition &#10;&#10;Fox recording of Building 7 Collapse actually looks different then all other WTC7 Building 7 Collapse because no pause is seen between the penthouse and the main body. Fox Predicts WTC7 Building 7 Collapse Fox&#10;&#10;https://youtu.be/mw1nK8Rrag0&#10;&#10;BBC&#10;&#10;https://youtu.be/MaX1fNkS8Ac&#10;SS: FOX NEWS recording looks like the only recording without edits, pauses or other issues designed to dupe the public. It is raw unfiltered truth.&#10;&#10;FOX (WTTG) 9-11- 2001 News Coverage 5:00 PM - 6:00 PM&#10;https://youtu.be/U0QKOS1qCGU?t=1628"
+    description "#WTC7 #unfiltered  &amp;#10;FOX recording looks different from all other recordings of Building 7 Control Demolition &amp;#10;&amp;#10;Fox recording of Building 7 Collapse actually looks different then all other WTC7 Building 7 Collapse because no pause is seen between the penthouse and the main body. Fox Predicts WTC7 Building 7 Collapse Fox&amp;#10;&amp;#10;https://youtu.be/mw1nK8Rrag0&amp;#10;&amp;#10;BBC&amp;#10;&amp;#10;https://youtu.be/MaX1fNkS8Ac&amp;#10;SS: FOX NEWS recording looks like the only recording without edits, pauses or other issues designed to dupe the public. It is raw unfiltered truth.&amp;#10;&amp;#10;FOX (WTTG) 9-11- 2001 News Coverage 5:00 PM - 6:00 PM&amp;#10;https://youtu.be/U0QKOS1qCGU?t=1628"
     channeltitle "Rare 9/11 Facts"
     channelid "UCOch_SItPku1FqXKLMe9lqg"
     favcount 0
@@ -3403,7 +6153,29 @@ graph
     ppprofanity 0.06824608
     ppinflammatory 0.19324204
     sentiment 0
-    cluster 1
+    cluster 2
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -3412,7 +6184,7 @@ graph
     step 0
     date "2020-10-19T20:20:21Z"
     title "Lights, Camera, Building 7 | Justice Rising: 9/11 in 2020"
-    description "Day 2 of the &#34;Justice Rising&#34; conference on Sept. 12, 2020, started with a close look at the soon-to-be-released AE911Truth documentary SEVEN with director Dylan Avery, producer Kelly David, and Dr. Leroy Hulsey, whose study on Building 7 is the subject of the film.&#10;&#10;For more information, visit https://www.ae911truth.org/news/679-ae911truth-releases-teaser-for-much-anticipated-building-7-documentary."
+    description "Day 2 of the &amp;#34;Justice Rising&amp;#34; conference on Sept. 12, 2020, started with a close look at the soon-to-be-released AE911Truth documentary SEVEN with director Dylan Avery, producer Kelly David, and Dr. Leroy Hulsey, whose study on Building 7 is the subject of the film.&amp;#10;&amp;#10;For more information, visit https://www.ae911truth.org/news/679-ae911truth-releases-teaser-for-much-anticipated-building-7-documentary."
     channeltitle "AE911Truth"
     channelid "UCL-c_zvZ3lhlU7NU1ikxgmQ"
     favcount 0
@@ -3430,7 +6202,29 @@ graph
     ppprofanity 0.025666142
     ppinflammatory 0.15484639
     sentiment 0.5267
-    cluster 2
+    cluster 4
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -3439,7 +6233,7 @@ graph
     step 0
     date "2012-09-11T04:08:58Z"
     title "9/11 Never Forget (Building 7)"
-    description "&#9600;&#9608;&#9600; &#9608;&#9600; &#9608;_&#9608;&#65279; &#9600;&#9608;&#9600; &#9608;&#9644;&#9608; &#1071; &#926; &#8730; &#937; L U T &#8593; &#9788; N!&#10;The Injustice Report:&#10;https://twitter.com/InjusticeReport&#10;http://theinjusticereport.tumblr.com/ &#10;&#10;a montage of Building 7's collapse at free fall speed into its own footprint on 9/11. Featuring &#34;Crack in Time&#34; by Two Steps from Hell."
+    description "&amp;#9600;&amp;#9608;&amp;#9600; &amp;#9608;&amp;#9600; &amp;#9608;_&amp;#9608;&amp;#65279; &amp;#9600;&amp;#9608;&amp;#9600; &amp;#9608;&amp;#9644;&amp;#9608; &amp;#1071; &amp;#926; &amp;#8730; &amp;#937; L U T &amp;#8593; &amp;#9788; N!&amp;#10;The Injustice Report:&amp;#10;https://twitter.com/InjusticeReport&amp;#10;http://theinjusticereport.tumblr.com/ &amp;#10;&amp;#10;a montage of Building 7's collapse at free fall speed into its own footprint on 9/11. Featuring &amp;#34;Crack in Time&amp;#34; by Two Steps from Hell."
     channeltitle "Truth Be Known Revolution"
     channelid "UCECskPQNeG6ss33AVZOrhrw"
     favcount 0
@@ -3457,7 +6251,29 @@ graph
     ppprofanity 0.035736375
     ppinflammatory 0.13834594
     sentiment 0.1695
-    cluster 1
+    cluster 2
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -3485,6 +6301,28 @@ graph
     ppinflammatory 0.14339086
     sentiment -0.7269
     cluster 2
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -3493,7 +6331,7 @@ graph
     step 0
     date "2013-06-27T23:24:06Z"
     title "NPR: Questioning 9/11 WTC Building 7 collapse is "
-    description "NPR &#34;Talk of the Nation&#34; host Neal Conan invited listeners to call in and answer a simple question: &#34;What's the talk of the nation?&#34;  &#10;&#10;When an NPR listener called in to &#34;Talk of the Nation&#34; and segued from the topic of NSA domestic spying to raise questions about the collapse of World Trade Center Building 7 on September 11, 2001, host Neal Conan labeled the caller a &#34;truther&#34;.  &#10;&#10;Dismissing the listener's questions as &#34;scientific nonsense&#34;, Conan abruptly cut off the caller as he began to mention the name of an organization called &#34;Architects and Engineers for 9/11 Truth&#34;, telling the caller &#34;I'm hanging up now&#34;."
+    description "NPR &amp;#34;Talk of the Nation&amp;#34; host Neal Conan invited listeners to call in and answer a simple question: &amp;#34;What's the talk of the nation?&amp;#34;  &amp;#10;&amp;#10;When an NPR listener called in to &amp;#34;Talk of the Nation&amp;#34; and segued from the topic of NSA domestic spying to raise questions about the collapse of World Trade Center Building 7 on September 11, 2001, host Neal Conan labeled the caller a &amp;#34;truther&amp;#34;.  &amp;#10;&amp;#10;Dismissing the listener's questions as &amp;#34;scientific nonsense&amp;#34;, Conan abruptly cut off the caller as he began to mention the name of an organization called &amp;#34;Architects and Engineers for 9/11 Truth&amp;#34;, telling the caller &amp;#34;I'm hanging up now&amp;#34;."
     channeltitle "FreedomOfThePress IsNotFree"
     channelid "UCr78BTOtNEHXXzsDnBCqlKQ"
     favcount 0
@@ -3512,6 +6350,28 @@ graph
     ppinflammatory 0.029243315
     sentiment -0.5574
     cluster 8
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -3520,7 +6380,7 @@ graph
     step 0
     date "2019-09-15T06:21:16Z"
     title "Fire did not cause World Trade Center Building 7 collapse, UAF study suggests"
-    description "World Trade Center Building 7 was not struck by a plane, but collapsed hours after the twin towers on Sept. 11, 2001. A draft report released this week by researchers at UAF suggests that the fall was not a result of fires, despite the findings of the National Institute for Standards and Technology, an agency of the U.S. Department of Commerce, in 2008.&#10;&#10;The study was paid for by a group called Architects and Engineers for 9/11 Truth. The nonprofit is said to represent over 3,000 architects and engineers who have signed a petition calling on Congress to launch a new investigation into the destruction of the towers."
+    description "World Trade Center Building 7 was not struck by a plane, but collapsed hours after the twin towers on Sept. 11, 2001. A draft report released this week by researchers at UAF suggests that the fall was not a result of fires, despite the findings of the National Institute for Standards and Technology, an agency of the U.S. Department of Commerce, in 2008.&amp;#10;&amp;#10;The study was paid for by a group called Architects and Engineers for 9/11 Truth. The nonprofit is said to represent over 3,000 architects and engineers who have signed a petition calling on Congress to launch a new investigation into the destruction of the towers."
     channeltitle "Yngwie VanWinger"
     channelid "UC-_6VhdkAXLtPsDghS59rtA"
     favcount 0
@@ -3538,7 +6398,29 @@ graph
     ppprofanity 0.029676966
     ppinflammatory 0.16289249
     sentiment -0.6808
-    cluster 8
+    cluster 10
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -3565,7 +6447,29 @@ graph
     ppprofanity 0.028922036
     ppinflammatory 0.060020916
     sentiment 0
-    cluster 7
+    cluster 9
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -3592,7 +6496,29 @@ graph
     ppprofanity 0.07686937
     ppinflammatory 0.03255748
     sentiment 0
-    cluster 4
+    cluster 3
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -3601,7 +6527,7 @@ graph
     step 0
     date "2021-05-14T15:39:46Z"
     title "BBC Building 7 Had Collapsed 20 Minutes Before It Fell"
-    description "BBC   Building 7 Had Collapsed 20 Minutes Before It Fell&#10;An astounding video uncovered from the archives today shows the BBC reporting on the collapse of WTC Building 7 over twenty minutes before it fell at 5:20pm on the afternoon of 9/11. - https://www.dailymotion.com/video/xe4l4e&#10;The incredible footage shows BBC reporter Jane Standley talking about the collapse of the Salomon Brothers Building while it remains standing in the live shot behind her head. How did the BBC know that it was going to collapse? And why did they report the collapse when it is clearly standing in the background? - &#10;&#10;&#10;BBC Part of the conspiracy?&#10;Richard Porter | 17:12 UK time, Tuesday, 27 February 2007&#10;The 9/11 conspiracy theories are pretty well known by now. The BBC addressed them earlier this month with a documentary, The Conspiracy Files, shown within the UK.&#10;&#10;BBC World - Until now, I don't think we've been accused of being part of the conspiracy. But now some websites are using news footage from BBC World on September 11th 2001 to suggest we were actively participating in some sort of attempt to manipulate the audience. As a result, we're now getting lots of emails asking us to clarify our position. So here goes:&#10;&#10;1. We're not part of a conspiracy. Nobody told us what to say or do on September 11th. We didn't get told in advance that buildings were going to fall down. We didn't receive press releases or scripts in advance of events happening.&#10;&#10;2. In the chaos and confusion of the day, I'm quite sure we said things which turned out to be untrue or inaccurate - but at the time were based on the best information we had. We did what we always did - sourced our reports, used qualifying words like &#34;apparently&#34; or &#34;it's reported&#34; or &#34;we're hearing&#34; and constantly tried to check and double check the information we were receiving.&#10;&#10;An image of the website hosting the alleged BBC World footage3. Our reporter Jane Standley was in New York on the day of the attacks, and like everyone who was there, has the events seared on her mind. I've spoken to her today and unsurprisingly, she doesn't remember minute-by-minute what she said or did - like everybody else that day she was trying to make sense of what she was seeing; what she was being told; and what was being told to her by colleagues in London who were monitoring feeds and wires services.&#10;&#10;4. We no longer have the original tapes of our 9/11 coverage (for reasons of cock-up, not conspiracy). So if someone has got a recording of our output, I'd love to get hold of it. We do have the tapes for our sister channel News 24, but they don't help clear up the issue one way or another.&#10;&#10;5. If we reported the building had collapsed before it had done so, it would have been an error - no more than that. As one of the comments on You Tube says today &#34;so the guy in the studio didn't quite know what was going on? Woah, that totally proves conspiracy... &#34;&#10;&#10;https://www.bbc.co.uk/blogs/theeditors/2007/02/part_of_the_conspiracy.html"
+    description "BBC   Building 7 Had Collapsed 20 Minutes Before It Fell&amp;#10;An astounding video uncovered from the archives today shows the BBC reporting on the collapse of WTC Building 7 over twenty minutes before it fell at 5:20pm on the afternoon of 9/11. - https://www.dailymotion.com/video/xe4l4e&amp;#10;The incredible footage shows BBC reporter Jane Standley talking about the collapse of the Salomon Brothers Building while it remains standing in the live shot behind her head. How did the BBC know that it was going to collapse? And why did they report the collapse when it is clearly standing in the background? - &amp;#10;&amp;#10;&amp;#10;BBC Part of the conspiracy?&amp;#10;Richard Porter | 17:12 UK time, Tuesday, 27 February 2007&amp;#10;The 9/11 conspiracy theories are pretty well known by now. The BBC addressed them earlier this month with a documentary, The Conspiracy Files, shown within the UK.&amp;#10;&amp;#10;BBC World - Until now, I don't think we've been accused of being part of the conspiracy. But now some websites are using news footage from BBC World on September 11th 2001 to suggest we were actively participating in some sort of attempt to manipulate the audience. As a result, we're now getting lots of emails asking us to clarify our position. So here goes:&amp;#10;&amp;#10;1. We're not part of a conspiracy. Nobody told us what to say or do on September 11th. We didn't get told in advance that buildings were going to fall down. We didn't receive press releases or scripts in advance of events happening.&amp;#10;&amp;#10;2. In the chaos and confusion of the day, I'm quite sure we said things which turned out to be untrue or inaccurate - but at the time were based on the best information we had. We did what we always did - sourced our reports, used qualifying words like &amp;#34;apparently&amp;#34; or &amp;#34;it's reported&amp;#34; or &amp;#34;we're hearing&amp;#34; and constantly tried to check and double check the information we were receiving.&amp;#10;&amp;#10;An image of the website hosting the alleged BBC World footage3. Our reporter Jane Standley was in New York on the day of the attacks, and like everyone who was there, has the events seared on her mind. I've spoken to her today and unsurprisingly, she doesn't remember minute-by-minute what she said or did - like everybody else that day she was trying to make sense of what she was seeing; what she was being told; and what was being told to her by colleagues in London who were monitoring feeds and wires services.&amp;#10;&amp;#10;4. We no longer have the original tapes of our 9/11 coverage (for reasons of cock-up, not conspiracy). So if someone has got a recording of our output, I'd love to get hold of it. We do have the tapes for our sister channel News 24, but they don't help clear up the issue one way or another.&amp;#10;&amp;#10;5. If we reported the building had collapsed before it had done so, it would have been an error - no more than that. As one of the comments on You Tube says today &amp;#34;so the guy in the studio didn't quite know what was going on? Woah, that totally proves conspiracy... &amp;#34;&amp;#10;&amp;#10;https://www.bbc.co.uk/blogs/theeditors/2007/02/part_of_the_conspiracy.html"
     channeltitle "iXXi Q"
     channelid "UCCSM68WpN-DU3p7FFfaH4wg"
     favcount 0
@@ -3619,7 +6545,29 @@ graph
     ppprofanity 0.074272536
     ppinflammatory 0.12609185
     sentiment -0.2732
-    cluster 8
+    cluster 3
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -3646,7 +6594,29 @@ graph
     ppprofanity 0.09026955
     ppinflammatory 0.27908903
     sentiment -0.4767
-    cluster 3
+    cluster 8
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -3673,7 +6643,29 @@ graph
     ppprofanity 0.1932683
     ppinflammatory 0.49544185
     sentiment 0
-    cluster 4
+    cluster 5
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -3682,7 +6674,7 @@ graph
     step 0
     date "2016-02-25T09:58:33Z"
     title "FREE FALLIN starring BUILDING 7"
-    description "The FREE FALLIN&#8217; Campaign: Between now and September 11, 2016, send your version of &#8220;FREE FALLIN&#8217; starring BUILDING 7&#8221; to freefallin@AE911Truth.org, and we&#8217;ll post or share it here. Use our lyrics or write your own. Let&#8217;s post as many videos as we can!&#10; &#10;Sign the Petition. Share our Materials. Support our Work. http://AE911Truth.org&#10;&#10;Background&#10;&#10;&#8220;FREE FALLIN&#8217; starring BUILDING 7&#8221; is a riff on the classic Tom Petty song Free Fallin&#8217;. Twenty-seven years after the release of this beautiful song, it provides a perfect platform to bring attention to the troubling destruction of World Trade Center Building 7, which came down in free fall late in the afternoon on September 11, 2001. According to the official account of 9/11, Building 7 collapsed due to normal office fires ignited by falling debris from WTC 1 (structural damage and diesel fuel fires did not contribute to the collapse, according to the government). However, scientific and circumstantial evidence strongly contradicts that explanation.&#10;&#10;The fact that Building 7 instantaneously entered free fall - the acceleration of gravity - for a period of 2.25 seconds over a distance of eight stories is very strong evidence of controlled demolition. Free fall can only be achieved when there is no resistance provided by the structure below. A free-fall drop of eight stories indicates that all 81 columns in Building 7 were simultaneously severed over eight stories. Only explosives can account for this kind of structural failure. Indeed, fires have never caused the total collapse of a steel-framed high-rise, let alone in the manner of a classic controlled demolition.&#10;&#10;The infinitely small chance of a fire-induced failure bringing down the entire building &#8211; in particular, through the improbable series of structural failures which the government alleges caused the collapse &#8211; cannot be reconciled with the strong foreknowledge on the part of local authorities that Building 7 would eventually collapse (which the video highlights prominently). If Building 7 actually collapsed from fire, the authorities&#8217; prediction of Building 7&#8217;s collapse would be analogous to confidently and correctly predicting one specific lottery ticket to win the lottery.&#10;&#10;The inexplicable foreknowledge on the part of authorities is made all the more apparent by the inability of the engineering community to explain it after the fact. Nine months after the collapse, FEMA would state, &#8220;The specifics of the fires in WTC 7 and how they caused the building to collapse remain unknown at this time&#8230;. [T]he best hypothesis has only a low probability of occurrence.&#8221; More than four years after the collapse, the government&#8217;s lead investigator would state, &#8220;[T]ruthfully, we don&#8217;t really know. We&#8217;ve had trouble getting a handle on building No. 7.&#8221;&#10;&#10;In reality, the warnings of Building 7&#8217;s imminent demise must have originated from someone who knew that Building 7 was going to be brought down in a controlled demolition. Beyond that, Architects &#38; Engineers for 9/11 Truth, which represents over 2,400 architectural and engineering professionals, does not speculate on who brought down Building 7 or why. Instead, we are dedicated to educating the public about the destruction of all three World Trade Center buildings with the expectation that others with the responsibility and authority to conduct a proper investigation will do so.&#10;&#10;Please share this video widely through social media - if you're already on Facebook, share our posted version of the video from our Official page at https://www.facebook.com/ae911truth/and visit http://AE911Truth.org for more information on how you can help advance the cause of truth!"
+    description "The FREE FALLIN&amp;#8217; Campaign: Between now and September 11, 2016, send your version of &amp;#8220;FREE FALLIN&amp;#8217; starring BUILDING 7&amp;#8221; to freefallin@AE911Truth.org, and we&amp;#8217;ll post or share it here. Use our lyrics or write your own. Let&amp;#8217;s post as many videos as we can!&amp;#10; &amp;#10;Sign the Petition. Share our Materials. Support our Work. http://AE911Truth.org&amp;#10;&amp;#10;Background&amp;#10;&amp;#10;&amp;#8220;FREE FALLIN&amp;#8217; starring BUILDING 7&amp;#8221; is a riff on the classic Tom Petty song Free Fallin&amp;#8217;. Twenty-seven years after the release of this beautiful song, it provides a perfect platform to bring attention to the troubling destruction of World Trade Center Building 7, which came down in free fall late in the afternoon on September 11, 2001. According to the official account of 9/11, Building 7 collapsed due to normal office fires ignited by falling debris from WTC 1 (structural damage and diesel fuel fires did not contribute to the collapse, according to the government). However, scientific and circumstantial evidence strongly contradicts that explanation.&amp;#10;&amp;#10;The fact that Building 7 instantaneously entered free fall - the acceleration of gravity - for a period of 2.25 seconds over a distance of eight stories is very strong evidence of controlled demolition. Free fall can only be achieved when there is no resistance provided by the structure below. A free-fall drop of eight stories indicates that all 81 columns in Building 7 were simultaneously severed over eight stories. Only explosives can account for this kind of structural failure. Indeed, fires have never caused the total collapse of a steel-framed high-rise, let alone in the manner of a classic controlled demolition.&amp;#10;&amp;#10;The infinitely small chance of a fire-induced failure bringing down the entire building &amp;#8211; in particular, through the improbable series of structural failures which the government alleges caused the collapse &amp;#8211; cannot be reconciled with the strong foreknowledge on the part of local authorities that Building 7 would eventually collapse (which the video highlights prominently). If Building 7 actually collapsed from fire, the authorities&amp;#8217; prediction of Building 7&amp;#8217;s collapse would be analogous to confidently and correctly predicting one specific lottery ticket to win the lottery.&amp;#10;&amp;#10;The inexplicable foreknowledge on the part of authorities is made all the more apparent by the inability of the engineering community to explain it after the fact. Nine months after the collapse, FEMA would state, &amp;#8220;The specifics of the fires in WTC 7 and how they caused the building to collapse remain unknown at this time&amp;#8230;. [T]he best hypothesis has only a low probability of occurrence.&amp;#8221; More than four years after the collapse, the government&amp;#8217;s lead investigator would state, &amp;#8220;[T]ruthfully, we don&amp;#8217;t really know. We&amp;#8217;ve had trouble getting a handle on building No. 7.&amp;#8221;&amp;#10;&amp;#10;In reality, the warnings of Building 7&amp;#8217;s imminent demise must have originated from someone who knew that Building 7 was going to be brought down in a controlled demolition. Beyond that, Architects &amp;#38; Engineers for 9/11 Truth, which represents over 2,400 architectural and engineering professionals, does not speculate on who brought down Building 7 or why. Instead, we are dedicated to educating the public about the destruction of all three World Trade Center buildings with the expectation that others with the responsibility and authority to conduct a proper investigation will do so.&amp;#10;&amp;#10;Please share this video widely through social media - if you're already on Facebook, share our posted version of the video from our Official page at https://www.facebook.com/ae911truth/and visit http://AE911Truth.org for more information on how you can help advance the cause of truth!"
     channeltitle "vengencefrom1979"
     channelid "UCpXYmbe8jgD68NnvyeV6nUQ"
     favcount 0
@@ -3700,7 +6692,29 @@ graph
     ppprofanity 0.11378818
     ppinflammatory 0.115596
     sentiment 0.5106
-    cluster 8
+    cluster 10
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -3709,7 +6723,7 @@ graph
     step 0
     date "2014-10-27T17:22:05Z"
     title "World Trade Center Building 7 - Solomon Brothers - El*A*Kwents - wtc7"
-    description "The 9/11 Commission Report failed to even mention World Trade Center Building #7 in it's report.  Why was the complete collapse of this building withheld from their findings?  Re-investigate 9/11.&#10;&#10;FREE SUBSCRIBER DOWNLOAD - https://www.reverbnation.com/elakwents&#10;LYRICS - http://spiritualhiphop.wordpress.com/2014/10/27/elakwents-wtc7-world-trade-center-building-7/&#10;www.elakwents.com&#10;www.spiritualhiphop.info/exchange"
+    description "The 9/11 Commission Report failed to even mention World Trade Center Building #7 in it's report.  Why was the complete collapse of this building withheld from their findings?  Re-investigate 9/11.&amp;#10;&amp;#10;FREE SUBSCRIBER DOWNLOAD - https://www.reverbnation.com/elakwents&amp;#10;LYRICS - http://spiritualhiphop.wordpress.com/2014/10/27/elakwents-wtc7-world-trade-center-building-7/&amp;#10;www.elakwents.com&amp;#10;www.spiritualhiphop.info/exchange"
     channeltitle "SpiritualHipHop"
     channelid "UCh37wPNMv6QRlA-QWw42wBQ"
     favcount 0
@@ -3727,7 +6741,29 @@ graph
     ppprofanity 0.09220672
     ppinflammatory 0.44460562
     sentiment 0
-    cluster 7
+    cluster 3
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -3754,7 +6790,29 @@ graph
     ppprofanity 0.07390931
     ppinflammatory 0.4757928
     sentiment 0
-    cluster 5
+    cluster 6
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -3763,7 +6821,7 @@ graph
     step 0
     date "2010-10-25T13:39:34Z"
     title "9/11 WTC Building 7 Ad,Families Want Answers"
-    description "New Eye Opening ad. Go to http://BuildingWhat.org - This 30-second ad will appear on TV screens all over New York City. Every $400 raised will allow 10,000 more New Yorkers to see the collapse of Building 7 for the first time.&#13;&#10;&#13;&#10;*Disclaimer-BuildingWhat.org provides no endorsement of my Channel or the use of its work on my Channel."
+    description "New Eye Opening ad. Go to http://BuildingWhat.org - This 30-second ad will appear on TV screens all over New York City. Every $400 raised will allow 10,000 more New Yorkers to see the collapse of Building 7 for the first time.&amp;#13;&amp;#10;&amp;#13;&amp;#10;*Disclaimer-BuildingWhat.org provides no endorsement of my Channel or the use of its work on my Channel."
     channeltitle "Yeshua is Messiah-SUBSCRIBE Please"
     channelid "UCoVe9mQo1w4yesQVn067iyQ"
     favcount 0
@@ -3781,7 +6839,29 @@ graph
     ppprofanity 0.066322125
     ppinflammatory 0.14624955
     sentiment 0.0772
-    cluster 8
+    cluster 2
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -3790,7 +6870,7 @@ graph
     step 0
     date "2020-03-31T17:59:40Z"
     title "Building 7 (the Smoking Gun)"
-    description "This 9/11 truth song is by Carl Seeger Henry and Mark Saunders and is entitled &#8220;Building 7 (the Smoking Gun).&#8221; It&#8217;s in the great tradition of a folk protest song meant to inform and inspire. &#10;&#10;Chorus: &#10;Building Seven, the smoking gun.&#10;It tells the truth bout what was done&#10;To me and you and to the world&#10;It tells the truth it tells it true - - -&#10;9/11 Building Seven&#10;Woe  9/11 Building Seven &#10;&#10;At the world trade center, 3 buildings came down &#10;Hit by two planes, panic all around&#10;But building seven, had barely a scratch&#10;Not hit by plane, yet it still collapsed - - -&#10;and &#8220;office fires&#8221; were blamed for that.&#10;Chorus &#10;The first responders saw molten steel&#10;They heard explosions swore they were real&#10;And we all watched a scene surreal&#10;Those buildings fell with roaring blasts - - -&#10;a demolition, controlled and fast&#10;Chorus &#10;We want the truth what&#8217;s the real cause&#10;So many questions it gives one pause&#10;The official story so full of flaws&#10;Our leaders command us to just move on - - -&#10;We're here to tell you we won't move on&#10;We're here to tell you we won't move on - - -&#10;We're here to tell you we won't move on&#10;Last Chorus: &#10;Cuz Building Seven's the smoking gun&#10;We see the truth 'bout what was done...&#10;To me and you and to the world&#10;It tells the truth it tells it true - - -&#10;9/11 Building Seven&#10;Woe  9/11 Building Seven&#10;Woe  9/11 Building Seven&#10;9/11 Building Seven &#10;&#10;Carl Henry Music ASCAP &#10;&#10;email- psa@911tap.org   phone 860-515-3343 &#10;Visit us at the 9/11 Truth Action Project&#10;https://www.911tap.org/tap-media/building-7-the-smoking-gun-psas-jingles"
+    description "This 9/11 truth song is by Carl Seeger Henry and Mark Saunders and is entitled &amp;#8220;Building 7 (the Smoking Gun).&amp;#8221; It&amp;#8217;s in the great tradition of a folk protest song meant to inform and inspire. &amp;#10;&amp;#10;Chorus: &amp;#10;Building Seven, the smoking gun.&amp;#10;It tells the truth bout what was done&amp;#10;To me and you and to the world&amp;#10;It tells the truth it tells it true - - -&amp;#10;9/11 Building Seven&amp;#10;Woe  9/11 Building Seven &amp;#10;&amp;#10;At the world trade center, 3 buildings came down &amp;#10;Hit by two planes, panic all around&amp;#10;But building seven, had barely a scratch&amp;#10;Not hit by plane, yet it still collapsed - - -&amp;#10;and &amp;#8220;office fires&amp;#8221; were blamed for that.&amp;#10;Chorus &amp;#10;The first responders saw molten steel&amp;#10;They heard explosions swore they were real&amp;#10;And we all watched a scene surreal&amp;#10;Those buildings fell with roaring blasts - - -&amp;#10;a demolition, controlled and fast&amp;#10;Chorus &amp;#10;We want the truth what&amp;#8217;s the real cause&amp;#10;So many questions it gives one pause&amp;#10;The official story so full of flaws&amp;#10;Our leaders command us to just move on - - -&amp;#10;We're here to tell you we won't move on&amp;#10;We're here to tell you we won't move on - - -&amp;#10;We're here to tell you we won't move on&amp;#10;Last Chorus: &amp;#10;Cuz Building Seven's the smoking gun&amp;#10;We see the truth 'bout what was done...&amp;#10;To me and you and to the world&amp;#10;It tells the truth it tells it true - - -&amp;#10;9/11 Building Seven&amp;#10;Woe  9/11 Building Seven&amp;#10;Woe  9/11 Building Seven&amp;#10;9/11 Building Seven &amp;#10;&amp;#10;Carl Henry Music ASCAP &amp;#10;&amp;#10;email- psa@911tap.org   phone 860-515-3343 &amp;#10;Visit us at the 9/11 Truth Action Project&amp;#10;https://www.911tap.org/tap-media/building-7-the-smoking-gun-psas-jingles"
     channeltitle "Carl Seeger Henry"
     channelid "UCzh7YKiwSxS2dcWY8TY39Sw"
     favcount 0
@@ -3808,7 +6888,29 @@ graph
     ppprofanity 0.017926667
     ppinflammatory 0.2702777
     sentiment -0.34
-    cluster 7
+    cluster 9
+    leftright "R"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 1
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 1
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -3817,7 +6919,7 @@ graph
     step 0
     date "2013-10-15T15:31:27Z"
     title "WTC Building 7 Collapse Compilation"
-    description "Compilation of World Trade Center Building 7&#10;Building 7 was not hit by a plane and the structural damage caused by the collapse of the North Tower was insufficient to cause a collapse. Officially the collapse was caused by office fires, (Paper, carpet, furniture) This is incredible since WTC 7 was built and designed to be a secure building for financial and government offices. WTC 7 had offices for the C.I.A and the SEC amongst others. When the building collapsed at 5:20 PM crucial files on multiple corporate scandals/ investigations such as WorldCom and Enron were destroyed.&#10;Building 7 collapsed at or near the speed of gravity, it collapsed on it's own foot print, only minor damage was done to the neighbouring buildings even though Building 7 was 50 stories high. Some debunkers like to point at the damage pattern on the neighbouring Post Office building as evidence of asymetrical collapse however this damage was superficial and the presence of fire hoses in the area directly above the damage is testament to that fact. If the damage was serious then how coulf the FDNY allow it's members and equipment to be deployed in the area directly above the damage?&#10;Building 7 and it's story are key to unlocking the sequence of events that day, beginning with Barry Jennings and Micheal Hess, who were both in Building 7 when it was rocked by internal explosions at the time of first tower collapse. Michael Hess and Barry Jennings both made statements on the actual day that there was an explosion on the 6th floor. Video footage backs up this story, Michael Hess can even be seen inside Building 7 between the collapses, where he calls for help from the 8th floor, just as his testifies later that day, as did Barry Jennings. These two men are key witnesses and their testimony on the actual day matches the multiple sources of video evidence.&#10;Once again the 9/11 Commission completely ignores this, in fact the 9/11 Commission Report doesn't even reference Building 7 making it the 9/11 OMISSION REPORT"
+    description "Compilation of World Trade Center Building 7&amp;#10;Building 7 was not hit by a plane and the structural damage caused by the collapse of the North Tower was insufficient to cause a collapse. Officially the collapse was caused by office fires, (Paper, carpet, furniture) This is incredible since WTC 7 was built and designed to be a secure building for financial and government offices. WTC 7 had offices for the C.I.A and the SEC amongst others. When the building collapsed at 5:20 PM crucial files on multiple corporate scandals/ investigations such as WorldCom and Enron were destroyed.&amp;#10;Building 7 collapsed at or near the speed of gravity, it collapsed on it's own foot print, only minor damage was done to the neighbouring buildings even though Building 7 was 50 stories high. Some debunkers like to point at the damage pattern on the neighbouring Post Office building as evidence of asymetrical collapse however this damage was superficial and the presence of fire hoses in the area directly above the damage is testament to that fact. If the damage was serious then how coulf the FDNY allow it's members and equipment to be deployed in the area directly above the damage?&amp;#10;Building 7 and it's story are key to unlocking the sequence of events that day, beginning with Barry Jennings and Micheal Hess, who were both in Building 7 when it was rocked by internal explosions at the time of first tower collapse. Michael Hess and Barry Jennings both made statements on the actual day that there was an explosion on the 6th floor. Video footage backs up this story, Michael Hess can even be seen inside Building 7 between the collapses, where he calls for help from the 8th floor, just as his testifies later that day, as did Barry Jennings. These two men are key witnesses and their testimony on the actual day matches the multiple sources of video evidence.&amp;#10;Once again the 9/11 Commission completely ignores this, in fact the 9/11 Commission Report doesn't even reference Building 7 making it the 9/11 OMISSION REPORT"
     channeltitle "Decryptionaddiction"
     channelid "UCUhuvto7tHFeTnkja-DZcyQ"
     favcount 0
@@ -3835,7 +6937,29 @@ graph
     ppprofanity 0.08895584
     ppinflammatory 0.16932622
     sentiment -0.4939
-    cluster 7
+    cluster 9
+    leftright "C"
+    AntiSJW 1
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -3862,7 +6986,29 @@ graph
     ppprofanity 0.079432614
     ppinflammatory 0.28783938
     sentiment 0.5719
-    cluster 4
+    cluster 5
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -3889,7 +7035,29 @@ graph
     ppprofanity 0.052545298
     ppinflammatory 0.10347873
     sentiment 0
-    cluster 8
+    cluster 10
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -3898,7 +7066,7 @@ graph
     step 0
     date "2017-01-06T15:11:36Z"
     title "Tom Petty Does FREE FALLIN Building 7 Awesome!!!"
-    description "MUST SEE! MUST SEE! Awesome! Tom Petty does &#34;Free Fallin'&#34; version for Building 7, totally rocks!&#10;&#10;(Originally posted at https://www.youtube.com/watch?v=v-27FGbpBk4)&#10;Post Text: Published on Feb 23, 2016&#10;The FREE FALLIN&#8217; Campaign: Between now and September 11, 2016, send your version of &#8220;FREE FALLIN&#8217; starring BUILDING 7&#8221; to freefallin@AE911Truth.org, and we&#8217;ll post or share it here. Use our lyrics or write your own. Let&#8217;s post as many videos as we can!&#10; &#10;Sign the Petition. Share our Materials. Support our Work. http://AE911Truth.org&#10;&#10;Background&#10;&#10;&#8220;FREE FALLIN&#8217; starring BUILDING 7&#8221; is a riff on the classic Tom Petty song Free Fallin&#8217;. Twenty-seven years after the release of this beautiful song, it provides a perfect platform to bring attention to the troubling destruction of World Trade Center Building 7, which came down in free fall late in the afternoon on September 11, 2001. According to the official account of 9/11, Building 7 collapsed due to normal office fires ignited by falling debris from WTC 1 (structural damage and diesel fuel fires did not contribute to the collapse, according to the government). However, scientific and circumstantial evidence strongly contradicts that explanation.&#10;&#10;The fact that Building 7 instantaneously entered free fall - the acceleration of gravity - for a period of 2.25 seconds over a distance of eight stories is very strong evidence of controlled demolition. Free fall can only be achieved when there is no resistance provided by the structure below. A free-fall drop of eight stories indicates that all 81 columns in Building 7 were simultaneously severed over eight stories. Only explosives can account for this kind of structural failure. Indeed, fires have never caused the total collapse of a steel-framed high-rise, let alone in the manner of a classic controlled demolition.&#10;&#10;The infinitely small chance of a fire-induced failure bringing down the entire building &#8211; in particular, through the improbable series of structural failures which the government alleges caused the collapse &#8211; cannot be reconciled with the strong foreknowledge on the part of local authorities that Building 7 would eventually collapse (which the video highlights prominently). If Building 7 actually collapsed from fire, the authorities&#8217; prediction of Building 7&#8217;s collapse would be analogous to confidently and correctly predicting one specific lottery ticket to win the lottery.&#10;&#10;The inexplicable foreknowledge on the part of authorities is made all the more apparent by the inability of the engineering community to explain it after the fact. Nine months after the collapse, FEMA would state, &#8220;The specifics of the fires in WTC 7 and how they caused the building to collapse remain unknown at this time&#8230;. [T]he best hypothesis has only a low probability of occurrence.&#8221; More than four years after the collapse, the government&#8217;s lead investigator would state, &#8220;[T]ruthfully, we don&#8217;t really know. We&#8217;ve had trouble getting a handle on building No. 7.&#8221;&#10;&#10;In reality, the warnings of Building 7&#8217;s imminent demise must have originated from someone who knew that Building 7 was going to be brought down in a controlled demolition. Beyond that, Architects &#38; Engineers for 9/11 Truth, which represents over 2,400 architectural and engineering professionals, does not speculate on who brought down Building 7 or why. Instead, we are dedicated to educating the public about the destruction of all three World Trade Center buildings with the expectation that others with the responsibility and authority to conduct a proper investigation will do so.&#10;&#10;Please share this video widely through social media - if you're already on Facebook, share our posted version of the video from our Official page at https://www.facebook.com/ae911truth/and visit http://AE911Truth.org for more information on how you can help advance the cause of truth!&#10;Category&#10;News &#38; Politics&#10;License&#10;Standard YouTube License&#10;Music&#10;&#34;Free Fallin'&#34; by Tom Petty Listen ad-free with YouTube Red"
+    description "MUST SEE! MUST SEE! Awesome! Tom Petty does &amp;#34;Free Fallin'&amp;#34; version for Building 7, totally rocks!&amp;#10;&amp;#10;(Originally posted at https://www.youtube.com/watch?v=v-27FGbpBk4)&amp;#10;Post Text: Published on Feb 23, 2016&amp;#10;The FREE FALLIN&amp;#8217; Campaign: Between now and September 11, 2016, send your version of &amp;#8220;FREE FALLIN&amp;#8217; starring BUILDING 7&amp;#8221; to freefallin@AE911Truth.org, and we&amp;#8217;ll post or share it here. Use our lyrics or write your own. Let&amp;#8217;s post as many videos as we can!&amp;#10; &amp;#10;Sign the Petition. Share our Materials. Support our Work. http://AE911Truth.org&amp;#10;&amp;#10;Background&amp;#10;&amp;#10;&amp;#8220;FREE FALLIN&amp;#8217; starring BUILDING 7&amp;#8221; is a riff on the classic Tom Petty song Free Fallin&amp;#8217;. Twenty-seven years after the release of this beautiful song, it provides a perfect platform to bring attention to the troubling destruction of World Trade Center Building 7, which came down in free fall late in the afternoon on September 11, 2001. According to the official account of 9/11, Building 7 collapsed due to normal office fires ignited by falling debris from WTC 1 (structural damage and diesel fuel fires did not contribute to the collapse, according to the government). However, scientific and circumstantial evidence strongly contradicts that explanation.&amp;#10;&amp;#10;The fact that Building 7 instantaneously entered free fall - the acceleration of gravity - for a period of 2.25 seconds over a distance of eight stories is very strong evidence of controlled demolition. Free fall can only be achieved when there is no resistance provided by the structure below. A free-fall drop of eight stories indicates that all 81 columns in Building 7 were simultaneously severed over eight stories. Only explosives can account for this kind of structural failure. Indeed, fires have never caused the total collapse of a steel-framed high-rise, let alone in the manner of a classic controlled demolition.&amp;#10;&amp;#10;The infinitely small chance of a fire-induced failure bringing down the entire building &amp;#8211; in particular, through the improbable series of structural failures which the government alleges caused the collapse &amp;#8211; cannot be reconciled with the strong foreknowledge on the part of local authorities that Building 7 would eventually collapse (which the video highlights prominently). If Building 7 actually collapsed from fire, the authorities&amp;#8217; prediction of Building 7&amp;#8217;s collapse would be analogous to confidently and correctly predicting one specific lottery ticket to win the lottery.&amp;#10;&amp;#10;The inexplicable foreknowledge on the part of authorities is made all the more apparent by the inability of the engineering community to explain it after the fact. Nine months after the collapse, FEMA would state, &amp;#8220;The specifics of the fires in WTC 7 and how they caused the building to collapse remain unknown at this time&amp;#8230;. [T]he best hypothesis has only a low probability of occurrence.&amp;#8221; More than four years after the collapse, the government&amp;#8217;s lead investigator would state, &amp;#8220;[T]ruthfully, we don&amp;#8217;t really know. We&amp;#8217;ve had trouble getting a handle on building No. 7.&amp;#8221;&amp;#10;&amp;#10;In reality, the warnings of Building 7&amp;#8217;s imminent demise must have originated from someone who knew that Building 7 was going to be brought down in a controlled demolition. Beyond that, Architects &amp;#38; Engineers for 9/11 Truth, which represents over 2,400 architectural and engineering professionals, does not speculate on who brought down Building 7 or why. Instead, we are dedicated to educating the public about the destruction of all three World Trade Center buildings with the expectation that others with the responsibility and authority to conduct a proper investigation will do so.&amp;#10;&amp;#10;Please share this video widely through social media - if you're already on Facebook, share our posted version of the video from our Official page at https://www.facebook.com/ae911truth/and visit http://AE911Truth.org for more information on how you can help advance the cause of truth!&amp;#10;Category&amp;#10;News &amp;#38; Politics&amp;#10;License&amp;#10;Standard YouTube License&amp;#10;Music&amp;#10;&amp;#34;Free Fallin'&amp;#34; by Tom Petty Listen ad-free with YouTube Red"
     channeltitle "Richard Bruce"
     channelid "UCY71q12u4OIUJGOg5MAlttQ"
     favcount 0
@@ -3916,7 +7084,29 @@ graph
     ppprofanity 0.07343916
     ppinflammatory 0.29039636
     sentiment 0.765
-    cluster 8
+    cluster 10
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -3925,7 +7115,7 @@ graph
     step 0
     date "2014-06-28T21:06:16Z"
     title "LARRY SILVERSTEIN THE BUILDING 7 PULL IT RAP ;)"
-    description "Larry A. Silverstein was born May 30, 1931 in Brooklyn, and became involved in real estate, together with his father, establishing Silverstein Properties. Silverstein separated from his business partner, Bernard Mendik, in 1977, and bought a number of large office buildings in Midtown and Lower Manhattan in the late 1970s. In 1980, Silverstein won a bid from the Port Authority of New York and New Jersey to construct 7 World Trade Center, to the north of the World Trade Center site. Silverstein was interested in acquiring the entire World Trade Center complex, and put in a bid when the Port Authority put it up for lease in 2000. Silverstein won the bid when a deal between the initial winner and the Port Authority fell through, and he signed the lease on July 24, 2001.&#10;Soon after the September 11 attacks, Silverstein declared his intent to rebuild, though he and his insurers became embroiled in a multi-year dispute over whether the attacks had constituted one event or two under the terms of the insurance policy, which provided for a maximum of $3.55 billion coverage per event. A settlement was reached in 2007, with insurers agreeing to pay out $4.55 billion, which was not as much as Silverstein had sought. Silverstein also ran into multiple disputes with other parties in the rebuilding effort, including with the Port Authority. In an agreement reached in April 2006, Silverstein retained rights to build three office towers (150 Greenwich Street, 175 Greenwich Street, and 200 Greenwich Street), while One World Trade Center ( previously referred to as the &#34;Freedom Tower&#34; ) would be owned by the Port Authority, as would Tower Five, which it would have the option of leasing to a different private developer and having redesigned as a residential building.Beskrivelse.&#10;&#10;Edit By Thomas Koitzsch &#10;New Earth World Production June 2014"
+    description "Larry A. Silverstein was born May 30, 1931 in Brooklyn, and became involved in real estate, together with his father, establishing Silverstein Properties. Silverstein separated from his business partner, Bernard Mendik, in 1977, and bought a number of large office buildings in Midtown and Lower Manhattan in the late 1970s. In 1980, Silverstein won a bid from the Port Authority of New York and New Jersey to construct 7 World Trade Center, to the north of the World Trade Center site. Silverstein was interested in acquiring the entire World Trade Center complex, and put in a bid when the Port Authority put it up for lease in 2000. Silverstein won the bid when a deal between the initial winner and the Port Authority fell through, and he signed the lease on July 24, 2001.&amp;#10;Soon after the September 11 attacks, Silverstein declared his intent to rebuild, though he and his insurers became embroiled in a multi-year dispute over whether the attacks had constituted one event or two under the terms of the insurance policy, which provided for a maximum of $3.55 billion coverage per event. A settlement was reached in 2007, with insurers agreeing to pay out $4.55 billion, which was not as much as Silverstein had sought. Silverstein also ran into multiple disputes with other parties in the rebuilding effort, including with the Port Authority. In an agreement reached in April 2006, Silverstein retained rights to build three office towers (150 Greenwich Street, 175 Greenwich Street, and 200 Greenwich Street), while One World Trade Center ( previously referred to as the &amp;#34;Freedom Tower&amp;#34; ) would be owned by the Port Authority, as would Tower Five, which it would have the option of leasing to a different private developer and having redesigned as a residential building.Beskrivelse.&amp;#10;&amp;#10;Edit By Thomas Koitzsch &amp;#10;New Earth World Production June 2014"
     channeltitle "NewEarthWorld"
     channelid "UCn0OkeW4lBi88evVw4Cbqow"
     favcount 0
@@ -3943,7 +7133,29 @@ graph
     ppprofanity 0.08025538
     ppinflammatory 0.41178545
     sentiment 0
-    cluster 4
+    cluster 3
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -3970,7 +7182,29 @@ graph
     ppprofanity 0.11993901
     ppinflammatory 0.13098575
     sentiment 0
-    cluster 5
+    cluster 6
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -3979,7 +7213,7 @@ graph
     step 0
     date "2019-09-04T03:29:33Z"
     title "Univ. of Alaska: World Trade Center Building 7 Collapse Findings (Sept. 3, 2019)"
-    description "NIST was wrong. Final minutes of the presentation broadcast live 9/3/2019 (ended around 8:00 PM. Sorry I only have 1 other clip of this lengthy presentation. I stumbled on it near the end.)&#10;This is clip 2 of 2 from a broadcast live on the Univ. of Alaska Fairbanks website: The draft report of the groundbreaking World Trade Center Building 7 Study by researchers at the University of Alaska Fairbanks (UAF).&#10;&#10;A STRUCTURAL REEVALUATION OF THE COLLAPSE OF WORLD TRADE CENTER 7&#10;A Presentation by Civil Engineering Professor J. Leroy Hulsey, Ph.D., P.E.&#10;September 3, 2019 6:00 PM Alaska Time / 10:00 PM Eastern &#10;Schaible Auditorium - University of Alaska Fairbanks&#10;Livestream: https://media.uaf.edu&#10;(Another presentation will be given at the Faculty Club at UC Berkeley at 5:00 PM Pacific time on September 5, 2019.) -- https://www.ae911truth.org/images/PDFs/Berkeley-UAF-poster.pdf&#10;https://www.ae911truth.org/wtc7 -- &#34;Fire Did Not Cause 3rd Tower&#8217;s Collapse on 9/11, New Study Finds&#34; -- AE911Truth video &#34;University Study Concludes: Fire Did Not Bring Down Building 7 on 9/11&#34; https://www.youtube.com/watch?v=cQkRR81haW8&#10;International Skeptics thread (aka debunker fuel): http://www.internationalskeptics.com/forums/showthread.php?t=311698&#10;&#10;Draft report released today: http://ine.uaf.edu/media/222439/uaf_wtc7_draft_report_09-03-2019.pdf&#10;Found at the UAF Institute of Northern Engineering website: http://ine.uaf.edu/projects/wtc7/"
+    description "NIST was wrong. Final minutes of the presentation broadcast live 9/3/2019 (ended around 8:00 PM. Sorry I only have 1 other clip of this lengthy presentation. I stumbled on it near the end.)&amp;#10;This is clip 2 of 2 from a broadcast live on the Univ. of Alaska Fairbanks website: The draft report of the groundbreaking World Trade Center Building 7 Study by researchers at the University of Alaska Fairbanks (UAF).&amp;#10;&amp;#10;A STRUCTURAL REEVALUATION OF THE COLLAPSE OF WORLD TRADE CENTER 7&amp;#10;A Presentation by Civil Engineering Professor J. Leroy Hulsey, Ph.D., P.E.&amp;#10;September 3, 2019 6:00 PM Alaska Time / 10:00 PM Eastern &amp;#10;Schaible Auditorium - University of Alaska Fairbanks&amp;#10;Livestream: https://media.uaf.edu&amp;#10;(Another presentation will be given at the Faculty Club at UC Berkeley at 5:00 PM Pacific time on September 5, 2019.) -- https://www.ae911truth.org/images/PDFs/Berkeley-UAF-poster.pdf&amp;#10;https://www.ae911truth.org/wtc7 -- &amp;#34;Fire Did Not Cause 3rd Tower&amp;#8217;s Collapse on 9/11, New Study Finds&amp;#34; -- AE911Truth video &amp;#34;University Study Concludes: Fire Did Not Bring Down Building 7 on 9/11&amp;#34; https://www.youtube.com/watch?v=cQkRR81haW8&amp;#10;International Skeptics thread (aka debunker fuel): http://www.internationalskeptics.com/forums/showthread.php?t=311698&amp;#10;&amp;#10;Draft report released today: http://ine.uaf.edu/media/222439/uaf_wtc7_draft_report_09-03-2019.pdf&amp;#10;Found at the UAF Institute of Northern Engineering website: http://ine.uaf.edu/projects/wtc7/"
     channeltitle "CTV911"
     channelid "UC2ps2FIYIIgtv8rJN5N7mMA"
     favcount 0
@@ -3997,7 +7231,29 @@ graph
     ppprofanity 0.012774518
     ppinflammatory 0.208371
     sentiment -0.4939
-    cluster 8
+    cluster 10
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -4006,7 +7262,7 @@ graph
     step 0
     date "2022-07-06T22:16:41Z"
     title "Global Failure: A Structural Reevaluation of the Collapse of WTC 7 | John Schuler | July 6, 2022"
-    description "This presentation outlines the findings and conclusions of a four-year study of the collapse of World Trade Center Building 7 by researchers at the University of Alaska Fairbanks (UAF) and provides a comprehensive critique of the WTC 7 report issued by the National Institute of Standards and Technology (NIST) in 2008.&#13;&#10;&#13;&#10;WTC 7 was a 47-story high-rise that suffered a total collapse at 5:20 PM on September 11, 2001, although it was not struck by an airplane.&#13;&#10;&#13;&#10;The objective of the UAF study was threefold: (1) Examine the structural response of WTC 7 to fire loads that may have occurred on September 11, 2001; (2) Rule out scenarios that could not have caused the observed collapse; and (3) Identify types of failures and their locations that may have caused the total collapse to occur as observed. The principal conclusion of the study is that fire did not cause the collapse of WTC 7, contrary to the conclusion of NIST.&#13;&#10;&#13;&#10;The UAF study together with years of analysis by independent engineers since the NIST report was issued in 2008 demonstrates that NIST&#8217;s probable collapse sequence for WTC 7 is physically impossible.&#13;&#10;&#13;&#10;For more information, visit https://AE911Truth.org."
+    description "This presentation outlines the findings and conclusions of a four-year study of the collapse of World Trade Center Building 7 by researchers at the University of Alaska Fairbanks (UAF) and provides a comprehensive critique of the WTC 7 report issued by the National Institute of Standards and Technology (NIST) in 2008.&amp;#13;&amp;#10;&amp;#13;&amp;#10;WTC 7 was a 47-story high-rise that suffered a total collapse at 5:20 PM on September 11, 2001, although it was not struck by an airplane.&amp;#13;&amp;#10;&amp;#13;&amp;#10;The objective of the UAF study was threefold: (1) Examine the structural response of WTC 7 to fire loads that may have occurred on September 11, 2001; (2) Rule out scenarios that could not have caused the observed collapse; and (3) Identify types of failures and their locations that may have caused the total collapse to occur as observed. The principal conclusion of the study is that fire did not cause the collapse of WTC 7, contrary to the conclusion of NIST.&amp;#13;&amp;#10;&amp;#13;&amp;#10;The UAF study together with years of analysis by independent engineers since the NIST report was issued in 2008 demonstrates that NIST&amp;#8217;s probable collapse sequence for WTC 7 is physically impossible.&amp;#13;&amp;#10;&amp;#13;&amp;#10;For more information, visit https://AE911Truth.org."
     channeltitle "AE911Truth"
     channelid "UCL-c_zvZ3lhlU7NU1ikxgmQ"
     favcount 0
@@ -4024,7 +7280,29 @@ graph
     ppprofanity 0.047893666
     ppinflammatory 0.060211446
     sentiment -0.7579
-    cluster 2
+    cluster 4
+    leftright "C"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 1
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -4051,7 +7329,29 @@ graph
     ppprofanity 0.06253742
     ppinflammatory 0.25211117
     sentiment 0
-    cluster 3
+    cluster 1
+    leftright "C"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 1
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -4060,7 +7360,7 @@ graph
     step 0
     date "2013-04-12T06:48:55Z"
     title "McCain questioned about Building 7 free fall on TV"
-    description "On April 9th, 2013, Senator John McCain appeared on C-&#10;SPAN's live call-in show, Washington Journal.  Identifying myself under a  Pseudonym, I asked him the  following question:&#10;&#10;&#34;The National Institute of Standards and Technology asserts that the collapse of the 47-story World Trade Center Building 7 on 9/11 was caused by fire. Yet they acknowledge that the first 100 feet of that collapse took place at free-fall acceleration. Engineers will tell you that fire cannot do this, that the only method by which it can be accomplished is the use of pre-planted explosives.&#10;&#10;How do you explain this discrepancy...of a hundred feet of free-fall, without the use of explosives?&#34;&#10;&#10; As the video shows, John McCain claimed ignorance, saying, &#34;To tell you the truth, this is an area that I'm not very familiar...and if you would drop me a note and mention that we talked on C-SPAN, I'd be glad to get you a more complete answer. But...honestly, every once in a while I have to plead ignorance about an issue and this is one that I have not been involved in, but I'll be more than happy to look into it...&#34;&#10;&#10;John McCain, of course, is not ignorant of 9/11 Truth. He wrote the foreward for the Popular Mechanics book &#34;Debunking 9/11 Myths: Why Conspiracy Theories Can't Stand Up to the Facts&#34;. In his essay &#34;9/11 Conspiracy Myths: Truth Under Attack&#34; which was adapted from his foreward for Popular Mechanics' book, McCain wrote:&#10;&#10;&#34;Any explanation for 9/11 must start and end with the facts. The evidence must be gathered and analyzed. Then&#8212;only then&#8212;can conclusions be drawn.&#34;&#10;&#10; Indeed, 100 feet of free-fall acceleration of WTC 7 is a fact, as acknowledged by the National Institute of Standards and Technology (NIST), which was the government agency tasked with investigating the destruction of the building. NIST was forced to admit to WTC 7's free-fall after physics teacher David Chandler embarrassed the agency at a technical briefing in August of 2008. &#10;&#10;As well, NIST has refused requests to disclose the data used to create its computer models for its WTC7 investigation, claiming that doing so would somehow jeopardize public safety. &#10;&#10; It's likely that John McCain's plea of ignorance on Washington Journal was in reference to the technical information cited in the question that I asked him and not to 9/11 Truth in general. &#10;&#10; In regards to the controversial issue of WTC 7's destruction, he should be quite familiar with the topic. &#10;&#10;In 2008 Blair Gadsby-- a religious history professor and constituent of McCain's-- held a hunger strike for 17 days at McCain's Phoenix office after failing to obtain a personal meeting with the Senator to discuss his concerns about the 9/11 crime. Richard Gage, AIA-- CEO and founder of Architects and Engineers for 9/11 Truth-- offered his immediate availability to Senator McCain to discuss the evidence. Though a member of McCain's staff finally met with Gadsby and other 9/11 activists after nine days into Gadsby's hunger strike, and the staff member was given materials that laid out the evidence of the Twin Towers and Building 7's controlled demolition on 9/11, Senator McCain himself refused to meet with the activists personally, stating in a letter to Gadsby:&#10;&#10;  &#34;I believe these investigations have been conducted in good faith by qualified experts who have approached this daunting task honestly and objectively. My staff and I are always open to new, scientifically substantiated information that helps explain how and why the tragedies of September 11th occurred. I welcome any additional new information you may wish to present on the subject and will make my staff available to listen to your concerns.&#34;&#10;&#10;Because NIST's acknowledgement of WTC 7's free-fall took place after McCain wrote those words to Gadsby, it qualifies as the &#34;new, scientifically substantiated information&#34; McCain was seeking. McCain promised on Washington Journal that he would try to answer the question that I asked him. Based on his promise and the existence of the new evidence, John McCain's office should, therefore, be open to a new meeting with supporters of Architects and Engineers for 9/11 Truth and a personal re-examination of the evidence. &#10;&#10;-Andrew Steele&#10;&#10;Article here:  &#10;&#10;http://www.911freefall.com/2013/04/mccain-asked-about-free-fall-of.html"
+    description "On April 9th, 2013, Senator John McCain appeared on C-&amp;#10;SPAN's live call-in show, Washington Journal.  Identifying myself under a  Pseudonym, I asked him the  following question:&amp;#10;&amp;#10;&amp;#34;The National Institute of Standards and Technology asserts that the collapse of the 47-story World Trade Center Building 7 on 9/11 was caused by fire. Yet they acknowledge that the first 100 feet of that collapse took place at free-fall acceleration. Engineers will tell you that fire cannot do this, that the only method by which it can be accomplished is the use of pre-planted explosives.&amp;#10;&amp;#10;How do you explain this discrepancy...of a hundred feet of free-fall, without the use of explosives?&amp;#34;&amp;#10;&amp;#10; As the video shows, John McCain claimed ignorance, saying, &amp;#34;To tell you the truth, this is an area that I'm not very familiar...and if you would drop me a note and mention that we talked on C-SPAN, I'd be glad to get you a more complete answer. But...honestly, every once in a while I have to plead ignorance about an issue and this is one that I have not been involved in, but I'll be more than happy to look into it...&amp;#34;&amp;#10;&amp;#10;John McCain, of course, is not ignorant of 9/11 Truth. He wrote the foreward for the Popular Mechanics book &amp;#34;Debunking 9/11 Myths: Why Conspiracy Theories Can't Stand Up to the Facts&amp;#34;. In his essay &amp;#34;9/11 Conspiracy Myths: Truth Under Attack&amp;#34; which was adapted from his foreward for Popular Mechanics' book, McCain wrote:&amp;#10;&amp;#10;&amp;#34;Any explanation for 9/11 must start and end with the facts. The evidence must be gathered and analyzed. Then&amp;#8212;only then&amp;#8212;can conclusions be drawn.&amp;#34;&amp;#10;&amp;#10; Indeed, 100 feet of free-fall acceleration of WTC 7 is a fact, as acknowledged by the National Institute of Standards and Technology (NIST), which was the government agency tasked with investigating the destruction of the building. NIST was forced to admit to WTC 7's free-fall after physics teacher David Chandler embarrassed the agency at a technical briefing in August of 2008. &amp;#10;&amp;#10;As well, NIST has refused requests to disclose the data used to create its computer models for its WTC7 investigation, claiming that doing so would somehow jeopardize public safety. &amp;#10;&amp;#10; It's likely that John McCain's plea of ignorance on Washington Journal was in reference to the technical information cited in the question that I asked him and not to 9/11 Truth in general. &amp;#10;&amp;#10; In regards to the controversial issue of WTC 7's destruction, he should be quite familiar with the topic. &amp;#10;&amp;#10;In 2008 Blair Gadsby-- a religious history professor and constituent of McCain's-- held a hunger strike for 17 days at McCain's Phoenix office after failing to obtain a personal meeting with the Senator to discuss his concerns about the 9/11 crime. Richard Gage, AIA-- CEO and founder of Architects and Engineers for 9/11 Truth-- offered his immediate availability to Senator McCain to discuss the evidence. Though a member of McCain's staff finally met with Gadsby and other 9/11 activists after nine days into Gadsby's hunger strike, and the staff member was given materials that laid out the evidence of the Twin Towers and Building 7's controlled demolition on 9/11, Senator McCain himself refused to meet with the activists personally, stating in a letter to Gadsby:&amp;#10;&amp;#10;  &amp;#34;I believe these investigations have been conducted in good faith by qualified experts who have approached this daunting task honestly and objectively. My staff and I are always open to new, scientifically substantiated information that helps explain how and why the tragedies of September 11th occurred. I welcome any additional new information you may wish to present on the subject and will make my staff available to listen to your concerns.&amp;#34;&amp;#10;&amp;#10;Because NIST's acknowledgement of WTC 7's free-fall took place after McCain wrote those words to Gadsby, it qualifies as the &amp;#34;new, scientifically substantiated information&amp;#34; McCain was seeking. McCain promised on Washington Journal that he would try to answer the question that I asked him. Based on his promise and the existence of the new evidence, John McCain's office should, therefore, be open to a new meeting with supporters of Architects and Engineers for 9/11 Truth and a personal re-examination of the evidence. &amp;#10;&amp;#10;-Andrew Steele&amp;#10;&amp;#10;Article here:  &amp;#10;&amp;#10;http://www.911freefall.com/2013/04/mccain-asked-about-free-fall-of.html"
     channeltitle "Free Fall"
     channelid "UC0ymoUqZRcTFDl0_86ahnjA"
     favcount 0
@@ -4078,7 +7378,29 @@ graph
     ppprofanity 0.07298138
     ppinflammatory 0.19802521
     sentiment 0.4404
-    cluster 7
+    cluster 3
+    leftright "R"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 1
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -4105,7 +7427,29 @@ graph
     ppprofanity 0.10514222
     ppinflammatory 0.07603036
     sentiment -0.34
-    cluster 4
+    cluster 3
+    leftright "R"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 1
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -4114,8 +7458,8 @@ graph
     step 0
     date "2007-11-06T04:21:07Z"
     title "911 Building 7 - by Martin Noakes"
-    description "http://www.911building7.co.uk/ - music and info&#13;&#10;&#13;&#10;On the 22nd October 2007 Martin Noakes releases his latest song that challenges the official account of 9/11. You can download the tune via many online music distributors including iTunes."
-    channeltitle "SO OUT THERE - Music &#38; Video"
+    description "http://www.911building7.co.uk/ - music and info&amp;#13;&amp;#10;&amp;#13;&amp;#10;On the 22nd October 2007 Martin Noakes releases his latest song that challenges the official account of 9/11. You can download the tune via many online music distributors including iTunes."
+    channeltitle "SO OUT THERE - Music &amp;#38; Video"
     channelid "UCxrkYB3oHHNI321sF2CKd8Q"
     favcount 0
     viewcount 6204
@@ -4133,6 +7477,28 @@ graph
     ppinflammatory 0.057696268
     sentiment 0
     cluster 8
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -4141,7 +7507,7 @@ graph
     step 0
     date "2016-07-19T04:50:00Z"
     title "FREE FALLIN starring BUILDING 7"
-    description "Published on Feb 23, 2016&#10;&#10;&#10;The FREE FALLIN&#8217; Campaign: Between now and September 11, 2016, send your version of &#8220;FREE FALLIN&#8217; starring BUILDING 7&#8221; to freefallin@AE911Truth.org, and we&#8217;ll post or share it here. Use our lyrics or write your own. Let&#8217;s post as many videos as we can!&#10; &#10;Sign the Petition. Share our Materials. Support our Work. http://AE911Truth.org&#10;&#10;Background&#10;&#10;&#8220;FREE FALLIN&#8217; starring BUILDING 7&#8221; is a riff on the classic Tom Petty song Free Fallin&#8217;. Twenty-seven years after the release of this beautiful song, it provides a perfect platform to bring attention to the troubling destruction of World Trade Center Building 7, which came down in free fall late in the afternoon on September 11, 2001. According to the official account of 9/11, Building 7 collapsed due to normal office fires ignited by falling debris from WTC 1 (structural damage and diesel fuel fires did not contribute to the collapse, according to the government). However, scientific and circumstantial evidence strongly contradicts that explanation.&#10;&#10;The fact that Building 7 instantaneously entered free fall - the acceleration of gravity - for a period of 2.25 seconds over a distance of eight stories is very strong evidence of controlled demolition. Free fall can only be achieved when there is no resistance provided by the structure below. A free-fall drop of eight stories indicates that all 81 columns in Building 7 were simultaneously severed over eight stories. Only explosives can account for this kind of structural failure. Indeed, fires have never caused the total collapse of a steel-framed high-rise, let alone in the manner of a classic controlled demolition.&#10;&#10;The infinitely small chance of a fire-induced failure bringing down the entire building &#8211; in particular, through the improbable series of structural failures which the government alleges caused the collapse &#8211; cannot be reconciled with the strong foreknowledge on the part of local authorities that Building 7 would eventually collapse (which the video highlights prominently). If Building 7 actually collapsed from fire, the authorities&#8217; prediction of Building 7&#8217;s collapse would be analogous to confidently and correctly predicting one specific lottery ticket to win the lottery.&#10;&#10;The inexplicable foreknowledge on the part of authorities is made all the more apparent by the inability of the engineering community to explain it after the fact. Nine months after the collapse, FEMA would state, &#8220;The specifics of the fires in WTC 7 and how they caused the building to collapse remain unknown at this time&#8230;. [T]he best hypothesis has only a low probability of occurrence.&#8221; More than four years after the collapse, the government&#8217;s lead investigator would state, &#8220;[T]ruthfully, we don&#8217;t really know. We&#8217;ve had trouble getting a handle on building No. 7.&#8221;&#10;&#10;In reality, the warnings of Building 7&#8217;s imminent demise must have originated from someone who knew that Building 7 was going to be brought down in a controlled demolition. Beyond that, Architects &#38; Engineers for 9/11 Truth, which represents over 2,400 architectural and engineering professionals, does not speculate on who brought down Building 7 or why. Instead, we are dedicated to educating the public about the destruction of all three World Trade Center buildings with the expectation that others with the responsibility and authority to conduct a proper investigation will do so.&#10;&#10;Please share this video widely through social media - if you're already on Facebook, share our posted version of the video from our Official page at https://www.facebook.com/ae911truth/and visit http://AE911Truth.org for more information on how you can help advance the cause of truth!"
+    description "Published on Feb 23, 2016&amp;#10;&amp;#10;&amp;#10;The FREE FALLIN&amp;#8217; Campaign: Between now and September 11, 2016, send your version of &amp;#8220;FREE FALLIN&amp;#8217; starring BUILDING 7&amp;#8221; to freefallin@AE911Truth.org, and we&amp;#8217;ll post or share it here. Use our lyrics or write your own. Let&amp;#8217;s post as many videos as we can!&amp;#10; &amp;#10;Sign the Petition. Share our Materials. Support our Work. http://AE911Truth.org&amp;#10;&amp;#10;Background&amp;#10;&amp;#10;&amp;#8220;FREE FALLIN&amp;#8217; starring BUILDING 7&amp;#8221; is a riff on the classic Tom Petty song Free Fallin&amp;#8217;. Twenty-seven years after the release of this beautiful song, it provides a perfect platform to bring attention to the troubling destruction of World Trade Center Building 7, which came down in free fall late in the afternoon on September 11, 2001. According to the official account of 9/11, Building 7 collapsed due to normal office fires ignited by falling debris from WTC 1 (structural damage and diesel fuel fires did not contribute to the collapse, according to the government). However, scientific and circumstantial evidence strongly contradicts that explanation.&amp;#10;&amp;#10;The fact that Building 7 instantaneously entered free fall - the acceleration of gravity - for a period of 2.25 seconds over a distance of eight stories is very strong evidence of controlled demolition. Free fall can only be achieved when there is no resistance provided by the structure below. A free-fall drop of eight stories indicates that all 81 columns in Building 7 were simultaneously severed over eight stories. Only explosives can account for this kind of structural failure. Indeed, fires have never caused the total collapse of a steel-framed high-rise, let alone in the manner of a classic controlled demolition.&amp;#10;&amp;#10;The infinitely small chance of a fire-induced failure bringing down the entire building &amp;#8211; in particular, through the improbable series of structural failures which the government alleges caused the collapse &amp;#8211; cannot be reconciled with the strong foreknowledge on the part of local authorities that Building 7 would eventually collapse (which the video highlights prominently). If Building 7 actually collapsed from fire, the authorities&amp;#8217; prediction of Building 7&amp;#8217;s collapse would be analogous to confidently and correctly predicting one specific lottery ticket to win the lottery.&amp;#10;&amp;#10;The inexplicable foreknowledge on the part of authorities is made all the more apparent by the inability of the engineering community to explain it after the fact. Nine months after the collapse, FEMA would state, &amp;#8220;The specifics of the fires in WTC 7 and how they caused the building to collapse remain unknown at this time&amp;#8230;. [T]he best hypothesis has only a low probability of occurrence.&amp;#8221; More than four years after the collapse, the government&amp;#8217;s lead investigator would state, &amp;#8220;[T]ruthfully, we don&amp;#8217;t really know. We&amp;#8217;ve had trouble getting a handle on building No. 7.&amp;#8221;&amp;#10;&amp;#10;In reality, the warnings of Building 7&amp;#8217;s imminent demise must have originated from someone who knew that Building 7 was going to be brought down in a controlled demolition. Beyond that, Architects &amp;#38; Engineers for 9/11 Truth, which represents over 2,400 architectural and engineering professionals, does not speculate on who brought down Building 7 or why. Instead, we are dedicated to educating the public about the destruction of all three World Trade Center buildings with the expectation that others with the responsibility and authority to conduct a proper investigation will do so.&amp;#10;&amp;#10;Please share this video widely through social media - if you're already on Facebook, share our posted version of the video from our Official page at https://www.facebook.com/ae911truth/and visit http://AE911Truth.org for more information on how you can help advance the cause of truth!"
     channeltitle "whoobie2008"
     channelid "UC3tSP3E5LvTdGmb-fU2cFlA"
     favcount 0
@@ -4159,7 +7525,29 @@ graph
     ppprofanity 0.11378818
     ppinflammatory 0.115596
     sentiment 0.5106
-    cluster 8
+    cluster 10
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -4186,7 +7574,29 @@ graph
     ppprofanity 0.030397967
     ppinflammatory 0.2636694
     sentiment 0
-    cluster 1
+    cluster 3
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -4195,7 +7605,7 @@ graph
     step 0
     date "2019-09-06T12:53:46Z"
     title "University Study Concludes Fire Did Not Bring Down WTC Building 7 on 9/11"
-    description "Read about the Lawyers' Committee FBI Lawsuit &#38; Grand Jury Petition here http://lcfor911.org&#10;&#10;A Structural Reevaluation of the Collapse of World Trade Center 7&#10;University of Alaska, J. Leroy Hulsey&#10;&#10;This is a study of the collapse of the 47-story World Trade Center Building 7 (WTC7) at 5:20 P.M. on September 11, 2001.&#10;&#10;The objective of the study was threefold: (1) Examine the structural response of WTC 7 to fire loads that may have occurred on September 11, 2001; (2) Rule out scenarios that could not have caused the observed collapse; and (3) Identify types of failures and their locations that may have caused the total collapse to occur as observed.&#10;&#10;The UAF research team utilized three approaches for examining the structural response of WTC 7 to the conditions that may have occurred on September 11, 2001. First, we simulated the local structural response to fire loading that may have occurred below Floor 13, where most of the fires in WTC 7 are reported to have occurred. Second, we supplemented our own simulation by examining the collapse initiation hypothesis developed by the National Institute of Standards and Technology (NIST). Third, we simulated a number of scenarios within the overall structural system in order to determine what types of local failures and their locations may have caused the total collapse to occur as observed.&#10;&#10;The principal conclusion of our study is that fire did not cause the collapse of WTC 7 on 9/11, contrary to the conclusions of NIST and private engineering firms that studied the collapse. The secondary conclusion of our study is that the collapse of WTC 7 was a global failure involving the near-simultaneous failure of every column in the building.&#10;&#10;The research team is currently organizing and uploading all of its data into a format that can be readily downloaded and used. We expect to post the data sometime between September 16 and September 30, 2019.&#10;&#10;There will be a two-month public comment period from September 3 to November 1, 2019, with the final report will be released later this year. During this period, we welcome any and all members of the public to submit constructive comments intended to further the analyses and presentation of findings contained in the report. Designated reviewers external to UAF and Architects &#38; Engineers for 9/11 Truth will also review the report during this period. http://ine.uaf.edu/wtc7&#10;&#10;Thanks AE911Truth and Dr. Hulsey&#10;&#10;Visit Architects and Engineers for 9/11 Truth&#10;http://ae911truth.org&#10;&#10;Please help with a donation if you can&#10;https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&#38;hosted_button_id=4MNAJTY6GPJM2&#38;source=url"
+    description "Read about the Lawyers' Committee FBI Lawsuit &amp;#38; Grand Jury Petition here http://lcfor911.org&amp;#10;&amp;#10;A Structural Reevaluation of the Collapse of World Trade Center 7&amp;#10;University of Alaska, J. Leroy Hulsey&amp;#10;&amp;#10;This is a study of the collapse of the 47-story World Trade Center Building 7 (WTC7) at 5:20 P.M. on September 11, 2001.&amp;#10;&amp;#10;The objective of the study was threefold: (1) Examine the structural response of WTC 7 to fire loads that may have occurred on September 11, 2001; (2) Rule out scenarios that could not have caused the observed collapse; and (3) Identify types of failures and their locations that may have caused the total collapse to occur as observed.&amp;#10;&amp;#10;The UAF research team utilized three approaches for examining the structural response of WTC 7 to the conditions that may have occurred on September 11, 2001. First, we simulated the local structural response to fire loading that may have occurred below Floor 13, where most of the fires in WTC 7 are reported to have occurred. Second, we supplemented our own simulation by examining the collapse initiation hypothesis developed by the National Institute of Standards and Technology (NIST). Third, we simulated a number of scenarios within the overall structural system in order to determine what types of local failures and their locations may have caused the total collapse to occur as observed.&amp;#10;&amp;#10;The principal conclusion of our study is that fire did not cause the collapse of WTC 7 on 9/11, contrary to the conclusions of NIST and private engineering firms that studied the collapse. The secondary conclusion of our study is that the collapse of WTC 7 was a global failure involving the near-simultaneous failure of every column in the building.&amp;#10;&amp;#10;The research team is currently organizing and uploading all of its data into a format that can be readily downloaded and used. We expect to post the data sometime between September 16 and September 30, 2019.&amp;#10;&amp;#10;There will be a two-month public comment period from September 3 to November 1, 2019, with the final report will be released later this year. During this period, we welcome any and all members of the public to submit constructive comments intended to further the analyses and presentation of findings contained in the report. Designated reviewers external to UAF and Architects &amp;#38; Engineers for 9/11 Truth will also review the report during this period. http://ine.uaf.edu/wtc7&amp;#10;&amp;#10;Thanks AE911Truth and Dr. Hulsey&amp;#10;&amp;#10;Visit Architects and Engineers for 9/11 Truth&amp;#10;http://ae911truth.org&amp;#10;&amp;#10;Please help with a donation if you can&amp;#10;https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;#38;hosted_button_id=4MNAJTY6GPJM2&amp;#38;source=url"
     channeltitle "Lawyers' Committee for 9/11 Inquiry"
     channelid "UCWQbEeExutR4vR4pEFmQUJw"
     favcount 0
@@ -4213,7 +7623,29 @@ graph
     ppprofanity 0.082689874
     ppinflammatory 0.11997247
     sentiment -0.34
-    cluster 4
+    cluster 3
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -4240,7 +7672,29 @@ graph
     ppprofanity 0.08102426
     ppinflammatory 0.038008373
     sentiment -0.2732
-    cluster 7
+    cluster 3
+    leftright "R"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 1
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -4249,7 +7703,7 @@ graph
     step 0
     date "2019-09-26T12:01:03Z"
     title "9/11/19: CNBC Anchor Admits Building 7 Was A "
-    description "Either: 1) Sensitive government buildings are built pre-wired with charges for future demolition if necessary, 2) the NYFD has the capability to wire a building for demolition in 8 hours, or 3) it was an inside job.&#10;&#10;source video: https://www.youtube.com/watch?v=gNIzC4a8rLs"
+    description "Either: 1) Sensitive government buildings are built pre-wired with charges for future demolition if necessary, 2) the NYFD has the capability to wire a building for demolition in 8 hours, or 3) it was an inside job.&amp;#10;&amp;#10;source video: https://www.youtube.com/watch?v=gNIzC4a8rLs"
     channeltitle "ThisWeekInFascism"
     channelid "UCifMC6kFVQcYeU6QBOK-wZg"
     favcount 0
@@ -4268,6 +7722,28 @@ graph
     ppinflammatory 0.014296044
     sentiment 0.296
     cluster 8
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -4276,7 +7752,7 @@ graph
     step 0
     date "2022-07-07T01:13:18Z"
     title "We Are Change Talk Show: Richard Gage Former CEO of Architects and Engineers for 9/11 truth"
-    description "This episode features San Francisco Bay Area architect Richard Gage, AIA, member of the American Institute of Architects and founder and former CEO of Architects &#38; Engineers for 9/11 truth.&#10;&#10;To help the We Are Change Melbourne Talk Show, Donations&#10;can be made to&#10;&#10;Westpac Jeff J O'Toole BSB 734 216 Account Number 871 457&#10;&#10;Support via Paypal: paypal.me/wearechangemelbourne&#10;&#10;https://www.patreon.com/jeffrowproduc...&#10;&#10;Bitcoin: PAZTSOBSEM2DYNDVIA4GG535NZHUO2JS&#10;&#10;We Are Change Melbourne Facebook Group: https://www.facebook.com/groups/50604...&#10;&#10;Jeff O'Toole Facebook: https://www.facebook.com/&#10;&#10;Videos Available on&#10;We Are Change Melbourne Clips https://www.youtube.com/channel/UCuUL...&#10;&#10;Jeffrow Productions.&#10;https://www.youtube.com/channel/UCsgc...&#10;&#10;Subscribe on Bitchute for a full range of videos&#10;https://www.bitchute.com/channel/skhC..."
+    description "This episode features San Francisco Bay Area architect Richard Gage, AIA, member of the American Institute of Architects and founder and former CEO of Architects &amp;#38; Engineers for 9/11 truth.&amp;#10;&amp;#10;To help the We Are Change Melbourne Talk Show, Donations&amp;#10;can be made to&amp;#10;&amp;#10;Westpac Jeff J O'Toole BSB 734 216 Account Number 871 457&amp;#10;&amp;#10;Support via Paypal: paypal.me/wearechangemelbourne&amp;#10;&amp;#10;https://www.patreon.com/jeffrowproduc...&amp;#10;&amp;#10;Bitcoin: PAZTSOBSEM2DYNDVIA4GG535NZHUO2JS&amp;#10;&amp;#10;We Are Change Melbourne Facebook Group: https://www.facebook.com/groups/50604...&amp;#10;&amp;#10;Jeff O'Toole Facebook: https://www.facebook.com/&amp;#10;&amp;#10;Videos Available on&amp;#10;We Are Change Melbourne Clips https://www.youtube.com/channel/UCuUL...&amp;#10;&amp;#10;Jeffrow Productions.&amp;#10;https://www.youtube.com/channel/UCsgc...&amp;#10;&amp;#10;Subscribe on Bitchute for a full range of videos&amp;#10;https://www.bitchute.com/channel/skhC..."
     channeltitle "WeAreChangeMelbourne"
     channelid "UC8jL0B-Lj8IBEt6Df7W23qw"
     favcount 0
@@ -4294,7 +7770,29 @@ graph
     ppprofanity 0.057459213
     ppinflammatory 0.1044487
     sentiment 0.3182
-    cluster 5
+    cluster 6
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -4303,7 +7801,7 @@ graph
     step 0
     date "2022-07-04T09:45:38Z"
     title "9/11: An Architects Guide Part 1 - Building 7 (5/4/22) [TRUNCATED - SEE DESCRIPTION]"
-    description "[[[   IMPORTANT NOTE: YouTube has removed our channels unpredictably, citing &#34;hate speech&#34; while offering no specifics. We have trimmed this video down to a short teaser to discourage YouTube from censoring it. Watch this complete video on Rokfin: https://www.rokfin.com/post/88937/911-An-Architects-Guide--Part-1-World-Trade-Center-7-5422-webinar--R-Gage or on our other video platforms: https://richardgage911.org/#platform-icons   ]]]&#10;&#10;&#10;9/11: An Architect&#8217;s Guide | Part 1 - World Trade Center 7&#10;&#10;Course Number: RG911-AAG-OD1&#10;&#10;Live three-part webinar series. Each part is about 1 1/2 hours long&#10;&#10;Richard Gage, AIA, Architect is dedicated to conducting research and providing education about the complete destruction of the three World Trade Center skyscrapers, my courses provide the technical knowledge and analytical framework with which to evaluate the most likely cause of those building failures.&#10;&#10;Course Description:&#10;&#10;In Part 1 of &#8220;9/11: An Architect&#8217;s Guide,&#8221; Richard Gage, AIA, provides an overview of the most important and readily understandable evidence regarding the destruction of World Trade Center Building 7 (WTC 7), a 47-story high-rise that was not struck by an airplane.&#10;&#10;The damage WTC 7 suffered from the collapse of the North Tower was found to be inconsequential. It had fires that were similar to those that have occurred previously in high-rise buildings. Yet it fell symmetrically into its own footprint in the manner of a typical controlled demolition.&#10;&#10;In 2008, the National Institute of Standards and Technology (NIST) concluded that WTC 7&#8217;s destruction was caused by normal office fires that burned &#8220;at temperatures hundreds of degrees below those typically considered in design practice for establishing structural fire resistance ratings.&#8221;&#10;&#10;Is NIST&#8217;s explanation for this unprecedented structural failure valid? Decide for yourself after watching this informative one-hour presentation. Using the information presented, you will be able to evaluate which of the two hypotheses &#8212; fire-induced failure or controlled demolition &#8212; is more consistent with the evidence.&#10;&#10;Learning Objectives:&#10;&#10;Participants will be able to:&#10;&#10;1. Describe the characteristics of building fires and the aspects of high-rise design that contribute to make fire-induced failure in steel-framed high-rise buildings a rare occurrence.&#10;&#10;2. Recognize the distinct features associated with fire-induced failure and the distinct features associated with the procedure of controlled demolition.&#10;&#10;3. Describe step-by-step the series of structural failures that the National Institute of Standards and Technology found to be the most likely cause of the collapse of World Trade Center Building 7.&#10;&#10;4. Analyze the physical evidence and dynamics of Building 7&#8217;s collapse according to how consistent they are with the competing hypotheses of fire-induced failure and controlled demolition.&#10;&#10;For more information: visit https://RichardGage911.org&#8203;&#10;&#10;#Part1WorldTradeCenter #anarchitectguide911 #NIST911 #richardgage #richardgage911 #richardgage911:unleashed! #wtc7 #911con #worldtradecenter&#10;Content Managed by ContentSafe.co"
+    description "[[[   IMPORTANT NOTE: YouTube has removed our channels unpredictably, citing &amp;#34;hate speech&amp;#34; while offering no specifics. We have trimmed this video down to a short teaser to discourage YouTube from censoring it. Watch this complete video on Rokfin: https://www.rokfin.com/post/88937/911-An-Architects-Guide--Part-1-World-Trade-Center-7-5422-webinar--R-Gage or on our other video platforms: https://richardgage911.org/#platform-icons   ]]]&amp;#10;&amp;#10;&amp;#10;9/11: An Architect&amp;#8217;s Guide | Part 1 - World Trade Center 7&amp;#10;&amp;#10;Course Number: RG911-AAG-OD1&amp;#10;&amp;#10;Live three-part webinar series. Each part is about 1 1/2 hours long&amp;#10;&amp;#10;Richard Gage, AIA, Architect is dedicated to conducting research and providing education about the complete destruction of the three World Trade Center skyscrapers, my courses provide the technical knowledge and analytical framework with which to evaluate the most likely cause of those building failures.&amp;#10;&amp;#10;Course Description:&amp;#10;&amp;#10;In Part 1 of &amp;#8220;9/11: An Architect&amp;#8217;s Guide,&amp;#8221; Richard Gage, AIA, provides an overview of the most important and readily understandable evidence regarding the destruction of World Trade Center Building 7 (WTC 7), a 47-story high-rise that was not struck by an airplane.&amp;#10;&amp;#10;The damage WTC 7 suffered from the collapse of the North Tower was found to be inconsequential. It had fires that were similar to those that have occurred previously in high-rise buildings. Yet it fell symmetrically into its own footprint in the manner of a typical controlled demolition.&amp;#10;&amp;#10;In 2008, the National Institute of Standards and Technology (NIST) concluded that WTC 7&amp;#8217;s destruction was caused by normal office fires that burned &amp;#8220;at temperatures hundreds of degrees below those typically considered in design practice for establishing structural fire resistance ratings.&amp;#8221;&amp;#10;&amp;#10;Is NIST&amp;#8217;s explanation for this unprecedented structural failure valid? Decide for yourself after watching this informative one-hour presentation. Using the information presented, you will be able to evaluate which of the two hypotheses &amp;#8212; fire-induced failure or controlled demolition &amp;#8212; is more consistent with the evidence.&amp;#10;&amp;#10;Learning Objectives:&amp;#10;&amp;#10;Participants will be able to:&amp;#10;&amp;#10;1. Describe the characteristics of building fires and the aspects of high-rise design that contribute to make fire-induced failure in steel-framed high-rise buildings a rare occurrence.&amp;#10;&amp;#10;2. Recognize the distinct features associated with fire-induced failure and the distinct features associated with the procedure of controlled demolition.&amp;#10;&amp;#10;3. Describe step-by-step the series of structural failures that the National Institute of Standards and Technology found to be the most likely cause of the collapse of World Trade Center Building 7.&amp;#10;&amp;#10;4. Analyze the physical evidence and dynamics of Building 7&amp;#8217;s collapse according to how consistent they are with the competing hypotheses of fire-induced failure and controlled demolition.&amp;#10;&amp;#10;For more information: visit https://RichardGage911.org&amp;#8203;&amp;#10;&amp;#10;#Part1WorldTradeCenter #anarchitectguide911 #NIST911 #richardgage #richardgage911 #richardgage911:unleashed! #wtc7 #911con #worldtradecenter&amp;#10;Content Managed by ContentSafe.co"
     channeltitle "RichardGage911WTC"
     channelid "UCxf4b9mDWZf-TXw2y3X-zug"
     favcount 0
@@ -4321,7 +7819,29 @@ graph
     ppprofanity 0.091103554
     ppinflammatory 0.0051976354
     sentiment 0
-    cluster 3
+    cluster 1
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -4330,7 +7850,7 @@ graph
     step 0
     date "2015-02-25T00:24:48Z"
     title "Architects and Engineers: Solving the Mystery of Building 7 - w/ Ed Asner"
-    description "This is the original video that YouTube took down, without notice, on or about Feb 20, 2015 - which left the following notice for those who follow one of thousands of locations of the YouTube link out there on the internet:&#10;&#10;https://www.youtube.com/watch?v=hZEvA8BCoBw&#10;&#10;&#34;This video has been removed as a violation of YouTube's policy against spam, scams, and commercially deceptive content&#34;&#10;&#10;Which makes no sense whatsoever given the scientific evidence that this documentary sticks to. Of course we are appealing the action to the extent that we can and will take legal steps as well.&#10;The video had over a Million and a half views prior to be taken down.&#10;&#10;Richard Gage, AIA&#10;Architects &#38; Engineers for 9/11 Truth&#10;http://www.ae911truth.org"
+    description "This is the original video that YouTube took down, without notice, on or about Feb 20, 2015 - which left the following notice for those who follow one of thousands of locations of the YouTube link out there on the internet:&amp;#10;&amp;#10;https://www.youtube.com/watch?v=hZEvA8BCoBw&amp;#10;&amp;#10;&amp;#34;This video has been removed as a violation of YouTube's policy against spam, scams, and commercially deceptive content&amp;#34;&amp;#10;&amp;#10;Which makes no sense whatsoever given the scientific evidence that this documentary sticks to. Of course we are appealing the action to the extent that we can and will take legal steps as well.&amp;#10;The video had over a Million and a half views prior to be taken down.&amp;#10;&amp;#10;Richard Gage, AIA&amp;#10;Architects &amp;#38; Engineers for 9/11 Truth&amp;#10;http://www.ae911truth.org"
     channeltitle "AE911Truth"
     channelid "UCL-c_zvZ3lhlU7NU1ikxgmQ"
     favcount 0
@@ -4348,7 +7868,29 @@ graph
     ppprofanity 0.036394835
     ppinflammatory 0.031157626
     sentiment 0.34
-    cluster 2
+    cluster 4
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -4357,7 +7899,7 @@ graph
     step 0
     date "2020-08-28T20:08:32Z"
     title "NWO Exposed  The Truth About 9/11 WTC Twin Towers Building 7 Controlled Demo Pentagon September 11"
-    description "False flag event made to usher in the New World Order. Precursor to todays COVID Crap. What are they planning? ..Evidence of complete government planning, manipulation, &#38; coverup! &#10;World Trade Center Building 7 perfectly imploded at the rate of free-fall from only a few small office fires after only about an hour.   How could jet fuel melt steel beams if a plane never touched the building? Controlled Demolition!  ...2 planes 3 buildings &#129300;&#10;Jet fuel can NOT melt steel beams, look at the images showing perfectly straight cut massive I beams.&#10;Puppet President controlled by shadow government &#38; super rich global elite.&#10;&#10;Question the official government narrative &#38; always follow the money- Oil Wars!&#10;#NeverForget #jetfuelcantmeltsteelbeams&#10;&#10;&#128085;&#129506; SHOW YOUR SUPPORT WITH MY FUN MERCH &#10145;&#65039; https://teespring.com/stores/livingthegoodlifenow&#10;&#10;LivingTheGoodLife&#10;LTGL MultiMedia&#10;LTGLN Media&#10;The Good Life&#10;ASMR Sound Source&#10;Living The Good Life&#10;LivingTheGoodLifeNow &#10;Living The Good Life Now"
+    description "False flag event made to usher in the New World Order. Precursor to todays COVID Crap. What are they planning? ..Evidence of complete government planning, manipulation, &amp;#38; coverup! &amp;#10;World Trade Center Building 7 perfectly imploded at the rate of free-fall from only a few small office fires after only about an hour.   How could jet fuel melt steel beams if a plane never touched the building? Controlled Demolition!  ...2 planes 3 buildings &amp;#129300;&amp;#10;Jet fuel can NOT melt steel beams, look at the images showing perfectly straight cut massive I beams.&amp;#10;Puppet President controlled by shadow government &amp;#38; super rich global elite.&amp;#10;&amp;#10;Question the official government narrative &amp;#38; always follow the money- Oil Wars!&amp;#10;#NeverForget #jetfuelcantmeltsteelbeams&amp;#10;&amp;#10;&amp;#128085;&amp;#129506; SHOW YOUR SUPPORT WITH MY FUN MERCH &amp;#10145;&amp;#65039; https://teespring.com/stores/livingthegoodlifenow&amp;#10;&amp;#10;LivingTheGoodLife&amp;#10;LTGL MultiMedia&amp;#10;LTGLN Media&amp;#10;The Good Life&amp;#10;ASMR Sound Source&amp;#10;Living The Good Life&amp;#10;LivingTheGoodLifeNow &amp;#10;Living The Good Life Now"
     channeltitle "LivingTheGoodLife"
     channelid "UCFdTmWygiLXgRNwkOOyNcig"
     favcount 0
@@ -4375,7 +7917,29 @@ graph
     ppprofanity 0.14232121
     ppinflammatory 0.04795714
     sentiment 0.25
-    cluster 2
+    cluster 4
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -4384,7 +7948,7 @@ graph
     step 0
     date "2011-09-06T08:10:04Z"
     title "Building 7 Explained"
-    description "**THIS VIDEO HAS BEEN UPDATED**&#10;Please watch: https://youtu.be/nP3TNHPCIVU&#10;&#10;Comments on this (much) older video will no longer be approved and will not appear here. Watch the new video and comment there instead, please.&#10;-----&#10;&#10;1. Things conspiracy believers do not want you to know:&#10;(a) WTC7 underwent a slow, internal progressive collapse. There was nothing symmetrical about it, except superficially, the last part of the collapse.&#10;(b) WTC7 actually did NOT collapse straight down or &#34;into its own footprint.&#34; Three buildings, across the 4-lane Barclay St., were heavily damaged. See photo: http://www.debunking911.com/wtc7pile.jpg&#10;(c) The &#34;experts&#34; at ae911truth.org are mostly electrical and chemical engineers, residential architects, students, etc. with little or no experience in steel tube-frame skyscraper construction. &#10;(d) A high-rise in Tehran collapsed due to fire in January 2017. However, the exterior did not hold together to the end as it did in WTC, because of major design differences.&#10;(e) The &#34;explosive traces&#34; or &#34;thermite&#34; claim comes from non-chemist Steven E. Jones, who analyzed samples sent to him privately with no chain of custody. His paper appeared in a journal that charges $800 to publish; Google &#34;CRAP Paper Accepted by Journal&#34; to read about its &#34;peer review&#34; process.&#10;(f) No &#34;molten metal&#34; was ever collected from WTC7 and analyzed.&#10;(g) Rigging a large building for demolition cannot be done &#34;over the weekend,&#34; nor would such preparation escape the notice of office workers. Demolition professionals laugh at this claim.&#10;(h) There exist NO peer-reviewed papers supporting controlled demolition, in any engineering journal. &#10;&#10;2. Examples of intellectual dishonesty or ignorance:&#10;(a) &#34;The fires did not burn hot enough to melt steel.&#34; Nobody claims that fire melted steel. Steel framing members expanded beyond tolerances, subjecting connections to failure. The heat also reduced the steel's capacity to support loads. No melting required.&#10;(b) &#34;BBC reported WTC7's collapse before it happened.&#34; Firefighters had predicted the collapse and cleared the area, and apparently one reporter misheard something. That's a far simpler explanation than conspiracy. Also on 9/11, CNN reported that the Washington Mall was on fire. That never happened.&#10;(c) &#34;The 9/11 Commission Report didn't even mention WTC7.&#34; It was done years before the WTC7 study was completed, and wasn't an engineering report.&#10;(d) &#34;NIST changed its story several times.&#34; Science refines its position over time. This is a strength, not a weakness. Alternatively we can start with a story, stick to that story, and look only for evidence that supports that story. The latter is what creationists and conspiracy believers do.&#10;(e) &#34;Larry Silverstein ordered to 'pull' WTC7, a slang term in the demolition industry.&#34; He was referring to pulling back firefighting efforts, as the building was considered lost. &#34;Pull&#34; is not demolition slang. Larry Silverstein is a real-estate investor, not a demolition worker.&#10;(f) &#34;Why not just light steel skyscrapers on fire when they need to be demolished?&#34; Because fires are dirty and dangerous. You could equally ask why wood-frame houses are demolished with bulldozers, when they could just be set on fire.&#10;(g) &#34;You are working for the government.&#34; This is a case of believing a bold premise with no evidence, merely because it fits the believer's worldview &#8212; a characteristic that seems common among conspiracy believers.&#10;&#10;3. Simple fallacies of logic:&#10;(a) &#34;No tall building had ever collapsed from fire. Therefore WTC7 could not have collapsed from fire.&#34; There is a first time for everything. Equivalent: &#34;No species before humans had ever invented the computer. Therefore humans could not have invented the computer.&#34;&#10;(b) &#34;Other tall buildings burned without collapsing; therefore WTC7 could not have collapsed due to fire.&#34; Besides the fact that these other cases were more fire-robust than the all-steel-framed WTC7, just because something does not always happen does not mean it will never happen. Equivalent: &#34;There exist primates that have not invented computers. Therefore humans could not have invented the computer.&#34;&#10;(c) &#34;The government has lied before, therefore it must have lied about 9/11.&#34; Just because A has done B does not imply that A always does B. Equivalent: &#34;The government must have also lied when it said aspirin is safe and effective.&#34;&#10;(d) &#34;Prove that it wasn't a controlled demolition.&#34; The burden of proof is on the person making the assertion. Equivalent: &#34;Prove that humans are not descended from reptiles of the planet Nbiru.&#34;"
+    description "**THIS VIDEO HAS BEEN UPDATED**&amp;#10;Please watch: https://youtu.be/nP3TNHPCIVU&amp;#10;&amp;#10;Comments on this (much) older video will no longer be approved and will not appear here. Watch the new video and comment there instead, please.&amp;#10;-----&amp;#10;&amp;#10;1. Things conspiracy believers do not want you to know:&amp;#10;(a) WTC7 underwent a slow, internal progressive collapse. There was nothing symmetrical about it, except superficially, the last part of the collapse.&amp;#10;(b) WTC7 actually did NOT collapse straight down or &amp;#34;into its own footprint.&amp;#34; Three buildings, across the 4-lane Barclay St., were heavily damaged. See photo: http://www.debunking911.com/wtc7pile.jpg&amp;#10;(c) The &amp;#34;experts&amp;#34; at ae911truth.org are mostly electrical and chemical engineers, residential architects, students, etc. with little or no experience in steel tube-frame skyscraper construction. &amp;#10;(d) A high-rise in Tehran collapsed due to fire in January 2017. However, the exterior did not hold together to the end as it did in WTC, because of major design differences.&amp;#10;(e) The &amp;#34;explosive traces&amp;#34; or &amp;#34;thermite&amp;#34; claim comes from non-chemist Steven E. Jones, who analyzed samples sent to him privately with no chain of custody. His paper appeared in a journal that charges $800 to publish; Google &amp;#34;CRAP Paper Accepted by Journal&amp;#34; to read about its &amp;#34;peer review&amp;#34; process.&amp;#10;(f) No &amp;#34;molten metal&amp;#34; was ever collected from WTC7 and analyzed.&amp;#10;(g) Rigging a large building for demolition cannot be done &amp;#34;over the weekend,&amp;#34; nor would such preparation escape the notice of office workers. Demolition professionals laugh at this claim.&amp;#10;(h) There exist NO peer-reviewed papers supporting controlled demolition, in any engineering journal. &amp;#10;&amp;#10;2. Examples of intellectual dishonesty or ignorance:&amp;#10;(a) &amp;#34;The fires did not burn hot enough to melt steel.&amp;#34; Nobody claims that fire melted steel. Steel framing members expanded beyond tolerances, subjecting connections to failure. The heat also reduced the steel's capacity to support loads. No melting required.&amp;#10;(b) &amp;#34;BBC reported WTC7's collapse before it happened.&amp;#34; Firefighters had predicted the collapse and cleared the area, and apparently one reporter misheard something. That's a far simpler explanation than conspiracy. Also on 9/11, CNN reported that the Washington Mall was on fire. That never happened.&amp;#10;(c) &amp;#34;The 9/11 Commission Report didn't even mention WTC7.&amp;#34; It was done years before the WTC7 study was completed, and wasn't an engineering report.&amp;#10;(d) &amp;#34;NIST changed its story several times.&amp;#34; Science refines its position over time. This is a strength, not a weakness. Alternatively we can start with a story, stick to that story, and look only for evidence that supports that story. The latter is what creationists and conspiracy believers do.&amp;#10;(e) &amp;#34;Larry Silverstein ordered to 'pull' WTC7, a slang term in the demolition industry.&amp;#34; He was referring to pulling back firefighting efforts, as the building was considered lost. &amp;#34;Pull&amp;#34; is not demolition slang. Larry Silverstein is a real-estate investor, not a demolition worker.&amp;#10;(f) &amp;#34;Why not just light steel skyscrapers on fire when they need to be demolished?&amp;#34; Because fires are dirty and dangerous. You could equally ask why wood-frame houses are demolished with bulldozers, when they could just be set on fire.&amp;#10;(g) &amp;#34;You are working for the government.&amp;#34; This is a case of believing a bold premise with no evidence, merely because it fits the believer's worldview &amp;#8212; a characteristic that seems common among conspiracy believers.&amp;#10;&amp;#10;3. Simple fallacies of logic:&amp;#10;(a) &amp;#34;No tall building had ever collapsed from fire. Therefore WTC7 could not have collapsed from fire.&amp;#34; There is a first time for everything. Equivalent: &amp;#34;No species before humans had ever invented the computer. Therefore humans could not have invented the computer.&amp;#34;&amp;#10;(b) &amp;#34;Other tall buildings burned without collapsing; therefore WTC7 could not have collapsed due to fire.&amp;#34; Besides the fact that these other cases were more fire-robust than the all-steel-framed WTC7, just because something does not always happen does not mean it will never happen. Equivalent: &amp;#34;There exist primates that have not invented computers. Therefore humans could not have invented the computer.&amp;#34;&amp;#10;(c) &amp;#34;The government has lied before, therefore it must have lied about 9/11.&amp;#34; Just because A has done B does not imply that A always does B. Equivalent: &amp;#34;The government must have also lied when it said aspirin is safe and effective.&amp;#34;&amp;#10;(d) &amp;#34;Prove that it wasn't a controlled demolition.&amp;#34; The burden of proof is on the person making the assertion. Equivalent: &amp;#34;Prove that humans are not descended from reptiles of the planet Nbiru.&amp;#34;"
     channeltitle "EdwardCurrent"
     channelid "UC20U2rjFhakOCOlvJn0MAGg"
     favcount 0
@@ -4402,7 +7966,29 @@ graph
     ppprofanity 0.043617073
     ppinflammatory 0.07811161
     sentiment 0
-    cluster 8
+    cluster 10
+    leftright "R"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 1
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -4411,7 +7997,7 @@ graph
     step 0
     date "2016-09-18T04:45:58Z"
     title "Debunking 9/11 Conspiracies #2 | What About Building 7?"
-    description "This is the second installment for my debunking series of the 911 conspiracy theories. The 911 truth movement asserts that building 7 was demolished by order of Larry Silverstein. The original 7 World Trade Center was a 47-story building, designed by Emery Roth &#38; Sons, with a red granite facade. The building was 610 feet tall, with a trapezoidal footprint that was 330 ft. long and 140 ft. wide. Tishman Realty &#38; Construction managed construction of the building, which began in 1983. In May 1987, the building opened, becoming the seventh structure of the World Trade Center. &#10;&#10;References:&#10;&#10;Questions and Answers about the NIST WTC 7 Investigation, NIST&#10;Citations for WTC 7: Lew, H.S.; Richard W. Bukowski; Nicholas J. Carino (September 2005). Design, Construction, and Maintenance of Structural and Life Safety Systems (NCSTAR 1-1). National Institute of Standards and Technology (NIST). p. 13.&#10;&#10;&#34;Seven World Trade Center (pre-9/11)&#34;. Emporis.com. Retrieved May 7, 2006.&#10;&#10;&#34;History of the World Trade Center&#34;. Port Authority of New York and New Jersey. Retrieved May 26, 2015.&#10;&#10;-~-~~-~~~-~~-~-&#10;Please watch: &#34;Atheists Have Faith In Science | Common Religious Arguments #4&#34; &#10;https://www.youtube.com/watch?v=uWH9_YJ_dW8&#10;-~-~~-~~~-~~-~-"
+    description "This is the second installment for my debunking series of the 911 conspiracy theories. The 911 truth movement asserts that building 7 was demolished by order of Larry Silverstein. The original 7 World Trade Center was a 47-story building, designed by Emery Roth &amp;#38; Sons, with a red granite facade. The building was 610 feet tall, with a trapezoidal footprint that was 330 ft. long and 140 ft. wide. Tishman Realty &amp;#38; Construction managed construction of the building, which began in 1983. In May 1987, the building opened, becoming the seventh structure of the World Trade Center. &amp;#10;&amp;#10;References:&amp;#10;&amp;#10;Questions and Answers about the NIST WTC 7 Investigation, NIST&amp;#10;Citations for WTC 7: Lew, H.S.; Richard W. Bukowski; Nicholas J. Carino (September 2005). Design, Construction, and Maintenance of Structural and Life Safety Systems (NCSTAR 1-1). National Institute of Standards and Technology (NIST). p. 13.&amp;#10;&amp;#10;&amp;#34;Seven World Trade Center (pre-9/11)&amp;#34;. Emporis.com. Retrieved May 7, 2006.&amp;#10;&amp;#10;&amp;#34;History of the World Trade Center&amp;#34;. Port Authority of New York and New Jersey. Retrieved May 26, 2015.&amp;#10;&amp;#10;-~-~~-~~~-~~-~-&amp;#10;Please watch: &amp;#34;Atheists Have Faith In Science | Common Religious Arguments #4&amp;#34; &amp;#10;https://www.youtube.com/watch?v=uWH9_YJ_dW8&amp;#10;-~-~~-~~~-~~-~-"
     channeltitle "Secular TeeJay"
     channelid "UC6ypc7SOVr5-InXLzpOPbXQ"
     favcount 0
@@ -4429,7 +8015,29 @@ graph
     ppprofanity 0.038572785
     ppinflammatory 0.24928316
     sentiment 0
-    cluster 4
+    cluster 5
+    leftright "R"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 1
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -4438,7 +8046,7 @@ graph
     step 0
     date "2022-07-03T08:14:23Z"
     title "9/11: An Architects Guide Part 1 - Building 7 (2/1/22) [TRUNCATED - SEE DESCRIPTION]"
-    description "[[[   IMPORTANT NOTE: YouTube has removed our channels unpredictably, citing &#34;hate speech&#34; while offering no specifics. We have trimmed this video down to a short teaser to discourage YouTube from censoring it. Watch this complete video on Rokfin: https://www.rokfin.com/post/88241/911-An-Architects-Guide--Part-1-World-Trade-Center-7-2122-webinar--R-Gage or on our other video platforms: https://richardgage911.org/#platform-icons   ]]]&#10;&#10;&#10;9/11: An Architect&#8217;s Guide | Part 1 - World Trade Center 7&#10;&#10;Course Number: RG911-AAG-OD1&#10;&#10;Live three-part webinar series. Each part is about 1 1/2 hours long&#10;&#10;Richard Gage, AIA, Architect is dedicated to conducting research and providing education about the complete destruction of the three World Trade Center skyscrapers, my courses provide the technical knowledge and analytical framework with which to evaluate the most likely cause of those building failures.&#10;&#10;Course Description:&#10;&#10;In Part 1 of &#8220;9/11: An Architect&#8217;s Guide,&#8221; Richard Gage, AIA, provides an overview of the most important and readily understandable evidence regarding the destruction of World Trade Center Building 7 (WTC 7), a 47-story high-rise that was not struck by an airplane.&#10;&#10;The damage WTC 7 suffered from the collapse of the North Tower was found to be inconsequential. It had fires that were similar to those that have occurred previously in high-rise buildings. Yet it fell symmetrically into its own footprint in the manner of a typical controlled demolition.&#10;&#10;In 2008, the National Institute of Standards and Technology (NIST) concluded that WTC 7&#8217;s destruction was caused by normal office fires that burned &#8220;at temperatures hundreds of degrees below those typically considered in design practice for establishing structural fire resistance ratings.&#8221;&#10;&#10;Is NIST&#8217;s explanation for this unprecedented structural failure valid? Decide for yourself after watching this informative one-hour presentation. Using the information presented, you will be able to evaluate which of the two hypotheses &#8212; fire-induced failure or controlled demolition &#8212; is more consistent with the evidence.&#10;&#10;Learning Objectives:&#10;&#10;Participants will be able to:&#10;&#10;1. Describe the characteristics of building fires and the aspects of high-rise design that contribute to make fire-induced failure in steel-framed high-rise buildings a rare occurrence.&#10;&#10;2. Recognize the distinct features associated with fire-induced failure and the distinct features associated with the procedure of controlled demolition.&#10;&#10;3. Describe step-by-step the series of structural failures that the National Institute of Standards and Technology found to be the most likely cause of the collapse of World Trade Center Building 7.&#10;&#10;4. Analyze the physical evidence and dynamics of Building 7&#8217;s collapse according to how consistent they are with the competing hypotheses of fire-induced failure and controlled demolition.&#10;&#10;For more information: visit https://RichardGage911.org&#8203;&#10;&#10;#Part1WorldTradeCenter #anarchitectguide911 #NIST911 #richardgage #richardgage911 #richardgage911:unleashed! #wtc7 #911con #worldtradecenter #richardgage&#10;Content Managed by ContentSafe.co"
+    description "[[[   IMPORTANT NOTE: YouTube has removed our channels unpredictably, citing &amp;#34;hate speech&amp;#34; while offering no specifics. We have trimmed this video down to a short teaser to discourage YouTube from censoring it. Watch this complete video on Rokfin: https://www.rokfin.com/post/88241/911-An-Architects-Guide--Part-1-World-Trade-Center-7-2122-webinar--R-Gage or on our other video platforms: https://richardgage911.org/#platform-icons   ]]]&amp;#10;&amp;#10;&amp;#10;9/11: An Architect&amp;#8217;s Guide | Part 1 - World Trade Center 7&amp;#10;&amp;#10;Course Number: RG911-AAG-OD1&amp;#10;&amp;#10;Live three-part webinar series. Each part is about 1 1/2 hours long&amp;#10;&amp;#10;Richard Gage, AIA, Architect is dedicated to conducting research and providing education about the complete destruction of the three World Trade Center skyscrapers, my courses provide the technical knowledge and analytical framework with which to evaluate the most likely cause of those building failures.&amp;#10;&amp;#10;Course Description:&amp;#10;&amp;#10;In Part 1 of &amp;#8220;9/11: An Architect&amp;#8217;s Guide,&amp;#8221; Richard Gage, AIA, provides an overview of the most important and readily understandable evidence regarding the destruction of World Trade Center Building 7 (WTC 7), a 47-story high-rise that was not struck by an airplane.&amp;#10;&amp;#10;The damage WTC 7 suffered from the collapse of the North Tower was found to be inconsequential. It had fires that were similar to those that have occurred previously in high-rise buildings. Yet it fell symmetrically into its own footprint in the manner of a typical controlled demolition.&amp;#10;&amp;#10;In 2008, the National Institute of Standards and Technology (NIST) concluded that WTC 7&amp;#8217;s destruction was caused by normal office fires that burned &amp;#8220;at temperatures hundreds of degrees below those typically considered in design practice for establishing structural fire resistance ratings.&amp;#8221;&amp;#10;&amp;#10;Is NIST&amp;#8217;s explanation for this unprecedented structural failure valid? Decide for yourself after watching this informative one-hour presentation. Using the information presented, you will be able to evaluate which of the two hypotheses &amp;#8212; fire-induced failure or controlled demolition &amp;#8212; is more consistent with the evidence.&amp;#10;&amp;#10;Learning Objectives:&amp;#10;&amp;#10;Participants will be able to:&amp;#10;&amp;#10;1. Describe the characteristics of building fires and the aspects of high-rise design that contribute to make fire-induced failure in steel-framed high-rise buildings a rare occurrence.&amp;#10;&amp;#10;2. Recognize the distinct features associated with fire-induced failure and the distinct features associated with the procedure of controlled demolition.&amp;#10;&amp;#10;3. Describe step-by-step the series of structural failures that the National Institute of Standards and Technology found to be the most likely cause of the collapse of World Trade Center Building 7.&amp;#10;&amp;#10;4. Analyze the physical evidence and dynamics of Building 7&amp;#8217;s collapse according to how consistent they are with the competing hypotheses of fire-induced failure and controlled demolition.&amp;#10;&amp;#10;For more information: visit https://RichardGage911.org&amp;#8203;&amp;#10;&amp;#10;#Part1WorldTradeCenter #anarchitectguide911 #NIST911 #richardgage #richardgage911 #richardgage911:unleashed! #wtc7 #911con #worldtradecenter #richardgage&amp;#10;Content Managed by ContentSafe.co"
     channeltitle "RichardGage911WTC"
     channelid "UCxf4b9mDWZf-TXw2y3X-zug"
     favcount 0
@@ -4456,7 +8064,29 @@ graph
     ppprofanity 0.09340848
     ppinflammatory 0.0051976354
     sentiment 0
-    cluster 1
+    cluster 2
+    leftright "R"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 1
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -4465,7 +8095,7 @@ graph
     step 0
     date "2022-07-03T08:00:27Z"
     title "9/11: An Architects Guide Part 1 - Building 7 (2/1/22) [TRUNCATED - SEE DESCRIPTION]"
-    description "[[[   IMPORTANT NOTE: YouTube has removed our channels unpredictably, citing &#34;hate speech&#34; while offering no specifics. We have trimmed this video down to a short teaser to discourage YouTube from censoring it. Watch this complete video on Rokfin: https://www.rokfin.com/post/88241/911-An-Architects-Guide--Part-1-World-Trade-Center-7-2122-webinar--R-Gage or on our other video platforms: https://richardgage911.org/#platform-icons   ]]]&#10;&#10;&#10;9/11: An Architect&#8217;s Guide | Part 1 - World Trade Center 7&#10;&#10;Course Number: RG911-AAG-OD1&#10;&#10;Live three-part webinar series. Each part is about 1 1/2 hours long&#10;&#10;Richard Gage, AIA, Architect is dedicated to conducting research and providing education about the complete destruction of the three World Trade Center skyscrapers, my courses provide the technical knowledge and analytical framework with which to evaluate the most likely cause of those building failures.&#10;&#10;Course Description:&#10;&#10;In Part 1 of &#8220;9/11: An Architect&#8217;s Guide,&#8221; Richard Gage, AIA, provides an overview of the most important and readily understandable evidence regarding the destruction of World Trade Center Building 7 (WTC 7), a 47-story high-rise that was not struck by an airplane.&#10;&#10;The damage WTC 7 suffered from the collapse of the North Tower was found to be inconsequential. It had fires that were similar to those that have occurred previously in high-rise buildings. Yet it fell symmetrically into its own footprint in the manner of a typical controlled demolition.&#10;&#10;In 2008, the National Institute of Standards and Technology (NIST) concluded that WTC 7&#8217;s destruction was caused by normal office fires that burned &#8220;at temperatures hundreds of degrees below those typically considered in design practice for establishing structural fire resistance ratings.&#8221;&#10;&#10;Is NIST&#8217;s explanation for this unprecedented structural failure valid? Decide for yourself after watching this informative one-hour presentation. Using the information presented, you will be able to evaluate which of the two hypotheses &#8212; fire-induced failure or controlled demolition &#8212; is more consistent with the evidence.&#10;&#10;Learning Objectives:&#10;&#10;Participants will be able to:&#10;&#10;1. Describe the characteristics of building fires and the aspects of high-rise design that contribute to make fire-induced failure in steel-framed high-rise buildings a rare occurrence.&#10;&#10;2. Recognize the distinct features associated with fire-induced failure and the distinct features associated with the procedure of controlled demolition.&#10;&#10;3. Describe step-by-step the series of structural failures that the National Institute of Standards and Technology found to be the most likely cause of the collapse of World Trade Center Building 7.&#10;&#10;4. Analyze the physical evidence and dynamics of Building 7&#8217;s collapse according to how consistent they are with the competing hypotheses of fire-induced failure and controlled demolition.&#10;&#10;For more information: visit https://RichardGage911.org&#8203;&#10;&#10;#Part1WorldTradeCenter #anarchitectguide911 #NIST911 #richardgage #richardgage911 #richardgage911:unleashed! #wtc7 #911con #worldtradecenter #richardgage&#10;Content Managed by ContentSafe.co"
+    description "[[[   IMPORTANT NOTE: YouTube has removed our channels unpredictably, citing &amp;#34;hate speech&amp;#34; while offering no specifics. We have trimmed this video down to a short teaser to discourage YouTube from censoring it. Watch this complete video on Rokfin: https://www.rokfin.com/post/88241/911-An-Architects-Guide--Part-1-World-Trade-Center-7-2122-webinar--R-Gage or on our other video platforms: https://richardgage911.org/#platform-icons   ]]]&amp;#10;&amp;#10;&amp;#10;9/11: An Architect&amp;#8217;s Guide | Part 1 - World Trade Center 7&amp;#10;&amp;#10;Course Number: RG911-AAG-OD1&amp;#10;&amp;#10;Live three-part webinar series. Each part is about 1 1/2 hours long&amp;#10;&amp;#10;Richard Gage, AIA, Architect is dedicated to conducting research and providing education about the complete destruction of the three World Trade Center skyscrapers, my courses provide the technical knowledge and analytical framework with which to evaluate the most likely cause of those building failures.&amp;#10;&amp;#10;Course Description:&amp;#10;&amp;#10;In Part 1 of &amp;#8220;9/11: An Architect&amp;#8217;s Guide,&amp;#8221; Richard Gage, AIA, provides an overview of the most important and readily understandable evidence regarding the destruction of World Trade Center Building 7 (WTC 7), a 47-story high-rise that was not struck by an airplane.&amp;#10;&amp;#10;The damage WTC 7 suffered from the collapse of the North Tower was found to be inconsequential. It had fires that were similar to those that have occurred previously in high-rise buildings. Yet it fell symmetrically into its own footprint in the manner of a typical controlled demolition.&amp;#10;&amp;#10;In 2008, the National Institute of Standards and Technology (NIST) concluded that WTC 7&amp;#8217;s destruction was caused by normal office fires that burned &amp;#8220;at temperatures hundreds of degrees below those typically considered in design practice for establishing structural fire resistance ratings.&amp;#8221;&amp;#10;&amp;#10;Is NIST&amp;#8217;s explanation for this unprecedented structural failure valid? Decide for yourself after watching this informative one-hour presentation. Using the information presented, you will be able to evaluate which of the two hypotheses &amp;#8212; fire-induced failure or controlled demolition &amp;#8212; is more consistent with the evidence.&amp;#10;&amp;#10;Learning Objectives:&amp;#10;&amp;#10;Participants will be able to:&amp;#10;&amp;#10;1. Describe the characteristics of building fires and the aspects of high-rise design that contribute to make fire-induced failure in steel-framed high-rise buildings a rare occurrence.&amp;#10;&amp;#10;2. Recognize the distinct features associated with fire-induced failure and the distinct features associated with the procedure of controlled demolition.&amp;#10;&amp;#10;3. Describe step-by-step the series of structural failures that the National Institute of Standards and Technology found to be the most likely cause of the collapse of World Trade Center Building 7.&amp;#10;&amp;#10;4. Analyze the physical evidence and dynamics of Building 7&amp;#8217;s collapse according to how consistent they are with the competing hypotheses of fire-induced failure and controlled demolition.&amp;#10;&amp;#10;For more information: visit https://RichardGage911.org&amp;#8203;&amp;#10;&amp;#10;#Part1WorldTradeCenter #anarchitectguide911 #NIST911 #richardgage #richardgage911 #richardgage911:unleashed! #wtc7 #911con #worldtradecenter #richardgage&amp;#10;Content Managed by ContentSafe.co"
     channeltitle "RichardGage911WTC"
     channelid "UCxf4b9mDWZf-TXw2y3X-zug"
     favcount 0
@@ -4483,7 +8113,29 @@ graph
     ppprofanity 0.09340852
     ppinflammatory 0.005197633
     sentiment 0
-    cluster 4
+    cluster 5
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -4492,7 +8144,7 @@ graph
     step 0
     date "2007-04-30T13:00:28Z"
     title "9/11 CONSPIRACY: THE BIZARRE COLLAPSE OF BUILDING #7"
-    description "&#34;Hey, World Trade 7 fell down like because, because, because, um, the mayor stored thousands of gallons of diesel fuel in an office building. Yeah, that's it. Diesel fuel. It's just a coincidence that every single load bearing member on the ground floor failed at the exact same moment in time. Coincidence. CO-IN-SEE-DUNCE! Trust us. We're the government.&#34;&#13;&#10;&#13;&#10;Take a close look at the manner in which WTC 7 collapses straight down. For the building to collapse in this fashion, all of the load bearing supports would have had to fail at exactly the same time. &#13;&#10;The claim that the collapse was the result of a fire requires the fire be equally distributed throughout the entire floor of the building, providing equal heat for an equal amount of time, so that all the load bearings members would fail at the exact same moment. &#13;&#10;&#13;&#10;Do you find this plausible?"
+    description "&amp;#34;Hey, World Trade 7 fell down like because, because, because, um, the mayor stored thousands of gallons of diesel fuel in an office building. Yeah, that's it. Diesel fuel. It's just a coincidence that every single load bearing member on the ground floor failed at the exact same moment in time. Coincidence. CO-IN-SEE-DUNCE! Trust us. We're the government.&amp;#34;&amp;#13;&amp;#10;&amp;#13;&amp;#10;Take a close look at the manner in which WTC 7 collapses straight down. For the building to collapse in this fashion, all of the load bearing supports would have had to fail at exactly the same time. &amp;#13;&amp;#10;The claim that the collapse was the result of a fire requires the fire be equally distributed throughout the entire floor of the building, providing equal heat for an equal amount of time, so that all the load bearings members would fail at the exact same moment. &amp;#13;&amp;#10;&amp;#13;&amp;#10;Do you find this plausible?"
     channeltitle "911REICHSTAG"
     channelid "UCY9e6CeXtOC9t_s-uYaaM4w"
     favcount 0
@@ -4510,7 +8162,29 @@ graph
     ppprofanity 0.14737688
     ppinflammatory 0.17484228
     sentiment -0.836
-    cluster 2
+    cluster 4
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -4519,7 +8193,7 @@ graph
     step 0
     date "2022-07-05T09:48:06Z"
     title "9/11: An Architects Guide Part 1 - Building 7 (6/1/22) [TRUNCATED - SEE DESCRIPTION]"
-    description "[[[   IMPORTANT NOTE: YouTube has removed our channels unpredictably, citing &#34;hate speech&#34; while offering no specifics. We have trimmed this video down to a short teaser to discourage YouTube from censoring it. Watch this complete video on Rokfin: https://www.rokfin.com/post/88497/911-An-Architects-Guide-Part-1-WTC-Building-7-6122-webinar or on our other video platforms: https://richardgage911.org/#platform-icons   ]]]&#10;&#10;&#10;9/11: An Architect&#8217;s Guide | Part 1 - World Trade Center 7&#10;&#10;Course Number: RG911-AAG-OD1&#10;&#10;Live three-part webinar series. Each part is about 1 1/2 hours long&#10;&#10;Richard Gage, AIA, Architect is dedicated to conducting research and providing education about the complete destruction of the three World Trade Center skyscrapers, my courses provide the technical knowledge and analytical framework with which to evaluate the most likely cause of those building failures.&#10;&#10;Course Description:&#10;&#10;In Part 1 of &#8220;9/11: An Architect&#8217;s Guide,&#8221; Richard Gage, AIA, provides an overview of the most important and readily understandable evidence regarding the destruction of World Trade Center Building 7 (WTC 7), a 47-story high-rise that was not struck by an airplane.&#10;&#10;The damage WTC 7 suffered from the collapse of the North Tower was found to be inconsequential. It had fires that were similar to those that have occurred previously in high-rise buildings. Yet it fell symmetrically into its own footprint in the manner of a typical controlled demolition.&#10;&#10;In 2008, the National Institute of Standards and Technology (NIST) concluded that WTC 7&#8217;s destruction was caused by normal office fires that burned &#8220;at temperatures hundreds of degrees below those typically considered in design practice for establishing structural fire resistance ratings.&#8221;&#10;&#10;Is NIST&#8217;s explanation for this unprecedented structural failure valid? Decide for yourself after watching this informative one-hour presentation. Using the information presented, you will be able to evaluate which of the two hypotheses &#8212; fire-induced failure or controlled demolition &#8212; is more consistent with the evidence.&#10;&#10;Learning Objectives:&#10;&#10;Participants will be able to:&#10;&#10;1. Describe the characteristics of building fires and the aspects of high-rise design that contribute to make fire-induced failure in steel-framed high-rise buildings a rare occurrence.&#10;&#10;2. Recognize the distinct features associated with fire-induced failure and the distinct features associated with the procedure of controlled demolition.&#10;&#10;3. Describe step-by-step the series of structural failures that the National Institute of Standards and Technology found to be the most likely cause of the collapse of World Trade Center Building 7.&#10;&#10;4. Analyze the physical evidence and dynamics of Building 7&#8217;s collapse according to how consistent they are with the competing hypotheses of fire-induced failure and controlled demolition.&#10;&#10;For more information: visit https://RichardGage911.org&#8203;&#10;&#10;#Part1WorldTradeCenter #anarchitectguide911 #NIST911 #richardgage #richardgage911 #richardgage911:unleashed! #wtc7 #911con #worldtradecenter&#10;Content Managed by ContentSafe.co"
+    description "[[[   IMPORTANT NOTE: YouTube has removed our channels unpredictably, citing &amp;#34;hate speech&amp;#34; while offering no specifics. We have trimmed this video down to a short teaser to discourage YouTube from censoring it. Watch this complete video on Rokfin: https://www.rokfin.com/post/88497/911-An-Architects-Guide-Part-1-WTC-Building-7-6122-webinar or on our other video platforms: https://richardgage911.org/#platform-icons   ]]]&amp;#10;&amp;#10;&amp;#10;9/11: An Architect&amp;#8217;s Guide | Part 1 - World Trade Center 7&amp;#10;&amp;#10;Course Number: RG911-AAG-OD1&amp;#10;&amp;#10;Live three-part webinar series. Each part is about 1 1/2 hours long&amp;#10;&amp;#10;Richard Gage, AIA, Architect is dedicated to conducting research and providing education about the complete destruction of the three World Trade Center skyscrapers, my courses provide the technical knowledge and analytical framework with which to evaluate the most likely cause of those building failures.&amp;#10;&amp;#10;Course Description:&amp;#10;&amp;#10;In Part 1 of &amp;#8220;9/11: An Architect&amp;#8217;s Guide,&amp;#8221; Richard Gage, AIA, provides an overview of the most important and readily understandable evidence regarding the destruction of World Trade Center Building 7 (WTC 7), a 47-story high-rise that was not struck by an airplane.&amp;#10;&amp;#10;The damage WTC 7 suffered from the collapse of the North Tower was found to be inconsequential. It had fires that were similar to those that have occurred previously in high-rise buildings. Yet it fell symmetrically into its own footprint in the manner of a typical controlled demolition.&amp;#10;&amp;#10;In 2008, the National Institute of Standards and Technology (NIST) concluded that WTC 7&amp;#8217;s destruction was caused by normal office fires that burned &amp;#8220;at temperatures hundreds of degrees below those typically considered in design practice for establishing structural fire resistance ratings.&amp;#8221;&amp;#10;&amp;#10;Is NIST&amp;#8217;s explanation for this unprecedented structural failure valid? Decide for yourself after watching this informative one-hour presentation. Using the information presented, you will be able to evaluate which of the two hypotheses &amp;#8212; fire-induced failure or controlled demolition &amp;#8212; is more consistent with the evidence.&amp;#10;&amp;#10;Learning Objectives:&amp;#10;&amp;#10;Participants will be able to:&amp;#10;&amp;#10;1. Describe the characteristics of building fires and the aspects of high-rise design that contribute to make fire-induced failure in steel-framed high-rise buildings a rare occurrence.&amp;#10;&amp;#10;2. Recognize the distinct features associated with fire-induced failure and the distinct features associated with the procedure of controlled demolition.&amp;#10;&amp;#10;3. Describe step-by-step the series of structural failures that the National Institute of Standards and Technology found to be the most likely cause of the collapse of World Trade Center Building 7.&amp;#10;&amp;#10;4. Analyze the physical evidence and dynamics of Building 7&amp;#8217;s collapse according to how consistent they are with the competing hypotheses of fire-induced failure and controlled demolition.&amp;#10;&amp;#10;For more information: visit https://RichardGage911.org&amp;#8203;&amp;#10;&amp;#10;#Part1WorldTradeCenter #anarchitectguide911 #NIST911 #richardgage #richardgage911 #richardgage911:unleashed! #wtc7 #911con #worldtradecenter&amp;#10;Content Managed by ContentSafe.co"
     channeltitle "RichardGage911WTC"
     channelid "UCxf4b9mDWZf-TXw2y3X-zug"
     favcount 0
@@ -4537,7 +8211,29 @@ graph
     ppprofanity 0.098020256
     ppinflammatory 0.0051976354
     sentiment 0
-    cluster 5
+    cluster 6
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -4546,7 +8242,7 @@ graph
     step 0
     date "2016-11-28T21:30:01Z"
     title "9/11: Why The Building 7 Conspiracy is Bullshit"
-    description "Help Support NOBS by joining our Patreon!&#10;https://www.patreon.com/nobullshit&#10;&#10;Our next 30 supporters on Patreon will get shout outs in future videos.&#10;&#10;Original video: https://youtu.be/uFJa9WUy5QI&#10;SHIRTS! https://teespring.com/stores/no-bullshit-store&#10;Contact: TheNoBSemail@gmail.com&#10;Twitter: https://twitter.com/TheNoBullshit&#10;Paypal Donate: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&#38;hosted_button_id=SEUELSDAERNQQ&#10;&#10;(Segments of source material used under fair use, for commentary, criticism and satire.)"
+    description "Help Support NOBS by joining our Patreon!&amp;#10;https://www.patreon.com/nobullshit&amp;#10;&amp;#10;Our next 30 supporters on Patreon will get shout outs in future videos.&amp;#10;&amp;#10;Original video: https://youtu.be/uFJa9WUy5QI&amp;#10;SHIRTS! https://teespring.com/stores/no-bullshit-store&amp;#10;Contact: TheNoBSemail@gmail.com&amp;#10;Twitter: https://twitter.com/TheNoBullshit&amp;#10;Paypal Donate: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;#38;hosted_button_id=SEUELSDAERNQQ&amp;#10;&amp;#10;(Segments of source material used under fair use, for commentary, criticism and satire.)"
     channeltitle "No B.S."
     channelid "UCZNk7Jjb2t8EuBdgn4Zj1cw"
     favcount 0
@@ -4564,7 +8260,29 @@ graph
     ppprofanity 0.95514876
     ppinflammatory 0.34546068
     sentiment -0.802
-    cluster 4
+    cluster 5
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -4573,7 +8291,7 @@ graph
     step 0
     date "2007-09-27T09:21:41Z"
     title "9/11 Building 7 - The Original Video - Martin Noakes"
-    description "There is an updated video here: https://www.youtube.com/watch?v=bMq1PiUbf-M &#10;&#10;Written &#38; recorded in 2007 - From the album Life is Just a Ride - http://www.cdbaby.com/cd/martinnoakes2 &#38; Featured in the multi-award winning film Sieranevada (Nominated for an Oscar - Feb 2017) - by internationally acclaimed director - Cristi Puiu. More info here: http://www.songcity.co.uk Please rate, comment &#38; forward to your friends.&#10;&#10;Many thanks to anyone who supports my work...&#10;&#10;Finally, here's a link to the opening ceremony for the premier of Sieranevada (Which my wife &#38; I attended) at the Cannes Film Festival  - May 2016 - https://www.youtube.com/watch?v=Iy0MJgB45eE &#10;&#10;Chord Chart - http://www.911building7.co.uk/ChordCh...&#10;&#10;Lyrics:&#10;There's a million reasons why I don't believe it.&#10;There's a million reasons why it can't be true.&#10;Open fire can't melt steel, it's not hot enough.&#10;&#10;(It's nothing new it's not a mystery, check out the Reichstag Germany).&#10;&#10;There's a million questions still remain unanswered.&#10;There's a million questions still to be resolved.&#10;Out of nineteen Muslim guys, seven still remained alive.&#10;&#10;(It's nothing new it's not a mystery, check out the USS Liberty)&#10;&#10;CHORUS&#10;&#10;9/11, 9/11, what went down with building 7?&#10;It's a mystery to this day.&#10;The building fell with such precision,&#10;Freefall speed no reasons given,&#10;Like the towers it just fell.&#10;And fire's not enough,&#10;No way hot enough to bring 'em down.&#10;&#10;The Project for the New American Century (PNAC),&#10;Was added to a year before that day.&#10;It states in order to proceed, &#10;A modern day Pearl Harbor it would need.&#10;&#10;(In Vietnam it was just the same, the Gulf of Tonkin took the blame.)&#10;&#10;9/11 set them free - The Project for the New American Century.&#10;(It's just a lie it's a conspiracy, Cold War, Bird Flu, W.M.D)&#10;&#10;CHORUS&#10;9/11, 9/11, what went down with building 7?&#10;It's a mystery to this day.&#10;The building fell with such precision,&#10;Freefall speed no reasons given,&#10;Like the towers it just fell.&#10;And fire's not enough,&#10;No way hot enough to bring 'em down.&#10;&#10;We've gotta stand up,&#10;We've gotta be strong,&#10;We've got to hold our nerve until the job is done&#10;And they've made a KILLING.&#10;They don't care about the BLOOD that they're spilling.&#10;&#10;Oh!&#10;&#10;9/11, 9/11, what went down with building 7?&#10;Ever since that fateful day.&#10;Our civil rights have disappeared,&#10;A global Fascist state draws near,&#10;And our freedom slips away.&#10;And they don't give a stuff!&#10;They've made that clear enough&#10;So now it's up to us, to bring 'em down...&#10;&#10;*IMPORTANT Syria Chemical Attack is a False Flag event EXACTLY like 9/11 - https://www.youtube.com/watch?v=Bdnr32H34T4 &#10;&#10;&#10;9/11 documentaries:&#10;https://www.youtube.com/watch?v=gq35C... - 9/11 mysteries&#10;http://www.youtube.com/watch?v=bwThcd... - 9/11 Ripple Effect&#10;http://www.youtube.com/watch?v=quTifl... - Loose Change&#10;&#10;Agenda 21 Link - http://www.youtube.com/watch?v=x5dvBH...&#10;Agenda 21 Link - http://www.youtube.com/watch?v=TzEEgt..."
+    description "There is an updated video here: https://www.youtube.com/watch?v=bMq1PiUbf-M &amp;#10;&amp;#10;Written &amp;#38; recorded in 2007 - From the album Life is Just a Ride - http://www.cdbaby.com/cd/martinnoakes2 &amp;#38; Featured in the multi-award winning film Sieranevada (Nominated for an Oscar - Feb 2017) - by internationally acclaimed director - Cristi Puiu. More info here: http://www.songcity.co.uk Please rate, comment &amp;#38; forward to your friends.&amp;#10;&amp;#10;Many thanks to anyone who supports my work...&amp;#10;&amp;#10;Finally, here's a link to the opening ceremony for the premier of Sieranevada (Which my wife &amp;#38; I attended) at the Cannes Film Festival  - May 2016 - https://www.youtube.com/watch?v=Iy0MJgB45eE &amp;#10;&amp;#10;Chord Chart - http://www.911building7.co.uk/ChordCh...&amp;#10;&amp;#10;Lyrics:&amp;#10;There's a million reasons why I don't believe it.&amp;#10;There's a million reasons why it can't be true.&amp;#10;Open fire can't melt steel, it's not hot enough.&amp;#10;&amp;#10;(It's nothing new it's not a mystery, check out the Reichstag Germany).&amp;#10;&amp;#10;There's a million questions still remain unanswered.&amp;#10;There's a million questions still to be resolved.&amp;#10;Out of nineteen Muslim guys, seven still remained alive.&amp;#10;&amp;#10;(It's nothing new it's not a mystery, check out the USS Liberty)&amp;#10;&amp;#10;CHORUS&amp;#10;&amp;#10;9/11, 9/11, what went down with building 7?&amp;#10;It's a mystery to this day.&amp;#10;The building fell with such precision,&amp;#10;Freefall speed no reasons given,&amp;#10;Like the towers it just fell.&amp;#10;And fire's not enough,&amp;#10;No way hot enough to bring 'em down.&amp;#10;&amp;#10;The Project for the New American Century (PNAC),&amp;#10;Was added to a year before that day.&amp;#10;It states in order to proceed, &amp;#10;A modern day Pearl Harbor it would need.&amp;#10;&amp;#10;(In Vietnam it was just the same, the Gulf of Tonkin took the blame.)&amp;#10;&amp;#10;9/11 set them free - The Project for the New American Century.&amp;#10;(It's just a lie it's a conspiracy, Cold War, Bird Flu, W.M.D)&amp;#10;&amp;#10;CHORUS&amp;#10;9/11, 9/11, what went down with building 7?&amp;#10;It's a mystery to this day.&amp;#10;The building fell with such precision,&amp;#10;Freefall speed no reasons given,&amp;#10;Like the towers it just fell.&amp;#10;And fire's not enough,&amp;#10;No way hot enough to bring 'em down.&amp;#10;&amp;#10;We've gotta stand up,&amp;#10;We've gotta be strong,&amp;#10;We've got to hold our nerve until the job is done&amp;#10;And they've made a KILLING.&amp;#10;They don't care about the BLOOD that they're spilling.&amp;#10;&amp;#10;Oh!&amp;#10;&amp;#10;9/11, 9/11, what went down with building 7?&amp;#10;Ever since that fateful day.&amp;#10;Our civil rights have disappeared,&amp;#10;A global Fascist state draws near,&amp;#10;And our freedom slips away.&amp;#10;And they don't give a stuff!&amp;#10;They've made that clear enough&amp;#10;So now it's up to us, to bring 'em down...&amp;#10;&amp;#10;*IMPORTANT Syria Chemical Attack is a False Flag event EXACTLY like 9/11 - https://www.youtube.com/watch?v=Bdnr32H34T4 &amp;#10;&amp;#10;&amp;#10;9/11 documentaries:&amp;#10;https://www.youtube.com/watch?v=gq35C... - 9/11 mysteries&amp;#10;http://www.youtube.com/watch?v=bwThcd... - 9/11 Ripple Effect&amp;#10;http://www.youtube.com/watch?v=quTifl... - Loose Change&amp;#10;&amp;#10;Agenda 21 Link - http://www.youtube.com/watch?v=x5dvBH...&amp;#10;Agenda 21 Link - http://www.youtube.com/watch?v=TzEEgt..."
     channeltitle "marndin"
     channelid "UCyKCTr1DsfA_rbw5HBvHFKA"
     favcount 0
@@ -4592,6 +8310,28 @@ graph
     ppinflammatory 0.040012322
     sentiment 0.3182
     cluster 8
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -4600,7 +8340,7 @@ graph
     step 0
     date "2008-05-15T01:43:41Z"
     title "9/11: Building 7 - Controlled Demolition"
-    description "An outtake from the film &#34;Zeitgeist&#34; comparing the World Trade Center Building 7 collapse with the characteristics of a controlled demolition.&#10;&#10;See these films:&#10;&#10;9/11 Press for Truth&#10;9/11 Mysteries&#10;Zeitgeist&#10;&#10;Tell the Truth.  Spread the Word."
+    description "An outtake from the film &amp;#34;Zeitgeist&amp;#34; comparing the World Trade Center Building 7 collapse with the characteristics of a controlled demolition.&amp;#10;&amp;#10;See these films:&amp;#10;&amp;#10;9/11 Press for Truth&amp;#10;9/11 Mysteries&amp;#10;Zeitgeist&amp;#10;&amp;#10;Tell the Truth.  Spread the Word."
     channeltitle "Ghosty Boy"
     channelid "UC6YqwIyORhwd-67GZR5Le7g"
     favcount 0
@@ -4618,7 +8358,29 @@ graph
     ppprofanity 0.061943684
     ppinflammatory 0.12638849
     sentiment 0
-    cluster 7
+    cluster 9
+    leftright "C"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 1
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -4627,7 +8389,7 @@ graph
     step 0
     date "2007-03-01T00:37:25Z"
     title "BBC says Building 7 collapsed, while its STILL standing..!!"
-    description "This video was BANNED on Google Video!!&#13;&#10;&#13;&#10;Hired agents everywhere are desperately trying to stop this video from spreading on the internet!!&#13;&#10;&#13;&#10;Keywords: 911 9-11 WTC WTC7 Building 7 Seven truth infowars BBC World Salomon Brothers Alex Jones terrorstorm martial law tyranny freedom fascism cover up down the it cool ps3 xbox psp"
+    description "This video was BANNED on Google Video!!&amp;#13;&amp;#10;&amp;#13;&amp;#10;Hired agents everywhere are desperately trying to stop this video from spreading on the internet!!&amp;#13;&amp;#10;&amp;#13;&amp;#10;Keywords: 911 9-11 WTC WTC7 Building 7 Seven truth infowars BBC World Salomon Brothers Alex Jones terrorstorm martial law tyranny freedom fascism cover up down the it cool ps3 xbox psp"
     channeltitle "K0091x4WZ"
     channelid "UCYp4_qmjVkqIvyxerZKTG8A"
     favcount 0
@@ -4645,7 +8407,29 @@ graph
     ppprofanity 0.029436642
     ppinflammatory 0.10446536
     sentiment -0.2732
-    cluster 4
+    cluster 5
+    leftright "C"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 1
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -4672,7 +8456,29 @@ graph
     ppprofanity 0.079189144
     ppinflammatory 0.12957716
     sentiment 0
-    cluster 3
+    cluster 8
+    leftright "C"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 1
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -4681,7 +8487,7 @@ graph
     step 0
     date "2013-05-12T15:33:28Z"
     title "9/11 Twin Towers Collapse Coincidences."
-    description "Moment of 9/11 Planes Attack  On WTC 1 &#38; 2  &#10;Symmetry of Collapse Coincidences&#10;Building 7 Collapse Within 7 Seconds Mystery In &#10;Expert View For Alternate Explanation.&#10;Music  - Heart of Courage, &#10;               Protectors of The Earth&#10;Album - Invincible  &#10;              ,Thomas J. Bergersen"
+    description "Moment of 9/11 Planes Attack  On WTC 1 &amp;#38; 2  &amp;#10;Symmetry of Collapse Coincidences&amp;#10;Building 7 Collapse Within 7 Seconds Mystery In &amp;#10;Expert View For Alternate Explanation.&amp;#10;Music  - Heart of Courage, &amp;#10;               Protectors of The Earth&amp;#10;Album - Invincible  &amp;#10;              ,Thomas J. Bergersen"
     channeltitle "Andy Cruise"
     channelid "UC7hFQ6zWC4CIs7aiMxTJULA"
     favcount 0
@@ -4699,7 +8505,29 @@ graph
     ppprofanity 0.112014085
     ppinflammatory 0.2665225
     sentiment -0.4939
-    cluster 3
+    cluster 1
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -4708,7 +8536,7 @@ graph
     step 0
     date "2019-09-13T01:38:25Z"
     title "9 11 RARE CLEAR Video of WTC Building 7 Controlled Demolition"
-    description "Synchronized destruction of multiple floors on World Trade Center 7.&#10;This video does not make any claim of how the WTC 7 went down. This video is merely highlighting the smoke expanding rapidly out of the several floors as WTC 7 fell down.&#10;&#10;Here's my sauce:&#10;http://ine.uaf.edu/wtc7"
+    description "Synchronized destruction of multiple floors on World Trade Center 7.&amp;#10;This video does not make any claim of how the WTC 7 went down. This video is merely highlighting the smoke expanding rapidly out of the several floors as WTC 7 fell down.&amp;#10;&amp;#10;Here's my sauce:&amp;#10;http://ine.uaf.edu/wtc7"
     channeltitle "Enigma-Turing Machines"
     channelid "UC2Mv1Jr5Zy1QlyUmcRI3cqA"
     favcount 0
@@ -4726,7 +8554,29 @@ graph
     ppprofanity 0.11311898
     ppinflammatory 0.12726396
     sentiment 0.3818
-    cluster 8
+    cluster 2
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -4735,7 +8585,7 @@ graph
     step 0
     date "2019-09-25T20:09:58Z"
     title "9/11 Bombshell: CNBC Anchor Says Building 7 a "
-    description "For more analysis of Ron Insana&#8217;s statement regarding Building 7, visit https://AE911Truth.org/news/570.&#10;&#10;On the 18th anniversary of 9/11, CNBC senior analyst and former anchor Ron Insana went on Bernie and Sid In the Morning on New York&#8217;s 77 WABC Radio to share his haunting experience of that horrible day.&#10;&#10;Approximately eight minutes into the interview, Insana made a statement regarding the 47-story World Trade Center Building 7 that is truly stunning, especially considering his access to the scene and his job as a prominent news anchor:&#10;&#10;&#8220;Well, remember 7 World Trade had not yet come down. And so when I went down to the [New York Stock] Exchange that Wednesday morning [September 12], I was standing with some military and police officers, and we were looking over in that direction. And if it had come down in the way in which it was tilting, it would have wiped out everything from where it stood to Trinity Church to the Exchange to, effectively, you know, the mouth of the Hudson. And so there were still fears that if that building had fallen sideways, you were going to wipe out a good part of Lower Manhattan. So they did manage for one to take that down in a controlled implosion later on. And the Exchange was up and running the following Monday.&#8221;"
+    description "For more analysis of Ron Insana&amp;#8217;s statement regarding Building 7, visit https://AE911Truth.org/news/570.&amp;#10;&amp;#10;On the 18th anniversary of 9/11, CNBC senior analyst and former anchor Ron Insana went on Bernie and Sid In the Morning on New York&amp;#8217;s 77 WABC Radio to share his haunting experience of that horrible day.&amp;#10;&amp;#10;Approximately eight minutes into the interview, Insana made a statement regarding the 47-story World Trade Center Building 7 that is truly stunning, especially considering his access to the scene and his job as a prominent news anchor:&amp;#10;&amp;#10;&amp;#8220;Well, remember 7 World Trade had not yet come down. And so when I went down to the [New York Stock] Exchange that Wednesday morning [September 12], I was standing with some military and police officers, and we were looking over in that direction. And if it had come down in the way in which it was tilting, it would have wiped out everything from where it stood to Trinity Church to the Exchange to, effectively, you know, the mouth of the Hudson. And so there were still fears that if that building had fallen sideways, you were going to wipe out a good part of Lower Manhattan. So they did manage for one to take that down in a controlled implosion later on. And the Exchange was up and running the following Monday.&amp;#8221;"
     channeltitle "AE911Truth"
     channelid "UCL-c_zvZ3lhlU7NU1ikxgmQ"
     favcount 0
@@ -4753,7 +8603,29 @@ graph
     ppprofanity 0.10166505
     ppinflammatory 0.08219858
     sentiment 0
-    cluster 2
+    cluster 4
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -4762,7 +8634,7 @@ graph
     step 0
     date "2009-05-19T06:43:57Z"
     title "Kevin Mcpadden 9/11 First Responder: Building 7 Countdown, Explosions, Controlled Demolition"
-    description "Kevin Mcpadden experienced the collapse of WTC 7 firsthand. He was told that Building 7 was going to be brought down. He heard the countdown to the controlled demolition, heard the explosions, felt the ground shake, and ran from the smoke. Filmed at the World Trade Center in New York, he stands below where the Twin Towers used to stand, part of a feature documentary &#34;The Elephant In the Room&#34;.&#13;&#10;&#13;&#10;The Elephant in the Room is a documentary following British filmmaker Dean Puckett through his journey into the 9/11 Truth Movement: a global movement of 'conspiracy theorists' who hold as their primary belief that the official explanation about what happened on 9/11 is totally or partially inaccurate. The filmmakers travel from middle England, across Europe and to New York for the six year anniversary of the attacks, where the film takes one final twist as we are introduced to the 9/11 first responders who are suffering from various grave health difficulties due to the toxic dust that they breathed in trying to help their country during the weeks after this tragic event. Told with a personal hands on approach that avoids advancing any one position, the film asks the question: Are these crazy conspiracy theorists? Or is 9/11 Truth a credible political movement?"
+    description "Kevin Mcpadden experienced the collapse of WTC 7 firsthand. He was told that Building 7 was going to be brought down. He heard the countdown to the controlled demolition, heard the explosions, felt the ground shake, and ran from the smoke. Filmed at the World Trade Center in New York, he stands below where the Twin Towers used to stand, part of a feature documentary &amp;#34;The Elephant In the Room&amp;#34;.&amp;#13;&amp;#10;&amp;#13;&amp;#10;The Elephant in the Room is a documentary following British filmmaker Dean Puckett through his journey into the 9/11 Truth Movement: a global movement of 'conspiracy theorists' who hold as their primary belief that the official explanation about what happened on 9/11 is totally or partially inaccurate. The filmmakers travel from middle England, across Europe and to New York for the six year anniversary of the attacks, where the film takes one final twist as we are introduced to the 9/11 first responders who are suffering from various grave health difficulties due to the toxic dust that they breathed in trying to help their country during the weeks after this tragic event. Told with a personal hands on approach that avoids advancing any one position, the film asks the question: Are these crazy conspiracy theorists? Or is 9/11 Truth a credible political movement?"
     channeltitle "911TruthVideos"
     channelid "UCExZBT0BpFdRlR59WbrxM_g"
     favcount 0
@@ -4780,7 +8652,29 @@ graph
     ppprofanity 0.08898282
     ppinflammatory 0.18760242
     sentiment 0
-    cluster 4
+    cluster 3
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -4807,7 +8701,29 @@ graph
     ppprofanity 0.1220367
     ppinflammatory 0.35715225
     sentiment 0
-    cluster 5
+    cluster 2
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -4816,7 +8732,7 @@ graph
     step 0
     date "2015-07-07T06:23:50Z"
     title "World Trade Center Building 7 - Real Vs Fake"
-    description "Subscribe to me on BitChute https://www.bitchute.com/channel/Nel4v1AYwXSy/&#10;&#10;&#10;&#10;Compare the quality of amateur pre 2001 recordings to what we saw on TV on 9/11. The September 11th terrorist attack was a CGI hoax. The 'falling' of building 7 was conspiracy bait.&#10;&#10;9/11 was a Hollywood movie sold to the world as a news event. Conspiracy bait was inserted into the movie to distract from the truth. 9/11 was a CGI job and it's obvious once you take the time to study the fake imagery. Why kill 3,000 people and then have to silence the relatives of these victims? It's easier to silence people who do not exist. There should be thousands of people blaming the government for killing their loved ones, but you do not see this. Celebs were given stories to tell to the sleeping masses. Nobody died on 9/11/2001 in New York due to terrorist attacks. People need to stop jumping down rabbit holes leading to mini nukes and DEWs which are controlled opposition theories based on fake images and CGI animation.&#10;&#10;To know more about the 9/11 hoax, visit http://septemberclues.info and http://cluesforum.info&#10;&#10;Also watch September Clues https://www.youtube.com/watch?v=gORu-68SHpE&#10;&#10;Simon Shack - &#34;Very good reminder of the fact that even the 9/11 WTC7 imagery was computer-generated. Here's my ol' 2009 study of the same: WTC7 STUDY: https://www.youtube.com/watch?v=w4Vrsjs_cLg And here's what I now think what purpose the WTC7 might possibly have served on 9/11 - and why the building had to be disposed of - by the end of the day: THE 9/11 SMOKESCREEN: http://cluesforum.info/viewtopic.php?p=2391828#p2391828 &#34;&#10;&#10;Resources:&#10;&#10;WTC 7 Very Rare South Face Smoke After The Towers Have Collapsed https://www.youtube.com/watch?v=BvJpNPTom0Q&#10;WTC Building 7 Collapse - 23 angles https://www.youtube.com/watch?v=JnLcUxV1dPo&#10;Visit to the WTC - April 2000 https://www.youtube.com/watch?v=WkWy72oPIYY&#10;World Trade Center 1990 https://www.youtube.com/watch?v=UcPw7W9L7TQ&#10;Trip to New York City 1995 https://www.youtube.com/watch?v=bvM0cfenEbY&#10;New York City in 1999 - World Trade Center - Times Square HD http://kivvi.kz/watch/bandlwfgb7pp/"
+    description "Subscribe to me on BitChute https://www.bitchute.com/channel/Nel4v1AYwXSy/&amp;#10;&amp;#10;&amp;#10;&amp;#10;Compare the quality of amateur pre 2001 recordings to what we saw on TV on 9/11. The September 11th terrorist attack was a CGI hoax. The 'falling' of building 7 was conspiracy bait.&amp;#10;&amp;#10;9/11 was a Hollywood movie sold to the world as a news event. Conspiracy bait was inserted into the movie to distract from the truth. 9/11 was a CGI job and it's obvious once you take the time to study the fake imagery. Why kill 3,000 people and then have to silence the relatives of these victims? It's easier to silence people who do not exist. There should be thousands of people blaming the government for killing their loved ones, but you do not see this. Celebs were given stories to tell to the sleeping masses. Nobody died on 9/11/2001 in New York due to terrorist attacks. People need to stop jumping down rabbit holes leading to mini nukes and DEWs which are controlled opposition theories based on fake images and CGI animation.&amp;#10;&amp;#10;To know more about the 9/11 hoax, visit http://septemberclues.info and http://cluesforum.info&amp;#10;&amp;#10;Also watch September Clues https://www.youtube.com/watch?v=gORu-68SHpE&amp;#10;&amp;#10;Simon Shack - &amp;#34;Very good reminder of the fact that even the 9/11 WTC7 imagery was computer-generated. Here's my ol' 2009 study of the same: WTC7 STUDY: https://www.youtube.com/watch?v=w4Vrsjs_cLg And here's what I now think what purpose the WTC7 might possibly have served on 9/11 - and why the building had to be disposed of - by the end of the day: THE 9/11 SMOKESCREEN: http://cluesforum.info/viewtopic.php?p=2391828#p2391828 &amp;#34;&amp;#10;&amp;#10;Resources:&amp;#10;&amp;#10;WTC 7 Very Rare South Face Smoke After The Towers Have Collapsed https://www.youtube.com/watch?v=BvJpNPTom0Q&amp;#10;WTC Building 7 Collapse - 23 angles https://www.youtube.com/watch?v=JnLcUxV1dPo&amp;#10;Visit to the WTC - April 2000 https://www.youtube.com/watch?v=WkWy72oPIYY&amp;#10;World Trade Center 1990 https://www.youtube.com/watch?v=UcPw7W9L7TQ&amp;#10;Trip to New York City 1995 https://www.youtube.com/watch?v=bvM0cfenEbY&amp;#10;New York City in 1999 - World Trade Center - Times Square HD http://kivvi.kz/watch/bandlwfgb7pp/"
     channeltitle "Media Fakery"
     channelid "UCHScYPHf_PDPgTQyzFptOBw"
     favcount 0
@@ -4834,7 +8750,29 @@ graph
     ppprofanity 0.09248315
     ppinflammatory 0.27711993
     sentiment -0.4767
-    cluster 3
+    cluster 1
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -4843,7 +8781,7 @@ graph
     step 0
     date "2020-09-11T22:17:56Z"
     title "Never Forget WTC Building 7 9-11"
-    description "I discuss waking up as a result of 9/11, WTC7, and thinking for yourself&#10;&#10;&#10;&#10;&#10;Eternal Flame by Lahar https://soundcloud.com/musicbylahar&#10;Creative Commons &#8212; Attribution 3.0 Unported &#8212; CC BY 3.0&#10;Free Download / Stream: https://bit.ly/al-eternal-flame&#10;Music promoted by Audio Library https://youtu.be/Q8773hTncoM"
+    description "I discuss waking up as a result of 9/11, WTC7, and thinking for yourself&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;Eternal Flame by Lahar https://soundcloud.com/musicbylahar&amp;#10;Creative Commons &amp;#8212; Attribution 3.0 Unported &amp;#8212; CC BY 3.0&amp;#10;Free Download / Stream: https://bit.ly/al-eternal-flame&amp;#10;Music promoted by Audio Library https://youtu.be/Q8773hTncoM"
     channeltitle "Brandon Start"
     channelid "UCpvPq0Oyt3iiJxh_4B9vbCw"
     favcount 0
@@ -4861,7 +8799,29 @@ graph
     ppprofanity 0.108308375
     ppinflammatory 0.13060176
     sentiment 0.1695
-    cluster 8
+    cluster 3
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -4888,7 +8848,29 @@ graph
     ppprofanity 0.14691705
     ppinflammatory 0.31132048
     sentiment -0.34
-    cluster 7
+    cluster 9
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -4897,7 +8879,7 @@ graph
     step 0
     date "2021-04-21T08:28:06Z"
     title "9/11 Advance Knowledge - The BBC  Building 7"
-    description "The BBC's Jane Stanley reports the collapse of the Saloman Brothers building, now known as WTC-7 or simply Building 7, around twenty minutes before it actually collapsed on 9/11. As the BBC reports the collapse, the building can still be seen smoking but standing behind Stanley.&#10;A recent University of Alaska study on the anomalous collapse of Building 7 showed the NIST claims that the building collapsed due to fire &#38; fire alone is wrong. &#34;The principal conclusion of our study is that fire did not cause the collapse of WTC 7 on 9/11, contrary to the conclusions of NIST and private engineering firms that studied the collapse. The secondary conclusion of our study is that the collapse of WTC 7 was a global failure involving the near-simultaneous failure of every column in the building.&#34; - https://ine.uaf.edu/wtc7"
+    description "The BBC's Jane Stanley reports the collapse of the Saloman Brothers building, now known as WTC-7 or simply Building 7, around twenty minutes before it actually collapsed on 9/11. As the BBC reports the collapse, the building can still be seen smoking but standing behind Stanley.&amp;#10;A recent University of Alaska study on the anomalous collapse of Building 7 showed the NIST claims that the building collapsed due to fire &amp;#38; fire alone is wrong. &amp;#34;The principal conclusion of our study is that fire did not cause the collapse of WTC 7 on 9/11, contrary to the conclusions of NIST and private engineering firms that studied the collapse. The secondary conclusion of our study is that the collapse of WTC 7 was a global failure involving the near-simultaneous failure of every column in the building.&amp;#34; - https://ine.uaf.edu/wtc7"
     channeltitle "Alternative Narrative"
     channelid "UCnkuYv7Zjxn1g1hbcESqXQQ"
     favcount 0
@@ -4915,7 +8897,29 @@ graph
     ppprofanity 0.1079152
     ppinflammatory 0.116724186
     sentiment 0
-    cluster 4
+    cluster 5
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -4924,7 +8928,7 @@ graph
     step 0
     date "2021-09-01T02:13:37Z"
     title "Ed Asner on 9/11: Solving the Mystery of Building 7 (2010)"
-    description "Ed Asner: Solving the Mystery of Building 7 (2010)&#10;&#10;A Tribute to Ed Asner&#10;&#10;Dear Friends:&#10;&#10;Our beloved friend Ed Asner, fellow Lawyers&#8217; Committee Board member died this past Sunday August 29, 2021 . He was 91 years old.&#10;&#10;Ed towered above all the actors and entertainers in the United States regarding his concern for justice and proper investigation of the 9/11 crimes.&#10;&#10;He was a good friend of both the Architects &#38; Engineers for 9/11 Truth and for the Lawyers&#8217; Committee for 9/11 Inquiry. He did excellent videos both on 9l11 crimes and of support for both non-profit organizations. He sat on the Lawyers&#8217; Committee Board of Directors.&#10;&#10;There will be a tribute to him at the Lawyers&#8217; Committee 9/11 20th anniversary event. As was previously planned, he would have given the welcome address. September 11th. Global Live Stream from the Lawyers&#8217; Committee&#10;&#10;Architects and Engineers http://ae911truth.org&#10;&#10;Visit our new Merch store https://www.lcfor911.us/&#10;Visit the Lawyers' Committee website http://lcfor911.org&#10;&#10;Please help with a donation if you can&#10;We are a 501(c)(3) nonprofit organization so donations are tax deductible&#10;https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&#38;hosted_button_id=4MNAJTY6GPJM2&#38;source=url"
+    description "Ed Asner: Solving the Mystery of Building 7 (2010)&amp;#10;&amp;#10;A Tribute to Ed Asner&amp;#10;&amp;#10;Dear Friends:&amp;#10;&amp;#10;Our beloved friend Ed Asner, fellow Lawyers&amp;#8217; Committee Board member died this past Sunday August 29, 2021 . He was 91 years old.&amp;#10;&amp;#10;Ed towered above all the actors and entertainers in the United States regarding his concern for justice and proper investigation of the 9/11 crimes.&amp;#10;&amp;#10;He was a good friend of both the Architects &amp;#38; Engineers for 9/11 Truth and for the Lawyers&amp;#8217; Committee for 9/11 Inquiry. He did excellent videos both on 9l11 crimes and of support for both non-profit organizations. He sat on the Lawyers&amp;#8217; Committee Board of Directors.&amp;#10;&amp;#10;There will be a tribute to him at the Lawyers&amp;#8217; Committee 9/11 20th anniversary event. As was previously planned, he would have given the welcome address. September 11th. Global Live Stream from the Lawyers&amp;#8217; Committee&amp;#10;&amp;#10;Architects and Engineers http://ae911truth.org&amp;#10;&amp;#10;Visit our new Merch store https://www.lcfor911.us/&amp;#10;Visit the Lawyers' Committee website http://lcfor911.org&amp;#10;&amp;#10;Please help with a donation if you can&amp;#10;We are a 501(c)(3) nonprofit organization so donations are tax deductible&amp;#10;https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;#38;hosted_button_id=4MNAJTY6GPJM2&amp;#38;source=url"
     channeltitle "Lawyers' Committee for 9/11 Inquiry"
     channelid "UCWQbEeExutR4vR4pEFmQUJw"
     favcount 0
@@ -4942,7 +8946,29 @@ graph
     ppprofanity 0.036001354
     ppinflammatory 0.044311903
     sentiment 0.34
-    cluster 2
+    cluster 1
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -4969,7 +8995,29 @@ graph
     ppprofanity 0.14866123
     ppinflammatory 0.09154321
     sentiment 0.3818
-    cluster 3
+    cluster 1
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -4996,7 +9044,29 @@ graph
     ppprofanity 0.06783224
     ppinflammatory 0.11903611
     sentiment 0
-    cluster 1
+    cluster 2
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -5005,7 +9075,7 @@ graph
     step 0
     date "2020-07-14T00:54:39Z"
     title "Demolition Experts Reaction; Building 7 Collapse on 9/11"
-    description "Danny Jowenko is a Dutch Demolition Expert and his REACTION WHEN SEEING THE COLLAPSE OF BUILDING 7 FOR THE FIRST TIME, INCREDIBLE. HE WAS LATER KILLED WHEN HIS CAR 'HIT A TREE'. RIP DANNY, &#38; THANKYOU"
+    description "Danny Jowenko is a Dutch Demolition Expert and his REACTION WHEN SEEING THE COLLAPSE OF BUILDING 7 FOR THE FIRST TIME, INCREDIBLE. HE WAS LATER KILLED WHEN HIS CAR 'HIT A TREE'. RIP DANNY, &amp;#38; THANKYOU"
     channeltitle "Crypto Knight"
     channelid "UC91lZeN3K7Wy8GnqFImfFBA"
     favcount 0
@@ -5023,7 +9093,29 @@ graph
     ppprofanity 0.14498235
     ppinflammatory 0.30740345
     sentiment -0.4939
-    cluster 7
+    cluster 9
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -5050,7 +9142,29 @@ graph
     ppprofanity 0.08341129
     ppinflammatory 0.12153034
     sentiment 0
-    cluster 5
+    cluster 6
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -5059,7 +9173,7 @@ graph
     step 0
     date "2020-03-06T09:56:20Z"
     title "BBC reporting on the collapse of WTC Building 7 - ON 9/11."
-    description "THE TRUTH OF WHAT HAPPENED THAT DAY. NO LIES HEAR.&#10;VENTURA, WHAT A GREAT GUY."
+    description "THE TRUTH OF WHAT HAPPENED THAT DAY. NO LIES HEAR.&amp;#10;VENTURA, WHAT A GREAT GUY."
     channeltitle "OH MY GOD"
     channelid "UC78Iz691HisenUxRwnFkk1Q"
     favcount 0
@@ -5077,7 +9191,29 @@ graph
     ppprofanity 0.028947141
     ppinflammatory 0.17873488
     sentiment -0.4939
-    cluster 7
+    cluster 3
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -5086,7 +9222,7 @@ graph
     step 0
     date "2010-09-01T16:04:54Z"
     title "9/11 Inside Job Smoking Gun: WTC Building 7"
-    description "Daily News @ http://RevolutionNews.US ~ Richard Gage, AIA has been a practicing San Francisco Bay Area architect for more than 20 years, and is a registered member of the American Institute of Architects. Most recently he worked on a $400M mixed-use facility in Las Vegas NV. But he is also the founder and CEO of Architects &#38; Engineers for 9/11 Truth, now numbering over 800 A/E's, calling for a new investigation into the destruction of all 3 WTC high-rises on 9/11. Gage has spoken at over 100 events, reaching 20 U.S. states and 8 countries. He has been invited to present in 14 cities Australia, New Zealand, and Japan before the end of this year. As the anniversary of the events approaches, Gage tells WAN why he thinks there are hidden depths to the destruction of the World Trade Centre...&#10;&#10;http://www.worldarchitecturenews.com/index.php?fuseaction=wanappln.commentview&#38;comment_id=158&#10;&#10;---&#10;&#10;&#34;Educate and inform the whole mass of the people... They are the only sure reliance for the preservation of our liberty.&#34;&#10;&#10;&#8212;Thomas Jefferson&#10;&#10;&#10;Time For A New American Revolution?&#10;&#9829;&#9760;&#10047;&#9774;&#10048;&#9760;&#10047;&#9774;&#10048;&#9760;&#10047;&#9829;&#10048;&#9760;&#10047;&#9774;&#10048;&#9760;&#10;http://RevolutionNews.US&#10;&#9760;&#10047;&#9774;&#10048;&#9760;&#10047;&#9774;&#10048;&#9760;&#10047;&#9829;"
+    description "Daily News @ http://RevolutionNews.US ~ Richard Gage, AIA has been a practicing San Francisco Bay Area architect for more than 20 years, and is a registered member of the American Institute of Architects. Most recently he worked on a $400M mixed-use facility in Las Vegas NV. But he is also the founder and CEO of Architects &amp;#38; Engineers for 9/11 Truth, now numbering over 800 A/E's, calling for a new investigation into the destruction of all 3 WTC high-rises on 9/11. Gage has spoken at over 100 events, reaching 20 U.S. states and 8 countries. He has been invited to present in 14 cities Australia, New Zealand, and Japan before the end of this year. As the anniversary of the events approaches, Gage tells WAN why he thinks there are hidden depths to the destruction of the World Trade Centre...&amp;#10;&amp;#10;http://www.worldarchitecturenews.com/index.php?fuseaction=wanappln.commentview&amp;#38;comment_id=158&amp;#10;&amp;#10;---&amp;#10;&amp;#10;&amp;#34;Educate and inform the whole mass of the people... They are the only sure reliance for the preservation of our liberty.&amp;#34;&amp;#10;&amp;#10;&amp;#8212;Thomas Jefferson&amp;#10;&amp;#10;&amp;#10;Time For A New American Revolution?&amp;#10;&amp;#9829;&amp;#9760;&amp;#10047;&amp;#9774;&amp;#10048;&amp;#9760;&amp;#10047;&amp;#9774;&amp;#10048;&amp;#9760;&amp;#10047;&amp;#9829;&amp;#10048;&amp;#9760;&amp;#10047;&amp;#9774;&amp;#10048;&amp;#9760;&amp;#10;http://RevolutionNews.US&amp;#10;&amp;#9760;&amp;#10047;&amp;#9774;&amp;#10048;&amp;#9760;&amp;#10047;&amp;#9774;&amp;#10048;&amp;#9760;&amp;#10047;&amp;#9829;"
     channeltitle "American2Revolution"
     channelid "UCw6VBjvalgYRbVQUJrSuC0g"
     favcount 0
@@ -5104,7 +9240,29 @@ graph
     ppprofanity 0.054278538
     ppinflammatory 0.6069236
     sentiment -0.34
-    cluster 3
+    cluster 1
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -5113,7 +9271,7 @@ graph
     step 0
     date "2010-11-14T04:12:48Z"
     title "Geraldo Rivera Does 911 Truth Segment About Building 7"
-    description "Airing Date Nov.13, 2010&#10;&#10;Geraldo Rivera Does 911 Truth Segment About Building 7&#10;Geraldo says &#34; i am certainly much more open minded about it then i was&#34;"
+    description "Airing Date Nov.13, 2010&amp;#10;&amp;#10;Geraldo Rivera Does 911 Truth Segment About Building 7&amp;#10;Geraldo says &amp;#34; i am certainly much more open minded about it then i was&amp;#34;"
     channeltitle "SaveOurSovereignty3"
     channelid "UCHegi3yBeL9oVDtlGR5lTbA"
     favcount 0
@@ -5132,6 +9290,28 @@ graph
     ppinflammatory 0.18341596
     sentiment 0.3182
     cluster 8
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -5140,7 +9320,7 @@ graph
     step 0
     date "2013-04-23T05:52:32Z"
     title " of 9/11 - WTC Building 7?"
-    description "9/11 revisited - This consists of various video clips focusing on the &#34;impossible&#34; &#34;by fires alone&#34; total free-fall collapse of WTC-7 Salomon Brothers Building on 9/11/2001.&#10;&#10;The collapse of WTC Building 7 is the most telling event of the 9/11 attacks and demonstrates beyond reasonable doubt that controlled demolition was used to bring the building down in its own footprint. Larry Silverstein, the new World Trade Center leaseholder at the time of the attacks, admitted in a 2002 PBS documentary that Building 7 was &#34;Pulled&#34; - a demolition industry term for &#34;controlled demolition.&#34; And, indeed, Building 7's collapse appears to be textbook controlled demolition. &#10;&#10;However, the National Institute of Standards and Technology (NIST) who investigated the WTC building collapses stated officially that office fires alone brought the building down - something that has never happened in the history of steel famed highrise buildings. Since it borders on the realm of impossibility that technicians could wire a 47-story building with office fires burning for the near textbook perfect demolition seen in Building 7's collapse in a mere 6-hours, it strongly suggests that the building was wired prior to 9/11/2001, and this would seem to indicate that the 9/11 attacks were an inside orchestrated operation.&#10;&#10;As Dr. Alan Sabrosky, former Director of Studies at the U.S. Army War College, commented: &#34;If one of the buildings was wired for demolition, all of them were wired for demolition.&#34; And, indeed, all three buildings demonstrate controlled demolition.&#10;&#10;Is World Trade Center building # 7 the 9/11 smoking gun? Countless professionals feel that it is. Only three high-rise steel framed buildings have &#34;ever&#34; completely collapsed with the destruction being attributed to fires, and all of them were in the World Trade Center complex on September 11, 2001. Was WTC-7 &#34;pulled&#34; (controlled demolition)? In the PBS documentary aired in 2002 WTC leaseholder Larry Silverstein used the demolition industry's term &#34;Pull-it&#34; when describing the events that led to the perfect textbook total collapse of the building only 6-hours after the 9/11 attack.&#10;&#10;It takes weeks to months to prepare a large building for precision controlled demolition - especially the degree of precision exhibited by WTC-7's collapse. To properly prepare a 47-story steel framed building for such a perfect demolition in less than six hours would be almost super-human - all the more remarkable if fires, smoke, and the confusion and turmoil of the 9/11 attack would be in the mix.&#10;&#10;The World Trade Center had modernization work being performed for many months leading up to 9/11 as well as suspicious activities such as an electrical system power-down involving the Twin Towers on the weekend prior to 9/11. Could this have given the &#34;perpetrators&#34;, whoever they are, the opportunity to wire the buildings for demolition? Who was in charge of security for the World Trade Center? Marvin P. Bush, George W. Bush's younger brother was a principle in Securacom, the company that provided security for the World Trade Center on 9/11, United Airlines, and Dulles International Airport. In addition, Wirt D. Walker III, George W. Bush's cousin, was Securacom's CEO.&#10;http://911research.wtc7.net/cache/wtc/arch/wtc_elevator_renovation.pdf&#10;http://whatreallyhappened.com/WRHARTICLES/911security.html"
+    description "9/11 revisited - This consists of various video clips focusing on the &amp;#34;impossible&amp;#34; &amp;#34;by fires alone&amp;#34; total free-fall collapse of WTC-7 Salomon Brothers Building on 9/11/2001.&amp;#10;&amp;#10;The collapse of WTC Building 7 is the most telling event of the 9/11 attacks and demonstrates beyond reasonable doubt that controlled demolition was used to bring the building down in its own footprint. Larry Silverstein, the new World Trade Center leaseholder at the time of the attacks, admitted in a 2002 PBS documentary that Building 7 was &amp;#34;Pulled&amp;#34; - a demolition industry term for &amp;#34;controlled demolition.&amp;#34; And, indeed, Building 7's collapse appears to be textbook controlled demolition. &amp;#10;&amp;#10;However, the National Institute of Standards and Technology (NIST) who investigated the WTC building collapses stated officially that office fires alone brought the building down - something that has never happened in the history of steel famed highrise buildings. Since it borders on the realm of impossibility that technicians could wire a 47-story building with office fires burning for the near textbook perfect demolition seen in Building 7's collapse in a mere 6-hours, it strongly suggests that the building was wired prior to 9/11/2001, and this would seem to indicate that the 9/11 attacks were an inside orchestrated operation.&amp;#10;&amp;#10;As Dr. Alan Sabrosky, former Director of Studies at the U.S. Army War College, commented: &amp;#34;If one of the buildings was wired for demolition, all of them were wired for demolition.&amp;#34; And, indeed, all three buildings demonstrate controlled demolition.&amp;#10;&amp;#10;Is World Trade Center building # 7 the 9/11 smoking gun? Countless professionals feel that it is. Only three high-rise steel framed buildings have &amp;#34;ever&amp;#34; completely collapsed with the destruction being attributed to fires, and all of them were in the World Trade Center complex on September 11, 2001. Was WTC-7 &amp;#34;pulled&amp;#34; (controlled demolition)? In the PBS documentary aired in 2002 WTC leaseholder Larry Silverstein used the demolition industry's term &amp;#34;Pull-it&amp;#34; when describing the events that led to the perfect textbook total collapse of the building only 6-hours after the 9/11 attack.&amp;#10;&amp;#10;It takes weeks to months to prepare a large building for precision controlled demolition - especially the degree of precision exhibited by WTC-7's collapse. To properly prepare a 47-story steel framed building for such a perfect demolition in less than six hours would be almost super-human - all the more remarkable if fires, smoke, and the confusion and turmoil of the 9/11 attack would be in the mix.&amp;#10;&amp;#10;The World Trade Center had modernization work being performed for many months leading up to 9/11 as well as suspicious activities such as an electrical system power-down involving the Twin Towers on the weekend prior to 9/11. Could this have given the &amp;#34;perpetrators&amp;#34;, whoever they are, the opportunity to wire the buildings for demolition? Who was in charge of security for the World Trade Center? Marvin P. Bush, George W. Bush's younger brother was a principle in Securacom, the company that provided security for the World Trade Center on 9/11, United Airlines, and Dulles International Airport. In addition, Wirt D. Walker III, George W. Bush's cousin, was Securacom's CEO.&amp;#10;http://911research.wtc7.net/cache/wtc/arch/wtc_elevator_renovation.pdf&amp;#10;http://whatreallyhappened.com/WRHARTICLES/911security.html"
     channeltitle "NRUN65"
     channelid "UC7Of6CWGIHYPzZlc8vADBnQ"
     favcount 0
@@ -5158,7 +9338,29 @@ graph
     ppprofanity 0.065196
     ppinflammatory 0.04914194
     sentiment 0
-    cluster 4
+    cluster 5
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -5185,7 +9387,29 @@ graph
     ppprofanity 0.2565975
     ppinflammatory 0.14043546
     sentiment 0
-    cluster 3
+    cluster 1
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -5212,7 +9436,29 @@ graph
     ppprofanity 0.09471149
     ppinflammatory 0.6505748
     sentiment 0.5106
-    cluster 7
+    cluster 3
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -5221,7 +9467,7 @@ graph
     step 0
     date "2022-04-23T04:56:26Z"
     title "Update 12 Building 7 Control Demolition"
-    description "Updated #WTC7 news reports hinting at explosions in the building&#10;&#10;Silverstein never said who should do the demolition nor has any &#8220;Conspiracy Theorists&#8221; said  who should do the deed i.e. naming NYC Fire Department to demolish Building 7 or anyone else. That is a false strawman by trolls who are evil people. &#10;&#10;The fire crews were &#8220;pulled&#8221; before noon. The building was fully evacuated by 12:15.&#10;&#10;There was water. There were 3 18,000 gallons per minute fireboats a block and a half away, and their water was directed to a pumper relay truck on West Street and played on WTC6&#8212;which was already a total loss.&#10;&#10;I am told by a reliable source that had the street-level Siamese fitting on WTC7 been connected to the hose line from the West Street relay pumper, the WTC7 sprinkler system would have been restored.&#10;&#10;#WTC7  https://www.podchaser.com/podcasts/the-mind-renewed-thinking-chri-6810/episodes/tmr-092-tony-szamboti-on-nists-49702175&#10; tony szamboti barry jennings Mr. hess Silverstein &#10;9/11: An Architect&#8217;s Guide | Part 2: The Twin Towers&#8217; Explosive Destruction&#10;VISIT US AT:     https://RichardGage911.org&#10;Course Number: RG911-AAG-OD2&#10;Three-part webinar series. Each part is about 1 1/2 hours. &#10;We are an organization dedicated to conducting research and providing education about the complete destruction of the three World Trade Center skyscrapers, our courses give architects the technical knowledge and analytical framework with which to evaluate the most likely cause of those building failures.&#10;Course Description:&#10;Never before has a steel-framed high-rise collapsed from fire. Why, then, did three such buildings collapse on September 11, 2001?&#10;In Part 2 of &#8220;9/11: An Architect&#8217;s Guide,&#8221; Richard Gage, AIA, provides an overview of the most important evidence related to the explosiveness of the Twin Towers&#8217; destruction. Much like that of WTC 7, the destruction of the Twin Towers exhibited most of the features of controlled demolition.&#10;In 2005, the National Institute of Standards and Technology (NIST) concluded that the Twin Towers&#8217; destruction resulted from the combined effects of the airplane impact damage and ensuing fires.&#10;Is NIST&#8217;s explanation for these unprecedented structural failures valid? Decide for yourself after watching this informative one-hour presentation. Using the information presented, you will be able to evaluate which of the two hypotheses &#8212; fire-induced failure or controlled demolition &#65533;&#65533; is more consistent with the evidence.&#10;Learning Objectives:&#10;Participants will be able to: &#10;1. Describe the characteristics of building fires and the aspects of high-rise design that contribute to make fire-induced failure in steel-framed high-rise buildings a rare occurrence.&#10;2. Recognize the distinct features associated with fire-induced failure and the distinct features associated with the procedure of controlled demolition.&#10;3. Describe step-by-step the series of structural failures that the National Institute of Standards and Technology found to be the most likely cause of the collapse of World Trade Center Twin Towers.&#10;4. Analyze the physical evidence and the dynamics of the collapse of the Twin Towers according to how consistent it is with the competing hypotheses of fire-induced failure and controlled demolition.&#10;VISIT US AT: https://RichardGage911.org&#10;#RichardGage911 #NIST911 #AnArchetectsguidepart2 #TTExplosivedestruction #richardgage911 #richardgage911:unleashed! #wtc7 #911con #worldtradecenter #richardgage"
+    description "Updated #WTC7 news reports hinting at explosions in the building&amp;#10;&amp;#10;Silverstein never said who should do the demolition nor has any &amp;#8220;Conspiracy Theorists&amp;#8221; said  who should do the deed i.e. naming NYC Fire Department to demolish Building 7 or anyone else. That is a false strawman by trolls who are evil people. &amp;#10;&amp;#10;The fire crews were &amp;#8220;pulled&amp;#8221; before noon. The building was fully evacuated by 12:15.&amp;#10;&amp;#10;There was water. There were 3 18,000 gallons per minute fireboats a block and a half away, and their water was directed to a pumper relay truck on West Street and played on WTC6&amp;#8212;which was already a total loss.&amp;#10;&amp;#10;I am told by a reliable source that had the street-level Siamese fitting on WTC7 been connected to the hose line from the West Street relay pumper, the WTC7 sprinkler system would have been restored.&amp;#10;&amp;#10;#WTC7  https://www.podchaser.com/podcasts/the-mind-renewed-thinking-chri-6810/episodes/tmr-092-tony-szamboti-on-nists-49702175&amp;#10; tony szamboti barry jennings Mr. hess Silverstein &amp;#10;9/11: An Architect&amp;#8217;s Guide | Part 2: The Twin Towers&amp;#8217; Explosive Destruction&amp;#10;VISIT US AT:     https://RichardGage911.org&amp;#10;Course Number: RG911-AAG-OD2&amp;#10;Three-part webinar series. Each part is about 1 1/2 hours. &amp;#10;We are an organization dedicated to conducting research and providing education about the complete destruction of the three World Trade Center skyscrapers, our courses give architects the technical knowledge and analytical framework with which to evaluate the most likely cause of those building failures.&amp;#10;Course Description:&amp;#10;Never before has a steel-framed high-rise collapsed from fire. Why, then, did three such buildings collapse on September 11, 2001?&amp;#10;In Part 2 of &amp;#8220;9/11: An Architect&amp;#8217;s Guide,&amp;#8221; Richard Gage, AIA, provides an overview of the most important evidence related to the explosiveness of the Twin Towers&amp;#8217; destruction. Much like that of WTC 7, the destruction of the Twin Towers exhibited most of the features of controlled demolition.&amp;#10;In 2005, the National Institute of Standards and Technology (NIST) concluded that the Twin Towers&amp;#8217; destruction resulted from the combined effects of the airplane impact damage and ensuing fires.&amp;#10;Is NIST&amp;#8217;s explanation for these unprecedented structural failures valid? Decide for yourself after watching this informative one-hour presentation. Using the information presented, you will be able to evaluate which of the two hypotheses &amp;#8212; fire-induced failure or controlled demolition &amp;#65533;&amp;#65533; is more consistent with the evidence.&amp;#10;Learning Objectives:&amp;#10;Participants will be able to: &amp;#10;1. Describe the characteristics of building fires and the aspects of high-rise design that contribute to make fire-induced failure in steel-framed high-rise buildings a rare occurrence.&amp;#10;2. Recognize the distinct features associated with fire-induced failure and the distinct features associated with the procedure of controlled demolition.&amp;#10;3. Describe step-by-step the series of structural failures that the National Institute of Standards and Technology found to be the most likely cause of the collapse of World Trade Center Twin Towers.&amp;#10;4. Analyze the physical evidence and the dynamics of the collapse of the Twin Towers according to how consistent it is with the competing hypotheses of fire-induced failure and controlled demolition.&amp;#10;VISIT US AT: https://RichardGage911.org&amp;#10;#RichardGage911 #NIST911 #AnArchetectsguidepart2 #TTExplosivedestruction #richardgage911 #richardgage911:unleashed! #wtc7 #911con #worldtradecenter #richardgage"
     channeltitle "Rare 9/11 Facts"
     channelid "UCOch_SItPku1FqXKLMe9lqg"
     favcount 0
@@ -5239,7 +9485,29 @@ graph
     ppprofanity 0.054198004
     ppinflammatory 0.24494822
     sentiment 0
-    cluster 5
+    cluster 6
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -5248,7 +9516,7 @@ graph
     step 0
     date "2014-08-27T08:39:20Z"
     title "9/11 Building 7 Controlled Demolition Exposed on C-SPAN, Aug 2014"
-    description "Originally broadcast on C-SPAN.  The use of media materials is protected by the Fair Use Clause of the U.S. Copyright Act of 1976, which allows for the rebroadcast of copyrighted materials for the purpose of commentary, criticism, and education. &#10;&#10;The implications of this evidence revealed on C-SPAN affects much of U.S. domestic and foreign policy since 2001.  It also involves the death of some 3,000 American citizens during the incident in question, and the subsequent use of United States military resources, the invasion of several countries negatively impacting millions of innocent people, and a dramatic erosion of US civil liberties at home based upon an incident which is now know to be based on a false narrative. &#10;&#10;The evidence highlighted requires a much larger investigation and follow-up after careful consideration of the truth and the evidence at hand.  Based on the conclusions, appropriate action must be taken against those who are at fault."
+    description "Originally broadcast on C-SPAN.  The use of media materials is protected by the Fair Use Clause of the U.S. Copyright Act of 1976, which allows for the rebroadcast of copyrighted materials for the purpose of commentary, criticism, and education. &amp;#10;&amp;#10;The implications of this evidence revealed on C-SPAN affects much of U.S. domestic and foreign policy since 2001.  It also involves the death of some 3,000 American citizens during the incident in question, and the subsequent use of United States military resources, the invasion of several countries negatively impacting millions of innocent people, and a dramatic erosion of US civil liberties at home based upon an incident which is now know to be based on a false narrative. &amp;#10;&amp;#10;The evidence highlighted requires a much larger investigation and follow-up after careful consideration of the truth and the evidence at hand.  Based on the conclusions, appropriate action must be taken against those who are at fault."
     channeltitle "faithmix"
     channelid "UCZDk9ub6AuNtGqDeANXvyaQ"
     favcount 0
@@ -5266,7 +9534,29 @@ graph
     ppprofanity 0.19110896
     ppinflammatory 0.18601096
     sentiment -0.0772
-    cluster 6
+    cluster 7
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -5275,7 +9565,7 @@ graph
     step 0
     date "2012-02-23T03:48:37Z"
     title "Building 7 Collapse  Exploding Twin Tower on 9/11 at World Trade Center David Chandler"
-    description "See http://www.youtube.com/user/Destitutebroadcast for more videos.&#10;&#10;This video shows the 3rd tower WTC7 that collapsed at free-fall speed and the North Tower explosively demolished and it's concrete floors pulverized to dust. &#10;&#10;David Chandler discussed the WTC7 collapse in greater detail and analyzed the North Tower's explosions on two separate occasions. &#10;David did not object to my combining the two talks.&#10;&#10;World Trade Center &#10;Building 7 &#10;controlled demolition&#10;9/11 &#10;Twin Towners explode&#10;WTC7 collapse&#10;911 False Flag&#10;Reichstag Fire"
+    description "See http://www.youtube.com/user/Destitutebroadcast for more videos.&amp;#10;&amp;#10;This video shows the 3rd tower WTC7 that collapsed at free-fall speed and the North Tower explosively demolished and it's concrete floors pulverized to dust. &amp;#10;&amp;#10;David Chandler discussed the WTC7 collapse in greater detail and analyzed the North Tower's explosions on two separate occasions. &amp;#10;David did not object to my combining the two talks.&amp;#10;&amp;#10;World Trade Center &amp;#10;Building 7 &amp;#10;controlled demolition&amp;#10;9/11 &amp;#10;Twin Towners explode&amp;#10;WTC7 collapse&amp;#10;911 False Flag&amp;#10;Reichstag Fire"
     channeltitle "Destitutebroadcast"
     channelid "UC9O0UYrdvqCOplMXEaErOUA"
     favcount 0
@@ -5293,7 +9583,29 @@ graph
     ppprofanity 0.13724345
     ppinflammatory 0.1925433
     sentiment -0.4939
-    cluster 3
+    cluster 1
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -5320,7 +9632,29 @@ graph
     ppprofanity 0.07533645
     ppinflammatory 0.0714371
     sentiment -0.2732
-    cluster 7
+    cluster 3
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -5329,7 +9663,7 @@ graph
     step 0
     date "2020-09-11T14:21:32Z"
     title "WTC Building 7 Live News Report 9/11"
-    description "Sept 11&#10;WTC Building 7 live report.&#10;We will never forget what a tragic day 9/11 was."
+    description "Sept 11&amp;#10;WTC Building 7 live report.&amp;#10;We will never forget what a tragic day 9/11 was."
     channeltitle "TMV ARCHAEOLOGY"
     channelid "UC7VrPrAWwhiscORQz-gFM1g"
     favcount 0
@@ -5347,7 +9681,29 @@ graph
     ppprofanity 0.10827306
     ppinflammatory 0.2894684
     sentiment 0
-    cluster 8
+    cluster 10
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -5374,7 +9730,29 @@ graph
     ppprofanity 0.060467508
     ppinflammatory 0.26517788
     sentiment -0.5267
-    cluster 5
+    cluster 2
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -5383,7 +9761,7 @@ graph
     step 0
     date "2009-05-14T11:11:25Z"
     title "9/11: Blueprint for Truth - WTC Building 7 - 10 minute Segment from AE911Truth.org Companion Edition"
-    description "This is the first of 3 segments on the new AE911Truth.org Companion Edition to Blueprint for Truth. In just 10 minutes Richard Gage, AIA of Architects &#38; Engineers for 9/11 Truth takes you through most of the scientific forensic evidence proving beyond a reasonable doubt that the destruction of WTC 7 was accomplished with explosive controlled demolition. This DVD is available at the AE911Truth online store, http://www.ae911truth.net/store/product_info.php?cPath=24&#38;products_id=96 packaged together along with the 30 and 60 minute versions of 9/11: Blueprint for Truth. See the extended 2 hour Research Edition for the complete array of evidence and background information! Visit http://www.ae911truth.org/ for further details.&#10;&#10;Preview the New AE911Truth.org 9/11 Documentary 2011 &#34;9/11: Explosive Evidence -- Experts Speak Out&#34;:&#10;http://www.youtube.com/watch?v=yIOC1J44RYw&#10;&#10;Pre-Order the DVD September 1st 2011:&#10;http://www.ae911truth.net/store/product_info.php?products_id=145&#10;&#10;Buy the 9/11 Book &#34;9/11 The Simple Facts&#34;:&#10;http://www.ae911truth.net/store/product_info.php?products_id=143&#10;&#10;Follow AE911TRUTH around the Web:&#10;http://AE911truth.org/news-section/41-articles/544-eso-trailer.html&#10;http://www.911ExpertsSpeakOut.org&#10;http://www.AE911truth.org&#10;http://www.BuildingWhat.org&#10;http://www.Facebook.com/ae911truth&#10;http://www.Twitter.com/ae911truth&#10;http://www.Youtube.com/ae911truth&#10;http://www.Flickr.com/ae911truth&#10;http://www.AE911truth.net/store/&#10;http://www.AE911truth.org/911investigator"
+    description "This is the first of 3 segments on the new AE911Truth.org Companion Edition to Blueprint for Truth. In just 10 minutes Richard Gage, AIA of Architects &amp;#38; Engineers for 9/11 Truth takes you through most of the scientific forensic evidence proving beyond a reasonable doubt that the destruction of WTC 7 was accomplished with explosive controlled demolition. This DVD is available at the AE911Truth online store, http://www.ae911truth.net/store/product_info.php?cPath=24&amp;#38;products_id=96 packaged together along with the 30 and 60 minute versions of 9/11: Blueprint for Truth. See the extended 2 hour Research Edition for the complete array of evidence and background information! Visit http://www.ae911truth.org/ for further details.&amp;#10;&amp;#10;Preview the New AE911Truth.org 9/11 Documentary 2011 &amp;#34;9/11: Explosive Evidence -- Experts Speak Out&amp;#34;:&amp;#10;http://www.youtube.com/watch?v=yIOC1J44RYw&amp;#10;&amp;#10;Pre-Order the DVD September 1st 2011:&amp;#10;http://www.ae911truth.net/store/product_info.php?products_id=145&amp;#10;&amp;#10;Buy the 9/11 Book &amp;#34;9/11 The Simple Facts&amp;#34;:&amp;#10;http://www.ae911truth.net/store/product_info.php?products_id=143&amp;#10;&amp;#10;Follow AE911TRUTH around the Web:&amp;#10;http://AE911truth.org/news-section/41-articles/544-eso-trailer.html&amp;#10;http://www.911ExpertsSpeakOut.org&amp;#10;http://www.AE911truth.org&amp;#10;http://www.BuildingWhat.org&amp;#10;http://www.Facebook.com/ae911truth&amp;#10;http://www.Twitter.com/ae911truth&amp;#10;http://www.Youtube.com/ae911truth&amp;#10;http://www.Flickr.com/ae911truth&amp;#10;http://www.AE911truth.net/store/&amp;#10;http://www.AE911truth.org/911investigator"
     channeltitle "AE911Truth"
     channelid "UCL-c_zvZ3lhlU7NU1ikxgmQ"
     favcount 0
@@ -5401,7 +9779,29 @@ graph
     ppprofanity 0.024396678
     ppinflammatory 0.007966888
     sentiment 0.3182
-    cluster 2
+    cluster 4
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -5429,6 +9829,28 @@ graph
     ppinflammatory 0.25722113
     sentiment 0
     cluster 5
+    leftright "L"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 1
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 1
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -5437,7 +9859,7 @@ graph
     step 0
     date "2012-09-19T17:43:18Z"
     title "9/11Truth WTC Building 7 Demolition Countdown NWO"
-    description "9/11 Truth&#10;People Wake Up and Know Your Enemy"
+    description "9/11 Truth&amp;#10;People Wake Up and Know Your Enemy"
     channeltitle "Unplugged1977"
     channelid "UCweuhNBR7UNCzCPEJ34mbZg"
     favcount 0
@@ -5455,7 +9877,29 @@ graph
     ppprofanity 0.119827874
     ppinflammatory 0.11488033
     sentiment 0.3182
-    cluster 8
+    cluster 2
+    leftright "L"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 1
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 1
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -5482,7 +9926,29 @@ graph
     ppprofanity 0.040676005
     ppinflammatory 0.3442467
     sentiment -0.2732
-    cluster 8
+    cluster 10
+    leftright "L"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 1
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 1
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -5509,7 +9975,29 @@ graph
     ppprofanity 0.029630745
     ppinflammatory 0.12159541
     sentiment 0.3182
-    cluster 5
+    cluster 3
+    leftright "L"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 1
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 1
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -5518,7 +10006,7 @@ graph
     step 0
     date "2017-01-22T19:13:31Z"
     title "Building 7 - Never Forget: No Plane Hit WTC7 on 9/11"
-    description "Building 7 - Never Forget: No Plane Hit World Trade Center Building 7 on 9/11.&#10;&#10;In this video, we have a couple of news anchors who are reporting an event that had never happened in the history of mankind before 9/11 (collapse of a steel-frame superstructure).  And they are reporting it before it even happens.&#10;&#10;This is followed by very important clips from researchers and presenters that show the official story of the 'collapse' of WTC7 provided by NIST is full of holes, fabrications, corruption, and outright fraud.  Indeed the absurdity of what we are expected to believe has never been more clearly demonstrated.&#10;&#10;WTC 7 had not been hit by a plane, so it was apparently the first steel-framed high-rise building in the known universe to have collapsed because of fire alone. &#10;&#10;From a purely scientific perspective, of course, there would have been an obvious answer as to why building 7 came down. Scientists, presupposing the regularity of nature, operate on the principle that like effects generally imply like causes. Scientists are, therefore, loathe to posit unprecedented causes for common phenomena. By 9/11, the collapse of steel-framed high-rises had become a rather common phenomenon, which most Americans had seen on television. And in every one of these cases, the building had been brought down by explosives in the process known as controlled demolition. From a scientific perspective, therefore, the obvious assumption would have been that WTC 7 came down because explosives had been used to remove its steel supports. &#10;&#10;As always, use this info to gather more info.&#10;&#10;Subscribe to this channel - http://www.youtube.com/c/ProperGander&#10;Proper Gander on Minds.com - http://www.minds.com/Joelsee&#10;Join Minds.com today: https://www.minds.com/register;referrer=Joelsee&#10;Proper Gander on Facebook - http://www.facebook.com/aProperGander&#10;PayPal Donations welcome.  Click here: http://goo.gl/FxXWYQ&#10;&#10;Foreknowledge of the Collapse of World Trade Center Building 7 - http://www.consensus911.org/point-wtc7-7/&#10;Remember Building 7 - http://rememberbuilding7.org&#10;The Controlled Collapse of WTC7 - http://www.whatreallyhappened.com/WRHARTICLES/wtc7.html&#10;Larry Silverstein, WTC 7, and the 9/11 Demolition - http://www.whatreallyhappened.com/WRHARTICLES/cutter.html&#10;NIST criminally manipulated computer input data - https://isgp-studies.com/911-wtc-7-collapse-nist-failure-to-disprove-controlled-demolition-thermate&#10;WTC 7 Gallery of Evidence - http://www2.ae911truth.org/wtc7.php&#10;Fraud Exposed in NIST WTC 7 Reports - http://www1.ae911truth.org/faqs/803-fraud-exposed-in-nist-wtc-7-reports-part-5-of-5.html&#10;&#8216;Debunking NIST&#8217;s Conclusions About WTC 7 is as Easy as Shooting Fish in a Barrel&#8217; - http://www.911truth.org/debunking-nists-conclusions-about-wtc-7/&#10;Was the WTC 7 pulled? - http://killtown.911review.org/wtc7/collapse.html&#10;Solving the Mystery of WTC Building 7 - http://architects-engineers.org/&#10;9/11: Larry Silverstein Designed New WTC-7 One Year Before Attacks - http://www.mintpressnews.com/911-larry-silverstein-designed-new-wtc-7-one-year-attacks/214821/&#10;Donald Rumsfeld and the Demolition of WTC 7 - http://911blogger.com/news/2014-05-22/donald-rumsfeld-and-demolition-wtc-7&#10;WTC 7 Now A Proven Case Of Controlled Demolition - http://www.paulcraigroberts.org/2014/06/03/wtc-7-now-proven-case-controlled-demolition&#10;Was Flight 93 to Hit WTC7? - https://kendoc911.wordpress.com/911-flights/was-flight-93-to-hit-wtc-7/&#10;Here are images of WTC 7's fires compared to those of other steel skyscrapers - https://www.reddit.com/r/conspiracy/comments/1jtyln/here_are_images_of_wtc_7s_fires_compared_to_those/&#10;The Corbett Report - WTC7 - https://www.corbettreport.com/tag/wtc7/"
+    description "Building 7 - Never Forget: No Plane Hit World Trade Center Building 7 on 9/11.&amp;#10;&amp;#10;In this video, we have a couple of news anchors who are reporting an event that had never happened in the history of mankind before 9/11 (collapse of a steel-frame superstructure).  And they are reporting it before it even happens.&amp;#10;&amp;#10;This is followed by very important clips from researchers and presenters that show the official story of the 'collapse' of WTC7 provided by NIST is full of holes, fabrications, corruption, and outright fraud.  Indeed the absurdity of what we are expected to believe has never been more clearly demonstrated.&amp;#10;&amp;#10;WTC 7 had not been hit by a plane, so it was apparently the first steel-framed high-rise building in the known universe to have collapsed because of fire alone. &amp;#10;&amp;#10;From a purely scientific perspective, of course, there would have been an obvious answer as to why building 7 came down. Scientists, presupposing the regularity of nature, operate on the principle that like effects generally imply like causes. Scientists are, therefore, loathe to posit unprecedented causes for common phenomena. By 9/11, the collapse of steel-framed high-rises had become a rather common phenomenon, which most Americans had seen on television. And in every one of these cases, the building had been brought down by explosives in the process known as controlled demolition. From a scientific perspective, therefore, the obvious assumption would have been that WTC 7 came down because explosives had been used to remove its steel supports. &amp;#10;&amp;#10;As always, use this info to gather more info.&amp;#10;&amp;#10;Subscribe to this channel - http://www.youtube.com/c/ProperGander&amp;#10;Proper Gander on Minds.com - http://www.minds.com/Joelsee&amp;#10;Join Minds.com today: https://www.minds.com/register;referrer=Joelsee&amp;#10;Proper Gander on Facebook - http://www.facebook.com/aProperGander&amp;#10;PayPal Donations welcome.  Click here: http://goo.gl/FxXWYQ&amp;#10;&amp;#10;Foreknowledge of the Collapse of World Trade Center Building 7 - http://www.consensus911.org/point-wtc7-7/&amp;#10;Remember Building 7 - http://rememberbuilding7.org&amp;#10;The Controlled Collapse of WTC7 - http://www.whatreallyhappened.com/WRHARTICLES/wtc7.html&amp;#10;Larry Silverstein, WTC 7, and the 9/11 Demolition - http://www.whatreallyhappened.com/WRHARTICLES/cutter.html&amp;#10;NIST criminally manipulated computer input data - https://isgp-studies.com/911-wtc-7-collapse-nist-failure-to-disprove-controlled-demolition-thermate&amp;#10;WTC 7 Gallery of Evidence - http://www2.ae911truth.org/wtc7.php&amp;#10;Fraud Exposed in NIST WTC 7 Reports - http://www1.ae911truth.org/faqs/803-fraud-exposed-in-nist-wtc-7-reports-part-5-of-5.html&amp;#10;&amp;#8216;Debunking NIST&amp;#8217;s Conclusions About WTC 7 is as Easy as Shooting Fish in a Barrel&amp;#8217; - http://www.911truth.org/debunking-nists-conclusions-about-wtc-7/&amp;#10;Was the WTC 7 pulled? - http://killtown.911review.org/wtc7/collapse.html&amp;#10;Solving the Mystery of WTC Building 7 - http://architects-engineers.org/&amp;#10;9/11: Larry Silverstein Designed New WTC-7 One Year Before Attacks - http://www.mintpressnews.com/911-larry-silverstein-designed-new-wtc-7-one-year-attacks/214821/&amp;#10;Donald Rumsfeld and the Demolition of WTC 7 - http://911blogger.com/news/2014-05-22/donald-rumsfeld-and-demolition-wtc-7&amp;#10;WTC 7 Now A Proven Case Of Controlled Demolition - http://www.paulcraigroberts.org/2014/06/03/wtc-7-now-proven-case-controlled-demolition&amp;#10;Was Flight 93 to Hit WTC7? - https://kendoc911.wordpress.com/911-flights/was-flight-93-to-hit-wtc-7/&amp;#10;Here are images of WTC 7's fires compared to those of other steel skyscrapers - https://www.reddit.com/r/conspiracy/comments/1jtyln/here_are_images_of_wtc_7s_fires_compared_to_those/&amp;#10;The Corbett Report - WTC7 - https://www.corbettreport.com/tag/wtc7/"
     channeltitle "Proper Gander"
     channelid "UCPi6euzgQgW8lXDLAw152Pg"
     favcount 0
@@ -5536,7 +10024,29 @@ graph
     ppprofanity 0.056825437
     ppinflammatory 0.4022112
     sentiment 0.3724
-    cluster 4
+    cluster 5
+    leftright "R"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 1
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -5563,7 +10073,29 @@ graph
     ppprofanity 0.04190647
     ppinflammatory 0.114611976
     sentiment 0
-    cluster 5
+    cluster 6
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -5572,7 +10104,7 @@ graph
     step 0
     date "2021-02-27T05:41:29Z"
     title "2/25/2021 Follow The Money - WTC Building 7, 9-11 and Money"
-    description "Follow The Money, WTC Building 7, 9-11 and Money&#10;Breaking down amazing videos by Scotty Mar10 and The_Highroller with various others.&#10;Awakening humanity one soul at a time!&#10;Paypalme&#10;https://paypal.me/5DGramma?locale.x=en_US&#10;Check out my Hempworx website below&#10;HEMPWORX LINK - &#10;www.hempworx.com/5DGramma&#10;Michelle Harmon Energy&#10;https://www.michelleharmonenergy.com/&#10;Videos removed from YouTube:&#10;Rumble&#10;https://rumble.com/vfcucj-evergreen-update-children-missiles-and-vaccines-found.html?mref=imgst&#38;mc=1rlhz&#10;&#10;https://rumble.com/veei5h-adreno-chrome.html?mref=imgst&#38;mc=1rlhz&#10;&#10;https://rumble.com/vfdcax-gates-epstein-connections-exposed.html?mref=imgst&#38;mc=1rlhz"
+    description "Follow The Money, WTC Building 7, 9-11 and Money&amp;#10;Breaking down amazing videos by Scotty Mar10 and The_Highroller with various others.&amp;#10;Awakening humanity one soul at a time!&amp;#10;Paypalme&amp;#10;https://paypal.me/5DGramma?locale.x=en_US&amp;#10;Check out my Hempworx website below&amp;#10;HEMPWORX LINK - &amp;#10;www.hempworx.com/5DGramma&amp;#10;Michelle Harmon Energy&amp;#10;https://www.michelleharmonenergy.com/&amp;#10;Videos removed from YouTube:&amp;#10;Rumble&amp;#10;https://rumble.com/vfcucj-evergreen-update-children-missiles-and-vaccines-found.html?mref=imgst&amp;#38;mc=1rlhz&amp;#10;&amp;#10;https://rumble.com/veei5h-adreno-chrome.html?mref=imgst&amp;#38;mc=1rlhz&amp;#10;&amp;#10;https://rumble.com/vfdcax-gates-epstein-connections-exposed.html?mref=imgst&amp;#38;mc=1rlhz"
     channeltitle "5D Gramma"
     channelid "UCiczT_8vjQAT22llskP2QMg"
     favcount 0
@@ -5590,7 +10122,29 @@ graph
     ppprofanity 0.03995418
     ppinflammatory 0.17620665
     sentiment 0
-    cluster 4
+    cluster 5
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -5618,6 +10172,28 @@ graph
     ppinflammatory 0.15458733
     sentiment 0.3182
     cluster 5
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -5626,7 +10202,7 @@ graph
     step 0
     date "2019-10-05T19:17:13Z"
     title "Tucker Carlson wont show Building 7 Collapse on TV"
-    description "Dr. Steven Jones went on Tucker Carlson's &#34;The Situation&#34; in 2005 to show evidence of a controlled demolition of WTC 7. At 3:23 Tucker and MSNBC would not show the videos Dr. Jones provided, but instead showed pictures of the building."
+    description "Dr. Steven Jones went on Tucker Carlson's &amp;#34;The Situation&amp;#34; in 2005 to show evidence of a controlled demolition of WTC 7. At 3:23 Tucker and MSNBC would not show the videos Dr. Jones provided, but instead showed pictures of the building."
     channeltitle "Eduardo Corrochio"
     channelid "UCsIQkODRQQ3jPPphKUMWCxQ"
     favcount 0
@@ -5644,7 +10220,29 @@ graph
     ppprofanity 0.15783054
     ppinflammatory 0.08406818
     sentiment 0.3875
-    cluster 7
+    cluster 9
+    leftright "R"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 1
+    Politician 0
+    QAnon 0
+    ReligiousConservative 1
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -5671,7 +10269,29 @@ graph
     ppprofanity 0.19771616
     ppinflammatory 0.14674
     sentiment 0.6369
-    cluster 7
+    cluster 3
+    leftright "R"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 1
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -5680,7 +10300,7 @@ graph
     step 0
     date "2014-10-24T20:44:02Z"
     title "A 9/11 Mystery: Barry Jennings, Michael Hess and WTC Building 7"
-    description "Both Barry Jennings and Michael Hess were in World Trade Center Building 7 on the morning of 9/11 before it collapsed later that day.&#10;&#10;Barry Jennings was Emergency Coordinator for the New York Housing Authority and Michael Hess was the New York City Corporation's Counsel at the time.  Both say they experienced an explosion while they were in the building and had to be rescued from the building. Jennings said there were bodies all over the floor of WTC 7.  &#10;&#10;Jennings told the media what he witnessed in WTC 7 on 9/11 on at least three occasions. On the second occasion he went into detail, and on the third occassion he changed his story. Hess backed up Jennings' original story on the day of 9/11, but quickly changed his mind and stuck to his new story.&#10;&#10;Barry Jennings: He told the truth about what he witnessed in WTC Building 7 on 9/11 (before he changed his story). Unfortunately for Jennings, he gave a lot of details during one of his interviews. He  is now dead (no one knows how or why) and his family has disappeared.&#10;&#10;Michael Hess: On the day of 9/11 he backed up Jennings original story, but didn't give any details that day. He quickly changed his story about what he witnessed and went on to enjoy a long and  illustrious career."
+    description "Both Barry Jennings and Michael Hess were in World Trade Center Building 7 on the morning of 9/11 before it collapsed later that day.&amp;#10;&amp;#10;Barry Jennings was Emergency Coordinator for the New York Housing Authority and Michael Hess was the New York City Corporation's Counsel at the time.  Both say they experienced an explosion while they were in the building and had to be rescued from the building. Jennings said there were bodies all over the floor of WTC 7.  &amp;#10;&amp;#10;Jennings told the media what he witnessed in WTC 7 on 9/11 on at least three occasions. On the second occasion he went into detail, and on the third occassion he changed his story. Hess backed up Jennings' original story on the day of 9/11, but quickly changed his mind and stuck to his new story.&amp;#10;&amp;#10;Barry Jennings: He told the truth about what he witnessed in WTC Building 7 on 9/11 (before he changed his story). Unfortunately for Jennings, he gave a lot of details during one of his interviews. He  is now dead (no one knows how or why) and his family has disappeared.&amp;#10;&amp;#10;Michael Hess: On the day of 9/11 he backed up Jennings original story, but didn't give any details that day. He quickly changed his story about what he witnessed and went on to enjoy a long and  illustrious career."
     channeltitle "Global Perspectives Now"
     channelid "UC7WIb8-tiKEzkKXdenVdbCw"
     favcount 0
@@ -5699,6 +10319,28 @@ graph
     ppinflammatory 0.3720867
     sentiment 0
     cluster 8
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -5725,7 +10367,29 @@ graph
     ppprofanity 0.09611794
     ppinflammatory 0.24225943
     sentiment 0
-    cluster 5
+    cluster 6
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -5752,7 +10416,29 @@ graph
     ppprofanity 0.08627143
     ppinflammatory 0.31132048
     sentiment -0.34
-    cluster 7
+    cluster 1
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -5779,7 +10465,29 @@ graph
     ppprofanity 0.089074515
     ppinflammatory 0.14837931
     sentiment 0
-    cluster 8
+    cluster 10
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -5788,7 +10496,7 @@ graph
     step 0
     date "2020-07-01T21:55:21Z"
     title "The Truth About 9 11 And Building 7"
-    description "re-used from: Information Balance&#10;https://www.youtube.com/channel/UCdgReg82yQLM_VkRsNG2h1Q"
+    description "re-used from: Information Balance&amp;#10;https://www.youtube.com/channel/UCdgReg82yQLM_VkRsNG2h1Q"
     channeltitle "Wave Radio 365"
     channelid "UClrwopahtm_Gkr4lMNPaMog"
     favcount 0
@@ -5806,7 +10514,29 @@ graph
     ppprofanity 0.048542116
     ppinflammatory 0.15716597
     sentiment 0.3182
-    cluster 4
+    cluster 3
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -5833,7 +10563,29 @@ graph
     ppprofanity 0.09533989
     ppinflammatory 0.07033565
     sentiment 0
-    cluster 2
+    cluster 4
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -5842,7 +10594,7 @@ graph
     step 0
     date "2014-08-28T19:06:05Z"
     title "9 11 Blueprint for Truth WTC Building 7 10 minute Segment from AE911Truth org Companion Edition"
-    description "This is the first of 3 segments on the new AE911Truth.org Companion Edition to Blueprint for Truth. In just 10 minutes Richard Gage, AIA of Architects &#38; Engineers for 9/11 Truth takes you through most of the scientific forensic evidence proving beyond a reasonable doubt that the destruction of WTC 7 was accomplished with explosive controlled demolition. This DVD is available at the AE911Truth online store, http://www.ae911truth.net/store/produ... packaged together along with the 30 and 60 minute versions of 9/11: Blueprint for Truth. See the extended 2 hour Research Edition for the complete array of evidence and background information! Visit http://www.ae911truth.org/ for further details."
+    description "This is the first of 3 segments on the new AE911Truth.org Companion Edition to Blueprint for Truth. In just 10 minutes Richard Gage, AIA of Architects &amp;#38; Engineers for 9/11 Truth takes you through most of the scientific forensic evidence proving beyond a reasonable doubt that the destruction of WTC 7 was accomplished with explosive controlled demolition. This DVD is available at the AE911Truth online store, http://www.ae911truth.net/store/produ... packaged together along with the 30 and 60 minute versions of 9/11: Blueprint for Truth. See the extended 2 hour Research Edition for the complete array of evidence and background information! Visit http://www.ae911truth.org/ for further details."
     channeltitle "vengencefrom1979"
     channelid "UCpXYmbe8jgD68NnvyeV6nUQ"
     favcount 0
@@ -5860,7 +10612,29 @@ graph
     ppprofanity 0.06818694
     ppinflammatory 0.013250331
     sentiment 0.3182
-    cluster 1
+    cluster 2
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -5869,7 +10643,7 @@ graph
     step 0
     date "2010-09-20T08:17:38Z"
     title "9/11 - LOWKEY on building 7, controlled demolition,  nano thermite PLUS Richard Gage"
-    description "9/11 - LOWKEY on building 7, controlled demolition, &#38; nano thermite PLUS Richard Gage&#13;&#10;&#13;&#10;1. Do you know about OPERATION NORTHWOODS?&#13;&#10;2. How can you look at the way the THREE world trade center buildings fell &#38; not see controlled demolition?&#13;&#10;3. What caused building 7 to fall?&#13;&#10;4. Where did the nano thermite come from?&#13;&#10;5. Who were the people arrested on the George Washington Bridge &#38; what did they have in their van?&#13;&#10;&#13;&#10;high profile people who have acknowledged the ISRAELI MOSSAD involvement in the  9/11 attacks&#13;&#10;&#13;&#10;I can list several off the top of my head:&#13;&#10;&#13;&#10;former head of the US ARMY WAR COLLEGE, Dr Alan Sabrosky&#13;&#10;former PRESIDENT OF ITALY, Francesco Cossiga&#13;&#10;former MI5 agent, Annie Machon&#13;&#10;renowned BBC correspondent Alan Hart&#13;&#10;US Marine Ken O'keefe&#13;&#10;&#13;&#10;there are more, but these are the ones I can list off the top of my head"
+    description "9/11 - LOWKEY on building 7, controlled demolition, &amp;#38; nano thermite PLUS Richard Gage&amp;#13;&amp;#10;&amp;#13;&amp;#10;1. Do you know about OPERATION NORTHWOODS?&amp;#13;&amp;#10;2. How can you look at the way the THREE world trade center buildings fell &amp;#38; not see controlled demolition?&amp;#13;&amp;#10;3. What caused building 7 to fall?&amp;#13;&amp;#10;4. Where did the nano thermite come from?&amp;#13;&amp;#10;5. Who were the people arrested on the George Washington Bridge &amp;#38; what did they have in their van?&amp;#13;&amp;#10;&amp;#13;&amp;#10;high profile people who have acknowledged the ISRAELI MOSSAD involvement in the  9/11 attacks&amp;#13;&amp;#10;&amp;#13;&amp;#10;I can list several off the top of my head:&amp;#13;&amp;#10;&amp;#13;&amp;#10;former head of the US ARMY WAR COLLEGE, Dr Alan Sabrosky&amp;#13;&amp;#10;former PRESIDENT OF ITALY, Francesco Cossiga&amp;#13;&amp;#10;former MI5 agent, Annie Machon&amp;#13;&amp;#10;renowned BBC correspondent Alan Hart&amp;#13;&amp;#10;US Marine Ken O'keefe&amp;#13;&amp;#10;&amp;#13;&amp;#10;there are more, but these are the ones I can list off the top of my head"
     channeltitle "TheFlex21"
     channelid "UCNA357ElFO86UBlE3HwN9AA"
     favcount 0
@@ -5888,6 +10662,28 @@ graph
     ppinflammatory 0.03514941
     sentiment 0
     cluster 8
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -5896,7 +10692,7 @@ graph
     step 0
     date "2020-04-21T16:18:03Z"
     title "9/11 Bombshell: CNBC Anchor Ron Insana Says Building 7 a "
-    description "https://www.ae911truth.org/news/570 &#10;&#34;...And so there were still fears that if that building had fallen sideways, you were going to wipe out a good part of Lower Manhattan. So they did manage for one to take that down in a controlled implosion later on.&#34;"
+    description "https://www.ae911truth.org/news/570 &amp;#10;&amp;#34;...And so there were still fears that if that building had fallen sideways, you were going to wipe out a good part of Lower Manhattan. So they did manage for one to take that down in a controlled implosion later on.&amp;#34;"
     channeltitle "911operationgladio"
     channelid "UCcvVaK5AinFO7yi_GL-SGUw"
     favcount 0
@@ -5914,7 +10710,29 @@ graph
     ppprofanity 0.11954585
     ppinflammatory 0.052892078
     sentiment 0
-    cluster 8
+    cluster 10
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -5941,7 +10759,29 @@ graph
     ppprofanity 0.054912545
     ppinflammatory 0.040264823
     sentiment 0
-    cluster 1
+    cluster 3
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -5950,7 +10790,7 @@ graph
     step 0
     date "2012-08-17T01:50:55Z"
     title "Building 7 - NIST Finally Admits Freefall"
-    description "David Chandler explains how he brought the National Institute of Standards and Technology to acknowledge that World Trade Center Building 7 experienced free fall acceleration during its destruction on September 11, 2001, and the implications of free fall.&#10;&#10;https://www.youtube.com/user/ae911truth&#10;https://www.youtube.com/user/DavidChandler911"
+    description "David Chandler explains how he brought the National Institute of Standards and Technology to acknowledge that World Trade Center Building 7 experienced free fall acceleration during its destruction on September 11, 2001, and the implications of free fall.&amp;#10;&amp;#10;https://www.youtube.com/user/ae911truth&amp;#10;https://www.youtube.com/user/DavidChandler911"
     channeltitle "thermate911"
     channelid "UCpSJwx4Rfsyab5UjV2-3C8A"
     favcount 0
@@ -5968,7 +10808,29 @@ graph
     ppprofanity 0.048455384
     ppinflammatory 0.6310737
     sentiment 0.296
-    cluster 1
+    cluster 2
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -5977,7 +10839,7 @@ graph
     step 0
     date "2012-09-13T05:13:02Z"
     title "Larry Silverstein Pull It Building 7 Burning For Hours"
-    description "Leaseholder of the World Trade Centre, Larry Silverstein questioned on his remarks on WTC Building 7 and what he was referring to when he said &#34;pull it&#34; As always you decide!"
+    description "Leaseholder of the World Trade Centre, Larry Silverstein questioned on his remarks on WTC Building 7 and what he was referring to when he said &amp;#34;pull it&amp;#34; As always you decide!"
     channeltitle "jamie4870"
     channelid "UCdb5hWxC9Gvg-Sf-47XtnIQ"
     favcount 0
@@ -5995,7 +10857,29 @@ graph
     ppprofanity 0.13854095
     ppinflammatory 0.3854718
     sentiment 0
-    cluster 3
+    cluster 1
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -6022,7 +10906,29 @@ graph
     ppprofanity 0.059361074
     ppinflammatory 0.06266982
     sentiment -0.34
-    cluster 4
+    cluster 3
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -6049,7 +10955,29 @@ graph
     ppprofanity 0.06989618
     ppinflammatory 0.1580539
     sentiment 0.3182
-    cluster 8
+    cluster 10
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -6058,7 +10986,7 @@ graph
     step 0
     date "2012-03-03T21:40:46Z"
     title "What Really Happened to WTC Building 7 on 9/11 - Part 1"
-    description "What Really Happened to WTC Building 7 on 9/11 - Part 1&#10;If you think you know what happened based on news reports and school teachers, Wake up and watch this video.&#10;&#10;Barry Jennings was in building 7 when explosives went off, He knew they were explosives.&#10;&#10;&#34;Our study found that the fires in WTC 7, which were uncontrolled&#10;but otherwise similar to fires experienced in other tall buildings,&#10;caused an extraordinary event,&#34;said NIST WTC Lead Investigator&#10;Shyam Sunder. &#34;Heating of floor beams and girders caused a critical&#10;support column to fail, initiating a fire-induced progressive collapse that&#10;brought the building down.&#34; &#10;&#10;Absolutely impossible, Your telling me that for the first time in history, A building collapsed due to fire? Wait sorry i mean THREE, On the SAME day.&#10;&#10;Danny Jowenko, A expert in demolition explains in detail how that is not possible.&#10;&#10;None of the sleeping Americans have seen his interview, They don't want you to see it.&#10;&#10;R.I.P Barry Jennings&#10;&#34;No cause of death has been made public, and the mainstream press has not even covered the death of this American hero.&#34;&#10;http://jenningsmystery.com/&#10;&#10;R.I.P Danny Jowenko&#10;&#34;Dutch demolition expert Danny Jowenko was killed a car accident Saturday in the Netherlands. He was reportedly driving from church when he collided head-on with a tree. There was also a dog in the car who survived.&#34;&#10;&#10;No damage to the surrounding grass, No skid marks, Volvo went pretty far after impact.&#10;&#10;You should also see&#10;http://www.youtube.com/watch?v=aw4GW977OmI&#10;http://www.youtube.com/watch?v=C7SwOT29gbc&#10;http://www.wikileaks.org/&#10;http://www.infowars.com/&#10;http://www.prisonplanet.com/&#10;&#10;Also remember your rights!&#10;http://www.youtube.com/watch?v=gmrbNLt7Om8&#38;feature=list_related&#38;playnext=1&#38;list=SP1B0B357282389571&#10;&#10;Wake up America!, So much money on security but the enemies are already in our gates!"
+    description "What Really Happened to WTC Building 7 on 9/11 - Part 1&amp;#10;If you think you know what happened based on news reports and school teachers, Wake up and watch this video.&amp;#10;&amp;#10;Barry Jennings was in building 7 when explosives went off, He knew they were explosives.&amp;#10;&amp;#10;&amp;#34;Our study found that the fires in WTC 7, which were uncontrolled&amp;#10;but otherwise similar to fires experienced in other tall buildings,&amp;#10;caused an extraordinary event,&amp;#34;said NIST WTC Lead Investigator&amp;#10;Shyam Sunder. &amp;#34;Heating of floor beams and girders caused a critical&amp;#10;support column to fail, initiating a fire-induced progressive collapse that&amp;#10;brought the building down.&amp;#34; &amp;#10;&amp;#10;Absolutely impossible, Your telling me that for the first time in history, A building collapsed due to fire? Wait sorry i mean THREE, On the SAME day.&amp;#10;&amp;#10;Danny Jowenko, A expert in demolition explains in detail how that is not possible.&amp;#10;&amp;#10;None of the sleeping Americans have seen his interview, They don't want you to see it.&amp;#10;&amp;#10;R.I.P Barry Jennings&amp;#10;&amp;#34;No cause of death has been made public, and the mainstream press has not even covered the death of this American hero.&amp;#34;&amp;#10;http://jenningsmystery.com/&amp;#10;&amp;#10;R.I.P Danny Jowenko&amp;#10;&amp;#34;Dutch demolition expert Danny Jowenko was killed a car accident Saturday in the Netherlands. He was reportedly driving from church when he collided head-on with a tree. There was also a dog in the car who survived.&amp;#34;&amp;#10;&amp;#10;No damage to the surrounding grass, No skid marks, Volvo went pretty far after impact.&amp;#10;&amp;#10;You should also see&amp;#10;http://www.youtube.com/watch?v=aw4GW977OmI&amp;#10;http://www.youtube.com/watch?v=C7SwOT29gbc&amp;#10;http://www.wikileaks.org/&amp;#10;http://www.infowars.com/&amp;#10;http://www.prisonplanet.com/&amp;#10;&amp;#10;Also remember your rights!&amp;#10;http://www.youtube.com/watch?v=gmrbNLt7Om8&amp;#38;feature=list_related&amp;#38;playnext=1&amp;#38;list=SP1B0B357282389571&amp;#10;&amp;#10;Wake up America!, So much money on security but the enemies are already in our gates!"
     channeltitle "lilllieqdwo"
     channelid "UCRAURV3RjwvbWJUfLxSBvAw"
     favcount 0
@@ -6076,7 +11004,29 @@ graph
     ppprofanity 0.058046043
     ppinflammatory 0.10408497
     sentiment 0
-    cluster 7
+    cluster 9
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -6085,7 +11035,7 @@ graph
     step 0
     date "2022-07-08T21:13:25Z"
     title "Gene Johnson brings the WTC 7 evidence to the ASCEs grassroots"
-    description "Mechanical engineer Gene Johnson joins host Andy Steele on 9/11 Free Fall to talk about his recent WTC 7 presentation to members of the Longview, Texas, branch of the ASCE, and share the reactions of his audience when they were confronted with scientific evidence and eyewitness accounts that they had never been exposed to before.&#10;&#10;Johnson belongs to AE911Truth's Project Due Diligence, whose volunteer engineers deliver powerful presentations to grassroots organizations, including the branches of professional engineering associations, all over the country. &#10;&#10;For more information: visit http://AE911Truth.org&#13;&#10;and http://WTC7Evaluation.org"
+    description "Mechanical engineer Gene Johnson joins host Andy Steele on 9/11 Free Fall to talk about his recent WTC 7 presentation to members of the Longview, Texas, branch of the ASCE, and share the reactions of his audience when they were confronted with scientific evidence and eyewitness accounts that they had never been exposed to before.&amp;#10;&amp;#10;Johnson belongs to AE911Truth's Project Due Diligence, whose volunteer engineers deliver powerful presentations to grassroots organizations, including the branches of professional engineering associations, all over the country. &amp;#10;&amp;#10;For more information: visit http://AE911Truth.org&amp;#13;&amp;#10;and http://WTC7Evaluation.org"
     channeltitle "AE911Truth"
     channelid "UCL-c_zvZ3lhlU7NU1ikxgmQ"
     favcount 0
@@ -6103,7 +11053,29 @@ graph
     ppprofanity 0.04219099
     ppinflammatory 0.43668056
     sentiment 0
-    cluster 2
+    cluster 4
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -6130,7 +11102,29 @@ graph
     ppprofanity 0.20837386
     ppinflammatory 0.23773216
     sentiment -0.2023
-    cluster 4
+    cluster 5
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -6157,7 +11151,29 @@ graph
     ppprofanity 0.10098046
     ppinflammatory 0.20073071
     sentiment 0
-    cluster 4
+    cluster 3
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -6184,7 +11200,29 @@ graph
     ppprofanity 0.1416266
     ppinflammatory 0.09199707
     sentiment 0
-    cluster 5
+    cluster 6
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -6193,7 +11231,7 @@ graph
     step 0
     date "2019-09-26T03:45:59Z"
     title "9 11 Bombshell CNBC Anchor Says Building 7 a "
-    description "From AE911 Truth &#10;For more analysis of Ron Insana&#8217;s statement regarding Building 7, visit https://AE911Truth.org/news/570."
+    description "From AE911 Truth &amp;#10;For more analysis of Ron Insana&amp;#8217;s statement regarding Building 7, visit https://AE911Truth.org/news/570."
     channeltitle "bulldog1961"
     channelid "UCoWALl8bXQWVoTqPsF0Qa0Q"
     favcount 0
@@ -6211,7 +11249,29 @@ graph
     ppprofanity 0.14731526
     ppinflammatory 0.09941144
     sentiment 0
-    cluster 4
+    cluster 3
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -6220,7 +11280,7 @@ graph
     step 0
     date "2020-01-18T01:57:20Z"
     title "The 911 Events Part II- WTC Building 7- PLEASE SHARE!!!"
-    description "Link to Part I- &#34;A Different Perspectie- 911 Dark Ritual&#34; &#10;https://www.youtube.com/watch?v=8cm1yhtIyv4&#38;t=11s&#10;&#10;Dr. Jones KSL.com website publishing&#10;https://www.ksl.com/article/476951/byu-professor-on-paid-leave-for-9-11-theory&#10;&#10;Dr. Jones KSL.com website publishing&#10;https://www.ksl.com/article/476951/byu-professor-on-paid-leave-for-9-11-theory&#10;&#10;Remembering 911 The Attacks on the World Trade Center Documentary Part 1&#10;https://youtu.be/vKmcKmeGUpw&#10;&#10;Music: &#34;Skyscraper&#34; by Demi Lovato&#10;I do not own this music, all credits go to the artist and producer&#10;&#10;FAIR USE ACT &#10;Copyright Disclaimer under section 107 of the Copyright Act of 1976, allowance is made for &#8220;fair use&#8221; for purposes such as criticism, comment, news reporting, teaching, scholarship, education and research. Fair use is a use permitted by copyright statute that might otherwise be infringing."
+    description "Link to Part I- &amp;#34;A Different Perspectie- 911 Dark Ritual&amp;#34; &amp;#10;https://www.youtube.com/watch?v=8cm1yhtIyv4&amp;#38;t=11s&amp;#10;&amp;#10;Dr. Jones KSL.com website publishing&amp;#10;https://www.ksl.com/article/476951/byu-professor-on-paid-leave-for-9-11-theory&amp;#10;&amp;#10;Dr. Jones KSL.com website publishing&amp;#10;https://www.ksl.com/article/476951/byu-professor-on-paid-leave-for-9-11-theory&amp;#10;&amp;#10;Remembering 911 The Attacks on the World Trade Center Documentary Part 1&amp;#10;https://youtu.be/vKmcKmeGUpw&amp;#10;&amp;#10;Music: &amp;#34;Skyscraper&amp;#34; by Demi Lovato&amp;#10;I do not own this music, all credits go to the artist and producer&amp;#10;&amp;#10;FAIR USE ACT &amp;#10;Copyright Disclaimer under section 107 of the Copyright Act of 1976, allowance is made for &amp;#8220;fair use&amp;#8221; for purposes such as criticism, comment, news reporting, teaching, scholarship, education and research. Fair use is a use permitted by copyright statute that might otherwise be infringing."
     channeltitle "Erin'sEnergy313"
     channelid "UCsegeqGxt2dvHQzwvtCr8Ng"
     favcount 0
@@ -6238,7 +11298,29 @@ graph
     ppprofanity 0.034933086
     ppinflammatory 0.13467167
     sentiment 0.5423
-    cluster 1
+    cluster 2
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -6265,7 +11347,29 @@ graph
     ppprofanity 0.017728122
     ppinflammatory 0.08088213
     sentiment 0
-    cluster 1
+    cluster 3
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -6274,7 +11378,7 @@ graph
     step 0
     date "2014-01-06T23:21:50Z"
     title "Did you know....Building 7 and the World Trade Center evidence Rethink 9/11"
-    description "World Trade Center Building 7 was a 47-story skyscraper that collapsed completely in under seven seconds on September 11, 2001. People deserve to know. Please share this video. &#10;http://www.rethink911.org"
+    description "World Trade Center Building 7 was a 47-story skyscraper that collapsed completely in under seven seconds on September 11, 2001. People deserve to know. Please share this video. &amp;#10;http://www.rethink911.org"
     channeltitle "Francis Battaglia"
     channelid "UCUf5rYCAnI0Mg5trbmWEkSQ"
     favcount 0
@@ -6292,7 +11396,29 @@ graph
     ppprofanity 0.028100528
     ppinflammatory 0.22133851
     sentiment 0
-    cluster 5
+    cluster 2
+    leftright "L"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 1
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 1
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -6301,7 +11427,7 @@ graph
     step 0
     date "2022-04-22T07:20:59Z"
     title "Historys Business Larry Silverstein Building 7 Controlled Demolition"
-    description "Hello,&#10;&#10;I am looking for &#34;History's Business: Larry Silverstein (2002) Season 2, Episode 5&#34; Do you have it archived? &#10;&#10;Thanks dan &#10;&#10;Hello Dan,&#10;Unfortunately, we do not hold the episode of History&#8217;s Business that you are seeking. Attached is a list of other television archives that we suggest you check in with.&#10;Best,&#10;&#10;Lygia Bagdanovich&#10;Study Center Assistant&#10;Archive Research and Study Center&#10;UCLA Film &#38; Television Archive&#10;&#10;46 Powell Library&#10;&#10;Los Angeles, CA 90095-1517&#10;#WeAreCHANGE confronts Larry Silverstein&#10;https://www.youtube.com/watch?v=EtPC0W4HII8&#10;&#10;Body language and micro-facial expressions &#10;&#10;http://www.nytimes.com/2001/11/29/nyregion/29TOWE.html?ex=1115092800&#38;en=...&#10;&#10;From the famous Glanz article:&#10;&#34;By 11:30 a.m., the fire commander in charge of that area, Assistant Chief Frank Fellini, ordered firefighters away from it for safety reasons.&#34;&#10;&#10;So all firefighters were &#34;pulled&#34; from WTC7 six hours before it fell, and the man to ask about Larry's phone call would be FRANK FELLINI.&#10;&#10;History's Business Larry Silverstein &#10;&#10;History's Business Larry Silverstein Building 7 Controlled Demolition&#10;&#10;Larry Silverstein goes on record saying that Building 7 of the World Trade Center was indeed a planned controlled demolition. Which begs the question, how did the precise planning of a controlled demolition happen? For a controlled demolition to take place, it takes weeks and weeks of planning. I remember setting up my VCR to record this episode. I have since transferred the VCR recording to a DVD. I have only found 2 other copies of the interview.&#10;&#10;https://www.imdb.com/title/tt3788882/"
+    description "Hello,&amp;#10;&amp;#10;I am looking for &amp;#34;History's Business: Larry Silverstein (2002) Season 2, Episode 5&amp;#34; Do you have it archived? &amp;#10;&amp;#10;Thanks dan &amp;#10;&amp;#10;Hello Dan,&amp;#10;Unfortunately, we do not hold the episode of History&amp;#8217;s Business that you are seeking. Attached is a list of other television archives that we suggest you check in with.&amp;#10;Best,&amp;#10;&amp;#10;Lygia Bagdanovich&amp;#10;Study Center Assistant&amp;#10;Archive Research and Study Center&amp;#10;UCLA Film &amp;#38; Television Archive&amp;#10;&amp;#10;46 Powell Library&amp;#10;&amp;#10;Los Angeles, CA 90095-1517&amp;#10;#WeAreCHANGE confronts Larry Silverstein&amp;#10;https://www.youtube.com/watch?v=EtPC0W4HII8&amp;#10;&amp;#10;Body language and micro-facial expressions &amp;#10;&amp;#10;http://www.nytimes.com/2001/11/29/nyregion/29TOWE.html?ex=1115092800&amp;#38;en=...&amp;#10;&amp;#10;From the famous Glanz article:&amp;#10;&amp;#34;By 11:30 a.m., the fire commander in charge of that area, Assistant Chief Frank Fellini, ordered firefighters away from it for safety reasons.&amp;#34;&amp;#10;&amp;#10;So all firefighters were &amp;#34;pulled&amp;#34; from WTC7 six hours before it fell, and the man to ask about Larry's phone call would be FRANK FELLINI.&amp;#10;&amp;#10;History's Business Larry Silverstein &amp;#10;&amp;#10;History's Business Larry Silverstein Building 7 Controlled Demolition&amp;#10;&amp;#10;Larry Silverstein goes on record saying that Building 7 of the World Trade Center was indeed a planned controlled demolition. Which begs the question, how did the precise planning of a controlled demolition happen? For a controlled demolition to take place, it takes weeks and weeks of planning. I remember setting up my VCR to record this episode. I have since transferred the VCR recording to a DVD. I have only found 2 other copies of the interview.&amp;#10;&amp;#10;https://www.imdb.com/title/tt3788882/"
     channeltitle "Rare 9/11 Facts"
     channelid "UCOch_SItPku1FqXKLMe9lqg"
     favcount 0
@@ -6319,7 +11445,29 @@ graph
     ppprofanity 0.031628896
     ppinflammatory 0.17797631
     sentiment 0
-    cluster 4
+    cluster 3
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -6346,7 +11494,29 @@ graph
     ppprofanity 0.037211023
     ppinflammatory 0.26424167
     sentiment 0
-    cluster 1
+    cluster 3
+    leftright "R"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 1
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 1
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -6355,7 +11525,7 @@ graph
     step 0
     date "2019-08-30T19:08:23Z"
     title "The Soon-to-Be-Released Building 7 Study: Structural Engineers Weigh In"
-    description "Host Andy Steele is joined by AE911Truth board members Kamal Obeid and Casey Pfeiffer, both of whom are structural engineers, to discuss the upcoming release of the World Trade Center Building 7 Study draft report by researchers at the University of Alaska Fairbanks &#8212; and the impact they expect it to have on the 9/11 debate."
+    description "Host Andy Steele is joined by AE911Truth board members Kamal Obeid and Casey Pfeiffer, both of whom are structural engineers, to discuss the upcoming release of the World Trade Center Building 7 Study draft report by researchers at the University of Alaska Fairbanks &amp;#8212; and the impact they expect it to have on the 9/11 debate."
     channeltitle "Free Fall"
     channelid "UC0ymoUqZRcTFDl0_86ahnjA"
     favcount 0
@@ -6373,7 +11543,29 @@ graph
     ppprofanity 0.024173228
     ppinflammatory 0.05023371
     sentiment 0
-    cluster 5
+    cluster 2
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -6382,7 +11574,7 @@ graph
     step 0
     date "2018-03-29T22:29:10Z"
     title "9-11 and Building 7 - Deceptions and Misdirection"
-    description "Controlled Opposition &#8211; deception mascaraing as the truth. One of the greatest obstacles to getting to the truth about 9-11 is to get around the relentless disinformation and misinformation from people who are playing the role of searching for 9-11 truth, but instead are leader of the rabbit hole tour.  I will make this statement; NO information about 9-11 that points to the truth about what happened on that horrible day in our history is allowed to exist in a medium that permits it free access to the American Public.  The Protectors of the Realm promote their propaganda lies and attack anything that leads to the truth.  If you want to know the truth about 9-11, research the web for the most attacked declarations on 9-11. Google &#8211; No Planes, Rebekah Roth, Judy Wood, and Ace Baker.  The truth is out there, but only the disinformation is made available for the misinformed public."
+    description "Controlled Opposition &amp;#8211; deception mascaraing as the truth. One of the greatest obstacles to getting to the truth about 9-11 is to get around the relentless disinformation and misinformation from people who are playing the role of searching for 9-11 truth, but instead are leader of the rabbit hole tour.  I will make this statement; NO information about 9-11 that points to the truth about what happened on that horrible day in our history is allowed to exist in a medium that permits it free access to the American Public.  The Protectors of the Realm promote their propaganda lies and attack anything that leads to the truth.  If you want to know the truth about 9-11, research the web for the most attacked declarations on 9-11. Google &amp;#8211; No Planes, Rebekah Roth, Judy Wood, and Ace Baker.  The truth is out there, but only the disinformation is made available for the misinformed public."
     channeltitle "American Patriot Peartree"
     channelid "UCQ-zsEQRZ0AM2qdr9l5JUNg"
     favcount 0
@@ -6400,7 +11592,29 @@ graph
     ppprofanity 0.059786897
     ppinflammatory 0.09422599
     sentiment 0
-    cluster 8
+    cluster 10
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -6427,7 +11641,29 @@ graph
     ppprofanity 0.08748593
     ppinflammatory 0.110629186
     sentiment 0
-    cluster 4
+    cluster 3
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -6436,7 +11672,7 @@ graph
     step 0
     date "2015-03-23T15:34:48Z"
     title "Follow the MONEY  The Corbett Report"
-    description "Check Out My INFO WAR - DOCUMENTARIES PLAY LIST &#10;http://www.youtube.com/playlist?list=PLZWK79zvK-Z3raAqBgpQoFzyjsEqkNA9Y&#10;Please visit the FACEBOOK page http://www.facebook.com/WeWontGetFooledAgain &#10;Corbett Report YouTube Channel https://www.youtube.com/user/corbettreport/featured&#10;Who Was Really Behind the 9/11 Attacks? &#10;https://www.youtube.com/watch?v=mWLis-TVB2w&#10;&#10;July 2001! - U.S. plans to invade Afghanistan for an attack on Osama bin Laden and the Taliban by October 2001.&#10;a) http://news.bbc.co.uk/2/hi/south_asia...&#10;b) http://www.guardian.co.uk/world/2001/...&#10;&#10;Sep 4, 2001 - The White House approves plans to invade Afghanistan&#10;http://www.usatoday.com/news/washington/2004-03-23-war-analysis_x.htm&#10;&#10;Sep 5, 2001 - U.S. pulls the plug on Muslim websites.&#10;http://www.guardian.co.uk/technology/2001/sep/10/internetnews.worlddispatch&#10;&#10;Friday, 7 September, 2001 - FBI accused of anti-Muslim bias&#10;http://news.bbc.co.uk/2/hi/science/nature/1530361.stm&#10;&#10;Sep10, 2001 - The White House's battle plan to invade Afghanistan and topple the Taliban and Osama bin Laden awaits President Bush's approval&#10;http://www.msnbc.msn.com/id/4585010/&#10;&#10;Kissinger &#38; Carlyle Group Connections to yet more financial interests:&#10;http://911review.com/articles/ryan/carlyle_kissinger_saic_halliburton.html&#10;&#10;Rumsfeld Trillions:&#10;1. September 10, 2001 - Secretary of Defense Donald Rumsfeld announces that the Pentagon has lost track of $2.3 TRILLION DOLLARS of military spending. http://www.cbsnews.com/stories/2002/01/29/eveningnews/main325985.shtml&#10;http://www.defenselink.mil/speeches/2001/s20010910-secdef.html&#10;9/10/2001: Rumsfeld says $2.3 TRILLION Missing from Pentagon (DOD) (Live footage of the speech)&#10;http://www.youtube.com/watch?v=xU4GdHLUHwU&#10;&#10;&#10;1. September 6, 2001 - Large number of &#34;put&#34; options are placed on United Airlines stock betting that the stock price would fall.&#10;a) http://www.sfgate.com/cgi-bin/article.cgi?file=/chronicle/archive/2001/09/29/MN186128.DTL&#10;b) http://tinyurl.com/ygxsls8 (Chicago Tribune)&#10;&#10;2. September 6, 2001 - Some of the put options placed on United Airlines stock were purchased through the investment banking firm of Deutsche Banc Alex. Brown in which the current Executive Director of the CIA, A.B. &#34;Buzzy&#34; Krongard, used to be the company's CEO up until 1998.&#10;http://web.archive.org/web/20041011182446/http://www.cia.gov/cia/information/krongard.htm&#10;(CIA.gov took this down in 2005, Why?)&#10;&#10;3.  All the proof you need. (Insider Trading) &#10;http://tvnewslies.org/html/9_11_-_all_the_proof_you_need.html/&#10;&#10;Ex. CIA-director, former President, and President Bush's Dad, George H.W. Bush, meets with one of Osama Bin Laden's brothers at a Carlyle business conference in Washington D.C.&#10;http://www.guardian.co.uk/theobserver/2002/jun/16/features.magazine57/&#10;http://www.economist.com/books/displaystory.cfm?story_id=1875084/&#10;&#10;9/11 - Sen. Bob Graham (D-FL) and Rep. Porter Goss (R-FL) -- the chairmen of the Senate and House Intelligence Committees -- along with Sen. John Kyl (R-AZ) and some other members of the House Intelligence Committee are in a meeting at the Capital building with the director of Pakistani intelligence (ISI), Lt. Gen. Mahmud Ahmad, who authorized a $100,000 wire transfer to alleged lead 9/11 hijacker, Mohamed Atta.&#10;http://www.salon.com/politics/feature/2001/09/14/human_spies/index.html/&#10;&#10;Any Broken Links use: http://www.Archive.org/&#10;&#10;Major Federal Reserve motivations for 9/11:&#10;Iraq nets handsome profit by dumping Dollar for Euro:&#10;http://www.guardian.co.uk/business/2003/feb/16/iraq.theeuro/&#10;&#10;U.N. to let Iraq sell oil for euros:&#10;http://www.defenseindustrydaily.com/commanders-in-iraq-urgently-request-renewable-power-options-02548/&#10;http://www.energybulletin.net/node/7707/&#10;&#10;Cheney, Energy, and Iraq Invasion (Supreme Court)&#10;http://articles.sfgate.com/2004-03-21/opinion/17417765_1_russia-s-lukoil-judicial-watch-future-oil/&#10;&#10;Henry Kissinger&#10;1. November 29, 2002 - President Bush names former Secretary of State, former National Security advisor, and former Unocal consultant Henry Kissinger to head the &#34;independent&#34; 9/11 investigations. &#10;http://archives.cnn.com/2002/ALLPOLITICS/11/27/intelligence.probe/index.html&#10;http://www.cbsnews.com/stories/2002/12/12/politics/main532794.shtml&#10;&#10;2. December 12, 2002 - Democrats want Henry Kissinger to name his business clients. &#10;http://www.cbsnews.com/news/dems-want-kissinger-to-name-clients/&#10;&#10;December 13, 2002 - Henry Kissinger resigns as head of 9/11 commission. &#10;http://news.bbc.co.uk/2/hi/americas/2574741.stm&#10;&#10;Norad Wargames:&#10;1. 9/11 (6:00 am) - NORAD was in day two of a week long exercise called &#34;Vigilant Guardian&#34; in which some of it's military participants thought the first reports of the hijackings later on in the day were &#34;part of the exercise.&#34;"
+    description "Check Out My INFO WAR - DOCUMENTARIES PLAY LIST &amp;#10;http://www.youtube.com/playlist?list=PLZWK79zvK-Z3raAqBgpQoFzyjsEqkNA9Y&amp;#10;Please visit the FACEBOOK page http://www.facebook.com/WeWontGetFooledAgain &amp;#10;Corbett Report YouTube Channel https://www.youtube.com/user/corbettreport/featured&amp;#10;Who Was Really Behind the 9/11 Attacks? &amp;#10;https://www.youtube.com/watch?v=mWLis-TVB2w&amp;#10;&amp;#10;July 2001! - U.S. plans to invade Afghanistan for an attack on Osama bin Laden and the Taliban by October 2001.&amp;#10;a) http://news.bbc.co.uk/2/hi/south_asia...&amp;#10;b) http://www.guardian.co.uk/world/2001/...&amp;#10;&amp;#10;Sep 4, 2001 - The White House approves plans to invade Afghanistan&amp;#10;http://www.usatoday.com/news/washington/2004-03-23-war-analysis_x.htm&amp;#10;&amp;#10;Sep 5, 2001 - U.S. pulls the plug on Muslim websites.&amp;#10;http://www.guardian.co.uk/technology/2001/sep/10/internetnews.worlddispatch&amp;#10;&amp;#10;Friday, 7 September, 2001 - FBI accused of anti-Muslim bias&amp;#10;http://news.bbc.co.uk/2/hi/science/nature/1530361.stm&amp;#10;&amp;#10;Sep10, 2001 - The White House's battle plan to invade Afghanistan and topple the Taliban and Osama bin Laden awaits President Bush's approval&amp;#10;http://www.msnbc.msn.com/id/4585010/&amp;#10;&amp;#10;Kissinger &amp;#38; Carlyle Group Connections to yet more financial interests:&amp;#10;http://911review.com/articles/ryan/carlyle_kissinger_saic_halliburton.html&amp;#10;&amp;#10;Rumsfeld Trillions:&amp;#10;1. September 10, 2001 - Secretary of Defense Donald Rumsfeld announces that the Pentagon has lost track of $2.3 TRILLION DOLLARS of military spending. http://www.cbsnews.com/stories/2002/01/29/eveningnews/main325985.shtml&amp;#10;http://www.defenselink.mil/speeches/2001/s20010910-secdef.html&amp;#10;9/10/2001: Rumsfeld says $2.3 TRILLION Missing from Pentagon (DOD) (Live footage of the speech)&amp;#10;http://www.youtube.com/watch?v=xU4GdHLUHwU&amp;#10;&amp;#10;&amp;#10;1. September 6, 2001 - Large number of &amp;#34;put&amp;#34; options are placed on United Airlines stock betting that the stock price would fall.&amp;#10;a) http://www.sfgate.com/cgi-bin/article.cgi?file=/chronicle/archive/2001/09/29/MN186128.DTL&amp;#10;b) http://tinyurl.com/ygxsls8 (Chicago Tribune)&amp;#10;&amp;#10;2. September 6, 2001 - Some of the put options placed on United Airlines stock were purchased through the investment banking firm of Deutsche Banc Alex. Brown in which the current Executive Director of the CIA, A.B. &amp;#34;Buzzy&amp;#34; Krongard, used to be the company's CEO up until 1998.&amp;#10;http://web.archive.org/web/20041011182446/http://www.cia.gov/cia/information/krongard.htm&amp;#10;(CIA.gov took this down in 2005, Why?)&amp;#10;&amp;#10;3.  All the proof you need. (Insider Trading) &amp;#10;http://tvnewslies.org/html/9_11_-_all_the_proof_you_need.html/&amp;#10;&amp;#10;Ex. CIA-director, former President, and President Bush's Dad, George H.W. Bush, meets with one of Osama Bin Laden's brothers at a Carlyle business conference in Washington D.C.&amp;#10;http://www.guardian.co.uk/theobserver/2002/jun/16/features.magazine57/&amp;#10;http://www.economist.com/books/displaystory.cfm?story_id=1875084/&amp;#10;&amp;#10;9/11 - Sen. Bob Graham (D-FL) and Rep. Porter Goss (R-FL) -- the chairmen of the Senate and House Intelligence Committees -- along with Sen. John Kyl (R-AZ) and some other members of the House Intelligence Committee are in a meeting at the Capital building with the director of Pakistani intelligence (ISI), Lt. Gen. Mahmud Ahmad, who authorized a $100,000 wire transfer to alleged lead 9/11 hijacker, Mohamed Atta.&amp;#10;http://www.salon.com/politics/feature/2001/09/14/human_spies/index.html/&amp;#10;&amp;#10;Any Broken Links use: http://www.Archive.org/&amp;#10;&amp;#10;Major Federal Reserve motivations for 9/11:&amp;#10;Iraq nets handsome profit by dumping Dollar for Euro:&amp;#10;http://www.guardian.co.uk/business/2003/feb/16/iraq.theeuro/&amp;#10;&amp;#10;U.N. to let Iraq sell oil for euros:&amp;#10;http://www.defenseindustrydaily.com/commanders-in-iraq-urgently-request-renewable-power-options-02548/&amp;#10;http://www.energybulletin.net/node/7707/&amp;#10;&amp;#10;Cheney, Energy, and Iraq Invasion (Supreme Court)&amp;#10;http://articles.sfgate.com/2004-03-21/opinion/17417765_1_russia-s-lukoil-judicial-watch-future-oil/&amp;#10;&amp;#10;Henry Kissinger&amp;#10;1. November 29, 2002 - President Bush names former Secretary of State, former National Security advisor, and former Unocal consultant Henry Kissinger to head the &amp;#34;independent&amp;#34; 9/11 investigations. &amp;#10;http://archives.cnn.com/2002/ALLPOLITICS/11/27/intelligence.probe/index.html&amp;#10;http://www.cbsnews.com/stories/2002/12/12/politics/main532794.shtml&amp;#10;&amp;#10;2. December 12, 2002 - Democrats want Henry Kissinger to name his business clients. &amp;#10;http://www.cbsnews.com/news/dems-want-kissinger-to-name-clients/&amp;#10;&amp;#10;December 13, 2002 - Henry Kissinger resigns as head of 9/11 commission. &amp;#10;http://news.bbc.co.uk/2/hi/americas/2574741.stm&amp;#10;&amp;#10;Norad Wargames:&amp;#10;1. 9/11 (6:00 am) - NORAD was in day two of a week long exercise called &amp;#34;Vigilant Guardian&amp;#34; in which some of it's military participants thought the first reports of the hijackings later on in the day were &amp;#34;part of the exercise.&amp;#34;"
     channeltitle "We Wont Get Fooled Again"
     channelid "UCHVZieiuuekr2_pGDLT8Glg"
     favcount 0
@@ -6454,7 +11690,29 @@ graph
     ppprofanity 0.037109345
     ppinflammatory 0.023759289
     sentiment 0
-    cluster 1
+    cluster 2
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -6463,7 +11721,7 @@ graph
     step 0
     date "2021-09-01T16:06:35Z"
     title "Danny Jowenko on building 7 collapse"
-    description "From Dutch television: &#34;Zembla: Het complot van 11 september&#34;.&#10;Originally aired on September 10, 2006."
+    description "From Dutch television: &amp;#34;Zembla: Het complot van 11 september&amp;#34;.&amp;#10;Originally aired on September 10, 2006."
     channeltitle "Michael Madsen"
     channelid "UCn1Tov6xy_zUD-xhm9K24iw"
     favcount 0
@@ -6481,7 +11739,29 @@ graph
     ppprofanity 0.12460494
     ppinflammatory 0.11688039
     sentiment -0.4939
-    cluster 3
+    cluster 1
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -6490,7 +11770,7 @@ graph
     step 0
     date "2012-03-30T16:03:54Z"
     title "HOW AND WHY DID WTC 7 WORLD TRADE CENTER BUILDING 7 WAS  DOWN?"
-    description "Solomon's Brothers Building. &#10;On September 11 2001 extrange things happened in the skies of Lady Liberty and the Land of the Free... &#10;IN WTC7 THE OFFICE INVESTIGATING INSIDE TRADE AND MISHANDLING OF THE SEC WERE DESTROYED BY FIRE AND THEN BY THE BUILDING'S COLLAPSE...&#10;THE BBC even reported its collapse 10 MINUTES BEFORE OCCURRED!!!&#10;How DO you ORDER TO PULL a 50 stories tall building on the spot?&#10;LARRY, YOU ARE THE MAN!&#10;On July 24th 2001 - 6 WEEKS BEFORE THE &#34;TERRORIST ATTACK&#34; - Larry A: Silverstein Renwed the Lease for the WTC BUILDINGS including a suspicious specific clause for Act of Terrorists!&#10;This video - courtesy of Dr. Robert M. Bowman web site - is free to download, to copy and to share at: http://www.thepatriots.us/"
+    description "Solomon's Brothers Building. &amp;#10;On September 11 2001 extrange things happened in the skies of Lady Liberty and the Land of the Free... &amp;#10;IN WTC7 THE OFFICE INVESTIGATING INSIDE TRADE AND MISHANDLING OF THE SEC WERE DESTROYED BY FIRE AND THEN BY THE BUILDING'S COLLAPSE...&amp;#10;THE BBC even reported its collapse 10 MINUTES BEFORE OCCURRED!!!&amp;#10;How DO you ORDER TO PULL a 50 stories tall building on the spot?&amp;#10;LARRY, YOU ARE THE MAN!&amp;#10;On July 24th 2001 - 6 WEEKS BEFORE THE &amp;#34;TERRORIST ATTACK&amp;#34; - Larry A: Silverstein Renwed the Lease for the WTC BUILDINGS including a suspicious specific clause for Act of Terrorists!&amp;#10;This video - courtesy of Dr. Robert M. Bowman web site - is free to download, to copy and to share at: http://www.thepatriots.us/"
     channeltitle "ATTOPONE"
     channelid "UCryU1Xbc6VVyWeXNO62bImg"
     favcount 0
@@ -6508,7 +11788,29 @@ graph
     ppprofanity 0.08868611
     ppinflammatory 0.014967799
     sentiment 0
-    cluster 7
+    cluster 2
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -6517,7 +11819,7 @@ graph
     step 0
     date "2020-11-13T05:57:52Z"
     title "BUILDING 7 | The Extraditions"
-    description "&#8216;Building 7&#8217; emerges from countless dialogues over 19 years with scholars, university students/researchers, and soldiers and sailors who maintain a robust skepticism of official mythologies regarding the baffling un-investigated oddities of September 11, 2001 and obvious efforts made in various media to obscure the full picture and to marginalize voices calling for an independent unbiased inquiry of the events of that fateful day. The song is an integration of observed phenomena and a call&#8212;inspired by Martin Luther King&#8212;to &#8216;raise our voices&#8217; and pursue truth for its powers to set free the captives. &#10;&#10;Players:&#10;Daniel: Lead vocals, backing vocals &#10;Robert: Backing vocals, drum programming, drums, melodica, sampling, sound engineering&#10;Pedro: Bass &#10;MC Fluff: Vocals &#10;Derek: Visuals and images&#10;&#10;Critical Responses:&#10;When original pieces like this start appearing about Building 7, I realize the freshness of this social movement is still with us&#8212;still alive. This is crucial, since we are entering a time when some of the old guys, like me, are fading away and the really young folks don't remember 9/11. It is so important for the rest of you to keep open the doors of inspiration ... and maintain a vigorous tradition of sparkling dissent. &#8212;Graeme MacQueen, 2019&#10;&#10;Lyrics &#10;building seven, oh, where did you go? &#10;forty-seven stories from ground zero &#10;made in red masonry, and occupied &#10;by Giuliani&#8217;s indestructible lair &#10;the zealous cows that lead the team t&#10;to inquire of your whereabouts &#10;said you collapsed from raging fires &#10;A buckled i-beam vaporized your floors &#10;&#10;Chorus 1 &#10;cognitive infiltration &#10;dulling the minds of the masses &#10;time for manipulation &#10;dominating the lower classes &#10;&#10;Verse 2 &#10;servile sycophants and media goons &#10;crushing voices that question the tale &#10;supplied us all with a mass of lies &#10;mesmerizing and to hypnotize &#10;&#10;Bridge &#10;a genius in mass persuasion &#10;cassis son stein &#10;pushing a new kind of Kool aid &#10;&#10;Chorus 2 &#10;cognitive infiltration &#10;dulling the minds of the masses &#10;time for manipulation &#10;dominating the lower classes &#10;&#10;outro (feat. mc fluff) &#10;building seven &#10;where did you go? &#10;made you go up &#10;made you go down"
+    description "&amp;#8216;Building 7&amp;#8217; emerges from countless dialogues over 19 years with scholars, university students/researchers, and soldiers and sailors who maintain a robust skepticism of official mythologies regarding the baffling un-investigated oddities of September 11, 2001 and obvious efforts made in various media to obscure the full picture and to marginalize voices calling for an independent unbiased inquiry of the events of that fateful day. The song is an integration of observed phenomena and a call&amp;#8212;inspired by Martin Luther King&amp;#8212;to &amp;#8216;raise our voices&amp;#8217; and pursue truth for its powers to set free the captives. &amp;#10;&amp;#10;Players:&amp;#10;Daniel: Lead vocals, backing vocals &amp;#10;Robert: Backing vocals, drum programming, drums, melodica, sampling, sound engineering&amp;#10;Pedro: Bass &amp;#10;MC Fluff: Vocals &amp;#10;Derek: Visuals and images&amp;#10;&amp;#10;Critical Responses:&amp;#10;When original pieces like this start appearing about Building 7, I realize the freshness of this social movement is still with us&amp;#8212;still alive. This is crucial, since we are entering a time when some of the old guys, like me, are fading away and the really young folks don't remember 9/11. It is so important for the rest of you to keep open the doors of inspiration ... and maintain a vigorous tradition of sparkling dissent. &amp;#8212;Graeme MacQueen, 2019&amp;#10;&amp;#10;Lyrics &amp;#10;building seven, oh, where did you go? &amp;#10;forty-seven stories from ground zero &amp;#10;made in red masonry, and occupied &amp;#10;by Giuliani&amp;#8217;s indestructible lair &amp;#10;the zealous cows that lead the team t&amp;#10;to inquire of your whereabouts &amp;#10;said you collapsed from raging fires &amp;#10;A buckled i-beam vaporized your floors &amp;#10;&amp;#10;Chorus 1 &amp;#10;cognitive infiltration &amp;#10;dulling the minds of the masses &amp;#10;time for manipulation &amp;#10;dominating the lower classes &amp;#10;&amp;#10;Verse 2 &amp;#10;servile sycophants and media goons &amp;#10;crushing voices that question the tale &amp;#10;supplied us all with a mass of lies &amp;#10;mesmerizing and to hypnotize &amp;#10;&amp;#10;Bridge &amp;#10;a genius in mass persuasion &amp;#10;cassis son stein &amp;#10;pushing a new kind of Kool aid &amp;#10;&amp;#10;Chorus 2 &amp;#10;cognitive infiltration &amp;#10;dulling the minds of the masses &amp;#10;time for manipulation &amp;#10;dominating the lower classes &amp;#10;&amp;#10;outro (feat. mc fluff) &amp;#10;building seven &amp;#10;where did you go? &amp;#10;made you go up &amp;#10;made you go down"
     channeltitle "theextraditions"
     channelid "UC5JiEL172bSbE4No-wiGGrQ"
     favcount 0
@@ -6535,7 +11837,29 @@ graph
     ppprofanity 0.049478706
     ppinflammatory 0.17247288
     sentiment 0
-    cluster 1
+    cluster 2
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -6544,7 +11868,7 @@ graph
     step 0
     date "2015-05-17T02:24:49Z"
     title "Take the 47 Minute Building 7 Challenge!"
-    description "This is a 47 minute challenge about Building 7, a 47-story skyscraper, which collapsed at 5:20pm on September 11th, 2001.&#10;&#10;The challenge is to watch this 47 minute video and try to maintain your belief in the official story of what happened on September 11th, 2001. This is a difficult challenge because this video features testimony from Structural Engineers, Architects, Demolition Experts, and eyewitnesses who provide evidence that Building 7 collapsed as a result of a controlled demolition. After looking at the evidence, it will be challenging to maintain the belief that fire caused Building 7 to collapse in the manner that was observed. &#10;&#10;Music by Ross Bugen&#10;https://www.youtube.com/channel/UCQKGLOK2FqmVgVwYferltKQ&#10;&#10;http://www.rethink911.org/&#10;http://www.rememberbuilding7.org/&#10;http://www.ae911truth.org/&#10;http://www.loosechange911.com/&#10;https://www.corbettreport.com/&#10;&#10;This video features clips from the following documentaries:&#10;&#10;September 11 - The New Pearl Harbor&#10;https://www.youtube.com/playlist?list=PL_IlIlrxhtPM1E-yzT61Ex4lREHJTpXcE&#10;&#10;9/11: Explosive Evidence - Experts Speak Out (Free 1-hour version) &#10;https://www.youtube.com/watch?v=Ddz2mw2vaEg&#10;&#10;Loose Change 9/11: An American Coup&#10;https://www.youtube.com/watch?v=N_4IJV-o4bY&#10;&#10;The Elephant In The Room&#10;https://vimeo.com/34948257&#10;&#10;Sources:&#10;http://www.foxnews.com/opinion/2010/04/22/jeffrey-scott-shapiro-jesse-venture-book-lies-truthers-ground-zero-sept-shame.html"
+    description "This is a 47 minute challenge about Building 7, a 47-story skyscraper, which collapsed at 5:20pm on September 11th, 2001.&amp;#10;&amp;#10;The challenge is to watch this 47 minute video and try to maintain your belief in the official story of what happened on September 11th, 2001. This is a difficult challenge because this video features testimony from Structural Engineers, Architects, Demolition Experts, and eyewitnesses who provide evidence that Building 7 collapsed as a result of a controlled demolition. After looking at the evidence, it will be challenging to maintain the belief that fire caused Building 7 to collapse in the manner that was observed. &amp;#10;&amp;#10;Music by Ross Bugen&amp;#10;https://www.youtube.com/channel/UCQKGLOK2FqmVgVwYferltKQ&amp;#10;&amp;#10;http://www.rethink911.org/&amp;#10;http://www.rememberbuilding7.org/&amp;#10;http://www.ae911truth.org/&amp;#10;http://www.loosechange911.com/&amp;#10;https://www.corbettreport.com/&amp;#10;&amp;#10;This video features clips from the following documentaries:&amp;#10;&amp;#10;September 11 - The New Pearl Harbor&amp;#10;https://www.youtube.com/playlist?list=PL_IlIlrxhtPM1E-yzT61Ex4lREHJTpXcE&amp;#10;&amp;#10;9/11: Explosive Evidence - Experts Speak Out (Free 1-hour version) &amp;#10;https://www.youtube.com/watch?v=Ddz2mw2vaEg&amp;#10;&amp;#10;Loose Change 9/11: An American Coup&amp;#10;https://www.youtube.com/watch?v=N_4IJV-o4bY&amp;#10;&amp;#10;The Elephant In The Room&amp;#10;https://vimeo.com/34948257&amp;#10;&amp;#10;Sources:&amp;#10;http://www.foxnews.com/opinion/2010/04/22/jeffrey-scott-shapiro-jesse-venture-book-lies-truthers-ground-zero-sept-shame.html"
     channeltitle "LibertyDefender84"
     channelid "UCjFzB4tXw7T0l3a_bPWLqpA"
     favcount 0
@@ -6562,7 +11886,29 @@ graph
     ppprofanity 0.15644363
     ppinflammatory 0.12690675
     sentiment 0.0772
-    cluster 2
+    cluster 4
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -6589,7 +11935,29 @@ graph
     ppprofanity 0.07468212
     ppinflammatory 0.034237836
     sentiment 0
-    cluster 7
+    cluster 3
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -6598,7 +11966,7 @@ graph
     step 0
     date "2018-01-21T00:32:05Z"
     title "Building 7 - Mystery Engineer "
-    description "FDNY Deputy Chief Hayden discuses the mystery 'engineer' who somehow accurately predicted the time wtc7 would collapse. He was &#34;right on the money&#34;, says Hayden. Questions 'debunkers' would never think to ask;&#10;&#10;1) What was the engineer's name?&#10;2) If we don't know his name, is it a secret?&#10;3) Building 7's collapse was unprecedented, an &#34;extraordinary event&#34; as NIST's Shyam Sunder described it. So how did this mystery engineer make such an accurate prediction with no previous experience to draw upon? Was he just 'lucky'?&#10;4) Why has the mystery engineer never been interviewed, or said anything verbally, or written since 9/11?&#10;5) With his obvious expertise in predicting collapse and when, to the near minute, it would occur, why didn't NIST consult him for their investigation? The engineer's input would have been invaluable, one imagines. NIST had trouble &#34;getting a handle on&#34; things. The engineer could have helped out and saved NIST a lot of time and taxpayers money."
+    description "FDNY Deputy Chief Hayden discuses the mystery 'engineer' who somehow accurately predicted the time wtc7 would collapse. He was &amp;#34;right on the money&amp;#34;, says Hayden. Questions 'debunkers' would never think to ask;&amp;#10;&amp;#10;1) What was the engineer's name?&amp;#10;2) If we don't know his name, is it a secret?&amp;#10;3) Building 7's collapse was unprecedented, an &amp;#34;extraordinary event&amp;#34; as NIST's Shyam Sunder described it. So how did this mystery engineer make such an accurate prediction with no previous experience to draw upon? Was he just 'lucky'?&amp;#10;4) Why has the mystery engineer never been interviewed, or said anything verbally, or written since 9/11?&amp;#10;5) With his obvious expertise in predicting collapse and when, to the near minute, it would occur, why didn't NIST consult him for their investigation? The engineer's input would have been invaluable, one imagines. NIST had trouble &amp;#34;getting a handle on&amp;#34; things. The engineer could have helped out and saved NIST a lot of time and taxpayers money."
     channeltitle "ManAgainstCrime"
     channelid "UCWLoqwlHA6_6fK9bDjWqeWg"
     favcount 0
@@ -6617,6 +11985,28 @@ graph
     ppinflammatory 0.0058137625
     sentiment 0
     cluster 8
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -6643,7 +12033,29 @@ graph
     ppprofanity 0.022431748
     ppinflammatory 0.2190007
     sentiment 0.296
-    cluster 4
+    cluster 3
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -6670,7 +12082,29 @@ graph
     ppprofanity 0.11162819
     ppinflammatory 0.13900633
     sentiment 0
-    cluster 7
+    cluster 9
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -6679,7 +12113,7 @@ graph
     step 0
     date "2020-02-04T23:51:25Z"
     title "Building 7 - Gone in 7 - WHAT YOU ARE NOT SUPPOSED TO KNOW ABOUT 9/11"
-    description "http://www.northtexas911truth.com/  ~ WHAT YOU ARE NOT SUPPOSED TO KNOW ABOUT 9/11: Building 7 - Gone in 7&#10;&#10;Mark your calendars for Saturday, July 11th 2009, for a landmark, all day event entitled &#34;WHAT YOU ARE NOT SUPPOSED TO KNOW ABOUT 9/11: Building 7 - Gone in 7&#34;. A vast array of the very best documentary films will be screened in different theatres throughout the entire day. There will be 9/11 exhibits, special guest presentations, scientific articles, government documents, and experts on hand for Q&#38;A. Special guests include Lt Col Bob Bowman, one of the country's foremost authorities on national security and past director of the Star Wars Program. &#10;&#10;Expect to see tons of compelling, explosive film and video footage which most Americans have never seen, due to a virtual media blackout. &#10;Expect to find out &#34;WHAT YOU ARE NOT SUPPOSED TO KNOW ABOUT 9/11&#34;.  - &#10;&#10;With your DAY PASS, 'Come and Go' from 10am-10pm to the Film Theatres of your choice. Dont miss this dynamic event held at the Conference Center which is located at the Spring Creek Campus of Collin County Community College in Plano, TX.  For more information visit http://www.711911.webs.com/ or http://www.building7symposium.webs.com/  &#10;&#10;*There are ONLY 3 engineers in the country who support the government's story about the collapse of the 3 World Trade Center buildings... government employed engineers. &#10;&#10;However, there are more than 650 INDEPENDENT &#34;Architects and Engineers for 9/11 Truth&#34; who have put their reputations on the line by saying that the government's story is a LIE!! ...that there is VERY CLEAR EVIDENCE of Controlled Demolition with all 3 buildings in New York city on 9/11/01.  http://www.ae911truth.org/  &#10;&#10;Unexploded fragments of military grade, high-tech explosives were found in ALL the dust samples from the World Trade Center collapses. These fragments of explosives are so extremely high-tech that they could ONLY have been created in an advanced laboratory manufacturing facility. This conclusive evidence comes from a published, peer-reviewed scientific journal after vasts amount of research, study and testing. This type of science can not be fudged. &#10;&#10;It is set in stone - Explosives were used on 9/11/01.&#10;http://stj911.org/&#10;&#10;~~~ This 10 minute YouTube segment came from parts of Chapter 10 of CORE OF CORRUPTION:  IN THE SHADOWS.  http://www.coreofcorruption.com/"
+    description "http://www.northtexas911truth.com/  ~ WHAT YOU ARE NOT SUPPOSED TO KNOW ABOUT 9/11: Building 7 - Gone in 7&amp;#10;&amp;#10;Mark your calendars for Saturday, July 11th 2009, for a landmark, all day event entitled &amp;#34;WHAT YOU ARE NOT SUPPOSED TO KNOW ABOUT 9/11: Building 7 - Gone in 7&amp;#34;. A vast array of the very best documentary films will be screened in different theatres throughout the entire day. There will be 9/11 exhibits, special guest presentations, scientific articles, government documents, and experts on hand for Q&amp;#38;A. Special guests include Lt Col Bob Bowman, one of the country's foremost authorities on national security and past director of the Star Wars Program. &amp;#10;&amp;#10;Expect to see tons of compelling, explosive film and video footage which most Americans have never seen, due to a virtual media blackout. &amp;#10;Expect to find out &amp;#34;WHAT YOU ARE NOT SUPPOSED TO KNOW ABOUT 9/11&amp;#34;.  - &amp;#10;&amp;#10;With your DAY PASS, 'Come and Go' from 10am-10pm to the Film Theatres of your choice. Dont miss this dynamic event held at the Conference Center which is located at the Spring Creek Campus of Collin County Community College in Plano, TX.  For more information visit http://www.711911.webs.com/ or http://www.building7symposium.webs.com/  &amp;#10;&amp;#10;*There are ONLY 3 engineers in the country who support the government's story about the collapse of the 3 World Trade Center buildings... government employed engineers. &amp;#10;&amp;#10;However, there are more than 650 INDEPENDENT &amp;#34;Architects and Engineers for 9/11 Truth&amp;#34; who have put their reputations on the line by saying that the government's story is a LIE!! ...that there is VERY CLEAR EVIDENCE of Controlled Demolition with all 3 buildings in New York city on 9/11/01.  http://www.ae911truth.org/  &amp;#10;&amp;#10;Unexploded fragments of military grade, high-tech explosives were found in ALL the dust samples from the World Trade Center collapses. These fragments of explosives are so extremely high-tech that they could ONLY have been created in an advanced laboratory manufacturing facility. This conclusive evidence comes from a published, peer-reviewed scientific journal after vasts amount of research, study and testing. This type of science can not be fudged. &amp;#10;&amp;#10;It is set in stone - Explosives were used on 9/11/01.&amp;#10;http://stj911.org/&amp;#10;&amp;#10;~~~ This 10 minute YouTube segment came from parts of Chapter 10 of CORE OF CORRUPTION:  IN THE SHADOWS.  http://www.coreofcorruption.com/"
     channeltitle "North Texans for 911 Truth"
     channelid "UCncm3FDAkxgg_qjLcUc8sNA"
     favcount 0
@@ -6697,7 +12131,29 @@ graph
     ppprofanity 0.12717433
     ppinflammatory 0.14607671
     sentiment 0
-    cluster 8
+    cluster 10
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -6724,7 +12180,29 @@ graph
     ppprofanity 0.08274814
     ppinflammatory 0.1488452
     sentiment 0
-    cluster 7
+    cluster 9
+    leftright "R"
+    AntiSJW 1
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 1
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -6733,7 +12211,7 @@ graph
     step 0
     date "2009-06-07T04:54:18Z"
     title "Building 7: Truth  Lies of 9/11. Architect Richard Gage Speaks of Freefall Speed Explosions"
-    description "WTC 7 collapsed rapidly and symmetrically, even though fires were randomly scattered in the building. WTC 7 fell about seven hours after the Towers collapsed, even though no major persistent fires were visible.&#13;&#10;&#13;&#10;There were twenty-four huge steel support columns inside WTC 7 as well as huge trusses, arranged asymmetrically, along with approximately 57 perimeter columns. A symmetrical collapse, as observed, evidently requires the simultaneous pulling of most or all of the support columns. &#13;&#10;&#13;&#10;The Second Law of Thermodynamics implies that the likelihood of complete and symmetrical collapse due to random fires as in the official theory is small, since asymmetrical failure is so much more likely. On the other hand, a major goal of controlled demolition using explosives is the complete and symmetrical collapse of buildings.&#13;&#10;&#13;&#10;Concluding remarks in the FEMA report on the WTC 7 collapse lend support to my arguments:&#13;&#10;&#13;&#10;The specifics of the fires in WTC 7 and how they caused the building to collapse [official theory] remain unknown at this time. Although the total diesel fuel on the premises contained massive potential energy, the best hypothesis [fire/damage-caused collapse] has only a low probability of occurrence. Further research, investigation, and analyses are needed to resolve this issue.&#13;&#10;&#13;&#10;- Steven Jones&#13;&#10;&#34;Why Indeed Did the WTC Buildings Collapse?&#34;&#13;&#10;Department of Physics and Astronomy&#13;&#10;Brigham Young University"
+    description "WTC 7 collapsed rapidly and symmetrically, even though fires were randomly scattered in the building. WTC 7 fell about seven hours after the Towers collapsed, even though no major persistent fires were visible.&amp;#13;&amp;#10;&amp;#13;&amp;#10;There were twenty-four huge steel support columns inside WTC 7 as well as huge trusses, arranged asymmetrically, along with approximately 57 perimeter columns. A symmetrical collapse, as observed, evidently requires the simultaneous pulling of most or all of the support columns. &amp;#13;&amp;#10;&amp;#13;&amp;#10;The Second Law of Thermodynamics implies that the likelihood of complete and symmetrical collapse due to random fires as in the official theory is small, since asymmetrical failure is so much more likely. On the other hand, a major goal of controlled demolition using explosives is the complete and symmetrical collapse of buildings.&amp;#13;&amp;#10;&amp;#13;&amp;#10;Concluding remarks in the FEMA report on the WTC 7 collapse lend support to my arguments:&amp;#13;&amp;#10;&amp;#13;&amp;#10;The specifics of the fires in WTC 7 and how they caused the building to collapse [official theory] remain unknown at this time. Although the total diesel fuel on the premises contained massive potential energy, the best hypothesis [fire/damage-caused collapse] has only a low probability of occurrence. Further research, investigation, and analyses are needed to resolve this issue.&amp;#13;&amp;#10;&amp;#13;&amp;#10;- Steven Jones&amp;#13;&amp;#10;&amp;#34;Why Indeed Did the WTC Buildings Collapse?&amp;#34;&amp;#13;&amp;#10;Department of Physics and Astronomy&amp;#13;&amp;#10;Brigham Young University"
     channeltitle "911TruthVideos"
     channelid "UCExZBT0BpFdRlR59WbrxM_g"
     favcount 0
@@ -6751,7 +12229,29 @@ graph
     ppprofanity 0.15944079
     ppinflammatory 0.17828844
     sentiment -0.128
-    cluster 5
+    cluster 6
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -6760,7 +12260,7 @@ graph
     step 0
     date "2015-05-17T02:31:43Z"
     title "Richard Gage Presents 9/11 BLUEPRINT FOR TRUTH Live from Atlanta!"
-    description "Streaming live from the Campus of Georgia Institute of Technology's Clary Theater, Richard Gage will be giving an interactive presentation entitled &#34; 9/11 Blueprint for Truth&#34; in conjunction with several of the world's most high respected and preeminent Architects and Engineers from around the world.  This event coincides with the American Institute of Architects National Convention now in progress in Atlanta during which the AIA was to vote on resolution 15-6 to open a new investigation into the collapse of WTC 7. For more information please visit WTC7Resolution.org"
+    description "Streaming live from the Campus of Georgia Institute of Technology's Clary Theater, Richard Gage will be giving an interactive presentation entitled &amp;#34; 9/11 Blueprint for Truth&amp;#34; in conjunction with several of the world's most high respected and preeminent Architects and Engineers from around the world.  This event coincides with the American Institute of Architects National Convention now in progress in Atlanta during which the AIA was to vote on resolution 15-6 to open a new investigation into the collapse of WTC 7. For more information please visit WTC7Resolution.org"
     channeltitle "Operation Educate"
     channelid "UCs9xk6r8eJNfX6xGmkKYgLg"
     favcount 0
@@ -6778,7 +12278,29 @@ graph
     ppprofanity 0.041676946
     ppinflammatory 0.28991514
     sentiment 0.3182
-    cluster 1
+    cluster 3
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -6787,7 +12309,7 @@ graph
     step 0
     date "2022-06-11T16:15:09Z"
     title "The Hidden Path To 9/11 - WTC BOMBING OF 1993: False Flag Terrorism, Cover-Ups,  Missing Links Pt 1"
-    description "[Part 1 - Egypt and rise of Muslim Brotherhood - Call for Modern Jihad - Tradebom]&#10;&#10;1. - The Last Man Out of 9/11 - 1993 Intro&#10;2. 13:37 - Story of Sayyid Qutb: Nasserism Vs. The Muslim Brotherhood&#10;3. 23:44- Sadat Vs. Islamic Jihad -  Rise of the Blind Sheikh and Ayman al-Zawahiri&#10;4. 33:34 - Afghan War and the Mujahedeen - The fall of Abdullah Azzam and the rise of Bin Laden&#10;5. 42:30 - The story of Sheik Omar Abdel Rahman and his move to the U.S.&#10;6. 48:10 - El Sayyid Nosair assassinates Rabbi Meir Kahane [Nov 5, 1990]&#10;7. 54:18 - Murder of Mustafa Shalaby + Ali Mohamed &#38; Wadih El-Hage pre-1993 activities&#10;8. 59:53 - Funding, Defense, and Verdict of Nosair's case 1991 + Kahane supporters' reactions&#10;9. 01:10:18 - Meet Egyptian FBI informant, Emad Salem - Infiltrating Nosair's circles&#10;10. 01:19:27 - 1992 - Ramzi Yousef first arrives in the U.S. at JFK Airport - Preparations to build a bomb&#10;11. 01:26:51 - Feb 26, 1993, BOOM! - The Bombing of the World Trade Center&#10;12. 01:38:05 - Bomb and Ryder Van detections lead to arrests&#10;13. 01:44:43 - Nabbing the first 3 suspects; Mohamed Salameh, Nidal Ayyad, and Ibrahim Elgabrowny&#10;14. 01:53:25 - Blind Sheikh speaks + capture of Mahmoud Abouhalima and surrender of Bilal Alkaisi&#10;&#10;The Hidden Path To 9/11 - WORLD TRADE CENTER BOMBING OF 1993: False Flag Terrorism, Cover-Ups, and Missing Links is a 4 part expansive revised film produced and narrated by Thermal Detonator (Truther TV /We Are Change LA) with writing, research, and narration assistance by Adam Fitzgerald (The Darkened Hour: https://adamfitzgerald.podbean.com/). &#8216;The Hidden Path&#8230;&#8217; is a compendium of other documentaries originating from Truther TV's &#8216;AN INCONVENIENT 9/11 TRUTH [Part II]: Roads from NYC to OKC&#8217; [2015]. This film is not just about the 1993 WTC bombing but also a chain of events before and right after, including some instances on the cusp of the September 11th attacks&#8230;&#10;&#10;The remaining parts of the film will be released in the next coming months by the coming 21-year anniversary of 9/11 on September 11th, 2022.&#10;&#10;Please consider donating or becoming a Patreon if you would like to see improvements, as well as advanced viewing of the film: https://www.patreon.com/thermaldetonator&#10;&#10;For questions regarding info on how to get a DVD or file, or if you'd like to donate and contribute to more film-making and collecting archives, email, or Paypal: wacwood@gmail.com. Please subscribe to the channels. Thank you for viewing."
+    description "[Part 1 - Egypt and rise of Muslim Brotherhood - Call for Modern Jihad - Tradebom]&amp;#10;&amp;#10;1. - The Last Man Out of 9/11 - 1993 Intro&amp;#10;2. 13:37 - Story of Sayyid Qutb: Nasserism Vs. The Muslim Brotherhood&amp;#10;3. 23:44- Sadat Vs. Islamic Jihad -  Rise of the Blind Sheikh and Ayman al-Zawahiri&amp;#10;4. 33:34 - Afghan War and the Mujahedeen - The fall of Abdullah Azzam and the rise of Bin Laden&amp;#10;5. 42:30 - The story of Sheik Omar Abdel Rahman and his move to the U.S.&amp;#10;6. 48:10 - El Sayyid Nosair assassinates Rabbi Meir Kahane [Nov 5, 1990]&amp;#10;7. 54:18 - Murder of Mustafa Shalaby + Ali Mohamed &amp;#38; Wadih El-Hage pre-1993 activities&amp;#10;8. 59:53 - Funding, Defense, and Verdict of Nosair's case 1991 + Kahane supporters' reactions&amp;#10;9. 01:10:18 - Meet Egyptian FBI informant, Emad Salem - Infiltrating Nosair's circles&amp;#10;10. 01:19:27 - 1992 - Ramzi Yousef first arrives in the U.S. at JFK Airport - Preparations to build a bomb&amp;#10;11. 01:26:51 - Feb 26, 1993, BOOM! - The Bombing of the World Trade Center&amp;#10;12. 01:38:05 - Bomb and Ryder Van detections lead to arrests&amp;#10;13. 01:44:43 - Nabbing the first 3 suspects; Mohamed Salameh, Nidal Ayyad, and Ibrahim Elgabrowny&amp;#10;14. 01:53:25 - Blind Sheikh speaks + capture of Mahmoud Abouhalima and surrender of Bilal Alkaisi&amp;#10;&amp;#10;The Hidden Path To 9/11 - WORLD TRADE CENTER BOMBING OF 1993: False Flag Terrorism, Cover-Ups, and Missing Links is a 4 part expansive revised film produced and narrated by Thermal Detonator (Truther TV /We Are Change LA) with writing, research, and narration assistance by Adam Fitzgerald (The Darkened Hour: https://adamfitzgerald.podbean.com/). &amp;#8216;The Hidden Path&amp;#8230;&amp;#8217; is a compendium of other documentaries originating from Truther TV's &amp;#8216;AN INCONVENIENT 9/11 TRUTH [Part II]: Roads from NYC to OKC&amp;#8217; [2015]. This film is not just about the 1993 WTC bombing but also a chain of events before and right after, including some instances on the cusp of the September 11th attacks&amp;#8230;&amp;#10;&amp;#10;The remaining parts of the film will be released in the next coming months by the coming 21-year anniversary of 9/11 on September 11th, 2022.&amp;#10;&amp;#10;Please consider donating or becoming a Patreon if you would like to see improvements, as well as advanced viewing of the film: https://www.patreon.com/thermaldetonator&amp;#10;&amp;#10;For questions regarding info on how to get a DVD or file, or if you'd like to donate and contribute to more film-making and collecting archives, email, or Paypal: wacwood@gmail.com. Please subscribe to the channels. Thank you for viewing."
     channeltitle "Truther TV"
     channelid "UCGeJFkzITCvgspePZPfngTw"
     favcount 0
@@ -6805,7 +12327,29 @@ graph
     ppprofanity 0.21356627
     ppinflammatory 0.32700315
     sentiment -0.7783
-    cluster 2
+    cluster 5
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   edge
   [

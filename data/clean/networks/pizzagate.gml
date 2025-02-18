@@ -1,4 +1,4 @@
-Creator "igraph version 1.3.1 Wed Jul 20 15:27:25 2022"
+Creator "igraph version 0.10.10-81-g857a12506 Fri Feb  7 14:12:04 2025"
 Version 1
 graph
 [
@@ -10,7 +10,7 @@ graph
     step 0
     date "2016-12-08T08:35:00Z"
     title "Pizzagate Is An Alt-Right Fever Dream"
-    description "For the record, Stephen Colbert has no part in this fake conspiracy. At least that's what 'they' want him to say.&#10;&#10;Subscribe To &#34;The Late Show&#34; Channel HERE: http://bit.ly/ColbertYouTube&#10;For more content from &#34;The Late Show with Stephen Colbert&#34;, click HERE: http://bit.ly/1AKISnR&#10;Watch full episodes of &#34;The Late Show&#34; HERE: http://bit.ly/1Puei40&#10;Like &#34;The Late Show&#34; on Facebook HERE: http://on.fb.me/1df139Y&#10;Follow &#34;The Late Show&#34; on Twitter HERE: http://bit.ly/1dMzZzG&#10;Follow &#34;The Late Show&#34; on Google+ HERE: http://bit.ly/1JlGgzw&#10;Follow &#34;The Late Show&#34; on Instagram HERE: http://bit.ly/29wfREj&#10;Follow &#34;The Late Show&#34; on Tumblr HERE: http://bit.ly/29DVvtR&#10;&#10;Watch The Late Show with Stephen Colbert weeknights at 11:35 PM ET/10:35 PM CT. Only on CBS.&#10;&#10;Get the CBS app for iPhone &#38; iPad! Click HERE: http://bit.ly/12rLxge&#10;&#10;Get new episodes of shows you love across devices the next day, stream live TV, and watch full seasons of CBS fan favorites anytime, anywhere with CBS All Access. Try it free! http://bit.ly/1OQA29B&#10;&#10;---&#10;The Late Show with Stephen Colbert is the premier late night talk show on CBS, airing at 11:35pm EST, streaming online via CBS All Access, and delivered to the International Space Station on a USB drive taped to a weather balloon. Every night, viewers can expect: Comedy, humor, funny moments, witty interviews, celebrities, famous people, movie stars, bits, humorous celebrities doing bits, funny celebs, big group photos of every star from Hollywood, even the reclusive ones, plus also jokes."
+    description "For the record, Stephen Colbert has no part in this fake conspiracy. At least that's what 'they' want him to say.&amp;#10;&amp;#10;Subscribe To &amp;#34;The Late Show&amp;#34; Channel HERE: http://bit.ly/ColbertYouTube&amp;#10;For more content from &amp;#34;The Late Show with Stephen Colbert&amp;#34;, click HERE: http://bit.ly/1AKISnR&amp;#10;Watch full episodes of &amp;#34;The Late Show&amp;#34; HERE: http://bit.ly/1Puei40&amp;#10;Like &amp;#34;The Late Show&amp;#34; on Facebook HERE: http://on.fb.me/1df139Y&amp;#10;Follow &amp;#34;The Late Show&amp;#34; on Twitter HERE: http://bit.ly/1dMzZzG&amp;#10;Follow &amp;#34;The Late Show&amp;#34; on Google+ HERE: http://bit.ly/1JlGgzw&amp;#10;Follow &amp;#34;The Late Show&amp;#34; on Instagram HERE: http://bit.ly/29wfREj&amp;#10;Follow &amp;#34;The Late Show&amp;#34; on Tumblr HERE: http://bit.ly/29DVvtR&amp;#10;&amp;#10;Watch The Late Show with Stephen Colbert weeknights at 11:35 PM ET/10:35 PM CT. Only on CBS.&amp;#10;&amp;#10;Get the CBS app for iPhone &amp;#38; iPad! Click HERE: http://bit.ly/12rLxge&amp;#10;&amp;#10;Get new episodes of shows you love across devices the next day, stream live TV, and watch full seasons of CBS fan favorites anytime, anywhere with CBS All Access. Try it free! http://bit.ly/1OQA29B&amp;#10;&amp;#10;---&amp;#10;The Late Show with Stephen Colbert is the premier late night talk show on CBS, airing at 11:35pm EST, streaming online via CBS All Access, and delivered to the International Space Station on a USB drive taped to a weather balloon. Every night, viewers can expect: Comedy, humor, funny moments, witty interviews, celebrities, famous people, movie stars, bits, humorous celebrities doing bits, funny celebs, big group photos of every star from Hollywood, even the reclusive ones, plus also jokes."
     channeltitle "The Late Show with Stephen Colbert"
     channelid "UCMtFAi84ehTSYSE9XoHefig"
     favcount 0
@@ -29,6 +29,28 @@ graph
     ppinflammatory 0.4400665
     sentiment 0.25
     cluster 1
+    leftright "R"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 1
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -37,7 +59,7 @@ graph
     step 0
     date "2017-09-19T12:44:00Z"
     title "Hillary Clinton Addresses The Pizzagate Hoax"
-    description "Hillary Clinton addresses the bogus pizzagate conspiracy that lead a gunman to open fire in a Washington, DC pizza parlor. Secretary Clinton further elaborates on the rise of fake news, its dangers, and the role of Russian operatives in spreading it. Politics and Prose co-owner Lissa Muscatine also reveals how Hillary and Bill Clinton provided crucial support during the crisis.&#10;&#10;http://www.politics-prose.com/book/9781501175565&#10;&#10;Founded by Carla Cohen and Barbara Meade in 1984, Politics and Prose Bookstore is Washington, D.C.'s premier independent bookstore and cultural hub, a gathering place for people interested in reading and discussing books. Politics and Prose offers superior service, unusual book choices, and a haven for book lovers in the store and online. Visit them on the web at http://www.politics-prose.com/&#10;&#10;Produced by Tom Warren"
+    description "Hillary Clinton addresses the bogus pizzagate conspiracy that lead a gunman to open fire in a Washington, DC pizza parlor. Secretary Clinton further elaborates on the rise of fake news, its dangers, and the role of Russian operatives in spreading it. Politics and Prose co-owner Lissa Muscatine also reveals how Hillary and Bill Clinton provided crucial support during the crisis.&amp;#10;&amp;#10;http://www.politics-prose.com/book/9781501175565&amp;#10;&amp;#10;Founded by Carla Cohen and Barbara Meade in 1984, Politics and Prose Bookstore is Washington, D.C.'s premier independent bookstore and cultural hub, a gathering place for people interested in reading and discussing books. Politics and Prose offers superior service, unusual book choices, and a haven for book lovers in the store and online. Visit them on the web at http://www.politics-prose.com/&amp;#10;&amp;#10;Produced by Tom Warren"
     channeltitle "Politics and Prose"
     channelid "UCT83IOUtKdPUL9hOzYjxbcQ"
     favcount 0
@@ -56,6 +78,28 @@ graph
     ppinflammatory 0.5680319
     sentiment -0.2732
     cluster 2
+    leftright "L"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 1
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 1
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -64,7 +108,7 @@ graph
     step 0
     date "2016-12-06T00:24:34Z"
     title " suspect charged after allegedly firing shot in D.C. restaurant"
-    description "Edgar Welch, 28, was charged Monday after police say he fired a least one round into the floor of a pizza restaurant with an AR-15 rifle. Authorities say Welch was investigating &#34;pizzagate,&#34; a false, anti-Hillary Clinton conspiracy theory that involved in a child sex trafficking ring in Washington. The fake story was advanced by some Donald Trump supporters, including the son of Michael Flynn, Trump's choice for National Security Adviser. Chip Reid reports."
+    description "Edgar Welch, 28, was charged Monday after police say he fired a least one round into the floor of a pizza restaurant with an AR-15 rifle. Authorities say Welch was investigating &amp;#34;pizzagate,&amp;#34; a false, anti-Hillary Clinton conspiracy theory that involved in a child sex trafficking ring in Washington. The fake story was advanced by some Donald Trump supporters, including the son of Michael Flynn, Trump's choice for National Security Adviser. Chip Reid reports."
     channeltitle "CBS Evening News"
     channelid "UCAeWdyKJXGWmVAXFpgLNNTg"
     favcount 0
@@ -82,7 +126,29 @@ graph
     ppprofanity 0.096831575
     ppinflammatory 0.07531628
     sentiment -0.6597
-    cluster 1
+    cluster 3
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -110,6 +176,28 @@ graph
     ppinflammatory 0.44315717
     sentiment -0.4767
     cluster 2
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -118,7 +206,7 @@ graph
     step 0
     date "2018-01-02T15:53:23Z"
     title "Chrissy Teigen And John Legend Fire Back Over False  Conspiracy Theory | TODAY"
-    description "The famous couple is considering legal action after being dragged into a widely discredited conspiracy theory by a Twitter user. NBC&#8217;s Joe Fryer has the report for TODAY.&#10;&#10;&#187; Subscribe to TODAY: http://on.today.com/SubscribeToTODAY&#10;&#187; Watch the latest from TODAY: http://bit.ly/LatestTODAY&#10;&#10;About: TODAY brings you the latest headlines and expert tips on money, health and parenting. We wake up every morning to give you and your family all you need to start your day. If it matters to you, it matters to us. We are in the people business. Subscribe to our channel for exclusive TODAY archival footage &#38; our original web series.  &#10;&#10;Connect with TODAY Online!&#10;Visit TODAY's Website: http://on.today.com/ReadTODAY&#10;Find TODAY on Facebook: http://on.today.com/LikeTODAY&#10;Follow TODAY on Twitter: http://on.today.com/FollowTODAY&#10;Follow TODAY on Google+: http://on.today.com/PlusTODAY&#10;Follow TODAY on Instagram: http://on.today.com/InstaTODAY&#10;Follow TODAY on Pinterest: http://on.today.com/PinTODAY&#10;&#10;Chrissy Teigen And John Legend Fire Back Over False &#8216;Pizzagate&#8217; Conspiracy Theory | TODAY"
+    description "The famous couple is considering legal action after being dragged into a widely discredited conspiracy theory by a Twitter user. NBC&amp;#8217;s Joe Fryer has the report for TODAY.&amp;#10;&amp;#10;&amp;#187; Subscribe to TODAY: http://on.today.com/SubscribeToTODAY&amp;#10;&amp;#187; Watch the latest from TODAY: http://bit.ly/LatestTODAY&amp;#10;&amp;#10;About: TODAY brings you the latest headlines and expert tips on money, health and parenting. We wake up every morning to give you and your family all you need to start your day. If it matters to you, it matters to us. We are in the people business. Subscribe to our channel for exclusive TODAY archival footage &amp;#38; our original web series.  &amp;#10;&amp;#10;Connect with TODAY Online!&amp;#10;Visit TODAY's Website: http://on.today.com/ReadTODAY&amp;#10;Find TODAY on Facebook: http://on.today.com/LikeTODAY&amp;#10;Follow TODAY on Twitter: http://on.today.com/FollowTODAY&amp;#10;Follow TODAY on Google+: http://on.today.com/PlusTODAY&amp;#10;Follow TODAY on Instagram: http://on.today.com/InstaTODAY&amp;#10;Follow TODAY on Pinterest: http://on.today.com/PinTODAY&amp;#10;&amp;#10;Chrissy Teigen And John Legend Fire Back Over False &amp;#8216;Pizzagate&amp;#8217; Conspiracy Theory | TODAY"
     channeltitle "TODAY"
     channelid "UChDKyKQ59fYz3JO2fl0Z6sg"
     favcount 0
@@ -136,7 +224,29 @@ graph
     ppprofanity 0.022365926
     ppinflammatory 0.22876139
     sentiment -0.7003
-    cluster 1
+    cluster 3
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -145,7 +255,7 @@ graph
     step 0
     date "2021-10-05T19:26:02Z"
     title "Exclusive Trailer Debut: THE PIZZAGATE MASSACRE"
-    description "Synopsis:&#10;A dark social satire inspired by the real-life conspiracy theory known as Pizzagate, an amateur journalist and a far-right militiaman team up to expose the ugly truth behind rumors involving sex cults, a pizza place, and lizard people.&#10;&#10;In his cinematic directorial debut, John Valley&#8217;s The Pizzagate Massacre was the winner of Best Midnight Feature in the 2020 Nightmares Film Festival and was an official selection for Panic Film Fest.&#10;&#10;This satirical indie horror stars Tinus Seaux (The Pale Door, Putting the Dog to Sleep) Alexandria Payne (Jackrabbit, Matchstick Willie), Lee Eddy (Cruel Summer, Panic, Mercy Black), Derek Baab (Red Clover, Jenn Kirkman: I&#8217;m Gonna Die Alone (and I Feel Fine), Game of Thrones: Bleed for The Throne), and is written, directed, and produced by John Valley (We Can Be Heroes, Kevin (Probably) Saves the World).&#10;&#10;The Pizzagate Massacre is available on Digital and On-Demand beginning November 19th, 2021."
+    description "Synopsis:&amp;#10;A dark social satire inspired by the real-life conspiracy theory known as Pizzagate, an amateur journalist and a far-right militiaman team up to expose the ugly truth behind rumors involving sex cults, a pizza place, and lizard people.&amp;#10;&amp;#10;In his cinematic directorial debut, John Valley&amp;#8217;s The Pizzagate Massacre was the winner of Best Midnight Feature in the 2020 Nightmares Film Festival and was an official selection for Panic Film Fest.&amp;#10;&amp;#10;This satirical indie horror stars Tinus Seaux (The Pale Door, Putting the Dog to Sleep) Alexandria Payne (Jackrabbit, Matchstick Willie), Lee Eddy (Cruel Summer, Panic, Mercy Black), Derek Baab (Red Clover, Jenn Kirkman: I&amp;#8217;m Gonna Die Alone (and I Feel Fine), Game of Thrones: Bleed for The Throne), and is written, directed, and produced by John Valley (We Can Be Heroes, Kevin (Probably) Saves the World).&amp;#10;&amp;#10;The Pizzagate Massacre is available on Digital and On-Demand beginning November 19th, 2021."
     channeltitle "Dread Central"
     channelid "UCd1cLnwL83Xh-zAq5yGc7qw"
     favcount 0
@@ -163,7 +273,29 @@ graph
     ppprofanity 0.03654168
     ppinflammatory 0.27490208
     sentiment 0.128
-    cluster 3
+    cluster 4
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -172,7 +304,7 @@ graph
     step 0
     date "2021-01-20T20:00:00Z"
     title "The Most Dangerous Conspiracy Theory in the World | Truth Hurts"
-    description "The internet has been accused of wrecking many things over the years &#8211; print media, Blockbuster and privacy, for instance. One thing it definitely hasn&#8217;t killed, though, is the antisemitic conspiracy theory. &#10;&#10;In fact, the internet is breathing new life into ideas that have been doing the rounds &#8211; sometimes causing mass murder &#8211; for centuries. In this episode of Truth Hurts, we look at how today&#8217;s biggest conspiracy movements are just recycling the same old, evil lies.&#10;&#10;Click here to subscribe to VICE: http://bit.ly/Subscribe-to-VICE&#13;&#10;&#13;&#10;About VICE:&#13;&#10;The Definitive Guide To Enlightening Information. From every corner of the planet, our immersive, caustic, ground-breaking and often bizarre stories have changed the way people think about culture, crime, art, parties, fashion, protest, the internet and other subjects that don't even have names yet. Browse the growing library and discover corners of the world you never knew existed. Welcome to VICE.&#13;&#10;&#13;&#10;Connect with VICE:&#13;&#10;Check out our full video catalog: http://bit.ly/VICE-Videos&#13;&#10;Videos, daily editorial and more: http://vice.com&#13;&#10;More videos from the VICE network: https://www.fb.com/vicevideo&#13;&#10;Click here to get the best of VICE daily: http://bit.ly/1SquZ6v&#13;&#10;Like VICE on Facebook: http://fb.com/vice&#13;&#10;Follow VICE on Twitter: http://twitter.com/vice&#13;&#10;Follow us on Instagram: http://instagram.com/vice&#13;&#10;&#13;&#10;The VICE YouTube Network:&#13;&#10;VICE: https://www.youtube.com/VICE&#13;&#10;MUNCHIES: https://www.youtube.com/MUNCHIES &#13;&#10;VICE News: https://www.youtube.com/VICENews&#13;&#10;VICELAND: https://www.youtube.com/VICELANDTV&#13;&#10;Broadly: https://www.youtube.com/Broadly&#13;&#10;Noisey: https://www.youtube.com/Noisey&#13;&#10;Motherboard: https://www.youtube.com/MotherboardTV &#13;&#10;VICE Sports: https://www.youtube.com/NOC&#13;&#10;i-D: http://www.youtube.com/iDmagazine &#13;&#10;Waypoint: https://www.youtube.com/WaypointVICE"
+    description "The internet has been accused of wrecking many things over the years &amp;#8211; print media, Blockbuster and privacy, for instance. One thing it definitely hasn&amp;#8217;t killed, though, is the antisemitic conspiracy theory. &amp;#10;&amp;#10;In fact, the internet is breathing new life into ideas that have been doing the rounds &amp;#8211; sometimes causing mass murder &amp;#8211; for centuries. In this episode of Truth Hurts, we look at how today&amp;#8217;s biggest conspiracy movements are just recycling the same old, evil lies.&amp;#10;&amp;#10;Click here to subscribe to VICE: http://bit.ly/Subscribe-to-VICE&amp;#13;&amp;#10;&amp;#13;&amp;#10;About VICE:&amp;#13;&amp;#10;The Definitive Guide To Enlightening Information. From every corner of the planet, our immersive, caustic, ground-breaking and often bizarre stories have changed the way people think about culture, crime, art, parties, fashion, protest, the internet and other subjects that don't even have names yet. Browse the growing library and discover corners of the world you never knew existed. Welcome to VICE.&amp;#13;&amp;#10;&amp;#13;&amp;#10;Connect with VICE:&amp;#13;&amp;#10;Check out our full video catalog: http://bit.ly/VICE-Videos&amp;#13;&amp;#10;Videos, daily editorial and more: http://vice.com&amp;#13;&amp;#10;More videos from the VICE network: https://www.fb.com/vicevideo&amp;#13;&amp;#10;Click here to get the best of VICE daily: http://bit.ly/1SquZ6v&amp;#13;&amp;#10;Like VICE on Facebook: http://fb.com/vice&amp;#13;&amp;#10;Follow VICE on Twitter: http://twitter.com/vice&amp;#13;&amp;#10;Follow us on Instagram: http://instagram.com/vice&amp;#13;&amp;#10;&amp;#13;&amp;#10;The VICE YouTube Network:&amp;#13;&amp;#10;VICE: https://www.youtube.com/VICE&amp;#13;&amp;#10;MUNCHIES: https://www.youtube.com/MUNCHIES &amp;#13;&amp;#10;VICE News: https://www.youtube.com/VICENews&amp;#13;&amp;#10;VICELAND: https://www.youtube.com/VICELANDTV&amp;#13;&amp;#10;Broadly: https://www.youtube.com/Broadly&amp;#13;&amp;#10;Noisey: https://www.youtube.com/Noisey&amp;#13;&amp;#10;Motherboard: https://www.youtube.com/MotherboardTV &amp;#13;&amp;#10;VICE Sports: https://www.youtube.com/NOC&amp;#13;&amp;#10;i-D: http://www.youtube.com/iDmagazine &amp;#13;&amp;#10;Waypoint: https://www.youtube.com/WaypointVICE"
     channeltitle "VICE"
     channelid "UCn8zNIfYAQNdrFRrr8oibKw"
     favcount 0
@@ -190,7 +322,29 @@ graph
     ppprofanity 0.07678486
     ppinflammatory 0.32950464
     sentiment -0.8347
-    cluster 1
+    cluster 3
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -199,7 +353,7 @@ graph
     step 0
     date "2019-08-27T17:30:00Z"
     title "Nick Cannon: Jeffrey Epstein Makes Me Reconsider the Validity of  (Part 13)"
-    description "Part 14: https://youtu.be/6bk-_QqUY0M&#10;Part 12: https://youtu.be/tBEVWaDp3gI&#10;Part 1: https://youtu.be/VGZKnlTfwJo&#10;------&#10;In this clip, Nick Cannon weighed in on Jeffrey Epstein's apparent suicide and the conspiracy theories surrounding his death. Nick said Epstein's story makes him reconsider some of the other conspiracy theories, particularly dealing with pedophilia, such as Pizza Gate. &#10;Later, Nick Cannon and Vlad discussed how this era doesn't allow people to hide things. Nick said he loves it and that the exposure will force people to confront truths about themselves and the larger society like never before."
+    description "Part 14: https://youtu.be/6bk-_QqUY0M&amp;#10;Part 12: https://youtu.be/tBEVWaDp3gI&amp;#10;Part 1: https://youtu.be/VGZKnlTfwJo&amp;#10;------&amp;#10;In this clip, Nick Cannon weighed in on Jeffrey Epstein's apparent suicide and the conspiracy theories surrounding his death. Nick said Epstein's story makes him reconsider some of the other conspiracy theories, particularly dealing with pedophilia, such as Pizza Gate. &amp;#10;Later, Nick Cannon and Vlad discussed how this era doesn't allow people to hide things. Nick said he loves it and that the exposure will force people to confront truths about themselves and the larger society like never before."
     channeltitle "djvlad"
     channelid "UCg7lal8IC-xPyKfgH4rdUcA"
     favcount 0
@@ -218,6 +372,28 @@ graph
     ppinflammatory 0.0010490135
     sentiment 0
     cluster 2
+    leftright "L"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 1
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 1
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -226,7 +402,7 @@ graph
     step 0
     date "2017-06-22T22:45:52Z"
     title "Raw:  suspect records message to his family on way to DC"
-    description "Edgar Welched was sentenced to 4 years in prison for firing an assault rifle inside D.C. restaurant Comey Ping Pong while investigating &#34;Pizzagate.&#34; Before he got there, he recorded a message for his family."
+    description "Edgar Welched was sentenced to 4 years in prison for firing an assault rifle inside D.C. restaurant Comey Ping Pong while investigating &amp;#34;Pizzagate.&amp;#34; Before he got there, he recorded a message for his family."
     channeltitle "WUSA9"
     channelid "UCcT6w3xUyVshyR2_2vrMp1w"
     favcount 0
@@ -244,7 +420,29 @@ graph
     ppprofanity 0.049576204
     ppinflammatory 0.017778039
     sentiment -0.296
-    cluster 3
+    cluster 4
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -253,7 +451,7 @@ graph
     step 0
     date "2021-03-16T07:00:02Z"
     title ". A DOCUMENTARY FILM BY PATRYK VEGA."
-    description "&#8222;EYES OF THE DEVIL&#8221;. A DOCUMENTARY FILM BY PATRYK VEGA."
+    description "&amp;#8222;EYES OF THE DEVIL&amp;#8221;. A DOCUMENTARY FILM BY PATRYK VEGA."
     channeltitle "Patryk Vega"
     channelid "UCMnxUMk-ODO6J-1gFsDtz5w"
     favcount 0
@@ -271,7 +469,29 @@ graph
     ppprofanity 0.7289069
     ppinflammatory 0.08155044
     sentiment -0.6597
-    cluster 1
+    cluster 3
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -280,7 +500,7 @@ graph
     step 0
     date "2016-12-06T01:23:37Z"
     title "How did  inspire violence?"
-    description "A fake news story about Hillary Clinton led to an armed confrontation at a pizza joint. CNN's Brian Stelter examines how and why the conspiracy theory known as &#34;pizza gate&#34; took root."
+    description "A fake news story about Hillary Clinton led to an armed confrontation at a pizza joint. CNN's Brian Stelter examines how and why the conspiracy theory known as &amp;#34;pizza gate&amp;#34; took root."
     channeltitle "CNN"
     channelid "UCupvZG-5ko_eiXAupbDfxWw"
     favcount 0
@@ -298,7 +518,29 @@ graph
     ppprofanity 0.07004756
     ppinflammatory 0.11078589
     sentiment -0.1027
-    cluster 3
+    cluster 4
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -307,7 +549,7 @@ graph
     step 0
     date "2020-09-09T02:52:20Z"
     title "Chrissy Teigen Says  Impacted Her Mental Health | E! News"
-    description "The mother of two reflects on incessant attacks from conspiracy theorists in a new Instagram post. Take a look.&#10;&#10;Full Story: https://www.eonline.com/news/1185872/chrissy-teigen-addresses-impact-of-pizzagate-insanity-on-her-mental-health-and-pregnancy&#10;&#10;#ChrissyTeigen #ENews #CelebrityNews&#10;&#10;Subscribe: http://bit.ly/enewssub&#10;&#10;About E! News:&#10;The E! News team brings you the latest breaking entertainment, fashion and Pop Culture news. Featuring exclusive segments, celebrity highlights, trend reports and more, the E! News channel is the only destination Pop Culture fans need to stay in the know.&#10;&#10;Download The E! News App For The Latest Celebrity News and Trending Videos: https://eonline.onelink.me/yMtl/4ead5017&#10;&#10;Your favorite shows, movies and more are here. Stream now on Peacock. https://bit.ly/PeacockEEnt&#10;&#10;Connect with E! News:&#10;Visit the E! News WEBSITE: http://eonli.ne/enews&#10;Like E! News on FACEBOOK: https://www.facebook.com/enews/&#10;Check out E! News on INSTAGRAM: https://www.instagram.com/enews/&#10;Follow E! News on TWITTER: https://twitter.com/enews &#10;&#10;Chrissy Teigen Says &#34;Pizzagate&#34; Impacted Her Mental Health | E! News&#10;http://www.youtube.com/user/enews"
+    description "The mother of two reflects on incessant attacks from conspiracy theorists in a new Instagram post. Take a look.&amp;#10;&amp;#10;Full Story: https://www.eonline.com/news/1185872/chrissy-teigen-addresses-impact-of-pizzagate-insanity-on-her-mental-health-and-pregnancy&amp;#10;&amp;#10;#ChrissyTeigen #ENews #CelebrityNews&amp;#10;&amp;#10;Subscribe: http://bit.ly/enewssub&amp;#10;&amp;#10;About E! News:&amp;#10;The E! News team brings you the latest breaking entertainment, fashion and Pop Culture news. Featuring exclusive segments, celebrity highlights, trend reports and more, the E! News channel is the only destination Pop Culture fans need to stay in the know.&amp;#10;&amp;#10;Download The E! News App For The Latest Celebrity News and Trending Videos: https://eonline.onelink.me/yMtl/4ead5017&amp;#10;&amp;#10;Your favorite shows, movies and more are here. Stream now on Peacock. https://bit.ly/PeacockEEnt&amp;#10;&amp;#10;Connect with E! News:&amp;#10;Visit the E! News WEBSITE: http://eonli.ne/enews&amp;#10;Like E! News on FACEBOOK: https://www.facebook.com/enews/&amp;#10;Check out E! News on INSTAGRAM: https://www.instagram.com/enews/&amp;#10;Follow E! News on TWITTER: https://twitter.com/enews &amp;#10;&amp;#10;Chrissy Teigen Says &amp;#34;Pizzagate&amp;#34; Impacted Her Mental Health | E! News&amp;#10;http://www.youtube.com/user/enews"
     channeltitle "E! News"
     channelid "UCjDsbbzHgTrGc4Ff26TJtsA"
     favcount 0
@@ -326,6 +568,28 @@ graph
     ppinflammatory 0.057340086
     sentiment 0
     cluster 2
+    leftright "L"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 1
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 1
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -334,7 +598,7 @@ graph
     step 0
     date "2021-12-02T18:16:34Z"
     title "The Pizzagate Massacre - Movie Review"
-    description "Brad reviews this satirical new comedy from writer director and co-star John Valley, which is also known as Duncan.  The film is available now on Video on Demand!&#10;&#10;Support us on Patreon - http://www.patreon.com/thecinemasnob&#10;Facebook - https://www.facebook.com/thecinemasnob&#10;Twitter - http://twitter.com/thecinemasnob&#10;Instagram - https://www.instagram.com/thecinemasnob"
+    description "Brad reviews this satirical new comedy from writer director and co-star John Valley, which is also known as Duncan.  The film is available now on Video on Demand!&amp;#10;&amp;#10;Support us on Patreon - http://www.patreon.com/thecinemasnob&amp;#10;Facebook - https://www.facebook.com/thecinemasnob&amp;#10;Twitter - http://twitter.com/thecinemasnob&amp;#10;Instagram - https://www.instagram.com/thecinemasnob"
     channeltitle "Stoned Gremlin Productions"
     channelid "UCIO689mgXeuzH4M5NS7wZwg"
     favcount 0
@@ -352,7 +616,29 @@ graph
     ppprofanity 0.1001689
     ppinflammatory 0.26784745
     sentiment 0
-    cluster 3
+    cluster 4
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -361,7 +647,7 @@ graph
     step 0
     date "2018-08-27T19:21:46Z"
     title "Conspiracy Theorists Run -Style Campaign Against Small Businesses | Craig Melvin | MSNBC"
-    description "Small businesses including ice cream shop Sweet Jesus and a popular Portland chain Voodoo Doughnut are being targeted by conspiracy theorists with false accusations. The shops have been receiving menacing comments on their social media accounts along with threats to the employees.&#10;&#187; Subscribe to MSNBC: http://on.msnbc.com/SubscribeTomsnbc&#10;&#10;About: MSNBC is the premier destination for in-depth analysis of daily headlines, insightful political commentary and informed perspectives. Reaching more than 95 million households worldwide, MSNBC offers a full schedule of live news coverage, political opinions and award-winning documentary programming -- 24 hours a day, 7 days a week.&#10;&#10;Connect with MSNBC Online&#10;Visit msnbc.com: http://on.msnbc.com/Readmsnbc&#10;Subscribe to MSNBC Newsletter: MSNBC.com/NewslettersYouTube&#10;Find MSNBC on Facebook: http://on.msnbc.com/Likemsnbc&#10;Follow MSNBC on Twitter: http://on.msnbc.com/Followmsnbc&#10;Follow MSNBC on Instagram: http://on.msnbc.com/Instamsnbc&#10;&#10;Conspiracy Theorists Run 'Pizzagate'-Style Campaign Against Small Businesses | Craig Melvin | MSNBC"
+    description "Small businesses including ice cream shop Sweet Jesus and a popular Portland chain Voodoo Doughnut are being targeted by conspiracy theorists with false accusations. The shops have been receiving menacing comments on their social media accounts along with threats to the employees.&amp;#10;&amp;#187; Subscribe to MSNBC: http://on.msnbc.com/SubscribeTomsnbc&amp;#10;&amp;#10;About: MSNBC is the premier destination for in-depth analysis of daily headlines, insightful political commentary and informed perspectives. Reaching more than 95 million households worldwide, MSNBC offers a full schedule of live news coverage, political opinions and award-winning documentary programming -- 24 hours a day, 7 days a week.&amp;#10;&amp;#10;Connect with MSNBC Online&amp;#10;Visit msnbc.com: http://on.msnbc.com/Readmsnbc&amp;#10;Subscribe to MSNBC Newsletter: MSNBC.com/NewslettersYouTube&amp;#10;Find MSNBC on Facebook: http://on.msnbc.com/Likemsnbc&amp;#10;Follow MSNBC on Twitter: http://on.msnbc.com/Followmsnbc&amp;#10;Follow MSNBC on Instagram: http://on.msnbc.com/Instamsnbc&amp;#10;&amp;#10;Conspiracy Theorists Run 'Pizzagate'-Style Campaign Against Small Businesses | Craig Melvin | MSNBC"
     channeltitle "MSNBC"
     channelid "UCaXkIU1QidjPwiAYu6GcHjg"
     favcount 0
@@ -379,7 +665,29 @@ graph
     ppprofanity 0.10974525
     ppinflammatory 0.1495191
     sentiment -0.5267
-    cluster 4
+    cluster 1
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -388,7 +696,7 @@ graph
     step 0
     date "2014-11-14T08:30:01Z"
     title "Jim Carreys Secret Hand Signal"
-    description "Jim reveals the secret of the Illuminati. &#10;&#10;SUBSCRIBE to get the latest #KIMMEL: http://bit.ly/JKLSubscribe&#10;&#10;Watch the latest Halloween Candy Prank: http://bit.ly/KimmelHalloweenCandy&#10;&#10;Watch the latest Mean Tweets: http://bit.ly/MeanTweets8&#10;&#10;Connect with Jimmy Kimmel Live Online:&#10;&#10;Visit the Jimmy Kimmel Live WEBSITE: http://bit.ly/JKLWebsite&#10;Like Jimmy Kimmel Live on FACEBOOK: http://bit.ly/JKLFacebook&#10;Follow Jimmy Kimmel Live on TWITTER: http://bit.ly/JKLTwitter&#10;Follow Jimmy Kimmel Live on INSTAGRAM: http://bit.ly/JKLInstagram&#10;&#10;About Jimmy Kimmel Live:&#10;&#10;Jimmy Kimmel serves as host and executive producer of Emmy nominated &#34;Jimmy Kimmel Live,&#34; ABC's late-night talk show.&#10;&#10;&#34;Jimmy Kimmel Live&#34; is well known for its huge viral video successes with 1.5 billion views on YouTube alone. Some of Kimmel's most popular comedy bits include - Mean Tweets, Lie Witness News, Jimmy's Twerk Fail Prank, Unnecessary Censorship, YouTube Challenge, The Baby Bachelor, Movie: The Movie, Handsome Men's Club, Jimmy Kimmel Lie Detective and music videos like &#34;I (Wanna) Channing All Over Your Tatum&#34; and a Blurred Lines parody with Robin Thicke, Pharrell, Jimmy and his security guard Guillermo.&#10;&#10;Now in its twelfth season, Kimmel's guests have included: Johnny Depp, Meryl Streep, Tom Cruise, Halle Berry, Harrison Ford, Jennifer Aniston, Will Ferrell, Katy Perry, Tom Hanks, Scarlett Johansson, Channing Tatum, George Clooney, Larry David, Charlize Theron, Mark Wahlberg, Kobe Bryant, Steve Carell, Hugh Jackman, Kristen Wiig, Jeff Bridges, Jennifer Garner, Ryan Gosling, Bryan Cranston, Jamie Foxx, Amy Poehler, Ben Affleck, Robert Downey Jr., Jake Gyllenhaal, Oprah, and unfortunately Matt Damon.&#10;&#10;Jim Carrey's Secret Hand Signal &#10;http://youtu.be/eG9i7d8yfKQ"
+    description "Jim reveals the secret of the Illuminati. &amp;#10;&amp;#10;SUBSCRIBE to get the latest #KIMMEL: http://bit.ly/JKLSubscribe&amp;#10;&amp;#10;Watch the latest Halloween Candy Prank: http://bit.ly/KimmelHalloweenCandy&amp;#10;&amp;#10;Watch the latest Mean Tweets: http://bit.ly/MeanTweets8&amp;#10;&amp;#10;Connect with Jimmy Kimmel Live Online:&amp;#10;&amp;#10;Visit the Jimmy Kimmel Live WEBSITE: http://bit.ly/JKLWebsite&amp;#10;Like Jimmy Kimmel Live on FACEBOOK: http://bit.ly/JKLFacebook&amp;#10;Follow Jimmy Kimmel Live on TWITTER: http://bit.ly/JKLTwitter&amp;#10;Follow Jimmy Kimmel Live on INSTAGRAM: http://bit.ly/JKLInstagram&amp;#10;&amp;#10;About Jimmy Kimmel Live:&amp;#10;&amp;#10;Jimmy Kimmel serves as host and executive producer of Emmy nominated &amp;#34;Jimmy Kimmel Live,&amp;#34; ABC's late-night talk show.&amp;#10;&amp;#10;&amp;#34;Jimmy Kimmel Live&amp;#34; is well known for its huge viral video successes with 1.5 billion views on YouTube alone. Some of Kimmel's most popular comedy bits include - Mean Tweets, Lie Witness News, Jimmy's Twerk Fail Prank, Unnecessary Censorship, YouTube Challenge, The Baby Bachelor, Movie: The Movie, Handsome Men's Club, Jimmy Kimmel Lie Detective and music videos like &amp;#34;I (Wanna) Channing All Over Your Tatum&amp;#34; and a Blurred Lines parody with Robin Thicke, Pharrell, Jimmy and his security guard Guillermo.&amp;#10;&amp;#10;Now in its twelfth season, Kimmel's guests have included: Johnny Depp, Meryl Streep, Tom Cruise, Halle Berry, Harrison Ford, Jennifer Aniston, Will Ferrell, Katy Perry, Tom Hanks, Scarlett Johansson, Channing Tatum, George Clooney, Larry David, Charlize Theron, Mark Wahlberg, Kobe Bryant, Steve Carell, Hugh Jackman, Kristen Wiig, Jeff Bridges, Jennifer Garner, Ryan Gosling, Bryan Cranston, Jamie Foxx, Amy Poehler, Ben Affleck, Robert Downey Jr., Jake Gyllenhaal, Oprah, and unfortunately Matt Damon.&amp;#10;&amp;#10;Jim Carrey's Secret Hand Signal &amp;#10;http://youtu.be/eG9i7d8yfKQ"
     channeltitle "Jimmy Kimmel Live"
     channelid "UCa6vGFO9ty8v5KZJXQxdhaw"
     favcount 0
@@ -407,6 +715,28 @@ graph
     ppinflammatory 0.2522908
     sentiment 0.4939
     cluster 5
+    leftright "L"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 1
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 1
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 1
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -415,7 +745,7 @@ graph
     step 0
     date "2016-12-29T05:30:00Z"
     title "t Going Away"
-    description "A new poll reveals stunning numbers on how many Trump supporters believe &#34;pizzagate&#8221; is real. Cenk Uygur and Ana Kasparian, hosts of The Young Turks, break it down. Tell us what you think in the comment section below. https://www.tytnetwork.com/go&#10;&#10;&#8220;Nearly half of all Donald Trump voters believe a widely debunked conspiracy theory claiming that Hillary Clinton is involved in a child sex ring run out of a popular Washington, D.C. pizzeria, a recent poll suggests.&#10;&#10;The Economist/YouGov poll released Tuesday shows that a staggering 46% of Trump voters believe the so-called &#8220;Pizzagate&#8221; conspiracy, which began circulating on obscure sites like 4chan and Reddit ahead of Election Day before spurring controversy on Twitter and Facebook.&#10;&#10;Concerns over the dangerous impact of fake news were heightened after Edgar Welch, 28, of Salisbury, N.C., stormed into the Italian restaurant at the center of the baseless conspiracy with a loaded assault rifle on Dec. 4 in order to &#8220;self-investigative.&#34;&#10;&#10;Read more here: http://www.nydailynews.com/news/politics/50-trump-fans-clinton-involved-pedophilia-article-1.2926098&#10;&#10;Hosts: Cenk Uygur, Ana Kasparian&#10;&#10;Cast: Cenk Uygur, Ana Kasparian&#10;&#10;***&#10;&#10;The Largest Online News Show in the World. Hosted by Cenk Uygur and Ana Kasparian. LIVE STREAMING weekdays 6-8pm ET. http://www.tytnetwork.com/live&#10;&#10;Young Turk (n), 1. Young progressive or insurgent member of an institution, movement, or political party. 2. Young person who rebels against authority or societal expectations. Trump's Romney Relationship I(American Heritage Dictionary)&#10;&#10;Download audio and video of the full two hour show on-demand + the members-only post game show by becoming a member at http://www.tytnetwork.com/join/. Your membership supports the day to day operations and is vital for our continued success and growth.&#10;&#10;Get The Young Turks Mobile App Today!&#10;&#10;Download the iOS version here: https://itunes.apple.com/us/app/the-young-turks/id412793195?ls=1&#38;mt=8&#10;&#10;Download the Android version here: https://play.google.com/store/apps/details?id=com.tyt"
+    description "A new poll reveals stunning numbers on how many Trump supporters believe &amp;#34;pizzagate&amp;#8221; is real. Cenk Uygur and Ana Kasparian, hosts of The Young Turks, break it down. Tell us what you think in the comment section below. https://www.tytnetwork.com/go&amp;#10;&amp;#10;&amp;#8220;Nearly half of all Donald Trump voters believe a widely debunked conspiracy theory claiming that Hillary Clinton is involved in a child sex ring run out of a popular Washington, D.C. pizzeria, a recent poll suggests.&amp;#10;&amp;#10;The Economist/YouGov poll released Tuesday shows that a staggering 46% of Trump voters believe the so-called &amp;#8220;Pizzagate&amp;#8221; conspiracy, which began circulating on obscure sites like 4chan and Reddit ahead of Election Day before spurring controversy on Twitter and Facebook.&amp;#10;&amp;#10;Concerns over the dangerous impact of fake news were heightened after Edgar Welch, 28, of Salisbury, N.C., stormed into the Italian restaurant at the center of the baseless conspiracy with a loaded assault rifle on Dec. 4 in order to &amp;#8220;self-investigative.&amp;#34;&amp;#10;&amp;#10;Read more here: http://www.nydailynews.com/news/politics/50-trump-fans-clinton-involved-pedophilia-article-1.2926098&amp;#10;&amp;#10;Hosts: Cenk Uygur, Ana Kasparian&amp;#10;&amp;#10;Cast: Cenk Uygur, Ana Kasparian&amp;#10;&amp;#10;***&amp;#10;&amp;#10;The Largest Online News Show in the World. Hosted by Cenk Uygur and Ana Kasparian. LIVE STREAMING weekdays 6-8pm ET. http://www.tytnetwork.com/live&amp;#10;&amp;#10;Young Turk (n), 1. Young progressive or insurgent member of an institution, movement, or political party. 2. Young person who rebels against authority or societal expectations. Trump's Romney Relationship I(American Heritage Dictionary)&amp;#10;&amp;#10;Download audio and video of the full two hour show on-demand + the members-only post game show by becoming a member at http://www.tytnetwork.com/join/. Your membership supports the day to day operations and is vital for our continued success and growth.&amp;#10;&amp;#10;Get The Young Turks Mobile App Today!&amp;#10;&amp;#10;Download the iOS version here: https://itunes.apple.com/us/app/the-young-turks/id412793195?ls=1&amp;#38;mt=8&amp;#10;&amp;#10;Download the Android version here: https://play.google.com/store/apps/details?id=com.tyt"
     channeltitle "The Young Turks"
     channelid "UC1yBKRuGpC1tSM73A0ZjYjQ"
     favcount 0
@@ -434,6 +764,28 @@ graph
     ppinflammatory 0.0175593
     sentiment 0
     cluster 2
+    leftright "L"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 1
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 1
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 1
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -442,7 +794,7 @@ graph
     step 0
     date "2016-12-11T08:27:25Z"
     title "Weekend Update: Cathy Anne on Pizzagate - SNL"
-    description "Cathy Anne (Cecily Strong) discusses how a fake news story led a North Carolina man to open fire in a pizza parlor.&#10;&#10;Subscribe to SNL:&#160;https://goo.gl/tUsXwM&#10;Stream Current Full Episodes:&#160;http://www.nbc.com/saturday-night-live&#10;&#10;Watch Past SNL Seasons:&#160;&#10;Google Play -&#160;http://bit.ly/SNLGooglePlay&#160;&#10;iTunes -&#160;http://bit.ly/SNLiTunes&#10;&#10;Follow SNL Social -&#10;SNL Instagram:&#160;http://instagram.com/nbcsnl&#160;&#10;SNL Facebook:&#160;https://www.facebook.com/snl&#10;SNL Twitter:&#160;https://twitter.com/nbcsnl&#10;SNL Tumblr:&#160;http://nbcsnl.tumblr.com/&#10;SNL Pinterest:&#160;http://www.pinterest.com/nbcsnl/"
+    description "Cathy Anne (Cecily Strong) discusses how a fake news story led a North Carolina man to open fire in a pizza parlor.&amp;#10;&amp;#10;Subscribe to SNL:&amp;#160;https://goo.gl/tUsXwM&amp;#10;Stream Current Full Episodes:&amp;#160;http://www.nbc.com/saturday-night-live&amp;#10;&amp;#10;Watch Past SNL Seasons:&amp;#160;&amp;#10;Google Play -&amp;#160;http://bit.ly/SNLGooglePlay&amp;#160;&amp;#10;iTunes -&amp;#160;http://bit.ly/SNLiTunes&amp;#10;&amp;#10;Follow SNL Social -&amp;#10;SNL Instagram:&amp;#160;http://instagram.com/nbcsnl&amp;#160;&amp;#10;SNL Facebook:&amp;#160;https://www.facebook.com/snl&amp;#10;SNL Twitter:&amp;#160;https://twitter.com/nbcsnl&amp;#10;SNL Tumblr:&amp;#160;http://nbcsnl.tumblr.com/&amp;#10;SNL Pinterest:&amp;#160;http://www.pinterest.com/nbcsnl/"
     channeltitle "Saturday Night Live"
     channelid "UCqFzWxSCi39LnW1JKFR3efg"
     favcount 0
@@ -460,7 +812,29 @@ graph
     ppprofanity 0.050000653
     ppinflammatory 0.055026475
     sentiment 0
-    cluster 4
+    cluster 1
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -469,7 +843,7 @@ graph
     step 0
     date "2019-03-09T03:46:10Z"
     title "Andrew Scheer surprises town hall attendees with response to  conspiracy theory question"
-    description "Conservative Leader Andrew Scheer surprised town hall attendees with his response to a question about his views on &#34;Pizzagate,&#34; a long debunked conspiracy theory linking Hillary Clinton to a child sex ring.&#10;&#10;Welcome to The National, the flagship nightly newscast of CBC News&#10;&#10;&#187;&#187;&#187; Subscribe to The National to watch more videos here:   https://www.youtube.com/user/CBCTheNational?sub_confirmation=1&#10;&#10;Voice Your Opinion &#38; Connect With Us Online:&#10;&#10;The National Updates on Facebook: https://www.facebook.com/thenational&#10;The National Updates on Twitter: https://twitter.com/CBCTheNational&#10;&#187;&#187;&#187; &#187;&#187;&#187; &#187;&#187;&#187; &#187;&#187;&#187; &#187;&#187;&#187; &#10;The National is CBC Television's flagship news program. Airing six days a week, the show delivers news, feature documentaries  and analysis from some of Canada's leading journalists."
+    description "Conservative Leader Andrew Scheer surprised town hall attendees with his response to a question about his views on &amp;#34;Pizzagate,&amp;#34; a long debunked conspiracy theory linking Hillary Clinton to a child sex ring.&amp;#10;&amp;#10;Welcome to The National, the flagship nightly newscast of CBC News&amp;#10;&amp;#10;&amp;#187;&amp;#187;&amp;#187; Subscribe to The National to watch more videos here:   https://www.youtube.com/user/CBCTheNational?sub_confirmation=1&amp;#10;&amp;#10;Voice Your Opinion &amp;#38; Connect With Us Online:&amp;#10;&amp;#10;The National Updates on Facebook: https://www.facebook.com/thenational&amp;#10;The National Updates on Twitter: https://twitter.com/CBCTheNational&amp;#10;&amp;#187;&amp;#187;&amp;#187; &amp;#187;&amp;#187;&amp;#187; &amp;#187;&amp;#187;&amp;#187; &amp;#187;&amp;#187;&amp;#187; &amp;#187;&amp;#187;&amp;#187; &amp;#10;The National is CBC Television's flagship news program. Airing six days a week, the show delivers news, feature documentaries  and analysis from some of Canada's leading journalists."
     channeltitle "CBC News: The National"
     channelid "UCKjU3KzdbJE1EFcHVqXC3_g"
     favcount 0
@@ -487,7 +861,29 @@ graph
     ppprofanity 0.0428281
     ppinflammatory 0.074886926
     sentiment -0.3612
-    cluster 3
+    cluster 4
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -496,7 +892,7 @@ graph
     step 0
     date "2020-11-19T01:00:04Z"
     title "IS THIS PIZZAGATE!? | Full Frontal on TBS"
-    description "Watch the MSNBC exclusive as Katy Tur and Ali Velshi unpack Domino's Pizzagate. &#10;&#10;Watch Full Frontal with Samantha Bee all new Wednesdays at 10:30/ 9:30c on TBS!&#10;&#10;Subscribe: https://www.youtube.com/fullfrontalsamb?sub_confirmation=1&#10;&#10;Follow Full Frontal with Samantha Bee:&#10;Twitter: https://twitter.com/FullFrontalSamB&#10;Facebook: https://www.facebook.com/fullfrontalsamb/&#10;Instagram: https://www.instagram.com/fullfrontalsamb/&#10;&#10;SamBee.com&#10;&#10;#SamanthaBee&#10;#FullFrontalSamB&#10;#Pizzagate"
+    description "Watch the MSNBC exclusive as Katy Tur and Ali Velshi unpack Domino's Pizzagate. &amp;#10;&amp;#10;Watch Full Frontal with Samantha Bee all new Wednesdays at 10:30/ 9:30c on TBS!&amp;#10;&amp;#10;Subscribe: https://www.youtube.com/fullfrontalsamb?sub_confirmation=1&amp;#10;&amp;#10;Follow Full Frontal with Samantha Bee:&amp;#10;Twitter: https://twitter.com/FullFrontalSamB&amp;#10;Facebook: https://www.facebook.com/fullfrontalsamb/&amp;#10;Instagram: https://www.instagram.com/fullfrontalsamb/&amp;#10;&amp;#10;SamBee.com&amp;#10;&amp;#10;#SamanthaBee&amp;#10;#FullFrontalSamB&amp;#10;#Pizzagate"
     channeltitle "Full Frontal with Samantha Bee"
     channelid "UC18vz5hUUqxbGvym9ghtX_w"
     favcount 0
@@ -515,6 +911,28 @@ graph
     ppinflammatory 0.22438893
     sentiment 0
     cluster 6
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -523,7 +941,7 @@ graph
     step 0
     date "2020-09-10T17:53:57Z"
     title "Chrissy Teigen Reveals  Affected Her Mental Health"
-    description "Chrissy Teigen talked about how being the target of conspiracies has taken a took a toll on her mental health and her therapist suggesting she cut back on social media. Watch the latest Clevver News Feed: https://www.youtube.com/watch?v=cDSWgQ-3mMI&#38;list=PLGiKo5lTqUGRGOIH8wmyc8MQFR2u5tOtS&#38;index=109&#10;&#10;Register to Vote: https://www.vote.org/&#10;&#10;Subscribe for more Celebrity News &#9658;&#9658; http://bit.ly/SubClevverNews&#10;&#10;More from Clevver News:&#10;Rumor Patrol: https://www.youtube.com/watch?v=IaJYuD59kDI&#38;list=PLGiKo5lTqUGSo_N7mzfxHtUNUc9Ej1pYl&#10;YouTuber News: https://www.youtube.com/watch?v=Cyv6rDuFwWA&#38;list=PLGiKo5lTqUGTUdMayY4deqUWvnUi1OVqC&#10;Celebrity Lowdown: https://www.youtube.com/watch?v=GKA34Xf61Qo&#38;list=PLGiKo5lTqUGTb8Dxdqse7arOPubV-RHxs&#10;&#10;For More Clevver Visit:&#10;Find us on Facebook: http://facebook.com/clevver&#10;Keep up with us on Instagram: http://instagr.am/Clevver&#10;Follow us on Twitter: http://twitter.com/ClevverTV&#10;&#10;Follow our hosts!&#10;Emile Ennis Jr. @emileennisjr Sussan Mourad @sussan_mourad&#10;&#10;#ChrissyTeigen #JeffreyEpstein #Pizzagate"
+    description "Chrissy Teigen talked about how being the target of conspiracies has taken a took a toll on her mental health and her therapist suggesting she cut back on social media. Watch the latest Clevver News Feed: https://www.youtube.com/watch?v=cDSWgQ-3mMI&amp;#38;list=PLGiKo5lTqUGRGOIH8wmyc8MQFR2u5tOtS&amp;#38;index=109&amp;#10;&amp;#10;Register to Vote: https://www.vote.org/&amp;#10;&amp;#10;Subscribe for more Celebrity News &amp;#9658;&amp;#9658; http://bit.ly/SubClevverNews&amp;#10;&amp;#10;More from Clevver News:&amp;#10;Rumor Patrol: https://www.youtube.com/watch?v=IaJYuD59kDI&amp;#38;list=PLGiKo5lTqUGSo_N7mzfxHtUNUc9Ej1pYl&amp;#10;YouTuber News: https://www.youtube.com/watch?v=Cyv6rDuFwWA&amp;#38;list=PLGiKo5lTqUGTUdMayY4deqUWvnUi1OVqC&amp;#10;Celebrity Lowdown: https://www.youtube.com/watch?v=GKA34Xf61Qo&amp;#38;list=PLGiKo5lTqUGTb8Dxdqse7arOPubV-RHxs&amp;#10;&amp;#10;For More Clevver Visit:&amp;#10;Find us on Facebook: http://facebook.com/clevver&amp;#10;Keep up with us on Instagram: http://instagr.am/Clevver&amp;#10;Follow us on Twitter: http://twitter.com/ClevverTV&amp;#10;&amp;#10;Follow our hosts!&amp;#10;Emile Ennis Jr. @emileennisjr Sussan Mourad @sussan_mourad&amp;#10;&amp;#10;#ChrissyTeigen #JeffreyEpstein #Pizzagate"
     channeltitle "Clevver News"
     channelid "UCQjh-JVPNWfY-KsZS3RgRHw"
     favcount 0
@@ -542,6 +960,28 @@ graph
     ppinflammatory 0.027078021
     sentiment -0.1531
     cluster 2
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -550,7 +990,7 @@ graph
     step 0
     date "2017-05-15T16:09:28Z"
     title "Conspiracy Theories and Fake News from JFK to Pizzagate | Retro Report"
-    description "From the JFK assassination to Pizzagate&#8212;what can conspiracy theories tell us about how we view the world today? Lesson plan for educators: https://bit.ly/RR-conspiracy &#10;&#10;Sign up for a free Retro Report in the Classroom newsletter to receive free teacher resources: http://retroreport.org/educationnewsletters&#10;&#10;Browse through dozens more lesson plans and videos here: https://www.retroreport.org/education/&#10;&#10;CONNECT WITH RETRO REPORT&#10;Website: http://www.retroreport.org&#10;Twitter: https://twitter.com/RetroReport &#10;Facebook: https://www.facebook.com/RetroReport&#10;Instagram: https://www.instagram.com/retroreport&#10;YouTube: http://www.youtube.com/c/RETROREPORT&#10;Retro Report in the Classroom: https://www.retroreport.org/education/&#10;Retro Report Newsletter:  https://www.retroreport.org/newsletters/&#10;&#10;Retro Report is an independent, nonprofit news organization that injects context into today&#8217;s discussions of both current events and history. Learn more at RetroReport.org."
+    description "From the JFK assassination to Pizzagate&amp;#8212;what can conspiracy theories tell us about how we view the world today? Lesson plan for educators: https://bit.ly/RR-conspiracy &amp;#10;&amp;#10;Sign up for a free Retro Report in the Classroom newsletter to receive free teacher resources: http://retroreport.org/educationnewsletters&amp;#10;&amp;#10;Browse through dozens more lesson plans and videos here: https://www.retroreport.org/education/&amp;#10;&amp;#10;CONNECT WITH RETRO REPORT&amp;#10;Website: http://www.retroreport.org&amp;#10;Twitter: https://twitter.com/RetroReport &amp;#10;Facebook: https://www.facebook.com/RetroReport&amp;#10;Instagram: https://www.instagram.com/retroreport&amp;#10;YouTube: http://www.youtube.com/c/RETROREPORT&amp;#10;Retro Report in the Classroom: https://www.retroreport.org/education/&amp;#10;Retro Report Newsletter:  https://www.retroreport.org/newsletters/&amp;#10;&amp;#10;Retro Report is an independent, nonprofit news organization that injects context into today&amp;#8217;s discussions of both current events and history. Learn more at RetroReport.org."
     channeltitle "RETRO REPORT"
     channelid "UCBh_GM0xQZQRKSU0ZiVbqdg"
     favcount 0
@@ -569,6 +1009,28 @@ graph
     ppinflammatory 0.161136
     sentiment -0.7579
     cluster 7
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -577,7 +1039,7 @@ graph
     step 0
     date "2017-03-28T02:45:15Z"
     title "Why Alex Jones Is SOOO SORRY About Pizzagate"
-    description "Alex Jones is suddenly super sorry about that whole Pizzagate thing. What gives? Cenk Uygur, host of The Young Turks, breaks it down. Tell us what you think in the comment section below. http://tytnetwork.com/go&#10;&#10;&#34;Alex Jones, a prominent conspiracy theorist and the host of a popular right-wing radio show, has apologized for helping to spread and promote the hoax known as Pizzagate.&#10;&#10;The admission on Friday by Mr. Jones, the host of &#8220;The Alex Jones Show&#8221; and the operator of the website Infowars, was striking. In addition to promoting the Pizzagate conspiracy theory, he has contended that the Sept. 11 attacks were inside jobs carried out by the United States government and that the 2012 shooting at Sandy Hook Elementary School in Newtown, Conn., was a hoax concocted by those hostile to the Second Amendment.&#10;&#10;The Pizzagate theory, which posited with no evidence that top Democratic officials were involved with a satanic child pornography ring centered around Comet Ping Pong, a pizza restaurant in Washington, D.C., grew in online forums before making its way to more visible venues, including Mr. Jones&#8217;s show. And its prominence after the election drew attention to the proliferation of false and misleading news, much of it politically charged, that circulated on platforms like Facebook, Twitter and YouTube.&#10;&#10;Mr. Jones made the apology to the owner of Comet Ping Pong, James Alefantis, on video, reading from a carefully worded statement that emphasized how widely the theory had spread before he weighed in on it. He said that Infowars had &#8220;disassociated&#8221; itself from the story in December and had taken down the majority of broadcasts and videos that mentioned it. Mr. Jones also said that two reporters the show had worked with &#8220;are no longer with us,&#8221; although he did not identify them or discuss the exact nature of their work with Infowars.&#8221;*&#10;&#10;Read more here: https://www.nytimes.com/2017/03/25/business/alex-jones-pizzagate-apology-comet-ping-pong.html?_r=0&#10;&#10;Hosts: Cenk Uygur&#10;Cast: Cenk Uygur&#10;&#10;***&#10;&#10;The Largest Online News Show in the World. Hosted by Cenk Uygur and Ana Kasparian. LIVE STREAMING weekdays 6-8pm ET. http://www.tytnetwork.com/live&#10;&#10;Young Turk (n), 1. Young progressive or insurgent member of an institution, movement, or political party. 2. Young person who rebels against authority or societal expectations. (American Heritage Dictionary)&#10;&#10;Download audio and video of the full two hour show on-demand + the members-only post game show by becoming a member at http://www.tytnetwork.com/join/. Your membership supports the day to day operations and is vital for our continued success and growth.&#10;&#10;Get The Young Turks Mobile App Today!&#10;&#10;Download the iOS version here: https://itunes.apple.com/us/app/the-young-turks/id412793195?ls=1&#38;mt=8&#10;&#10;Download the Android version here: https://play.google.com/store/apps/details?id=com.tyt"
+    description "Alex Jones is suddenly super sorry about that whole Pizzagate thing. What gives? Cenk Uygur, host of The Young Turks, breaks it down. Tell us what you think in the comment section below. http://tytnetwork.com/go&amp;#10;&amp;#10;&amp;#34;Alex Jones, a prominent conspiracy theorist and the host of a popular right-wing radio show, has apologized for helping to spread and promote the hoax known as Pizzagate.&amp;#10;&amp;#10;The admission on Friday by Mr. Jones, the host of &amp;#8220;The Alex Jones Show&amp;#8221; and the operator of the website Infowars, was striking. In addition to promoting the Pizzagate conspiracy theory, he has contended that the Sept. 11 attacks were inside jobs carried out by the United States government and that the 2012 shooting at Sandy Hook Elementary School in Newtown, Conn., was a hoax concocted by those hostile to the Second Amendment.&amp;#10;&amp;#10;The Pizzagate theory, which posited with no evidence that top Democratic officials were involved with a satanic child pornography ring centered around Comet Ping Pong, a pizza restaurant in Washington, D.C., grew in online forums before making its way to more visible venues, including Mr. Jones&amp;#8217;s show. And its prominence after the election drew attention to the proliferation of false and misleading news, much of it politically charged, that circulated on platforms like Facebook, Twitter and YouTube.&amp;#10;&amp;#10;Mr. Jones made the apology to the owner of Comet Ping Pong, James Alefantis, on video, reading from a carefully worded statement that emphasized how widely the theory had spread before he weighed in on it. He said that Infowars had &amp;#8220;disassociated&amp;#8221; itself from the story in December and had taken down the majority of broadcasts and videos that mentioned it. Mr. Jones also said that two reporters the show had worked with &amp;#8220;are no longer with us,&amp;#8221; although he did not identify them or discuss the exact nature of their work with Infowars.&amp;#8221;*&amp;#10;&amp;#10;Read more here: https://www.nytimes.com/2017/03/25/business/alex-jones-pizzagate-apology-comet-ping-pong.html?_r=0&amp;#10;&amp;#10;Hosts: Cenk Uygur&amp;#10;Cast: Cenk Uygur&amp;#10;&amp;#10;***&amp;#10;&amp;#10;The Largest Online News Show in the World. Hosted by Cenk Uygur and Ana Kasparian. LIVE STREAMING weekdays 6-8pm ET. http://www.tytnetwork.com/live&amp;#10;&amp;#10;Young Turk (n), 1. Young progressive or insurgent member of an institution, movement, or political party. 2. Young person who rebels against authority or societal expectations. (American Heritage Dictionary)&amp;#10;&amp;#10;Download audio and video of the full two hour show on-demand + the members-only post game show by becoming a member at http://www.tytnetwork.com/join/. Your membership supports the day to day operations and is vital for our continued success and growth.&amp;#10;&amp;#10;Get The Young Turks Mobile App Today!&amp;#10;&amp;#10;Download the iOS version here: https://itunes.apple.com/us/app/the-young-turks/id412793195?ls=1&amp;#38;mt=8&amp;#10;&amp;#10;Download the Android version here: https://play.google.com/store/apps/details?id=com.tyt"
     channeltitle "The Young Turks"
     channelid "UC1yBKRuGpC1tSM73A0ZjYjQ"
     favcount 0
@@ -596,6 +1058,28 @@ graph
     ppinflammatory 0.26822284
     sentiment -0.0772
     cluster 2
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -604,7 +1088,7 @@ graph
     step 0
     date "2017-06-04T17:45:29Z"
     title "Eddie Bravos Latest Conspiracy Talk - The Joe Rogan Experience"
-    description "Eddie Bravo going down the conspiracy rabbit hole from the latest Fight Companion. &#10;&#10;Featuring Bryan Callen and Brendan Schaub."
+    description "Eddie Bravo going down the conspiracy rabbit hole from the latest Fight Companion. &amp;#10;&amp;#10;Featuring Bryan Callen and Brendan Schaub."
     channeltitle "JRE Clips"
     channelid "UCnxGkOGNMqQEUMvroOWps6Q"
     favcount 0
@@ -623,6 +1107,28 @@ graph
     ppinflammatory 0.1808639
     sentiment -0.5267
     cluster 8
+    leftright "R"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 1
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 1
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -631,7 +1137,7 @@ graph
     step 0
     date "2016-12-06T14:00:01Z"
     title "Man Shoots Up Pizza Place #Pizzagate"
-    description "An internet conspiracy turned violent after a 28 year old man entered a pizzeria with an assault rifle. &#10;&#10;&#9654;&#65038;&#9654;&#65038; How Much Will Christmas Cost This Year? https://youtu.be/bJ545HMrCkQ&#10;&#10;Watch more videos: https://www.youtube.com/subscription_center?add_user=sourcefed&#10;Check out the SourceFed Podcast! https://www.youtube.com/playlist?list=PL8kma_GjQgWzstdt0DWGn4dddtKybqn06&#10;&#10;Follow Us!&#10;Twitter: http://twitter.com/sourcefed&#10;Facebook: http://on.fb.me/xQDV8M&#10;Snapchat: SourceFedSnaps&#10;Tumblr: http://sourcefed.tumblr.com&#10;&#10;SourceFed Hosts:&#10;@StevenSuptic&#10;@MikeFalzone&#10;&#10;Sources:&#10;http://ti.me/2gvgAEQ&#10;&#10;Edited by:&#10;Danny Conner&#10;&#10;Music By:&#10;@ronaldjenkees, @Hagemeister, Discovery Music Source, APM"
+    description "An internet conspiracy turned violent after a 28 year old man entered a pizzeria with an assault rifle. &amp;#10;&amp;#10;&amp;#9654;&amp;#65038;&amp;#9654;&amp;#65038; How Much Will Christmas Cost This Year? https://youtu.be/bJ545HMrCkQ&amp;#10;&amp;#10;Watch more videos: https://www.youtube.com/subscription_center?add_user=sourcefed&amp;#10;Check out the SourceFed Podcast! https://www.youtube.com/playlist?list=PL8kma_GjQgWzstdt0DWGn4dddtKybqn06&amp;#10;&amp;#10;Follow Us!&amp;#10;Twitter: http://twitter.com/sourcefed&amp;#10;Facebook: http://on.fb.me/xQDV8M&amp;#10;Snapchat: SourceFedSnaps&amp;#10;Tumblr: http://sourcefed.tumblr.com&amp;#10;&amp;#10;SourceFed Hosts:&amp;#10;@StevenSuptic&amp;#10;@MikeFalzone&amp;#10;&amp;#10;Sources:&amp;#10;http://ti.me/2gvgAEQ&amp;#10;&amp;#10;Edited by:&amp;#10;Danny Conner&amp;#10;&amp;#10;Music By:&amp;#10;@ronaldjenkees, @Hagemeister, Discovery Music Source, APM"
     channeltitle "SourceFed"
     channelid "UC_gE-kg7JvuwCNlbZ1-shlA"
     favcount 0
@@ -649,7 +1155,29 @@ graph
     ppprofanity 0.33326784
     ppinflammatory 0.41186318
     sentiment 0
-    cluster 6
+    cluster 4
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -658,7 +1186,7 @@ graph
     step 0
     date "2021-03-03T23:57:26Z"
     title " gunman released from DC jail"
-    description "A North Carolina man who fired an assault rifle inside D.C. restaurant Comey Ping Pong during his investigation of a conspiracy theory dubbed &#34;pizzagate&#34; is released&#10;&#10;&#187; Subscribe to WUSA9: https://bit.ly/2lO8e2F&#10;&#10;FOLLOW US ON SOCIAL MEDIA &#8211;&#10;Twitter: https://twitter.com/wusa9&#10;Facebook: https://www.facebook.com/wusa9&#10;Instagram: https://www.instagram.com/wusa9&#10;&#10;NEWS TIPS &#8211;&#10;Email: newstips@wusa9.com"
+    description "A North Carolina man who fired an assault rifle inside D.C. restaurant Comey Ping Pong during his investigation of a conspiracy theory dubbed &amp;#34;pizzagate&amp;#34; is released&amp;#10;&amp;#10;&amp;#187; Subscribe to WUSA9: https://bit.ly/2lO8e2F&amp;#10;&amp;#10;FOLLOW US ON SOCIAL MEDIA &amp;#8211;&amp;#10;Twitter: https://twitter.com/wusa9&amp;#10;Facebook: https://www.facebook.com/wusa9&amp;#10;Instagram: https://www.instagram.com/wusa9&amp;#10;&amp;#10;NEWS TIPS &amp;#8211;&amp;#10;Email: newstips@wusa9.com"
     channeltitle "WUSA9"
     channelid "UCcT6w3xUyVshyR2_2vrMp1w"
     favcount 0
@@ -677,6 +1205,28 @@ graph
     ppinflammatory 0.18915907
     sentiment 0
     cluster 9
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -685,7 +1235,7 @@ graph
     step 0
     date "2016-12-16T12:17:01Z"
     title "What is Pizzagate? The fake news scandal explained"
-    description "A man claiming to be 'self investigating' the scandal was arrested on 4 December for opening fire at the pizza restaurant in Washington DC, where it was falsely alleged the Clintons run a paedophile ring. But where have these fake accusations originated from?&#10;&#10;For more videos, head over to http://www.ibtimes.co.uk/tv"
+    description "A man claiming to be 'self investigating' the scandal was arrested on 4 December for opening fire at the pizza restaurant in Washington DC, where it was falsely alleged the Clintons run a paedophile ring. But where have these fake accusations originated from?&amp;#10;&amp;#10;For more videos, head over to http://www.ibtimes.co.uk/tv"
     channeltitle "IBTimes UK"
     channelid "UCI1H2wxkvshpCcUNNOEc4Gw"
     favcount 0
@@ -704,6 +1254,28 @@ graph
     ppinflammatory 0.3543013
     sentiment -0.7184
     cluster 7
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -712,7 +1284,7 @@ graph
     step 0
     date "2016-11-21T10:25:29Z"
     title "Kanye West rants about Beyonc, Hillary Clinton and Mark Zuckerberg"
-    description "Kanye West rants about Beyonc&#233;, Jay Z, Hillary Clinton, &#8216;the press&#8217; and Mark Zuckerberg before cutting his concert short in Sacramento, California. The rapper had played only a few songs before ending the show after about 30 minutes.&#10;Subscribe to Guardian Wires &#9658; http://bit.ly/guardianwiressub&#10;&#10;The Guardian &#9658; http://is.gd/guardianyt&#10;Watch Me Date &#9658; http://is.gd/watchmedate&#10;Guardian Football &#9658; http://is.gd/guardianfootball&#10;Guardian Music &#9658; http://is.gd/guardianYTmusic&#10;Guardian Australia &#9658; http://is.gd/guardianaustralia&#10;Guardian Tech &#9658; http://is.gd/guardiantech&#10;Guardian Culture &#9658; http://is.gd/guardianculture&#10;Guardian Food &#9658; http://is.gd/guardianfood"
+    description "Kanye West rants about Beyonc&amp;#233;, Jay Z, Hillary Clinton, &amp;#8216;the press&amp;#8217; and Mark Zuckerberg before cutting his concert short in Sacramento, California. The rapper had played only a few songs before ending the show after about 30 minutes.&amp;#10;Subscribe to Guardian Wires &amp;#9658; http://bit.ly/guardianwiressub&amp;#10;&amp;#10;The Guardian &amp;#9658; http://is.gd/guardianyt&amp;#10;Watch Me Date &amp;#9658; http://is.gd/watchmedate&amp;#10;Guardian Football &amp;#9658; http://is.gd/guardianfootball&amp;#10;Guardian Music &amp;#9658; http://is.gd/guardianYTmusic&amp;#10;Guardian Australia &amp;#9658; http://is.gd/guardianaustralia&amp;#10;Guardian Tech &amp;#9658; http://is.gd/guardiantech&amp;#10;Guardian Culture &amp;#9658; http://is.gd/guardianculture&amp;#10;Guardian Food &amp;#9658; http://is.gd/guardianfood"
     channeltitle "Guardian News"
     channelid "UCIRYBXDze5krPDzAEOxFGVA"
     favcount 0
@@ -730,7 +1302,29 @@ graph
     ppprofanity 0.17582278
     ppinflammatory 0.26953295
     sentiment -0.3182
-    cluster 10
+    cluster 9
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -758,6 +1352,28 @@ graph
     ppinflammatory 0.26643056
     sentiment 0
     cluster 9
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -766,7 +1382,7 @@ graph
     step 0
     date "2016-10-24T16:21:44Z"
     title "Julian Assange Claims the Media is Underreporting the WikiLeaks Podesta Emails | THE CIRCUS"
-    description "Mark Halperin waits outside the Ecuadorian Embassy in London in the hopes of interviewing Julian Assange who later tells an inside man that he believes the US media is underreporting &#34;everything&#34; about the WikiLeaks Podesta emails.&#10;&#10;Subscribe to THE CIRCUS YouTube channel: https://goo.gl/gfoZtd&#10;&#10;Come one, come all to THE CIRCUS: INSIDE THE GREATEST POLITICAL SHOW ON EARTH. This documentary series from SHOWTIME pulls back the curtain on the 2016 presidential race, revealing the intense, inspiring and infuriating stories behind the headlines. Key characters and events from the individual campaigns are presented in real time, as they are happening. Produced in cooperation with Bloomberg Politics, and featuring Bloomberg Politics managing editors Mark Halperin and John Heilemann and noted campaign strategist and media advisor Mark McKinnon, THE CIRCUS is a non-partisan, never-before-attempted take on what promises to be one of the most fascinating and consequential elections in modern history.&#10; &#10;THE CIRCUS will follow multiple individual stories and key characters from the campaigns and capture their unique perspectives in weekly half-hour shows between January and November. With intimate, behind-the-scenes access, cameras will offer viewers a look at what the public rarely sees and explore the high human drama inherent in the pursuit of the Oval Office.&#10; &#10;Mark Halperin and John Heilemann are the Managing Editors of Bloomberg Politics, a multi-platform destination for smart, sophisticated, non-partisan political coverage. Halperin and Heilemann are also the hosts of Bloomberg TV's &#34;With All Due Respect,&#34; where every weeknight they bring their deeply-sourced reporting and access to the Bloomberg audience, including interviews with presidential candidates, elected officials, political strategists, cultural figures, and other newsmakers.&#10; &#10;Mark McKinnon is a political consultant, columnist, and commentator. He was the chief media advisor to five successful presidential primary and general election campaigns, and is a co-founder of No Labels, an organization dedicated to bipartisanship and political problem solving.&#10; &#10;THE CIRCUS: INSIDE THE GREATEST POLITICAL SHOW ON EARTH will be produced by Left/Right (a part of Red Arrow Entertainment Group) for SHOWTIME. Mark Halperin, John Heilemann, Mark McKinnon, Banks Tarver and Ken Druckerman serve as executive producers."
+    description "Mark Halperin waits outside the Ecuadorian Embassy in London in the hopes of interviewing Julian Assange who later tells an inside man that he believes the US media is underreporting &amp;#34;everything&amp;#34; about the WikiLeaks Podesta emails.&amp;#10;&amp;#10;Subscribe to THE CIRCUS YouTube channel: https://goo.gl/gfoZtd&amp;#10;&amp;#10;Come one, come all to THE CIRCUS: INSIDE THE GREATEST POLITICAL SHOW ON EARTH. This documentary series from SHOWTIME pulls back the curtain on the 2016 presidential race, revealing the intense, inspiring and infuriating stories behind the headlines. Key characters and events from the individual campaigns are presented in real time, as they are happening. Produced in cooperation with Bloomberg Politics, and featuring Bloomberg Politics managing editors Mark Halperin and John Heilemann and noted campaign strategist and media advisor Mark McKinnon, THE CIRCUS is a non-partisan, never-before-attempted take on what promises to be one of the most fascinating and consequential elections in modern history.&amp;#10; &amp;#10;THE CIRCUS will follow multiple individual stories and key characters from the campaigns and capture their unique perspectives in weekly half-hour shows between January and November. With intimate, behind-the-scenes access, cameras will offer viewers a look at what the public rarely sees and explore the high human drama inherent in the pursuit of the Oval Office.&amp;#10; &amp;#10;Mark Halperin and John Heilemann are the Managing Editors of Bloomberg Politics, a multi-platform destination for smart, sophisticated, non-partisan political coverage. Halperin and Heilemann are also the hosts of Bloomberg TV's &amp;#34;With All Due Respect,&amp;#34; where every weeknight they bring their deeply-sourced reporting and access to the Bloomberg audience, including interviews with presidential candidates, elected officials, political strategists, cultural figures, and other newsmakers.&amp;#10; &amp;#10;Mark McKinnon is a political consultant, columnist, and commentator. He was the chief media advisor to five successful presidential primary and general election campaigns, and is a co-founder of No Labels, an organization dedicated to bipartisanship and political problem solving.&amp;#10; &amp;#10;THE CIRCUS: INSIDE THE GREATEST POLITICAL SHOW ON EARTH will be produced by Left/Right (a part of Red Arrow Entertainment Group) for SHOWTIME. Mark Halperin, John Heilemann, Mark McKinnon, Banks Tarver and Ken Druckerman serve as executive producers."
     channeltitle "The Circus on SHOWTIME"
     channelid "UClf9TTCrY0CYcewKNUnADLg"
     favcount 0
@@ -784,7 +1400,29 @@ graph
     ppprofanity 0.09897127
     ppinflammatory 0.20032136
     sentiment 0
-    cluster 9
+    cluster 8
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -793,8 +1431,8 @@ graph
     step 0
     date "2020-05-28T16:00:10Z"
     title "ROSAL Travis Scott - TKN (Official Video)"
-    description "ROSAL&#205;A &#38; Travis Scott - &#8220;TKN&#8220; (Official Video) &#10;&#10;Download &#38; Stream &#34;TKN&#34;: https://Rosalia.lnk.to/TKN&#10; &#10;Amazon - https://Rosalia.lnk.to/TKN/amazonmusic&#10;Apple Music - https://Rosalia.lnk.to/TKN/applemusic&#10;Deezer - https://Rosalia.lnk.to/TKN/deezer&#10;iTunes - https://Rosalia.lnk.to/TKN/itunes&#10;Spotify - https://Rosalia.lnk.to/TKN/spotify&#10;YouTube Music -  https://Rosalia.lnk.to/TKN/youtubemusic&#10; &#10;Follow ROSAL&#205;A:&#10;Instagram: https://www.instagram.com/rosalia.vt/&#10;Twitter: https://twitter.com/rosaliavt&#10;Facebook: https://www.facebook.com/rosalia.vt/&#10;Spotify: https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1?autoplay=true&#38;v=A&#10;Official Site: https://www.rosalia.com/&#10; &#10;Follow Travis Scott&#10;Facebook - https://www.facebook.com/travisscottlaflame&#10;Instagram - https://www.instagram.com/travisscott/&#10;Twitter - https://twitter.com/trvisXX&#10;&#10;Directed by Nicol&#225;s M&#233;ndez aka CANADA&#10;Produced by CANADA in collaboration with The Directors Bureau&#10;MD/EP CANADA: Oscar Romagosa&#10;MD/EP TDB: Lisa Margulis&#10;Producer: Laura Serra Estorch&#10;Line Producer Los Angeles: Cristina Trenas &#10;Head of Production CANADA: Alba Barneda&#10;Head of Production TDB: Elizabeth Minzes&#10;Director of Photography: Stuart Winecoff &#10;Production Designer: Brielle Hubert &#10;Production Supervisor: Stephen Predisik&#10;1st AD: Ferran Rial&#10;Stylist Rosal&#237;a: Samantha Burkhart&#10;Stylist: Chloe and Chenelle Delgadillo&#10;Choreographer: Charm La'Donna &#10;Make-Up Artist Rosal&#237;a: Ariel&#10;Hair Artist Rosal&#237;a: Jesus Guerrero&#10;Make-Up Artist: Rasheeda Raines&#10;Casting: Sarah-May Levy&#10;Editor: Nicol&#225;s M&#233;ndez / Carlos Font Clos&#10;Post Production: &#193;lvaro Posadas / EIGHTY4&#10;Color Grading: Michael Rossiter @ The Mill&#10;Post Production Producer: Marina Mart&#237;nez Campomanes&#10; &#10;#ROSAL&#205;A #TRAVISSCOTT #TKN"
-    channeltitle "ROSAL&#205;A"
+    description "ROSAL&amp;#205;A &amp;#38; Travis Scott - &amp;#8220;TKN&amp;#8220; (Official Video) &amp;#10;&amp;#10;Download &amp;#38; Stream &amp;#34;TKN&amp;#34;: https://Rosalia.lnk.to/TKN&amp;#10; &amp;#10;Amazon - https://Rosalia.lnk.to/TKN/amazonmusic&amp;#10;Apple Music - https://Rosalia.lnk.to/TKN/applemusic&amp;#10;Deezer - https://Rosalia.lnk.to/TKN/deezer&amp;#10;iTunes - https://Rosalia.lnk.to/TKN/itunes&amp;#10;Spotify - https://Rosalia.lnk.to/TKN/spotify&amp;#10;YouTube Music -  https://Rosalia.lnk.to/TKN/youtubemusic&amp;#10; &amp;#10;Follow ROSAL&amp;#205;A:&amp;#10;Instagram: https://www.instagram.com/rosalia.vt/&amp;#10;Twitter: https://twitter.com/rosaliavt&amp;#10;Facebook: https://www.facebook.com/rosalia.vt/&amp;#10;Spotify: https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1?autoplay=true&amp;#38;v=A&amp;#10;Official Site: https://www.rosalia.com/&amp;#10; &amp;#10;Follow Travis Scott&amp;#10;Facebook - https://www.facebook.com/travisscottlaflame&amp;#10;Instagram - https://www.instagram.com/travisscott/&amp;#10;Twitter - https://twitter.com/trvisXX&amp;#10;&amp;#10;Directed by Nicol&amp;#225;s M&amp;#233;ndez aka CANADA&amp;#10;Produced by CANADA in collaboration with The Directors Bureau&amp;#10;MD/EP CANADA: Oscar Romagosa&amp;#10;MD/EP TDB: Lisa Margulis&amp;#10;Producer: Laura Serra Estorch&amp;#10;Line Producer Los Angeles: Cristina Trenas &amp;#10;Head of Production CANADA: Alba Barneda&amp;#10;Head of Production TDB: Elizabeth Minzes&amp;#10;Director of Photography: Stuart Winecoff &amp;#10;Production Designer: Brielle Hubert &amp;#10;Production Supervisor: Stephen Predisik&amp;#10;1st AD: Ferran Rial&amp;#10;Stylist Rosal&amp;#237;a: Samantha Burkhart&amp;#10;Stylist: Chloe and Chenelle Delgadillo&amp;#10;Choreographer: Charm La'Donna &amp;#10;Make-Up Artist Rosal&amp;#237;a: Ariel&amp;#10;Hair Artist Rosal&amp;#237;a: Jesus Guerrero&amp;#10;Make-Up Artist: Rasheeda Raines&amp;#10;Casting: Sarah-May Levy&amp;#10;Editor: Nicol&amp;#225;s M&amp;#233;ndez / Carlos Font Clos&amp;#10;Post Production: &amp;#193;lvaro Posadas / EIGHTY4&amp;#10;Color Grading: Michael Rossiter @ The Mill&amp;#10;Post Production Producer: Marina Mart&amp;#237;nez Campomanes&amp;#10; &amp;#10;#ROSAL&amp;#205;A #TRAVISSCOTT #TKN"
+    channeltitle "ROSAL&amp;#205;A"
     channelid "UCQt9awGIFZeldFsATZNeJag"
     favcount 0
     viewcount 211813938
@@ -811,7 +1449,29 @@ graph
     ppprofanity 0.18313
     ppinflammatory 0.08786968
     sentiment 0
-    cluster 9
+    cluster 8
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -820,7 +1480,7 @@ graph
     step 0
     date "2022-03-16T15:31:00Z"
     title "Disney employees, retired judge among arrested in investigation focusing on human trafficking"
-    description "Polk County Sheriff Grady Judd discussed more than 100 arrests made during an undercover operation that in part focused on human trafficking, according to the agency. &#13;&#10;&#13;&#10;Out of all 108 arrests, one person was charged with human trafficking. &#13;&#10;&#13;&#10;According to the sheriff's office, 32-year-old Tiffany Nash was arrested for trafficking another woman. Deputies say they learned Nash repeatedly threatened violence against the woman, who is an adult if she didn't prostitute herself. &#13;&#10;&#13;&#10;Deputies say Nash would take all the money the woman got from her prostitution. Nash was arrested and charged with human trafficking, deriving proceeds from prostitution, possession of cocaine, possession of methamphetamine and possession of drug paraphernalia. &#13;&#10;&#13;&#10;Judd said Wednesday Nash was a manager of a KFC in Orlando. &#13;&#10;&#13;&#10;&#34;Now I just don't believe I'd want any finger-licking good chicken that she touched,&#34; Judd said.&#13;&#10;&#13;&#10;The sheriff's office says the woman victimized was provided assistance from Selah Freedom of Sarasota."
+    description "Polk County Sheriff Grady Judd discussed more than 100 arrests made during an undercover operation that in part focused on human trafficking, according to the agency. &amp;#13;&amp;#10;&amp;#13;&amp;#10;Out of all 108 arrests, one person was charged with human trafficking. &amp;#13;&amp;#10;&amp;#13;&amp;#10;According to the sheriff's office, 32-year-old Tiffany Nash was arrested for trafficking another woman. Deputies say they learned Nash repeatedly threatened violence against the woman, who is an adult if she didn't prostitute herself. &amp;#13;&amp;#10;&amp;#13;&amp;#10;Deputies say Nash would take all the money the woman got from her prostitution. Nash was arrested and charged with human trafficking, deriving proceeds from prostitution, possession of cocaine, possession of methamphetamine and possession of drug paraphernalia. &amp;#13;&amp;#10;&amp;#13;&amp;#10;Judd said Wednesday Nash was a manager of a KFC in Orlando. &amp;#13;&amp;#10;&amp;#13;&amp;#10;&amp;#34;Now I just don't believe I'd want any finger-licking good chicken that she touched,&amp;#34; Judd said.&amp;#13;&amp;#10;&amp;#13;&amp;#10;The sheriff's office says the woman victimized was provided assistance from Selah Freedom of Sarasota."
     channeltitle "10 Tampa Bay"
     channelid "UCMYlXK0jyerVnc3dmz-vjCA"
     favcount 0
@@ -838,7 +1498,29 @@ graph
     ppprofanity 0.105717145
     ppinflammatory 0.43768257
     sentiment -0.4767
-    cluster 1
+    cluster 3
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -847,7 +1529,7 @@ graph
     step 0
     date "2017-05-25T12:31:11Z"
     title "Pizzagate - Boiler Room Moments"
-    description "&#9658; Skipping lunch&#10;&#9658; Subscribe to our YT channel: http://blrrm.tv/YT"
+    description "&amp;#9658; Skipping lunch&amp;#10;&amp;#9658; Subscribe to our YT channel: http://blrrm.tv/YT"
     channeltitle "Boiler Room"
     channelid "UCGBpxWJr9FNOcFYA5GkKrMg"
     favcount 0
@@ -866,6 +1548,28 @@ graph
     ppinflammatory 0.26929265
     sentiment 0
     cluster 9
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -874,7 +1578,7 @@ graph
     step 0
     date "2016-12-01T17:25:58Z"
     title "#PizzaGate Everything You Need To Know About"
-    description "What is Pizzagate?  This is a video about everything you need to know about Pizzagate and who might be involved.  &#10;&#10;&#10;NEW Merch Store- &#10; https://goo.gl/YxJd9R&#10;&#10;Subscribe To Inform Overload:&#10;https://www.youtube.com/user/InformOverload&#10;------------------------------------&#10;STORY LINK:&#10;------------------------------------&#10;&#10;MAIL US SOMETHING:&#10;&#10;P.O BOX # 14015&#10;2408 Lakeshore Blvd W. &#10;Etobicoke, On M8V4A2&#10;------------------------------------&#10;&#10;CONNECT WITH US:&#10;&#10;Instagram: http://instagram.com/informoverload&#10;Twitter: https://twitter.com/InformOverload&#10;Facebook: https://www.facebook.com/InformOverload&#10;Website: http://www.informoverload.com&#10;iO T-Shirts: http://iostore.spreadshirt.com&#10;------------------------------------&#10;&#10;IN THIS VIDEO:&#10;Charlotte Dobre: http://instagram.com/charlaychaplin&#10;------------------------------------&#10;&#10;VIDEO EDITED BY:&#10;Theresa Morozovitch: http://instagram.com/tessatv999"
+    description "What is Pizzagate?  This is a video about everything you need to know about Pizzagate and who might be involved.  &amp;#10;&amp;#10;&amp;#10;NEW Merch Store- &amp;#10; https://goo.gl/YxJd9R&amp;#10;&amp;#10;Subscribe To Inform Overload:&amp;#10;https://www.youtube.com/user/InformOverload&amp;#10;------------------------------------&amp;#10;STORY LINK:&amp;#10;------------------------------------&amp;#10;&amp;#10;MAIL US SOMETHING:&amp;#10;&amp;#10;P.O BOX # 14015&amp;#10;2408 Lakeshore Blvd W. &amp;#10;Etobicoke, On M8V4A2&amp;#10;------------------------------------&amp;#10;&amp;#10;CONNECT WITH US:&amp;#10;&amp;#10;Instagram: http://instagram.com/informoverload&amp;#10;Twitter: https://twitter.com/InformOverload&amp;#10;Facebook: https://www.facebook.com/InformOverload&amp;#10;Website: http://www.informoverload.com&amp;#10;iO T-Shirts: http://iostore.spreadshirt.com&amp;#10;------------------------------------&amp;#10;&amp;#10;IN THIS VIDEO:&amp;#10;Charlotte Dobre: http://instagram.com/charlaychaplin&amp;#10;------------------------------------&amp;#10;&amp;#10;VIDEO EDITED BY:&amp;#10;Theresa Morozovitch: http://instagram.com/tessatv999"
     channeltitle "InformOverload"
     channelid "UC-NINtNMPM75eaqh07RCy_Q"
     favcount 0
@@ -892,7 +1596,29 @@ graph
     ppprofanity 0.037404776
     ppinflammatory 0.17667809
     sentiment 0
-    cluster 6
+    cluster 4
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -901,8 +1627,8 @@ graph
     step 0
     date "2021-10-02T19:38:37Z"
     title "TODO sobre PIZZAGATE: n Ep.9"
-    description "PIZZAGATE &#191;&#161;Acaso Hillary Clinton su gabinete y lo dem&#243;cratas son parte de una red de p*dofil&#161;a que utiliza la sangre de los ni&#241;os y el satanismo!? &#191;&#191;&#191;Por qu&#233; la elite de p*dof&#161;los de lo Estados Unidos unen a Justin Bieber con Tom Hanks, Steven Spielberg, Jeffrey Epstein y Los Clinton???&#10;&#10;0:00 Introducci&#243;n&#10;0:57 El origen de esta FALSEDAD&#10;4:27 Los correos del gabinete de Hillary Clinton&#10;6:44 Comet Ping Pong&#10;13:20 Los Podesta&#10;14:05 El arte de Biljana djurdjevic&#10;14:52 Marina Abramovi&#263;&#10;17:57 Yummy de Justin Bieber&#10;21:10 Anonymous&#10;22:44 Las declaraciones de Isaac Kappy&#10;23:58 El Instagram de Tom Hanks&#10;25:19 Adrenocromo&#10;27:02 El Satanismo y los Clinton&#10;28:19 Los casos reales&#10;31:27 Jeffrey Epstein&#10;35:15 Acoso S*xu4l en Hollywood&#10;36:51 La verdadera cara del tr&#225;fico de menores&#10;38:42 La Apofenia&#10;40:02 QAnon&#10;43:08 La era de la POSVERDAD&#10;45:36 Conclusiones sobre PIZZAGATE&#10;&#10;Ap&#243;yanos en Patreon: https://www.patreon.com/TecitoDeCalzon&#10;S&#237;guenos en Instagram: https://www.instagram.com/tecitodecalzon/&#10;Aqu&#237; el Facebook: https://www.facebook.com/TecitodeCalzon&#10;Leenos en Twitter: https://twitter.com/TecitodeCalzon&#10;&#10;#Podcast #TecitoDeCalz&#243;n&#10;Italupe: https://www.instagram.com/italups/&#10;Mar (Dama G): https://www.instagram.com/damag_g/ | https://www.youtube.com/c/damaG |  https://www.tiktok.com/@damag_&#10;Sly / Amapola:  https://www.instagram.com/slylolo/ | https://www.instagram.com/rose.amapola/"
-    channeltitle "Tecito de calz&#243;n"
+    description "PIZZAGATE &amp;#191;&amp;#161;Acaso Hillary Clinton su gabinete y lo dem&amp;#243;cratas son parte de una red de p*dofil&amp;#161;a que utiliza la sangre de los ni&amp;#241;os y el satanismo!? &amp;#191;&amp;#191;&amp;#191;Por qu&amp;#233; la elite de p*dof&amp;#161;los de lo Estados Unidos unen a Justin Bieber con Tom Hanks, Steven Spielberg, Jeffrey Epstein y Los Clinton???&amp;#10;&amp;#10;0:00 Introducci&amp;#243;n&amp;#10;0:57 El origen de esta FALSEDAD&amp;#10;4:27 Los correos del gabinete de Hillary Clinton&amp;#10;6:44 Comet Ping Pong&amp;#10;13:20 Los Podesta&amp;#10;14:05 El arte de Biljana djurdjevic&amp;#10;14:52 Marina Abramovi&amp;#263;&amp;#10;17:57 Yummy de Justin Bieber&amp;#10;21:10 Anonymous&amp;#10;22:44 Las declaraciones de Isaac Kappy&amp;#10;23:58 El Instagram de Tom Hanks&amp;#10;25:19 Adrenocromo&amp;#10;27:02 El Satanismo y los Clinton&amp;#10;28:19 Los casos reales&amp;#10;31:27 Jeffrey Epstein&amp;#10;35:15 Acoso S*xu4l en Hollywood&amp;#10;36:51 La verdadera cara del tr&amp;#225;fico de menores&amp;#10;38:42 La Apofenia&amp;#10;40:02 QAnon&amp;#10;43:08 La era de la POSVERDAD&amp;#10;45:36 Conclusiones sobre PIZZAGATE&amp;#10;&amp;#10;Ap&amp;#243;yanos en Patreon: https://www.patreon.com/TecitoDeCalzon&amp;#10;S&amp;#237;guenos en Instagram: https://www.instagram.com/tecitodecalzon/&amp;#10;Aqu&amp;#237; el Facebook: https://www.facebook.com/TecitodeCalzon&amp;#10;Leenos en Twitter: https://twitter.com/TecitodeCalzon&amp;#10;&amp;#10;#Podcast #TecitoDeCalz&amp;#243;n&amp;#10;Italupe: https://www.instagram.com/italups/&amp;#10;Mar (Dama G): https://www.instagram.com/damag_g/ | https://www.youtube.com/c/damaG |  https://www.tiktok.com/@damag_&amp;#10;Sly / Amapola:  https://www.instagram.com/slylolo/ | https://www.instagram.com/rose.amapola/"
+    channeltitle "Tecito de calz&amp;#243;n"
     channelid "UCsjOg1zGLOSJj4B_Ax04wqw"
     favcount 0
     viewcount 309830
@@ -919,7 +1645,29 @@ graph
     ppprofanity 0.27774218
     ppinflammatory 0.01942586
     sentiment 0
-    cluster 10
+    cluster 7
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -928,7 +1676,7 @@ graph
     step 0
     date "2017-02-01T14:02:06Z"
     title "Peeew #377: The #Pizzagate connection to Michael Alig"
-    description "Michael Alig and Ernie Glam discuss another video linking Michael to Pizzagate, James Alefantis and a child molestation ring.&#10;Still feeling unsatisfied?&#160;&#10;Wanting more?&#160;&#10;Wring out every last drop of stinky Peeew-ness by following us on social media:&#10;Follow Michael Alig at:&#10;https://twitter.com/Alig_Aligula&#10;https://www.facebook.com/TheRealMichaelAlig&#10;https://www.instagram.com/michaeltalig/&#10;http://www.michaelalig.com&#10;Follow Ernie Glam at:&#10;https://twitter.com/ErnieGlam&#10;https://www.facebook.com/ernieglam&#10;http://www.projectxarchive.com/&#10;https://www.instagram.com/erniejourno/&#10;Who the hell do Michael Alig and Ernie Glam think they are? Michael Alig spearheaded a countercultural youth movement based on the concept of the Warholian &#34;anti-Celebrity&#34; and became King of the Club Kids before inspiring the film Party Monster, starring Macaulay Culkin. He is currently painting masterpieces of artwork; working on his autobiography, Aligula; designing a club kid-inspired clothing line called Skroddleface; directing a NYC art collective called Countdown and recording a new dance single. One of the original club kids, Ernie Glam is a journalist and irreverent talk show host by day, Underground clothing designer and stylist-to-the-stars by night; catch him - -if you can get past the red velvet ropes -- at the city's hottest nightclubs and parties.&#10;Shop at AligMart for all your club kid merchandising needs! http://www.michaelalig.com/shop&#10;Buy Ernie&#8217;s new book 69 Hangovers at https://www.createspace.com/6578567"
+    description "Michael Alig and Ernie Glam discuss another video linking Michael to Pizzagate, James Alefantis and a child molestation ring.&amp;#10;Still feeling unsatisfied?&amp;#160;&amp;#10;Wanting more?&amp;#160;&amp;#10;Wring out every last drop of stinky Peeew-ness by following us on social media:&amp;#10;Follow Michael Alig at:&amp;#10;https://twitter.com/Alig_Aligula&amp;#10;https://www.facebook.com/TheRealMichaelAlig&amp;#10;https://www.instagram.com/michaeltalig/&amp;#10;http://www.michaelalig.com&amp;#10;Follow Ernie Glam at:&amp;#10;https://twitter.com/ErnieGlam&amp;#10;https://www.facebook.com/ernieglam&amp;#10;http://www.projectxarchive.com/&amp;#10;https://www.instagram.com/erniejourno/&amp;#10;Who the hell do Michael Alig and Ernie Glam think they are? Michael Alig spearheaded a countercultural youth movement based on the concept of the Warholian &amp;#34;anti-Celebrity&amp;#34; and became King of the Club Kids before inspiring the film Party Monster, starring Macaulay Culkin. He is currently painting masterpieces of artwork; working on his autobiography, Aligula; designing a club kid-inspired clothing line called Skroddleface; directing a NYC art collective called Countdown and recording a new dance single. One of the original club kids, Ernie Glam is a journalist and irreverent talk show host by day, Underground clothing designer and stylist-to-the-stars by night; catch him - -if you can get past the red velvet ropes -- at the city's hottest nightclubs and parties.&amp;#10;Shop at AligMart for all your club kid merchandising needs! http://www.michaelalig.com/shop&amp;#10;Buy Ernie&amp;#8217;s new book 69 Hangovers at https://www.createspace.com/6578567"
     channeltitle "Peeew!"
     channelid "UCaEtb-aE5pqGtJWvnf5H8tg"
     favcount 0
@@ -946,7 +1694,29 @@ graph
     ppprofanity 0.13893974
     ppinflammatory 0.04428537
     sentiment 0
-    cluster 4
+    cluster 1
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -955,8 +1725,8 @@ graph
     step 0
     date "2020-06-07T14:23:12Z"
     title "HABLEMOS DE LA VERDAD DEL PIZZAGATE Y DEL VIDEOCLIP DE JUSTIN BIEBER"
-    description "Despu&#233;s del v&#237;deo sobre Anonymous, me hab&#233;is avasallado para que hable del Pizzagate y de todo lo que comporta. Aqu&#237; ten&#233;is el v&#237;deo.&#10;&#10;Suscr&#237;bete a mi podcast: https://www.youtube.com/c/thewildproject&#10;Sigue The Wild Project en: &#10;&#128266; SPOTIFY: https://spoti.fi/3cA2lfy&#10;&#128266; Ivoox: https://bit.ly/3cBPxoV&#10;&#128266; Apple Podcast: https://apple.co/2ILx6Rf&#10;&#10;&#161;Mi marca de ropa! &#8594; https://wildstylestore.com&#10;Mi web &#8594; http://www.jordiwild.com&#10;&#10;TWITTER: &#10;https://twitter.com/JordiWild | @jordiwild&#10;FACEBOOK: &#10;https://www.facebook.com/ElRinconDeGiorgioOficial&#10;INSTAGRAM: http://instagram.com/jordiwild8&#10;---&#10;M&#193;S GAMEPLAYS: https://www.youtube.com/playlist?list=PLPE3mJyT3rhXF8gAm0mJkV6clTBv72Gk1&#10;&#10;M&#193;S LOCURAS M&#205;AS: https://www.youtube.com/playlist?list=PLPE3mJyT3rhXfXoT3hc_DgS5Q9sUh9Gqa"
-    channeltitle "El Rinc&#243;n De Giorgio"
+    description "Despu&amp;#233;s del v&amp;#237;deo sobre Anonymous, me hab&amp;#233;is avasallado para que hable del Pizzagate y de todo lo que comporta. Aqu&amp;#237; ten&amp;#233;is el v&amp;#237;deo.&amp;#10;&amp;#10;Suscr&amp;#237;bete a mi podcast: https://www.youtube.com/c/thewildproject&amp;#10;Sigue The Wild Project en: &amp;#10;&amp;#128266; SPOTIFY: https://spoti.fi/3cA2lfy&amp;#10;&amp;#128266; Ivoox: https://bit.ly/3cBPxoV&amp;#10;&amp;#128266; Apple Podcast: https://apple.co/2ILx6Rf&amp;#10;&amp;#10;&amp;#161;Mi marca de ropa! &amp;#8594; https://wildstylestore.com&amp;#10;Mi web &amp;#8594; http://www.jordiwild.com&amp;#10;&amp;#10;TWITTER: &amp;#10;https://twitter.com/JordiWild | @jordiwild&amp;#10;FACEBOOK: &amp;#10;https://www.facebook.com/ElRinconDeGiorgioOficial&amp;#10;INSTAGRAM: http://instagram.com/jordiwild8&amp;#10;---&amp;#10;M&amp;#193;S GAMEPLAYS: https://www.youtube.com/playlist?list=PLPE3mJyT3rhXF8gAm0mJkV6clTBv72Gk1&amp;#10;&amp;#10;M&amp;#193;S LOCURAS M&amp;#205;AS: https://www.youtube.com/playlist?list=PLPE3mJyT3rhXfXoT3hc_DgS5Q9sUh9Gqa"
+    channeltitle "El Rinc&amp;#243;n De Giorgio"
     channelid "UCDZsyOkn-WTiTwgAvZSQ_cg"
     favcount 0
     viewcount 2058707
@@ -974,6 +1744,28 @@ graph
     ppinflammatory 0.0050794254
     sentiment 0
     cluster 7
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -982,7 +1774,7 @@ graph
     step 0
     date "2020-06-01T19:48:35Z"
     title "Anonymous revela nuevos datos del Pizzagate! | Noticias con Yuriria Sierra"
-    description "#Anonymous reapareci&#243; y revel&#243; una lista de personalidades relacionadas con una red de tr&#225;fico de menores. &#10;&#10;Visita nuestro sitio web: http://www.imagentv.com&#10;&#10;No te pierdas Imagen Noticias con Yuriria Sierra de lunes a viernes en punto de las 2:00 pm por Imagen Televisi&#243;n.&#10;&#10;S&#237;guenos en nuestras redes sociales:&#10;&#10;Facebook:&#10;https://www.facebook.com/ImagenTVNoticia&#10; https://www.facebook.com/ImagenYuri/&#10;&#10;Twitter:&#10;@ImagenTVMex    https://twitter.com/ImagenTVMex&#10;@ImagenYuri    https://twitter.com/imagenYuri&#10;&#10;Aqu&#237; encontrar&#225;s la mejor informaci&#243;n nacional e internacional de Imagen Noticias con Francisco Zea, Yuriria Sierra, Ciro G&#243;mez Leyva y De Pisa y Corre con Nacho Lozano.&#10;&#10;&#161;D&#233;janos tus comentarios, da like, comparte y suscr&#237;bete!"
+    description "#Anonymous reapareci&amp;#243; y revel&amp;#243; una lista de personalidades relacionadas con una red de tr&amp;#225;fico de menores. &amp;#10;&amp;#10;Visita nuestro sitio web: http://www.imagentv.com&amp;#10;&amp;#10;No te pierdas Imagen Noticias con Yuriria Sierra de lunes a viernes en punto de las 2:00 pm por Imagen Televisi&amp;#243;n.&amp;#10;&amp;#10;S&amp;#237;guenos en nuestras redes sociales:&amp;#10;&amp;#10;Facebook:&amp;#10;https://www.facebook.com/ImagenTVNoticia&amp;#10; https://www.facebook.com/ImagenYuri/&amp;#10;&amp;#10;Twitter:&amp;#10;@ImagenTVMex    https://twitter.com/ImagenTVMex&amp;#10;@ImagenYuri    https://twitter.com/imagenYuri&amp;#10;&amp;#10;Aqu&amp;#237; encontrar&amp;#225;s la mejor informaci&amp;#243;n nacional e internacional de Imagen Noticias con Francisco Zea, Yuriria Sierra, Ciro G&amp;#243;mez Leyva y De Pisa y Corre con Nacho Lozano.&amp;#10;&amp;#10;&amp;#161;D&amp;#233;janos tus comentarios, da like, comparte y suscr&amp;#237;bete!"
     channeltitle "Imagen Noticias"
     channelid "UCcHtke0raf8vNYLM1Hbq3Jw"
     favcount 0
@@ -1000,7 +1792,29 @@ graph
     ppprofanity 0.15721616
     ppinflammatory 0.05946639
     sentiment 0
-    cluster 10
+    cluster 9
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -1009,7 +1823,7 @@ graph
     step 0
     date "2020-12-03T10:08:38Z"
     title "Pizzagate"
-    description "Provided to YouTube by Joe Robot Records&#10;&#10;Pizzagate &#183; The Network&#10;&#10;Money Money 2020 Pt II: We Told Ya So!&#10;&#10;&#8471; 2020 Joe Robot Records&#10;&#10;Auto-generated by YouTube."
+    description "Provided to YouTube by Joe Robot Records&amp;#10;&amp;#10;Pizzagate &amp;#183; The Network&amp;#10;&amp;#10;Money Money 2020 Pt II: We Told Ya So!&amp;#10;&amp;#10;&amp;#8471; 2020 Joe Robot Records&amp;#10;&amp;#10;Auto-generated by YouTube."
     channeltitle "The Network - Topic"
     channelid "UCxEX9jqDkIyOENos7Kiz5mA"
     favcount 0
@@ -1028,6 +1842,28 @@ graph
     ppinflammatory 0.17739935
     sentiment 0
     cluster 2
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -1036,7 +1872,7 @@ graph
     step 0
     date "2020-01-25T19:00:01Z"
     title "Yo era amigo de Pizzagate...  y..."
-    description "Si quieres entrar en un grupo conmigo &#9658; http://www.patreon.com/DalasReview&#10;&#128293; Mi equipo &#128293;&#10;Mi c&#225;mara &#128247; &#10;https://amzn.to/36ribFF&#10;Lente de mi c&#225;mara &#128247;&#10;https://amzn.to/2qxDG8b&#10;Mi croma &#127823;&#10;https://amzn.to/2DZJQRD&#10;Mi conector c&#225;mara - ordenador &#128268;&#10;https://amzn.to/344RQLE"
+    description "Si quieres entrar en un grupo conmigo &amp;#9658; http://www.patreon.com/DalasReview&amp;#10;&amp;#128293; Mi equipo &amp;#128293;&amp;#10;Mi c&amp;#225;mara &amp;#128247; &amp;#10;https://amzn.to/36ribFF&amp;#10;Lente de mi c&amp;#225;mara &amp;#128247;&amp;#10;https://amzn.to/2qxDG8b&amp;#10;Mi croma &amp;#127823;&amp;#10;https://amzn.to/2DZJQRD&amp;#10;Mi conector c&amp;#225;mara - ordenador &amp;#128268;&amp;#10;https://amzn.to/344RQLE"
     channeltitle "Dalas Review"
     channelid "UCgRr2pZaGeaZVN6LfbvQk9w"
     favcount 0
@@ -1054,7 +1890,29 @@ graph
     ppprofanity 0.1747364
     ppinflammatory 0.08396401
     sentiment 0
-    cluster 10
+    cluster 7
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -1063,7 +1921,7 @@ graph
     step 0
     date "2022-03-24T22:45:02Z"
     title "The Most INSANE Pizzagate Theory EVER"
-    description "Is this the most insane conspiracy theory yet? Adrienne Lawrence and Ben Carollo discuss on Indisputable. Tell us what you think in the comments below. &#10;&#10;Full video here: https://twitter.com/RightWingWatch/status/1506996454774161414&#10;&#10;*** &#10;&#10;Indisputable, features Dr. Richey talking about the top news stories of the day, reading viewer comments, and engaging in debates and conversations with guests.&#10;&#10;Help support our mission and get perks. Membership protects TYT's independence from corporate ownership and allows us to provide free live shows that speak truth to power for people around the world. See Perks: &#9654; https://www.youtube.com/TheYoungTurks/join&#10;&#10;&#10;SUBSCRIBE on YOUTUBE: &#9758; http://www.youtube.com/IndisputableTYT&#10;FACEBOOK: &#9758; http://www.facebook.com/IndisputableTYT&#10;TWITTER: &#9758; http://www.twitter.com/IndisputableTYT&#10;INSTAGRAM: &#9758; http://www.instagram.com/IndisputableTYT&#10;TWITCH: &#9758; http://www.twitch.com/tyt&#10;&#10;&#128085; Merch: http://shoptyt.com&#10;&#10;&#10084; Donate: http://www.tyt.com/go&#10;&#10;&#128279; Website: https://www.tyt.com&#10;&#10;&#128241;App: http://www.tyt.com/app&#10;&#10;&#128236; Newsletters: https://www.tyt.com/newsletters/&#10;&#10;&#10;If you want to watch more videos from TYT, consider subscribing to other channels in our network:&#10;&#10;&#10;The Young Turks &#9654; https://www.youtube.com/theyoungturks&#10;&#10;The Damage Report &#9654; https://www.youtube.com/thedamagereport&#10;&#10;TYT Sports &#9654; https://www.youtube.com/tytsports&#10;&#10;The Conversation &#9654; https://www.youtube.com/tytconversation&#10;&#10;Rebel HQ &#9654; https://www.youtube.com/rebelhq&#10;&#10;TYT Investigates &#9654; https://www.youtube.com/channel/UCwNJt9PYyN1uyw2XhNIQMMA&#10;&#10;&#10;#TYT #IndisputableTYT #News&#10;&#10;220324__ID06MostInsane"
+    description "Is this the most insane conspiracy theory yet? Adrienne Lawrence and Ben Carollo discuss on Indisputable. Tell us what you think in the comments below. &amp;#10;&amp;#10;Full video here: https://twitter.com/RightWingWatch/status/1506996454774161414&amp;#10;&amp;#10;*** &amp;#10;&amp;#10;Indisputable, features Dr. Richey talking about the top news stories of the day, reading viewer comments, and engaging in debates and conversations with guests.&amp;#10;&amp;#10;Help support our mission and get perks. Membership protects TYT's independence from corporate ownership and allows us to provide free live shows that speak truth to power for people around the world. See Perks: &amp;#9654; https://www.youtube.com/TheYoungTurks/join&amp;#10;&amp;#10;&amp;#10;SUBSCRIBE on YOUTUBE: &amp;#9758; http://www.youtube.com/IndisputableTYT&amp;#10;FACEBOOK: &amp;#9758; http://www.facebook.com/IndisputableTYT&amp;#10;TWITTER: &amp;#9758; http://www.twitter.com/IndisputableTYT&amp;#10;INSTAGRAM: &amp;#9758; http://www.instagram.com/IndisputableTYT&amp;#10;TWITCH: &amp;#9758; http://www.twitch.com/tyt&amp;#10;&amp;#10;&amp;#128085; Merch: http://shoptyt.com&amp;#10;&amp;#10;&amp;#10084; Donate: http://www.tyt.com/go&amp;#10;&amp;#10;&amp;#128279; Website: https://www.tyt.com&amp;#10;&amp;#10;&amp;#128241;App: http://www.tyt.com/app&amp;#10;&amp;#10;&amp;#128236; Newsletters: https://www.tyt.com/newsletters/&amp;#10;&amp;#10;&amp;#10;If you want to watch more videos from TYT, consider subscribing to other channels in our network:&amp;#10;&amp;#10;&amp;#10;The Young Turks &amp;#9654; https://www.youtube.com/theyoungturks&amp;#10;&amp;#10;The Damage Report &amp;#9654; https://www.youtube.com/thedamagereport&amp;#10;&amp;#10;TYT Sports &amp;#9654; https://www.youtube.com/tytsports&amp;#10;&amp;#10;The Conversation &amp;#9654; https://www.youtube.com/tytconversation&amp;#10;&amp;#10;Rebel HQ &amp;#9654; https://www.youtube.com/rebelhq&amp;#10;&amp;#10;TYT Investigates &amp;#9654; https://www.youtube.com/channel/UCwNJt9PYyN1uyw2XhNIQMMA&amp;#10;&amp;#10;&amp;#10;#TYT #IndisputableTYT #News&amp;#10;&amp;#10;220324__ID06MostInsane"
     channeltitle "Indisputable with Dr. Rashad Richey"
     channelid "UC9bMcW0MFzOAgfQ-7et47zw"
     favcount 0
@@ -1081,7 +1939,29 @@ graph
     ppprofanity 0.17609271
     ppinflammatory 0.70833045
     sentiment -0.4576
-    cluster 1
+    cluster 3
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -1090,7 +1970,7 @@ graph
     step 0
     date "2020-01-21T21:15:00Z"
     title "Yo era amigo de Justin Bieber...  en YUMMY"
-    description "Si quieres entrar en un grupo conmigo &#9658; http://www.patreon.com/DalasReview&#10;&#128293; Mi equipo &#128293;&#10;Mi c&#225;mara &#128247; &#10;https://amzn.to/36ribFF&#10;Lente de mi c&#225;mara &#128247;&#10;https://amzn.to/2qxDG8b&#10;Mi croma &#127823;&#10;https://amzn.to/2DZJQRD&#10;Mi conector c&#225;mara - ordenador &#128268;&#10;https://amzn.to/344RQLE"
+    description "Si quieres entrar en un grupo conmigo &amp;#9658; http://www.patreon.com/DalasReview&amp;#10;&amp;#128293; Mi equipo &amp;#128293;&amp;#10;Mi c&amp;#225;mara &amp;#128247; &amp;#10;https://amzn.to/36ribFF&amp;#10;Lente de mi c&amp;#225;mara &amp;#128247;&amp;#10;https://amzn.to/2qxDG8b&amp;#10;Mi croma &amp;#127823;&amp;#10;https://amzn.to/2DZJQRD&amp;#10;Mi conector c&amp;#225;mara - ordenador &amp;#128268;&amp;#10;https://amzn.to/344RQLE"
     channeltitle "Dalas Review"
     channelid "UCgRr2pZaGeaZVN6LfbvQk9w"
     favcount 0
@@ -1108,7 +1988,29 @@ graph
     ppprofanity 0.310944
     ppinflammatory 0.015394447
     sentiment 0.5267
-    cluster 10
+    cluster 7
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -1135,7 +2037,29 @@ graph
     ppprofanity 0.10337767
     ppinflammatory 0.1616235
     sentiment 0
-    cluster 2
+    cluster 8
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -1144,7 +2068,7 @@ graph
     step 0
     date "2020-01-30T18:15:00Z"
     title "PIZZAGATE y su relacis"
-    description "He querido hablar sobre un tema un poco fuerte: Los Mensajes Ocultos en Yummy de Justin Bieber y su relaci&#243;n con el PIZZAGATE. Toda la info sobre lo que hablo en este v&#237;deo la ten&#233;is aqu&#237;:&#10;&#10;Videoclip de Justin Bieber Yummy: https://www.youtube.com/watch?v=8EJ3zbKTWQ8&#10;Hilos de Twitter: https://twitter.com/EliteMonarca/status/1221652449020334080&#10;https://twitter.com/marlaisabelle/status/1219850418492186625&#10;Luna Mart&#237;nez: https://www.youtube.com/user/themuffinmarce&#10;Wikipedia sobre el Pizzagate: https://es.wikipedia.org/wiki/Pizzagate&#10;WikiLeaks: https://wikileaks.org/podesta-emails/&#10;Wikipedia sobre Comet Ping Pong: https://en.wikipedia.org/wiki/Comet_Ping_Pong&#10;Donald Trump con Jeffrey Epstein: https://www.youtube.com/watch?v=AUDr_c2PalI &#10;Art&#237;culo sobre Ghislaine Maxwell: https://www.elmundo.es/loc/celebrities/2020/01/23/5e298e46fc6c8305158b4589.html&#10;Documental sobre Epstein del programa &#8220;60 minutes Australia&#8221;: https://www.youtube.com/watch?v=VQOOxOl9l80&#10;Art&#237;culo sobre las acusaciones contra Epstein: https://www.bbc.com/mundo/noticias-internacional-48928982&#10;Arresto de Jeffrey Epstein: https://www.univision.com/noticias/justicia/arrestan-en-nueva-york-al-multimillonario-jeffrey-epstein-acusado-de-trafico-sexual-de-menores&#10;Los d&#237;as de Epstein en prisi&#243;n: https://www.nytimes.com/es/2019/08/17/espanol/mundo/jeffrey-epstein-prision.html&#10;Directo de Isaac Kappy: https://youtu.be/w42xrPAG08I&#10;La muerte de Isaac Kappy: https://www.lavanguardia.com/cine/20190518/462308470162/isaac-kappy-actor-breaking-bad-thor-lanzarse-puente.html&#10;Instagram de Kappy: https://www.instagram.com/isaackappy/&#10;LA Reid sobre Justin Bieber: https://www.spin.com/2016/02/la-reid-justin-bieber-beautiful-hair-memoir-snippets/&#10;&#10;M&#225;s contenido en Instagram: https://www.instagram.com/melomoreno/&#10;Tambi&#233;n me puedes seguir en Twitter: https://twitter.com/melomoreno&#10;Mi canal de Twitch: https://www.twitch.tv/melojuego&#10;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#10;#Yummy #JustinBieber #Pizzagate"
+    description "He querido hablar sobre un tema un poco fuerte: Los Mensajes Ocultos en Yummy de Justin Bieber y su relaci&amp;#243;n con el PIZZAGATE. Toda la info sobre lo que hablo en este v&amp;#237;deo la ten&amp;#233;is aqu&amp;#237;:&amp;#10;&amp;#10;Videoclip de Justin Bieber Yummy: https://www.youtube.com/watch?v=8EJ3zbKTWQ8&amp;#10;Hilos de Twitter: https://twitter.com/EliteMonarca/status/1221652449020334080&amp;#10;https://twitter.com/marlaisabelle/status/1219850418492186625&amp;#10;Luna Mart&amp;#237;nez: https://www.youtube.com/user/themuffinmarce&amp;#10;Wikipedia sobre el Pizzagate: https://es.wikipedia.org/wiki/Pizzagate&amp;#10;WikiLeaks: https://wikileaks.org/podesta-emails/&amp;#10;Wikipedia sobre Comet Ping Pong: https://en.wikipedia.org/wiki/Comet_Ping_Pong&amp;#10;Donald Trump con Jeffrey Epstein: https://www.youtube.com/watch?v=AUDr_c2PalI &amp;#10;Art&amp;#237;culo sobre Ghislaine Maxwell: https://www.elmundo.es/loc/celebrities/2020/01/23/5e298e46fc6c8305158b4589.html&amp;#10;Documental sobre Epstein del programa &amp;#8220;60 minutes Australia&amp;#8221;: https://www.youtube.com/watch?v=VQOOxOl9l80&amp;#10;Art&amp;#237;culo sobre las acusaciones contra Epstein: https://www.bbc.com/mundo/noticias-internacional-48928982&amp;#10;Arresto de Jeffrey Epstein: https://www.univision.com/noticias/justicia/arrestan-en-nueva-york-al-multimillonario-jeffrey-epstein-acusado-de-trafico-sexual-de-menores&amp;#10;Los d&amp;#237;as de Epstein en prisi&amp;#243;n: https://www.nytimes.com/es/2019/08/17/espanol/mundo/jeffrey-epstein-prision.html&amp;#10;Directo de Isaac Kappy: https://youtu.be/w42xrPAG08I&amp;#10;La muerte de Isaac Kappy: https://www.lavanguardia.com/cine/20190518/462308470162/isaac-kappy-actor-breaking-bad-thor-lanzarse-puente.html&amp;#10;Instagram de Kappy: https://www.instagram.com/isaackappy/&amp;#10;LA Reid sobre Justin Bieber: https://www.spin.com/2016/02/la-reid-justin-bieber-beautiful-hair-memoir-snippets/&amp;#10;&amp;#10;M&amp;#225;s contenido en Instagram: https://www.instagram.com/melomoreno/&amp;#10;Tambi&amp;#233;n me puedes seguir en Twitter: https://twitter.com/melomoreno&amp;#10;Mi canal de Twitch: https://www.twitch.tv/melojuego&amp;#10;&amp;#8211;&amp;#8211;&amp;#8211;&amp;#8211;&amp;#8211;&amp;#8211;&amp;#8211;&amp;#8211;&amp;#8211;&amp;#8211;&amp;#8211;&amp;#8211;&amp;#8211;&amp;#8211;&amp;#8211;&amp;#8211;&amp;#8211;&amp;#8211;&amp;#8211;&amp;#8211;&amp;#8211;&amp;#8211;&amp;#8211;&amp;#8211;&amp;#8211;&amp;#8211;&amp;#8211;&amp;#8211;&amp;#8211;&amp;#8211;&amp;#8211;&amp;#8211;&amp;#8211;&amp;#8211;&amp;#8211;&amp;#10;#Yummy #JustinBieber #Pizzagate"
     channeltitle "Melo"
     channelid "UCLTvA6Sd7JbfPPOIowV0Y6g"
     favcount 0
@@ -1163,6 +2087,28 @@ graph
     ppinflammatory 0.10613176
     sentiment 0
     cluster 7
+    leftright "R"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 1
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -1189,7 +2135,29 @@ graph
     ppprofanity 0.06810621
     ppinflammatory 0.08282488
     sentiment 0
-    cluster 6
+    cluster 10
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -1198,7 +2166,7 @@ graph
     step 0
     date "2021-11-13T22:00:00Z"
     title "MONSTERS INC PREDICTED ADRENOCHROME? (PIZZA GATE)"
-    description "Did Monsters Inc predict the Adrenochrome &#38; Pizza Gate conspiracy???&#10;&#10;Clip from Episode 46 https://youtu.be/FMPTSJ4G-Ak&#10;&#10;GET OUR COFFEE HERE! - http://www.kramoda.com&#10;&#10;GET MERCH HERE! - https://www.fanjoy.co/zaneandheath&#10;&#10;Business email: unfiltered@28thave.com &#10;&#10;Email us with any concerns, questions, and crazy stories here! - zaneandheathunfiltered@gmail.com&#10;&#10;SUBSCRIBE TO OUR CHANNELS:&#10;Zane - http://www.youtube.com/zanehijazi&#10;Heath - http://www.youtube.com/heathhussar&#10;&#10;FOLLOW US ON INSTAGRAM AND TWITTER:&#10;Instagram:&#10;Zane - http://www.instagram.com/zane&#10;Heath - http://www.instagram.com/heathhussar&#10;Mariah - http://www.instagram.com/mariahamato&#10;Matt - http://www.instagram.com/mattrking&#10;&#10;Twitter:&#10;Zane - http://www.twitter.com/zane&#10;Heath - http://www.twitter.com/heathhussar&#10;Mariah - http://www.twitter.com/mariahamato&#10;Matt - http://www.twitter.com/mattrking"
+    description "Did Monsters Inc predict the Adrenochrome &amp;#38; Pizza Gate conspiracy???&amp;#10;&amp;#10;Clip from Episode 46 https://youtu.be/FMPTSJ4G-Ak&amp;#10;&amp;#10;GET OUR COFFEE HERE! - http://www.kramoda.com&amp;#10;&amp;#10;GET MERCH HERE! - https://www.fanjoy.co/zaneandheath&amp;#10;&amp;#10;Business email: unfiltered@28thave.com &amp;#10;&amp;#10;Email us with any concerns, questions, and crazy stories here! - zaneandheathunfiltered@gmail.com&amp;#10;&amp;#10;SUBSCRIBE TO OUR CHANNELS:&amp;#10;Zane - http://www.youtube.com/zanehijazi&amp;#10;Heath - http://www.youtube.com/heathhussar&amp;#10;&amp;#10;FOLLOW US ON INSTAGRAM AND TWITTER:&amp;#10;Instagram:&amp;#10;Zane - http://www.instagram.com/zane&amp;#10;Heath - http://www.instagram.com/heathhussar&amp;#10;Mariah - http://www.instagram.com/mariahamato&amp;#10;Matt - http://www.instagram.com/mattrking&amp;#10;&amp;#10;Twitter:&amp;#10;Zane - http://www.twitter.com/zane&amp;#10;Heath - http://www.twitter.com/heathhussar&amp;#10;Mariah - http://www.twitter.com/mariahamato&amp;#10;Matt - http://www.twitter.com/mattrking"
     channeltitle "Zane and Heath: UNFILTERED Highlights"
     channelid "UC0gTgIEGiV5gvE2vN8cTS1g"
     favcount 0
@@ -1216,7 +2184,29 @@ graph
     ppprofanity 0.31168422
     ppinflammatory 0.08826671
     sentiment 0
-    cluster 4
+    cluster 1
+    leftright "L"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 1
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 1
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -1225,8 +2215,8 @@ graph
     step 0
     date "2020-06-10T17:00:30Z"
     title "ANONYMOUS 2020 y PIZZAGATE | Draw My Life"
-    description "&#191;Por qu&#233; ha vuelto a reaparecer el famoso grupo an&#243;nimo con m&#225;scara de V de Vendetta? Hoy en Draw My Life, Anonymous.&#10;&#10;#Anonymous #DrawMyLife&#10;&#10;Suscr&#237;bete para seguir disfrutando de nuestros v&#237;deos: http://bit.ly/DrawMyLifeES_Sub&#10;&#10;Otros v&#237;deos que no debes perderte en #DrawMyLife :&#10;&#10;El NI&#209;O con EL PIJAMA de RAYAS (RESUMEN): https://youtu.be/Vi5Jgmn-qCM&#10;LA REVOLUCI&#211;N RUSA de 1917 (RESUMEN):  https://youtu.be/Ek9zYuEgnKU&#10;NIKKIE TUTORIALS: https://youtu.be/HJoGj3k9LPU&#10;LA BRUJER&#205;A: https://youtu.be/u2EIENXi-tQ&#10;LA PRIMERA GUERRA MUNDIAL (RESUMEN): https://youtu.be/nBlTdwJiXoE&#10;LAS MEJORES FRASES DEL PRINCIPITO: https://youtu.be/nRfUms9MX8s&#10;&#10;Y si lo que te gustan son los v&#237;deos creepy, no lo dudes y sigue nuestro canal m&#225;s creepypasta, Creepy Club: http://bit.ly/CreepyClubChannel&#10;&#10;Descubre los v&#237;deos de Draw My Life m&#225;s creepy del canal: https://www.youtube.com/watch?v=hdGEiEsbY6M&#38;list=PLPFIV4lhQ98pG_j7Sg2k77mIgY8LvfdZD&#10;&#10;&#9759; &#161;S&#205;GUENOS AQU&#205;! &#9759;&#10;&#10;&#9755; Facebook (@DrawMyLifeES): http://bit.ly/2C5kW2F&#10;&#9755; Twitter (@DrawMyLife_ES): http://bit.ly/2EOlNq4 &#10;&#9755; Instagram(@DrawMyLife_ES): http://bit.ly/2XB6hFm&#10;&#10;&#10;Producido por 2btube&#10;Contacto para consultas, peticiones o licencias: dml@2btalent.com&#10;&#10;Y si te gusta el f&#250;tbol suscr&#237;bete a CAMPEONES: http://bit.ly/1zVZfXc"
-    channeltitle "DRAW MY LIFE en Espa&#241;ol"
+    description "&amp;#191;Por qu&amp;#233; ha vuelto a reaparecer el famoso grupo an&amp;#243;nimo con m&amp;#225;scara de V de Vendetta? Hoy en Draw My Life, Anonymous.&amp;#10;&amp;#10;#Anonymous #DrawMyLife&amp;#10;&amp;#10;Suscr&amp;#237;bete para seguir disfrutando de nuestros v&amp;#237;deos: http://bit.ly/DrawMyLifeES_Sub&amp;#10;&amp;#10;Otros v&amp;#237;deos que no debes perderte en #DrawMyLife :&amp;#10;&amp;#10;El NI&amp;#209;O con EL PIJAMA de RAYAS (RESUMEN): https://youtu.be/Vi5Jgmn-qCM&amp;#10;LA REVOLUCI&amp;#211;N RUSA de 1917 (RESUMEN):  https://youtu.be/Ek9zYuEgnKU&amp;#10;NIKKIE TUTORIALS: https://youtu.be/HJoGj3k9LPU&amp;#10;LA BRUJER&amp;#205;A: https://youtu.be/u2EIENXi-tQ&amp;#10;LA PRIMERA GUERRA MUNDIAL (RESUMEN): https://youtu.be/nBlTdwJiXoE&amp;#10;LAS MEJORES FRASES DEL PRINCIPITO: https://youtu.be/nRfUms9MX8s&amp;#10;&amp;#10;Y si lo que te gustan son los v&amp;#237;deos creepy, no lo dudes y sigue nuestro canal m&amp;#225;s creepypasta, Creepy Club: http://bit.ly/CreepyClubChannel&amp;#10;&amp;#10;Descubre los v&amp;#237;deos de Draw My Life m&amp;#225;s creepy del canal: https://www.youtube.com/watch?v=hdGEiEsbY6M&amp;#38;list=PLPFIV4lhQ98pG_j7Sg2k77mIgY8LvfdZD&amp;#10;&amp;#10;&amp;#9759; &amp;#161;S&amp;#205;GUENOS AQU&amp;#205;! &amp;#9759;&amp;#10;&amp;#10;&amp;#9755; Facebook (@DrawMyLifeES): http://bit.ly/2C5kW2F&amp;#10;&amp;#9755; Twitter (@DrawMyLife_ES): http://bit.ly/2EOlNq4 &amp;#10;&amp;#9755; Instagram(@DrawMyLife_ES): http://bit.ly/2XB6hFm&amp;#10;&amp;#10;&amp;#10;Producido por 2btube&amp;#10;Contacto para consultas, peticiones o licencias: dml@2btalent.com&amp;#10;&amp;#10;Y si te gusta el f&amp;#250;tbol suscr&amp;#237;bete a CAMPEONES: http://bit.ly/1zVZfXc"
+    channeltitle "DRAW MY LIFE en Espa&amp;#241;ol"
     channelid "UChmLIRBQh3-bRJp3d6Dnnog"
     favcount 0
     viewcount 236004
@@ -1243,7 +2233,29 @@ graph
     ppprofanity 0.08468617
     ppinflammatory 0.15851474
     sentiment 0
-    cluster 10
+    cluster 7
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -1270,7 +2282,29 @@ graph
     ppprofanity 0.17127949
     ppinflammatory 0.15356413
     sentiment -0.4939
-    cluster 9
+    cluster 8
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -1279,7 +2313,7 @@ graph
     step 0
     date "2021-11-25T17:23:15Z"
     title "The Pizzagate Massacre (2021) Review - Dark Satire"
-    description "A dark social satire inspired by the real life conspiracy theory known as Pizzagate. An amateur journalist and a far-right militiaman team up to expose the ugly truth behind rumors involving sex cults, a pizza place and the lizard people.&#10;TRAILER https://youtu.be/8ceZU4X66yg&#10;&#10;Listen to our Kick ass podcast! &#10;Site https://www.longlivethevoid.com/&#10;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#10;Our LINK TREE! - https://linktr.ee/btvcast&#8203;&#8203;&#10;&#10;Want to donate a movie From AMAZON for us to review?&#10;https://www.amazon.com/hz/wishlist/ls/12FXEDJB2884P?ref_=wl_share &#10;&#10;&#10;***DON'T FORGET***&#10;&#10;Want to enter in our Frequent Contests PLUS Stay up to date with BTV?&#10;&#10;JOIN THE BTV VIP CLUB &#9658; https://www.longlivethevoid.com/sign-up/&#10;&#10;WE Stream Live on TWITCH each week! &#9658; https://www.twitch.tv/dekonreighn/&#10;&#10;Join us Mon/Wed/Sat @ 5pm PST&#10;&#10;Join OUR Discord! &#9658; https://discord.gg/spnRtKy&#10;&#10;Reddit &#9658; https://www.reddit.com/r/BeyondTheVoidHorror/&#10;&#10;WANT BTV STICKERS? ***&#10;&#10;&#9658; https://etsy.me/2zu78gM&#10;&#10;FOLLOW US! OR ELSE!&#10;&#10;LINK TREE https://linktr.ee/btvcast&#10;&#10;Spotify &#9658; https://open.spotify.com/show/080fHACzrP1dtLId7yL2pR?si=roxlEh8XRlWHx56qrwAIsw&#10;Apple Podcasts &#9658; https://t.co/RLpgyiPuzE&#10;Website &#9658; https://www.longlivethevoid.com/&#10;BTV VIP CLUB &#9658; https://www.longlivethevoid.com/sign-up/&#10;Reddit &#9658;  https://www.reddit.com/r/BeyondTheVoidHorror/ &#10;Soundcloud &#9658; https://soundcloud.com/btvcast&#10;Facebook &#9658; https://www.facebook.com/beyondthevoidcast&#10;Twitter &#9658; https://twitter.com/BTVcast&#10;Youtube &#9658;  https://www.youtube.com/c/BeyondTheVoidHorrorPodcast&#10;Google Play &#9658; https://play.google.com/music/listen?u=0#/ps/Iz2c4m6eyv7cdhqocsurh7v2zee&#10;FB Group &#9658; https://www.facebook.com/groups/doyoulovehorror/&#10;Instagram &#9658; https://www.instagram.com/btvcast/&#10;Tumblr &#9658; https://beyondthevoidcast.tumblr.com/&#10;Stitcher &#9658; https://www.stitcher.com/show/beyond-the-veil-horror-podcast&#10;TuneIn &#9658;  https://bit.ly/2AueJvx"
+    description "A dark social satire inspired by the real life conspiracy theory known as Pizzagate. An amateur journalist and a far-right militiaman team up to expose the ugly truth behind rumors involving sex cults, a pizza place and the lizard people.&amp;#10;TRAILER https://youtu.be/8ceZU4X66yg&amp;#10;&amp;#10;Listen to our Kick ass podcast! &amp;#10;Site https://www.longlivethevoid.com/&amp;#10;&amp;#8203;&amp;#8203;&amp;#8203;&amp;#8203;&amp;#8203;&amp;#8203;&amp;#8203;&amp;#8203;&amp;#10;Our LINK TREE! - https://linktr.ee/btvcast&amp;#8203;&amp;#8203;&amp;#10;&amp;#10;Want to donate a movie From AMAZON for us to review?&amp;#10;https://www.amazon.com/hz/wishlist/ls/12FXEDJB2884P?ref_=wl_share &amp;#10;&amp;#10;&amp;#10;***DON'T FORGET***&amp;#10;&amp;#10;Want to enter in our Frequent Contests PLUS Stay up to date with BTV?&amp;#10;&amp;#10;JOIN THE BTV VIP CLUB &amp;#9658; https://www.longlivethevoid.com/sign-up/&amp;#10;&amp;#10;WE Stream Live on TWITCH each week! &amp;#9658; https://www.twitch.tv/dekonreighn/&amp;#10;&amp;#10;Join us Mon/Wed/Sat @ 5pm PST&amp;#10;&amp;#10;Join OUR Discord! &amp;#9658; https://discord.gg/spnRtKy&amp;#10;&amp;#10;Reddit &amp;#9658; https://www.reddit.com/r/BeyondTheVoidHorror/&amp;#10;&amp;#10;WANT BTV STICKERS? ***&amp;#10;&amp;#10;&amp;#9658; https://etsy.me/2zu78gM&amp;#10;&amp;#10;FOLLOW US! OR ELSE!&amp;#10;&amp;#10;LINK TREE https://linktr.ee/btvcast&amp;#10;&amp;#10;Spotify &amp;#9658; https://open.spotify.com/show/080fHACzrP1dtLId7yL2pR?si=roxlEh8XRlWHx56qrwAIsw&amp;#10;Apple Podcasts &amp;#9658; https://t.co/RLpgyiPuzE&amp;#10;Website &amp;#9658; https://www.longlivethevoid.com/&amp;#10;BTV VIP CLUB &amp;#9658; https://www.longlivethevoid.com/sign-up/&amp;#10;Reddit &amp;#9658;  https://www.reddit.com/r/BeyondTheVoidHorror/ &amp;#10;Soundcloud &amp;#9658; https://soundcloud.com/btvcast&amp;#10;Facebook &amp;#9658; https://www.facebook.com/beyondthevoidcast&amp;#10;Twitter &amp;#9658; https://twitter.com/BTVcast&amp;#10;Youtube &amp;#9658;  https://www.youtube.com/c/BeyondTheVoidHorrorPodcast&amp;#10;Google Play &amp;#9658; https://play.google.com/music/listen?u=0#/ps/Iz2c4m6eyv7cdhqocsurh7v2zee&amp;#10;FB Group &amp;#9658; https://www.facebook.com/groups/doyoulovehorror/&amp;#10;Instagram &amp;#9658; https://www.instagram.com/btvcast/&amp;#10;Tumblr &amp;#9658; https://beyondthevoidcast.tumblr.com/&amp;#10;Stitcher &amp;#9658; https://www.stitcher.com/show/beyond-the-veil-horror-podcast&amp;#10;TuneIn &amp;#9658;  https://bit.ly/2AueJvx"
     channeltitle "Beyond The Void Horror Podcast"
     channelid "UCt_th7sZtlVj2IsStZWDiFw"
     favcount 0
@@ -1297,7 +2331,29 @@ graph
     ppprofanity 0.09994482
     ppinflammatory 0.3702227
     sentiment 0
-    cluster 3
+    cluster 4
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -1306,7 +2362,7 @@ graph
     step 0
     date "2021-10-06T18:01:10Z"
     title "PIZZAGATE: El documental | La CHISPA de una AMENAZA FANTASMA #1"
-    description "Pizzagate: un documental para entender como una teor&#237;a de la conspiraci&#243;n marginal, llega a las primeras esferas del poder.&#10;&#218;nete a la DISIDENCIA CONTROLADA: un podcast donde analizo las m&#225;s locas teor&#237;as de la conspiraci&#243;n: https://www.podimo.com/es/tamayo&#10;&#10;CR&#201;DITOS:&#10;- Will Sommer: Periodista&#10;https://twitter.com/willsommer&#10;- Benjamin Nathan-Serio: Narrador&#10;http://www.serioparadiso.com/&#10;&#10;INDICE DE CONTENIDOS&#10;00:00 - El gran momento&#10;00:51 - &#191;Qu&#233; es Pizzagate?&#10;01:46 - Los mensajes de John Podesta y James Alefantis&#10;03:51 - Infiltrado en el restaurante &#34;Comet Ping-Pong&#34;&#10;05:12 - Influencers de la conspiraci&#243;n: Alex Jones, Mike Cernovich y Jack Posobiec&#10;07:27 - Edgar Maddison Welch y la denuncia criminal&#10;09:34 - Los hechos del atentado&#10;11:06 - ALEX JONES e InfoWars&#10;12:20 - Donald Trump y la conspiraci&#243;n&#10;13:00 - Pido perd&#243;n&#10;14:03 - QAnon&#10;15:03 Disidencia controlada&#10;&#10;TAMAYOVISI&#211;N (Canal secundario) &#9658; https://www.youtube.com/tamayovision&#10;&#10;REDES SOCIALES:&#10;- INSTAGRAM &#9658; https://www.instagram.com/tamayostuff&#10;- TELEGRAM &#9658; https://t.me/TamayoStuff&#10;- TWITCH &#9658; https://www.twitch.tv/tamayovision&#10;- TWITTER &#9658; https://twitter.com/tamayostuff&#10;- DISCORD &#9658; https://discord.com/invite/v5EN3NPJBy&#10;&#10;Pr&#243;ximamente vendr&#225;n m&#225;s investigaciones pero me llevan un buen rato as&#237; que, de momento. aqu&#237; tienes M&#193;S REPORTAJES DE INVESTIGACI&#211;N:&#10;&#10;&#9658; sobre SECTAS o grupos coercitivos&#10;&#128308; Infiltrado en la Secta del Palmar de Troya (en orden): https://www.shorturl.at/qySXY&#10;&#128308; Desmontando la Secta IM Academy: https://www.shorturl.at/ehxF2&#10;&#128308; Desmontando a Trafficker Digital, el cursillo de Roberto Gamboa: https://www.shorturl.at/ksuT1&#10;&#10;&#9658; sobre PSEUDOCIENCIAS&#10;&#128308; Ex-chaman lo cuenta todo: https://youtu.be/UF_k8Pz6ZDY&#8203;&#10;&#128308; Los oportunistas del CORONAVIRUS (sectas, pseudociencias, etc): https://www.shorturl.at/dAKS2&#10;&#10;&#9658; sobre ESTAFAS DIGITALES (presuntamente) y CIBERSEGURIDAD&#10;&#128308; Los ESTAFADORES ILLUMINATI (estafa nigeriana): https://www.shorturl.at/xB258&#10;&#128308; Robo de Canales de YouTube: https://youtu.be/C0hwxfIsjkE&#8203;&#10;&#128308; Desmontando una ESTAFA PIRAMIDAL: https://youtu.be/zS4rN2R7QxQ&#8203; &#10;&#10;&#9658; sobre REPORTAJES INTERNACIONALES&#10;&#128308; ETIOP&#205;A | Conflicto en el desierto de Danakil: https://www.shorturl.at/evxAE&#10;&#128308; INDONESIA | Boda por secuestro: https://youtu.be/g7bGnmqMokM&#8203;&#10;&#128308; TANZANIA | El empoderamiento de la mujer Maasai: https://www.shorturl.at/kquX6&#10;&#128308; NEPAL | Las diosas vivientes: https://youtu.be/ZdEO_l4J3iY&#8203;&#10;&#10;&#10145; &#191;Me ayudas a crear m&#225;s contenido?:&#10;PATREON: https://www.patreon.com/tamayostuff&#10;PAYPAL: https://www.paypal.me/tamayostuff&#10;&#10;SUSCRIBETE PARA MAS CONTENIDO: https://bit.ly/2OQguNp&#8203;&#10;&#10;PREGUNTAS FRECUENTES:&#10;&#9899; &#191;C&#243;mo te llamas? Carles&#10;&#9899; &#191;Cu&#225;ntos a&#241;os tienes? 26, nac&#237; el 17/01/1995&#10;&#9899; &#191;Vives en un barco? Antes s&#237;, te lo ense&#241;o aqu&#237;: https://youtu.be/aYXOeugsMvc&#8203; Ahora ya no, vivo en una cueva. (por si las moscas)&#10;&#9899; &#191;Has estudiado Periodismo? No, estoy graduado en Cine y Audiovisuales especializado en direcci&#243;n cinematogr&#225;fica.&#10;&#9899; &#191;Con qu&#233; editas? Adobe premiere CC"
+    description "Pizzagate: un documental para entender como una teor&amp;#237;a de la conspiraci&amp;#243;n marginal, llega a las primeras esferas del poder.&amp;#10;&amp;#218;nete a la DISIDENCIA CONTROLADA: un podcast donde analizo las m&amp;#225;s locas teor&amp;#237;as de la conspiraci&amp;#243;n: https://www.podimo.com/es/tamayo&amp;#10;&amp;#10;CR&amp;#201;DITOS:&amp;#10;- Will Sommer: Periodista&amp;#10;https://twitter.com/willsommer&amp;#10;- Benjamin Nathan-Serio: Narrador&amp;#10;http://www.serioparadiso.com/&amp;#10;&amp;#10;INDICE DE CONTENIDOS&amp;#10;00:00 - El gran momento&amp;#10;00:51 - &amp;#191;Qu&amp;#233; es Pizzagate?&amp;#10;01:46 - Los mensajes de John Podesta y James Alefantis&amp;#10;03:51 - Infiltrado en el restaurante &amp;#34;Comet Ping-Pong&amp;#34;&amp;#10;05:12 - Influencers de la conspiraci&amp;#243;n: Alex Jones, Mike Cernovich y Jack Posobiec&amp;#10;07:27 - Edgar Maddison Welch y la denuncia criminal&amp;#10;09:34 - Los hechos del atentado&amp;#10;11:06 - ALEX JONES e InfoWars&amp;#10;12:20 - Donald Trump y la conspiraci&amp;#243;n&amp;#10;13:00 - Pido perd&amp;#243;n&amp;#10;14:03 - QAnon&amp;#10;15:03 Disidencia controlada&amp;#10;&amp;#10;TAMAYOVISI&amp;#211;N (Canal secundario) &amp;#9658; https://www.youtube.com/tamayovision&amp;#10;&amp;#10;REDES SOCIALES:&amp;#10;- INSTAGRAM &amp;#9658; https://www.instagram.com/tamayostuff&amp;#10;- TELEGRAM &amp;#9658; https://t.me/TamayoStuff&amp;#10;- TWITCH &amp;#9658; https://www.twitch.tv/tamayovision&amp;#10;- TWITTER &amp;#9658; https://twitter.com/tamayostuff&amp;#10;- DISCORD &amp;#9658; https://discord.com/invite/v5EN3NPJBy&amp;#10;&amp;#10;Pr&amp;#243;ximamente vendr&amp;#225;n m&amp;#225;s investigaciones pero me llevan un buen rato as&amp;#237; que, de momento. aqu&amp;#237; tienes M&amp;#193;S REPORTAJES DE INVESTIGACI&amp;#211;N:&amp;#10;&amp;#10;&amp;#9658; sobre SECTAS o grupos coercitivos&amp;#10;&amp;#128308; Infiltrado en la Secta del Palmar de Troya (en orden): https://www.shorturl.at/qySXY&amp;#10;&amp;#128308; Desmontando la Secta IM Academy: https://www.shorturl.at/ehxF2&amp;#10;&amp;#128308; Desmontando a Trafficker Digital, el cursillo de Roberto Gamboa: https://www.shorturl.at/ksuT1&amp;#10;&amp;#10;&amp;#9658; sobre PSEUDOCIENCIAS&amp;#10;&amp;#128308; Ex-chaman lo cuenta todo: https://youtu.be/UF_k8Pz6ZDY&amp;#8203;&amp;#10;&amp;#128308; Los oportunistas del CORONAVIRUS (sectas, pseudociencias, etc): https://www.shorturl.at/dAKS2&amp;#10;&amp;#10;&amp;#9658; sobre ESTAFAS DIGITALES (presuntamente) y CIBERSEGURIDAD&amp;#10;&amp;#128308; Los ESTAFADORES ILLUMINATI (estafa nigeriana): https://www.shorturl.at/xB258&amp;#10;&amp;#128308; Robo de Canales de YouTube: https://youtu.be/C0hwxfIsjkE&amp;#8203;&amp;#10;&amp;#128308; Desmontando una ESTAFA PIRAMIDAL: https://youtu.be/zS4rN2R7QxQ&amp;#8203; &amp;#10;&amp;#10;&amp;#9658; sobre REPORTAJES INTERNACIONALES&amp;#10;&amp;#128308; ETIOP&amp;#205;A | Conflicto en el desierto de Danakil: https://www.shorturl.at/evxAE&amp;#10;&amp;#128308; INDONESIA | Boda por secuestro: https://youtu.be/g7bGnmqMokM&amp;#8203;&amp;#10;&amp;#128308; TANZANIA | El empoderamiento de la mujer Maasai: https://www.shorturl.at/kquX6&amp;#10;&amp;#128308; NEPAL | Las diosas vivientes: https://youtu.be/ZdEO_l4J3iY&amp;#8203;&amp;#10;&amp;#10;&amp;#10145; &amp;#191;Me ayudas a crear m&amp;#225;s contenido?:&amp;#10;PATREON: https://www.patreon.com/tamayostuff&amp;#10;PAYPAL: https://www.paypal.me/tamayostuff&amp;#10;&amp;#10;SUSCRIBETE PARA MAS CONTENIDO: https://bit.ly/2OQguNp&amp;#8203;&amp;#10;&amp;#10;PREGUNTAS FRECUENTES:&amp;#10;&amp;#9899; &amp;#191;C&amp;#243;mo te llamas? Carles&amp;#10;&amp;#9899; &amp;#191;Cu&amp;#225;ntos a&amp;#241;os tienes? 26, nac&amp;#237; el 17/01/1995&amp;#10;&amp;#9899; &amp;#191;Vives en un barco? Antes s&amp;#237;, te lo ense&amp;#241;o aqu&amp;#237;: https://youtu.be/aYXOeugsMvc&amp;#8203; Ahora ya no, vivo en una cueva. (por si las moscas)&amp;#10;&amp;#9899; &amp;#191;Has estudiado Periodismo? No, estoy graduado en Cine y Audiovisuales especializado en direcci&amp;#243;n cinematogr&amp;#225;fica.&amp;#10;&amp;#9899; &amp;#191;Con qu&amp;#233; editas? Adobe premiere CC"
     channeltitle "TAMAYO"
     channelid "UCESz9AtjvdiahLpq69GU3YQ"
     favcount 0
@@ -1325,6 +2381,28 @@ graph
     ppinflammatory 0.029747274
     sentiment 0
     cluster 7
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -1333,7 +2411,7 @@ graph
     step 0
     date "2016-12-07T04:01:04Z"
     title "Simpsons #Pizzagate"
-    description "Simpsons #Pizzagate&#10;from t&#668;&#7431; S&#618;&#7437;&#7448;s&#7439;&#628;s episode (SS26E19) The Kids Are All Fight (2015)&#10;more information&#10;https://en.wikipedia.org/wiki/The_Kids_Are_All_Fight"
+    description "Simpsons #Pizzagate&amp;#10;from t&amp;#668;&amp;#7431; S&amp;#618;&amp;#7437;&amp;#7448;s&amp;#7439;&amp;#628;s episode (SS26E19) The Kids Are All Fight (2015)&amp;#10;more information&amp;#10;https://en.wikipedia.org/wiki/The_Kids_Are_All_Fight"
     channeltitle "H Simpson"
     channelid "UCjKN48IFLTNENWXGxb7ZGMw"
     favcount 0
@@ -1351,7 +2429,29 @@ graph
     ppprofanity 0.035522334
     ppinflammatory 0.116334036
     sentiment 0
-    cluster 9
+    cluster 8
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -1360,7 +2460,7 @@ graph
     step 0
     date "2021-11-24T11:36:03Z"
     title "The Pizzagate Massacre 2021 movie inspired by real conspiracy"
-    description "#thepizzagatemassacre&#10;Terry Lee was a news host and she was misleading people by pizzagate story. In the basement of Tootz Pizza basement, there state political people do the wrong thing with them but later known there was no basement. The story took a different turn when Terry Lee launched his show on the national stage and got 50 million dollars from the show annually. &#10;&#10;Must Watch!&#10;Share your opinion about this explanation and if you like this then Hit the like button and share it with your people &#10;&#10;Subscribe to the channel for more upcoming videos - &#10;https://www.youtube.com/c/VIRUVIDS&#10;&#10;Be Safe, Thank You!&#10;&#10;The Pizzagate Massacre movie, The Pizzagate Massacre movie explain in Hindi, The Pizzagate Massacre 2021, The Pizzagate Massacre 2021 explain in Hindi, 2021 movies, Hollywood movies explain in Hindi, Movies explained in Hindi"
+    description "#thepizzagatemassacre&amp;#10;Terry Lee was a news host and she was misleading people by pizzagate story. In the basement of Tootz Pizza basement, there state political people do the wrong thing with them but later known there was no basement. The story took a different turn when Terry Lee launched his show on the national stage and got 50 million dollars from the show annually. &amp;#10;&amp;#10;Must Watch!&amp;#10;Share your opinion about this explanation and if you like this then Hit the like button and share it with your people &amp;#10;&amp;#10;Subscribe to the channel for more upcoming videos - &amp;#10;https://www.youtube.com/c/VIRUVIDS&amp;#10;&amp;#10;Be Safe, Thank You!&amp;#10;&amp;#10;The Pizzagate Massacre movie, The Pizzagate Massacre movie explain in Hindi, The Pizzagate Massacre 2021, The Pizzagate Massacre 2021 explain in Hindi, 2021 movies, Hollywood movies explain in Hindi, Movies explained in Hindi"
     channeltitle "ViruVids"
     channelid "UC_HAZ171Jxcm453xBDhzuvQ"
     favcount 0
@@ -1378,7 +2478,29 @@ graph
     ppprofanity 0.10781661
     ppinflammatory 0.34748498
     sentiment -0.0516
-    cluster 3
+    cluster 4
+    leftright "L"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 1
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 1
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -1387,7 +2509,7 @@ graph
     step 0
     date "2017-05-26T16:00:05Z"
     title "BIGGEST LIAR: Alex Jones Pushed Debunked Pizzagate Story - The Ring Of Fire"
-    description "As we come to the end of Biggest Liar week on Ring of Fire, we&#8217;re looking at one of Alex Jones&#8217;s lies that almost got people killed.&#160; That lie was the debunked Pizzagate story that claimed a sex trafficking ring was being run out of a DC pizza parlor with the help of high-ranking politicians and political strategists.&#160; Jones actually apologized for pushing this story, a rare move for the conspiracy theorist. Ring of Fire&#8217;s Farron Cousins discusses this.&#160;&#10;&#160;&#10;Link - https://thinkprogress.org/alex-jones-apologizes-for-promoting-pizzagate-conspiracy-b3c271bac706&#160;&#10;&#10;Ring of Fire needs your help! Support us by becoming a monthly patron on Patreon, and help keep progressive media alive!: https://www.patreon.com/TheRingofFire&#10;&#10;Spread the word! LIKE and SHARE this video or leave a comment to help direct attention to the stories that matter. And SUBSCRIBE to stay connected with Ring of Fire's video content!&#10;&#10;Watch America's Lawyer featuring Mike Papantonio on RT: https://www.rt.com/shows/americas-lawyer/&#10;&#10;Order Mike Papantonio's novel Law and Disorder today: https://www.amazon.com/Law-Disorder-Mike-Papantonio/dp/1590793676&#10;&#10;Follow more of our stories at http://www.TROFIRE.com&#10;&#10;Subscribe to our podcast: http://www.ROFPodcast.com&#10;&#10;Support Ring of Fire by subscribing to our YouTube channel: https://www.youtube.com/user/golefttv?sub_confirmation=1&#10;&#10;Be sociable! Follow us on:&#10;Facebook: http://www.facebook.com/RingofFireRadio&#10;Twitter: http://www.twitter.com/RingofFireRadio&#10;Google+: http://plus.google.com/118415831573195648557&#10;Instagram: https://www.instagram.com/ringoffirenetwork/"
+    description "As we come to the end of Biggest Liar week on Ring of Fire, we&amp;#8217;re looking at one of Alex Jones&amp;#8217;s lies that almost got people killed.&amp;#160; That lie was the debunked Pizzagate story that claimed a sex trafficking ring was being run out of a DC pizza parlor with the help of high-ranking politicians and political strategists.&amp;#160; Jones actually apologized for pushing this story, a rare move for the conspiracy theorist. Ring of Fire&amp;#8217;s Farron Cousins discusses this.&amp;#160;&amp;#10;&amp;#160;&amp;#10;Link - https://thinkprogress.org/alex-jones-apologizes-for-promoting-pizzagate-conspiracy-b3c271bac706&amp;#160;&amp;#10;&amp;#10;Ring of Fire needs your help! Support us by becoming a monthly patron on Patreon, and help keep progressive media alive!: https://www.patreon.com/TheRingofFire&amp;#10;&amp;#10;Spread the word! LIKE and SHARE this video or leave a comment to help direct attention to the stories that matter. And SUBSCRIBE to stay connected with Ring of Fire's video content!&amp;#10;&amp;#10;Watch America's Lawyer featuring Mike Papantonio on RT: https://www.rt.com/shows/americas-lawyer/&amp;#10;&amp;#10;Order Mike Papantonio's novel Law and Disorder today: https://www.amazon.com/Law-Disorder-Mike-Papantonio/dp/1590793676&amp;#10;&amp;#10;Follow more of our stories at http://www.TROFIRE.com&amp;#10;&amp;#10;Subscribe to our podcast: http://www.ROFPodcast.com&amp;#10;&amp;#10;Support Ring of Fire by subscribing to our YouTube channel: https://www.youtube.com/user/golefttv?sub_confirmation=1&amp;#10;&amp;#10;Be sociable! Follow us on:&amp;#10;Facebook: http://www.facebook.com/RingofFireRadio&amp;#10;Twitter: http://www.twitter.com/RingofFireRadio&amp;#10;Google+: http://plus.google.com/118415831573195648557&amp;#10;Instagram: https://www.instagram.com/ringoffirenetwork/"
     channeltitle "The Ring of Fire"
     channelid "UCYWIEbibRcZav6xMLo9qWWw"
     favcount 0
@@ -1405,7 +2527,29 @@ graph
     ppprofanity 0.17613873
     ppinflammatory 0.45230716
     sentiment -0.6908
-    cluster 11
+    cluster 10
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -1414,7 +2558,7 @@ graph
     step 0
     date "2020-12-04T05:00:26Z"
     title "The Network - Pizzagate"
-    description "&#128165;&#129297;&#128165; MONEY MONEY 2020 PART II: WE TOLD YOU SO!! TheNetwork.lnk.to/moneymoney2020&#10;&#10;https://www.instagram.com/thenetwork/&#10;https://twitter.com/wearethenetwork&#10;https://www.facebook.com/thenetwork"
+    description "&amp;#128165;&amp;#129297;&amp;#128165; MONEY MONEY 2020 PART II: WE TOLD YOU SO!! TheNetwork.lnk.to/moneymoney2020&amp;#10;&amp;#10;https://www.instagram.com/thenetwork/&amp;#10;https://twitter.com/wearethenetwork&amp;#10;https://www.facebook.com/thenetwork"
     channeltitle "The Network"
     channelid "UCO0shUz_q5SnGl8dEQlnlSA"
     favcount 0
@@ -1433,6 +2577,28 @@ graph
     ppinflammatory 0.1468943
     sentiment 0
     cluster 2
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -1441,7 +2607,7 @@ graph
     step 0
     date "2020-06-02T04:00:58Z"
     title " TIENE QUE VER MICHAEL JACKSON CON PIZZAGATE Y ANONYMUS?"
-    description "Este es el audio publicado por ANONYMUS de Michael Jackson relacionado a PIZZAGATE. Te cuento de qu&#233; se trata todo de la forma m&#225;s clara...&#10;&#10;Suscr&#237;bete para m&#225;s contenido genial: https://bit.ly/2MyRmJr&#10;&#10;PUBLICIDAD/NEGOCIOS: rolandomora8@gmail.com&#10;&#10;&#10;-SUBE TUS CANCIONES A SPOTIFY, ITUNES Y M&#193;S CON DESCUENTO ADICIONAL: https://www.distrokid.com/vip/rolandomora&#10;&#10;&#10;Ap&#243;yame con tu donaci&#243;n :) https://www.patreon.com/rolandomora&#10;&#10;S&#237;gueme en:&#10;&#10;Instagram: https://bit.ly/2JG3WpB&#10;Facebook: https://bit.ly/2U20mLw&#10;Twitter: https://bit.ly/2Udk5Hd&#10;Twitch: https://bit.ly/2jSYtvV"
+    description "Este es el audio publicado por ANONYMUS de Michael Jackson relacionado a PIZZAGATE. Te cuento de qu&amp;#233; se trata todo de la forma m&amp;#225;s clara...&amp;#10;&amp;#10;Suscr&amp;#237;bete para m&amp;#225;s contenido genial: https://bit.ly/2MyRmJr&amp;#10;&amp;#10;PUBLICIDAD/NEGOCIOS: rolandomora8@gmail.com&amp;#10;&amp;#10;&amp;#10;-SUBE TUS CANCIONES A SPOTIFY, ITUNES Y M&amp;#193;S CON DESCUENTO ADICIONAL: https://www.distrokid.com/vip/rolandomora&amp;#10;&amp;#10;&amp;#10;Ap&amp;#243;yame con tu donaci&amp;#243;n :) https://www.patreon.com/rolandomora&amp;#10;&amp;#10;S&amp;#237;gueme en:&amp;#10;&amp;#10;Instagram: https://bit.ly/2JG3WpB&amp;#10;Facebook: https://bit.ly/2U20mLw&amp;#10;Twitter: https://bit.ly/2Udk5Hd&amp;#10;Twitch: https://bit.ly/2jSYtvV"
     channeltitle "Rolando Mora"
     channelid "UCa9IhdcBhSWGlfDZ1kBVDVA"
     favcount 0
@@ -1460,6 +2626,28 @@ graph
     ppinflammatory 0.2620905
     sentiment 0
     cluster 7
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -1486,7 +2674,29 @@ graph
     ppprofanity 0.23796247
     ppinflammatory 0.43991834
     sentiment -0.6249
-    cluster 10
+    cluster 9
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -1495,7 +2705,7 @@ graph
     step 0
     date "2021-09-25T07:10:06Z"
     title "THE PIZZAGATE MASSACRE [Official Trailer] 2021"
-    description "European Premiere playing at GRIMMFEST 13th EDITION 2021. An ambitious amateur journalist and an unstable far-right militiaman team up to expose the ugly truth behind rumours involving sex cults, a pizza place and the lizard people...&#10;&#10;GRIMMFEST 2021 tickets and more info: https://grimmfest2021.eventive.org/welcome&#10;&#10;Director: John Valley&#10;Screenwriter: John Valley&#10;Producer: Aaron B. Koontz, Scott Martin, Jack Sheehan, Michael Thomas Slifkin&#10;Cast: Tinus Seaux, Alexandria Payne, Lee Eddy, Mike Dellens, John Valley&#10;Cinematographer: Taylor Camarot&#10;Editor: John Valley&#10;Country: United States&#10;Rating: 15&#10;&#10;Hit like, subscribe and ring that bell so you don't miss out on our bi-weekly GRIMM EXCHANGE episodes released every Monday, and the little extras we put up in between. &#10;&#10;Follow us on:&#10;Twitter: https://twitter.com/grimmfest&#10;Facebook: https://www.facebook.com/grimmfest&#10;Instagram: https://www.instagram.com/grimmfest&#10;&#10;#filmpremiere #newfilm #film #filmfestival"
+    description "European Premiere playing at GRIMMFEST 13th EDITION 2021. An ambitious amateur journalist and an unstable far-right militiaman team up to expose the ugly truth behind rumours involving sex cults, a pizza place and the lizard people...&amp;#10;&amp;#10;GRIMMFEST 2021 tickets and more info: https://grimmfest2021.eventive.org/welcome&amp;#10;&amp;#10;Director: John Valley&amp;#10;Screenwriter: John Valley&amp;#10;Producer: Aaron B. Koontz, Scott Martin, Jack Sheehan, Michael Thomas Slifkin&amp;#10;Cast: Tinus Seaux, Alexandria Payne, Lee Eddy, Mike Dellens, John Valley&amp;#10;Cinematographer: Taylor Camarot&amp;#10;Editor: John Valley&amp;#10;Country: United States&amp;#10;Rating: 15&amp;#10;&amp;#10;Hit like, subscribe and ring that bell so you don't miss out on our bi-weekly GRIMM EXCHANGE episodes released every Monday, and the little extras we put up in between. &amp;#10;&amp;#10;Follow us on:&amp;#10;Twitter: https://twitter.com/grimmfest&amp;#10;Facebook: https://www.facebook.com/grimmfest&amp;#10;Instagram: https://www.instagram.com/grimmfest&amp;#10;&amp;#10;#filmpremiere #newfilm #film #filmfestival"
     channeltitle "GRIMMFEST TV"
     channelid "UC5tVuFyhz1zTO8vftGtefXw"
     favcount 0
@@ -1513,7 +2723,29 @@ graph
     ppprofanity 0.025079414
     ppinflammatory 0.1942456
     sentiment 0
-    cluster 3
+    cluster 4
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -1522,7 +2754,7 @@ graph
     step 0
     date "2017-04-24T17:00:00Z"
     title "IS PIZZAGATE FAKE NEWS? | Tim Black on The Michael Trimm Show"
-    description "Tim Black discusses &#34;pizzagate&#34; on The Michael Trimm Show, originally aired on April 2, 2017.  Is it real or fake news? Are the accusations surrounding John Podesta and Comet Ping Pong evidence of a worldwide conspiracy?&#10;&#10;Tim Black has over 90,000 YouTube subscribers because the majority of people who view our videos like, share and subscribe. Thank you for joining us!&#10;&#10; &#34;Tim Black At Night&#34; streams live 9PM est. Mon, Tues, Thurs &#38; Fri. Fridays are viewer/listener call in Night. (Freedom Friday) Stream Shows Here: http://www.youtube.com/c/TimsTake/live&#10;&#10;Find us on Facebook, Twitter at @RealTimBlack and Instagram at TimBlackATNight&#10;&#10;&#9658; Get Some Tim Black Coffee: https://goo.gl/qEqCz6&#10;&#9658; Subscribe -https://www.youtube.com/user/timstakelive?sub_confirmation=1 &#10;&#9660;Grab Some Tim Black Gear: http://timblacktv.com/wolf-pack-merch/&#10;&#9660;Visit the official Tim Black Website: http://www.timblacktv.com&#10;&#9658;Keep Independent Media Alive-&#10;Support Tim' Black TV &#10;Monthly: http://www.patreon.com/TimsTakeLive &#10;or Make a one time donation:  http://www.paypal.me/TimBlack&#10;----------------------------------------&#173;&#173;&#173;--------------------------------------&#173;-&#173;-&#173;-&#10;We Are The Only Change That's Real!"
+    description "Tim Black discusses &amp;#34;pizzagate&amp;#34; on The Michael Trimm Show, originally aired on April 2, 2017.  Is it real or fake news? Are the accusations surrounding John Podesta and Comet Ping Pong evidence of a worldwide conspiracy?&amp;#10;&amp;#10;Tim Black has over 90,000 YouTube subscribers because the majority of people who view our videos like, share and subscribe. Thank you for joining us!&amp;#10;&amp;#10; &amp;#34;Tim Black At Night&amp;#34; streams live 9PM est. Mon, Tues, Thurs &amp;#38; Fri. Fridays are viewer/listener call in Night. (Freedom Friday) Stream Shows Here: http://www.youtube.com/c/TimsTake/live&amp;#10;&amp;#10;Find us on Facebook, Twitter at @RealTimBlack and Instagram at TimBlackATNight&amp;#10;&amp;#10;&amp;#9658; Get Some Tim Black Coffee: https://goo.gl/qEqCz6&amp;#10;&amp;#9658; Subscribe -https://www.youtube.com/user/timstakelive?sub_confirmation=1 &amp;#10;&amp;#9660;Grab Some Tim Black Gear: http://timblacktv.com/wolf-pack-merch/&amp;#10;&amp;#9660;Visit the official Tim Black Website: http://www.timblacktv.com&amp;#10;&amp;#9658;Keep Independent Media Alive-&amp;#10;Support Tim' Black TV &amp;#10;Monthly: http://www.patreon.com/TimsTakeLive &amp;#10;or Make a one time donation:  http://www.paypal.me/TimBlack&amp;#10;----------------------------------------&amp;#173;&amp;#173;&amp;#173;--------------------------------------&amp;#173;-&amp;#173;-&amp;#173;-&amp;#10;We Are The Only Change That's Real!"
     channeltitle "TBTV"
     channelid "UCjRXO-HSl5XpuF-cWvtMV_g"
     favcount 0
@@ -1540,7 +2772,29 @@ graph
     ppprofanity 0.18190107
     ppinflammatory 0.4611415
     sentiment -0.4767
-    cluster 11
+    cluster 10
+    leftright "L"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 1
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -1567,7 +2821,29 @@ graph
     ppprofanity 0.0649807
     ppinflammatory 0.11800456
     sentiment 0
-    cluster 12
+    cluster 11
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -1576,8 +2852,8 @@ graph
     step 0
     date "2019-04-14T14:58:46Z"
     title "#ZeroStreams Highlight: Overwatch - #PizzaGate"
-    description "We argue about Pizza for over 10 minutes...&#10;This Week's Bundle: https://www.indiegala.com/hump-day-71-steam-games-bundle?ref=zeromaster&#10;Support me and get some game deals here: https://www.indiegala.com/?ref=zeromaster&#10;&#10;Joined by: &#10;Nightman39: http://youtube.com/Nightman39&#10;BruddaKirby: https://www.youtube.com/channel/UC0Lt5hfBRxzSYJjaNRuFrnw&#10;OniRokaku: http://youtube.com/OniRokaku&#10;WonRull: http://youtube.com/WellUnreal007&#10;&#10;Art from Thumbnail By: https://www.deviantart.com/yukionetwo/&#10;&#10;Ending Cover By: BruddaKirby: https://www.youtube.com/channel/UC0Lt5hfBRxzSYJjaNRuFrnw&#10;&#10;Check out Zero's New Review: https://www.youtube.com/watch?v=6JuihTInJyc&#38;index=1&#38;list=PL34B4190C6334D3E6&#10;&#10;Check out the #HunterBasePodcast: https://www.youtube.com/watch?v=FTTXaTHWdWg&#38;list=PL1NLLK2KxV_AiDn3gRmsbk8DQszJJfFJz&#38;index=2&#10;&#10;Facebook: http://www.facebook.com/zeromasterfanpage&#10;Twitter: http://twitter.com/zeromaster&#10;Instagram: https://www.instagram.com/zeromasterlp/&#10;Tumblr: http://zeromasterlp.tumblr.com/&#10;Patreon: http://patreon.com/zeromaster&#10;Brave: http://brave.com/zer721&#10;Twitch: https://www.twitch.tv/Zeromasterlp&#10;Website: http://rivercitygamers.com/&#10;RCG Youtube: http://youtube.com/RiverCityGamers&#10;Review Channel: http://youtube.com/ZeromasterReviews&#10;LP's/Walkthroughs: http://youtube.com/ZeromasterLP&#10;Abridged Channel: https://www.youtube.com/channel/UClBuKzYjezjqHYPBXEkQANw&#10;Vlogs: http://youtube.com/ZeromasterVlog&#10;Tip Jar: http://paypal.me/zeromaster&#10;Ko-Fi: http://ko-fi.com/zeromaster"
-    channeltitle "VTuber Zeromaster &#38; Power Plays"
+    description "We argue about Pizza for over 10 minutes...&amp;#10;This Week's Bundle: https://www.indiegala.com/hump-day-71-steam-games-bundle?ref=zeromaster&amp;#10;Support me and get some game deals here: https://www.indiegala.com/?ref=zeromaster&amp;#10;&amp;#10;Joined by: &amp;#10;Nightman39: http://youtube.com/Nightman39&amp;#10;BruddaKirby: https://www.youtube.com/channel/UC0Lt5hfBRxzSYJjaNRuFrnw&amp;#10;OniRokaku: http://youtube.com/OniRokaku&amp;#10;WonRull: http://youtube.com/WellUnreal007&amp;#10;&amp;#10;Art from Thumbnail By: https://www.deviantart.com/yukionetwo/&amp;#10;&amp;#10;Ending Cover By: BruddaKirby: https://www.youtube.com/channel/UC0Lt5hfBRxzSYJjaNRuFrnw&amp;#10;&amp;#10;Check out Zero's New Review: https://www.youtube.com/watch?v=6JuihTInJyc&amp;#38;index=1&amp;#38;list=PL34B4190C6334D3E6&amp;#10;&amp;#10;Check out the #HunterBasePodcast: https://www.youtube.com/watch?v=FTTXaTHWdWg&amp;#38;list=PL1NLLK2KxV_AiDn3gRmsbk8DQszJJfFJz&amp;#38;index=2&amp;#10;&amp;#10;Facebook: http://www.facebook.com/zeromasterfanpage&amp;#10;Twitter: http://twitter.com/zeromaster&amp;#10;Instagram: https://www.instagram.com/zeromasterlp/&amp;#10;Tumblr: http://zeromasterlp.tumblr.com/&amp;#10;Patreon: http://patreon.com/zeromaster&amp;#10;Brave: http://brave.com/zer721&amp;#10;Twitch: https://www.twitch.tv/Zeromasterlp&amp;#10;Website: http://rivercitygamers.com/&amp;#10;RCG Youtube: http://youtube.com/RiverCityGamers&amp;#10;Review Channel: http://youtube.com/ZeromasterReviews&amp;#10;LP's/Walkthroughs: http://youtube.com/ZeromasterLP&amp;#10;Abridged Channel: https://www.youtube.com/channel/UClBuKzYjezjqHYPBXEkQANw&amp;#10;Vlogs: http://youtube.com/ZeromasterVlog&amp;#10;Tip Jar: http://paypal.me/zeromaster&amp;#10;Ko-Fi: http://ko-fi.com/zeromaster"
+    channeltitle "VTuber Zeromaster &amp;#38; Power Plays"
     channelid "UCJxpClTmUyfn61j5nTNayYw"
     favcount 0
     viewcount 321
@@ -1595,6 +2871,28 @@ graph
     ppinflammatory 0.056820247
     sentiment 0.34
     cluster 2
+    leftright "C"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 1
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -1621,7 +2919,29 @@ graph
     ppprofanity 0.16311741
     ppinflammatory 0.12494102
     sentiment 0
-    cluster 9
+    cluster 8
+    leftright "L"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 1
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 1
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -1630,7 +2950,7 @@ graph
     step 0
     date "2017-01-18T04:52:11Z"
     title "CBS News Ben Swann does a  on Pizzagate"
-    description "After looking at much of the current evidence, Ben Swann asks a very good question.... &#34;Why is no one investigating this?&#34;"
+    description "After looking at much of the current evidence, Ben Swann asks a very good question.... &amp;#34;Why is no one investigating this?&amp;#34;"
     channeltitle "David Dobbs"
     channelid "UCDsvTc3PXFIM2g4YUJNkJCw"
     favcount 0
@@ -1648,7 +2968,29 @@ graph
     ppprofanity 0.086906806
     ppinflammatory 0.024973456
     sentiment 0
-    cluster 2
+    cluster 8
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -1657,7 +2999,7 @@ graph
     step 0
     date "2017-02-25T19:21:38Z"
     title "Ben Swann went to far"
-    description "&#34;PizzaGate&#34; has been thrust back into the spotlight for the first time since the election thanks to reporter Ben Swann of CBS46 in Atlanta - only this time, it's not a puff piece labeling it a conspiracy theory, or another New York Times article going out of it's way to defend Comet Ping Pong. Swann lays out the players, including Comet Ping Pong owner James Alefantis (who was in a relationship with CTR-mastermind David Brock), as well as pedophile terminology, logos, and some of the pedo-friendly musical acts featured at the restaurant. Swann even mentions John Podesta's close relationship with convicted pedophile Dennis Hastert, as well as the creepy Podesta art.&#10;&#10;Take a look : Via: Zero Hedge&#10;&#10;Pizzagate Is Back: CBS Reality Check with Ben Swann Airs Honest Segment On Comet Ping Pong&#10;http://www.zerohedge.com/news/2017-01-18/pizzagate-back-cbs-reality-check-ben-swann-airs-honest-segment-comet-ping-pong&#10;&#10;https://file.wikileaks.org/file/FBI-pedophile-symbols.pdf&#10;&#10;http://radiotvtalk.blog.ajc.com/2017/01/26/where-is-cbs46s-ben-swann-since-his-pizzagate-story/&#10;&#10;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~&#10;Road to the Ironman Triathlon - ONE MILE AT A TIME  http://astore.amazon.com/road_to_the_ironman_triathlon-20&#10;Follow Me on STAVA :  https://www.strava.com/athletes/3439119&#10;&#10;My Social Media links:&#10;&#10;Support Me Here At This Link&#10;https://www.paypal.me/BuddyHuggins&#10;https://plus.google.com/+BuddyHuggins/&#10;https://www.youtube.com/user/iambuddyhuggins&#10;http://buddyhuggins.blogspot.com/ &#10;https://www.facebook.com/buddyhuggins&#10;http://pinterest.com/buddyhuggins/pins/ Pinterest &#10;https://twitter.com/buddyhuggins Twitter &#10;http://www.tripadvisor.com/members/Buddyhuggins &#10;http://www.twitter.com/#!/buddyhuggins twitter.com/#!/buddyhuggins&#10; http://dyslexiathegift.blogspot.com/ Dyslexia A Gift Store &#10;https://plus.google.com/105870029002256719797 Google+&#10;&#10;&#10;Bio&#10;I AM Speaking Life to my Cells &#38; DNA Life is just to funny! I have turned 10 years into a life time of fun. See what you can do when you can collapse time. I am becoming younger healthier stronger because I say I am. I speak life to my atoms my cells and to my DNA. I speak that I am becoming that of a 21-year-old Elite Olympic athlete. Specialize in decathlon triathlon. And I'll be darned if my body is cooperating.  &#10;&#10;By the way you haven't seen nothing yet the next 20 years is going to be a tremendous! I am second intention to run a Ironman Triathlon in the next year and, I intend to be able to run one when I'm 90 years old.&#10;&#10;&#34;The secret of health for both mind and body is not to mourn for the past, worry about the future, or anticipate troubles, but to live in the present moment wisely and earnestly.&#34;&#10;&#10;~ Buddha   : )&#10;&#10;&#10;//////"
+    description "&amp;#34;PizzaGate&amp;#34; has been thrust back into the spotlight for the first time since the election thanks to reporter Ben Swann of CBS46 in Atlanta - only this time, it's not a puff piece labeling it a conspiracy theory, or another New York Times article going out of it's way to defend Comet Ping Pong. Swann lays out the players, including Comet Ping Pong owner James Alefantis (who was in a relationship with CTR-mastermind David Brock), as well as pedophile terminology, logos, and some of the pedo-friendly musical acts featured at the restaurant. Swann even mentions John Podesta's close relationship with convicted pedophile Dennis Hastert, as well as the creepy Podesta art.&amp;#10;&amp;#10;Take a look : Via: Zero Hedge&amp;#10;&amp;#10;Pizzagate Is Back: CBS Reality Check with Ben Swann Airs Honest Segment On Comet Ping Pong&amp;#10;http://www.zerohedge.com/news/2017-01-18/pizzagate-back-cbs-reality-check-ben-swann-airs-honest-segment-comet-ping-pong&amp;#10;&amp;#10;https://file.wikileaks.org/file/FBI-pedophile-symbols.pdf&amp;#10;&amp;#10;http://radiotvtalk.blog.ajc.com/2017/01/26/where-is-cbs46s-ben-swann-since-his-pizzagate-story/&amp;#10;&amp;#10;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~&amp;#10;Road to the Ironman Triathlon - ONE MILE AT A TIME  http://astore.amazon.com/road_to_the_ironman_triathlon-20&amp;#10;Follow Me on STAVA :  https://www.strava.com/athletes/3439119&amp;#10;&amp;#10;My Social Media links:&amp;#10;&amp;#10;Support Me Here At This Link&amp;#10;https://www.paypal.me/BuddyHuggins&amp;#10;https://plus.google.com/+BuddyHuggins/&amp;#10;https://www.youtube.com/user/iambuddyhuggins&amp;#10;http://buddyhuggins.blogspot.com/ &amp;#10;https://www.facebook.com/buddyhuggins&amp;#10;http://pinterest.com/buddyhuggins/pins/ Pinterest &amp;#10;https://twitter.com/buddyhuggins Twitter &amp;#10;http://www.tripadvisor.com/members/Buddyhuggins &amp;#10;http://www.twitter.com/#!/buddyhuggins twitter.com/#!/buddyhuggins&amp;#10; http://dyslexiathegift.blogspot.com/ Dyslexia A Gift Store &amp;#10;https://plus.google.com/105870029002256719797 Google+&amp;#10;&amp;#10;&amp;#10;Bio&amp;#10;I AM Speaking Life to my Cells &amp;#38; DNA Life is just to funny! I have turned 10 years into a life time of fun. See what you can do when you can collapse time. I am becoming younger healthier stronger because I say I am. I speak life to my atoms my cells and to my DNA. I speak that I am becoming that of a 21-year-old Elite Olympic athlete. Specialize in decathlon triathlon. And I'll be darned if my body is cooperating.  &amp;#10;&amp;#10;By the way you haven't seen nothing yet the next 20 years is going to be a tremendous! I am second intention to run a Ironman Triathlon in the next year and, I intend to be able to run one when I'm 90 years old.&amp;#10;&amp;#10;&amp;#34;The secret of health for both mind and body is not to mourn for the past, worry about the future, or anticipate troubles, but to live in the present moment wisely and earnestly.&amp;#34;&amp;#10;&amp;#10;~ Buddha   : )&amp;#10;&amp;#10;&amp;#10;//////"
     channeltitle "Buddy Huggins"
     channelid "UCakuV9ZdISrguaQal3at32w"
     favcount 0
@@ -1675,7 +3017,29 @@ graph
     ppprofanity 0.102433555
     ppinflammatory 0.14195491
     sentiment 0
-    cluster 9
+    cluster 8
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -1684,7 +3048,7 @@ graph
     step 0
     date "2022-05-06T10:02:21Z"
     title "Pizzagate"
-    description "Provided to YouTube by Ditto Music&#10;&#10;Pizzagate &#183; Bjoin &#183; Danees&#10;&#10;Pizzagate&#10;&#10;&#8471; Bjoin&#10;&#10;Released on: 2022-05-07&#10;&#10;Auto-generated by YouTube."
+    description "Provided to YouTube by Ditto Music&amp;#10;&amp;#10;Pizzagate &amp;#183; Bjoin &amp;#183; Danees&amp;#10;&amp;#10;Pizzagate&amp;#10;&amp;#10;&amp;#8471; Bjoin&amp;#10;&amp;#10;Released on: 2022-05-07&amp;#10;&amp;#10;Auto-generated by YouTube."
     channeltitle "Bjoin - Topic"
     channelid "UC1bhQJZLI8-YDC09tpmUgUg"
     favcount 0
@@ -1702,7 +3066,29 @@ graph
     ppprofanity 0.021903075
     ppinflammatory 0.17739935
     sentiment 0
-    cluster 12
+    cluster 11
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -1711,7 +3097,7 @@ graph
     step 0
     date "2021-01-20T03:52:11Z"
     title "Comet Pizzagate Protest: Trump Supporters riot drowned out by Lady Gaga, Rupaul"
-    description "The perfect way to celebrate Trump's last night in office: with a Lady Gaga dance party. &#10;&#10;For more about Comet Pizzagate Protest: Trump Supporters rioters drowned out by Lady Gaga, Rupaul, please subscribe http://bit.ly/3oD0qg1&#10;&#10;Don&#8217;t mess with a Lady Gaga dance party.&#10;&#10;A protest turns into a dance party at Comet pizza and apparently the Rupaul song was so loud that protestors left. If you like content like this, be sure to hit that subscribe button down below. &#10;&#10;Comet&#8217;s protestors believe a bogus conspiracy theory about Comet. Pizzagate, a precursor of QAnon, is a theory that the neighborhood eatery was somehow the center of a vast crime ring among Washington elites. It would almost be funny had it not led to Comet and businesses up and down its block getting harassed and, eventually, a gunman walking into the restaurant a little more than four years ago carrying a loaded rifle with the idea he would &#8220;investigate&#8221; its basement dungeon. (There is no basement at Comet.)&#10;&#10;Songs from Lady Gaga drowned out their chants and Comet patrons began dancing around the protesters and singing, eventually outnumbering them to the point that they piled into a white van with Ohio plates and left. &#10;&#10;What do you think of the protest at the Comet pizza place some insane cultists think is harbouring a dungeon? I just think the old dude doing the two step deserves a beer. Sound off in the comments below and don&#8217;t forget to subscribe by hitting my face on the right hand side. &#10;&#10;You can also read my blog about Comet Pizzagate Protest: Trump Supporters rioters drowned out by Lady Gaga, Rupaul at http://www.joseph-morris.com/comet-pizzagate-protest-2021"
+    description "The perfect way to celebrate Trump's last night in office: with a Lady Gaga dance party. &amp;#10;&amp;#10;For more about Comet Pizzagate Protest: Trump Supporters rioters drowned out by Lady Gaga, Rupaul, please subscribe http://bit.ly/3oD0qg1&amp;#10;&amp;#10;Don&amp;#8217;t mess with a Lady Gaga dance party.&amp;#10;&amp;#10;A protest turns into a dance party at Comet pizza and apparently the Rupaul song was so loud that protestors left. If you like content like this, be sure to hit that subscribe button down below. &amp;#10;&amp;#10;Comet&amp;#8217;s protestors believe a bogus conspiracy theory about Comet. Pizzagate, a precursor of QAnon, is a theory that the neighborhood eatery was somehow the center of a vast crime ring among Washington elites. It would almost be funny had it not led to Comet and businesses up and down its block getting harassed and, eventually, a gunman walking into the restaurant a little more than four years ago carrying a loaded rifle with the idea he would &amp;#8220;investigate&amp;#8221; its basement dungeon. (There is no basement at Comet.)&amp;#10;&amp;#10;Songs from Lady Gaga drowned out their chants and Comet patrons began dancing around the protesters and singing, eventually outnumbering them to the point that they piled into a white van with Ohio plates and left. &amp;#10;&amp;#10;What do you think of the protest at the Comet pizza place some insane cultists think is harbouring a dungeon? I just think the old dude doing the two step deserves a beer. Sound off in the comments below and don&amp;#8217;t forget to subscribe by hitting my face on the right hand side. &amp;#10;&amp;#10;You can also read my blog about Comet Pizzagate Protest: Trump Supporters rioters drowned out by Lady Gaga, Rupaul at http://www.joseph-morris.com/comet-pizzagate-protest-2021"
     channeltitle "Joseph Morris"
     channelid "UCwd4frI15aNYFZ_TuLc9XUg"
     favcount 0
@@ -1730,6 +3116,28 @@ graph
     ppinflammatory 0.24890211
     sentiment -0.765
     cluster 7
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -1756,7 +3164,29 @@ graph
     ppprofanity 0.07985135
     ppinflammatory 0.13052888
     sentiment 0
-    cluster 12
+    cluster 11
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -1765,8 +3195,8 @@ graph
     step 0
     date "2020-06-07T15:31:54Z"
     title "La VERDADERA CARA de ANONYMOUS | Fraude, Pizzagate y Caso Epstein"
-    description "&#161;S&#237;gueme en Twitch! -  https://www.twitch.tv/gataschrodinger&#10;Si quieres ayudarnos a seguir haciendo v&#237;deos: https://www.patreon.com/lagatadeschrodinger &#10;&#161;MIL GRACIAS!&#10;&#10;Sigue a Emilio Dom&#233;nech en sus redes - YT https://bit.ly/3dFEtXX&#10;Twitter: https://twitter.com/Nanisimo&#10;&#10;&#10;Edici&#243;n por Nacho Amela&#10;Tw: https://twitter.com/nachoamela&#10;Ig: https://www.instagram.com/nachoamela/&#10;&#10;S&#205;GUEME EN LAS REDES &#10;TW https://twitter.com/schrodingergata &#10;IG https://instagram.com/lagatadeschrodinger"
-    channeltitle "La gata de Schr&#246;dinger"
+    description "&amp;#161;S&amp;#237;gueme en Twitch! -  https://www.twitch.tv/gataschrodinger&amp;#10;Si quieres ayudarnos a seguir haciendo v&amp;#237;deos: https://www.patreon.com/lagatadeschrodinger &amp;#10;&amp;#161;MIL GRACIAS!&amp;#10;&amp;#10;Sigue a Emilio Dom&amp;#233;nech en sus redes - YT https://bit.ly/3dFEtXX&amp;#10;Twitter: https://twitter.com/Nanisimo&amp;#10;&amp;#10;&amp;#10;Edici&amp;#243;n por Nacho Amela&amp;#10;Tw: https://twitter.com/nachoamela&amp;#10;Ig: https://www.instagram.com/nachoamela/&amp;#10;&amp;#10;S&amp;#205;GUEME EN LAS REDES &amp;#10;TW https://twitter.com/schrodingergata &amp;#10;IG https://instagram.com/lagatadeschrodinger"
+    channeltitle "La gata de Schr&amp;#246;dinger"
     channelid "UCoXtmmnLCbXDiSo8GxsmOzA"
     favcount 0
     viewcount 324530
@@ -1784,6 +3214,28 @@ graph
     ppinflammatory 0.12955654
     sentiment 0
     cluster 7
+    leftright "L"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 1
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -1810,7 +3262,29 @@ graph
     ppprofanity 0.36624435
     ppinflammatory 0.16591267
     sentiment -0.5267
-    cluster 12
+    cluster 11
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -1819,7 +3293,7 @@ graph
     step 0
     date "2020-11-14T17:58:07Z"
     title "Freemason Ritual Abuse - PizzaGate"
-    description "Freemason Abuse victim Aria speaking on members of the British establishment perpetrating organized sexual abuse of children. In #London, during the 1990&#8217;s, Aria was taken to ceremonies where she was ritually abuse with other children.&#10;&#10;One such instance she claims occurred at the Masonic Grand Lodge of #England. Also at various other locations including an apartment above a Russell and a rom let shoe shop in Richmond, London. &#10;&#10;Aria&#8217;s father was a freemason, and was her abuser as well. Her uncle is also a Freemason. The rituals included rape, forcing her hand to take another life, and ritual murder of both animals and children.&#10;&#10;She claims there were various techniques to control the children including creating trauma bonds, such as letting the child nearly drown and then &#8220;rescuing&#8221; the child to create a subconscious bond.&#10;&#10;As Phoenix points out, the police force (especially in England) has been accused of freemasonic influence with a good amount of evidence. They refuse to report how many of their officers are members of the secret society.&#10;&#10;For more information on the freemasonic corruption in police, see my old post about Operation Tiberius or research that yourself. For more of this story and other reports, search Aria and Phoenix on #YouTube."
+    description "Freemason Abuse victim Aria speaking on members of the British establishment perpetrating organized sexual abuse of children. In #London, during the 1990&amp;#8217;s, Aria was taken to ceremonies where she was ritually abuse with other children.&amp;#10;&amp;#10;One such instance she claims occurred at the Masonic Grand Lodge of #England. Also at various other locations including an apartment above a Russell and a rom let shoe shop in Richmond, London. &amp;#10;&amp;#10;Aria&amp;#8217;s father was a freemason, and was her abuser as well. Her uncle is also a Freemason. The rituals included rape, forcing her hand to take another life, and ritual murder of both animals and children.&amp;#10;&amp;#10;She claims there were various techniques to control the children including creating trauma bonds, such as letting the child nearly drown and then &amp;#8220;rescuing&amp;#8221; the child to create a subconscious bond.&amp;#10;&amp;#10;As Phoenix points out, the police force (especially in England) has been accused of freemasonic influence with a good amount of evidence. They refuse to report how many of their officers are members of the secret society.&amp;#10;&amp;#10;For more information on the freemasonic corruption in police, see my old post about Operation Tiberius or research that yourself. For more of this story and other reports, search Aria and Phoenix on #YouTube."
     channeltitle "The Uncreated Light"
     channelid "UCCmc-IzbKoHceo1XiZR_82g"
     favcount 0
@@ -1838,6 +3312,28 @@ graph
     ppinflammatory 0.49475983
     sentiment -0.6369
     cluster 5
+    leftright "R"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 1
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 1
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -1865,6 +3361,28 @@ graph
     ppinflammatory 0.20202254
     sentiment 0
     cluster 6
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -1892,6 +3410,28 @@ graph
     ppinflammatory 0.20819971
     sentiment -0.5859
     cluster 5
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -1900,7 +3440,7 @@ graph
     step 0
     date "2016-12-09T23:01:30Z"
     title "The Origins of the #PIZZAGATE Conspiracy Theory"
-    description "SUPPORT more videos like this at http://patreon.com/rebecca&#10;&#10;SUBSCRIBE at http://www.youtube.com/subscription_center?add_user=rkwatson&#10;&#10;+++&#10;Conspiracy theories are running rampant amongst neo-Nazis in the wake of Donald Trump's impending inauguration as President. Here's the origins of one particularly dangerous one.&#10;&#10;Links + transcript avaliable at https://www.patreon.com/posts/7454285&#10;&#10;+++&#10;&#10;ABOUT: Rebecca Watson is the founder of the Skepchick Network, a collection of sites focused on science and critical thinking. She has written for outlets such as Slate, Popular Science, and the Committee for Skeptical Inquiry. She's also the host of Quizotron, a rowdy, live quiz show that pits scientists against comedians. Asteroid 153289 Rebeccawatson is named after her (her real name being 153289).&#10;&#10;+++&#10;&#10;MORE: http://www.skepchick.org&#10;FOLLOW: http://www.twitter.com/skepchicks&#10;AND: http://www.twitter.com/rebeccawatson&#10;LIKE: https://www.facebook.com/skepchicks"
+    description "SUPPORT more videos like this at http://patreon.com/rebecca&amp;#10;&amp;#10;SUBSCRIBE at http://www.youtube.com/subscription_center?add_user=rkwatson&amp;#10;&amp;#10;+++&amp;#10;Conspiracy theories are running rampant amongst neo-Nazis in the wake of Donald Trump's impending inauguration as President. Here's the origins of one particularly dangerous one.&amp;#10;&amp;#10;Links + transcript avaliable at https://www.patreon.com/posts/7454285&amp;#10;&amp;#10;+++&amp;#10;&amp;#10;ABOUT: Rebecca Watson is the founder of the Skepchick Network, a collection of sites focused on science and critical thinking. She has written for outlets such as Slate, Popular Science, and the Committee for Skeptical Inquiry. She's also the host of Quizotron, a rowdy, live quiz show that pits scientists against comedians. Asteroid 153289 Rebeccawatson is named after her (her real name being 153289).&amp;#10;&amp;#10;+++&amp;#10;&amp;#10;MORE: http://www.skepchick.org&amp;#10;FOLLOW: http://www.twitter.com/skepchicks&amp;#10;AND: http://www.twitter.com/rebeccawatson&amp;#10;LIKE: https://www.facebook.com/skepchicks"
     channeltitle "Rebecca Watson"
     channelid "UCFJxE0l3cVYU4kHzi4qVEkw"
     favcount 0
@@ -1918,7 +3458,29 @@ graph
     ppprofanity 0.030648436
     ppinflammatory 0.35701004
     sentiment -0.5267
-    cluster 2
+    cluster 8
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -1927,7 +3489,7 @@ graph
     step 0
     date "2016-12-27T21:59:24Z"
     title "Pizzagate Fake News Cringe Compilation"
-    description "A humorous compilation of people pushing the ridiculous, politically motivated &#34;Pizzagate&#34; hoax with a side order of people complaining about censorship and being labelled &#34;Fake News&#34;. &#10;#pizzagate #hoax #SYNTHETICREBELLION"
+    description "A humorous compilation of people pushing the ridiculous, politically motivated &amp;#34;Pizzagate&amp;#34; hoax with a side order of people complaining about censorship and being labelled &amp;#34;Fake News&amp;#34;. &amp;#10;#pizzagate #hoax #SYNTHETICREBELLION"
     channeltitle "syntheticrebellion"
     channelid "UCMe7hdSiN3ePwcT1NmnAyxg"
     favcount 0
@@ -1945,7 +3507,29 @@ graph
     ppprofanity 0.15335941
     ppinflammatory 0.28339094
     sentiment -0.4767
-    cluster 11
+    cluster 10
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -1972,7 +3556,29 @@ graph
     ppprofanity 0.27094704
     ppinflammatory 0.09688157
     sentiment 0
-    cluster 9
+    cluster 8
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -2000,6 +3606,28 @@ graph
     ppinflammatory 0.24136902
     sentiment 0
     cluster 6
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -2026,7 +3654,29 @@ graph
     ppprofanity 0.05555373
     ppinflammatory 0.09793706
     sentiment 0
-    cluster 11
+    cluster 10
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -2054,6 +3704,28 @@ graph
     ppinflammatory 0.29585543
     sentiment 0
     cluster 2
+    leftright "C"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 1
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -2062,7 +3734,7 @@ graph
     step 0
     date "2016-11-30T06:29:19Z"
     title "Zen Starwalker - PizzaGate (Prod: Space N Veda) 4k"
-    description "https://www.patreon.com/ZenStarwalker Help support my channel.&#10;Zen Starwalker: https://www.facebook.com/ZenStarwalker613 Space N Veda: https://www.facebook.com/spaceNveda&#10;PizzaGate. video by FoxADHD.com"
+    description "https://www.patreon.com/ZenStarwalker Help support my channel.&amp;#10;Zen Starwalker: https://www.facebook.com/ZenStarwalker613 Space N Veda: https://www.facebook.com/spaceNveda&amp;#10;PizzaGate. video by FoxADHD.com"
     channeltitle "Zen Starwalker"
     channelid "UC5_USlP_AznGZFQGW4N6ZWw"
     favcount 0
@@ -2080,7 +3752,29 @@ graph
     ppprofanity 0.034011967
     ppinflammatory 0.062217284
     sentiment 0
-    cluster 4
+    cluster 1
+    leftright "C"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 1
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -2089,7 +3783,7 @@ graph
     step 0
     date "2020-08-11T17:00:06Z"
     title "CALLING A WAYFAIR EMPLOYEE ABOUT PIZZAGATE/ CHILD TRAFFICKING CONSPIRACY!!"
-    description "I Call And Talk To An Employee At Wayfair About Their Thoughts On Pizzagate And The Child Trafficking Conspiracy Theories.&#10;This May Just Be The Most Audacious Video I Have Ever Made.&#10;Comment Below Your Thoughts!&#10;&#10;#pizzagate #wayfair #conspiracy &#10;&#10;Get Your Merch Now At: https://teespring.com/stores/tazmaniaahmeds-store&#10;&#10;Let Try Get To 100k Subscribers: https://bit.ly/2vhjIxB &#10;&#10;INSTAGRAM: http://www.instagram.com/tma.youtube &#10;&#10;FACEBOOK: https://bit.ly/2KsmKnp &#10;&#10;Follow My Blogger: http://tazmaniaahmed.blogspot.co.uk/ &#10;&#10;TWITTER: http://www.twitter.com/tazmaniaahmed &#10;&#10;Sports/ Interview Channel: http://www.youtube.com/tazmaniaahmedtv &#10;&#10;Gaming Channel: http://www.youtube.com/tazmaniaahmedhd &#10;&#10;Collaborations / Enquires: Businesstma@hotmail.com &#10;Like Subscribe And Share! &#10;&#10;&#10;*Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for &#34;fair use&#34; for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use. No copyright infringement intended. ALL RIGHTS BELONG TO THEIR RESPECTIVE OWNERS*"
+    description "I Call And Talk To An Employee At Wayfair About Their Thoughts On Pizzagate And The Child Trafficking Conspiracy Theories.&amp;#10;This May Just Be The Most Audacious Video I Have Ever Made.&amp;#10;Comment Below Your Thoughts!&amp;#10;&amp;#10;#pizzagate #wayfair #conspiracy &amp;#10;&amp;#10;Get Your Merch Now At: https://teespring.com/stores/tazmaniaahmeds-store&amp;#10;&amp;#10;Let Try Get To 100k Subscribers: https://bit.ly/2vhjIxB &amp;#10;&amp;#10;INSTAGRAM: http://www.instagram.com/tma.youtube &amp;#10;&amp;#10;FACEBOOK: https://bit.ly/2KsmKnp &amp;#10;&amp;#10;Follow My Blogger: http://tazmaniaahmed.blogspot.co.uk/ &amp;#10;&amp;#10;TWITTER: http://www.twitter.com/tazmaniaahmed &amp;#10;&amp;#10;Sports/ Interview Channel: http://www.youtube.com/tazmaniaahmedtv &amp;#10;&amp;#10;Gaming Channel: http://www.youtube.com/tazmaniaahmedhd &amp;#10;&amp;#10;Collaborations / Enquires: Businesstma@hotmail.com &amp;#10;Like Subscribe And Share! &amp;#10;&amp;#10;&amp;#10;*Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for &amp;#34;fair use&amp;#34; for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use. No copyright infringement intended. ALL RIGHTS BELONG TO THEIR RESPECTIVE OWNERS*"
     channeltitle "TazManiaAhmed"
     channelid "UCZBwl3Etl_xTuF_5G9UGwmA"
     favcount 0
@@ -2108,6 +3802,28 @@ graph
     ppinflammatory 0.4614868
     sentiment -0.5267
     cluster 8
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -2116,7 +3832,7 @@ graph
     step 0
     date "2016-12-12T13:00:00Z"
     title "Pizzagate Party! - The Facepalm Five: December 12, 2016"
-    description "Donald Trump's prospective cabinet keeps getting worse and worse. Meanwhile, conspiracy theories pushed by Trump's buddy Alex Jones inspire a gunman to invade a D.C. pizza place.&#10;&#10;Sources for stories mentioned in this video:&#10;&#10;&#34;Dozens Of Members Of Congress Met With Religious Right Pastors To Drive Satan Out Of Power In The Capitol&#34;&#10;&#10;http://www.rightwingwatch.org/post/dozens-of-members-of-congress-met-with-religious-right-pastors-to-drive-satan-out-of-power-in-the-capitol/&#10;&#10;&#34;Trump calls for jailing, revoking citizenship of flag-burners&#34;&#10;&#10;http://www.politico.com/story/2016/11/trump-flag-burning-231920&#10;&#10;&#34;Donald Trump Is Choosing His Cabinet. Here&#8217;s the Latest List.&#34;&#10;&#10;http://www.nytimes.com/interactive/2016/us/politics/donald-trump-administration.html&#10;&#10;&#34;Ohio passes 'heartbeat' abortion bill; leader cites Trump's election&#34;&#10;&#10;http://www.cnn.com/2016/12/07/politics/ohio-abortion-bill/&#10;&#10;&#34;Radio Conspiracy Theorist Claims Ear Of Trump, Pushes 'Pizzagate' Fictions&#34;&#10;&#10;http://www.npr.org/2016/12/06/504590375/radio-conspiracy-theorist-claims-ear-of-trump-pushes-pizzagate-fictions&#10;&#10;Don't forget to hit the &#34;Subscribe&#34; button if you're new around here and you like what you see!&#10;&#10;Please consider supporting this channel.&#10;&#10;To Pledge at My Patreon Page:&#10;http://www.patreon.com/steveshives&#10;&#10;To Donate Through PayPal:&#10;https://www.paypal.me/SteveShives&#10;&#10;Follow me on Twitter:&#10;https://twitter.com/steve_shives&#10;&#10;Thanks!"
+    description "Donald Trump's prospective cabinet keeps getting worse and worse. Meanwhile, conspiracy theories pushed by Trump's buddy Alex Jones inspire a gunman to invade a D.C. pizza place.&amp;#10;&amp;#10;Sources for stories mentioned in this video:&amp;#10;&amp;#10;&amp;#34;Dozens Of Members Of Congress Met With Religious Right Pastors To Drive Satan Out Of Power In The Capitol&amp;#34;&amp;#10;&amp;#10;http://www.rightwingwatch.org/post/dozens-of-members-of-congress-met-with-religious-right-pastors-to-drive-satan-out-of-power-in-the-capitol/&amp;#10;&amp;#10;&amp;#34;Trump calls for jailing, revoking citizenship of flag-burners&amp;#34;&amp;#10;&amp;#10;http://www.politico.com/story/2016/11/trump-flag-burning-231920&amp;#10;&amp;#10;&amp;#34;Donald Trump Is Choosing His Cabinet. Here&amp;#8217;s the Latest List.&amp;#34;&amp;#10;&amp;#10;http://www.nytimes.com/interactive/2016/us/politics/donald-trump-administration.html&amp;#10;&amp;#10;&amp;#34;Ohio passes 'heartbeat' abortion bill; leader cites Trump's election&amp;#34;&amp;#10;&amp;#10;http://www.cnn.com/2016/12/07/politics/ohio-abortion-bill/&amp;#10;&amp;#10;&amp;#34;Radio Conspiracy Theorist Claims Ear Of Trump, Pushes 'Pizzagate' Fictions&amp;#34;&amp;#10;&amp;#10;http://www.npr.org/2016/12/06/504590375/radio-conspiracy-theorist-claims-ear-of-trump-pushes-pizzagate-fictions&amp;#10;&amp;#10;Don't forget to hit the &amp;#34;Subscribe&amp;#34; button if you're new around here and you like what you see!&amp;#10;&amp;#10;Please consider supporting this channel.&amp;#10;&amp;#10;To Pledge at My Patreon Page:&amp;#10;http://www.patreon.com/steveshives&amp;#10;&amp;#10;To Donate Through PayPal:&amp;#10;https://www.paypal.me/SteveShives&amp;#10;&amp;#10;Follow me on Twitter:&amp;#10;https://twitter.com/steve_shives&amp;#10;&amp;#10;Thanks!"
     channeltitle "Steve Shives"
     channelid "UCD4qMoFPUEzSn4CurFLJkIQ"
     favcount 0
@@ -2134,7 +3850,29 @@ graph
     ppprofanity 0.033759374
     ppinflammatory 0.18590549
     sentiment 0.4019
-    cluster 11
+    cluster 10
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -2143,7 +3881,7 @@ graph
     step 0
     date "2010-11-03T06:18:05Z"
     title "PizzaGate"
-    description "&#34;...and they repented not of their murders, nor of their sorceries, nor of their fornication, nor of their thefts.&#34;&#10;&#10;Revelation 9:21"
+    description "&amp;#34;...and they repented not of their murders, nor of their sorceries, nor of their fornication, nor of their thefts.&amp;#34;&amp;#10;&amp;#10;Revelation 9:21"
     channeltitle "Magical YouTube Poop"
     channelid "UChJ_4enNnV7lSYdXmpH18ZA"
     favcount 0
@@ -2162,6 +3900,28 @@ graph
     ppinflammatory 0.17739935
     sentiment 0
     cluster 8
+    leftright "L"
+    AntiSJW 0
+    AntiTheist 1
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 1
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 1
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -2170,7 +3930,7 @@ graph
     step 0
     date "2022-06-18T12:37:38Z"
     title " Pizza Gate"
-    description "&#1575;&#1576;&#1608;&#1606;&#1610; &#1575;&#1587;&#1578;&#1602;&#1585;&#1575;&#1605; &#1601;&#1610; &#1591;&#1585;&#1610;&#1602;&#1603; : https://www.instagram.com/raklita.0&#10;&#1602;&#1606;&#1575;&#1577; &#1575;&#1604;&#1575;&#1589;&#1604;&#1610;&#1577; : https://www.youtube.com/channel/UCeTRStecfjTRnTBfRjsKNtQ&#10;&#10;&#1580;&#1600;&#8226;&#1585;&#1610;&#1605;&#1577; &#1601;&#1610; &#1575;&#1604;&#1605;&#1602;&#1607;&#1609;,&#1608;&#1602;&#1583;&#1575;&#1605; &#1603;&#1575;&#1605;&#1610;&#1585;&#1575;&#1578; &#1575;&#1604;&#1605;&#1585;&#1575;&#1602;&#1576;&#1607; ,&#1585;&#1608;&#1575;&#1610;&#1575;&#1578; &#1602;&#1589;&#1589; &#1585;&#1593;&#1576; &#1581;&#1602;&#1610;&#1602;&#1610;&#1577;,&#1585;&#1608;&#1575;&#1610;&#1575;&#1578; &#1602;&#1589;&#1589; &#1605;&#1585;&#1593;&#1576;&#1577;,&#1602;&#1589;&#1589; &#1575;&#1582;&#1578;&#1601;&#1575;&#1569; &#1575;&#1588;&#1582;&#1575;&#1589;,&#1602;&#1589;&#1589; &#1575;&#1582;&#1578;&#1601;&#1575;&#1569; &#1594;&#1575;&#1605;&#1590;&#1607;,&#1602;&#1589;&#1589; &#1575;&#1582;&#1578;&#1601;&#1575;&#1569; &#1605;&#1588;&#1607;&#1608;&#1585;&#1577;,&#1602;&#1589;&#1589; &#1580;&#1585;&#1575;&#1574;&#1605; &#1581;&#1602;&#1610;&#1602;&#1610;&#1607;,&#1602;&#1589;&#1589; &#1581;&#1583;&#1579;&#1578; &#1576;&#1575;&#1604;&#1601;&#1593;&#1604;,&#1602;&#1589;&#1589; &#1585;&#1593;&#1576;,&#1602;&#1589;&#1589; &#1585;&#1593;&#1576; &#1594;&#1575;&#1605;&#1590;&#1577;,&#1602;&#1589;&#1589; &#1585;&#1593;&#1576; &#1605;&#1587;&#1578;&#1608;&#1581;&#1610;&#1577; &#1605;&#1606; &#1575;&#1604;&#1608;&#1575;&#1602;&#1593;,&#1602;&#1589;&#1589; &#1604;&#1610;&#1605;&#1608;,&#1602;&#1589;&#1589; &#1605;&#1585;&#1593;&#1576;&#1577;,&#1602;&#1589;&#1589; &#1605;&#1585;&#1593;&#1576;&#1577; &#1604;&#1610;&#1605;&#1608;,&#1602;&#1589;&#1589; &#1605;&#1585;&#1593;&#1576;&#1607;,&#1602;&#1589;&#1589; &#1605;&#1585;&#1593;&#1576;&#1607; &#1581;&#1583;&#1579;&#1578; &#1576;&#1575;&#1604;&#1601;&#1593;&#1604;,&#1602;&#1589;&#1589; &#1605;&#1585;&#1593;&#1576;&#1607; &#1581;&#1602;&#1610;&#1602;&#1610;&#1607; &#1602;&#1583;&#1610;&#1605;&#1607;,&#10;pizza gate&#10;&#1576;&#1610;&#1578;&#1586;&#1575; &#1602;&#1575;&#1610;&#1578; &#10;&#1575;&#1582;&#1578;&#1591;&#1575;&#1601; &#1575;&#1604;&#1575;&#1591;&#1601;&#1575;&#1604; &#10;&#1606;&#1592;&#1585;&#1610;&#1577; &#1576;&#1610;&#1578;&#1586;&#1575; &#1602;&#1575;&#1610;&#1578;"
+    description "&amp;#1575;&amp;#1576;&amp;#1608;&amp;#1606;&amp;#1610; &amp;#1575;&amp;#1587;&amp;#1578;&amp;#1602;&amp;#1585;&amp;#1575;&amp;#1605; &amp;#1601;&amp;#1610; &amp;#1591;&amp;#1585;&amp;#1610;&amp;#1602;&amp;#1603; : https://www.instagram.com/raklita.0&amp;#10;&amp;#1602;&amp;#1606;&amp;#1575;&amp;#1577; &amp;#1575;&amp;#1604;&amp;#1575;&amp;#1589;&amp;#1604;&amp;#1610;&amp;#1577; : https://www.youtube.com/channel/UCeTRStecfjTRnTBfRjsKNtQ&amp;#10;&amp;#10;&amp;#1580;&amp;#1600;&amp;#8226;&amp;#1585;&amp;#1610;&amp;#1605;&amp;#1577; &amp;#1601;&amp;#1610; &amp;#1575;&amp;#1604;&amp;#1605;&amp;#1602;&amp;#1607;&amp;#1609;,&amp;#1608;&amp;#1602;&amp;#1583;&amp;#1575;&amp;#1605; &amp;#1603;&amp;#1575;&amp;#1605;&amp;#1610;&amp;#1585;&amp;#1575;&amp;#1578; &amp;#1575;&amp;#1604;&amp;#1605;&amp;#1585;&amp;#1575;&amp;#1602;&amp;#1576;&amp;#1607; ,&amp;#1585;&amp;#1608;&amp;#1575;&amp;#1610;&amp;#1575;&amp;#1578; &amp;#1602;&amp;#1589;&amp;#1589; &amp;#1585;&amp;#1593;&amp;#1576; &amp;#1581;&amp;#1602;&amp;#1610;&amp;#1602;&amp;#1610;&amp;#1577;,&amp;#1585;&amp;#1608;&amp;#1575;&amp;#1610;&amp;#1575;&amp;#1578; &amp;#1602;&amp;#1589;&amp;#1589; &amp;#1605;&amp;#1585;&amp;#1593;&amp;#1576;&amp;#1577;,&amp;#1602;&amp;#1589;&amp;#1589; &amp;#1575;&amp;#1582;&amp;#1578;&amp;#1601;&amp;#1575;&amp;#1569; &amp;#1575;&amp;#1588;&amp;#1582;&amp;#1575;&amp;#1589;,&amp;#1602;&amp;#1589;&amp;#1589; &amp;#1575;&amp;#1582;&amp;#1578;&amp;#1601;&amp;#1575;&amp;#1569; &amp;#1594;&amp;#1575;&amp;#1605;&amp;#1590;&amp;#1607;,&amp;#1602;&amp;#1589;&amp;#1589; &amp;#1575;&amp;#1582;&amp;#1578;&amp;#1601;&amp;#1575;&amp;#1569; &amp;#1605;&amp;#1588;&amp;#1607;&amp;#1608;&amp;#1585;&amp;#1577;,&amp;#1602;&amp;#1589;&amp;#1589; &amp;#1580;&amp;#1585;&amp;#1575;&amp;#1574;&amp;#1605; &amp;#1581;&amp;#1602;&amp;#1610;&amp;#1602;&amp;#1610;&amp;#1607;,&amp;#1602;&amp;#1589;&amp;#1589; &amp;#1581;&amp;#1583;&amp;#1579;&amp;#1578; &amp;#1576;&amp;#1575;&amp;#1604;&amp;#1601;&amp;#1593;&amp;#1604;,&amp;#1602;&amp;#1589;&amp;#1589; &amp;#1585;&amp;#1593;&amp;#1576;,&amp;#1602;&amp;#1589;&amp;#1589; &amp;#1585;&amp;#1593;&amp;#1576; &amp;#1594;&amp;#1575;&amp;#1605;&amp;#1590;&amp;#1577;,&amp;#1602;&amp;#1589;&amp;#1589; &amp;#1585;&amp;#1593;&amp;#1576; &amp;#1605;&amp;#1587;&amp;#1578;&amp;#1608;&amp;#1581;&amp;#1610;&amp;#1577; &amp;#1605;&amp;#1606; &amp;#1575;&amp;#1604;&amp;#1608;&amp;#1575;&amp;#1602;&amp;#1593;,&amp;#1602;&amp;#1589;&amp;#1589; &amp;#1604;&amp;#1610;&amp;#1605;&amp;#1608;,&amp;#1602;&amp;#1589;&amp;#1589; &amp;#1605;&amp;#1585;&amp;#1593;&amp;#1576;&amp;#1577;,&amp;#1602;&amp;#1589;&amp;#1589; &amp;#1605;&amp;#1585;&amp;#1593;&amp;#1576;&amp;#1577; &amp;#1604;&amp;#1610;&amp;#1605;&amp;#1608;,&amp;#1602;&amp;#1589;&amp;#1589; &amp;#1605;&amp;#1585;&amp;#1593;&amp;#1576;&amp;#1607;,&amp;#1602;&amp;#1589;&amp;#1589; &amp;#1605;&amp;#1585;&amp;#1593;&amp;#1576;&amp;#1607; &amp;#1581;&amp;#1583;&amp;#1579;&amp;#1578; &amp;#1576;&amp;#1575;&amp;#1604;&amp;#1601;&amp;#1593;&amp;#1604;,&amp;#1602;&amp;#1589;&amp;#1589; &amp;#1605;&amp;#1585;&amp;#1593;&amp;#1576;&amp;#1607; &amp;#1581;&amp;#1602;&amp;#1610;&amp;#1602;&amp;#1610;&amp;#1607; &amp;#1602;&amp;#1583;&amp;#1610;&amp;#1605;&amp;#1607;,&amp;#10;pizza gate&amp;#10;&amp;#1576;&amp;#1610;&amp;#1578;&amp;#1586;&amp;#1575; &amp;#1602;&amp;#1575;&amp;#1610;&amp;#1578; &amp;#10;&amp;#1575;&amp;#1582;&amp;#1578;&amp;#1591;&amp;#1575;&amp;#1601; &amp;#1575;&amp;#1604;&amp;#1575;&amp;#1591;&amp;#1601;&amp;#1575;&amp;#1604; &amp;#10;&amp;#1606;&amp;#1592;&amp;#1585;&amp;#1610;&amp;#1577; &amp;#1576;&amp;#1610;&amp;#1578;&amp;#1586;&amp;#1575; &amp;#1602;&amp;#1575;&amp;#1610;&amp;#1578;"
     channeltitle "Raklita Story"
     channelid "UC1LWKXRMwsDolZcPtIzXsyQ"
     favcount 0
@@ -2189,6 +3949,28 @@ graph
     ppinflammatory 0.1307967
     sentiment 0
     cluster 2
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -2197,7 +3979,7 @@ graph
     step 0
     date "2022-03-23T13:57:08Z"
     title "PizzaGate"
-    description "Provided to YouTube by IIP-DDS&#10;&#10;PizzaGate &#183; Mona Fishman&#10;&#10;Songs For America&#10;&#10;&#8471; 2017 Mona Fishman&#10;&#10;Released on: 2022-03-14&#10;&#10;Music  Publisher: Copyright Control&#10;Composer: Mona Fishman&#10;Lyricist: Mona Fishman&#10;&#10;Auto-generated by YouTube."
+    description "Provided to YouTube by IIP-DDS&amp;#10;&amp;#10;PizzaGate &amp;#183; Mona Fishman&amp;#10;&amp;#10;Songs For America&amp;#10;&amp;#10;&amp;#8471; 2017 Mona Fishman&amp;#10;&amp;#10;Released on: 2022-03-14&amp;#10;&amp;#10;Music  Publisher: Copyright Control&amp;#10;Composer: Mona Fishman&amp;#10;Lyricist: Mona Fishman&amp;#10;&amp;#10;Auto-generated by YouTube."
     channeltitle "Mona Fishman - Topic"
     channelid "UCmhQdHIPPVq71AhRRUBqrqw"
     favcount 0
@@ -2215,7 +3997,29 @@ graph
     ppprofanity 0.035636835
     ppinflammatory 0.17739935
     sentiment 0
-    cluster 11
+    cluster 10
+    leftright "L"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 1
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -2243,6 +4047,28 @@ graph
     ppinflammatory 0.80792975
     sentiment -0.5267
     cluster 6
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -2251,7 +4077,7 @@ graph
     step 0
     date "2022-01-27T13:45:10Z"
     title "Erryting Kool 068 - Pizzagate feat. Funny Reno/Reno from Pizza hut"
-    description "On this audio adventure, we are joined by FunnyReno also known as RenoFromPizzaHut from Tik Tok! He tells his backstory which includes him being a former youth pastor. Press play to dive in!&#10;&#10;Listen To The Full AUDIO BELOW!&#10;SoundCloud: https://soundcloud.com/theoriginalpeoplenetwork/ek068-pizzagate&#10;&#10;Spotify: https://open.spotify.com/show/0OHlcYt...&#10;&#10;Apple Music:https://podcasts.apple.com/us/podcast...&#10;&#10;Patreon:https://www.patreon.com/theoriginalpe...&#10;&#10;Thank you for listening! Please follow us on Twitter (@theopnetwork), Instagram (@theoriginalpeoplenetwork), and Facebook to stay updated for exclusive content."
+    description "On this audio adventure, we are joined by FunnyReno also known as RenoFromPizzaHut from Tik Tok! He tells his backstory which includes him being a former youth pastor. Press play to dive in!&amp;#10;&amp;#10;Listen To The Full AUDIO BELOW!&amp;#10;SoundCloud: https://soundcloud.com/theoriginalpeoplenetwork/ek068-pizzagate&amp;#10;&amp;#10;Spotify: https://open.spotify.com/show/0OHlcYt...&amp;#10;&amp;#10;Apple Music:https://podcasts.apple.com/us/podcast...&amp;#10;&amp;#10;Patreon:https://www.patreon.com/theoriginalpe...&amp;#10;&amp;#10;Thank you for listening! Please follow us on Twitter (@theopnetwork), Instagram (@theoriginalpeoplenetwork), and Facebook to stay updated for exclusive content."
     channeltitle "The Original People Network"
     channelid "UCnM9sNZJM2Yy9qBIVULOduA"
     favcount 0
@@ -2269,7 +4095,29 @@ graph
     ppprofanity 0.06526514
     ppinflammatory 0.33597302
     sentiment 0.4404
-    cluster 3
+    cluster 11
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -2296,7 +4144,29 @@ graph
     ppprofanity 0.017565751
     ppinflammatory 0.3312129
     sentiment 0
-    cluster 9
+    cluster 8
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -2305,7 +4175,7 @@ graph
     step 0
     date "2018-05-18T07:18:23Z"
     title "#Pizzagate in a nutshell"
-    description "Damn skippy, taking all them kids to power hillary's life essence machine which is financed by SOROS INC. &#10;&#10;&#10;&#10;&#10;&#10;This is the infowars"
+    description "Damn skippy, taking all them kids to power hillary's life essence machine which is financed by SOROS INC. &amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;This is the infowars"
     channeltitle "Squid Hansen"
     channelid "UCXwiaXRmObl7RvuslZ9Tp1A"
     favcount 0
@@ -2323,7 +4193,29 @@ graph
     ppprofanity 0.19813396
     ppinflammatory 0.12508832
     sentiment 0
-    cluster 11
+    cluster 10
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -2332,7 +4224,7 @@ graph
     step 0
     date "2020-07-31T14:08:14Z"
     title "LETS TALK FREEDOM/#Pandemic/#Advanced #Warfare/#Pizzagate"
-    description "Let&#8217;s Talk Freedom. Where we discuss all things politics. Our goal is ignite passionate, albeit sometimes controversial, discussions, in an effort to promote understanding.#Pandemic/#Advanced #Warfare/#Pizzagate and much more"
+    description "Let&amp;#8217;s Talk Freedom. Where we discuss all things politics. Our goal is ignite passionate, albeit sometimes controversial, discussions, in an effort to promote understanding.#Pandemic/#Advanced #Warfare/#Pizzagate and much more"
     channeltitle "Urban Country Films"
     channelid "UC6pSn3qDl1dj5PbBFWsSq8Q"
     favcount 0
@@ -2350,7 +4242,29 @@ graph
     ppprofanity 0.12272873
     ppinflammatory 0.17962071
     sentiment -0.296
-    cluster 4
+    cluster 1
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -2359,7 +4273,7 @@ graph
     step 0
     date "2016-12-15T05:04:02Z"
     title "Alex Jones Pulls Pizzagate Video From Site Following Controversy, But We Have the INSANE Audio!"
-    description "In this Majority Report clip, we listen to a now-historically important recording of Alex Jones ranting about Hillary Clinton killing, chopping up, and raping children. It's recently become a news artifact because Infowars has scrubbed it from their site, in light of the events of Pizzagate. Is Jones backing down from his declarations that Clinton was running a pedophile ring from a pizza shop basement (ed. note: The pizza shop does not have a basement.) just because someone actually took him seriously and went to said pizza shop and shot it up with an automatic weapon??? Seems like someone was on the wrong side of the war with info this time.&#10;&#10;Watch the Majority Report, live M-F at 12 noon EST and via daily podcast at http://Majority.FM&#10;&#10;Download our FREE app: http://majorityapp.com&#10;&#10;SUPPORT the show by becoming a member: http://jointhemajorityreport.com&#10;and&#10;BUY all of your Amazon purchase thru our Amazon affiliate link: http://majorityreportkickback.com&#10;&#10;LIKE us on Facebook: http://facebook.com/MajorityReport&#10;&#10;FOLLOW us on Twitter: http://twitter.com/MajorityFM&#10;&#10;SUBSCRIBE to us on YouTube: http://youtube.com/user/SamSeder&#10;&#10;WATCH our LIVE show video stream: http://youtube.com/user/MajorityReportLIVE"
+    description "In this Majority Report clip, we listen to a now-historically important recording of Alex Jones ranting about Hillary Clinton killing, chopping up, and raping children. It's recently become a news artifact because Infowars has scrubbed it from their site, in light of the events of Pizzagate. Is Jones backing down from his declarations that Clinton was running a pedophile ring from a pizza shop basement (ed. note: The pizza shop does not have a basement.) just because someone actually took him seriously and went to said pizza shop and shot it up with an automatic weapon??? Seems like someone was on the wrong side of the war with info this time.&amp;#10;&amp;#10;Watch the Majority Report, live M-F at 12 noon EST and via daily podcast at http://Majority.FM&amp;#10;&amp;#10;Download our FREE app: http://majorityapp.com&amp;#10;&amp;#10;SUPPORT the show by becoming a member: http://jointhemajorityreport.com&amp;#10;and&amp;#10;BUY all of your Amazon purchase thru our Amazon affiliate link: http://majorityreportkickback.com&amp;#10;&amp;#10;LIKE us on Facebook: http://facebook.com/MajorityReport&amp;#10;&amp;#10;FOLLOW us on Twitter: http://twitter.com/MajorityFM&amp;#10;&amp;#10;SUBSCRIBE to us on YouTube: http://youtube.com/user/SamSeder&amp;#10;&amp;#10;WATCH our LIVE show video stream: http://youtube.com/user/MajorityReportLIVE"
     channeltitle "The Majority Report w/ Sam Seder"
     channelid "UC-3jIAlnQmbbVMV6gR7K8aQ"
     favcount 0
@@ -2377,7 +4291,29 @@ graph
     ppprofanity 0.09997627
     ppinflammatory 0.4369812
     sentiment -0.5499
-    cluster 11
+    cluster 10
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -2386,7 +4322,7 @@ graph
     step 0
     date "2022-06-06T14:10:19Z"
     title "The REAL PizzaGate"
-    description "What do Bill Gates, Blackrock/Vanguard, and Joe Rogan have in common? A buffet pizza chain known as Cici's Pizza. Has the global economy been MANIPULATED for nefarious purposes? 0-2 investigates and takes you down the rabbit hole with some help from Alex Jones. &#10;#conspiracy #plandemic #alexjones #inflation #housingcrisis #billgates #joerogan #economy #pizzagate&#10;&#10;music by bensound.com"
+    description "What do Bill Gates, Blackrock/Vanguard, and Joe Rogan have in common? A buffet pizza chain known as Cici's Pizza. Has the global economy been MANIPULATED for nefarious purposes? 0-2 investigates and takes you down the rabbit hole with some help from Alex Jones. &amp;#10;#conspiracy #plandemic #alexjones #inflation #housingcrisis #billgates #joerogan #economy #pizzagate&amp;#10;&amp;#10;music by bensound.com"
     channeltitle "The 0-2 Podcast"
     channelid "UChTEk5UR8N3qkU9929HkRaA"
     favcount 0
@@ -2404,7 +4340,29 @@ graph
     ppprofanity 0.03725218
     ppinflammatory 0.22844966
     sentiment 0
-    cluster 11
+    cluster 10
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -2413,7 +4371,7 @@ graph
     step 0
     date "2021-05-15T13:00:29Z"
     title "3G5F Podcast Ep12: Tom Hanks and Pizzagate"
-    description "Listen to the boys cover a wide range of topics from popular movies, Tom Hanks, and the controversial Pizzagate. Make sure to like, share, and subscribe.&#10;&#10;We have Social Media!&#10;Twitter: https://twitter.com/3_apart&#8203;&#8203;&#8203;&#10;Instagram: https://www.instagram.com/3g5f_podcas...&#8203;&#10;And make sure to hang out with us on Discord&#10;https://discord.gg/rSGzuygp&#8203;&#8203;&#8203;"
+    description "Listen to the boys cover a wide range of topics from popular movies, Tom Hanks, and the controversial Pizzagate. Make sure to like, share, and subscribe.&amp;#10;&amp;#10;We have Social Media!&amp;#10;Twitter: https://twitter.com/3_apart&amp;#8203;&amp;#8203;&amp;#8203;&amp;#10;Instagram: https://www.instagram.com/3g5f_podcas...&amp;#8203;&amp;#10;And make sure to hang out with us on Discord&amp;#10;https://discord.gg/rSGzuygp&amp;#8203;&amp;#8203;&amp;#8203;"
     channeltitle "Mike 97"
     channelid "UC3BUoPYkeET-a-S8KpMC8Bg"
     favcount 0
@@ -2432,6 +4390,28 @@ graph
     ppinflammatory 0.019411223
     sentiment 0
     cluster 5
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -2440,7 +4420,7 @@ graph
     step 0
     date "2021-12-10T06:20:04Z"
     title "Episode 1119: John Valley, Writer-Director of  Returns!"
-    description "Source:&#10;https://www.podbean.com/eau/pb-4qh39-11508a4&#10;&#10;Hello friends! Writer-director-producer of the fantastic Grindhouse Pizzagate satire, &#34;The Pizzagate Massacre&#34;, John Valley returns to the show for episode 1119! &#34;The Pizzagate Massacre&#34; has just gone to V.O.D. (video on demand) and is available on Amazon, Google and more. Go to thepizzagatemassacre.com for more info on how to watch. John and I have a great conversation about the danger of conspiracy theories and misinformation, getting death threats about the movie, his acting and music video directing, filming in and around Austin, getting a movie made and released and much more. i am huge fan of John's and love catching up with him. I'm sure you will too. Let's get down!&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;If you feel so inclined. Venmo:&#160;www.venmo.com/John-Goudie-1&#160; Paypal:&#160;paypal.me/johnnygoudie"
+    description "Source:&amp;#10;https://www.podbean.com/eau/pb-4qh39-11508a4&amp;#10;&amp;#10;Hello friends! Writer-director-producer of the fantastic Grindhouse Pizzagate satire, &amp;#34;The Pizzagate Massacre&amp;#34;, John Valley returns to the show for episode 1119! &amp;#34;The Pizzagate Massacre&amp;#34; has just gone to V.O.D. (video on demand) and is available on Amazon, Google and more. Go to thepizzagatemassacre.com for more info on how to watch. John and I have a great conversation about the danger of conspiracy theories and misinformation, getting death threats about the movie, his acting and music video directing, filming in and around Austin, getting a movie made and released and much more. i am huge fan of John's and love catching up with him. I'm sure you will too. Let's get down!&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;If you feel so inclined. Venmo:&amp;#160;www.venmo.com/John-Goudie-1&amp;#160; Paypal:&amp;#160;paypal.me/johnnygoudie"
     channeltitle "Johnny Goudie"
     channelid "UCgiBONExGx6A60Lmjx_rRDA"
     favcount 0
@@ -2458,7 +4438,29 @@ graph
     ppprofanity 0.012655005
     ppinflammatory 0.122928925
     sentiment 0
-    cluster 3
+    cluster 4
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -2467,7 +4469,7 @@ graph
     step 0
     date "2020-07-20T22:00:05Z"
     title "Justin Bieber Conspiracy Theory Around YUMMY IS CREEPY"
-    description "Justin Bieber Conspiracy Theory Around YUMMY IS CREEPY&#10;&#10;If you're new, Subscribe!&#10;NextGen is a channel all about your favorite celebrities and drama! We report the recent news and keep you aware of what these celebrities are doing!"
+    description "Justin Bieber Conspiracy Theory Around YUMMY IS CREEPY&amp;#10;&amp;#10;If you're new, Subscribe!&amp;#10;NextGen is a channel all about your favorite celebrities and drama! We report the recent news and keep you aware of what these celebrities are doing!"
     channeltitle "NextGen"
     channelid "UCAC63DqO73Klshlp0PSu0Hg"
     favcount 0
@@ -2485,7 +4487,29 @@ graph
     ppprofanity 0.4378866
     ppinflammatory 0.406564
     sentiment 0
-    cluster 9
+    cluster 8
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -2494,7 +4518,7 @@ graph
     step 0
     date "2020-06-17T10:04:21Z"
     title "Pizzagate"
-    description "Provided to YouTube by Amuseio AB&#10;&#10;Pizzagate &#183; Murda Mirre&#10;&#10;The butterfly effect, vol.1&#10;&#10;&#8471; Adonis ent&#10;&#10;Released on: 2020-06-18&#10;&#10;Music  Publisher: Copyright Control&#10;Composer  Lyricist: Rahmirre berry&#10;&#10;Auto-generated by YouTube."
+    description "Provided to YouTube by Amuseio AB&amp;#10;&amp;#10;Pizzagate &amp;#183; Murda Mirre&amp;#10;&amp;#10;The butterfly effect, vol.1&amp;#10;&amp;#10;&amp;#8471; Adonis ent&amp;#10;&amp;#10;Released on: 2020-06-18&amp;#10;&amp;#10;Music  Publisher: Copyright Control&amp;#10;Composer  Lyricist: Rahmirre berry&amp;#10;&amp;#10;Auto-generated by YouTube."
     channeltitle "Murda Mirre - Topic"
     channelid "UCs1Gh-ID5eWlgksaLwkkNHg"
     favcount 0
@@ -2512,7 +4536,29 @@ graph
     ppprofanity 0.021903075
     ppinflammatory 0.17739935
     sentiment 0
-    cluster 3
+    cluster 4
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -2539,7 +4585,29 @@ graph
     ppprofanity 0.051963944
     ppinflammatory 0.124322176
     sentiment 0
-    cluster 9
+    cluster 8
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -2566,7 +4634,29 @@ graph
     ppprofanity 0.03820921
     ppinflammatory 0.14676307
     sentiment 0
-    cluster 12
+    cluster 11
+    leftright "L"
+    AntiSJW 0
+    AntiTheist 1
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 1
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -2575,7 +4665,7 @@ graph
     step 0
     date "2021-09-23T17:00:54Z"
     title "PizzaGate Part 2 - Ordering The Pizza (from 9/17/2021)"
-    description "Part 2 of PizzaGate: Will, angered by our picking apart of his internet rage regarding pizza delivery fees... gets a surprise! Shawn sends him a pizza! A really... gross... pizza!&#10;&#10;&#128250; Watch #Free4All&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203; weeknights at 7pm PT: http://www.twitch.tv/free4allshow"
+    description "Part 2 of PizzaGate: Will, angered by our picking apart of his internet rage regarding pizza delivery fees... gets a surprise! Shawn sends him a pizza! A really... gross... pizza!&amp;#10;&amp;#10;&amp;#128250; Watch #Free4All&amp;#8203;&amp;#8203;&amp;#8203;&amp;#8203;&amp;#8203;&amp;#8203;&amp;#8203;&amp;#8203;&amp;#8203;&amp;#8203;&amp;#8203;&amp;#8203;&amp;#8203;&amp;#8203;&amp;#8203;&amp;#8203;&amp;#8203;&amp;#8203;&amp;#8203;&amp;#8203;&amp;#8203;&amp;#8203; weeknights at 7pm PT: http://www.twitch.tv/free4allshow"
     channeltitle "Free4All With Shawn Tempesta"
     channelid "UCjb3E5_lP3qU3KCSqmmv2vw"
     favcount 0
@@ -2593,7 +4683,29 @@ graph
     ppprofanity 0.032080542
     ppinflammatory 0.014276135
     sentiment 0
-    cluster 4
+    cluster 1
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -2602,7 +4714,7 @@ graph
     step 0
     date "2017-03-28T03:54:10Z"
     title "Pizzagate: Mike Cernovich on 60 Minutes (Fake News)"
-    description "&#34;Weird Mike&#34; Cernovich's appearance on 60 Minutes. Cernovich is a men's rights advocate, conspiracy theorist, rapist and fake news pusher. He is one of the main people behind #Pizzagate.&#10;&#10;If you like my videos and want to support my work, check out my Patreon here: https://www.patreon.com/vicberger"
+    description "&amp;#34;Weird Mike&amp;#34; Cernovich's appearance on 60 Minutes. Cernovich is a men's rights advocate, conspiracy theorist, rapist and fake news pusher. He is one of the main people behind #Pizzagate.&amp;#10;&amp;#10;If you like my videos and want to support my work, check out my Patreon here: https://www.patreon.com/vicberger"
     channeltitle "Vic Berger"
     channelid "UCWZ3HFiJkxG1K8C4HVnyBvQ"
     favcount 0
@@ -2620,7 +4732,29 @@ graph
     ppprofanity 0.08118116
     ppinflammatory 0.26908374
     sentiment -0.4767
-    cluster 11
+    cluster 10
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -2647,7 +4781,29 @@ graph
     ppprofanity 0.02229701
     ppinflammatory 0.29551467
     sentiment 0
-    cluster 6
+    cluster 4
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -2656,7 +4812,7 @@ graph
     step 0
     date "2021-05-22T19:06:51Z"
     title "Loulz EXPOSES #Pizzagate  (ft. Baked Alaska)"
-    description "#Loulz #BakedAlaska #IP2Cx&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;_________________________________________________________________________________&#10;#IP2 #IRL #Livestream #Livestreamers #ChickenAndy #EBZ #3BZ #GatorSkin #OnlyUseMeBLADE #Content #StopSpeeding #Jagermeister&#10;#LauraEclipse #IcePoseidon #Smeep #GreekGodX #Dankquan #DemonAndy #Grimoire #SamePepper #LiveWithEvan #Kiedom #BurgerPlant #HamptonBrandon #Loulz #YoungPlug #KiaraaKitty #ONLYUSEmeBLADE&#10;#StopSpeeding #JohnnyBoston #KingCobraJFS #TriHard #TriHex #Historian #Streamlabs #StreamElements #Educational #Bitcoin #DogeCoin&#10;#Satire #Yuber #NessAlmighty #DissGod #Twitch #TwitchTV #Highlights #LiveRealityTV #SalmonAndy #PeteyPlastic #RVAndy #GaryTheProducer&#10;#PurpleArmy #Cx #CassieNovaLive #Cassandra #HamptonBrandon #ContentKing #SSJ #Mansion #OGNL #OGGeezer #SkimaskAndy #TracksuitAndy&#10;#Carterverse #AaronCarter #Omegle #Prank #Normie #Dabonthehaters #AndyMilonakis #xQc #Adept #OSRS #AdrianChen #Voldesad #EgyptBeauty&#10;#Vegas #Loulz #Attila #AttilaBakk #Jewel #OldIce #PokemonGo #GGX #Content #Jager #ContentJuice #UFCx #Yesmansion #SweetErin #Goocheese #Alice&#10;#ReformedStoic #Zobeezy #Zobain #Pepe #PepeFrog #BakedAlaska #RVTrip #RV6 #HorseShoeBay #CarolineBurt #Vine #Doitforthevine #Meme #Boomer #Zoomer #Doomer #MexicanAndy #Geisha #AsianAndy #TTS #TextToSpeech #LiveU #PrismLIVE"
+    description "#Loulz #BakedAlaska #IP2Cx&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;_________________________________________________________________________________&amp;#10;#IP2 #IRL #Livestream #Livestreamers #ChickenAndy #EBZ #3BZ #GatorSkin #OnlyUseMeBLADE #Content #StopSpeeding #Jagermeister&amp;#10;#LauraEclipse #IcePoseidon #Smeep #GreekGodX #Dankquan #DemonAndy #Grimoire #SamePepper #LiveWithEvan #Kiedom #BurgerPlant #HamptonBrandon #Loulz #YoungPlug #KiaraaKitty #ONLYUSEmeBLADE&amp;#10;#StopSpeeding #JohnnyBoston #KingCobraJFS #TriHard #TriHex #Historian #Streamlabs #StreamElements #Educational #Bitcoin #DogeCoin&amp;#10;#Satire #Yuber #NessAlmighty #DissGod #Twitch #TwitchTV #Highlights #LiveRealityTV #SalmonAndy #PeteyPlastic #RVAndy #GaryTheProducer&amp;#10;#PurpleArmy #Cx #CassieNovaLive #Cassandra #HamptonBrandon #ContentKing #SSJ #Mansion #OGNL #OGGeezer #SkimaskAndy #TracksuitAndy&amp;#10;#Carterverse #AaronCarter #Omegle #Prank #Normie #Dabonthehaters #AndyMilonakis #xQc #Adept #OSRS #AdrianChen #Voldesad #EgyptBeauty&amp;#10;#Vegas #Loulz #Attila #AttilaBakk #Jewel #OldIce #PokemonGo #GGX #Content #Jager #ContentJuice #UFCx #Yesmansion #SweetErin #Goocheese #Alice&amp;#10;#ReformedStoic #Zobeezy #Zobain #Pepe #PepeFrog #BakedAlaska #RVTrip #RV6 #HorseShoeBay #CarolineBurt #Vine #Doitforthevine #Meme #Boomer #Zoomer #Doomer #MexicanAndy #Geisha #AsianAndy #TTS #TextToSpeech #LiveU #PrismLIVE"
     channeltitle "IP2Cx Historian2"
     channelid "UCwRzSZLkkkjlTh2N_GPdsLA"
     favcount 0
@@ -2674,7 +4830,29 @@ graph
     ppprofanity 0.09276359
     ppinflammatory 0.09780039
     sentiment -0.128
-    cluster 12
+    cluster 11
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -2701,7 +4879,29 @@ graph
     ppprofanity 0.24606432
     ppinflammatory 0.46961865
     sentiment 0
-    cluster 9
+    cluster 8
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -2729,6 +4929,28 @@ graph
     ppinflammatory 0.2424376
     sentiment 0
     cluster 8
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -2737,7 +4959,7 @@ graph
     step 0
     date "2021-11-16T18:53:25Z"
     title "The Pizzagate Massacre (Trailer)"
-    description "A dark social satire inspired by the real life conspiracy theory known as Pizzagate. An amateur journalist and a far-right militiaman team up to expose the ugly truth behind rumors involving sex cults, a pizza place and the lizard people.&#10;&#10;Starring: Tinus Seaux, Alexandria Payne, Lee Eddy&#10;Released: 2021&#10;Genre: Comedy, Action, Crime&#10;&#10;&#169; Copyright MMXX Illuminati Pictures, LLC. All Rights Reserved.&#10;&#10;More FREE MOVIES and FREE DOCUMENTARIES: https://www.youtube.com/moviespree"
+    description "A dark social satire inspired by the real life conspiracy theory known as Pizzagate. An amateur journalist and a far-right militiaman team up to expose the ugly truth behind rumors involving sex cults, a pizza place and the lizard people.&amp;#10;&amp;#10;Starring: Tinus Seaux, Alexandria Payne, Lee Eddy&amp;#10;Released: 2021&amp;#10;Genre: Comedy, Action, Crime&amp;#10;&amp;#10;&amp;#169; Copyright MMXX Illuminati Pictures, LLC. All Rights Reserved.&amp;#10;&amp;#10;More FREE MOVIES and FREE DOCUMENTARIES: https://www.youtube.com/moviespree"
     channeltitle "MOVIESPREE"
     channelid "UCMSiszf8iq6lONcRhe-6p8Q"
     favcount 0
@@ -2755,7 +4977,29 @@ graph
     ppprofanity 0.1373974
     ppinflammatory 0.2930173
     sentiment 0
-    cluster 3
+    cluster 4
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -2764,7 +5008,7 @@ graph
     step 0
     date "2022-02-13T18:22:55Z"
     title "The Pizzagate Massacre 2020"
-    description "&#1573;&#1606;&#1587;&#1578;&#1602;&#1585;&#1575;&#1605;:&#128071;&#10;https://www.instagram.com/mr_proo65/&#10;&#10;&#10004;&#10004;&#10004;&#10004;&#10004;&#10004;&#10004;&#10004;&#10004;&#10004;&#10004;&#10004;&#10004;&#10004;&#10004;&#10004;&#10004;&#10004;&#10004;&#10004;&#10004;&#10004;&#10004;&#10004;&#10004;&#10004;&#10004;&#10004;&#10004;&#10004;&#10004;&#10004;&#10004;&#10004;&#10004;&#10004;&#10004;&#10;&#1588;&#1603;&#1585;&#1575;&#1611; &#1593;&#1604;&#1609; &#1575;&#1604;&#1605;&#1588;&#1575;&#1607;&#1583;&#1577; :) &#1573;&#1584;&#1575; &#1593;&#1580;&#1576;&#1603; &#1575;&#1604;&#1605;&#1602;&#1591;&#1593; &#1604;&#1575; &#1578;&#1606;&#1587;&#1609; &#1578;&#1583;&#1593;&#1605;&#1606;&#1610; &#1576;&#1600;&#34;&#1604;&#1575;&#1610;&#1603;&#34; &#1608; &#34;&#1575;&#1604;&#1575;&#1588;&#1578;&#1585;&#1575;&#1603;&#34;&#10;&#10;&#1588;&#1603;&#1585;&#1575;&#1611; &#1604;&#1603; &#1573;&#1584;&#1575; &#1575;&#1576;&#1578;&#1587;&#1605;&#1578; &#1576;&#1571;&#1610; &#1605;&#1602;&#1591;&#1593; &#1605;&#1606; &#1605;&#1602;&#1575;&#1591;&#1593;&#1610;&#10084;&#10;&#10;&#1587;&#1576;&#1581;&#1575;&#1606; &#1575;&#1604;&#1604;&#1607; &#1608; &#1576;&#1581;&#1605;&#1583;&#1607;&#1600; &#1587;&#1576;&#1581;&#1575;&#1606; &#1575;&#1604;&#1604;&#1607; &#1575;&#1604;&#1593;&#1592;&#1610;&#1605; &#9829;&#10;(&#1604;&#1575; &#1573;&#1604;&#1607; &#1573;&#1604;&#1575; &#1575;&#1604;&#1604;&#1607; &#1587;&#1576;&#1581;&#1575;&#1606;&#1603; &#1573;&#1606;&#1610; &#1603;&#1606;&#1578; &#1605;&#1606; &#1592;&#1575;&#1604;&#1605;&#1610;&#1606;)"
+    description "&amp;#1573;&amp;#1606;&amp;#1587;&amp;#1578;&amp;#1602;&amp;#1585;&amp;#1575;&amp;#1605;:&amp;#128071;&amp;#10;https://www.instagram.com/mr_proo65/&amp;#10;&amp;#10;&amp;#10004;&amp;#10004;&amp;#10004;&amp;#10004;&amp;#10004;&amp;#10004;&amp;#10004;&amp;#10004;&amp;#10004;&amp;#10004;&amp;#10004;&amp;#10004;&amp;#10004;&amp;#10004;&amp;#10004;&amp;#10004;&amp;#10004;&amp;#10004;&amp;#10004;&amp;#10004;&amp;#10004;&amp;#10004;&amp;#10004;&amp;#10004;&amp;#10004;&amp;#10004;&amp;#10004;&amp;#10004;&amp;#10004;&amp;#10004;&amp;#10004;&amp;#10004;&amp;#10004;&amp;#10004;&amp;#10004;&amp;#10004;&amp;#10004;&amp;#10;&amp;#1588;&amp;#1603;&amp;#1585;&amp;#1575;&amp;#1611; &amp;#1593;&amp;#1604;&amp;#1609; &amp;#1575;&amp;#1604;&amp;#1605;&amp;#1588;&amp;#1575;&amp;#1607;&amp;#1583;&amp;#1577; :) &amp;#1573;&amp;#1584;&amp;#1575; &amp;#1593;&amp;#1580;&amp;#1576;&amp;#1603; &amp;#1575;&amp;#1604;&amp;#1605;&amp;#1602;&amp;#1591;&amp;#1593; &amp;#1604;&amp;#1575; &amp;#1578;&amp;#1606;&amp;#1587;&amp;#1609; &amp;#1578;&amp;#1583;&amp;#1593;&amp;#1605;&amp;#1606;&amp;#1610; &amp;#1576;&amp;#1600;&amp;#34;&amp;#1604;&amp;#1575;&amp;#1610;&amp;#1603;&amp;#34; &amp;#1608; &amp;#34;&amp;#1575;&amp;#1604;&amp;#1575;&amp;#1588;&amp;#1578;&amp;#1585;&amp;#1575;&amp;#1603;&amp;#34;&amp;#10;&amp;#10;&amp;#1588;&amp;#1603;&amp;#1585;&amp;#1575;&amp;#1611; &amp;#1604;&amp;#1603; &amp;#1573;&amp;#1584;&amp;#1575; &amp;#1575;&amp;#1576;&amp;#1578;&amp;#1587;&amp;#1605;&amp;#1578; &amp;#1576;&amp;#1571;&amp;#1610; &amp;#1605;&amp;#1602;&amp;#1591;&amp;#1593; &amp;#1605;&amp;#1606; &amp;#1605;&amp;#1602;&amp;#1575;&amp;#1591;&amp;#1593;&amp;#1610;&amp;#10084;&amp;#10;&amp;#10;&amp;#1587;&amp;#1576;&amp;#1581;&amp;#1575;&amp;#1606; &amp;#1575;&amp;#1604;&amp;#1604;&amp;#1607; &amp;#1608; &amp;#1576;&amp;#1581;&amp;#1605;&amp;#1583;&amp;#1607;&amp;#1600; &amp;#1587;&amp;#1576;&amp;#1581;&amp;#1575;&amp;#1606; &amp;#1575;&amp;#1604;&amp;#1604;&amp;#1607; &amp;#1575;&amp;#1604;&amp;#1593;&amp;#1592;&amp;#1610;&amp;#1605; &amp;#9829;&amp;#10;(&amp;#1604;&amp;#1575; &amp;#1573;&amp;#1604;&amp;#1607; &amp;#1573;&amp;#1604;&amp;#1575; &amp;#1575;&amp;#1604;&amp;#1604;&amp;#1607; &amp;#1587;&amp;#1576;&amp;#1581;&amp;#1575;&amp;#1606;&amp;#1603; &amp;#1573;&amp;#1606;&amp;#1610; &amp;#1603;&amp;#1606;&amp;#1578; &amp;#1605;&amp;#1606; &amp;#1592;&amp;#1575;&amp;#1604;&amp;#1605;&amp;#1610;&amp;#1606;)"
     channeltitle "BAD.06"
     channelid "UC7DzqaLeodtjLPqCPkU7hTg"
     favcount 0
@@ -2782,7 +5026,29 @@ graph
     ppprofanity 0.0975811
     ppinflammatory 0.4565456
     sentiment 0
-    cluster 3
+    cluster 4
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -2791,7 +5057,7 @@ graph
     step 0
     date "2022-01-05T08:00:03Z"
     title "262 // The Pizzagate Massacre"
-    description "Welcome to Crawlspace. In this episode Tim Pilleri and Lance Reenstierna speak with filmmaker John Valley who made the movie The Pizzagate Massacre.&#10;&#10;Official site: https://thepizzagatemassacre.com/&#10;&#10;Find all the links here: https://linktr.ee/thepizzagatemassacre &#10;&#10;Follow on social media!&#10;&#10;instagram: https://www.instagram.com/thepizzagatemassacre/&#10;&#10;twitter: https://twitter.com/johnmvalley, https://twitter.com/pizzagatemovie&#10;&#10;facebook: https://www.facebook.com/thepizzagatemassacremovie/&#10;&#10;Follow Private Investigations For the Missing&#10;&#10;https://investigationsforthemissing.org/&#10;&#10;https://twitter.com/PIFortheMissing&#10;&#10;https://www.facebook.com/PIFortheMissing/&#10;&#10;https://www.instagram.com/investigationsforthemissing/&#10;&#10;Check out the entire Crawlspace Media Network at http://crawlspace-media.com/&#10;&#10;Check out Crawlspace's Patreon page: https://www.patreon.com/crawlspacepodcast&#10;&#10;Follow Crawlspace&#10;&#10;Twitter: https://twitter.com/CrawlspacePod&#10;&#10;IG: https://www.instagram.com/crawlspacepodcast/&#10;&#10;FB: https://www.facebook.com/Crawlspacepodcast/&#10;&#10;Apple: https://podcasts.apple.com/us/podcast/crawlspace-true-crime-mysteries/id1187326340&#10;&#10;Stitcher: https://www.stitcher.com/podcast/crawlspace&#10;&#10;Spotify: https://open.spotify.com/show/58cll3enTW2SNmbJUuLsrt"
+    description "Welcome to Crawlspace. In this episode Tim Pilleri and Lance Reenstierna speak with filmmaker John Valley who made the movie The Pizzagate Massacre.&amp;#10;&amp;#10;Official site: https://thepizzagatemassacre.com/&amp;#10;&amp;#10;Find all the links here: https://linktr.ee/thepizzagatemassacre &amp;#10;&amp;#10;Follow on social media!&amp;#10;&amp;#10;instagram: https://www.instagram.com/thepizzagatemassacre/&amp;#10;&amp;#10;twitter: https://twitter.com/johnmvalley, https://twitter.com/pizzagatemovie&amp;#10;&amp;#10;facebook: https://www.facebook.com/thepizzagatemassacremovie/&amp;#10;&amp;#10;Follow Private Investigations For the Missing&amp;#10;&amp;#10;https://investigationsforthemissing.org/&amp;#10;&amp;#10;https://twitter.com/PIFortheMissing&amp;#10;&amp;#10;https://www.facebook.com/PIFortheMissing/&amp;#10;&amp;#10;https://www.instagram.com/investigationsforthemissing/&amp;#10;&amp;#10;Check out the entire Crawlspace Media Network at http://crawlspace-media.com/&amp;#10;&amp;#10;Check out Crawlspace's Patreon page: https://www.patreon.com/crawlspacepodcast&amp;#10;&amp;#10;Follow Crawlspace&amp;#10;&amp;#10;Twitter: https://twitter.com/CrawlspacePod&amp;#10;&amp;#10;IG: https://www.instagram.com/crawlspacepodcast/&amp;#10;&amp;#10;FB: https://www.facebook.com/Crawlspacepodcast/&amp;#10;&amp;#10;Apple: https://podcasts.apple.com/us/podcast/crawlspace-true-crime-mysteries/id1187326340&amp;#10;&amp;#10;Stitcher: https://www.stitcher.com/podcast/crawlspace&amp;#10;&amp;#10;Spotify: https://open.spotify.com/show/58cll3enTW2SNmbJUuLsrt"
     channeltitle "Crawlspace Podcast"
     channelid "UCmFbXjLx2kx39fYqwxQsnSA"
     favcount 0
@@ -2809,7 +5075,29 @@ graph
     ppprofanity 0.11818351
     ppinflammatory 0.441105
     sentiment 0
-    cluster 12
+    cluster 11
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -2818,7 +5106,7 @@ graph
     step 0
     date "2021-03-02T21:10:22Z"
     title "How Research Impacted Pizzagate"
-    description "Pizzagate was the public&#8217;s first glimpse inside the terrifying beliefs of the growing QAnon Conspiracy, all of which are bound by a single mantra&#8230; Do your own research! But what does that really mean? The internet gives the naturally curious more confidence than ever in claiming to be experts on subjects they may only understand superficially. So how do we sort the facts from the crap? The answer may be waiting for you at your local public library. &#10;&#10;&#10;To learn more visit: https://stronger.org/&#8203;&#8203; &#10;&#10;Take our pledge to let the world know you will take the COVID-19 vaccine: stronger.org/pledge&#10;&#10;Follow Stronger on social:&#10;Instagram: https://www.instagram.com/strongerorg/&#8203;&#8203; &#10;Twitter: https://twitter.com/stronger_org&#8203;&#8203; &#10;Facebook: https://www.facebook.com/strongerdotorg/&#10;&#10;#conspiracytheories #pizzagate #misinformation"
+    description "Pizzagate was the public&amp;#8217;s first glimpse inside the terrifying beliefs of the growing QAnon Conspiracy, all of which are bound by a single mantra&amp;#8230; Do your own research! But what does that really mean? The internet gives the naturally curious more confidence than ever in claiming to be experts on subjects they may only understand superficially. So how do we sort the facts from the crap? The answer may be waiting for you at your local public library. &amp;#10;&amp;#10;&amp;#10;To learn more visit: https://stronger.org/&amp;#8203;&amp;#8203; &amp;#10;&amp;#10;Take our pledge to let the world know you will take the COVID-19 vaccine: stronger.org/pledge&amp;#10;&amp;#10;Follow Stronger on social:&amp;#10;Instagram: https://www.instagram.com/strongerorg/&amp;#8203;&amp;#8203; &amp;#10;Twitter: https://twitter.com/stronger_org&amp;#8203;&amp;#8203; &amp;#10;Facebook: https://www.facebook.com/strongerdotorg/&amp;#10;&amp;#10;#conspiracytheories #pizzagate #misinformation"
     channeltitle "Stronger"
     channelid "UClxeNhpxCZ3SEN3PDiziuag"
     favcount 0
@@ -2836,7 +5124,29 @@ graph
     ppprofanity 0.03765421
     ppinflammatory 0.12790476
     sentiment 0
-    cluster 12
+    cluster 11
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -2845,7 +5155,7 @@ graph
     step 0
     date "2017-09-28T19:57:42Z"
     title "PIZZAGATE MUKBANG"
-    description "&#34;THE ONLY THING THAT HAS EVER GIVEN PLEASURE IS DESTROYING PURITY.&#34; - Wizard's Compendium, Chapter 4, Verse 17"
+    description "&amp;#34;THE ONLY THING THAT HAS EVER GIVEN PLEASURE IS DESTROYING PURITY.&amp;#34; - Wizard's Compendium, Chapter 4, Verse 17"
     channeltitle "Magical YouTube Poop"
     channelid "UChJ_4enNnV7lSYdXmpH18ZA"
     favcount 0
@@ -2864,6 +5174,28 @@ graph
     ppinflammatory 0.13231957
     sentiment 0
     cluster 8
+    leftright "L"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 1
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -2891,6 +5223,28 @@ graph
     ppinflammatory 0.19646373
     sentiment 0.4588
     cluster 5
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -2917,7 +5271,29 @@ graph
     ppprofanity 0.01728364
     ppinflammatory 0.26497215
     sentiment 0
-    cluster 6
+    cluster 3
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -2945,6 +5321,28 @@ graph
     ppinflammatory 0.17739935
     sentiment 0
     cluster 9
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -2972,6 +5370,28 @@ graph
     ppinflammatory 0.5421299
     sentiment 0
     cluster 5
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -2999,6 +5419,28 @@ graph
     ppinflammatory 0.08453477
     sentiment -0.5267
     cluster 9
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -3025,7 +5467,29 @@ graph
     ppprofanity 0.033169486
     ppinflammatory 0.36021924
     sentiment 0
-    cluster 11
+    cluster 10
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -3034,7 +5498,7 @@ graph
     step 0
     date "2016-12-06T18:00:03Z"
     title "Breitbarts PizzaGate Conspiracy: When Fake News Inspires Real Violence - The Ring Of Fire"
-    description "Breitbart is responsible for pushing the fake news story about a pedophilia-related pizza chain somehow linked to John Podesta and Hillary Clinton, which resulted this weekend in a crazed gunman shooting up the restaurant.  Trump&#8217;s own Chief Strategist was responsible for this story, and his national security advisor has also propelled the story on Twitter. The Ring of Fire's Farron Cousins discusses this.&#10;&#10;Link &#8211; http://www.juancole.com/2016/12/terrorism-strategist-conspiracy.html&#10;Link &#8211; https://motherboard.vice.com/read/pizzagate-conspiracy-meme-reaches-is-natural-conclusion-with-shots-fired?utm_source=mbtwitter&#10;&#10;Spread the word! LIKE and SHARE this video or leave a comment to help direct attention to the stories that matter. And SUBSCRIBE to stay connected with Ring of Fire's video content!&#10;&#10;Order Mike Papantonio's new novel Law and Disorder today: https://www.amazon.com/Law-Disorder-Mike-Papantonio/dp/1590793676&#10;&#10;Follow more of our stories at http://www.TROFIRE.com&#10;&#10;Subscribe to our podcast: http://www.ROFPodcast.com&#10;&#10;Support Ring of Fire by subscribing to our YouTube channel: https://www.youtube.com/user/golefttv?sub_confirmation=1&#10;&#10;Be sociable! Follow us on:&#10;Facebook: http://www.facebook.com/RingofFireRadio&#10;Twitter: http://www.twitter.com/RingofFireRadio&#10;Google+: http://plus.google.com/118415831573195648557&#10;Instagram: https://www.instagram.com/ringoffirenetwork/"
+    description "Breitbart is responsible for pushing the fake news story about a pedophilia-related pizza chain somehow linked to John Podesta and Hillary Clinton, which resulted this weekend in a crazed gunman shooting up the restaurant.  Trump&amp;#8217;s own Chief Strategist was responsible for this story, and his national security advisor has also propelled the story on Twitter. The Ring of Fire's Farron Cousins discusses this.&amp;#10;&amp;#10;Link &amp;#8211; http://www.juancole.com/2016/12/terrorism-strategist-conspiracy.html&amp;#10;Link &amp;#8211; https://motherboard.vice.com/read/pizzagate-conspiracy-meme-reaches-is-natural-conclusion-with-shots-fired?utm_source=mbtwitter&amp;#10;&amp;#10;Spread the word! LIKE and SHARE this video or leave a comment to help direct attention to the stories that matter. And SUBSCRIBE to stay connected with Ring of Fire's video content!&amp;#10;&amp;#10;Order Mike Papantonio's new novel Law and Disorder today: https://www.amazon.com/Law-Disorder-Mike-Papantonio/dp/1590793676&amp;#10;&amp;#10;Follow more of our stories at http://www.TROFIRE.com&amp;#10;&amp;#10;Subscribe to our podcast: http://www.ROFPodcast.com&amp;#10;&amp;#10;Support Ring of Fire by subscribing to our YouTube channel: https://www.youtube.com/user/golefttv?sub_confirmation=1&amp;#10;&amp;#10;Be sociable! Follow us on:&amp;#10;Facebook: http://www.facebook.com/RingofFireRadio&amp;#10;Twitter: http://www.twitter.com/RingofFireRadio&amp;#10;Google+: http://plus.google.com/118415831573195648557&amp;#10;Instagram: https://www.instagram.com/ringoffirenetwork/"
     channeltitle "The Ring of Fire"
     channelid "UCYWIEbibRcZav6xMLo9qWWw"
     favcount 0
@@ -3052,7 +5516,29 @@ graph
     ppprofanity 0.037336666
     ppinflammatory 0.55187273
     sentiment -0.8779
-    cluster 4
+    cluster 1
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -3079,7 +5565,29 @@ graph
     ppprofanity 0.24317779
     ppinflammatory 0.17556903
     sentiment 0
-    cluster 11
+    cluster 4
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -3088,7 +5596,7 @@ graph
     step 0
     date "2020-10-25T21:44:41Z"
     title "Pizzagate - Evil Exists Podcast"
-    description "A true crime podcast were we go over and discuss various crimes and criminals throughout human history.&#10;&#10;Today we discus of the story of Pizzagate.&#10;&#10;Articles used &#10;https://en.wikipedia.org/wiki/Pizzagate_conspiracy_theory&#10;&#10;Hosted by Nathaniel Avila and Jessica Vega"
+    description "A true crime podcast were we go over and discuss various crimes and criminals throughout human history.&amp;#10;&amp;#10;Today we discus of the story of Pizzagate.&amp;#10;&amp;#10;Articles used &amp;#10;https://en.wikipedia.org/wiki/Pizzagate_conspiracy_theory&amp;#10;&amp;#10;Hosted by Nathaniel Avila and Jessica Vega"
     channeltitle "Nathaniel Avila"
     channelid "UCkWwkdm9mZUKaKrPWYmzD7A"
     favcount 0
@@ -3106,7 +5614,29 @@ graph
     ppprofanity 0.101012275
     ppinflammatory 0.21236356
     sentiment -0.6597
-    cluster 8
+    cluster 9
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -3133,7 +5663,29 @@ graph
     ppprofanity 0.0466697
     ppinflammatory 0.05581992
     sentiment 0
-    cluster 2
+    cluster 8
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -3160,7 +5712,29 @@ graph
     ppprofanity 0.027376011
     ppinflammatory 0.28381616
     sentiment 0
-    cluster 12
+    cluster 11
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -3169,7 +5743,7 @@ graph
     step 0
     date "2020-08-29T22:00:04Z"
     title "PIZZAGATE, WAYFAIR, KIDNAPPING WHAT IS THE REAL TRUTH ABOUT HUMAN TRAFFICKING?"
-    description "It seems every day we hear of a new conspiracy theory regarding human trafficking. In some ways that is good news because that means people are paying attention. Million Kids has been combating human trafficking since 2008 and have educated over 400,000 individuals and leaders. In the beginning few people understand exactly how commercial sexual exploitation took place in the U.S. Today, there are literally hundreds of organizations committed to eradicating human trafficking. However, with&#10;so much awareness in the public comes a lot of misinformation and some&#10;&#10;misunderstanding of exactly what human trafficking is and what to look for. &#10;&#10;&#10;&#10;This week we are going to examine several of the theories and cases of trafficking in the public eye and discuss what is real, what is probable, what is speculation and what is not provable. We will look at some of the egregious cases of sexual exploitation that has taken place in the Inland Empire. Million Kids serves as the Training and Outreach Coordinator for the Riverside County Anti Human Trafficking Task Force. We specialize&#10;&#10;in dealing with real facts so we can understand how to educate first responders, civic leaders, faith based leaders, educators, parents and teens about the facts and realities of trafficking so that we can keep our kids safe from predators.&#10;&#10;&#10;Be sure to join us."
+    description "It seems every day we hear of a new conspiracy theory regarding human trafficking. In some ways that is good news because that means people are paying attention. Million Kids has been combating human trafficking since 2008 and have educated over 400,000 individuals and leaders. In the beginning few people understand exactly how commercial sexual exploitation took place in the U.S. Today, there are literally hundreds of organizations committed to eradicating human trafficking. However, with&amp;#10;so much awareness in the public comes a lot of misinformation and some&amp;#10;&amp;#10;misunderstanding of exactly what human trafficking is and what to look for. &amp;#10;&amp;#10;&amp;#10;&amp;#10;This week we are going to examine several of the theories and cases of trafficking in the public eye and discuss what is real, what is probable, what is speculation and what is not provable. We will look at some of the egregious cases of sexual exploitation that has taken place in the Inland Empire. Million Kids serves as the Training and Outreach Coordinator for the Riverside County Anti Human Trafficking Task Force. We specialize&amp;#10;&amp;#10;in dealing with real facts so we can understand how to educate first responders, civic leaders, faith based leaders, educators, parents and teens about the facts and realities of trafficking so that we can keep our kids safe from predators.&amp;#10;&amp;#10;&amp;#10;Be sure to join us."
     channeltitle "Million Kids"
     channelid "UCGc5sLbm7iQxen5UCys3f0A"
     favcount 0
@@ -3188,6 +5762,28 @@ graph
     ppinflammatory 0.44054726
     sentiment 0.3182
     cluster 5
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -3215,6 +5811,28 @@ graph
     ppinflammatory 0.03152023
     sentiment 0
     cluster 5
+    leftright "C"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 1
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -3223,7 +5841,7 @@ graph
     step 0
     date "2021-06-03T18:51:35Z"
     title "Cult Clips: Pizzagate Conspiracy Theory"
-    description "Clip from the most recent episode of the Let's Start A Cult podcast! Full clip here: https://youtu.be/jUMWVIzs1vU&#10;&#10;Our Socials:&#10;Twitter: https://twitter.com/lets_cult&#10;Facebook: https://www.facebook.com/letsstartacultpod&#10;Instagram: https://www.instagram.com/lets_cult/?hl=en&#10;YouTube: https://www.youtube.com/channel/UChcl9qrvKAsXJTaBfVgKILQ&#10;Website: https://www.letsstartacultpodcast.com/&#10;&#10;From the Middle:&#10;Twitter: https://twitter.com/fromthemidpod&#10;Facebook: https://www.facebook.com/fromthemidpod&#10;Instagram: https://www.instagram.com/fromthemidpod/&#10;YouTube: https://www.youtube.com/channel/UC5ab3_gRkKlr6i4LsCq8hjQ&#10;Website: https://linktr.ee/fromthemidpod&#10;&#10;Sources for this episode include BBC News, Insider, Fast Company, CNN, NBC News, Slate, USA Today, The Wall Street Journal, ABC News, The Guardian, CBS News, Politico, The Financial Times, NPR, and The Atlantic. &#10;&#10;Research by: Kayla Deleon&#10;&#10;Photo: https://unsplash.com/photos/OklpRh8-Sns?utm_source=unsplash&#38;utm_medium=referral&#38;utm_content=creditShareLink&#10;&#10;Support the show (https://www.buymeacoffee.com/LetsStartACult)&#10;&#10;#qanon #pizzagate #conspiracy"
+    description "Clip from the most recent episode of the Let's Start A Cult podcast! Full clip here: https://youtu.be/jUMWVIzs1vU&amp;#10;&amp;#10;Our Socials:&amp;#10;Twitter: https://twitter.com/lets_cult&amp;#10;Facebook: https://www.facebook.com/letsstartacultpod&amp;#10;Instagram: https://www.instagram.com/lets_cult/?hl=en&amp;#10;YouTube: https://www.youtube.com/channel/UChcl9qrvKAsXJTaBfVgKILQ&amp;#10;Website: https://www.letsstartacultpodcast.com/&amp;#10;&amp;#10;From the Middle:&amp;#10;Twitter: https://twitter.com/fromthemidpod&amp;#10;Facebook: https://www.facebook.com/fromthemidpod&amp;#10;Instagram: https://www.instagram.com/fromthemidpod/&amp;#10;YouTube: https://www.youtube.com/channel/UC5ab3_gRkKlr6i4LsCq8hjQ&amp;#10;Website: https://linktr.ee/fromthemidpod&amp;#10;&amp;#10;Sources for this episode include BBC News, Insider, Fast Company, CNN, NBC News, Slate, USA Today, The Wall Street Journal, ABC News, The Guardian, CBS News, Politico, The Financial Times, NPR, and The Atlantic. &amp;#10;&amp;#10;Research by: Kayla Deleon&amp;#10;&amp;#10;Photo: https://unsplash.com/photos/OklpRh8-Sns?utm_source=unsplash&amp;#38;utm_medium=referral&amp;#38;utm_content=creditShareLink&amp;#10;&amp;#10;Support the show (https://www.buymeacoffee.com/LetsStartACult)&amp;#10;&amp;#10;#qanon #pizzagate #conspiracy"
     channeltitle "Let's Start A Cult Podcast"
     channelid "UChcl9qrvKAsXJTaBfVgKILQ"
     favcount 0
@@ -3241,7 +5859,29 @@ graph
     ppprofanity 0.07661074
     ppinflammatory 0.49632642
     sentiment -0.5267
-    cluster 4
+    cluster 1
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -3250,7 +5890,7 @@ graph
     step 0
     date "2020-09-03T14:05:31Z"
     title "HABLEMOS DE PIZZAGATE!!!!"
-    description "#PizzaGate #Trump #Pizza&#10;S&#233; que es un tema un poco antiguo.... Pero tengo que comer&#10;Deja tu like y comp&#225;rtelo con tus amigos! Me ayudar&#237;as un mont&#243;n!!"
+    description "#PizzaGate #Trump #Pizza&amp;#10;S&amp;#233; que es un tema un poco antiguo.... Pero tengo que comer&amp;#10;Deja tu like y comp&amp;#225;rtelo con tus amigos! Me ayudar&amp;#237;as un mont&amp;#243;n!!"
     channeltitle "SDM"
     channelid "UC_gLXdNRcay9JhoAkqP3EuA"
     favcount 0
@@ -3268,7 +5908,29 @@ graph
     ppprofanity 0.045119636
     ppinflammatory 0.18177243
     sentiment 0
-    cluster 10
+    cluster 7
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -3295,7 +5957,29 @@ graph
     ppprofanity 0.876051
     ppinflammatory 0.30883044
     sentiment -0.4767
-    cluster 6
+    cluster 2
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -3322,7 +6006,29 @@ graph
     ppprofanity 0.021405859
     ppinflammatory 0.07882122
     sentiment 0
-    cluster 5
+    cluster 8
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -3331,7 +6037,7 @@ graph
     step 0
     date "2020-01-03T13:22:02Z"
     title "Trump spent his holidays retweeting QAnon and Pizzagate accounts"
-    description "Trump spent his holidays retweeting QAnon and Pizzagate accounts &#10; &#10;In December 2015, Donald Trump infamously appeared on conspiracy theorist Alex Jones&#8217;s Infowars show, praised his &#8220;amazing&#8221; reputation, and vowed that &#8220;I will never let you down.&#8221; His Twitter behavior indicates that&#8217;s one promise he&#8217;s doing his best ... &#10; &#10;&#9658;SUBSCRIBE : http://bit.ly/2EyNjHc"
+    description "Trump spent his holidays retweeting QAnon and Pizzagate accounts &amp;#10; &amp;#10;In December 2015, Donald Trump infamously appeared on conspiracy theorist Alex Jones&amp;#8217;s Infowars show, praised his &amp;#8220;amazing&amp;#8221; reputation, and vowed that &amp;#8220;I will never let you down.&amp;#8221; His Twitter behavior indicates that&amp;#8217;s one promise he&amp;#8217;s doing his best ... &amp;#10; &amp;#10;&amp;#9658;SUBSCRIBE : http://bit.ly/2EyNjHc"
     channeltitle "Cherry Walsh"
     channelid "UCHE0KINCNBUCaynRuQFksBA"
     favcount 0
@@ -3349,7 +6055,29 @@ graph
     ppprofanity 0.1026754
     ppinflammatory 0.19708002
     sentiment 0.3818
-    cluster 3
+    cluster 4
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -3358,7 +6086,7 @@ graph
     step 0
     date "2016-11-27T21:42:17Z"
     title "#pizzagate archive of information. Decide for yourself!"
-    description "I have posted a bunch of links here to the weirdness that is this pizzagate scandal.  There is something odd going on here and people need to know about it.  These links just barely scratch the surface but its a good place to start to catch you up to speed.&#10;&#10;Best source for info on pizzagate&#10;https://voat.co/v/PizzaGate &#10;&#10;Two videos that are a good place to start and learn about the whole pizzagate scandal.  &#10;https://youtu.be/Z4OP--ZXOjc&#10;https://youtu.be/IUGj5IhepMg &#10;&#10;&#10;Advertise as &#8220;kid friendly&#8221; place&#10;http://kidfriendlydc.com/2012/01/14/more-art-after-school-at-comet-ping-pong/ &#10;http://i.imgur.com/fnCOcx6.png &#10;&#10;Pictures inside&#10;http://archive.is/JU6qs  - weird mural at restaurant of someone being choked?&#10;http://archive.is/FdUb4 - creepy bathroom at restaurant&#10;&#10;&#10;Weird band that has played at Comet Pizza&#10;http://www.heavybreathing.net/a.html&#10;http://i.imgur.com/1CcdNtW.png &#10;https://www.indiegogo.com/projects/heavy-breathing-s-release-of-airtight#/comments &#10;https://youtu.be/zo_euND7Acs&#10;&#10;Comet Pizza on Diners Drive ins and Dives&#10;https://youtu.be/l1IMUT5B7wA &#10;&#10;James Alefantis' instagram&#10;http://archive.is/9FN8n  - Girl, striped, taped to table&#10;http://archive.is/r93DT  - Michelle Obama playing Ping Pong&#10;http://archive.is/vSqri  - Girl, drinking milk&#10;http://archive.is/vaDfJ  - Girl, standing in basket&#10;http://archive.is/jXWrG  - Photo of refrigerated meat locker, weird comments&#10;http://archive.is/0Az6u  - Baby eating pizza &#34;oh my god. Stop it&#34; comment&#10;http://archive.is/sSzEZ  - &#34;Boum Boum&#34; Room (euphemism for brothel)&#10;http://archive.is/qPJWe  - Close up of an eye of a dead pig&#10;http://archive.is/k0YJ3  - Close up of toddler boy&#10;http://archive.is/NaP2M  - Girl in yellow dress running on grass&#10;http://archive.is/S742A  - &#34;Long Dong Pizza Shop&#34;&#10;http://archive.is/8xQIo  - Marina Abramovic&#10;http://archive.is/ayA91  - Someone holding girl, #chickenlover hashtag (euphemism for gay pedophilia)&#10;http://archive.is/ZwwUn  - Girl and newborn&#10;http://archive.is/Pw7Fq  - &#34;French kissing&#34; a taxidermied dog&#10;http://archive.is/S6jzu  - Topless model&#10;http://archive.is/hPsLM  - Girl in striped shirt, at park&#10;http://archive.is/dJoiL - Screencapture of Child Beauty pageant show episode, subtitle about pizza&#10;http://archive.is/mKH6M  - Painting of 69 position sex on-top of slice a huge of pizza.&#10;http://archive.is/5UecO  - &#34;German Baby: $1200&#34; photo of doll&#10;http://archive.is/aiiUE  - Two individuals (one is &#34;workingonmynightcheese&#34;) staring at hole in floor of Comet Ping Pong basement&#10;http://archive.is/4uB5R  - Photo of Ping Pong being played between Obama and young boy at WH Christmas Party&#10;http://archive.is/8Bq8e  - Letter Alefantis received from Hillary Clinton"
+    description "I have posted a bunch of links here to the weirdness that is this pizzagate scandal.  There is something odd going on here and people need to know about it.  These links just barely scratch the surface but its a good place to start to catch you up to speed.&amp;#10;&amp;#10;Best source for info on pizzagate&amp;#10;https://voat.co/v/PizzaGate &amp;#10;&amp;#10;Two videos that are a good place to start and learn about the whole pizzagate scandal.  &amp;#10;https://youtu.be/Z4OP--ZXOjc&amp;#10;https://youtu.be/IUGj5IhepMg &amp;#10;&amp;#10;&amp;#10;Advertise as &amp;#8220;kid friendly&amp;#8221; place&amp;#10;http://kidfriendlydc.com/2012/01/14/more-art-after-school-at-comet-ping-pong/ &amp;#10;http://i.imgur.com/fnCOcx6.png &amp;#10;&amp;#10;Pictures inside&amp;#10;http://archive.is/JU6qs  - weird mural at restaurant of someone being choked?&amp;#10;http://archive.is/FdUb4 - creepy bathroom at restaurant&amp;#10;&amp;#10;&amp;#10;Weird band that has played at Comet Pizza&amp;#10;http://www.heavybreathing.net/a.html&amp;#10;http://i.imgur.com/1CcdNtW.png &amp;#10;https://www.indiegogo.com/projects/heavy-breathing-s-release-of-airtight#/comments &amp;#10;https://youtu.be/zo_euND7Acs&amp;#10;&amp;#10;Comet Pizza on Diners Drive ins and Dives&amp;#10;https://youtu.be/l1IMUT5B7wA &amp;#10;&amp;#10;James Alefantis' instagram&amp;#10;http://archive.is/9FN8n  - Girl, striped, taped to table&amp;#10;http://archive.is/r93DT  - Michelle Obama playing Ping Pong&amp;#10;http://archive.is/vSqri  - Girl, drinking milk&amp;#10;http://archive.is/vaDfJ  - Girl, standing in basket&amp;#10;http://archive.is/jXWrG  - Photo of refrigerated meat locker, weird comments&amp;#10;http://archive.is/0Az6u  - Baby eating pizza &amp;#34;oh my god. Stop it&amp;#34; comment&amp;#10;http://archive.is/sSzEZ  - &amp;#34;Boum Boum&amp;#34; Room (euphemism for brothel)&amp;#10;http://archive.is/qPJWe  - Close up of an eye of a dead pig&amp;#10;http://archive.is/k0YJ3  - Close up of toddler boy&amp;#10;http://archive.is/NaP2M  - Girl in yellow dress running on grass&amp;#10;http://archive.is/S742A  - &amp;#34;Long Dong Pizza Shop&amp;#34;&amp;#10;http://archive.is/8xQIo  - Marina Abramovic&amp;#10;http://archive.is/ayA91  - Someone holding girl, #chickenlover hashtag (euphemism for gay pedophilia)&amp;#10;http://archive.is/ZwwUn  - Girl and newborn&amp;#10;http://archive.is/Pw7Fq  - &amp;#34;French kissing&amp;#34; a taxidermied dog&amp;#10;http://archive.is/S6jzu  - Topless model&amp;#10;http://archive.is/hPsLM  - Girl in striped shirt, at park&amp;#10;http://archive.is/dJoiL - Screencapture of Child Beauty pageant show episode, subtitle about pizza&amp;#10;http://archive.is/mKH6M  - Painting of 69 position sex on-top of slice a huge of pizza.&amp;#10;http://archive.is/5UecO  - &amp;#34;German Baby: $1200&amp;#34; photo of doll&amp;#10;http://archive.is/aiiUE  - Two individuals (one is &amp;#34;workingonmynightcheese&amp;#34;) staring at hole in floor of Comet Ping Pong basement&amp;#10;http://archive.is/4uB5R  - Photo of Ping Pong being played between Obama and young boy at WH Christmas Party&amp;#10;http://archive.is/8Bq8e  - Letter Alefantis received from Hillary Clinton"
     channeltitle "Joe Young"
     channelid "UCBffDsSNFOn_bM6HK8foSaw"
     favcount 0
@@ -3377,6 +6105,28 @@ graph
     ppinflammatory 0.20164144
     sentiment 0
     cluster 8
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -3385,7 +6135,7 @@ graph
     step 0
     date "2017-03-15T17:24:23Z"
     title "BEFORE PIZZAGATE: Candy Girl Documentary Part 1 of 2"
-    description "Fiona Barnett Candy Girl Documentary Part 1 of 2  Satanic Ritual Abuse&#10;&#10;https://fionabarnett.org&#10;&#10;FOR EDUCATIONAL &#38; CRITICAL REVIEW PURPOSES ONLY - Fair Use Disclaimer-&#10;&#10;FAIR USE NOTICE: This website contains copyrighted material the use of which has not been specifically authorized by the copyright owner. I believe that the use of such material for nonprofit educational purposes (and other related purposes) constitutes a 'fair use' of the copyrighted material as provided for in the US Copyright Law at Title 17 U.S.C. Section 107. If you wish to use this copyrighted material for purposes of your own that go beyond &#8216;fair use&#8217;, you must obtain permission from the copyright owner. If for any reason you believe that use of your material on this site does not fall within the 'fair use' guidelines, please immediately notify the webmaster of this site so that the matter can be promptly addressed."
+    description "Fiona Barnett Candy Girl Documentary Part 1 of 2  Satanic Ritual Abuse&amp;#10;&amp;#10;https://fionabarnett.org&amp;#10;&amp;#10;FOR EDUCATIONAL &amp;#38; CRITICAL REVIEW PURPOSES ONLY - Fair Use Disclaimer-&amp;#10;&amp;#10;FAIR USE NOTICE: This website contains copyrighted material the use of which has not been specifically authorized by the copyright owner. I believe that the use of such material for nonprofit educational purposes (and other related purposes) constitutes a 'fair use' of the copyrighted material as provided for in the US Copyright Law at Title 17 U.S.C. Section 107. If you wish to use this copyrighted material for purposes of your own that go beyond &amp;#8216;fair use&amp;#8217;, you must obtain permission from the copyright owner. If for any reason you believe that use of your material on this site does not fall within the 'fair use' guidelines, please immediately notify the webmaster of this site so that the matter can be promptly addressed."
     channeltitle "aLie007"
     channelid "UCwa__DrZsN-kJxLo31KQ_MA"
     favcount 0
@@ -3403,7 +6153,29 @@ graph
     ppprofanity 0.085754074
     ppinflammatory 0.07407536
     sentiment 0
-    cluster 8
+    cluster 9
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -3412,7 +6184,7 @@ graph
     step 0
     date "2022-07-05T18:54:38Z"
     title "Pizzagate assassinations. The death of Hilary Clinton. Final episode."
-    description "47 you have been authorised to engage Hilary and eliminate her by any means necessary, any non target collateral will be acceptable, and compensated by the unlimited funds of the Clinton foundation. Bill Clinton has brought great shame upon the global elite for allowing her to almost expose their crimes. Were he not the Bastard of a prominent trillionare family, he would be paying for this particular frozen pizza with his flayed body. Thank you 47...Agency.&#10;&#10;&#10;https://store.playstation.com/#!/tid=CUSA00572_00"
+    description "47 you have been authorised to engage Hilary and eliminate her by any means necessary, any non target collateral will be acceptable, and compensated by the unlimited funds of the Clinton foundation. Bill Clinton has brought great shame upon the global elite for allowing her to almost expose their crimes. Were he not the Bastard of a prominent trillionare family, he would be paying for this particular frozen pizza with his flayed body. Thank you 47...Agency.&amp;#10;&amp;#10;&amp;#10;https://store.playstation.com/#!/tid=CUSA00572_00"
     channeltitle "mannzymunster"
     channelid "UCurAXiqcgP5kT3RJJTwQSvQ"
     favcount 0
@@ -3430,7 +6202,29 @@ graph
     ppprofanity 0.17874476
     ppinflammatory 0.6701351
     sentiment -0.8225
-    cluster 12
+    cluster 11
+    leftright "L"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -3457,7 +6251,29 @@ graph
     ppprofanity 0.19859985
     ppinflammatory 0.0022392669
     sentiment 0
-    cluster 9
+    cluster 8
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -3466,7 +6282,7 @@ graph
     step 0
     date "2016-12-09T14:40:19Z"
     title "The Morning Joe team talk about Pizzagate"
-    description "See: 'Mainstream Muppets'&#10;http://www.spiderbomb.com/blog/?p=3835"
+    description "See: 'Mainstream Muppets'&amp;#10;http://www.spiderbomb.com/blog/?p=3835"
     channeltitle "LocalRadioFrance"
     channelid "UCx0e6TmeMQlOmnv49uebSaQ"
     favcount 0
@@ -3484,7 +6300,29 @@ graph
     ppprofanity 0.03785802
     ppinflammatory 0.18915516
     sentiment 0
-    cluster 9
+    cluster 8
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -3512,6 +6350,28 @@ graph
     ppinflammatory 0.040146098
     sentiment 0
     cluster 5
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -3539,6 +6399,28 @@ graph
     ppinflammatory 0.13242841
     sentiment 0
     cluster 6
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -3566,6 +6448,28 @@ graph
     ppinflammatory 0.7929147
     sentiment -0.6705
     cluster 5
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -3575,7 +6479,7 @@ graph
     date "2022-04-11T00:14:33Z"
     title "Alex Jones was right about Epstein since 2008. #pizzagate"
     description ""
-    channeltitle "&#8205;morph1c44"
+    channeltitle "&amp;#8205;morph1c44"
     channelid "UCMQJG5HoHtJ7P5YI4RlC69A"
     favcount 0
     viewcount 216
@@ -3592,7 +6496,29 @@ graph
     ppprofanity 0.15135944
     ppinflammatory 0.10623681
     sentiment 0
-    cluster 3
+    cluster 4
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -3620,6 +6546,28 @@ graph
     ppinflammatory 0.3506141
     sentiment 0
     cluster 5
+    leftright "C"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 1
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -3628,7 +6576,7 @@ graph
     step 0
     date "2017-07-20T22:17:17Z"
     title "Irritated Genie  to Africans,Organ Trafficking, #PizzaGate, Interview w/ Mr BE,"
-    description "The Irritated Genie of Soufeese&#10;(Most Hated Black Man in amerikkka)&#10;&#10;Website:   www.waronthehorizon.com&#10;Phone number:  (202) 309-9106&#10;Email address:  liberation@waronthehorizon.com&#10;Facebook Page:  Irritated Genie of Soufeese &#10;&#10;Help Support our channel any Amount will Count&#8230;&#10;https://www.paypal.me/loveofferings&#10;&#10;Subscribe mb3gee Channel @ &#10; https://www.youtube.com/channel/UCpwRMRUTNAXeKU_vCNU10fA&#10;&#10;Website: https://www.mb3gee.com&#10;FOLLOW US on Facebook, Instagram, Twitter: SHEDUSERVICES&#10;&#10;Irritated Genie of Soufeese Interview w/ Mr BE, gives a WARNING to our African people about the New Age Slavery Organ Trafficking, #PizzaGate and The Feminizing of the African Male."
+    description "The Irritated Genie of Soufeese&amp;#10;(Most Hated Black Man in amerikkka)&amp;#10;&amp;#10;Website:   www.waronthehorizon.com&amp;#10;Phone number:  (202) 309-9106&amp;#10;Email address:  liberation@waronthehorizon.com&amp;#10;Facebook Page:  Irritated Genie of Soufeese &amp;#10;&amp;#10;Help Support our channel any Amount will Count&amp;#8230;&amp;#10;https://www.paypal.me/loveofferings&amp;#10;&amp;#10;Subscribe mb3gee Channel @ &amp;#10; https://www.youtube.com/channel/UCpwRMRUTNAXeKU_vCNU10fA&amp;#10;&amp;#10;Website: https://www.mb3gee.com&amp;#10;FOLLOW US on Facebook, Instagram, Twitter: SHEDUSERVICES&amp;#10;&amp;#10;Irritated Genie of Soufeese Interview w/ Mr BE, gives a WARNING to our African people about the New Age Slavery Organ Trafficking, #PizzaGate and The Feminizing of the African Male."
     channeltitle "mb3gee (STREET HYPE EDUTAINMENT Tv)"
     channelid "UCpwRMRUTNAXeKU_vCNU10fA"
     favcount 0
@@ -3647,6 +6595,28 @@ graph
     ppinflammatory 0.043728154
     sentiment -0.4588
     cluster 2
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -3673,7 +6643,29 @@ graph
     ppprofanity 0.024060823
     ppinflammatory 0.0704091
     sentiment 0
-    cluster 12
+    cluster 11
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -3682,7 +6674,7 @@ graph
     step 0
     date "2020-06-25T13:21:38Z"
     title "Maria Marshall responds to #Pizzagate accusations - 1"
-    description "A few years ago the #Pizzagate channel targeted me for heinous crimes in the form of seven you tube videos appropriating my films and adding his own lies, In this video I explain my experience and challenge the 'fake' sensationalist news.&#10;&#10;My videos that I reference:&#10;https://youtu.be/pz6YdNRPraE&#10;https://youtu.be/7FVb3U3Ao2Q&#10;https://www.mariamarshall.com/fullscreen-page/comp-jblc1ezs/33bdebaa-e628-4db7-b474-eb8da6f53bc8/12/%3Fi%3D12%26p%3De46lg%26s%3Dstyle-jdyzt3ub&#10;&#10;#pizzagate videos:&#10;https://youtu.be/tKfG9irehv0&#10;https://youtu.be/bpJyb8tXK4o&#10;https://youtu.be/cMfZzdtbH6Q&#10;&#10;My website:&#10;mariamarshall.com&#10;&#10;My Instagram:&#10;https://www.instagram.com/maria_h_marshall/"
+    description "A few years ago the #Pizzagate channel targeted me for heinous crimes in the form of seven you tube videos appropriating my films and adding his own lies, In this video I explain my experience and challenge the 'fake' sensationalist news.&amp;#10;&amp;#10;My videos that I reference:&amp;#10;https://youtu.be/pz6YdNRPraE&amp;#10;https://youtu.be/7FVb3U3Ao2Q&amp;#10;https://www.mariamarshall.com/fullscreen-page/comp-jblc1ezs/33bdebaa-e628-4db7-b474-eb8da6f53bc8/12/%3Fi%3D12%26p%3De46lg%26s%3Dstyle-jdyzt3ub&amp;#10;&amp;#10;#pizzagate videos:&amp;#10;https://youtu.be/tKfG9irehv0&amp;#10;https://youtu.be/bpJyb8tXK4o&amp;#10;https://youtu.be/cMfZzdtbH6Q&amp;#10;&amp;#10;My website:&amp;#10;mariamarshall.com&amp;#10;&amp;#10;My Instagram:&amp;#10;https://www.instagram.com/maria_h_marshall/"
     channeltitle "Maria Marshall"
     channelid "UC9BIQ55ujkE3nWAMzj__-LA"
     favcount 0
@@ -3701,6 +6693,28 @@ graph
     ppinflammatory 0.22991647
     sentiment -0.3182
     cluster 2
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -3709,7 +6723,7 @@ graph
     step 0
     date "2020-09-29T15:09:15Z"
     title ""
-    description "During C-SPAN&#8217;s &#8220;Open Phones&#8221; segment on March 2, 2017, a viewer tweets in referencing &#8220;Pizzagate&#8221; live on television. &#10;&#10;Source: https://www.c-span.org/video/?424616-2/washington-journal-news-headlines-viewer-calls&#10;&#10;Like and subscribe for more content!&#10;&#10;Also follow Patriot Of Truth on IG @ patriot.of.truth&#10;&#10;Title 17 USC section 107 of the US Copyright Law renders this &#8220;Fair Use&#8221; as it is intended only for educational purposes."
+    description "During C-SPAN&amp;#8217;s &amp;#8220;Open Phones&amp;#8221; segment on March 2, 2017, a viewer tweets in referencing &amp;#8220;Pizzagate&amp;#8221; live on television. &amp;#10;&amp;#10;Source: https://www.c-span.org/video/?424616-2/washington-journal-news-headlines-viewer-calls&amp;#10;&amp;#10;Like and subscribe for more content!&amp;#10;&amp;#10;Also follow Patriot Of Truth on IG @ patriot.of.truth&amp;#10;&amp;#10;Title 17 USC section 107 of the US Copyright Law renders this &amp;#8220;Fair Use&amp;#8221; as it is intended only for educational purposes."
     channeltitle "Patriot Of Truth"
     channelid "UCSSag8_f3VdGemgpdvXbQfQ"
     favcount 0
@@ -3727,7 +6741,29 @@ graph
     ppprofanity 0.014357024
     ppinflammatory 0.09485698
     sentiment 0
-    cluster 3
+    cluster 4
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -3736,8 +6772,8 @@ graph
     step 0
     date "2018-11-27T14:31:44Z"
     title " Journalist Testimony Before International Tribunal for Natural Justice"
-    description "The International Tribunal for Natural Justice has been formed to confront and bring justice to perpertrators of human trafficking and child abuse around the world - without the constraints of &#10;Nationality, Government or Religious boundaries and therefore dependent on public funding and volunteering in order to remain completely independent. However, there are some who believe it &#10;is not the noble authority it claims to be, calling it nothing more than a global scam and a toothless dog. Is the Tribunal all that voiceless victims - and the world as a whole have been waiting for? &#10;Credit:  https://commission.itnj.org&#10;#pizzagate #beaumontchildren #truecrime&#10;&#10;&#10;Help support our channel. &#10;Murder Mystery &#38; Mayhem Merchandise Here:&#10;https://teespring.com/en-GB/stores/murder-mystery-mayhem DONATIONS:  https://streamlabs.com/dreamweaver1/v2/tip MERCHANDISE! https://streamlabs.com/dreamweaver1/v2/tip#/merch"
-    channeltitle "Murder Mystery &#38; Mayhem"
+    description "The International Tribunal for Natural Justice has been formed to confront and bring justice to perpertrators of human trafficking and child abuse around the world - without the constraints of &amp;#10;Nationality, Government or Religious boundaries and therefore dependent on public funding and volunteering in order to remain completely independent. However, there are some who believe it &amp;#10;is not the noble authority it claims to be, calling it nothing more than a global scam and a toothless dog. Is the Tribunal all that voiceless victims - and the world as a whole have been waiting for? &amp;#10;Credit:  https://commission.itnj.org&amp;#10;#pizzagate #beaumontchildren #truecrime&amp;#10;&amp;#10;&amp;#10;Help support our channel. &amp;#10;Murder Mystery &amp;#38; Mayhem Merchandise Here:&amp;#10;https://teespring.com/en-GB/stores/murder-mystery-mayhem DONATIONS:  https://streamlabs.com/dreamweaver1/v2/tip MERCHANDISE! https://streamlabs.com/dreamweaver1/v2/tip#/merch"
+    channeltitle "Murder Mystery &amp;#38; Mayhem"
     channelid "UCtuX8MrK1IBOPDL5sEnldWw"
     favcount 0
     viewcount 1373
@@ -3755,6 +6791,28 @@ graph
     ppinflammatory 0.061597224
     sentiment 0.7096
     cluster 5
+    leftright "L"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 1
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 1
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -3781,7 +6839,29 @@ graph
     ppprofanity 0.02571343
     ppinflammatory 0.17807266
     sentiment 0
-    cluster 10
+    cluster 7
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -3790,7 +6870,7 @@ graph
     step 0
     date "2022-03-14T05:00:08Z"
     title "Killer Conspiracies - The Pizzagate Shooting"
-    description "Disclaimer: The opinions regarding the actions and lack thereof on certain peoples&#8217; parts within this case, are strictly my opinion and are not meant to harm or slander anyone. This episode is meant for entertainment purposes only. &#10;&#10;Welcome back to Rogue Darkness! In this episode we&#8217;ll be delving into the darkness of humanity by discussing how a notorious internet conspiracy theory lead to a man traveling over 300 miles to Washington DC, strapped with an AR-15 rifle, and proceeded to open fire into a local pizza shop. Join me this week for a new segment I&#8217;ll be including on the show, that I like to call &#8220;Killer Conspiracies&#8221;. &#13;&#10;&#13;&#10;&#13;&#10;Articles referenced: https://abcnews.go.com/US/details-emerge-pizzagate-shooting-suspect-faces-federal-charges/story?id=44176270&#13;&#10;&#13;&#10;https://en.m.wikipedia.org/wiki/Pizzagate_conspiracy_theory#Comet_Ping_Pong_shooting&#13;&#10;&#13;&#10;Background music in this episode: &#8220;Anxiety/Horror&#8221; by Kevin MacLeod (Royalty Free)&#13;&#10;&#13;&#10;Listen to Kevin MacLeod&#8217;s music here: https://incompetech.com/music/royalty-free/&#13;&#10;&#13;&#10;&#13;&#10;Contact: roguedarknesspod@gmail.com&#13;&#10;&#13;&#10;Follow me on Instagram! https://instagram.com/rogue_darkness?igshid=e2qxf6xt3dqq&#13;&#10;&#13;&#10;Support the show (https://ko-fi.com/rogue_darkness)"
+    description "Disclaimer: The opinions regarding the actions and lack thereof on certain peoples&amp;#8217; parts within this case, are strictly my opinion and are not meant to harm or slander anyone. This episode is meant for entertainment purposes only. &amp;#10;&amp;#10;Welcome back to Rogue Darkness! In this episode we&amp;#8217;ll be delving into the darkness of humanity by discussing how a notorious internet conspiracy theory lead to a man traveling over 300 miles to Washington DC, strapped with an AR-15 rifle, and proceeded to open fire into a local pizza shop. Join me this week for a new segment I&amp;#8217;ll be including on the show, that I like to call &amp;#8220;Killer Conspiracies&amp;#8221;. &amp;#13;&amp;#10;&amp;#13;&amp;#10;&amp;#13;&amp;#10;Articles referenced: https://abcnews.go.com/US/details-emerge-pizzagate-shooting-suspect-faces-federal-charges/story?id=44176270&amp;#13;&amp;#10;&amp;#13;&amp;#10;https://en.m.wikipedia.org/wiki/Pizzagate_conspiracy_theory#Comet_Ping_Pong_shooting&amp;#13;&amp;#10;&amp;#13;&amp;#10;Background music in this episode: &amp;#8220;Anxiety/Horror&amp;#8221; by Kevin MacLeod (Royalty Free)&amp;#13;&amp;#10;&amp;#13;&amp;#10;Listen to Kevin MacLeod&amp;#8217;s music here: https://incompetech.com/music/royalty-free/&amp;#13;&amp;#10;&amp;#13;&amp;#10;&amp;#13;&amp;#10;Contact: roguedarknesspod@gmail.com&amp;#13;&amp;#10;&amp;#13;&amp;#10;Follow me on Instagram! https://instagram.com/rogue_darkness?igshid=e2qxf6xt3dqq&amp;#13;&amp;#10;&amp;#13;&amp;#10;Support the show (https://ko-fi.com/rogue_darkness)"
     channeltitle "Rogue Darkness"
     channelid "UC3Ne_hJYPGj3d-W4CL_MDfA"
     favcount 0
@@ -3809,6 +6889,28 @@ graph
     ppinflammatory 0.49104375
     sentiment -0.6486
     cluster 6
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -3835,7 +6937,29 @@ graph
     ppprofanity 0.03993432
     ppinflammatory 0.163162
     sentiment 0
-    cluster 9
+    cluster 8
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -3844,7 +6968,7 @@ graph
     step 0
     date "2020-07-16T18:06:51Z"
     title "Wayfair Trafficking Children Conspiracy Theories Wayfair Pizzagate Way fair Exposed PIZZAGATE QANON"
-    description "Wayfair Trafficking Children Conspiracy Theories Wayfair Pizzagate Way fair Exposed PIZZAGATE QANON&#10;&#10;#wayfair #conspiracy #pizzagate #qanon&#10;&#10;Wayfair did their inhouse investigation and says the claims are false. Do you belive Wayfair? Image wayfair being the fall of our elites in this world. What would our world be like if we proved the wayfair child trafficking theory was real? &#10;&#10;What is your take on the strange wayfair listings? It is definitly intresting and makes you wonder if we will ever hear the truth? Are the elites really phedophiles?&#10;&#10;wayfair , wayfair trafficking , wayfair conspiracy , wayfair children , wayfair trafficking children , wayfair review , wayfair bed , wayfair , wayfair"
+    description "Wayfair Trafficking Children Conspiracy Theories Wayfair Pizzagate Way fair Exposed PIZZAGATE QANON&amp;#10;&amp;#10;#wayfair #conspiracy #pizzagate #qanon&amp;#10;&amp;#10;Wayfair did their inhouse investigation and says the claims are false. Do you belive Wayfair? Image wayfair being the fall of our elites in this world. What would our world be like if we proved the wayfair child trafficking theory was real? &amp;#10;&amp;#10;What is your take on the strange wayfair listings? It is definitly intresting and makes you wonder if we will ever hear the truth? Are the elites really phedophiles?&amp;#10;&amp;#10;wayfair , wayfair trafficking , wayfair conspiracy , wayfair children , wayfair trafficking children , wayfair review , wayfair bed , wayfair , wayfair"
     channeltitle "Data Is Awesome"
     channelid "UCqkxlcz4xHtczraAEODmW0Q"
     favcount 0
@@ -3863,6 +6987,28 @@ graph
     ppinflammatory 0.19256897
     sentiment -0.34
     cluster 8
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -3871,7 +7017,7 @@ graph
     step 0
     date "2020-08-10T22:27:30Z"
     title "Sirius Issues - Red Pill (pizzagate)"
-    description "Now out on all platforms!  Please spread the word and help support the cause.&#10;&#10;I appreciate all of your feedback and support.  I do this for you all and the people who cannot fight for themselves.  The MSM is not bringing much attention to this, but we must SAVE THESE CHILDREN!&#10;&#10;#saveourchildren #savethesekids"
+    description "Now out on all platforms!  Please spread the word and help support the cause.&amp;#10;&amp;#10;I appreciate all of your feedback and support.  I do this for you all and the people who cannot fight for themselves.  The MSM is not bringing much attention to this, but we must SAVE THESE CHILDREN!&amp;#10;&amp;#10;#saveourchildren #savethesekids"
     channeltitle "Sirius Issues"
     channelid "UC7Ddh5nCSw9Oh3HGyciU8xg"
     favcount 0
@@ -3889,7 +7035,29 @@ graph
     ppprofanity 0.18818997
     ppinflammatory 0.13623318
     sentiment 0
-    cluster 12
+    cluster 11
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -3916,7 +7084,29 @@ graph
     ppprofanity 0.15352277
     ppinflammatory 0.37584594
     sentiment 0
-    cluster 10
+    cluster 9
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -3925,7 +7115,7 @@ graph
     step 0
     date "2017-09-24T00:30:00Z"
     title "CBS Host Admits  | Must-See !!"
-    description "Facebook - http://bit.ly/2wD0VP5&#10;Tubmlr - http://bit.ly/2xekdYA&#10;Speech - http://bit.ly/2wCPYOt"
+    description "Facebook - http://bit.ly/2wD0VP5&amp;#10;Tubmlr - http://bit.ly/2xekdYA&amp;#10;Speech - http://bit.ly/2wCPYOt"
     channeltitle "Breaking News Headlines - Wiki Podcast"
     channelid "UC5APTxeKdh1AgaO48HOEMXg"
     favcount 0
@@ -3943,7 +7133,29 @@ graph
     ppprofanity 0.059603058
     ppinflammatory 0.27428514
     sentiment 0.296
-    cluster 6
+    cluster 3
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -3970,7 +7182,29 @@ graph
     ppprofanity 0.029710993
     ppinflammatory 0.13015454
     sentiment 0
-    cluster 9
+    cluster 8
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -3997,7 +7231,29 @@ graph
     ppprofanity 0.05129112
     ppinflammatory 0.091696076
     sentiment 0
-    cluster 9
+    cluster 8
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -4006,7 +7262,7 @@ graph
     step 0
     date "2017-01-06T22:35:34Z"
     title "Pizzagate film"
-    description "Find the accompanying article, with lots more info on this, here: http://www.truefreethinker.com/articles/pizzagate-james-alefantis-movie-producer&#10;&#10;See my site&#8217;s section on #pizzagate: http://www.truefreethinker.com/tag/pizzagate&#10;&#10;A plea: I have to pay for server usage and have made all content on my website free and always will. I support my family on one income and do research, writing, videos, etc. as a hobby. If you can even spare $1.00 as a donation, please do so: it may not seem like much but if each person reading this would do so, even every now and then, it would add up and really, really help out. Here is my donate/paypal page: http://www.truefreethinker.com/donate&#10;&#10;~~~~~~~~~~~~~~&#10;You can visit me here:&#10;&#10;True Freethinker:&#10;http://www.truefreethinker.com&#10;&#10;Backup video channel:&#10;https://archive.org/details/@ken_ammi&#10;&#10;Facebook:&#10;http://www.facebook.com/pages/True-Freethinker/121114521301654&#10;&#10;Twitter:&#10;http://twitter.com/TrueFreethinker&#10;&#10;Google+&#10;https://plus.google.com/109752103364517998293/posts"
+    description "Find the accompanying article, with lots more info on this, here: http://www.truefreethinker.com/articles/pizzagate-james-alefantis-movie-producer&amp;#10;&amp;#10;See my site&amp;#8217;s section on #pizzagate: http://www.truefreethinker.com/tag/pizzagate&amp;#10;&amp;#10;A plea: I have to pay for server usage and have made all content on my website free and always will. I support my family on one income and do research, writing, videos, etc. as a hobby. If you can even spare $1.00 as a donation, please do so: it may not seem like much but if each person reading this would do so, even every now and then, it would add up and really, really help out. Here is my donate/paypal page: http://www.truefreethinker.com/donate&amp;#10;&amp;#10;~~~~~~~~~~~~~~&amp;#10;You can visit me here:&amp;#10;&amp;#10;True Freethinker:&amp;#10;http://www.truefreethinker.com&amp;#10;&amp;#10;Backup video channel:&amp;#10;https://archive.org/details/@ken_ammi&amp;#10;&amp;#10;Facebook:&amp;#10;http://www.facebook.com/pages/True-Freethinker/121114521301654&amp;#10;&amp;#10;Twitter:&amp;#10;http://twitter.com/TrueFreethinker&amp;#10;&amp;#10;Google+&amp;#10;https://plus.google.com/109752103364517998293/posts"
     channeltitle "Ken Ammi"
     channelid "UCboXL7YhH46voDZjM3zseBg"
     favcount 0
@@ -4025,6 +7281,28 @@ graph
     ppinflammatory 0.09510492
     sentiment 0
     cluster 7
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -4051,7 +7329,29 @@ graph
     ppprofanity 0.035447303
     ppinflammatory 0.113308474
     sentiment 0
-    cluster 12
+    cluster 11
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -4079,6 +7379,28 @@ graph
     ppinflammatory 0.43704852
     sentiment 0
     cluster 7
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -4087,7 +7409,7 @@ graph
     step 0
     date "2017-01-27T20:38:41Z"
     title "David Seaman: Pizzagate Opportunist"
-    description "David Seaman uses the techniques he outlined in his book &#34;Dirty Little Secrets of Buzz&#34; with the hopes of cashing in on the ridiculous, politically motivated &#34;Pizzagate&#34; hoax.&#10;#SYNTHETICREBELLION"
+    description "David Seaman uses the techniques he outlined in his book &amp;#34;Dirty Little Secrets of Buzz&amp;#34; with the hopes of cashing in on the ridiculous, politically motivated &amp;#34;Pizzagate&amp;#34; hoax.&amp;#10;#SYNTHETICREBELLION"
     channeltitle "syntheticrebellion"
     channelid "UCMe7hdSiN3ePwcT1NmnAyxg"
     favcount 0
@@ -4105,7 +7427,29 @@ graph
     ppprofanity 0.25751704
     ppinflammatory 0.30617192
     sentiment 0.0516
-    cluster 3
+    cluster 4
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -4132,7 +7476,29 @@ graph
     ppprofanity 0.2586923
     ppinflammatory 0.00019538576
     sentiment -0.1513
-    cluster 9
+    cluster 8
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -4141,7 +7507,7 @@ graph
     step 0
     date "2018-02-05T16:32:32Z"
     title "Sean Penn  The Clinton Foundation #PizzaGate part 2"
-    description "this got 65K views in like 10 days on my #PizzaGate2018 channel&#10;&#10;i must say i am impressed, but we all need to work harder exposing these creeps"
+    description "this got 65K views in like 10 days on my #PizzaGate2018 channel&amp;#10;&amp;#10;i must say i am impressed, but we all need to work harder exposing these creeps"
     channeltitle "DracoSlayerLovesHeavyWater"
     channelid "UCbq4w-YdCA_8KT5PhJrDadg"
     favcount 0
@@ -4160,6 +7526,28 @@ graph
     ppinflammatory 0.109487005
     sentiment 0
     cluster 7
+    leftright "L"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 1
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 1
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -4168,7 +7556,7 @@ graph
     step 0
     date "2020-04-18T02:15:45Z"
     title "Pizzagate Friends"
-    description "Ross doesn&#8217;t like vegetarian pizza &#127829;&#128065;&#127829;&#10;&#10;#friends #pizzagate #qanon #pedogate #trump2020"
+    description "Ross doesn&amp;#8217;t like vegetarian pizza &amp;#127829;&amp;#128065;&amp;#127829;&amp;#10;&amp;#10;#friends #pizzagate #qanon #pedogate #trump2020"
     channeltitle "Crusty The Wanksock"
     channelid "UCmeldwg8PJCG77-KRqQwZRg"
     favcount 0
@@ -4187,6 +7575,28 @@ graph
     ppinflammatory 0.19424537
     sentiment 0.4767
     cluster 7
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -4214,6 +7624,28 @@ graph
     ppinflammatory 0.25774544
     sentiment 0
     cluster 5
+    leftright "L"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -4240,7 +7672,29 @@ graph
     ppprofanity 0.35690895
     ppinflammatory 0.06415219
     sentiment 0
-    cluster 6
+    cluster 4
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -4249,7 +7703,7 @@ graph
     step 0
     date "2020-03-27T14:58:02Z"
     title "John Podesta describes Pizzagate"
-    description "John Podesta describes Pizzagate in an uncanny way in 2017, a few months after the election.&#10;John Podesta: &#34;Yeah, you know it's interesting, because it's subterranean in large part. It shows up in the Facebook newsfeed, but you don't see it, because it's not...If anything, it's being debunked in the mainstream media. &#10;&#10;So in those sources of news...it's...you don't, touch it and feel it as much, as you might imagine.&#10;&#10;&#10;But it's sinister. It's a kind of vile stream that's running under the ground, that, um, begins to really I think, you know, have it's effect, take it's toll. And obviously the worst conspiracy, where it culminated in the so-called, &#34;Comet Pizza&#34; episode, uh, in which, a guy, uh, which I know, who cooked, who volunteered at a fundraiser for Hillary Clinton, who runs a pizzeria, an upscale pizzeria in Washington D.C. was accused, along with myself, my brother and others of running a child sex ring out of a pizza parlor. Mainstream media, like, debunked that instantly. But you can't...&#10;&#10;John Heilemann: I still have some questions about that by the way.&#10;&#10;John Podesta: But you can't get, you can't pull that back. And that ended up with a guy from North Carolina if I remember right, you know, getting a gun, driving to Washington, to do a self-investigation, of what was going on in the basement of the pizzeria. I don't think the pizzeria had a basement by the way. Uh, and firing his weapon. You know, so for the employees there, for James Alefantis who was the proprietor, people in the community, this is a horrifying episode. But it's very hard to pull this stuff back.&#10;&#10;Feb 20, 2017&#10;The Chair of Hillary Clinton&#8217;s 2016 Presidential campaign and former Chief of Staff to Bill Clinton joined John Heilemann.&#10;&#10;Link to the original clip:&#10;https://www.youtube.com/watch?v=GD2pwatfQg4&#38;t=1224s"
+    description "John Podesta describes Pizzagate in an uncanny way in 2017, a few months after the election.&amp;#10;John Podesta: &amp;#34;Yeah, you know it's interesting, because it's subterranean in large part. It shows up in the Facebook newsfeed, but you don't see it, because it's not...If anything, it's being debunked in the mainstream media. &amp;#10;&amp;#10;So in those sources of news...it's...you don't, touch it and feel it as much, as you might imagine.&amp;#10;&amp;#10;&amp;#10;But it's sinister. It's a kind of vile stream that's running under the ground, that, um, begins to really I think, you know, have it's effect, take it's toll. And obviously the worst conspiracy, where it culminated in the so-called, &amp;#34;Comet Pizza&amp;#34; episode, uh, in which, a guy, uh, which I know, who cooked, who volunteered at a fundraiser for Hillary Clinton, who runs a pizzeria, an upscale pizzeria in Washington D.C. was accused, along with myself, my brother and others of running a child sex ring out of a pizza parlor. Mainstream media, like, debunked that instantly. But you can't...&amp;#10;&amp;#10;John Heilemann: I still have some questions about that by the way.&amp;#10;&amp;#10;John Podesta: But you can't get, you can't pull that back. And that ended up with a guy from North Carolina if I remember right, you know, getting a gun, driving to Washington, to do a self-investigation, of what was going on in the basement of the pizzeria. I don't think the pizzeria had a basement by the way. Uh, and firing his weapon. You know, so for the employees there, for James Alefantis who was the proprietor, people in the community, this is a horrifying episode. But it's very hard to pull this stuff back.&amp;#10;&amp;#10;Feb 20, 2017&amp;#10;The Chair of Hillary Clinton&amp;#8217;s 2016 Presidential campaign and former Chief of Staff to Bill Clinton joined John Heilemann.&amp;#10;&amp;#10;Link to the original clip:&amp;#10;https://www.youtube.com/watch?v=GD2pwatfQg4&amp;#38;t=1224s"
     channeltitle "Connecting The Dots"
     channelid "UCEMiF6vLv9SO3CJc9d7ppag"
     favcount 0
@@ -4267,7 +7721,29 @@ graph
     ppprofanity 0.025892245
     ppinflammatory 0.14626737
     sentiment 0
-    cluster 2
+    cluster 8
+    leftright "C"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 1
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -4295,6 +7771,28 @@ graph
     ppinflammatory 0.026050627
     sentiment 0
     cluster 5
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -4303,7 +7801,7 @@ graph
     step 0
     date "2021-03-05T06:00:04Z"
     title "LA CONSPIRACIN DE PIZZAGATE"
-    description "&#128995; INSTAGRAM: @zona_espectral&#10;https://instagram.com/zona_espectral?igshid=1hnrn2dl0pxnt&#10;&#10;&#10;&#128309; FACEBOOK: Zona Espectral&#10;https://www.facebook.com/Zona-Espectral-104500324764391/&#10;&#10;&#10;&#9899; PATREON: &#10;https://www.patreon.com/ZonaEspectral&#10;&#10;&#10;&#128204; ENV&#205;ANOS A:&#10;zona.espectral.contacto@gmail.com &#10; - Tu historia terror&#237;fica&#10;- Sugerencias para futuros videos&#10;- Saludos, felicitaciones&#10;&#10;&#10;&#128204; ENV&#205;ANOS A:&#10;nopaleradigital@gmail.com&#10;- Propuestas de colaboraci&#243;n y/o asuntos empresariales"
+    description "&amp;#128995; INSTAGRAM: @zona_espectral&amp;#10;https://instagram.com/zona_espectral?igshid=1hnrn2dl0pxnt&amp;#10;&amp;#10;&amp;#10;&amp;#128309; FACEBOOK: Zona Espectral&amp;#10;https://www.facebook.com/Zona-Espectral-104500324764391/&amp;#10;&amp;#10;&amp;#10;&amp;#9899; PATREON: &amp;#10;https://www.patreon.com/ZonaEspectral&amp;#10;&amp;#10;&amp;#10;&amp;#128204; ENV&amp;#205;ANOS A:&amp;#10;zona.espectral.contacto@gmail.com &amp;#10; - Tu historia terror&amp;#237;fica&amp;#10;- Sugerencias para futuros videos&amp;#10;- Saludos, felicitaciones&amp;#10;&amp;#10;&amp;#10;&amp;#128204; ENV&amp;#205;ANOS A:&amp;#10;nopaleradigital@gmail.com&amp;#10;- Propuestas de colaboraci&amp;#243;n y/o asuntos empresariales"
     channeltitle "Zona Espectral"
     channelid "UCWbWN-SnM51fYCv8wTwPtfQ"
     favcount 0
@@ -4322,6 +7820,28 @@ graph
     ppinflammatory 0.07347559
     sentiment 0
     cluster 9
+    leftright "L"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 1
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 1
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 1
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -4331,7 +7851,7 @@ graph
     date "2020-07-23T08:20:35Z"
     title "FCK IT! Pizzagate 3!"
     description "Today on Surreal Talk, the guys will be discussing the latest in the world of high-end pedophilia. With the recent arrest of Ghislaine Maxwell, we can finally hope for some answers, and with any luck, accountability in the abuses surrounding Jeffrey Epstein. We'll also spend some time discussing the people reportedly mentioned in the flight logs for Lolita Air and the possibility that some or many of them may be implicated by Maxwell. This and more on this episode of Surreal Talk!"
-    channeltitle "Surreal Talk - Cults, Conspiracies &#38; the Paranormal"
+    channeltitle "Surreal Talk - Cults, Conspiracies &amp;#38; the Paranormal"
     channelid "UCECDGSiHR0lxWzwYTZKGKxw"
     favcount 0
     viewcount 683
@@ -4348,7 +7868,29 @@ graph
     ppprofanity 0.6529673
     ppinflammatory 0.16958754
     sentiment 0
-    cluster 3
+    cluster 4
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -4357,7 +7899,7 @@ graph
     step 0
     date "2020-06-11T00:07:00Z"
     title "Rosalia y Travis Scott hablan del #Pizzagate en su video #TKN"
-    description "En este v&#237;deo te doy una interpretaci&#243;n de la canci&#243;n ROSAL&#205;A &#38; Travis Scott - TKN | En la cual se cree hablan sobre el #Pizzagate.&#10;Te muestro un an&#225;lisis del v&#237;deo y un an&#225;lisis de la letra&#10;&#10;#Rosalia&#10;#TravisScott&#10;#TKN&#10;#Pizzagate&#10;#RosaliayTravisScottTaken&#10;&#10;Todo lo dicho en este v&#237;deo se trata de una mera especulaci&#243;n, depende de ti creer si es cierto o no."
+    description "En este v&amp;#237;deo te doy una interpretaci&amp;#243;n de la canci&amp;#243;n ROSAL&amp;#205;A &amp;#38; Travis Scott - TKN | En la cual se cree hablan sobre el #Pizzagate.&amp;#10;Te muestro un an&amp;#225;lisis del v&amp;#237;deo y un an&amp;#225;lisis de la letra&amp;#10;&amp;#10;#Rosalia&amp;#10;#TravisScott&amp;#10;#TKN&amp;#10;#Pizzagate&amp;#10;#RosaliayTravisScottTaken&amp;#10;&amp;#10;Todo lo dicho en este v&amp;#237;deo se trata de una mera especulaci&amp;#243;n, depende de ti creer si es cierto o no."
     channeltitle "Deimon Logia"
     channelid "UCFBzNnNmNTh-rFC-qUo4Zww"
     favcount 0
@@ -4375,7 +7917,29 @@ graph
     ppprofanity 0.2304451
     ppinflammatory 0.008266906
     sentiment 0
-    cluster 9
+    cluster 8
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -4403,6 +7967,28 @@ graph
     ppinflammatory 0.14303173
     sentiment 0
     cluster 5
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -4411,7 +7997,7 @@ graph
     step 0
     date "2022-06-03T13:15:00Z"
     title "Andrew Klavan - Tickety-Boo News,  by Sharyl Attkisson, point on pizzagate"
-    description "From the Andrew Klavan Show Ep. 412:&#10;https://www.youtube.com/watch?v=6rACe_QA1tk&#10;&#10;Tickety-Boo News playlist:&#10;https://www.youtube.com/playlist?list=PLY7yi4Eh-jkWE8j29Z7XQVgwUfOeTdoQ8&#10;&#10;Andrew Klavan's playlists:&#10;https://www.youtube.com/channel/UC5POQybTnA0tTOkBmBMY9Xw/playlists?view=50&#38;sort=dd&#38;shelf_id=2"
+    description "From the Andrew Klavan Show Ep. 412:&amp;#10;https://www.youtube.com/watch?v=6rACe_QA1tk&amp;#10;&amp;#10;Tickety-Boo News playlist:&amp;#10;https://www.youtube.com/playlist?list=PLY7yi4Eh-jkWE8j29Z7XQVgwUfOeTdoQ8&amp;#10;&amp;#10;Andrew Klavan's playlists:&amp;#10;https://www.youtube.com/channel/UC5POQybTnA0tTOkBmBMY9Xw/playlists?view=50&amp;#38;sort=dd&amp;#38;shelf_id=2"
     channeltitle "Knight Beiliant"
     channelid "UC5POQybTnA0tTOkBmBMY9Xw"
     favcount 0
@@ -4429,7 +8015,29 @@ graph
     ppprofanity 0.2856487
     ppinflammatory 0.04650974
     sentiment 0
-    cluster 3
+    cluster 4
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -4456,7 +8064,29 @@ graph
     ppprofanity 0.13669136
     ppinflammatory 3.0870335e-05
     sentiment 0
-    cluster 3
+    cluster 4
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -4465,7 +8095,7 @@ graph
     step 0
     date "2022-03-29T14:48:19Z"
     title "Laffaire Pizzagate par Scandalitique"
-    description "Retour sur le scandale de Pizzagate, l'affaire qui a remu&#233; les Etats-Unis suite au d&#233;veloppement de th&#233;ories du complot a une certaine &#233;chelle."
+    description "Retour sur le scandale de Pizzagate, l'affaire qui a remu&amp;#233; les Etats-Unis suite au d&amp;#233;veloppement de th&amp;#233;ories du complot a une certaine &amp;#233;chelle."
     channeltitle "Scandalitique"
     channelid "UCSz3J4Pn5F5g0fJh_yBCx4Q"
     favcount 0
@@ -4483,7 +8113,29 @@ graph
     ppprofanity 0.14923613
     ppinflammatory 0.054794118
     sentiment 0
-    cluster 1
+    cluster 3
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -4510,7 +8162,29 @@ graph
     ppprofanity 0.56107223
     ppinflammatory 0.46156704
     sentiment 0
-    cluster 12
+    cluster 11
+    leftright "C"
+    AntiSJW 1
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -4537,7 +8211,29 @@ graph
     ppprofanity 0.3589387
     ppinflammatory 0.90887594
     sentiment 0.25
-    cluster 12
+    cluster 11
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -4564,7 +8260,29 @@ graph
     ppprofanity 0.69309914
     ppinflammatory 0.15311971
     sentiment 0
-    cluster 5
+    cluster 8
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -4573,7 +8291,7 @@ graph
     step 0
     date "2020-06-03T21:07:12Z"
     title "TODA LA VERDAD DETRS DE LAS FILTRACIONES DE ANONYMOUS Y PIZZAGATE"
-    description "FB: https://www.facebook.com/VaderockYT/&#10;&#10;Patreon: https://www.patreon.com/m/vaderock&#10;&#10;Si est&#225;s leyendo esto, se bienvenido a este canal. &#10;&#10;Si la m&#250;sica es tu pasi&#243;n, este canal te encantar&#225;, aqu&#237; encontrar&#225;s historias de bandas, de canciones, tops de musica... Te invito a que inicies un viaje a lo mas profundo de la m&#250;sica. Si encuentras contenido que entretenga y te ense&#241;e cosas nuevas... MISI&#211;N CUMPLIDA. &#10;&#10;Recuerda, si quieres apoyarme, suscr&#237;bete y no te perder&#225;s ning&#250;n video.&#10;&#10;Esto es Va De Rock, un saludo."
+    description "FB: https://www.facebook.com/VaderockYT/&amp;#10;&amp;#10;Patreon: https://www.patreon.com/m/vaderock&amp;#10;&amp;#10;Si est&amp;#225;s leyendo esto, se bienvenido a este canal. &amp;#10;&amp;#10;Si la m&amp;#250;sica es tu pasi&amp;#243;n, este canal te encantar&amp;#225;, aqu&amp;#237; encontrar&amp;#225;s historias de bandas, de canciones, tops de musica... Te invito a que inicies un viaje a lo mas profundo de la m&amp;#250;sica. Si encuentras contenido que entretenga y te ense&amp;#241;e cosas nuevas... MISI&amp;#211;N CUMPLIDA. &amp;#10;&amp;#10;Recuerda, si quieres apoyarme, suscr&amp;#237;bete y no te perder&amp;#225;s ning&amp;#250;n video.&amp;#10;&amp;#10;Esto es Va De Rock, un saludo."
     channeltitle "VA DE ROCK"
     channelid "UCBm-pYK09Uah60uTAf62dYQ"
     favcount 0
@@ -4591,7 +8309,29 @@ graph
     ppprofanity 0.16848175
     ppinflammatory 0.02426719
     sentiment 0
-    cluster 1
+    cluster 3
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -4600,7 +8340,7 @@ graph
     step 0
     date "2016-11-29T11:35:19Z"
     title "Suffer The Little Children . . . PIZZAGATE"
-    description "https://www.youtube.com/watch?v=C4cNXXMQ6FE&#13;&#10;&#13;&#10;See this reposted video from Jim Beckwith's channel for a concise overview.  We need a serious crime/tactical unit devised with passionate, trained individuals to hunt these perpetrators down.  I have no doubt that this could be positively impacted if it were truly a priority.  Who knows how many children &#34;disappear&#34; at the hands of the too well organized &#34;people&#34; and groups who are conducting these repulsive, predatory behaviors."
+    description "https://www.youtube.com/watch?v=C4cNXXMQ6FE&amp;#13;&amp;#10;&amp;#13;&amp;#10;See this reposted video from Jim Beckwith's channel for a concise overview.  We need a serious crime/tactical unit devised with passionate, trained individuals to hunt these perpetrators down.  I have no doubt that this could be positively impacted if it were truly a priority.  Who knows how many children &amp;#34;disappear&amp;#34; at the hands of the too well organized &amp;#34;people&amp;#34; and groups who are conducting these repulsive, predatory behaviors."
     channeltitle "James Tiny Vest"
     channelid "UC9oRZkmhMI9Hr6i3Y2yGG_Q"
     favcount 0
@@ -4618,7 +8358,29 @@ graph
     ppprofanity 0.056069892
     ppinflammatory 0.42422593
     sentiment -0.5423
-    cluster 4
+    cluster 1
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -4627,7 +8389,7 @@ graph
     step 0
     date "2021-11-20T18:17:26Z"
     title "The Pizzagate Massacre 2021 - Review"
-    description "The Pizzagate Massacre 2020 Movie Review&#10;&#10;&#10;&#10;#ThePizzagateMassacre&#10;#Duncan&#10;#adventure"
+    description "The Pizzagate Massacre 2020 Movie Review&amp;#10;&amp;#10;&amp;#10;&amp;#10;#ThePizzagateMassacre&amp;#10;#Duncan&amp;#10;#adventure"
     channeltitle "World Entertainment"
     channelid "UC9QTVWjd6Hek1_rYcFMDU3Q"
     favcount 0
@@ -4645,7 +8407,29 @@ graph
     ppprofanity 0.09553167
     ppinflammatory 0.25472984
     sentiment 0
-    cluster 6
+    cluster 3
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -4654,7 +8438,7 @@ graph
     step 0
     date "2017-12-30T21:00:00Z"
     title "Pizzagate | Frank Sinatra Trafficked Underage Sex Slaves According To New FBI Files"
-    description "Frank Sinatra went from saloon singer to Oscar winner and music industry icon &#8211; and for 54 years the FBI spied on Ol&#8217; Blue Eyes, compiling a bulging 1,300-page case file on the troubled legend and his notorious associates.&#10;&#10;&#10;Sources - http://goo.gl/zEpBsk&#10;Facebook - http://bit.ly/2wD0VP5&#10;Tubmlr - http://bit.ly/2xekdYA"
+    description "Frank Sinatra went from saloon singer to Oscar winner and music industry icon &amp;#8211; and for 54 years the FBI spied on Ol&amp;#8217; Blue Eyes, compiling a bulging 1,300-page case file on the troubled legend and his notorious associates.&amp;#10;&amp;#10;&amp;#10;Sources - http://goo.gl/zEpBsk&amp;#10;Facebook - http://bit.ly/2wD0VP5&amp;#10;Tubmlr - http://bit.ly/2xekdYA"
     channeltitle "Breaking News Headlines - Wiki Podcast"
     channelid "UC5APTxeKdh1AgaO48HOEMXg"
     favcount 0
@@ -4673,6 +8457,28 @@ graph
     ppinflammatory 0.43875375
     sentiment 0
     cluster 5
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -4699,7 +8505,29 @@ graph
     ppprofanity 0.08240821
     ppinflammatory 0.02444919
     sentiment 0
-    cluster 6
+    cluster 8
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -4708,7 +8536,7 @@ graph
     step 0
     date "2020-01-14T03:13:24Z"
     title "JUSTIN BIEBER, YUMMY Y EL PIZZAGATE"
-    description "&#191;Cual es la raz&#243;n por la que Justin se est&#225; exponiendo? Que siniestrooooo...&#10;&#10;Instagram: http://instagram.com/glumsky&#13;&#10;Puedes donar aqu&#237;: https://www.paypal.me/GLUMSKY/25&#13;&#10;Grupo de FB: https://www.facebook.com/groups/2550256495198990/&#13;&#10;P&#225;gina de Feisbuk: https://www.facebook.com/glumsky&#13;&#10;Twitter: https://twitter.com/mary_olivas&#13;&#10;2ndo Canal: https://www.youtube.com/user/MaryOlivas2"
+    description "&amp;#191;Cual es la raz&amp;#243;n por la que Justin se est&amp;#225; exponiendo? Que siniestrooooo...&amp;#10;&amp;#10;Instagram: http://instagram.com/glumsky&amp;#13;&amp;#10;Puedes donar aqu&amp;#237;: https://www.paypal.me/GLUMSKY/25&amp;#13;&amp;#10;Grupo de FB: https://www.facebook.com/groups/2550256495198990/&amp;#13;&amp;#10;P&amp;#225;gina de Feisbuk: https://www.facebook.com/glumsky&amp;#13;&amp;#10;Twitter: https://twitter.com/mary_olivas&amp;#13;&amp;#10;2ndo Canal: https://www.youtube.com/user/MaryOlivas2"
     channeltitle "Mary Olivas"
     channelid "UC6vLjnsVGeVAByEpBvKhxBg"
     favcount 0
@@ -4726,7 +8554,29 @@ graph
     ppprofanity 0.13308443
     ppinflammatory 0.1273018
     sentiment 0.5267
-    cluster 10
+    cluster 7
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -4735,7 +8585,7 @@ graph
     step 0
     date "2020-07-13T22:38:49Z"
     title "The Simpsons PizzaGate Run2Christ 2016"
-    description "The Simpsons  PizzaGate Run2Christ 2016&#10;&#10;#PizzaGate and The Pedophilia Agenda&#10;https://www.facebook.com/pg/Killuminatisoldiers3/photos/?tab=album&#38;album_id=1089898851109005&#10;&#10;Adrenochrome the Human Sacrifice Drug of Choice of the Elite&#10;https://www.facebook.com/pg/KilluminatiSoldiersReborn/photos/?tab=album&#38;album_id=446841622497934&#10;&#10;The Franklin Child Prostitution Ring Cover-Up and Elite Child Sex Rings&#10;https://www.facebook.com/pg/KilluminatiSoldiersReborn/photos/?tab=album&#38;album_id=442620709586692&#10;&#10;MARINA ABRAMOVIC SPIRIT COOKING&#10;https://www.facebook.com/pg/KilluminatiSoldiersReborn/photos/?tab=album&#38;album_id=440604233121673&#10;&#10;Like and Share: https://www.facebook.com/KilluminatiSoldiersReborn&#10;&#10;Add/Follow&#10;https://www.facebook.com/killuminatiray&#10;https://www.facebook.com/sergiomejiac213&#10;&#10;Subscribe to KSOT on YOUTUBE:&#10;https://www.youtube.com/channel/UC3_W_7gqDt4HwqYRYEUTPTA"
+    description "The Simpsons  PizzaGate Run2Christ 2016&amp;#10;&amp;#10;#PizzaGate and The Pedophilia Agenda&amp;#10;https://www.facebook.com/pg/Killuminatisoldiers3/photos/?tab=album&amp;#38;album_id=1089898851109005&amp;#10;&amp;#10;Adrenochrome the Human Sacrifice Drug of Choice of the Elite&amp;#10;https://www.facebook.com/pg/KilluminatiSoldiersReborn/photos/?tab=album&amp;#38;album_id=446841622497934&amp;#10;&amp;#10;The Franklin Child Prostitution Ring Cover-Up and Elite Child Sex Rings&amp;#10;https://www.facebook.com/pg/KilluminatiSoldiersReborn/photos/?tab=album&amp;#38;album_id=442620709586692&amp;#10;&amp;#10;MARINA ABRAMOVIC SPIRIT COOKING&amp;#10;https://www.facebook.com/pg/KilluminatiSoldiersReborn/photos/?tab=album&amp;#38;album_id=440604233121673&amp;#10;&amp;#10;Like and Share: https://www.facebook.com/KilluminatiSoldiersReborn&amp;#10;&amp;#10;Add/Follow&amp;#10;https://www.facebook.com/killuminatiray&amp;#10;https://www.facebook.com/sergiomejiac213&amp;#10;&amp;#10;Subscribe to KSOT on YOUTUBE:&amp;#10;https://www.youtube.com/channel/UC3_W_7gqDt4HwqYRYEUTPTA"
     channeltitle "Killuminati Soldiers of Truth"
     channelid "UC3_W_7gqDt4HwqYRYEUTPTA"
     favcount 0
@@ -4753,7 +8603,29 @@ graph
     ppprofanity 0.08337701
     ppinflammatory 0.0831125
     sentiment 0
-    cluster 2
+    cluster 8
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -4762,7 +8634,7 @@ graph
     step 0
     date "2018-09-05T23:13:52Z"
     title "Bad YouTube habits, nonsense: Pizzagate"
-    description "A look at the conspiracy theory known as &#34;Pizzagate&#34;.&#10;note: I am not a fan of Hillary Clinton or her entourage, but this is absurd!&#10;&#10;Some materials used under the principle of Fair Use along with public domain material available at Pixabay  https://pixabay.com/"
+    description "A look at the conspiracy theory known as &amp;#34;Pizzagate&amp;#34;.&amp;#10;note: I am not a fan of Hillary Clinton or her entourage, but this is absurd!&amp;#10;&amp;#10;Some materials used under the principle of Fair Use along with public domain material available at Pixabay  https://pixabay.com/"
     channeltitle "WF6i"
     channelid "UCvuJ9cBa9awBkZzaf0kp2HA"
     favcount 0
@@ -4780,7 +8652,29 @@ graph
     ppprofanity 0.2314432
     ppinflammatory 0.3033121
     sentiment -0.7351
-    cluster 1
+    cluster 3
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -4789,7 +8683,7 @@ graph
     step 0
     date "2016-12-06T19:18:24Z"
     title "Mundane Matt Crazy Rant on Pizzagate Shooting!!!  My opinion on Pizzagate."
-    description "Sources:&#10;Heavy.com - http://heavy.com/news/2016/12/edgar-maddison-welch-comet-pizza-pizzagate-washington-dc-gunman-suspect-photos-pictures-facebook-conspiracy-north-carolina/&#10;&#10;IMBD - http://www.imdb.com/name/nm2625901/&#10;&#10;Busted Newspaper - http://bustednewspaper.com/welch-edgar-maddison-1180-ketchie-rd-mount-ulla-nc-28125-dui-dwi-04-06-2013/&#10;&#10;Slate - http://www.slate.com/blogs/the_slatest/2016/12/04/pizzagate_gunman_edgar_maddison_welch_ran_over_a_teenager_with_his_car.html&#10;&#10;WBTV - http://www.wbtv.com/story/33467722/13-year-old-struck-by-vehicle-in-salisbury-airlifted-to-hospital&#10;&#10;IBDM2 - http://archive.is/VgKcj&#10;&#10;Wikileaks - https://wikileaks.org/podesta-emails/emailid/19761"
+    description "Sources:&amp;#10;Heavy.com - http://heavy.com/news/2016/12/edgar-maddison-welch-comet-pizza-pizzagate-washington-dc-gunman-suspect-photos-pictures-facebook-conspiracy-north-carolina/&amp;#10;&amp;#10;IMBD - http://www.imdb.com/name/nm2625901/&amp;#10;&amp;#10;Busted Newspaper - http://bustednewspaper.com/welch-edgar-maddison-1180-ketchie-rd-mount-ulla-nc-28125-dui-dwi-04-06-2013/&amp;#10;&amp;#10;Slate - http://www.slate.com/blogs/the_slatest/2016/12/04/pizzagate_gunman_edgar_maddison_welch_ran_over_a_teenager_with_his_car.html&amp;#10;&amp;#10;WBTV - http://www.wbtv.com/story/33467722/13-year-old-struck-by-vehicle-in-salisbury-airlifted-to-hospital&amp;#10;&amp;#10;IBDM2 - http://archive.is/VgKcj&amp;#10;&amp;#10;Wikileaks - https://wikileaks.org/podesta-emails/emailid/19761"
     channeltitle "geoslay53"
     channelid "UCN9UssE3yq2jbPn6xRgF22Q"
     favcount 0
@@ -4807,7 +8701,29 @@ graph
     ppprofanity 0.2971308
     ppinflammatory 0.45339203
     sentiment -0.5859
-    cluster 1
+    cluster 3
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -4834,7 +8750,29 @@ graph
     ppprofanity 0.2527981
     ppinflammatory 0.5720012
     sentiment -0.6908
-    cluster 3
+    cluster 4
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -4843,7 +8781,7 @@ graph
     step 0
     date "2019-09-05T20:50:30Z"
     title "Pizzagate is Real (Sort of)"
-    description "Real Conspiracies all over the place, and you guys wanna talk about a fucking pizza place? &#10;&#10;Operation Gladio:  https://en.wikipedia.org/wiki/Operation_Gladio&#10;Operation Ajax: https://en.wikipedia.org/wiki/1953_Iranian_coup_d%27&#233;tat&#10;Operation PBSUCCESS: https://en.wikipedia.org/wiki/1954_Guatemalan_coup_d%27%C3%A9tat&#10;Operation Condor: https://en.wikipedia.org/wiki/Operation_Condor&#10;&#10;The Years of Lead: https://en.wikipedia.org/wiki/Years_of_Lead_(Italy)&#10;The Brabant Massacres: https://en.wikipedia.org/wiki/Brabant_killers"
+    description "Real Conspiracies all over the place, and you guys wanna talk about a fucking pizza place? &amp;#10;&amp;#10;Operation Gladio:  https://en.wikipedia.org/wiki/Operation_Gladio&amp;#10;Operation Ajax: https://en.wikipedia.org/wiki/1953_Iranian_coup_d%27&amp;#233;tat&amp;#10;Operation PBSUCCESS: https://en.wikipedia.org/wiki/1954_Guatemalan_coup_d%27%C3%A9tat&amp;#10;Operation Condor: https://en.wikipedia.org/wiki/Operation_Condor&amp;#10;&amp;#10;The Years of Lead: https://en.wikipedia.org/wiki/Years_of_Lead_(Italy)&amp;#10;The Brabant Massacres: https://en.wikipedia.org/wiki/Brabant_killers"
     channeltitle "Classical Libertarian"
     channelid "UC2or5asOL59PKxLKqmgs_Fw"
     favcount 0
@@ -4862,6 +8800,28 @@ graph
     ppinflammatory 0.16461913
     sentiment 0
     cluster 2
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -4870,7 +8830,7 @@ graph
     step 0
     date "2017-01-08T03:11:33Z"
     title "Mike Parziale : Michael Jackson, PizzaGate. HollyWood  Political Pedophelia"
-    description "Source:&#10;https://www.spreaker.com/user/oppermanreport/mike-parziale-michael-jackson-pizzagate-"
+    description "Source:&amp;#10;https://www.spreaker.com/user/oppermanreport/mike-parziale-michael-jackson-pizzagate-"
     channeltitle "Ed Opperman"
     channelid "UC_1U_Gglxd_7TPE_a8p2G3w"
     favcount 0
@@ -4889,6 +8849,28 @@ graph
     ppinflammatory 0.15143941
     sentiment 0
     cluster 7
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -4897,7 +8879,7 @@ graph
     step 0
     date "2022-05-30T19:50:31Z"
     title "These Little Ones: Moloch, Child Sex Trafficking, Pizzagate, Hillary Clinton, Frazzledrip,  More"
-    description "The same network that brought you &#8220;Watch the Water&#8221;, up next is a deep investigation into the dark underworld of child trafficking, satanic sacrifice, pizza'gate, adren'o'chrome, CPS, &#38; Weiner&#8217;s laptop.  &#8220;These Little Ones&#8221; coming soon, exclusively to the Stew Peters Network.  I will be updating information as it becomes available so make sure you subscribe, ML God bless those who love him! Please share! &#10;&#10;Stew Peters Network: https://rumble.com/c/StewPeters&#10;&#10;Red Voice Media: https://www.redvoicemedia.com/2022/05...&#10;&#10;&#10;Join me on Brighteon: https://www.brighteon.com/channels/cj...&#10;&#10;&#128293;&#10084;&#65039;&#128293;Please Subscribe to my main channel: CJ BLAZEN: https://www.youtube.com/c/CJBLAZE7&#10;&#10;Email: CJBlazewatcher@Gmail.com  &#10;DLive: https://dlive.tv/CJBLAZE?ref=cjblaze777&#10;&#10;TriField meter: https://www.trifield.com/product/trif.&#10;..&#10;&#10;Music INFO &#38; Links:&#10;Track: No Escape ( Edit ) Crime and Mystery . CO.AG Music&#10;Artist: CO.AG Music&#10;Link: https://www.youtube.com/watch?v=T8j5t...&#10;&#10;Source: https://rumble.com/v16dm0a-these-litt...&#10;&#10;&#10;- Navigating the matrix as A Passionate skywatcher...seeking his face!&#10;&#10;&#34;The further a society drifts from the truth, the more it will hate those who speak it.&#34;&#10;-George Orwell&#10;&#10;#MarfoogleNews #MarfoogleTV #FoogleFam #Marfoogle"
+    description "The same network that brought you &amp;#8220;Watch the Water&amp;#8221;, up next is a deep investigation into the dark underworld of child trafficking, satanic sacrifice, pizza'gate, adren'o'chrome, CPS, &amp;#38; Weiner&amp;#8217;s laptop.  &amp;#8220;These Little Ones&amp;#8221; coming soon, exclusively to the Stew Peters Network.  I will be updating information as it becomes available so make sure you subscribe, ML God bless those who love him! Please share! &amp;#10;&amp;#10;Stew Peters Network: https://rumble.com/c/StewPeters&amp;#10;&amp;#10;Red Voice Media: https://www.redvoicemedia.com/2022/05...&amp;#10;&amp;#10;&amp;#10;Join me on Brighteon: https://www.brighteon.com/channels/cj...&amp;#10;&amp;#10;&amp;#128293;&amp;#10084;&amp;#65039;&amp;#128293;Please Subscribe to my main channel: CJ BLAZEN: https://www.youtube.com/c/CJBLAZE7&amp;#10;&amp;#10;Email: CJBlazewatcher@Gmail.com  &amp;#10;DLive: https://dlive.tv/CJBLAZE?ref=cjblaze777&amp;#10;&amp;#10;TriField meter: https://www.trifield.com/product/trif.&amp;#10;..&amp;#10;&amp;#10;Music INFO &amp;#38; Links:&amp;#10;Track: No Escape ( Edit ) Crime and Mystery . CO.AG Music&amp;#10;Artist: CO.AG Music&amp;#10;Link: https://www.youtube.com/watch?v=T8j5t...&amp;#10;&amp;#10;Source: https://rumble.com/v16dm0a-these-litt...&amp;#10;&amp;#10;&amp;#10;- Navigating the matrix as A Passionate skywatcher...seeking his face!&amp;#10;&amp;#10;&amp;#34;The further a society drifts from the truth, the more it will hate those who speak it.&amp;#34;&amp;#10;-George Orwell&amp;#10;&amp;#10;#MarfoogleNews #MarfoogleTV #FoogleFam #Marfoogle"
     channeltitle "CJ BLAZEN INFO"
     channelid "UCdSwB2rnGiBwkTi64_IGPZg"
     favcount 0
@@ -4915,7 +8897,29 @@ graph
     ppprofanity 0.5138476
     ppinflammatory 0.64822423
     sentiment 0
-    cluster 1
+    cluster 3
+    leftright "L"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 1
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -4942,7 +8946,29 @@ graph
     ppprofanity 0.14706047
     ppinflammatory 0.09093567
     sentiment 0
-    cluster 12
+    cluster 11
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -4951,7 +8977,7 @@ graph
     step 0
     date "2020-08-11T21:30:02Z"
     title "Boystown - PizzaGate"
-    description "Look into &#8220;The Franklin Cover Up&#8221; - &#8220;Boystown&#8221; and Johnny Gosch &#10;&#10;&#10; #illuminati #Cabal #thayer #royal #cherishthayer #cherishnunally #kennedy #BillGates #Clintons #epstein #ChildTrafficking #childrenslivesmatter #aerospace #meatprocessing #Military #education #Americans #uk #Europe #americanhistory #europe #Politics #Government #bulk #Robotics #investment #boystown #franklincoverup #johnnygosch #pizzagate #pizzag8 #fostercare #atrisk"
+    description "Look into &amp;#8220;The Franklin Cover Up&amp;#8221; - &amp;#8220;Boystown&amp;#8221; and Johnny Gosch &amp;#10;&amp;#10;&amp;#10; #illuminati #Cabal #thayer #royal #cherishthayer #cherishnunally #kennedy #BillGates #Clintons #epstein #ChildTrafficking #childrenslivesmatter #aerospace #meatprocessing #Military #education #Americans #uk #Europe #americanhistory #europe #Politics #Government #bulk #Robotics #investment #boystown #franklincoverup #johnnygosch #pizzagate #pizzag8 #fostercare #atrisk"
     channeltitle "Cherish Nunnally"
     channelid "UCHQVkIFmN4sf9gEDR6ls6OA"
     favcount 0
@@ -4970,6 +8996,28 @@ graph
     ppinflammatory 0.17690977
     sentiment 0
     cluster 8
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -4978,7 +9026,7 @@ graph
     step 0
     date "2022-06-04T17:10:09Z"
     title "Who controls the gangstalkers? U.S. Government bodies. Mk Ultra, Op. Mockingbird, Pizzagate "
-    description "The proof is in the truth. The paper trail was SLOPPY and APPARENT to certain people. The rest of the public is not aware of a high possibility that your job could actually be a DUMMY CORPORATION or a BUSINESS FRONT for some Masonic Deepstate trafficking behind the scenes. Many so called &#34;Companies, Businesses, and Corporations&#34; we either sued, never caught, or is still here are BUSINESS FRONTS/DUMMY CORPORATIONS. If you never knew this, here it is. One ultimate truth of the reality of this &#34;America&#34; we live in. It's really a damn stage for a group of &#34;People&#34; who I think now are not from this planet. THE SHIT HIT THE FAN. There is no turning back time or play faking this stuff. They have been in court nonestop for committing horrible war crimes against the U.S. CITIZENS, Black or white or mexican or asian, EVEN AS WE SPEAK. The bitch motherfuckers are so afraid of the PUBLIC'S OPINION that they have to settle those ABUSE CASES within a secret FEDERAL SUPREME COURT known as the &#34;F.I.S.A. COURT.&#34;. If you didn't know that before, now you do. IT'S TIME TO WAKE UP, AMERICA. EITHER SINK OR SWIM. This knowledge isn't coming out of the blue. GOD is literally moving mountains and planets for us, this, and the future bloodlines..... Please do not let Revelations spook you from the PRESENT. Your life still matters to him, if no one else cares. Amen. Amen. Amen."
+    description "The proof is in the truth. The paper trail was SLOPPY and APPARENT to certain people. The rest of the public is not aware of a high possibility that your job could actually be a DUMMY CORPORATION or a BUSINESS FRONT for some Masonic Deepstate trafficking behind the scenes. Many so called &amp;#34;Companies, Businesses, and Corporations&amp;#34; we either sued, never caught, or is still here are BUSINESS FRONTS/DUMMY CORPORATIONS. If you never knew this, here it is. One ultimate truth of the reality of this &amp;#34;America&amp;#34; we live in. It's really a damn stage for a group of &amp;#34;People&amp;#34; who I think now are not from this planet. THE SHIT HIT THE FAN. There is no turning back time or play faking this stuff. They have been in court nonestop for committing horrible war crimes against the U.S. CITIZENS, Black or white or mexican or asian, EVEN AS WE SPEAK. The bitch motherfuckers are so afraid of the PUBLIC'S OPINION that they have to settle those ABUSE CASES within a secret FEDERAL SUPREME COURT known as the &amp;#34;F.I.S.A. COURT.&amp;#34;. If you didn't know that before, now you do. IT'S TIME TO WAKE UP, AMERICA. EITHER SINK OR SWIM. This knowledge isn't coming out of the blue. GOD is literally moving mountains and planets for us, this, and the future bloodlines..... Please do not let Revelations spook you from the PRESENT. Your life still matters to him, if no one else cares. Amen. Amen. Amen."
     channeltitle "#CUTTHECHECK"
     channelid "UCWZ433Wz9bz2bbus39CMzbA"
     favcount 0
@@ -4996,7 +9044,29 @@ graph
     ppprofanity 0.13395831
     ppinflammatory 0.4297345
     sentiment 0
-    cluster 12
+    cluster 11
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -5023,7 +9093,29 @@ graph
     ppprofanity 0.31209266
     ppinflammatory 0.04502504
     sentiment 0
-    cluster 3
+    cluster 4
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -5032,7 +9124,7 @@ graph
     step 0
     date "2018-10-22T13:40:29Z"
     title "About John Podesta and #Pizzagate"
-    description "My point on John Podesta and Pizzagate.&#10;&#10;VIDEO (with voice and picture analisys): https://www.youtube.com/watch?v=A98J_OeCmpQ&#10;&#10;WIKILEAKS JOHN PODESTA'S CREEPY EMAILS:&#10;&#10;https://wikileaks.org/podesta-emails/emailid/19018&#10;https://wikileaks.org/podesta-emails/emailid/30613&#10;https://wikileaks.org/podesta-emails/emailid/32795&#10;&#10;Please like, comment and subscribe!!!&#10;&#10;Follow me:&#10;GAB: gab.ai/HangoverPolitics&#10;MINDS: minds.com/HangoverPolitics&#10;&#10;DOWNLOAD BRAVE BROWSER NOW!!!!: https://brave.com/han070"
+    description "My point on John Podesta and Pizzagate.&amp;#10;&amp;#10;VIDEO (with voice and picture analisys): https://www.youtube.com/watch?v=A98J_OeCmpQ&amp;#10;&amp;#10;WIKILEAKS JOHN PODESTA'S CREEPY EMAILS:&amp;#10;&amp;#10;https://wikileaks.org/podesta-emails/emailid/19018&amp;#10;https://wikileaks.org/podesta-emails/emailid/30613&amp;#10;https://wikileaks.org/podesta-emails/emailid/32795&amp;#10;&amp;#10;Please like, comment and subscribe!!!&amp;#10;&amp;#10;Follow me:&amp;#10;GAB: gab.ai/HangoverPolitics&amp;#10;MINDS: minds.com/HangoverPolitics&amp;#10;&amp;#10;DOWNLOAD BRAVE BROWSER NOW!!!!: https://brave.com/han070"
     channeltitle "Hangover Politics"
     channelid "UCqnz5V0HkJ15Of3p3LDFVaQ"
     favcount 0
@@ -5050,7 +9142,29 @@ graph
     ppprofanity 0.034092337
     ppinflammatory 0.13214335
     sentiment 0
-    cluster 2
+    cluster 8
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -5078,6 +9192,28 @@ graph
     ppinflammatory 0.27208182
     sentiment 0
     cluster 7
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -5086,7 +9222,7 @@ graph
     step 0
     date "2022-03-26T13:00:03Z"
     title "Ketanji Brown Jackson Was The Judge In The Pizzagate Shooting"
-    description "Website: https://saltmustflow.com&#10;&#10;OTHER PLATFORMS:&#10;Odysee:&#160;https://odysee.com/@SaltyCracker:a&#10;Bitchute: https://www.bitchute.com/channel/thesaltycracker/&#10;Rumble: https://rumble.com/c/SaltyCracker&#10;Banned.video: https://www.banned.video/channel/salty-cracker&#10;Locals: https://saltycracker.locals.com/&#10;Gab: https://gab.com/TheSaltyCracker&#10;Twitter:  https://twitter.com/SaltyCracker9&#10;Dlive: https://dlive.tv/TheSaltyCracker&#10;Pilled.net/Foxhole: https://pilled.net/#/profile/135344&#10;&#10;SUPPORT SALTY:&#10;SubscribeStar: https://www.subscribestar.com/salty-cracker&#10;Cash App: https://cash.app/$saltmustflow&#10;Merchandise: https://saltmustflow.com/shop/&#10;PayPal:  https://tinyurl.com/ycmmuc9z&#10;&#10;Mrs. Salty's Channel: https://www.youtube.com/channel/UChnZMOno3rthe1LHvcxufdw&#10;&#10;Music by:&#10;https://incompetech.com/&#10;Crinoline Dreams&#10;In Your Arms&#10;&#10;--Disclaimer--&#10;These are the opinions and ramblings of a foul-mouthed lunatic. They are for entertainment purposes only and are probably wrong. You listen at your own risk."
+    description "Website: https://saltmustflow.com&amp;#10;&amp;#10;OTHER PLATFORMS:&amp;#10;Odysee:&amp;#160;https://odysee.com/@SaltyCracker:a&amp;#10;Bitchute: https://www.bitchute.com/channel/thesaltycracker/&amp;#10;Rumble: https://rumble.com/c/SaltyCracker&amp;#10;Banned.video: https://www.banned.video/channel/salty-cracker&amp;#10;Locals: https://saltycracker.locals.com/&amp;#10;Gab: https://gab.com/TheSaltyCracker&amp;#10;Twitter:  https://twitter.com/SaltyCracker9&amp;#10;Dlive: https://dlive.tv/TheSaltyCracker&amp;#10;Pilled.net/Foxhole: https://pilled.net/#/profile/135344&amp;#10;&amp;#10;SUPPORT SALTY:&amp;#10;SubscribeStar: https://www.subscribestar.com/salty-cracker&amp;#10;Cash App: https://cash.app/$saltmustflow&amp;#10;Merchandise: https://saltmustflow.com/shop/&amp;#10;PayPal:  https://tinyurl.com/ycmmuc9z&amp;#10;&amp;#10;Mrs. Salty's Channel: https://www.youtube.com/channel/UChnZMOno3rthe1LHvcxufdw&amp;#10;&amp;#10;Music by:&amp;#10;https://incompetech.com/&amp;#10;Crinoline Dreams&amp;#10;In Your Arms&amp;#10;&amp;#10;--Disclaimer--&amp;#10;These are the opinions and ramblings of a foul-mouthed lunatic. They are for entertainment purposes only and are probably wrong. You listen at your own risk."
     channeltitle "Salty Cracker"
     channelid "UC8c-i0G5ySY3giqIQepEjcQ"
     favcount 0
@@ -5104,7 +9240,29 @@ graph
     ppprofanity 0.096936524
     ppinflammatory 0.53648263
     sentiment 0
-    cluster 12
+    cluster 11
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -5113,7 +9271,7 @@ graph
     step 0
     date "2017-03-27T00:48:34Z"
     title "Alex Jones Apologizes for Spreading Fake News (Pizzagate)"
-    description "Donate: https://www.patreon.com/reichwingwatch&#10;&#10;Conspiracy theorist and Donald Trump enthusiast Alex Jones apologized for spreading the &#34;Pizzagate&#34; fake news story yesterday on the same day a 28-year-old man named Edgar Maddison Welch pleaded guilty to charges related to a December incident when he brought an AR-15 rifle and other weapons into Comet Ping Pong Pizza and fired shots inside. The apology seems to be a preemptive move to avoid a possible lawsuit. Despite his apology, it appears the monster Alex has created is now beyond his control."
+    description "Donate: https://www.patreon.com/reichwingwatch&amp;#10;&amp;#10;Conspiracy theorist and Donald Trump enthusiast Alex Jones apologized for spreading the &amp;#34;Pizzagate&amp;#34; fake news story yesterday on the same day a 28-year-old man named Edgar Maddison Welch pleaded guilty to charges related to a December incident when he brought an AR-15 rifle and other weapons into Comet Ping Pong Pizza and fired shots inside. The apology seems to be a preemptive move to avoid a possible lawsuit. Despite his apology, it appears the monster Alex has created is now beyond his control."
     channeltitle "Reich-Wing Watch"
     channelid "UCqNWJOeBOBSF1pm9tjGnKhg"
     favcount 0
@@ -5132,6 +9290,28 @@ graph
     ppinflammatory 0.34911555
     sentiment -0.1531
     cluster 6
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -5140,7 +9320,7 @@ graph
     step 0
     date "2017-11-27T15:36:38Z"
     title "RWW News: Liz Crokin Says Trumps Tweet Was Confirmation That Pizzagate Is Real"
-    description "http://www.rightwingwatch.org/post/liz-crokin-says-trumps-tweet-was-a-nod-to-me-and-confirmation-that-pizzagate-is-real/&#10;&#10;Right Wing Watch reports on the extreme rhetoric and activities of key right-wing figures and organizations by showing their views in their own words. In this clip,  Liz Crokin says that President Trump's tweet of a link to a conspiracy theory website was a nod to her and confirmation that the Pizzagate conspiracy theory is real."
+    description "http://www.rightwingwatch.org/post/liz-crokin-says-trumps-tweet-was-a-nod-to-me-and-confirmation-that-pizzagate-is-real/&amp;#10;&amp;#10;Right Wing Watch reports on the extreme rhetoric and activities of key right-wing figures and organizations by showing their views in their own words. In this clip,  Liz Crokin says that President Trump's tweet of a link to a conspiracy theory website was a nod to her and confirmation that the Pizzagate conspiracy theory is real."
     channeltitle "RWW Blog"
     channelid "UCMXqRHe8n1TX5iDvkLS62rw"
     favcount 0
@@ -5159,6 +9339,28 @@ graph
     ppinflammatory 0.08695702
     sentiment 0
     cluster 2
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -5186,6 +9388,28 @@ graph
     ppinflammatory 0.002538404
     sentiment 0
     cluster 2
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -5212,7 +9436,29 @@ graph
     ppprofanity 0.14040183
     ppinflammatory 0.21727356
     sentiment -0.0772
-    cluster 4
+    cluster 1
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -5240,6 +9486,28 @@ graph
     ppinflammatory 0.17516989
     sentiment 0.0516
     cluster 7
+    leftright "C"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -5248,7 +9516,7 @@ graph
     step 0
     date "2020-08-17T19:50:00Z"
     title "PizzaGate: Fact Or Conspiracy?!"
-    description "In this video we discuss the alleged PizzaGate.&#10;&#10;Here is the NYPD video if you want to listen to it:&#10;https://youtu.be/VD-O3Y67xXc&#10;&#10;&#10;&#10;&#10;Please leave any feedback or improvements we could do to our channel or the videos in general :) &#10;&#10;Thank you for watching.&#10;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#10;Is it all a Mystery?&#10;&#10;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#10;Like, Subscribe and share with your friends.&#10;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;"
+    description "In this video we discuss the alleged PizzaGate.&amp;#10;&amp;#10;Here is the NYPD video if you want to listen to it:&amp;#10;https://youtu.be/VD-O3Y67xXc&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;Please leave any feedback or improvements we could do to our channel or the videos in general :) &amp;#10;&amp;#10;Thank you for watching.&amp;#10;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#10;Is it all a Mystery?&amp;#10;&amp;#10;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#10;Like, Subscribe and share with your friends.&amp;#10;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;"
     channeltitle "Mystery?"
     channelid "UCDS_tU9n6ePi4xdJoavX0vg"
     favcount 0
@@ -5266,7 +9534,29 @@ graph
     ppprofanity 0.02236161
     ppinflammatory 0.17333429
     sentiment -0.5267
-    cluster 2
+    cluster 8
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -5294,6 +9584,28 @@ graph
     ppinflammatory 0.038758032
     sentiment 0
     cluster 7
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -5302,7 +9614,7 @@ graph
     step 0
     date "2020-06-10T02:33:57Z"
     title "PIZZAGATE"
-    description "do you want to watch it in English?&#10;&#10;Leave your Comment"
+    description "do you want to watch it in English?&amp;#10;&amp;#10;Leave your Comment"
     channeltitle "OscuriDarkness"
     channelid "UCIEpN4FeyuN16YG_ddWED6g"
     favcount 0
@@ -5320,7 +9632,29 @@ graph
     ppprofanity 0.024619063
     ppinflammatory 0.17739935
     sentiment 0
-    cluster 1
+    cluster 3
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -5329,7 +9663,7 @@ graph
     step 0
     date "2021-01-08T21:20:01Z"
     title "Jeffery Cleveland Facebook Page just a dude wearing a PizzaGate costume Possibly NOT JeffC"
-    description "No comment please ask @ReallyDistasteful how she located an unknown dead person who was not wanting to be located even though JeffC was apparently  dead     &#128128; sounds like Voodooo-Youtube &#128118;&#127999;"
+    description "No comment please ask @ReallyDistasteful how she located an unknown dead person who was not wanting to be located even though JeffC was apparently  dead     &amp;#128128; sounds like Voodooo-Youtube &amp;#128118;&amp;#127999;"
     channeltitle "Chinada3"
     channelid "UCwa4LvgrXxnvYxWkhpcbSmQ"
     favcount 0
@@ -5347,7 +9681,29 @@ graph
     ppprofanity 0.07980164
     ppinflammatory 0.21149686
     sentiment 0
-    cluster 4
+    cluster 1
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -5375,6 +9731,28 @@ graph
     ppinflammatory 0.16484153
     sentiment 0
     cluster 2
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -5401,7 +9779,29 @@ graph
     ppprofanity 0.06334498
     ppinflammatory 0.22897
     sentiment 0
-    cluster 6
+    cluster 4
+    leftright "L"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 1
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 1
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -5429,6 +9829,28 @@ graph
     ppinflammatory 0.32849383
     sentiment 0
     cluster 5
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -5455,7 +9877,29 @@ graph
     ppprofanity 0.031477474
     ppinflammatory 0.11596046
     sentiment 0
-    cluster 12
+    cluster 11
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -5482,7 +9926,29 @@ graph
     ppprofanity 0.15483582
     ppinflammatory 0.24038683
     sentiment -0.2732
-    cluster 12
+    cluster 11
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -5491,7 +9957,7 @@ graph
     step 0
     date "2019-06-23T10:15:09Z"
     title "Pizzagate Conspiracy Theory"
-    description "Pizzagate Conspiracy Theory &#10;So everyone wondered whether this theory is true or not so here is a video explaining everything hope you all enjoy"
+    description "Pizzagate Conspiracy Theory &amp;#10;So everyone wondered whether this theory is true or not so here is a video explaining everything hope you all enjoy"
     channeltitle "Top4s"
     channelid "UCsICfGfPqc8C-D2h5sQ7ptw"
     favcount 0
@@ -5510,6 +9976,28 @@ graph
     ppinflammatory 0.27920207
     sentiment -0.5267
     cluster 6
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -5518,7 +10006,7 @@ graph
     step 0
     date "2020-07-02T20:50:38Z"
     title "Pizzagate | Curiosidades"
-    description "SUCRIBANSE Y COMENTEN&#10;&#10;REDES SOCIALES&#10;&#10;TWITTER&#10;https://twitter.com/ACBTNEXT&#10;&#10;INSTAGRAM&#10;https://www.instagram.com/JaretCuenca/"
+    description "SUCRIBANSE Y COMENTEN&amp;#10;&amp;#10;REDES SOCIALES&amp;#10;&amp;#10;TWITTER&amp;#10;https://twitter.com/ACBTNEXT&amp;#10;&amp;#10;INSTAGRAM&amp;#10;https://www.instagram.com/JaretCuenca/"
     channeltitle "ACBT NEXT"
     channelid "UCKhcQhp--Izx2ClkzpiWc9g"
     favcount 0
@@ -5537,6 +10025,28 @@ graph
     ppinflammatory 0.15399088
     sentiment 0
     cluster 7
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -5563,7 +10073,29 @@ graph
     ppprofanity 0.051975343
     ppinflammatory 0.1475088
     sentiment 0
-    cluster 12
+    cluster 11
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -5572,7 +10104,7 @@ graph
     step 0
     date "2020-11-12T19:47:40Z"
     title "MY PIZZAGATE DREAM....The Lord told me to share"
-    description "this video is meant to inform PLEASE WATCH. please excuse my voice....I was trying to sound as serious as I possibly can. this something that really took place in my dream and I was afraid to share it. at first I didn't know what to do, until earlier today I had an epiphany because was annoyed about how my generation loves demonic energy and constantly plays with satan toys. and it was like the Holy Spirit spoke to me an said &#34;you complain, but do nothing about&#34;. so this is me doing something I will upload more about the events that take place in this world as we speak...please pray"
+    description "this video is meant to inform PLEASE WATCH. please excuse my voice....I was trying to sound as serious as I possibly can. this something that really took place in my dream and I was afraid to share it. at first I didn't know what to do, until earlier today I had an epiphany because was annoyed about how my generation loves demonic energy and constantly plays with satan toys. and it was like the Holy Spirit spoke to me an said &amp;#34;you complain, but do nothing about&amp;#34;. so this is me doing something I will upload more about the events that take place in this world as we speak...please pray"
     channeltitle "Princess Haziel"
     channelid "UCx0Q524XguWbXn3cTYywbxg"
     favcount 0
@@ -5590,7 +10122,29 @@ graph
     ppprofanity 0.067857355
     ppinflammatory 0.37339824
     sentiment 0.296
-    cluster 12
+    cluster 11
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -5599,7 +10153,7 @@ graph
     step 0
     date "2020-08-12T03:03:43Z"
     title "Pizzagate and Other Fake News"
-    description "In this week show our guest is Brian Dunning from the website Skeptoid.com. We discuss the phenomenon of &#8220;Fake News&#8221; including &#8220;Pizzagate&#8221; and the Sandyhook Elementary shooting conspiracy theory that have been disseminated under free speech. We address the different types of &#8220;Fake News&#8221; including misinformation, clickbait, satire, spin and propaganda. We explore how this type of politically based news can have real repercussions in our daily lives."
+    description "In this week show our guest is Brian Dunning from the website Skeptoid.com. We discuss the phenomenon of &amp;#8220;Fake News&amp;#8221; including &amp;#8220;Pizzagate&amp;#8221; and the Sandyhook Elementary shooting conspiracy theory that have been disseminated under free speech. We address the different types of &amp;#8220;Fake News&amp;#8221; including misinformation, clickbait, satire, spin and propaganda. We explore how this type of politically based news can have real repercussions in our daily lives."
     channeltitle "RFN's Mystic- Skeptic Radio Show"
     channelid "UCwEgd1vRO3K-95mTrMvLAPA"
     favcount 0
@@ -5618,6 +10172,28 @@ graph
     ppinflammatory 0.33306876
     sentiment -0.4767
     cluster 2
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -5644,7 +10220,29 @@ graph
     ppprofanity 0.08803996
     ppinflammatory 0.47580507
     sentiment -0.5267
-    cluster 6
+    cluster 3
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -5672,6 +10270,28 @@ graph
     ppinflammatory 0.85079104
     sentiment 0
     cluster 2
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -5680,7 +10300,7 @@ graph
     step 0
     date "2020-08-18T23:07:42Z"
     title "Mirrored | #PIZZAGATE References In Kid Products"
-    description "From #PIZZAGATE channel: https://bit.ly/3kT7TWL&#10;Ads are due to copyright claims. Ad revenue paid to copyright owner, not me.&#10;Blatantly obvious #pizzagate references are shown in this short montage. The awareness of pizzagate seems to be growing however so are the subliminal messages."
+    description "From #PIZZAGATE channel: https://bit.ly/3kT7TWL&amp;#10;Ads are due to copyright claims. Ad revenue paid to copyright owner, not me.&amp;#10;Blatantly obvious #pizzagate references are shown in this short montage. The awareness of pizzagate seems to be growing however so are the subliminal messages."
     channeltitle "TheFelsyFamily"
     channelid "UC_B2my7ArKnJk8vx1nJlIHg"
     favcount 0
@@ -5699,6 +10319,28 @@ graph
     ppinflammatory 0.03619196
     sentiment 0
     cluster 6
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -5725,7 +10367,29 @@ graph
     ppprofanity 0.31401145
     ppinflammatory 0.72427535
     sentiment -0.8225
-    cluster 12
+    cluster 11
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -5734,7 +10398,7 @@ graph
     step 0
     date "2017-04-21T13:01:19Z"
     title "PIZZAGATE PEDOGATE RECOVERY - ABSOLUTELY SHOCKING - MUST WATCH!"
-    description "PIZZAGATE PEDOGATE RECOVERY - ABSOLUTELY SHOCKING - MUST WATCH! Credit: &#13;&#10;&#13;&#10;PIZZAGATE PEDOGATE RECOVERY - ABSOLUTELY SHOCKING - MUST WATCH! Credit: &#13;&#10;&#13;&#10;PIZZAGATE PEDOGATE RECOVERY - ABSOLUTELY SHOCKING - MUST WATCH! Credit:&#13;&#10;&#13;&#10;Subscribe and help expose the illuminati, New World Order, satanic occult, hollywood, washington, and the elites all in one place.&#13;&#10;&#13;&#10;PIZZAGATE SHOCKING EVIDENCE - THIS IS A MUST WATCH! Credit:"
+    description "PIZZAGATE PEDOGATE RECOVERY - ABSOLUTELY SHOCKING - MUST WATCH! Credit: &amp;#13;&amp;#10;&amp;#13;&amp;#10;PIZZAGATE PEDOGATE RECOVERY - ABSOLUTELY SHOCKING - MUST WATCH! Credit: &amp;#13;&amp;#10;&amp;#13;&amp;#10;PIZZAGATE PEDOGATE RECOVERY - ABSOLUTELY SHOCKING - MUST WATCH! Credit:&amp;#13;&amp;#10;&amp;#13;&amp;#10;Subscribe and help expose the illuminati, New World Order, satanic occult, hollywood, washington, and the elites all in one place.&amp;#13;&amp;#10;&amp;#13;&amp;#10;PIZZAGATE SHOCKING EVIDENCE - THIS IS A MUST WATCH! Credit:"
     channeltitle "Channel Of Sages"
     channelid "UC86IklH0boO2nyA7RzE_GlA"
     favcount 0
@@ -5752,7 +10416,29 @@ graph
     ppprofanity 0.43956652
     ppinflammatory 0.17502813
     sentiment -0.4576
-    cluster 11
+    cluster 4
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -5761,7 +10447,7 @@ graph
     step 0
     date "2017-12-31T04:18:23Z"
     title "Laura Ling/Lisa Ling #PizzaGate Lie (Part 8)"
-    description "Don't  see John Podesta next to Clinton and NK dictator?&#10;&#10;This is reptilian show biz, and this is 2018 #PizzaGate"
+    description "Don't  see John Podesta next to Clinton and NK dictator?&amp;#10;&amp;#10;This is reptilian show biz, and this is 2018 #PizzaGate"
     channeltitle "DracoSlayerLovesHeavyWater"
     channelid "UCbq4w-YdCA_8KT5PhJrDadg"
     favcount 0
@@ -5780,6 +10466,28 @@ graph
     ppinflammatory 0.09609797
     sentiment 0
     cluster 7
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -5788,7 +10496,7 @@ graph
     step 0
     date "2020-06-05T18:14:41Z"
     title "CASO YUMMY RELACIONADO CON PIZZAGATE"
-    description "#pizzagate #YUMMY #anonymous2020&#10;&#10;&#10;El tema musical &#34;YUMMY&#34; de Justin Bieber que estreno a inicios de este a&#241;o esta dando mucho que hablar tanto para fanaticos como para escepticos del tema &#34;PIZZAGATE&#34;"
+    description "#pizzagate #YUMMY #anonymous2020&amp;#10;&amp;#10;&amp;#10;El tema musical &amp;#34;YUMMY&amp;#34; de Justin Bieber que estreno a inicios de este a&amp;#241;o esta dando mucho que hablar tanto para fanaticos como para escepticos del tema &amp;#34;PIZZAGATE&amp;#34;"
     channeltitle "MundoALasMilVoces"
     channelid "UCbCtLpTNliDr0qKAlc8QqfA"
     favcount 0
@@ -5807,6 +10515,28 @@ graph
     ppinflammatory 0.17092529
     sentiment 0.5267
     cluster 7
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -5815,7 +10545,7 @@ graph
     step 0
     date "2018-05-07T05:03:50Z"
     title "PizzaGate information assassination  Sandy Hook information Censorship"
-    description "Re-uploaded from 12/3/17&#10;&#10;cROOKED hILLARY&#10;AND HER CROOKED CAMP COOKING&#10;CONSPIRACY SOUP&#10;&#10;&#10;http://www.phillyvoice.com/trump-supporter-shares-details-alleged-assault-philadelphia-march/&#10;&#10;&#10;At Philly book appearance, Hillary Clinton shuts down 'Pizzagate' interloper&#10;&#10;http://archive.is/ATs9q&#10;&#10;&#10;http://www.phillyvoice.com/hillary-clinton-returns-to-philly-to-talk-election-her-book-and-the-way-forward/&#10;&#10;&#10;https://archive.is/5zNHm&#10;&#10;&#10;Pizzagate&#8217; gunman says he was foolish, reckless, mistaken &#8212; and sorry&#10;&#10;https://www.washingtonpost.com/local/public-safety/pizzagate-shooter-apologizes-in-handwritten-letter-for-his-mistakes-ahead-of-sentencing/2017/06/13/f35126b6-5086-11e7-be25-3a519335381c_story.html?utm_term=.c44ebe158b04&#10;&#10;http://archive.is/agdGp&#10;&#10;&#10;https://whyy.org/articles/deep-rot-goes-fake-news-follows-clinton-philly-stop/&#10;http://archive.is/ODh26&#10;&#10;&#10;http://archive.is/search/?q=pizzagate&#38;t=1511988615664&#38;id=05bWq&#10;&#10;&#10;&#10;&#10;&#10;&#10;SANDY HOOK LINKS TO INFO&#10;http://cspsandyhookreport.ct.gov/"
+    description "Re-uploaded from 12/3/17&amp;#10;&amp;#10;cROOKED hILLARY&amp;#10;AND HER CROOKED CAMP COOKING&amp;#10;CONSPIRACY SOUP&amp;#10;&amp;#10;&amp;#10;http://www.phillyvoice.com/trump-supporter-shares-details-alleged-assault-philadelphia-march/&amp;#10;&amp;#10;&amp;#10;At Philly book appearance, Hillary Clinton shuts down 'Pizzagate' interloper&amp;#10;&amp;#10;http://archive.is/ATs9q&amp;#10;&amp;#10;&amp;#10;http://www.phillyvoice.com/hillary-clinton-returns-to-philly-to-talk-election-her-book-and-the-way-forward/&amp;#10;&amp;#10;&amp;#10;https://archive.is/5zNHm&amp;#10;&amp;#10;&amp;#10;Pizzagate&amp;#8217; gunman says he was foolish, reckless, mistaken &amp;#8212; and sorry&amp;#10;&amp;#10;https://www.washingtonpost.com/local/public-safety/pizzagate-shooter-apologizes-in-handwritten-letter-for-his-mistakes-ahead-of-sentencing/2017/06/13/f35126b6-5086-11e7-be25-3a519335381c_story.html?utm_term=.c44ebe158b04&amp;#10;&amp;#10;http://archive.is/agdGp&amp;#10;&amp;#10;&amp;#10;https://whyy.org/articles/deep-rot-goes-fake-news-follows-clinton-philly-stop/&amp;#10;http://archive.is/ODh26&amp;#10;&amp;#10;&amp;#10;http://archive.is/search/?q=pizzagate&amp;#38;t=1511988615664&amp;#38;id=05bWq&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;SANDY HOOK LINKS TO INFO&amp;#10;http://cspsandyhookreport.ct.gov/"
     channeltitle "First name Last Name"
     channelid "UCulpufA7pOahzzCmJLmGnCQ"
     favcount 0
@@ -5833,7 +10563,29 @@ graph
     ppprofanity 0.18166858
     ppinflammatory 0.22887562
     sentiment -0.5994
-    cluster 3
+    cluster 4
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -5860,7 +10612,29 @@ graph
     ppprofanity 0.92395467
     ppinflammatory 0.17386591
     sentiment 0.5994
-    cluster 3
+    cluster 4
+    leftright "L"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 1
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -5887,7 +10661,29 @@ graph
     ppprofanity 0.09891157
     ppinflammatory 0.39904755
     sentiment 0.3612
-    cluster 6
+    cluster 3
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -5915,6 +10711,28 @@ graph
     ppinflammatory 0.2941986
     sentiment -0.6486
     cluster 5
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -5923,7 +10741,7 @@ graph
     step 0
     date "2018-02-14T13:09:39Z"
     title "DISTURBING Banned 1992 pizzagate documentary holytext org"
-    description "Lest We Forget..!&#10;Ephesians 6.12"
+    description "Lest We Forget..!&amp;#10;Ephesians 6.12"
     channeltitle "openedmieyez"
     channelid "UCS1apIf57DBVHn_mAKQOPGw"
     favcount 0
@@ -5941,7 +10759,29 @@ graph
     ppprofanity 0.3485289
     ppinflammatory 0.037551794
     sentiment -0.743
-    cluster 1
+    cluster 5
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -5969,6 +10809,28 @@ graph
     ppinflammatory 0.7279288
     sentiment -0.7003
     cluster 5
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -5977,7 +10839,7 @@ graph
     step 0
     date "2017-03-07T04:38:06Z"
     title "Lift the Veil on Pizzagate/Pedogate - Fearless"
-    description "Entry into Lift the Veil's &#34;Lift the Veil on Pizzagate&#34; contest; my testimonial (Cate Schrodinger) about Pizzagate/Pedogate: Please wake up!&#10;Lift the Veil contest: https://youtu.be/hBS6REhCg6I&#10;Visit me at www.theiamyouproject.com."
+    description "Entry into Lift the Veil's &amp;#34;Lift the Veil on Pizzagate&amp;#34; contest; my testimonial (Cate Schrodinger) about Pizzagate/Pedogate: Please wake up!&amp;#10;Lift the Veil contest: https://youtu.be/hBS6REhCg6I&amp;#10;Visit me at www.theiamyouproject.com."
     channeltitle "Cate Schrodinger"
     channelid "UCLGLt2XTMI5P9joVoxucKdg"
     favcount 0
@@ -5996,6 +10858,28 @@ graph
     ppinflammatory 0.18344323
     sentiment 0.4404
     cluster 5
+    leftright "R"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 1
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 1
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -6023,6 +10907,28 @@ graph
     ppinflammatory 0.26958743
     sentiment -0.5267
     cluster 2
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -6050,6 +10956,28 @@ graph
     ppinflammatory 0.23477711
     sentiment -0.128
     cluster 2
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -6058,7 +10986,7 @@ graph
     step 0
     date "2020-06-13T23:04:02Z"
     title "Pizzagate declaraciones"
-    description "Informaci&#243;n"
+    description "Informaci&amp;#243;n"
     channeltitle "libertad Fernando"
     channelid "UCJa8pOB30ueU3_7AphPyKyQ"
     favcount 0
@@ -6076,7 +11004,29 @@ graph
     ppprofanity 0.043861236
     ppinflammatory 0.14718962
     sentiment 0
-    cluster 3
+    cluster 4
+    leftright "L"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 1
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -6085,7 +11035,7 @@ graph
     step 0
     date "2016-12-19T08:48:00Z"
     title "Anti-illuminati Series: BEWARE PIZZAGATE!!"
-    description "Here is my two cents on reporting about pizzagate&#10;&#10;Disclaimer: The Holy Spirit is guarding this video against all demonic attacks against telling the truth, so it is said, so shall it be done!!&#10;&#10;PayPal Donations:  noahbuddy9999@bitmessage.ch &#10;&#10;If this video helps you and you feel generous please consider donating Thanx!!&#10;When sending donations please advise me so that I may check account Thank You :)"
+    description "Here is my two cents on reporting about pizzagate&amp;#10;&amp;#10;Disclaimer: The Holy Spirit is guarding this video against all demonic attacks against telling the truth, so it is said, so shall it be done!!&amp;#10;&amp;#10;PayPal Donations:  noahbuddy9999@bitmessage.ch &amp;#10;&amp;#10;If this video helps you and you feel generous please consider donating Thanx!!&amp;#10;When sending donations please advise me so that I may check account Thank You :)"
     channeltitle "Real Talk II"
     channelid "UCfI3ATIgrO1-GIL-dNAwULA"
     favcount 0
@@ -6103,7 +11053,29 @@ graph
     ppprofanity 0.1273506
     ppinflammatory 0.40666407
     sentiment 0
-    cluster 10
+    cluster 9
+    leftright "L"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 1
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -6130,7 +11102,29 @@ graph
     ppprofanity 0.0524236
     ppinflammatory 0.19101502
     sentiment 0
-    cluster 10
+    cluster 9
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -6139,7 +11133,7 @@ graph
     step 0
     date "2017-02-27T06:16:26Z"
     title "Update to #Pizzagate Video: Reddit Censorship"
-    description "Reddit:&#10;Active Still: r/podestagate&#10;Deleted: r/pizzagate, r/pizzagatev2&#10;&#10;---&#10;You can support my work here:&#10;Paypal - https://www.paypal.me/BrianRHyland&#10;- and thankyou to all who do:-)"
+    description "Reddit:&amp;#10;Active Still: r/podestagate&amp;#10;Deleted: r/pizzagate, r/pizzagatev2&amp;#10;&amp;#10;---&amp;#10;You can support my work here:&amp;#10;Paypal - https://www.paypal.me/BrianRHyland&amp;#10;- and thankyou to all who do:-)"
     channeltitle "Conspiracy Daily Update"
     channelid "UCe5ftRGTXfRa5gIG11bCoKg"
     favcount 0
@@ -6157,7 +11151,29 @@ graph
     ppprofanity 0.08846352
     ppinflammatory 0.07827903
     sentiment 0
-    cluster 9
+    cluster 8
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   node
   [
@@ -6166,7 +11182,7 @@ graph
     step 0
     date "2016-12-24T20:31:55Z"
     title "#1 VIDEO @ YouTube EXPOSING PIZZAGATE WARNING THIS VIDEO DAMNS CHANNELS"
-    description "WARNING GRAPHIC CONTENT EXPOSING SATANIST!!!!!!&#10;#1 VIDEO ON YouTube EXPOSING PIZZAGATE WARNING THIS VIDEO WILL DAMAGE YOUR CHANNEL IF YOU MIRROR IT #pizzagate IS REAL"
+    description "WARNING GRAPHIC CONTENT EXPOSING SATANIST!!!!!!&amp;#10;#1 VIDEO ON YouTube EXPOSING PIZZAGATE WARNING THIS VIDEO WILL DAMAGE YOUR CHANNEL IF YOU MIRROR IT #pizzagate IS REAL"
     channeltitle "COMET PING pong and pizza #PIZZAGATE"
     channelid "UCuWOqlorLEoTvh7L7Dx_nbw"
     favcount 0
@@ -6184,7 +11200,29 @@ graph
     ppprofanity 0.8868394
     ppinflammatory 0.23998256
     sentiment -0.7717
-    cluster 1
+    cluster 3
+    leftright "FALSE"
+    AntiSJW 0
+    AntiTheist 0
+    Black 0
+    Conspiracy 0
+    Educational 0
+    LateNightTalkShow 0
+    LGBT 0
+    Libertarian 0
+    MainstreamNews 0
+    MissingLinkMedia 0
+    MRA 0
+    OrganizedReligion 0
+    PartisanLeft 0
+    PartisanRight 0
+    Politician 0
+    QAnon 0
+    ReligiousConservative 0
+    Socialist 0
+    SocialJustice 0
+    StateFunded 0
+    WhiteIdentitarian 0
   ]
   edge
   [
