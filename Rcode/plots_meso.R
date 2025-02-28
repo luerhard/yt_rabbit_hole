@@ -6,16 +6,7 @@ library('patchwork')
 library('ggalluvial')
 library('dplyr')
 
-theme_set(
-  theme_linedraw() +
-    theme(text=element_text(size=8, color='black', family="Open Sans"),
-          plot.subtitle = element_text(size=9, color='black', family="Open Sans"),
-          axis.text=element_text(size=8, color='black', family="Open Sans"),
-          legend.text=element_text(size=8, color='black', family="Open Sans"),
-          legend.position="bottom",panel.grid=element_blank(),
-          legend.background = element_blank(),
-          legend.box.background = element_rect(colour = "black"))
-)
+source('theme_ggplot.R')
 
 palette3 <- c("#B11225", "#512888", "#262A77")
 palette3 <- c("blue3","purple3","red3")
@@ -108,14 +99,14 @@ edgecolors <- c(edgecolors,edgecolors)
 df_news$source_lr <- factor(df_news$source_lr, levels = c("L","C","R","NA"))
 df_news$target_lr <- factor(df_news$target_lr, levels = c("L","C","R","NA"))
 
-ggplot(df_news,
+(p3 <- ggplot(df_news,
        aes(y = weight, axis1 = source_lr, axis2 = target_lr, label=source_lr)) +
   geom_alluvium(fill=edgecolors, width=1/12, color='white', lwd=0, alpha=0.8) +
   geom_alluvium(fill=edgecolors, width=1/12, color='white', lwd=0, alpha=0.25) +
   geom_stratum(width=2/12, fill=stratumfill, color='black', lwd=0.25) +
   geom_text(stat = "stratum", aes(label = after_stat(stratum)), size = 3, color='white') +
   theme(panel.border=element_blank(),axis.text=element_blank(),axis.ticks=element_blank(),axis.title=element_blank()) +
-  labs(subtitle="News")
+  labs(subtitle="News"))
 ggsave('../../plots/meso_alluvial_news.png', width=2.3, height=3.5, dpi=300)
 
 
@@ -133,14 +124,14 @@ edgecolors <- c(edgecolors,edgecolors)
 df_science$source_lr <- factor(df_science$source_lr, levels = c("L","C","R","NA"))
 df_science$target_lr <- factor(df_science$target_lr, levels = c("L","C","R","NA"))
 
-ggplot(df_science,
+(p2 <- ggplot(df_science,
        aes(y = weight, axis1 = source_lr, axis2 = target_lr, label=source_lr)) +
   geom_alluvium(fill=edgecolors, width=1/12, color='white', lwd=0, alpha=1) +
   geom_alluvium(fill=edgecolors, width=1/12, color='white', lwd=0, alpha=0.5) +
   geom_stratum(width=2/12, fill=stratumfill, color='black', lwd=0.25) +
   geom_text(stat = "stratum", aes(label = after_stat(stratum)), size = 3, color='white') +
   theme(panel.border=element_blank(),axis.text=element_blank(),axis.ticks=element_blank(),axis.title=element_blank()) +
-  labs(subtitle="Science")
+  labs(subtitle="Science"))
 ggsave('../../plots/meso_alluvial_science.png', width=2.3, height=3.5, dpi=300)
 
 
@@ -158,14 +149,14 @@ edgecolors <- c(edgecolors,edgecolors)
 df_nc$source_lr <- factor(df_nc$source_lr, levels = c("L","C","R","NA"))
 df_nc$target_lr <- factor(df_nc$target_lr, levels = c("L","C","R","NA"))
 
-ggplot(df_nc,
+(p1 <- ggplot(df_nc,
        aes(y = weight, axis1 = source_lr, axis2 = target_lr, label=source_lr)) +
   geom_alluvium(fill=edgecolors, width=1/12, color='white', lwd=0, alpha=1) +
   geom_alluvium(fill=edgecolors, width=1/12, color='white', lwd=0, alpha=0.5) +
   geom_stratum(width=2/12, fill=rep(c('grey90',palette3[2:1]),2), color='black', lwd=0.25) +
   geom_text(stat = "stratum", aes(label = after_stat(stratum)), size = 3, color='white') +
   theme(panel.border=element_blank(),axis.text=element_blank(),axis.ticks=element_blank(),axis.title=element_blank()) +
-  labs(subtitle="Non-controversial")
+  labs(subtitle="Non-controversial"))
 ggsave('../../plots/meso_alluvial_nc.png', width=2.3, height=3.5, dpi=300)
 
 
@@ -183,16 +174,21 @@ edgecolors <- c(edgecolors,edgecolors)
 df_conspiracy$source_lr <- factor(df_conspiracy$source_lr, levels = c("L","C","R","NA"))
 df_conspiracy$target_lr <- factor(df_conspiracy$target_lr, levels = c("L","C","R","NA"))
 
-ggplot(df_conspiracy,
+(p4 <- ggplot(df_conspiracy,
        aes(y = weight, axis1 = source_lr, axis2 = target_lr, label=source_lr)) +
   geom_alluvium(fill=edgecolors, width=1/12, color='white', lwd=0, alpha=1) +
   geom_alluvium(fill=edgecolors, width=1/12, color='white', lwd=0, alpha=0.5) +
   geom_stratum(width=2/12, fill=stratumfill, color='black', lwd=0.25) +
   geom_text(stat = "stratum", aes(label = after_stat(stratum)), size = 3, color='white') +
   theme(panel.border=element_blank(),axis.text=element_blank(),axis.ticks=element_blank(),axis.title=element_blank()) +
-  labs(subtitle="Conspiracy")
+  labs(subtitle="Conspiracy"))
 ggsave('../../plots/meso_alluvial_conspiracy.png', width=2.3, height=3.5, dpi=300)
 
+
+p1 + p2 + p3 + p4 +
+  plot_annotation(tag_levels = "A") & 
+  theme(plot.tag.position  = c(.92, .99), plot.tag = element_text(face="bold"))
+ggsave("../../plots/meso_alluvial.png", width=4.6, height=6.4, dpi=300)
 
 
 ## ALLUVIAL category ----
