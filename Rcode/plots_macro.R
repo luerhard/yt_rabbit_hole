@@ -2,6 +2,8 @@ library('ggplot2')
 library('patchwork')
 library('stargazer')
 library('plyr')
+library('tidyverse')
+library('ggpubr')
 
 source('theme_ggplot.R')
 
@@ -133,55 +135,53 @@ ggsave("../../plots/macro_clusters.png", height=3.5, width=2.5, dpi=300)
 
 levels(df$category)[levels(df$category)=="Non-controversial"] <- "NC"
 
-# included in macro-level section: modularity, degree, degree inequality and isolates
+# included in macro-level section: density, 
 df <- df[order(df$category),]
-(p4 <- ggplot(df, aes(x=category, y=modularity, label=name)) +
-    #stat_summary(fun = mean, geom = "bar", fill=palette4, color=palette4, lwd=.25) +
-    geom_boxplot(fill=palette4, color=palette4, lwd=.5, alpha=.05) +
-    scale_y_continuous(name="Modularity", limits=c(0.22,0.6)) +
-    labs(x=NULL, y=NULL, subtitle='Modularity') +
-    #geom_text(color = plotcol(df, 'modularity')$color, size=2, alpha=.5)) #+ stat_summary(fun.data = mean_se, geom = "errorbar", width=.2, lwd=.25))
-    geom_text(color = rep(palette4,each=10), size=2, alpha=.5)) #+ stat_summary(fun.data = mean_se, geom = "errorbar", width=.2, lwd=.25))
-(p4 <- ggplot(df, aes(x=category, y=modularity, label=name)) +
-    stat_summary(fun = mean, geom = "bar", fill=palette4, color=palette4, lwd=.25) +
-    scale_y_continuous(name="Modularity") +
-    labs(x=NULL, y=NULL, subtitle='Modularity') +
-    geom_text(color = plotcol(df, 'modularity')$color, size=2, alpha=.5) + 
-    stat_summary(fun.data = mean_se, geom = "errorbar", width=.2, lwd=.25))
-ggsave("../../plots/macro_modularity.png", height=3.5, width=2.5, dpi=300)
-
 (p1 <- ggplot(df, aes(x=category, y=avg_degree, label=name)) +
-  stat_summary(fun = mean, geom = "bar", fill=palette4, color=palette4, lwd=.25) + 
-  labs(x=NULL, y=NULL, subtitle='Average degree') +
-  geom_text(color = plotcol(df, 'avg_degree')$color, size=2, alpha=.5) +
-  stat_summary(fun.data = mean_se, geom = "errorbar", width=.2, lwd=.25))
+    #stat_summary(fun = mean, geom = "bar", fill=palette4, color=palette4, lwd=.25) + 
+    #geom_text(color = plotcol(df, 'avg_degree')$color, size=2, alpha=.5) +
+    #stat_summary(fun.data = mean_se, geom = "errorbar", width=.2, lwd=.25) +
+    geom_boxplot(color=palette4, fill=palette4, alpha=.1, lwd=0.5, outlier.alpha=1) +
+    stat_compare_means(method = "t.test", label = "p.signif", size = 3, label.y=c(19.2, 20.8,22.4),
+      comparisons = list(c("News","Conspiracy"), c("Science","Conspiracy"), c("NC","Conspiracy"))) +
+    scale_y_continuous(breaks=seq(0,20,5), limits=c(min(df$avg_degree),24.2)) +
+    labs(x=NULL, y=NULL, subtitle='Density (avg degree)'))
 ggsave("../../plots/macro_degree.png", height=3.5, width=2.5, dpi=300)
 
 (p2 <- ggplot(df, aes(x=category, y=gini, label=name)) +
-    stat_summary(fun = mean, geom = "bar", fill=palette4, color=palette4, lwd=.25) + 
-    labs(x=NULL, y=NULL, subtitle='Centralization') +
-    geom_text(color = plotcol(df, 'gini')$color, size=2, alpha=.5) +
-    stat_summary(fun.data = mean_se, geom = "errorbar", width=.2, lwd=.25))
+    #stat_summary(fun = mean, geom = "bar", fill=palette4, color=palette4, lwd=.25) +
+    #geom_text(color = plotcol(df, 'gini')$color, size=2, alpha=.5) +
+    #stat_summary(fun.data = mean_se, geom = "errorbar", width=.2, lwd=.25) + 
+    geom_boxplot(color=palette4, fill=palette4, alpha=.1, lwd=0.5, outlier.alpha=1) +
+    stat_compare_means(method = "t.test", label = "p.signif", size = 3, label.y=c(0.92,0.945,0.97),
+      comparisons = list(c("News","Conspiracy"), c("Science","Conspiracy"), c("NC","Conspiracy"))) +
+    scale_y_continuous(limits=c(min(df$gini),1)) +
+    labs(x=NULL, y=NULL, subtitle='Centralization'))
 ggsave("../../plots/macro_gini.png", height=3.5, width=2.5, dpi=300)
 
-(p3 <- ggplot(df, aes(x=category, y=isolates, label=name)) +
-  stat_summary(fun = mean, geom = "bar", fill=palette4, color=palette4, lwd=.25) + 
-  labs(x=NULL, y=NULL, subtitle='Isolates') +
-  geom_text(color = plotcol(df, 'isolates')$color, size=2, alpha=.5) +
-  stat_summary(fun.data = mean_se, geom = "errorbar", width=.2, lwd=.25))
-ggsave("../../plots/macro_isolates.png", height=3.5, width=2.5, dpi=300)
+(p3 <- ggplot(df, aes(x=category, y=modularity, label=name)) +
+    #stat_summary(fun = mean, geom = "bar", fill=palette4, color=palette4, lwd=.25) +
+    #geom_text(color = plotcol(df, 'modularity')$color, size=2, alpha=.5)) #+ stat_summary(fun.data = mean_se, geom = "errorbar", width=.2, lwd=.25))
+    #stat_summary(fun.data = mean_se, geom = "errorbar", width=.2, lwd=.25) +
+    geom_boxplot(fill=palette4, color=palette4, lwd=.5, alpha=.1, outlier.alpha=1) +
+    #geom_text(color = rep(palette4,each=10), size=2, alpha=.5) +
+    stat_compare_means(method = "t.test", label = "p.signif", size = 3, label.y=c(0.6,0.635,0.67),
+      comparisons = list(c("News","Conspiracy"), c("Science","Conspiracy"), c("NC","Conspiracy"))) +
+    scale_y_continuous(name="Modularity", limits=c(min(df$modularity),0.705)) +
+    labs(x=NULL, y=NULL, subtitle='Modularity'))
+ggsave("../../plots/macro_modularity.png", height=3.5, width=2.5, dpi=300)
 
 library("ggConvexHull")
-p3 <- ggplot(df, aes(y=modularity, x=avg_degree, label=name, color=category)) +
+(p4 <- ggplot(df, aes(y=modularity, x=avg_degree, label=name, color=category)) +
   geom_convexhull(alpha = 0.1, lwd=.5, aes(fill = category)) + 
   geom_point(color=rep(palette4,each=10)) +
-  geom_text(color = rep(palette4,each=10), size=2, alpha=.5, hjust=-0.15, angle=15) +
+  #geom_text(color = rep(palette4,each=10), size=2, alpha=.5, hjust=-0.15, angle=15) +
   scale_y_continuous(name="Modularity", limits=c(0.22,0.6)) +
-  scale_x_continuous(name="Average degree", limits=c(2,21)) +
+  scale_x_continuous(name="Density", limits=c(2,21)) +
   scale_fill_manual(values=palette4, name="") +
   scale_color_manual(values=palette4, name="") +
-  ggtitle(NULL,"Modularity by degree") +
-  theme(legend.position = 'none')
+  ggtitle(NULL,"Modularity by density") +
+  theme(legend.position = 'none'))
 
 (p1 + p2) / (p3 + p4) + plot_annotation(tag_levels = 'A') & theme(plot.tag.position  = c(.98, .98), plot.tag = element_text(face="bold"))
 ggsave("../../plots/macro.png", height=5, width=4.6, dpi=300)
