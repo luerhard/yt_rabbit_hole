@@ -6,6 +6,7 @@ library('tidyverse')
 library('here')
 
 sentiment_path <- '../data/interim/title_sentiments/'
+sentiment_path <- '../data/interim/sentiments/'  # updated sentiment analysis March 12, 2025
 
 network_names <- c(
   "how_to_draw","ab_workout","warrior_cats",
@@ -33,6 +34,8 @@ for(net_name in network_names){
 sentiment_df <- sentiment_df %>% rename(label = video_id)
 sentiment_df <- unique(sentiment_df)
 sentiment_df <- sentiment_df[!duplicated(sentiment_df$label),]
+
+sentiment_df$sentiment <- recode(sentiment_df$sentiment_title_roberta_label, "positive" = 1, "neutral" = 0, "negative" = -1)
 
 ## RECFLUENCE ----
 

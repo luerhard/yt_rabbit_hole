@@ -1,4 +1,4 @@
-Creator "igraph version 0.10.10-81-g857a12506 Fri Feb  7 14:12:04 2025"
+Creator "igraph version 0.10.13-126-g31c4e6ffc Wed Mar 12 12:34:14 2025"
 Version 1
 graph
 [
@@ -27,7 +27,7 @@ graph
     ppsexuallyexplicit 0.040996585
     ppprofanity 0.03981781
     ppinflammatory 0.4400665
-    sentiment 0.25
+    sentiment 0
     cluster 1
     leftright "R"
     AntiSJW 0
@@ -76,7 +76,7 @@ graph
     ppsexuallyexplicit 0.10806548
     ppprofanity 0.16092084
     ppinflammatory 0.5680319
-    sentiment -0.2732
+    sentiment -1
     cluster 2
     leftright "L"
     AntiSJW 0
@@ -125,8 +125,8 @@ graph
     ppsexuallyexplicit 0.08002753
     ppprofanity 0.096831575
     ppinflammatory 0.07531628
-    sentiment -0.6597
-    cluster 3
+    sentiment 0
+    cluster 1
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -174,7 +174,7 @@ graph
     ppsexuallyexplicit 0.0587989
     ppprofanity 0.10566607
     ppinflammatory 0.44315717
-    sentiment -0.4767
+    sentiment -1
     cluster 2
     leftright "FALSE"
     AntiSJW 0
@@ -223,8 +223,8 @@ graph
     ppsexuallyexplicit 0.014039773
     ppprofanity 0.022365926
     ppinflammatory 0.22876139
-    sentiment -0.7003
-    cluster 3
+    sentiment 0
+    cluster 1
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -272,8 +272,8 @@ graph
     ppsexuallyexplicit 0.057528924
     ppprofanity 0.03654168
     ppinflammatory 0.27490208
-    sentiment 0.128
-    cluster 4
+    sentiment 0
+    cluster 3
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -321,8 +321,8 @@ graph
     ppsexuallyexplicit 0.12433408
     ppprofanity 0.07678486
     ppinflammatory 0.32950464
-    sentiment -0.8347
-    cluster 3
+    sentiment -1
+    cluster 1
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -419,8 +419,8 @@ graph
     ppsexuallyexplicit 0.069785185
     ppprofanity 0.049576204
     ppinflammatory 0.017778039
-    sentiment -0.296
-    cluster 4
+    sentiment 0
+    cluster 1
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -468,8 +468,8 @@ graph
     ppsexuallyexplicit 0.49198994
     ppprofanity 0.7289069
     ppinflammatory 0.08155044
-    sentiment -0.6597
-    cluster 3
+    sentiment 0
+    cluster 1
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -517,8 +517,8 @@ graph
     ppsexuallyexplicit 0.033131305
     ppprofanity 0.07004756
     ppinflammatory 0.11078589
-    sentiment -0.1027
-    cluster 4
+    sentiment -1
+    cluster 3
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -615,8 +615,8 @@ graph
     ppsexuallyexplicit 0.07505823
     ppprofanity 0.1001689
     ppinflammatory 0.26784745
-    sentiment 0
-    cluster 4
+    sentiment -1
+    cluster 3
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -664,8 +664,8 @@ graph
     ppsexuallyexplicit 0.08606514
     ppprofanity 0.10974525
     ppinflammatory 0.1495191
-    sentiment -0.5267
-    cluster 1
+    sentiment 0
+    cluster 4
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -713,7 +713,7 @@ graph
     ppsexuallyexplicit 0.1323387
     ppprofanity 0.19582897
     ppinflammatory 0.2522908
-    sentiment 0.4939
+    sentiment 0
     cluster 5
     leftright "L"
     AntiSJW 0
@@ -812,7 +812,7 @@ graph
     ppprofanity 0.050000653
     ppinflammatory 0.055026475
     sentiment 0
-    cluster 1
+    cluster 4
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -860,8 +860,8 @@ graph
     ppsexuallyexplicit 0.02576759
     ppprofanity 0.0428281
     ppinflammatory 0.074886926
-    sentiment -0.3612
-    cluster 4
+    sentiment 0
+    cluster 1
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -910,7 +910,7 @@ graph
     ppprofanity 0.13515028
     ppinflammatory 0.22438893
     sentiment 0
-    cluster 6
+    cluster 3
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -958,7 +958,7 @@ graph
     ppsexuallyexplicit 0.04027063
     ppprofanity 0.19322939
     ppinflammatory 0.027078021
-    sentiment -0.1531
+    sentiment 0
     cluster 2
     leftright "FALSE"
     AntiSJW 0
@@ -1007,8 +1007,8 @@ graph
     ppsexuallyexplicit 0.027978683
     ppprofanity 0.036574513
     ppinflammatory 0.161136
-    sentiment -0.7579
-    cluster 7
+    sentiment -1
+    cluster 6
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -1056,7 +1056,7 @@ graph
     ppsexuallyexplicit 0.13257961
     ppprofanity 0.15013126
     ppinflammatory 0.26822284
-    sentiment -0.0772
+    sentiment -1
     cluster 2
     leftright "FALSE"
     AntiSJW 0
@@ -1105,8 +1105,8 @@ graph
     ppsexuallyexplicit 0.05375441
     ppprofanity 0.062518515
     ppinflammatory 0.1808639
-    sentiment -0.5267
-    cluster 8
+    sentiment 0
+    cluster 7
     leftright "R"
     AntiSJW 0
     AntiTheist 0
@@ -1154,8 +1154,8 @@ graph
     ppsexuallyexplicit 0.24838893
     ppprofanity 0.33326784
     ppinflammatory 0.41186318
-    sentiment 0
-    cluster 4
+    sentiment -1
+    cluster 3
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -1204,7 +1204,7 @@ graph
     ppprofanity 0.13339601
     ppinflammatory 0.18915907
     sentiment 0
-    cluster 9
+    cluster 8
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -1252,8 +1252,8 @@ graph
     ppsexuallyexplicit 0.042331874
     ppprofanity 0.07801759
     ppinflammatory 0.3543013
-    sentiment -0.7184
-    cluster 7
+    sentiment -1
+    cluster 6
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -1301,7 +1301,7 @@ graph
     ppsexuallyexplicit 0.27090713
     ppprofanity 0.17582278
     ppinflammatory 0.26953295
-    sentiment -0.3182
+    sentiment 0
     cluster 9
     leftright "FALSE"
     AntiSJW 0
@@ -1350,8 +1350,8 @@ graph
     ppsexuallyexplicit 0.110554606
     ppprofanity 0.103292614
     ppinflammatory 0.26643056
-    sentiment 0
-    cluster 9
+    sentiment -1
+    cluster 8
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -1399,7 +1399,7 @@ graph
     ppsexuallyexplicit 0.108159035
     ppprofanity 0.09897127
     ppinflammatory 0.20032136
-    sentiment 0
+    sentiment -1
     cluster 8
     leftright "FALSE"
     AntiSJW 0
@@ -1497,8 +1497,8 @@ graph
     ppsexuallyexplicit 0.05392111
     ppprofanity 0.105717145
     ppinflammatory 0.43768257
-    sentiment -0.4767
-    cluster 3
+    sentiment -1
+    cluster 1
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -1547,7 +1547,7 @@ graph
     ppprofanity 0.07355114
     ppinflammatory 0.26929265
     sentiment 0
-    cluster 9
+    cluster 8
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -1596,7 +1596,7 @@ graph
     ppprofanity 0.037404776
     ppinflammatory 0.17667809
     sentiment 0
-    cluster 4
+    cluster 3
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -1645,7 +1645,7 @@ graph
     ppprofanity 0.27774218
     ppinflammatory 0.01942586
     sentiment 0
-    cluster 7
+    cluster 9
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -1694,7 +1694,7 @@ graph
     ppprofanity 0.13893974
     ppinflammatory 0.04428537
     sentiment 0
-    cluster 1
+    cluster 4
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -1743,7 +1743,7 @@ graph
     ppprofanity 0.15884627
     ppinflammatory 0.0050794254
     sentiment 0
-    cluster 7
+    cluster 9
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -1840,7 +1840,7 @@ graph
     ppsexuallyexplicit 0.031030277
     ppprofanity 0.021903075
     ppinflammatory 0.17739935
-    sentiment 0
+    sentiment 1
     cluster 2
     leftright "FALSE"
     AntiSJW 0
@@ -1890,7 +1890,7 @@ graph
     ppprofanity 0.1747364
     ppinflammatory 0.08396401
     sentiment 0
-    cluster 7
+    cluster 9
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -1938,8 +1938,8 @@ graph
     ppsexuallyexplicit 0.098046705
     ppprofanity 0.17609271
     ppinflammatory 0.70833045
-    sentiment -0.4576
-    cluster 3
+    sentiment -1
+    cluster 1
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -1987,8 +1987,8 @@ graph
     ppsexuallyexplicit 0.21871403
     ppprofanity 0.310944
     ppinflammatory 0.015394447
-    sentiment 0.5267
-    cluster 7
+    sentiment 1
+    cluster 9
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -2037,7 +2037,7 @@ graph
     ppprofanity 0.10337767
     ppinflammatory 0.1616235
     sentiment 0
-    cluster 8
+    cluster 7
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -2086,7 +2086,7 @@ graph
     ppprofanity 0.15167128
     ppinflammatory 0.10613176
     sentiment 0
-    cluster 7
+    cluster 9
     leftright "R"
     AntiSJW 0
     AntiTheist 0
@@ -2135,7 +2135,7 @@ graph
     ppprofanity 0.06810621
     ppinflammatory 0.08282488
     sentiment 0
-    cluster 10
+    cluster 1
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -2184,7 +2184,7 @@ graph
     ppprofanity 0.31168422
     ppinflammatory 0.08826671
     sentiment 0
-    cluster 1
+    cluster 4
     leftright "L"
     AntiSJW 0
     AntiTheist 0
@@ -2233,7 +2233,7 @@ graph
     ppprofanity 0.08468617
     ppinflammatory 0.15851474
     sentiment 0
-    cluster 7
+    cluster 9
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -2281,7 +2281,7 @@ graph
     ppsexuallyexplicit 0.081800416
     ppprofanity 0.17127949
     ppinflammatory 0.15356413
-    sentiment -0.4939
+    sentiment 0
     cluster 8
     leftright "FALSE"
     AntiSJW 0
@@ -2330,8 +2330,8 @@ graph
     ppsexuallyexplicit 0.0680205
     ppprofanity 0.09994482
     ppinflammatory 0.3702227
-    sentiment 0
-    cluster 4
+    sentiment -1
+    cluster 3
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -2380,7 +2380,7 @@ graph
     ppprofanity 0.1482769
     ppinflammatory 0.029747274
     sentiment 0
-    cluster 7
+    cluster 9
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -2477,8 +2477,8 @@ graph
     ppsexuallyexplicit 0.06665597
     ppprofanity 0.10781661
     ppinflammatory 0.34748498
-    sentiment -0.0516
-    cluster 4
+    sentiment -1
+    cluster 3
     leftright "L"
     AntiSJW 0
     AntiTheist 0
@@ -2526,8 +2526,8 @@ graph
     ppsexuallyexplicit 0.082098395
     ppprofanity 0.17613873
     ppinflammatory 0.45230716
-    sentiment -0.6908
-    cluster 10
+    sentiment -1
+    cluster 4
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -2625,7 +2625,7 @@ graph
     ppprofanity 0.061433252
     ppinflammatory 0.2620905
     sentiment 0
-    cluster 7
+    cluster 9
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -2673,7 +2673,7 @@ graph
     ppsexuallyexplicit 0.10993338
     ppprofanity 0.23796247
     ppinflammatory 0.43991834
-    sentiment -0.6249
+    sentiment 0
     cluster 9
     leftright "FALSE"
     AntiSJW 0
@@ -2723,7 +2723,7 @@ graph
     ppprofanity 0.025079414
     ppinflammatory 0.1942456
     sentiment 0
-    cluster 4
+    cluster 3
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -2771,8 +2771,8 @@ graph
     ppsexuallyexplicit 0.12134076
     ppprofanity 0.18190107
     ppinflammatory 0.4611415
-    sentiment -0.4767
-    cluster 10
+    sentiment 0
+    cluster 4
     leftright "L"
     AntiSJW 0
     AntiTheist 0
@@ -2821,7 +2821,7 @@ graph
     ppprofanity 0.0649807
     ppinflammatory 0.11800456
     sentiment 0
-    cluster 11
+    cluster 10
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -2869,7 +2869,7 @@ graph
     ppsexuallyexplicit 0.07743952
     ppprofanity 0.06163022
     ppinflammatory 0.056820247
-    sentiment 0.34
+    sentiment 0
     cluster 2
     leftright "C"
     AntiSJW 0
@@ -2968,7 +2968,7 @@ graph
     ppprofanity 0.086906806
     ppinflammatory 0.024973456
     sentiment 0
-    cluster 8
+    cluster 7
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -3016,7 +3016,7 @@ graph
     ppsexuallyexplicit 0.08577614
     ppprofanity 0.102433555
     ppinflammatory 0.14195491
-    sentiment 0
+    sentiment -1
     cluster 8
     leftright "FALSE"
     AntiSJW 0
@@ -3065,8 +3065,8 @@ graph
     ppsexuallyexplicit 0.031030277
     ppprofanity 0.021903075
     ppinflammatory 0.17739935
-    sentiment 0
-    cluster 11
+    sentiment 1
+    cluster 10
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -3114,8 +3114,8 @@ graph
     ppsexuallyexplicit 0.2806474
     ppprofanity 0.4025417
     ppinflammatory 0.24890211
-    sentiment -0.765
-    cluster 7
+    sentiment -1
+    cluster 9
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -3163,8 +3163,8 @@ graph
     ppsexuallyexplicit 0.07283685
     ppprofanity 0.07985135
     ppinflammatory 0.13052888
-    sentiment 0
-    cluster 11
+    sentiment 1
+    cluster 10
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -3213,7 +3213,7 @@ graph
     ppprofanity 0.111709066
     ppinflammatory 0.12955654
     sentiment 0
-    cluster 7
+    cluster 9
     leftright "L"
     AntiSJW 0
     AntiTheist 0
@@ -3261,8 +3261,8 @@ graph
     ppsexuallyexplicit 0.24337667
     ppprofanity 0.36624435
     ppinflammatory 0.16591267
-    sentiment -0.5267
-    cluster 11
+    sentiment 0
+    cluster 10
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -3310,7 +3310,7 @@ graph
     ppsexuallyexplicit 0.3407166
     ppprofanity 0.21356378
     ppinflammatory 0.49475983
-    sentiment -0.6369
+    sentiment -1
     cluster 5
     leftright "R"
     AntiSJW 0
@@ -3360,7 +3360,7 @@ graph
     ppprofanity 0.07998555
     ppinflammatory 0.20202254
     sentiment 0
-    cluster 6
+    cluster 3
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -3408,7 +3408,7 @@ graph
     ppsexuallyexplicit 0.18742839
     ppprofanity 0.8663376
     ppinflammatory 0.20819971
-    sentiment -0.5859
+    sentiment 0
     cluster 5
     leftright "FALSE"
     AntiSJW 0
@@ -3457,8 +3457,8 @@ graph
     ppsexuallyexplicit 0.040344864
     ppprofanity 0.030648436
     ppinflammatory 0.35701004
-    sentiment -0.5267
-    cluster 8
+    sentiment 0
+    cluster 7
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -3506,8 +3506,8 @@ graph
     ppsexuallyexplicit 0.0960988
     ppprofanity 0.15335941
     ppinflammatory 0.28339094
-    sentiment -0.4767
-    cluster 10
+    sentiment -1
+    cluster 4
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -3605,7 +3605,7 @@ graph
     ppprofanity 0.08286293
     ppinflammatory 0.24136902
     sentiment 0
-    cluster 6
+    cluster 3
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -3752,7 +3752,7 @@ graph
     ppprofanity 0.034011967
     ppinflammatory 0.062217284
     sentiment 0
-    cluster 1
+    cluster 4
     leftright "C"
     AntiSJW 0
     AntiTheist 0
@@ -3800,8 +3800,8 @@ graph
     ppsexuallyexplicit 0.12540467
     ppprofanity 0.115666956
     ppinflammatory 0.4614868
-    sentiment -0.5267
-    cluster 8
+    sentiment -1
+    cluster 7
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -3849,8 +3849,8 @@ graph
     ppsexuallyexplicit 0.058222376
     ppprofanity 0.033759374
     ppinflammatory 0.18590549
-    sentiment 0.4019
-    cluster 10
+    sentiment 0
+    cluster 4
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -3898,8 +3898,8 @@ graph
     ppsexuallyexplicit 0.039598998
     ppprofanity 0.035636835
     ppinflammatory 0.17739935
-    sentiment 0
-    cluster 8
+    sentiment 1
+    cluster 7
     leftright "L"
     AntiSJW 0
     AntiTheist 1
@@ -3996,7 +3996,7 @@ graph
     ppsexuallyexplicit 0.039598998
     ppprofanity 0.035636835
     ppinflammatory 0.17739935
-    sentiment 0
+    sentiment 1
     cluster 10
     leftright "L"
     AntiSJW 0
@@ -4045,8 +4045,8 @@ graph
     ppsexuallyexplicit 0.028357662
     ppprofanity 0.048279945
     ppinflammatory 0.80792975
-    sentiment -0.5267
-    cluster 6
+    sentiment -1
+    cluster 3
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -4094,8 +4094,8 @@ graph
     ppsexuallyexplicit 0.06850899
     ppprofanity 0.06526514
     ppinflammatory 0.33597302
-    sentiment 0.4404
-    cluster 11
+    sentiment 0
+    cluster 10
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -4143,8 +4143,8 @@ graph
     ppsexuallyexplicit 0.023829361
     ppprofanity 0.017565751
     ppinflammatory 0.3312129
-    sentiment 0
-    cluster 8
+    sentiment 1
+    cluster 7
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -4193,7 +4193,7 @@ graph
     ppprofanity 0.19813396
     ppinflammatory 0.12508832
     sentiment 0
-    cluster 10
+    cluster 4
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -4241,8 +4241,8 @@ graph
     ppsexuallyexplicit 0.07618446
     ppprofanity 0.12272873
     ppinflammatory 0.17962071
-    sentiment -0.296
-    cluster 1
+    sentiment 0
+    cluster 4
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -4290,8 +4290,8 @@ graph
     ppsexuallyexplicit 0.07592956
     ppprofanity 0.09997627
     ppinflammatory 0.4369812
-    sentiment -0.5499
-    cluster 10
+    sentiment 0
+    cluster 4
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -4340,7 +4340,7 @@ graph
     ppprofanity 0.03725218
     ppinflammatory 0.22844966
     sentiment 0
-    cluster 10
+    cluster 4
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -4438,7 +4438,7 @@ graph
     ppprofanity 0.012655005
     ppinflammatory 0.122928925
     sentiment 0
-    cluster 4
+    cluster 3
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -4486,8 +4486,8 @@ graph
     ppsexuallyexplicit 0.14460295
     ppprofanity 0.4378866
     ppinflammatory 0.406564
-    sentiment 0
-    cluster 8
+    sentiment -1
+    cluster 7
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -4535,8 +4535,8 @@ graph
     ppsexuallyexplicit 0.031030277
     ppprofanity 0.021903075
     ppinflammatory 0.17739935
-    sentiment 0
-    cluster 4
+    sentiment 1
+    cluster 3
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -4634,7 +4634,7 @@ graph
     ppprofanity 0.03820921
     ppinflammatory 0.14676307
     sentiment 0
-    cluster 11
+    cluster 10
     leftright "L"
     AntiSJW 0
     AntiTheist 1
@@ -4683,7 +4683,7 @@ graph
     ppprofanity 0.032080542
     ppinflammatory 0.014276135
     sentiment 0
-    cluster 1
+    cluster 4
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -4731,7 +4731,7 @@ graph
     ppsexuallyexplicit 0.06694401
     ppprofanity 0.08118116
     ppinflammatory 0.26908374
-    sentiment -0.4767
+    sentiment -1
     cluster 10
     leftright "FALSE"
     AntiSJW 0
@@ -4780,8 +4780,8 @@ graph
     ppsexuallyexplicit 0.0294414
     ppprofanity 0.02229701
     ppinflammatory 0.29551467
-    sentiment 0
-    cluster 4
+    sentiment -1
+    cluster 3
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -4829,8 +4829,8 @@ graph
     ppsexuallyexplicit 0.046754837
     ppprofanity 0.09276359
     ppinflammatory 0.09780039
-    sentiment -0.128
-    cluster 11
+    sentiment 0
+    cluster 10
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -4879,7 +4879,7 @@ graph
     ppprofanity 0.24606432
     ppinflammatory 0.46961865
     sentiment 0
-    cluster 8
+    cluster 7
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -4927,8 +4927,8 @@ graph
     ppsexuallyexplicit 0.15925352
     ppprofanity 0.15369642
     ppinflammatory 0.2424376
-    sentiment 0
-    cluster 8
+    sentiment -1
+    cluster 7
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -4976,8 +4976,8 @@ graph
     ppsexuallyexplicit 0.083959304
     ppprofanity 0.1373974
     ppinflammatory 0.2930173
-    sentiment 0
-    cluster 4
+    sentiment -1
+    cluster 3
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -5025,8 +5025,8 @@ graph
     ppsexuallyexplicit 0.0453721
     ppprofanity 0.0975811
     ppinflammatory 0.4565456
-    sentiment 0
-    cluster 4
+    sentiment -1
+    cluster 3
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -5074,8 +5074,8 @@ graph
     ppsexuallyexplicit 0.062953085
     ppprofanity 0.11818351
     ppinflammatory 0.441105
-    sentiment 0
-    cluster 11
+    sentiment -1
+    cluster 10
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -5124,7 +5124,7 @@ graph
     ppprofanity 0.03765421
     ppinflammatory 0.12790476
     sentiment 0
-    cluster 11
+    cluster 10
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -5173,7 +5173,7 @@ graph
     ppprofanity 0.2433746
     ppinflammatory 0.13231957
     sentiment 0
-    cluster 8
+    cluster 7
     leftright "L"
     AntiSJW 0
     AntiTheist 0
@@ -5221,7 +5221,7 @@ graph
     ppsexuallyexplicit 0.033692587
     ppprofanity 0.031216614
     ppinflammatory 0.19646373
-    sentiment 0.4588
+    sentiment 1
     cluster 5
     leftright "FALSE"
     AntiSJW 0
@@ -5271,7 +5271,7 @@ graph
     ppprofanity 0.01728364
     ppinflammatory 0.26497215
     sentiment 0
-    cluster 3
+    cluster 1
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -5319,8 +5319,8 @@ graph
     ppsexuallyexplicit 0.031030277
     ppprofanity 0.021903075
     ppinflammatory 0.17739935
-    sentiment 0
-    cluster 9
+    sentiment 1
+    cluster 8
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -5368,7 +5368,7 @@ graph
     ppsexuallyexplicit 0.12687624
     ppprofanity 0.17572571
     ppinflammatory 0.5421299
-    sentiment 0
+    sentiment -1
     cluster 5
     leftright "FALSE"
     AntiSJW 0
@@ -5417,8 +5417,8 @@ graph
     ppsexuallyexplicit 0.09109559
     ppprofanity 0.13678707
     ppinflammatory 0.08453477
-    sentiment -0.5267
-    cluster 9
+    sentiment -1
+    cluster 8
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -5467,7 +5467,7 @@ graph
     ppprofanity 0.033169486
     ppinflammatory 0.36021924
     sentiment 0
-    cluster 10
+    cluster 4
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -5515,8 +5515,8 @@ graph
     ppsexuallyexplicit 0.028452834
     ppprofanity 0.037336666
     ppinflammatory 0.55187273
-    sentiment -0.8779
-    cluster 1
+    sentiment -1
+    cluster 4
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -5613,7 +5613,7 @@ graph
     ppsexuallyexplicit 0.10263737
     ppprofanity 0.101012275
     ppinflammatory 0.21236356
-    sentiment -0.6597
+    sentiment -1
     cluster 9
     leftright "FALSE"
     AntiSJW 0
@@ -5663,7 +5663,7 @@ graph
     ppprofanity 0.0466697
     ppinflammatory 0.05581992
     sentiment 0
-    cluster 8
+    cluster 7
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -5712,7 +5712,7 @@ graph
     ppprofanity 0.027376011
     ppinflammatory 0.28381616
     sentiment 0
-    cluster 11
+    cluster 10
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -5760,7 +5760,7 @@ graph
     ppsexuallyexplicit 0.069371596
     ppprofanity 0.091405064
     ppinflammatory 0.44054726
-    sentiment 0.3182
+    sentiment -1
     cluster 5
     leftright "FALSE"
     AntiSJW 0
@@ -5858,8 +5858,8 @@ graph
     ppsexuallyexplicit 0.05634552
     ppprofanity 0.07661074
     ppinflammatory 0.49632642
-    sentiment -0.5267
-    cluster 1
+    sentiment -1
+    cluster 4
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -5908,7 +5908,7 @@ graph
     ppprofanity 0.045119636
     ppinflammatory 0.18177243
     sentiment 0
-    cluster 7
+    cluster 9
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -5956,7 +5956,7 @@ graph
     ppsexuallyexplicit 0.16234052
     ppprofanity 0.876051
     ppinflammatory 0.30883044
-    sentiment -0.4767
+    sentiment -1
     cluster 2
     leftright "FALSE"
     AntiSJW 0
@@ -6006,7 +6006,7 @@ graph
     ppprofanity 0.021405859
     ppinflammatory 0.07882122
     sentiment 0
-    cluster 8
+    cluster 7
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -6054,8 +6054,8 @@ graph
     ppsexuallyexplicit 0.09442858
     ppprofanity 0.1026754
     ppinflammatory 0.19708002
-    sentiment 0.3818
-    cluster 4
+    sentiment -1
+    cluster 1
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -6104,7 +6104,7 @@ graph
     ppprofanity 0.117091134
     ppinflammatory 0.20164144
     sentiment 0
-    cluster 8
+    cluster 7
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -6201,8 +6201,8 @@ graph
     ppsexuallyexplicit 0.07578995
     ppprofanity 0.17874476
     ppinflammatory 0.6701351
-    sentiment -0.8225
-    cluster 11
+    sentiment -1
+    cluster 10
     leftright "L"
     AntiSJW 0
     AntiTheist 0
@@ -6398,7 +6398,7 @@ graph
     ppprofanity 0.18310563
     ppinflammatory 0.13242841
     sentiment 0
-    cluster 6
+    cluster 5
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -6446,7 +6446,7 @@ graph
     ppsexuallyexplicit 0.14914706
     ppprofanity 0.29103103
     ppinflammatory 0.7929147
-    sentiment -0.6705
+    sentiment -1
     cluster 5
     leftright "FALSE"
     AntiSJW 0
@@ -6496,7 +6496,7 @@ graph
     ppprofanity 0.15135944
     ppinflammatory 0.10623681
     sentiment 0
-    cluster 4
+    cluster 1
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -6593,7 +6593,7 @@ graph
     ppsexuallyexplicit 0.15842596
     ppprofanity 0.25435257
     ppinflammatory 0.043728154
-    sentiment -0.4588
+    sentiment 0
     cluster 2
     leftright "FALSE"
     AntiSJW 0
@@ -6643,7 +6643,7 @@ graph
     ppprofanity 0.024060823
     ppinflammatory 0.0704091
     sentiment 0
-    cluster 11
+    cluster 10
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -6691,7 +6691,7 @@ graph
     ppsexuallyexplicit 0.022834303
     ppprofanity 0.01875018
     ppinflammatory 0.22991647
-    sentiment -0.3182
+    sentiment 0
     cluster 2
     leftright "FALSE"
     AntiSJW 0
@@ -6741,7 +6741,7 @@ graph
     ppprofanity 0.014357024
     ppinflammatory 0.09485698
     sentiment 0
-    cluster 4
+    cluster 1
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -6789,7 +6789,7 @@ graph
     ppsexuallyexplicit 0.06186892
     ppprofanity 0.1104265
     ppinflammatory 0.061597224
-    sentiment 0.7096
+    sentiment 0
     cluster 5
     leftright "L"
     AntiSJW 0
@@ -6839,7 +6839,7 @@ graph
     ppprofanity 0.02571343
     ppinflammatory 0.17807266
     sentiment 0
-    cluster 7
+    cluster 9
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -6887,8 +6887,8 @@ graph
     ppsexuallyexplicit 0.04399831
     ppprofanity 0.13546869
     ppinflammatory 0.49104375
-    sentiment -0.6486
-    cluster 6
+    sentiment -1
+    cluster 3
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -6985,8 +6985,8 @@ graph
     ppsexuallyexplicit 0.07157376
     ppprofanity 0.09923097
     ppinflammatory 0.19256897
-    sentiment -0.34
-    cluster 8
+    sentiment -1
+    cluster 7
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -7035,7 +7035,7 @@ graph
     ppprofanity 0.18818997
     ppinflammatory 0.13623318
     sentiment 0
-    cluster 11
+    cluster 10
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -7132,8 +7132,8 @@ graph
     ppsexuallyexplicit 0.04873395
     ppprofanity 0.059603058
     ppinflammatory 0.27428514
-    sentiment 0.296
-    cluster 3
+    sentiment 1
+    cluster 1
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -7231,7 +7231,7 @@ graph
     ppprofanity 0.05129112
     ppinflammatory 0.091696076
     sentiment 0
-    cluster 8
+    cluster 7
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -7280,7 +7280,7 @@ graph
     ppprofanity 0.096626684
     ppinflammatory 0.09510492
     sentiment 0
-    cluster 7
+    cluster 6
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -7329,7 +7329,7 @@ graph
     ppprofanity 0.035447303
     ppinflammatory 0.113308474
     sentiment 0
-    cluster 11
+    cluster 10
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -7378,7 +7378,7 @@ graph
     ppprofanity 0.046805013
     ppinflammatory 0.43704852
     sentiment 0
-    cluster 7
+    cluster 9
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -7426,8 +7426,8 @@ graph
     ppsexuallyexplicit 0.20002313
     ppprofanity 0.25751704
     ppinflammatory 0.30617192
-    sentiment 0.0516
-    cluster 4
+    sentiment -1
+    cluster 1
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -7475,8 +7475,8 @@ graph
     ppsexuallyexplicit 0.107202716
     ppprofanity 0.2586923
     ppinflammatory 0.00019538576
-    sentiment -0.1513
-    cluster 8
+    sentiment 0
+    cluster 7
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -7525,7 +7525,7 @@ graph
     ppprofanity 0.19031678
     ppinflammatory 0.109487005
     sentiment 0
-    cluster 7
+    cluster 6
     leftright "L"
     AntiSJW 0
     AntiTheist 0
@@ -7573,8 +7573,8 @@ graph
     ppsexuallyexplicit 0.035278715
     ppprofanity 0.021354001
     ppinflammatory 0.19424537
-    sentiment 0.4767
-    cluster 7
+    sentiment 0
+    cluster 6
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -7671,8 +7671,8 @@ graph
     ppsexuallyexplicit 0.52534086
     ppprofanity 0.35690895
     ppinflammatory 0.06415219
-    sentiment 0
-    cluster 4
+    sentiment -1
+    cluster 3
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -7721,7 +7721,7 @@ graph
     ppprofanity 0.025892245
     ppinflammatory 0.14626737
     sentiment 0
-    cluster 8
+    cluster 7
     leftright "C"
     AntiSJW 0
     AntiTheist 0
@@ -7770,7 +7770,7 @@ graph
     ppprofanity 0.19201113
     ppinflammatory 0.026050627
     sentiment 0
-    cluster 5
+    cluster 7
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -7819,7 +7819,7 @@ graph
     ppprofanity 0.07912972
     ppinflammatory 0.07347559
     sentiment 0
-    cluster 9
+    cluster 8
     leftright "L"
     AntiSJW 0
     AntiTheist 0
@@ -7867,8 +7867,8 @@ graph
     ppsexuallyexplicit 0.47033742
     ppprofanity 0.6529673
     ppinflammatory 0.16958754
-    sentiment 0
-    cluster 4
+    sentiment -1
+    cluster 1
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -8015,7 +8015,7 @@ graph
     ppprofanity 0.2856487
     ppinflammatory 0.04650974
     sentiment 0
-    cluster 4
+    cluster 3
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -8063,8 +8063,8 @@ graph
     ppsexuallyexplicit 0.09760134
     ppprofanity 0.13669136
     ppinflammatory 3.0870335e-05
-    sentiment 0
-    cluster 4
+    sentiment -1
+    cluster 1
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -8113,7 +8113,7 @@ graph
     ppprofanity 0.14923613
     ppinflammatory 0.054794118
     sentiment 0
-    cluster 3
+    cluster 1
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -8162,7 +8162,7 @@ graph
     ppprofanity 0.56107223
     ppinflammatory 0.46156704
     sentiment 0
-    cluster 11
+    cluster 10
     leftright "C"
     AntiSJW 1
     AntiTheist 0
@@ -8210,8 +8210,8 @@ graph
     ppsexuallyexplicit 0.18258423
     ppprofanity 0.3589387
     ppinflammatory 0.90887594
-    sentiment 0.25
-    cluster 11
+    sentiment -1
+    cluster 10
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -8260,7 +8260,7 @@ graph
     ppprofanity 0.69309914
     ppinflammatory 0.15311971
     sentiment 0
-    cluster 8
+    cluster 7
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -8309,7 +8309,7 @@ graph
     ppprofanity 0.16848175
     ppinflammatory 0.02426719
     sentiment 0
-    cluster 3
+    cluster 1
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -8357,8 +8357,8 @@ graph
     ppsexuallyexplicit 0.090795144
     ppprofanity 0.056069892
     ppinflammatory 0.42422593
-    sentiment -0.5423
-    cluster 1
+    sentiment -1
+    cluster 4
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -8406,8 +8406,8 @@ graph
     ppsexuallyexplicit 0.05820032
     ppprofanity 0.09553167
     ppinflammatory 0.25472984
-    sentiment 0
-    cluster 3
+    sentiment -1
+    cluster 1
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -8455,7 +8455,7 @@ graph
     ppsexuallyexplicit 0.8478105
     ppprofanity 0.3920464
     ppinflammatory 0.43875375
-    sentiment 0
+    sentiment -1
     cluster 5
     leftright "FALSE"
     AntiSJW 0
@@ -8505,7 +8505,7 @@ graph
     ppprofanity 0.08240821
     ppinflammatory 0.02444919
     sentiment 0
-    cluster 8
+    cluster 7
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -8553,8 +8553,8 @@ graph
     ppsexuallyexplicit 0.16114464
     ppprofanity 0.13308443
     ppinflammatory 0.1273018
-    sentiment 0.5267
-    cluster 7
+    sentiment 1
+    cluster 9
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -8603,7 +8603,7 @@ graph
     ppprofanity 0.08337701
     ppinflammatory 0.0831125
     sentiment 0
-    cluster 8
+    cluster 7
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -8651,8 +8651,8 @@ graph
     ppsexuallyexplicit 0.07860116
     ppprofanity 0.2314432
     ppinflammatory 0.3033121
-    sentiment -0.7351
-    cluster 3
+    sentiment -1
+    cluster 1
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -8700,8 +8700,8 @@ graph
     ppsexuallyexplicit 0.21923783
     ppprofanity 0.2971308
     ppinflammatory 0.45339203
-    sentiment -0.5859
-    cluster 3
+    sentiment 0
+    cluster 1
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -8749,8 +8749,8 @@ graph
     ppsexuallyexplicit 0.07368114
     ppprofanity 0.2527981
     ppinflammatory 0.5720012
-    sentiment -0.6908
-    cluster 4
+    sentiment 0
+    cluster 3
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -8848,7 +8848,7 @@ graph
     ppprofanity 0.35243627
     ppinflammatory 0.15143941
     sentiment 0
-    cluster 7
+    cluster 6
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -8896,8 +8896,8 @@ graph
     ppsexuallyexplicit 0.9000954
     ppprofanity 0.5138476
     ppinflammatory 0.64822423
-    sentiment 0
-    cluster 3
+    sentiment -1
+    cluster 1
     leftright "L"
     AntiSJW 0
     AntiTheist 0
@@ -8946,7 +8946,7 @@ graph
     ppprofanity 0.14706047
     ppinflammatory 0.09093567
     sentiment 0
-    cluster 11
+    cluster 10
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -8995,7 +8995,7 @@ graph
     ppprofanity 0.07120924
     ppinflammatory 0.17690977
     sentiment 0
-    cluster 8
+    cluster 7
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -9044,7 +9044,7 @@ graph
     ppprofanity 0.13395831
     ppinflammatory 0.4297345
     sentiment 0
-    cluster 11
+    cluster 10
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -9093,7 +9093,7 @@ graph
     ppprofanity 0.31209266
     ppinflammatory 0.04502504
     sentiment 0
-    cluster 4
+    cluster 1
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -9142,7 +9142,7 @@ graph
     ppprofanity 0.034092337
     ppinflammatory 0.13214335
     sentiment 0
-    cluster 8
+    cluster 7
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -9191,7 +9191,7 @@ graph
     ppprofanity 0.03856006
     ppinflammatory 0.27208182
     sentiment 0
-    cluster 7
+    cluster 6
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -9240,7 +9240,7 @@ graph
     ppprofanity 0.096936524
     ppinflammatory 0.53648263
     sentiment 0
-    cluster 11
+    cluster 10
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -9288,8 +9288,8 @@ graph
     ppsexuallyexplicit 0.049316112
     ppprofanity 0.09166568
     ppinflammatory 0.34911555
-    sentiment -0.1531
-    cluster 6
+    sentiment 0
+    cluster 3
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -9435,8 +9435,8 @@ graph
     ppsexuallyexplicit 0.12487018
     ppprofanity 0.14040183
     ppinflammatory 0.21727356
-    sentiment -0.0772
-    cluster 1
+    sentiment 0
+    cluster 4
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -9484,8 +9484,8 @@ graph
     ppsexuallyexplicit 0.0706089
     ppprofanity 0.059528142
     ppinflammatory 0.17516989
-    sentiment 0.0516
-    cluster 7
+    sentiment 0
+    cluster 6
     leftright "C"
     AntiSJW 0
     AntiTheist 0
@@ -9533,8 +9533,8 @@ graph
     ppsexuallyexplicit 0.089421645
     ppprofanity 0.02236161
     ppinflammatory 0.17333429
-    sentiment -0.5267
-    cluster 8
+    sentiment 0
+    cluster 7
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -9583,7 +9583,7 @@ graph
     ppprofanity 0.14183079
     ppinflammatory 0.038758032
     sentiment 0
-    cluster 7
+    cluster 9
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -9631,8 +9631,8 @@ graph
     ppsexuallyexplicit 0.034191508
     ppprofanity 0.024619063
     ppinflammatory 0.17739935
-    sentiment 0
-    cluster 3
+    sentiment 1
+    cluster 1
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -9681,7 +9681,7 @@ graph
     ppprofanity 0.07980164
     ppinflammatory 0.21149686
     sentiment 0
-    cluster 1
+    cluster 4
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -9779,7 +9779,7 @@ graph
     ppprofanity 0.06334498
     ppinflammatory 0.22897
     sentiment 0
-    cluster 4
+    cluster 3
     leftright "L"
     AntiSJW 0
     AntiTheist 0
@@ -9877,7 +9877,7 @@ graph
     ppprofanity 0.031477474
     ppinflammatory 0.11596046
     sentiment 0
-    cluster 11
+    cluster 10
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -9925,8 +9925,8 @@ graph
     ppsexuallyexplicit 0.19989759
     ppprofanity 0.15483582
     ppinflammatory 0.24038683
-    sentiment -0.2732
-    cluster 11
+    sentiment -1
+    cluster 10
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -9974,8 +9974,8 @@ graph
     ppsexuallyexplicit 0.039322864
     ppprofanity 0.033559624
     ppinflammatory 0.27920207
-    sentiment -0.5267
-    cluster 6
+    sentiment 0
+    cluster 5
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -10024,7 +10024,7 @@ graph
     ppprofanity 0.14903483
     ppinflammatory 0.15399088
     sentiment 0
-    cluster 7
+    cluster 9
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -10073,7 +10073,7 @@ graph
     ppprofanity 0.051975343
     ppinflammatory 0.1475088
     sentiment 0
-    cluster 11
+    cluster 10
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -10121,8 +10121,8 @@ graph
     ppsexuallyexplicit 0.14544985
     ppprofanity 0.067857355
     ppinflammatory 0.37339824
-    sentiment 0.296
-    cluster 11
+    sentiment 1
+    cluster 10
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -10170,7 +10170,7 @@ graph
     ppsexuallyexplicit 0.028761381
     ppprofanity 0.047789197
     ppinflammatory 0.33306876
-    sentiment -0.4767
+    sentiment -1
     cluster 2
     leftright "FALSE"
     AntiSJW 0
@@ -10219,8 +10219,8 @@ graph
     ppsexuallyexplicit 0.12612107
     ppprofanity 0.08803996
     ppinflammatory 0.47580507
-    sentiment -0.5267
-    cluster 3
+    sentiment 0
+    cluster 1
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -10268,7 +10268,7 @@ graph
     ppsexuallyexplicit 0.6901869
     ppprofanity 0.69252884
     ppinflammatory 0.85079104
-    sentiment 0
+    sentiment -1
     cluster 2
     leftright "FALSE"
     AntiSJW 0
@@ -10318,7 +10318,7 @@ graph
     ppprofanity 0.17793235
     ppinflammatory 0.03619196
     sentiment 0
-    cluster 6
+    cluster 3
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -10366,8 +10366,8 @@ graph
     ppsexuallyexplicit 0.15283401
     ppprofanity 0.31401145
     ppinflammatory 0.72427535
-    sentiment -0.8225
-    cluster 11
+    sentiment -1
+    cluster 10
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -10415,7 +10415,7 @@ graph
     ppsexuallyexplicit 0.42000946
     ppprofanity 0.43956652
     ppinflammatory 0.17502813
-    sentiment -0.4576
+    sentiment -1
     cluster 4
     leftright "FALSE"
     AntiSJW 0
@@ -10465,7 +10465,7 @@ graph
     ppprofanity 0.14868061
     ppinflammatory 0.09609797
     sentiment 0
-    cluster 7
+    cluster 6
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -10513,8 +10513,8 @@ graph
     ppsexuallyexplicit 0.17053014
     ppprofanity 0.20513111
     ppinflammatory 0.17092529
-    sentiment 0.5267
-    cluster 7
+    sentiment 1
+    cluster 9
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -10562,8 +10562,8 @@ graph
     ppsexuallyexplicit 0.08825487
     ppprofanity 0.18166858
     ppinflammatory 0.22887562
-    sentiment -0.5994
-    cluster 4
+    sentiment -1
+    cluster 1
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -10611,8 +10611,8 @@ graph
     ppsexuallyexplicit 0.20359579
     ppprofanity 0.92395467
     ppinflammatory 0.17386591
-    sentiment 0.5994
-    cluster 4
+    sentiment -1
+    cluster 1
     leftright "L"
     AntiSJW 0
     AntiTheist 0
@@ -10660,8 +10660,8 @@ graph
     ppsexuallyexplicit 0.12544306
     ppprofanity 0.09891157
     ppinflammatory 0.39904755
-    sentiment 0.3612
-    cluster 3
+    sentiment 0
+    cluster 1
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -10709,8 +10709,8 @@ graph
     ppsexuallyexplicit 0.3275913
     ppprofanity 0.25389087
     ppinflammatory 0.2941986
-    sentiment -0.6486
-    cluster 5
+    sentiment -1
+    cluster 1
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
@@ -10758,7 +10758,7 @@ graph
     ppsexuallyexplicit 0.31711683
     ppprofanity 0.3485289
     ppinflammatory 0.037551794
-    sentiment -0.743
+    sentiment -1
     cluster 5
     leftright "FALSE"
     AntiSJW 0
@@ -10807,7 +10807,7 @@ graph
     ppsexuallyexplicit 0.5781327
     ppprofanity 0.7422003
     ppinflammatory 0.7279288
-    sentiment -0.7003
+    sentiment -1
     cluster 5
     leftright "FALSE"
     AntiSJW 0
@@ -10856,7 +10856,7 @@ graph
     ppsexuallyexplicit 0.047548417
     ppprofanity 0.03651245
     ppinflammatory 0.18344323
-    sentiment 0.4404
+    sentiment 0
     cluster 5
     leftright "R"
     AntiSJW 0
@@ -10905,7 +10905,7 @@ graph
     ppsexuallyexplicit 0.04112281
     ppprofanity 0.104338676
     ppinflammatory 0.26958743
-    sentiment -0.5267
+    sentiment -1
     cluster 2
     leftright "FALSE"
     AntiSJW 0
@@ -10954,7 +10954,7 @@ graph
     ppsexuallyexplicit 0.1250993
     ppprofanity 0.15589997
     ppinflammatory 0.23477711
-    sentiment -0.128
+    sentiment 0
     cluster 2
     leftright "FALSE"
     AntiSJW 0
@@ -11004,7 +11004,7 @@ graph
     ppprofanity 0.043861236
     ppinflammatory 0.14718962
     sentiment 0
-    cluster 4
+    cluster 1
     leftright "L"
     AntiSJW 0
     AntiTheist 0
@@ -11052,7 +11052,7 @@ graph
     ppsexuallyexplicit 0.08479101
     ppprofanity 0.1273506
     ppinflammatory 0.40666407
-    sentiment 0
+    sentiment -1
     cluster 9
     leftright "L"
     AntiSJW 0
@@ -11150,7 +11150,7 @@ graph
     ppsexuallyexplicit 0.07286912
     ppprofanity 0.08846352
     ppinflammatory 0.07827903
-    sentiment 0
+    sentiment -1
     cluster 8
     leftright "FALSE"
     AntiSJW 0
@@ -11199,8 +11199,8 @@ graph
     ppsexuallyexplicit 0.41339546
     ppprofanity 0.8868394
     ppinflammatory 0.23998256
-    sentiment -0.7717
-    cluster 3
+    sentiment 0
+    cluster 1
     leftright "FALSE"
     AntiSJW 0
     AntiTheist 0

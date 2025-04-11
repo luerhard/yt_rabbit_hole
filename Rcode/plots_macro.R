@@ -55,6 +55,8 @@ plotcol <- function(df, var, grouping='category', colpal=palette4){
 
 ## PLOTTING ----
 
+### network structural characteristics ----
+
 ggplot(df, aes(x=category, y=size, label=name)) +
   #geom_boxplot(fill=palette4, alpha=.7) +
   stat_summary(fun = mean, geom = "bar", fill=palette4, color='black', lwd=.25) + 
@@ -130,8 +132,7 @@ ggplot(df, aes(x=size, y=modularity, shape=category, color=category)) +
 ggsave("../../plots/macro_clusters.png", height=3.5, width=2.5, dpi=300)
 
 
-
-
+### plots for macro section ----
 
 levels(df$category)[levels(df$category)=="Non-controversial"] <- "NC"
 
@@ -186,6 +187,7 @@ library("ggConvexHull")
 (p1 + p2) / (p3 + p4) + plot_annotation(tag_levels = 'A') & theme(plot.tag.position  = c(.98, .98), plot.tag = element_text(face="bold"))
 ggsave("../../plots/macro.png", height=5, width=4.6, dpi=300)
 
+### sentiment ----
 
 
 

@@ -29,7 +29,9 @@ clean_network <- function(g){
 
 add_sentiment <- function(g,i){
   perspective_data <- read.csv(paste0("../data/interim/perspective_data/",substr(i,1,nchar(i)-4),".csv"))
-  title_sentiments <- read.csv(paste0("../data/interim/title_sentiments/",substr(i,1,nchar(i)-4),".csv"))
+  #title_sentiments <- read.csv(paste0("../data/interim/title_sentiments/",substr(i,1,nchar(i)-4),".csv"))
+  title_sentiments <- read.csv(paste0('../data/interim/sentiments/',substr(i,1,nchar(i)-4),".csv"))   # updated sentiment analysis March 12, 2025
+  title_sentiments$sentiment <- recode(title_sentiments$sentiment_title_roberta_label, "positive" = 1, "neutral" = 0, "negative" = -1)
   
   for(node in V(g)){
     V(g)$pp_insult[node] <- perspective_data$PERSPECTIVE_INSULT[perspective_data$video_id == V(g)$label[node]]

@@ -1,4 +1,4 @@
-Creator "igraph version 0.10.10-81-g857a12506 Fri Feb  7 14:12:01 2025"
+Creator "igraph version 0.10.13-126-g31c4e6ffc Wed Mar 12 12:34:13 2025"
 Version 1
 graph
 [
@@ -27,8 +27,9 @@ graph
     ppsexuallyexplicit 0.1038395
     ppprofanity 0.16092844
     ppinflammatory 0.26840475
-    sentiment 0.5574
+    sentiment 1
     cluster 1
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -50,7 +51,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -76,8 +76,9 @@ graph
     ppsexuallyexplicit 0.058330324
     ppprofanity 0.029610608
     ppinflammatory 0.1361977
-    sentiment 0.34
+    sentiment 0
     cluster 1
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -99,7 +100,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -125,8 +125,9 @@ graph
     ppsexuallyexplicit 0.06849837
     ppprofanity 0.16908573
     ppinflammatory 0.41880056
-    sentiment -0.5935
+    sentiment 1
     cluster 1
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -148,7 +149,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -176,6 +176,7 @@ graph
     ppinflammatory 0.15455133
     sentiment 0
     cluster 1
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -197,7 +198,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -225,6 +225,7 @@ graph
     ppinflammatory 0.2076317
     sentiment 0
     cluster 2
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -246,7 +247,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -274,6 +274,7 @@ graph
     ppinflammatory 0.08465271
     sentiment 0
     cluster 1
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -295,7 +296,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -323,6 +323,7 @@ graph
     ppinflammatory 0.18108687
     sentiment 0
     cluster 1
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -344,7 +345,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -372,6 +372,7 @@ graph
     ppinflammatory 0.07802154
     sentiment 0
     cluster 3
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -393,7 +394,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -419,8 +419,9 @@ graph
     ppsexuallyexplicit 0.15490198
     ppprofanity 0.3143592
     ppinflammatory 0.3025611
-    sentiment 0.3612
+    sentiment 0
     cluster 1
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -442,7 +443,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -469,7 +469,8 @@ graph
     ppprofanity 0.057381842
     ppinflammatory 0.050096698
     sentiment 0
-    cluster 1
+    cluster 4
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -491,7 +492,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -517,8 +517,9 @@ graph
     ppsexuallyexplicit 0.2316038
     ppprofanity 0.2439342
     ppinflammatory 0.63008344
-    sentiment 0.3612
+    sentiment 0
     cluster 1
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -540,7 +541,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -566,8 +566,9 @@ graph
     ppsexuallyexplicit 0.1488047
     ppprofanity 0.08892935
     ppinflammatory 0.14804222
-    sentiment 0.8074
+    sentiment 0
     cluster 3
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -589,7 +590,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -615,8 +615,9 @@ graph
     ppsexuallyexplicit 0.042363815
     ppprofanity 0.041725364
     ppinflammatory 0.1878899
-    sentiment 0.0772
+    sentiment 0
     cluster 1
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -638,7 +639,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -664,8 +664,9 @@ graph
     ppsexuallyexplicit 0.035435796
     ppprofanity 0.03274078
     ppinflammatory 0.19515963
-    sentiment -0.5267
-    cluster 3
+    sentiment -1
+    cluster 5
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -687,7 +688,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -713,8 +713,9 @@ graph
     ppsexuallyexplicit 0.160117
     ppprofanity 0.12175458
     ppinflammatory 0.13441937
-    sentiment -0.296
+    sentiment 0
     cluster 3
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -736,7 +737,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -764,6 +764,7 @@ graph
     ppinflammatory 0.17700247
     sentiment 0
     cluster 3
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -785,7 +786,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -811,8 +811,9 @@ graph
     ppsexuallyexplicit 0.026165629
     ppprofanity 0.01839617
     ppinflammatory 0.061947126
-    sentiment 0.8271
+    sentiment 1
     cluster 1
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -834,7 +835,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -860,8 +860,9 @@ graph
     ppsexuallyexplicit 0.10641865
     ppprofanity 0.08542759
     ppinflammatory 0.4401112
-    sentiment 0.3612
+    sentiment 1
     cluster 1
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -883,7 +884,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -909,8 +909,9 @@ graph
     ppsexuallyexplicit 0.16588464
     ppprofanity 0.1657148
     ppinflammatory 0.10555135
-    sentiment -0.128
+    sentiment 0
     cluster 1
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -932,7 +933,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -958,8 +958,9 @@ graph
     ppsexuallyexplicit 0.06277731
     ppprofanity 0.28351316
     ppinflammatory 0.32657418
-    sentiment -0.0772
-    cluster 3
+    sentiment -1
+    cluster 5
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -981,7 +982,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -1007,8 +1007,9 @@ graph
     ppsexuallyexplicit 0.1699979
     ppprofanity 0.10679011
     ppinflammatory 0.107526876
-    sentiment 0.5994
+    sentiment 0
     cluster 3
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -1030,7 +1031,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -1056,8 +1056,9 @@ graph
     ppsexuallyexplicit 0.11659602
     ppprofanity 0.11055257
     ppinflammatory 0.20824075
-    sentiment -0.1531
+    sentiment -1
     cluster 1
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -1079,7 +1080,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -1105,8 +1105,9 @@ graph
     ppsexuallyexplicit 0.18773948
     ppprofanity 0.43093905
     ppinflammatory 0.1911223
-    sentiment 0
+    sentiment 1
     cluster 1
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -1128,7 +1129,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -1154,8 +1154,9 @@ graph
     ppsexuallyexplicit 0.14975353
     ppprofanity 0.054415572
     ppinflammatory 0.20981634
-    sentiment -0.0258
-    cluster 1
+    sentiment 0
+    cluster 5
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -1177,7 +1178,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -1203,8 +1203,9 @@ graph
     ppsexuallyexplicit 0.07182902
     ppprofanity 0.04697626
     ppinflammatory 0.3482584
-    sentiment 0.4767
-    cluster 3
+    sentiment 0
+    cluster 5
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -1226,7 +1227,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -1252,8 +1252,9 @@ graph
     ppsexuallyexplicit 0.099950716
     ppprofanity 0.14586069
     ppinflammatory 0.18835017
-    sentiment 0.4023
+    sentiment 0
     cluster 1
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -1275,7 +1276,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -1301,8 +1301,9 @@ graph
     ppsexuallyexplicit 0.054268062
     ppprofanity 0.026091337
     ppinflammatory 0.62909275
-    sentiment 0.128
+    sentiment 0
     cluster 1
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -1324,7 +1325,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -1350,8 +1350,9 @@ graph
     ppsexuallyexplicit 0.06131371
     ppprofanity 0.069927216
     ppinflammatory 0.19102764
-    sentiment 0.2023
-    cluster 4
+    sentiment 0
+    cluster 6
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -1373,7 +1374,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -1399,8 +1399,9 @@ graph
     ppsexuallyexplicit 0.20862882
     ppprofanity 0.14109182
     ppinflammatory 0.19645746
-    sentiment 0.1531
-    cluster 3
+    sentiment 1
+    cluster 5
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -1422,7 +1423,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -1448,8 +1448,9 @@ graph
     ppsexuallyexplicit 0.089127995
     ppprofanity 0.074318476
     ppinflammatory 0.19759199
-    sentiment 0
+    sentiment 1
     cluster 1
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -1471,7 +1472,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -1498,7 +1498,8 @@ graph
     ppprofanity 0.06733444
     ppinflammatory 0.44402617
     sentiment 0
-    cluster 3
+    cluster 5
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -1520,7 +1521,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -1546,8 +1546,9 @@ graph
     ppsexuallyexplicit 0.3643493
     ppprofanity 0.26807463
     ppinflammatory 0.2984555
-    sentiment 0.3182
+    sentiment 0
     cluster 3
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -1569,7 +1570,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -1595,8 +1595,9 @@ graph
     ppsexuallyexplicit 0.07269124
     ppprofanity 0.1443949
     ppinflammatory 0.07550094
-    sentiment 0
+    sentiment -1
     cluster 1
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -1618,7 +1619,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -1644,8 +1644,9 @@ graph
     ppsexuallyexplicit 0.08846874
     ppprofanity 0.1872
     ppinflammatory 0.00087552454
-    sentiment 0.6369
-    cluster 3
+    sentiment 0
+    cluster 7
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -1667,7 +1668,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -1693,8 +1693,9 @@ graph
     ppsexuallyexplicit 0.14475965
     ppprofanity 0.18280306
     ppinflammatory 0.25532436
-    sentiment -0.0516
+    sentiment 0
     cluster 1
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -1716,7 +1717,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -1742,8 +1742,9 @@ graph
     ppsexuallyexplicit 0.16603498
     ppprofanity 0.11575904
     ppinflammatory 0.009839342
-    sentiment 0.5994
+    sentiment 0
     cluster 3
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -1765,7 +1766,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -1791,8 +1791,9 @@ graph
     ppsexuallyexplicit 0.034666207
     ppprofanity 0.027676389
     ppinflammatory 0.3767119
-    sentiment -0.6096
-    cluster 4
+    sentiment 0
+    cluster 8
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -1814,7 +1815,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -1840,8 +1840,9 @@ graph
     ppsexuallyexplicit 0.13359544
     ppprofanity 0.18503389
     ppinflammatory 0.2856825
-    sentiment 0.3612
+    sentiment 0
     cluster 1
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -1863,7 +1864,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -1889,8 +1889,9 @@ graph
     ppsexuallyexplicit 0.18852042
     ppprofanity 0.16396044
     ppinflammatory 0.14959781
-    sentiment -0.128
-    cluster 4
+    sentiment 0
+    cluster 8
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -1912,7 +1913,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -1939,7 +1939,8 @@ graph
     ppprofanity 0.122516446
     ppinflammatory 0.13277718
     sentiment 0
-    cluster 1
+    cluster 4
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -1961,7 +1962,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -1987,8 +1987,9 @@ graph
     ppsexuallyexplicit 0.24609011
     ppprofanity 0.17720057
     ppinflammatory 0.14878477
-    sentiment -0.298
-    cluster 4
+    sentiment -1
+    cluster 8
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -2010,7 +2011,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -2037,7 +2037,8 @@ graph
     ppprofanity 0.028939262
     ppinflammatory 0.12605248
     sentiment 0
-    cluster 5
+    cluster 6
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -2059,7 +2060,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -2085,8 +2085,9 @@ graph
     ppsexuallyexplicit 0.32147488
     ppprofanity 0.14041737
     ppinflammatory 0.35998106
-    sentiment -0.3818
+    sentiment -1
     cluster 1
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -2108,7 +2109,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -2134,8 +2134,9 @@ graph
     ppsexuallyexplicit 0.09750446
     ppprofanity 0.06882512
     ppinflammatory 0.17633753
-    sentiment 0
-    cluster 5
+    sentiment 1
+    cluster 6
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -2157,7 +2158,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -2183,8 +2183,9 @@ graph
     ppsexuallyexplicit 0.03342255
     ppprofanity 0.039709955
     ppinflammatory 0.21918826
-    sentiment 0
+    sentiment 1
     cluster 1
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -2206,7 +2207,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -2234,6 +2234,7 @@ graph
     ppinflammatory 0.15628542
     sentiment 0
     cluster 4
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -2255,7 +2256,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -2283,6 +2283,7 @@ graph
     ppinflammatory 0.27854472
     sentiment 0
     cluster 4
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -2304,7 +2305,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -2330,8 +2330,9 @@ graph
     ppsexuallyexplicit 0.1541966
     ppprofanity 0.11886935
     ppinflammatory 0.22106862
-    sentiment -0.8074
+    sentiment 0
     cluster 1
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -2353,7 +2354,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -2379,8 +2379,9 @@ graph
     ppsexuallyexplicit 0.0741732
     ppprofanity 0.0833282
     ppinflammatory 0.15647428
-    sentiment -0.128
-    cluster 4
+    sentiment 0
+    cluster 8
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -2402,7 +2403,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -2428,8 +2428,9 @@ graph
     ppsexuallyexplicit 0.1266667
     ppprofanity 0.15453975
     ppinflammatory 0.22248869
-    sentiment -0.3818
+    sentiment 0
     cluster 1
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -2451,7 +2452,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -2477,8 +2477,9 @@ graph
     ppsexuallyexplicit 0.34823126
     ppprofanity 0.3847268
     ppinflammatory 0.13632725
-    sentiment 0.1779
+    sentiment 1
     cluster 1
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -2500,7 +2501,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -2526,8 +2526,9 @@ graph
     ppsexuallyexplicit 0.09109692
     ppprofanity 0.16805494
     ppinflammatory 0.119274884
-    sentiment 0.2023
-    cluster 2
+    sentiment 1
+    cluster 8
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -2549,7 +2550,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -2575,8 +2575,9 @@ graph
     ppsexuallyexplicit 0.046656415
     ppprofanity 0.039249927
     ppinflammatory 0.09521318
-    sentiment 0.6705
+    sentiment 1
     cluster 1
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -2598,7 +2599,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -2626,6 +2626,7 @@ graph
     ppinflammatory 0.27732792
     sentiment 0
     cluster 1
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -2647,7 +2648,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -2673,8 +2673,9 @@ graph
     ppsexuallyexplicit 0.08207168
     ppprofanity 0.08854686
     ppinflammatory 0.092415944
-    sentiment 0.2023
+    sentiment 0
     cluster 1
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -2696,7 +2697,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -2722,8 +2722,9 @@ graph
     ppsexuallyexplicit 0.21451455
     ppprofanity 0.29392317
     ppinflammatory 0.3946727
-    sentiment 0.3612
+    sentiment 0
     cluster 1
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -2745,7 +2746,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -2773,6 +2773,7 @@ graph
     ppinflammatory 0.211594
     sentiment 0
     cluster 3
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -2794,7 +2795,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -2820,8 +2820,9 @@ graph
     ppsexuallyexplicit 0.15808608
     ppprofanity 0.1756521
     ppinflammatory 0.057979725
-    sentiment -0.128
-    cluster 2
+    sentiment 0
+    cluster 8
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -2843,7 +2844,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -2869,8 +2869,9 @@ graph
     ppsexuallyexplicit 0.0365197
     ppprofanity 0.03496508
     ppinflammatory 0.1809654
-    sentiment -0.1531
+    sentiment 0
     cluster 1
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -2892,7 +2893,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -2920,6 +2920,7 @@ graph
     ppinflammatory 0.370198
     sentiment 0
     cluster 1
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -2941,7 +2942,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -2967,8 +2967,9 @@ graph
     ppsexuallyexplicit 0.08693762
     ppprofanity 0.11969397
     ppinflammatory 0.17309201
-    sentiment 0.3612
+    sentiment 1
     cluster 1
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -2990,7 +2991,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -3017,7 +3017,8 @@ graph
     ppprofanity 0.111366965
     ppinflammatory 0.27886936
     sentiment 0
-    cluster 4
+    cluster 2
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -3039,7 +3040,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -3065,8 +3065,9 @@ graph
     ppsexuallyexplicit 0.05640636
     ppprofanity 0.09468203
     ppinflammatory 0.088723965
-    sentiment -0.3412
-    cluster 4
+    sentiment -1
+    cluster 8
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -3088,7 +3089,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -3115,7 +3115,8 @@ graph
     ppprofanity 0.012322297
     ppinflammatory 0.15554701
     sentiment 0
-    cluster 5
+    cluster 6
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -3137,7 +3138,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -3163,8 +3163,9 @@ graph
     ppsexuallyexplicit 0.08147135
     ppprofanity 0.08167954
     ppinflammatory 0.019181397
-    sentiment 0.5423
+    sentiment 0
     cluster 3
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -3186,7 +3187,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -3212,8 +3212,9 @@ graph
     ppsexuallyexplicit 0.14647321
     ppprofanity 0.118795864
     ppinflammatory 0.1871802
-    sentiment -0.3612
+    sentiment 0
     cluster 1
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -3235,7 +3236,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -3261,8 +3261,9 @@ graph
     ppsexuallyexplicit 0.041524094
     ppprofanity 0.03285303
     ppinflammatory 0.37287915
-    sentiment 0.6369
-    cluster 5
+    sentiment 1
+    cluster 6
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -3284,7 +3285,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -3310,8 +3310,9 @@ graph
     ppsexuallyexplicit 0.097941615
     ppprofanity 0.106757745
     ppinflammatory 0.13598497
-    sentiment 0.765
+    sentiment 1
     cluster 1
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -3333,7 +3334,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -3359,8 +3359,9 @@ graph
     ppsexuallyexplicit 0.14301951
     ppprofanity 0.09946987
     ppinflammatory 0.09002062
-    sentiment 0.6369
+    sentiment 1
     cluster 1
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -3382,7 +3383,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -3408,8 +3408,9 @@ graph
     ppsexuallyexplicit 0.22273478
     ppprofanity 0.19376169
     ppinflammatory 0.17380537
-    sentiment -0.128
-    cluster 4
+    sentiment 0
+    cluster 8
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -3431,7 +3432,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -3457,8 +3457,9 @@ graph
     ppsexuallyexplicit 0.059559416
     ppprofanity 0.05799649
     ppinflammatory 0.11638413
-    sentiment 0.8481
-    cluster 4
+    sentiment 1
+    cluster 8
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -3480,7 +3481,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -3506,8 +3506,9 @@ graph
     ppsexuallyexplicit 0.03190765
     ppprofanity 0.025452599
     ppinflammatory 0.099464625
-    sentiment 0.2023
-    cluster 4
+    sentiment 0
+    cluster 8
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -3529,7 +3530,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -3557,6 +3557,7 @@ graph
     ppinflammatory 0.4511488
     sentiment 0
     cluster 1
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -3578,7 +3579,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -3604,8 +3604,9 @@ graph
     ppsexuallyexplicit 0.16992643
     ppprofanity 0.18223187
     ppinflammatory 0.119703434
-    sentiment -0.4767
+    sentiment 0
     cluster 2
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -3627,7 +3628,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -3653,8 +3653,9 @@ graph
     ppsexuallyexplicit 0.09205715
     ppprofanity 0.06395106
     ppinflammatory 0.18359372
-    sentiment -0.1045
-    cluster 5
+    sentiment -1
+    cluster 6
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -3676,7 +3677,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -3702,8 +3702,9 @@ graph
     ppsexuallyexplicit 0.14958045
     ppprofanity 0.17290814
     ppinflammatory 0.49538493
-    sentiment 0
-    cluster 6
+    sentiment 1
+    cluster 4
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -3725,7 +3726,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -3751,8 +3751,9 @@ graph
     ppsexuallyexplicit 0.25310847
     ppprofanity 0.20150946
     ppinflammatory 0.36268017
-    sentiment -0.1027
+    sentiment 0
     cluster 1
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -3774,7 +3775,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -3800,8 +3800,9 @@ graph
     ppsexuallyexplicit 0.13399224
     ppprofanity 0.15073505
     ppinflammatory 0.04232358
-    sentiment -0.6486
-    cluster 3
+    sentiment 0
+    cluster 2
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -3823,7 +3824,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -3849,8 +3849,9 @@ graph
     ppsexuallyexplicit 0.15049343
     ppprofanity 0.27891418
     ppinflammatory 0.3825922
-    sentiment 0
+    sentiment -1
     cluster 1
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -3872,7 +3873,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -3898,8 +3898,9 @@ graph
     ppsexuallyexplicit 0.05646684
     ppprofanity 0.053636424
     ppinflammatory 0.14950469
-    sentiment 0
+    sentiment -1
     cluster 1
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -3921,7 +3922,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -3947,8 +3947,9 @@ graph
     ppsexuallyexplicit 0.10553542
     ppprofanity 0.06882854
     ppinflammatory 0.19267534
-    sentiment -0.1779
-    cluster 4
+    sentiment 0
+    cluster 8
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -3970,7 +3971,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -3996,8 +3996,9 @@ graph
     ppsexuallyexplicit 0.025794571
     ppprofanity 0.017963987
     ppinflammatory 0.34024253
-    sentiment 0.3612
-    cluster 7
+    sentiment 0
+    cluster 2
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -4019,7 +4020,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -4045,8 +4045,9 @@ graph
     ppsexuallyexplicit 0.09269997
     ppprofanity 0.11115811
     ppinflammatory 0.31809855
-    sentiment -0.3412
-    cluster 5
+    sentiment -1
+    cluster 6
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -4068,7 +4069,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -4094,8 +4094,9 @@ graph
     ppsexuallyexplicit 0.13719685
     ppprofanity 0.16328211
     ppinflammatory 0.70798457
-    sentiment -0.4019
-    cluster 8
+    sentiment -1
+    cluster 5
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -4117,7 +4118,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -4143,8 +4143,9 @@ graph
     ppsexuallyexplicit 0.066028096
     ppprofanity 0.0548957
     ppinflammatory 0.1514462
-    sentiment 0.4019
-    cluster 9
+    sentiment 0
+    cluster 5
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -4166,7 +4167,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -4193,7 +4193,8 @@ graph
     ppprofanity 0.007673489
     ppinflammatory 0.2638682
     sentiment 0
-    cluster 5
+    cluster 6
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -4215,7 +4216,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -4241,8 +4241,9 @@ graph
     ppsexuallyexplicit 0.0741732
     ppprofanity 0.0833282
     ppinflammatory 0.15647428
-    sentiment -0.128
-    cluster 4
+    sentiment 0
+    cluster 8
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -4264,7 +4265,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -4290,8 +4290,9 @@ graph
     ppsexuallyexplicit 0.12234686
     ppprofanity 0.11527055
     ppinflammatory 0.65021473
-    sentiment -0.4019
+    sentiment 1
     cluster 2
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -4313,7 +4314,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -4339,8 +4339,9 @@ graph
     ppsexuallyexplicit 0.054269843
     ppprofanity 0.06517892
     ppinflammatory 0.07338475
-    sentiment 0.6705
+    sentiment 1
     cluster 1
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -4362,7 +4363,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -4388,8 +4388,9 @@ graph
     ppsexuallyexplicit 0.07975077
     ppprofanity 0.10248195
     ppinflammatory 0.3058341
-    sentiment -0.2944
+    sentiment 0
     cluster 1
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -4411,7 +4412,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -4437,8 +4437,9 @@ graph
     ppsexuallyexplicit 0.06279858
     ppprofanity 0.03807418
     ppinflammatory 0.19031969
-    sentiment 0.2023
-    cluster 4
+    sentiment 1
+    cluster 8
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -4460,7 +4461,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -4488,6 +4488,7 @@ graph
     ppinflammatory 0.07045352
     sentiment 0
     cluster 1
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -4509,7 +4510,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -4535,8 +4535,9 @@ graph
     ppsexuallyexplicit 0.1214199
     ppprofanity 0.06756116
     ppinflammatory 0.08839992
-    sentiment -0.3818
+    sentiment 0
     cluster 1
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -4558,7 +4559,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -4585,7 +4585,8 @@ graph
     ppprofanity 0.083753124
     ppinflammatory 0.16889942
     sentiment 0
-    cluster 6
+    cluster 4
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -4607,7 +4608,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -4634,7 +4634,8 @@ graph
     ppprofanity 0.08199665
     ppinflammatory 0.4370477
     sentiment 0
-    cluster 7
+    cluster 2
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -4656,7 +4657,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -4682,8 +4682,9 @@ graph
     ppsexuallyexplicit 0.15411974
     ppprofanity 0.064201795
     ppinflammatory 0.21067989
-    sentiment -0.3818
+    sentiment 0
     cluster 1
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -4705,7 +4706,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -4731,8 +4731,9 @@ graph
     ppsexuallyexplicit 0.052662842
     ppprofanity 0.032063648
     ppinflammatory 0.28796238
-    sentiment 0.2023
-    cluster 5
+    sentiment 1
+    cluster 6
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -4754,7 +4755,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -4780,8 +4780,9 @@ graph
     ppsexuallyexplicit 0.09872704
     ppprofanity 0.06011142
     ppinflammatory 0.20079042
-    sentiment 0
+    sentiment 1
     cluster 1
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -4803,7 +4804,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -4829,8 +4829,9 @@ graph
     ppsexuallyexplicit 0.56738317
     ppprofanity 0.4257763
     ppinflammatory 0.361875
-    sentiment 0.0772
-    cluster 4
+    sentiment 0
+    cluster 6
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -4852,7 +4853,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -4880,6 +4880,7 @@ graph
     ppinflammatory 0.6302001
     sentiment 0
     cluster 2
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -4901,7 +4902,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -4927,8 +4927,9 @@ graph
     ppsexuallyexplicit 0.026783768
     ppprofanity 0.013176562
     ppinflammatory 0.19579211
-    sentiment 0.8807
-    cluster 4
+    sentiment 1
+    cluster 8
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -4950,7 +4951,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -4977,7 +4977,8 @@ graph
     ppprofanity 0.015217865
     ppinflammatory 0.40858552
     sentiment 0
-    cluster 5
+    cluster 2
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -4999,7 +5000,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -5025,8 +5025,9 @@ graph
     ppsexuallyexplicit 0.15898277
     ppprofanity 0.12585458
     ppinflammatory 0.34298787
-    sentiment 0.0516
+    sentiment 0
     cluster 1
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -5048,7 +5049,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -5075,7 +5075,8 @@ graph
     ppprofanity 0.022664424
     ppinflammatory 0.09158687
     sentiment 0
-    cluster 5
+    cluster 6
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -5097,7 +5098,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -5123,8 +5123,9 @@ graph
     ppsexuallyexplicit 0.06954077
     ppprofanity 0.030972416
     ppinflammatory 0.3002736
-    sentiment 0.4019
+    sentiment 1
     cluster 1
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -5146,7 +5147,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -5173,7 +5173,8 @@ graph
     ppprofanity 0.14371216
     ppinflammatory 0.082514524
     sentiment 0
-    cluster 2
+    cluster 8
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -5195,7 +5196,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -5221,8 +5221,9 @@ graph
     ppsexuallyexplicit 0.15960267
     ppprofanity 0.22235718
     ppinflammatory 0.2913231
-    sentiment -0.4767
+    sentiment 0
     cluster 2
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -5244,7 +5245,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -5271,7 +5271,8 @@ graph
     ppprofanity 0.07399896
     ppinflammatory 0.16420521
     sentiment 0
-    cluster 7
+    cluster 5
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -5293,7 +5294,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -5319,8 +5319,9 @@ graph
     ppsexuallyexplicit 0.116268374
     ppprofanity 0.10584766
     ppinflammatory 0.37650582
-    sentiment 0.6486
-    cluster 7
+    sentiment 1
+    cluster 2
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -5342,7 +5343,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -5369,7 +5369,8 @@ graph
     ppprofanity 0.03892481
     ppinflammatory 0.14046824
     sentiment 0
-    cluster 7
+    cluster 1
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -5391,7 +5392,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -5418,7 +5418,8 @@ graph
     ppprofanity 0.08384325
     ppinflammatory 0.22029553
     sentiment 0
-    cluster 7
+    cluster 1
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -5440,7 +5441,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -5467,7 +5467,8 @@ graph
     ppprofanity 0.029918384
     ppinflammatory 0.3828979
     sentiment 0
-    cluster 9
+    cluster 5
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -5489,7 +5490,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -5515,8 +5515,9 @@ graph
     ppsexuallyexplicit 0.13297075
     ppprofanity 0.09682468
     ppinflammatory 0.17569366
-    sentiment 0
-    cluster 5
+    sentiment 1
+    cluster 6
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -5538,7 +5539,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -5565,7 +5565,8 @@ graph
     ppprofanity 0.01965768
     ppinflammatory 0.17630869
     sentiment 0
-    cluster 8
+    cluster 5
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -5587,7 +5588,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -5614,7 +5614,8 @@ graph
     ppprofanity 0.17755911
     ppinflammatory 0.05312392
     sentiment 0
-    cluster 3
+    cluster 7
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -5636,7 +5637,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -5662,8 +5662,9 @@ graph
     ppsexuallyexplicit 0.07346777
     ppprofanity 0.038219407
     ppinflammatory 0.48500025
-    sentiment -0.4023
-    cluster 4
+    sentiment -1
+    cluster 8
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -5685,7 +5686,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -5711,8 +5711,9 @@ graph
     ppsexuallyexplicit 0.03725712
     ppprofanity 0.056708943
     ppinflammatory 0.5943148
-    sentiment 0.3612
-    cluster 7
+    sentiment 0
+    cluster 2
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -5734,7 +5735,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -5760,8 +5760,9 @@ graph
     ppsexuallyexplicit 0.1799038
     ppprofanity 0.2139506
     ppinflammatory 0.012258048
-    sentiment 0
-    cluster 5
+    sentiment -1
+    cluster 6
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -5783,7 +5784,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -5809,8 +5809,9 @@ graph
     ppsexuallyexplicit 0.15063137
     ppprofanity 0.15688367
     ppinflammatory 0.07533386
-    sentiment -0.128
-    cluster 4
+    sentiment 0
+    cluster 8
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -5832,7 +5833,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -5859,7 +5859,8 @@ graph
     ppprofanity 0.08501611
     ppinflammatory 0.22401361
     sentiment 0
-    cluster 7
+    cluster 6
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -5881,7 +5882,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -5907,8 +5907,9 @@ graph
     ppsexuallyexplicit 0.055323392
     ppprofanity 0.09075968
     ppinflammatory 0.085369304
-    sentiment 0.1779
+    sentiment 0
     cluster 2
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -5930,7 +5931,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -5956,8 +5956,9 @@ graph
     ppsexuallyexplicit 0.031080553
     ppprofanity 0.0528771
     ppinflammatory 0.2832363
-    sentiment 0
-    cluster 5
+    sentiment -1
+    cluster 6
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -5979,7 +5980,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -6005,8 +6005,9 @@ graph
     ppsexuallyexplicit 0.09675228
     ppprofanity 0.059938446
     ppinflammatory 0.17906111
-    sentiment -0.3818
-    cluster 7
+    sentiment 0
+    cluster 1
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -6028,7 +6029,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -6055,7 +6055,8 @@ graph
     ppprofanity 0.038238835
     ppinflammatory 0.1762768
     sentiment 0
-    cluster 5
+    cluster 6
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -6077,7 +6078,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -6103,8 +6103,9 @@ graph
     ppsexuallyexplicit 0.115318626
     ppprofanity 0.10574036
     ppinflammatory 0.16109793
-    sentiment 0.3612
-    cluster 7
+    sentiment 1
+    cluster 1
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -6126,7 +6127,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -6152,8 +6152,9 @@ graph
     ppsexuallyexplicit 0.04144441
     ppprofanity 0.047323298
     ppinflammatory 0.29019877
-    sentiment 0.128
+    sentiment 1
     cluster 1
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -6175,7 +6176,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -6201,8 +6201,9 @@ graph
     ppsexuallyexplicit 0.16615114
     ppprofanity 0.119709924
     ppinflammatory 0.18194783
-    sentiment -0.4215
-    cluster 4
+    sentiment 0
+    cluster 8
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -6224,7 +6225,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -6250,8 +6250,9 @@ graph
     ppsexuallyexplicit 0.06443348
     ppprofanity 0.37380007
     ppinflammatory 0.46317223
-    sentiment -0.4215
-    cluster 5
+    sentiment -1
+    cluster 6
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -6273,7 +6274,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -6300,7 +6300,8 @@ graph
     ppprofanity 0.08945907
     ppinflammatory 0.23458599
     sentiment 0
-    cluster 2
+    cluster 4
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -6322,7 +6323,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -6348,8 +6348,9 @@ graph
     ppsexuallyexplicit 0.07257182
     ppprofanity 0.06260335
     ppinflammatory 0.26199698
-    sentiment 0.6457
+    sentiment 1
     cluster 1
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -6371,7 +6372,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -6397,8 +6397,9 @@ graph
     ppsexuallyexplicit 0.10608959
     ppprofanity 0.08977127
     ppinflammatory 0.38617298
-    sentiment 0.4019
-    cluster 4
+    sentiment 1
+    cluster 6
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -6420,7 +6421,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -6446,8 +6446,9 @@ graph
     ppsexuallyexplicit 0.11125359
     ppprofanity 0.11971421
     ppinflammatory 0.18466265
-    sentiment -0.2263
+    sentiment 1
     cluster 1
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -6469,7 +6470,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -6496,7 +6496,8 @@ graph
     ppprofanity 0.047599744
     ppinflammatory 0.3937818
     sentiment 0
-    cluster 7
+    cluster 2
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -6518,7 +6519,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -6546,6 +6546,7 @@ graph
     ppinflammatory 0.24473907
     sentiment 0
     cluster 2
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -6567,7 +6568,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -6594,7 +6594,8 @@ graph
     ppprofanity 0.023387546
     ppinflammatory 0.18667792
     sentiment 0
-    cluster 3
+    cluster 5
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -6616,7 +6617,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -6642,8 +6642,9 @@ graph
     ppsexuallyexplicit 0.07332375
     ppprofanity 0.067993976
     ppinflammatory 0.19122447
-    sentiment -0.25
-    cluster 4
+    sentiment 1
+    cluster 2
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -6665,7 +6666,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -6692,7 +6692,8 @@ graph
     ppprofanity 0.049949117
     ppinflammatory 0.15492156
     sentiment 0
-    cluster 6
+    cluster 4
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -6714,7 +6715,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -6740,8 +6740,9 @@ graph
     ppsexuallyexplicit 0.1533186
     ppprofanity 0.16740048
     ppinflammatory 0.09988025
-    sentiment 0.5106
-    cluster 4
+    sentiment 0
+    cluster 8
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -6763,7 +6764,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -6790,7 +6790,8 @@ graph
     ppprofanity 0.13292632
     ppinflammatory 0.27824333
     sentiment 0
-    cluster 5
+    cluster 6
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -6812,7 +6813,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -6839,7 +6839,8 @@ graph
     ppprofanity 0.011295669
     ppinflammatory 0.18073662
     sentiment 0
-    cluster 5
+    cluster 6
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -6861,7 +6862,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -6888,7 +6888,8 @@ graph
     ppprofanity 0.08353221
     ppinflammatory 0.18191858
     sentiment 0
-    cluster 5
+    cluster 6
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -6910,7 +6911,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -6936,8 +6936,9 @@ graph
     ppsexuallyexplicit 0.06700674
     ppprofanity 0.067837656
     ppinflammatory 0.06998927
-    sentiment 0.2023
-    cluster 7
+    sentiment 0
+    cluster 2
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -6959,7 +6960,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -6986,7 +6986,8 @@ graph
     ppprofanity 0.031904694
     ppinflammatory 0.25373644
     sentiment 0
-    cluster 5
+    cluster 6
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -7008,7 +7009,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -7034,8 +7034,9 @@ graph
     ppsexuallyexplicit 0.053765513
     ppprofanity 0.09814872
     ppinflammatory 0.13665402
-    sentiment -0.128
-    cluster 4
+    sentiment 0
+    cluster 8
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -7057,7 +7058,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -7085,6 +7085,7 @@ graph
     ppinflammatory 0.085283585
     sentiment 0
     cluster 1
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -7106,7 +7107,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -7133,7 +7133,8 @@ graph
     ppprofanity 0.20243664
     ppinflammatory 0.1378135
     sentiment 0
-    cluster 8
+    cluster 9
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -7155,7 +7156,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -7181,8 +7181,9 @@ graph
     ppsexuallyexplicit 0.13876577
     ppprofanity 0.10471939
     ppinflammatory 0.018133007
-    sentiment 0.8834
-    cluster 4
+    sentiment 0
+    cluster 8
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -7204,7 +7205,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -7232,6 +7232,7 @@ graph
     ppinflammatory 0.1941842
     sentiment 0
     cluster 1
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -7253,7 +7254,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -7279,8 +7279,9 @@ graph
     ppsexuallyexplicit 0.058072995
     ppprofanity 0.0620261
     ppinflammatory 0.18549386
-    sentiment 0.4019
+    sentiment 0
     cluster 1
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -7302,7 +7303,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -7328,8 +7328,9 @@ graph
     ppsexuallyexplicit 0.029808946
     ppprofanity 0.0147295715
     ppinflammatory 0.18138498
-    sentiment -0.3818
+    sentiment 0
     cluster 1
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -7351,7 +7352,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -7377,8 +7377,9 @@ graph
     ppsexuallyexplicit 0.056338772
     ppprofanity 0.021830982
     ppinflammatory 0.13025133
-    sentiment 0.2023
-    cluster 9
+    sentiment 0
+    cluster 5
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -7400,7 +7401,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -7426,8 +7426,9 @@ graph
     ppsexuallyexplicit 0.15681739
     ppprofanity 0.2081852
     ppinflammatory 0.028928822
-    sentiment 0
-    cluster 4
+    sentiment -1
+    cluster 6
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -7449,7 +7450,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -7475,8 +7475,9 @@ graph
     ppsexuallyexplicit 0.045687046
     ppprofanity 0.030279055
     ppinflammatory 0.37590608
-    sentiment 0.34
-    cluster 9
+    sentiment 0
+    cluster 5
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -7498,7 +7499,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -7525,7 +7525,8 @@ graph
     ppprofanity 0.062074717
     ppinflammatory 0.18734083
     sentiment 0
-    cluster 7
+    cluster 6
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -7547,7 +7548,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -7575,6 +7575,7 @@ graph
     ppinflammatory 0.14440872
     sentiment 0
     cluster 2
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -7596,7 +7597,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -7623,7 +7623,8 @@ graph
     ppprofanity 0.036331903
     ppinflammatory 0.08471357
     sentiment 0
-    cluster 4
+    cluster 8
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -7645,7 +7646,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -7672,7 +7672,8 @@ graph
     ppprofanity 0.0646868
     ppinflammatory 0.13639508
     sentiment 0
-    cluster 5
+    cluster 6
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -7694,7 +7695,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -7720,8 +7720,9 @@ graph
     ppsexuallyexplicit 0.035852134
     ppprofanity 0.019808998
     ppinflammatory 0.2448523
-    sentiment 0.0772
-    cluster 4
+    sentiment 0
+    cluster 8
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -7743,7 +7744,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -7771,6 +7771,7 @@ graph
     ppinflammatory 0.27032703
     sentiment 0
     cluster 1
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -7792,7 +7793,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -7819,7 +7819,8 @@ graph
     ppprofanity 0.34321764
     ppinflammatory 0.18422635
     sentiment 0
-    cluster 7
+    cluster 6
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -7841,7 +7842,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -7867,8 +7867,9 @@ graph
     ppsexuallyexplicit 0.02884336
     ppprofanity 0.01920518
     ppinflammatory 0.20025834
-    sentiment 0.6369
-    cluster 4
+    sentiment 1
+    cluster 8
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -7890,7 +7891,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -7916,8 +7916,9 @@ graph
     ppsexuallyexplicit 0.038288526
     ppprofanity 0.021155903
     ppinflammatory 0.4446108
-    sentiment 0.1832
-    cluster 7
+    sentiment -1
+    cluster 2
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -7939,7 +7940,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -7965,8 +7965,9 @@ graph
     ppsexuallyexplicit 0.06512714
     ppprofanity 0.09225691
     ppinflammatory 0.52119184
-    sentiment 0.2732
+    sentiment 0
     cluster 1
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -7988,7 +7989,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -8015,7 +8015,8 @@ graph
     ppprofanity 0.06954467
     ppinflammatory 0.18088356
     sentiment 0
-    cluster 4
+    cluster 6
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -8037,7 +8038,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -8064,7 +8064,8 @@ graph
     ppprofanity 0.03120013
     ppinflammatory 0.31084356
     sentiment 0
-    cluster 4
+    cluster 8
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -8086,7 +8087,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -8112,8 +8112,9 @@ graph
     ppsexuallyexplicit 0.13143742
     ppprofanity 0.13396984
     ppinflammatory 0.181438
-    sentiment 0.4404
-    cluster 5
+    sentiment 1
+    cluster 6
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -8135,7 +8136,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -8162,7 +8162,8 @@ graph
     ppprofanity 0.009307626
     ppinflammatory 0.26646486
     sentiment 0
-    cluster 9
+    cluster 5
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -8184,7 +8185,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -8210,8 +8210,9 @@ graph
     ppsexuallyexplicit 0.061544042
     ppprofanity 0.062015325
     ppinflammatory 0.060083702
-    sentiment 0.7543
-    cluster 5
+    sentiment 1
+    cluster 6
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -8233,7 +8234,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -8260,7 +8260,8 @@ graph
     ppprofanity 0.3576388
     ppinflammatory 0.2098006
     sentiment 0
-    cluster 5
+    cluster 6
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -8282,7 +8283,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -8308,8 +8308,9 @@ graph
     ppsexuallyexplicit 0.10391771
     ppprofanity 0.09956216
     ppinflammatory 0.30195493
-    sentiment 0
-    cluster 7
+    sentiment -1
+    cluster 2
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -8331,7 +8332,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -8357,8 +8357,9 @@ graph
     ppsexuallyexplicit 0.31781915
     ppprofanity 0.24422826
     ppinflammatory 0.2753901
-    sentiment -0.0516
-    cluster 7
+    sentiment 0
+    cluster 6
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -8380,7 +8381,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -8406,8 +8406,9 @@ graph
     ppsexuallyexplicit 0.17632116
     ppprofanity 0.1959779
     ppinflammatory 0.23387294
-    sentiment 0.6369
-    cluster 4
+    sentiment 1
+    cluster 8
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -8429,7 +8430,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -8456,7 +8456,8 @@ graph
     ppprofanity 0.050892208
     ppinflammatory 0.087399185
     sentiment 0
-    cluster 5
+    cluster 6
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -8478,7 +8479,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -8504,8 +8504,9 @@ graph
     ppsexuallyexplicit 0.13420352
     ppprofanity 0.26057324
     ppinflammatory 0.21015932
-    sentiment -0.4019
-    cluster 6
+    sentiment 1
+    cluster 4
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -8527,7 +8528,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -8553,8 +8553,9 @@ graph
     ppsexuallyexplicit 0.08622679
     ppprofanity 0.04893821
     ppinflammatory 0.28903338
-    sentiment 0.4404
-    cluster 7
+    sentiment 1
+    cluster 6
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -8576,7 +8577,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -8602,8 +8602,9 @@ graph
     ppsexuallyexplicit 0.054191988
     ppprofanity 0.019895911
     ppinflammatory 0.037688967
-    sentiment 0
-    cluster 5
+    sentiment 1
+    cluster 6
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -8625,7 +8626,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -8651,8 +8651,9 @@ graph
     ppsexuallyexplicit 0.15778206
     ppprofanity 0.13414988
     ppinflammatory 0.12655932
-    sentiment 0.25
-    cluster 5
+    sentiment 1
+    cluster 6
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -8674,7 +8675,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -8700,8 +8700,9 @@ graph
     ppsexuallyexplicit 0.14542791
     ppprofanity 0.10168281
     ppinflammatory 0.11553634
-    sentiment 0.0572
+    sentiment 0
     cluster 2
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -8723,7 +8724,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -8749,8 +8749,9 @@ graph
     ppsexuallyexplicit 0.050701488
     ppprofanity 0.04667054
     ppinflammatory 0.22704424
-    sentiment 0.6369
-    cluster 5
+    sentiment 1
+    cluster 6
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -8772,7 +8773,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -8799,7 +8799,8 @@ graph
     ppprofanity 0.064931564
     ppinflammatory 0.37377617
     sentiment 0
-    cluster 4
+    cluster 8
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -8821,7 +8822,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -8848,7 +8848,8 @@ graph
     ppprofanity 0.032206263
     ppinflammatory 0.14556037
     sentiment 0
-    cluster 4
+    cluster 8
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -8870,7 +8871,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -8896,8 +8896,9 @@ graph
     ppsexuallyexplicit 0.038719792
     ppprofanity 0.035828907
     ppinflammatory 0.24864554
-    sentiment -0.5106
-    cluster 5
+    sentiment -1
+    cluster 6
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -8919,7 +8920,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -8945,8 +8945,9 @@ graph
     ppsexuallyexplicit 0.26626822
     ppprofanity 0.25650534
     ppinflammatory 0.56094974
-    sentiment 0.34
-    cluster 8
+    sentiment 1
+    cluster 9
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -8968,7 +8969,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -8996,6 +8996,7 @@ graph
     ppinflammatory 0.091961786
     sentiment 0
     cluster 3
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -9017,7 +9018,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -9044,7 +9044,8 @@ graph
     ppprofanity 0.08499821
     ppinflammatory 0.26286894
     sentiment 0
-    cluster 10
+    cluster 4
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -9066,7 +9067,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -9093,7 +9093,8 @@ graph
     ppprofanity 0.15933931
     ppinflammatory 0.5680319
     sentiment 0
-    cluster 5
+    cluster 6
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -9115,7 +9116,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -9143,6 +9143,7 @@ graph
     ppinflammatory 0.20846765
     sentiment 0
     cluster 2
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -9164,7 +9165,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -9190,8 +9190,9 @@ graph
     ppsexuallyexplicit 0.02641914
     ppprofanity 0.024980709
     ppinflammatory 0.2665093
-    sentiment 0.4404
-    cluster 6
+    sentiment 1
+    cluster 4
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -9213,7 +9214,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -9241,6 +9241,7 @@ graph
     ppinflammatory 0.0013141287
     sentiment 0
     cluster 1
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -9262,7 +9263,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -9290,6 +9290,7 @@ graph
     ppinflammatory 0.13129188
     sentiment 0
     cluster 1
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -9311,7 +9312,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -9337,8 +9337,9 @@ graph
     ppsexuallyexplicit 0.053648546
     ppprofanity 0.078806944
     ppinflammatory 0.19964279
-    sentiment 0.2023
-    cluster 5
+    sentiment 1
+    cluster 6
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -9360,7 +9361,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -9386,8 +9386,9 @@ graph
     ppsexuallyexplicit 0.08744564
     ppprofanity 0.070860244
     ppinflammatory 0.10920448
-    sentiment 0.5023
-    cluster 5
+    sentiment 1
+    cluster 6
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -9409,7 +9410,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -9436,7 +9436,8 @@ graph
     ppprofanity 0.61655587
     ppinflammatory 0.15028122
     sentiment 0
-    cluster 4
+    cluster 8
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -9458,7 +9459,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -9484,8 +9484,9 @@ graph
     ppsexuallyexplicit 0.045310866
     ppprofanity 0.05528269
     ppinflammatory 0.27845183
-    sentiment 0.2023
-    cluster 4
+    sentiment 0
+    cluster 8
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -9507,7 +9508,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -9533,8 +9533,9 @@ graph
     ppsexuallyexplicit 0.031555872
     ppprofanity 0.0247389
     ppinflammatory 0.18887374
-    sentiment 0.2023
-    cluster 4
+    sentiment 1
+    cluster 8
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -9556,7 +9557,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -9584,6 +9584,7 @@ graph
     ppinflammatory 0.19566506
     sentiment 0
     cluster 2
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -9605,7 +9606,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -9631,8 +9631,9 @@ graph
     ppsexuallyexplicit 0.19793893
     ppprofanity 0.26883695
     ppinflammatory 0.43826827
-    sentiment 0.0772
-    cluster 8
+    sentiment 0
+    cluster 9
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -9654,7 +9655,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -9681,7 +9681,8 @@ graph
     ppprofanity 0.11506523
     ppinflammatory 0.15371558
     sentiment 0
-    cluster 4
+    cluster 8
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -9703,7 +9704,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -9729,8 +9729,9 @@ graph
     ppsexuallyexplicit 0.13105172
     ppprofanity 0.06358438
     ppinflammatory 0.12463601
-    sentiment 0.6369
-    cluster 5
+    sentiment 1
+    cluster 6
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -9752,7 +9753,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -9778,8 +9778,9 @@ graph
     ppsexuallyexplicit 0.12529232
     ppprofanity 0.10141331
     ppinflammatory 0.124641605
-    sentiment 0.4404
-    cluster 7
+    sentiment 1
+    cluster 2
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -9801,7 +9802,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -9827,8 +9827,9 @@ graph
     ppsexuallyexplicit 0.11594125
     ppprofanity 0.06257753
     ppinflammatory 0.026850423
-    sentiment 0.4767
-    cluster 6
+    sentiment 0
+    cluster 4
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -9850,7 +9851,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -9877,7 +9877,8 @@ graph
     ppprofanity 0.063254304
     ppinflammatory 0.18476821
     sentiment 0
-    cluster 11
+    cluster 10
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -9899,7 +9900,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -9925,8 +9925,9 @@ graph
     ppsexuallyexplicit 0.20298691
     ppprofanity 0.26832446
     ppinflammatory 0.30237165
-    sentiment 0.2023
-    cluster 4
+    sentiment 0
+    cluster 6
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -9948,7 +9949,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -9974,8 +9974,9 @@ graph
     ppsexuallyexplicit 0.14796531
     ppprofanity 0.10642722
     ppinflammatory 0.1339043
-    sentiment 0.3818
+    sentiment 1
     cluster 1
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -9997,7 +9998,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -10025,6 +10025,7 @@ graph
     ppinflammatory 0.013875367
     sentiment 0
     cluster 1
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -10046,7 +10047,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -10072,8 +10072,9 @@ graph
     ppsexuallyexplicit 0.10251881
     ppprofanity 0.055846523
     ppinflammatory 0.1536243
-    sentiment 0.6808
-    cluster 7
+    sentiment 1
+    cluster 5
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -10095,7 +10096,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -10122,7 +10122,8 @@ graph
     ppprofanity 0.050721213
     ppinflammatory 0.25616753
     sentiment 0
-    cluster 7
+    cluster 2
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -10144,7 +10145,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -10171,7 +10171,8 @@ graph
     ppprofanity 0.12709676
     ppinflammatory 0.08835865
     sentiment 0
-    cluster 5
+    cluster 6
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -10193,7 +10194,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -10219,8 +10219,9 @@ graph
     ppsexuallyexplicit 0.06354532
     ppprofanity 0.042424712
     ppinflammatory 0.22959335
-    sentiment 0.6369
-    cluster 4
+    sentiment 0
+    cluster 2
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -10242,7 +10243,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -10268,8 +10268,9 @@ graph
     ppsexuallyexplicit 0.14026569
     ppprofanity 0.16515249
     ppinflammatory 0.08826501
-    sentiment -0.0516
+    sentiment 0
     cluster 1
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -10291,7 +10292,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -10317,8 +10317,9 @@ graph
     ppsexuallyexplicit 0.10739438
     ppprofanity 0.2107133
     ppinflammatory 0.4082076
-    sentiment 0.34
-    cluster 4
+    sentiment 0
+    cluster 8
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -10340,7 +10341,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -10366,8 +10366,9 @@ graph
     ppsexuallyexplicit 0.06215048
     ppprofanity 0.034157813
     ppinflammatory 0.13689837
-    sentiment -0.6486
+    sentiment -1
     cluster 2
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -10389,7 +10390,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -10415,8 +10415,9 @@ graph
     ppsexuallyexplicit 0.14704727
     ppprofanity 0.10395606
     ppinflammatory 0.13034728
-    sentiment 0.5719
-    cluster 3
+    sentiment 1
+    cluster 5
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -10438,7 +10439,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -10464,8 +10464,9 @@ graph
     ppsexuallyexplicit 0.15425684
     ppprofanity 0.2341709
     ppinflammatory 0.27425504
-    sentiment 0.6369
-    cluster 5
+    sentiment 1
+    cluster 6
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -10487,7 +10488,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -10513,8 +10513,9 @@ graph
     ppsexuallyexplicit 0.06341464
     ppprofanity 0.051293865
     ppinflammatory 0.7079002
-    sentiment 0.25
-    cluster 8
+    sentiment 0
+    cluster 9
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -10536,7 +10537,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -10564,6 +10564,7 @@ graph
     ppinflammatory 0.00059894717
     sentiment 0
     cluster 5
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -10585,7 +10586,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -10612,7 +10612,8 @@ graph
     ppprofanity 0.04411849
     ppinflammatory 0.18732992
     sentiment 0
-    cluster 5
+    cluster 6
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -10634,7 +10635,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -10660,8 +10660,9 @@ graph
     ppsexuallyexplicit 0.06614495
     ppprofanity 0.040943824
     ppinflammatory 0.0967427
-    sentiment 0.0258
+    sentiment 0
     cluster 2
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -10683,7 +10684,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -10710,7 +10710,8 @@ graph
     ppprofanity 0.11227692
     ppinflammatory 0.17142642
     sentiment 0
-    cluster 5
+    cluster 6
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -10732,7 +10733,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -10758,8 +10758,9 @@ graph
     ppsexuallyexplicit 0.20320757
     ppprofanity 0.16294126
     ppinflammatory 0.082456596
-    sentiment 0.4588
+    sentiment 1
     cluster 2
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -10781,7 +10782,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -10807,8 +10807,9 @@ graph
     ppsexuallyexplicit 0.025048774
     ppprofanity 0.013946025
     ppinflammatory 0.17444317
-    sentiment 0.5927
-    cluster 7
+    sentiment 0
+    cluster 2
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -10830,7 +10831,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -10857,7 +10857,8 @@ graph
     ppprofanity 0.09763526
     ppinflammatory 0.23624273
     sentiment 0
-    cluster 4
+    cluster 8
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -10879,7 +10880,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -10907,6 +10907,7 @@ graph
     ppinflammatory 0.08194319
     sentiment 0
     cluster 2
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -10928,7 +10929,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -10956,6 +10956,7 @@ graph
     ppinflammatory 0.24949753
     sentiment 0
     cluster 2
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -10977,7 +10978,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -11003,8 +11003,9 @@ graph
     ppsexuallyexplicit 0.05866373
     ppprofanity 0.10463068
     ppinflammatory 0.43837813
-    sentiment -0.4576
-    cluster 5
+    sentiment -1
+    cluster 6
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -11026,7 +11027,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -11052,8 +11052,9 @@ graph
     ppsexuallyexplicit 0.10033581
     ppprofanity 0.088169076
     ppinflammatory 0.28929937
-    sentiment 0.3612
-    cluster 5
+    sentiment 0
+    cluster 6
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -11075,7 +11076,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -11101,8 +11101,9 @@ graph
     ppsexuallyexplicit 0.13794868
     ppprofanity 0.08383182
     ppinflammatory 0.23355682
-    sentiment -0.4767
-    cluster 4
+    sentiment -1
+    cluster 8
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -11124,7 +11125,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -11151,7 +11151,8 @@ graph
     ppprofanity 0.0548227
     ppinflammatory 0.02266714
     sentiment 0
-    cluster 7
+    cluster 5
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -11173,7 +11174,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -11199,8 +11199,9 @@ graph
     ppsexuallyexplicit 0.13568851
     ppprofanity 0.10296986
     ppinflammatory 0.07673878
-    sentiment 0.6369
-    cluster 3
+    sentiment 1
+    cluster 5
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -11222,7 +11223,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -11248,8 +11248,9 @@ graph
     ppsexuallyexplicit 0.14268725
     ppprofanity 0.257871
     ppinflammatory 0.36621407
-    sentiment -0.5719
-    cluster 4
+    sentiment -1
+    cluster 8
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -11271,7 +11272,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -11297,8 +11297,9 @@ graph
     ppsexuallyexplicit 0.055950075
     ppprofanity 0.03838399
     ppinflammatory 0.082115695
-    sentiment 0.7845
-    cluster 4
+    sentiment 1
+    cluster 8
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -11320,7 +11321,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -11346,8 +11346,9 @@ graph
     ppsexuallyexplicit 0.05239512
     ppprofanity 0.022615872
     ppinflammatory 0.16772208
-    sentiment 0.4404
-    cluster 6
+    sentiment 0
+    cluster 4
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -11369,7 +11370,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -11396,7 +11396,8 @@ graph
     ppprofanity 0.01858133
     ppinflammatory 0.20160677
     sentiment 0
-    cluster 5
+    cluster 6
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -11418,7 +11419,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -11444,8 +11444,9 @@ graph
     ppsexuallyexplicit 0.30157912
     ppprofanity 0.35175005
     ppinflammatory 0.07918805
-    sentiment 0.4939
-    cluster 3
+    sentiment 0
+    cluster 7
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -11467,7 +11468,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -11494,7 +11494,8 @@ graph
     ppprofanity 0.052907288
     ppinflammatory 0.117320314
     sentiment 0
-    cluster 5
+    cluster 6
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -11516,7 +11517,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -11543,7 +11543,8 @@ graph
     ppprofanity 0.060978137
     ppinflammatory 0.1956868
     sentiment 0
-    cluster 5
+    cluster 6
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -11565,7 +11566,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -11591,8 +11591,9 @@ graph
     ppsexuallyexplicit 0.20694797
     ppprofanity 0.37489736
     ppinflammatory 0.36012068
-    sentiment -0.2732
+    sentiment 0
     cluster 2
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -11614,7 +11615,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -11641,7 +11641,8 @@ graph
     ppprofanity 0.23665518
     ppinflammatory 0.3020572
     sentiment 0
-    cluster 4
+    cluster 8
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -11663,7 +11664,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -11691,6 +11691,7 @@ graph
     ppinflammatory 0.07659078
     sentiment 0
     cluster 2
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -11712,7 +11713,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -11738,8 +11738,9 @@ graph
     ppsexuallyexplicit 0.10683098
     ppprofanity 0.15817426
     ppinflammatory 0.13654138
-    sentiment -0.2263
-    cluster 8
+    sentiment 0
+    cluster 9
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -11761,7 +11762,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -11788,7 +11788,8 @@ graph
     ppprofanity 0.05274356
     ppinflammatory 0.09416057
     sentiment 0
-    cluster 8
+    cluster 5
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -11810,7 +11811,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -11838,6 +11838,7 @@ graph
     ppinflammatory 0.021757228
     sentiment 0
     cluster 3
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -11859,7 +11860,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -11885,8 +11885,9 @@ graph
     ppsexuallyexplicit 0.1930294
     ppprofanity 0.14264363
     ppinflammatory 0.25404534
-    sentiment 0.0772
-    cluster 5
+    sentiment 0
+    cluster 6
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -11908,7 +11909,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -11934,8 +11934,9 @@ graph
     ppsexuallyexplicit 0.04203984
     ppprofanity 0.04793259
     ppinflammatory 0.43595517
-    sentiment -0.3818
-    cluster 7
+    sentiment -1
+    cluster 2
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -11957,7 +11958,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -11983,8 +11983,9 @@ graph
     ppsexuallyexplicit 0.079869136
     ppprofanity 0.046394747
     ppinflammatory 0.16351096
-    sentiment -0.2789
-    cluster 7
+    sentiment 0
+    cluster 2
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -12006,7 +12007,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -12034,6 +12034,7 @@ graph
     ppinflammatory 0.10543841
     sentiment 0
     cluster 8
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -12055,7 +12056,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -12081,8 +12081,9 @@ graph
     ppsexuallyexplicit 0.09786816
     ppprofanity 0.14324626
     ppinflammatory 0.28765258
-    sentiment 0.0772
-    cluster 5
+    sentiment -1
+    cluster 6
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -12104,7 +12105,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -12130,8 +12130,9 @@ graph
     ppsexuallyexplicit 0.39052796
     ppprofanity 0.15048859
     ppinflammatory 0.12439007
-    sentiment -0.0516
-    cluster 5
+    sentiment 0
+    cluster 6
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -12153,7 +12154,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -12179,8 +12179,9 @@ graph
     ppsexuallyexplicit 0.0437158
     ppprofanity 0.052634716
     ppinflammatory 0.1147313
-    sentiment 0.6369
-    cluster 5
+    sentiment 1
+    cluster 6
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -12202,7 +12203,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -12230,6 +12230,7 @@ graph
     ppinflammatory 0.3036661
     sentiment 0
     cluster 2
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -12251,7 +12252,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -12277,8 +12277,9 @@ graph
     ppsexuallyexplicit 0.026279453
     ppprofanity 0.020347333
     ppinflammatory 0.16431102
-    sentiment 0
-    cluster 5
+    sentiment 1
+    cluster 6
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -12300,7 +12301,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -12326,8 +12326,9 @@ graph
     ppsexuallyexplicit 0.05697332
     ppprofanity 0.07312391
     ppinflammatory 0.17236279
-    sentiment 0.5106
+    sentiment 0
     cluster 1
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -12349,7 +12350,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -12375,8 +12375,9 @@ graph
     ppsexuallyexplicit 0.16215578
     ppprofanity 0.1320893
     ppinflammatory 0.18767698
-    sentiment -0.3612
+    sentiment 0
     cluster 2
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -12398,7 +12399,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -12425,7 +12425,8 @@ graph
     ppprofanity 0.069458164
     ppinflammatory 0.12861374
     sentiment 0
-    cluster 6
+    cluster 4
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -12447,7 +12448,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -12473,8 +12473,9 @@ graph
     ppsexuallyexplicit 0.060435794
     ppprofanity 0.034752607
     ppinflammatory 0.30897886
-    sentiment 0.2263
-    cluster 6
+    sentiment 1
+    cluster 4
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -12496,7 +12497,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -12522,8 +12522,9 @@ graph
     ppsexuallyexplicit 0.08238289
     ppprofanity 0.055288397
     ppinflammatory 0.18263863
-    sentiment -0.3818
+    sentiment 1
     cluster 1
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -12545,7 +12546,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -12571,8 +12571,9 @@ graph
     ppsexuallyexplicit 0.07842527
     ppprofanity 0.029533312
     ppinflammatory 0.27557775
-    sentiment -0.4019
-    cluster 7
+    sentiment 0
+    cluster 2
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -12594,7 +12595,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -12620,8 +12620,9 @@ graph
     ppsexuallyexplicit 0.0900441
     ppprofanity 0.15866154
     ppinflammatory 0.085948855
-    sentiment -0.2023
+    sentiment 1
     cluster 2
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -12643,7 +12644,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -12670,7 +12670,8 @@ graph
     ppprofanity 0.054919835
     ppinflammatory 0.25654262
     sentiment 0
-    cluster 9
+    cluster 5
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -12692,7 +12693,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -12718,8 +12718,9 @@ graph
     ppsexuallyexplicit 0.06644789
     ppprofanity 0.07297853
     ppinflammatory 0.44413254
-    sentiment 0.6369
-    cluster 4
+    sentiment 0
+    cluster 8
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -12741,7 +12742,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -12768,7 +12768,8 @@ graph
     ppprofanity 0.26394928
     ppinflammatory 0.29968318
     sentiment 0
-    cluster 7
+    cluster 6
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -12790,7 +12791,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -12817,7 +12817,8 @@ graph
     ppprofanity 0.12187557
     ppinflammatory 0.40730354
     sentiment 0
-    cluster 4
+    cluster 8
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -12839,7 +12840,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -12867,6 +12867,7 @@ graph
     ppinflammatory 0.25170305
     sentiment 0
     cluster 2
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -12888,7 +12889,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -12914,8 +12914,9 @@ graph
     ppsexuallyexplicit 0.18105385
     ppprofanity 0.20412263
     ppinflammatory 0.08379004
-    sentiment -0.128
-    cluster 4
+    sentiment 0
+    cluster 8
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -12937,7 +12938,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -12964,7 +12964,8 @@ graph
     ppprofanity 0.021879008
     ppinflammatory 0.107682236
     sentiment 0
-    cluster 6
+    cluster 4
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -12986,7 +12987,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -13012,8 +13012,9 @@ graph
     ppsexuallyexplicit 0.036197923
     ppprofanity 0.02543602
     ppinflammatory 0.2234088
-    sentiment 0.2023
-    cluster 6
+    sentiment -1
+    cluster 4
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -13035,7 +13036,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -13062,7 +13062,8 @@ graph
     ppprofanity 0.03446722
     ppinflammatory 0.29315284
     sentiment 0
-    cluster 9
+    cluster 5
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -13084,7 +13085,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -13110,8 +13110,9 @@ graph
     ppsexuallyexplicit 0.068034336
     ppprofanity 0.08408799
     ppinflammatory 0.32971385
-    sentiment 0.1139
-    cluster 6
+    sentiment 0
+    cluster 4
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -13133,7 +13134,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -13160,7 +13160,8 @@ graph
     ppprofanity 0.03339644
     ppinflammatory 0.14556818
     sentiment 0
-    cluster 5
+    cluster 6
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -13182,7 +13183,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -13209,7 +13209,8 @@ graph
     ppprofanity 0.2111887
     ppinflammatory 0.15513194
     sentiment 0
-    cluster 4
+    cluster 8
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -13231,7 +13232,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -13257,8 +13257,9 @@ graph
     ppsexuallyexplicit 0.025594175
     ppprofanity 0.015902681
     ppinflammatory 0.14186029
-    sentiment 0.6369
-    cluster 4
+    sentiment 1
+    cluster 8
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -13280,7 +13281,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -13306,8 +13306,9 @@ graph
     ppsexuallyexplicit 0.08083883
     ppprofanity 0.09023548
     ppinflammatory 0.18248662
-    sentiment 0.1779
+    sentiment 0
     cluster 4
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -13329,7 +13330,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -13355,8 +13355,9 @@ graph
     ppsexuallyexplicit 0.13714208
     ppprofanity 0.13120516
     ppinflammatory 0.06764925
-    sentiment 0.5994
+    sentiment 0
     cluster 3
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -13378,7 +13379,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -13405,7 +13405,8 @@ graph
     ppprofanity 0.05428005
     ppinflammatory 0.1030553
     sentiment 0
-    cluster 4
+    cluster 8
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -13427,7 +13428,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -13455,6 +13455,7 @@ graph
     ppinflammatory 0.036335547
     sentiment 0
     cluster 3
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -13476,7 +13477,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -13502,8 +13502,9 @@ graph
     ppsexuallyexplicit 0.05348398
     ppprofanity 0.055788666
     ppinflammatory 0.15166916
-    sentiment 0.1779
+    sentiment 0
     cluster 4
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -13525,7 +13526,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -13551,8 +13551,9 @@ graph
     ppsexuallyexplicit 0.16528529
     ppprofanity 0.14497048
     ppinflammatory 0.110322796
-    sentiment 0.7783
-    cluster 4
+    sentiment 0
+    cluster 8
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -13574,7 +13575,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -13602,6 +13602,7 @@ graph
     ppinflammatory 0.29585668
     sentiment 0
     cluster 2
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -13623,7 +13624,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -13650,7 +13650,8 @@ graph
     ppprofanity 0.12904677
     ppinflammatory 0.26180708
     sentiment 0
-    cluster 5
+    cluster 6
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -13672,7 +13673,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -13699,7 +13699,8 @@ graph
     ppprofanity 0.046320554
     ppinflammatory 0.28518862
     sentiment 0
-    cluster 4
+    cluster 6
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -13721,7 +13722,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -13747,8 +13747,9 @@ graph
     ppsexuallyexplicit 0.05688847
     ppprofanity 0.026295552
     ppinflammatory 0.16200663
-    sentiment 0.743
+    sentiment 1
     cluster 1
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -13770,7 +13771,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -13797,7 +13797,8 @@ graph
     ppprofanity 0.07339982
     ppinflammatory 0.024032202
     sentiment 0
-    cluster 9
+    cluster 5
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -13819,7 +13820,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -13846,7 +13846,8 @@ graph
     ppprofanity 0.0604764
     ppinflammatory 0.32991707
     sentiment 0
-    cluster 5
+    cluster 6
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -13868,7 +13869,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -13895,7 +13895,8 @@ graph
     ppprofanity 0.03368818
     ppinflammatory 0.2938044
     sentiment 0
-    cluster 4
+    cluster 8
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -13917,7 +13918,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -13945,6 +13945,7 @@ graph
     ppinflammatory 0.4427788
     sentiment 0
     cluster 2
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -13966,7 +13967,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -13992,8 +13992,9 @@ graph
     ppsexuallyexplicit 0.083627075
     ppprofanity 0.06121504
     ppinflammatory 0.13160221
-    sentiment 0.5106
-    cluster 1
+    sentiment 1
+    cluster 2
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -14015,7 +14016,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -14041,8 +14041,9 @@ graph
     ppsexuallyexplicit 0.13399224
     ppprofanity 0.15073505
     ppinflammatory 0.04232358
-    sentiment -0.6486
+    sentiment 0
     cluster 1
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -14064,7 +14065,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -14090,8 +14090,9 @@ graph
     ppsexuallyexplicit 0.035588246
     ppprofanity 0.052819524
     ppinflammatory 0.17954503
-    sentiment -0.6124
+    sentiment 0
     cluster 2
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -14113,7 +14114,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -14139,8 +14139,9 @@ graph
     ppsexuallyexplicit 0.049563516
     ppprofanity 0.03806816
     ppinflammatory 0.10147856
-    sentiment -0.3818
-    cluster 7
+    sentiment 0
+    cluster 2
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -14162,7 +14163,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -14190,6 +14190,7 @@ graph
     ppinflammatory 0.12129021
     sentiment 0
     cluster 1
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -14211,7 +14212,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -14237,8 +14237,9 @@ graph
     ppsexuallyexplicit 0.08289505
     ppprofanity 0.0578556
     ppinflammatory 0.031893976
-    sentiment 0.5106
-    cluster 4
+    sentiment 0
+    cluster 8
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -14260,7 +14261,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -14286,8 +14286,9 @@ graph
     ppsexuallyexplicit 0.06702012
     ppprofanity 0.041156635
     ppinflammatory 0.2804273
-    sentiment -0.3818
-    cluster 7
+    sentiment 0
+    cluster 6
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -14309,7 +14310,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -14336,7 +14336,8 @@ graph
     ppprofanity 0.08489547
     ppinflammatory 0.043175068
     sentiment 0
-    cluster 5
+    cluster 6
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -14358,7 +14359,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -14384,8 +14384,9 @@ graph
     ppsexuallyexplicit 0.09522741
     ppprofanity 0.07674973
     ppinflammatory 0.25814268
-    sentiment -0.3818
-    cluster 7
+    sentiment 1
+    cluster 6
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -14407,7 +14408,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -14433,8 +14433,9 @@ graph
     ppsexuallyexplicit 0.13394253
     ppprofanity 0.19884464
     ppinflammatory 0.37442446
-    sentiment 0.8519
-    cluster 4
+    sentiment 1
+    cluster 8
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -14456,7 +14457,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -14482,8 +14482,9 @@ graph
     ppsexuallyexplicit 0.48846176
     ppprofanity 0.4979848
     ppinflammatory 0.2959821
-    sentiment -0.0828
-    cluster 8
+    sentiment -1
+    cluster 9
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -14505,7 +14506,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -14533,6 +14533,7 @@ graph
     ppinflammatory 0.08111557
     sentiment 0
     cluster 1
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -14554,7 +14555,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -14580,8 +14580,9 @@ graph
     ppsexuallyexplicit 0.05275241
     ppprofanity 0.031764504
     ppinflammatory 0.26153472
-    sentiment 0
-    cluster 4
+    sentiment -1
+    cluster 8
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -14603,7 +14604,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -14630,7 +14630,8 @@ graph
     ppprofanity 0.06634063
     ppinflammatory 0.1080801
     sentiment 0
-    cluster 6
+    cluster 4
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -14652,7 +14653,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -14678,8 +14678,9 @@ graph
     ppsexuallyexplicit 0.071368985
     ppprofanity 0.047842637
     ppinflammatory 0.7418105
-    sentiment 0.128
-    cluster 7
+    sentiment 0
+    cluster 2
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -14701,7 +14702,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -14727,8 +14727,9 @@ graph
     ppsexuallyexplicit 0.051980734
     ppprofanity 0.05874795
     ppinflammatory 0.020659283
-    sentiment -0.6597
-    cluster 8
+    sentiment -1
+    cluster 5
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -14750,7 +14751,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -14776,8 +14776,9 @@ graph
     ppsexuallyexplicit 0.19060731
     ppprofanity 0.09237356
     ppinflammatory 0.32625955
-    sentiment 0
-    cluster 7
+    sentiment 1
+    cluster 2
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -14799,7 +14800,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -14827,6 +14827,7 @@ graph
     ppinflammatory 0.11090513
     sentiment 0
     cluster 4
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -14848,7 +14849,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -14875,7 +14875,8 @@ graph
     ppprofanity 0.08105878
     ppinflammatory 0.07588715
     sentiment 0
-    cluster 8
+    cluster 5
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -14897,7 +14898,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -14924,7 +14924,8 @@ graph
     ppprofanity 0.042889938
     ppinflammatory 0.3879991
     sentiment 0
-    cluster 7
+    cluster 2
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -14946,7 +14947,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -14972,8 +14972,9 @@ graph
     ppsexuallyexplicit 0.16768587
     ppprofanity 0.30864662
     ppinflammatory 0.4465494
-    sentiment 0.2023
+    sentiment 1
     cluster 2
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -14995,7 +14996,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -15021,8 +15021,9 @@ graph
     ppsexuallyexplicit 0.07232415
     ppprofanity 0.087236345
     ppinflammatory 0.5424375
-    sentiment -0.0516
+    sentiment 1
     cluster 1
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -15044,7 +15045,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -15072,6 +15072,7 @@ graph
     ppinflammatory 0.1630002
     sentiment 0
     cluster 4
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -15093,7 +15094,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -15119,8 +15119,9 @@ graph
     ppsexuallyexplicit 0.060162827
     ppprofanity 0.044642597
     ppinflammatory 0.21867034
-    sentiment -0.3818
-    cluster 6
+    sentiment 0
+    cluster 4
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -15142,7 +15143,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -15170,6 +15170,7 @@ graph
     ppinflammatory 0.24106331
     sentiment 0
     cluster 3
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -15191,7 +15192,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -15217,8 +15217,9 @@ graph
     ppsexuallyexplicit 0.09628088
     ppprofanity 0.04905601
     ppinflammatory 0.36719406
-    sentiment 0
-    cluster 9
+    sentiment 1
+    cluster 5
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -15240,7 +15241,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -15266,8 +15266,9 @@ graph
     ppsexuallyexplicit 0.07619327
     ppprofanity 0.05115962
     ppinflammatory 0.36552182
-    sentiment -0.0772
+    sentiment 1
     cluster 1
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -15289,7 +15290,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -15316,7 +15316,8 @@ graph
     ppprofanity 0.16087054
     ppinflammatory 0.09377865
     sentiment 0
-    cluster 6
+    cluster 4
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -15338,7 +15339,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -15366,6 +15366,7 @@ graph
     ppinflammatory 0.1598198
     sentiment 0
     cluster 2
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -15387,7 +15388,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -15415,6 +15415,7 @@ graph
     ppinflammatory 0.42009202
     sentiment 0
     cluster 2
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -15436,7 +15437,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -15462,8 +15462,9 @@ graph
     ppsexuallyexplicit 0.17404816
     ppprofanity 0.12372788
     ppinflammatory 0.40654767
-    sentiment -0.4927
-    cluster 5
+    sentiment -1
+    cluster 6
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -15485,7 +15486,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -15512,7 +15512,8 @@ graph
     ppprofanity 0.035027284
     ppinflammatory 0.10056146
     sentiment 0
-    cluster 5
+    cluster 6
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -15534,7 +15535,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -15560,8 +15560,9 @@ graph
     ppsexuallyexplicit 0.08510437
     ppprofanity 0.10532669
     ppinflammatory 0.063872
-    sentiment 0
-    cluster 8
+    sentiment 1
+    cluster 9
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -15583,7 +15584,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -15611,6 +15611,7 @@ graph
     ppinflammatory 0.14167032
     sentiment 0
     cluster 1
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -15632,7 +15633,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -15660,6 +15660,7 @@ graph
     ppinflammatory 0.18723655
     sentiment 0
     cluster 2
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -15681,7 +15682,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -15707,8 +15707,9 @@ graph
     ppsexuallyexplicit 0.031319898
     ppprofanity 0.0153810475
     ppinflammatory 0.18633711
-    sentiment 0.2732
+    sentiment 0
     cluster 1
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -15730,7 +15731,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -15757,7 +15757,8 @@ graph
     ppprofanity 0.11627084
     ppinflammatory 0.36331725
     sentiment 0
-    cluster 9
+    cluster 5
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -15779,7 +15780,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -15805,8 +15805,9 @@ graph
     ppsexuallyexplicit 0.27360365
     ppprofanity 0.20641367
     ppinflammatory 0.36650622
-    sentiment 0.2732
-    cluster 8
+    sentiment 0
+    cluster 9
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -15828,7 +15829,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -15854,8 +15854,9 @@ graph
     ppsexuallyexplicit 0.0821834
     ppprofanity 0.066539384
     ppinflammatory 0.14496952
-    sentiment 0.5777
-    cluster 6
+    sentiment 1
+    cluster 4
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -15877,7 +15878,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -15903,8 +15903,9 @@ graph
     ppsexuallyexplicit 0.043917272
     ppprofanity 0.033430375
     ppinflammatory 0.03453892
-    sentiment 0.8074
-    cluster 6
+    sentiment 1
+    cluster 4
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -15926,7 +15927,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -15952,8 +15952,9 @@ graph
     ppsexuallyexplicit 0.026793852
     ppprofanity 0.025848344
     ppinflammatory 0.19790716
-    sentiment 0.7184
+    sentiment 1
     cluster 1
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -15975,7 +15976,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -16001,8 +16001,9 @@ graph
     ppsexuallyexplicit 0.12359473
     ppprofanity 0.0819965
     ppinflammatory 0.010277659
-    sentiment -0.1027
-    cluster 4
+    sentiment 0
+    cluster 8
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -16024,7 +16025,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -16052,6 +16052,7 @@ graph
     ppinflammatory 0.05010008
     sentiment 0
     cluster 6
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -16073,7 +16074,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -16101,6 +16101,7 @@ graph
     ppinflammatory 0.27183425
     sentiment 0
     cluster 2
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -16122,7 +16123,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -16150,6 +16150,7 @@ graph
     ppinflammatory 0.021362608
     sentiment 0
     cluster 2
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -16171,7 +16172,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -16197,8 +16197,9 @@ graph
     ppsexuallyexplicit 0.05740479
     ppprofanity 0.04894364
     ppinflammatory 0.40200496
-    sentiment 0.3612
+    sentiment 0
     cluster 2
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -16220,7 +16221,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -16247,7 +16247,8 @@ graph
     ppprofanity 0.12860648
     ppinflammatory 0.19095665
     sentiment 0
-    cluster 4
+    cluster 6
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -16269,7 +16270,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -16295,8 +16295,9 @@ graph
     ppsexuallyexplicit 0.043934956
     ppprofanity 0.04543888
     ppinflammatory 0.18996759
-    sentiment 0
-    cluster 3
+    sentiment 1
+    cluster 5
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -16318,7 +16319,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -16344,8 +16344,9 @@ graph
     ppsexuallyexplicit 0.048822016
     ppprofanity 0.084113576
     ppinflammatory 0.11002742
-    sentiment -0.4019
-    cluster 8
+    sentiment -1
+    cluster 5
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -16367,7 +16368,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -16393,8 +16393,9 @@ graph
     ppsexuallyexplicit 0.06037323
     ppprofanity 0.040108908
     ppinflammatory 0.22485505
-    sentiment 0.7935
+    sentiment 1
     cluster 2
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -16416,7 +16417,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -16444,6 +16444,7 @@ graph
     ppinflammatory 0.11980517
     sentiment 0
     cluster 3
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -16465,7 +16466,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -16492,7 +16492,8 @@ graph
     ppprofanity 0.026916848
     ppinflammatory 0.11315013
     sentiment 0
-    cluster 5
+    cluster 6
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -16514,7 +16515,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -16541,7 +16541,8 @@ graph
     ppprofanity 0.034605023
     ppinflammatory 0.14126511
     sentiment 0
-    cluster 6
+    cluster 4
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -16563,7 +16564,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -16590,7 +16590,8 @@ graph
     ppprofanity 0.14560023
     ppinflammatory 0.47165072
     sentiment 0
-    cluster 9
+    cluster 5
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -16612,7 +16613,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -16638,8 +16638,9 @@ graph
     ppsexuallyexplicit 0.36981773
     ppprofanity 0.32707134
     ppinflammatory 0.17924798
-    sentiment 0.5994
+    sentiment 0
     cluster 3
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -16661,7 +16662,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -16688,7 +16688,8 @@ graph
     ppprofanity 0.06247038
     ppinflammatory 0.10965279
     sentiment 0
-    cluster 6
+    cluster 4
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -16710,7 +16711,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -16738,6 +16738,7 @@ graph
     ppinflammatory 0.23373543
     sentiment 0
     cluster 2
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -16759,7 +16760,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -16785,8 +16785,9 @@ graph
     ppsexuallyexplicit 0.09092612
     ppprofanity 0.07930124
     ppinflammatory 0.28133377
-    sentiment 0.3612
-    cluster 5
+    sentiment 0
+    cluster 6
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -16808,7 +16809,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -16836,6 +16836,7 @@ graph
     ppinflammatory 0.04352152
     sentiment 0
     cluster 3
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -16857,7 +16858,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -16883,8 +16883,9 @@ graph
     ppsexuallyexplicit 0.02476935
     ppprofanity 0.016897902
     ppinflammatory 0.6638168
-    sentiment 0.6369
+    sentiment 1
     cluster 2
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -16906,7 +16907,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -16933,7 +16933,8 @@ graph
     ppprofanity 0.036245607
     ppinflammatory 0.30884603
     sentiment 0
-    cluster 6
+    cluster 4
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -16955,7 +16956,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -16981,8 +16981,9 @@ graph
     ppsexuallyexplicit 0.03692016
     ppprofanity 0.052430052
     ppinflammatory 0.10966089
-    sentiment 0.6808
-    cluster 8
+    sentiment 1
+    cluster 9
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -17004,7 +17005,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -17031,7 +17031,8 @@ graph
     ppprofanity 0.033744898
     ppinflammatory 0.38423696
     sentiment 0
-    cluster 10
+    cluster 4
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -17053,7 +17054,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -17079,8 +17079,9 @@ graph
     ppsexuallyexplicit 0.41547918
     ppprofanity 0.25937432
     ppinflammatory 0.47747046
-    sentiment -0.4404
-    cluster 8
+    sentiment 0
+    cluster 9
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -17102,7 +17103,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -17128,8 +17128,9 @@ graph
     ppsexuallyexplicit 0.019280847
     ppprofanity 0.015193804
     ppinflammatory 0.06581315
-    sentiment 0.0772
-    cluster 5
+    sentiment 0
+    cluster 6
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -17151,7 +17152,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -17178,7 +17178,8 @@ graph
     ppprofanity 0.062265415
     ppinflammatory 0.16163589
     sentiment 0
-    cluster 6
+    cluster 4
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -17200,7 +17201,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -17226,8 +17226,9 @@ graph
     ppsexuallyexplicit 0.044271532
     ppprofanity 0.07560703
     ppinflammatory 0.290971
-    sentiment -0.4939
-    cluster 8
+    sentiment 0
+    cluster 9
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -17249,7 +17250,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -17277,6 +17277,7 @@ graph
     ppinflammatory 0.26439282
     sentiment 0
     cluster 1
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -17298,7 +17299,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -17324,8 +17324,9 @@ graph
     ppsexuallyexplicit 0.2841104
     ppprofanity 0.39674518
     ppinflammatory 0.13157073
-    sentiment 0
-    cluster 5
+    sentiment 1
+    cluster 6
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -17347,7 +17348,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -17374,7 +17374,8 @@ graph
     ppprofanity 0.20171273
     ppinflammatory 0.0052501042
     sentiment 0
-    cluster 1
+    cluster 4
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -17396,7 +17397,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -17422,8 +17422,9 @@ graph
     ppsexuallyexplicit 0.27270103
     ppprofanity 0.3097606
     ppinflammatory 0.4234454
-    sentiment 0.7964
-    cluster 4
+    sentiment 0
+    cluster 8
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -17445,7 +17446,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -17471,8 +17471,9 @@ graph
     ppsexuallyexplicit 0.0705928
     ppprofanity 0.077513285
     ppinflammatory 0.12825376
-    sentiment 0.1779
+    sentiment 0
     cluster 4
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -17494,7 +17495,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -17520,8 +17520,9 @@ graph
     ppsexuallyexplicit 0.038305387
     ppprofanity 0.14433253
     ppinflammatory 0.07156566
-    sentiment -0.5994
+    sentiment 0
     cluster 4
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -17543,7 +17544,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -17571,6 +17571,7 @@ graph
     ppinflammatory 0.021398941
     sentiment 0
     cluster 2
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -17592,7 +17593,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -17618,8 +17618,9 @@ graph
     ppsexuallyexplicit 0.110681765
     ppprofanity 0.18773311
     ppinflammatory 0.27463204
-    sentiment 0.5574
-    cluster 4
+    sentiment 0
+    cluster 8
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -17641,7 +17642,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -17668,7 +17668,8 @@ graph
     ppprofanity 0.027551008
     ppinflammatory 0.17885394
     sentiment 0
-    cluster 9
+    cluster 5
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -17690,7 +17691,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -17717,7 +17717,8 @@ graph
     ppprofanity 0.04238057
     ppinflammatory 0.18193781
     sentiment 0
-    cluster 9
+    cluster 5
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -17739,7 +17740,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -17765,8 +17765,9 @@ graph
     ppsexuallyexplicit 0.09184693
     ppprofanity 0.106286585
     ppinflammatory 0.080400795
-    sentiment 0.3182
-    cluster 8
+    sentiment 1
+    cluster 5
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -17788,7 +17789,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -17816,6 +17816,7 @@ graph
     ppinflammatory 0.1310215
     sentiment 0
     cluster 3
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -17837,7 +17838,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -17864,7 +17864,8 @@ graph
     ppprofanity 0.033164587
     ppinflammatory 0.20961624
     sentiment 0
-    cluster 4
+    cluster 8
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -17886,7 +17887,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -17912,8 +17912,9 @@ graph
     ppsexuallyexplicit 0.19342367
     ppprofanity 0.24903007
     ppinflammatory 0.084041
-    sentiment -0.128
-    cluster 4
+    sentiment 0
+    cluster 8
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -17935,7 +17936,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -17961,8 +17961,9 @@ graph
     ppsexuallyexplicit 0.082451664
     ppprofanity 0.08384486
     ppinflammatory 0.012768523
-    sentiment 0.6249
+    sentiment 0
     cluster 1
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -17984,7 +17985,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -18010,8 +18010,9 @@ graph
     ppsexuallyexplicit 0.07430989
     ppprofanity 0.080447435
     ppinflammatory 0.16641456
-    sentiment 0.1779
+    sentiment 0
     cluster 4
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -18033,7 +18034,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -18059,8 +18059,9 @@ graph
     ppsexuallyexplicit 0.047357477
     ppprofanity 0.039214917
     ppinflammatory 0.053437717
-    sentiment 0.4404
-    cluster 4
+    sentiment 0
+    cluster 8
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -18082,7 +18083,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -18109,7 +18109,8 @@ graph
     ppprofanity 0.018938841
     ppinflammatory 0.30928987
     sentiment 0
-    cluster 5
+    cluster 6
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -18131,7 +18132,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -18158,7 +18158,8 @@ graph
     ppprofanity 0.30799896
     ppinflammatory 0.18751232
     sentiment 0
-    cluster 8
+    cluster 9
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -18180,7 +18181,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -18207,7 +18207,8 @@ graph
     ppprofanity 0.14673337
     ppinflammatory 0.041669406
     sentiment 0
-    cluster 4
+    cluster 5
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -18229,7 +18230,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -18256,7 +18256,8 @@ graph
     ppprofanity 0.065211765
     ppinflammatory 0.09802661
     sentiment 0
-    cluster 7
+    cluster 1
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -18278,7 +18279,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -18304,8 +18304,9 @@ graph
     ppsexuallyexplicit 0.05905788
     ppprofanity 0.043952703
     ppinflammatory 0.1629964
-    sentiment 0.8176
-    cluster 1
+    sentiment 1
+    cluster 2
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -18327,7 +18328,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -18353,8 +18353,9 @@ graph
     ppsexuallyexplicit 0.07939482
     ppprofanity 0.077309884
     ppinflammatory 0.18074624
-    sentiment 0.1779
+    sentiment 0
     cluster 4
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -18376,7 +18377,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -18402,8 +18402,9 @@ graph
     ppsexuallyexplicit 0.4210246
     ppprofanity 0.23458867
     ppinflammatory 0.020491596
-    sentiment 0.2023
-    cluster 1
+    sentiment 0
+    cluster 4
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -18425,7 +18426,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -18451,8 +18451,9 @@ graph
     ppsexuallyexplicit 0.0931294
     ppprofanity 0.11800307
     ppinflammatory 0.3650275
-    sentiment -0.4767
-    cluster 4
+    sentiment -1
+    cluster 6
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -18474,7 +18475,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -18502,6 +18502,7 @@ graph
     ppinflammatory 0.38961485
     sentiment 0
     cluster 5
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -18523,7 +18524,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -18549,8 +18549,9 @@ graph
     ppsexuallyexplicit 0.1787569
     ppprofanity 0.10388573
     ppinflammatory 0.18050463
-    sentiment 0.4939
-    cluster 8
+    sentiment 1
+    cluster 9
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -18572,7 +18573,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -18600,6 +18600,7 @@ graph
     ppinflammatory 0.026055006
     sentiment 0
     cluster 1
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -18621,7 +18622,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -18649,6 +18649,7 @@ graph
     ppinflammatory 0.01840238
     sentiment 0
     cluster 3
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -18670,7 +18671,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -18696,8 +18696,9 @@ graph
     ppsexuallyexplicit 0.101644725
     ppprofanity 0.11689592
     ppinflammatory 0.20361397
-    sentiment 0.1779
+    sentiment 0
     cluster 4
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -18719,7 +18720,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -18745,8 +18745,9 @@ graph
     ppsexuallyexplicit 0.19651216
     ppprofanity 0.1991546
     ppinflammatory 0.14743263
-    sentiment -0.5927
-    cluster 5
+    sentiment -1
+    cluster 6
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -18768,7 +18769,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -18795,7 +18795,8 @@ graph
     ppprofanity 0.027041435
     ppinflammatory 0.47089854
     sentiment 0
-    cluster 7
+    cluster 6
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -18817,7 +18818,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -18844,7 +18844,8 @@ graph
     ppprofanity 0.033423297
     ppinflammatory 0.15112358
     sentiment 0
-    cluster 6
+    cluster 4
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -18866,7 +18867,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -18893,7 +18893,8 @@ graph
     ppprofanity 0.040324993
     ppinflammatory 0.013139281
     sentiment 0
-    cluster 7
+    cluster 5
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -18915,7 +18916,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -18942,7 +18942,8 @@ graph
     ppprofanity 0.032800976
     ppinflammatory 0.0313327
     sentiment 0
-    cluster 3
+    cluster 5
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -18964,7 +18965,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -18990,8 +18990,9 @@ graph
     ppsexuallyexplicit 0.030801976
     ppprofanity 0.011594727
     ppinflammatory 0.15111798
-    sentiment 0.7184
+    sentiment 1
     cluster 1
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -19013,7 +19014,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -19041,6 +19041,7 @@ graph
     ppinflammatory 0.14558867
     sentiment 0
     cluster 3
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -19062,7 +19063,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -19088,8 +19088,9 @@ graph
     ppsexuallyexplicit 0.07607305
     ppprofanity 0.039275434
     ppinflammatory 0.181178
-    sentiment 0.6369
-    cluster 4
+    sentiment 1
+    cluster 8
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -19111,7 +19112,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -19137,8 +19137,9 @@ graph
     ppsexuallyexplicit 0.04063259
     ppprofanity 0.02909965
     ppinflammatory 0.13887654
-    sentiment 0.3182
-    cluster 4
+    sentiment 1
+    cluster 8
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -19160,7 +19161,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -19186,8 +19186,9 @@ graph
     ppsexuallyexplicit 0.3790907
     ppprofanity 0.2811717
     ppinflammatory 0.19537413
-    sentiment -0.4588
+    sentiment 0
     cluster 2
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -19209,7 +19210,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -19236,7 +19236,8 @@ graph
     ppprofanity 0.06668028
     ppinflammatory 0.010210183
     sentiment 0
-    cluster 4
+    cluster 2
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -19258,7 +19259,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -19285,7 +19285,8 @@ graph
     ppprofanity 0.05708254
     ppinflammatory 0.28736228
     sentiment 0
-    cluster 9
+    cluster 5
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -19307,7 +19308,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -19334,7 +19334,8 @@ graph
     ppprofanity 0.07452422
     ppinflammatory 0.06683813
     sentiment 0
-    cluster 4
+    cluster 8
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -19356,7 +19357,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -19383,7 +19383,8 @@ graph
     ppprofanity 0.42812884
     ppinflammatory 0.1668819
     sentiment 0
-    cluster 5
+    cluster 6
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -19405,7 +19406,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -19431,8 +19431,9 @@ graph
     ppsexuallyexplicit 0.1500048
     ppprofanity 0.13517298
     ppinflammatory 0.12451855
-    sentiment 0.4588
-    cluster 6
+    sentiment 0
+    cluster 4
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -19454,7 +19455,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -19481,7 +19481,8 @@ graph
     ppprofanity 0.10187108
     ppinflammatory 0.041719314
     sentiment 0
-    cluster 4
+    cluster 8
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -19503,7 +19504,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -19530,7 +19530,8 @@ graph
     ppprofanity 0.15723027
     ppinflammatory 0.17251746
     sentiment 0
-    cluster 6
+    cluster 4
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -19552,7 +19553,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -19579,7 +19579,8 @@ graph
     ppprofanity 0.25670233
     ppinflammatory 0.18297371
     sentiment 0
-    cluster 5
+    cluster 6
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -19601,7 +19602,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -19627,8 +19627,9 @@ graph
     ppsexuallyexplicit 0.05691851
     ppprofanity 0.06651284
     ppinflammatory 0.1112714
-    sentiment 0.3612
+    sentiment 1
     cluster 1
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -19650,7 +19651,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -19677,7 +19677,8 @@ graph
     ppprofanity 0.37558794
     ppinflammatory 0.0069260253
     sentiment 0
-    cluster 3
+    cluster 7
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -19699,7 +19700,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -19725,8 +19725,9 @@ graph
     ppsexuallyexplicit 0.08745662
     ppprofanity 0.07908629
     ppinflammatory 0.014052699
-    sentiment -0.296
-    cluster 3
+    sentiment 0
+    cluster 7
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -19748,7 +19749,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -19774,8 +19774,9 @@ graph
     ppsexuallyexplicit 0.15889649
     ppprofanity 0.15869196
     ppinflammatory 0.09312658
-    sentiment 0.2023
+    sentiment 0
     cluster 3
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -19797,7 +19798,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -19825,6 +19825,7 @@ graph
     ppinflammatory 0.18627085
     sentiment 0
     cluster 3
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -19846,7 +19847,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -19872,8 +19872,9 @@ graph
     ppsexuallyexplicit 0.040608726
     ppprofanity 0.03048635
     ppinflammatory 0.15717107
-    sentiment -0.4588
+    sentiment 0
     cluster 2
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -19895,7 +19896,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -19921,8 +19921,9 @@ graph
     ppsexuallyexplicit 0.1293174
     ppprofanity 0.15622132
     ppinflammatory 0.281524
-    sentiment -0.5267
-    cluster 4
+    sentiment 0
+    cluster 8
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -19944,7 +19945,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -19971,7 +19971,8 @@ graph
     ppprofanity 0.32312813
     ppinflammatory 0.5680319
     sentiment 0
-    cluster 3
+    cluster 5
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -19993,7 +19994,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -20021,6 +20021,7 @@ graph
     ppinflammatory 0.06683813
     sentiment 0
     cluster 4
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -20042,7 +20043,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -20069,7 +20069,8 @@ graph
     ppprofanity 0.089286804
     ppinflammatory 0.03802586
     sentiment 0
-    cluster 9
+    cluster 5
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -20091,7 +20092,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -20117,8 +20117,9 @@ graph
     ppsexuallyexplicit 0.04233485
     ppprofanity 0.03529219
     ppinflammatory 0.014706431
-    sentiment 0.0516
-    cluster 1
+    sentiment 0
+    cluster 4
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -20140,7 +20141,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -20166,8 +20166,9 @@ graph
     ppsexuallyexplicit 0.07699064
     ppprofanity 0.067469634
     ppinflammatory 0.25990635
-    sentiment -0.128
-    cluster 4
+    sentiment 0
+    cluster 8
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -20189,7 +20190,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -20216,7 +20216,8 @@ graph
     ppprofanity 0.12474934
     ppinflammatory 0.023809886
     sentiment 0
-    cluster 5
+    cluster 6
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -20238,7 +20239,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -20265,7 +20265,8 @@ graph
     ppprofanity 0.04632591
     ppinflammatory 0.25279212
     sentiment 0
-    cluster 5
+    cluster 6
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -20287,7 +20288,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -20314,7 +20314,8 @@ graph
     ppprofanity 0.045062803
     ppinflammatory 0.12780441
     sentiment 0
-    cluster 4
+    cluster 6
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -20336,7 +20337,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -20364,6 +20364,7 @@ graph
     ppinflammatory 0.18779494
     sentiment 0
     cluster 2
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -20385,7 +20386,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -20411,8 +20411,9 @@ graph
     ppsexuallyexplicit 0.13237906
     ppprofanity 0.08413069
     ppinflammatory 0.28587604
-    sentiment 0.0772
-    cluster 4
+    sentiment 0
+    cluster 8
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -20434,7 +20435,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -20460,8 +20460,9 @@ graph
     ppsexuallyexplicit 0.14092639
     ppprofanity 0.28454563
     ppinflammatory 0.29885182
-    sentiment -0.3818
-    cluster 4
+    sentiment 0
+    cluster 8
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -20483,7 +20484,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -20511,6 +20511,7 @@ graph
     ppinflammatory 0.061263233
     sentiment 0
     cluster 1
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -20532,7 +20533,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -20558,8 +20558,9 @@ graph
     ppsexuallyexplicit 0.044173364
     ppprofanity 0.03520736
     ppinflammatory 0.19647615
-    sentiment -0.4588
+    sentiment 0
     cluster 2
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -20581,7 +20582,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -20609,6 +20609,7 @@ graph
     ppinflammatory 0.032670785
     sentiment 0
     cluster 3
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -20630,7 +20631,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -20656,8 +20656,9 @@ graph
     ppsexuallyexplicit 0.08367948
     ppprofanity 0.15134764
     ppinflammatory 0.07638756
-    sentiment 0.2023
-    cluster 4
+    sentiment 0
+    cluster 8
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -20679,7 +20680,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -20706,7 +20706,8 @@ graph
     ppprofanity 0.04677615
     ppinflammatory 0.16364782
     sentiment 0
-    cluster 3
+    cluster 5
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -20728,7 +20729,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -20754,8 +20754,9 @@ graph
     ppsexuallyexplicit 0.13818383
     ppprofanity 0.24351469
     ppinflammatory 0.5953081
-    sentiment -0.1531
-    cluster 4
+    sentiment -1
+    cluster 8
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -20777,7 +20778,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -20804,7 +20804,8 @@ graph
     ppprofanity 0.38481334
     ppinflammatory 0.17684907
     sentiment 0
-    cluster 4
+    cluster 8
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -20826,7 +20827,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -20853,7 +20853,8 @@ graph
     ppprofanity 0.4030294
     ppinflammatory 0.1920003
     sentiment 0
-    cluster 4
+    cluster 6
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -20875,7 +20876,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -20901,8 +20901,9 @@ graph
     ppsexuallyexplicit 0.11717514
     ppprofanity 0.24010754
     ppinflammatory 0.086893104
-    sentiment 0.6486
-    cluster 8
+    sentiment 0
+    cluster 9
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -20924,7 +20925,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -20952,6 +20952,7 @@ graph
     ppinflammatory 0.0984264
     sentiment 0
     cluster 1
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -20973,7 +20974,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -20999,8 +20999,9 @@ graph
     ppsexuallyexplicit 0.01161825
     ppprofanity 0.010714395
     ppinflammatory 0.23979962
-    sentiment 0.34
-    cluster 8
+    sentiment 0
+    cluster 5
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -21022,7 +21023,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -21050,6 +21050,7 @@ graph
     ppinflammatory 0.064590625
     sentiment 0
     cluster 2
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -21071,7 +21072,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -21097,8 +21097,9 @@ graph
     ppsexuallyexplicit 0.26179802
     ppprofanity 0.16637953
     ppinflammatory 0.07529965
-    sentiment 0.4215
-    cluster 7
+    sentiment 1
+    cluster 6
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -21120,7 +21121,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -21148,6 +21148,7 @@ graph
     ppinflammatory 0.03217107
     sentiment 0
     cluster 3
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -21169,7 +21170,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -21195,8 +21195,9 @@ graph
     ppsexuallyexplicit 0.199626
     ppprofanity 0.19501421
     ppinflammatory 0.09443504
-    sentiment -0.296
+    sentiment 0
     cluster 3
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -21218,7 +21219,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -21245,7 +21245,8 @@ graph
     ppprofanity 0.50901794
     ppinflammatory 0.010282035
     sentiment 0
-    cluster 3
+    cluster 5
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -21267,7 +21268,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -21293,8 +21293,9 @@ graph
     ppsexuallyexplicit 0.2616117
     ppprofanity 0.13053823
     ppinflammatory 0.15583904
-    sentiment -0.4588
+    sentiment -1
     cluster 4
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -21316,7 +21317,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -21343,7 +21343,8 @@ graph
     ppprofanity 0.15677527
     ppinflammatory 0.17593195
     sentiment 0
-    cluster 4
+    cluster 6
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -21365,7 +21366,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -21393,6 +21393,7 @@ graph
     ppinflammatory 0.0076973164
     sentiment 0
     cluster 3
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -21414,7 +21415,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -21441,7 +21441,8 @@ graph
     ppprofanity 0.08595711
     ppinflammatory 0.2383321
     sentiment 0
-    cluster 4
+    cluster 2
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -21463,7 +21464,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -21489,8 +21489,9 @@ graph
     ppsexuallyexplicit 0.24003151
     ppprofanity 0.4125624
     ppinflammatory 0.1193196
-    sentiment -0.5994
-    cluster 4
+    sentiment 0
+    cluster 6
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -21512,7 +21513,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -21539,7 +21539,8 @@ graph
     ppprofanity 0.050636694
     ppinflammatory 0.45794553
     sentiment 0
-    cluster 10
+    cluster 4
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -21561,7 +21562,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -21588,7 +21588,8 @@ graph
     ppprofanity 0.06943538
     ppinflammatory 0.38517383
     sentiment 0
-    cluster 4
+    cluster 8
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -21610,7 +21611,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -21636,8 +21636,9 @@ graph
     ppsexuallyexplicit 0.06927113
     ppprofanity 0.051551282
     ppinflammatory 0.28551623
-    sentiment -0.4588
-    cluster 11
+    sentiment 0
+    cluster 10
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -21659,7 +21660,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -21687,6 +21687,7 @@ graph
     ppinflammatory 0.026191305
     sentiment 0
     cluster 3
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -21708,7 +21709,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -21734,8 +21734,9 @@ graph
     ppsexuallyexplicit 0.13338327
     ppprofanity 0.10263137
     ppinflammatory 0.05870885
-    sentiment 0.6369
-    cluster 4
+    sentiment 1
+    cluster 8
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -21757,7 +21758,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -21785,6 +21785,7 @@ graph
     ppinflammatory 0.19968183
     sentiment 0
     cluster 1
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -21806,7 +21807,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -21832,8 +21832,9 @@ graph
     ppsexuallyexplicit 0.054761637
     ppprofanity 0.08294406
     ppinflammatory 0.27913162
-    sentiment 0
-    cluster 9
+    sentiment 1
+    cluster 5
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -21855,7 +21856,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -21881,8 +21881,9 @@ graph
     ppsexuallyexplicit 0.08523693
     ppprofanity 0.13091657
     ppinflammatory 0.2994305
-    sentiment 0.4215
-    cluster 4
+    sentiment 0
+    cluster 8
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -21904,7 +21905,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -21931,7 +21931,8 @@ graph
     ppprofanity 0.16305748
     ppinflammatory 0.291955
     sentiment 0
-    cluster 4
+    cluster 8
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -21953,7 +21954,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -21979,8 +21979,9 @@ graph
     ppsexuallyexplicit 0.5190629
     ppprofanity 0.3331936
     ppinflammatory 0.10320491
-    sentiment 0.3182
-    cluster 4
+    sentiment 0
+    cluster 8
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -22002,7 +22003,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -22028,8 +22028,9 @@ graph
     ppsexuallyexplicit 0.17599316
     ppprofanity 0.22571154
     ppinflammatory 0.2474854
-    sentiment 0.1779
-    cluster 8
+    sentiment 0
+    cluster 5
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -22051,7 +22052,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -22079,6 +22079,7 @@ graph
     ppinflammatory 0.14618815
     sentiment 0
     cluster 3
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -22100,7 +22101,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -22126,8 +22126,9 @@ graph
     ppsexuallyexplicit 0.18012644
     ppprofanity 0.07178916
     ppinflammatory 0.19817433
-    sentiment -0.4215
-    cluster 6
+    sentiment -1
+    cluster 4
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -22149,7 +22150,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -22175,8 +22175,9 @@ graph
     ppsexuallyexplicit 0.04539212
     ppprofanity 0.03691631
     ppinflammatory 0.32234377
-    sentiment 0.1779
-    cluster 8
+    sentiment 0
+    cluster 5
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -22198,7 +22199,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -22224,8 +22224,9 @@ graph
     ppsexuallyexplicit 0.043857098
     ppprofanity 0.035544418
     ppinflammatory 0.381725
-    sentiment 0.3612
-    cluster 4
+    sentiment 1
+    cluster 8
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -22247,7 +22248,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -22275,6 +22275,7 @@ graph
     ppinflammatory 0.016286293
     sentiment 0
     cluster 3
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -22296,7 +22297,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -22323,7 +22323,8 @@ graph
     ppprofanity 0.3928419
     ppinflammatory 0.020654839
     sentiment 0
-    cluster 10
+    cluster 4
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -22345,7 +22346,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -22372,7 +22372,8 @@ graph
     ppprofanity 0.25135174
     ppinflammatory 0.2467545
     sentiment 0
-    cluster 3
+    cluster 5
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -22394,7 +22395,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -22420,8 +22420,9 @@ graph
     ppsexuallyexplicit 0.18087451
     ppprofanity 0.09383526
     ppinflammatory 0.26528978
-    sentiment -0.3818
-    cluster 8
+    sentiment 0
+    cluster 5
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -22443,7 +22444,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -22470,7 +22470,8 @@ graph
     ppprofanity 0.10718355
     ppinflammatory 0.20573562
     sentiment 0
-    cluster 4
+    cluster 8
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -22492,7 +22493,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -22518,8 +22518,9 @@ graph
     ppsexuallyexplicit 0.15187687
     ppprofanity 0.26562262
     ppinflammatory 0.30026746
-    sentiment 0.5859
+    sentiment 0
     cluster 2
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -22541,7 +22542,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -22568,7 +22568,8 @@ graph
     ppprofanity 0.23158388
     ppinflammatory 0.044577442
     sentiment 0
-    cluster 3
+    cluster 5
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -22590,7 +22591,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -22618,6 +22618,7 @@ graph
     ppinflammatory 0.05790353
     sentiment 0
     cluster 3
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -22639,7 +22640,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -22665,8 +22665,9 @@ graph
     ppsexuallyexplicit 0.06919896
     ppprofanity 0.07582858
     ppinflammatory 0.09412444
-    sentiment 0.128
+    sentiment 0
     cluster 1
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -22688,7 +22689,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -22716,6 +22716,7 @@ graph
     ppinflammatory 0.08505111
     sentiment 0
     cluster 1
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -22737,7 +22738,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -22765,6 +22765,7 @@ graph
     ppinflammatory 0.21608423
     sentiment 0
     cluster 3
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -22786,7 +22787,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -22813,7 +22813,8 @@ graph
     ppprofanity 0.094714284
     ppinflammatory 0.17232986
     sentiment 0
-    cluster 11
+    cluster 10
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -22835,7 +22836,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -22861,8 +22861,9 @@ graph
     ppsexuallyexplicit 0.15542172
     ppprofanity 0.094238676
     ppinflammatory 0.11965238
-    sentiment 0.5994
-    cluster 5
+    sentiment 0
+    cluster 6
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -22884,7 +22885,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -22910,8 +22910,9 @@ graph
     ppsexuallyexplicit 0.14287587
     ppprofanity 0.1822749
     ppinflammatory 0.040105656
-    sentiment 0.7783
-    cluster 2
+    sentiment 1
+    cluster 8
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -22933,7 +22934,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -22959,8 +22959,9 @@ graph
     ppsexuallyexplicit 0.121852346
     ppprofanity 0.112638034
     ppinflammatory 0.055965863
-    sentiment -0.3818
-    cluster 4
+    sentiment 0
+    cluster 8
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -22982,7 +22983,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -23009,7 +23009,8 @@ graph
     ppprofanity 0.114286594
     ppinflammatory 0.11639499
     sentiment 0
-    cluster 3
+    cluster 4
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -23031,7 +23032,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -23059,6 +23059,7 @@ graph
     ppinflammatory 0.43744814
     sentiment 0
     cluster 2
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -23080,7 +23081,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -23107,7 +23107,8 @@ graph
     ppprofanity 0.042355165
     ppinflammatory 0.18958044
     sentiment 0
-    cluster 3
+    cluster 5
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -23129,7 +23130,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -23155,8 +23155,9 @@ graph
     ppsexuallyexplicit 0.18422346
     ppprofanity 0.16940874
     ppinflammatory 0.08885261
-    sentiment 0
-    cluster 9
+    sentiment -1
+    cluster 5
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -23178,7 +23179,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -23205,7 +23205,8 @@ graph
     ppprofanity 0.15173994
     ppinflammatory 0.18409199
     sentiment 0
-    cluster 10
+    cluster 4
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -23227,7 +23228,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -23253,8 +23253,9 @@ graph
     ppsexuallyexplicit 0.07978045
     ppprofanity 0.04824922
     ppinflammatory 0.039497897
-    sentiment 0.2023
+    sentiment 0
     cluster 3
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -23276,7 +23277,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -23304,6 +23304,7 @@ graph
     ppinflammatory 0.09053537
     sentiment 0
     cluster 3
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -23325,7 +23326,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -23352,7 +23352,8 @@ graph
     ppprofanity 0.049485736
     ppinflammatory 0.118087836
     sentiment 0
-    cluster 7
+    cluster 2
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -23374,7 +23375,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -23402,6 +23402,7 @@ graph
     ppinflammatory 0.0076973164
     sentiment 0
     cluster 3
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -23423,7 +23424,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -23451,6 +23451,7 @@ graph
     ppinflammatory 0.0151156895
     sentiment 0
     cluster 3
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -23472,7 +23473,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -23500,6 +23500,7 @@ graph
     ppinflammatory 0.16477983
     sentiment 0
     cluster 2
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -23521,7 +23522,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -23549,6 +23549,7 @@ graph
     ppinflammatory 0.3138871
     sentiment 0
     cluster 3
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -23570,7 +23571,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -23597,7 +23597,8 @@ graph
     ppprofanity 0.22872314
     ppinflammatory 0.048243
     sentiment 0
-    cluster 3
+    cluster 7
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -23619,7 +23620,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -23645,8 +23645,9 @@ graph
     ppsexuallyexplicit 0.13257056
     ppprofanity 0.12099238
     ppinflammatory 0.018091796
-    sentiment -0.3818
+    sentiment 0
     cluster 1
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -23668,7 +23669,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -23694,8 +23694,9 @@ graph
     ppsexuallyexplicit 0.13446376
     ppprofanity 0.12996289
     ppinflammatory 0.12515081
-    sentiment 0.3182
-    cluster 9
+    sentiment 0
+    cluster 5
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -23717,7 +23718,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -23743,8 +23743,9 @@ graph
     ppsexuallyexplicit 0.18081382
     ppprofanity 0.1638631
     ppinflammatory 0.017166657
-    sentiment -0.5574
+    sentiment 0
     cluster 3
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -23766,7 +23767,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -23794,6 +23794,7 @@ graph
     ppinflammatory 0.042716816
     sentiment 0
     cluster 3
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -23815,7 +23816,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -23841,8 +23841,9 @@ graph
     ppsexuallyexplicit 0.1637461
     ppprofanity 0.14380746
     ppinflammatory 0.058193535
-    sentiment -0.128
-    cluster 3
+    sentiment 0
+    cluster 5
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -23864,7 +23865,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -23892,6 +23892,7 @@ graph
     ppinflammatory 0.08986206
     sentiment 0
     cluster 3
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -23913,7 +23914,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -23939,8 +23939,9 @@ graph
     ppsexuallyexplicit 0.14959098
     ppprofanity 0.14903699
     ppinflammatory 0.061820373
-    sentiment 0.4939
-    cluster 3
+    sentiment 0
+    cluster 5
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -23962,7 +23963,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -23989,7 +23989,8 @@ graph
     ppprofanity 0.079208516
     ppinflammatory 0.12073653
     sentiment 0
-    cluster 1
+    cluster 4
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -24011,7 +24012,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -24038,7 +24038,8 @@ graph
     ppprofanity 0.051161904
     ppinflammatory 0.18394737
     sentiment 0
-    cluster 5
+    cluster 6
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -24060,7 +24061,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -24088,6 +24088,7 @@ graph
     ppinflammatory 0.16353409
     sentiment 0
     cluster 3
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -24109,7 +24110,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -24136,7 +24136,8 @@ graph
     ppprofanity 0.1429669
     ppinflammatory 0.025872974
     sentiment 0
-    cluster 5
+    cluster 6
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -24158,7 +24159,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -24184,8 +24184,9 @@ graph
     ppsexuallyexplicit 0.22805844
     ppprofanity 0.22028229
     ppinflammatory 0.028222064
-    sentiment -0.296
+    sentiment 0
     cluster 3
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -24207,7 +24208,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -24234,7 +24234,8 @@ graph
     ppprofanity 0.42334327
     ppinflammatory 0.08718043
     sentiment 0
-    cluster 3
+    cluster 5
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -24256,7 +24257,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -24284,6 +24284,7 @@ graph
     ppinflammatory 0.08421437
     sentiment 0
     cluster 3
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -24305,7 +24306,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -24333,6 +24333,7 @@ graph
     ppinflammatory 0.19868632
     sentiment 0
     cluster 3
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -24354,7 +24355,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -24382,6 +24382,7 @@ graph
     ppinflammatory 0.23468061
     sentiment 0
     cluster 3
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -24403,7 +24404,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -24431,6 +24431,7 @@ graph
     ppinflammatory 0.031449724
     sentiment 0
     cluster 2
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -24452,7 +24453,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -24478,8 +24478,9 @@ graph
     ppsexuallyexplicit 0.03440402
     ppprofanity 0.030997744
     ppinflammatory 0.2197753
-    sentiment 0
+    sentiment 1
     cluster 3
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -24501,7 +24502,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -24529,6 +24529,7 @@ graph
     ppinflammatory 0.008868611
     sentiment 0
     cluster 3
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -24550,7 +24551,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -24576,8 +24576,9 @@ graph
     ppsexuallyexplicit 0.12692825
     ppprofanity 0.31268758
     ppinflammatory 0.0024807337
-    sentiment -0.296
-    cluster 4
+    sentiment 0
+    cluster 8
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -24599,7 +24600,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -24627,6 +24627,7 @@ graph
     ppinflammatory 0.025799895
     sentiment 0
     cluster 4
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -24648,7 +24649,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -24675,7 +24675,8 @@ graph
     ppprofanity 0.32336712
     ppinflammatory 0.016828658
     sentiment 0
-    cluster 5
+    cluster 6
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -24697,7 +24698,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -24725,6 +24725,7 @@ graph
     ppinflammatory 0.010416894
     sentiment 0
     cluster 3
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -24746,7 +24747,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -24772,8 +24772,9 @@ graph
     ppsexuallyexplicit 0.13485982
     ppprofanity 0.16358615
     ppinflammatory 0.11417473
-    sentiment -0.296
+    sentiment 0
     cluster 3
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -24795,7 +24796,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -24822,7 +24822,8 @@ graph
     ppprofanity 0.039512716
     ppinflammatory 0.042622667
     sentiment 0
-    cluster 3
+    cluster 5
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -24844,7 +24845,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -24870,8 +24870,9 @@ graph
     ppsexuallyexplicit 0.1438785
     ppprofanity 0.09665519
     ppinflammatory 0.013429199
-    sentiment -0.296
-    cluster 3
+    sentiment 0
+    cluster 5
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -24893,7 +24894,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -24919,8 +24919,9 @@ graph
     ppsexuallyexplicit 0.14417732
     ppprofanity 0.14973637
     ppinflammatory 0.09855669
-    sentiment -0.296
-    cluster 3
+    sentiment 0
+    cluster 7
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -24942,7 +24943,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   node
   [
@@ -24968,8 +24968,9 @@ graph
     ppsexuallyexplicit 0.138939
     ppprofanity 0.12656909
     ppinflammatory 0.2706394
-    sentiment 0.34
-    cluster 3
+    sentiment 0
+    cluster 5
+    leftright "FALSE"
     AntiSJW 0
     AntiTheist 0
     Black 0
@@ -24991,7 +24992,6 @@ graph
     SocialJustice 0
     StateFunded 0
     WhiteIdentitarian 0
-    leftright "FALSE"
   ]
   edge
   [
