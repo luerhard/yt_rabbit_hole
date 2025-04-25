@@ -69,3 +69,9 @@ stargazer(m_mod, m_deg, m_gin, type="latex",
 
 
 centr_degree(g, loops=F)
+
+summary(lm(modularity ~ avg_degree, data=df[df$category=="Conspiracy",]))
+cor.test(df[df$category=="Conspiracy",]$modularity, df[df$category=="Conspiracy",]$avg_degree)
+cor.test(df[df$category=="Science",]$modularity, df[df$category=="Science",]$avg_degree)
+cor.test(df[df$category=="News",]$modularity, df[df$category=="News",]$avg_degree)
+cor.test(df[df$category=="Non-controversial",]$modularity, df[df$category=="Non-controversial",]$avg_degree)
