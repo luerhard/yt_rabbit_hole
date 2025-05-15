@@ -1,6 +1,7 @@
 
 # Folder structure
 
+```
 ├── data
 │   ├── analysis # models and processed sentiment scores
 │   ├── clean # additional cleaned data during analysis
@@ -12,6 +13,7 @@
 ├── Rcode # actual analysis
 ├── src # python code for data collection
 └── tests # some test for the data collection code
+```
 
 
 # Installation
